@@ -1,9 +1,9 @@
 {
-  "id": "USERNAME/news-image-generator3",
-  "title": "news_image_generator3",
-  "code_file": "script.py",
+  "id": "USERNAME/news-image-generator4",
+  "title": "news_image_generator4",
+  "code_file": "notebook.ipynb",
   "language": "python",
-  "kernel_type": "script",
+  "kernel_type": "notebook",
   "is_private": "true",
   "enable_gpu": "true",
   "dataset_sources": [],
