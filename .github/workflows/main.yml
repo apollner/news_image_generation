@@ -31,8 +31,17 @@ jobs:
 
     - name: Push Script to Kaggle
       run: |
-        kaggle kernels push -p ./path/to/your/kernel
+        kaggle kernels push -p script.py
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/my-kernel -p ./path/to/output
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p ../../
+
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md output.png
+        git commit -m "Update README and output image" -a
+        git push
