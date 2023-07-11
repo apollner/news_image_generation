@@ -35,7 +35,7 @@ jobs:
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator6 -p .
 
 
     - name: Commit and push changes
