@@ -29,7 +29,13 @@ jobs:
         code_file: notebook.ipynb
         language: python
         kernel_type: notebook
-
+        
+    - name: Wait for Kaggle kernel to finish
+      run: |
+        while [[ "$(kaggle kernels status ${{ secrets.KAGGLE_USERNAME }}/${{ github.sha }}" != *"complete"* ]]; do
+          echo "Waiting for kernel to finish..."
+          sleep 15
+        done
 
 
     - name: Retrieve Output from Kaggle
