@@ -31,11 +31,11 @@ jobs:
 
     - name: Push Script to Kaggle
       run: |
-        kaggle kernels push -p ../../script.py
+        kaggle kernels push -p .
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p ../../
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p .
 
 
     - name: Commit and push changes
