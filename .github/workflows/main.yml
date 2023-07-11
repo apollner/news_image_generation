@@ -30,10 +30,6 @@ jobs:
     - name: Push Script to Kaggle
       run: |
         kaggle kernels push -p .
-        
-    - name: Revert changes to kernel-metadata.json
-      run: |
-        git checkout -- kernel-metadata.json
 
     - name: Wait for Kaggle kernel to finish
       run: |
@@ -45,6 +41,10 @@ jobs:
     - name: Retrieve Output from Kaggle
       run: |
         kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p .
+
+    - name: Revert changes to kernel-metadata.json
+      run: |
+        git checkout -- kernel-metadata.json
 
     - name: Commit and push changes
       run: |
