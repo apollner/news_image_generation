@@ -37,6 +37,8 @@ jobs:
     - name: Wait for Kaggle kernel to finish
       run: |
         while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/${KERNEL_NAME})" != *"complete"* ]]; do
+          STATUS=$(kaggle kernels status ${KAGGLE_USERNAME}/${KERNEL_NAME})
+          echo "Kernel status: $STATUS"
           echo "Waiting for kernel to finish..."
           sleep 15
         done
