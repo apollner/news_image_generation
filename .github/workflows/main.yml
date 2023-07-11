@@ -23,8 +23,6 @@ jobs:
       run: |
         pip install kaggle
 
-
-
     - name: Prepare kernel metadata
       run: |
         sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
@@ -33,10 +31,16 @@ jobs:
       run: |
         kaggle kernels push -p .
 
+    - name: Wait for Kaggle kernel to finish
+      run: |
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator8)" != *"complete"* ]]; do
+          echo "Waiting for kernel to finish..."
+          sleep 60
+        done
+
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator7 -p .
-
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator8 -p .
 
     - name: Commit and push changes
       run: |
