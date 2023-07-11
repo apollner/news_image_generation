@@ -27,8 +27,8 @@ jobs:
       run: |
         KERNEL_NAME=news_image_generator$(date +%Y%m%d%H%M%S)
         sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
-        sed -i 's/news-image-generator/${KERNEL_NAME}/g' kernel-metadata.json
-        sed -i 's/news_image_generator/${KERNEL_NAME}/g' kernel-metadata.json
+        sed -i "s/news-image-generator/${KERNEL_NAME}/g" kernel-metadata.json
+        sed -i "s/news_image_generator/${KERNEL_NAME}/g" kernel-metadata.json
 
     - name: Push Script to Kaggle
       run: |
