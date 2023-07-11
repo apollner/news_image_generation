@@ -25,7 +25,7 @@ jobs:
 
     - name: Prepare kernel metadata
       run: |
-        sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
+        sed -i 's/USERNAME/'"${KAGGLE_USERNAME}"'/g' kernel-metadata.json
 
     - name: Push Script to Kaggle
       run: |
