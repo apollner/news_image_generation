@@ -27,20 +27,24 @@ jobs:
       run: |
         sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
 
+        KERNEL_NAME=news_image_generator$(date +%Y%m%d%H%M%S)
+        sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
+        sed -i 's/news-image-generator/${KERNEL_NAME}/g' kernel-metadata.json
+
     - name: Push Script to Kaggle
       run: |
         kaggle kernels push -p .
 
     - name: Wait for Kaggle kernel to finish
       run: |
-        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator8)" != *"complete"* ]]; do
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/${KERNEL_NAME}" != *"complete"* ]]; do
           echo "Waiting for kernel to finish..."
           sleep 60
         done
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator8 -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/${KERNEL_NAME} -p .
 
     - name: Commit and push changes
       run: |
@@ -49,3 +53,4 @@ jobs:
         git add README.md image.png
         git commit -m "Update README and output image" -a
         git push
+
