@@ -31,7 +31,7 @@ jobs:
 
     - name: Push Script to Kaggle
       run: |
-        kaggle kernels push -p script.py
+        kaggle kernels push -p ../../script.py
 
     - name: Retrieve Output from Kaggle
       run: |
