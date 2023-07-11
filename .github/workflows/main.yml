@@ -30,17 +30,21 @@ jobs:
     - name: Push Script to Kaggle
       run: |
         kaggle kernels push -p .
+        
+    - name: Revert changes to kernel-metadata.json
+      run: |
+        git checkout -- kernel-metadata.json
 
     - name: Wait for Kaggle kernel to finish
       run: |
-        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator10)" != *"complete"* ]]; do
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator)" != *"complete"* ]]; do
           echo "Waiting for kernel to finish..."
           sleep 15
         done
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator10 -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p .
 
     - name: Commit and push changes
       run: |
