@@ -13,10 +13,6 @@ model_id = "runwayml/stable-diffusion-v1-5"
 pipe = StableDiffusionPipeline.from_pretrained(
     model_id, torch_dtype=torch.float16)
 pipe = pipe.to("cuda")
-processor = BlipProcessor.from_pretrained(
-    "Salesforce/blip-image-captioning-large")
-model = BlipForConditionalGeneration.from_pretrained(
-    "Salesforce/blip-image-captioning-large").to("cuda")
 
 # Check if the prompt file exists
 if os.path.exists('prompt.txt'):
@@ -25,19 +21,14 @@ if os.path.exists('prompt.txt'):
         prompt = f.read().strip()
 else:
     # If the prompt file does not exist, use a default prompt
-    prompt = "Live updates: SpaceX targeting late Florida launch of Starlink satellites"
+    prompt = "temple in ruines, forest, stairs, columns, cinematic, detailed, atmospheric, \
+                epic, concept art, Matte painting, background, mist, photo-realistic, \
+                concept art, volumetric light, cinematic epic + rule of thirds octane render, \
+                8k, corona render, movie concept art, octane render, cinematic, \
+                trending on artstation"
 
 # Generate an image from the prompt
 image = pipe(prompt).images[0]
-
-# Generate a prompt from the image
-inputs = processor(image, return_tensors="pt").to("cuda")
-out = model.generate(**inputs)
-prompt = (processor.decode(out[0], skip_special_tokens=True))
-
-# Save the prompt to a file
-with open('prompt.txt', 'w') as f:
-    f.write(prompt)
 
 # Save the image to a file
 plt.imsave('image.png', image)
