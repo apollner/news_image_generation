@@ -6,7 +6,9 @@ on:
 jobs:
   run_script:
     runs-on: ubuntu-latest
-
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
 
     steps:
     - name: Checkout code
@@ -17,30 +19,28 @@ jobs:
       with:
         python-version: 3.8
 
+    - name: Install dependencies
+      run: |
+        pip install kaggle
 
-    - uses: harupy/push-kaggle-kernel@master
-      env:
-        # Do not leak your credentials.
-        KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
-      with:
-        id: ${{ secrets.KAGGLE_USERNAME }}/${{ github.sha }}
-        title: ${{ github.sha }}
-        code_file: notebook.ipynb
-        language: python
-        kernel_type: notebook
-        
+    - name: Prepare kernel metadata
+      run: |
+        sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
+
+    - name: Push Script to Kaggle
+      run: |
+        kaggle kernels push -p .
+
     - name: Wait for Kaggle kernel to finish
       run: |
-        while [[ "$(kaggle kernels status ${{ secrets.KAGGLE_USERNAME }}/${{ github.sha }})" != *"complete"* ]]; do
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator10)" != *"complete"* ]]; do
           echo "Waiting for kernel to finish..."
           sleep 15
         done
 
-
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${{ secrets.KAGGLE_USERNAME }}/${{ github.sha }} -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator10 -p .
 
     - name: Commit and push changes
       run: |
