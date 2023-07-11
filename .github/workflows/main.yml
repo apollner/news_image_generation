@@ -33,14 +33,14 @@ jobs:
 
     - name: Wait for Kaggle kernel to finish
       run: |
-        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator)" != *"complete"* ]]; do
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generation)" != *"complete"* ]]; do
           echo "Waiting for kernel to finish..."
           sleep 15
         done
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generation -p .
 
     - name: Revert changes to kernel-metadata.json
       run: |
