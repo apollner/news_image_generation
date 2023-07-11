@@ -1,3 +1,3 @@
 ![Generated Image](image.png)
 
-Prompt: Live updates: SpaceX targeting late Florida launch of Starlink satellites
+Prompt: A solar storm on Thursday is expected to make the northern lights visible in 17 states
