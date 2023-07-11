@@ -25,7 +25,10 @@ jobs:
 
     - name: Prepare kernel metadata
       run: |
+        KERNEL_NAME=news_image_generator$(date +%Y%m%d%H%M%S)
         sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
+        sed -i "s/news-image-generator/${KERNEL_NAME}/g" kernel-metadata.json
+        sed -i "s/news_image_generator/${KERNEL_NAME}/g" kernel-metadata.json
 
     - name: Push Script to Kaggle
       run: |
@@ -33,14 +36,14 @@ jobs:
 
     - name: Wait for Kaggle kernel to finish
       run: |
-        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/news-image-generator)" != *"complete"* ]]; do
+        while [[ "$(kaggle kernels status ${KAGGLE_USERNAME}/${KERNEL_NAME})" != *"complete"* ]]; do
           echo "Waiting for kernel to finish..."
           sleep 15
         done
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output ${KAGGLE_USERNAME}/news-image-generator -p .
+        kaggle kernels output ${KAGGLE_USERNAME}/${KERNEL_NAME} -p .
 
     - name: Commit and push changes
       run: |
