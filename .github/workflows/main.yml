@@ -42,6 +42,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md output.png
+        git add README.md image.png
         git commit -m "Update README and output image" -a
         git push
