@@ -1,6 +1,6 @@
 {
-  "id": "aronpollner/news-image-generator10",
-  "title": "news_image_generator10",
+  "id": "USERNAME/news-image-generator",
+  "title": "news_image_generator",
   "code_file": "notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
