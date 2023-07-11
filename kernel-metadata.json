@@ -1,6 +1,6 @@
 {
-  "id": "${KAGGLE_USERNAME}/news-image-generator",
-  "title": "news_image_generator",
+  "id": "${KAGGLE_USERNAME}/news-image-generator9",
+  "title": "news_image_generator9",
   "code_file": "notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
