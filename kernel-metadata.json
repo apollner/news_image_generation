@@ -1,5 +1,5 @@
 {
-  "id": "USERNAME/news-image-generator8",
+  "id": "${KAGGLE_USERNAME}/news-image-generator8",
   "title": "news_image_generator8",
   "code_file": "notebook.ipynb",
   "language": "python",
