@@ -6,6 +6,9 @@ on:
 jobs:
   run_script:
     runs-on: ubuntu-latest
+    env:
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
 
     steps:
     - name: Checkout code
@@ -20,14 +23,11 @@ jobs:
       run: |
         pip install kaggle
 
-    - name: Configure Kaggle
-      run: |
-        echo '{"username":"${{ secrets.KAGGLE_USERNAME }}","key":"${{ secrets.KAGGLE_KEY }}"}' > $HOME/.kaggle/kaggle.json
-        chmod 600 $HOME/.kaggle/kaggle.json
+
 
     - name: Prepare kernel metadata
       run: |
-        sed -i 's/USERNAME/${{ secrets.KAGGLE_USERNAME }}/g' ./path/to/your/kernel/kernel-metadata.json
+        sed -i 's/USERNAME/${KAGGLE_USERNAME}/g' kernel-metadata.json
 
     - name: Push Script to Kaggle
       run: |
@@ -35,5 +35,4 @@ jobs:
 
     - name: Retrieve Output from Kaggle
       run: |
-        kaggle kernels output username/my-kernel -p ./path/to/output
-
+        kaggle kernels output ${KAGGLE_USERNAME}/my-kernel -p ./path/to/output
