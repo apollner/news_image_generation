@@ -28,6 +28,10 @@ jobs:
       run: |
         sed -i 's/USERNAME/'"${KAGGLE_USERNAME}"'/g' kernel-metadata.json
 
+    - name: Replace placeholder token in notebook
+      run: |
+        sed -i 's/hf_token/'"${HUGGINGFACE_TOKEN}"'/g' your_notebook.ipynb
+
     - name: Push Script to Kaggle
       run: |
         kaggle kernels push -p .
@@ -43,9 +47,10 @@ jobs:
       run: |
         kaggle kernels output ${KAGGLE_USERNAME}/news-image-generation -p .
 
-    - name: Revert changes to kernel-metadata.json
+    - name: Revert changes to kernel-metadata.json and notebook
       run: |
         git checkout -- kernel-metadata.json
+        git checkout -- your_notebook.ipynb
 
     - name: Commit and push changes
       run: |
