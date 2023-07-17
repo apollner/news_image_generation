@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Alabama rushes to adopt new congressional map amid disagreement on what district should look like
+Prompt: Missing Alabama woman who reported child on highway returns home following two-day search
 
-[Read more](https://abcnews.go.com/US/wireStory/alabama-rushes-adopt-new-congressional-map-amid-disagreement-101323565)
+[Read more](https://www.montgomeryadvertiser.com/story/news/2023/07/16/missing-alabama-woman-who-reported-child-on-highway-returns-home/70418134007/)
