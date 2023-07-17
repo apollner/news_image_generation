@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Iran’s ‘morality police’ resume patrols 10 months after nationwide protests
+Prompt: Steph Curry wins 2023 American Century Championship with eagle on 18
 
-[Read more](https://www.theguardian.com/world/2023/jul/17/irans-morality-police-resume-patrols-10-months-after-nationwide-protests)
+[Read more](https://www.usatoday.com/story/sports/golf/2023/07/16/steph-curry-wins-2023-american-century-championship-eagle/70418780007/)
