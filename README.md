@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: East Ukraine fighting ‘intensifies’ as Putin dismisses offensive
+Prompt: Suspect in Georgia mass shooting killed during manhunt, sheriff says
 
-[Read more](https://www.aljazeera.com/news/2023/7/16/east-ukraine-fighting-intensifies-as-putin-dismisses-offensive)
+[Read more](https://abcnews.go.com/US/4-killed-mass-shooting-georgia-shooter-remains-loose/story?id=101312326)
