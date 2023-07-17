@@ -2,6 +2,9 @@ name: Run Kaggle Script
 
 on:
   push:
+  schedule:
+    - cron:  '*/5 * * * *'  # This will run the script every 5 minutes
+
 
 jobs:
   run_script:
