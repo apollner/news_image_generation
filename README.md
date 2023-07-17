@@ -1,3 +1,5 @@
 ![Generated Image](image.png)
 
-Prompt: DeAndre Hopkins agrees to sign with Titans - NBC Sports
+Prompt: McCaul ‘very confident’ NDAA will be a bipartisan bill
+
+[Read more](https://thehill.com/homenews/4100215-mccaul-very-confident-ndaa-will-be-a-bipartisan-bill/)
