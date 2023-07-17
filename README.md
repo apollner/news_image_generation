@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Amazon's 60+ best post–Prime Day deals to shop this weekend
+Prompt: Microsoft-Sony agreement opens way to seal $75bn Activision deal
 
-[Read more](https://www.yahoo.com/lifestyle/amazon-deals-weekend-sale-192655064.html)
+[Read more](https://www.ft.com/content/e994562a-5a3c-4f81-b76c-6010e72bc490)
