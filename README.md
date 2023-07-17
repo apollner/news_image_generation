@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Gravity Still Holds: Einstein's Relativity Theory Stands Strong After Quantum Challenge
+Prompt: Opinion | Hollywood strikes happen when tech companies get too powerful
 
-[Read more](https://scitechdaily.com/gravity-still-holds-einsteins-relativity-theory-stands-strong-after-quantum-challenge/)
+[Read more](https://www.washingtonpost.com/opinions/2023/07/16/hollywood-strikers-actors-writers-tech-companies/)
