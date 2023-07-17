@@ -10,7 +10,7 @@ jobs:
       KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
       KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
       HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
-
+      NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
@@ -31,6 +31,7 @@ jobs:
     - name: Replace placeholder token in notebook
       run: |
         sed -i 's/hf_token/'"${HUGGINGFACE_TOKEN}"'/g' notebook.ipynb
+        sed -i 's/api_key/'"${NEWSAPI_KEY}"'/g' notebook.ipynb
 
     - name: Push Script to Kaggle
       run: |
