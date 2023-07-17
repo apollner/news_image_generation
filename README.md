@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Actress and singer Jane Birkin dies, France loses an 'icon'
+Prompt: H-E-B celebrates National Ice Cream Day with free pint of ice cream
 
-[Read more](https://www.reuters.com/world/uk/british-actress-singer-jane-birkin-dies-french-media-2023-07-16/)
+[Read more](https://www.valleycentral.com/news/local-news/h-e-b-celebrates-national-ice-cream-day-with-free-pint-of-ice-cream/)
