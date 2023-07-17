@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stocks are riding a wave of optimism as U.S. inflation recedes, but there are dangers lurking
+Prompt: Inter Miami CF Signs Legendary Midfielder Sergio Busquets
 
-[Read more](https://www.marketwatch.com/story/stocks-are-riding-a-wave-of-optimism-as-u-s-inflation-recedes-but-there-are-dangers-lurking-8b3ba511)
+[Read more](https://www.intermiamicf.com/news/inter-miami-cf-signs-legendary-midfielder-sergio-busquets)
