@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: H-E-B celebrates National Ice Cream Day with free pint of ice cream
+Prompt: Relentless heat wave reaching maximum strength: Live weather updates
 
-[Read more](https://www.valleycentral.com/news/local-news/h-e-b-celebrates-national-ice-cream-day-with-free-pint-of-ice-cream/)
+[Read more](https://www.washingtonpost.com/weather/2023/07/16/extreme-heat-waves-temperatures-outlook-updates/)
