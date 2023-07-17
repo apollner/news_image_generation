@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Microsoft-Sony agreement opens way to seal $75bn Activision deal
+Prompt: East Ukraine fighting ‘intensifies’ as Putin dismisses offensive
 
-[Read more](https://www.ft.com/content/e994562a-5a3c-4f81-b76c-6010e72bc490)
+[Read more](https://www.aljazeera.com/news/2023/7/16/east-ukraine-fighting-intensifies-as-putin-dismisses-offensive)
