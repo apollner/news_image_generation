@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Relentless heat wave reaching maximum strength: Live weather updates
+Prompt: Amazon's 60+ best post–Prime Day deals to shop this weekend
 
-[Read more](https://www.washingtonpost.com/weather/2023/07/16/extreme-heat-waves-temperatures-outlook-updates/)
+[Read more](https://www.yahoo.com/lifestyle/amazon-deals-weekend-sale-192655064.html)
