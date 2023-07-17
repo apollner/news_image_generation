@@ -1,5 +1,5 @@
 ![Generated Image](image.png)
 
-Prompt: NASCAR Cup Series race at New Hampshire postponed to Monday due to rain
+Prompt: Powerball results for 07/15/23; no winner of $829M jackpot, ticket sales fall short of expectations
 
-[Read more](https://www.foxsports.com/stories/nascar/cup-series-race-at-new-hampshire-postponed-to-monday-due-to-rain)
+[Read more](https://www.mlive.com/lottery/2023/07/powerball-results-for-071523-no-winner-of-829m-jackpot-ticket-sales-fall-short-of-expectations.html)
