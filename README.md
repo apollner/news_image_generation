@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Carlos Alcaraz defeats Novak Djokovic in epic Wimbledon showdown
+Prompt: Missing Alabama woman who reported child on highway returns home following two-day search
 
-[Read more](https://www.cbsnews.com/news/carlos-alcaraz-wins-wimbledon-novak-djokovic/)
+[Read more](https://www.montgomeryadvertiser.com/story/news/2023/07/16/missing-alabama-woman-who-reported-child-on-highway-returns-home/70418134007/)
