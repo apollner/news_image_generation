@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Los Angeles Angels Do Something Not Done in More Than 90 Years in Win vs. Astros
+Prompt: Carlos Alcaraz defeats Novak Djokovic in epic Wimbledon showdown
 
-[Read more](https://www.si.com/fannation/mlb/fastball/history/los-angeles-angels-do-something-not-done-in-more-than-90-years-of-baseball-history-in-win-vs-houston-astros)
+[Read more](https://www.cbsnews.com/news/carlos-alcaraz-wins-wimbledon-novak-djokovic/)
