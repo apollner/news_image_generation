@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Missing Alabama woman who reported child on highway returns home following two-day search
+Prompt: Actress and singer Jane Birkin dies, France loses an 'icon'
 
-[Read more](https://www.montgomeryadvertiser.com/story/news/2023/07/16/missing-alabama-woman-who-reported-child-on-highway-returns-home/70418134007/)
+[Read more](https://www.reuters.com/world/uk/british-actress-singer-jane-birkin-dies-french-media-2023-07-16/)
