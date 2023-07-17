@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Carlos Alcaraz defeats Novak Djokovic in epic Wimbledon showdown
+Prompt: RFK Jr. defends his ‘ethnically targeted’ COVID-19 comments
 
-[Read more](https://www.cbsnews.com/news/carlos-alcaraz-wins-wimbledon-novak-djokovic/)
+[Read more](https://nypost.com/2023/07/16/rfk-jr-defends-his-ethnically-targeted-covid-19-comments/)
