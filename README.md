@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Tammy Duckworth blasts Tommy Tuberville's hold on military promotions - POLITICO
+Prompt: Actress and singer Jane Birkin dies, France loses an 'icon'
 
-[Read more](https://www.politico.com/news/2023/07/16/national-security-duckworth-tuberville-military-promotions-00106502)
+[Read more](https://www.reuters.com/world/uk/british-actress-singer-jane-birkin-dies-french-media-2023-07-16/)
