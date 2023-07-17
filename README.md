@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Suspect in Georgia mass shooting killed during manhunt, sheriff says
+Prompt: Iran’s ‘morality police’ resume patrols 10 months after nationwide protests
 
-[Read more](https://abcnews.go.com/US/4-killed-mass-shooting-georgia-shooter-remains-loose/story?id=101312326)
+[Read more](https://www.theguardian.com/world/2023/jul/17/irans-morality-police-resume-patrols-10-months-after-nationwide-protests)
