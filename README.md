@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Inter Miami CF Signs Legendary Midfielder Sergio Busquets
+Prompt: Tammy Duckworth blasts Tommy Tuberville's hold on military promotions - POLITICO
 
-[Read more](https://www.intermiamicf.com/news/inter-miami-cf-signs-legendary-midfielder-sergio-busquets)
+[Read more](https://www.politico.com/news/2023/07/16/national-security-duckworth-tuberville-military-promotions-00106502)
