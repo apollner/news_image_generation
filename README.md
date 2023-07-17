@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: McCaul ‘very confident’ NDAA will be a bipartisan bill
+Prompt: Gravity Still Holds: Einstein's Relativity Theory Stands Strong After Quantum Challenge
 
-[Read more](https://thehill.com/homenews/4100215-mccaul-very-confident-ndaa-will-be-a-bipartisan-bill/)
+[Read more](https://scitechdaily.com/gravity-still-holds-einsteins-relativity-theory-stands-strong-after-quantum-challenge/)
