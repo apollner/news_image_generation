@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Amazon's 60+ best post–Prime Day deals to shop this weekend
+Prompt: Alabama rushes to adopt new congressional map amid disagreement on what district should look like
 
-[Read more](https://www.yahoo.com/lifestyle/amazon-sale-weekend-deals-121240948.html)
+[Read more](https://abcnews.go.com/US/wireStory/alabama-rushes-adopt-new-congressional-map-amid-disagreement-101323565)
