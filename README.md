@@ -1,3 +1,3 @@
 ![Generated Image](image.png)
 
-Prompt: A solar storm on Thursday is expected to make the northern lights visible in 17 states
+Prompt: DeAndre Hopkins agrees to sign with Titans - NBC Sports
