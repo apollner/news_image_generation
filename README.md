@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: RFK Jr. defends his ‘ethnically targeted’ COVID-19 comments
+Prompt: Amazon's 60+ best post–Prime Day deals to shop this weekend
 
-[Read more](https://nypost.com/2023/07/16/rfk-jr-defends-his-ethnically-targeted-covid-19-comments/)
+[Read more](https://www.yahoo.com/lifestyle/amazon-sale-weekend-deals-121240948.html)
