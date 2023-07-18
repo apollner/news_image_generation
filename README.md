@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘Elusive’ first-gen 4GB iPhone auctioned for record $190,373
+Prompt: Iran's morality police resume hijab patrols after reprieve during protests
 
-[Read more](https://arstechnica.com/gadgets/2023/07/elusive-first-gen-4gb-iphone-auctioned-for-record-190373/)
+[Read more](https://www.washingtonpost.com/world/2023/07/17/iran-morality-police-hijab-protests/)
