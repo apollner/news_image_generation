@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Death toll from South Korean floods rises to 40; more rain expected
+Prompt: How Carlos Alcaraz tamed ‘lion’ Novak Djokovic to be crowned Wimbledon champion
 
-[Read more](https://www.washingtonpost.com/world/2023/07/17/south-korea-floods-tunnel-deaths/)
+[Read more](https://theathletic.com/4694982/2023/07/16/carlos-alcaraz-wimbledon-champion-novak-djokovic/)
