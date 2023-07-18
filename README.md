@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Actress and singer Jane Birkin dies, France loses an 'icon'
+Prompt: Webb Space Telescope Detects Universe's Oldest Active Supermassive Black Hole
 
-[Read more](https://www.reuters.com/world/uk/british-actress-singer-jane-birkin-dies-french-media-2023-07-16/)
+[Read more](https://scitechdaily.com/webb-space-telescope-detects-universes-oldest-active-supermassive-black-hole/)
