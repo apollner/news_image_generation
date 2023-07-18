@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘Worrying for a struggling economy’: China’s second-quarter growth fans fears
+Prompt: 1 dead, 1 critically injured after being knocked from gondola at Quebec resort
 
-[Read more](https://www.scmp.com/economy/economic-indicators/article/3227936/china-gdp-economy-grew-63-cent-second-quarter-amid-recovery-fears)
+[Read more](https://abcnews.go.com/International/wireStory/1-dead-1-critically-injured-after-knocked-gondola-101326714)
