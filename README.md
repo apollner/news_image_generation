@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Scorching heatwaves set to break records around the globe
+Prompt: 1 dead, 1 critically injured after being knocked from gondola at Quebec resort
 
-[Read more](https://www.france24.com/en/live-news/20230717-scorching-heatwaves-set-to-break-records-around-the-globe)
+[Read more](https://abcnews.go.com/International/wireStory/1-dead-1-critically-injured-after-knocked-gondola-101326714)
