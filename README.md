@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Christopher Nolan On Why He Cast Eldest Daughter In ‘Oppenheimer’ As Girl Who Gets Blown Up
+Prompt: Top investigator describes suspect in Gilgo Beach serial killings case as ‘a demon’
 
-[Read more](https://deadline.com/2023/07/christopher-nolan-why-cast-eldest-daughter-oppenheimer-1235439408/)
+[Read more](https://www.cnn.com/2023/07/16/us/murder-victims-gilgo-beach-rex-heuermann/index.html)
