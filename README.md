@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Woman, 26, Bedbound by Topical Steroid Withdrawal
+Prompt: Ford slashes the price of the F-150 Lightning EV pickup
 
-[Read more](https://www.insider.com/woman-topical-steroid-withdrawal-how-treat-tws-symptoms-2023-7)
+[Read more](https://techcrunch.com/2023/07/17/ford-slashes-the-price-of-the-f-150-lightning-ev-pickup/)
