@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Lilly drug slows Alzheimer's by 60% for mildly impaired patients in trial
+Prompt: An Assassin's Creed Codename Jade beta launches in August
 
-[Read more](https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-drug-slows-alzheimers-by-60-mildly-impaired-patients-alzheimers-group-says-2023-07-17/)
+[Read more](https://www.videogameschronicle.com/news/an-assassins-creed-codename-jade-beta-launches-in-august/)
