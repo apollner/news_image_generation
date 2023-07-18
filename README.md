@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: More stimulus ‘desperately’ needed as China’s economic recovery slows further
+Prompt: RFK Jr. accused of making antisemitic, racist claims about COVID-19 but insists he was misunderstood
 
-[Read more](https://www.cnn.com/2023/07/16/economy/china-economy-q2-gdp-intl-hnk/index.html)
+[Read more](https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851)
