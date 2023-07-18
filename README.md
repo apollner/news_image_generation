@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Gerry Turner announced as 1st 'Golden Bachelor'
+Prompt: How Christopher Nolan Crafted the World of 'Oppenheimer'
 
-[Read more](https://www.goodmorningamerica.com/culture/story/gerry-turner-announced-1st-golden-bachelor-late-fall-101226734)
+[Read more](http://www.vulture.com/article/oppenheimer-christopher-nolan-cillian-murphy-behind-the-scenes.html)
