@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Man killed, woman critically injured in 'very brutal' gondola accident at popular Canadian resort: police
+Prompt: SEC Media Days 2023: Greg Sankey stumps for federal NIL help, updates conference's stance on expansion
 
-[Read more](https://www.foxnews.com/world/man-killed-woman-critically-injured-very-brutal-gondola-accident-popular-canadian-resort-police)
+[Read more](https://www.cbssports.com/college-football/news/sec-media-days-2023-greg-sankey-stumps-for-federal-nil-help-updates-conferences-stance-on-expansion/)
