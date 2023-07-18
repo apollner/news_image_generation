@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Microsoft, Sony make deal to keep Activision Blizzard game franchise on PlayStation following acquisition
+Prompt: RFK Jr. accused of making antisemitic, racist claims about COVID-19 but insists he was misunderstood
 
-[Read more](https://thehill.com/business/4100768-microsoft-sony-make-deal-to-keep-activision-blizzard-game-franchise-on-playstation-following-acquisition/)
+[Read more](https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851)
