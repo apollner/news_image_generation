@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: CRISPR Gene Editing Used To Build a Better Forest Tree for Sustainable Fiber Production
+Prompt: Top investigator describes suspect in Gilgo Beach serial killings case as ‘a demon’
 
-[Read more](https://scitechdaily.com/?p=292421)
+[Read more](https://www.cnn.com/2023/07/16/us/murder-victims-gilgo-beach-rex-heuermann/index.html)
