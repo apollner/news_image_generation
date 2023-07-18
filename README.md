@@ -1,12 +1,10 @@
-# News Image Generation
-This repository contains a script that generates an image based on a news headline. The image is then saved and displayed in this README.
-The news headline is fetched from the NewsAPI and the image is generated using the DiffusionPipeline from the `diffusers` Python package. The image generation process is performed on a GPU.
-The script runs every few minutes, fetching a new headline and generating a new image each time.
 
----
-
-![Generated Image](image.png)
-
-Prompt: US Polls: Biden's fundraising eclipses DeSantis, Trump and Pence | Latest World News | WION
-
-[Read more](https://www.youtube.com/watch?v=QA-iLKC8HVY)
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
