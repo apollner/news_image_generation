@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Inter Miami unveil Lionel Messi, sign Sergio Busquets
+Prompt: Elton John testifies for the defense in Kevin Spacey's sexual assault trial
 
-[Read more](https://www.aljazeera.com/sports/2023/7/17/inter-miami-unveil-lionel-messi-sign-sergio-busquets)
+[Read more](https://abcnews.go.com/Entertainment/wireStory/elton-john-testifies-defense-kevin-spaceys-sexual-assault-101333581)
