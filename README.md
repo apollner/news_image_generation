@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: See A Crescent Moon, Planets And Perseids: The Night Sky This Week
+Prompt: Crosswords and Computers: Mental Acuity Tasks Beat Socializing in Dodging Dementia
 
-[Read more](https://www.forbes.com/sites/jamiecartereurope/2023/07/16/crescent-moon-planets-and-summer-meteors-the-night-sky-this-week/)
+[Read more](https://neurosciencenews.com/mental-acuity-social-dementia-23640/)
