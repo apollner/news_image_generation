@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Lionel Messi Officially Announced for Inter Miami
+Prompt: Stephen Curry wins American Century Championship with eagle on 18 - ESPN
 
-[Read more](https://www.youtube.com/watch?v=esB0AkFIDeE)
+[Read more](https://www.espn.com/golf/story/_/id/38022068/stephen-curry-wins-american-century-championship-eagle-18)
