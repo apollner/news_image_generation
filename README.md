@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Gerry Turner announced as 1st 'Golden Bachelor'
+Prompt: Woman, 26, Bedbound by Topical Steroid Withdrawal
 
-[Read more](https://www.goodmorningamerica.com/culture/story/gerry-turner-announced-1st-golden-bachelor-late-fall-101226734)
+[Read more](https://www.insider.com/woman-topical-steroid-withdrawal-how-treat-tws-symptoms-2023-7)
