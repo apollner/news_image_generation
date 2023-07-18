@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Lindsay Lohan welcomes 1st child with husband Bader Shammas
+Prompt: FDA Approves New Drug to Prevent RSV in Babies and Toddlers
 
-[Read more](https://www.goodmorningamerica.com/culture/story/lindsay-lohan-welcomes-1st-child-husband-bader-shammas-98643982)
+[Read more](https://www.fda.gov/news-events/press-announcements/fda-approves-new-drug-prevent-rsv-babies-and-toddlers)
