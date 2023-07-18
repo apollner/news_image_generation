@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: RFK Jr. accused of making antisemitic, racist claims about COVID-19 but insists he was misunderstood
+Prompt: South Korea flood death toll rises to 39, Yoon blames botched responses
 
-[Read more](https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851)
+[Read more](https://www.reuters.com/world/asia-pacific/south-korea-flood-death-toll-rises-39-yoon-orders-all-out-effort-2023-07-17/)
