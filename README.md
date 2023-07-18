@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia-Ukraine war live updates: Kyiv attacks Crimea's Kerch Bridge; Moscow halts grain deal - The Washington Post
+Prompt: Ford shares sink after steep price cuts for electric pick-up truck
 
-[Read more](https://www.washingtonpost.com/world/2023/07/17/russia-ukraine-war-news/)
+[Read more](https://www.ft.com/content/f33c83d1-84f2-4831-b2e6-8178981bff1f)
