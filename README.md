@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia halts participation in Black Sea grain deal: Kremlin
+Prompt: Lindsay Lohan welcomes 1st child with husband Bader Shammas
 
-[Read more](https://www.aljazeera.com/news/2023/7/17/russia-halts-participation-in-black-sea-grain-deal-kremlin-2)
+[Read more](https://www.goodmorningamerica.com/culture/story/lindsay-lohan-welcomes-1st-child-husband-bader-shammas-98643982)
