@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Apple's First M3-Powered Macs Likely to Launch in October
+Prompt: DeAndre Hopkins motivated to prove his "haters and doubters" wrong in Tennessee
 
-[Read more](https://www.macrumors.com/2023/07/17/apple-m3-macs-october-event/)
+[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deandre-hopkins-motivated-to-prove-his-haters-and-doubters-wrong-in-tennessee)
