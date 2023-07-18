@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Crosswords and Computers: Mental Acuity Tasks Beat Socializing in Dodging Dementia
+Prompt: Actress and singer Jane Birkin dies, France loses an 'icon'
 
-[Read more](https://neurosciencenews.com/mental-acuity-social-dementia-23640/)
+[Read more](https://www.reuters.com/world/uk/british-actress-singer-jane-birkin-dies-french-media-2023-07-16/)
