@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: NFL Legend Makes Bold Claim About Steph Curry's Golf Game
+Prompt: Black Sea grain deal expires after Russia quits
 
-[Read more](https://www.si.com/nba/warriors/news/nfl-legend-makes-bold-claim-about-steph-currys-golf-game)
+[Read more](https://www.reuters.com/world/europe/black-sea-grain-deal-expire-monday-if-russia-quits-2023-07-17/)
