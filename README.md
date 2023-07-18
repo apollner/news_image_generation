@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Phoenix heat wave breaks two more records, likely to set more
+Prompt: More than 50 pilot whales die after mass stranding on Scottish beach
 
-[Read more](https://www.azcentral.com/story/news/local/phoenix-weather/2023/07/17/phoenix-breaks-two-more-heat-records/70420051007/)
+[Read more](https://nypost.com/2023/07/17/over-50-pilot-whales-die-in-mass-stranding-on-scottish-beach/)
