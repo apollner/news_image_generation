@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Man killed, woman critically injured in 'very brutal' gondola accident at popular Canadian resort: police
+Prompt: Phoenix heat wave breaks two more records, likely to set more
 
-[Read more](https://www.foxnews.com/world/man-killed-woman-critically-injured-very-brutal-gondola-accident-popular-canadian-resort-police)
+[Read more](https://www.azcentral.com/story/news/local/phoenix-weather/2023/07/17/phoenix-breaks-two-more-heat-records/70420051007/)
