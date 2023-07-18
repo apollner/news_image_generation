@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: NYC-area airports see massive delays and groundings as 1,600 flights canceled across the US
+Prompt: RFK Jr. accused of making antisemitic, racist claims about COVID-19 but insists he was misunderstood
 
-[Read more](https://nypost.com/2023/07/16/nyc-area-airports-see-massive-delays-as-1600-us-flights-canceled/)
+[Read more](https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851)
