@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jane Birkin, actress and singer, dies aged 76 – BBC News
+Prompt: CRISPR Gene Editing Used To Build a Better Forest Tree for Sustainable Fiber Production
 
-[Read more](https://www.youtube.com/watch?v=K0amGSiAz24)
+[Read more](https://scitechdaily.com/?p=292421)
