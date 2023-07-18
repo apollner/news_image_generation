@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: South Korea flood death toll rises to 39, Yoon blames botched responses
+Prompt: NYC-area airports see massive delays and groundings as 1,600 flights canceled across the US
 
-[Read more](https://www.reuters.com/world/asia-pacific/south-korea-flood-death-toll-rises-39-yoon-orders-all-out-effort-2023-07-17/)
+[Read more](https://nypost.com/2023/07/16/nyc-area-airports-see-massive-delays-as-1600-us-flights-canceled/)
