@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: US Polls: Biden's fundraising eclipses DeSantis, Trump and Pence | Latest World News | WION
+Prompt: ‘Elusive’ first-gen 4GB iPhone auctioned for record $190,373
 
-[Read more](https://www.youtube.com/watch?v=QA-iLKC8HVY)
+[Read more](https://arstechnica.com/gadgets/2023/07/elusive-first-gen-4gb-iphone-auctioned-for-record-190373/)
