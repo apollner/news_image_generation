@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Horoscope for Monday, July 17, 2023
+Prompt: More stimulus ‘desperately’ needed as China’s economic recovery slows further
 
-[Read more](https://chicago.suntimes.com/2023/7/17/23791791/horoscopes-today-monday-july-17-2023)
+[Read more](https://www.cnn.com/2023/07/16/economy/china-economy-q2-gdp-intl-hnk/index.html)
