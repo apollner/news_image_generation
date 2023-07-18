@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Family of Mallory Beach, teen killed in Murdaugh boat crash case, announces $15 million settlement with convenience store company
+Prompt: Russia halts participation in Black Sea grain deal: Kremlin
 
-[Read more](https://www.cnn.com/2023/07/17/us/mallory-beach-murdaugh-store-crash-case-settlement/index.html)
+[Read more](https://www.aljazeera.com/news/2023/7/17/russia-halts-participation-in-black-sea-grain-deal-kremlin-2)
