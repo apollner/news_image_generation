@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russian scientists warn of powerful solar flare activity on Monday
+Prompt: Nursing student found after vanishing following 911 call about child on side of Alabama freeway
 
-[Read more](https://www.reuters.com/science/russian-scientists-warn-powerful-solar-flare-activity-monday-2023-07-17/)
+[Read more](https://www.cbsnews.com/news/carlee-russell-found-after-missing-911-call-toddler-side-of-highway-hoover-alabama/)
