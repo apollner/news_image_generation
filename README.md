@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stephen Curry wins American Century Championship with eagle on 18 - ESPN
+Prompt: Kylie Jenner Reunites With Jordyn Woods 4 Years After Tristan Thompson Scandal
 
-[Read more](https://www.espn.com/golf/story/_/id/38022068/stephen-curry-wins-american-century-championship-eagle-18)
+[Read more](https://www.etonline.com/kylie-jenner-reunites-with-jordyn-woods-4-years-after-tristan-thompson-scandal-208107)
