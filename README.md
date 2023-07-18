@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: USWNT favourites to win 2023 World Cup, according to tournament simulation
+Prompt: NY Fed report finds Americans increasingly facing borrowing headwinds
 
-[Read more](https://theathletic.com/4694555/2023/07/17/uswnt-womens-world-cup-favourites/)
+[Read more](https://www.reuters.com/world/us/ny-fed-report-finds-americans-increasingly-facing-borrowing-headwinds-2023-07-17/)
