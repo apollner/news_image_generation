@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Gilgo Beach investigators comb unsolved murders for potential ties to suspect
+Prompt: ‘Worrying for a struggling economy’: China’s second-quarter growth fans fears
 
-[Read more](https://abcnews.go.com/US/suspect-gilgo-beach-murders-appears-fit-parallel-lives/story?id=101334415)
+[Read more](https://www.scmp.com/economy/economic-indicators/article/3227936/china-gdp-economy-grew-63-cent-second-quarter-amid-recovery-fears)
