@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: NY Fed report finds Americans increasingly facing borrowing headwinds
+Prompt: NFL Legend Makes Bold Claim About Steph Curry's Golf Game
 
-[Read more](https://www.reuters.com/world/us/ny-fed-report-finds-americans-increasingly-facing-borrowing-headwinds-2023-07-17/)
+[Read more](https://www.si.com/nba/warriors/news/nfl-legend-makes-bold-claim-about-steph-currys-golf-game)
