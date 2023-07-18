@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Elton John testifies for the defense in Kevin Spacey's sexual assault trial
+Prompt: ‘Worrying for a struggling economy’: China’s second-quarter growth fans fears
 
-[Read more](https://abcnews.go.com/Entertainment/wireStory/elton-john-testifies-defense-kevin-spaceys-sexual-assault-101333581)
+[Read more](https://www.scmp.com/economy/economic-indicators/article/3227936/china-gdp-economy-grew-63-cent-second-quarter-amid-recovery-fears)
