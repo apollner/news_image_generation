@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: DeAndre Hopkins motivated to prove his "haters and doubters" wrong in Tennessee
+Prompt: Fuzzy Blob in Space Is Actually Earth And The Moon as Seen From Mars
 
-[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deandre-hopkins-motivated-to-prove-his-haters-and-doubters-wrong-in-tennessee)
+[Read more](https://www.sciencealert.com/fuzzy-blob-in-space-is-actually-earth-and-the-moon-as-seen-from-mars)
