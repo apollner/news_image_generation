@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: San Francisco's downtown 'never going back to the way it was,' Salesforce's Marc Benioff says
+Prompt: Christopher Nolan On Why He Cast Eldest Daughter In ‘Oppenheimer’ As Girl Who Gets Blown Up
 
-[Read more](https://www.foxbusiness.com/economy/san-franciscos-downtown-never-back-way-salesforces-marc-benioff)
+[Read more](https://deadline.com/2023/07/christopher-nolan-why-cast-eldest-daughter-oppenheimer-1235439408/)
