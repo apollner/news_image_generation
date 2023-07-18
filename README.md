@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Suffolk police execute search warrant at Amityville storage unit 'in relation to the Gilgo suspect case'
+Prompt: Crosswords and Computers: Mental Acuity Tasks Beat Socializing in Dodging Dementia
 
-[Read more](https://longisland.news12.com/suffolk-police-execute-search-warrant-at-amityville-storage-unit-in-relation-to-the-gilgo-suspect-case)
+[Read more](https://neurosciencenews.com/mental-acuity-social-dementia-23640/)
