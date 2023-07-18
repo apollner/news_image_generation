@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Gilgo Beach investigators comb unsolved murders for potential ties to suspect
+Prompt: Scorching heatwaves set to break records around the globe
 
-[Read more](https://abcnews.go.com/US/suspect-gilgo-beach-murders-appears-fit-parallel-lives/story?id=101334415)
+[Read more](https://www.france24.com/en/live-news/20230717-scorching-heatwaves-set-to-break-records-around-the-globe)
