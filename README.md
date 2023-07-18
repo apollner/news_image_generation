@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘Worrying for a struggling economy’: China’s second-quarter growth fans fears
+Prompt: Gerry Turner announced as 1st 'Golden Bachelor'
 
-[Read more](https://www.scmp.com/economy/economic-indicators/article/3227936/china-gdp-economy-grew-63-cent-second-quarter-amid-recovery-fears)
+[Read more](https://www.goodmorningamerica.com/culture/story/gerry-turner-announced-1st-golden-bachelor-late-fall-101226734)
