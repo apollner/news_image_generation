@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Microsoft granted two-month pause of appeal over Activision deal
+Prompt: ‘Elusive’ first-gen 4GB iPhone auctioned for record $190,373
 
-[Read more](https://www.reuters.com/markets/deals/microsoft-uk-ask-two-month-pause-appeal-over-activision-deal-2023-07-17/)
+[Read more](https://arstechnica.com/gadgets/2023/07/elusive-first-gen-4gb-iphone-auctioned-for-record-190373/)
