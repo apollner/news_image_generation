@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: SEC Media Days 2023: Greg Sankey stumps for federal NIL help, updates conference's stance on expansion
+Prompt: Phoenix heat wave breaks two more records, likely to set more
 
-[Read more](https://www.cbssports.com/college-football/news/sec-media-days-2023-greg-sankey-stumps-for-federal-nil-help-updates-conferences-stance-on-expansion/)
+[Read more](https://www.azcentral.com/story/news/local/phoenix-weather/2023/07/17/phoenix-breaks-two-more-heat-records/70420051007/)
