@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Fuzzy Blob in Space Is Actually Earth And The Moon as Seen From Mars
+Prompt: Treasury yields fall as investors assess state of U.S. economy
 
-[Read more](https://www.sciencealert.com/fuzzy-blob-in-space-is-actually-earth-and-the-moon-as-seen-from-mars)
+[Read more](https://www.cnbc.com/2023/07/17/us-treasury-yields-as-investors-assess-state-of-economy.html)
