@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Treasury yields fall as investors assess state of U.S. economy
+Prompt: Inter Miami unveil Lionel Messi, sign Sergio Busquets
 
-[Read more](https://www.cnbc.com/2023/07/17/us-treasury-yields-as-investors-assess-state-of-economy.html)
+[Read more](https://www.aljazeera.com/sports/2023/7/17/inter-miami-unveil-lionel-messi-sign-sergio-busquets)
