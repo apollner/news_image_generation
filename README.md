@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Iran’s morality police resume headscarf patrols, state media says
+Prompt: ‘Emergency incident’ reported on vital bridge linking Crimea with Russia
 
-[Read more](https://www.cnn.com/2023/07/16/middleeast/iran-morality-police-hijab-patrols-intl-hnk/index.html)
+[Read more](https://www.cnn.com/2023/07/16/europe/russia-crimea-bridge-intl-hnk/index.html)
