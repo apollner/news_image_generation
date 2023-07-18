@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: How Christopher Nolan Crafted the World of 'Oppenheimer'
+Prompt: Gilgo Beach investigators comb unsolved murders for potential ties to suspect
 
-[Read more](http://www.vulture.com/article/oppenheimer-christopher-nolan-cillian-murphy-behind-the-scenes.html)
+[Read more](https://abcnews.go.com/US/suspect-gilgo-beach-murders-appears-fit-parallel-lives/story?id=101334415)
