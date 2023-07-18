@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Black Sea grain deal expires after Russia quits
+Prompt: Sofia Vergara and Joe Manganiello Announce Divorce After 7 Years of Marriage
 
-[Read more](https://www.reuters.com/world/europe/black-sea-grain-deal-expire-monday-if-russia-quits-2023-07-17/)
+[Read more](https://www.etonline.com/sofia-vergara-and-joe-manganiello-announce-divorce-after-7-years-of-marriage-208161)
