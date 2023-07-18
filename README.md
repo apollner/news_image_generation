@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Murdaugh 2019 boat crash lawsuits settled, lawyers say
+Prompt: Apple's First M3-Powered Macs Likely to Launch in October
 
-[Read more](https://www.nbcnews.com/news/crime-courts/murdaugh-2019-boat-crash-lawsuits-settled-lawyers-say-rcna94577)
+[Read more](https://www.macrumors.com/2023/07/17/apple-m3-macs-october-event/)
