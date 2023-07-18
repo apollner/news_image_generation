@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 1 dead, 1 critically injured after being knocked from gondola at Quebec resort
+Prompt: Gilgo Beach investigators comb unsolved murders for potential ties to suspect
 
-[Read more](https://abcnews.go.com/International/wireStory/1-dead-1-critically-injured-after-knocked-gondola-101326714)
+[Read more](https://abcnews.go.com/US/suspect-gilgo-beach-murders-appears-fit-parallel-lives/story?id=101334415)
