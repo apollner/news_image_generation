@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: RFK Jr. accused of making antisemitic, racist claims about COVID-19 but insists he was misunderstood
+Prompt: EU seeks to revive Latin America, Caribbean ties as it turns away from China, Russia
 
-[Read more](https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851)
+[Read more](https://www.reuters.com/world/eu-seeks-revive-latam-caribbean-ties-it-turns-away-china-russia-2023-07-17/)
