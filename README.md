@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ford slashes the price of the F-150 Lightning EV pickup
+Prompt: ‘Elusive’ first-gen 4GB iPhone auctioned for record $190,373
 
-[Read more](https://techcrunch.com/2023/07/17/ford-slashes-the-price-of-the-f-150-lightning-ev-pickup/)
+[Read more](https://arstechnica.com/gadgets/2023/07/elusive-first-gen-4gb-iphone-auctioned-for-record-190373/)
