@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Kylie Jenner reunites with Jordyn Woods
+Prompt: Microsoft granted two-month pause of appeal over Activision deal
 
-[Read more](https://www.cnn.com/2023/07/17/entertainment/kylie-jenner-jordyn-woods/index.html)
+[Read more](https://www.reuters.com/markets/deals/microsoft-uk-ask-two-month-pause-appeal-over-activision-deal-2023-07-17/)
