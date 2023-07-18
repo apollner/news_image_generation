@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: EU seeks to revive Latin America, Caribbean ties as it turns away from China, Russia
+Prompt: Microsoft, Sony make deal to keep Activision Blizzard game franchise on PlayStation following acquisition
 
-[Read more](https://www.reuters.com/world/eu-seeks-revive-latam-caribbean-ties-it-turns-away-china-russia-2023-07-17/)
+[Read more](https://thehill.com/business/4100768-microsoft-sony-make-deal-to-keep-activision-blizzard-game-franchise-on-playstation-following-acquisition/)
