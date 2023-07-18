@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jane Birkin, actress and singer, dies aged 76 – BBC News
+Prompt: Ukraine claims responsibility for new attack on key Crimea bridge
 
-[Read more](https://www.youtube.com/watch?v=K0amGSiAz24)
+[Read more](https://www.cnn.com/2023/07/16/europe/russia-crimea-bridge-intl-hnk/index.html)
