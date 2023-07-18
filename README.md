@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Harvard researchers identify six 'chemical cocktails' to reverse aging: 'This is attractive'
+Prompt: See A Crescent Moon, Planets And Perseids: The Night Sky This Week
 
-[Read more](https://www.foxnews.com/media/harvard-researchers-identify-six-chemical-cocktails-reverse-aging-attractive)
+[Read more](https://www.forbes.com/sites/jamiecartereurope/2023/07/16/crescent-moon-planets-and-summer-meteors-the-night-sky-this-week/)
