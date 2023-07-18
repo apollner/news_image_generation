@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Yellen warns of 'negative spillover' from China's economic slowdown
+Prompt: US Polls: Biden's fundraising eclipses DeSantis, Trump and Pence | Latest World News | WION
 
-[Read more](https://www.foxbusiness.com/economy/yellen-warns-negative-spillover-china-economic-slowdown)
+[Read more](https://www.youtube.com/watch?v=QA-iLKC8HVY)
