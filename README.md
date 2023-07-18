@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: More than 50 pilot whales die after mass stranding on Scottish beach
+Prompt: USWNT favourites to win 2023 World Cup, according to tournament simulation
 
-[Read more](https://nypost.com/2023/07/17/over-50-pilot-whales-die-in-mass-stranding-on-scottish-beach/)
+[Read more](https://theathletic.com/4694555/2023/07/17/uswnt-womens-world-cup-favourites/)
