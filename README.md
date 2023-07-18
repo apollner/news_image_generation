@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: FDA Approves New Drug to Prevent RSV in Babies and Toddlers
+Prompt: Lilly drug slows Alzheimer's by 60% for mildly impaired patients in trial
 
-[Read more](https://www.fda.gov/news-events/press-announcements/fda-approves-new-drug-prevent-rsv-babies-and-toddlers)
+[Read more](https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-drug-slows-alzheimers-by-60-mildly-impaired-patients-alzheimers-group-says-2023-07-17/)
