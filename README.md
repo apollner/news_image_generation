@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ukraine claims responsibility for new attack on key Crimea bridge
+Prompt: Jason Aldean suffers from heat stroke in Hartford, runs off stage mid-performance
 
-[Read more](https://www.cnn.com/2023/07/16/europe/russia-crimea-bridge-intl-hnk/index.html)
+[Read more](https://nypost.com/2023/07/17/jason-aldean-suffers-from-heat-stroke-in-hartford-runs-off-stage-mid-performance/)
