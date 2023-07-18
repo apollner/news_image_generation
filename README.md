@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Kylie Jenner reunites with Jordyn Woods
+Prompt: Man killed, woman critically injured in 'very brutal' gondola accident at popular Canadian resort: police
 
-[Read more](https://www.cnn.com/2023/07/17/entertainment/kylie-jenner-jordyn-woods/index.html)
+[Read more](https://www.foxnews.com/world/man-killed-woman-critically-injured-very-brutal-gondola-accident-popular-canadian-resort-police)
