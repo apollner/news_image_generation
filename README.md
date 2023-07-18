@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Kylie Jenner Reunites With Jordyn Woods 4 Years After Tristan Thompson Scandal
+Prompt: Crosswords and Computers: Mental Acuity Tasks Beat Socializing in Dodging Dementia
 
-[Read more](https://www.etonline.com/kylie-jenner-reunites-with-jordyn-woods-4-years-after-tristan-thompson-scandal-208107)
+[Read more](https://neurosciencenews.com/mental-acuity-social-dementia-23640/)
