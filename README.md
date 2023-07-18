@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: RFK Jr. accused of making antisemitic, racist claims about COVID-19 but insists he was misunderstood
+Prompt: San Francisco's downtown 'never going back to the way it was,' Salesforce's Marc Benioff says
 
-[Read more](https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851)
+[Read more](https://www.foxbusiness.com/economy/san-franciscos-downtown-never-back-way-salesforces-marc-benioff)
