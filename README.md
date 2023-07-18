@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: USWNT favourites to win 2023 World Cup, according to tournament simulation
+Prompt: Man killed, woman critically injured in 'very brutal' gondola accident at popular Canadian resort: police
 
-[Read more](https://theathletic.com/4694555/2023/07/17/uswnt-womens-world-cup-favourites/)
+[Read more](https://www.foxnews.com/world/man-killed-woman-critically-injured-very-brutal-gondola-accident-popular-canadian-resort-police)
