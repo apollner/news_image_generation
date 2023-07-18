@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: CRISPR Gene Editing Used To Build a Better Forest Tree for Sustainable Fiber Production
+Prompt: Death toll from South Korean floods rises to 40; more rain expected
 
-[Read more](https://scitechdaily.com/?p=292421)
+[Read more](https://www.washingtonpost.com/world/2023/07/17/south-korea-floods-tunnel-deaths/)
