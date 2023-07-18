@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Phoenix heat wave breaks two more records, likely to set more
+Prompt: USWNT favourites to win 2023 World Cup, according to tournament simulation
 
-[Read more](https://www.azcentral.com/story/news/local/phoenix-weather/2023/07/17/phoenix-breaks-two-more-heat-records/70420051007/)
+[Read more](https://theathletic.com/4694555/2023/07/17/uswnt-womens-world-cup-favourites/)
