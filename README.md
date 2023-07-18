@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Top investigator describes suspect in Gilgo Beach serial killings case as ‘a demon’
+Prompt: Jane Birkin, actress and singer, dies aged 76 – BBC News
 
-[Read more](https://www.cnn.com/2023/07/16/us/murder-victims-gilgo-beach-rex-heuermann/index.html)
+[Read more](https://www.youtube.com/watch?v=K0amGSiAz24)
