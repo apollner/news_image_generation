@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Call of Duty to remain on PlayStation following Activision Blizzard Microsoft merger
+Prompt: Elton John testifies for the defense in Kevin Spacey's sexual assault trial
 
-[Read more](https://www.cnn.com/2023/07/16/tech/call-of-duty-activision-blizzard/index.html)
+[Read more](https://abcnews.go.com/Entertainment/wireStory/elton-john-testifies-defense-kevin-spaceys-sexual-assault-101333581)
