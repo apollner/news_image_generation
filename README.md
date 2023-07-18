@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: China's frail Q2 GDP growth raises urgency for more policy support
+Prompt: Iran’s morality police resume headscarf patrols, state media says
 
-[Read more](https://www.reuters.com/world/china/chinas-q2-gdp-growth-slows-08-qq-just-above-expectations-2023-07-17/)
+[Read more](https://www.cnn.com/2023/07/16/middleeast/iran-morality-police-hijab-patrols-intl-hnk/index.html)
