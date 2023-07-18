@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: How Carlos Alcaraz tamed ‘lion’ Novak Djokovic to be crowned Wimbledon champion
+Prompt: Jane Birkin, actress and singer, dies aged 76 – BBC News
 
-[Read more](https://theathletic.com/4694982/2023/07/16/carlos-alcaraz-wimbledon-champion-novak-djokovic/)
+[Read more](https://www.youtube.com/watch?v=K0amGSiAz24)
