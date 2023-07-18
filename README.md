@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Nursing student found after vanishing following 911 call about child on side of Alabama freeway
+Prompt: China's frail Q2 GDP growth raises urgency for more policy support
 
-[Read more](https://www.cbsnews.com/news/carlee-russell-found-after-missing-911-call-toddler-side-of-highway-hoover-alabama/)
+[Read more](https://www.reuters.com/world/china/chinas-q2-gdp-growth-slows-08-qq-just-above-expectations-2023-07-17/)
