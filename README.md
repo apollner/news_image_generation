@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean suffers from heat stroke in Hartford, runs off stage mid-performance
+Prompt: Murdaugh 2019 boat crash lawsuits settled, lawyers say
 
-[Read more](https://nypost.com/2023/07/17/jason-aldean-suffers-from-heat-stroke-in-hartford-runs-off-stage-mid-performance/)
+[Read more](https://www.nbcnews.com/news/crime-courts/murdaugh-2019-boat-crash-lawsuits-settled-lawyers-say-rcna94577)
