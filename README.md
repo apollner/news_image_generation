@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘Emergency incident’ reported on vital bridge linking Crimea with Russia
+Prompt: NYC-area airports see massive delays and groundings as 1,600 flights canceled across the US
 
-[Read more](https://www.cnn.com/2023/07/16/europe/russia-crimea-bridge-intl-hnk/index.html)
+[Read more](https://nypost.com/2023/07/16/nyc-area-airports-see-massive-delays-as-1600-us-flights-canceled/)
