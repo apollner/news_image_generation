@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Webb Space Telescope Detects Universe's Oldest Active Supermassive Black Hole
+Prompt: Harvard researchers identify six 'chemical cocktails' to reverse aging: 'This is attractive'
 
-[Read more](https://scitechdaily.com/webb-space-telescope-detects-universes-oldest-active-supermassive-black-hole/)
+[Read more](https://www.foxnews.com/media/harvard-researchers-identify-six-chemical-cocktails-reverse-aging-attractive)
