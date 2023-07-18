@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: An Assassin's Creed Codename Jade beta launches in August
+Prompt: Kylie Jenner reunites with Jordyn Woods
 
-[Read more](https://www.videogameschronicle.com/news/an-assassins-creed-codename-jade-beta-launches-in-august/)
+[Read more](https://www.cnn.com/2023/07/17/entertainment/kylie-jenner-jordyn-woods/index.html)
