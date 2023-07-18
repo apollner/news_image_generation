@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Crosswords and Computers: Mental Acuity Tasks Beat Socializing in Dodging Dementia
+Prompt: NYC-area airports see massive delays and groundings as 1,600 flights canceled across the US
 
-[Read more](https://neurosciencenews.com/mental-acuity-social-dementia-23640/)
+[Read more](https://nypost.com/2023/07/16/nyc-area-airports-see-massive-delays-as-1600-us-flights-canceled/)
