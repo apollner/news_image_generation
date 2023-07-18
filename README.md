@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Xbox Live Gold, Games With Gold Finally Being Phased Out In Favor Of Xbox Game Pass Core
+Prompt: USWNT favourites to win 2023 World Cup, according to tournament simulation
 
-[Read more](https://www.gamespot.com/articles/xbox-live-gold-games-with-gold-finally-being-phased-out-in-favor-of-xbox-game-pass-core/1100-6516013/)
+[Read more](https://theathletic.com/4694555/2023/07/17/uswnt-womens-world-cup-favourites/)
