@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Elton John testifies for the defense in Kevin Spacey's sexual assault trial
+Prompt: Gerry Turner announced as 1st 'Golden Bachelor'
 
-[Read more](https://abcnews.go.com/Entertainment/wireStory/elton-john-testifies-defense-kevin-spaceys-sexual-assault-101333581)
+[Read more](https://www.goodmorningamerica.com/culture/story/gerry-turner-announced-1st-golden-bachelor-late-fall-101226734)
