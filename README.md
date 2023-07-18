@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 1 dead, 1 critically injured after being knocked from gondola at Quebec resort
+Prompt: Call of Duty to remain on PlayStation following Activision Blizzard Microsoft merger
 
-[Read more](https://abcnews.go.com/International/wireStory/1-dead-1-critically-injured-after-knocked-gondola-101326714)
+[Read more](https://www.cnn.com/2023/07/16/tech/call-of-duty-activision-blizzard/index.html)
