@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Steph Curry wins 2023 American Century Championship with eagle on 18
+Prompt: Suffolk police execute search warrant at Amityville storage unit 'in relation to the Gilgo suspect case'
 
-[Read more](https://www.usatoday.com/story/sports/golf/2023/07/16/steph-curry-wins-2023-american-century-championship-eagle/70418780007/)
+[Read more](https://longisland.news12.com/suffolk-police-execute-search-warrant-at-amityville-storage-unit-in-relation-to-the-gilgo-suspect-case)
