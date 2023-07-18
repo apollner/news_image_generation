@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Two Singapore lawmakers resign after admitting to 'inappropriate relationship'
+Prompt: Top investigator describes suspect in Gilgo Beach serial killings case as ‘a demon’
 
-[Read more](https://www.cnbc.com/2023/07/17/two-singapore-lawmakers-resign-after-admitting-to-inappropriate-relationship.html)
+[Read more](https://www.cnn.com/2023/07/16/us/murder-victims-gilgo-beach-rex-heuermann/index.html)
