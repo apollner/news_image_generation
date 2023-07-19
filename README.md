@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 'Justified: City Primeval': Cast, release date, where to watch new 'Justified' series
+Prompt: Bank results lift stocks; Dow up for seventh straight session
 
-[Read more](https://www.usatoday.com/story/entertainment/books/2023/07/18/justified-city-primeval-cast-streaming-where-to-watch/70423424007/)
+[Read more](https://www.reuters.com/markets/us/futures-muted-wall-st-awaits-more-big-bank-earnings-2023-07-18/)
