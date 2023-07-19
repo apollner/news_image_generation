@@ -3,7 +3,7 @@ name: Run Kaggle Script
 on:
   push:
   schedule:
-    - cron:  '*/5 * * * *'  # This will run the script every 5 minutes
+    - cron:  '*/30 * * * *'  # This will run the script every 30 minutes
 
 
 jobs:
