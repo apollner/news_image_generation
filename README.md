@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Heat wave to expand across Southwest and Gulf Coast; Tuesday forecast
+Prompt: PlayStation gamers heartbroken Sony traded Bethesda, Crash, and more for 10 years of Call Of Duty
 
-[Read more](https://www.usatoday.com/story/news/weather/2023/07/18/heat-wave-air-quality-forecast-tuesday/70422748007/)
+[Read more](https://www.gamingbible.com/news/platform/playstation/playstation-sony-traded-bethesda-crash-call-of-duty-141333-20230718)
