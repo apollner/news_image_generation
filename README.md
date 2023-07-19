@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Morgan Stanley profit beats estimates on wealth, shares rise
+Prompt: New method to search for strongly interacting dark matter inside neutrino detectors
 
-[Read more](https://www.reuters.com/business/finance/morgan-stanley-profit-drops-18-deal-doldrums-persist-2023-07-18/)
+[Read more](https://phys.org/news/2023-07-method-strongly-interacting-dark-neutrino.html)
