@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Alzheimer's drug donanemab helps most when taken at earliest disease stage, study finds
+Prompt: Rejection rate jumps for Americans looking for a loan, Fed says
 
-[Read more](https://www.nature.com/articles/d41586-023-02321-1)
+[Read more](https://www.usatoday.com/story/money/personalfinance/2023/07/17/loan-rejection-rate-jumps-fed/70422586007/)
