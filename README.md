@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: New method to search for strongly interacting dark matter inside neutrino detectors
+Prompt: 'Justified: City Primeval': Cast, release date, where to watch new 'Justified' series
 
-[Read more](https://phys.org/news/2023-07-method-strongly-interacting-dark-neutrino.html)
+[Read more](https://www.usatoday.com/story/entertainment/books/2023/07/18/justified-city-primeval-cast-streaming-where-to-watch/70423424007/)
