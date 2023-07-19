@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia launches wave of air attacks on south and eastern Ukraine
+Prompt: Portland police reverse course, believe deaths of 4 women may be work of possible serial killer
 
-[Read more](https://www.aljazeera.com/news/2023/7/18/russia-launches-wave-of-air-attacks-on-south-and-eastern-ukraine)
+[Read more](https://nypost.com/2023/07/17/deaths-of-4-women-linked-after-portland-police-previously-said-no-connection/)
