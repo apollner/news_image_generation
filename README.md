@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Iowa judge blocks state’s ‘fetal heartbeat’ abortion ban days after Gov. Kim Reynolds signs measure into law
+Prompt: Russia launches drones, missiles on Ukraine's south and east - Ukraine's Air Force
 
-[Read more](https://www.foxnews.com/us/iowa-judge-blocks-states-fetal-heartbeat-abortion-ban-days-gov-kim-reynolds-signs-measure-law)
+[Read more](https://www.reuters.com/world/europe/russia-launches-air-attacks-ukraines-south-east-ukraines-air-force-2023-07-17/)
