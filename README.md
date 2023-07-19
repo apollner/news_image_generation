@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: S&P 500 is flat following weak retail sales, so-so earnings: Live updates
+Prompt: Morgan Stanley profit beats estimates on wealth, shares rise
 
-[Read more](https://www.cnbc.com/2023/07/17/stock-market-today-live-updates.html)
+[Read more](https://www.reuters.com/business/finance/morgan-stanley-profit-drops-18-deal-doldrums-persist-2023-07-18/)
