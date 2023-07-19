@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Birmingham firefighter dies days after being shot while on duty
+Prompt: Ron DeSantis raised more money than Donald Trump last quarter, but it's not all good news
 
-[Read more](https://www.cbsnews.com/news/jordan-melton-birmingham-firefighter-dies-shot-jamel-jones/)
+[Read more](https://www.bbc.com/news/world-us-canada-66229424)
