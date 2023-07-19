@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands
+Prompt: Heat wave to expand across Southwest and Gulf Coast; Tuesday forecast
 
-[Read more](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
+[Read more](https://www.usatoday.com/story/news/weather/2023/07/18/heat-wave-air-quality-forecast-tuesday/70422748007/)
