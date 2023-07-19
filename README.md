@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: An American national has crossed into North Korea without authorization and has been detained
+Prompt: Eli Lilly says FDA approval of Alzheimer’s drug donanemab could come later this year
 
-[Read more](https://www.youtube.com/watch?v=eOj7t_MybIs)
+[Read more](https://www.foxbusiness.com/lifestyle/eli-lilly-fda-approval-alzheimers-drug-donanemab-could-come-later-this-year)
