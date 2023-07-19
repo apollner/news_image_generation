@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Biden invites Netanyahu to US after months of stiffing the Israeli prime minister
+Prompt: Ariana Grande and Emma Watson Just Made These the New Fall It Shoes at Wimbledon
 
-[Read more](https://nypost.com/2023/07/17/biden-invites-netanyahu-to-us-after-months-of-stiffing-him/)
+[Read more](https://www.whowhatwear.com/ariana-grande-emma-watson-wimbledon-loewe-toy-pumps)
