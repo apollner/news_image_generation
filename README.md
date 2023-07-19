@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: New dementia drug 'has given me hope’: Alzheimer’s patients reveal their stories
+Prompt: VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands
 
-[Read more](https://www.foxnews.com/health/dementia-drug-given-me-hope-alzheimers-patients-reveal-stories)
+[Read more](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
