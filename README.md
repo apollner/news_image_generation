@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Running backs react to Saquon Barkley, Josh Jacobs, Tony Pollard not getting long-term deals
+Prompt: Deal Alert! Google Pixel Buds Pro & A-Series Earbuds Are On Sale!
 
-[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/running-backs-react-to-saquon-barkley-josh-jacobs-tony-pollard-not-getting-long-term-deals)
+[Read more](https://cordcuttersnews.com/deal-alert-google-pixel-buds-pro-a-series-earbuds-are-on-sale/)
