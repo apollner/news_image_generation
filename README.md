@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Powerball numbers 7/17/23: Lottery results for $900M jackpot
+Prompt: WGA Members Say SAG-AFTRA Strike Has "Re-Energized" the Picket Lines | THR News
 
-[Read more](https://www.indystar.com/story/news/2023/07/17/powerball-numbers-july-17-2023-lottery-drawing-results-power-ball-lotto-jackpot-7-17-23/70421321007/)
+[Read more](https://www.youtube.com/watch?v=0ue2pJEcBvw)
