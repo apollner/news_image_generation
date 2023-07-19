@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Georgia Supreme Court dismisses Trump bid to shut down Fulton County probe
+Prompt: Trump could benefit from 'No Labels' group pushing for third-party candidate in 2024
 
-[Read more](https://www.cnn.com/2023/07/17/politics/georgia-supreme-court-trump-fulton-county/index.html)
+[Read more](https://www.youtube.com/watch?v=c0BYhTMM-OM)
