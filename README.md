@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: iPadOS 17 Beta Is Here and It's Already Making Things Better
+Prompt: S&P 500 is flat following weak retail sales, so-so earnings: Live updates
 
-[Read more](https://www.cnet.com/tech/computing/ipados-17-beta-is-here-and-its-already-making-things-better/)
+[Read more](https://www.cnbc.com/2023/07/17/stock-market-today-live-updates.html)
