@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Deal Alert! Google Pixel Buds Pro & A-Series Earbuds Are On Sale!
+Prompt: Ron DeSantis raised more money than Donald Trump last quarter, but it's not all good news
 
-[Read more](https://cordcuttersnews.com/deal-alert-google-pixel-buds-pro-a-series-earbuds-are-on-sale/)
+[Read more](https://www.bbc.com/news/world-us-canada-66229424)
