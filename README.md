@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ron DeSantis raised more money than Donald Trump last quarter, but it's not all good news
+Prompt: Powerball numbers 7/17/23: Lottery results for $900M jackpot
 
-[Read more](https://www.bbc.com/news/world-us-canada-66229424)
+[Read more](https://www.indystar.com/story/news/2023/07/17/powerball-numbers-july-17-2023-lottery-drawing-results-power-ball-lotto-jackpot-7-17-23/70421321007/)
