@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Australian sailor speaks about being lost at sea with his dog for months: "I didn't really think I'd make it"
+Prompt: Western Alliance Earnings Give Shot at Winning Back Wary Market
 
-[Read more](https://www.cbsnews.com/news/australian-sailor-lost-dog-rescued-timothy-shaddock-pacific-ocean/)
+[Read more](https://finance.yahoo.com/news/western-alliance-results-key-winning-140219694.html)
