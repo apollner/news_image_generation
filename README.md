@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Once Again, Texas Democrats Think This Is the Cycle They Beat Ted Cruz
+Prompt: Microsoft's new Bing Chat Enterprise offers better privacy for businesses
 
-[Read more](https://www.nationalreview.com/corner/once-again-texas-democrats-think-this-is-the-cycle-they-beat-ted-cruz/)
+[Read more](https://www.theverge.com/2023/7/18/23797317/microsoft-bing-chat-enterprise-generative-ai-gpt-chatbot)
