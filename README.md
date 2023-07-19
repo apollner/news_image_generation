@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: WGA Members Say SAG-AFTRA Strike Has "Re-Energized" the Picket Lines | THR News
+Prompt: Russia launches drones, missiles on Ukraine's south and east - Ukraine's Air Force
 
-[Read more](https://www.youtube.com/watch?v=0ue2pJEcBvw)
+[Read more](https://www.reuters.com/world/europe/russia-launches-air-attacks-ukraines-south-east-ukraines-air-force-2023-07-17/)
