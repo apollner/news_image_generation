@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Rejection rate jumps for Americans looking for a loan, Fed says
+Prompt: Russia-Ukraine war: Kyiv attacks Crimea's Kerch Bridge; Moscow halts grain deal - The Washington Post
 
-[Read more](https://www.usatoday.com/story/money/personalfinance/2023/07/17/loan-rejection-rate-jumps-fed/70422586007/)
+[Read more](https://www.washingtonpost.com/world/2023/07/17/russia-ukraine-war-news/)
