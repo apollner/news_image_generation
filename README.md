@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Sofia Vergara and Joe Manganiello Announce Divorce After 7 Years of Marriage
+Prompt: Georgia Supreme Court dismisses Trump bid to shut down Fulton County probe
 
-[Read more](https://www.etonline.com/sofia-vergara-and-joe-manganiello-announce-divorce-after-7-years-of-marriage-208161)
+[Read more](https://www.cnn.com/2023/07/17/politics/georgia-supreme-court-trump-fulton-county/index.html)
