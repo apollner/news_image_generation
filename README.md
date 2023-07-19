@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Bank results lift stocks; Dow up for seventh straight session
+Prompt: These Central Florida housing markets are among the most overpriced in the US
 
-[Read more](https://www.reuters.com/markets/us/futures-muted-wall-st-awaits-more-big-bank-earnings-2023-07-18/)
+[Read more](https://www.clickorlando.com/news/local/2023/07/18/these-central-florida-housing-markets-are-among-the-most-overpriced-in-the-us/)
