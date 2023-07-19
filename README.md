@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: S&P 500 is flat following weak retail sales, so-so earnings: Live updates
+Prompt: Once Again, Texas Democrats Think This Is the Cycle They Beat Ted Cruz
 
-[Read more](https://www.cnbc.com/2023/07/17/stock-market-today-live-updates.html)
+[Read more](https://www.nationalreview.com/corner/once-again-texas-democrats-think-this-is-the-cycle-they-beat-ted-cruz/)
