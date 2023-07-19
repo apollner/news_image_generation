@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Deal Alert! Google Pixel Buds Pro & A-Series Earbuds Are On Sale!
+Prompt: Iowa judge blocks state’s ‘fetal heartbeat’ abortion ban days after Gov. Kim Reynolds signs measure into law
 
-[Read more](https://cordcuttersnews.com/deal-alert-google-pixel-buds-pro-a-series-earbuds-are-on-sale/)
+[Read more](https://www.foxnews.com/us/iowa-judge-blocks-states-fetal-heartbeat-abortion-ban-days-gov-kim-reynolds-signs-measure-law)
