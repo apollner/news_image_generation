@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Australian and his dog rescued after 3 months adrift in Pacific
+Prompt: Birmingham firefighter dies days after being shot while on duty
 
-[Read more](https://www.aljazeera.com/news/2023/7/18/australian-and-his-dog-rescued-after-three-months-adrift-in-pacific)
+[Read more](https://www.cbsnews.com/news/jordan-melton-birmingham-firefighter-dies-shot-jamel-jones/)
