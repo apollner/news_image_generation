@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Timothy Olyphant Loves Being TV’s Ultimate Cowboy
+Prompt: Browns unveil white alternate throwback helmets
 
-[Read more](https://www.rollingstone.com/tv-movies/tv-movie-features/timothy-olyphant-interview-justified-city-primeval-the-mandalorian-deadwood-cowboy-1234783927/)
+[Read more](https://www.clevelandbrowns.com/news/browns-unveil-white-alternate-throwback-helmets)
