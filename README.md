@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Microsoft's new Bing Chat Enterprise offers better privacy for businesses
+Prompt: Lockheed Martin raises full-year forecast on strong weapons demand
 
-[Read more](https://www.theverge.com/2023/7/18/23797317/microsoft-bing-chat-enterprise-generative-ai-gpt-chatbot)
+[Read more](https://www.reuters.com/business/aerospace-defense/lockheed-martin-raises-full-year-forecast-strong-weapons-demand-2023-07-18/)
