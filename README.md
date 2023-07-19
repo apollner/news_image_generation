@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ron DeSantis raised more money than Donald Trump last quarter, but it's not all good news
+Prompt: New dementia drug 'has given me hope’: Alzheimer’s patients reveal their stories
 
-[Read more](https://www.bbc.com/news/world-us-canada-66229424)
+[Read more](https://www.foxnews.com/health/dementia-drug-given-me-hope-alzheimers-patients-reveal-stories)
