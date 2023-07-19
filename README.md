@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ariana Grande and Emma Watson Just Made These the New Fall It Shoes at Wimbledon
+Prompt: Striking Hollywood stars meet with union to discuss actors’ walkout
 
-[Read more](https://www.whowhatwear.com/ariana-grande-emma-watson-wimbledon-loewe-toy-pumps)
+[Read more](https://www.theguardian.com/culture/2023/jul/17/striking-hollywood-stars-sag-aftra-union)
