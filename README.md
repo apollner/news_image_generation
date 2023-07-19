@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia launches drones, missiles on Ukraine's south and east - Ukraine's Air Force
+Prompt: Stock futures inch lower ahead of busy earnings day: Live updates
 
-[Read more](https://www.reuters.com/world/europe/russia-launches-air-attacks-ukraines-south-east-ukraines-air-force-2023-07-17/)
+[Read more](https://www.cnbc.com/2023/07/17/stock-market-today-live-updates.html)
