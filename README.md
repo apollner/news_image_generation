@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Eli Lilly says FDA approval of Alzheimer’s drug donanemab could come later this year
+Prompt: iPadOS 17 Beta Is Here and It's Already Making Things Better
 
-[Read more](https://www.foxbusiness.com/lifestyle/eli-lilly-fda-approval-alzheimers-drug-donanemab-could-come-later-this-year)
+[Read more](https://www.cnet.com/tech/computing/ipados-17-beta-is-here-and-its-already-making-things-better/)
