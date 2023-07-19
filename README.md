@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stock futures inch lower ahead of busy earnings day: Live updates
+Prompt: Childhood immunization rates that fell during Covid are improving but still not at pre-pandemic levels, new data shows
 
-[Read more](https://www.cnbc.com/2023/07/17/stock-market-today-live-updates.html)
+[Read more](https://www.cnn.com/2023/07/18/health/childhood-immunization-rates/index.html)
