@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia launches drones, missiles on Ukraine's south and east - Ukraine's Air Force
+Prompt: Ron DeSantis raised more money than Donald Trump last quarter, but it's not all good news
 
-[Read more](https://www.reuters.com/world/europe/russia-launches-air-attacks-ukraines-south-east-ukraines-air-force-2023-07-17/)
+[Read more](https://www.bbc.com/news/world-us-canada-66229424)
