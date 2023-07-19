@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia-Ukraine war: Kyiv attacks Crimea's Kerch Bridge; Moscow halts grain deal - The Washington Post
+Prompt: Australian and his dog rescued after 3 months adrift in Pacific
 
-[Read more](https://www.washingtonpost.com/world/2023/07/17/russia-ukraine-war-news/)
+[Read more](https://www.aljazeera.com/news/2023/7/18/australian-and-his-dog-rescued-after-three-months-adrift-in-pacific)
