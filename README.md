@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: PlayStation gamers heartbroken Sony traded Bethesda, Crash, and more for 10 years of Call Of Duty
+Prompt: Australian man and his dog rescued by Mexican tuna boat after drifting 3 months in the Pacific Ocean
 
-[Read more](https://www.gamingbible.com/news/platform/playstation/playstation-sony-traded-bethesda-crash-call-of-duty-141333-20230718)
+[Read more](https://wpde.com/news/nation-world/sydney-australian-man-and-his-dog-rescued-by-mexican-tuna-boat-after-drifting-3-months-in-the-pacific-ocean-manzanillo-timothy-shaddock-catamaran-aloha-toa)
