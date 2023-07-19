@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Portland police reverse course, believe deaths of 4 women may be work of possible serial killer
+Prompt: Australian man and his dog rescued by Mexican tuna boat after drifting 3 months in the Pacific Ocean
 
-[Read more](https://nypost.com/2023/07/17/deaths-of-4-women-linked-after-portland-police-previously-said-no-connection/)
+[Read more](https://apnews.com/article/australia-sailor-dog-lost-mexico-21e3131bb43bd3bca6e33b6bceb2865b)
