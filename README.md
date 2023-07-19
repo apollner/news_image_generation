@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ariana Grande and Emma Watson Just Made These the New Fall It Shoes at Wimbledon
+Prompt: Powerball numbers 7/17/23: Lottery results for $900M jackpot
 
-[Read more](https://www.whowhatwear.com/ariana-grande-emma-watson-wimbledon-loewe-toy-pumps)
+[Read more](https://www.indystar.com/story/news/2023/07/17/powerball-numbers-july-17-2023-lottery-drawing-results-power-ball-lotto-jackpot-7-17-23/70421321007/)
