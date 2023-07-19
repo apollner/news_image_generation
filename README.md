@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ukraine war live updates: Russian missile volley hits Ukraine's port cities in 'revenge strike'; Crimea bridge partially reopens after attack
+Prompt: Timothy Olyphant Loves Being TV’s Ultimate Cowboy
 
-[Read more](https://www.cnbc.com/2023/07/18/russia-ukraine-live-updates.html)
+[Read more](https://www.rollingstone.com/tv-movies/tv-movie-features/timothy-olyphant-interview-justified-city-primeval-the-mandalorian-deadwood-cowboy-1234783927/)
