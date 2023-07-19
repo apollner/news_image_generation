@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Australian man and his dog rescued by Mexican tuna boat after drifting 3 months in the Pacific Ocean
+Prompt: Russia launches wave of air attacks on south and eastern Ukraine
 
-[Read more](https://apnews.com/article/australia-sailor-dog-lost-mexico-21e3131bb43bd3bca6e33b6bceb2865b)
+[Read more](https://www.aljazeera.com/news/2023/7/18/russia-launches-wave-of-air-attacks-on-south-and-eastern-ukraine)
