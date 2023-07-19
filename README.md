@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Childhood immunization rates that fell during Covid are improving but still not at pre-pandemic levels, new data shows
+Prompt: Deal Alert! Google Pixel Buds Pro & A-Series Earbuds Are On Sale!
 
-[Read more](https://www.cnn.com/2023/07/18/health/childhood-immunization-rates/index.html)
+[Read more](https://cordcuttersnews.com/deal-alert-google-pixel-buds-pro-a-series-earbuds-are-on-sale/)
