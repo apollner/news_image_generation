@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: iPadOS 17 Beta Is Here and It's Already Making Things Better
+Prompt: Ukraine war live updates: Russian missile volley hits Ukraine's port cities in 'revenge strike'; Crimea bridge partially reopens after attack
 
-[Read more](https://www.cnet.com/tech/computing/ipados-17-beta-is-here-and-its-already-making-things-better/)
+[Read more](https://www.cnbc.com/2023/07/18/russia-ukraine-live-updates.html)
