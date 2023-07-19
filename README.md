@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Trump could benefit from 'No Labels' group pushing for third-party candidate in 2024
+Prompt: Australian man and his dog rescued by Mexican tuna boat after drifting 3 months in the Pacific Ocean
 
-[Read more](https://www.youtube.com/watch?v=c0BYhTMM-OM)
+[Read more](https://apnews.com/article/australia-sailor-dog-lost-mexico-21e3131bb43bd3bca6e33b6bceb2865b)
