@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Browns unveil white alternate throwback helmets
+Prompt: An American national has crossed into North Korea without authorization and has been detained
 
-[Read more](https://www.clevelandbrowns.com/news/browns-unveil-white-alternate-throwback-helmets)
+[Read more](https://www.youtube.com/watch?v=eOj7t_MybIs)
