@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Lockheed Martin raises full-year forecast on strong weapons demand
+Prompt: S&P 500 is flat following weak retail sales, so-so earnings: Live updates
 
-[Read more](https://www.reuters.com/business/aerospace-defense/lockheed-martin-raises-full-year-forecast-strong-weapons-demand-2023-07-18/)
+[Read more](https://www.cnbc.com/2023/07/17/stock-market-today-live-updates.html)
