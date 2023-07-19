@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Australian man and his dog rescued by Mexican tuna boat after drifting 3 months in the Pacific Ocean
+Prompt: Biden invites Netanyahu to US after months of stiffing the Israeli prime minister
 
-[Read more](https://apnews.com/article/australia-sailor-dog-lost-mexico-21e3131bb43bd3bca6e33b6bceb2865b)
+[Read more](https://nypost.com/2023/07/17/biden-invites-netanyahu-to-us-after-months-of-stiffing-him/)
