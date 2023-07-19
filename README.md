@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: These Central Florida housing markets are among the most overpriced in the US
+Prompt: Australian sailor speaks about being lost at sea with his dog for months: "I didn't really think I'd make it"
 
-[Read more](https://www.clickorlando.com/news/local/2023/07/18/these-central-florida-housing-markets-are-among-the-most-overpriced-in-the-us/)
+[Read more](https://www.cbsnews.com/news/australian-sailor-lost-dog-rescued-timothy-shaddock-pacific-ocean/)
