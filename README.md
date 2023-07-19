@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Childhood immunization rates that fell during Covid are improving but still not at pre-pandemic levels, new data shows
+Prompt: Running backs react to Saquon Barkley, Josh Jacobs, Tony Pollard not getting long-term deals
 
-[Read more](https://www.cnn.com/2023/07/18/health/childhood-immunization-rates/index.html)
+[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/running-backs-react-to-saquon-barkley-josh-jacobs-tony-pollard-not-getting-long-term-deals)
