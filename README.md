@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Fossil shows mammal, dinosaur "locked in mortal combat"
+Prompt: Gilgo Beach murders: Over 200 guns taken from suspect's home
 
-[Read more](https://www.cbsnews.com/news/dinosaur-mammal-fossil-mortal-combat-repenomamus-robustus-psittacosaurus/)
+[Read more](https://www.bbc.com/news/world-us-canada-66205088)
