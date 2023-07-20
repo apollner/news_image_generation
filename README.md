@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia attacks Ukraine’s Odesa, explosions reported in Sevastopol
+Prompt: Taco John's ends 'Taco Tuesday' dispute with Taco Bell - The Washington Post
 
-[Read more](https://www.aljazeera.com/news/2023/7/19/russia-attacks-ukraines-odesa-explosions-reported-in-sevastopol)
+[Read more](https://www.washingtonpost.com/food/2023/07/18/taco-tuesday-trademark-taco-johns-taco-bell/)
