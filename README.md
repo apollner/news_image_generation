@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Apple is testing a ChatGPT-like AI chatbot
+Prompt: Israel's Herzog sharply addresses criticism from House members after Squad member's remarks
 
-[Read more](https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/)
+[Read more](https://www.foxnews.com/politics/israels-herzog-sharply-addresses-criticism-house-members-squad-members-remarks)
