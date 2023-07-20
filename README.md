@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Taco John's ends 'Taco Tuesday' dispute with Taco Bell - The Washington Post
+Prompt: CMT pulls Jason Aldean’s controversial ‘Try That in a Small Town’ video as singer defends divisive song
 
-[Read more](https://www.washingtonpost.com/food/2023/07/18/taco-tuesday-trademark-taco-johns-taco-bell/)
+[Read more](https://www.nbcnews.com/news/us-news/cmt-pulls-jason-aldeans-controversial-try-small-town-video-singer-defe-rcna95014)
