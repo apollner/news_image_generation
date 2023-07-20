@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia strikes Ukraine's Odesa port in 'hellish' attack - official
+Prompt: Thai court suspends Pita as lawmaker with parliament due to vote on PM
 
-[Read more](https://www.reuters.com/world/europe/russia-strikes-ukraines-odesa-port-hellish-attack-official-2023-07-19/)
+[Read more](https://www.reuters.com/world/asia-pacific/last-chance-thailands-pita-become-pm-parliament-votes-2023-07-19/)
