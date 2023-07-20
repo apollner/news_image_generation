@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Powerball's jackpot reaches $1 billion—here's the after-tax payout in every U.S. state
+Prompt: 2023 British Open odds, favorites: Rory McIlroy easily ahead of Scottie Scheffler, Jon Rahm at Royal Liverpool
 
-[Read more](https://www.cnbc.com/2023/07/19/powerball-jackpot-hits-1-billion-dollars-after-tax-payout-in-every-state.html)
+[Read more](https://www.cbssports.com/golf/news/2023-british-open-odds-favorites-rory-mcilroy-easily-ahead-of-scottie-scheffler-jon-rahm-at-royal-liverpool/)
