@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Unlike Other Democrats, Pervez Agwan Says He's Unafraid of AIPAC
+Prompt: Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted
 
-[Read more](http://theintercept.com/2023/07/18/israel-aipac-democrats-texas-pervez-agwan/)
+[Read more](https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/)
