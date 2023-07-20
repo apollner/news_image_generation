@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted
+Prompt: Carlee Russell: Police share new details about investigation, announce press conference
 
-[Read more](https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/)
+[Read more](https://www.fox5atlanta.com/news/carlee-russell-investigation-update-press-conference-parents)
