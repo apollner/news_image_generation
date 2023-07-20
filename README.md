@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Fire at military base in Crimea forces evacuation of more than 2000 people
+Prompt: Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted
 
-[Read more](https://www.reuters.com/world/europe/fire-military-base-crimea-major-highway-closed-russia-backed-governor-2023-07-19/)
+[Read more](https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/)
