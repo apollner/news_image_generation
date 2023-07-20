@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: CMT pulls Jason Aldean’s controversial ‘Try That in a Small Town’ video as singer defends divisive song
+Prompt: Russia strikes Ukraine's Odesa port in 'hellish' attack - official
 
-[Read more](https://www.nbcnews.com/news/us-news/cmt-pulls-jason-aldeans-controversial-try-small-town-video-singer-defe-rcna95014)
+[Read more](https://www.reuters.com/world/europe/russia-strikes-ukraines-odesa-port-hellish-attack-official-2023-07-19/)
