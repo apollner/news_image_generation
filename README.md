@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Phoenix scorches at 110 for 19th straight day, breaking big US city records in global heat wave
+Prompt: Mega Millions jackpot reaches a whopping $720 million
 
-[Read more](https://news.yahoo.com/phoenixs-long-simmering-heat-poised-005540315.html)
+[Read more](https://www.foxbusiness.com/markets/mega-millions-jackpot-climbs-640-million-seventh-largest)
