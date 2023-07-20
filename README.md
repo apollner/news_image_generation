@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 2023 Lenovo Legion Pro 5 with Ryzen 7 7745HX and RTX 4070 drops to lowest price in 120 days
+Prompt: Travis King: US soldier in N Korea had been held after fighting in Seoul
 
-[Read more](https://www.notebookcheck.net/2023-Lenovo-Legion-Pro-5-with-Ryzen-7-7745HX-and-RTX-4070-drops-to-lowest-price-in-120-days.735049.0.html)
+[Read more](https://www.bbc.com/news/world-asia-66219603)
