@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Thai court suspends Pita as lawmaker with parliament due to vote on PM
+Prompt: SpaceX’s Falcon 9 rocket launch from Southern California base aborted
 
-[Read more](https://www.reuters.com/world/asia-pacific/last-chance-thailands-pita-become-pm-parliament-votes-2023-07-19/)
+[Read more](https://ktla.com/news/local-news/spacex-launches-falcon-9-rocket-from-california-base/)
