@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Home searched in Tupac Shakur murder investigation
+Prompt: US Powerball players face steep odds as jackpot hits $1bn
 
-[Read more](https://abcnews.go.com/Entertainment/home-searched-tupac-shakur-murder-investigation-source/story?id=101431787)
+[Read more](https://www.theguardian.com/us-news/2023/jul/19/powerball-odds-winning-numbers-july-19)
