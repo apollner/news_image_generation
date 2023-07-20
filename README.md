@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Fossil found in Northeastern China shows pugnacious mammal attacking a dinosaur | WION Pulse
+Prompt: Trump criminal target letter in election probe cites laws on conspiracy, witness tampering
 
-[Read more](https://www.youtube.com/watch?v=AElV9WFVPns)
+[Read more](https://www.cnbc.com/2023/07/19/trump-criminal-target-letter-cites-conspiracy-tampering.html)
