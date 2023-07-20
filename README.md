@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Fossil shows mammal, dinosaur "locked in mortal combat"
+Prompt: Russia attacks Ukraine’s Odesa, explosions reported in Sevastopol
 
-[Read more](https://www.cbsnews.com/news/dinosaur-mammal-fossil-mortal-combat-repenomamus-robustus-psittacosaurus/)
+[Read more](https://www.aljazeera.com/news/2023/7/19/russia-attacks-ukraines-odesa-explosions-reported-in-sevastopol)
