@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘I’m just so grateful:’ Castaway and his dog who survived months adrift at sea back on dry land
+Prompt: Northern California forecast: Temperatures warm to triple digits Thursday
 
-[Read more](https://www.cnn.com/2023/07/18/australia/australia-castaway-dog-rescue-timothy-shaddock-intl-hnk/index.html)
+[Read more](https://www.kcra.com/article/northern-california-forecast-triple-digits-heat-july-19-2023/44589295)
