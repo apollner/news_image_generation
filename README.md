@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Trump criminal target letter in election probe cites laws on conspiracy, witness tampering
+Prompt: Tesla earnings: EV maker reports Q2 revenue and earnings beat; Musk says Q3 production will decrease slightly
 
-[Read more](https://www.cnbc.com/2023/07/19/trump-criminal-target-letter-cites-conspiracy-tampering.html)
+[Read more](https://finance.yahoo.com/news/tesla-earnings-ev-maker-reports-q2-revenue-and-earnings-beat-musk-says-q3-production-will-decrease-slightly-201947764.html)
