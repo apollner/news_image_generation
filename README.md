@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Mega Millions jackpot reaches a whopping $720 million
+Prompt: Fire at military base in Crimea forces evacuation of more than 2000 people
 
-[Read more](https://www.foxbusiness.com/markets/mega-millions-jackpot-climbs-640-million-seventh-largest)
+[Read more](https://www.reuters.com/world/europe/fire-military-base-crimea-major-highway-closed-russia-backed-governor-2023-07-19/)
