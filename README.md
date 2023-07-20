@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Israel's Herzog sharply addresses criticism from House members after Squad member's remarks
+Prompt: Oppenheimer: Cillian Murphy makes powerful impact in atomic epic
 
-[Read more](https://www.foxnews.com/politics/israels-herzog-sharply-addresses-criticism-house-members-squad-members-remarks)
+[Read more](https://www.bbc.com/news/entertainment-arts-66244896)
