@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: US Powerball players face steep odds as jackpot hits $1bn
+Prompt: Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted
 
-[Read more](https://www.theguardian.com/us-news/2023/jul/19/powerball-odds-winning-numbers-july-19)
+[Read more](https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/)
