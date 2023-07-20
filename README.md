@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Trump criminal target letter in election probe cites laws on conspiracy, witness tampering
+Prompt: Two-faced star with helium and hydrogen sides baffles astronomers
 
-[Read more](https://www.cnbc.com/2023/07/19/trump-criminal-target-letter-cites-conspiracy-tampering.html)
+[Read more](https://www.theguardian.com/science/2023/jul/19/two-faced-star-with-helium-and-hydrogen-sides-baffles-astronomers-janus)
