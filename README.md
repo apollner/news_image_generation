@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 2023 British Open odds, favorites: Rory McIlroy easily ahead of Scottie Scheffler, Jon Rahm at Royal Liverpool
+Prompt: Trump criminal target letter in election probe cites laws on conspiracy, witness tampering
 
-[Read more](https://www.cbssports.com/golf/news/2023-british-open-odds-favorites-rory-mcilroy-easily-ahead-of-scottie-scheffler-jon-rahm-at-royal-liverpool/)
+[Read more](https://www.cnbc.com/2023/07/19/trump-criminal-target-letter-cites-conspiracy-tampering.html)
