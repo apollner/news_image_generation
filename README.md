@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 2023 British Open odds, golf picks, field, date: Surprising PGA predictions by model that called nine majors
+Prompt: Fossil found in Northeastern China shows pugnacious mammal attacking a dinosaur | WION Pulse
 
-[Read more](https://www.cbssports.com/golf/news/2023-british-open-odds-golf-picks-field-date-surprising-pga-predictions-by-model-that-called-nine-majors/)
+[Read more](https://www.youtube.com/watch?v=AElV9WFVPns)
