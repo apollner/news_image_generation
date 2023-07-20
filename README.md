@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Oppenheimer: Cillian Murphy makes powerful impact in atomic epic
+Prompt: 2023 British Open odds, golf picks, field, date: Surprising PGA predictions by model that called nine majors
 
-[Read more](https://www.bbc.com/news/entertainment-arts-66244896)
+[Read more](https://www.cbssports.com/golf/news/2023-british-open-odds-golf-picks-field-date-surprising-pga-predictions-by-model-that-called-nine-majors/)
