@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Gilgo Beach murders: Over 200 guns taken from suspect's home
+Prompt: Home searched in Tupac Shakur murder investigation
 
-[Read more](https://www.bbc.com/news/world-us-canada-66205088)
+[Read more](https://abcnews.go.com/Entertainment/home-searched-tupac-shakur-murder-investigation-source/story?id=101431787)
