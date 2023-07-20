@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Oversight Committee to hear from 2 IRS whistleblowers Wednesday
+Prompt: ‘I’m just so grateful:’ Castaway and his dog who survived months adrift at sea back on dry land
 
-[Read more](https://www.cnn.com/2023/07/19/politics/oversight-committee-hearing-irs-whistleblowers/index.html)
+[Read more](https://www.cnn.com/2023/07/18/australia/australia-castaway-dog-rescue-timothy-shaddock-intl-hnk/index.html)
