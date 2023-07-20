@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Tuberville, Austin call fails to yield breakthrough on military holds
+Prompt: Fossil shows mammal, dinosaur "locked in mortal combat"
 
-[Read more](https://thehill.com/policy/defense/4104571-tuberville-austin-call-fails-to-yield-breakthrough-on-military-holds/)
+[Read more](https://www.cbsnews.com/news/dinosaur-mammal-fossil-mortal-combat-repenomamus-robustus-psittacosaurus/)
