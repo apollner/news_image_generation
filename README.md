@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Trump criminal target letter in election probe cites laws on conspiracy, witness tampering
+Prompt: Powerball's jackpot reaches $1 billion—here's the after-tax payout in every U.S. state
 
-[Read more](https://www.cnbc.com/2023/07/19/trump-criminal-target-letter-cites-conspiracy-tampering.html)
+[Read more](https://www.cnbc.com/2023/07/19/powerball-jackpot-hits-1-billion-dollars-after-tax-payout-in-every-state.html)
