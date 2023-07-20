@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted
+Prompt: Fossil shows mammal, dinosaur "locked in mortal combat"
 
-[Read more](https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/)
+[Read more](https://www.cbsnews.com/news/dinosaur-mammal-fossil-mortal-combat-repenomamus-robustus-psittacosaurus/)
