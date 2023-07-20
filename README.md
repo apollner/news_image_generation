@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Las Vegas police search home in connection with Tupac Shakur murder - KLAS
+Prompt: Unlike Other Democrats, Pervez Agwan Says He's Unafraid of AIPAC
 
-[Read more](https://www.8newsnow.com/investigators/las-vegas-police-search-home-in-connection-with-tupac-shakur-murder/)
+[Read more](http://theintercept.com/2023/07/18/israel-aipac-democrats-texas-pervez-agwan/)
