@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Two-faced star with helium and hydrogen sides baffles astronomers
+Prompt: Apple is testing a ChatGPT-like AI chatbot
 
-[Read more](https://www.theguardian.com/science/2023/jul/19/two-faced-star-with-helium-and-hydrogen-sides-baffles-astronomers-janus)
+[Read more](https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/)
