@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Pooping only every 3 or more days linked with cognitive decline, research finds
+Prompt: Oversight Committee to hear from 2 IRS whistleblowers Wednesday
 
-[Read more](https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html)
+[Read more](https://www.cnn.com/2023/07/19/politics/oversight-committee-hearing-irs-whistleblowers/index.html)
