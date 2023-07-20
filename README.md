@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stocks mixed, sterling weighed as UK inflation slows
+Prompt: Phoenix scorches at 110 for 19th straight day, breaking big US city records in global heat wave
 
-[Read more](https://www.reuters.com/markets/global-markets-wrapup-1-2023-07-19/)
+[Read more](https://news.yahoo.com/phoenixs-long-simmering-heat-poised-005540315.html)
