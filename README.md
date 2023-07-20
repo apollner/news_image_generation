@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted
+Prompt: 'Better never rests': What winningest team in sports taught Georgia's football program
 
-[Read more](https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/)
+[Read more](https://247sports.com/college/georgia/article/better-never-rests-what-winningest-team-in-sports-taught-georgias-football-program-212948999/)
