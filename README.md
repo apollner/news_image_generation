@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Western Alliance Earnings Give Shot at Winning Back Wary Market
+Prompt: Las Vegas police search home in connection with Tupac Shakur murder - KLAS
 
-[Read more](https://finance.yahoo.com/news/western-alliance-results-key-winning-140219694.html)
+[Read more](https://www.8newsnow.com/investigators/las-vegas-police-search-home-in-connection-with-tupac-shakur-murder/)
