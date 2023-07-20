@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 'Better never rests': What winningest team in sports taught Georgia's football program
+Prompt: Stocks mixed, sterling weighed as UK inflation slows
 
-[Read more](https://247sports.com/college/georgia/article/better-never-rests-what-winningest-team-in-sports-taught-georgias-football-program-212948999/)
+[Read more](https://www.reuters.com/markets/global-markets-wrapup-1-2023-07-19/)
