@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Travis King: US soldier in N Korea had been held after fighting in Seoul
+Prompt: Europe battles heatwave and fires, record temperatures scorch China
 
-[Read more](https://www.bbc.com/news/world-asia-66219603)
+[Read more](https://www.reuters.com/world/record-heat-wave-grips-china-flood-toll-rises-south-korea-2023-07-19/)
