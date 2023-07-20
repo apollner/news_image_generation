@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 15 die by electrocution after transformer explodes in northern India
+Prompt: 2023 Lenovo Legion Pro 5 with Ryzen 7 7745HX and RTX 4070 drops to lowest price in 120 days
 
-[Read more](https://abcnews.go.com/International/wireStory/15-die-electrocution-after-transformer-explodes-northern-india-101479931)
+[Read more](https://www.notebookcheck.net/2023-Lenovo-Legion-Pro-5-with-Ryzen-7-7745HX-and-RTX-4070-drops-to-lowest-price-in-120-days.735049.0.html)
