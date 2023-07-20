@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Carlee Russell: Police share new details about investigation, announce press conference
+Prompt: 15 die by electrocution after transformer explodes in northern India
 
-[Read more](https://www.fox5atlanta.com/news/carlee-russell-investigation-update-press-conference-parents)
+[Read more](https://abcnews.go.com/International/wireStory/15-die-electrocution-after-transformer-explodes-northern-india-101479931)
