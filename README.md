@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: SpaceX’s Falcon 9 rocket launch from Southern California base aborted
+Prompt: Tuberville, Austin call fails to yield breakthrough on military holds
 
-[Read more](https://ktla.com/news/local-news/spacex-launches-falcon-9-rocket-from-california-base/)
+[Read more](https://thehill.com/policy/defense/4104571-tuberville-austin-call-fails-to-yield-breakthrough-on-military-holds/)
