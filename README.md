@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Europe battles heatwave and fires, record temperatures scorch China
+Prompt: Pooping only every 3 or more days linked with cognitive decline, research finds
 
-[Read more](https://www.reuters.com/world/record-heat-wave-grips-china-flood-toll-rises-south-korea-2023-07-19/)
+[Read more](https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html)
