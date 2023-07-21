@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: American Airlines raises 2023 profit forecast after strong second quarter
+Prompt: Who was the real J. Robert Oppenheimer?
 
-[Read more](https://www.cnbc.com/2023/07/20/american-airlines-aal-2q-2023-earnings.html)
+[Read more](https://www.cnn.com/2023/07/20/entertainment/oppenheimer-who-christopher-nolan-movie-intl-scli-scn/index.html)
