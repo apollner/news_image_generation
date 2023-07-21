@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Headline: Colts to wear 'Indiana Nights' alternate uniform for Week 7 game vs. Cleveland Browns
+Prompt: Apple's MacBook Air M1 is back on sale for $750 | Engadget
 
-[Read more](https://www.colts.com/news/alternate-jerseys-black-helmets-indiana-nights-blue-heather-browns-game)
+[Read more](https://www.engadget.com/apples-macbook-air-m1-is-back-on-sale-for-750-160059819.html)
