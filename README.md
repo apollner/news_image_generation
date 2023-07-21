@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Swedish embassy in Baghdad stormed, set alight over Koran burning
+Prompt: Hearing aids may cut risk of cognitive decline by nearly half
 
-[Read more](https://www.reuters.com/world/swedish-embassy-baghdad-stormed-set-alight-source-witness-2023-07-19/)
+[Read more](https://www.washingtonpost.com/wellness/2023/07/19/hearing-loss-hearing-aids-dementia-study/)
