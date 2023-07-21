@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: EF3 tornado rips through North Carolina amid extreme weather nationwide
+Prompt: Headline: Colts to wear 'Indiana Nights' alternate uniform for Week 7 game vs. Cleveland Browns
 
-[Read more](https://abcnews.go.com/US/ef3-tornado-north-carolina-extreme-weather-nationwide/story?id=101510966)
+[Read more](https://www.colts.com/news/alternate-jerseys-black-helmets-indiana-nights-blue-heather-browns-game)
