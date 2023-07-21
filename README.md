@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Grassley releases internal FBI document about unverified Biden bribery allegations
+Prompt: West Nile virus found in mosquitoes in Anne Arundel County
 
-[Read more](https://www.cnn.com/2023/07/20/politics/chuck-grassley-fbi-document/index.html)
+[Read more](https://www.wbaltv.com/article/west-nile-virus-found-mosquitoes-anne-arundel-county/44603414)
