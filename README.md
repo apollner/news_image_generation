@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Hearing aids may cut risk of cognitive decline by nearly half
+Prompt: ‘He was going so fast’: US officials try to piece together why soldier bolted into North Korea
 
-[Read more](https://www.washingtonpost.com/wellness/2023/07/19/hearing-loss-hearing-aids-dementia-study/)
+[Read more](https://www.cnn.com/2023/07/19/politics/travis-king-north-korea/index.html)
