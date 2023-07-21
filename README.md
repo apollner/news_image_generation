@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: The winners and losers from the $69bn Microsoft-Activision mega-deal
+Prompt: EF3 tornado rips through North Carolina amid extreme weather nationwide
 
-[Read more](https://www.economist.com/business/2023/07/20/the-winners-and-losers-from-the-69bn-microsoft-activision-mega-deal)
+[Read more](https://abcnews.go.com/US/ef3-tornado-north-carolina-extreme-weather-nationwide/story?id=101510966)
