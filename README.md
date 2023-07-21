@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Apple's MacBook Air M1 is back on sale for $750 | Engadget
+Prompt: Execution of James Barber, first Alabama inmate to be put to death after state's pause, can proceed
 
-[Read more](https://www.engadget.com/apples-macbook-air-m1-is-back-on-sale-for-750-160059819.html)
+[Read more](https://www.nbcnews.com/news/us-news/execution-james-barber-first-alabama-inmate-put-death-states-pause-can-rcna95198)
