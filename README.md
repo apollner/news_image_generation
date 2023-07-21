@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘He was going so fast’: US officials try to piece together why soldier bolted into North Korea
+Prompt: Tesla profits climb despite price cuts
 
-[Read more](https://www.cnn.com/2023/07/19/politics/travis-king-north-korea/index.html)
+[Read more](https://www.cnn.com/2023/07/19/business/tesla-earnings/index.html)
