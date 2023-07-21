@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: I made myself try a 14.5-inch tablet — and it didn’t go very well
+Prompt: June home sales drop to the slowest pace in 14 years as short supply chokes the market
 
-[Read more](http://www.digitaltrends.com/mobile/i-made-myself-use-a-big-android-tablet-didnt-go-well-why/)
+[Read more](https://www.cnbc.com/2023/07/20/june-home-sales-drop-to-the-slowest-pace-in-14-years.html)
