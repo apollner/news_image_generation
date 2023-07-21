@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘This Is Not About Selling Toys’: Mattel Bosses on ‘Barbie’s’ Long Development, Needing a Female Director and More
+Prompt: US Army worried about how North Korea will treat Private King
 
-[Read more](https://variety.com/2023/film/news/barbie-movie-mattell-execs-toy-adaptations-1235674597/)
+[Read more](https://www.reuters.com/world/asia-pacific/us-army-worried-about-how-north-korea-will-treat-private-king-2023-07-20/)
