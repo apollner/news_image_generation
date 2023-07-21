@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Tesla earnings: EV maker reports Q2 revenue and earnings beat; Musk says Q3 production will decrease slightly
+Prompt: The Overwatch League As We Know It Is Dead
 
-[Read more](https://finance.yahoo.com/news/tesla-earnings-ev-maker-reports-q2-revenue-and-earnings-beat-musk-says-q3-production-will-decrease-slightly-201947764.html)
+[Read more](https://kotaku.com/overwatch-league-esports-layoffs-blizzard-owl-1850657003)
