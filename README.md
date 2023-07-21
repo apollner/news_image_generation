@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: West Nile virus found in mosquitoes in Anne Arundel County
+Prompt: FTC withdraws its in-house challenge to Microsoft's Activision-Blizzard deal
 
-[Read more](https://www.wbaltv.com/article/west-nile-virus-found-mosquitoes-anne-arundel-county/44603414)
+[Read more](https://www.theverge.com/2023/7/20/23795591/ftc-microsoft-activision-administrative-challenge)
