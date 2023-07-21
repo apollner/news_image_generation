@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Republicans bolster RFK Jr. in hearing, while Democrats assail him
+Prompt: Grassley releases internal FBI document about unverified Biden bribery allegations
 
-[Read more](https://www.washingtonpost.com/politics/2023/07/20/robert-kennedy-house-hearing/)
+[Read more](https://www.cnn.com/2023/07/20/politics/chuck-grassley-fbi-document/index.html)
