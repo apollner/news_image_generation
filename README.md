@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: No word from North Korea on US soldier who fled across military border
+Prompt: American Airlines raises 2023 profit forecast after strong second quarter
 
-[Read more](https://www.reuters.com/world/asia-pacific/no-word-north-korea-us-soldier-who-dashed-across-military-border-2023-07-20/)
+[Read more](https://www.cnbc.com/2023/07/20/american-airlines-aal-2q-2023-earnings.html)
