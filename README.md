@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: New Zealand vs. Norway Highlights | 2023 FIFA Women's World Cup
+Prompt: A Cracked Piece of Metal Healed Itself in an Experiment That Stunned Scientists
 
-[Read more](https://www.youtube.com/watch?v=VOrBWkOIf4Y)
+[Read more](https://www.sciencealert.com/a-cracked-piece-of-metal-healed-itself-in-an-experiment-that-stunned-scientists)
