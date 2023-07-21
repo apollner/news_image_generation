@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Transform Your Health in Two Days: Weekend Workouts May Be As Effective as Exercising All Week
+Prompt: Home searched in Tupac killing tied to wife of Duane ‘Keefe D’ Davis
 
-[Read more](https://scitechdaily.com/transform-your-health-in-two-days-weekend-workouts-may-be-as-effective-as-exercising-all-week/)
+[Read more](https://www.reviewjournal.com/post/2874705)
