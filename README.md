@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Google is reportedly testing an AI tool that can generate news articles
+Prompt: 'Stay indoors': Escaped wild animal on the loose in Berlin prompts urgent citywide search
 
-[Read more](https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html)
+[Read more](https://abcnews.go.com/International/stay-indoors-lion-loose-berlin-prompts-urgent-citywide/story?id=101512904)
