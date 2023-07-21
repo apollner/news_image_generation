@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 2023 British Open TV schedule, coverage, live stream, watch online, channel, golf tee times at Royal Liverpool
+Prompt: Transform Your Health in Two Days: Weekend Workouts May Be As Effective as Exercising All Week
 
-[Read more](https://www.cbssports.com/golf/news/2023-british-open-tv-schedule-coverage-live-stream-watch-online-channel-golf-tee-times-at-royal-liverpool/)
+[Read more](https://scitechdaily.com/transform-your-health-in-two-days-weekend-workouts-may-be-as-effective-as-exercising-all-week/)
