@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Tesla profits climb despite price cuts
+Prompt: Judge denies Trump's request to move hush money criminal case to federal court
 
-[Read more](https://www.cnn.com/2023/07/19/business/tesla-earnings/index.html)
+[Read more](https://www.youtube.com/watch?v=Eu_Ofx8cOio)
