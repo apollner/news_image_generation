@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: US Army worried about how North Korea will treat Private King
+Prompt: Republicans bolster RFK Jr. in hearing, while Democrats assail him
 
-[Read more](https://www.reuters.com/world/asia-pacific/us-army-worried-about-how-north-korea-will-treat-private-king-2023-07-20/)
+[Read more](https://www.washingtonpost.com/politics/2023/07/20/robert-kennedy-house-hearing/)
