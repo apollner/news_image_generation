@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Who was the real J. Robert Oppenheimer?
+Prompt: I made myself try a 14.5-inch tablet — and it didn’t go very well
 
-[Read more](https://www.cnn.com/2023/07/20/entertainment/oppenheimer-who-christopher-nolan-movie-intl-scli-scn/index.html)
+[Read more](http://www.digitaltrends.com/mobile/i-made-myself-use-a-big-android-tablet-didnt-go-well-why/)
