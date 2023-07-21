@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Over just a few months, ChatGPT went from correctly answering a simple math problem 98% of the time to just 2%, study finds
+Prompt: Joe Manganiello Files for Divorce from Sofía Vergara 2 Days After Split Announcement
 
-[Read more](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
+[Read more](https://people.com/joe-manganiello-files-for-divorce-from-sofia-vergara-7562790)
