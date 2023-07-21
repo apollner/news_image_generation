@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Home searched in Tupac killing tied to wife of Duane ‘Keefe D’ Davis
+Prompt: New Zealand vs. Norway Highlights | 2023 FIFA Women's World Cup
 
-[Read more](https://www.reviewjournal.com/post/2874705)
+[Read more](https://www.youtube.com/watch?v=VOrBWkOIf4Y)
