@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Powerball jackpot grows to $1 billon. See July 19 winning numbers
+Prompt: Jets trading Denzel Mims to Lions, swapping picks as New York deals former second-round WR, per report
 
-[Read more](https://www.usatoday.com/story/money/2023/07/19/powerball-winning-numbers-july-19-1b-jackpot/70435372007/)
+[Read more](https://www.cbssports.com/nfl/news/jets-trading-denzel-mims-to-lions-swapping-picks-as-new-york-deals-former-second-round-wr-per-report/)
