@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Joe Manganiello Files for Divorce from Sofía Vergara 2 Days After Split Announcement
+Prompt: Netflix gains more new subscribers than expected following password-sharing crackdown
 
-[Read more](https://people.com/joe-manganiello-files-for-divorce-from-sofia-vergara-7562790)
+[Read more](https://www.theguardian.com/media/2023/jul/19/netflix-subscriber-growth-password-sharing)
