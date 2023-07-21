@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: There are new options for RSV prevention. CNN’s medical analyst explains
+Prompt: Google is reportedly testing an AI tool that can generate news articles
 
-[Read more](https://www.cnn.com/2023/07/20/health/rsv-vaccine-prevention-newborn-babies-wellness/index.html)
+[Read more](https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html)
