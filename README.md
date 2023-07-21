@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ESPN's Buster Olney on Marveling at Shohei Ohtani's MANY Jaw-Dropping Feats | The Rich Eisen Show
+Prompt: Netflix adds nearly 6 million paid subscribers amid password sharing crackdown
 
-[Read more](https://www.youtube.com/watch?v=Z-TPQkAiLFc)
+[Read more](https://www.cnn.com/2023/07/19/tech/netflix-earnings-subscriber-growth/index.html)
