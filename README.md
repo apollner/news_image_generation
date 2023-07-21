@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Netflix adds nearly 6 million paid subscribers amid password sharing crackdown
+Prompt: Travis King: US soldier in N Korea had been held after fighting in Seoul
 
-[Read more](https://www.cnn.com/2023/07/19/tech/netflix-earnings-subscriber-growth/index.html)
+[Read more](https://www.bbc.com/news/world-asia-66219603)
