@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: The Overwatch League As We Know It Is Dead
+Prompt: ESPN's Buster Olney on Marveling at Shohei Ohtani's MANY Jaw-Dropping Feats | The Rich Eisen Show
 
-[Read more](https://kotaku.com/overwatch-league-esports-layoffs-blizzard-owl-1850657003)
+[Read more](https://www.youtube.com/watch?v=Z-TPQkAiLFc)
