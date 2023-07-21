@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Google is reportedly testing an AI tool that can generate news articles
+Prompt: No word from North Korea on US soldier who fled across military border
 
-[Read more](https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html)
+[Read more](https://www.reuters.com/world/asia-pacific/no-word-north-korea-us-soldier-who-dashed-across-military-border-2023-07-20/)
