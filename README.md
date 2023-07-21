@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Netflix gains more new subscribers than expected following password-sharing crackdown
+Prompt: Powerball jackpot grows to $1 billon. See July 19 winning numbers
 
-[Read more](https://www.theguardian.com/media/2023/jul/19/netflix-subscriber-growth-password-sharing)
+[Read more](https://www.usatoday.com/story/money/2023/07/19/powerball-winning-numbers-july-19-1b-jackpot/70435372007/)
