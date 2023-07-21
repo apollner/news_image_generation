@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: June home sales drop to the slowest pace in 14 years as short supply chokes the market
+Prompt: Stunning Hannah Wilkinson goal delivers shock win for New Zealand over Norway in opening Women’s World Cup match
 
-[Read more](https://www.cnbc.com/2023/07/20/june-home-sales-drop-to-the-slowest-pace-in-14-years.html)
+[Read more](https://www.cnn.com/2023/07/19/football/world-cup-opening-games-new-zealand-australia-spt-intl/index.html)
