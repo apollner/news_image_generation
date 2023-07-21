@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jets trading Denzel Mims to Lions, swapping picks as New York deals former second-round WR, per report
+Prompt: Swedish embassy in Baghdad stormed, set alight over Koran burning
 
-[Read more](https://www.cbssports.com/nfl/news/jets-trading-denzel-mims-to-lions-swapping-picks-as-new-york-deals-former-second-round-wr-per-report/)
+[Read more](https://www.reuters.com/world/swedish-embassy-baghdad-stormed-set-alight-source-witness-2023-07-19/)
