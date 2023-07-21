@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Travis King: US soldier in N Korea had been held after fighting in Seoul
+Prompt: Over just a few months, ChatGPT went from correctly answering a simple math problem 98% of the time to just 2%, study finds
 
-[Read more](https://www.bbc.com/news/world-asia-66219603)
+[Read more](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
