@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 'Stay indoors': Escaped wild animal on the loose in Berlin prompts urgent citywide search
+Prompt: There are new options for RSV prevention. CNN’s medical analyst explains
 
-[Read more](https://abcnews.go.com/International/stay-indoors-lion-loose-berlin-prompts-urgent-citywide/story?id=101512904)
+[Read more](https://www.cnn.com/2023/07/20/health/rsv-vaccine-prevention-newborn-babies-wellness/index.html)
