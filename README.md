@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Judge denies Trump's request to move hush money criminal case to federal court
+Prompt: 2023 British Open TV schedule, coverage, live stream, watch online, channel, golf tee times at Royal Liverpool
 
-[Read more](https://www.youtube.com/watch?v=Eu_Ofx8cOio)
+[Read more](https://www.cbssports.com/golf/news/2023-british-open-tv-schedule-coverage-live-stream-watch-online-channel-golf-tee-times-at-royal-liverpool/)
