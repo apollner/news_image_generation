@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Execution of James Barber, first Alabama inmate to be put to death after state's pause, can proceed
+Prompt: ‘This Is Not About Selling Toys’: Mattel Bosses on ‘Barbie’s’ Long Development, Needing a Female Director and More
 
-[Read more](https://www.nbcnews.com/news/us-news/execution-james-barber-first-alabama-inmate-put-death-states-pause-can-rcna95198)
+[Read more](https://variety.com/2023/film/news/barbie-movie-mattell-execs-toy-adaptations-1235674597/)
