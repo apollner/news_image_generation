@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: A Cracked Piece of Metal Healed Itself in an Experiment That Stunned Scientists
+Prompt: Google is reportedly testing an AI tool that can generate news articles
 
-[Read more](https://www.sciencealert.com/a-cracked-piece-of-metal-healed-itself-in-an-experiment-that-stunned-scientists)
+[Read more](https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html)
