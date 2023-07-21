@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stunning Hannah Wilkinson goal delivers shock win for New Zealand over Norway in opening Women’s World Cup match
+Prompt: The winners and losers from the $69bn Microsoft-Activision mega-deal
 
-[Read more](https://www.cnn.com/2023/07/19/football/world-cup-opening-games-new-zealand-australia-spt-intl/index.html)
+[Read more](https://www.economist.com/business/2023/07/20/the-winners-and-losers-from-the-69bn-microsoft-activision-mega-deal)
