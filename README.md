@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Liberal justices blast Supreme Court majority for allowing Alabama execution
+Prompt: Microsoft's Activision Blizzard acquisition bodes well for Ubisoft, CEO says | VGC
 
-[Read more](https://www.nbcnews.com/politics/supreme-court/liberal-justices-blast-supreme-court-majority-allowing-alabama-executi-rcna95502)
+[Read more](https://www.videogameschronicle.com/news/microsofts-activision-blizzard-acquisition-bodes-well-for-ubisoft-ceo-says/)
