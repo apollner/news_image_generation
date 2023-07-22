@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: This is how Phoenix is surviving its worst-ever heat wave
+Prompt: Investigators in Gilgo Beach case operating on theory that the killings occurred in suspect’s home
 
-[Read more](https://www.azcentral.com/story/news/local/arizona/2023/07/20/how-phoenix-is-surviving-its-worst-ever-heat-wave/70434655007/)
+[Read more](https://www.cnn.com/2023/07/20/us/gilgo-beach-serial-killings-rex-heuermann-house/index.html)
