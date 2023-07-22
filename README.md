@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Introducing Janus, the exotic 'two-faced' white dwarf star
+Prompt: Redditors troll an AI content farm into covering a fake 'WoW' feature
 
-[Read more](https://www.reuters.com/science/introducing-janus-exotic-two-faced-white-dwarf-star-2023-07-21/)
+[Read more](https://www.engadget.com/redditors-troll-an-ai-content-farm-into-covering-a-fake-wow-feature-145006066.html)
