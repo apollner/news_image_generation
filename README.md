@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Redditors troll an AI content farm into covering a fake 'WoW' feature
+Prompt: Liberal justices blast Supreme Court majority for allowing Alabama execution
 
-[Read more](https://www.engadget.com/redditors-troll-an-ai-content-farm-into-covering-a-fake-wow-feature-145006066.html)
+[Read more](https://www.nbcnews.com/politics/supreme-court/liberal-justices-blast-supreme-court-majority-allowing-alabama-executi-rcna95502)
