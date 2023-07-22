@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stock futures are higher after Dow registers longest winning streak since 2017: Live updates
+Prompt: 1,142 Air Force reservists to end volunteer duty in protest of judicial overhaul
 
-[Read more](https://www.cnbc.com/2023/07/20/stock-market-today-live-updates.html)
+[Read more](https://www.timesofisrael.com/over-1100-air-force-reservists-to-end-volunteer-duty-in-protest-of-judicial-overhaul/)
