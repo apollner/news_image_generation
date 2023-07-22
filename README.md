@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Carlee Russell’s Case Shares Eerie Similarities to Well-Known Kidnapping Hoaxes
+Prompt: Researchers make progress toward a new environmentally friendly nanomaterial that could revolutionize electronic devices
 
-[Read more](https://news.yahoo.com/carlee-russell-case-shares-eerie-194351808.html)
+[Read more](https://phys.org/news/2023-07-environmentally-friendly-nanomaterial-revolutionize-electronic.html)
