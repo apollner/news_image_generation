@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Adeem the Artist Satirizes Jason Aldean’s ‘Try That in a Small Town’ With ‘Sundown Town’
+Prompt: Researchers make progress toward a new environmentally friendly nanomaterial that could revolutionize electronic devices
 
-[Read more](https://www.rollingstone.com/music/music-country/adeem-the-artist-jason-aldean-try-that-in-a-small-town-spoof-sundown-town-1234792810/)
+[Read more](https://phys.org/news/2023-07-environmentally-friendly-nanomaterial-revolutionize-electronic.html)
