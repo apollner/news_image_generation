@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Researchers make progress toward a new environmentally friendly nanomaterial that could revolutionize electronic devices
+Prompt: ‘I’m a little less triggered’: Aaron Rodgers is shifting his approach as Jets bask in Super Bowl hype
 
-[Read more](https://phys.org/news/2023-07-environmentally-friendly-nanomaterial-revolutionize-electronic.html)
+[Read more](https://sports.yahoo.com/im-a-little-less-triggered-aaron-rodgers-is-shifting-his-approach-as-jets-bask-in-super-bowl-hype-234536839.html)
