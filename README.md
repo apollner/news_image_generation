@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: DeSantis orders probe into Bud Light's deal with transgender influencer Dylan Mulvaney
+Prompt: Hawaii health officials call for action as syphilis cases rise
 
-[Read more](https://www.cnbc.com/2023/07/21/desantis-orders-probe-into-bud-light-dylan-mulvaney-deal.html)
+[Read more](https://www.foxnews.com/health/hawaii-health-officials-call-action-syphilis-cases-rise)
