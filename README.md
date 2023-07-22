@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Britney Spears and Will.i.am Drop New Song ‘Mind Your Business’
+Prompt: North Korea gives US cold shoulder on missing soldier
 
-[Read more](https://variety.com/2023/music/news/britney-spears-will-i-am-song-mind-your-business-1235673190/)
+[Read more](https://thehill.com/newsletters/defense-national-security/4109093-north-korea-gives-us-cold-shoulder-on-missing-soldier/)
