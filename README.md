@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: TSMC: Chip giant delays Arizona production in blow to Biden
+Prompt: The Jewish story behind Christopher Nolan’s ‘Oppenheimer,’ explained
 
-[Read more](https://www.bbc.com/news/business-66264392)
+[Read more](https://www.timesofisrael.com/the-jewish-story-behind-christopher-nolans-oppenheimer-explained/)
