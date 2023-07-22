@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Britney Spears and Will.i.am Drop New Song ‘Mind Your Business’
+Prompt: LA County tops list of US counties with greatest number of people living with Alzheimer's disease
 
-[Read more](https://variety.com/2023/music/news/britney-spears-will-i-am-song-mind-your-business-1235673190/)
+[Read more](https://abc7.com/alzheimers-disease-los-angeles-county-us-counties-zaldy-tan/13527907/)
