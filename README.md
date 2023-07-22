@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: President Biden Delivers Remarks on Artificial Intelligence
+Prompt: Astronomers find new type of stellar object that challenges understanding of neutron star physics
 
-[Read more](https://www.youtube.com/watch?v=tg2FNynmToM)
+[Read more](https://www.youtube.com/watch?v=lhczXRMLZNA)
