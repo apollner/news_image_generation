@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: This is how Phoenix is surviving its worst-ever heat wave
+Prompt: Alabama executes James Barber by lethal injection for 'heinous, atrocious and cruel' murder of Dorothy Epps
 
-[Read more](https://www.azcentral.com/story/news/local/arizona/2023/07/20/how-phoenix-is-surviving-its-worst-ever-heat-wave/70434655007/)
+[Read more](https://www.foxnews.com/us/alabama-executes-james-barber-lethal-injection-heinous-atrocious-cruel-murder-dorothy-epps)
