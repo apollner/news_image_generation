@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘This is great news': Downtown LA store owner shocked over sale of $1B Powerball ticket
+Prompt: Investigators in Gilgo Beach case operating on theory that the killings occurred in suspect’s home
 
-[Read more](https://www.nbclosangeles.com/news/local/this-is-great-news-mexican-store-owner-shocked-over-sale-of-winning-powerball-ticket-in-downtown-la/3191157/)
+[Read more](https://www.cnn.com/2023/07/20/us/gilgo-beach-serial-killings-rex-heuermann-house/index.html)
