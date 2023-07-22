@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Why do some people not get COVID symptoms? Study reveals "super dodgers" insight.
+Prompt: Carlee Russell’s Case Shares Eerie Similarities to Well-Known Kidnapping Hoaxes
 
-[Read more](https://www.cbsnews.com/news/covid-symptoms-super-dodgers-researchers-figured-out-why/)
+[Read more](https://news.yahoo.com/carlee-russell-case-shares-eerie-194351808.html)
