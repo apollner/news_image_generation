@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 1,142 Air Force reservists to end volunteer duty in protest of judicial overhaul
+Prompt: Introducing Janus, the exotic 'two-faced' white dwarf star
 
-[Read more](https://www.timesofisrael.com/over-1100-air-force-reservists-to-end-volunteer-duty-in-protest-of-judicial-overhaul/)
+[Read more](https://www.reuters.com/science/introducing-janus-exotic-two-faced-white-dwarf-star-2023-07-21/)
