@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Sam Bankman-Fried’s brother planned to buy the island nation of Nauru with FTX funds to build an apocalypse bunker, new lawsuit alleges
+Prompt: Why this summer's heat is so exceptional across the Southern U.S.
 
-[Read more](https://fortune.com/crypto/2023/07/21/sam-bankman-fried-brother-nauru-effective-altruism-bunker-ftx/)
+[Read more](https://www.washingtonpost.com/weather/2023/07/21/us-heat-wave-heat-dome-climate/)
