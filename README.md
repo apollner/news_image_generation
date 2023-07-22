@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stock futures are higher after Dow registers longest winning streak since 2017: Live updates
+Prompt: Britney Spears and Will.i.am Drop New Song ‘Mind Your Business’
 
-[Read more](https://www.cnbc.com/2023/07/20/stock-market-today-live-updates.html)
+[Read more](https://variety.com/2023/music/news/britney-spears-will-i-am-song-mind-your-business-1235673190/)
