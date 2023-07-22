@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Hawaii health officials call for action as syphilis cases rise
+Prompt: 2-year-old boy dies from brain-eating amoeba in Las Vegas
 
-[Read more](https://www.foxnews.com/health/hawaii-health-officials-call-action-syphilis-cases-rise)
+[Read more](https://fox8.com/news/2-year-old-boy-dies-from-brain-eating-amoeba-in-las-vegas/)
