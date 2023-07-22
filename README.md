@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Alabama executes James Barber by lethal injection for 'heinous, atrocious and cruel' murder of Dorothy Epps
+Prompt: Stock futures are higher after Dow registers longest winning streak since 2017: Live updates
 
-[Read more](https://www.foxnews.com/us/alabama-executes-james-barber-lethal-injection-heinous-atrocious-cruel-murder-dorothy-epps)
+[Read more](https://www.cnbc.com/2023/07/20/stock-market-today-live-updates.html)
