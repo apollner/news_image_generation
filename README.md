@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Oppenheimer met the president after atomic bombs: 'I have blood on my hands'
+Prompt: 1,142 Air Force reservists to end volunteer duty in protest of judicial overhaul
 
-[Read more](https://www.washingtonpost.com/history/2023/07/21/oppenheimer-truman-atomic-bomb-guilt/)
+[Read more](https://www.timesofisrael.com/over-1100-air-force-reservists-to-end-volunteer-duty-in-protest-of-judicial-overhaul/)
