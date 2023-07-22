@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: British Open: Brian Harman runs away with lead Friday at Royal Liverpool as Billy Horschel stops protester
+Prompt: Houston man needed both hands amputated after flea bite
 
-[Read more](https://sports.yahoo.com/british-open-brian-harman-runs-away-with-lead-friday-at-royal-liverpool-as-billy-horschel-stops-protester-165743223.html)
+[Read more](https://www.chron.com/news/houston-texas/article/flea-bite-houston-texas-typhus-18254050.php)
