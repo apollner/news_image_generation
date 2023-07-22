@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: The Jewish story behind Christopher Nolan’s ‘Oppenheimer,’ explained
+Prompt: Britney Spears and Will.i.am Drop New Song ‘Mind Your Business’
 
-[Read more](https://www.timesofisrael.com/the-jewish-story-behind-christopher-nolans-oppenheimer-explained/)
+[Read more](https://variety.com/2023/music/news/britney-spears-will-i-am-song-mind-your-business-1235673190/)
