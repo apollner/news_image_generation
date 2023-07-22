@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: “F*** AI”: Chicago SAG-AFTRA Rally Draws Cross-Union Support
+Prompt: TSMC: Chip giant delays Arizona production in blow to Biden
 
-[Read more](https://www.hollywoodreporter.com/business/business-news/sag-aftra-strike-rally-chicago-1235540728/)
+[Read more](https://www.bbc.com/news/business-66264392)
