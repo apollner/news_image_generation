@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Microsoft's Activision Blizzard acquisition bodes well for Ubisoft, CEO says | VGC
+Prompt: British Open: Brian Harman runs away with lead Friday at Royal Liverpool as Billy Horschel stops protester
 
-[Read more](https://www.videogameschronicle.com/news/microsofts-activision-blizzard-acquisition-bodes-well-for-ubisoft-ceo-says/)
+[Read more](https://sports.yahoo.com/british-open-brian-harman-runs-away-with-lead-friday-at-royal-liverpool-as-billy-horschel-stops-protester-165743223.html)
