@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Houston man needed both hands amputated after flea bite
+Prompt: ‘Barbie’ Largely Praised For Feminist Themes—But Draws Anger From The Anti-Woke
 
-[Read more](https://www.chron.com/news/houston-texas/article/flea-bite-houston-texas-typhus-18254050.php)
+[Read more](https://www.forbes.com/sites/conormurray/2023/07/21/barbie-largely-praised-for-feminist-themes-but-draws-anger-from-the-anti-woke/)
