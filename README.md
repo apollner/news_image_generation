@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Putin Detains War-Loving Russian Nationalist Igor Girkin as Part of Purge
+Prompt: Oppenheimer met the president after atomic bombs: 'I have blood on my hands'
 
-[Read more](https://www.thedailybeast.com/putin-detains-war-loving-russian-nationalist-igor-girkin-as-part-of-purge)
+[Read more](https://www.washingtonpost.com/history/2023/07/21/oppenheimer-truman-atomic-bomb-guilt/)
