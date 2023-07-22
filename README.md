@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: FTC withdraws its in-house challenge to Microsoft's Activision-Blizzard deal
+Prompt: Why do some people not get COVID symptoms? Study reveals "super dodgers" insight.
 
-[Read more](https://www.theverge.com/2023/7/20/23795591/ftc-microsoft-activision-administrative-challenge)
+[Read more](https://www.cbsnews.com/news/covid-symptoms-super-dodgers-researchers-figured-out-why/)
