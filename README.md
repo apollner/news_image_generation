@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Why this summer's heat is so exceptional across the Southern U.S.
+Prompt: Stock futures are higher after Dow registers longest winning streak since 2017: Live updates
 
-[Read more](https://www.washingtonpost.com/weather/2023/07/21/us-heat-wave-heat-dome-climate/)
+[Read more](https://www.cnbc.com/2023/07/20/stock-market-today-live-updates.html)
