@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: North Korea gives US cold shoulder on missing soldier
+Prompt: ‘This is great news': Downtown LA store owner shocked over sale of $1B Powerball ticket
 
-[Read more](https://thehill.com/newsletters/defense-national-security/4109093-north-korea-gives-us-cold-shoulder-on-missing-soldier/)
+[Read more](https://www.nbclosangeles.com/news/local/this-is-great-news-mexican-store-owner-shocked-over-sale-of-winning-powerball-ticket-in-downtown-la/3191157/)
