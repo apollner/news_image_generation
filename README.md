@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘I’m a little less triggered’: Aaron Rodgers is shifting his approach as Jets bask in Super Bowl hype
+Prompt: Why do some people not get COVID symptoms? Study reveals "super dodgers" insight.
 
-[Read more](https://sports.yahoo.com/im-a-little-less-triggered-aaron-rodgers-is-shifting-his-approach-as-jets-bask-in-super-bowl-hype-234536839.html)
+[Read more](https://www.cbsnews.com/news/covid-symptoms-super-dodgers-researchers-figured-out-why/)
