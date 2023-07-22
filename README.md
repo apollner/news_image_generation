@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Grassley releases internal FBI document about unverified Biden bribery allegations
+Prompt: The FTC Hits the Brakes on Xbox's Activision Blizzard Merger Trial Set for August
 
-[Read more](https://www.cnn.com/2023/07/20/politics/chuck-grassley-fbi-document/index.html)
+[Read more](https://www.ign.com/articles/the-ftc-hits-the-brakes-on-xboxs-activision-blizzard-merger-trial-set-for-august)
