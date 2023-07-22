@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: British Open: Brian Harman runs away with lead Friday at Royal Liverpool as Billy Horschel stops protester
+Prompt: President Biden Delivers Remarks on Artificial Intelligence
 
-[Read more](https://sports.yahoo.com/british-open-brian-harman-runs-away-with-lead-friday-at-royal-liverpool-as-billy-horschel-stops-protester-165743223.html)
+[Read more](https://www.youtube.com/watch?v=tg2FNynmToM)
