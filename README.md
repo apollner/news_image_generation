@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘Barbie’ Largely Praised For Feminist Themes—But Draws Anger From The Anti-Woke
+Prompt: DeSantis orders probe into Bud Light's deal with transgender influencer Dylan Mulvaney
 
-[Read more](https://www.forbes.com/sites/conormurray/2023/07/21/barbie-largely-praised-for-feminist-themes-but-draws-anger-from-the-anti-woke/)
+[Read more](https://www.cnbc.com/2023/07/21/desantis-orders-probe-into-bud-light-dylan-mulvaney-deal.html)
