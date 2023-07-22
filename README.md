@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: LA County tops list of US counties with greatest number of people living with Alzheimer's disease
+Prompt: Sam Bankman-Fried’s brother planned to buy the island nation of Nauru with FTX funds to build an apocalypse bunker, new lawsuit alleges
 
-[Read more](https://abc7.com/alzheimers-disease-los-angeles-county-us-counties-zaldy-tan/13527907/)
+[Read more](https://fortune.com/crypto/2023/07/21/sam-bankman-fried-brother-nauru-effective-altruism-bunker-ftx/)
