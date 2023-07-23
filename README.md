@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 2-year-old Nevada boy dies from brain-eating amoeba likely contracted at natural hot spring
+Prompt: Box Office: ‘Barbie’ Breaks Ground With Biggest Opening Day of 2023, ‘Oppenheimer’ Dolling Up to $77 Million Debut
 
-[Read more](https://www.cnn.com/2023/07/22/us/nevada-brain-eating-amoeba/index.html)
+[Read more](https://variety.com/2023/film/box-office/box-office-barbie-oppenheimer-opening-day-projections-1235676681/)
