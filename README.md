@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Mega Millions results for 07/21/23; $1 million winner sold in Michigan
+Prompt: Insurers withdraw from riskiest areas as threats from climate change grow
 
-[Read more](https://www.mlive.com/lottery/2023/07/mega-millions-results-for-072123-1-million-winner-sold-in-michigan.html)
+[Read more](https://www.npr.org/2023/07/22/1186540332/how-climate-change-could-cause-a-home-insurance-meltdown)
