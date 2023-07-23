@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean Addresses ‘Small Town’ Backlash at Cincinnati Show: ‘Cancel Culture Is a Thing’
+Prompt: Ricciardo "felt like myself again" in F1 qualifying comeback
 
-[Read more](https://www.rollingstone.com/music/music-country/jason-aldean-speech-small-town-backlash-cincinnati-show-cancel-culture-1234793720/)
+[Read more](https://www.motorsport.com/f1/news/ricciardo-felt-like-myself-again-in-f1-qualifying-comeback/10498884/)
