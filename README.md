@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 'Swarm of boulders' in space shows the gory aftermath of NASA's asteroid-smashing DART mission
+Prompt: 2-year-old Nevada boy dies from brain-eating amoeba likely contracted at natural hot spring
 
-[Read more](https://www.livescience.com/space/asteroids/swarm-of-boulders-in-space-shows-the-gory-aftermath-of-nasas-asteroid-smashing-dart-mission)
+[Read more](https://www.cnn.com/2023/07/22/us/nevada-brain-eating-amoeba/index.html)
