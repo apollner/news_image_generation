@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Stars Harry Connick Jr. and Michael Bublé reflect on Tony Bennett's legacy
+Prompt: Girl kidnapped in Texas rescued in Long Beach after scribbling ‘Help Me' on paper
 
-[Read more](https://www.youtube.com/watch?v=sFzR0zwwW0o)
+[Read more](https://www.nbclosangeles.com/news/local/girl-kidnapped-in-texas-rescued-in-long-beach-after-scribbling-help-me-on-a-piece-of-paper/3191772/)
