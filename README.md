@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Biden chooses Lisa Franchetti to head military branch
+Prompt: Russia comes under pressure at UN to avoid global food crisis and revive Ukrainian grain shipments
 
-[Read more](https://www.bbc.com/news/world-us-canada-66275531)
+[Read more](https://news.yahoo.com/russia-comes-under-pressure-un-200607277.html)
