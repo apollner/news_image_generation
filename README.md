@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Biden chooses Lisa Franchetti to head military branch
+Prompt: Stars Harry Connick Jr. and Michael Bublé reflect on Tony Bennett's legacy
 
-[Read more](https://www.bbc.com/news/world-us-canada-66275531)
+[Read more](https://www.youtube.com/watch?v=sFzR0zwwW0o)
