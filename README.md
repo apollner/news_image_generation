@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Thousands march on Jerusalem as former Israeli officials beg Netanyahu to halt legislation overhaul
+Prompt: Brian Harman survives shaky start, leads Open Championship by 5 - ESPN
 
-[Read more](https://apnews.com/article/israel-protests-judiciary-overhaul-jerusalem-parliament-266df426ff3f0cc78de0d0593250ea28)
+[Read more](https://families.google.com/service-restricted)
