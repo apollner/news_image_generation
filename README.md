@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Official Samsung teaser shows the Galaxy Z Flip 5 closed with no gap
+Prompt: Early Warning: GPS Data Could Detect Large Earthquakes Hours Before They Happen
 
-[Read more](https://www.phonearena.com/news/samsung-teaser-galaxy-z-flip-5-no-gap_id149118)
+[Read more](https://scitechdaily.com/early-warning-gps-data-could-detect-large-earthquakes-hours-before-they-happen/)
