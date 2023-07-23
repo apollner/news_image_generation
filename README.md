@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Lionel Messi scores in MLS debut, lifting Inter Miami over Cruz Azul
+Prompt: Judge sets trial date in Trump documents case
 
-[Read more](https://www.washingtonpost.com/sports/2023/07/21/lionel-messi-mls-debut/)
+[Read more](https://www.youtube.com/watch?v=I8FgUh_Tygs)
