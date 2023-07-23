@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Spanish PM Sanchez pins snap election hopes on ‘fear of far right’
+Prompt: A herd of orphan elephants could be the key to bringing back the woolly mammoth
 
-[Read more](https://www.france24.com/en/europe/20230722-spanish-pm-sanchez-pins-snap-election-hopes-on-fear-of-far-right)
+[Read more](https://www.cnn.com/2023/07/22/world/orphan-elephants-mammoths-science-newsletter-wt-scn/index.html)
