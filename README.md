@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 2-year-old boy dies from brain-eating amoeba in Las Vegas
+Prompt: ChatGPT for Android launches next week
 
-[Read more](https://fox8.com/news/2-year-old-boy-dies-from-brain-eating-amoeba-in-las-vegas/)
+[Read more](https://www.theverge.com/2023/7/21/23803482/chatgpt-android-artificial-intelligence-chatbot-app)
