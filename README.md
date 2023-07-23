@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Israel judicial changes bill: Thousands march towards West Jerusalem
+Prompt: Here’s The List Of Promised ‘Diablo 4’ Changes Blizzard Says Are Coming
 
-[Read more](https://www.youtube.com/watch?v=vLI_qi_0bxo)
+[Read more](https://www.forbes.com/sites/paultassi/2023/07/22/heres-the-list-of-promised-diablo-4-changes-blizzard-says-are-coming/)
