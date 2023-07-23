@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: How journalists and a Netflix film kept the focus on the Gilgo Beach victims over a decade of dead ends
+Prompt: Crimea bridge closed after fuel depot hit - Russia
 
-[Read more](https://www.cnn.com/2023/07/22/us/gilgo-beach-killings-robert-kolker-netflix/index.html)
+[Read more](https://www.bbc.com/news/entertainment-arts-66276788)
