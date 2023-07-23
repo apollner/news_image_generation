@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Texas man loses both arms, part of his feet after a single flea bite
+Prompt: Astronomers “Blown Away” by Weird Two-Faced Star
 
-[Read more](https://nypost.com/2023/07/22/texas-man-loses-both-arms-part-of-his-feet-after-a-single-flea-bite/)
+[Read more](https://scitechdaily.com/astronomers-blown-away-by-weird-two-faced-star/)
