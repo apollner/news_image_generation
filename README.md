@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: USS Canberra: US commissions first Navy warship in foreign port
+Prompt: Prigozhin's rebellion undermined Putin's standing among Russian elite, officials say
 
-[Read more](https://www.reuters.com/business/aerospace-defense/uss-canberra-us-commissions-first-navy-warship-foreign-port-2023-07-22/)
+[Read more](https://www.cbsnews.com/news/prigozhin-undermined-putins-standing-among-russian-elite/)
