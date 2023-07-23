@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Judge sets trial date in Trump documents case
+Prompt: How journalists and a Netflix film kept the focus on the Gilgo Beach victims over a decade of dead ends
 
-[Read more](https://www.youtube.com/watch?v=I8FgUh_Tygs)
+[Read more](https://www.cnn.com/2023/07/22/us/gilgo-beach-killings-robert-kolker-netflix/index.html)
