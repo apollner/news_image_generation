@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ricciardo "felt like myself again" in F1 qualifying comeback
+Prompt: Judge has declared a mistrial in YNW Melly double murder case
 
-[Read more](https://www.motorsport.com/f1/news/ricciardo-felt-like-myself-again-in-f1-qualifying-comeback/10498884/)
+[Read more](https://www.nbcmiami.com/news/local/judge-has-declared-a-mistrial-in-ynw-melly-double-murder-case/3076540/)
