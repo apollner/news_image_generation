@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Barbie Ending Explained: The End of Barbie Was Inevitable
+Prompt: USS Canberra: US commissions first Navy warship in foreign port
 
-[Read more](https://www.ign.com/articles/barbie-movie-post-credits-scene-ending-explained-margot-robbie)
+[Read more](https://www.reuters.com/business/aerospace-defense/uss-canberra-us-commissions-first-navy-warship-foreign-port-2023-07-22/)
