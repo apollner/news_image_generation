@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Insurers withdraw from riskiest areas as threats from climate change grow
+Prompt: Official Samsung teaser shows the Galaxy Z Flip 5 closed with no gap
 
-[Read more](https://www.npr.org/2023/07/22/1186540332/how-climate-change-could-cause-a-home-insurance-meltdown)
+[Read more](https://www.phonearena.com/news/samsung-teaser-galaxy-z-flip-5-no-gap_id149118)
