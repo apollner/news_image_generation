@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: A herd of orphan elephants could be the key to bringing back the woolly mammoth
+Prompt: Early Warning: GPS Data Could Detect Large Earthquakes Hours Before They Happen
 
-[Read more](https://www.cnn.com/2023/07/22/world/orphan-elephants-mammoths-science-newsletter-wt-scn/index.html)
+[Read more](https://scitechdaily.com/early-warning-gps-data-could-detect-large-earthquakes-hours-before-they-happen/)
