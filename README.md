@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Box Office: ‘Barbie’ Breaks Ground With Biggest Opening Day of 2023, ‘Oppenheimer’ Dolling Up to $77 Million Debut
+Prompt: Spanish PM Sanchez pins snap election hopes on ‘fear of far right’
 
-[Read more](https://variety.com/2023/film/box-office/box-office-barbie-oppenheimer-opening-day-projections-1235676681/)
+[Read more](https://www.france24.com/en/europe/20230722-spanish-pm-sanchez-pins-snap-election-hopes-on-fear-of-far-right)
