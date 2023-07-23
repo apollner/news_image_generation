@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Oklahoma triple murder-suicide: Mom, 39, kills 10-month-old baby boy, 6-year-old son and 11-year-old daughter
+Prompt: Thousands march on Jerusalem as former Israeli officials beg Netanyahu to halt legislation overhaul
 
-[Read more](https://www.foxnews.com/us/oklahoma-triple-murder-suicide-mom-39-kills-10-month-old-baby-boy-6-year-old-son-11-year-old-daughter)
+[Read more](https://apnews.com/article/israel-protests-judiciary-overhaul-jerusalem-parliament-266df426ff3f0cc78de0d0593250ea28)
