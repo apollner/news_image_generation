@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Astronomers “Blown Away” by Weird Two-Faced Star
+Prompt: Mega Millions results for 07/21/23; $1 million winner sold in Michigan
 
-[Read more](https://scitechdaily.com/astronomers-blown-away-by-weird-two-faced-star/)
+[Read more](https://www.mlive.com/lottery/2023/07/mega-millions-results-for-072123-1-million-winner-sold-in-michigan.html)
