@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Amazon’s return to office means relocating some remote workers who moved away, sources say
+Prompt: Kidnapping victim’s ‘Help Me!’ sign leads to girl’s rescue, suspect’s arrest
 
-[Read more](https://fortune.com/2023/07/21/remote-work-amazon-return-to-office-relocation-moved-away/)
+[Read more](https://www.cnn.com/2023/07/21/us/san-antonio-kidnapping-help-me-sign/index.html)
