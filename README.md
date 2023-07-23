@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ChatGPT for Android launches next week
+Prompt: 'The KHP waged war': Federal judge orders end of Kansas trooper 'two-step' maneuver
 
-[Read more](https://www.theverge.com/2023/7/21/23803482/chatgpt-android-artificial-intelligence-chatbot-app)
+[Read more](https://kansasreflector.com/2023/07/21/the-khp-waged-war-federal-judge-orders-end-of-kansas-trooper-two-step-maneuver/)
