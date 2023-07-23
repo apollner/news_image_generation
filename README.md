@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Prigozhin's rebellion undermined Putin's standing among Russian elite, officials say
+Prompt: Zambia vs. Japan live updates: Japan leads World Cup match 3-0
 
-[Read more](https://www.cbsnews.com/news/prigozhin-undermined-putins-standing-among-russian-elite/)
+[Read more](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-zambia-japan)
