@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Judge sets trial date in Trump documents case
+Prompt: Hunter Biden lawyer files ethics complaint against Marjorie Taylor Greene after she flashes his X-rated pics at hearing
 
-[Read more](https://www.youtube.com/watch?v=I8FgUh_Tygs)
+[Read more](https://nypost.com/2023/07/22/hunter-bidens-lawyer-files-ethics-complaint-against-marjorie-taylor-greene-after-she-flashes-his-x-rated-pics-at-hearing/)
