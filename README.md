@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Box Office: ‘Barbie’ Breaks Ground With Biggest Opening Day of 2023, ‘Oppenheimer’ Dolling Up to $77 Million Debut
+Prompt: Early Warning: GPS Data Could Detect Large Earthquakes Hours Before They Happen
 
-[Read more](https://variety.com/2023/film/box-office/box-office-barbie-oppenheimer-opening-day-projections-1235676681/)
+[Read more](https://scitechdaily.com/early-warning-gps-data-could-detect-large-earthquakes-hours-before-they-happen/)
