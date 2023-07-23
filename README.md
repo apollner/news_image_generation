@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia comes under pressure at UN to avoid global food crisis and revive Ukrainian grain shipments
+Prompt: Russia arrests Igor Girkin, ex-security officer who led operations in Ukraine
 
-[Read more](https://news.yahoo.com/russia-comes-under-pressure-un-200607277.html)
+[Read more](https://www.washingtonpost.com/world/2023/07/21/russia-arrests-igor-girkin-ex-security-officer-who-led-operations-ukraine/)
