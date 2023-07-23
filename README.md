@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Where is the Pac-12 TV deal? At media day, George Kliavkoff tries to focus on football
+Prompt: Biden chooses Lisa Franchetti to head military branch
 
-[Read more](https://theathletic.com/4710889/2023/07/21/pac-12-media-day-george-kliavkoff/)
+[Read more](https://www.bbc.com/news/world-us-canada-66275531)
