@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Zambia vs. Japan live updates: Japan leads World Cup match 3-0
+Prompt: Lionel Messi scores in MLS debut, lifting Inter Miami over Cruz Azul
 
-[Read more](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-zambia-japan)
+[Read more](https://www.washingtonpost.com/sports/2023/07/21/lionel-messi-mls-debut/)
