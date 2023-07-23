@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Russia arrests Igor Girkin, ex-security officer who led operations in Ukraine
+Prompt: Amazon’s return to office means relocating some remote workers who moved away, sources say
 
-[Read more](https://www.washingtonpost.com/world/2023/07/21/russia-arrests-igor-girkin-ex-security-officer-who-led-operations-ukraine/)
+[Read more](https://fortune.com/2023/07/21/remote-work-amazon-return-to-office-relocation-moved-away/)
