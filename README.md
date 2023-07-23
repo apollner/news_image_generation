@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Girl kidnapped in Texas rescued in Long Beach after scribbling ‘Help Me' on paper
+Prompt: Barbie Ending Explained: The End of Barbie Was Inevitable
 
-[Read more](https://www.nbclosangeles.com/news/local/girl-kidnapped-in-texas-rescued-in-long-beach-after-scribbling-help-me-on-a-piece-of-paper/3191772/)
+[Read more](https://www.ign.com/articles/barbie-movie-post-credits-scene-ending-explained-margot-robbie)
