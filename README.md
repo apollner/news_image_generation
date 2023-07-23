@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Here’s The List Of Promised ‘Diablo 4’ Changes Blizzard Says Are Coming
+Prompt: 'Swarm of boulders' in space shows the gory aftermath of NASA's asteroid-smashing DART mission
 
-[Read more](https://www.forbes.com/sites/paultassi/2023/07/22/heres-the-list-of-promised-diablo-4-changes-blizzard-says-are-coming/)
+[Read more](https://www.livescience.com/space/asteroids/swarm-of-boulders-in-space-shows-the-gory-aftermath-of-nasas-asteroid-smashing-dart-mission)
