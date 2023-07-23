@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Kidnapping victim’s ‘Help Me!’ sign leads to girl’s rescue, suspect’s arrest
+Prompt: Where is the Pac-12 TV deal? At media day, George Kliavkoff tries to focus on football
 
-[Read more](https://www.cnn.com/2023/07/21/us/san-antonio-kidnapping-help-me-sign/index.html)
+[Read more](https://theathletic.com/4710889/2023/07/21/pac-12-media-day-george-kliavkoff/)
