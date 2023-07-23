@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Judge has declared a mistrial in YNW Melly double murder case
+Prompt: Oklahoma triple murder-suicide: Mom, 39, kills 10-month-old baby boy, 6-year-old son and 11-year-old daughter
 
-[Read more](https://www.nbcmiami.com/news/local/judge-has-declared-a-mistrial-in-ynw-melly-double-murder-case/3076540/)
+[Read more](https://www.foxnews.com/us/oklahoma-triple-murder-suicide-mom-39-kills-10-month-old-baby-boy-6-year-old-son-11-year-old-daughter)
