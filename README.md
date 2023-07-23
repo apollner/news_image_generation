@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Early Warning: GPS Data Could Detect Large Earthquakes Hours Before They Happen
+Prompt: Jason Aldean Addresses ‘Small Town’ Backlash at Cincinnati Show: ‘Cancel Culture Is a Thing’
 
-[Read more](https://scitechdaily.com/early-warning-gps-data-could-detect-large-earthquakes-hours-before-they-happen/)
+[Read more](https://www.rollingstone.com/music/music-country/jason-aldean-speech-small-town-backlash-cincinnati-show-cancel-culture-1234793720/)
