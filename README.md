@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Early Warning: GPS Data Could Detect Large Earthquakes Hours Before They Happen
+Prompt: Israel judicial changes bill: Thousands march towards West Jerusalem
 
-[Read more](https://scitechdaily.com/early-warning-gps-data-could-detect-large-earthquakes-hours-before-they-happen/)
+[Read more](https://www.youtube.com/watch?v=vLI_qi_0bxo)
