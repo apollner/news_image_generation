@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: 'The KHP waged war': Federal judge orders end of Kansas trooper 'two-step' maneuver
+Prompt: Biden chooses Lisa Franchetti to head military branch
 
-[Read more](https://kansasreflector.com/2023/07/21/the-khp-waged-war-federal-judge-orders-end-of-kansas-trooper-two-step-maneuver/)
+[Read more](https://www.bbc.com/news/world-us-canada-66275531)
