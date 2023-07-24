@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Nova Scotia floods cause 'unimaginable' damage; four people missing
+Prompt: Christie: DeSantis reaction to slavery curriculum in Florida ‘not leadership’
 
-[Read more](https://www.reuters.com/business/environment/atlantic-canada-province-says-dam-could-breach-tell-residents-get-out-2023-07-22/)
+[Read more](https://thehill.com/homenews/campaign/4114402-christie-desantis-reaction-to-slavery-curriculum-in-florida-not-leadership/)
