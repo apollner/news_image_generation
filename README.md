@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Deadly Russian Strike Wounds 19 In Odesa | Russia-Ukraine war Live | WION
+Prompt: Video shows tornado tearing through North Carolina and destroying the roof of a Pfizer plant
 
-[Read more](https://www.youtube.com/watch?v=nuPACe3H-B0)
+[Read more](https://www.dailymail.co.uk/news/article-12328165/Video-shows-tornado-tearing-North-Carolina-destroying-roof-Pfzier-plant.html)
