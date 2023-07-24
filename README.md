@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Texas A&M University president resigns following controversy over failed plans to hire journalism professor
+Prompt: UFC Fight Night 224 winner Tom Aspinall: Jon Jones knowing I exist is 'a win itself'
 
-[Read more](https://www.cnn.com/2023/07/22/us/texas-am-university-president-resigns/index.html)
+[Read more](https://mmajunkie.usatoday.com/2023/07/ufc-fight-night-224-london-video-tom-aspinall-callout-jon-jones-knows-i-exist-win-heavyweight-title-shot)
