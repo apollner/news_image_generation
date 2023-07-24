@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: The stock market is overbought and due for a correction, says strategist
+Prompt: Three suitcases with human remains discovered along Delray Beach Intracoastal Waterway
 
-[Read more](https://finance.yahoo.com/news/the-stock-market-is-overbought-and-due-for-a-correction-says-strategist-150040897.html)
+[Read more](https://www.cbsnews.com/miami/news/three-suitcases-with-human-remains-discovered-along-delray-beach-intracoastal-waterway/)
