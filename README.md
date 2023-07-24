@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Human remains found in luggage in separate Texas, Florida incidents
+Prompt: DART Impact Aftermath: Hubble Sees Boulders Escaping From Asteroid Dimorphos
 
-[Read more](https://www.cbsnews.com/news/human-remains-found-in-luggage-in-separate-bexar-texas-delray-florida-incidents/)
+[Read more](https://scitechdaily.com/dart-impact-aftermath-hubble-sees-boulders-escaping-from-asteroid-dimorphos/)
