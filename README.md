@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Greek nutritionist shares her 5 favorite Mediterranean diet breakfasts
+Prompt: Musk says Twitter will change logo to X, ‘bid adieu’ to bird
 
-[Read more](https://www.insider.com/greek-nutritionist-shares-favorite-mediterranean-diet-recipes-2023-7)
+[Read more](https://finance.yahoo.com/news/musk-says-twitter-change-logo-095806703.html)
