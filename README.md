@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Greece: Rhodes wildfire forces thousands to flee
+Prompt: Jason Aldean's music video full of protest footage from outside the US
 
-[Read more](https://www.dw.com/en/greece-rhodes-wildfire-forces-thousands-to-flee/a-66320563)
+[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
