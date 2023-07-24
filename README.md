@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Cambodia election: 'This was more of a coronation than an election'
+Prompt: Nova Scotia floods cause 'unimaginable' damage; four people missing
 
-[Read more](https://www.bbc.com/news/world-asia-66283745)
+[Read more](https://www.reuters.com/business/environment/atlantic-canada-province-says-dam-could-breach-tell-residents-get-out-2023-07-22/)
