@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: As it happened: Jonas Vingegaard celebrates Tour de France victory as Meeus wins Champs Elysees sprint
+Prompt: Strike Averted at YRC Freight, Holland
 
-[Read more](https://www.cyclingnews.com/races/tour-de-france-2023/stage-21/live-report/)
+[Read more](https://teamster.org/2023/07/strike-averted-at-yrc-freight-holland/)
