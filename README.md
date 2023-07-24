@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Brian Harman stays steady to maintain five-shot lead at The Open - PGA TOUR
+Prompt: Greek nutritionist shares her 5 favorite Mediterranean diet breakfasts
 
-[Read more](https://www.pgatour.com/article/news/latest/2023/07/22/brian-harman-takes-five-shot-lead-at-open-championship-british-cameron-young-jon-rahm)
+[Read more](https://www.insider.com/greek-nutritionist-shares-favorite-mediterranean-diet-recipes-2023-7)
