@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean defends 'Try That in a Small Town' in Cincinnati
+Prompt: Israel’s Netanyahu hospitalised, to be fitted with pacemaker
 
-[Read more](https://www.cincinnati.com/story/news/politics/2023/07/22/jason-aldean-defends-try-that-in-a-small-town-song/70451456007/)
+[Read more](https://www.aljazeera.com/news/2023/7/23/israels-netanyahu-hospitalised-to-be-fitted-with-pacemaker)
