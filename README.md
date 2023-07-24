@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: UFC Fight Night 224 winner Tom Aspinall: Jon Jones knowing I exist is 'a win itself'
+Prompt: Massive crowds rally in Israel as vote on judicial overhaul looms
 
-[Read more](https://mmajunkie.usatoday.com/2023/07/ufc-fight-night-224-london-video-tom-aspinall-callout-jon-jones-knows-i-exist-win-heavyweight-title-shot)
+[Read more](https://www.aljazeera.com/news/2023/7/23/huge-crowds-march-in-israel-as-vote-on-judicial-overhaul-nears)
