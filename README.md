@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Video shows tornado tearing through North Carolina and destroying the roof of a Pfizer plant
+Prompt: Brian Harman stays steady to maintain five-shot lead at The Open - PGA TOUR
 
-[Read more](https://www.dailymail.co.uk/news/article-12328165/Video-shows-tornado-tearing-North-Carolina-destroying-roof-Pfzier-plant.html)
+[Read more](https://www.pgatour.com/article/news/latest/2023/07/22/brian-harman-takes-five-shot-lead-at-open-championship-british-cameron-young-jon-rahm)
