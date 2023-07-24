@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Brian Harman survives shaky start, leads Open Championship by 5 - ESPN
+Prompt: Jason Aldean defends 'Try That in a Small Town' in Cincinnati
 
-[Read more](https://families.google.com/service-restricted)
+[Read more](https://www.cincinnati.com/story/news/politics/2023/07/22/jason-aldean-defends-try-that-in-a-small-town-song/70451456007/)
