@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Box Office Fusion: ‘Barbie’ Heads for Staggering $155M-Plus Opening, ‘Oppenheimer’ Eyes $77M
+Prompt: Biden to establish national monument honoring Emmett Till next week
 
-[Read more](https://www.hollywoodreporter.com/movies/movie-news/barbie-box-office-oppenheimer-opening-1235541719/)
+[Read more](https://www.cnn.com/2023/07/22/politics/biden-emmett-till-national-monument/index.html)
