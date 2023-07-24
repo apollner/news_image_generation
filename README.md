@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Late Sweden winner denies South Africa historic Women’s World Cup draw; Netherlands wins
+Prompt: Deadly Russian Strike Wounds 19 In Odesa | Russia-Ukraine war Live | WION
 
-[Read more](https://www.cnn.com/2023/07/23/sport/france-jamaica-sweden-south-africa-womens-world-cup-spt-intl/index.html)
+[Read more](https://www.youtube.com/watch?v=nuPACe3H-B0)
