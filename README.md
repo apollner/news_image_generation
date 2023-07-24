@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean's music video full of protest footage from outside the US
+Prompt: Warning: Marijuana Use May Alter Your DNA Methylation
 
-[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
+[Read more](https://scitechdaily.com/warning-marijuana-use-may-alter-your-dna-methylation/)
