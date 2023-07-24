@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Treasury to meet bank bosses over Farage row
+Prompt: Leon Marchand crushes Michael Phelps' last world record at swimming worlds
 
-[Read more](https://www.bbc.com/news/business-66274359)
+[Read more](https://www.nbcsports.com/olympics/news/leon-marchand-michael-phelps-world-record-swimming-world-championships)
