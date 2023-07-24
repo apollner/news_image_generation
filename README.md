@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ukraine Russia war live updates: Bombs slam Odesa historical sites
+Prompt: Human remains found in luggage in separate Texas, Florida incidents
 
-[Read more](https://www.usatoday.com/story/news/world/ukraine/2023/07/23/ukraine-russia-war-live-updates/70452764007/)
+[Read more](https://www.cbsnews.com/news/human-remains-found-in-luggage-in-separate-bexar-texas-delray-florida-incidents/)
