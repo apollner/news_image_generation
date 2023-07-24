@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Musk says Twitter will change logo to X, ‘bid adieu’ to bird
+Prompt: Junk fees are in Biden's crosshairs. Can the crackdown save you money?
 
-[Read more](https://finance.yahoo.com/news/musk-says-twitter-change-logo-095806703.html)
+[Read more](https://www.usatoday.com/story/money/personalfinance/2023/07/23/exposing-junk-fees-wont-necessarily-mean-lower-prices/70422594007/)
