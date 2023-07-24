@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Mortal Kombat 1 Devs Break Down Li Mei & DLC Characters Reveal | Comic Con 2023
+Prompt: Tony Bennett: New Yorkers remember singer’s passion for the arts, frequent order at Italian restaurant
 
-[Read more](https://www.youtube.com/watch?v=MJw-s6vqGTc)
+[Read more](https://thehill.com/blogs/in-the-know/4112376-tony-bennett-new-yorkers-remember-singers-passion-for-the-arts-frequent-order-at-italian-restaurant/)
