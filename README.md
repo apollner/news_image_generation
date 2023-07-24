@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean's music video full of protest footage from outside the US
+Prompt: Texas A&M University president resigns following controversy over failed plans to hire journalism professor
 
-[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
+[Read more](https://www.cnn.com/2023/07/22/us/texas-am-university-president-resigns/index.html)
