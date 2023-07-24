@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Tourists flee Rhodes wildfires in Greece’s largest-ever evacuation
+Prompt: Far-right could enter government as Spain goes to the polls
 
-[Read more](https://www.cnn.com/2023/07/22/europe/greece-record-breaking-heat-wave-climate-intl/index.html)
+[Read more](https://www.cnn.com/2023/07/23/europe/spain-election-voting-pedro-sanchez-pp-vox/index.html)
