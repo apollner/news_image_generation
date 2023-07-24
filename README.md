@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Should you buy the M2 MacBook Pro or wait for the M3?
+Prompt: Tourists flee Rhodes wildfires in Greece’s largest-ever evacuation
 
-[Read more](http://www.digitaltrends.com/computing/buy-m2-macbook-pro-or-wait-for-m3/)
+[Read more](https://www.cnn.com/2023/07/22/europe/greece-record-breaking-heat-wave-climate-intl/index.html)
