@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Israel’s Netanyahu hospitalised, to be fitted with pacemaker
+Prompt: Jason Aldean Blasts “Cancel Culture” In First Concert Appearance Since “Try That In A Small Town” Music Video Backlash
 
-[Read more](https://www.aljazeera.com/news/2023/7/23/israels-netanyahu-hospitalised-to-be-fitted-with-pacemaker)
+[Read more](https://deadline.com/2023/07/jason-aldean-blasts-cancel-culture-first-concert-appearance-try-that-in-a-small-town-music-video-backlash-1235445774/)
