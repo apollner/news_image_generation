@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Biden to establish national monument honoring Emmett Till next week
+Prompt: Mortal Kombat 1 Devs Break Down Li Mei & DLC Characters Reveal | Comic Con 2023
 
-[Read more](https://www.cnn.com/2023/07/22/politics/biden-emmett-till-national-monument/index.html)
+[Read more](https://www.youtube.com/watch?v=MJw-s6vqGTc)
