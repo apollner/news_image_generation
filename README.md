@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Far-right could enter government as Spain goes to the polls
+Prompt: Treasury to meet bank bosses over Farage row
 
-[Read more](https://www.cnn.com/2023/07/23/europe/spain-election-voting-pedro-sanchez-pp-vox/index.html)
+[Read more](https://www.bbc.com/news/business-66274359)
