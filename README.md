@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Selena Gomez Rang In Her 31st Birthday While Wearing a Fiery Red Minidress
+Prompt: The stock market is overbought and due for a correction, says strategist
 
-[Read more](https://www.instyle.com/selena-gomez-fiery-red-minidress-31st-birthday-party-7564405)
+[Read more](https://finance.yahoo.com/news/the-stock-market-is-overbought-and-due-for-a-correction-says-strategist-150040897.html)
