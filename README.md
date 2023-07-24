@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean's music video full of protest footage from outside the US
+Prompt: Portland hospital shooting leaves at least 1 injured as police search for suspect
 
-[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
+[Read more](https://www.cnn.com/2023/07/22/us/portland-good-samaritan-hospital-shooting/index.html)
