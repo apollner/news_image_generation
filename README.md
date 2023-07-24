@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Massive crowds rally in Israel as vote on judicial overhaul looms
+Prompt: Late Sweden winner denies South Africa historic Women’s World Cup draw; Netherlands wins
 
-[Read more](https://www.aljazeera.com/news/2023/7/23/huge-crowds-march-in-israel-as-vote-on-judicial-overhaul-nears)
+[Read more](https://www.cnn.com/2023/07/23/sport/france-jamaica-sweden-south-africa-womens-world-cup-spt-intl/index.html)
