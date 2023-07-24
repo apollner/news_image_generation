@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Christie: DeSantis reaction to slavery curriculum in Florida ‘not leadership’
+Prompt: Selena Gomez Rang In Her 31st Birthday While Wearing a Fiery Red Minidress
 
-[Read more](https://thehill.com/homenews/campaign/4114402-christie-desantis-reaction-to-slavery-curriculum-in-florida-not-leadership/)
+[Read more](https://www.instyle.com/selena-gomez-fiery-red-minidress-31st-birthday-party-7564405)
