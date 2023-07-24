@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Leon Marchand crushes Michael Phelps' last world record at swimming worlds
+Prompt: Cambodia election: 'This was more of a coronation than an election'
 
-[Read more](https://www.nbcsports.com/olympics/news/leon-marchand-michael-phelps-world-record-swimming-world-championships)
+[Read more](https://www.bbc.com/news/world-asia-66283745)
