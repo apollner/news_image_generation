@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: West Nile Virus detected in Benton County mosquitos
+Prompt: Greece: Rhodes wildfire forces thousands to flee
 
-[Read more](https://keprtv.com/news/local/west-nile-virus-detected-in-benton-county-mosquitos)
+[Read more](https://www.dw.com/en/greece-rhodes-wildfire-forces-thousands-to-flee/a-66320563)
