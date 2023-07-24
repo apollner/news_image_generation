@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Spain's right-wing parties could win a parliamentary majority, exit polls show after key election
+Prompt: Ukraine Russia war live updates: Bombs slam Odesa historical sites
 
-[Read more](https://www.cnbc.com/2023/07/23/spains-right-wing-parties-could-win-majority-exit-polls-show.html)
+[Read more](https://www.usatoday.com/story/news/world/ukraine/2023/07/23/ukraine-russia-war-live-updates/70452764007/)
