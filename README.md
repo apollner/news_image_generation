@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘Biblical proportions’: 3 months’ worth of rainfall floods Nova Scotia, forcing evacuations as crews search for missing people
+Prompt: West Nile Virus detected in Benton County mosquitos
 
-[Read more](https://www.cnn.com/2023/07/23/americas/nova-scotia-canada-rain-floods/index.html)
+[Read more](https://keprtv.com/news/local/west-nile-virus-detected-in-benton-county-mosquitos)
