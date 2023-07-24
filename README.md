@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Three suitcases with human remains discovered along Delray Beach Intracoastal Waterway
+Prompt: Ukraine Russia war live updates: Bombs slam Odesa historical sites
 
-[Read more](https://www.cbsnews.com/miami/news/three-suitcases-with-human-remains-discovered-along-delray-beach-intracoastal-waterway/)
+[Read more](https://www.usatoday.com/story/news/world/ukraine/2023/07/23/ukraine-russia-war-live-updates/70452764007/)
