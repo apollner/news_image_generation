@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Jason Aldean Blasts “Cancel Culture” In First Concert Appearance Since “Try That In A Small Town” Music Video Backlash
+Prompt: Box Office Fusion: ‘Barbie’ Heads for Staggering $155M-Plus Opening, ‘Oppenheimer’ Eyes $77M
 
-[Read more](https://deadline.com/2023/07/jason-aldean-blasts-cancel-culture-first-concert-appearance-try-that-in-a-small-town-music-video-backlash-1235445774/)
+[Read more](https://www.hollywoodreporter.com/movies/movie-news/barbie-box-office-oppenheimer-opening-1235541719/)
