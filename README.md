@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Tony Bennett: New Yorkers remember singer’s passion for the arts, frequent order at Italian restaurant
+Prompt: Jason Aldean's music video full of protest footage from outside the US
 
-[Read more](https://thehill.com/blogs/in-the-know/4112376-tony-bennett-new-yorkers-remember-singers-passion-for-the-arts-frequent-order-at-italian-restaurant/)
+[Read more](https://www.insider.com/jason-aldean-music-video-small-town-protest-foreign-footage-2023-7)
