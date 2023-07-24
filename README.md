@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Warning: Marijuana Use May Alter Your DNA Methylation
+Prompt: ‘Biblical proportions’: 3 months’ worth of rainfall floods Nova Scotia, forcing evacuations as crews search for missing people
 
-[Read more](https://scitechdaily.com/warning-marijuana-use-may-alter-your-dna-methylation/)
+[Read more](https://www.cnn.com/2023/07/23/americas/nova-scotia-canada-rain-floods/index.html)
