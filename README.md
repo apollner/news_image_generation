@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gilgo murders: Suffolk police commissioner says investigators took numerous items from Heuermann's home**
+**As wildfires rage in Greece, tourists flee and locals shelter**
 
-You can read more about it [here](https://longisland.news12.com/gilgo-murders-backhoe-digs-in-rex-heuermanns-backyard-as-probe-of-massapequa-home-to-end-this-week).
+You can read more about it [here](https://www.reuters.com/world/europe/repatriation-flights-head-greece-wildfires-force-tourists-flee-2023-07-24/).
 
 ## Requirements
 - Python 3.8
