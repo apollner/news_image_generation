@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to designate national monument for Emmett Till**
+**Sources: Miami-Dade police director shoots himself following spat with wife**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66291893).
+You can read more about it [here](https://www.youtube.com/watch?v=A6PMzbzSCmQ).
 
 ## Requirements
 - Python 3.8
