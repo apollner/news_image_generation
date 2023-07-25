@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Scott Rolen, Fred McGriff get emotional during Baseball Hall of Fame induction
+Prompt: ‘It comes up on you fast:’ Scorching heat is crushing American businesses
 
-[Read more](https://www.usatoday.com/story/sports/mlb/mlb/2023/07/23/scott-rolen-fred-mcgriff-baseball-hall-fame-induction-ceremony/70454346007/)
+[Read more](https://www.cnn.com/2023/07/23/economy/extreme-heat-economic-impact/index.html)
