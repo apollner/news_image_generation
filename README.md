@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Strike Averted at YRC Freight, Holland
+Prompt: Fred McGriff, Scott Rolen inducted into Baseball Hall of Fame - ESPN
 
-[Read more](https://teamster.org/2023/07/strike-averted-at-yrc-freight-holland/)
+[Read more](https://www.espn.com/mlb/story/_/id/38059864/fred-mcgriff-scott-rolen-inducted-baseball-hall-fame)
