@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: ‘It comes up on you fast:’ Scorching heat is crushing American businesses
+Prompt: Lions coach Dan Campbell says Detroit's 'hype train' is 'out of control' ahead of 2023 season
 
-[Read more](https://www.cnn.com/2023/07/23/economy/extreme-heat-economic-impact/index.html)
+[Read more](https://www.cbssports.com/nfl/news/lions-coach-dan-campbell-says-detroits-hype-train-is-out-of-control-ahead-of-2023-season/)
