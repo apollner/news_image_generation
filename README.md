@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: At least 15 killed, 19 missing in ferry sinking in Indonesia
+Prompt: Indonesian boat capsizes, leaving more than a dozen dead and others missing
 
-[Read more](https://www.reuters.com/world/asia-pacific/least-15-dead-after-ferry-sinks-off-indonesias-sulawesi-island-media-2023-07-24/)
+[Read more](https://www.npr.org/2023/07/24/1189714108/indonesian-boat-capsizes-leaving-more-than-a-dozen-dead-and-others-missing)
