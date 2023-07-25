@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: The Open Championship payouts and points: Brian Harman wins first major championship - PGA TOUR
+Prompt: Greta Gerwig makes history as Barbie has biggest opening weekend for film directed by a woman
 
-[Read more](https://www.pgatour.com/article/news/betting-dfs/2023/07/23/the-open-championship-payouts-and-points-brian-harman-royal-liverpool)
+[Read more](https://www.theguardian.com/film/2023/jul/24/barbie-movie-box-office-greta-gerwig-records-highest-grossing-woman)
