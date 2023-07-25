@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: As San Francisco's Anchor Brewing prepares to close, employees want the chance to buy it
+Prompt: Sadie Mauro identified as Dover-Sherborn High School student killed in Dennis boat crash
 
-[Read more](https://www.nbcbayarea.com/news/local/san-franciscos-anchor-brewing-close-employee-want-to-buy/3278780/)
+[Read more](https://www.cbsnews.com/boston/news/dennis-boating-accident-sadie-mauro-dover-sherburn-high-school/)
