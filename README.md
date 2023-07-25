@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American runaway Pvt. King discussed by U.N. and North Korea**
+**US condemns ‘brutal’ sexual assault video from India’s Manipur**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/travis-king-north-korea-american-runaway-united-nations-rcna95885).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/24/us-condemns-brutal-sexual-assault-video-from-indias-manipur).
 
 ## Requirements
 - Python 3.8
