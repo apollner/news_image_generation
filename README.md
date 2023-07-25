@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia movie industry hit amid ongoing actors and writers strike**
+**School gym roof collapses in China, killing 11**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Fkq9ujf5lBY).
+You can read more about it [here](https://www.theguardian.com/world/2023/jul/24/school-gym-roof-collapses-in-china-killing-11).
 
 ## Requirements
 - Python 3.8
