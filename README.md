@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Today’s daily horoscope for July 24, 2023
+Prompt: Spain election vote ends in stalemate
 
-[Read more](https://www.nj.com/advice/2023/07/todays-daily-horoscope-for-july-24-2023.html)
+[Read more](https://www.usatoday.com/story/news/world/2023/07/24/spain-election-vote/70454861007/)
