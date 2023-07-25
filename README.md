@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia movie industry hit amid ongoing actors and writers strike**
+**Israel passes contested curbs on some Supreme Court powers as protests rage**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Fkq9ujf5lBY).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israels-netanyahu-discharged-hospital-reuters-witness-says-2023-07-24/).
 
 ## Requirements
 - Python 3.8
