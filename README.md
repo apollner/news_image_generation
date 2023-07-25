@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: At least 15 killed, 19 missing in ferry sinking in Indonesia
+Prompt: Rhodes wildfire forces thousands of evacuations, tourists flee
 
-[Read more](https://www.reuters.com/world/asia-pacific/least-15-dead-after-ferry-sinks-off-indonesias-sulawesi-island-media-2023-07-24/)
+[Read more](https://www.reuters.com/world/europe/tourists-flee-greek-island-rhodes-wildfire-thousands-evacuated-2023-07-23/)
