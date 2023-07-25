@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Cambodia’s ruling party claims landslide win in one-sided election
+Prompt: Today’s daily horoscope for July 24, 2023
 
-[Read more](https://www.cnn.com/2023/07/23/asia/cambodia-election-result-landslide-intl/index.html)
+[Read more](https://www.nj.com/advice/2023/07/todays-daily-horoscope-for-july-24-2023.html)
