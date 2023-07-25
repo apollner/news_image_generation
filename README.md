@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Indonesian boat capsizes, leaving more than a dozen dead and others missing
+Prompt: Ukraine war: Russia hits Odesa after killing grain deal
 
-[Read more](https://www.npr.org/2023/07/24/1189714108/indonesian-boat-capsizes-leaving-more-than-a-dozen-dead-and-others-missing)
+[Read more](https://www.bbc.com/news/world-europe-66272001)
