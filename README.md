@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony unveils long-awaited WF-1000XM5 earbuds with heavy-duty ANC, 360 audio for $299**
+**Gilgo murders: Suffolk police commissioner says investigators took numerous items from Heuermann's home**
 
-You can read more about it [here](https://9to5google.com/2023/07/24/sony-wf-1000xm5-2/).
+You can read more about it [here](https://longisland.news12.com/gilgo-murders-backhoe-digs-in-rex-heuermanns-backyard-as-probe-of-massapequa-home-to-end-this-week).
 
 ## Requirements
 - Python 3.8
