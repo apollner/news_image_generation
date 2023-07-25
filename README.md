@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to designate national monument for Emmett Till**
+**GSK's Arexvy to lead new RSV vaccines sales race with Moderna a close second: report**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66291893).
+You can read more about it [here](https://www.fiercepharma.com/marketing/gsks-arexvy-lead-new-rsv-vaccines-sales-race-moderna-close-second-report).
 
 ## Requirements
 - Python 3.8
