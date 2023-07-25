@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Ukraine war: Russia hits Odesa after killing grain deal
+Prompt: As San Francisco's Anchor Brewing prepares to close, employees want the chance to buy it
 
-[Read more](https://www.bbc.com/news/world-europe-66272001)
+[Read more](https://www.nbcbayarea.com/news/local/san-franciscos-anchor-brewing-close-employee-want-to-buy/3278780/)
