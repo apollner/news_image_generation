@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Sadie Mauro identified as Dover-Sherborn High School student killed in Dennis boat crash
+Prompt: Boat smashes into a house in wild crash that left 8 people hurt at Lake of the Ozarks
 
-[Read more](https://www.cbsnews.com/boston/news/dennis-boating-accident-sadie-mauro-dover-sherburn-high-school/)
+[Read more](https://nypost.com/2023/07/24/8-people-hurt-after-boat-runs-aground-smashes-into-home-at-lake-of-the-ozarks/)
