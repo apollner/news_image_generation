@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Miami-Dade police director shoots himself following spat with wife**
+**Texas governor defies federal order to remove anti-migrant buoys from river**
 
-You can read more about it [here](https://www.youtube.com/watch?v=A6PMzbzSCmQ).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/24/texas-border-buoys-greg-abbott-biden).
 
 ## Requirements
 - Python 3.8
