@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are 4 of the biggest changes to the Nasdaq 100 from Monday's special rebalancing**
+**Sony unveils long-awaited WF-1000XM5 earbuds with heavy-duty ANC, 360 audio for $299**
 
-You can read more about it [here](https://www.marketwatch.com/story/here-are-4-of-the-biggest-changes-to-the-nasdaq-100-from-mondays-special-rebalancing-c6af8654).
+You can read more about it [here](https://9to5google.com/2023/07/24/sony-wf-1000xm5-2/).
 
 ## Requirements
 - Python 3.8
