@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills' Nyheim Hines set to miss 2023 season after jet ski accident results in ACL injury, per report**
+**Biden to designate national monument for Emmett Till**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/bills-nyheim-hines-set-to-miss-2023-season-after-jet-ski-accident-results-in-acl-injury-per-report/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66291893).
 
 ## Requirements
 - Python 3.8
