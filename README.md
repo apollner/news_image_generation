@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nick Chubb knows he could soon face the downside of the running back market**
+**American runaway Pvt. King discussed by U.N. and North Korea**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-knows-he-could-soon-face-the-downside-of-the-running-back-market).
+You can read more about it [here](https://www.nbcnews.com/news/world/travis-king-north-korea-american-runaway-united-nations-rcna95885).
 
 ## Requirements
 - Python 3.8
