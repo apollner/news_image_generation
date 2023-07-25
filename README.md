@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Rhodes wildfire forces thousands of evacuations, tourists flee
+Prompt: Elon Musk says Twitter logo to change, birds to be gradually abandoned
 
-[Read more](https://www.reuters.com/world/europe/tourists-flee-greek-island-rhodes-wildfire-thousands-evacuated-2023-07-23/)
+[Read more](https://www.cnn.com/2023/07/23/business/elon-musk-twitter-revamp-intl-hnk/index.html)
