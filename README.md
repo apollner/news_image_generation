@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US condemns ‘brutal’ sexual assault video from India’s Manipur**
+**Nick Chubb knows he could soon face the downside of the running back market**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/24/us-condemns-brutal-sexual-assault-video-from-indias-manipur).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-knows-he-could-soon-face-the-downside-of-the-running-back-market).
 
 ## Requirements
 - Python 3.8
