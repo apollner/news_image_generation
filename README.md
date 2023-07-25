@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Spain election vote ends in stalemate
+Prompt: Sam Altman’s Worldcoin eyeball-scanning crypto project launches
 
-[Read more](https://www.usatoday.com/story/news/world/2023/07/24/spain-election-vote/70454861007/)
+[Read more](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
