@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Boat smashes into a house in wild crash that left 8 people hurt at Lake of the Ozarks
+Prompt: Cambodia’s ruling party claims landslide win in one-sided election
 
-[Read more](https://nypost.com/2023/07/24/8-people-hurt-after-boat-runs-aground-smashes-into-home-at-lake-of-the-ozarks/)
+[Read more](https://www.cnn.com/2023/07/23/asia/cambodia-election-result-landslide-intl/index.html)
