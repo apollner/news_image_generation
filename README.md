@@ -1,25 +1,17 @@
 # News Image Generation
-
-This repository contains a Python script that automatically generates an image based on a news headline. The script uses the [NewsAPI](https://newsapi.org/) to fetch the latest headlines, and then generates an image using the [DiffusionPipeline](https://github.com/stabilityai/diffusion) from the `diffusers` Python package. 
-
+This repository contains a Python script that automatically generates an image based on a news headline. The script uses the [NewsAPI](https://newsapi.org/) to fetch the latest headlines, and then generates an image using the [DiffusionPipeline](https://github.com/Stability-AI) from the `diffusers` Python package.
 The script is scheduled to run every few minutes. Each time it runs, it fetches a new headline and generates a new image, which is then displayed below. The image generation process is performed on a GPU.
 
 ## Generated Image
-
 Below is the latest generated image:
-
 ![Generated Image](image.png)
 
 ## Latest News Headline
-
 The latest news headline used to generate the image is:
-
-Prompt: [News Headline]
-
-You can read more about it [here](https://variety.com/2023/film/box-office/korea-box-office-barbie-fourth-place-opening-1235678139/).
+Prompt: Weak PMIs, Spain keep Europe sour but fail to dent US sentiment
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-07-24/).
 
 ## Requirements
-
 - Python 3.8
 - Hugging Face account
 - NewsAPI key
