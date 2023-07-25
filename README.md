@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nick Chubb knows he could soon face the downside of the running back market**
+**Georgia movie industry hit amid ongoing actors and writers strike**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-knows-he-could-soon-face-the-downside-of-the-running-back-market).
+You can read more about it [here](https://www.youtube.com/watch?v=Fkq9ujf5lBY).
 
 ## Requirements
 - Python 3.8
