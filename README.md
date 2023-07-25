@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**School gym roof collapses in China, killing 11**
+**Biden to designate national monument for Emmett Till**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/jul/24/school-gym-roof-collapses-in-china-killing-11).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66291893).
 
 ## Requirements
 - Python 3.8
