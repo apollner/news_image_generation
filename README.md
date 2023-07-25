@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GSK's Arexvy to lead new RSV vaccines sales race with Moderna a close second: report**
+**Bills' Nyheim Hines set to miss 2023 season after jet ski accident results in ACL injury, per report**
 
-You can read more about it [here](https://www.fiercepharma.com/marketing/gsks-arexvy-lead-new-rsv-vaccines-sales-race-moderna-close-second-report).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bills-nyheim-hines-set-to-miss-2023-season-after-jet-ski-accident-results-in-acl-injury-per-report/).
 
 ## Requirements
 - Python 3.8
