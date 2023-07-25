@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia movie industry hit amid ongoing actors and writers strike**
+**New Zealand leader resigns after criminally charged in crash**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Fkq9ujf5lBY).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/24/new-zealand-kiri-allen-resigns-crash/70455765007/).
 
 ## Requirements
 - Python 3.8
