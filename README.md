@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Lions coach Dan Campbell says Detroit's 'hype train' is 'out of control' ahead of 2023 season
+Prompt: Sánchez's tricky road to victory after shock Spanish election result
 
-[Read more](https://www.cbssports.com/nfl/news/lions-coach-dan-campbell-says-detroits-hype-train-is-out-of-control-ahead-of-2023-season/)
+[Read more](https://www.politico.eu/article/pedro-sanchez-spanish-election-path-to-victory-alberto-nunez-feijoo/)
