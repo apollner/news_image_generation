@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Fred McGriff, Scott Rolen inducted into Baseball Hall of Fame - ESPN
+Prompt: Scott Rolen, Fred McGriff get emotional during Baseball Hall of Fame induction
 
-[Read more](https://www.espn.com/mlb/story/_/id/38059864/fred-mcgriff-scott-rolen-inducted-baseball-hall-fame)
+[Read more](https://www.usatoday.com/story/sports/mlb/mlb/2023/07/23/scott-rolen-fred-mcgriff-baseball-hall-fame-induction-ceremony/70454346007/)
