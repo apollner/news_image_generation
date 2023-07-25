@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Zealand leader resigns after criminally charged in crash**
+**GSK's Arexvy to lead new RSV vaccines sales race with Moderna a close second: report**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/24/new-zealand-kiri-allen-resigns-crash/70455765007/).
+You can read more about it [here](https://www.fiercepharma.com/marketing/gsks-arexvy-lead-new-rsv-vaccines-sales-race-moderna-close-second-report).
 
 ## Requirements
 - Python 3.8
