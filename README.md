@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Elon Musk says Twitter logo to change, birds to be gradually abandoned
+Prompt: At least 15 killed, 19 missing in ferry sinking in Indonesia
 
-[Read more](https://www.cnn.com/2023/07/23/business/elon-musk-twitter-revamp-intl-hnk/index.html)
+[Read more](https://www.reuters.com/world/asia-pacific/least-15-dead-after-ferry-sinks-off-indonesias-sulawesi-island-media-2023-07-24/)
