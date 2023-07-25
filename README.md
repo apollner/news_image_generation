@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Sánchez's tricky road to victory after shock Spanish election result
+Prompt: The Open Championship payouts and points: Brian Harman wins first major championship - PGA TOUR
 
-[Read more](https://www.politico.eu/article/pedro-sanchez-spanish-election-path-to-victory-alberto-nunez-feijoo/)
+[Read more](https://www.pgatour.com/article/news/betting-dfs/2023/07/23/the-open-championship-payouts-and-points-brian-harman-royal-liverpool)
