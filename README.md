@@ -7,6 +7,6 @@ The script runs every few minutes, fetching a new headline and generating a new 
 
 ![Generated Image](image.png)
 
-Prompt: Sam Altman’s Worldcoin eyeball-scanning crypto project launches
+Prompt: Korea Box Office: ‘Barbie’ Limps to Fourth Place Debut
 
-[Read more](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
+[Read more](https://variety.com/2023/film/box-office/korea-box-office-barbie-fourth-place-opening-1235678139/)
