@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Speaker McCarthy makes pointed impeachment threat to President Biden**
+**Israel's government has passed the first part of its legal overhaul. The law's ripples are dramatic**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JL_338E7Vy4).
+You can read more about it [here](https://apnews.com/article/israel-netanyahu-judicial-overhaul-politics-bc66247c3f7824288d6f93dbd7b777c7).
 
 ## Requirements
 - Python 3.8
