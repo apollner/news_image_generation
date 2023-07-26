@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
+**Biden administration sues Texas over floating border barriers used to repel migrants**
 
-You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
+You can read more about it [here](https://www.cbsnews.com/news/texas-justice-department-lawsuit-border-barriers-rio-grande/).
 
 ## Requirements
 - Python 3.8
