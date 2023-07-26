@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan police arrest woman, parents in beheading of man at hotel in Hokkaido entertainment district**
+**Paddleboarder who died on Martha's Vineyard was Obama's chef**
 
-You can read more about it [here](https://apnews.com/article/japan-hokkaido-beheading-arrest-woman-htel-50d27dcc35191cd753d1116d0857687a).
+You can read more about it [here](https://www.cbsnews.com/boston/news/tafari-campbell-paddleboarder-death-edgartown-great-pond-marthas-vineyard-obama/).
 
 ## Requirements
 - Python 3.8
