@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MSG Sphere in Las Vegas teases the most advanced audio system on Earth**
+**Japan police arrest woman, parents in beheading of man at hotel in Hokkaido entertainment district**
 
-You can read more about it [here](https://www.usatoday.com/story/tech/news/2023/07/24/msg-sphere-las-vegas-teases-most-advanced-audio-system/70460205007/).
+You can read more about it [here](https://apnews.com/article/japan-hokkaido-beheading-arrest-woman-htel-50d27dcc35191cd753d1116d0857687a).
 
 ## Requirements
 - Python 3.8
