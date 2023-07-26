@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Cottage' review: Tired new Broadway farce is forced**
+**Chinese stocks pop as Beijing vows more measures to boost weak economy**
 
-You can read more about it [here](https://nypost.com/2023/07/24/the-cottage-review-tired-new-broadway-farce-is-forced/).
+You can read more about it [here](https://www.cnbc.com/2023/07/25/chinese-stocks-rally-as-beijing-vows-measures-to-boost-weak-economy.html).
 
 ## Requirements
 - Python 3.8
