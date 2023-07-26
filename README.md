@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former pastor arrested in 1975 murder case investigating death of young girl**
+**'The Cottage' review: Tired new Broadway farce is forced**
 
-You can read more about it [here](https://thehill.com/homenews/4117518-former-pastor-arrested-in-1975-murder-case-investigating-death-of-young-girl/).
+You can read more about it [here](https://nypost.com/2023/07/24/the-cottage-review-tired-new-broadway-farce-is-forced/).
 
 ## Requirements
 - Python 3.8
