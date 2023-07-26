@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge blocks key Biden admin asylum rule at core of post-Title 42 strategy**
+**Tom Brady invited Irina Shayk to fly to Los Angeles amid fling rumors**
 
-You can read more about it [here](https://www.foxnews.com/politics/federal-judge-blocks-biden-administrations-asylum-policy-migrants).
+You can read more about it [here](https://www.marca.com/en/lifestyle/celebrities/2023/07/25/64c02679e2704e1a2b8b4580.html).
 
 ## Requirements
 - Python 3.8
