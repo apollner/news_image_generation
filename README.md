@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside This Year’s Quiet, but Still Mighty, San Diego Comic-Con: Comic Book Sales Spike, Epic Activation Lines, Groundbreaking Panels**
+**Broncos player taken in Russell Wilson trade suspended for gambling violation**
 
-You can read more about it [here](https://variety.com/2023/film/news/comic-con-2023-takeaways-strike-jamie-lee-curtis-kalki-2898-1235678929/).
+You can read more about it [here](https://www.fieldgulls.com/2023/7/24/23806268/nfl-gambling-broncos-player-seahawks-pick-russell-wilson-trade-suspended-indefinitely).
 
 ## Requirements
 - Python 3.8
