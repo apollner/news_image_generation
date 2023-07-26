@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Ford Mustang GT: The American Dream Car**
+**Rhodes Wildfires, Extreme Weather Threaten Europe's Travel Industry**
 
-You can read more about it [here](https://jalopnik.com/2024-ford-mustang-gt-american-dream-car-manual-1850670574).
+You can read more about it [here](https://www.bloomberg.com/news/features/2023-07-25/rhodes-wildfires-extreme-weather-threaten-europe-s-travel-industry).
 
 ## Requirements
 - Python 3.8
