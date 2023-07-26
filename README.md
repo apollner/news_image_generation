@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doja Cat Slams Admirers Who Call Themselves ‘Kittenz’—And She’s Not The First Celebrity To Diss Her Fans**
+**Inside This Year’s Quiet, but Still Mighty, San Diego Comic-Con: Comic Book Sales Spike, Epic Activation Lines, Groundbreaking Panels**
 
-You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2023/07/24/doja-cat-slams-admirers-who-call-themselves-kittenz-and-shes-not-the-first-celebrity-to-diss-her-fans/).
+You can read more about it [here](https://variety.com/2023/film/news/comic-con-2023-takeaways-strike-jamie-lee-curtis-kalki-2898-1235678929/).
 
 ## Requirements
 - Python 3.8
