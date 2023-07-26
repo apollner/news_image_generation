@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration sues Texas over floating border barriers used to repel migrants**
+**Doja Cat Slams Admirers Who Call Themselves ‘Kittenz’—And She’s Not The First Celebrity To Diss Her Fans**
 
-You can read more about it [here](https://www.cbsnews.com/news/texas-justice-department-lawsuit-border-barriers-rio-grande/).
+You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2023/07/24/doja-cat-slams-admirers-who-call-themselves-kittenz-and-shes-not-the-first-celebrity-to-diss-her-fans/).
 
 ## Requirements
 - Python 3.8
