@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden signs proclamation to create Emmett Till monument on 82nd birthday - POLITICO**
+**Speaker McCarthy makes pointed impeachment threat to President Biden**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/25/biden-emmett-till-monument-proclamation-00108025).
+You can read more about it [here](https://www.youtube.com/watch?v=JL_338E7Vy4).
 
 ## Requirements
 - Python 3.8
