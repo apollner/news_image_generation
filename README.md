@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saints sign tight end Jimmy Graham to one-year contract**
+**Israel judicial overhaul: Protests mount against Benjamin Netanyahu after bill passed**
 
-You can read more about it [here](https://www.neworleanssaints.com/news/jimmy-graham-new-orleans-saints-tight-end-signing-contract-roster-072523).
+You can read more about it [here](https://nypost.com/2023/07/25/israel-judicial-overhaul-protests-mount-against-benjamin-netanyahu-after-bill-passed/).
 
 ## Requirements
 - Python 3.8
