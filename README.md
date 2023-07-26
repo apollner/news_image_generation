@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's government has passed the first part of its legal overhaul. The law's ripples are dramatic**
+**3 Marines found dead in car near Camp Lejeune, North Carolina**
 
-You can read more about it [here](https://apnews.com/article/israel-netanyahu-judicial-overhaul-politics-bc66247c3f7824288d6f93dbd7b777c7).
+You can read more about it [here](https://www.cbsnews.com/news/three-marines-dead-in-car-camp-lejeune-north-carolina-pender-county/).
 
 ## Requirements
 - Python 3.8
