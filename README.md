@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tori Kelly hospitalized: What you need to know about blood clots**
+**What’s next for Israel after Netanyahu’s judicial overhaul bill?**
 
-You can read more about it [here](https://www.goodmorningamerica.com/wellness/story/tori-kelly-hospitalized-blood-clots-101629191).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/25/whats-next-for-israel-after-netanyahus-judicial-overhaul-bill).
 
 ## Requirements
 - Python 3.8
