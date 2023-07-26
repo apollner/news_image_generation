@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel judicial overhaul: Protests mount against Benjamin Netanyahu after bill passed**
+**Biden signs proclamation to create Emmett Till monument on 82nd birthday - POLITICO**
 
-You can read more about it [here](https://nypost.com/2023/07/25/israel-judicial-overhaul-protests-mount-against-benjamin-netanyahu-after-bill-passed/).
+You can read more about it [here](https://www.politico.com/news/2023/07/25/biden-emmett-till-monument-proclamation-00108025).
 
 ## Requirements
 - Python 3.8
