@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rhodes Wildfires, Extreme Weather Threaten Europe's Travel Industry**
+**Justice Department sues to force Texas to remove floating barriers in Rio Grande**
 
-You can read more about it [here](https://www.bloomberg.com/news/features/2023-07-25/rhodes-wildfires-extreme-weather-threaten-europe-s-travel-industry).
+You can read more about it [here](https://www.cnn.com/2023/07/24/politics/doj-texas-border-water-barriers/index.html).
 
 ## Requirements
 - Python 3.8
