@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patterns in the Development of Pediatric Allergy**
+**Former pastor arrested in 1975 murder case investigating death of young girl**
 
-You can read more about it [here](https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2022-060531/192853/Patterns-in-the-Development-of-Pediatric-Allergy).
+You can read more about it [here](https://thehill.com/homenews/4117518-former-pastor-arrested-in-1975-murder-case-investigating-death-of-young-girl/).
 
 ## Requirements
 - Python 3.8
