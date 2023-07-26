@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos player taken in Russell Wilson trade suspended for gambling violation**
+**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
 
-You can read more about it [here](https://www.fieldgulls.com/2023/7/24/23806268/nfl-gambling-broncos-player-seahawks-pick-russell-wilson-trade-suspended-indefinitely).
+You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
 
 ## Requirements
 - Python 3.8
