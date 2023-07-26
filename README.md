@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronny James stable, out of ICU following cardiac arrest - ESPN**
+**Saints sign tight end Jimmy Graham to one-year contract**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/38068148/bronny-james-stable-icu-following-cardiac-arrest).
+You can read more about it [here](https://www.neworleanssaints.com/news/jimmy-graham-new-orleans-saints-tight-end-signing-contract-roster-072523).
 
 ## Requirements
 - Python 3.8
