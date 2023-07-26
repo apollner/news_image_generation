@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Body of Obamas' personal chef recovered from Martha's Vineyard lake**
+**Israeli government passes law to limit Supreme Court power, defying mass protests**
 
-You can read more about it [here](https://www.reuters.com/world/us/body-obamas-personal-chef-recovered-marthas-vineyard-lake-2023-07-25/).
+You can read more about it [here](https://www.cnn.com/2023/07/24/middleeast/israel-supreme-court-power-stripped-intl/index.html).
 
 ## Requirements
 - Python 3.8
