@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPS, Teamsters reach labor deal to avoid strike**
+**Israel judicial overhaul: Protests mount against Benjamin Netanyahu after bill passed**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/25/ups-teamsters-reach-contract-to-avoid-strike-union-says.html).
+You can read more about it [here](https://nypost.com/2023/07/25/israel-judicial-overhaul-protests-mount-against-benjamin-netanyahu-after-bill-passed/).
 
 ## Requirements
 - Python 3.8
