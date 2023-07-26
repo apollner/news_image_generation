@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Typhoon Doksuri: Taiwan cancels Han Kuang military drills**
+**2024 Ford Mustang GT: The American Dream Car**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66286479).
+You can read more about it [here](https://jalopnik.com/2024-ford-mustang-gt-american-dream-car-manual-1850670574).
 
 ## Requirements
 - Python 3.8
