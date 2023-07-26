@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Impact of Israeli plan to overhaul judicial system**
+**‘Trying to make the world starve’: Russian drones destroy grain warehouses at Ukraine ports**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/the-impact-of-israeli-governments-controversial-plan-to-overhaul-judicial-system).
+You can read more about it [here](https://www.theguardian.com/world/2023/jul/24/russian-drones-destroy-grain-warehouses-ukraine-danube-ports).
 
 ## Requirements
 - Python 3.8
