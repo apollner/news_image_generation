@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RB Saquon Barkley signs franchise tag**
+**UPS, Teamsters reach labor deal to avoid strike**
 
-You can read more about it [here](https://www.giants.com/news/saquon-barkley-contract-franchise-tag-nfl-training-camp-stats-roster).
+You can read more about it [here](https://www.cnbc.com/2023/07/25/ups-teamsters-reach-contract-to-avoid-strike-union-says.html).
 
 ## Requirements
 - Python 3.8
