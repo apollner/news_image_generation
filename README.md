@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paddleboarder who died on Martha's Vineyard was Obama's chef**
+**Patterns in the Development of Pediatric Allergy**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/tafari-campbell-paddleboarder-death-edgartown-great-pond-marthas-vineyard-obama/).
+You can read more about it [here](https://publications.aap.org/pediatrics/article/doi/10.1542/peds.2022-060531/192853/Patterns-in-the-Development-of-Pediatric-Allergy).
 
 ## Requirements
 - Python 3.8
