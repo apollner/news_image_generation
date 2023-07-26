@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden signs proclamation to create Emmett Till monument on 82nd birthday - POLITICO**
+**Tori Kelly hospitalized: What you need to know about blood clots**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/25/biden-emmett-till-monument-proclamation-00108025).
+You can read more about it [here](https://www.goodmorningamerica.com/wellness/story/tori-kelly-hospitalized-blood-clots-101629191).
 
 ## Requirements
 - Python 3.8
