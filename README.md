@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Trying to make the world starve’: Russian drones destroy grain warehouses at Ukraine ports**
+**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/jul/24/russian-drones-destroy-grain-warehouses-ukraine-danube-ports).
+You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
 
 ## Requirements
 - Python 3.8
