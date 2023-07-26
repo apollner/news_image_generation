@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 Marines found dead in car near Camp Lejeune, North Carolina**
+**Federal judge blocks key Biden admin asylum rule at core of post-Title 42 strategy**
 
-You can read more about it [here](https://www.cbsnews.com/news/three-marines-dead-in-car-camp-lejeune-north-carolina-pender-county/).
+You can read more about it [here](https://www.foxnews.com/politics/federal-judge-blocks-biden-administrations-asylum-policy-migrants).
 
 ## Requirements
 - Python 3.8
