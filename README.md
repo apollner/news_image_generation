@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former pastor arrested in 1975 murder case investigating death of young girl**
+**Typhoon Doksuri: Taiwan cancels Han Kuang military drills**
 
-You can read more about it [here](https://thehill.com/homenews/4117518-former-pastor-arrested-in-1975-murder-case-investigating-death-of-young-girl/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66286479).
 
 ## Requirements
 - Python 3.8
