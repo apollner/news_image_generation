@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Samsung Unpacked 2023, and what to expect**
+**US Supreme Court faces ‘outright defiance’ from Alabama**
 
-You can read more about it [here](https://www.zdnet.com/article/how-to-watch-samsung-unpacked-2023/).
+You can read more about it [here](https://www.cnn.com/2023/07/24/politics/alabama-congressional-map-what-matters/index.html).
 
 ## Requirements
 - Python 3.8
