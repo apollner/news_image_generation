@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Barbie’ Scores Best-Ever Monday for Warner Bros. With $26 Million, Overtaking ‘The Dark Knight’**
+**RB Saquon Barkley signs franchise tag**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/barbie-monday-box-office-warner-bros-record-1235679537/).
+You can read more about it [here](https://www.giants.com/news/saquon-barkley-contract-franchise-tag-nfl-training-camp-stats-roster).
 
 ## Requirements
 - Python 3.8
