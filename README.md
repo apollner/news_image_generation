@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami-Dade Police Director Freddy Ramirez remains hospitalized after self-inflicted gunshot wound**
+**Body of Obamas' personal chef recovered from Martha's Vineyard lake**
 
-You can read more about it [here](https://www.cbsnews.com/miami/news/miami-dade-police-director-freddy-ramirez-critically-injured-over-weekend-in-tampa-area/).
+You can read more about it [here](https://www.reuters.com/world/us/body-obamas-personal-chef-recovered-marthas-vineyard-lake-2023-07-25/).
 
 ## Requirements
 - Python 3.8
