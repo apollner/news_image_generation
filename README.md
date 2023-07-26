@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department sues to force Texas to remove floating barriers in Rio Grande**
+**Xi Jinping’s foreign minister ousted after month-long unexplained absence from public view**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/politics/doj-texas-border-water-barriers/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/25/china/china-foreign-minister-qin-gang-replaced-wang-yi-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
