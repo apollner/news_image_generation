@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xi Jinping’s foreign minister ousted after month-long unexplained absence from public view**
+**Bronny James stable, out of ICU following cardiac arrest - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/07/25/china/china-foreign-minister-qin-gang-replaced-wang-yi-intl-hnk/index.html).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/38068148/bronny-james-stable-icu-following-cardiac-arrest).
 
 ## Requirements
 - Python 3.8
