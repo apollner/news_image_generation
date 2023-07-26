@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli government passes law to limit Supreme Court power, defying mass protests**
+**Former pastor arrested in 1975 murder case investigating death of young girl**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/middleeast/israel-supreme-court-power-stripped-intl/index.html).
+You can read more about it [here](https://thehill.com/homenews/4117518-former-pastor-arrested-in-1975-murder-case-investigating-death-of-young-girl/).
 
 ## Requirements
 - Python 3.8
