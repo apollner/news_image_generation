@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Supreme Court faces ‘outright defiance’ from Alabama**
+**Impact of Israeli plan to overhaul judicial system**
 
-You can read more about it [here](https://www.cnn.com/2023/07/24/politics/alabama-congressional-map-what-matters/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/show/the-impact-of-israeli-governments-controversial-plan-to-overhaul-judicial-system).
 
 ## Requirements
 - Python 3.8
