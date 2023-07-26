@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel judicial overhaul: Protests mount against Benjamin Netanyahu after bill passed**
+**‘Barbie’ Scores Best-Ever Monday for Warner Bros. With $26 Million, Overtaking ‘The Dark Knight’**
 
-You can read more about it [here](https://nypost.com/2023/07/25/israel-judicial-overhaul-protests-mount-against-benjamin-netanyahu-after-bill-passed/).
+You can read more about it [here](https://variety.com/2023/film/box-office/barbie-monday-box-office-warner-bros-record-1235679537/).
 
 ## Requirements
 - Python 3.8
