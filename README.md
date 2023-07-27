@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Herbert's production warranted record-breaking extension, but will it lead to Chargers playoff success?**
+**Giuliani concedes he made defamatory statements about Georgia election workers**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/justin-herberts-production-warranted-record-breaking-extension-but-will-it-lead-to-chargers-playoff-success/).
+You can read more about it [here](https://www.cnn.com/2023/07/26/politics/rudy-giuliani-georgia-election-workers/index.html).
 
 ## Requirements
 - Python 3.8
