@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Justin Herbert and Lamar Jackson's record-setting extensions mean for Joe Burrow**
+**Greta Gerwig on a ‘Barbie’ Potential Sequel, Film’s Criticism**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/what-justin-herbert-and-lamar-jacksons-record-setting-extensions-mean-for-joe-burrow/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/greta-gerwig-barbie-potential-sequel-film-criticism-1235545212/).
 
 ## Requirements
 - Python 3.8
