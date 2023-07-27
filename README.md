@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NatWest boss Alison Rose resigns over Nigel Farage Coutts account row**
+**Alphabet stocks rise after second-quarter profits exceed expectations**
 
-You can read more about it [here](https://www.theguardian.com/business/2023/jul/26/natwest-boss-alison-rose-nigel-farage-account-coutts).
+You can read more about it [here](https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock).
 
 ## Requirements
 - Python 3.8
