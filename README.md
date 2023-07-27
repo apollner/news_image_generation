@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**London jury acquits Kevin Spacey of sexual assault charges on his birthday**
+**Galaxy Foldable Phone Face-Off: How the Z Fold 5 Stacks Up on Specs and Price**
 
-You can read more about it [here](https://apnews.com/article/kevin-spacey-sexual-assault-trial-london-jury-deliberations-85cb3957c60de1a7b1e03a26dc278d95).
+You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-foldable-phone-face-off-how-the-z-fold-5-stacks-up-against-earlier-models/).
 
 ## Requirements
 - Python 3.8
