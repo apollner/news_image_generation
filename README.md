@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I wanted to try AMD, but it’s making it hard for me to switch**
+**Biden picks Martin O'Malley to lead Social Security Administration**
 
-You can read more about it [here](http://www.digitaltrends.com/computing/amd-is-making-it-hard-for-me-to-switch/).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/07/26/biden-picks-martin-omalley-lead-social-security-administration/).
 
 ## Requirements
 - Python 3.8
