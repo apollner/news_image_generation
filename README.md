@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron thanks son's doctors as Elon Musk pushes anti-vax conspiracy - live**
+**Greta Gerwig on Outraged Conservatives Burning Barbies**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/bronny-james-cardiac-arrest-cause-latest-b2381969.html).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/greta-gerwig-responds-barbie-right-wing-backlash-1234795183/).
 
 ## Requirements
 - Python 3.8
