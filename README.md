@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ultra-rare’ Apple sneakers on sale for $50,000**
+**UFO congressional hearing: Whistleblower says US concealing 'multi-decade' UFO program**
 
-You can read more about it [here](https://www.cnn.com/style/article/apple-sneakers-sale-intl-scli/index.html).
+You can read more about it [here](https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7).
 
 ## Requirements
 - Python 3.8
