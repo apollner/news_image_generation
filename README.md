@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFO congressional hearing: Whistleblower says US concealing 'multi-decade' UFO program**
+**I wanted to try AMD, but it’s making it hard for me to switch**
 
-You can read more about it [here](https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7).
+You can read more about it [here](http://www.digitaltrends.com/computing/amd-is-making-it-hard-for-me-to-switch/).
 
 ## Requirements
 - Python 3.8
