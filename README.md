@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three dead in Greece wildfires as firefighters battle the flames**
+**Florida ocean records 'unprecedented' temperatures similar to a hot tub**
 
-You can read more about it [here](https://www.reuters.com/world/europe/wildfires-greece-burn-days-more-tourists-expected-fly-out-2023-07-25/).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/25/florida-ocean-temperatures-hot-tub-extreme-weather).
 
 ## Requirements
 - Python 3.8
