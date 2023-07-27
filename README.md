@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Brady invited Irina Shayk to fly to Los Angeles amid fling rumors**
+**Banc of California and PacWest to merge, raise $400 million in equity**
 
-You can read more about it [here](https://www.marca.com/en/lifestyle/celebrities/2023/07/25/64c02679e2704e1a2b8b4580.html).
+You can read more about it [here](https://www.reuters.com/markets/deals/banc-california-talks-buy-pacwest-bancorp-wsj-2023-07-25/).
 
 ## Requirements
 - Python 3.8
