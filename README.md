@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US charges British billionaire Joe Lewis with insider trading**
+**Morning Bid: Markets brace for Fed decision, earnings flood**
 
-You can read more about it [here](https://www.reuters.com/legal/us-charges-british-billionaire-joe-lewis-with-insider-trading-2023-07-25/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-view-europe-2023-07-26/).
 
 ## Requirements
 - Python 3.8
