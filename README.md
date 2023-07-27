@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greta Gerwig on Outraged Conservatives Burning Barbies**
+**Japan all but guarantees spot in knockout round of Women’s World Cup with win over Costa Rica**
 
-You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/greta-gerwig-responds-barbie-right-wing-backlash-1234795183/).
+You can read more about it [here](https://www.cnn.com/2023/07/25/football/canada-spain-japan-2023-womens-world-cup-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
