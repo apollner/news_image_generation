@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 found dead at North Carolina gas station are identified as Marines stationed nearby**
+**Justin Herbert's production warranted record-breaking extension, but will it lead to Chargers playoff success?**
 
-You can read more about it [here](https://www.npr.org/2023/07/26/1190118897/3-found-dead-at-north-carolina-gas-station-are-identified-as-marines-stationed-n).
+You can read more about it [here](https://www.cbssports.com/nfl/news/justin-herberts-production-warranted-record-breaking-extension-but-will-it-lead-to-chargers-playoff-success/).
 
 ## Requirements
 - Python 3.8
