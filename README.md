@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bowe Bergdahl court-martial conviction for Army desertion thrown out by federal judge**
+**Asia markets largely down ahead of Fed rate decision; Australia inflation falls in second quarter**
 
-You can read more about it [here](https://www.foxnews.com/politics/bowe-bergdahl-court-martial-conviction-army-desertion-thrown-federal-judge).
+You can read more about it [here](https://www.cnbc.com/2023/07/26/asia-markets-set-to-fall-ahead-of-fed-rate-decision-australia-inflation-figures.html).
 
 ## Requirements
 - Python 3.8
