@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twisted Metal First Reviews: 'Scrappy,' 'Blood-Soaked Blast,' Critics Say**
+**‘Ultra-rare’ Apple sneakers on sale for $50,000**
 
-You can read more about it [here](https://editorial.rottentomatoes.com/article/twisted-metal-first-reviews/).
+You can read more about it [here](https://www.cnn.com/style/article/apple-sneakers-sale-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
