@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alphabet stocks rise after second-quarter profits exceed expectations**
+**Three dead in Greece wildfires as firefighters battle the flames**
 
-You can read more about it [here](https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock).
+You can read more about it [here](https://www.reuters.com/world/europe/wildfires-greece-burn-days-more-tourists-expected-fly-out-2023-07-25/).
 
 ## Requirements
 - Python 3.8
