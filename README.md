@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia markets largely down ahead of Fed rate decision; Australia inflation falls in second quarter**
+**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/26/asia-markets-set-to-fall-ahead-of-fed-rate-decision-australia-inflation-figures.html).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
 
 ## Requirements
 - Python 3.8
