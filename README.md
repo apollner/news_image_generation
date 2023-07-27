@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greta Gerwig on a ‘Barbie’ Potential Sequel, Film’s Criticism**
+**US charges British billionaire Joe Lewis with insider trading**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/greta-gerwig-barbie-potential-sequel-film-criticism-1235545212/).
+You can read more about it [here](https://www.reuters.com/legal/us-charges-british-billionaire-joe-lewis-with-insider-trading-2023-07-25/).
 
 ## Requirements
 - Python 3.8
