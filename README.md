@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man sentenced to prison for defrauding US border wall supporters**
+**Banc of California and PacWest to merge, raise $400 million in equity**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/26/man-sentenced-to-prison-for-defrauding-us-border-wall-supporters).
+You can read more about it [here](https://www.reuters.com/markets/deals/banc-california-talks-buy-pacwest-bancorp-wsj-2023-07-25/).
 
 ## Requirements
 - Python 3.8
