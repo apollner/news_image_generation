@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge knocks down Biden's asylum policy as illegal border crossings dip**
+**What Justin Herbert and Lamar Jackson's record-setting extensions mean for Joe Burrow**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/25/biden-asylum-policy-immigration-00108074).
+You can read more about it [here](https://www.cbssports.com/nfl/news/what-justin-herbert-and-lamar-jacksons-record-setting-extensions-mean-for-joe-burrow/).
 
 ## Requirements
 - Python 3.8
