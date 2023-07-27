@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
+**Samsung's Unpacked event spoiled by major leak**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
+You can read more about it [here](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks).
 
 ## Requirements
 - Python 3.8
