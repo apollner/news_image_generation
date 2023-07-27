@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Des Moines native co-wrote controversial Jason Aldean song 'Try That in a Small Town'**
+**Twisted Metal First Reviews: 'Scrappy,' 'Blood-Soaked Blast,' Critics Say**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/entertainment/music/2023/07/26/jason-aldean-song-try-that-small-town-kurt-allison-des-moines-cowriter/70465363007/).
+You can read more about it [here](https://editorial.rottentomatoes.com/article/twisted-metal-first-reviews/).
 
 ## Requirements
 - Python 3.8
