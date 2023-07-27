@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Falcon Heavy launch to bring sonic booms to the Space Coast**
+**LeBron thanks son's doctors as Elon Musk pushes anti-vax conspiracy - live**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/07/25/spacex-falcon-heavy-launch-to-bring-sonic-booms-to-the-space-coast/70461678007/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/bronny-james-cardiac-arrest-cause-latest-b2381969.html).
 
 ## Requirements
 - Python 3.8
