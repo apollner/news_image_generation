@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft shares fall after earnings report as analysts process a delayed A.I. ramp**
+**Des Moines native co-wrote controversial Jason Aldean song 'Try That in a Small Town'**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/26/microsoft-stock-falls-as-analysts-digest-a-delayed-ai-ramp.html).
+You can read more about it [here](https://www.desmoinesregister.com/story/entertainment/music/2023/07/26/jason-aldean-song-try-that-small-town-kurt-allison-des-moines-cowriter/70465363007/).
 
 ## Requirements
 - Python 3.8
