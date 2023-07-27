@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Messi magnificent again as Inter Miami trounces Atlanta United, 4-0**
+**3 found dead at North Carolina gas station are identified as Marines stationed nearby**
 
-You can read more about it [here](https://theathletic.com/4721344/2023/07/25/messi-miami-atlanta-united/).
+You can read more about it [here](https://www.npr.org/2023/07/26/1190118897/3-found-dead-at-north-carolina-gas-station-are-identified-as-marines-stationed-n).
 
 ## Requirements
 - Python 3.8
