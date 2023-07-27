@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge blocks Biden’s controversial asylum policy in a major blow to administration**
+**Microsoft shares fall after earnings report as analysts process a delayed A.I. ramp**
 
-You can read more about it [here](https://www.cnn.com/2023/07/25/politics/biden-asylum-court-ruling/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/07/26/microsoft-stock-falls-as-analysts-digest-a-delayed-ai-ramp.html).
 
 ## Requirements
 - Python 3.8
