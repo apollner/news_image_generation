@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship carrying 3000 cars burns off Dutch coast, crew member dead**
+**Federal judge blocks Biden’s controversial asylum policy in a major blow to administration**
 
-You can read more about it [here](https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/).
+You can read more about it [here](https://www.cnn.com/2023/07/25/politics/biden-asylum-court-ruling/index.html).
 
 ## Requirements
 - Python 3.8
