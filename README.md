@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida ocean records 'unprecedented' temperatures similar to a hot tub**
+**Judge knocks down Biden's asylum policy as illegal border crossings dip**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/25/florida-ocean-temperatures-hot-tub-extreme-weather).
+You can read more about it [here](https://www.politico.com/news/2023/07/25/biden-asylum-policy-immigration-00108074).
 
 ## Requirements
 - Python 3.8
