@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden picks Martin O'Malley to lead Social Security Administration**
+**London jury acquits Kevin Spacey of sexual assault charges on his birthday**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/07/26/biden-picks-martin-omalley-lead-social-security-administration/).
+You can read more about it [here](https://apnews.com/article/kevin-spacey-sexual-assault-trial-london-jury-deliberations-85cb3957c60de1a7b1e03a26dc278d95).
 
 ## Requirements
 - Python 3.8
