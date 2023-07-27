@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Company involved in NYC crane collapse tied to previous disasters, shady 'King of Crane'**
+**Police K-9 handler who released dog that attacked an unarmed Black man in Ohio has been fired, department says**
 
-You can read more about it [here](https://nypost.com/2023/07/26/company-behind-hells-kitchen-crane-collapse-tied-to-previous-disasters/).
+You can read more about it [here](https://www.cnn.com/2023/07/26/us/circleville-ohio-police-dog-black-man-attack-fired/index.html).
 
 ## Requirements
 - Python 3.8
