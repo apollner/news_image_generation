@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida ocean records 'unprecedented' temperatures similar to a hot tub**
+**NatWest boss Alison Rose resigns over Nigel Farage Coutts account row**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/25/florida-ocean-temperatures-hot-tub-extreme-weather).
+You can read more about it [here](https://www.theguardian.com/business/2023/jul/26/natwest-boss-alison-rose-nigel-farage-account-coutts).
 
 ## Requirements
 - Python 3.8
