@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giuliani concedes he made defamatory statements about Georgia election workers**
+**Ship carrying 3000 cars burns off Dutch coast, crew member dead**
 
-You can read more about it [here](https://www.cnn.com/2023/07/26/politics/rudy-giuliani-georgia-election-workers/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/).
 
 ## Requirements
 - Python 3.8
