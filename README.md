@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Foldable Phone Face-Off: How the Z Fold 5 Stacks Up on Specs and Price**
+**Police K-9 handler who released dog that attacked an unarmed Black man in Ohio has been fired, department says**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-foldable-phone-face-off-how-the-z-fold-5-stacks-up-against-earlier-models/).
+You can read more about it [here](https://www.cnn.com/2023/07/26/us/circleville-ohio-police-dog-black-man-attack-fired/index.html).
 
 ## Requirements
 - Python 3.8
