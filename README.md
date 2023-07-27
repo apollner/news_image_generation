@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron thanks son's doctors as Elon Musk pushes anti-vax conspiracy - live**
+**‘A lot of evidence’ recovered as search of Gilgo Beach suspect’s home ends, DA says**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/bronny-james-cardiac-arrest-cause-latest-b2381969.html).
+You can read more about it [here](https://www.cnn.com/2023/07/25/us/rex-heuermann-gilgo-beach-case-police-update/index.html).
 
 ## Requirements
 - Python 3.8
