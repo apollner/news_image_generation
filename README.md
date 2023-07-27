@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Banc of California and PacWest to merge, raise $400 million in equity**
+**Judge knocks down Biden's asylum policy as illegal border crossings dip**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/banc-california-talks-buy-pacwest-bancorp-wsj-2023-07-25/).
+You can read more about it [here](https://www.politico.com/news/2023/07/25/biden-asylum-policy-immigration-00108074).
 
 ## Requirements
 - Python 3.8
