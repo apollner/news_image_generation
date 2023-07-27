@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morning Bid: Markets brace for Fed decision, earnings flood**
+**Bowe Bergdahl court-martial conviction for Army desertion thrown out by federal judge**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-view-europe-2023-07-26/).
+You can read more about it [here](https://www.foxnews.com/politics/bowe-bergdahl-court-martial-conviction-army-desertion-thrown-federal-judge).
 
 ## Requirements
 - Python 3.8
