@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giants sign left tackle Andrew Thomas to extension**
+**Taurus Daily Horoscope Today, July 27, 2023 predicts positive news about health**
 
-You can read more about it [here](https://www.giants.com/news/andrew-thomas-contract-extension-left-tackle-georgia-bulldogs-daniel-jones-2023).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/taurus-daily-horoscope-today-july-27-2023-predicts-positive-news-about-health-101690381348471.html).
 
 ## Requirements
 - Python 3.8
