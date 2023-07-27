@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung's Unpacked event spoiled by major leak**
+**U.S. and China battle for influence in Pacific island nations**
 
-You can read more about it [here](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/07/25/blinken-tonga-biden-china-pacific-islands/).
 
 ## Requirements
 - Python 3.8
