@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX scrubs record-breaking Falcon Heavy rocket launch (video)**
+**Aaron Rodgers takes $35m pay cut in reworked contract with New York Jets**
 
-You can read more about it [here](https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26).
+You can read more about it [here](https://www.theguardian.com/sport/2023/jul/26/aaron-rodgers-pay-cut-new-york-jets-contract).
 
 ## Requirements
 - Python 3.8
