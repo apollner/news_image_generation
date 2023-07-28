@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Read the proposed Hunter Biden plea agreement**
+**Ariana Grande’s Rumored Boyfriend Ethan Slater Officially Filed For Divorce From His Wife Amid Reports She Was “Blindsided” And Feels “Abandoned”**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ethan-slater-filed-for-divorce-amid-ariana-grande-dating).
 
 ## Requirements
 - Python 3.8
