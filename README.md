@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rauw Alejandro Breaks His Silence After Rosalia Engagement Ends**
+**Alicia Navarro: Arizona girl found safe in Montana after disappearing in 2019, PD says**
 
-You can read more about it [here](https://www.billboard.com/music/latin/rauw-alejandro-rosalia-breakup-statement-1235379709/).
+You can read more about it [here](https://www.fox10phoenix.com/news/glendale-police-to-give-update-on-high-profile-case).
 
 ## Requirements
 - Python 3.8
