@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio cop fired after unleashing K9 that mauled black trucker with hands up**
+**SpaceX scrubs record-breaking Falcon Heavy rocket launch (video)**
 
-You can read more about it [here](https://nypost.com/2023/07/26/ohio-cop-fired-for-unleashing-k9-on-surrendering-trucker/).
+You can read more about it [here](https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26).
 
 ## Requirements
 - Python 3.8
