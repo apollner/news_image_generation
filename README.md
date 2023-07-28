@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Illusion Island Review**
+**Mysterious QPO Signals Reveal New Features of Galactic Black Holes**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zteAWg0wuEo).
+You can read more about it [here](https://scitechdaily.com/mysterious-qpo-signals-reveal-new-features-of-galactic-black-holes/).
 
 ## Requirements
 - Python 3.8
