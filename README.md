@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giuliani won't contest claims he made 'false' statements about 2 Georgia election workers**
+**McCarthy unites fractious GOP with impeachment talk**
 
-You can read more about it [here](https://abcnews.go.com/US/giuliani-contest-claims-made-false-statements-2-georgia/story?id=101664544).
+You can read more about it [here](https://thehill.com/homenews/house/4121742-mccarthy-unites-fractious-gop-with-impeachment-talk/).
 
 ## Requirements
 - Python 3.8
