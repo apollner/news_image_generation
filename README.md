@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets' Aaron Rodgers takes pay cut, agrees to new two-year, $75 million guaranteed contract, per report**
+**Russia-Ukraine war: List of key events, day 519**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jets-aaron-rodgers-takes-pay-cut-agrees-to-new-two-year-75-million-guaranteed-contract-per-report/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/27/russia-ukraine-war-list-of-key-events-day-519).
 
 ## Requirements
 - Python 3.8
