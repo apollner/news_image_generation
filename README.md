@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anheuser-Busch to lay off hundreds of workers after Bud Light boycott hammers sales**
+**Read the proposed Hunter Biden plea agreement**
 
-You can read more about it [here](https://abcnews.go.com/Business/anheuser-busch-layoff-hundreds-workers-after-bud-light/story?id=101718470).
+You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
 
 ## Requirements
 - Python 3.8
