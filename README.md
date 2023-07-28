@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police K-9 handler who released dog that attacked an unarmed Black man in Ohio has been fired**
+**Takeaways from the stunning Hunter Biden hearing and what happens now**
 
-You can read more about it [here](https://www.cnn.com/2023/07/26/us/circleville-ohio-police-dog-black-man-attack-fired/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/26/politics/takeaways-hunter-biden-plea-hearing/index.html).
 
 ## Requirements
 - Python 3.8
