@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO updates list of essential medicines to include heart ‘polypills,’ MS treatments but not weight-loss drugs**
+**Samsung Galaxy Z Flip 5 Hands-On: Bigger Display, More Personal Customizations**
 
-You can read more about it [here](https://www.cnn.com/2023/07/26/health/who-essential-medicines-list/index.html).
+You can read more about it [here](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-5-hands-on-bigger-display-more-personal-customizations/).
 
 ## Requirements
 - Python 3.8
