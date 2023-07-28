@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Burrow leaves practice on a cart after apparent leg injury**
+**North Korea showed Russia one of its more troubling nuclear missiles**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-leaves-practice-on-a-cart-after-apparent-leg-injury).
+You can read more about it [here](https://www.businessinsider.com/north-korea-showed-russia-nuclear-capable-missiles-including-new-icbm-2023-7).
 
 ## Requirements
 - Python 3.8
