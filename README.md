@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taurus Daily Horoscope Today, July 27, 2023 predicts positive news about health**
+**Police K-9 handler who released dog that attacked an unarmed Black man in Ohio has been fired**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/taurus-daily-horoscope-today-july-27-2023-predicts-positive-news-about-health-101690381348471.html).
+You can read more about it [here](https://www.cnn.com/2023/07/26/us/circleville-ohio-police-dog-black-man-attack-fired/index.html).
 
 ## Requirements
 - Python 3.8
