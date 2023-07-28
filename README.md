@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme heat and pollution can double the risk of a heart attack**
+**Wisconsin woman convicted in killing and dismembering ex-boyfriend**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/07/27/extreme-heat-pollution-heart-attack-risk/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/wisconsin-woman-convicted-killing-dismembering-ex-boyfriend-rcna96635).
 
 ## Requirements
 - Python 3.8
