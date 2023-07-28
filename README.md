@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Read the proposed Hunter Biden plea agreement**
+**Jets' Aaron Rodgers takes pay cut, agrees to new two-year, $75 million guaranteed contract, per report**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jets-aaron-rodgers-takes-pay-cut-agrees-to-new-two-year-75-million-guaranteed-contract-per-report/).
 
 ## Requirements
 - Python 3.8
