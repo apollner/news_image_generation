@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Studios Quietly Go On Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety**
+**Hackers are infecting Call of Duty players with a self-spreading malware**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/).
+You can read more about it [here](https://techcrunch.com/2023/07/27/hackers-are-infecting-call-of-duty-players-with-a-self-spreading-malware/).
 
 ## Requirements
 - Python 3.8
