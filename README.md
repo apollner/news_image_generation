@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Read the proposed Hunter Biden plea agreement**
+**1 in 6 toddlers have not completed childhood vaccine series, study finds**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
+You can read more about it [here](https://abcnews.go.com/Health/1-6-toddlers-completed-childhood-vaccine-series-study/story?id=101664925).
 
 ## Requirements
 - Python 3.8
