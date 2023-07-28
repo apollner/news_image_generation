@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bud Light maker Anheuser-Busch to lay off hundreds of employees, company says**
+**Hearing underway to decide if Oxford shooter can be sentenced to life in prison**
 
-You can read more about it [here](https://www.nbcnews.com/business/business-news/anheuser-busch-layoffs-bud-light-rcna96633).
+You can read more about it [here](https://www.detroitnews.com/story/news/local/oakland-county/2023/07/27/oxford-shooters-hearing-to-decide-if-life-in-prison-is-fair-begins-today/70437477007/).
 
 ## Requirements
 - Python 3.8
