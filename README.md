@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy Z Flip 5 Hands-On: Bigger Display, More Personal Customizations**
+**6 held as police connect L.A.-area shootings at scenic overlooks**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-5-hands-on-bigger-display-more-personal-customizations/).
+You can read more about it [here](https://www.latimes.com/california/story/2023-07-26/palos-verdes-double-homicide-arrests).
 
 ## Requirements
 - Python 3.8
