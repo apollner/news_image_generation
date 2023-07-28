@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 519**
+**Heart attack death risk can double during heat waves, high pollution: study**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/27/russia-ukraine-war-list-of-key-events-day-519).
+You can read more about it [here](https://nypost.com/2023/07/26/heart-attack-death-risk-doubles-during-heat-waves-high-pollution-study/).
 
 ## Requirements
 - Python 3.8
