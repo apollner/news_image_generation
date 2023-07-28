@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry set for court showdown with The Sun publisher**
+**Disney Illusion Island Review**
 
-You can read more about it [here](https://www.bbc.com/news/uk-66322279).
+You can read more about it [here](https://www.youtube.com/watch?v=zteAWg0wuEo).
 
 ## Requirements
 - Python 3.8
