@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious QPO Signals Reveal New Features of Galactic Black Holes**
+**Giuliani won't contest claims he made 'false' statements about 2 Georgia election workers**
 
-You can read more about it [here](https://scitechdaily.com/mysterious-qpo-signals-reveal-new-features-of-galactic-black-holes/).
+You can read more about it [here](https://abcnews.go.com/US/giuliani-contest-claims-made-false-statements-2-georgia/story?id=101664544).
 
 ## Requirements
 - Python 3.8
