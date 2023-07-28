@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitch McConnell fell earlier this month, before freezing mid-sentence this week**
+**Joe Burrow leaves practice on a cart after apparent leg injury**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/27/mitch-mcconnell-freeze-press-conference-fall-age).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-leaves-practice-on-a-cart-after-apparent-leg-injury).
 
 ## Requirements
 - Python 3.8
