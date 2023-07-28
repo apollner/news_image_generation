@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT scenarios vs. Portugal: How USA can win group, advance from Group E at Women's World Cup**
+**It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy**
 
-You can read more about it [here](https://www.cbssports.com/soccer/news/uswnt-scenarios-vs-portugal-how-usa-can-win-group-advance-from-group-e-at-womens-world-cup/).
+You can read more about it [here](https://techcrunch.com/2023/07/27/its-not-just-netflixs-900k-ai-jobs-its-the-hypocrisy/).
 
 ## Requirements
 - Python 3.8
