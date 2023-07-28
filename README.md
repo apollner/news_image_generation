@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers takes $35m pay cut in reworked contract with New York Jets**
+**North Korea's Kim shows off banned missiles to Russian minister**
 
-You can read more about it [here](https://www.theguardian.com/sport/2023/jul/26/aaron-rodgers-pay-cut-new-york-jets-contract).
+You can read more about it [here](https://www.reuters.com/world/north-koreas-kim-jong-un-meets-russian-defence-minister-2023-07-27/).
 
 ## Requirements
 - Python 3.8
