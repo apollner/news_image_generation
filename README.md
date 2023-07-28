@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hackers are infecting Call of Duty players with a self-spreading malware**
+**Who is Omar Tchiani, the suspected brain behind Niger coup?**
 
-You can read more about it [here](https://techcrunch.com/2023/07/27/hackers-are-infecting-call-of-duty-players-with-a-self-spreading-malware/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/27/who-is-omar-tchiani-the-suspected-brain-behind-niger-coup).
 
 ## Requirements
 - Python 3.8
