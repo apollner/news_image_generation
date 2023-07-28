@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB trade tracker: All the latest moves ahead of Aug. 1 deadline as Dodgers add shortstop Amed Rosario**
+**WHO updates list of essential medicines to include heart ‘polypills,’ MS treatments but not weight-loss drugs**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-tracker-all-the-latest-moves-ahead-of-aug-1-deadline-as-dodgers-add-shortstop-amed-rosario/).
+You can read more about it [here](https://www.cnn.com/2023/07/26/health/who-essential-medicines-list/index.html).
 
 ## Requirements
 - Python 3.8
