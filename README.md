@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea's Kim shows off banned missiles to Russian minister**
+**Read the proposed Hunter Biden plea agreement**
 
-You can read more about it [here](https://www.reuters.com/world/north-koreas-kim-jong-un-meets-russian-defence-minister-2023-07-27/).
+You can read more about it [here](https://www.politico.com/news/2023/07/26/proposed-hunter-biden-plea-agreement-00108426).
 
 ## Requirements
 - Python 3.8
