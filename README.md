@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.K. jury finds Kevin Spacey not guilty of multiple sexual assault charges**
+**Prince Harry set for court showdown with The Sun publisher**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0ym_e8y8l6Y).
+You can read more about it [here](https://www.bbc.com/news/uk-66322279).
 
 ## Requirements
 - Python 3.8
