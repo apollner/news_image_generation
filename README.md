@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy unites fractious GOP with impeachment talk**
+**U.K. jury finds Kevin Spacey not guilty of multiple sexual assault charges**
 
-You can read more about it [here](https://thehill.com/homenews/house/4121742-mccarthy-unites-fractious-gop-with-impeachment-talk/).
+You can read more about it [here](https://www.youtube.com/watch?v=0ym_e8y8l6Y).
 
 ## Requirements
 - Python 3.8
