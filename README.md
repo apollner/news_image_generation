@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US economy unexpectedly accelerated to a 2.4% growth rate in April-June quarter despite Fed hikes**
+**Bud Light maker Anheuser-Busch to lay off hundreds of employees, company says**
 
-You can read more about it [here](https://apnews.com/article/economy-gdp-inflation-federal-reserve-jobs-consumers-ce011c5f4330bc29d37939730039d1bb).
+You can read more about it [here](https://www.nbcnews.com/business/business-news/anheuser-busch-layoffs-bud-light-rcna96633).
 
 ## Requirements
 - Python 3.8
