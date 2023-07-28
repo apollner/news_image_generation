@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 held as police connect L.A.-area shootings at scenic overlooks**
+**Ohio cop fired after unleashing K9 that mauled black trucker with hands up**
 
-You can read more about it [here](https://www.latimes.com/california/story/2023-07-26/palos-verdes-double-homicide-arrests).
+You can read more about it [here](https://nypost.com/2023/07/26/ohio-cop-fired-for-unleashing-k9-on-surrendering-trucker/).
 
 ## Requirements
 - Python 3.8
