@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung blocks Google Wallet on the Galaxy Z Flip 5's cover screen**
+**Anheuser-Busch to lay off hundreds of workers after Bud Light boycott hammers sales**
 
-You can read more about it [here](https://www.androidpolice.com/samsung-blocks-google-wallet-on-galaxy-z-flip-5s/).
+You can read more about it [here](https://abcnews.go.com/Business/anheuser-busch-layoff-hundreds-workers-after-bud-light/story?id=101718470).
 
 ## Requirements
 - Python 3.8
