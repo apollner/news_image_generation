@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alicia Navarro: Arizona girl found safe in Montana after disappearing in 2019, PD says**
+**Exclusive: Angels Take Shohei Ohtani Off Trade Market, Intend to Make Postseason Push**
 
-You can read more about it [here](https://www.fox10phoenix.com/news/glendale-police-to-give-update-on-high-profile-case).
+You can read more about it [here](https://www.si.com/mlb/2023/07/26/angels-shohei-ohtani-take-off-trade-market-mlb-deadline).
 
 ## Requirements
 - Python 3.8
