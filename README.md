@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hearing underway to decide if Oxford shooter can be sentenced to life in prison**
+**Samsung blocks Google Wallet on the Galaxy Z Flip 5's cover screen**
 
-You can read more about it [here](https://www.detroitnews.com/story/news/local/oakland-county/2023/07/27/oxford-shooters-hearing-to-decide-if-life-in-prison-is-fair-begins-today/70437477007/).
+You can read more about it [here](https://www.androidpolice.com/samsung-blocks-google-wallet-on-galaxy-z-flip-5s/).
 
 ## Requirements
 - Python 3.8
