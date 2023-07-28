@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande’s Rumored Boyfriend Ethan Slater Officially Filed For Divorce From His Wife Amid Reports She Was “Blindsided” And Feels “Abandoned”**
+**USWNT scenarios vs. Portugal: How USA can win group, advance from Group E at Women's World Cup**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ethan-slater-filed-for-divorce-amid-ariana-grande-dating).
+You can read more about it [here](https://www.cbssports.com/soccer/news/uswnt-scenarios-vs-portugal-how-usa-can-win-group-advance-from-group-e-at-womens-world-cup/).
 
 ## Requirements
 - Python 3.8
