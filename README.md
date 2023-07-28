@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy**
+**Mitch McConnell fell earlier this month, before freezing mid-sentence this week**
 
-You can read more about it [here](https://techcrunch.com/2023/07/27/its-not-just-netflixs-900k-ai-jobs-its-the-hypocrisy/).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/27/mitch-mcconnell-freeze-press-conference-fall-age).
 
 ## Requirements
 - Python 3.8
