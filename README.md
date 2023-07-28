@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Angels Take Shohei Ohtani Off Trade Market, Intend to Make Postseason Push**
+**MLB trade tracker: All the latest moves ahead of Aug. 1 deadline as Dodgers add shortstop Amed Rosario**
 
-You can read more about it [here](https://www.si.com/mlb/2023/07/26/angels-shohei-ohtani-take-off-trade-market-mlb-deadline).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-tracker-all-the-latest-moves-ahead-of-aug-1-deadline-as-dodgers-add-shortstop-amed-rosario/).
 
 ## Requirements
 - Python 3.8
