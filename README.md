@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu warns against overturning controversial new law in CNN interview**
+**Joe Burrow strains calf: QB options for Bengals if star signal-caller is sidelined significant amount of time**
 
-You can read more about it [here](https://www.cnn.com/2023/07/27/middleeast/israel-benjamin-netanyahu-judicial-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/joe-burrow-strains-calf-qb-options-for-bengals-if-star-signal-caller-is-sidelined-significant-amount-of-time/).
 
 ## Requirements
 - Python 3.8
