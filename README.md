@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande Apparently Hung Out With Ethan Slater, His Estranged Wife Lilly, And Their Baby “Many Times” Just Three Months Before She Reportedly Began Dating Him**
+**Aging farm workforce forces a reckoning: Who will pick America's crops?**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ariana-grande-hung-out-with-ethan-slater-wife-on-wicked-set).
+You can read more about it [here](https://www.npr.org/2023/07/28/1189476655/farm-workers-labor-shortage-h2a-visa-dan-newhouse-immigration).
 
 ## Requirements
 - Python 3.8
