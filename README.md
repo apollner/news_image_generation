@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers trade for Lance Lynn, Joe Kelly in latest adds, sources say - ESPN**
+**Your summer cold could be Covid-19, as the nation goes into a late summer wave**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38089256/dodgers-trade-lance-lynn-joe-kelly-latest-adds-sources-say).
+You can read more about it [here](https://www.cnn.com/2023/07/28/health/summer-cold-covid-19/index.html).
 
 ## Requirements
 - Python 3.8
