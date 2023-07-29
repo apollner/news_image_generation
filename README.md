@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officer fired after releasing dog on Black man whose hands were up**
+**Russia says thwarted Ukraine drone attack in Moscow region | Russia-Ukraine War LIVE | WION Live**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/07/27/ohio-officer-fired-dog-black-man-speakman/).
+You can read more about it [here](https://www.youtube.com/watch?v=JZB5bp1PSSU).
 
 ## Requirements
 - Python 3.8
