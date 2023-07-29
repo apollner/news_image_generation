@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dalvin Cook: Odds "pretty high" that I sign with Jets**
+**Blistering US heatwave spreads from south and scorches 190m Americans**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dalvin-cook-odds-pretty-high-that-i-sign-with-jets).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/28/heatwave-temperatures-new-york-city).
 
 ## Requirements
 - Python 3.8
