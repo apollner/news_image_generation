@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia says thwarted Ukraine drone attack in Moscow region | Russia-Ukraine War LIVE | WION Live**
+**Michigan school shooter Ethan Crumbley's recorded manifesto shocks courtroom: 'I am the demon'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JZB5bp1PSSU).
+You can read more about it [here](https://nypost.com/2023/07/28/michigan-school-shooter-ethan-crumbleys-recorded-manifesto-shocks-courtroom/).
 
 ## Requirements
 - Python 3.8
