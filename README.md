@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean leader Kim Jong Un welcomes officials from China and Russia**
+**Ariana Grande Apparently Hung Out With Ethan Slater, His Estranged Wife Lilly, And Their Baby “Many Times” Just Three Months Before She Reportedly Began Dating Him**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/07/28/north-korea-kim-china-russia-parade/).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/ariana-grande-hung-out-with-ethan-slater-wife-on-wicked-set).
 
 ## Requirements
 - Python 3.8
