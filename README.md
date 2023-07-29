@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore hangs first woman in 19 years after she was convicted of trafficking 31 grams of heroin**
+**Emmy Awards Postponed Amid Actor and Writer Strikes**
 
-You can read more about it [here](https://apnews.com/article/singapore-woman-executed-drug-trafficking-d73c6cff32d6f8065cc0b7e6dd098e00).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/2023-emmy-awards-postponed-1235533602/).
 
 ## Requirements
 - Python 3.8
