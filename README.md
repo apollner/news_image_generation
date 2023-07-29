@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blistering US heatwave spreads from south and scorches 190m Americans**
+**Summer brings COVID-19 uptick amid renewed travel, socializing. How bad will it get?**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/jul/28/heatwave-temperatures-new-york-city).
+You can read more about it [here](https://www.latimes.com/california/story/2023-07-28/is-covid-19-starting-to-increase).
 
 ## Requirements
 - Python 3.8
