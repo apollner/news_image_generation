@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 5? More like Galaxy Z Flub 5, says the Android Police podcast**
+**Diane Feinstein appears confused at Senate hearing — had to be prompted to vote**
 
-You can read more about it [here](https://www.androidpolice.com/galaxy-z-fold-5-flub-5-android-police-podcast/).
+You can read more about it [here](https://nypost.com/2023/07/27/diane-feinstein-90-gets-confused-has-to-be-told-to-vote-at-senate-appropriations-committee-hearing-just-say-aye/).
 
 ## Requirements
 - Python 3.8
