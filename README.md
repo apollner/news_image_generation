@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your summer cold could be Covid-19, as the nation goes into a late summer wave**
+**Russia says it shot down Ukrainian missile over southern city with 14 injured**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/health/summer-cold-covid-19/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/28/europe/russia-taganrog-missile-strike-samara-intl/index.html).
 
 ## Requirements
 - Python 3.8
