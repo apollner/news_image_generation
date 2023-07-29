@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Burrow strains calf: QB options for Bengals if star signal-caller is sidelined significant amount of time**
+**Galaxy Z Fold 5? More like Galaxy Z Flub 5, says the Android Police podcast**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/joe-burrow-strains-calf-qb-options-for-bengals-if-star-signal-caller-is-sidelined-significant-amount-of-time/).
+You can read more about it [here](https://www.androidpolice.com/galaxy-z-fold-5-flub-5-android-police-podcast/).
 
 ## Requirements
 - Python 3.8
