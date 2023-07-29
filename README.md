@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diane Feinstein appears confused at Senate hearing — had to be prompted to vote**
+**Heat wave expands to more than two-thirds of U.S. population**
 
-You can read more about it [here](https://nypost.com/2023/07/27/diane-feinstein-90-gets-confused-has-to-be-told-to-vote-at-senate-appropriations-committee-hearing-just-say-aye/).
+You can read more about it [here](https://www.axios.com/2023/07/26/heat-wave-us-midwest-northeast-great-plains).
 
 ## Requirements
 - Python 3.8
