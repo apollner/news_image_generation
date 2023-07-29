@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger coup leaders dissolve govt, declare Tiani head of state**
+**Bryan Kohberger seeks indictment dismissal in Idaho college killings case**
 
-You can read more about it [here](https://www.reuters.com/world/africa/niger-coup-general-tiani-appears-tv-transitional-council-president-2023-07-28/).
+You can read more about it [here](https://abcnews.go.com/US/bryan-kohberger-seeks-indictment-dismissal-idaho-college-killings/story?id=101745094).
 
 ## Requirements
 - Python 3.8
