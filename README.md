@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado brass on jumping from Pac-12 to Big 12: 'Fox and ESPN is who we want to be aligned with'**
+**U.S. Park Police arrest Benjamin Robertson from Washington D.C. in fatal hit-and-run that killed Bing Wong from Philadelphia**
 
-You can read more about it [here](https://sports.yahoo.com/colorado-brass-on-jumping-from-pac-12-to-big-12-fox-and-espn-is-who-we-want-to-be-aligned-with-020648920.html).
+You can read more about it [here](https://6abc.com/bing-wong-benjamin-robertson-dc-hit-and-run-philadelphia-man-killed/13559831/).
 
 ## Requirements
 - Python 3.8
