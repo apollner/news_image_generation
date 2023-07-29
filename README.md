@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals' Joe Burrow carted off practice field with calf injury - ESPN**
+**Dianne Feinstein gets confused, had to be told to vote: 'Just say aye'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38083353/bengals-joe-burrow-carted-practice-field-calf-injury).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/07/27/dianne-feinstein-oldest-member-congress/70479440007/).
 
 ## Requirements
 - Python 3.8
