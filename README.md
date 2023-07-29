@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore executes woman for first time in nearly 20 years**
+**North Korean leader Kim Jong Un welcomes officials from China and Russia**
 
-You can read more about it [here](https://www.npr.org/2023/07/28/1190662680/singapore-has-executed-a-woman-for-the-first-time-in-nearly-two-decades).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/07/28/north-korea-kim-china-russia-parade/).
 
 ## Requirements
 - Python 3.8
