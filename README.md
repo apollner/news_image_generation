@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryan Kohberger seeks indictment dismissal in Idaho college killings case**
+**Biden overhauls how the military prosecutes sexual assault**
 
-You can read more about it [here](https://abcnews.go.com/US/bryan-kohberger-seeks-indictment-dismissal-idaho-college-killings/story?id=101745094).
+You can read more about it [here](https://www.npr.org/2023/07/28/1190731402/military-code-sexual-assault-biden-gillibrand).
 
 ## Requirements
 - Python 3.8
