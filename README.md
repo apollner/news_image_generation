@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emmy Awards Postponed Amid Actor and Writer Strikes**
+**Europe stocks dip as German economy stagnates; Bank of Japan jolts markets**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/2023-emmy-awards-postponed-1235533602/).
+You can read more about it [here](https://www.cnbc.com/2023/07/28/european-markets-open-to-close-ftse-100-cac-40-dax.html).
 
 ## Requirements
 - Python 3.8
