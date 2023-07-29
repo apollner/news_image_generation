@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dianne Feinstein gets confused, had to be told to vote: 'Just say aye'**
+**July has been so blistering hot, scientists already calculate that it's the warmest month on record**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/07/27/dianne-feinstein-oldest-member-congress/70479440007/).
+You can read more about it [here](https://apnews.com/article/hottest-record-climate-change-july-65e13c9c3d88932b50de935c7977ee70).
 
 ## Requirements
 - Python 3.8
