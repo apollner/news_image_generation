@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia says it shot down Ukrainian missile over southern city with 14 injured**
+**Scientists revive prehistoric worm that laid dormant for 46000 years**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/europe/russia-taganrog-missile-strike-samara-intl/index.html).
+You can read more about it [here](https://www.jpost.com/science/article-752917).
 
 ## Requirements
 - Python 3.8
