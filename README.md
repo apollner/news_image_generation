@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu won’t commit to abiding by ruling if Supreme Court strikes down controversial law**
+**Singapore hangs first woman in 19 years after she was convicted of trafficking 31 grams of heroin**
 
-You can read more about it [here](https://www.cnn.com/2023/07/27/middleeast/israel-benjamin-netanyahu-judicial-intl/index.html).
+You can read more about it [here](https://apnews.com/article/singapore-woman-executed-drug-trafficking-d73c6cff32d6f8065cc0b7e6dd098e00).
 
 ## Requirements
 - Python 3.8
