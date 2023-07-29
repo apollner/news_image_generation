@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors in Bryan Kohberger case request court compel information on potential alibi**
+**After strong GDP surprise, analysts grapple with recession forecasts**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/us/idaho-student-murders-kohberger-alibi/index.html).
+You can read more about it [here](https://www.axios.com/2023/07/28/us-gdp-growth-2023-recession-forecast).
 
 ## Requirements
 - Python 3.8
