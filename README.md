@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Summer brings COVID-19 uptick amid renewed travel, socializing. How bad will it get?**
+**Niger coup leaders dissolve govt, declare Tiani head of state**
 
-You can read more about it [here](https://www.latimes.com/california/story/2023-07-28/is-covid-19-starting-to-increase).
+You can read more about it [here](https://www.reuters.com/world/africa/niger-coup-general-tiani-appears-tv-transitional-council-president-2023-07-28/).
 
 ## Requirements
 - Python 3.8
