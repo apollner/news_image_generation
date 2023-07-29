@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emmys Vendors Have Been Officially Informed That the Telecast Is Moving Out of September (EXCLUSIVE)**
+**AGS, tick-borne meat allergy, has puts thousands of Americans at risk**
 
-You can read more about it [here](https://variety.com/2023/tv/news/emmys-airdate-actors-writers-strike-1235681067/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/07/27/tick-borne-meat-allergy-alpha-gal-syndrome-ags/70480975007/).
 
 ## Requirements
 - Python 3.8
