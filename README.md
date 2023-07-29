@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists revive prehistoric worm that laid dormant for 46000 years**
+**Lance Lynn, Joe Kelly traded to Dodgers**
 
-You can read more about it [here](https://www.jpost.com/science/article-752917).
+You can read more about it [here](https://www.mlb.com/news/lance-lynn-joe-kelly-traded-to-dodgers).
 
 ## Requirements
 - Python 3.8
