@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan school shooter Ethan Crumbley's recorded manifesto shocks courtroom: 'I am the demon'**
+**Singapore executes woman for first time in nearly 20 years**
 
-You can read more about it [here](https://nypost.com/2023/07/28/michigan-school-shooter-ethan-crumbleys-recorded-manifesto-shocks-courtroom/).
+You can read more about it [here](https://www.npr.org/2023/07/28/1190662680/singapore-has-executed-a-woman-for-the-first-time-in-nearly-two-decades).
 
 ## Requirements
 - Python 3.8
