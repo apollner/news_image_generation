@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat wave expands to more than two-thirds of U.S. population**
+**Emmys Vendors Have Been Officially Informed That the Telecast Is Moving Out of September (EXCLUSIVE)**
 
-You can read more about it [here](https://www.axios.com/2023/07/26/heat-wave-us-midwest-northeast-great-plains).
+You can read more about it [here](https://variety.com/2023/tv/news/emmys-airdate-actors-writers-strike-1235681067/).
 
 ## Requirements
 - Python 3.8
