@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Park Police arrest Benjamin Robertson from Washington D.C. in fatal hit-and-run that killed Bing Wong from Philadelphia**
+**Arizona teen Alicia Navarro missing since 2019 shows up safe at Montana police station**
 
-You can read more about it [here](https://6abc.com/bing-wong-benjamin-robertson-dc-hit-and-run-philadelphia-man-killed/13559831/).
+You can read more about it [here](https://www.eastidahonews.com/2023/07/arizona-teen-alicia-navarro-missing-since-2019-shows-up-safe-at-montana-police-station/).
 
 ## Requirements
 - Python 3.8
