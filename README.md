@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ probe of Memphis police has some experts asking what took so long?**
+**60% of the US population under extreme weather advisories**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/28/memphis-police-justice-department-tyre-nichols/70482170007/).
+You can read more about it [here](https://apnews.com/article/heat-floods-climate-environment-storm-weather-31d075a9357730ea3358d825b0d33c01).
 
 ## Requirements
 - Python 3.8
