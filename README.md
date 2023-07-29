@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aging farm workforce forces a reckoning: Who will pick America's crops?**
+**DOJ probe of Memphis police has some experts asking what took so long?**
 
-You can read more about it [here](https://www.npr.org/2023/07/28/1189476655/farm-workers-labor-shortage-h2a-visa-dan-newhouse-immigration).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/28/memphis-police-justice-department-tyre-nichols/70482170007/).
 
 ## Requirements
 - Python 3.8
