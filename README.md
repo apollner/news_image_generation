@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 5? More like Galaxy Z Flub 5, says the Android Police podcast**
+**Netanyahu won’t commit to abiding by ruling if Supreme Court strikes down controversial law**
 
-You can read more about it [here](https://www.androidpolice.com/galaxy-z-fold-5-flub-5-android-police-podcast/).
+You can read more about it [here](https://www.cnn.com/2023/07/27/middleeast/israel-benjamin-netanyahu-judicial-intl/index.html).
 
 ## Requirements
 - Python 3.8
