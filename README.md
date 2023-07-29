@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona teen Alicia Navarro missing since 2019 shows up safe at Montana police station**
+**AMD unveils its first laptop processor with 3D V-Cache**
 
-You can read more about it [here](https://www.eastidahonews.com/2023/07/arizona-teen-alicia-navarro-missing-since-2019-shows-up-safe-at-montana-police-station/).
+You can read more about it [here](https://www.engadget.com/amd-unveils-its-first-laptop-processor-with-3d-v-cache-010028830.html).
 
 ## Requirements
 - Python 3.8
