@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After strong GDP surprise, analysts grapple with recession forecasts**
+**Dalvin Cook: Odds "pretty high" that I sign with Jets**
 
-You can read more about it [here](https://www.axios.com/2023/07/28/us-gdp-growth-2023-recession-forecast).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dalvin-cook-odds-pretty-high-that-i-sign-with-jets).
 
 ## Requirements
 - Python 3.8
