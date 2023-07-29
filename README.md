@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea showed Russia one of its more troubling nuclear missiles**
+**Alicia Navarro: New details on where exactly she has been prior to being found safe**
 
-You can read more about it [here](https://www.businessinsider.com/north-korea-showed-russia-nuclear-capable-missiles-including-new-icbm-2023-7).
+You can read more about it [here](https://www.fox10phoenix.com/news/alicia-navarro-new-details-on-where-exactly-she-has-been-prior-to-being-found-safe).
 
 ## Requirements
 - Python 3.8
