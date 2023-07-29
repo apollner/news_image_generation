@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe stocks dip as German economy stagnates; Bank of Japan jolts markets**
+**Officer fired after releasing dog on Black man whose hands were up**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/28/european-markets-open-to-close-ftse-100-cac-40-dax.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/07/27/ohio-officer-fired-dog-black-man-speakman/).
 
 ## Requirements
 - Python 3.8
