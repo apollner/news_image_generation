@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD unveils its first laptop processor with 3D V-Cache**
+**AGS, tick-borne meat allergy, has puts thousands of Americans at risk**
 
-You can read more about it [here](https://www.engadget.com/amd-unveils-its-first-laptop-processor-with-3d-v-cache-010028830.html).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/07/27/tick-borne-meat-allergy-alpha-gal-syndrome-ags/70480975007/).
 
 ## Requirements
 - Python 3.8
