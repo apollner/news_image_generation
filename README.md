@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD unveils its first laptop processor with 3D V-Cache**
+**Galaxy Z Fold 5? More like Galaxy Z Flub 5, says the Android Police podcast**
 
-You can read more about it [here](https://www.engadget.com/amd-unveils-its-first-laptop-processor-with-3d-v-cache-010028830.html).
+You can read more about it [here](https://www.androidpolice.com/galaxy-z-fold-5-flub-5-android-police-podcast/).
 
 ## Requirements
 - Python 3.8
