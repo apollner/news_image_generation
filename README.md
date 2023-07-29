@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AGS, tick-borne meat allergy, has puts thousands of Americans at risk**
+**Colorado brass on jumping from Pac-12 to Big 12: 'Fox and ESPN is who we want to be aligned with'**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/07/27/tick-borne-meat-allergy-alpha-gal-syndrome-ags/70480975007/).
+You can read more about it [here](https://sports.yahoo.com/colorado-brass-on-jumping-from-pac-12-to-big-12-fox-and-espn-is-who-we-want-to-be-aligned-with-020648920.html).
 
 ## Requirements
 - Python 3.8
