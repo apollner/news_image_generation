@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alicia Navarro: New details on where exactly she has been prior to being found safe**
+**Bengals' Joe Burrow carted off practice field with calf injury - ESPN**
 
-You can read more about it [here](https://www.fox10phoenix.com/news/alicia-navarro-new-details-on-where-exactly-she-has-been-prior-to-being-found-safe).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38083353/bengals-joe-burrow-carted-practice-field-calf-injury).
 
 ## Requirements
 - Python 3.8
