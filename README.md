@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First human case of West Nile Virus for 2023 reported in New Mexico**
+**Dodgers trade for Lance Lynn, Joe Kelly in latest adds, sources say - ESPN**
 
-You can read more about it [here](https://www.koat.com/article/new-mexico-west-nile-virus-first-2023-case/44672459).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38089256/dodgers-trade-lance-lynn-joe-kelly-latest-adds-sources-say).
 
 ## Requirements
 - Python 3.8
