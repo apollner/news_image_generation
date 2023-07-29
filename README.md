@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**60% of the US population under extreme weather advisories**
+**Prosecutors in Bryan Kohberger case request court compel information on potential alibi**
 
-You can read more about it [here](https://apnews.com/article/heat-floods-climate-environment-storm-weather-31d075a9357730ea3358d825b0d33c01).
+You can read more about it [here](https://www.cnn.com/2023/07/28/us/idaho-student-murders-kohberger-alibi/index.html).
 
 ## Requirements
 - Python 3.8
