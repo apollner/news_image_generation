@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden overhauls how the military prosecutes sexual assault**
+**First human case of West Nile Virus for 2023 reported in New Mexico**
 
-You can read more about it [here](https://www.npr.org/2023/07/28/1190731402/military-code-sexual-assault-biden-gillibrand).
+You can read more about it [here](https://www.koat.com/article/new-mexico-west-nile-virus-first-2023-case/44672459).
 
 ## Requirements
 - Python 3.8
