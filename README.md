@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**July has been so blistering hot, scientists already calculate that it's the warmest month on record**
+**Netanyahu warns against overturning controversial new law in CNN interview**
 
-You can read more about it [here](https://apnews.com/article/hottest-record-climate-change-july-65e13c9c3d88932b50de935c7977ee70).
+You can read more about it [here](https://www.cnn.com/2023/07/27/middleeast/israel-benjamin-netanyahu-judicial-intl/index.html).
 
 ## Requirements
 - Python 3.8
