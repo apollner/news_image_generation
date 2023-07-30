@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Scott attacks Ron DeSantis over Florida's slavery curriculum**
+**Samsung Galaxy Z Fold vs. Google Pixel Fold Comparison Smackdown**
 
-You can read more about it [here](https://apnews.com/article/election-2024-scott-desantis-slavery-school-curriculum-bbda4260ed074e699bb3f598b8547338).
+You can read more about it [here](https://www.youtube.com/watch?v=toQIvLxakPQ).
 
 ## Requirements
 - Python 3.8
