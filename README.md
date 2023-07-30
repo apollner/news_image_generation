@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Tile Mate and Apple's AirTags have dropped to some of their best prices**
+**Melting ice in Switzerland reveals remains of climber who disappeared on glacier 37 years ago**
 
-You can read more about it [here](https://www.theverge.com/2023/7/29/23811146/tile-mate-apple-airtag-case-mate-fuel-usb-c-charger-samsung-galaxy-z-flip-5-deal-sale).
+You can read more about it [here](https://www.nbcnews.com/news/world/melting-ice-switzerland-reveals-remains-climber-disappeared-glacier-37-rcna97048).
 
 ## Requirements
 - Python 3.8
