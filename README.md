@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump insulted their governor and may be indicted again. They love him.**
+**Tennessee residents say water smells like diesel but officials say it's safe**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/28/amid-insults-and-indictments-the-iowa-gop-still-loves-trump-00108859).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/tennessee-water-still-smells-diesel-after-spill-rcna96929).
 
 ## Requirements
 - Python 3.8
