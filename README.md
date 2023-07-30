@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falcon Heavy launches heaviest commercial communications satellite yet – Spaceflight Now**
+**Theory reacts to Escobar winning the U.S. Title Invitational: WWE SmackDown LowDown, July 29, 2023**
 
-You can read more about it [here](https://spaceflightnow.com/2023/07/29/falcon-heavy-launches-heaviest-commercial-communications-satellite-yet/).
+You can read more about it [here](https://www.youtube.com/watch?v=aOsqQMHUnYo).
 
 ## Requirements
 - Python 3.8
