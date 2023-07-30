@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tennessee residents say water smells like diesel but officials say it's safe**
+**European satellite plunges back to Earth in first-of-its-kind assisted re-entry**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/tennessee-water-still-smells-diesel-after-spill-rcna96929).
+You can read more about it [here](https://arstechnica.com/space/2023/07/european-satellite-plunges-back-to-earth-in-first-of-its-kind-assisted-re-entry/).
 
 ## Requirements
 - Python 3.8
