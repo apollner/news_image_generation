@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch for fireballs from two meteor showers in the coming days**
+**Errol Spence-Terence Crawford winner to pick rematch weight, sources say - ESPN**
 
-You can read more about it [here](https://www.eastidahonews.com/2023/07/watch-for-fireballs-from-two-meteor-showers-in-the-coming-days/).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/38091262/errol-spence-terence-crawford-winner-pick-rematch-weight).
 
 ## Requirements
 - Python 3.8
