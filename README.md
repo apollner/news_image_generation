@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch for fireballs from two meteor showers in the coming days**
+**What Ukraine must do to win in its southern push – and what Russia has in reserve**
 
-You can read more about it [here](https://www.eastidahonews.com/2023/07/watch-for-fireballs-from-two-meteor-showers-in-the-coming-days/).
+You can read more about it [here](https://www.cnn.com/2023/07/29/europe/ukraine-counteroffensive-south-push-intl/index.html).
 
 ## Requirements
 - Python 3.8
