@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious meat allergy passed by ticks may affect hundreds of thousands in US, CDC estimates**
+**2 Metro Detroit residents test positive for mosquito-borne virus: What to know**
 
-You can read more about it [here](https://www.cnn.com/2023/07/27/health/meat-allergy-alpha-gal-cdc/index.html).
+You can read more about it [here](https://www.clickondetroit.com/news/michigan/2023/07/29/2-metro-detroit-residents-test-positive-for-mosquito-borne-virus-what-to-know/).
 
 ## Requirements
 - Python 3.8
