@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European satellite plunges back to Earth in first-of-its-kind assisted re-entry**
+**Watch for fireballs from two meteor showers in the coming days**
 
-You can read more about it [here](https://arstechnica.com/space/2023/07/european-satellite-plunges-back-to-earth-in-first-of-its-kind-assisted-re-entry/).
+You can read more about it [here](https://www.eastidahonews.com/2023/07/watch-for-fireballs-from-two-meteor-showers-in-the-coming-days/).
 
 ## Requirements
 - Python 3.8
