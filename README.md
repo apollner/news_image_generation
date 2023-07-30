@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivals' silence at Iowa dinner shows Trump's dominance in 2024 race**
+**Musk's 'X' logo atop former Twitter headquarters draws city scrutiny**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66350225).
+You can read more about it [here](https://www.politico.com/news/2023/07/29/san-francisco-x-logo-twitter-headquarters-00108872).
 
 ## Requirements
 - Python 3.8
