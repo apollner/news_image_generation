@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped New Hampshire inmate shot and killed by police officer in Miami store**
+**Mysterious meat allergy passed by ticks may affect hundreds of thousands in US, CDC estimates**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-hampshire-escaped-inmate-shot-and-killed-by-police-officer-in-miami-store/).
+You can read more about it [here](https://www.cnn.com/2023/07/27/health/meat-allergy-alpha-gal-cdc/index.html).
 
 ## Requirements
 - Python 3.8
