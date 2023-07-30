@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European satellite plunges back to Earth in first-of-its-kind assisted re-entry**
+**Samsung Galaxy Z Fold vs. Google Pixel Fold Comparison Smackdown**
 
-You can read more about it [here](https://arstechnica.com/space/2023/07/european-satellite-plunges-back-to-earth-in-first-of-its-kind-assisted-re-entry/).
+You can read more about it [here](https://www.youtube.com/watch?v=toQIvLxakPQ).
 
 ## Requirements
 - Python 3.8
