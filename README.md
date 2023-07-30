@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy Z Fold vs. Google Pixel Fold Comparison Smackdown**
+**Trump insulted their governor and may be indicted again. They love him.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=toQIvLxakPQ).
+You can read more about it [here](https://www.politico.com/news/2023/07/28/amid-insults-and-indictments-the-iowa-gop-still-loves-trump-00108859).
 
 ## Requirements
 - Python 3.8
