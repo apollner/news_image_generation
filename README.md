@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP Rep. John James slams DeSantis for curriculum comments on slavery: ‘You’ve gone too far’**
+**Prigozhin celebrates Niger coup, says his Wagner group can help**
 
-You can read more about it [here](https://thehill.com/homenews/house/4126095-rep-john-james-slams-desantis-for-curriculum-comments-on-slavery/).
+You can read more about it [here](https://www.cnn.com/2023/07/29/africa/prigozhin-niger-coup-wagner-intl/index.html).
 
 ## Requirements
 - Python 3.8
