@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melting ice in Switzerland reveals remains of climber who disappeared on glacier 37 years ago**
+**Rivals' silence at Iowa dinner shows Trump's dominance in 2024 race**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/melting-ice-switzerland-reveals-remains-climber-disappeared-glacier-37-rcna97048).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66350225).
 
 ## Requirements
 - Python 3.8
