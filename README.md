@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Errol Spence-Terence Crawford winner to pick rematch weight, sources say - ESPN**
+**Mega Millions jackpot rises to $1.05 billion, with no top winner in Friday’s drawing**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/38091262/errol-spence-terence-crawford-winner-pick-rematch-weight).
+You can read more about it [here](https://www.cnn.com/2023/07/29/us/mega-millions-drawing-no-jackpot-winner/index.html).
 
 ## Requirements
 - Python 3.8
