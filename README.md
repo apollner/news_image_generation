@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The UFO congressional hearing was 'insulting' to US employees, a top Pentagon official says**
+**Samsung Galaxy Watch 6 vs. Galaxy Watch 6 Classic: don’t buy the wrong one**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/ufo-congressional-hearing-insulting-us-employees-top-pentagon-101795689).
+You can read more about it [here](http://www.digitaltrends.com/mobile/samsung-galaxy-watch-6-vs-galaxy-watch-6-classic/).
 
 ## Requirements
 - Python 3.8
