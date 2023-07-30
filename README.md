@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals players react to Joe Burrow injury update as quarterback set to miss 'several weeks'**
+**Tennessee residents say water smells like diesel but officials say it's safe**
 
-You can read more about it [here](https://www.wlwt.com/article/bengals-players-react-to-joe-burrow-injury-quarterback/44677833).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/tennessee-water-still-smells-diesel-after-spill-rcna96929).
 
 ## Requirements
 - Python 3.8
