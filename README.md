@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple will require app devs to explain exactly why they use certain APIs**
+**Black Republicans rebuke Ron DeSantis over Florida history standards about slavery**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/07/apple-tries-to-close-privacy-loopholes-with-new-app-submission-policy/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/tim-scott-rebukes-ron-desantis-florida-black-history-standards-slavery-rcna96787).
 
 ## Requirements
 - Python 3.8
