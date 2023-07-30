@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prigozhin celebrates Niger coup, says his Wagner group can help**
+**President Joe Biden acknowledges seventh grandchild for first time**
 
-You can read more about it [here](https://www.cnn.com/2023/07/29/africa/prigozhin-niger-coup-wagner-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66347362).
 
 ## Requirements
 - Python 3.8
