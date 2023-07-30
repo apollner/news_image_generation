@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivals' silence at Iowa dinner shows Trump's dominance in 2024 race**
+**Falcon Heavy launches heaviest commercial communications satellite yet – Spaceflight Now**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66350225).
+You can read more about it [here](https://spaceflightnow.com/2023/07/29/falcon-heavy-launches-heaviest-commercial-communications-satellite-yet/).
 
 ## Requirements
 - Python 3.8
