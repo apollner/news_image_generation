@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Square Enix CEO Thanks Phil Spencer For Making Final Fantasy 14 On Xbox A 'Reality'**
+**The UFO congressional hearing was 'insulting' to US employees, a top Pentagon official says**
 
-You can read more about it [here](https://www.purexbox.com/news/2023/07/square-enix-ceo-thanks-phil-spencer-for-making-final-fantasy-14-on-xbox-a-reality).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/ufo-congressional-hearing-insulting-us-employees-top-pentagon-101795689).
 
 ## Requirements
 - Python 3.8
