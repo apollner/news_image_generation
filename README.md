@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists Discover The Genetic Switch to Induce 'Virgin Births' in Fruit Flies**
+**Tim Scott attacks Ron DeSantis over Florida's slavery curriculum**
 
-You can read more about it [here](https://www.sciencealert.com/scientists-discover-the-genetic-switch-to-induce-virgin-births-in-fruit-flies).
+You can read more about it [here](https://apnews.com/article/election-2024-scott-desantis-slavery-school-curriculum-bbda4260ed074e699bb3f598b8547338).
 
 ## Requirements
 - Python 3.8
