@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Republicans rebuke Ron DeSantis over Florida history standards about slavery**
+**Florida judge rules against Disney in feud with DeSantis**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/tim-scott-rebukes-ron-desantis-florida-black-history-standards-slavery-rcna96787).
+You can read more about it [here](https://www.reuters.com/legal/florida-judge-rules-against-disney-feud-with-desantis-2023-07-28/).
 
 ## Requirements
 - Python 3.8
