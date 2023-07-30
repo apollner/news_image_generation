@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tennessee residents say water smells like diesel but officials say it's safe**
+**Scientists Discover The Genetic Switch to Induce 'Virgin Births' in Fruit Flies**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/tennessee-water-still-smells-diesel-after-spill-rcna96929).
+You can read more about it [here](https://www.sciencealert.com/scientists-discover-the-genetic-switch-to-induce-virgin-births-in-fruit-flies).
 
 ## Requirements
 - Python 3.8
