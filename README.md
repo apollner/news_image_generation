@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President Joe Biden acknowledges seventh grandchild for first time**
+**Square Enix CEO Thanks Phil Spencer For Making Final Fantasy 14 On Xbox A 'Reality'**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66347362).
+You can read more about it [here](https://www.purexbox.com/news/2023/07/square-enix-ceo-thanks-phil-spencer-for-making-final-fantasy-14-on-xbox-a-reality).
 
 ## Requirements
 - Python 3.8
