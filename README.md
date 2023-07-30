@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine using North Korean rockets against Russian forces: FT**
+**European satellite plunges back to Earth in first-of-its-kind assisted re-entry**
 
-You can read more about it [here](https://www.businessinsider.com/ukraine-using-north-korean-rockets-against-russian-forces-2023-7).
+You can read more about it [here](https://arstechnica.com/space/2023/07/european-satellite-plunges-back-to-earth-in-first-of-its-kind-assisted-re-entry/).
 
 ## Requirements
 - Python 3.8
