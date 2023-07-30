@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US announces $345 million military aid package for Taiwan**
+**Apple will require app devs to explain exactly why they use certain APIs**
 
-You can read more about it [here](https://apnews.com/article/taiwan-military-aid-china-support-06e61a0e0ed787ea120f839ef59885fa).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/07/apple-tries-to-close-privacy-loopholes-with-new-app-submission-policy/).
 
 ## Requirements
 - Python 3.8
