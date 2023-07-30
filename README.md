@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped New Hampshire inmate shot and killed by police officer in Miami store**
+**Viola Davis Steps Back From ‘G20’ Despite Pic’s SAG-AFTRA Waiver: Not “Appropriate For This Production To Move Forward During Strike”**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-hampshire-escaped-inmate-shot-and-killed-by-police-officer-in-miami-store/).
+You can read more about it [here](https://deadline.com/2023/07/viola-davis-waiver-g20-actors-strike-1235450850/).
 
 ## Requirements
 - Python 3.8
