@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Theory reacts to Escobar winning the U.S. Title Invitational: WWE SmackDown LowDown, July 29, 2023**
+**Escaped New Hampshire inmate shot and killed by police officer in Miami store**
 
-You can read more about it [here](https://www.youtube.com/watch?v=aOsqQMHUnYo).
+You can read more about it [here](https://www.cbsnews.com/news/new-hampshire-escaped-inmate-shot-and-killed-by-police-officer-in-miami-store/).
 
 ## Requirements
 - Python 3.8
