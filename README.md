@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bidens publicly acknowledge their seventh grandchild for the first time**
+**US announces $345 million military aid package for Taiwan**
 
-You can read more about it [here](https://www.cnn.com/2023/07/28/politics/president-acknowledges-seventh-grandchild/index.html).
+You can read more about it [here](https://apnews.com/article/taiwan-military-aid-china-support-06e61a0e0ed787ea120f839ef59885fa).
 
 ## Requirements
 - Python 3.8
