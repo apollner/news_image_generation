@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida judge rules against Disney in feud with DeSantis**
+**Bengals players react to Joe Burrow injury update as quarterback set to miss 'several weeks'**
 
-You can read more about it [here](https://www.reuters.com/legal/florida-judge-rules-against-disney-feud-with-desantis-2023-07-28/).
+You can read more about it [here](https://www.wlwt.com/article/bengals-players-react-to-joe-burrow-injury-quarterback/44677833).
 
 ## Requirements
 - Python 3.8
