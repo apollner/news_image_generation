@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lance Lynn, Joe Kelly traded to Dodgers**
+**Bidens publicly acknowledge their seventh grandchild for the first time**
 
-You can read more about it [here](https://www.mlb.com/news/lance-lynn-joe-kelly-traded-to-dodgers).
+You can read more about it [here](https://www.cnn.com/2023/07/28/politics/president-acknowledges-seventh-grandchild/index.html).
 
 ## Requirements
 - Python 3.8
