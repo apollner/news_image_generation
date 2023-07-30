@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions jackpot rises to $1.05 billion, with no top winner in Friday’s drawing**
+**Scientists Discover The Genetic Switch to Induce 'Virgin Births' in Fruit Flies**
 
-You can read more about it [here](https://www.cnn.com/2023/07/29/us/mega-millions-drawing-no-jackpot-winner/index.html).
+You can read more about it [here](https://www.sciencealert.com/scientists-discover-the-genetic-switch-to-induce-virgin-births-in-fruit-flies).
 
 ## Requirements
 - Python 3.8
