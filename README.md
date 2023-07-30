@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and Australia deepen military ties to counter China**
+**The Tile Mate and Apple's AirTags have dropped to some of their best prices**
 
-You can read more about it [here](https://abcnews.go.com/US/us-australia-deepen-military-ties-counter-china/story?id=101811272).
+You can read more about it [here](https://www.theverge.com/2023/7/29/23811146/tile-mate-apple-airtag-case-mate-fuel-usb-c-charger-samsung-galaxy-z-flip-5-deal-sale).
 
 ## Requirements
 - Python 3.8
