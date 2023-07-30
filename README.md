@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US announces $345 million military aid package for Taiwan**
+**Black Republicans rebuke Ron DeSantis over Florida history standards about slavery**
 
-You can read more about it [here](https://apnews.com/article/taiwan-military-aid-china-support-06e61a0e0ed787ea120f839ef59885fa).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/tim-scott-rebukes-ron-desantis-florida-black-history-standards-slavery-rcna96787).
 
 ## Requirements
 - Python 3.8
