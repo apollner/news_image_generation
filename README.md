@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy Watch 6 vs. Galaxy Watch 6 Classic: don’t buy the wrong one**
+**Two supermoons in August mean double the stargazing fun**
 
-You can read more about it [here](http://www.digitaltrends.com/mobile/samsung-galaxy-watch-6-vs-galaxy-watch-6-classic/).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/supermoons-august-double-stargazing-fun-101813449).
 
 ## Requirements
 - Python 3.8
