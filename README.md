@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two supermoons in August mean double the stargazing fun**
+**US and Australia deepen military ties to counter China**
 
-You can read more about it [here](https://abcnews.go.com/Technology/wireStory/supermoons-august-double-stargazing-fun-101813449).
+You can read more about it [here](https://abcnews.go.com/US/us-australia-deepen-military-ties-counter-china/story?id=101811272).
 
 ## Requirements
 - Python 3.8
