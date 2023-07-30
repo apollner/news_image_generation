@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy Z Fold vs. Google Pixel Fold Comparison Smackdown**
+**Ukraine using North Korean rockets against Russian forces: FT**
 
-You can read more about it [here](https://www.youtube.com/watch?v=toQIvLxakPQ).
+You can read more about it [here](https://www.businessinsider.com/ukraine-using-north-korean-rockets-against-russian-forces-2023-7).
 
 ## Requirements
 - Python 3.8
