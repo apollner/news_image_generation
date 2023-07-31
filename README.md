@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Terence Crawford vs. Errol Spence Jr. results, takeaways: Bud's masterclass leaves no need for a rematch**
+**New Hampshire nurse, child abducted from Haitian Christian ministry**
 
-You can read more about it [here](https://www.cbssports.com/boxing/news/terence-crawford-vs-errol-spence-jr-results-takeaways-buds-masterclass-leaves-no-need-for-a-rematch/).
+You can read more about it [here](https://nypost.com/2023/07/30/new-hampshire-nurse-alix-dorsainvil-her-child-abducted-from-haitian-christian-ministry/).
 
 ## Requirements
 - Python 3.8
