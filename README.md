@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As he prepares for Hill testimony, Hunter Biden ex-business partner also trying to fend off jail**
+**Georgia resident dies from rare brain-eating amoeba, health officials say**
 
-You can read more about it [here](https://www.politico.com/news/2023/07/30/devon-archer-hunter-biden-testimony-00108902).
+You can read more about it [here](https://www.cnn.com/2023/07/30/health/brain-eating-amoeba-georgia-trnd/index.html).
 
 ## Requirements
 - Python 3.8
