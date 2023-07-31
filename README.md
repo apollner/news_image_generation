@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colts Owner Jim Irsay Responds to Jonathan Taylor’s Trade Request**
+**30 days over 110 F in Phoenix. But expected monsoon rains could cool historically hot Southwest**
 
-You can read more about it [here](https://www.si.com/nfl/2023/07/30/colts-owner-jim-irsay-responds-jonathan-taylor-trade-request).
+You can read more about it [here](https://apnews.com/article/southwest-extreme-heat-wave-922e965ba3d3e42cbffc2ece12d5c114).
 
 ## Requirements
 - Python 3.8
