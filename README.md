@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire nurse, child abducted from Haitian Christian ministry**
+**Yellow to face 'complete shutdown' in coming days, Teamsters warn in letter**
 
-You can read more about it [here](https://nypost.com/2023/07/30/new-hampshire-nurse-alix-dorsainvil-her-child-abducted-from-haitian-christian-ministry/).
+You can read more about it [here](https://www.youtube.com/watch?v=ZFeomoMPYeo).
 
 ## Requirements
 - Python 3.8
