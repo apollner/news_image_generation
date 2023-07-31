@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB trade rumors: Mets, Rangers reach Max Scherzer deal; Nolan Arenado stays put; Cubs may keep Marcus Stroman**
+**4 killed, 2 hurt in separate aircraft accidents near Oshkosh, Wisconsin**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-rumors-mets-rangers-reach-max-scherzer-deal-nolan-arenado-stays-put-cubs-may-keep-marcus-stroman/).
+You can read more about it [here](https://www.cbsnews.com/news/4-killed-2-hurt-mid-air-helicopter-collision-plane-crash-into-lake-oshkosh-wisconsin/).
 
 ## Requirements
 - Python 3.8
