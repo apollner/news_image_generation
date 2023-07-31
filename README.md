@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American nurse and child kidnapped in Haiti**
+**UFC 291 Results: Poirier vs. Gaethje 2**
 
-You can read more about it [here](https://www.cnn.com/2023/07/29/americas/haiti-kidnapping-nurse/index.html).
+You can read more about it [here](https://www.mmafighting.com/2023/7/29/23809435/ufc-291-results-poirier-vs-gaethje-2).
 
 ## Requirements
 - Python 3.8
