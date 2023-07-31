@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO member Poland warns Russian Wagner forces moving closer to border: report**
+**As he prepares for Hill testimony, Hunter Biden ex-business partner also trying to fend off jail**
 
-You can read more about it [here](https://nypost.com/2023/07/30/nato-member-poland-warns-russian-wagner-forces-moving-closer-to-border-report/).
+You can read more about it [here](https://www.politico.com/news/2023/07/30/devon-archer-hunter-biden-testimony-00108902).
 
 ## Requirements
 - Python 3.8
