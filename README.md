@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy minister says decision to join flagship Chinese scheme ‘wicked’**
+**Astronomers Shocked by “Weird” Phenomena: Hubble Sees Evaporating Planet Getting the Hiccups**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/europe/italy-china-belt-and-road-intl/index.html).
+You can read more about it [here](https://scitechdaily.com/astronomers-shocked-by-weird-phenomena-hubble-sees-evaporating-planet-getting-the-hiccups/).
 
 ## Requirements
 - Python 3.8
