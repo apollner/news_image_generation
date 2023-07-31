@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Viola Davis Steps Back From ‘G20’ Despite Pic’s SAG-AFTRA Waiver: Not “Appropriate For This Production To Move Forward During Strike”**
+**Ukraine moves official Christmas Day holiday to Dec. 25, denouncing Russian-imposed traditions**
 
-You can read more about it [here](https://deadline.com/2023/07/viola-davis-waiver-g20-actors-strike-1235450850/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-christmas-orthodox-church-calendar-b658c9ebecc91a470866c34b1c1847eb).
 
 ## Requirements
 - Python 3.8
