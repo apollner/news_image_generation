@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronomers Shocked by “Weird” Phenomena: Hubble Sees Evaporating Planet Getting the Hiccups**
+**Box Office: ‘Haunted Mansion’ Spooked, ‘Barbie’ Scores Record $93M Second Weekend**
 
-You can read more about it [here](https://scitechdaily.com/astronomers-shocked-by-weird-phenomena-hubble-sees-evaporating-planet-getting-the-hiccups/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/haunted-mansion-box-office-opening-haunted-mansion-1235547428/).
 
 ## Requirements
 - Python 3.8
