@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American nurse and child kidnapped in Haiti**
+**Severe weather knocks down trees, shuts off power for thousands; potentially behind death in Prince William Co.**
 
-You can read more about it [here](https://www.cnn.com/2023/07/29/americas/haiti-kidnapping-nurse/index.html).
+You can read more about it [here](https://wtop.com/weather-news/2023/07/temperatures-fall-outages-damage-rise/).
 
 ## Requirements
 - Python 3.8
