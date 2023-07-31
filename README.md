@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekend meteor showers to be visible from US: Aquarids, Capricornids**
+**First on CNN: Biden administration launches new income-driven student debt repayment plan**
 
-You can read more about it [here](https://www.dispatch.com/story/news/local/2023/07/30/weekend-meteor-showers-us-2023/70495112007/).
+You can read more about it [here](https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html).
 
 ## Requirements
 - Python 3.8
