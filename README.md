@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First on CNN: Biden administration launches new income-driven student debt repayment plan**
+**NATO member Poland warns Russian Wagner forces moving closer to border: report**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html).
+You can read more about it [here](https://nypost.com/2023/07/30/nato-member-poland-warns-russian-wagner-forces-moving-closer-to-border-report/).
 
 ## Requirements
 - Python 3.8
