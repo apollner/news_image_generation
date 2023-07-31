@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How did Max Scherzer end up with Rangers? The Mets knew when to cut their losses**
+**Delta Aquariids and Alpha Capricornids meteor showers to peak this weekend**
 
-You can read more about it [here](https://theathletic.com/4732430/2023/07/30/max-scherzer-mets-rangers-questions/).
+You can read more about it [here](https://www.businessinsider.com/delta-aquariids-alpha-capricornids-meteor-showers-to-peak-this-weekend-2023-7).
 
 ## Requirements
 - Python 3.8
