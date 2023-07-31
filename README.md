@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yellow Corp. shutdown would lay off 30,000 teamsters, per WSJ**
+**Suicide bomb at political rally in Pakistan kills more than 40**
 
-You can read more about it [here](https://www.businessinsider.com/yellow-corp-shutdown-would-lay-off-30-000-teamsters-2023-7).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
