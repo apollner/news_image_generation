@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Haunted Mansion’ Spooked, ‘Barbie’ Scores Record $93M Second Weekend**
+**Stocks Are Doing So Well That It May Be Time to Start Worrying**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/haunted-mansion-box-office-opening-haunted-mansion-1235547428/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-07-30/stocks-are-doing-so-well-that-it-may-be-time-to-start-worrying).
 
 ## Requirements
 - Python 3.8
