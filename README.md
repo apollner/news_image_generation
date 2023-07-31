@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 291 Results: Poirier vs. Gaethje 2**
+**Ukraine bucks Russian tradition by moving Christmas Day celebrations to December**
 
-You can read more about it [here](https://www.mmafighting.com/2023/7/29/23809435/ufc-291-results-poirier-vs-gaethje-2).
+You can read more about it [here](https://thehill.com/policy/international/4127145-ukraine-bucks-russian-tradition-by-moving-christmas-day/).
 
 ## Requirements
 - Python 3.8
