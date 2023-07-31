@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 killed, 2 hurt in separate aircraft accidents near Oshkosh, Wisconsin**
+**American nurse and child kidnapped in Haiti**
 
-You can read more about it [here](https://www.cbsnews.com/news/4-killed-2-hurt-mid-air-helicopter-collision-plane-crash-into-lake-oshkosh-wisconsin/).
+You can read more about it [here](https://www.cnn.com/2023/07/29/americas/haiti-kidnapping-nurse/index.html).
 
 ## Requirements
 - Python 3.8
