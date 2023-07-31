@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Viola Davis Pumps Brakes on ‘G20’ in Solidarity With SAG-AFTRA Strike, Despite Guild Approving Production Waiver**
+**Twitter rebrands to ‘X,’ hackers infect Call of Duty, and foreign visitors to China go cashless**
 
-You can read more about it [here](https://variety.com/2023/film/news/viola-davis-halts-g20-sag-interim-agreement-actors-strike-1235682964/).
+You can read more about it [here](https://techcrunch.com/2023/07/29/twitter-rebrands-to-x-hackers-infect-call-of-duty-and-foreign-visitors-to-china-go-cashless/).
 
 ## Requirements
 - Python 3.8
