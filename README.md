@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists Revive 46,000-Year-Old Nematodes From Siberian Permafrost**
+**Terence Crawford vs. Errol Spence Jr. results, takeaways: Bud's masterclass leaves no need for a rematch**
 
-You can read more about it [here](https://scitechdaily.com/scientists-revive-46000-year-old-nematodes-from-siberian-permafrost/).
+You can read more about it [here](https://www.cbssports.com/boxing/news/terence-crawford-vs-errol-spence-jr-results-takeaways-buds-masterclass-leaves-no-need-for-a-rematch/).
 
 ## Requirements
 - Python 3.8
