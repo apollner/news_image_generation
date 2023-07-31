@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine bucks Russian tradition by moving Christmas Day celebrations to December**
+**Viola Davis Pumps Brakes on ‘G20’ in Solidarity With SAG-AFTRA Strike, Despite Guild Approving Production Waiver**
 
-You can read more about it [here](https://thehill.com/policy/international/4127145-ukraine-bucks-russian-tradition-by-moving-christmas-day/).
+You can read more about it [here](https://variety.com/2023/film/news/viola-davis-halts-g20-sag-interim-agreement-actors-strike-1235682964/).
 
 ## Requirements
 - Python 3.8
