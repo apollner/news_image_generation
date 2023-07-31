@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco Inspectors Still Can’t Get On Roof To Inspect Elon Musk’s New ‘X’ Sign**
+**American nurse and child kidnapped in Haiti**
 
-You can read more about it [here](https://deadline.com/2023/07/x-logo-permits-san-francisco-headquarters-elon-musk-twitter-1235450978/).
+You can read more about it [here](https://www.cnn.com/2023/07/29/americas/haiti-kidnapping-nurse/index.html).
 
 ## Requirements
 - Python 3.8
