@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Are Doing So Well That It May Be Time to Start Worrying**
+**‘Barbie’ Pirouettes To Powerhouse $775M Global; ‘Oppenheimer’ A Phenom At $400M WW – International Box Office**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-07-30/stocks-are-doing-so-well-that-it-may-be-time-to-start-worrying).
+You can read more about it [here](https://deadline.com/2023/07/barbie-oppenheimer-barbenheimer-second-weekend-global-international-box-office-1235450844/).
 
 ## Requirements
 - Python 3.8
