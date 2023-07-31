@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antarctica is missing an Argentina-sized amount of sea ice – and scientists are scrambling to figure out why**
+**San Francisco Inspectors Still Can’t Get On Roof To Inspect Elon Musk’s New ‘X’ Sign**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/world/antarctic-sea-ice-winter-record-low-climate-intl/index.html).
+You can read more about it [here](https://deadline.com/2023/07/x-logo-permits-san-francisco-headquarters-elon-musk-twitter-1235450978/).
 
 ## Requirements
 - Python 3.8
