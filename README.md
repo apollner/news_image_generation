@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO member Poland warns Russian Wagner forces moving closer to border: report**
+**Drones target Russian capital on eve of military parade attended by Putin**
 
-You can read more about it [here](https://nypost.com/2023/07/30/nato-member-poland-warns-russian-wagner-forces-moving-closer-to-border-report/).
+You can read more about it [here](https://www.cnbc.com/2023/07/30/drones-target-russian-capital-on-eve-of-military-parade-attended-by-putin.html).
 
 ## Requirements
 - Python 3.8
