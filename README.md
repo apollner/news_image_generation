@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Viola Davis Pumps Brakes on ‘G20’ in Solidarity With SAG-AFTRA Strike, Despite Guild Approving Production Waiver**
+**UFC 291 Results: Poirier vs. Gaethje 2**
 
-You can read more about it [here](https://variety.com/2023/film/news/viola-davis-halts-g20-sag-interim-agreement-actors-strike-1235682964/).
+You can read more about it [here](https://www.mmafighting.com/2023/7/29/23809435/ufc-291-results-poirier-vs-gaethje-2).
 
 ## Requirements
 - Python 3.8
