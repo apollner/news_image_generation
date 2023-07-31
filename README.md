@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia resident dies from rare brain-eating amoeba, health officials say**
+**Yellow Corp. shutdown would lay off 30,000 teamsters, per WSJ**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/health/brain-eating-amoeba-georgia-trnd/index.html).
+You can read more about it [here](https://www.businessinsider.com/yellow-corp-shutdown-would-lay-off-30-000-teamsters-2023-7).
 
 ## Requirements
 - Python 3.8
