@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twitter rebrands to ‘X,’ hackers infect Call of Duty, and foreign visitors to China go cashless**
+**MLB trade rumors: Mets, Rangers reach Max Scherzer deal; Nolan Arenado stays put; Cubs may keep Marcus Stroman**
 
-You can read more about it [here](https://techcrunch.com/2023/07/29/twitter-rebrands-to-x-hackers-infect-call-of-duty-and-foreign-visitors-to-china-go-cashless/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-rumors-mets-rangers-reach-max-scherzer-deal-nolan-arenado-stays-put-cubs-may-keep-marcus-stroman/).
 
 ## Requirements
 - Python 3.8
