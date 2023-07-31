@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift defies curfew at Levi's Stadium again during second Bay Area concert**
+**Spence vs Crawford HIGHLIGHTS: JULY 29, 2023 | PBC on Showtime PPV**
 
-You can read more about it [here](https://www.sfchronicle.com/entertainment/article/taylor-swift-santa-clara-curfew-eras-tour-18268185.php).
+You can read more about it [here](https://www.youtube.com/watch?v=_zPaYp8XN9Y).
 
 ## Requirements
 - Python 3.8
