@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumer demand for speed and convenience drives labor unrest among workers in Hollywood and at UPS**
+**How did Max Scherzer end up with Rangers? The Mets knew when to cut their losses**
 
-You can read more about it [here](https://apnews.com/article/labor-unrest-hollywood-screenwriters-actors-ups-drivers-c3b94e32c347d5b5f61e695bcf436b46).
+You can read more about it [here](https://theathletic.com/4732430/2023/07/30/max-scherzer-mets-rangers-questions/).
 
 ## Requirements
 - Python 3.8
