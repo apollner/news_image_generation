@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 291 Results: Poirier vs. Gaethje 2**
+**Antarctica is missing an Argentina-sized amount of sea ice – and scientists are scrambling to figure out why**
 
-You can read more about it [here](https://www.mmafighting.com/2023/7/29/23809435/ufc-291-results-poirier-vs-gaethje-2).
+You can read more about it [here](https://www.cnn.com/2023/07/30/world/antarctic-sea-ice-winter-record-low-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
