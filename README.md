@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**30 days over 110 F in Phoenix. But expected monsoon rains could cool historically hot Southwest**
+**Taylor Swift defies curfew at Levi's Stadium again during second Bay Area concert**
 
-You can read more about it [here](https://apnews.com/article/southwest-extreme-heat-wave-922e965ba3d3e42cbffc2ece12d5c114).
+You can read more about it [here](https://www.sfchronicle.com/entertainment/article/taylor-swift-santa-clara-curfew-eras-tour-18268185.php).
 
 ## Requirements
 - Python 3.8
