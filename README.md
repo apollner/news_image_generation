@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Barbie’ Pirouettes To Powerhouse $775M Global; ‘Oppenheimer’ A Phenom At $400M WW – International Box Office**
+**Banks vote to limit accounting of emissions in bond and stock sales**
 
-You can read more about it [here](https://deadline.com/2023/07/barbie-oppenheimer-barbenheimer-second-weekend-global-international-box-office-1235450844/).
+You can read more about it [here](https://nypost.com/2023/07/30/banks-vote-to-limit-accounting-of-emissions-in-bond-and-stock-sales/).
 
 ## Requirements
 - Python 3.8
