@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe weather knocks down trees, shuts off power for thousands; potentially behind death in Prince William Co.**
+**Colts Owner Jim Irsay Responds to Jonathan Taylor’s Trade Request**
 
-You can read more about it [here](https://wtop.com/weather-news/2023/07/temperatures-fall-outages-damage-rise/).
+You can read more about it [here](https://www.si.com/nfl/2023/07/30/colts-owner-jim-irsay-responds-jonathan-taylor-trade-request).
 
 ## Requirements
 - Python 3.8
