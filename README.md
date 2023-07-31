@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, July 30, 2023**
+**Taylor Swift defies curfew at Levi's Stadium again during second Bay Area concert**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/7/30/23803721/horoscopes-today-sunday-july-30-2023).
+You can read more about it [here](https://www.sfchronicle.com/entertainment/article/taylor-swift-santa-clara-curfew-eras-tour-18268185.php).
 
 ## Requirements
 - Python 3.8
