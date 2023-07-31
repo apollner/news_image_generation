@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yellow to face 'complete shutdown' in coming days, Teamsters warn in letter**
+**Italy minister says decision to join flagship Chinese scheme ‘wicked’**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ZFeomoMPYeo).
+You can read more about it [here](https://www.cnn.com/2023/07/30/europe/italy-china-belt-and-road-intl/index.html).
 
 ## Requirements
 - Python 3.8
