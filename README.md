@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delta Aquariids and Alpha Capricornids meteor showers to peak this weekend**
+**Scientists Revive 46,000-Year-Old Nematodes From Siberian Permafrost**
 
-You can read more about it [here](https://www.businessinsider.com/delta-aquariids-alpha-capricornids-meteor-showers-to-peak-this-weekend-2023-7).
+You can read more about it [here](https://scitechdaily.com/scientists-revive-46000-year-old-nematodes-from-siberian-permafrost/).
 
 ## Requirements
 - Python 3.8
