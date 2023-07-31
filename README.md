@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spence vs Crawford HIGHLIGHTS: JULY 29, 2023 | PBC on Showtime PPV**
+**Consumer demand for speed and convenience drives labor unrest among workers in Hollywood and at UPS**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_zPaYp8XN9Y).
+You can read more about it [here](https://apnews.com/article/labor-unrest-hollywood-screenwriters-actors-ups-drivers-c3b94e32c347d5b5f61e695bcf436b46).
 
 ## Requirements
 - Python 3.8
