@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County DA says work is done in Trump probe and ‘we’re ready to go’**
+**Plant Vogtle, 1st US nuclear reactor built from scratch in decades, enters commercial operation in Georgia**
 
-You can read more about it [here](https://www.cnn.com/2023/07/30/politics/fulton-county-fani-willis-trump-investigation/index.html).
+You can read more about it [here](https://www.news4jax.com/business/2023/07/31/first-american-nuclear-reactor-built-from-scratch-in-decades-enters-commercial-operation-in-georgia/).
 
 ## Requirements
 - Python 3.8
