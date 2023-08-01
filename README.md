@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA mistakenly severs communication to Voyager 2**
+**US trucking company Yellow shuts down operations, Wall Street Journal reports**
 
-You can read more about it [here](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-trucking-company-yellow-shuts-down-operations-wsj-2023-07-30/).
 
 ## Requirements
 - Python 3.8
