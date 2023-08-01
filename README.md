@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gallus vs. D’Angelo & Stacks – Tag Team Championship Match: NXT Great American Bash 2023 highlights**
+**Georgia resident dies after exposure to brain-eating amoeba, making it the 2nd death from the infection announced this week**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bTJW6aNpBks).
+You can read more about it [here](https://www.insider.com/brain-eating-amoeba-naegleria-fowleri-death-in-georgia-2023-7).
 
 ## Requirements
 - Python 3.8
