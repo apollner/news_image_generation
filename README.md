@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live stream: Lori Vallow Daybell to be sentenced in 'zombie' murders**
+**Elon Musk's X Corp threatens to sue anti-hate speech group over Twitter claims**
 
-You can read more about it [here](https://www.npr.org/2023/07/31/1191058640/vallow-lori-daybell-sentence-murder-doomsday).
+You can read more about it [here](https://www.ft.com/content/96a06e9a-5fc8-4a28-ae10-5aed0138bfa2).
 
 ## Requirements
 - Python 3.8
