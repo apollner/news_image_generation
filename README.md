@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former business partner says Hunter Biden sold ‘illusion’ of access to Joe Biden, source says**
+**News Wrap: Massive wildfire burns in California’s Mojave National Preserve**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/politics/devon-archer-house-testimony/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=IcPNrlCiO7U).
 
 ## Requirements
 - Python 3.8
