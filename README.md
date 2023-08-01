@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens killed in suicide bombing at Pakistan political rally**
+**A Supermoon, Saturn’s Rings And ‘Lost’ Stars: The Night Sky This Week**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/30/deadly-bomb-blast-at-political-rally-in-northwest-pakistan).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2023/07/30/a-supermoon-saturns-rings-and-lost-stars-the-night-sky-this-week/).
 
 ## Requirements
 - Python 3.8
