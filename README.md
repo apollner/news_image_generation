@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lady Gaga Calls Tony Bennett Her “Real True Friend” in Touching Tribute**
+**Check car recalls: Ford has more than 1 million recalled vehicles**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/lady-gaga-tony-bennett-tribute-1235541069/).
+You can read more about it [here](https://www.usatoday.com/story/money/cars/recalls/2023/07/31/ford-recall-check-f150-parking-brake/70489508007/).
 
 ## Requirements
 - Python 3.8
