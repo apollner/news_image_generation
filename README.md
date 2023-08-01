@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Late summer wave? Covid hospitalisations spike in US, health agency warns**
+**30 dead dogs, 90 alive but in inhumane conditions found at Ohio animal rescue**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/coronavirus-us-latest-late-summer-wave-covid-hospitalizations-spike-in-us-health-agency-warns-101690765255107.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/30-dead-dogs-90-alive-inhumane-conditions-found-ohio-animal-rescue-rcna97200).
 
 ## Requirements
 - Python 3.8
