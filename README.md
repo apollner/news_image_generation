@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burning Ship Will Be Towed by Dutch Authorities**
+**Pakistan explosion: Eyewitness describes doomsday scenes**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-07-30/dutch-authorities-start-towing-burning-ship-as-smoke-subsides).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66321749).
 
 ## Requirements
 - Python 3.8
