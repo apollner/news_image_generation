@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suicide bomber at political rally in northwest Pakistan kills at least 44 people, wounds nearly 200**
+**6-year-old girl dead after being struck by family's boat at lake**
 
-You can read more about it [here](https://apnews.com/article/pakistan-bomb-bajur-maulana-fazlur-rehman-b655861c854ff086f118f18b69861ca1).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/30/6-year-old-killed-boat-arizona/70495392007/).
 
 ## Requirements
 - Python 3.8
