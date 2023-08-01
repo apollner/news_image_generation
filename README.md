@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components**
+**Former business partner says Hunter Biden sold ‘illusion’ of access to Joe Biden, source says**
 
-You can read more about it [here](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/).
+You can read more about it [here](https://www.cnn.com/2023/07/31/politics/devon-archer-house-testimony/index.html).
 
 ## Requirements
 - Python 3.8
