@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Supermoon, Saturn’s Rings And ‘Lost’ Stars: The Night Sky This Week**
+**July keeps sizzling as Phoenix hits another 110-degree day and wildfires spread in California**
 
-You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2023/07/30/a-supermoon-saturns-rings-and-lost-stars-the-night-sky-this-week/).
+You can read more about it [here](https://apnews.com/article/phoenix-110-degrees-extreme-heat-california-fires-c4e7ff29fef6fcf9c95b8b9c82f6f72b).
 
 ## Requirements
 - Python 3.8
