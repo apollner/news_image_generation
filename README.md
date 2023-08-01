@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6-year-old girl dead after being struck by family's boat at lake**
+**Harry Styles Spotted With "Olivia" Tattoo After Olivia Wilde Breakup**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/30/6-year-old-killed-boat-arizona/70495392007/).
+You can read more about it [here](https://www.eonline.com/news/1381720/harry-styles-spotted-with-olivia-tattoo-months-after-olivia-wilde-breakup).
 
 ## Requirements
 - Python 3.8
