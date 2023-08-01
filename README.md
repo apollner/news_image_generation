@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suicide bomb at political rally in Pakistan kills more than 40**
+**Elon Musk's new 'X' sign on Twitter HQ investigated by San Francisco city - The Washington Post**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/07/30/musk-flashing-x-sign-twitter/).
 
 ## Requirements
 - Python 3.8
