@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First American nuclear reactor built from scratch in decades enters commercial operation in Georgia**
+**NASA mistakenly severs communication to Voyager 2**
 
-You can read more about it [here](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425).
+You can read more about it [here](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/).
 
 ## Requirements
 - Python 3.8
