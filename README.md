@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB Trade Deadline predictions**
+**Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components**
 
-You can read more about it [here](https://www.mlb.com/news/mlb-trade-deadline-predictions-2023).
+You can read more about it [here](https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/).
 
 ## Requirements
 - Python 3.8
