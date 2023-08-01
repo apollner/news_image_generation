@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions jackpot soars over $1 billion: When is the next drawing?**
+**USWNT in unfamiliar territory entering last World Cup group game against Portugal**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/07/31/mega-millions-next-drawing/70496418007/).
+You can read more about it [here](https://www.usatoday.com/story/sports/columnist/nancy-armour/2023/07/31/uswnt-unfamiliar-position-usa-vs-portugal-womens-world-cup-group-e-game/70496310007/).
 
 ## Requirements
 - Python 3.8
