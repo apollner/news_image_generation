@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB Trade Deadline predictions**
+**South Korean dog meat farmers push back against growing moves to outlaw their industry**
 
-You can read more about it [here](https://www.mlb.com/news/mlb-trade-deadline-predictions-2023).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/31/south-korean-dog-meat-farmers-country-changing-taste/70497923007/).
 
 ## Requirements
 - Python 3.8
