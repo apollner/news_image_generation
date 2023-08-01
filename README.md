@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan holds funerals as death toll from rally bombing rises to 54**
+**MLB Trade Deadline predictions**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/31/pakistan-holds-funerals-as-government-vows-to-hound-those-responsible).
+You can read more about it [here](https://www.mlb.com/news/mlb-trade-deadline-predictions-2023).
 
 ## Requirements
 - Python 3.8
