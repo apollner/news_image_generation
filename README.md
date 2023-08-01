@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan explosion: Eyewitness describes doomsday scenes**
+**Lady Gaga Calls Tony Bennett Her “Real True Friend” in Touching Tribute**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66321749).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/lady-gaga-tony-bennett-tribute-1235541069/).
 
 ## Requirements
 - Python 3.8
