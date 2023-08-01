@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harry Styles Spotted With "Olivia" Tattoo After Olivia Wilde Breakup**
+**Late summer wave? Covid hospitalisations spike in US, health agency warns**
 
-You can read more about it [here](https://www.eonline.com/news/1381720/harry-styles-spotted-with-olivia-tattoo-months-after-olivia-wilde-breakup).
+You can read more about it [here](https://www.hindustantimes.com/world-news/coronavirus-us-latest-late-summer-wave-covid-hospitalizations-spike-in-us-health-agency-warns-101690765255107.html).
 
 ## Requirements
 - Python 3.8
