@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia resident dies after exposure to brain-eating amoeba, making it the 2nd death from the infection announced this week**
+**Dozens killed in suicide bombing at Pakistan political rally**
 
-You can read more about it [here](https://www.insider.com/brain-eating-amoeba-naegleria-fowleri-death-in-georgia-2023-7).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/30/deadly-bomb-blast-at-political-rally-in-northwest-pakistan).
 
 ## Requirements
 - Python 3.8
