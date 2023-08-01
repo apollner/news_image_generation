@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Check car recalls: Ford has more than 1 million recalled vehicles**
+**August supermoons rises Tuesday, Aug. 1 with Sturgeon full moon**
 
-You can read more about it [here](https://www.usatoday.com/story/money/cars/recalls/2023/07/31/ford-recall-check-f150-parking-brake/70489508007/).
+You can read more about it [here](https://www.space.com/august-supermoon-sturgeon-full-moon).
 
 ## Requirements
 - Python 3.8
