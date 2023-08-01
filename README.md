@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Taylor requests trade from Colts, Indy reportedly considering placing RB on non-football injury list**
+**Burning Ship Will Be Towed by Dutch Authorities**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-requests-trade-from-colts-indy-reportedly-considering-placing-rb-on-non-football-injury-list/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-07-30/dutch-authorities-start-towing-burning-ship-as-smoke-subsides).
 
 ## Requirements
 - Python 3.8
