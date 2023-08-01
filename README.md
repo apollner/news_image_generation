@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC says allergies caused by tick bites increasing; Ozarks woman offers help**
+**6-year-old girl dead after being struck by family's boat at lake**
 
-You can read more about it [here](https://www.ky3.com/2023/07/31/cdc-says-allergies-caused-by-tick-bites-increasing-ozarks-woman-offers-help/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/07/30/6-year-old-killed-boat-arizona/70495392007/).
 
 ## Requirements
 - Python 3.8
