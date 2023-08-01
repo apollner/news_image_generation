@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China imposes drone export curbs amid US tech tensions**
+**USWNT in unfamiliar territory entering last World Cup group game against Portugal**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/7/31/china-imposes-drone-export-curbs-amid-us-tech-tensions).
+You can read more about it [here](https://www.usatoday.com/story/sports/columnist/nancy-armour/2023/07/31/uswnt-unfamiliar-position-usa-vs-portugal-womens-world-cup-group-e-game/70496310007/).
 
 ## Requirements
 - Python 3.8
