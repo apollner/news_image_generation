@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Late summer wave? Covid hospitalisations spike in US, health agency warns**
+**Jonathan Taylor requests trade from Colts, Indy reportedly considering placing RB on non-football injury list**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/coronavirus-us-latest-late-summer-wave-covid-hospitalizations-spike-in-us-health-agency-warns-101690765255107.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-requests-trade-from-colts-indy-reportedly-considering-placing-rb-on-non-football-injury-list/).
 
 ## Requirements
 - Python 3.8
