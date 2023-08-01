@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**August supermoons rises Tuesday, Aug. 1 with Sturgeon full moon**
+**First American nuclear reactor built from scratch in decades enters commercial operation in Georgia**
 
-You can read more about it [here](https://www.space.com/august-supermoon-sturgeon-full-moon).
+You can read more about it [here](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425).
 
 ## Requirements
 - Python 3.8
