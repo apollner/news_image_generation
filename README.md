@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's new 'X' sign on Twitter HQ investigated by San Francisco city - The Washington Post**
+**Gallus vs. D’Angelo & Stacks – Tag Team Championship Match: NXT Great American Bash 2023 highlights**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/07/30/musk-flashing-x-sign-twitter/).
+You can read more about it [here](https://www.youtube.com/watch?v=bTJW6aNpBks).
 
 ## Requirements
 - Python 3.8
