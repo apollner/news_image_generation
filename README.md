@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US trucking company Yellow shuts down operations, Wall Street Journal reports**
+**Mega Millions jackpot soars over $1 billion: When is the next drawing?**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-trucking-company-yellow-shuts-down-operations-wsj-2023-07-30/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/07/31/mega-millions-next-drawing/70496418007/).
 
 ## Requirements
 - Python 3.8
