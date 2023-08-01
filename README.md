@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's iPhone 15 Pro will reportedly feature new charging port, titanium body**
+**China imposes drone export curbs amid US tech tensions**
 
-You can read more about it [here](https://www.cnbc.com/2023/07/31/apples-iphone-15-pro-will-have-usb-c-charging-titanium-body-report.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/31/china-imposes-drone-export-curbs-amid-us-tech-tensions).
 
 ## Requirements
 - Python 3.8
