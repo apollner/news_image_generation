@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korean dog meat farmers push back against growing moves to outlaw their industry**
+**Pakistan holds funerals as death toll from rally bombing rises to 54**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/07/31/south-korean-dog-meat-farmers-country-changing-taste/70497923007/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/7/31/pakistan-holds-funerals-as-government-vows-to-hound-those-responsible).
 
 ## Requirements
 - Python 3.8
