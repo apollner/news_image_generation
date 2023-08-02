@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two supermoons will light up the night sky in August. Here's what you need to know**
+**Driver of SUV that hit and injured 6 migrant workers outside a North Carolina Walmart has turned himself in, police say**
 
-You can read more about it [here](https://www.sfchronicle.com/bayarea/article/supermoons-two-blue-sturgeon-18270736.php).
+You can read more about it [here](https://www.cnn.com/2023/07/30/us/north-carolina-lincolnton-walmart-migrant-workers/index.html).
 
 ## Requirements
 - Python 3.8
