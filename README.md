@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia accuses Ukraine of new drone attack on Moscow, hitting a tower for the second time in 3 days**
+**Uber Stock Set For Biggest Loss In Months—Despite First-Ever Profitable Quarter**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-crimea-0773a8607c3e3c25a47124f4ef4d7b8c).
+You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/08/01/uber-stock-set-for-biggest-loss-in-months-despite-first-ever-profitable-quarter/).
 
 ## Requirements
 - Python 3.8
