@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Tuesday, August 1, 2023**
+**HSBC raises outlook as profits nearly double**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/8/1/23803777/horoscopes-today-tuesday-august-1-2023).
+You can read more about it [here](https://www.cnn.com/2023/08/01/investing/hsbc-earnings-q2-2023-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
