@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber Stock Set For Biggest Loss In Months—Despite First-Ever Profitable Quarter**
+**Apollo leads deal for trucking firm Yellow's bankruptcy loan - Bloomberg News**
 
-You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/08/01/uber-stock-set-for-biggest-loss-in-months-despite-first-ever-profitable-quarter/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/apollo-leads-deal-provide-trucking-firm-yellow-with-bankruptcy-loan-bloomberg-2023-08-01/).
 
 ## Requirements
 - Python 3.8
