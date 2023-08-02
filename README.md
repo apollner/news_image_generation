@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are Wagner fighters entering Poland disguised as migrants?**
+**Russia accuses Ukraine of new drone attack on Moscow, hitting a tower for the second time in 3 days**
 
-You can read more about it [here](https://www.dw.com/en/are-wagner-fighters-entering-poland-disguised-as-migrants/a-66407086).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-crimea-0773a8607c3e3c25a47124f4ef4d7b8c).
 
 ## Requirements
 - Python 3.8
