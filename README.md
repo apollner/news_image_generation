@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four Nigerians, rescued in Brazil, survived 14 days on a ship's rudder**
+**Ukraine war: Kyiv warns Russia as Moscow skyscraper hit in second drone attack**
 
-You can read more about it [here](https://www.reuters.com/world/americas/four-nigerians-rescued-brazil-survived-14-days-ships-rudder-2023-08-01/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66368016).
 
 ## Requirements
 - Python 3.8
