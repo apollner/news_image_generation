@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Same Moscow skyscraper hit in new drone attack**
+**Paul Reubens, actor best known for Pee-wee Herman role, dies at age 70**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66368016).
+You can read more about it [here](https://www.cbsnews.com/video/paul-reubens-actor-best-known-for-pee-wee-herman-role-dies-at-age-70/).
 
 ## Requirements
 - Python 3.8
