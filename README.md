@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**24-year-old NFL player KJ Hamler steps away from Broncos with heart issue, but says he intends to return**
+**Leprosy cases surging in Central Florida: CDC**
 
-You can read more about it [here](https://www.cnn.com/2023/07/31/sport/nfl-denver-broncos-kj-hamler-spt/index.html).
+You can read more about it [here](https://www.wesh.com/article/leprosy-florida/44693829).
 
 ## Requirements
 - Python 3.8
