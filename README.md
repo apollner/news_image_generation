@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger Coup LIVE: France denies plotting to intervene militarily in Niger as tensions rise in Sahel**
+**Horoscope for Tuesday, August 1, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=uwt9sEcDpGM).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/1/23803777/horoscopes-today-tuesday-august-1-2023).
 
 ## Requirements
 - Python 3.8
