@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Embrace the Mind Flayer Within Using Baldur's Gate 3's 'Hidden' Ilithid Skill Tree**
+**Warner Bros. Apologizes After ‘Barbenheimer’ Posts Cause Studio’s Japan Unit to Criticize Parent Group**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/08/embrace-the-mind-flayer-within-using-baldurs-gate-3s-hidden-ilithid-skill-tree).
+You can read more about it [here](https://variety.com/2023/film/global/warner-bros-japan-criticizes-barbie-twitter-barbenheimer-posts-1235683885/).
 
 ## Requirements
 - Python 3.8
