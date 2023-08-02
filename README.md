@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Around 450k Americans may have a tick-borne meat allergy and have no idea, study says**
+**Embrace the Mind Flayer Within Using Baldur's Gate 3's 'Hidden' Ilithid Skill Tree**
 
-You can read more about it [here](https://www.axios.com/2023/07/31/alpha-gal-ags-tick-meat-allergy-cases).
+You can read more about it [here](https://www.pushsquare.com/news/2023/08/embrace-the-mind-flayer-within-using-baldurs-gate-3s-hidden-ilithid-skill-tree).
 
 ## Requirements
 - Python 3.8
