@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warner Bros. Apologizes After ‘Barbenheimer’ Posts Cause Studio’s Japan Unit to Criticize Parent Group**
+**US opens probe into 280000 new Tesla vehicles over steering issue**
 
-You can read more about it [here](https://variety.com/2023/film/global/warner-bros-japan-criticizes-barbie-twitter-barbenheimer-posts-1235683885/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-regulator-opens-probe-into-tesla-cars-over-loss-steering-control-2023-08-01/).
 
 ## Requirements
 - Python 3.8
