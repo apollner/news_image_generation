@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NJ Lt. Governor Sheila Oliver dies at 71 after undisclosed medical issue**
+**The first of two supermoons will be visible from the Bay Area tonight**
 
-You can read more about it [here](https://abc7ny.com/new-jersey-lieutenant-governor-sheila-oliver-death-nj-gov/13582418/).
+You can read more about it [here](https://www.sfgate.com/news/article/supermoon-blue-moon-bay-area-18272417.php).
 
 ## Requirements
 - Python 3.8
