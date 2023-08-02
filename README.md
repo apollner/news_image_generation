@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apollo leads deal for trucking firm Yellow's bankruptcy loan - Bloomberg News**
+**Doctors warn COVID hospitalizations are rising**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/apollo-leads-deal-provide-trucking-firm-yellow-with-bankruptcy-loan-bloomberg-2023-08-01/).
+You can read more about it [here](https://www.youtube.com/watch?v=KbntsrJDJlM).
 
 ## Requirements
 - Python 3.8
