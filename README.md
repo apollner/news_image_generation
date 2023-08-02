@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Google Assistant is getting a big reboot around generative AI**
+**Does the coup in Niger threaten nuclear power plants in France?**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
