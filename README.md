@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stephen Amell, former ‘Arrow’ star, clarifies his remarks about the actors’ strike**
+**NJ Lt. Governor Sheila Oliver dies at 71 after undisclosed medical issue**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/entertainment/stephen-amell-actors-strike/index.html).
+You can read more about it [here](https://abc7ny.com/new-jersey-lieutenant-governor-sheila-oliver-death-nj-gov/13582418/).
 
 ## Requirements
 - Python 3.8
