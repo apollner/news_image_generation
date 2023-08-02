@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HSBC net profit more than doubles in the first half, announces $2 billion share buyback**
+**Chinese zoo denies its sun bears are people in costume**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/01/hsbc-sees-89percent-yoy-rise-in-q2-pre-tax-profit-beating-analysts-expectations.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/china/sun-bear-claims-china-hangzhou-zoo-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
