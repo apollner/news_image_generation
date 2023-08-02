@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What pushed Yellow trucking company to point of bankruptcy?**
+**HSBC net profit more than doubles in the first half, announces $2 billion share buyback**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/what-pushed-yellow-trucking-company-point-bankruptcy).
+You can read more about it [here](https://www.cnbc.com/2023/08/01/hsbc-sees-89percent-yoy-rise-in-q2-pre-tax-profit-beating-analysts-expectations.html).
 
 ## Requirements
 - Python 3.8
