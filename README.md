@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HSBC raises outlook as profits nearly double**
+**24-year-old NFL player KJ Hamler steps away from Broncos with heart issue, but says he intends to return**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/investing/hsbc-earnings-q2-2023-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/31/sport/nfl-denver-broncos-kj-hamler-spt/index.html).
 
 ## Requirements
 - Python 3.8
