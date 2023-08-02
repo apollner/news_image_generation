@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US opens probe into 280000 new Tesla vehicles over steering issue**
+**Moscow tower hit for second time in fresh drone strike, says mayor**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/us-regulator-opens-probe-into-tesla-cars-over-loss-steering-control-2023-08-01/).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/01/moscow-hit-by-fresh-drone-strike-says-mayor).
 
 ## Requirements
 - Python 3.8
