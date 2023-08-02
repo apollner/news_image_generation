@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The first of two supermoons will be visible from the Bay Area tonight**
+**The Google Assistant is getting a big reboot around generative AI**
 
-You can read more about it [here](https://www.sfgate.com/news/article/supermoon-blue-moon-bay-area-18272417.php).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/).
 
 ## Requirements
 - Python 3.8
