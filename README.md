@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese zoo denies its sun bears are people in costume**
+**Warner Bros. Apologizes After ‘Barbenheimer’ Posts Cause Studio’s Japan Unit to Criticize Parent Group**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/china/sun-bear-claims-china-hangzhou-zoo-intl-hnk/index.html).
+You can read more about it [here](https://variety.com/2023/film/global/warner-bros-japan-criticizes-barbie-twitter-barbenheimer-posts-1235683885/).
 
 ## Requirements
 - Python 3.8
