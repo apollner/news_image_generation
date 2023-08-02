@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moscow tower hit for second time in fresh drone strike, says mayor**
+**Myanmar junta grants partial pardon to democracy champion Suu Kyi**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/01/moscow-hit-by-fresh-drone-strike-says-mayor).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/myanmar-junta-pardons-ex-leader-suu-kyi-five-offences-state-media-2023-08-01/).
 
 ## Requirements
 - Python 3.8
