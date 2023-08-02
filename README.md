@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taco Bell sued for false advertising over skimpy fillings**
+**Even one alcoholic drink per day is linked to higher blood pressure, American Heart Association analysis finds**
 
-You can read more about it [here](https://www.washingtonpost.com/food/2023/07/31/taco-bell-false-advertising-lawsuit/).
+You can read more about it [here](https://www.cbsnews.com/news/alcoholic-drink-linked-to-higher-blood-pressure/).
 
 ## Requirements
 - Python 3.8
