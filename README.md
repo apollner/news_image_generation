@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Nowhere to hide’: The question troubling Ukrainian troops amid a grinding counteroffensive**
+**24-year-old NFL player KJ Hamler steps away from Broncos with heart issue, but says he intends to return**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/europe/ukraine-neskuchne-question-counteroffensive-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/07/31/sport/nfl-denver-broncos-kj-hamler-spt/index.html).
 
 ## Requirements
 - Python 3.8
