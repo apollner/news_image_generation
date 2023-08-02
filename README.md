@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Myanmar junta grants partial pardon to democracy champion Suu Kyi**
+**Uber Stock Set For Biggest Loss In Months—Despite First-Ever Profitable Quarter**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/myanmar-junta-pardons-ex-leader-suu-kyi-five-offences-state-media-2023-08-01/).
+You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/08/01/uber-stock-set-for-biggest-loss-in-months-despite-first-ever-profitable-quarter/).
 
 ## Requirements
 - Python 3.8
