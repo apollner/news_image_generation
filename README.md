@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Kyiv warns Russia as Moscow skyscraper hit in second drone attack**
+**Wife of Gilgo Beach serial killings suspect and her attorney open up about the family’s experience since Rex Heuermann’s arrest**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66368016).
+You can read more about it [here](https://www.cnn.com/2023/08/01/us/rex-heuermann-wife-gilgo-beach-killings-home/index.html).
 
 ## Requirements
 - Python 3.8
