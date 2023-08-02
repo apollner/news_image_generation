@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HSBC net profit more than doubles in the first half, announces $2 billion share buyback**
+**Massive fire burning in California and Nevada is spawning dangerous ‘fire whirls’**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/01/hsbc-sees-89percent-yoy-rise-in-q2-pre-tax-profit-beating-analysts-expectations.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/us/york-fire-california-nevada-fire-whirls/index.html).
 
 ## Requirements
 - Python 3.8
