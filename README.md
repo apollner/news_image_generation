@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**News Wrap: Massive wildfire burns in California’s Mojave National Preserve**
+**Biden has decided to keep Space Command in Colorado, rejecting move to Alabama, officials tell AP**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IcPNrlCiO7U).
+You can read more about it [here](https://apnews.com/article/space-command-biden-colorado-alabama-382b12b57733848fd1d083227aefa0bf).
 
 ## Requirements
 - Python 3.8
