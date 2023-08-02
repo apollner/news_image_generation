@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Does the coup in Niger threaten nuclear power plants in France?**
+**NJ Lt. Governor Sheila Oliver dies at 71 after undisclosed medical issue**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://abc7ny.com/new-jersey-lieutenant-governor-sheila-oliver-death-nj-gov/13582418/).
 
 ## Requirements
 - Python 3.8
