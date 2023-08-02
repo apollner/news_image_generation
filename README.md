@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wife of Gilgo Beach serial killings suspect and her attorney open up about the family’s experience since Rex Heuermann’s arrest**
+**Are Wagner fighters entering Poland disguised as migrants?**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/us/rex-heuermann-wife-gilgo-beach-killings-home/index.html).
+You can read more about it [here](https://www.dw.com/en/are-wagner-fighters-entering-poland-disguised-as-migrants/a-66407086).
 
 ## Requirements
 - Python 3.8
