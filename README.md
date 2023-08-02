@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Euphoria' Star Angus Cloud Dead at 25, 911 Call for 'Possible Overdose'**
+**‘Nowhere to hide’: The question troubling Ukrainian troops amid a grinding counteroffensive**
 
-You can read more about it [here](https://www.tmz.com/2023/07/31/euphoria-star-angus-cloud-dead-dies/).
+You can read more about it [here](https://www.cnn.com/2023/08/01/europe/ukraine-neskuchne-question-counteroffensive-intl/index.html).
 
 ## Requirements
 - Python 3.8
