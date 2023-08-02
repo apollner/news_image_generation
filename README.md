@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warner Bros. Apologizes After ‘Barbenheimer’ Posts Cause Studio’s Japan Unit to Criticize Parent Group**
+**What pushed Yellow trucking company to point of bankruptcy?**
 
-You can read more about it [here](https://variety.com/2023/film/global/warner-bros-japan-criticizes-barbie-twitter-barbenheimer-posts-1235683885/).
+You can read more about it [here](https://www.foxbusiness.com/markets/what-pushed-yellow-trucking-company-point-bankruptcy).
 
 ## Requirements
 - Python 3.8
