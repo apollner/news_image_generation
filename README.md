@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Reubens, actor best known for Pee-wee Herman role, dies at age 70**
+**Niger Coup LIVE: France denies plotting to intervene militarily in Niger as tensions rise in Sahel**
 
-You can read more about it [here](https://www.cbsnews.com/video/paul-reubens-actor-best-known-for-pee-wee-herman-role-dies-at-age-70/).
+You can read more about it [here](https://www.youtube.com/watch?v=uwt9sEcDpGM).
 
 ## Requirements
 - Python 3.8
