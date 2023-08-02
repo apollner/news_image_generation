@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even one alcoholic drink per day is linked to higher blood pressure, American Heart Association analysis finds**
+**'Euphoria' Star Angus Cloud Dead at 25, 911 Call for 'Possible Overdose'**
 
-You can read more about it [here](https://www.cbsnews.com/news/alcoholic-drink-linked-to-higher-blood-pressure/).
+You can read more about it [here](https://www.tmz.com/2023/07/31/euphoria-star-angus-cloud-dead-dies/).
 
 ## Requirements
 - Python 3.8
