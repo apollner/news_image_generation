@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia DA says Trump 2020 election probe is 'ready to go' in hint at indictment**
+**Two supermoons will light up the night sky in August. Here's what you need to know**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-indictment-georgia-republican-primary-polls-b2385362.html).
+You can read more about it [here](https://www.sfchronicle.com/bayarea/article/supermoons-two-blue-sturgeon-18270736.php).
 
 ## Requirements
 - Python 3.8
