@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures fall after Fitch downgrades U.S. rating, earnings season continues: Live updates**
+**USWNT needs more players like Rose Lavelle to revive a struggling attack**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/01/stock-market-today-live-updates.html).
+You can read more about it [here](https://sports.yahoo.com/uswnt-needs-more-players-like-rose-lavelle-to-revive-a-struggling-attack-002418833.html).
 
 ## Requirements
 - Python 3.8
