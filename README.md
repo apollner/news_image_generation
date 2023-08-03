@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A flawless Cygnus launch brings eras to a close**
+**Russian drone strikes on Ukraine Odesa region cause fires at port**
 
-You can read more about it [here](https://arstechnica.com/space/2023/08/a-flawless-cygnus-launch-brings-eras-to-a-close/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-drone-strikes-odesa-kyiv-8b20147a55f29a0c0bc465b59274357e).
 
 ## Requirements
 - Python 3.8
