@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamaica heads to Women’s World Cup knockout stage for first time, as Brazil crashes out of tournament**
+**The Galaxy Z Flip 5's cover screen software beats Motorola's in every way but one**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/football/brazil-jamaica-france-panama-womens-world-cup-spt-intl/index.html).
+You can read more about it [here](https://www.theverge.com/23815917/samsung-galaxy-z-flip-5-motorola-razr-plus-cover-screen-widgets-apps-comparison-head-to-head).
 
 ## Requirements
 - Python 3.8
