@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump has been indicted in special counsel’s 2020 election interference probe**
+**Judge assigned to Trump case previously said ‘the country is watching to see what the consequences are’ for January 6**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/politics/donald-trump-indictment-grand-jury-2020-election/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/politics/judge-tanya-chutkan-trump-indictment/index.html).
 
 ## Requirements
 - Python 3.8
