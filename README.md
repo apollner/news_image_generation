@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida becomes hotspot for leprosy, CDC says**
+**A flawless Cygnus launch brings eras to a close**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4mqZvCUtxGg).
+You can read more about it [here](https://arstechnica.com/space/2023/08/a-flawless-cygnus-launch-brings-eras-to-a-close/).
 
 ## Requirements
 - Python 3.8
