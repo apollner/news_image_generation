@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US workers estimate they need $1.8M to retire: survey**
+**Ozempic, Mounjaro manufacturers sued over claims of "stomach paralysis" side effects**
 
-You can read more about it [here](https://thehill.com/business/4133740-us-workers-retirement-estimate-survey/).
+You can read more about it [here](https://www.cbsnews.com/news/ozempic-mounjaro-lawsuit-gastroparesis-stomach-paralysis-side-effect/).
 
 ## Requirements
 - Python 3.8
