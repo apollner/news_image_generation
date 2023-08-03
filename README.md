@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CVS Health turns in better-than-expected 2Q even as pharmacy pricing, increased care use hurt**
+**Jamaica heads to Women’s World Cup knockout stage for first time, as Brazil crashes out of tournament**
 
-You can read more about it [here](https://finance.yahoo.com/news/cvs-health-turns-better-expected-112144608.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/football/brazil-jamaica-france-panama-womens-world-cup-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
