@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweden to play US in last 16 after beating Argentina as South Africa makes history**
+**2023 MLB trade deadline: What to make of Mets, Yankees, more**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/football/sweden-south-africa-italy-womens-world-cup-2023-spt-intl/index.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38109482/2023-mlb-trade-deadline-real-not-verlander-ohtani-mets-angels-yankees).
 
 ## Requirements
 - Python 3.8
