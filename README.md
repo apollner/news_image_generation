@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 MLB trade deadline grades: Marks for all 30 teams as Angels and Rangers receive an 'A', Yankees fail**
+**Heaviest rainfall in 140 years drenches Beijing while Typhoon Khanun hits Japan’s Okinawa**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-grades-marks-for-all-30-teams-as-angels-and-rangers-receive-an-a-yankees-fail/).
+You can read more about it [here](https://www.cnn.com/2023/08/02/asia/typhoon-khanun-japan-doksuri-china-rain-record-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
