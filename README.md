@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis urges Europe to work for peace as he lands in Portugal for World Youth Day**
+**Writers union and Hollywood will resume talks, aiming to end the strike**
 
-You can read more about it [here](https://apnews.com/article/portugal-pope-abuse-world-youth-day-climate-4db3ac2405da84abb9beced2b1f8b7c3).
+You can read more about it [here](https://www.cnn.com/2023/08/02/business/writers-strike-negotiations-resume/index.html).
 
 ## Requirements
 - Python 3.8
