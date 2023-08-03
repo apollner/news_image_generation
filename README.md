@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump indicted over efforts to overturn his 2020 presidential election loss**
+**Heaviest rainfall in 140 years drenches Beijing while Typhoon Khanun hits Japan’s Okinawa**
 
-You can read more about it [here](https://apnews.com/article/trump-indicted-jan-6-investigation-special-counsel-debb59bb7a4d9f93f7e2dace01feccdc).
+You can read more about it [here](https://www.cnn.com/2023/08/02/asia/typhoon-khanun-japan-doksuri-china-rain-record-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
