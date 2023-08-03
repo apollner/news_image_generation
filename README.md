@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions next drawing: At $1.25B, jackpot fourth-largest ever**
+**CVS Health turns in better-than-expected 2Q even as pharmacy pricing, increased care use hurt**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/02/mega-millions-next-drawing/70511492007/).
+You can read more about it [here](https://finance.yahoo.com/news/cvs-health-turns-better-expected-112144608.html).
 
 ## Requirements
 - Python 3.8
