@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney’s governing district in Florida slashes all DEI programs**
+**2023 MLB trade deadline grades: Marks for all 30 teams as Angels and Rangers receive an 'A', Yankees fail**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/politics/disney-reedy-creek-dei/index.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-grades-marks-for-all-30-teams-as-angels-and-rangers-receive-an-a-yankees-fail/).
 
 ## Requirements
 - Python 3.8
