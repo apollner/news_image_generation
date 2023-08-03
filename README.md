@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions jackpot climbs to $1.25 billion after no one hits the top prize**
+**Sweden to play US in last 16 after beating Argentina as South Africa makes history**
 
-You can read more about it [here](https://www.npr.org/2023/08/02/1191517575/mega-millions-jackpot-climbs-to-1-25-billion-after-no-one-hits-the-top-prize).
+You can read more about it [here](https://www.cnn.com/2023/08/02/football/sweden-south-africa-italy-womens-world-cup-2023-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
