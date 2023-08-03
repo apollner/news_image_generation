@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leprosy cases surging in Florida**
+**Euphoria stars share tributes to costar Angus Cloud | EW.com**
 
-You can read more about it [here](https://www.wpbf.com/article/leprosy-cases-surging-in-florida/44704994).
+You can read more about it [here](https://ew.com/tv/euphoria-stars-share-tributes-to-angus-cloud/).
 
 ## Requirements
 - Python 3.8
