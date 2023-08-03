@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canon warns printer users to manually wipe Wi-Fi settings before discarding**
+**Stock futures fall after Fitch downgrades U.S. rating, earnings season continues: Live updates**
 
-You can read more about it [here](https://arstechnica.com/security/2023/08/canon-warns-printer-users-to-manually-wipe-wi-fi-settings-before-discarding/).
+You can read more about it [here](https://www.cnbc.com/2023/08/01/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
