@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fitbit's redesign blends Material You aesthetics with personalized health tracking**
+**MLB trade deadline winners and losers: Yankees, Red Sox, Orioles needed more, plus silver lining for Mets fans**
 
-You can read more about it [here](https://www.androidpolice.com/fitbit-material-you-redesign/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-deadline-winners-and-losers-yankees-red-sox-orioles-needed-more-plus-silver-lining-for-mets-fans/).
 
 ## Requirements
 - Python 3.8
