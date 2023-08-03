@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge assigned to Trump case previously said ‘the country is watching to see what the consequences are’ for January 6**
+**Prepare to flick off your incandescent bulbs for good under new US rules that kicked in this week**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/politics/judge-tanya-chutkan-trump-indictment/index.html).
+You can read more about it [here](https://apnews.com/article/incandescent-light-bulb-led-federal-energy-efficiency-rules-950ca7bd90453a5bde277f3002e67d83).
 
 ## Requirements
 - Python 3.8
