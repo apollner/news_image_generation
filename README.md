@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT needs more players like Rose Lavelle to revive a struggling attack**
+**Hasan Minhaj Eyed For ‘Daily Show’ Host (EXCLUSIVE)**
 
-You can read more about it [here](https://sports.yahoo.com/uswnt-needs-more-players-like-rose-lavelle-to-revive-a-struggling-attack-002418833.html).
+You can read more about it [here](https://variety.com/2023/tv/news/hasan-minhaj-daily-show-host-1235685137/).
 
 ## Requirements
 - Python 3.8
