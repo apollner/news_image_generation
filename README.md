@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB trade deadline winners and losers: Yankees, Red Sox, Orioles needed more, plus silver lining for Mets fans**
+**Updating our Sony WF-1000XM5 review**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-deadline-winners-and-losers-yankees-red-sox-orioles-needed-more-plus-silver-lining-for-mets-fans/).
+You can read more about it [here](http://www.digitaltrends.com/home-theater/sony-wf-1000xm5-review-update/).
 
 ## Requirements
 - Python 3.8
