@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Galaxy Z Flip 5's cover screen software beats Motorola's in every way but one**
+**Judge assigned to Trump case previously said ‘the country is watching to see what the consequences are’ for January 6**
 
-You can read more about it [here](https://www.theverge.com/23815917/samsung-galaxy-z-flip-5-motorola-razr-plus-cover-screen-widgets-apps-comparison-head-to-head).
+You can read more about it [here](https://www.cnn.com/2023/08/01/politics/judge-tanya-chutkan-trump-indictment/index.html).
 
 ## Requirements
 - Python 3.8
