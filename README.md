@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heaviest rainfall in 140 years drenches Beijing while Typhoon Khanun hits Japan’s Okinawa**
+**Ryan Koss, driver in crash that killed actor Treat Williams, charged with grossly negligent operation causing death**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/asia/typhoon-khanun-japan-doksuri-china-rain-record-intl-hnk/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/ryan-koss-driver-crash-killed-treat-williams-charged-grossly-negligent-operation-causing-death/).
 
 ## Requirements
 - Python 3.8
