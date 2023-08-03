@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kombucha may help control blood sugar in Type 2 diabetics: study**
+**Leprosy cases surging in Florida**
 
-You can read more about it [here](https://nypost.com/2023/08/01/kombucha-may-help-control-blood-sugar-in-type-2-diabetics-study/).
+You can read more about it [here](https://www.wpbf.com/article/leprosy-cases-surging-in-florida/44704994).
 
 ## Requirements
 - Python 3.8
