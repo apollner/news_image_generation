@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why are leprosy cases surging in US state of Florida?**
+**Mega Millions next drawing: At $1.25B, jackpot fourth-largest ever**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/2/why-are-leprosy-cases-surging-in-us-state-of).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/08/02/mega-millions-next-drawing/70511492007/).
 
 ## Requirements
 - Python 3.8
