@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Koss, driver in crash that killed actor Treat Williams, charged with grossly negligent operation causing death**
+**SAG-AFTRA Urges Studios To Return To Bargaining Table As WGA Prepares To Meet With AMPTP On Friday**
 
-You can read more about it [here](https://www.cbsnews.com/news/ryan-koss-driver-crash-killed-treat-williams-charged-grossly-negligent-operation-causing-death/).
+You can read more about it [here](https://deadline.com/2023/08/actors-strike-wga-strike-talks-duncan-crabtree-ireland-1235453221/comment-page-1/#comments).
 
 ## Requirements
 - Python 3.8
