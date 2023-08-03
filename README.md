@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawsuit by former dancers accuses Lizzo of sexual harassment and creating a hostile work environment**
+**Updating our Sony WF-1000XM5 review**
 
-You can read more about it [here](https://apnews.com/article/lizzo-dancers-lawsuit-ea96f4c865bdd48fa8056a92cf14e7a7).
+You can read more about it [here](http://www.digitaltrends.com/home-theater/sony-wf-1000xm5-review-update/).
 
 ## Requirements
 - Python 3.8
