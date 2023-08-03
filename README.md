@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 MLB trade deadline: What to make of Mets, Yankees, more**
+**Why are leprosy cases surging in US state of Florida?**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38109482/2023-mlb-trade-deadline-real-not-verlander-ohtani-mets-angels-yankees).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/2/why-are-leprosy-cases-surging-in-us-state-of).
 
 ## Requirements
 - Python 3.8
