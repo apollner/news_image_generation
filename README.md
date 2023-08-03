@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Urges Studios To Return To Bargaining Table As WGA Prepares To Meet With AMPTP On Friday**
+**Florida becomes hotspot for leprosy, CDC says**
 
-You can read more about it [here](https://deadline.com/2023/08/actors-strike-wga-strike-talks-duncan-crabtree-ireland-1235453221/comment-page-1/#comments).
+You can read more about it [here](https://www.youtube.com/watch?v=4mqZvCUtxGg).
 
 ## Requirements
 - Python 3.8
