@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI looks for more possible victims after woman escapes from cinder block cell in Oregon**
+**US workers estimate they need $1.8M to retire: survey**
 
-You can read more about it [here](https://news.yahoo.com/fbi-looks-more-possible-victims-172837203.html).
+You can read more about it [here](https://thehill.com/business/4133740-us-workers-retirement-estimate-survey/).
 
 ## Requirements
 - Python 3.8
