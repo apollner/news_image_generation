@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Updating our Sony WF-1000XM5 review**
+**Kombucha may help control blood sugar in Type 2 diabetics: study**
 
-You can read more about it [here](http://www.digitaltrends.com/home-theater/sony-wf-1000xm5-review-update/).
+You can read more about it [here](https://nypost.com/2023/08/01/kombucha-may-help-control-blood-sugar-in-type-2-diabetics-study/).
 
 ## Requirements
 - Python 3.8
