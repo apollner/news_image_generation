@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doctors warn COVID hospitalizations are rising**
+**Fitbit's redesign blends Material You aesthetics with personalized health tracking**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KbntsrJDJlM).
+You can read more about it [here](https://www.androidpolice.com/fitbit-material-you-redesign/).
 
 ## Requirements
 - Python 3.8
