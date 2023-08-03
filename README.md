@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge assigned to Trump case previously said ‘the country is watching to see what the consequences are’ for January 6**
+**Tigers Woods joining PGA Tour policy board is chance to enhance legacy at 'critical point'**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/politics/judge-tanya-chutkan-trump-indictment/index.html).
+You can read more about it [here](https://nypost.com/2023/08/01/tiger-woods-can-enhance-legacy-with-pga-policy-board-nod/).
 
 ## Requirements
 - Python 3.8
