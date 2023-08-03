@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers union and Hollywood will resume talks, aiming to end the strike**
+**Stock market today: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/business/writers-strike-negotiations-resume/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/01/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
