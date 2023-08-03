@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump has been indicted in special counsel’s 2020 election interference probe**
+**Whirl-spawning wildfire in California and Nevada challenges firefighters and threatens ecosystem**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/politics/donald-trump-indictment-grand-jury-2020-election/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/02/us/york-fire-california-nevada-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
