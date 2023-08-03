@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prepare to flick off your incandescent bulbs for good under new US rules that kicked in this week**
+**Pope Francis urges Europe to work for peace as he lands in Portugal for World Youth Day**
 
-You can read more about it [here](https://apnews.com/article/incandescent-light-bulb-led-federal-energy-efficiency-rules-950ca7bd90453a5bde277f3002e67d83).
+You can read more about it [here](https://apnews.com/article/portugal-pope-abuse-world-youth-day-climate-4db3ac2405da84abb9beced2b1f8b7c3).
 
 ## Requirements
 - Python 3.8
