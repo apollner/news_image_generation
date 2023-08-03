@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Euphoria stars share tributes to costar Angus Cloud | EW.com**
+**Oldest species of swimming jellyfish discovered in 505m-year-old fossils**
 
-You can read more about it [here](https://ew.com/tv/euphoria-stars-share-tributes-to-angus-cloud/).
+You can read more about it [here](https://www.theguardian.com/science/2023/aug/02/oldest-species-swimming-jellyfish-discovered-505m-year-old-fossils).
 
 ## Requirements
 - Python 3.8
