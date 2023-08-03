@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian drone strikes on Ukraine Odesa region cause fires at port**
+**FBI looks for more possible victims after woman escapes from cinder block cell in Oregon**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-drone-strikes-odesa-kyiv-8b20147a55f29a0c0bc465b59274357e).
+You can read more about it [here](https://news.yahoo.com/fbi-looks-more-possible-victims-172837203.html).
 
 ## Requirements
 - Python 3.8
