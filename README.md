@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland rushes troops to border, Belarus denies airspace violation**
+**Mega Millions jackpot climbs to $1.25 billion after no one hits the top prize**
 
-You can read more about it [here](https://www.deccanherald.com/international/world-news-politics/poland-rushes-troops-to-border-belarus-denies-airspace-violation-1243051.html).
+You can read more about it [here](https://www.npr.org/2023/08/02/1191517575/mega-millions-jackpot-climbs-to-1-25-billion-after-no-one-hits-the-top-prize).
 
 ## Requirements
 - Python 3.8
