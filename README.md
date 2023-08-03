@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Live updates**
+**Disney’s governing district in Florida slashes all DEI programs**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/01/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/08/02/politics/disney-reedy-creek-dei/index.html).
 
 ## Requirements
 - Python 3.8
