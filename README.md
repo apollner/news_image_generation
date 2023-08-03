@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oldest species of swimming jellyfish discovered in 505m-year-old fossils**
+**Donald Trump has been indicted in special counsel’s 2020 election interference probe**
 
-You can read more about it [here](https://www.theguardian.com/science/2023/aug/02/oldest-species-swimming-jellyfish-discovered-505m-year-old-fossils).
+You can read more about it [here](https://www.cnn.com/2023/08/01/politics/donald-trump-indictment-grand-jury-2020-election/index.html).
 
 ## Requirements
 - Python 3.8
