@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tigers Woods joining PGA Tour policy board is chance to enhance legacy at 'critical point'**
+**Canon warns printer users to manually wipe Wi-Fi settings before discarding**
 
-You can read more about it [here](https://nypost.com/2023/08/01/tiger-woods-can-enhance-legacy-with-pga-policy-board-nod/).
+You can read more about it [here](https://arstechnica.com/security/2023/08/canon-warns-printer-users-to-manually-wipe-wi-fi-settings-before-discarding/).
 
 ## Requirements
 - Python 3.8
