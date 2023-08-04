@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: The day after his indictment, Trump lies again about Pence’s powers on January 6**
+**Hyundai, Kia recall 92,000 vehicles after potential fire scare - The Washington Post**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/fact-check-trump-pence-electoral-count-2022/index.html).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/08/03/hyundai-kia-recall-fire/).
 
 ## Requirements
 - Python 3.8
