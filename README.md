@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Niger coup leader meets with Wagner-allied junta in Mali**
+**Instant View: Fitch downgrades U.S. foreign currency ratings to 'AA+' from 'AAA'**
 
-You can read more about it [here](https://www.cnn.com/2023/08/02/africa/niger-coup-mali-wagner-intl-afr/index.html).
+You can read more about it [here](https://www.reuters.com/markets/us/view-fitch-downgrades-us-foreign-currency-ratings-aa-aaa-2023-08-01/).
 
 ## Requirements
 - Python 3.8
