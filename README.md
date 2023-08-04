@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Central Florida is a hot spot for leprosy, report says**
+**'Human bear' seen snacking at Chinese zoo as critics doubt she's real**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/health/leprosy-central-florida/index.html).
+You can read more about it [here](https://nypost.com/2023/08/02/human-bear-seen-snacking-at-chinese-zoo-as-critics-doubt-shes-real/).
 
 ## Requirements
 - Python 3.8
