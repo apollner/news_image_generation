@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lizzo sued by three former dancers alleging harassment and hostile work environment**
+**As Florida State sulks amid more college football realignment rumors, what should SEC do?**
 
-You can read more about it [here](https://www.cnn.com/2023/08/01/entertainment/lizzo-sued-by-dancers/index.html).
+You can read more about it [here](https://theathletic.com/4744579/2023/08/02/college-football-realignment-sec/).
 
 ## Requirements
 - Python 3.8
