@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Central Park among NYC areas considered to house migrants: ‘Everything is on the table'**
+**Former Hawkeye Ahron Ulis among new athletes charged in Iowa-Iowa State gambling scandal**
 
-You can read more about it [here](https://www.nbcnewyork.com/news/local/central-park-among-nyc-areas-considered-to-house-migrants-everything-is-on-the-table/4559040/).
+You can read more about it [here](https://www.foxnews.com/sports/former-hawkeye-ahron-ulis-among-new-athletes-charged-iowa-iowa-state-gambling-scandal).
 
 ## Requirements
 - Python 3.8
