@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Powers to Record Profit on Zelda Debut, Mario Movie**
+**Horoscope for Thursday, August 3, 2023**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-03/nintendo-powers-to-record-profit-after-blockbuster-zelda-debut).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/3/23806236/horoscopes-today-thursday-august-3-2023).
 
 ## Requirements
 - Python 3.8
