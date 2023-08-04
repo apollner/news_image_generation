@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 NFL Hall of Fame Game: Jets vs Browns GAME PREVIEW | CBS Sports**
+**How the Strikes Could Impact Lavish Hollywood CEO Pay**
 
-You can read more about it [here](https://www.youtube.com/watch?v=edtcLXA-a-U).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/hollywood-ceo-pay-say-on-pay-shareholder-strikes-1235548591/).
 
 ## Requirements
 - Python 3.8
