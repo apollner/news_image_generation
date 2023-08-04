@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 US Navy sailors arrested on charges tied to national security and China**
+**Morocco advances and Germany exits in wild finale to the group stage at the Women's World Cup**
 
-You can read more about it [here](https://apnews.com/article/espionage-us-navy-arrests-national-security-china-b81514864f8cab253b4d29caa3594a72).
+You can read more about it [here](https://apnews.com/article/womens-world-cup-upsets-germany-morocco-3abc5dc559729ba1d8fadb0644ac0d79).
 
 ## Requirements
 - Python 3.8
