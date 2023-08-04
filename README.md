@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin Supreme Court chief justice accuses liberals of 'raw exercise of overreaching power'**
+**Aura of invincibility gone, USWNT enters Sweden match as underdog**
 
-You can read more about it [here](https://apnews.com/article/wisconsin-supreme-court-chief-accuses-liberals-c7a090415865145fb23239915af86458).
+You can read more about it [here](https://www.foxsports.com/stories/soccer/aura-of-invincibility-gone-uswnt-enters-sweden-match-as-underdog).
 
 ## Requirements
 - Python 3.8
