@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Devon Archer says Joe Biden discussed ‘nothing’ important with Hunter Biden business associates, transcript shows**
+**Trump arraignment in Washington backdropped by quiet outside the courthouse - POLITICO**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/devon-archer-testimony-transcript/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/03/trump-indictment-courthouse-arraignment-00109643).
 
 ## Requirements
 - Python 3.8
