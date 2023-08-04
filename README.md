@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hyundai, Kia recall 92,000 vehicles after potential fire scare - The Washington Post**
+**Devon Archer says Joe Biden discussed ‘nothing’ important with Hunter Biden business associates, transcript shows**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/08/03/hyundai-kia-recall-fire/).
+You can read more about it [here](https://www.cnn.com/2023/08/03/politics/devon-archer-testimony-transcript/index.html).
 
 ## Requirements
 - Python 3.8
