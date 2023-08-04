@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China proposes to limit children's smartphone time to a maximum of 2 hours a day**
+**Writers strike reaches 3-month mark as talks set to resume**
 
-You can read more about it [here](https://apnews.com/article/china-internet-restrictions-children-smartphone-limits-8435b530b117b70357856ddf6a5968d1).
+You can read more about it [here](https://www.youtube.com/watch?v=LMbKcng6dP8).
 
 ## Requirements
 - Python 3.8
