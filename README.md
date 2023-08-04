@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comer Releases Devon Archer's Transcribed Interview Transcript - United States House Committee on Oversight and Accountability**
+**Sen. Joe Manchin on Fitch's U.S. rating downgrade: We have a fiscal runaway train**
 
-You can read more about it [here](https://oversight.house.gov/release/comer-releases-devon-archers-transcribed-interview-transcript￼/).
+You can read more about it [here](https://www.youtube.com/watch?v=DKqWO6eWuaA).
 
 ## Requirements
 - Python 3.8
