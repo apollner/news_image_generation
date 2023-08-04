@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Powers to Record Profit on Zelda Debut, Mario Movie**
+**Central Park among NYC areas considered to house migrants: ‘Everything is on the table'**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-03/nintendo-powers-to-record-profit-after-blockbuster-zelda-debut).
+You can read more about it [here](https://www.nbcnewyork.com/news/local/central-park-among-nyc-areas-considered-to-house-migrants-everything-is-on-the-table/4559040/).
 
 ## Requirements
 - Python 3.8
