@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis-appointed Disney World district cuts diversity initiatives**
+**Man accused of firing shots outside Jewish school in Tennessee charged with multiple crimes**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/03/florida-ron-desantis-disney-world-diversity-equity-inclusion-programs/70518285007/).
+You can read more about it [here](https://www.ctvnews.ca/world/man-accused-of-firing-shots-outside-jewish-school-in-tennessee-charged-with-multiple-crimes-1.6504951).
 
 ## Requirements
 - Python 3.8
