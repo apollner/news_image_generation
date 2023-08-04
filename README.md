@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hackers manage to unlock Tesla software-locked features worth up to $15000**
+**2 US Navy sailors arrested on charges tied to national security and China**
 
-You can read more about it [here](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/).
+You can read more about it [here](https://apnews.com/article/espionage-us-navy-arrests-national-security-china-b81514864f8cab253b4d29caa3594a72).
 
 ## Requirements
 - Python 3.8
