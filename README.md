@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Hawkeye Ahron Ulis among new athletes charged in Iowa-Iowa State gambling scandal**
+**Trump set to return to Washington for monumental court date – but a national catharsis is unlikely**
 
-You can read more about it [here](https://www.foxnews.com/sports/former-hawkeye-ahron-ulis-among-new-athletes-charged-iowa-iowa-state-gambling-scandal).
+You can read more about it [here](https://www.cnn.com/2023/08/03/politics/trump-returns-to-washington-arraignment/index.html).
 
 ## Requirements
 - Python 3.8
