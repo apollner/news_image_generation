@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Joe Manchin on Fitch's U.S. rating downgrade: We have a fiscal runaway train**
+**The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=DKqWO6eWuaA).
+You can read more about it [here](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/).
 
 ## Requirements
 - Python 3.8
