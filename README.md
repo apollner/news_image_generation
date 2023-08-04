@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barr obliterates Trump’s defense: ‘He knew well that he had lost the election’**
+**Man accused of firing shots outside Jewish school in Tennessee charged with multiple crimes**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/bill-barr-trump-arraignment-2020-election/index.html).
+You can read more about it [here](https://www.ctvnews.ca/world/man-accused-of-firing-shots-outside-jewish-school-in-tennessee-charged-with-multiple-crimes-1.6504951).
 
 ## Requirements
 - Python 3.8
