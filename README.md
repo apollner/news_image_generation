@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin Supreme Court chief justice accuses liberals of 'raw exercise of overreaching power'**
+**Niger: US orders partial embassy evacuation as coup leaders refuse to back down**
 
-You can read more about it [here](https://apnews.com/article/wisconsin-supreme-court-chief-accuses-liberals-c7a090415865145fb23239915af86458).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/03/niger-us-orders-partial-embassy-evacuation-as-coup-leaders-refuse-to-back-down).
 
 ## Requirements
 - Python 3.8
