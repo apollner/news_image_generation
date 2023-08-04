@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed Wednesday night after U.S. downgrade spurs a sell-off: Live updates**
+**Central Florida is a hot spot for leprosy, report says**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/02/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/08/01/health/leprosy-central-florida/index.html).
 
 ## Requirements
 - Python 3.8
