@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reese Witherspoon and Jim Toth Settle Their Divorce 4 Months After Announcing Breakup**
+**China proposes to limit children's smartphone time to a maximum of 2 hours a day**
 
-You can read more about it [here](https://www.eonline.com/news/1382090/reese-witherspoon-and-jim-toth-settle-their-divorce-4-months-after-announcing-breakup).
+You can read more about it [here](https://apnews.com/article/china-internet-restrictions-children-smartphone-limits-8435b530b117b70357856ddf6a5968d1).
 
 ## Requirements
 - Python 3.8
