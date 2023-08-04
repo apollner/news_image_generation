@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Instant View: Fitch downgrades U.S. foreign currency ratings to 'AA+' from 'AAA'**
+**MLB trade deadline winners and losers: Yankees, Red Sox, Orioles needed more, plus silver lining for Mets fans**
 
-You can read more about it [here](https://www.reuters.com/markets/us/view-fitch-downgrades-us-foreign-currency-ratings-aa-aaa-2023-08-01/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-trade-deadline-winners-and-losers-yankees-red-sox-orioles-needed-more-plus-silver-lining-for-mets-fans/).
 
 ## Requirements
 - Python 3.8
