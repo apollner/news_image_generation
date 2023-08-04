@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Announces Additional Eras Tour Dates for U.S. and Canada in Fall 2024**
+**Victims’ families call Pittsburgh synagogue shooter ‘vile’ and ‘worthless’ ahead of formal death sentence**
 
-You can read more about it [here](https://variety.com/2023/music/news/taylor-swift-additional-eras-tour-dates-north-america-fall-2024-1235686982/).
+You can read more about it [here](https://www.cnn.com/2023/08/03/us/pittsburgh-synagogue-shooting-sentencing-victim-statements/index.html).
 
 ## Requirements
 - Python 3.8
