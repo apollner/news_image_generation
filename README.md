@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump arraignment in Washington backdropped by quiet outside the courthouse - POLITICO**
+**2023 NFL Hall of Fame Game: Jets vs Browns GAME PREVIEW | CBS Sports**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/03/trump-indictment-courthouse-arraignment-00109643).
+You can read more about it [here](https://www.youtube.com/watch?v=edtcLXA-a-U).
 
 ## Requirements
 - Python 3.8
