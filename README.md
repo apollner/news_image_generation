@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Human bear' seen snacking at Chinese zoo as critics doubt she's real**
+**Wisconsin Supreme Court chief justice accuses liberals of 'raw exercise of overreaching power'**
 
-You can read more about it [here](https://nypost.com/2023/08/02/human-bear-seen-snacking-at-chinese-zoo-as-critics-doubt-shes-real/).
+You can read more about it [here](https://apnews.com/article/wisconsin-supreme-court-chief-accuses-liberals-c7a090415865145fb23239915af86458).
 
 ## Requirements
 - Python 3.8
