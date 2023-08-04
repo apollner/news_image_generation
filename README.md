@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The heaviest animal ever? Ancient whale found in Peru desert**
+**Comer Releases Devon Archer's Transcribed Interview Transcript - United States House Committee on Oversight and Accountability**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/heaviest-animal-ever-whale-peru-desert-rcna97912).
+You can read more about it [here](https://oversight.house.gov/release/comer-releases-devon-archers-transcribed-interview-transcript￼/).
 
 ## Requirements
 - Python 3.8
