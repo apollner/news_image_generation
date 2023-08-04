@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aura of invincibility gone, USWNT enters Sweden match as underdog**
+**Lizzo sued by three former dancers alleging harassment and hostile work environment**
 
-You can read more about it [here](https://www.foxsports.com/stories/soccer/aura-of-invincibility-gone-uswnt-enters-sweden-match-as-underdog).
+You can read more about it [here](https://www.cnn.com/2023/08/01/entertainment/lizzo-sued-by-dancers/index.html).
 
 ## Requirements
 - Python 3.8
