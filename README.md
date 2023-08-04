@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasury Yields Climb Past 4% as Equities Sell Off: Markets Wrap**
+**DeSantis-appointed Disney World district cuts diversity initiatives**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-fall-us-shares-223922238.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/03/florida-ron-desantis-disney-world-diversity-equity-inclusion-programs/70518285007/).
 
 ## Requirements
 - Python 3.8
