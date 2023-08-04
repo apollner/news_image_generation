@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump set to return to Washington for monumental court date – but a national catharsis is unlikely**
+**Treasury Yields Climb Past 4% as Equities Sell Off: Markets Wrap**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/trump-returns-to-washington-arraignment/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-fall-us-shares-223922238.html).
 
 ## Requirements
 - Python 3.8
