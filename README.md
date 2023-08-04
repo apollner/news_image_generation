@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden world eyes Cornel West and No Labels as potential obstacles for his reelection campaign**
+**The heaviest animal ever? Ancient whale found in Peru desert**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/03/third-party-candidates-trump-biden-00109541).
+You can read more about it [here](https://www.nbcnews.com/news/world/heaviest-animal-ever-whale-peru-desert-rcna97912).
 
 ## Requirements
 - Python 3.8
