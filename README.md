@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers strike reaches 3-month mark as talks set to resume**
+**No shooter, no injuries at US Capitol after 'bogus call,' police say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=LMbKcng6dP8).
+You can read more about it [here](https://www.reuters.com/world/us/active-shooter-reported-us-capitol-police-say-2023-08-02/).
 
 ## Requirements
 - Python 3.8
