@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Florida State sulks amid more college football realignment rumors, what should SEC do?**
+**Reese Witherspoon and Jim Toth Settle Their Divorce 4 Months After Announcing Breakup**
 
-You can read more about it [here](https://theathletic.com/4744579/2023/08/02/college-football-realignment-sec/).
+You can read more about it [here](https://www.eonline.com/news/1382090/reese-witherspoon-and-jim-toth-settle-their-divorce-4-months-after-announcing-breakup).
 
 ## Requirements
 - Python 3.8
