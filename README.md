@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victims’ families call Pittsburgh synagogue shooter ‘vile’ and ‘worthless’ ahead of formal death sentence**
+**Hackers manage to unlock Tesla software-locked features worth up to $15000**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/us/pittsburgh-synagogue-shooting-sentencing-victim-statements/index.html).
+You can read more about it [here](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/).
 
 ## Requirements
 - Python 3.8
