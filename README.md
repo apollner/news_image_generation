@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morocco advances and Germany exits in wild finale to the group stage at the Women's World Cup**
+**Fact check: The day after his indictment, Trump lies again about Pence’s powers on January 6**
 
-You can read more about it [here](https://apnews.com/article/womens-world-cup-upsets-germany-morocco-3abc5dc559729ba1d8fadb0644ac0d79).
+You can read more about it [here](https://www.cnn.com/2023/08/03/politics/fact-check-trump-pence-electoral-count-2022/index.html).
 
 ## Requirements
 - Python 3.8
