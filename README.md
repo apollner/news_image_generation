@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, August 3, 2023**
+**Niger coup leader defiant as Nigeria cuts power, ECOWAS threatens force**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/8/3/23806236/horoscopes-today-thursday-august-3-2023).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/3/niger-coup-leader-defiant-as-nigeria-cuts-power-ecowas-threatens-force).
 
 ## Requirements
 - Python 3.8
