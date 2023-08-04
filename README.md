@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No shooter, no injuries at US Capitol after 'bogus call,' police say**
+**Nintendo Powers to Record Profit on Zelda Debut, Mario Movie**
 
-You can read more about it [here](https://www.reuters.com/world/us/active-shooter-reported-us-capitol-police-say-2023-08-02/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-03/nintendo-powers-to-record-profit-after-blockbuster-zelda-debut).
 
 ## Requirements
 - Python 3.8
