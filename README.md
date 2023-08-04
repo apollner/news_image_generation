@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man accused of firing shots outside Jewish school in Tennessee charged with multiple crimes**
+**Biden world eyes Cornel West and No Labels as potential obstacles for his reelection campaign**
 
-You can read more about it [here](https://www.ctvnews.ca/world/man-accused-of-firing-shots-outside-jewish-school-in-tennessee-charged-with-multiple-crimes-1.6504951).
+You can read more about it [here](https://www.politico.com/news/2023/08/03/third-party-candidates-trump-biden-00109541).
 
 ## Requirements
 - Python 3.8
