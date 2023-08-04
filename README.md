@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozempic, Mounjaro manufacturers sued over claims of "stomach paralysis" side effects**
+**A Niger coup leader meets with Wagner-allied junta in Mali**
 
-You can read more about it [here](https://www.cbsnews.com/news/ozempic-mounjaro-lawsuit-gastroparesis-stomach-paralysis-side-effect/).
+You can read more about it [here](https://www.cnn.com/2023/08/02/africa/niger-coup-mali-wagner-intl-afr/index.html).
 
 ## Requirements
 - Python 3.8
