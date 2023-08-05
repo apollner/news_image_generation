@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 2 expelled members of the 'Tennessee 3' win back their state House seats**
+**Controversial influencer Andrew Tate released from house arrest in Romania**
 
-You can read more about it [here](https://www.npr.org/2023/08/04/1192068281/the-2-expelled-members-of-the-tennessee-3-win-back-their-state-house-seats).
+You can read more about it [here](https://www.cnn.com/2023/08/04/europe/andrew-tate-released-house-arrest-intl/index.html).
 
 ## Requirements
 - Python 3.8
