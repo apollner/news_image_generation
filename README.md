@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A body was found near a Rio Grande buoy that Texas installed**
+**Florida bans AP psychology over gender identity, sexual orientation lessons, College Board says**
 
-You can read more about it [here](https://apnews.com/article/rio-grande-mexico-texas-buoys-fdb59d6d39db90c5d2902dc7bcd1a960).
+You can read more about it [here](https://www.youtube.com/watch?v=JRCUaigjBTU).
 
 ## Requirements
 - Python 3.8
