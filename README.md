@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikola loss narrows as production of fuel-cell semitruck begins; company says CEO to step down**
+**A cyberattack has disrupted hospitals and health care in five states**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/04/nikola-nkla-q2-2023-earnings.html).
+You can read more about it [here](https://apnews.com/article/cyberattack-hospital-emergency-outage-4c808c1dad8686458ecbeababd08fecf).
 
 ## Requirements
 - Python 3.8
