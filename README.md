@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cardi B will not be charged related to microphone-throwing incident, police say**
+**Trump pleads not guilty of plotting to overturn election loss**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/entertainment/cardi-b-microphone-cleared/index.html).
+You can read more about it [here](https://www.reuters.com/legal/trump-appear-court-charges-that-he-tried-overturn-election-2023-08-03/).
 
 ## Requirements
 - Python 3.8
