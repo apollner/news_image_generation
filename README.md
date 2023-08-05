@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Baldur’s Gate 3’ Stuns With Nearly Half A Million Concurrent Steam Players**
+**Nikola loss narrows as production of fuel-cell semitruck begins; company says CEO to step down**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/08/04/baldurs-gate-3-stuns-with-nearly-half-a-million-concurrent-steam-players/).
+You can read more about it [here](https://www.cnbc.com/2023/08/04/nikola-nkla-q2-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
