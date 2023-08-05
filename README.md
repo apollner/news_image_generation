@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona to Big 12? Wildcats expected to soon follow Colorado in leaving Pac-12 for greener pastures**
+**Niger’s ousted president warns of ‘devastating’ coup impact, growing Russian influence**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/arizona-to-big-12-wildcats-expected-to-soon-follow-colorado-in-leaving-pac-12-for-greener-pastures/).
+You can read more about it [here](https://www.cnn.com/2023/08/04/africa/niger-president-mohamed-bazoum-hostage-oped-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
