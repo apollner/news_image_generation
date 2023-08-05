@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon stock rockets 11%, on pace for best day since November after blowout quarter**
+**Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/04/amazon-stock-on-pace-for-best-day-since-november-after-blowout-quarter.html).
+You can read more about it [here](https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/).
 
 ## Requirements
 - Python 3.8
