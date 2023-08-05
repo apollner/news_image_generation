@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A cyberattack has disrupted hospitals and health care in five states**
+**Jake Paul STRIPS down! Barely makes weight for Nate Diaz fight at weigh in!**
 
-You can read more about it [here](https://apnews.com/article/cyberattack-hospital-emergency-outage-4c808c1dad8686458ecbeababd08fecf).
+You can read more about it [here](https://www.youtube.com/watch?v=QvDHAf30glI).
 
 ## Requirements
 - Python 3.8
