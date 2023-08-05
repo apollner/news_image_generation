@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austrian leader proposes enshrining the use of cash in his country's constitution**
+**The 2 expelled members of the 'Tennessee 3' win back their state House seats**
 
-You can read more about it [here](https://apnews.com/article/austria-cash-constitution-proposal-e63078b1682b375a84d0132857374e43).
+You can read more about it [here](https://www.npr.org/2023/08/04/1192068281/the-2-expelled-members-of-the-tennessee-3-win-back-their-state-house-seats).
 
 ## Requirements
 - Python 3.8
