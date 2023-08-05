@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Friday, August 4, 2023**
+**Arizona to Big 12? Wildcats expected to soon follow Colorado in leaving Pac-12 for greener pastures**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/8/4/23806566/horoscopes-today-friday-august-4-2023).
+You can read more about it [here](https://www.cbssports.com/college-football/news/arizona-to-big-12-wildcats-expected-to-soon-follow-colorado-in-leaving-pac-12-for-greener-pastures/).
 
 ## Requirements
 - Python 3.8
