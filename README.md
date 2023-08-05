@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experts warn the U.S. lacks COVID resources as cases tick up again**
+**Every Goal of Group B | 2023 FIFA Women's World Cup**
 
-You can read more about it [here](https://www.axios.com/2023/08/04/covid-uptick-cases-hospitalization-future).
+You can read more about it [here](https://www.youtube.com/watch?v=wkfMRiYCQH8).
 
 ## Requirements
 - Python 3.8
