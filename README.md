@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger’s ousted president warns of ‘devastating’ coup impact, growing Russian influence**
+**A kidnapped woman punched her way out of a cinderblock cell. Police say she may have saved countless other victims**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/africa/niger-president-mohamed-bazoum-hostage-oped-intl-hnk/index.html).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/negasi-zuberi-klamath-falls-kidnapper-oregon-b2387437.html).
 
 ## Requirements
 - Python 3.8
