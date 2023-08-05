@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is tonight the night? Mega Millions jackpot reaches estimated $1.35 billion after months without a winner**
+**Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/us/mega-millions-jackpot-drawing-friday/index.html).
+You can read more about it [here](https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/).
 
 ## Requirements
 - Python 3.8
