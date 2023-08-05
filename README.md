@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of 2 Black men**
+**Apple's Tim Cook explains why he won't showboat around AI**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/us/mississippi-deputies-torture-black-men-charged/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/apples-tim-cook-explains-why-he-wont-showboat-around-ai-7f5fd073).
 
 ## Requirements
 - Python 3.8
