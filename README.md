@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida effectively bans AP Psychology course over LGBTQ content, College Board says**
+**Jake Paul vs. Nate Diaz & UFC Nashville Preview Show LIVE Stream | MMA Fighting**
 
-You can read more about it [here](https://www.nbcnews.com/nbc-out/out-news/florida-effectively-bans-ap-psychology-course-lgbtq-content-college-bo-rcna98036).
+You can read more about it [here](https://www.youtube.com/watch?v=OKrBmaRDzRc).
 
 ## Requirements
 - Python 3.8
