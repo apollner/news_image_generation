@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is FSU leaving the ACC? Expansion in the Big Ten? Discuss realignment with CFB experts**
+**6 former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of 2 Black men**
 
-You can read more about it [here](https://theathletic.com/4744533/2023/08/02/realignment-college-football-discussion/).
+You can read more about it [here](https://www.cnn.com/2023/08/03/us/mississippi-deputies-torture-black-men-charged/index.html).
 
 ## Requirements
 - Python 3.8
