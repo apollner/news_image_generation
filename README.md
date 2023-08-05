@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Strikes Could Impact Lavish Hollywood CEO Pay**
+**6 former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of 2 Black men**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/hollywood-ceo-pay-say-on-pay-shareholder-strikes-1235548591/).
+You can read more about it [here](https://www.cnn.com/2023/08/03/us/mississippi-deputies-torture-black-men-charged/index.html).
 
 ## Requirements
 - Python 3.8
