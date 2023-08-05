@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Army chief retires as Tuberville hold snarls the Pentagon's top ranks**
+**Florida effectively bans AP Psychology course over LGBTQ content, College Board says**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/04/tuberville-hold-as-james-mcconville-retires-00109833).
+You can read more about it [here](https://www.nbcnews.com/nbc-out/out-news/florida-effectively-bans-ap-psychology-course-lgbtq-content-college-bo-rcna98036).
 
 ## Requirements
 - Python 3.8
