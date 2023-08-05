@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Paul vs. Nate Diaz & UFC Nashville Preview Show LIVE Stream | MMA Fighting**
+**Amazon stock rockets 11%, on pace for best day since November after blowout quarter**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OKrBmaRDzRc).
+You can read more about it [here](https://www.cnbc.com/2023/08/04/amazon-stock-on-pace-for-best-day-since-november-after-blowout-quarter.html).
 
 ## Requirements
 - Python 3.8
