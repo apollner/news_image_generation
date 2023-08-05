@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine attacks Russian navy base near Novorossiysk**
+**Texas A&M reaches $1M settlement with Dr. Kathleen McElroy following botched hiring**
 
-You can read more about it [here](https://www.reuters.com/world/europe/blasts-gunfire-reported-near-russian-black-sea-port-novorossiysk-2023-08-04/).
+You can read more about it [here](https://www.youtube.com/watch?v=FsoophBOObE).
 
 ## Requirements
 - Python 3.8
