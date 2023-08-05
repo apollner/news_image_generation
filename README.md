@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump pleads not guilty to 2020 election charges at arraignment after arrest - live**
+**A body was found near a Rio Grande buoy that Texas installed**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-indictment-arrested-b2387395.html).
+You can read more about it [here](https://apnews.com/article/rio-grande-mexico-texas-buoys-fdb59d6d39db90c5d2902dc7bcd1a960).
 
 ## Requirements
 - Python 3.8
