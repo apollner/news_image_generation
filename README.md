@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump pleads not guilty of plotting to overturn election loss**
+**Apple revenues fall for third straight quarter as company invests heavily in AI**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-appear-court-charges-that-he-tried-overturn-election-2023-08-03/).
+You can read more about it [here](https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter).
 
 ## Requirements
 - Python 3.8
