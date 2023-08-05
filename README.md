@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger coup: Junta scraps military pacts with France – DW – 08/04/2023**
+**Two US Navy sailors arrested for allegedly sharing sensitive military information with China**
 
-You can read more about it [here](https://www.dw.com/en/niger-coup-junta-scraps-military-pacts-with-france/a-66435532).
+You can read more about it [here](https://www.cnn.com/2023/08/03/politics/navy-sailors-arrested-military-information-china/index.html).
 
 ## Requirements
 - Python 3.8
