@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Every Goal of Group B | 2023 FIFA Women's World Cup**
+**‘Baldur’s Gate 3’ Stuns With Nearly Half A Million Concurrent Steam Players**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wkfMRiYCQH8).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/08/04/baldurs-gate-3-stuns-with-nearly-half-a-million-concurrent-steam-players/).
 
 ## Requirements
 - Python 3.8
