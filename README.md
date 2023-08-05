@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists discover the highest-energy light coming from the sun**
+**Cardi B will not be charged related to microphone-throwing incident, police say**
 
-You can read more about it [here](https://phys.org/news/2023-08-scientists-highest-energy-sun.html).
+You can read more about it [here](https://www.cnn.com/2023/08/03/entertainment/cardi-b-microphone-cleared/index.html).
 
 ## Requirements
 - Python 3.8
