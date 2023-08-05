@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Controversial influencer Andrew Tate released from house arrest in Romania**
+**Second deadly TB outbreak linked to tainted bone grafts**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/europe/andrew-tate-released-house-arrest-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/04/tb-outbreak-tuberculosis-bone-graft/).
 
 ## Requirements
 - Python 3.8
