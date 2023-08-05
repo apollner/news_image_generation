@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple revenues fall for third straight quarter as company invests heavily in AI**
+**Amazon CEO Jassy's cost cuts deliver investors biggest profit beat since 2020**
 
-You can read more about it [here](https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter).
+You can read more about it [here](https://www.cnbc.com/2023/08/03/amazon-ceo-jassys-cost-cuts-produce-biggest-profit-beat-since-2020.html).
 
 ## Requirements
 - Python 3.8
