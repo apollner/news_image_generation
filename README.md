@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Paul STRIPS down! Barely makes weight for Nate Diaz fight at weigh in!**
+**Army chief retires as Tuberville hold snarls the Pentagon's top ranks**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QvDHAf30glI).
+You can read more about it [here](https://www.politico.com/news/2023/08/04/tuberville-hold-as-james-mcconville-retires-00109833).
 
 ## Requirements
 - Python 3.8
