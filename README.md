@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's Tim Cook explains why he won't showboat around AI**
+**Trump pleads not guilty to 2020 election charges at arraignment after arrest - live**
 
-You can read more about it [here](https://www.marketwatch.com/story/apples-tim-cook-explains-why-he-wont-showboat-around-ai-7f5fd073).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-indictment-arrested-b2387395.html).
 
 ## Requirements
 - Python 3.8
