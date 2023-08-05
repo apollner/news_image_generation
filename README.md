@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon CEO Jassy's cost cuts deliver investors biggest profit beat since 2020**
+**Niger coup: Junta scraps military pacts with France – DW – 08/04/2023**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/03/amazon-ceo-jassys-cost-cuts-produce-biggest-profit-beat-since-2020.html).
+You can read more about it [here](https://www.dw.com/en/niger-coup-junta-scraps-military-pacts-with-france/a-66435532).
 
 ## Requirements
 - Python 3.8
