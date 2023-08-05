@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of 2 Black men**
+**Apple revenues fall for third straight quarter as company invests heavily in AI**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/us/mississippi-deputies-torture-black-men-charged/index.html).
+You can read more about it [here](https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter).
 
 ## Requirements
 - Python 3.8
