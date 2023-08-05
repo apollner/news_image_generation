@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second deadly TB outbreak linked to tainted bone grafts**
+**Civil war blanketed Yemen in land mines. Children are paying the price. : Goats and Soda**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/08/04/tb-outbreak-tuberculosis-bone-graft/).
+You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/08/04/1190554437/at-yemeni-prosthetics-clinic-the-patients-keep-coming-even-though-the-war-has-sl).
 
 ## Requirements
 - Python 3.8
