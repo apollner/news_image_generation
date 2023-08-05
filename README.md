@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple revenues fall for third straight quarter as company invests heavily in AI**
+**Scientists discover the highest-energy light coming from the sun**
 
-You can read more about it [here](https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter).
+You can read more about it [here](https://phys.org/news/2023-08-scientists-highest-energy-sun.html).
 
 ## Requirements
 - Python 3.8
