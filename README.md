@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas A&M reaches $1M settlement with Dr. Kathleen McElroy following botched hiring**
+**Austrian leader proposes enshrining the use of cash in his country's constitution**
 
-You can read more about it [here](https://www.youtube.com/watch?v=FsoophBOObE).
+You can read more about it [here](https://apnews.com/article/austria-cash-constitution-proposal-e63078b1682b375a84d0132857374e43).
 
 ## Requirements
 - Python 3.8
