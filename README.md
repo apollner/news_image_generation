@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two US Navy sailors arrested for allegedly sharing sensitive military information with China**
+**Is FSU leaving the ACC? Expansion in the Big Ten? Discuss realignment with CFB experts**
 
-You can read more about it [here](https://www.cnn.com/2023/08/03/politics/navy-sailors-arrested-military-information-china/index.html).
+You can read more about it [here](https://theathletic.com/4744533/2023/08/02/realignment-college-football-discussion/).
 
 ## Requirements
 - Python 3.8
