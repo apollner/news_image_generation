@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Civil war blanketed Yemen in land mines. Children are paying the price. : Goats and Soda**
+**Experts warn the U.S. lacks COVID resources as cases tick up again**
 
-You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/08/04/1190554437/at-yemeni-prosthetics-clinic-the-patients-keep-coming-even-though-the-war-has-sl).
+You can read more about it [here](https://www.axios.com/2023/08/04/covid-uptick-cases-hospitalization-future).
 
 ## Requirements
 - Python 3.8
