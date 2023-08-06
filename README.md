@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYPD officers "attacked, crushed, pushed" during chaotic Union Square giveaway, officials say**
+**Voyager 2: NASA restores contact with spacecraft**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/union-square-kai-cenat-giveaway-police/).
+You can read more about it [here](https://www.dw.com/en/voyager-2-nasa-restores-contact-with-spacecraft/a-66446550).
 
 ## Requirements
 - Python 3.8
