@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mandel: Pac-12’s demise is story of 12 years of hubris, apathy, astounding mismanagement**
+**Imran Khan arrested after Pakistan court sentences ex-prime minister to three years in jail**
 
-You can read more about it [here](https://theathletic.com/4748641/2023/08/04/pac-12-oregon-washington-big-ten/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-arrest-former-pm-imran-khan-after-court-gives-three-year-prison-sentence-2023-08-05/).
 
 ## Requirements
 - Python 3.8
