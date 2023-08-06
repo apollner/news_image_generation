@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan**
+**Drake puts $250K bet on Nate Diaz to beat Jake Paul: ‘I can never bet against a Diaz brother’**
 
-You can read more about it [here](https://apnews.com/article/selfdriving-cars-taxi-robotaxis-cruise-waymo-b09b2ebd5d130d48154e5f4b27f6f358).
+You can read more about it [here](https://www.mmafighting.com/2023/8/5/23821024/drake-puts-250k-bet-on-nate-diaz-to-beat-jake-paul-i-can-never-bet-against-a-diaz-brother).
 
 ## Requirements
 - Python 3.8
