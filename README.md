@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gilgo Beach murders investigators identify "Fire Island Jane Doe" as Karen Vergata**
+**How to use Samsung Good Lock to run any app on the Galaxy Z Flip 5 cover screen**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/gilgo-beach-murders-investigators-identify-karen-vergata-as-victim/).
+You can read more about it [here](https://www.xda-developers.com/samsung-good-lock-run-any-app-galaxy-z-flip-5-cover-screen/).
 
 ## Requirements
 - Python 3.8
