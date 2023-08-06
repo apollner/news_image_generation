@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers Guild Tells Members “the AMPTP Playbook Continues” After Meeting With Studios**
+**5 universities announce departure from Pac-12 Conference on Friday, leaving its future in question**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-strike-union-studios-no-agreement-1235550508/).
+You can read more about it [here](https://www.cnn.com/2023/08/04/sport/oregon-washington-big-ten/index.html).
 
 ## Requirements
 - Python 3.8
