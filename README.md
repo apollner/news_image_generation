@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karen Vergata: Gilgo Beach murders police identify body found in 1996**
+**West African leaders make plan for military intervention in Niger**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66409054).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/4/west-african-leaders-make-plan-for-military-intervention-in-niger).
 
 ## Requirements
 - Python 3.8
