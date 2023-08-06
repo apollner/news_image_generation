@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine counter-offensive two months in: Can it still succeed?**
+**Gilgo Beach murders investigators identify "Fire Island Jane Doe" as Karen Vergata**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66383377).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/gilgo-beach-murders-investigators-identify-karen-vergata-as-victim/).
 
 ## Requirements
 - Python 3.8
