@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea presses on with World Scout Jamboree as heat forces thousands to leave early**
+**Pro Football Hall of Fame Class of 2024 eligible players include Antonio Gates, Julius Peppers and Andrew Luck**
 
-You can read more about it [here](https://apnews.com/article/south-korea-extreme-heat-scout-jamboree-b945eaf02d73d6b589ce4d099bf4ccb6).
+You can read more about it [here](https://sports.yahoo.com/pro-football-hall-of-fame-class-of-2024-eligible-players-include-antonio-gates-julius-peppers-and-andrew-luck-211901569.html).
 
 ## Requirements
 - Python 3.8
