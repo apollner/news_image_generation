@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imran Khan arrested after Pakistan court sentences ex-prime minister to three years in jail**
+**South Korea presses on with World Scout Jamboree as heat forces thousands to leave early**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-arrest-former-pm-imran-khan-after-court-gives-three-year-prison-sentence-2023-08-05/).
+You can read more about it [here](https://apnews.com/article/south-korea-extreme-heat-scout-jamboree-b945eaf02d73d6b589ce4d099bf4ccb6).
 
 ## Requirements
 - Python 3.8
