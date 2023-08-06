@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imran Khan arrested after Pakistan court sentences ex-prime minister to three years in jail**
+**Women's World Cup Day 17 recap: Spain and Japan notch easy wins to advance to the quarterfinals**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-arrest-former-pm-imran-khan-after-court-gives-three-year-prison-sentence-2023-08-05/).
+You can read more about it [here](https://sports.yahoo.com/womens-world-cup-day-17-recap-spain-and-japan-notch-easy-wins-to-advance-to-quarterfinals-101209190.html).
 
 ## Requirements
 - Python 3.8
