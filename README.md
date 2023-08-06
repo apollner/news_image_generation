@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to use Samsung Good Lock to run any app on the Galaxy Z Flip 5 cover screen**
+**NYPD officers "attacked, crushed, pushed" during chaotic Union Square giveaway, officials say**
 
-You can read more about it [here](https://www.xda-developers.com/samsung-good-lock-run-any-app-galaxy-z-flip-5-cover-screen/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/union-square-kai-cenat-giveaway-police/).
 
 ## Requirements
 - Python 3.8
