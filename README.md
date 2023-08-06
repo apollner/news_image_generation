@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro Football Hall of Fame Class of 2024 eligible players include Antonio Gates, Julius Peppers and Andrew Luck**
+**Ukrainian sea drone hits Russian tanker near Crimea Bridge, second such attack in 24 hours**
 
-You can read more about it [here](https://sports.yahoo.com/pro-football-hall-of-fame-class-of-2024-eligible-players-include-antonio-gates-julius-peppers-and-andrew-luck-211901569.html).
+You can read more about it [here](https://thehill.com/policy/international/4139049-ukrainian-sea-drone-hits-russian-tanker-near-crimea-bridge-second-such-attack-in-24-hours/).
 
 ## Requirements
 - Python 3.8
