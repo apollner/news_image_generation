@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine counter-offensive: Can it still succeed? - BBC News**
+**US approves postpartum depression pill**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9KNUwmOWC5I).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66414446).
 
 ## Requirements
 - Python 3.8
