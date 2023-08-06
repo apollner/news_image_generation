@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea presses on with heatwave-hit scout jamboree**
+**Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan**
 
-You can read more about it [here](https://www.youtube.com/watch?v=A6vG8vOfzUA).
+You can read more about it [here](https://apnews.com/article/selfdriving-cars-taxi-robotaxis-cruise-waymo-b09b2ebd5d130d48154e5f4b27f6f358).
 
 ## Requirements
 - Python 3.8
