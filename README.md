@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGA & AMPTP Talks Break Down With Strike to Continue Indefinitely**
+**South Korea presses on with heatwave-hit scout jamboree**
 
-You can read more about it [here](https://collider.com/wga-strike-amptp-talks-break-down/).
+You can read more about it [here](https://www.youtube.com/watch?v=A6vG8vOfzUA).
 
 ## Requirements
 - Python 3.8
