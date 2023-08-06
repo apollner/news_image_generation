@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**West African leaders make plan for military intervention in Niger**
+**Motorola Razr (2023) review: A midrange foldable that underwhelms**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/4/west-african-leaders-make-plan-for-military-intervention-in-niger).
+You can read more about it [here](https://www.engadget.com/motorola-razr-2023-review-a-midrange-foldable-that-underwhelms-190025514.html).
 
 ## Requirements
 - Python 3.8
