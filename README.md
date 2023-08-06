@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 new offshore wind power projects proposed for New Jersey Shore; 2 would be far out to sea**
+**Twitch streamer in custody after giveaway draws huge crowds to Union Square in New York City**
 
-You can read more about it [here](https://apnews.com/article/offshore-wind-new-jersey-ef06281bc44a0831decf6d0a72079c6e).
+You can read more about it [here](https://www.cnn.com/2023/08/04/us/kai-cenat-union-square-nyc-crowds/index.html).
 
 ## Requirements
 - Python 3.8
