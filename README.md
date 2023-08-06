@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger's junta rulers ask for help from Russian group Wagner as it faces military intervention threat**
+**Writers Guild Tells Members “the AMPTP Playbook Continues” After Meeting With Studios**
 
-You can read more about it [here](https://apnews.com/article/wagner-russia-coup-niger-military-force-e0e1108b58a9e955af465a3efe6605c0).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-strike-union-studios-no-agreement-1235550508/).
 
 ## Requirements
 - Python 3.8
