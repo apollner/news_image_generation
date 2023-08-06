@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**West African leaders make plan for military intervention in Niger**
+**Ukrainian official says drones hit a naval ship in a major Russian port**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/4/west-african-leaders-make-plan-for-military-intervention-in-niger).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-drones-black-sea-407a02ccfb2b1951c5afe9ec2269eed8).
 
 ## Requirements
 - Python 3.8
