@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 universities announce departure from Pac-12 Conference on Friday, leaving its future in question**
+**Baldur’s Gate 3’s Statement On Microtransactions Warms The Heart**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/sport/oregon-washington-big-ten/index.html).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/08/05/baldurs-gate-3s-statement-on-microtransactions-warms-the-heart/).
 
 ## Requirements
 - Python 3.8
