@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cavs PG Ricky Rubio to pause career, focus on mental health - ESPN**
+**WGA & AMPTP Talks Break Down With Strike to Continue Indefinitely**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38138955/cavs-pg-ricky-rubio-pause-career-focus-mental-health).
+You can read more about it [here](https://collider.com/wga-strike-amptp-talks-break-down/).
 
 ## Requirements
 - Python 3.8
