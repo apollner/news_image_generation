@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas judge halts state abortion bans in cases of ‘emergent medical conditions’ threatening pregnant patients**
+**Ukraine counter-offensive: Can it still succeed? - BBC News**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/us/texas-abortion-ban-suspended-pregnant-mother-risk/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=9KNUwmOWC5I).
 
 ## Requirements
 - Python 3.8
