@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake puts $250K bet on Nate Diaz to beat Jake Paul: ‘I can never bet against a Diaz brother’**
+**Imran Khan arrested after Pakistan court sentences ex-prime minister to three years in jail**
 
-You can read more about it [here](https://www.mmafighting.com/2023/8/5/23821024/drake-puts-250k-bet-on-nate-diaz-to-beat-jake-paul-i-can-never-bet-against-a-diaz-brother).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-arrest-former-pm-imran-khan-after-court-gives-three-year-prison-sentence-2023-08-05/).
 
 ## Requirements
 - Python 3.8
