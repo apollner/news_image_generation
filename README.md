@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Search for suspect underway after shooting leaves 2 Orlando officers in critical condition**
+**Cavs PG Ricky Rubio to pause career, focus on mental health - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/us/orlando-police-officers-shot/index.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38138955/cavs-pg-ricky-rubio-pause-career-focus-mental-health).
 
 ## Requirements
 - Python 3.8
