@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger coup: Decision time for West Africa as deadline nears**
+**Horoscope for Saturday, August 5, 2023**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66405253).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/5/23807616/horoscopes-today-saturday-august-5-2023).
 
 ## Requirements
 - Python 3.8
