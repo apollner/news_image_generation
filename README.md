@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Motorola Razr (2023) review: A midrange foldable that underwhelms**
+**4 new offshore wind power projects proposed for New Jersey Shore; 2 would be far out to sea**
 
-You can read more about it [here](https://www.engadget.com/motorola-razr-2023-review-a-midrange-foldable-that-underwhelms-190025514.html).
+You can read more about it [here](https://apnews.com/article/offshore-wind-new-jersey-ef06281bc44a0831decf6d0a72079c6e).
 
 ## Requirements
 - Python 3.8
