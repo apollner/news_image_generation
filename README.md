@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGA, AMPTP Meet But No New Negotiations Set Yet**
+**4 new offshore wind power projects proposed for New Jersey Shore; 2 would be far out to sea**
 
-You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-amptp-contract-talks-1235688117/).
+You can read more about it [here](https://apnews.com/article/offshore-wind-new-jersey-ef06281bc44a0831decf6d0a72079c6e).
 
 ## Requirements
 - Python 3.8
