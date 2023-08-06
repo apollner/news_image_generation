@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, August 5, 2023**
+**Texas judge halts state abortion bans in cases of ‘emergent medical conditions’ threatening pregnant patients**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/8/5/23807616/horoscopes-today-saturday-august-5-2023).
+You can read more about it [here](https://www.cnn.com/2023/08/05/us/texas-abortion-ban-suspended-pregnant-mother-risk/index.html).
 
 ## Requirements
 - Python 3.8
