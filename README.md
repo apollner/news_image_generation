@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves first postpartum depression drug, Zurzuvae**
+**Mega Millions jackpot rises to record $1.55 billion for Tuesday's drawing**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/).
+You can read more about it [here](https://abcnews.go.com/US/mega-millions-jackpot-climbs-125-billion-ahead-friday/story?id=102021285).
 
 ## Requirements
 - Python 3.8
