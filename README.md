@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winning numbers announced for massive Mega Millions jackpot**
+**Ukraine counter-offensive two months in: Can it still succeed?**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/us/mega-millions-jackpot-drawing-friday/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66383377).
 
 ## Requirements
 - Python 3.8
