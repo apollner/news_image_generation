@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Women's World Cup Day 17 recap: Spain and Japan notch easy wins to advance to the quarterfinals**
+**Search for suspect underway after shooting leaves 2 Orlando officers in critical condition**
 
-You can read more about it [here](https://sports.yahoo.com/womens-world-cup-day-17-recap-spain-and-japan-notch-easy-wins-to-advance-to-quarterfinals-101209190.html).
+You can read more about it [here](https://www.cnn.com/2023/08/05/us/orlando-police-officers-shot/index.html).
 
 ## Requirements
 - Python 3.8
