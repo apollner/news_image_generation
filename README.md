@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twitch streamer in custody after giveaway draws huge crowds to Union Square in New York City**
+**WGA, AMPTP Meet But No New Negotiations Set Yet**
 
-You can read more about it [here](https://www.cnn.com/2023/08/04/us/kai-cenat-union-square-nyc-crowds/index.html).
+You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-amptp-contract-talks-1235688117/).
 
 ## Requirements
 - Python 3.8
