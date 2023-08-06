@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voyager 2: NASA restores contact with spacecraft**
+**FDA approves first postpartum depression drug, Zurzuvae**
 
-You can read more about it [here](https://www.dw.com/en/voyager-2-nasa-restores-contact-with-spacecraft/a-66446550).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/04/fda-approves-postpartum-depression-drug-zurzuvae/).
 
 ## Requirements
 - Python 3.8
