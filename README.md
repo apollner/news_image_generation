@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 new offshore wind power projects proposed for New Jersey Shore; 2 would be far out to sea**
+**Future of AP Psychology classes in Florida remains uncertain - WPTV News**
 
-You can read more about it [here](https://apnews.com/article/offshore-wind-new-jersey-ef06281bc44a0831decf6d0a72079c6e).
+You can read more about it [here](https://www.youtube.com/watch?v=CNK1R6jGvi8).
 
 ## Requirements
 - Python 3.8
