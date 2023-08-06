@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US approves postpartum depression pill**
+**Niger's junta rulers ask for help from Russian group Wagner as it faces military intervention threat**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66414446).
+You can read more about it [here](https://apnews.com/article/wagner-russia-coup-niger-military-force-e0e1108b58a9e955af465a3efe6605c0).
 
 ## Requirements
 - Python 3.8
