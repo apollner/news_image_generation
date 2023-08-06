@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Future of AP Psychology classes in Florida remains uncertain - WPTV News**
+**Mark Margolis, who played drug kingpin in 'Breaking Bad,' dies at 83**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CNK1R6jGvi8).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2023/08/04/mark-margolis-salamanca-breaking-bad-better-call-saul-dead/).
 
 ## Requirements
 - Python 3.8
