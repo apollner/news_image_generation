@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscopes Today, August 5, 2023**
+**Mandel: Pac-12’s demise is story of 12 years of hubris, apathy, astounding mismanagement**
 
-You can read more about it [here](https://www.usatoday.com/story/life/horoscopes/2023/08/05/horoscopes-today/70523853007/).
+You can read more about it [here](https://theathletic.com/4748641/2023/08/04/pac-12-oregon-washington-big-ten/).
 
 ## Requirements
 - Python 3.8
