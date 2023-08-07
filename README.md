@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US knocked out of Women’s World Cup after penalty shootout loss to Sweden**
+**X will foot legal bills of users unfairly treated by employers for posting or liking content — Elon Musk**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/football/usa-sweden-womens-world-cup-2023-spt-intl/index.html).
+You can read more about it [here](https://cointelegraph.com/news/x-will-foot-legal-bills-of-users-unfairly-treated-by-employers-for-posting-or-liking-content-elon-musk).
 
 ## Requirements
 - Python 3.8
