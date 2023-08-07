@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From high office to high security prison for ex-Pakistani PM Imran Khan after court sentencing**
+**Pence Leaves Pro-Trump Hecklers With One Quick Message In Tense Parking Lot Exchange**
 
-You can read more about it [here](https://apnews.com/article/pakistan-imran-khan-attock-prison-arrest-0414d5c81ba974934a21101092265ae4).
+You can read more about it [here](https://www.huffpost.com/entry/mike-pence-trump-hecklers-new-hampshire_n_64cf19c3e4b0334ad275f052).
 
 ## Requirements
 - Python 3.8
