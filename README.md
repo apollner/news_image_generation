@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says U.S and German air defence systems 'highly effective'**
+**Adams suggests 'outside agitators' involved in NYC influencer Kai Cenat riot**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-new-burst-missile-drone-attacks-ukrainian-air-force-says-2023-08-06/).
+You can read more about it [here](https://www.foxnews.com/politics/adams-suggests-outside-agitators-involved-nyc-influencer-kai-cenat-riot-kids-cannot-raised-social-media).
 
 ## Requirements
 - Python 3.8
