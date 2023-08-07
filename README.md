@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to Automatically Delete Passcode Texts on Android and iOS**
+**From high office to high security prison for ex-Pakistani PM Imran Khan after court sentencing**
 
-You can read more about it [here](https://www.wired.com/story/how-to-automatically-delete-passcode-texts-android-ios/).
+You can read more about it [here](https://apnews.com/article/pakistan-imran-khan-attock-prison-arrest-0414d5c81ba974934a21101092265ae4).
 
 ## Requirements
 - Python 3.8
