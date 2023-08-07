@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan's former Prime Minister Imran Khan arrested after corruption conviction**
+**India's space mission Chandrayaan-3 enters Moon's orbit**
 
-You can read more about it [here](https://apnews.com/article/pakistan-imran-khan-convicted-e44842d4880c581ee093ff680a9a09d6).
+You can read more about it [here](https://www.dw.com/en/indias-space-mission-chandrayaan-3-enters-moons-orbit/a-66450517).
 
 ## Requirements
 - Python 3.8
