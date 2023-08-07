@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors ask judge to issue protective order after Trump post appearing to promise revenge**
+**Cabo Wabo 250 Extended Highlights from Michigan | NASCAR**
 
-You can read more about it [here](https://apnews.com/article/trump-election-capitol-riot-indictment-protective-order-71cd642e876c47fff4e1283c15f8ca01).
+You can read more about it [here](https://www.youtube.com/watch?v=mLRxyR4x5js).
 
 ## Requirements
 - Python 3.8
