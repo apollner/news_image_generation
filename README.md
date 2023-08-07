@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After 2 die of Legionnaires, Bay Area officials search for source**
+**Watch: First look of moon as captured by Chandrayaan-3**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/legionnaires-disease-deaths-bay-area-18281563.php).
+You can read more about it [here](https://www.tribuneindia.com/news/science-technology/watch-first-look-of-moon-as-captured-by-chandrayaan-3-532724).
 
 ## Requirements
 - Python 3.8
