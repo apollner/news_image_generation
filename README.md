@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosions hit road bridges between Crimea and occupied Ukraine**
+**Trump says he will seek a recusal, venue change in Jan. 6 case**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/europe/crimea-road-bridge-explosions-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/06/trump-venue-change-jan-6-case-00110006).
 
 ## Requirements
 - Python 3.8
