@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's space mission Chandrayaan-3 enters Moon's orbit**
+**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
 
-You can read more about it [here](https://www.dw.com/en/indias-space-mission-chandrayaan-3-enters-moons-orbit/a-66450517).
+You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
 
 ## Requirements
 - Python 3.8
