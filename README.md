@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Russia hits blood transfusion centre, says Zelensky**
+**I’m a laptop reviewer, and these are the only laptops creatives should buy in 2023**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66419331).
+You can read more about it [here](http://www.digitaltrends.com/computing/the-only-laptops-creators-should-buy/).
 
 ## Requirements
 - Python 3.8
