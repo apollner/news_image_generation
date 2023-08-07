@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan decries Russian nuclear threat on 78th Hiroshima bomb anniversary**
+**Explosions hit road bridges between Crimea and occupied Ukraine**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/06/hiroshima-nagasaki-anniversary-russia-ukraine/).
+You can read more about it [here](https://www.cnn.com/2023/08/06/europe/crimea-road-bridge-explosions-intl/index.html).
 
 ## Requirements
 - Python 3.8
