@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
+**Nigeria Senate cautions against Niger military intervention**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
+You can read more about it [here](https://www.dw.com/en/nigeria-senate-cautions-against-niger-military-intervention/a-66450388).
 
 ## Requirements
 - Python 3.8
