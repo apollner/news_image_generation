@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky voters weigh in on McConnell’s health scare**
+**Jake Paul-Nate Diaz live results and analysis - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/08/05/politics/mitch-mcconnell-fancy-farm/index.html).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/38134585/jake-paul-nate-diaz-live-boxing-results-analysis).
 
 ## Requirements
 - Python 3.8
