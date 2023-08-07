@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Paul-Nate Diaz live results and analysis - ESPN**
+**What To Know About Zuranolone—The First FDA-Approved Oral Pill For Postpartum Depression**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/38134585/jake-paul-nate-diaz-live-boxing-results-analysis).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2023/08/05/what-to-know-about-zuranolone-the-first-fda-approved-oral-pill-for-postpartum-depression/).
 
 ## Requirements
 - Python 3.8
