@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What To Know About Zuranolone—The First FDA-Approved Oral Pill For Postpartum Depression**
+**Anyone win Powerball for Saturday, Aug. 5, 2023, $124 million jackpot?**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2023/08/05/what-to-know-about-zuranolone-the-first-fda-approved-oral-pill-for-postpartum-depression/).
+You can read more about it [here](https://www.floridatoday.com/story/news/2023/08/05/powerball-numbers-saturday-august-2023-florida-lottery-winner-mega-millions/70537734007/).
 
 ## Requirements
 - Python 3.8
