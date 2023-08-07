@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: First look of moon as captured by Chandrayaan-3**
+**Ukraine says U.S and German air defence systems 'highly effective'**
 
-You can read more about it [here](https://www.tribuneindia.com/news/science-technology/watch-first-look-of-moon-as-captured-by-chandrayaan-3-532724).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-new-burst-missile-drone-attacks-ukrainian-air-force-says-2023-08-06/).
 
 ## Requirements
 - Python 3.8
