@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 30 killed, 67 injured after train derails in Pakistan**
+**How to Automatically Delete Passcode Texts on Android and iOS**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/asia/pakistan-train-derails-intl/index.html).
+You can read more about it [here](https://www.wired.com/story/how-to-automatically-delete-passcode-texts-android-ios/).
 
 ## Requirements
 - Python 3.8
