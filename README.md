@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I’m a laptop reviewer, and these are the only laptops creatives should buy in 2023**
+**"Hank the Tank," Lake Tahoe bear linked to at least 21 home invasions, has been captured**
 
-You can read more about it [here](http://www.digitaltrends.com/computing/the-only-laptops-creators-should-buy/).
+You can read more about it [here](https://www.cbsnews.com/news/hank-the-tank-bear-lake-tahoe-21-home-invasions-captured-california/).
 
 ## Requirements
 - Python 3.8
