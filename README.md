@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence Leaves Pro-Trump Hecklers With One Quick Message In Tense Parking Lot Exchange**
+**IN Focus: Pence responds to Trump indictment**
 
-You can read more about it [here](https://www.huffpost.com/entry/mike-pence-trump-hecklers-new-hampshire_n_64cf19c3e4b0334ad275f052).
+You can read more about it [here](https://www.youtube.com/watch?v=_vHPngAv6vY).
 
 ## Requirements
 - Python 3.8
