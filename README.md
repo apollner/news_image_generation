@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anyone win Powerball for Saturday, Aug. 5, 2023, $124 million jackpot?**
+**Legionnaires' disease deaths possibly linked to spa in Richmond**
 
-You can read more about it [here](https://www.floridatoday.com/story/news/2023/08/05/powerball-numbers-saturday-august-2023-florida-lottery-winner-mega-millions/70537734007/).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/legionnaires-disease-deaths-possibly-linked-to-spa-in-richmond-contra-costa-health-says/).
 
 ## Requirements
 - Python 3.8
