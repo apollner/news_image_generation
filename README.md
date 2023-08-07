@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippines and US accuse China of illegally targeting supply ships**
+**US voters say credit downgrade 'another straw in the haystack' in a 'downward spiral' economy**
 
-You can read more about it [here](https://www.ft.com/content/ade62991-09f9-492a-9b2c-778ca131e21b).
+You can read more about it [here](https://www.foxbusiness.com/economy/us-voters-rip-credit-downgrade-another-straw-haystack-downward-spiral-economy).
 
 ## Requirements
 - Python 3.8
