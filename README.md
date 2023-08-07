@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
+**Riley Keough, Elvis Presley's granddaughter, named sole trustee of Lisa Marie Presley estate, owner of Graceland**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
+You can read more about it [here](https://abc7.com/riley-keough-lisa-marie-presley-estate-elvis/13605032/).
 
 ## Requirements
 - Python 3.8
