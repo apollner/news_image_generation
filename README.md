@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan**
+**Mega Millions jackpot jumps to an estimated $1.55 billion, the third-largest in lottery history**
 
-You can read more about it [here](https://apnews.com/article/selfdriving-cars-taxi-robotaxis-cruise-waymo-b09b2ebd5d130d48154e5f4b27f6f358).
+You can read more about it [here](https://www.cbsnews.com/news/mega-millions-jackpot-one-point-five-five-billion-dollars/).
 
 ## Requirements
 - Python 3.8
