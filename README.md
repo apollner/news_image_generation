@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Riley Keough, Elvis Presley's granddaughter, named sole trustee of Lisa Marie Presley estate, owner of Graceland**
+**Health officials warn of rise in Valley Fever infections across California**
 
-You can read more about it [here](https://abc7.com/riley-keough-lisa-marie-presley-estate-elvis/13605032/).
+You can read more about it [here](https://www.nbclosangeles.com/news/health-wellness/health-officials-warn-of-rise-in-valley-fever-infections-across-california/3200352/).
 
 ## Requirements
 - Python 3.8
