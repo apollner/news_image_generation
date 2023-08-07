@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X will foot legal bills of users unfairly treated by employers for posting or liking content — Elon Musk**
+**At least 30 killed, 67 injured after train derails in Pakistan**
 
-You can read more about it [here](https://cointelegraph.com/news/x-will-foot-legal-bills-of-users-unfairly-treated-by-employers-for-posting-or-liking-content-elon-musk).
+You can read more about it [here](https://www.cnn.com/2023/08/06/asia/pakistan-train-derails-intl/index.html).
 
 ## Requirements
 - Python 3.8
