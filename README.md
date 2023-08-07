@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US voters say credit downgrade 'another straw in the haystack' in a 'downward spiral' economy**
+**Guardians' Jose Ramirez Discusses Cause of Fight With White Sox's Tim Anderson**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/us-voters-rip-credit-downgrade-another-straw-haystack-downward-spiral-economy).
+You can read more about it [here](https://bleacherreport.com/articles/10085254-guardians-jose-ramirez-discusses-cause-of-fight-with-white-soxs-tim-anderson).
 
 ## Requirements
 - Python 3.8
