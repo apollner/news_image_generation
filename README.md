@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 3 killed in shooting on D.C. street**
+**Kai Cenat: Police charge Twitch streamer after PS5 giveaway mayhem**
 
-You can read more about it [here](https://www.cbsnews.com/news/several-killed-shooting-washington-d-c-street-southeast/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66416366).
 
 ## Requirements
 - Python 3.8
