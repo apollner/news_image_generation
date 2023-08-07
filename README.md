@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Hank the Tank," Lake Tahoe bear linked to at least 21 home invasions, has been captured**
+**Jake Paul vs. Nate Diaz results, highlights: 'The Problem Child' scores knockdown, earns decision win**
 
-You can read more about it [here](https://www.cbsnews.com/news/hank-the-tank-bear-lake-tahoe-21-home-invasions-captured-california/).
+You can read more about it [here](https://www.cbssports.com/boxing/news/jake-paul-vs-nate-diaz-results-highlights-the-problem-child-scores-knockdown-earns-decision-win/live/).
 
 ## Requirements
 - Python 3.8
