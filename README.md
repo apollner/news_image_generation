@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions jackpot jumps to an estimated $1.55 billion, the third-largest in lottery history**
+**Kentucky voters weigh in on McConnell’s health scare**
 
-You can read more about it [here](https://www.cbsnews.com/news/mega-millions-jackpot-one-point-five-five-billion-dollars/).
+You can read more about it [here](https://www.cnn.com/2023/08/05/politics/mitch-mcconnell-fancy-farm/index.html).
 
 ## Requirements
 - Python 3.8
