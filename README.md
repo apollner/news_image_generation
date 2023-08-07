@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kai Cenat: Police charge Twitch streamer after PS5 giveaway mayhem**
+**Philippines and US accuse China of illegally targeting supply ships**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66416366).
+You can read more about it [here](https://www.ft.com/content/ade62991-09f9-492a-9b2c-778ca131e21b).
 
 ## Requirements
 - Python 3.8
