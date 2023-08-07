@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials warn of rise in Valley Fever infections across California**
+**Angus Cloud Mother rules out suicide, believes he had an accidental overdose**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/health-wellness/health-officials-warn-of-rise-in-valley-fever-infections-across-california/3200352/).
+You can read more about it [here](https://www.marca.com/en/lifestyle/celebrities/2023/08/06/64cf1e61e2704ec8978b45f5.html).
 
 ## Requirements
 - Python 3.8
