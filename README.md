@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angus Cloud Mother rules out suicide, believes he had an accidental overdose**
+**At least 3 killed in shooting on D.C. street**
 
-You can read more about it [here](https://www.marca.com/en/lifestyle/celebrities/2023/08/06/64cf1e61e2704ec8978b45f5.html).
+You can read more about it [here](https://www.cbsnews.com/news/several-killed-shooting-washington-d-c-street-southeast/).
 
 ## Requirements
 - Python 3.8
