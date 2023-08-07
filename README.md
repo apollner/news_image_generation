@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Guardians' Jose Ramirez Discusses Cause of Fight With White Sox's Tim Anderson**
+**US knocked out of Women’s World Cup after penalty shootout loss to Sweden**
 
-You can read more about it [here](https://bleacherreport.com/articles/10085254-guardians-jose-ramirez-discusses-cause-of-fight-with-white-soxs-tim-anderson).
+You can read more about it [here](https://www.cnn.com/2023/08/05/football/usa-sweden-womens-world-cup-2023-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
