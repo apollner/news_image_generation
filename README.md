@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Paul vs. Nate Diaz results, highlights: 'The Problem Child' scores knockdown, earns decision win**
+**Japan decries Russian nuclear threat on 78th Hiroshima bomb anniversary**
 
-You can read more about it [here](https://www.cbssports.com/boxing/news/jake-paul-vs-nate-diaz-results-highlights-the-problem-child-scores-knockdown-earns-decision-win/live/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/06/hiroshima-nagasaki-anniversary-russia-ukraine/).
 
 ## Requirements
 - Python 3.8
