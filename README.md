@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adams suggests 'outside agitators' involved in NYC influencer Kai Cenat riot**
+**Pence says he’ll ‘comply with the law’ if called to testify in Trump 2020 election trial**
 
-You can read more about it [here](https://www.foxnews.com/politics/adams-suggests-outside-agitators-involved-nyc-influencer-kai-cenat-riot-kids-cannot-raised-social-media).
+You can read more about it [here](https://www.cnn.com/2023/08/06/politics/pence-trump-january-6-trial-cnntv/index.html).
 
 ## Requirements
 - Python 3.8
