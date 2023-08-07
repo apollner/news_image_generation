@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence says he’ll ‘comply with the law’ if called to testify in Trump 2020 election trial**
+**Mark Zuckerberg Calls Out Elon Musk Over Not Replying About Cage Fight Battle Date**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/politics/pence-trump-january-6-trial-cnntv/index.html).
+You can read more about it [here](https://www.thedailybeast.com/musk-wants-to-livestream-his-cage-fight-with-zuckerberg-on-x).
 
 ## Requirements
 - Python 3.8
