@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he will seek a recusal, venue change in Jan. 6 case**
+**What To Do After Market Skids; 5 Stocks Near Buy Points**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/06/trump-venue-change-jan-6-case-00110006).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-as-market-rally-skids-5-stocks-near-buy-points/).
 
 ## Requirements
 - Python 3.8
