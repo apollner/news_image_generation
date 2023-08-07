@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legionnaires' disease deaths possibly linked to spa in Richmond**
+**Missing Mexican woman Maria Fernanda Sanchez found dead in Germany**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/legionnaires-disease-deaths-possibly-linked-to-spa-in-richmond-contra-costa-health-says/).
+You can read more about it [here](https://www.reuters.com/world/missing-mexican-woman-found-dead-germany-2023-08-05/).
 
 ## Requirements
 - Python 3.8
