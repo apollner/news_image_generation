@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian sea drone hits Russian tanker near Crimea Bridge, second such attack in 24 hours**
+**Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan**
 
-You can read more about it [here](https://thehill.com/policy/international/4139049-ukrainian-sea-drone-hits-russian-tanker-near-crimea-bridge-second-such-attack-in-24-hours/).
+You can read more about it [here](https://apnews.com/article/selfdriving-cars-taxi-robotaxis-cruise-waymo-b09b2ebd5d130d48154e5f4b27f6f358).
 
 ## Requirements
 - Python 3.8
