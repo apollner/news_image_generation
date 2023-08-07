@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What To Do After Market Skids; 5 Stocks Near Buy Points**
+**After 2 die of Legionnaires, Bay Area officials search for source**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-as-market-rally-skids-5-stocks-near-buy-points/).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/legionnaires-disease-deaths-bay-area-18281563.php).
 
 ## Requirements
 - Python 3.8
