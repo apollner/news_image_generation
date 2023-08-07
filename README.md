@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cabo Wabo 250 Extended Highlights from Michigan | NASCAR**
+**Pakistan's former Prime Minister Imran Khan arrested after corruption conviction**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mLRxyR4x5js).
+You can read more about it [here](https://apnews.com/article/pakistan-imran-khan-convicted-e44842d4880c581ee093ff680a9a09d6).
 
 ## Requirements
 - Python 3.8
