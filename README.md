@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firefighting helicopter crashes while battling brush fire in Riverside County**
+**Rumor Roundup: Brock Lesnar plan, WWE creative issue, Roman Reigns’ title reign, more!**
 
-You can read more about it [here](https://abc7.com/helicopter-crash-riverside-county-broadway-fire-chopper-collision/13610287/).
+You can read more about it [here](https://www.cagesideseats.com/2023/8/7/23822326/rumor-roundup-aug-7-2023-brock-lesnar-plan-wwe-creative-issue-roman-reigns-title-reign).
 
 ## Requirements
 - Python 3.8
