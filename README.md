@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 3 dead in bus crash on Pennsylvania interstate, authorities say**
+**iPhone 15 Pro Models to Come With 2TB Storage Option, Claims Rumor**
 
-You can read more about it [here](https://www.cbsnews.com/news/bus-crash-multiple-passengers-dead-pennsylvania-interstate/).
+You can read more about it [here](https://www.macrumors.com/2023/08/07/iphone-15-pro-2tb-storage-option/).
 
 ## Requirements
 - Python 3.8
