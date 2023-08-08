@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: SpaceX set for Sunday night Starlink launch from Florida**
+**Beyoncé in D.C.: FedEx Field Issues Shelter-in-Place Order Due to Severe Weather**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/08/06/live-updates-spacex-set-for-sunday-night-starlink-launch-from-florida/70539918007/).
+You can read more about it [here](https://www.billboard.com/music/music-news/beyonce-dc-concert-fed-ex-field-weather-shelter-in-place-1235385912/).
 
 ## Requirements
 - Python 3.8
