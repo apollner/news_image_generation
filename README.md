@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palantir announces $1 billion buyback program as earnings meet expectations**
+**Trump and his new lawyer are not on the same page about judge's recusal**
 
-You can read more about it [here](https://www.marketwatch.com/story/palantir-announces-1-billion-buyback-program-as-earnings-meet-expectations-b0844f10).
+You can read more about it [here](https://www.politico.com/news/2023/08/07/trump-lawyer-judge-recusal-00110103).
 
 ## Requirements
 - Python 3.8
