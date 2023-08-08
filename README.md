@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump taunts defeated U.S. women's national team**
+**Crew-7 Countdown: NASA and SpaceX Set New Launch Date**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/07/trump-us-womens-soccer-team-00110074).
+You can read more about it [here](https://scitechdaily.com/crew-7-countdown-nasa-and-spacex-set-new-launch-date/).
 
 ## Requirements
 - Python 3.8
