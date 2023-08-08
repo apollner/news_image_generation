@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and his new lawyer are not on the same page about judge's recusal**
+**Trump attacks prosecutors' efforts at protective order in Jan. 6 case**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/07/trump-lawyer-judge-recusal-00110103).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/07/trump-attacks-protective-order-jan-6-case/70544426007/).
 
 ## Requirements
 - Python 3.8
