@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's AI-powered Bing Chat is coming to mobile browsers**
+**Sandra Bullock's Longtime Partner Bryan Randall Dead at 57 - E! Online**
 
-You can read more about it [here](https://www.theverge.com/2023/8/7/23822773/microsoft-bing-ai-chat-mobile-browsers-google-chrome-safari).
+You can read more about it [here](https://www.eonline.com/news/1382097/sandra-bullocks-longtime-partner-bryan-randall-dead-at-57).
 
 ## Requirements
 - Python 3.8
