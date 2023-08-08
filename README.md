@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White mother claims Southwest Airlines thought she was trafficking when traveling with her Black daughter, according to lawsuit**
+**Mortal Kombat 1 Adds Reptile, Ashrah, and Havik as New Fighters at EVO 2023**
 
-You can read more about it [here](https://www.cnn.com/2023/08/06/us/southwest-airlines-lawsuit-trafficking-accusation/index.html).
+You can read more about it [here](https://www.ign.com/articles/mortal-kombat-1-adds-reptile-ashrah-and-havik-as-new-fighters-at-evo-2023).
 
 ## Requirements
 - Python 3.8
