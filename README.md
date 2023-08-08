@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro Models to Come With 2TB Storage Option, Claims Rumor**
+**Musk teases MMA fight but also says he needs surgery; Zuckerberg says, 'I'm ready'**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/07/iphone-15-pro-2tb-storage-option/).
+You can read more about it [here](https://www.nbcnews.com/tech/tech-news/musk-says-mma-fight-will-streamed-x-zuckerberg-says-ready-rcna98452).
 
 ## Requirements
 - Python 3.8
