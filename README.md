@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sage Stock Sinks After FDA Decision on Depression Drug**
+**After heatwave, looming typhoon forces scouts to evacuate South Korea campsite**
 
-You can read more about it [here](https://www.barrons.com/articles/sage-therapeutics-fda-depression-drug-d84f6bcf).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/south-koreas-heatwave-hit-scout-jamboree-bracing-typhoon-2023-08-07/).
 
 ## Requirements
 - Python 3.8
