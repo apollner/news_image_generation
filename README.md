@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As the East Coast braces for severe thunderstorms, record heat sears the South**
+**Palantir announces $1 billion buyback program as earnings meet expectations**
 
-You can read more about it [here](https://www.npr.org/2023/08/07/1192491352/east-coast-severe-thunderstorms-record-heat-south).
+You can read more about it [here](https://www.marketwatch.com/story/palantir-announces-1-billion-buyback-program-as-earnings-meet-expectations-b0844f10).
 
 ## Requirements
 - Python 3.8
