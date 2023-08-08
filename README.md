@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg says he’s 'ready today' for fight against Elon Musk: ‘Not holding my breath’**
+**Live updates: SpaceX set for Sunday night Starlink launch from Florida**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/mark-zuckerberg-ready-today-fight-elon-musk-not-holding-my-breath).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/08/06/live-updates-spacex-set-for-sunday-night-starlink-launch-from-florida/70539918007/).
 
 ## Requirements
 - Python 3.8
