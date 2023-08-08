@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ne-Yo Apologizes for Comments on Parenting and Gender Identity: ‘I Plan to Better Educate Myself on the Topic’**
+**'Of course he lost': Ron DeSantis rejects Trump's 2020 election claims**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/ne-yo-apology-gender-identity-comments-1235385934/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/ron-desantis-of-course-trump-lost-2020-election-rcna98200).
 
 ## Requirements
 - Python 3.8
