@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approved first pill for postpartum depression**
+**‘Exorcist’ Star Ellen Burstyn, Jason Blum Remember William Friedkin: “Undoubtedly a Genius”**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3T5krnsSETY).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/william-friedkin-remembered-exorcist-ellen-burstyn-1235558010/).
 
 ## Requirements
 - Python 3.8
