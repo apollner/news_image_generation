@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Street Fighter 6 DLC character A.K.I. and Teenage Mutant Ninja Turtles collaboration announced**
+**'Bachelorette' Alum Kaitlyn Bristowe and Jason Tartick Split After More Than 4 Years**
 
-You can read more about it [here](https://www.gematsu.com/2023/08/street-fighter-6-dlc-character-aki-and-teenage-mutant-ninja-turtles-collaboration-announced).
+You can read more about it [here](https://www.etonline.com/bachelorette-alum-kaitlyn-bristowe-and-jason-tartick-split-after-more-than-4-years-209205).
 
 ## Requirements
 - Python 3.8
