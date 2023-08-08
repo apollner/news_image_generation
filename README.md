@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crew-7 Countdown: NASA and SpaceX Set New Launch Date**
+**Sage Stock Sinks After FDA Decision on Depression Drug**
 
-You can read more about it [here](https://scitechdaily.com/crew-7-countdown-nasa-and-spacex-set-new-launch-date/).
+You can read more about it [here](https://www.barrons.com/articles/sage-therapeutics-fda-depression-drug-d84f6bcf).
 
 ## Requirements
 - Python 3.8
