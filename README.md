@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Bachelorette' Alum Kaitlyn Bristowe and Jason Tartick Split After More Than 4 Years**
+**White mother claims Southwest Airlines thought she was trafficking when traveling with her Black daughter, according to lawsuit**
 
-You can read more about it [here](https://www.etonline.com/bachelorette-alum-kaitlyn-bristowe-and-jason-tartick-split-after-more-than-4-years-209205).
+You can read more about it [here](https://www.cnn.com/2023/08/06/us/southwest-airlines-lawsuit-trafficking-accusation/index.html).
 
 ## Requirements
 - Python 3.8
