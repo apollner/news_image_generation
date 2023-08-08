@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sage Stock Sinks After FDA Decision on Depression Drug**
+**'Bachelor' stars Kaitlyn Bristowe, Jason Tartick split after 4 years**
 
-You can read more about it [here](https://www.barrons.com/articles/sage-therapeutics-fda-depression-drug-d84f6bcf).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/07/bachelor-kaitlyn-bristowe-jason-tartick-split-end-engagement/70540941007/).
 
 ## Requirements
 - Python 3.8
