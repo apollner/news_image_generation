@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palantir raises annual revenue forecast on 'unprecedented demand' for AI platform**
+**FDA approved first pill for postpartum depression**
 
-You can read more about it [here](https://www.reuters.com/technology/palantir-raises-annual-revenue-forecast-unprecedented-demand-ai-platform-2023-08-07/).
+You can read more about it [here](https://www.youtube.com/watch?v=3T5krnsSETY).
 
 ## Requirements
 - Python 3.8
