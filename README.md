@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FC Dallas 4-4 Inter Miami CF (Aug 6, 2023) Game Analysis**
+**Pope Francis Says Catholic Church Open To LGBT People But...**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/685175).
+You can read more about it [here](https://www.ndtv.com/world-news/pope-francis-says-catholic-church-open-to-lgbt-people-but-4275168).
 
 ## Requirements
 - Python 3.8
