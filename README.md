@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump attacks prosecutors' efforts at protective order in Jan. 6 case**
+**Tim Anderson suspended 6 games for fight, Jose Ramirez out 3 - ESPN**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/07/trump-attacks-protective-order-jan-6-case/70544426007/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38151902/tim-anderson-suspended-6-games-fight-jose-ramirez-3).
 
 ## Requirements
 - Python 3.8
