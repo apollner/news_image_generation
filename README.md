@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg Calls Out Elon Musk Over Not Replying About Cage Fight Battle Date**
+**Weather iffy for SpaceX's Starlink launch**
 
-You can read more about it [here](https://www.thedailybeast.com/musk-wants-to-livestream-his-cage-fight-with-zuckerberg-on-x).
+You can read more about it [here](https://www.mynews13.com/fl/orlando/space/2023/08/06/spacex-starlink-6-8).
 
 ## Requirements
 - Python 3.8
