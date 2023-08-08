@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
+**Sage Stock Sinks After FDA Decision on Depression Drug**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
+You can read more about it [here](https://www.barrons.com/articles/sage-therapeutics-fda-depression-drug-d84f6bcf).
 
 ## Requirements
 - Python 3.8
