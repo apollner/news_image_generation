@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Of course he lost': Ron DeSantis rejects Trump's 2020 election claims**
+**Glacier basin flooding destroys two structures in Alaskan capital of Juneau and prompts local emergency declaration**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/ron-desantis-of-course-trump-lost-2020-election-rcna98200).
+You can read more about it [here](https://www.cnn.com/2023/08/07/us/alaska-flooding-mendenhall-river-glacier/index.html).
 
 ## Requirements
 - Python 3.8
