@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Anderson suspended 6 games for fight, Jose Ramirez out 3 - ESPN**
+**Palantir raises annual revenue forecast on 'unprecedented demand' for AI platform**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38151902/tim-anderson-suspended-6-games-fight-jose-ramirez-3).
+You can read more about it [here](https://www.reuters.com/technology/palantir-raises-annual-revenue-forecast-unprecedented-demand-ai-platform-2023-08-07/).
 
 ## Requirements
 - Python 3.8
