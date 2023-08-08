@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortal Kombat 1 Adds Reptile, Ashrah, and Havik as New Fighters at EVO 2023**
+**Michigan lottery player wins $2M in Mega Millions drawing**
 
-You can read more about it [here](https://www.ign.com/articles/mortal-kombat-1-adds-reptile-ashrah-and-havik-as-new-fighters-at-evo-2023).
+You can read more about it [here](https://www.woodtv.com/news/michigan/michigan-lottery-player-wins-2m-in-mega-millions-drawing/).
 
 ## Requirements
 - Python 3.8
