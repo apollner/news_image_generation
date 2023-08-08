@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis Says Catholic Church Open To LGBT People But...**
+**Firefighting helicopter crashes while battling brush fire in Riverside County**
 
-You can read more about it [here](https://www.ndtv.com/world-news/pope-francis-says-catholic-church-open-to-lgbt-people-but-4275168).
+You can read more about it [here](https://abc7.com/helicopter-crash-riverside-county-broadway-fire-chopper-collision/13610287/).
 
 ## Requirements
 - Python 3.8
