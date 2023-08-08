@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firefighting helicopter crashes while battling brush fire in Riverside County**
+**Niger closes airspace as ECOWAS deadline for coup reversal expires**
 
-You can read more about it [here](https://abc7.com/helicopter-crash-riverside-county-broadway-fire-chopper-collision/13610287/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/7/niger-closes-airspace-as-ecowas-deadline-for-coup-reversal-expires).
 
 ## Requirements
 - Python 3.8
