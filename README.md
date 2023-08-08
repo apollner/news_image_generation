@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortal Kombat 1 Official Reptile, Ashrah, and Havik Reveal Trailer**
+**Street Fighter 6 DLC character A.K.I. and Teenage Mutant Ninja Turtles collaboration announced**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Iv9fx084WnQ).
+You can read more about it [here](https://www.gematsu.com/2023/08/street-fighter-6-dlc-character-aki-and-teenage-mutant-ninja-turtles-collaboration-announced).
 
 ## Requirements
 - Python 3.8
