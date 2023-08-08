@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk teases MMA fight but also says he needs surgery; Zuckerberg says, 'I'm ready'**
+**White Sox's Tim Anderson and Guardians' José Ramírez trade punches during brawl at Progressive Field**
 
-You can read more about it [here](https://www.nbcnews.com/tech/tech-news/musk-says-mma-fight-will-streamed-x-zuckerberg-says-ready-rcna98452).
+You can read more about it [here](https://www.cbssports.com/mlb/news/white-soxs-tim-anderson-and-guardians-jose-ramirez-trade-punches-during-brawl-at-progressive-field/).
 
 ## Requirements
 - Python 3.8
