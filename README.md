@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barbie movie tops $1bn in global box office ticket sales, breaking record for female directors**
+**Mortal Kombat 1 Official Reptile, Ashrah, and Havik Reveal Trailer**
 
-You can read more about it [here](https://www.theguardian.com/film/2023/aug/07/barbie-movie-tops-1bn-in-global-box-office-ticket-sales-breaking-record-for-female-directors).
+You can read more about it [here](https://www.youtube.com/watch?v=Iv9fx084WnQ).
 
 ## Requirements
 - Python 3.8
