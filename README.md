@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After heatwave, looming typhoon forces scouts to evacuate South Korea campsite**
+**Trump taunts defeated U.S. women's national team**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/south-koreas-heatwave-hit-scout-jamboree-bracing-typhoon-2023-08-07/).
+You can read more about it [here](https://www.politico.com/news/2023/08/07/trump-us-womens-soccer-team-00110074).
 
 ## Requirements
 - Python 3.8
