@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumor Roundup: Brock Lesnar plan, WWE creative issue, Roman Reigns’ title reign, more!**
+**Ne-Yo Apologizes for Comments on Parenting and Gender Identity: ‘I Plan to Better Educate Myself on the Topic’**
 
-You can read more about it [here](https://www.cagesideseats.com/2023/8/7/23822326/rumor-roundup-aug-7-2023-brock-lesnar-plan-wwe-creative-issue-roman-reigns-title-reign).
+You can read more about it [here](https://www.billboard.com/music/music-news/ne-yo-apology-gender-identity-comments-1235385934/).
 
 ## Requirements
 - Python 3.8
