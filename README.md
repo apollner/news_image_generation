@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan lottery player wins $2M in Mega Millions drawing**
+**FC Dallas 4-4 Inter Miami CF (Aug 6, 2023) Game Analysis**
 
-You can read more about it [here](https://www.woodtv.com/news/michigan/michigan-lottery-player-wins-2m-in-mega-millions-drawing/).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/685175).
 
 ## Requirements
 - Python 3.8
