@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sandra Bullock's Longtime Partner Bryan Randall Dead at 57 - E! Online**
+**As the East Coast braces for severe thunderstorms, record heat sears the South**
 
-You can read more about it [here](https://www.eonline.com/news/1382097/sandra-bullocks-longtime-partner-bryan-randall-dead-at-57).
+You can read more about it [here](https://www.npr.org/2023/08/07/1192491352/east-coast-severe-thunderstorms-record-heat-south).
 
 ## Requirements
 - Python 3.8
