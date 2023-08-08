@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sage Stock Sinks After FDA Decision on Depression Drug**
+**Gisele Bündchen Says She's “Recharged and Inspired” After Solo Trip to Brazil**
 
-You can read more about it [here](https://www.barrons.com/articles/sage-therapeutics-fda-depression-drug-d84f6bcf).
+You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a44750779/gisele-bundchen-recharged-solo-trip-brazil-photos/).
 
 ## Requirements
 - Python 3.8
