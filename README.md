@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Glacier basin flooding destroys two structures in Alaskan capital of Juneau and prompts local emergency declaration**
+**At least 3 dead in bus crash on Pennsylvania interstate, authorities say**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/us/alaska-flooding-mendenhall-river-glacier/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/bus-crash-multiple-passengers-dead-pennsylvania-interstate/).
 
 ## Requirements
 - Python 3.8
