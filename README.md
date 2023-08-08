@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gisele Bündchen Says She's “Recharged and Inspired” After Solo Trip to Brazil**
+**Microsoft's AI-powered Bing Chat is coming to mobile browsers**
 
-You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a44750779/gisele-bundchen-recharged-solo-trip-brazil-photos/).
+You can read more about it [here](https://www.theverge.com/2023/8/7/23822773/microsoft-bing-ai-chat-mobile-browsers-google-chrome-safari).
 
 ## Requirements
 - Python 3.8
