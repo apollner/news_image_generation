@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyoncé in D.C.: FedEx Field Issues Shelter-in-Place Order Due to Severe Weather**
+**Barbie movie tops $1bn in global box office ticket sales, breaking record for female directors**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/beyonce-dc-concert-fed-ex-field-weather-shelter-in-place-1235385912/).
+You can read more about it [here](https://www.theguardian.com/film/2023/aug/07/barbie-movie-tops-1bn-in-global-box-office-ticket-sales-breaking-record-for-female-directors).
 
 ## Requirements
 - Python 3.8
