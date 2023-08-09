@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Tuesday, August 8, 2023**
+**Montgomery police issue warrants after massive brawl on Alabama riverfront dock**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/8/8/23810532/horoscopes-today-tuesday-august-8-2023).
+You can read more about it [here](https://www.cnn.com/2023/08/07/us/alabama-boat-dock-fight-warrants/index.html).
 
 ## Requirements
 - Python 3.8
