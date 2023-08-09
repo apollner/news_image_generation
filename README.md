@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palantir's A.I. ambitions divide analysts. A bull and bear make their cases**
+**Niger Coup LIVE: Niger appoints former finance Minister Lamine Zeine as new Prime Minister | WION**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/08/palantirs-ai-ambitions-divide-analysts-a-bull-and-bear-make-their-cases.html).
+You can read more about it [here](https://www.youtube.com/watch?v=38CdQNhJ2aY).
 
 ## Requirements
 - Python 3.8
