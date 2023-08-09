@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger Coup LIVE: Niger appoints former finance Minister Lamine Zeine as new Prime Minister | WION**
+**Horoscope for Tuesday, August 8, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=38CdQNhJ2aY).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/8/23810532/horoscopes-today-tuesday-august-8-2023).
 
 ## Requirements
 - Python 3.8
