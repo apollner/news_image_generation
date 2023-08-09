@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colombia advances to Women’s World Cup quarterfinals for the first time after victory over Jamaica**
+**Zoom wants to train its AI on content from all user calls**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/football/colombia-jamaica-france-morocco-womens-world-cup-spt-intl/index.html).
+You can read more about it [here](https://qz.com/zoom-video-calls-updated-terms-user-data-ai-training-1850712394).
 
 ## Requirements
 - Python 3.8
