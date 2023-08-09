@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Campbell's acquires Rao's pasta sauce in $2.7B deal for Sovos Brands**
+**Ohio ballot election sets the stage for a major abortion fight in November**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/08/08/campbells-closes-roas-deal-sovos-brands/70548866007/).
+You can read more about it [here](https://www.nbcnews.com/politics/elections/ohio-ballot-election-sets-stage-major-abortion-fight-november-rcna97372).
 
 ## Requirements
 - Python 3.8
