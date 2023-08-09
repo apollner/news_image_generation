@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Older women’s breast cancer is often overdiagnosed, study finds, raising risk of unnecessary treatment**
+**First Starliner crewed flight delayed to 2024**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/health/breast-cancer-overdiagnosis/index.html).
+You can read more about it [here](https://spacenews.com/first-starliner-crewed-flight-delayed-to-2024/).
 
 ## Requirements
 - Python 3.8
