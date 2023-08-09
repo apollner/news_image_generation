@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Future of freight in question after trucking company Yellow files for bankruptcy**
+**Older women’s breast cancer is often overdiagnosed, study finds, raising risk of unnecessary treatment**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ob36XTjeJ3w).
+You can read more about it [here](https://www.cnn.com/2023/08/07/health/breast-cancer-overdiagnosis/index.html).
 
 ## Requirements
 - Python 3.8
