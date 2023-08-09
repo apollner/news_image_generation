@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D.C. grand jury that indicted Trump meets Tuesday as election probe continues**
+**5 things to know about Zurzuvae, the first postpartum depression pill**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/08/trump-grand-jury-meets-again-as-election-probe-continues.html).
+You can read more about it [here](https://www.npr.org/2023/08/08/1192665598/postpartum-depression-pill-zurzuvae).
 
 ## Requirements
 - Python 3.8
