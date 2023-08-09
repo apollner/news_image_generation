@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Older women’s breast cancer is often overdiagnosed, study finds, raising risk of unnecessary treatment**
+**Whale like filter-feeding discovered in prehistoric marine reptile**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/health/breast-cancer-overdiagnosis/index.html).
+You can read more about it [here](https://phys.org/news/2023-08-whale-filter-feeding-prehistoric-marine-reptile.html).
 
 ## Requirements
 - Python 3.8
