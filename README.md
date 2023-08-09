@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**William Friedkin, ‘Exorcist’ director, dead at 87**
+**She’s that girl: Beyoncé pays $100,000 to keep the D.C. Metro running after bad weather delay**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/entertainment/william-friedkin-death/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=7ZJhyH_chqA).
 
 ## Requirements
 - Python 3.8
