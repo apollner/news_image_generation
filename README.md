@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Exorcist’ Star Ellen Burstyn, Jason Blum Remember William Friedkin: “Undoubtedly a Genius”**
+**$700 million superyacht tied to Putin is still being maintained in Italy**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/william-friedkin-remembered-exorcist-ellen-burstyn-1235558010/).
+You can read more about it [here](https://www.npr.org/2023/08/07/1192548262/superyacht-tied-to-putin-russian-president-scheherazade-italy-who-paying).
 
 ## Requirements
 - Python 3.8
