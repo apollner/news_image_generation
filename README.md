@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She’s that girl: Beyoncé pays $100,000 to keep the D.C. Metro running after bad weather delay**
+**Review | 'Only Murders in the Building' regains its cozy confidence**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7ZJhyH_chqA).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/).
 
 ## Requirements
 - Python 3.8
