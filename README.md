@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB suspends Chicago's Tim Anderson 6 games, Cleveland's José Ramírez 3 for fighting**
+**Future of freight in question after trucking company Yellow files for bankruptcy**
 
-You can read more about it [here](https://apnews.com/article/anderson-ramirez-brawl-guardians-white-sox-suspensions-d60a9c11c640cd57c2db99e0b68d8cf2).
+You can read more about it [here](https://www.youtube.com/watch?v=Ob36XTjeJ3w).
 
 ## Requirements
 - Python 3.8
