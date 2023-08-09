@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman hospitalized after apparent shark attack in Queens**
+**William Friedkin, ‘Exorcist’ director, dead at 87**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2WGOFftsC0c).
+You can read more about it [here](https://www.cnn.com/2023/08/07/entertainment/william-friedkin-death/index.html).
 
 ## Requirements
 - Python 3.8
