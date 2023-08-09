@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**$700 million superyacht tied to Putin is still being maintained in Italy**
+**Apple Tests 2024 M3 Max MacBook Pro Chip With 16 CPU Cores, 40 GPU Cores**
 
-You can read more about it [here](https://www.npr.org/2023/08/07/1192548262/superyacht-tied-to-putin-russian-president-scheherazade-italy-who-paying).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-07/apple-tests-2024-m3-max-macbook-pro-chip-with-16-cpu-cores-40-gpu-cores).
 
 ## Requirements
 - Python 3.8
