@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Murder charge against Texas babysitter convicted of toddler's choking death dismissed 20 years later**
+**Palantir's A.I. ambitions divide analysts. A bull and bear make their cases**
 
-You can read more about it [here](https://www.cbsnews.com/news/rosa-jimenez-murder-charge-dismissed-99-year-sentence-babysitter-texas/).
+You can read more about it [here](https://www.cnbc.com/2023/08/08/palantirs-ai-ambitions-divide-analysts-a-bull-and-bear-make-their-cases.html).
 
 ## Requirements
 - Python 3.8
