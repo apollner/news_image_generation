@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden announcing historic Grand Canyon monument designation during his Arizona visit**
+**Suspect in Oregon cinderblock cell kidnapping targeted sex workers in prior crimes, FBI believes**
 
-You can read more about it [here](https://apnews.com/article/grand-canyon-national-monument-biden-9382960f18408dce7aec52f103404e11).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/suspect-oregon-cinderblock-cell-kidnapping-targeted-sex-workers-prior-rcna98793).
 
 ## Requirements
 - Python 3.8
