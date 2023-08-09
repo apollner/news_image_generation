@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whale like filter-feeding discovered in prehistoric marine reptile**
+**Tesla CFO Zachary Kirkhorn steps down after 13 years with company**
 
-You can read more about it [here](https://phys.org/news/2023-08-whale-filter-feeding-prehistoric-marine-reptile.html).
+You can read more about it [here](https://www.cbsnews.com/news/elon-musk-tesla-cfo-zachary-kirkhorn/).
 
 ## Requirements
 - Python 3.8
