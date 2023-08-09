@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Montgomery police issue warrants after massive brawl on Alabama riverfront dock**
+**Colombia advances to Women’s World Cup quarterfinals for the first time after victory over Jamaica**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/us/alabama-boat-dock-fight-warrants/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/07/football/colombia-jamaica-france-morocco-womens-world-cup-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
