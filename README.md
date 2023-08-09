@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review | 'Only Murders in the Building' regains its cozy confidence**
+**France vs. Morocco live updates: France adds to its lead to make it 4-0 late**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/).
+You can read more about it [here](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-france-morocco).
 
 ## Requirements
 - Python 3.8
