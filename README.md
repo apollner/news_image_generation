@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL breakout players for 2023 -- Predicting next wave of stars - ESPN**
+**Banks hit with $549 million in fines for use of Signal, WhatsApp to evade regulators’ reach**
 
-You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/38149478/predicting-nfl-breakout-players-2023-season-bill-barnwell-next-stars).
+You can read more about it [here](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html).
 
 ## Requirements
 - Python 3.8
