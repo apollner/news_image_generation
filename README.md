@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Starliner crewed flight delayed to 2024**
+**Judge in Trump's classified documents case questions use of out-of-district grand jury in probe**
 
-You can read more about it [here](https://spacenews.com/first-starliner-crewed-flight-delayed-to-2024/).
+You can read more about it [here](https://abcnews.go.com/US/judge-trumps-classified-documents-case-questions-district-grand/story?id=102072911).
 
 ## Requirements
 - Python 3.8
