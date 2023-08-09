@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. closes Haiti embassy amid "rapid gunfire" after Haitians march to demand security**
+**Campbell's acquires Rao's pasta sauce in $2.7B deal for Sovos Brands**
 
-You can read more about it [here](https://www.cbsnews.com/news/haiti-us-embassy-closed-violence-gunfire-gangs-haitians-march-demand-security/).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/08/08/campbells-closes-roas-deal-sovos-brands/70548866007/).
 
 ## Requirements
 - Python 3.8
