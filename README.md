@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zoom wants to train its AI on content from all user calls**
+**NFL breakout players for 2023 -- Predicting next wave of stars - ESPN**
 
-You can read more about it [here](https://qz.com/zoom-video-calls-updated-terms-user-data-ai-training-1850712394).
+You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/38149478/predicting-nfl-breakout-players-2023-season-bill-barnwell-next-stars).
 
 ## Requirements
 - Python 3.8
