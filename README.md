@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sandra Bullock's longtime partner Bryan Randall dies at 57 after battle with ALS**
+**Suspect in Oregon cinderblock cell kidnapping targeted sex workers in prior crimes, FBI believes**
 
-You can read more about it [here](https://www.cbsnews.com/news/sandra-bullock-partner-bryan-randall-dies-age-57-als/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/suspect-oregon-cinderblock-cell-kidnapping-targeted-sex-workers-prior-rcna98793).
 
 ## Requirements
 - Python 3.8
