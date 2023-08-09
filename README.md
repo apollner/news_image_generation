@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Tests 2024 M3 Max MacBook Pro Chip With 16 CPU Cores, 40 GPU Cores**
+**Niger coup leaders refuse to let senior U.S. diplomat meet with deposed president**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-07/apple-tests-2024-m3-max-macbook-pro-chip-with-16-cpu-cores-40-gpu-cores).
+You can read more about it [here](https://www.politico.com/news/2023/08/07/niger-coup-leaders-refuse-to-let-senior-u-s-diplomat-meet-with-deposed-president-00110207).
 
 ## Requirements
 - Python 3.8
