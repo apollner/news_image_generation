@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio voters flock to the polls with abortion rights at stake in GOP-backed rules change**
+**D.C. grand jury that indicted Trump meets Tuesday as election probe continues**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/08/ohio-voters-flock-to-the-polls-with-abortion-rights-at-stake.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/08/trump-grand-jury-meets-again-as-election-probe-continues.html).
 
 ## Requirements
 - Python 3.8
