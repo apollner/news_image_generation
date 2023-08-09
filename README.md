@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde shooter's cousin arrested in San Antonio for threatening to shoot a school**
+**Meet 'Eris,' a leading U.S. COVID variant likely driving up infections and hospitalizations this summer**
 
-You can read more about it [here](https://www.npr.org/2023/08/08/1192671563/uvalde-shooter-cousin-arrested-threat-school-shooting-san-antonio).
+You can read more about it [here](https://fortune.com/well/2023/08/08/eris-eg5-eg51-covid-omicron-variant-causing-summer-2023-wave-xbb-vaccines-boosters/).
 
 ## Requirements
 - Python 3.8
