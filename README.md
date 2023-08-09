@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France vs. Morocco live updates: France adds to its lead to make it 4-0 late**
+**Montgomery police issue warrants after massive brawl on Alabama riverfront dock**
 
-You can read more about it [here](https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-france-morocco).
+You can read more about it [here](https://www.cnn.com/2023/08/07/us/alabama-boat-dock-fight-warrants/index.html).
 
 ## Requirements
 - Python 3.8
