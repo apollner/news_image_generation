@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tory Lanez expected to be sentenced for shooting Megan Thee Stallion: Live updates on Day 2**
+**Weight-loss jab can cut heart attack and stroke risk in obese adults, firm says**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/08/tory-lanez-megan-thee-stallion-shooting-sentenced/70548808007/).
+You can read more about it [here](https://www.theguardian.com/society/2023/aug/08/weightloss-jab-wegovy-can-cut-risk-of-cardiovascular-events-in-overweight-people).
 
 ## Requirements
 - Python 3.8
