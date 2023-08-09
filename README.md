@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in Oregon cinderblock cell kidnapping targeted sex workers in prior crimes, FBI believes**
+**Uvalde shooter's cousin arrested in San Antonio for threatening to shoot a school**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/suspect-oregon-cinderblock-cell-kidnapping-targeted-sex-workers-prior-rcna98793).
+You can read more about it [here](https://www.npr.org/2023/08/08/1192671563/uvalde-shooter-cousin-arrested-threat-school-shooting-san-antonio).
 
 ## Requirements
 - Python 3.8
