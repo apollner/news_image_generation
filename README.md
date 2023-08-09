@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio ballot election sets the stage for a major abortion fight in November**
+**Tory Lanez expected to be sentenced for shooting Megan Thee Stallion: Live updates on Day 2**
 
-You can read more about it [here](https://www.nbcnews.com/politics/elections/ohio-ballot-election-sets-stage-major-abortion-fight-november-rcna97372).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/08/tory-lanez-megan-thee-stallion-shooting-sentenced/70548808007/).
 
 ## Requirements
 - Python 3.8
