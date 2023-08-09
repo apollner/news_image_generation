@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Banks hit with $549 million in fines for use of Signal, WhatsApp to evade regulators’ reach**
+**U.S. closes Haiti embassy amid "rapid gunfire" after Haitians march to demand security**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html).
+You can read more about it [here](https://www.cbsnews.com/news/haiti-us-embassy-closed-violence-gunfire-gangs-haitians-march-demand-security/).
 
 ## Requirements
 - Python 3.8
