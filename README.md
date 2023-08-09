@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla CFO Zachary Kirkhorn steps down after 13 years with company**
+**Murder charge against Texas babysitter convicted of toddler's choking death dismissed 20 years later**
 
-You can read more about it [here](https://www.cbsnews.com/news/elon-musk-tesla-cfo-zachary-kirkhorn/).
+You can read more about it [here](https://www.cbsnews.com/news/rosa-jimenez-murder-charge-dismissed-99-year-sentence-babysitter-texas/).
 
 ## Requirements
 - Python 3.8
