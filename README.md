@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Montgomery police issue warrants after massive brawl on Alabama riverfront dock**
+**Woman hospitalized after apparent shark attack in Queens**
 
-You can read more about it [here](https://www.cnn.com/2023/08/07/us/alabama-boat-dock-fight-warrants/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=2WGOFftsC0c).
 
 ## Requirements
 - Python 3.8
