@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-loss jab can cut heart attack and stroke risk in obese adults, firm says**
+**US Embassy in Haiti closes amid ‘rapid gunfire’**
 
-You can read more about it [here](https://www.theguardian.com/society/2023/aug/08/weightloss-jab-wegovy-can-cut-risk-of-cardiovascular-events-in-overweight-people).
+You can read more about it [here](https://thehill.com/policy/international/4143640-us-embassy-in-haiti-closes-amid-rapid-gunfire/).
 
 ## Requirements
 - Python 3.8
