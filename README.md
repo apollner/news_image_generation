@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge in Trump's classified documents case questions use of out-of-district grand jury in probe**
+**Older women’s breast cancer is often overdiagnosed, study finds, raising risk of unnecessary treatment**
 
-You can read more about it [here](https://abcnews.go.com/US/judge-trumps-classified-documents-case-questions-district-grand/story?id=102072911).
+You can read more about it [here](https://www.cnn.com/2023/08/07/health/breast-cancer-overdiagnosis/index.html).
 
 ## Requirements
 - Python 3.8
