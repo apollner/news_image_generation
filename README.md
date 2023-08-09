@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Embassy in Haiti closes amid ‘rapid gunfire’**
+**Biden announcing historic Grand Canyon monument designation during his Arizona visit**
 
-You can read more about it [here](https://thehill.com/policy/international/4143640-us-embassy-in-haiti-closes-amid-rapid-gunfire/).
+You can read more about it [here](https://apnews.com/article/grand-canyon-national-monument-biden-9382960f18408dce7aec52f103404e11).
 
 ## Requirements
 - Python 3.8
