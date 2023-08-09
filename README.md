@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football: Six deep RB sleepers to draft in 2023**
+**Meet 'Eris,' a leading U.S. COVID variant likely driving up infections and hospitalizations this summer**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-six-deep-rb-sleepers-to-draft-in-2023-163141845.html).
+You can read more about it [here](https://fortune.com/well/2023/08/08/eris-eg5-eg51-covid-omicron-variant-causing-summer-2023-wave-xbb-vaccines-boosters/).
 
 ## Requirements
 - Python 3.8
