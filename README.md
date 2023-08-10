@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four relatives came to lunch. Three died with symptoms of ‘death cap’ mushroom poisoning**
+**1 ticket sold in Florida hits Mega Millions record-setting $1.58 billion lottery jackpot**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/australia/australia-poison-mushroom-meal-intl-hnk/index.html).
+You can read more about it [here](https://abc7.com/mega-millions-winning-numbers-drawing-megamillions/13616929/).
 
 ## Requirements
 - Python 3.8
