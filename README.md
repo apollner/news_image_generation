@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian shares hesitant on China deflation risk, bank jitters**
+**Russia-Ukraine war: List of key events, day 532**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-09/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/9/russia-ukraine-war-list-of-key-events-day-532).
 
 ## Requirements
 - Python 3.8
