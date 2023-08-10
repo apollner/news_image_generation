@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump admits criminal charges will damage 2024 presidential campaign**
+**Judge schedules Friday hearing on protective order in election subversion case against Trump**
 
-You can read more about it [here](https://www.ft.com/content/f0bc80d3-2e7b-43cf-a143-79ca0e3c123b).
+You can read more about it [here](https://www.cnn.com/2023/08/08/politics/trump-protective-order-hearing/index.html).
 
 ## Requirements
 - Python 3.8
