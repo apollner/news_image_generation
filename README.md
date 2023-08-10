@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sandra Bullock’s Partner Bryan Randall's Quiet ALS Battle: Medical Expert Explains Condition**
+**Tory Lanez gets 10 years in prison for shooting Megan Thee Stallion**
 
-You can read more about it [here](https://www.youtube.com/watch?v=D9yKhzQ-aTM).
+You can read more about it [here](https://apnews.com/article/tory-lanez-megan-thee-stallion-sentence-shooting-58a042216c01eae44bc2ed22bf45aba2).
 
 ## Requirements
 - Python 3.8
