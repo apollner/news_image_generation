@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark your calendars: Annual Perseid meteor shower to light up Maine's sky this weekend**
+**Man killed during FBI raid in connection with threats against Biden, other officials**
 
-You can read more about it [here](https://wgme.com/news/local/mark-your-calendars-annual-perseid-meteor-shower-light-up-maines-sky-this-weekend-august).
+You can read more about it [here](https://abcnews.go.com/Politics/man-killed-fbi-raid-connection-threats-biden-officials/story?id=102138966).
 
 ## Requirements
 - Python 3.8
