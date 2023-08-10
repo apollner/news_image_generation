@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 532**
+**Issue 1: Ohio vote delivers win for abortion-rights supporters**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/9/russia-ukraine-war-list-of-key-events-day-532).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66442370).
 
 ## Requirements
 - Python 3.8
