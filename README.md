@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WeWork goes from a $47B valuation to ‘substantial doubts’ about its ‘ability to continue as a going concern’**
+**James Gray on William Friedkin: “Beneath the Unsentimental Toughness, a Wellspring of Soul and Sensitivity”**
 
-You can read more about it [here](https://techcrunch.com/2023/08/08/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-features/william-friedkin-james-gray-tribute-1235558912/).
 
 ## Requirements
 - Python 3.8
