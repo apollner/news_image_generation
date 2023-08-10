@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Simmons torches Alex Morgan after World Cup flop: 'Not a superstar'**
+**Sandra Bullock’s Partner Bryan Randall's Quiet ALS Battle: Medical Expert Explains Condition**
 
-You can read more about it [here](https://nypost.com/2023/08/08/bill-simmons-torches-uswnt-alex-morgan-after-world-cup-flop/).
+You can read more about it [here](https://www.youtube.com/watch?v=D9yKhzQ-aTM).
 
 ## Requirements
 - Python 3.8
