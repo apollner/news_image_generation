@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea's Scout jamboree planners warned about heat seven years**
+**Live news: Housebuilder Bellway warns of 'material decrease' in completions**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/09/south-korea-scout-jamboree-heatwave-preparations/).
+You can read more about it [here](https://www.ft.com/content/67c16b7b-24fc-4a74-b386-f91e0036efcb).
 
 ## Requirements
 - Python 3.8
