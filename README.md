@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**International Space Station may be more polluted than most American homes**
+**Author says the Apple TV+ 'Tetris' movie ripped off his book | Engadget**
 
-You can read more about it [here](https://thehill.com/policy/energy-environment/4144788-international-space-station-may-be-more-polluted-than-most-american-homes/).
+You can read more about it [here](https://www.engadget.com/author-says-the-apple-tv-tetris-movie-ripped-off-his-book-061744399.html).
 
 ## Requirements
 - Python 3.8
