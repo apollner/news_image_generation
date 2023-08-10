@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**9-year-old girl fatally shot by neighbor in front of her father after buying ice cream and riding her scooter, legal document says**
+**Asian shares hesitant on China deflation risk, bank jitters**
 
-You can read more about it [here](https://www.cnn.com/2023/08/08/us/chicago-girl-shot-dead-gun-violence/index.html).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-09/).
 
 ## Requirements
 - Python 3.8
