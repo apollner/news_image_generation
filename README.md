@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know about Zurzuvae, the first postpartum depression pill**
+**New fossils reveal specialized eating technique of unusual ancient marine reptile**
 
-You can read more about it [here](https://www.npr.org/2023/08/08/1192665598/postpartum-depression-pill-zurzuvae).
+You can read more about it [here](https://www.cnn.com/2023/08/08/world/ancient-marine-reptile-filter-feeding-scn/index.html).
 
 ## Requirements
 - Python 3.8
