@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Omicron subvariant EG.5 now dominant strain in US, CDC data shows**
+**Ex-Raiders player Henry Ruggs sentenced in fatal 2021 Las Vegas DUI crash**
 
-You can read more about it [here](https://www.foxnews.com/health/omicron-subvariant-eg-5-now-dominant-strain-us-cdc-data-shows).
+You can read more about it [here](https://www.fox5vegas.com/2023/08/09/former-raiders-player-ruggs-sentenced-3-10-years-prison-deadly-2021-dui-crash/).
 
 ## Requirements
 - Python 3.8
