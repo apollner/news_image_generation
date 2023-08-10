@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Gray on William Friedkin: “Beneath the Unsentimental Toughness, a Wellspring of Soul and Sensitivity”**
+**Bill Simmons torches Alex Morgan after World Cup flop: 'Not a superstar'**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-features/william-friedkin-james-gray-tribute-1235558912/).
+You can read more about it [here](https://nypost.com/2023/08/08/bill-simmons-torches-uswnt-alex-morgan-after-world-cup-flop/).
 
 ## Requirements
 - Python 3.8
