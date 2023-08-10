@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawyers in Lizzo Sexual Harassment Suit by Former Dancers Say Six More People Have Contacted Them**
+**Disney to Significantly Raise Prices of Disney+, Hulu Streaming Services**
 
-You can read more about it [here](https://www.billboard.com/business/legal/lizzo-sexual-harassment-lawsuit-dancers-lawyers-six-more-inquiries-1235388267/).
+You can read more about it [here](https://www.wsj.com/articles/disney-raising-prices-hulu-espn-earnings-call-64ae262).
 
 ## Requirements
 - Python 3.8
