@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tory Lanez gets 10 years in prison for shooting Megan Thee Stallion**
+**Cars found in Doral lake being recovered by Miami police divers**
 
-You can read more about it [here](https://apnews.com/article/tory-lanez-megan-thee-stallion-sentence-shooting-58a042216c01eae44bc2ed22bf45aba2).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/08/cars-found-in-lake-in-doral-what-we-know/70551269007/).
 
 ## Requirements
 - Python 3.8
