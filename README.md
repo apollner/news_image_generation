@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 cases, hospitalizations are low but steadily rising across San Diego County**
+**South Korea's Scout jamboree planners warned about heat seven years**
 
-You can read more about it [here](https://www.cbs8.com/article/news/local/covid-cases-hospitalizations-low-steadily-rising-across-county/509-0deb40c2-4832-4f51-936e-6aa1ed1d8de4).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/09/south-korea-scout-jamboree-heatwave-preparations/).
 
 ## Requirements
 - Python 3.8
