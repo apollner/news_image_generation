@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ESPN is jumping into sports gambling in a $2 billion deal**
+**Ohio election: Voters reject Issue 1 proposal**
 
-You can read more about it [here](https://www.cnn.com/2023/08/08/business/penn-entertainment-barstool-sports-espn/index.html).
+You can read more about it [here](https://apnews.com/article/ohio-abortion-rights-constitutional-amendment-special-election-227cde039f8d51723612878525164f1a).
 
 ## Requirements
 - Python 3.8
