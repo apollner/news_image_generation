@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New fossils reveal specialized eating technique of unusual ancient marine reptile**
+**Exclusive: Amazon in talks to become anchor investor in Arm ahead of IPO**
 
-You can read more about it [here](https://www.cnn.com/2023/08/08/world/ancient-marine-reptile-filter-feeding-scn/index.html).
+You can read more about it [here](https://www.reuters.com/markets/deals/amazon-talks-become-anchor-investor-arm-ahead-ipo-sources-2023-08-08/).
 
 ## Requirements
 - Python 3.8
