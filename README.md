@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio election: Voters reject Issue 1 proposal**
+**9-year-old girl fatally shot by neighbor in front of her father after buying ice cream and riding her scooter, legal document says**
 
-You can read more about it [here](https://apnews.com/article/ohio-abortion-rights-constitutional-amendment-special-election-227cde039f8d51723612878525164f1a).
+You can read more about it [here](https://www.cnn.com/2023/08/08/us/chicago-girl-shot-dead-gun-violence/index.html).
 
 ## Requirements
 - Python 3.8
