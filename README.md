@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Insurers face long road, high cost to cover obesity drugs after promising Wegovy heart health data**
+**Fantasy football 2023: Cowboys' Tony Pollard among top 10 RB values**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/09/wegovy-heart-health-data-insurance-hurdles-costs.html).
+You can read more about it [here](https://www.nfl.com/news/fantasy-football-2023-cowboys-tony-pollard-among-top-10-rb-values).
 
 ## Requirements
 - Python 3.8
