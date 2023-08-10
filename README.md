@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency proclamation issued due to wildfires sparked by high winds from passing Hurricane Dora**
+**Four relatives came to lunch. Three died with symptoms of ‘death cap’ mushroom poisoning**
 
-You can read more about it [here](https://mauinow.com).
+You can read more about it [here](https://www.cnn.com/2023/08/09/australia/australia-poison-mushroom-meal-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
