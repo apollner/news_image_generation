@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feinstein went to the hospital after a 'minor fall' at home**
+**US dollar dips as China deflation pulls investors into risk assets**
 
-You can read more about it [here](https://www.youtube.com/watch?v=q8miD7dJRls).
+You can read more about it [here](https://www.reuters.com/markets/currencies/dollar-firm-safe-haven-demand-markets-fret-over-china-banks-2023-08-09/).
 
 ## Requirements
 - Python 3.8
