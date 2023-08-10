@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucs' Mike Evans says Johnny Manziel 'noble' to detail struggles - ESPN**
+**Omicron subvariant EG.5 now dominant strain in US, CDC data shows**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38162716/bucs-mike-evans-says-johnny-manziel-noble-detail-struggles).
+You can read more about it [here](https://www.foxnews.com/health/omicron-subvariant-eg-5-now-dominant-strain-us-cdc-data-shows).
 
 ## Requirements
 - Python 3.8
