@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGA Calls Day 100 Of Writers Strike A “Milestone Of Shame” For AMPTP, But Optimism For A Deal Remains**
+**Omicron subvariant EG.5 now dominant strain in US, CDC data shows**
 
-You can read more about it [here](https://deadline.com/2023/08/writers-strike-100th-day-milestone-of-shame-amptp-optimism-1235458016/).
+You can read more about it [here](https://www.foxnews.com/health/omicron-subvariant-eg-5-now-dominant-strain-us-cdc-data-shows).
 
 ## Requirements
 - Python 3.8
