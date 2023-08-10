@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Author says the Apple TV+ 'Tetris' movie ripped off his book | Engadget**
+**Emergency proclamation issued due to wildfires sparked by high winds from passing Hurricane Dora**
 
-You can read more about it [here](https://www.engadget.com/author-says-the-apple-tv-tetris-movie-ripped-off-his-book-061744399.html).
+You can read more about it [here](https://mauinow.com).
 
 ## Requirements
 - Python 3.8
