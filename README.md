@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ACC Officials `Evaluating' Cal and Stanford, But Decision Not Expected This Week**
+**Live news: Housebuilder Bellway warns of 'material decrease' in completions**
 
-You can read more about it [here](https://www.si.com/college/cal/news/acc-update).
+You can read more about it [here](https://www.ft.com/content/67c16b7b-24fc-4a74-b386-f91e0036efcb).
 
 ## Requirements
 - Python 3.8
