@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live news: Housebuilder Bellway warns of 'material decrease' in completions**
+**International Space Station may be more polluted than most American homes**
 
-You can read more about it [here](https://www.ft.com/content/67c16b7b-24fc-4a74-b386-f91e0036efcb).
+You can read more about it [here](https://thehill.com/policy/energy-environment/4144788-international-space-station-may-be-more-polluted-than-most-american-homes/).
 
 ## Requirements
 - Python 3.8
