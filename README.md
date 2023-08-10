@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US dollar dips as China deflation pulls investors into risk assets**
+**WGA Calls Day 100 Of Writers Strike A “Milestone Of Shame” For AMPTP, But Optimism For A Deal Remains**
 
-You can read more about it [here](https://www.reuters.com/markets/currencies/dollar-firm-safe-haven-demand-markets-fret-over-china-banks-2023-08-09/).
+You can read more about it [here](https://deadline.com/2023/08/writers-strike-100th-day-milestone-of-shame-amptp-optimism-1235458016/).
 
 ## Requirements
 - Python 3.8
