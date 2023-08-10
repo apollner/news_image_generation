@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 ticket sold in Florida hits Mega Millions record-setting $1.58 billion lottery jackpot**
+**Feinstein went to the hospital after a 'minor fall' at home**
 
-You can read more about it [here](https://abc7.com/mega-millions-winning-numbers-drawing-megamillions/13616929/).
+You can read more about it [here](https://www.youtube.com/watch?v=q8miD7dJRls).
 
 ## Requirements
 - Python 3.8
