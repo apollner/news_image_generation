@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Omicron subvariant EG.5 now dominant strain in US, CDC data shows**
+**Insurers face long road, high cost to cover obesity drugs after promising Wegovy heart health data**
 
-You can read more about it [here](https://www.foxnews.com/health/omicron-subvariant-eg-5-now-dominant-strain-us-cdc-data-shows).
+You can read more about it [here](https://www.cnbc.com/2023/08/09/wegovy-heart-health-data-insurance-hurdles-costs.html).
 
 ## Requirements
 - Python 3.8
