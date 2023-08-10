@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football 2023: Cowboys' Tony Pollard among top 10 RB values**
+**Ron Rivera - 'I put my foot in my mouth' with Eric Bieniemy comments - ESPN**
 
-You can read more about it [here](https://www.nfl.com/news/fantasy-football-2023-cowboys-tony-pollard-among-top-10-rb-values).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38161433/ron-rivera-put-my-foot-my-mouth-eric-bieniemy-comments).
 
 ## Requirements
 - Python 3.8
