@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Amazon in talks to become anchor investor in Arm ahead of IPO**
+**Donald Trump admits criminal charges will damage 2024 presidential campaign**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/amazon-talks-become-anchor-investor-arm-ahead-ipo-sources-2023-08-08/).
+You can read more about it [here](https://www.ft.com/content/f0bc80d3-2e7b-43cf-a143-79ca0e3c123b).
 
 ## Requirements
 - Python 3.8
