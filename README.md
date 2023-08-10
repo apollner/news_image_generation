@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge schedules Friday hearing on protective order in election subversion case against Trump**
+**WeWork goes from a $47B valuation to ‘substantial doubts’ about its ‘ability to continue as a going concern’**
 
-You can read more about it [here](https://www.cnn.com/2023/08/08/politics/trump-protective-order-hearing/index.html).
+You can read more about it [here](https://techcrunch.com/2023/08/08/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern/).
 
 ## Requirements
 - Python 3.8
