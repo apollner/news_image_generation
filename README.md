@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cars found in Doral lake being recovered by Miami police divers**
+**ESPN is jumping into sports gambling in a $2 billion deal**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/08/cars-found-in-lake-in-doral-what-we-know/70551269007/).
+You can read more about it [here](https://www.cnn.com/2023/08/08/business/penn-entertainment-barstool-sports-espn/index.html).
 
 ## Requirements
 - Python 3.8
