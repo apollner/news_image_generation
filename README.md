@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Perseid meteor shower peaks this weekend and it's even better this year**
+**Lawyers in Lizzo Sexual Harassment Suit by Former Dancers Say Six More People Have Contacted Them**
 
-You can read more about it [here](https://komonews.com/news/local/the-perseid-meteor-shower-peaks-this-weekend-and-its-even-better-this-year-shooting-star-summer-falling-meteorite-night-moon-earth-outer-space-sky-nasa-northern-lights).
+You can read more about it [here](https://www.billboard.com/business/legal/lizzo-sexual-harassment-lawsuit-dancers-lawyers-six-more-inquiries-1235388267/).
 
 ## Requirements
 - Python 3.8
