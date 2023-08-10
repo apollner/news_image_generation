@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man killed during FBI raid in connection with threats against Biden, other officials**
+**EG5 now dominant COVID variant in US. Here's what to know**
 
-You can read more about it [here](https://abcnews.go.com/Politics/man-killed-fbi-raid-connection-threats-biden-officials/story?id=102138966).
+You can read more about it [here](https://abc7ny.com/new-covid-variant-eg5-omicron-cdc/13619914/).
 
 ## Requirements
 - Python 3.8
