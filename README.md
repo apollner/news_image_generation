@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Rivera - 'I put my foot in my mouth' with Eric Bieniemy comments - ESPN**
+**Bucs' Mike Evans says Johnny Manziel 'noble' to detail struggles - ESPN**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38161433/ron-rivera-put-my-foot-my-mouth-eric-bieniemy-comments).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38162716/bucs-mike-evans-says-johnny-manziel-noble-detail-struggles).
 
 ## Requirements
 - Python 3.8
