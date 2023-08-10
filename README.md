@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Raiders player Henry Ruggs sentenced in fatal 2021 Las Vegas DUI crash**
+**Mark your calendars: Annual Perseid meteor shower to light up Maine's sky this weekend**
 
-You can read more about it [here](https://www.fox5vegas.com/2023/08/09/former-raiders-player-ruggs-sentenced-3-10-years-prison-deadly-2021-dui-crash/).
+You can read more about it [here](https://wgme.com/news/local/mark-your-calendars-annual-perseid-meteor-shower-light-up-maines-sky-this-weekend-august).
 
 ## Requirements
 - Python 3.8
