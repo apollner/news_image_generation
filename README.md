@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EG5 now dominant COVID variant in US. Here's what to know**
+**The Perseid meteor shower peaks this weekend and it's even better this year**
 
-You can read more about it [here](https://abc7ny.com/new-covid-variant-eg5-omicron-cdc/13619914/).
+You can read more about it [here](https://komonews.com/news/local/the-perseid-meteor-shower-peaks-this-weekend-and-its-even-better-this-year-shooting-star-summer-falling-meteorite-night-moon-earth-outer-space-sky-nasa-northern-lights).
 
 ## Requirements
 - Python 3.8
