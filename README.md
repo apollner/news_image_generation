@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Overwatch 2: Invasion PvE and New Hero Illari Abilities Explained**
+**Virgin Galactic conducts first space tourist suborbital flight**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tgpLyGoU5f0).
+You can read more about it [here](https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/).
 
 ## Requirements
 - Python 3.8
