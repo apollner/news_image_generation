@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's real estate market roiled by default fears again, as Country Garden spooks investors**
+**Iraq bans media usage of words ‘homosexuality,’ ‘gender’: reports**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/10/china-property-market-roiled-by-default-fears-country-garden-spooks-investors.html).
+You can read more about it [here](https://thehill.com/policy/international/4146466-iraq-bans-media-usage-homosexuality-gender-reports/).
 
 ## Requirements
 - Python 3.8
