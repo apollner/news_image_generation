@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Picket Line Regulars Bolster Solidarity Among Writers As WGA Strike Hits 100 Days**
+**Winning Mega Millions ticket sold in Neptune Beach, Florida, for record jackpot of $1.58 billion**
 
-You can read more about it [here](https://deadline.com/2023/08/writers-strike-picket-line-regulars-bolster-solidarity-100-days-1235457731/).
+You can read more about it [here](https://www.cbsnews.com/news/mega-millions-drawing-jackpot-1-58-billion/).
 
 ## Requirements
 - Python 3.8
