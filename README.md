@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exactly When, Where And How To See ‘Shooting Stars’ This Weekend As Perseid Meteor Shower Peaks**
+**Hidden underworld filled with never-before-seen creatures discovered beneath the seafloor**
 
-You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2023/08/09/exactly-when-where-and-how-to-see-shooting-stars-this-weekend-as-perseid-meteor-shower-peaks/).
+You can read more about it [here](https://www.livescience.com/animals/hidden-underworld-filled-with-never-before-seen-creatures-discovered-beneath-the-seafloor).
 
 ## Requirements
 - Python 3.8
