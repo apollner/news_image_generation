@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virgin Galactic conducts first space tourist suborbital flight**
+**One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut**
 
-You can read more about it [here](https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/).
 
 ## Requirements
 - Python 3.8
