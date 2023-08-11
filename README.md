@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Should Harry Kane go to Bayern Munich or stay at Spurs?**
+**How WeWork is nearing failure after a valuation of $47 billion in 2019**
 
-You can read more about it [here](https://theathletic.com/4765218/2023/08/10/harry-kane-bayern-munich-transfer-2/).
+You can read more about it [here](https://www.foxbusiness.com/markets/how-wework-nears-failure-after-valuation-47-billion-2019).
 
 ## Requirements
 - Python 3.8
