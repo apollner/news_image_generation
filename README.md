@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obesity drug data could boost companies' case for US coverage, analysts say**
+**This common medication may lead to dementia - study**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/obesity-drug-data-could-boost-companies-case-us-coverage-analysts-2023-08-10/).
+You can read more about it [here](https://www.jpost.com/health-and-wellness/article-754273).
 
 ## Requirements
 - Python 3.8
