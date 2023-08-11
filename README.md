@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Montgomery Riverfront brawl footage emerges with two suspects still on the lam**
+**Georgia mother who alleges baby was decapitated during delivery files lawsuit**
 
-You can read more about it [here](https://www.foxnews.com/us/new-montgomery-riverfront-brawl-footage-emerges-two-suspects-still-lam).
+You can read more about it [here](https://www.cnn.com/2023/08/09/us/georgia-baby-death-lawsuit/index.html).
 
 ## Requirements
 - Python 3.8
