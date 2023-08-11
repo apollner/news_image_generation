@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ACC expansion on life support with presidents delaying vote; what are the arguments for and against?**
+**China's real estate market roiled by default fears again, as Country Garden spooks investors**
 
-You can read more about it [here](https://sports.yahoo.com/acc-expansion-on-life-support-with-presidents-delaying-vote-what-are-the-arguments-for-and-against-020106388.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/10/china-property-market-roiled-by-default-fears-country-garden-spooks-investors.html).
 
 ## Requirements
 - Python 3.8
