@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Eris’ Is Dominant COVID Subvariant in U.S.: What to Know**
+**Four to Five ACC Programs Against Stanford, Cal, SMU Expansion Plan, per Report**
 
-You can read more about it [here](https://www.wsj.com/articles/eg5-eris-new-covid-19-variant-fa3cc260).
+You can read more about it [here](https://www.si.com/college/2023/08/10/four-to-five-acc-programs-against-stanford-cal-smu-expansion-plan-per-report).
 
 ## Requirements
 - Python 3.8
