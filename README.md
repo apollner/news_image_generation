@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robbie Robertson cause of death: The Band frontman dies aged 80**
+**New Montgomery Riverfront brawl footage emerges with two suspects still on the lam**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/robbie-robertson-dead-cause-of-death-b2390649.html).
+You can read more about it [here](https://www.foxnews.com/us/new-montgomery-riverfront-brawl-footage-emerges-two-suspects-still-lam).
 
 ## Requirements
 - Python 3.8
