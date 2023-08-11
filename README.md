@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How WeWork is nearing failure after a valuation of $47 billion in 2019**
+**Ukraine war live updates: Ukraine announces temporary Black Sea corridor for civilian ships, warns of Russia threat**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/how-wework-nears-failure-after-valuation-47-billion-2019).
+You can read more about it [here](https://www.cnbc.com/2023/08/10/live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
