@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuador presidential candidate Fernando Villavicencio assassinated at campaign event**
+**ACC conference reportedly not looking to expand, leaving Stanford and Cal without a landing spot**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html).
+You can read more about it [here](https://www.si.com/college/stanford/football/acc-conference-reportedly-not-looking-to-expand-leaving-stanford-and-cal-without-a-landing-spot).
 
 ## Requirements
 - Python 3.8
