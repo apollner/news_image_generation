@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump on Newsmax reveals he will say next week whether he will debate**
+**ACC expansion on life support with presidents delaying vote; what are the arguments for and against?**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/09/donald-trump-newsmax-debate/70563053007/).
+You can read more about it [here](https://sports.yahoo.com/acc-expansion-on-life-support-with-presidents-delaying-vote-what-are-the-arguments-for-and-against-020106388.html).
 
 ## Requirements
 - Python 3.8
