@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Candidate in Ecuador's presidential election Fernando Villavicencio shot dead**
+**Obesity drug data could boost companies' case for US coverage, analysts say**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-66457472).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/obesity-drug-data-could-boost-companies-case-us-coverage-analysts-2023-08-10/).
 
 ## Requirements
 - Python 3.8
