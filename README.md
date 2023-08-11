@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iraq bans media usage of words ‘homosexuality,’ ‘gender’: reports**
+**Sources: Cal, Stanford to ACC hits 'significant roadblocks' - ESPN**
 
-You can read more about it [here](https://thehill.com/policy/international/4146466-iraq-bans-media-usage-homosexuality-gender-reports/).
+You can read more about it [here](https://www.espn.com/college-sports/story/_/id/38164566/sources-cal-stanford-acc-hits-significant-roadblocks).
 
 ## Requirements
 - Python 3.8
