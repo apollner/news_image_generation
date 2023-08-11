@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ACC conference reportedly not looking to expand, leaving Stanford and Cal without a landing spot**
+**Tropical Storm Khanun pours intense rain on South Korea and heads toward its urban centers**
 
-You can read more about it [here](https://www.si.com/college/stanford/football/acc-conference-reportedly-not-looking-to-expand-leaving-stanford-and-cal-without-a-landing-spot).
+You can read more about it [here](https://apnews.com/article/tropical-storm-khanun-south-korea-544ab746065f89ccc768974979fb8447).
 
 ## Requirements
 - Python 3.8
