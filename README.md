@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's real estate market roiled by default fears again, as Country Garden spooks investors**
+**Pakistan parliament dissolved to hold national election**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/10/china-property-market-roiled-by-default-fears-country-garden-spooks-investors.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/pakistan-prime-minister-advise-president-dissolve-parliament-2023-08-09/).
 
 ## Requirements
 - Python 3.8
