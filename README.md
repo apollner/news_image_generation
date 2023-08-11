@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hidden underworld filled with never-before-seen creatures discovered beneath the seafloor**
+**After divesting Barstool Sports, Penn Entertainment CEO says Dave Portnoy is the only 'natural owner' for the company long term**
 
-You can read more about it [here](https://www.livescience.com/animals/hidden-underworld-filled-with-never-before-seen-creatures-discovered-beneath-the-seafloor).
+You can read more about it [here](https://www.cnbc.com/2023/08/09/penn-entertainment-ceo-says-portnoy-is-barstools-only-natural-owner-.html).
 
 ## Requirements
 - Python 3.8
