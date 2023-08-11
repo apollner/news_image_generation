@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Women's World Cup Daily: Quarterfinal preview, predictions - ESPN**
+**One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38164369/womens-world-cup-daily-quarterfinal-preview-predictions).
+You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/).
 
 ## Requirements
 - Python 3.8
