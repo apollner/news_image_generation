@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney to Significantly Raise Prices of Disney+, Hulu Streaming Services**
+**Slack is getting a major redesign to look more like Microsoft Teams**
 
-You can read more about it [here](https://www.wsj.com/articles/disney-raising-prices-hulu-espn-earnings-call-64ae262).
+You can read more about it [here](https://www.xda-developers.com/slack-redesign-microsoft-teams/).
 
 ## Requirements
 - Python 3.8
