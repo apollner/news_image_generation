@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anti-corruption presidential candidate is assassinated in Ecuador as country reels from violence**
+**Overwatch 2: Invasion PvE and New Hero Illari Abilities Explained**
 
-You can read more about it [here](https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-ee9c726b82c09e16e5dacde2d6f005ff).
+You can read more about it [here](https://www.youtube.com/watch?v=tgpLyGoU5f0).
 
 ## Requirements
 - Python 3.8
