@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**School closings: JCPS cancels school Thursday and Friday following transportation issues**
+**Should Harry Kane go to Bayern Munich or stay at Spurs?**
 
-You can read more about it [here](https://www.courier-journal.com/story/news/education/2023/08/10/louisville-school-closings-jcps-cancels-school-thursday-and-friday/70564486007/).
+You can read more about it [here](https://theathletic.com/4765218/2023/08/10/harry-kane-bayern-munich-transfer-2/).
 
 ## Requirements
 - Python 3.8
