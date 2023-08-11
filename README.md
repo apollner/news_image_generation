@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Announces '1989 (Taylor's Version)': Why Swift Is Re-Recording Her Albums**
+**Anti-corruption presidential candidate is assassinated in Ecuador as country reels from violence**
 
-You can read more about it [here](https://www.today.com/popculture/music/taylor-swift-1989-taylors-version-swift-rerecording-albums-rcna96762).
+You can read more about it [here](https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-ee9c726b82c09e16e5dacde2d6f005ff).
 
 ## Requirements
 - Python 3.8
