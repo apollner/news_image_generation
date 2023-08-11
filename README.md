@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four to Five ACC Programs Against Stanford, Cal, SMU Expansion Plan, per Report**
+**Trump election trial: Special counsel Jack Smith seeks Jan. 2 start date**
 
-You can read more about it [here](https://www.si.com/college/2023/08/10/four-to-five-acc-programs-against-stanford-cal-smu-expansion-plan-per-report).
+You can read more about it [here](https://www.cnbc.com/2023/08/10/special-counsel-wants-jan-2-trial-in-trump-election-case.html).
 
 ## Requirements
 - Python 3.8
