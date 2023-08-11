@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuador presidential candidate Fernando Villavicencio assassinated at campaign event**
+**Live news: Chinese stocks edge lower after US order restricting investments**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html).
+You can read more about it [here](https://www.ft.com/content/9feb0800-eeca-499f-a15c-913c6858ca08).
 
 ## Requirements
 - Python 3.8
