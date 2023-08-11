@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muon g-2 doubles down with latest measurement, explores uncharted territory in search of new physics**
+**Taylor Swift Announces '1989 (Taylor's Version)': Why Swift Is Re-Recording Her Albums**
 
-You can read more about it [here](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/).
+You can read more about it [here](https://www.today.com/popculture/music/taylor-swift-1989-taylors-version-swift-rerecording-albums-rcna96762).
 
 ## Requirements
 - Python 3.8
