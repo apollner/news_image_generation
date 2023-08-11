@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Ukraine announces temporary Black Sea corridor for civilian ships, warns of Russia threat**
+**Women's World Cup Daily: Quarterfinal preview, predictions - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/10/live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38164369/womens-world-cup-daily-quarterfinal-preview-predictions).
 
 ## Requirements
 - Python 3.8
