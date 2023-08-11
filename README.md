@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This common medication may lead to dementia - study**
+**School closings: JCPS cancels school Thursday and Friday following transportation issues**
 
-You can read more about it [here](https://www.jpost.com/health-and-wellness/article-754273).
+You can read more about it [here](https://www.courier-journal.com/story/news/education/2023/08/10/louisville-school-closings-jcps-cancels-school-thursday-and-friday/70564486007/).
 
 ## Requirements
 - Python 3.8
