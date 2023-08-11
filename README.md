@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump election trial: Special counsel Jack Smith seeks Jan. 2 start date**
+**Muon g-2 doubles down with latest measurement, explores uncharted territory in search of new physics**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/10/special-counsel-wants-jan-2-trial-in-trump-election-case.html).
+You can read more about it [here](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/).
 
 ## Requirements
 - Python 3.8
