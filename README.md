@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Montgomery Riverfront brawl footage emerges with two suspects still on the lam**
+**ACC conference reportedly not looking to expand, leaving Stanford and Cal without a landing spot**
 
-You can read more about it [here](https://www.foxnews.com/us/new-montgomery-riverfront-brawl-footage-emerges-two-suspects-still-lam).
+You can read more about it [here](https://www.si.com/college/stanford/football/acc-conference-reportedly-not-looking-to-expand-leaving-stanford-and-cal-without-a-landing-spot).
 
 ## Requirements
 - Python 3.8
