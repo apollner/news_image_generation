@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut**
+**‘Eris’ Is Dominant COVID Subvariant in U.S.: What to Know**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/).
+You can read more about it [here](https://www.wsj.com/articles/eg5-eris-new-covid-19-variant-fa3cc260).
 
 ## Requirements
 - Python 3.8
