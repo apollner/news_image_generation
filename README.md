@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After divesting Barstool Sports, Penn Entertainment CEO says Dave Portnoy is the only 'natural owner' for the company long term**
+**ACC expansion on life support with presidents delaying vote; what are the arguments for and against?**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/09/penn-entertainment-ceo-says-portnoy-is-barstools-only-natural-owner-.html).
+You can read more about it [here](https://sports.yahoo.com/acc-expansion-on-life-support-with-presidents-delaying-vote-what-are-the-arguments-for-and-against-020106388.html).
 
 ## Requirements
 - Python 3.8
