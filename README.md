@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winning Mega Millions ticket sold in Neptune Beach, Florida, for record jackpot of $1.58 billion**
+**Exactly When, Where And How To See ‘Shooting Stars’ This Weekend As Perseid Meteor Shower Peaks**
 
-You can read more about it [here](https://www.cbsnews.com/news/mega-millions-drawing-jackpot-1-58-billion/).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2023/08/09/exactly-when-where-and-how-to-see-shooting-stars-this-weekend-as-perseid-meteor-shower-peaks/).
 
 ## Requirements
 - Python 3.8
