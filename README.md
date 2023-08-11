@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia mother who alleges baby was decapitated during delivery files lawsuit**
+**Robbie Robertson cause of death: The Band frontman dies aged 80**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/us/georgia-baby-death-lawsuit/index.html).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/robbie-robertson-dead-cause-of-death-b2390649.html).
 
 ## Requirements
 - Python 3.8
