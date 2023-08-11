@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Khanun pours intense rain on South Korea and heads toward its urban centers**
+**Ecuador presidential candidate Fernando Villavicencio assassinated at campaign event**
 
-You can read more about it [here](https://apnews.com/article/tropical-storm-khanun-south-korea-544ab746065f89ccc768974979fb8447).
+You can read more about it [here](https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
