@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut**
+**Overwatch 2: Invasion - Official Illari Gameplay Trailer**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/).
+You can read more about it [here](https://www.youtube.com/watch?v=3M5om9-Esaw).
 
 ## Requirements
 - Python 3.8
