@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slack is getting a major redesign to look more like Microsoft Teams**
+**Picket Line Regulars Bolster Solidarity Among Writers As WGA Strike Hits 100 Days**
 
-You can read more about it [here](https://www.xda-developers.com/slack-redesign-microsoft-teams/).
+You can read more about it [here](https://deadline.com/2023/08/writers-strike-picket-line-regulars-bolster-solidarity-100-days-1235457731/).
 
 ## Requirements
 - Python 3.8
