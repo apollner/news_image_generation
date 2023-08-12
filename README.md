@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung is kicking off its One UI 6 beta program**
+**Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1**
 
-You can read more about it [here](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23).
+You can read more about it [here](https://www.youtube.com/watch?v=CcJMjzgQZHM).
 
 ## Requirements
 - Python 3.8
