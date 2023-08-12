@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid Vaccine Revenues Are Caving. New Booster Shots May Not Help.**
+**Heat can endanger some people faster than others. Are you one of them?**
 
-You can read more about it [here](https://www.barrons.com/articles/covid-vaccine-booster-shot-pfizer-moderna-revenue-a98ee0de).
+You can read more about it [here](https://www.cnn.com/2023/08/11/health/most-at-risk-heat-wave-wellness/index.html).
 
 ## Requirements
 - Python 3.8
