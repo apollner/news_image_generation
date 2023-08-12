@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s Luna 25 mission launches to the moon**
+**Biden asks Congress for $40 billion to support Ukraine, replenish US disaster aid and bolster border**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/world/russia-luna-25-launch-scn/index.html).
+You can read more about it [here](https://apnews.com/article/ukraine-russia-invasion-biden-congress-funding-d392f9b1adbb9c44249dce1cccdc2d1e).
 
 ## Requirements
 - Python 3.8
