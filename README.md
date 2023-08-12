@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tory Lanez Speaks Out After 10-Year Prison Sentence for Megan Thee Stallion Shooting: ‘I Refuse to Apologize’**
+**Maui wildfires live updates: 55 dead as Lahaina fire continues - The Washington Post**
 
-You can read more about it [here](https://www.billboard.com/business/legal/tory-lanez-reacts-megan-thee-stallion-prison-sentence-1235389816/).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/08/11/maui-fires-deaths-lahaina-hawaii/).
 
 ## Requirements
 - Python 3.8
