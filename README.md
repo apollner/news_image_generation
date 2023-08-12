@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1**
+**Niger coup: West African bloc activates standby force for possible intervention**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CcJMjzgQZHM).
+You can read more about it [here](https://www.reuters.com/world/africa/west-african-leaders-aim-agree-next-steps-defiant-niger-junta-2023-08-10/).
 
 ## Requirements
 - Python 3.8
