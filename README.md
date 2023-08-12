@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China property giant Country Garden warns of up to $7.6bn loss**
+**Supreme Court blocks $6 billion opioid settlement that would have given the Sackler family immunity**
 
-You can read more about it [here](https://www.bbc.com/news/business-66470170).
+You can read more about it [here](https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html).
 
 ## Requirements
 - Python 3.8
