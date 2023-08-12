@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel CPUs Witness Downfall In Performance After “Downfall” Vulnerability Mitigations Applied**
+**European markets close lower; UBS ends Credit Suisse protection measures, shares up 4.7%**
 
-You can read more about it [here](https://wccftech.com/intel-cpus-witness-downfall-in-performance-after-downfall-vulnerability-mitigations-applied/).
+You can read more about it [here](https://www.cnbc.com/2023/08/11/european-markets-open-to-close-earnings-data-and-news.html).
 
 ## Requirements
 - Python 3.8
