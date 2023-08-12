@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Long-term use of certain reflux medications is associated with a higher risk of dementia, study suggests**
+**Niger coup: West African bloc activates standby force for possible intervention**
 
-You can read more about it [here](https://www.cnn.com/2023/08/09/health/acid-reflux-medication-dementia/index.html).
+You can read more about it [here](https://www.reuters.com/world/africa/west-african-leaders-aim-agree-next-steps-defiant-niger-junta-2023-08-10/).
 
 ## Requirements
 - Python 3.8
