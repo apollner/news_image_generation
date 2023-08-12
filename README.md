@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Senator Joe Manchin says he's been thinking seriously about becoming an independent**
+**Ecuador holds 6 Colombians in slaying of presidential candidate as violence weighs on nation**
 
-You can read more about it [here](https://apnews.com/article/manchin-democrat-independent-party-ce8dfbaeb2d562a408e4960b72b08a7f).
+You can read more about it [here](https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-colombians-4ffb2030f439a6f1e6039326e1ee64b6).
 
 ## Requirements
 - Python 3.8
