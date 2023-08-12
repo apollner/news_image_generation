@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Last Voyage Of The Demeter’ Charts $750K In Thursday Night Previews; ‘Barbie’ Crossing Half-Billion U.S. Today – Box Office**
+**Intel CPUs Witness Downfall In Performance After “Downfall” Vulnerability Mitigations Applied**
 
-You can read more about it [here](https://deadline.com/2023/08/box-office-barbie-last-voyage-of-the-demeter-1235460243/).
+You can read more about it [here](https://wccftech.com/intel-cpus-witness-downfall-in-performance-after-downfall-vulnerability-mitigations-applied/).
 
 ## Requirements
 - Python 3.8
