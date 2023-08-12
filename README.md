@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden asks Congress for $40 billion to support Ukraine, replenish US disaster aid and bolster border**
+**Fernando Villavicencio assassination: suspects are Colombian, police say**
 
-You can read more about it [here](https://apnews.com/article/ukraine-russia-invasion-biden-congress-funding-d392f9b1adbb9c44249dce1cccdc2d1e).
+You can read more about it [here](https://www.reuters.com/world/americas/assassination-presidential-candidate-shocks-ecuador-election-2023-08-10/).
 
 ## Requirements
 - Python 3.8
