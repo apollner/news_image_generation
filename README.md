@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman arrested in connection to Montgomery riverfront brawl**
+**Russia’s Luna 25 mission launches to the moon**
 
-You can read more about it [here](https://www.wsfa.com/2023/08/10/woman-arrested-connection-montgomery-riverfront-brawl/).
+You can read more about it [here](https://www.cnn.com/2023/08/10/world/russia-luna-25-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
