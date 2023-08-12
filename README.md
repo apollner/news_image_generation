@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui wildfires live updates: 55 dead as Lahaina fire continues - The Washington Post**
+**Samsung is kicking off its One UI 6 beta program**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/08/11/maui-fires-deaths-lahaina-hawaii/).
+You can read more about it [here](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23).
 
 ## Requirements
 - Python 3.8
