@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European markets close lower; UBS ends Credit Suisse protection measures, shares up 4.7%**
+**Kentucky school system closes after ‘transportation disaster’ leaves kids on buses and in schools for hours**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/11/european-markets-open-to-close-earnings-data-and-news.html).
+You can read more about it [here](https://www.cnn.com/2023/08/11/us/kentucky-schools-transportation-disaster/index.html).
 
 ## Requirements
 - Python 3.8
