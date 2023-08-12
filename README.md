@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuador holds 6 Colombians in slaying of presidential candidate as violence weighs on nation**
+**‘Last Voyage Of The Demeter’ Charts $750K In Thursday Night Previews; ‘Barbie’ Crossing Half-Billion U.S. Today – Box Office**
 
-You can read more about it [here](https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-colombians-4ffb2030f439a6f1e6039326e1ee64b6).
+You can read more about it [here](https://deadline.com/2023/08/box-office-barbie-last-voyage-of-the-demeter-1235460243/).
 
 ## Requirements
 - Python 3.8
