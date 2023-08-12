@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quake II Looks Incredible on Switch - Gameplay**
+**Grand jury indicts Raul Meza Jr. in 2 Austin area murders**
 
-You can read more about it [here](https://www.youtube.com/watch?v=z-h6dhORwaA).
+You can read more about it [here](https://www.kxan.com/news/local/austin/grand-jury-indicts-raul-meza-on-murder-capital-murder-connected-to-66-year-old-womans-death/).
 
 ## Requirements
 - Python 3.8
