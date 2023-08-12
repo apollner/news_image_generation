@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UBS ends taxpayer backstop granted for Credit Suisse rescue**
+**Democratic Senator Joe Manchin says he's been thinking seriously about becoming an independent**
 
-You can read more about it [here](https://www.reuters.com/business/finance/ubs-terminates-loss-protection-agreement-with-swiss-government-2023-08-11/).
+You can read more about it [here](https://apnews.com/article/manchin-democrat-independent-party-ce8dfbaeb2d562a408e4960b72b08a7f).
 
 ## Requirements
 - Python 3.8
