@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia launches lunar lander in race to find water on moon**
+**With eyes on Taiwan, new China ban shows the U.S. may be learning lessons from mistakes with Russia**
 
-You can read more about it [here](https://www.reuters.com/technology/space/russia-launch-lunar-spacecraft-race-find-water-moon-2023-08-10/).
+You can read more about it [here](https://www.cnbc.com/2023/08/11/us-executive-order-on-china-shows-its-learning-from-russia-mistakes.html).
 
 ## Requirements
 - Python 3.8
