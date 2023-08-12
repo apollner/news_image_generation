@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court blocks $6 billion opioid settlement that would have given the Sackler family immunity**
+**Fernando Villavicencio assassination: suspects are Colombian, police say**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html).
+You can read more about it [here](https://www.reuters.com/world/americas/assassination-presidential-candidate-shocks-ecuador-election-2023-08-10/).
 
 ## Requirements
 - Python 3.8
