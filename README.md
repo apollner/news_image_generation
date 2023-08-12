@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perseid meteor shower peaks this weekend — but 2028's show might be one for the ages**
+**UBS ends taxpayer backstop granted for Credit Suisse rescue**
 
-You can read more about it [here](https://www.space.com/perseid-meteor-shower-storm-2028).
+You can read more about it [here](https://www.reuters.com/business/finance/ubs-terminates-loss-protection-agreement-with-swiss-government-2023-08-11/).
 
 ## Requirements
 - Python 3.8
