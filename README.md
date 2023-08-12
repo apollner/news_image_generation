@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With eyes on Taiwan, new China ban shows the U.S. may be learning lessons from mistakes with Russia**
+**Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/11/us-executive-order-on-china-shows-its-learning-from-russia-mistakes.html).
+You can read more about it [here](https://www.youtube.com/watch?v=CcJMjzgQZHM).
 
 ## Requirements
 - Python 3.8
