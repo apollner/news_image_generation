@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Insurers won't cover new Alzheimer's treatment for some customers**
+**Quake II Looks Incredible on Switch - Gameplay**
 
-You can read more about it [here](https://abcnews.go.com/Health/wireStory/insurers-cover-new-alzheimers-treatment-customers-102197604).
+You can read more about it [here](https://www.youtube.com/watch?v=z-h6dhORwaA).
 
 ## Requirements
 - Python 3.8
