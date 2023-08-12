@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fernando Villavicencio assassination: suspects are Colombian, police say**
+**China property giant Country Garden warns of up to $7.6bn loss**
 
-You can read more about it [here](https://www.reuters.com/world/americas/assassination-presidential-candidate-shocks-ecuador-election-2023-08-10/).
+You can read more about it [here](https://www.bbc.com/news/business-66470170).
 
 ## Requirements
 - Python 3.8
