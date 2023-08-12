@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen accused of stabbing O'Shae Sibley to death to be arraigned in Brooklyn**
+**Covid Vaccine Revenues Are Caving. New Booster Shots May Not Help.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Zo4_spdHt4Q).
+You can read more about it [here](https://www.barrons.com/articles/covid-vaccine-booster-shot-pfizer-moderna-revenue-a98ee0de).
 
 ## Requirements
 - Python 3.8
