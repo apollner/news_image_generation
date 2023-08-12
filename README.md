@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fernando Villavicencio assassination: suspects are Colombian, police say**
+**Long-term use of certain reflux medications is associated with a higher risk of dementia, study suggests**
 
-You can read more about it [here](https://www.reuters.com/world/americas/assassination-presidential-candidate-shocks-ecuador-election-2023-08-10/).
+You can read more about it [here](https://www.cnn.com/2023/08/09/health/acid-reflux-medication-dementia/index.html).
 
 ## Requirements
 - Python 3.8
