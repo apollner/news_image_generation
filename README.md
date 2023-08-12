@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US proposes January start for Trump election trial**
+**Woman arrested in connection to Montgomery riverfront brawl**
 
-You can read more about it [here](https://www.reuters.com/legal/special-counsel-smith-proposes-jan-2-2024-date-trump-trial-filing-2023-08-10/).
+You can read more about it [here](https://www.wsfa.com/2023/08/10/woman-arrested-connection-montgomery-riverfront-brawl/).
 
 ## Requirements
 - Python 3.8
