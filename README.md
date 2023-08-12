@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran transfers 5 Iranian-Americans from prison to house arrest in step toward deal for full release**
+**Tory Lanez Speaks Out After 10-Year Prison Sentence for Megan Thee Stallion Shooting: ‘I Refuse to Apologize’**
 
-You can read more about it [here](https://apnews.com/article/iran-us-prisoners-house-arrest-7be581f79f66636355600627dda3a5ae).
+You can read more about it [here](https://www.billboard.com/business/legal/tory-lanez-reacts-megan-thee-stallion-prison-sentence-1235389816/).
 
 ## Requirements
 - Python 3.8
