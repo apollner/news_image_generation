@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat can endanger some people faster than others. Are you one of them?**
+**Insurers won't cover new Alzheimer's treatment for some customers**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/health/most-at-risk-heat-wave-wellness/index.html).
+You can read more about it [here](https://abcnews.go.com/Health/wireStory/insurers-cover-new-alzheimers-treatment-customers-102197604).
 
 ## Requirements
 - Python 3.8
