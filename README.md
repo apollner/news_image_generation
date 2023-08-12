@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1**
+**New Covid Boosters Are Coming. Will Anyone Take Them?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CcJMjzgQZHM).
+You can read more about it [here](https://www.barrons.com/articles/covid-booster-pfizer-moderna-a98ee0de).
 
 ## Requirements
 - Python 3.8
