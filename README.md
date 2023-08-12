@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Covid Boosters Are Coming. Will Anyone Take Them?**
+**Spain edges past the Netherlands to reach first ever Women’s World Cup semifinals**
 
-You can read more about it [here](https://www.barrons.com/articles/covid-booster-pfizer-moderna-a98ee0de).
+You can read more about it [here](https://www.cnn.com/2023/08/10/football/spain-netherlands-japan-sweden-womens-world-cup-quarterfinals-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
