@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain edges past the Netherlands to reach first ever Women’s World Cup semifinals**
+**Perseid meteor shower peaks this weekend, sending shooting stars across the sky**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/football/spain-netherlands-japan-sweden-womens-world-cup-quarterfinals-spt-intl/index.html).
+You can read more about it [here](https://www.npr.org/2023/08/11/1193239359/the-perseid-meteor-shower-peaks-this-weekend-heres-how-to-watch).
 
 ## Requirements
 - Python 3.8
