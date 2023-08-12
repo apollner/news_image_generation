@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s Luna 25 mission launches to the moon**
+**‘I Refuse to Apologize’: Tory Lanez After 10-Year Sentence for Megan Thee Stallion Shooting**
 
-You can read more about it [here](https://www.cnn.com/2023/08/10/world/russia-luna-25-launch-scn/index.html).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/tory-lanez-statement-megan-thee-stallion-shooting-sentencing-1234804960/).
 
 ## Requirements
 - Python 3.8
