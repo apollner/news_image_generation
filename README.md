@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1**
+**Iran transfers 5 Iranian-Americans from prison to house arrest in step toward deal for full release**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CcJMjzgQZHM).
+You can read more about it [here](https://apnews.com/article/iran-us-prisoners-house-arrest-7be581f79f66636355600627dda3a5ae).
 
 ## Requirements
 - Python 3.8
