@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Overwatch 2: Invasion - Official Illari Gameplay Trailer**
+**NYC teen dies in apparent drowning after leaping off ledge of upstate waterfall**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3M5om9-Esaw).
+You can read more about it [here](https://www.cbsnews.com/news/nyc-teen-dies-apparent-drowning-waterfall-fawns-leap-catskills/).
 
 ## Requirements
 - Python 3.8
