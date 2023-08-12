@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US-Iran prisoner swap said to be part of larger deal that addresses nuclear program**
+**Russia launches lunar lander in race to find water on moon**
 
-You can read more about it [here](https://www.timesofisrael.com/us-iran-prisoner-swap-said-to-be-part-of-larger-deal-that-addresses-nuclear-program/).
+You can read more about it [here](https://www.reuters.com/technology/space/russia-launch-lunar-spacecraft-race-find-water-moon-2023-08-10/).
 
 ## Requirements
 - Python 3.8
