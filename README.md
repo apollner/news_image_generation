@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC teen dies in apparent drowning after leaping off ledge of upstate waterfall**
+**US proposes January start for Trump election trial**
 
-You can read more about it [here](https://www.cbsnews.com/news/nyc-teen-dies-apparent-drowning-waterfall-fawns-leap-catskills/).
+You can read more about it [here](https://www.reuters.com/legal/special-counsel-smith-proposes-jan-2-2024-date-trump-trial-filing-2023-08-10/).
 
 ## Requirements
 - Python 3.8
