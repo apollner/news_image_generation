@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grand jury indicts Raul Meza Jr. in 2 Austin area murders**
+**Phil Mickelson's alleged gambling habit could contribute to more oversight of all sports**
 
-You can read more about it [here](https://www.kxan.com/news/local/austin/grand-jury-indicts-raul-meza-on-murder-capital-murder-connected-to-66-year-old-womans-death/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/phil-mickelsons-alleged-gambling-habit-could-contribute-to-more-oversight-of-all-sports).
 
 ## Requirements
 - Python 3.8
