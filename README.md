@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuador holds 6 Colombians in slaying of presidential candidate as violence weighs on nation**
+**Teen accused of stabbing O'Shae Sibley to death to be arraigned in Brooklyn**
 
-You can read more about it [here](https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-colombians-4ffb2030f439a6f1e6039326e1ee64b6).
+You can read more about it [here](https://www.youtube.com/watch?v=Zo4_spdHt4Q).
 
 ## Requirements
 - Python 3.8
