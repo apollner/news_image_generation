@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perseid meteor shower peaks this weekend, sending shooting stars across the sky**
+**Russia launches 'Luna-25' mission in race to moon's South pole**
 
-You can read more about it [here](https://www.npr.org/2023/08/11/1193239359/the-perseid-meteor-shower-peaks-this-weekend-heres-how-to-watch).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/11/russia-rocket-luna25-moon-launch/).
 
 ## Requirements
 - Python 3.8
