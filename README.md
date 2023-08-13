@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Awesome Perseid meteor shower show ahead if clouds clear over Colorado**
+**Pence is having a moment. It's all about Trump and Jan. 6**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/perseid-meteor-shower-show-clouds-clear-colorado-moon-denver/).
+You can read more about it [here](https://www.politico.com/news/2023/08/11/pence-finds-the-spotlight-and-its-all-about-trump-00110935).
 
 ## Requirements
 - Python 3.8
