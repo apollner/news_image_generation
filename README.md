@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Russia Is Racing India To The Moon’s South Pole | Insider News**
+**Julian StarFest returns amid Perseid meteor shower peak in San Diego**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gs1CXz5wBrA).
+You can read more about it [here](https://fox5sandiego.com/entertainment/julian-starfest-returns-amid-perseid-meteor-shower-peak-in-san-diego/).
 
 ## Requirements
 - Python 3.8
