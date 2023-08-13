@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lionel Messi comes to Philadelphia on Tuesday. How to get Union tickets today**
+**Fourth suspect charged with assault in Alabama riverfront brawl as she turns self in**
 
-You can read more about it [here](https://www.delawareonline.com/story/news/2023/08/12/lionel-messi-inter-miami-take-on-philadelphia-union-how-to-get-tickets-subaru-park-leagues-cup/70581160007/).
+You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/riverfront-brawl-montgomery-fourth-charged-b2391924.html).
 
 ## Requirements
 - Python 3.8
