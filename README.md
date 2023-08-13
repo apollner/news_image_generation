@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Violent threats against public officials are rising. Here's why**
+**NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays**
 
-You can read more about it [here](https://www.npr.org/2023/08/12/1193463117/violent-threats-against-public-officials-are-rising-heres-why).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/).
 
 ## Requirements
 - Python 3.8
