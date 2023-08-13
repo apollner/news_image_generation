@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's behind the tentative US-Iran agreement involving prisoners and frozen funds**
+**Pence jokes he will ‘bring a fly swatter’ to first GOP debate**
 
-You can read more about it [here](https://apnews.com/article/biden-iran-us-prisoners-swap-deal-billions-e17dc67521798a2836ab4a3213e9277b).
+You can read more about it [here](https://thehill.com/homenews/campaign/4149818-pence-jokes-he-will-bring-a-fly-swatter-to-first-gop-debate/).
 
 ## Requirements
 - Python 3.8
