@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US attorney leading Hunter Biden criminal probe is now a special counsel after plea talks break down and a trial looms**
+**Book-Banning Fever: Granbury, Texas, School Trustee Karen Lowery Snuck Into Library**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/politics/hunter-biden-special-counsel-appointment-merrick-garland/index.html).
+You can read more about it [here](https://www.thedailybeast.com/book-banning-fever-granbury-texas-school-trustee-karen-lowery-snuck-into-library).
 
 ## Requirements
 - Python 3.8
