@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hip-Hop 50: Run-DMC, Slick Rick, Doug E. Fresh, Snoop Dogg, Nas, Lauryn Hill Perform at Yankee Stadium**
+**France sees a slight rebound in Covid-19 with the emergence of ‘Eris’ variant**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/hip-hop-50-run-dmc-snoop-dogg-slick-rick-doug-e-fresh-nas-1235562276/).
+You can read more about it [here](https://www.france24.com/en/france/20230812-france-sees-a-slight-rebound-in-covid-19-with-the-emergence-of-eris-variant).
 
 ## Requirements
 - Python 3.8
