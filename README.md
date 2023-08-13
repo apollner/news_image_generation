@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence is having a moment. It's all about Trump and Jan. 6**
+**Kenny Pickett, George Pickens hook up for 33-yard TD to cap first drive**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/11/pence-finds-the-spotlight-and-its-all-about-trump-00110935).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenny-pickett-george-pickens-hook-up-for-33-yard-td-to-cap-first-drive).
 
 ## Requirements
 - Python 3.8
