@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Stories: iPhone 15 Event Date, Apple Watch and Mac Rumors, and More**
+**Hip-Hop 50: Run-DMC, Slick Rick, Doug E. Fresh, Snoop Dogg, Nas, Lauryn Hill Perform at Yankee Stadium**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/12/top-stories-iphone-15-event-date-rumor/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/hip-hop-50-run-dmc-snoop-dogg-slick-rick-doug-e-fresh-nas-1235562276/).
 
 ## Requirements
 - Python 3.8
