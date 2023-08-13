@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France sees a slight rebound in Covid-19 with the emergence of ‘Eris’ variant**
+**Bird feeding can harm, disadvantage avian population, new study shows**
 
-You can read more about it [here](https://www.france24.com/en/france/20230812-france-sees-a-slight-rebound-in-covid-19-with-the-emergence-of-eris-variant).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/12/why-study-says-stop-feeding-birds/70567283007/).
 
 ## Requirements
 - Python 3.8
