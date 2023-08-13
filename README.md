@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marine is charged with sexual assault after missing 14-year-old found in barracks**
+**What's behind the tentative US-Iran agreement involving prisoners and frozen funds**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/california-marine-charged-allegations-sexual-assault-minor-authorities-rcna99548).
+You can read more about it [here](https://apnews.com/article/biden-iran-us-prisoners-swap-deal-billions-e17dc67521798a2836ab4a3213e9277b).
 
 ## Requirements
 - Python 3.8
