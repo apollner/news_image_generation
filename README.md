@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The failed Ohio amendment reflects Republican efforts nationally to restrict direct democracy**
+**Top Stories: iPhone 15 Event Date, Apple Watch and Mac Rumors, and More**
 
-You can read more about it [here](https://apnews.com/article/direct-democracy-ballot-initiatives-republicans-ohio-abortion-bdf2dd061925e49d8dad69e2bd00f835).
+You can read more about it [here](https://www.macrumors.com/2023/08/12/top-stories-iphone-15-event-date-rumor/).
 
 ## Requirements
 - Python 3.8
