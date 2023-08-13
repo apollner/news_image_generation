@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First on CNN: Fulton County DA to present Trump election subversion case to grand jury early next week**
+**Why Russia Is Racing India To The Moon’s South Pole | Insider News**
 
-You can read more about it [here](https://www.cnn.com/2023/08/12/politics/geoff-duncan-georgia-election-probe/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=gs1CXz5wBrA).
 
 ## Requirements
 - Python 3.8
