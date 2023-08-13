@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky school system closes after ‘transportation disaster’ leaves kids on buses and in schools for hours**
+**Pixel 8 Pro promo video leaks 'Audio Magic Eraser' and blue color**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/us/kentucky-schools-transportation-disaster/index.html).
+You can read more about it [here](https://9to5google.com/2023/08/11/pixel-8-pro-blie-audio-magic-eraser/).
 
 ## Requirements
 - Python 3.8
