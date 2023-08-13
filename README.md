@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's growing legal woes throw new wrench into 2024 election**
+**The failed Ohio amendment reflects Republican efforts nationally to restrict direct democracy**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/hunter-bidens-growing-legal-woes-throw-new-wrench-2024-election-rcna99534).
+You can read more about it [here](https://apnews.com/article/direct-democracy-ballot-initiatives-republicans-ohio-abortion-bdf2dd061925e49d8dad69e2bd00f835).
 
 ## Requirements
 - Python 3.8
