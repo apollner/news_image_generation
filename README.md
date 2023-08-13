@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3-year-old migrant girl dies aboard bus headed from Texas to Chicago**
+**Smackdown: August 11, 2023**
 
-You can read more about it [here](https://www.cbsnews.com/news/migrant-girl-dies-bus-asylum-seekers-texas-chicago-illinois/).
+You can read more about it [here](http://www.wwe.com/2023-08-11).
 
 ## Requirements
 - Python 3.8
