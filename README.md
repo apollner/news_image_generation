@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to Watch Titans' First Preseason Game in Chicago on Saturday**
+**Hip-Hop 50: Run-DMC, Slick Rick, Doug E. Fresh, Snoop Dogg, Nas, Lauryn Hill Perform at Yankee Stadium**
 
-You can read more about it [here](https://www.si.com/nfl/titans/news/how-to-watch-tennessee-titans-first-preseason-game-in-chicago-on-saturday).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/hip-hop-50-run-dmc-snoop-dogg-slick-rick-doug-e-fresh-nas-1235562276/).
 
 ## Requirements
 - Python 3.8
