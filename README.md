@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence jokes he will ‘bring a fly swatter’ to first GOP debate**
+**New Yorkers feeling the squeeze as Manhattan rents hit new high**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4149818-pence-jokes-he-will-bring-a-fly-swatter-to-first-gop-debate/).
+You can read more about it [here](https://www.youtube.com/watch?v=GESOh-uZ63A).
 
 ## Requirements
 - Python 3.8
