@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Book-Banning Fever: Granbury, Texas, School Trustee Karen Lowery Snuck Into Library**
+**Texas to see 'the best meteor shower of the year' this weekend**
 
-You can read more about it [here](https://www.thedailybeast.com/book-banning-fever-granbury-texas-school-trustee-karen-lowery-snuck-into-library).
+You can read more about it [here](https://www.chron.com/news/space/article/texas-meteor-shower-perseids-18292146.php).
 
 ## Requirements
 - Python 3.8
