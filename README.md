@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMPTP Makes Counterproposal To WGA; Negotiations Recess But Will Resume Next Week**
+**Marine charged with sexual assault of 14-year-old girl found at Camp Pendleton**
 
-You can read more about it [here](https://deadline.com/2023/08/writers-strike-talks-continue-1235460087/).
+You can read more about it [here](https://news.yahoo.com/marine-charged-sexual-assault-14-000531210.html).
 
 ## Requirements
 - Python 3.8
