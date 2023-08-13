@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australia progresses to Women’s World Cup semifinals after dramatic penalty shootout win over France**
+**Iowa governor at center of 2024 GOP race stays neutral but leaves door open for late endorsement**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/football/australia-france-england-colombia-womens-world-cup-quarterfinal-spt-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/12/politics/kim-reynolds-iowa-governor-republican-endorsement/index.html).
 
 ## Requirements
 - Python 3.8
