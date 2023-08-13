@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jodie Sweetin ‘disappointed' her new movie was sold to former costar Candace Cameron Bure's network**
+**DeSantis woos voters, lawmakers at Iowa State Fair: Live updates**
 
-You can read more about it [here](https://www.nbclosangeles.com/entertainment/entertainment-news/jodie-sweetin-disappointed-her-new-movie-was-sold-to-former-costar-candace-cameron-bures-network/3204695/).
+You can read more about it [here](https://thehill.com/homenews/4145855-trump-desantis-iowa-state-fair-live-updates/).
 
 ## Requirements
 - Python 3.8
