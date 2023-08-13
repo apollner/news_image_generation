@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk says proposed Zuckerberg cage fight to be held at ‘epic location’ in Italy**
+**Maui fire survivor forced into ocean as flames ripped through Lahaina**
 
-You can read more about it [here](https://www.theguardian.com/technology/2023/aug/11/elon-musk-mark-zuckerberg-cage-fight-italy-government).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/12/maui-fire-survivor-lahaina-hawaii/).
 
 ## Requirements
 - Python 3.8
