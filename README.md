@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 8 Pro promo video leaks 'Audio Magic Eraser' and blue color**
+**Viet Dinh, Fox's top lawyer who oversaw its $787 million Dominion settlement, is stepping down**
 
-You can read more about it [here](https://9to5google.com/2023/08/11/pixel-8-pro-blie-audio-magic-eraser/).
+You can read more about it [here](https://www.cnn.com/2023/08/11/business/viet-dinh-fox/index.html).
 
 ## Requirements
 - Python 3.8
