@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird feeding can harm, disadvantage avian population, new study shows**
+**First on CNN: Fulton County DA to present Trump election subversion case to grand jury early next week**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/12/why-study-says-stop-feeding-birds/70567283007/).
+You can read more about it [here](https://www.cnn.com/2023/08/12/politics/geoff-duncan-georgia-election-probe/index.html).
 
 ## Requirements
 - Python 3.8
