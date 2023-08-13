@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays**
+**Lionel Messi comes to Philadelphia on Tuesday. How to get Union tickets today**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/).
+You can read more about it [here](https://www.delawareonline.com/story/news/2023/08/12/lionel-messi-inter-miami-take-on-philadelphia-union-how-to-get-tickets-subaru-park-leagues-cup/70581160007/).
 
 ## Requirements
 - Python 3.8
