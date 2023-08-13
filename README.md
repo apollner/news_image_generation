@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Viet Dinh, Fox's top lawyer who oversaw its $787 million Dominion settlement, is stepping down**
+**JCPS superintendent hopes to have kids back in class by middle of next week**
 
-You can read more about it [here](https://www.cnn.com/2023/08/11/business/viet-dinh-fox/index.html).
+You can read more about it [here](https://www.wlky.com/article/jcps-buses-dr-marty-pollio-update/44795045).
 
 ## Requirements
 - Python 3.8
