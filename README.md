@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas to see 'the best meteor shower of the year' this weekend**
+**🔴 Live: Niger coup supporters protest near French military base as ECOWAS suspends meeting**
 
-You can read more about it [here](https://www.chron.com/news/space/article/texas-meteor-shower-perseids-18292146.php).
+You can read more about it [here](https://www.france24.com/en/africa/20230812-%F0%9F%94%B4-live-niger-coup-supporters-protest-near-french-military-base-as-ecowas-delays-meeting).
 
 ## Requirements
 - Python 3.8
