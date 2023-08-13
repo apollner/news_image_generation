@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Montgomery brawl response steeped with the Alabama city's long history**
+**Hunter Biden's growing legal woes throw new wrench into 2024 election**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/12/montgomery-brawl-alabama-history-response/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/hunter-bidens-growing-legal-woes-throw-new-wrench-2024-election-rcna99534).
 
 ## Requirements
 - Python 3.8
