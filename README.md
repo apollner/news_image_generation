@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Yorkers feeling the squeeze as Manhattan rents hit new high**
+**NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays**
 
-You can read more about it [here](https://www.youtube.com/watch?v=GESOh-uZ63A).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/).
 
 ## Requirements
 - Python 3.8
