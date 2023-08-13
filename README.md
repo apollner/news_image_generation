@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fourth suspect charged with assault in Alabama riverfront brawl as she turns self in**
+**Jodie Sweetin ‘disappointed' her new movie was sold to former costar Candace Cameron Bure's network**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/riverfront-brawl-montgomery-fourth-charged-b2391924.html).
+You can read more about it [here](https://www.nbclosangeles.com/entertainment/entertainment-news/jodie-sweetin-disappointed-her-new-movie-was-sold-to-former-costar-candace-cameron-bures-network/3204695/).
 
 ## Requirements
 - Python 3.8
