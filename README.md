@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marine charged with sexual assault of 14-year-old girl found at Camp Pendleton**
+**US attorney leading Hunter Biden criminal probe is now a special counsel after plea talks break down and a trial looms**
 
-You can read more about it [here](https://news.yahoo.com/marine-charged-sexual-assault-14-000531210.html).
+You can read more about it [here](https://www.cnn.com/2023/08/11/politics/hunter-biden-special-counsel-appointment-merrick-garland/index.html).
 
 ## Requirements
 - Python 3.8
