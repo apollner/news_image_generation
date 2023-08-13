@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays**
+**3-year-old migrant girl dies aboard bus headed from Texas to Chicago**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/).
+You can read more about it [here](https://www.cbsnews.com/news/migrant-girl-dies-bus-asylum-seekers-texas-chicago-illinois/).
 
 ## Requirements
 - Python 3.8
