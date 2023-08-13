@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**🔴 Live: Niger coup supporters protest near French military base as ECOWAS suspends meeting**
+**Marine is charged with sexual assault after missing 14-year-old found in barracks**
 
-You can read more about it [here](https://www.france24.com/en/africa/20230812-%F0%9F%94%B4-live-niger-coup-supporters-protest-near-french-military-base-as-ecowas-delays-meeting).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/california-marine-charged-allegations-sexual-assault-minor-authorities-rcna99548).
 
 ## Requirements
 - Python 3.8
