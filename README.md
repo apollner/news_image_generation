@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui fire survivor forced into ocean as flames ripped through Lahaina**
+**Jordan Love, Matt LaFleur happy with performance in preseason opener**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/12/maui-fire-survivor-lahaina-hawaii/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-matt-lafleur-happy-with-performance-in-preseason-opener).
 
 ## Requirements
 - Python 3.8
