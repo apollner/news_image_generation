@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenny Pickett, George Pickens hook up for 33-yard TD to cap first drive**
+**AMPTP Makes Counterproposal To WGA; Negotiations Recess But Will Resume Next Week**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenny-pickett-george-pickens-hook-up-for-33-yard-td-to-cap-first-drive).
+You can read more about it [here](https://deadline.com/2023/08/writers-strike-talks-continue-1235460087/).
 
 ## Requirements
 - Python 3.8
