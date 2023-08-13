@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smackdown: August 11, 2023**
+**Australia progresses to Women’s World Cup semifinals after dramatic penalty shootout win over France**
 
-You can read more about it [here](http://www.wwe.com/2023-08-11).
+You can read more about it [here](https://www.cnn.com/2023/08/11/football/australia-france-england-colombia-womens-world-cup-quarterfinal-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
