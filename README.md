@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa governor at center of 2024 GOP race stays neutral but leaves door open for late endorsement**
+**Musk says proposed Zuckerberg cage fight to be held at ‘epic location’ in Italy**
 
-You can read more about it [here](https://www.cnn.com/2023/08/12/politics/kim-reynolds-iowa-governor-republican-endorsement/index.html).
+You can read more about it [here](https://www.theguardian.com/technology/2023/aug/11/elon-musk-mark-zuckerberg-cage-fight-italy-government).
 
 ## Requirements
 - Python 3.8
