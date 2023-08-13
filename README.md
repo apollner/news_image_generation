@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JCPS superintendent hopes to have kids back in class by middle of next week**
+**Awesome Perseid meteor shower show ahead if clouds clear over Colorado**
 
-You can read more about it [here](https://www.wlky.com/article/jcps-buses-dr-marty-pollio-update/44795045).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/perseid-meteor-shower-show-clouds-clear-colorado-moon-denver/).
 
 ## Requirements
 - Python 3.8
