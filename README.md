@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Love, Matt LaFleur happy with performance in preseason opener**
+**Violent threats against public officials are rising. Here's why**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-matt-lafleur-happy-with-performance-in-preseason-opener).
+You can read more about it [here](https://www.npr.org/2023/08/12/1193463117/violent-threats-against-public-officials-are-rising-heres-why).
 
 ## Requirements
 - Python 3.8
