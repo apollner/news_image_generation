@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis woos voters, lawmakers at Iowa State Fair: Live updates**
+**Montgomery brawl response steeped with the Alabama city's long history**
 
-You can read more about it [here](https://thehill.com/homenews/4145855-trump-desantis-iowa-state-fair-live-updates/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/12/montgomery-brawl-alabama-history-response/).
 
 ## Requirements
 - Python 3.8
