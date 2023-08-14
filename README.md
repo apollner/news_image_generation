@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Jones, lyricist of long-running musical 'The Fantasticks,' dies**
+**Hunter Biden's attorney expects 'no new evidence' to be found by special counsel**
 
-You can read more about it [here](https://ew.com/theater/tom-jones-dead-the-fantasticks-lyricist/).
+You can read more about it [here](https://www.politico.com/news/2023/08/13/hunter-biden-attorney-special-counsel-00110990).
 
 ## Requirements
 - Python 3.8
