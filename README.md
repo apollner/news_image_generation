@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg Says “It’s Time to Move On” From Elon Musk Fight**
+**Bills vs. Colts: Trends after NFL preseason Week 1 action**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/digital/mark-zuckerberg-elon-musk-fight-time-to-move-on-1235565057/).
+You can read more about it [here](https://www.buffalorumblings.com/2023/8/13/23830031/bills-vs-colts-trends-after-week-1-of-nfl-preseason-matt-barkley-kyle-allen-khalil-shakir-aj-klein).
 
 ## Requirements
 - Python 3.8
