@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘The Last Voyage of the Demeter’ Flops With $6.5 Million, ‘Barbie’ Keeps Her Crown For 4th Weekend With $33.7 Million**
+**Shane Steichen: Anthony Richardson showed "great poise" against Bills**
 
-You can read more about it [here](https://variety.com/2023/film/news/box-office-last-voyage-of-the-demeter-flops-opening-weekend-results-barbie-1235694927/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-anthony-richardson-showed-great-poise-against-bills).
 
 ## Requirements
 - Python 3.8
