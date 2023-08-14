@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine live briefing: Russia says it foiled attack on Crimean Bridge; Ukraine reports slew of deadly strikes**
+**UFC Vegas 78 post-fight show: Reaction to Vicente Luque and Cub Swanson wins, MMA judging**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/13/russia-ukraine-war-news/).
+You can read more about it [here](https://www.mmafighting.com/2023/8/12/23830234/ufc-vegas-78-post-fight-show-reaction-to-vicente-luque-and-cub-swanson-wins-mma-judging).
 
 ## Requirements
 - Python 3.8
