@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Classes still off early next week in Kentucky's largest school district due to bus schedule mess**
+**Hunter Biden drama assured to hang over Joe Biden's 2024 campaign with special counsel**
 
-You can read more about it [here](https://apnews.com/article/kentucky-school-buses-classes-canceled-4c1e0a758493415db4607a2b442e92c1).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/12/hunter-biden-drama-poised-to-hang-over-joe-bidens-2024-campaign/70581690007/).
 
 ## Requirements
 - Python 3.8
