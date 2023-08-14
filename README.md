@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mob-style smash-and-grab robbery at Nordstrom store in Topanga mall caught on video; LAPD searching for suspects**
+**Ukraine live briefing: Russia says it foiled attack on Crimean Bridge; Ukraine reports slew of deadly strikes**
 
-You can read more about it [here](https://abc7.com/topanga-nordstrom-robbery-smash-and-grab-southern-california-la-video/13640093/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/13/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
