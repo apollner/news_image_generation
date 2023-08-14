@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's attorney expects 'no new evidence' to be found by special counsel**
+**Erie County refuses NYC migrants after two sex assaults at Buffalo-area hotels**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/13/hunter-biden-attorney-special-counsel-00110990).
+You can read more about it [here](https://nypost.com/2023/08/13/ny-erie-county-denies-nyc-migrants-amid-sex-assaults-by-buffalo/).
 
 ## Requirements
 - Python 3.8
