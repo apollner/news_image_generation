@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Popular weight-loss drugs like Wegovy may raise risk of complications under anesthesia**
+**Tom Jones, lyricist of long-running musical 'The Fantasticks,' dies**
 
-You can read more about it [here](https://apnews.com/article/wegovy-ozempic-weight-loss-drugs-surgery-anesthesia-6e2556948334d0c6aa2ee0c7cbacb77d).
+You can read more about it [here](https://ew.com/theater/tom-jones-dead-the-fantasticks-lyricist/).
 
 ## Requirements
 - Python 3.8
