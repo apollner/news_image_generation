@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg says he is 'ready to fight' Elon Musk**
+**Source: Jim Harbaugh's suspension deal with NCAA breaks down; he's now expected to coach full 2023 season**
 
-You can read more about it [here](https://nypost.com/2023/08/12/mark-zuckerberg-says-he-is-ready-to-fight-elon-musk/).
+You can read more about it [here](https://sports.yahoo.com/source-jim-harbaughs-suspension-deal-with-ncaa-breaks-down-hes-now-expected-to-coach-full-2023-season-205108318.html).
 
 ## Requirements
 - Python 3.8
