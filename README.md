@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: Jim Harbaugh's suspension deal with NCAA breaks down; he's now expected to coach full 2023 season**
+**Sea monster with 20 arms found in the dark Antarctic waters**
 
-You can read more about it [here](https://sports.yahoo.com/source-jim-harbaughs-suspension-deal-with-ncaa-breaks-down-hes-now-expected-to-coach-full-2023-season-205108318.html).
+You can read more about it [here](https://www.earth.com/news/sea-monster-with-20-arms-found-in-the-dark-antarctic-waters/).
 
 ## Requirements
 - Python 3.8
