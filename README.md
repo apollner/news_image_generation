@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julian StarFest returns amid Perseid meteor shower peak in San Diego**
+**First on CNN: Fulton County DA to present Trump election subversion case to grand jury early next week**
 
-You can read more about it [here](https://fox5sandiego.com/entertainment/julian-starfest-returns-amid-perseid-meteor-shower-peak-in-san-diego/).
+You can read more about it [here](https://www.cnn.com/2023/08/12/politics/geoff-duncan-georgia-election-probe/index.html).
 
 ## Requirements
 - Python 3.8
