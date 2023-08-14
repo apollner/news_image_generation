@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball numbers 8/12/23: Results for $194M lottery drawing jackpot**
+**Tom Jones, creator of the longest-running musical ‘The Fantasticks,' dies at 95**
 
-You can read more about it [here](https://www.indystar.com/story/news/2023/08/12/powerball-numbers-august-12-2023-results-drawing-lottery-power-ball-lotto-jackpot-8-12-23/70574954007/).
+You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/tom-jones-creator-longest-running-musical-fantasticks-dies-102228120).
 
 ## Requirements
 - Python 3.8
