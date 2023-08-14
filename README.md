@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg says he is 'ready to fight' Elon Musk**
+**Classes still off early next week in Kentucky's largest school district due to bus schedule mess**
 
-You can read more about it [here](https://nypost.com/2023/08/12/mark-zuckerberg-says-he-is-ready-to-fight-elon-musk/).
+You can read more about it [here](https://apnews.com/article/kentucky-school-buses-classes-canceled-4c1e0a758493415db4607a2b442e92c1).
 
 ## Requirements
 - Python 3.8
