@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Erie County refuses NYC migrants after two sex assaults at Buffalo-area hotels**
+**NASCAR Odds | Best Bet Pick for Indianapolis (Sunday, Aug. 13)**
 
-You can read more about it [here](https://nypost.com/2023/08/13/ny-erie-county-denies-nyc-migrants-amid-sex-assaults-by-buffalo/).
+You can read more about it [here](https://www.actionnetwork.com/nascar/nascar-odds-indianapolis-picks-predictions-sunday-august-13-2023).
 
 ## Requirements
 - Python 3.8
