@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police raid Kansas newspaper office and owner’s home, seize records and computers**
+**Taiwan's Lai Ching-te makes New York City stopover despite Chinese threats - POLITICO**
 
-You can read more about it [here](https://www.cnn.com/2023/08/13/us/kansas-marion-county-newspaper-police-raid/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/12/taiwans-vp-lai-ching-te-defies-beijings-wishes-with-new-york-city-transit-stop-00110967).
 
 ## Requirements
 - Python 3.8
