@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 people die as migrant boat sinks in the English Channel**
+**New Dracula movie praised by horror masters Stephen King and Guillermo del Toro**
 
-You can read more about it [here](https://www.cnn.com/2023/08/12/europe/migrant-boat-sinks-english-channel-intl/index.html).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/last-voyage-of-demeter-movie-reviews-rotten-romatoes-b2392217.html).
 
 ## Requirements
 - Python 3.8
