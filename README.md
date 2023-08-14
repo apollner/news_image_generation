@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shane Steichen: Anthony Richardson showed "great poise" against Bills**
+**Russia's war in Ukraine: Live updates**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-anthony-richardson-showed-great-poise-against-bills).
+You can read more about it [here](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-13-24/index.html).
 
 ## Requirements
 - Python 3.8
