@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASCAR Odds | Best Bet Pick for Indianapolis (Sunday, Aug. 13)**
+**Mark Zuckerberg Says “It’s Time to Move On” From Elon Musk Fight**
 
-You can read more about it [here](https://www.actionnetwork.com/nascar/nascar-odds-indianapolis-picks-predictions-sunday-august-13-2023).
+You can read more about it [here](https://www.hollywoodreporter.com/business/digital/mark-zuckerberg-elon-musk-fight-time-to-move-on-1235565057/).
 
 ## Requirements
 - Python 3.8
