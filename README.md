@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida-bound American Airlines plane drops 15,000 feet in 3 minutes: 'It was terrifying'**
+**Mob-style smash-and-grab robbery at Nordstrom store in Topanga mall caught on video; LAPD searching for suspects**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/florida-bound-american-airlines-plane-drops-feet-minutes-was-terrifying).
+You can read more about it [here](https://abc7.com/topanga-nordstrom-robbery-smash-and-grab-southern-california-la-video/13640093/).
 
 ## Requirements
 - Python 3.8
