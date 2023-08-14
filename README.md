@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden drama assured to hang over Joe Biden's 2024 campaign with special counsel**
+**Death toll rises to 89 in Maui fires as searches through destroyed town continue**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/12/hunter-biden-drama-poised-to-hang-over-joe-bidens-2024-campaign/70581690007/).
+You can read more about it [here](https://www.cnn.com/2023/08/12/us/maui-wildfires-hurricane-dora-saturday/index.html).
 
 ## Requirements
 - Python 3.8
