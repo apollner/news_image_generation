@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Fantasticks’ Lyricist Tom Jones Was Sanguine About the Musical’s Tangled History With Hollywood, Including a Near-Miss With Barbra Streisand**
+**Maui fires: Frustration mounts over relief effort**
 
-You can read more about it [here](https://variety.com/2023/film/news/fantasticks-tom-jones-recalled-stage-musical-hollywood-adaptation-1235695218/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66495015).
 
 ## Requirements
 - Python 3.8
