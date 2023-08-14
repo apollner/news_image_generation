@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID vaccines and boosters shown to protect pregnant women and newborns: ‘Transferred protection’**
+**Bethesda Celebrates QuakeCon 2023 With Free In-Game Bundle**
 
-You can read more about it [here](https://www.foxnews.com/health/covid-vaccines-boosters-shown-protect-pregnant-women-newborns-transferred-protection).
+You can read more about it [here](https://www.nintendolife.com/news/2023/08/bethesda-celebrates-quakecon-2023-with-free-in-game-bundle).
 
 ## Requirements
 - Python 3.8
