@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills vs. Colts: Trends after NFL preseason Week 1 action**
+**‘Fantasticks’ Lyricist Tom Jones Was Sanguine About the Musical’s Tangled History With Hollywood, Including a Near-Miss With Barbra Streisand**
 
-You can read more about it [here](https://www.buffalorumblings.com/2023/8/13/23830031/bills-vs-colts-trends-after-week-1-of-nfl-preseason-matt-barkley-kyle-allen-khalil-shakir-aj-klein).
+You can read more about it [here](https://variety.com/2023/film/news/fantasticks-tom-jones-recalled-stage-musical-hollywood-adaptation-1235695218/).
 
 ## Requirements
 - Python 3.8
