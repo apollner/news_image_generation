@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Wallen Shaves His Mullet — and Hopefully Kills a Hairstyle That Overstayed Its Welcome**
+**Popular weight-loss drugs like Wegovy may raise risk of complications under anesthesia**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-country/morgan-wallen-cuts-off-his-mullet-hair-1234806114/).
+You can read more about it [here](https://apnews.com/article/wegovy-ozempic-weight-loss-drugs-surgery-anesthesia-6e2556948334d0c6aa2ee0c7cbacb77d).
 
 ## Requirements
 - Python 3.8
