@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Dracula movie praised by horror masters Stephen King and Guillermo del Toro**
+**iPhone SE 4 Rumored to Feature Action Button, USB-C, Face ID, and More**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/last-voyage-of-demeter-movie-reviews-rotten-romatoes-b2392217.html).
+You can read more about it [here](https://www.macrumors.com/2023/08/13/iphone-se-4-to-feature-action-button-and-more/).
 
 ## Requirements
 - Python 3.8
