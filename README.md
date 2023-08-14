@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Preseason Blitz: Top overall pick Bryce Young looks fine in first snaps for Panthers**
+**Powerball numbers 8/12/23: Results for $194M lottery drawing jackpot**
 
-You can read more about it [here](https://sports.yahoo.com/preseason-blitz-top-overall-pick-bryce-young-looks-fine-in-first-snaps-for-panthers-003728533.html).
+You can read more about it [here](https://www.indystar.com/story/news/2023/08/12/powerball-numbers-august-12-2023-results-drawing-lottery-power-ball-lotto-jackpot-8-12-23/70574954007/).
 
 ## Requirements
 - Python 3.8
