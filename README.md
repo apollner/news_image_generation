@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan's Lai Ching-te makes New York City stopover despite Chinese threats - POLITICO**
+**6 people die as migrant boat sinks in the English Channel**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/12/taiwans-vp-lai-ching-te-defies-beijings-wishes-with-new-york-city-transit-stop-00110967).
+You can read more about it [here](https://www.cnn.com/2023/08/12/europe/migrant-boat-sinks-english-channel-intl/index.html).
 
 ## Requirements
 - Python 3.8
