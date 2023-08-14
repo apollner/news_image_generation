@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone SE 4 Rumored to Feature Action Button, USB-C, Face ID, and More**
+**Russian warship fires warning shots on cargo ship in Black Sea**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/13/iphone-se-4-to-feature-action-button-and-more/).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-warship-fires-dry-cargo-ship-black-sea-defence-ministry-2023-08-13/).
 
 ## Requirements
 - Python 3.8
