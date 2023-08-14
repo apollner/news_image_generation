@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breaking Physics: Muon G-2 Experiment Reinforces Surprise Result, Setting Up “Ultimate Showdown”**
+**Morgan Wallen Shaves His Mullet — and Hopefully Kills a Hairstyle That Overstayed Its Welcome**
 
-You can read more about it [here](https://scitechdaily.com/breaking-physics-muon-g-2-experiment-reinforces-surprise-result-setting-up-ultimate-showdown/).
+You can read more about it [here](https://www.rollingstone.com/music/music-country/morgan-wallen-cuts-off-his-mullet-hair-1234806114/).
 
 ## Requirements
 - Python 3.8
