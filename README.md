@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bethesda Celebrates QuakeCon 2023 With Free In-Game Bundle**
+**Mark Zuckerberg says he is 'ready to fight' Elon Musk**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/08/bethesda-celebrates-quakecon-2023-with-free-in-game-bundle).
+You can read more about it [here](https://nypost.com/2023/08/12/mark-zuckerberg-says-he-is-ready-to-fight-elon-musk/).
 
 ## Requirements
 - Python 3.8
