@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Jones, creator of the longest-running musical ‘The Fantasticks,' dies at 95**
+**Florida-bound American Airlines plane drops 15,000 feet in 3 minutes: 'It was terrifying'**
 
-You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/tom-jones-creator-longest-running-musical-fantasticks-dies-102228120).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/florida-bound-american-airlines-plane-drops-feet-minutes-was-terrifying).
 
 ## Requirements
 - Python 3.8
