@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bethesda Celebrates QuakeCon 2023 With Free In-Game Bundle**
+**Tom Jones, creator of the longest-running musical ‘The Fantasticks,' dies at 95**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/08/bethesda-celebrates-quakecon-2023-with-free-in-game-bundle).
+You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/tom-jones-creator-longest-running-musical-fantasticks-dies-102228120).
 
 ## Requirements
 - Python 3.8
