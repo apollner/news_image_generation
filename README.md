@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian warship fires warning shots on cargo ship in Black Sea**
+**Weekly Horoscopes for the Week of August 14 by the Cut**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russian-warship-fires-dry-cargo-ship-black-sea-defence-ministry-2023-08-13/).
+You can read more about it [here](http://www.thecut.com/2023/08/weekly-horoscopes-for-the-week-of-august-14-by-the-cut.html).
 
 ## Requirements
 - Python 3.8
