@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll rises to 89 in Maui fires as searches through destroyed town continue**
+**COVID vaccines and boosters shown to protect pregnant women and newborns: ‘Transferred protection’**
 
-You can read more about it [here](https://www.cnn.com/2023/08/12/us/maui-wildfires-hurricane-dora-saturday/index.html).
+You can read more about it [here](https://www.foxnews.com/health/covid-vaccines-boosters-shown-protect-pregnant-women-newborns-transferred-protection).
 
 ## Requirements
 - Python 3.8
