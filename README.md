@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sea monster with 20 arms found in the dark Antarctic waters**
+**DeSantis vows to slash DC federal workforce in conversation with Iowa governor | USA TODAY**
 
-You can read more about it [here](https://www.earth.com/news/sea-monster-with-20-arms-found-in-the-dark-antarctic-waters/).
+You can read more about it [here](https://www.youtube.com/watch?v=GlC19b8oY6M).
 
 ## Requirements
 - Python 3.8
