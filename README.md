@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekly Horoscopes for the Week of August 14 by the Cut**
+**Box Office: ‘The Last Voyage of the Demeter’ Flops With $6.5 Million, ‘Barbie’ Keeps Her Crown For 4th Weekend With $33.7 Million**
 
-You can read more about it [here](http://www.thecut.com/2023/08/weekly-horoscopes-for-the-week-of-august-14-by-the-cut.html).
+You can read more about it [here](https://variety.com/2023/film/news/box-office-last-voyage-of-the-demeter-flops-opening-weekend-results-barbie-1235694927/).
 
 ## Requirements
 - Python 3.8
