@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alien-Like Antarctic Feather Star With 20 Legs Joins Four New-To-Science Species**
+**Russia’s ruble hits a 17-month low to the dollar as the Ukraine war bites**
 
-You can read more about it [here](https://www.iflscience.com/alien-like-antarctic-feather-star-with-20-legs-joins-four-new-to-science-species-70231).
+You can read more about it [here](https://www.cnn.com/2023/08/14/economy/russia-ruble-slump-ukraine-war/index.html).
 
 ## Requirements
 - Python 3.8
