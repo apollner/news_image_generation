@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina polls close in primary vote as triple-digit inflation stokes anger**
+**Bills vs. Colts: Trends after NFL preseason Week 1 action**
 
-You can read more about it [here](https://www.reuters.com/world/americas/argentina-set-primary-vote-with-ruling-peronists-fighting-survival-2023-08-13/).
+You can read more about it [here](https://www.buffalorumblings.com/2023/8/13/23830031/bills-vs-colts-trends-after-week-1-of-nfl-preseason-matt-barkley-kyle-allen-khalil-shakir-aj-klein).
 
 ## Requirements
 - Python 3.8
