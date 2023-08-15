@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix finally streams video games, too**
+**Biden urges Detroit automakers, union to forge deal as deadline looms**
 
-You can read more about it [here](https://www.theverge.com/2023/8/14/23829262/netflix-cloud-gaming-testing-tv-web).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/08/14/biden-uaw-negotiations/).
 
 ## Requirements
 - Python 3.8
