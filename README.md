@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens Monday**
+**Mushroom mystery cook admits accidentally putting lethal fungi in beef Wellington**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/14/5-things-to-know-before-the-stock-market-opens-monday-august-14.html).
+You can read more about it [here](https://www.telegraph.co.uk/world-news/2023/08/14/mushroom-mystery-cook-australia-admits-accidental-fungi/).
 
 ## Requirements
 - Python 3.8
