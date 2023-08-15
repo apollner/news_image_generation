@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Global markets mixed after stronger US inflation revives fears of rate hike**
+**Son, father remembered after dying in Plum house explosion**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-asia-follows-053833043.html).
+You can read more about it [here](https://www.wtae.com/article/plum-house-explosion-clontz-father-son/44802875).
 
 ## Requirements
 - Python 3.8
