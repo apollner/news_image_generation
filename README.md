@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coast Guard and Navy rescue 4 divers off coast of Carolinas**
+**Clarence Avant, the ‘Godfather of Black Entertainment,’ Dies at 92**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/coast-guard-searches-4-missing-divers-off-carolinas-102249702).
+You can read more about it [here](https://variety.com/2023/music/news/clarence-avant-dead-black-godfather-1235695291/).
 
 ## Requirements
 - Python 3.8
