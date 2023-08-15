@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The death toll from the Maui wildfires has climbed to 96. Here's what we know about the deadliest US fire in over a century**
+**Russia's Luna-25 moon lander snaps 1st pictures from space (photos)**
 
-You can read more about it [here](https://www.cnn.com/2023/08/14/us/maui-wildfires-what-we-know/index.html).
+You can read more about it [here](https://www.space.com/russia-moon-lander-luna-25-1st-photos-from-space).
 
 ## Requirements
 - Python 3.8
