@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwen Stefani's son Kingston Rossdale plays surprise performance at Blake Shelton's bar**
+**'Red, White and Royal Blue' is a cute rom-com with an awful Uma Thurman**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/08/13/gwen-stefani-son-kingston-rossdale-sings-blake-shelton-bar/70584787007/).
+You can read more about it [here](https://nypost.com/2023/08/13/red-white-and-royal-blue-is-a-cute-rom-com-with-an-awful-uma-thurman/).
 
 ## Requirements
 - Python 3.8
