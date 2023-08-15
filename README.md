@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Sea: Russian warship fires warning shots at cargo ship**
+**🔴 Live: Niger junta says will 'prosecute' President Bazoum for 'high treason'**
 
-You can read more about it [here](https://www.dw.com/en/russian-warship-fires-warning-shot-at-black-sea-cargo-ship/a-66522844).
+You can read more about it [here](https://www.france24.com/en/africa/20230813-niger-military-regime-says-will-prosecute-president-bazoum-for-high-treason).
 
 ## Requirements
 - Python 3.8
