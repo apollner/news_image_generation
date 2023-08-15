@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Red, White and Royal Blue' is a cute rom-com with an awful Uma Thurman**
+**A central Kansas police force sparked a firestorm by raiding a newspaper and the publisher's home**
 
-You can read more about it [here](https://nypost.com/2023/08/13/red-white-and-royal-blue-is-a-cute-rom-com-with-an-awful-uma-thurman/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/police-questioned-legality-kansas-newspaper-raid-computers-phones-102237800).
 
 ## Requirements
 - Python 3.8
