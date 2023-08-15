@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clarence Avant, the ‘Godfather of Black Entertainment,’ Dies at 92**
+**Thunder Over Michigan plane crash: What we know about the jet, status of pilots**
 
-You can read more about it [here](https://variety.com/2023/music/news/clarence-avant-dead-black-godfather-1235695291/).
+You can read more about it [here](https://www.fox2detroit.com/news/thunder-over-michigan-plane-crash-what-we-know-about-jet-and-status-of-pilots).
 
 ## Requirements
 - Python 3.8
