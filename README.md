@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Apple Watch X' will reportedly feature a thinner casing and magnetic bands**
+**New Covid vaccines are on the way as 'Eris' variant rises**
 
-You can read more about it [here](https://www.engadget.com/apple-watch-x-will-reportedly-feature-a-thinner-casing-and-magnetic-bands-092419190.html).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/new-covid-vaccines-are-way-eris-variant-rises-2023-08-14/).
 
 ## Requirements
 - Python 3.8
