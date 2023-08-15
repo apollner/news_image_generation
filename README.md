@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Cowboys RB Ezekiel Elliott joins Patriots on 1-year deal - ESPN**
+**The death toll from the Maui wildfires has climbed to 96. Here's what we know about the deadliest US fire in over a century**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38192902/ex-cowboys-rb-ezekiel-elliott-joins-patriots-1-year-deal).
+You can read more about it [here](https://www.cnn.com/2023/08/14/us/maui-wildfires-what-we-know/index.html).
 
 ## Requirements
 - Python 3.8
