@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s ruble hits a 17-month low to the dollar as the Ukraine war bites**
+**Zuckerberg Says ‘Time to Move On’ From Musk Cage Fight**
 
-You can read more about it [here](https://www.cnn.com/2023/08/14/economy/russia-ruble-slump-ukraine-war/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=96j8MQZkXno).
 
 ## Requirements
 - Python 3.8
