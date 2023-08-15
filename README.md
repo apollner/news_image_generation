@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A central Kansas police force sparked a firestorm by raiding a newspaper and the publisher's home**
+**Black Sea: Russian warship fires warning shots at cargo ship**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/police-questioned-legality-kansas-newspaper-raid-computers-phones-102237800).
+You can read more about it [here](https://www.dw.com/en/russian-warship-fires-warning-shot-at-black-sea-cargo-ship/a-66522844).
 
 ## Requirements
 - Python 3.8
