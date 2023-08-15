@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Every Possible Ending for Karlach in Baldur's Gate 3**
+**U.S. Steel explores strategic alternatives after rejecting Cleveland-Cliffs offer (NYSE:X)**
 
-You can read more about it [here](https://gamerant.com/baldurs-gate-3-karlach-story-endings-romance-avernus-death-illithid/).
+You can read more about it [here](https://seekingalpha.com/news/4002059-us-steel-explores-strategic-alternatives-after-multiple-approaches).
 
 ## Requirements
 - Python 3.8
