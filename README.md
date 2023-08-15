@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui fires: Frustration mounts over relief effort**
+**Russia-Ukraine war at a glance: what we know on day 537 of the invasion**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66495015).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-537-of-the-invasion).
 
 ## Requirements
 - Python 3.8
