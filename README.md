@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alien-Like Antarctic Feather Star With 20 Legs Joins Four New-To-Science Species**
+**Apple Watch X coming next year with blood pressure tracking: Report**
 
-You can read more about it [here](https://www.iflscience.com/alien-like-antarctic-feather-star-with-20-legs-joins-four-new-to-science-species-70231).
+You can read more about it [here](https://www.cnbc.com/2023/08/14/apple-watch-x-reportedly-coming-next-year-with-blood-pressure-tracking.html).
 
 ## Requirements
 - Python 3.8
