@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden urges Detroit automakers, union to forge deal as deadline looms**
+**Michigan air show: MiG-23 jet crashes moments after two occupants eject**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/08/14/biden-uaw-negotiations/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66469620).
 
 ## Requirements
 - Python 3.8
