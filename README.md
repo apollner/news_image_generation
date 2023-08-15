@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills vs. Colts: Trends after NFL preseason Week 1 action**
+**WATCH: Orioles' Cedric Mullins robs home run then hits homer in wild Baltimore win over Mariners**
 
-You can read more about it [here](https://www.buffalorumblings.com/2023/8/13/23830031/bills-vs-colts-trends-after-week-1-of-nfl-preseason-matt-barkley-kyle-allen-khalil-shakir-aj-klein).
+You can read more about it [here](https://www.cbssports.com/mlb/news/watch-orioles-cedric-mullins-robs-home-run-then-hits-homer-in-wild-baltimore-win-over-mariners/).
 
 ## Requirements
 - Python 3.8
