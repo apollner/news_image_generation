@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war at a glance: what we know on day 537 of the invasion**
+**Ted Cruz calls Hunter Biden special counsel appointment ‘camouflage’**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-537-of-the-invasion).
+You can read more about it [here](https://thehill.com/homenews/senate/4150975-ted-cruz-calls-hunter-biden-special-counsel-appointment-camouflage/).
 
 ## Requirements
 - Python 3.8
