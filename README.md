@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Steel explores strategic alternatives after rejecting Cleveland-Cliffs offer (NYSE:X)**
+**Russia fires warning shots and boards cargo ship in Black Sea**
 
-You can read more about it [here](https://seekingalpha.com/news/4002059-us-steel-explores-strategic-alternatives-after-multiple-approaches).
+You can read more about it [here](https://www.cnn.com/2023/08/13/europe/russia-warning-shots-black-sea-intl/index.html).
 
 ## Requirements
 - Python 3.8
