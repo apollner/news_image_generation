@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia fires warning shots and boards cargo ship in Black Sea**
+**McConnell in Winter: Inside the GOP Leader's Attempt to Thwart Trump**
 
-You can read more about it [here](https://www.cnn.com/2023/08/13/europe/russia-warning-shots-black-sea-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/08/14/mitch-mcconnell-trump-00110969).
 
 ## Requirements
 - Python 3.8
