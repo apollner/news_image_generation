@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina's markets recoil after shock primary election results**
+**Niger's coup leaders say they will prosecute deposed President Mohamed Bazoum for 'high treason'**
 
-You can read more about it [here](https://www.ft.com/content/df45cf2a-5b51-4d13-bc93-500c07c7d73f).
+You can read more about it [here](https://apnews.com/article/niger-coup-leaders-president-bazoum-treason-1e54fa565ec0c659fc233cc695d7de21).
 
 ## Requirements
 - Python 3.8
