@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas police and a small newspaper are at the center of a 1st Amendment fight after a newsroom raid**
+**Ex-Cowboys RB Ezekiel Elliott joins Patriots on 1-year deal - ESPN**
 
-You can read more about it [here](https://apnews.com/article/marion-county-record-kansas-newspaper-raid-f1e49c4e542ddb3cf19c9ca02a0a21fb).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38192902/ex-cowboys-rb-ezekiel-elliott-joins-patriots-1-year-deal).
 
 ## Requirements
 - Python 3.8
