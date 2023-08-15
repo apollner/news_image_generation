@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Covid vaccines are on the way as 'Eris' variant rises**
+**Alien-Like Antarctic Feather Star With 20 Legs Joins Four New-To-Science Species**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/new-covid-vaccines-are-way-eris-variant-rises-2023-08-14/).
+You can read more about it [here](https://www.iflscience.com/alien-like-antarctic-feather-star-with-20-legs-joins-four-new-to-science-species-70231).
 
 ## Requirements
 - Python 3.8
