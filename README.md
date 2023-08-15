@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's Luna-25 moon lander snaps 1st pictures from space (photos)**
+**Argentina's markets recoil after shock primary election results**
 
-You can read more about it [here](https://www.space.com/russia-moon-lander-luna-25-1st-photos-from-space).
+You can read more about it [here](https://www.ft.com/content/df45cf2a-5b51-4d13-bc93-500c07c7d73f).
 
 ## Requirements
 - Python 3.8
