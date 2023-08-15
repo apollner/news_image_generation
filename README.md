@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ted Cruz calls Hunter Biden special counsel appointment ‘camouflage’**
+**Argentina polls close in primary vote as triple-digit inflation stokes anger**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4150975-ted-cruz-calls-hunter-biden-special-counsel-appointment-camouflage/).
+You can read more about it [here](https://www.reuters.com/world/americas/argentina-set-primary-vote-with-ruling-peronists-fighting-survival-2023-08-13/).
 
 ## Requirements
 - Python 3.8
