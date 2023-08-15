@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ted Cruz calls Hunter Biden special counsel appointment ‘camouflage’**
+**Gwen Stefani's son Kingston Rossdale plays surprise performance at Blake Shelton's bar**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4150975-ted-cruz-calls-hunter-biden-special-counsel-appointment-camouflage/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/08/13/gwen-stefani-son-kingston-rossdale-sings-blake-shelton-bar/70584787007/).
 
 ## Requirements
 - Python 3.8
