@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan air show: MiG-23 jet crashes moments after two occupants eject**
+**Argentina's markets recoil after shock primary election results**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66469620).
+You can read more about it [here](https://www.ft.com/content/df45cf2a-5b51-4d13-bc93-500c07c7d73f).
 
 ## Requirements
 - Python 3.8
