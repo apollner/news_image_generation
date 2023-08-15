@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**🔴 Live: Niger junta says will 'prosecute' President Bazoum for 'high treason'**
+**Far-right populist emerges as biggest vote-getter in Argentina's presidential primary voting**
 
-You can read more about it [here](https://www.france24.com/en/africa/20230813-niger-military-regime-says-will-prosecute-president-bazoum-for-high-treason).
+You can read more about it [here](https://apnews.com/article/argentina-primaries-primary-paso-elections-a4fdbe888b7f561c3833ba4eca7e5d72).
 
 ## Requirements
 - Python 3.8
