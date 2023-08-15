@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: Orioles' Cedric Mullins robs home run then hits homer in wild Baltimore win over Mariners**
+**Ted Cruz calls Hunter Biden special counsel appointment ‘camouflage’**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/watch-orioles-cedric-mullins-robs-home-run-then-hits-homer-in-wild-baltimore-win-over-mariners/).
+You can read more about it [here](https://thehill.com/homenews/senate/4150975-ted-cruz-calls-hunter-biden-special-counsel-appointment-camouflage/).
 
 ## Requirements
 - Python 3.8
