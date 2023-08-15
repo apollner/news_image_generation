@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell in Winter: Inside the GOP Leader's Attempt to Thwart Trump**
+**Stock market today: Global markets mixed after stronger US inflation revives fears of rate hike**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/08/14/mitch-mcconnell-trump-00110969).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-asia-follows-053833043.html).
 
 ## Requirements
 - Python 3.8
