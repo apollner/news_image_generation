@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thunder Over Michigan plane crash: What we know about the jet, status of pilots**
+**Stocks making the biggest moves midday: AMC, U.S. Steel, PayPal, Tesla and more**
 
-You can read more about it [here](https://www.fox2detroit.com/news/thunder-over-michigan-plane-crash-what-we-know-about-jet-and-status-of-pilots).
+You can read more about it [here](https://www.cnbc.com/2023/08/14/stocks-making-big-midday-moves-amc-x-pypl-tsla-and-more.html).
 
 ## Requirements
 - Python 3.8
