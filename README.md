@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mushroom mystery cook admits accidentally putting lethal fungi in beef Wellington**
+**Alien-Like Antarctic Feather Star With 20 Legs Joins Four New-To-Science Species**
 
-You can read more about it [here](https://www.telegraph.co.uk/world-news/2023/08/14/mushroom-mystery-cook-australia-admits-accidental-fungi/).
+You can read more about it [here](https://www.iflscience.com/alien-like-antarctic-feather-star-with-20-legs-joins-four-new-to-science-species-70231).
 
 ## Requirements
 - Python 3.8
