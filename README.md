@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Watch X coming next year with blood pressure tracking: Report**
+**Coast Guard and Navy rescue 4 divers off coast of Carolinas**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/14/apple-watch-x-reportedly-coming-next-year-with-blood-pressure-tracking.html).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/coast-guard-searches-4-missing-divers-off-carolinas-102249702).
 
 ## Requirements
 - Python 3.8
