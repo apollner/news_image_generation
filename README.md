@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Georgia probe: Court clerk calls charging document 'fictitious'**
+**Kansas police and a small newspaper are at the center of a 1st Amendment fight after a newsroom raid**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/14/trump-georgia-indictment-disputed-docket-report-appears-to-list-charges-.html).
+You can read more about it [here](https://apnews.com/article/marion-county-record-kansas-newspaper-raid-f1e49c4e542ddb3cf19c9ca02a0a21fb).
 
 ## Requirements
 - Python 3.8
