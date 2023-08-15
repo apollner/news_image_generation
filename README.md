@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks making the biggest moves midday: AMC, U.S. Steel, PayPal, Tesla and more**
+**Netflix finally streams video games, too**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/14/stocks-making-big-midday-moves-amc-x-pypl-tsla-and-more.html).
+You can read more about it [here](https://www.theverge.com/2023/8/14/23829262/netflix-cloud-gaming-testing-tv-web).
 
 ## Requirements
 - Python 3.8
