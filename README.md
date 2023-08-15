@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk taunts Mark Zuckerberg for being too small to beat him**
+**Every Possible Ending for Karlach in Baldur's Gate 3**
 
-You can read more about it [here](https://www.businessinsider.com/elon-musk-taunts-mark-zuckerberg-too-small-to-beat-him-2023-8).
+You can read more about it [here](https://gamerant.com/baldurs-gate-3-karlach-story-endings-romance-avernus-death-illithid/).
 
 ## Requirements
 - Python 3.8
