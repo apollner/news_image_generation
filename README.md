@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia suffers China blues; dollar hits 2023 top on yen**
+**Elon Musk taunts Mark Zuckerberg for being too small to beat him**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-14/).
+You can read more about it [here](https://www.businessinsider.com/elon-musk-taunts-mark-zuckerberg-too-small-to-beat-him-2023-8).
 
 ## Requirements
 - Python 3.8
