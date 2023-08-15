@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Far-right populist emerges as biggest vote-getter in Argentina's presidential primary voting**
+**Asia suffers China blues; dollar hits 2023 top on yen**
 
-You can read more about it [here](https://apnews.com/article/argentina-primaries-primary-paso-elections-a4fdbe888b7f561c3833ba4eca7e5d72).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-14/).
 
 ## Requirements
 - Python 3.8
