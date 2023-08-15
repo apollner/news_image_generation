@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zuckerberg Says ‘Time to Move On’ From Musk Cage Fight**
+**'Apple Watch X' will reportedly feature a thinner casing and magnetic bands**
 
-You can read more about it [here](https://www.youtube.com/watch?v=96j8MQZkXno).
+You can read more about it [here](https://www.engadget.com/apple-watch-x-will-reportedly-feature-a-thinner-casing-and-magnetic-bands-092419190.html).
 
 ## Requirements
 - Python 3.8
