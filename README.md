@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Deeply Sad Lawsuit of 'The Blind Side' NFL Player Michael Oher**
+**En route to the moon, Russia beams back first mission images**
 
-You can read more about it [here](https://www.bloomberg.com/opinion/articles/2023-08-15/the-deeply-sad-lawsuit-of-the-blind-side-nfl-player-michael-oher).
+You can read more about it [here](https://mashable.com/article/russia-moon-luna-25-images).
 
 ## Requirements
 - Python 3.8
