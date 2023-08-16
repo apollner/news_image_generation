@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Budgets, Big Headaches: Why ‘Indiana Jones 5’ and ‘Mission: Impossible 7’ are Struggling to Make a Profit**
+**Chandrayaan-3 v Luna 25: The lunar south pole showdown?**
 
-You can read more about it [here](https://variety.com/2023/film/news/indiana-jones-5-mission-impossible-7-box-office-flops-explained-1235690262/).
+You can read more about it [here](https://www.space.com/chandrayaan-3-vs-luna-25-lunar-pole-showdown).
 
 ## Requirements
 - Python 3.8
