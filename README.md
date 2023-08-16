@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentine peso plunges after rightist who admires Trump comes first in primary vote**
+**County says house that exploded in Plum was having hot water tank issues**
 
-You can read more about it [here](https://apnews.com/article/argentina-peso-javier-milei-primary-election-president-latin-america-ff50868368fa85f0110033aa1e5607c8).
+You can read more about it [here](https://www.wtae.com/article/plum-house-explosion-fire-marshal-hot-water-tank/44813979).
 
 ## Requirements
 - Python 3.8
