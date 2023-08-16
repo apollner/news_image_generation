@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Most babies who got very sick from RSV last winter were previously healthy, study finds**
+**Post Malone Falls Apart, Runs in Circles, Plays Biggest Hits for NPR’s Tiny Desk Concert**
 
-You can read more about it [here](https://www.nbcnews.com/health/kids-health/babies-got-sick-rsv-last-winter-previously-healthy-study-finds-rcna99861).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/post-malone-npr-tiny-desk-concert-greatest-hits-watch-1234807059/).
 
 ## Requirements
 - Python 3.8
