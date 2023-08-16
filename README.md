@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Maestro’ First Trailer: Bradley Cooper Transforms Into Leonard Bernstein in His ‘A Star Is Born’ Directorial Follow-Up**
+**How Donald Trump's criminal charges are defining his White House race**
 
-You can read more about it [here](https://variety.com/2023/film/news/bradley-cooper-maestro-trailer-leonard-bernstein-1235489118/).
+You can read more about it [here](https://www.ft.com/content/ddde3d8e-4222-4144-861c-f21714df5d31).
 
 ## Requirements
 - Python 3.8
