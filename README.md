@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police video shows Rep. Ronny Jackson swearing at Texas officers**
+**The death toll from the Maui wildfires has climbed to 99. Here's what we know about the deadliest US fire in over a century**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/14/police-video-shows-rep-ronny-jackson-swearing-at-texas-officers-00111204).
+You can read more about it [here](https://www.cnn.com/2023/08/14/us/maui-wildfires-what-we-know/index.html).
 
 ## Requirements
 - Python 3.8
