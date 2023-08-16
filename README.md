@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**July retail sales surprise to upside in latest sign of resilient consumer**
+**Larian working on mid-game Baldur's Gate 3 character customisation | VGC**
 
-You can read more about it [here](https://finance.yahoo.com/news/july-retail-sales-surprise-to-upside-in-latest-sign-of-resilient-consumer-124255048.html).
+You can read more about it [here](https://www.videogameschronicle.com/news/larian-working-on-mid-game-baldurs-gate-3-character-customisation/).
 
 ## Requirements
 - Python 3.8
