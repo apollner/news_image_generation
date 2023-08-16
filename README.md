@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In video, Rep. Ronny Jackson yells profanities at Texas trooper, is put on ground**
+**Nine riskiest NFL players to pick in 2023 fantasy football drafts**
 
-You can read more about it [here](https://www.npr.org/2023/08/15/1193883689/in-video-rep-ronny-jackson-yells-profanities-at-texas-trooper-is-put-on-ground).
+You can read more about it [here](https://www.nfl.com/news/nine-riskiest-nfl-players-to-pick-in-2023-fantasy-football-drafts).
 
 ## Requirements
 - Python 3.8
