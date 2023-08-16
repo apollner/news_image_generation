@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Air pollution may be to blame for thousands of dementia cases each year, researchers say**
+**Former NFL running back Alex Collins dies in motorcycle crash**
 
-You can read more about it [here](https://www.cbsnews.com/news/air-pollution-dementia-cases-study/).
+You can read more about it [here](https://www.foxla.com/news/former-nfl-running-back-alex-collins-dies-at-28).
 
 ## Requirements
 - Python 3.8
