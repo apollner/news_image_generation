@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One thing we learned about every NFL team in Week 1 of 2023 preseason: Chiefs, Patriots have secret weapons**
+**Bond Yields Are Rising—and the Stock Market Is Dropping**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-we-learned-about-every-nfl-team-in-week-1-of-2023-preseason-chiefs-patriots-have-secret-weapons/).
+You can read more about it [here](https://www.barrons.com/articles/bond-yields-stock-market-27a7e7fe).
 
 ## Requirements
 - Python 3.8
