@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former NFL running back Alex Collins dies in motorcycle crash**
+**Manhattan federal prosecutors drop campaign finance charge against Sam Bankman-Fried in new indictment**
 
-You can read more about it [here](https://www.foxla.com/news/former-nfl-running-back-alex-collins-dies-at-28).
+You can read more about it [here](https://www.cnn.com/2023/08/14/business/sam-bankman-fried-campaign-finance-charge-dropped/index.html).
 
 ## Requirements
 - Python 3.8
