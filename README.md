@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two years on from Taliban takeover, Afghan women are being 'erased from everything'**
+**China suspends youth jobless data after record high readings**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/asia/afghanistan-taliban-takeover-anniversary-women-intl-hnk-dst/index.html).
+You can read more about it [here](https://www.reuters.com/world/china/china-stop-releasing-youth-jobless-rate-data-aug-says-stats-bureau-2023-08-15/).
 
 ## Requirements
 - Python 3.8
