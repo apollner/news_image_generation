@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China suspends youth jobless data after record high readings**
+**COVID-19 hospitalizations on Long Island more than double in month**
 
-You can read more about it [here](https://www.reuters.com/world/china/china-stop-releasing-youth-jobless-rate-data-aug-says-stats-bureau-2023-08-15/).
+You can read more about it [here](https://www.newsday.com/news/health/coronavirus/long-island-covid-19-hospitalizations-xfn8w71e).
 
 ## Requirements
 - Python 3.8
