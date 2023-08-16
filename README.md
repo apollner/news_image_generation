@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Judgment Day mistake allows Cody Rhodes to defeat Finn Bálor: Raw highlights, Aug. 14, 2023**
+**Niger's coup leaders say they will prosecute deposed President Mohamed Bazoum for 'high treason'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IIMEjVJz4nA).
+You can read more about it [here](https://apnews.com/article/niger-coup-leaders-president-bazoum-treason-1e54fa565ec0c659fc233cc695d7de21).
 
 ## Requirements
 - Python 3.8
