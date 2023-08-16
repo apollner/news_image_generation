@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**County says house that exploded in Plum was having hot water tank issues**
+**Two years on from Taliban takeover, Afghan women are being 'erased from everything'**
 
-You can read more about it [here](https://www.wtae.com/article/plum-house-explosion-fire-marshal-hot-water-tank/44813979).
+You can read more about it [here](https://www.cnn.com/2023/08/15/asia/afghanistan-taliban-takeover-anniversary-women-intl-hnk-dst/index.html).
 
 ## Requirements
 - Python 3.8
