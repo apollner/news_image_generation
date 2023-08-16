@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 99 people were killed in Maui’s wildfires. With only 25% of the burn area searched, officials worry the death toll will climb**
+**Who was Joan Meyer? Kansas paper co-owner who rebuked police raid as ‘Hitler tactics’ – and died a day later**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/us/hawaii-maui-wildfires-death-toll-tuesday/index.html).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/15/joan-meyer-co-owner-kansas-paper-police-raid).
 
 ## Requirements
 - Python 3.8
