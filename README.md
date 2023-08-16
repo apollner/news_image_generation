@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 hospitalizations on Long Island more than double in month**
+**Japan's Q2 GDP beats forecasts as exports zoom**
 
-You can read more about it [here](https://www.newsday.com/news/health/coronavirus/long-island-covid-19-hospitalizations-xfn8w71e).
+You can read more about it [here](https://www.reuters.com/markets/asia/japans-q2-gdp-grows-much-faster-than-expected-helped-by-exports-2023-08-15/).
 
 ## Requirements
 - Python 3.8
