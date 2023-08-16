@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ashley Olsen Privately Gives Birth, Welcomes First Baby With Husband Louis Eisner**
+**Japan's Q2 GDP beats forecasts as exports zoom**
 
-You can read more about it [here](https://www.eonline.com/news/1383042/ashley-olsen-privately-gives-birth-welcomes-first-baby-with-husband-louis-eisner).
+You can read more about it [here](https://www.reuters.com/markets/asia/japans-q2-gdp-grows-much-faster-than-expected-helped-by-exports-2023-08-15/).
 
 ## Requirements
 - Python 3.8
