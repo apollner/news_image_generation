@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nine riskiest NFL players to pick in 2023 fantasy football drafts**
+**The Deeply Sad Lawsuit of 'The Blind Side' NFL Player Michael Oher**
 
-You can read more about it [here](https://www.nfl.com/news/nine-riskiest-nfl-players-to-pick-in-2023-fantasy-football-drafts).
+You can read more about it [here](https://www.bloomberg.com/opinion/articles/2023-08-15/the-deeply-sad-lawsuit-of-the-blind-side-nfl-player-michael-oher).
 
 ## Requirements
 - Python 3.8
