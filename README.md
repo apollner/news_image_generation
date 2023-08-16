@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Post Malone Falls Apart, Runs in Circles, Plays Biggest Hits for NPR’s Tiny Desk Concert**
+**In video, Rep. Ronny Jackson yells profanities at Texas trooper, is put on ground**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/post-malone-npr-tiny-desk-concert-greatest-hits-watch-1234807059/).
+You can read more about it [here](https://www.npr.org/2023/08/15/1193883689/in-video-rep-ronny-jackson-yells-profanities-at-texas-trooper-is-put-on-ground).
 
 ## Requirements
 - Python 3.8
