@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chandrayaan-3 v Luna 25: The lunar south pole showdown?**
+**With Ezekiel Elliott and Dalvin Cook signed, what's next for Leonard Fournette, Kareem Hunt and RB landscape?**
 
-You can read more about it [here](https://www.space.com/chandrayaan-3-vs-luna-25-lunar-pole-showdown).
+You can read more about it [here](https://www.cbssports.com/nfl/news/with-ezekiel-elliott-and-dalvin-cook-signed-whats-next-for-leonard-fournette-kareem-hunt-and-rb-landscape/).
 
 ## Requirements
 - Python 3.8
