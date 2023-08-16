@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who was Joan Meyer? Kansas paper co-owner who rebuked police raid as ‘Hitler tactics’ – and died a day later**
+**‘Maestro’ First Trailer: Bradley Cooper Transforms Into Leonard Bernstein in His ‘A Star Is Born’ Directorial Follow-Up**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/15/joan-meyer-co-owner-kansas-paper-police-raid).
+You can read more about it [here](https://variety.com/2023/film/news/bradley-cooper-maestro-trailer-leonard-bernstein-1235489118/).
 
 ## Requirements
 - Python 3.8
