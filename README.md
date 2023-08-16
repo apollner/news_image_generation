@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The death toll from the Maui wildfires has climbed to 99. Here's what we know about the deadliest US fire in over a century**
+**Ashley Olsen Privately Gives Birth, Welcomes First Baby With Husband Louis Eisner**
 
-You can read more about it [here](https://www.cnn.com/2023/08/14/us/maui-wildfires-what-we-know/index.html).
+You can read more about it [here](https://www.eonline.com/news/1383042/ashley-olsen-privately-gives-birth-welcomes-first-baby-with-husband-louis-eisner).
 
 ## Requirements
 - Python 3.8
