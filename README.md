@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Donald Trump's criminal charges are defining his White House race**
+**Big Budgets, Big Headaches: Why ‘Indiana Jones 5’ and ‘Mission: Impossible 7’ are Struggling to Make a Profit**
 
-You can read more about it [here](https://www.ft.com/content/ddde3d8e-4222-4144-861c-f21714df5d31).
+You can read more about it [here](https://variety.com/2023/film/news/indiana-jones-5-mission-impossible-7-box-office-flops-explained-1235690262/).
 
 ## Requirements
 - Python 3.8
