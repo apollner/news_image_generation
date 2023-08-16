@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bond Yields Are Rising—and the Stock Market Is Dropping**
+**July retail sales surprise to upside in latest sign of resilient consumer**
 
-You can read more about it [here](https://www.barrons.com/articles/bond-yields-stock-market-27a7e7fe).
+You can read more about it [here](https://finance.yahoo.com/news/july-retail-sales-surprise-to-upside-in-latest-sign-of-resilient-consumer-124255048.html).
 
 ## Requirements
 - Python 3.8
