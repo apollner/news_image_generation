@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghan Taliban celebrate return to power two years on amid erosion of women's rights**
+**One thing we learned about every NFL team in Week 1 of 2023 preseason: Chiefs, Patriots have secret weapons**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/taliban-mark-two-years-since-return-power-afghanistan-2023-08-15/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/one-thing-we-learned-about-every-nfl-team-in-week-1-of-2023-preseason-chiefs-patriots-have-secret-weapons/).
 
 ## Requirements
 - Python 3.8
