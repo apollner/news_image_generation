@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain vs. Sweden: How to Watch FIFA Women's World Cup 2023 Semifinal Live From Anywhere**
+**Afghan Taliban celebrate return to power two years on amid erosion of women's rights**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/spain-vs-sweden-how-to-watch-fifa-womens-world-cup-2023-semifinal-live-from-anywhere/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/taliban-mark-two-years-since-return-power-afghanistan-2023-08-15/).
 
 ## Requirements
 - Python 3.8
