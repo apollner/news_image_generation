@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Judgment Day mistake allows Cody Rhodes to defeat Finn Bálor: Raw highlights, Aug. 14, 2023**
+**Argentine peso plunges after rightist who admires Trump comes first in primary vote**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IIMEjVJz4nA).
+You can read more about it [here](https://apnews.com/article/argentina-peso-javier-milei-primary-election-president-latin-america-ff50868368fa85f0110033aa1e5607c8).
 
 ## Requirements
 - Python 3.8
