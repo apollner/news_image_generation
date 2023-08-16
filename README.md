@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina's markets recoil after shock primary election results**
+**Biden urges 'fair agreement' between UAW and Detroit automakers that avoids plant closures**
 
-You can read more about it [here](https://www.ft.com/content/df45cf2a-5b51-4d13-bc93-500c07c7d73f).
+You can read more about it [here](https://www.cnbc.com/2023/08/14/biden-uaw-contract-talks-gm-ford-stellantis.html).
 
 ## Requirements
 - Python 3.8
