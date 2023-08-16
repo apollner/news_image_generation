@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Niger's coup leaders say they will prosecute deposed President Mohamed Bazoum for 'high treason'**
+**Spain vs. Sweden: How to Watch FIFA Women's World Cup 2023 Semifinal Live From Anywhere**
 
-You can read more about it [here](https://apnews.com/article/niger-coup-leaders-president-bazoum-treason-1e54fa565ec0c659fc233cc695d7de21).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/spain-vs-sweden-how-to-watch-fifa-womens-world-cup-2023-semifinal-live-from-anywhere/).
 
 ## Requirements
 - Python 3.8
