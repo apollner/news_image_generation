@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manhattan federal prosecutors drop campaign finance charge against Sam Bankman-Fried in new indictment**
+**Perseids viewers cause major issues at Joshua Tree National Park**
 
-You can read more about it [here](https://www.cnn.com/2023/08/14/business/sam-bankman-fried-campaign-finance-charge-dropped/index.html).
+You can read more about it [here](https://www.desertsun.com/story/news/national-parks/2023/08/14/perseids-viewers-trash-traffic-joshua-tree-national-park-illegally-parked-campfires/70588647007/).
 
 ## Requirements
 - Python 3.8
