@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Larian working on mid-game Baldur's Gate 3 character customisation | VGC**
+**At least 99 people were killed in Maui’s wildfires. With only 25% of the burn area searched, officials worry the death toll will climb**
 
-You can read more about it [here](https://www.videogameschronicle.com/news/larian-working-on-mid-game-baldurs-gate-3-character-customisation/).
+You can read more about it [here](https://www.cnn.com/2023/08/15/us/hawaii-maui-wildfires-death-toll-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
