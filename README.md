@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With Ezekiel Elliott and Dalvin Cook signed, what's next for Leonard Fournette, Kareem Hunt and RB landscape?**
+**Most babies who got very sick from RSV last winter were previously healthy, study finds**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/with-ezekiel-elliott-and-dalvin-cook-signed-whats-next-for-leonard-fournette-kareem-hunt-and-rb-landscape/).
+You can read more about it [here](https://www.nbcnews.com/health/kids-health/babies-got-sick-rsv-last-winter-previously-healthy-study-finds-rcna99861).
 
 ## Requirements
 - Python 3.8
