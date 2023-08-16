@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden urges 'fair agreement' between UAW and Detroit automakers that avoids plant closures**
+**Air pollution may be to blame for thousands of dementia cases each year, researchers say**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/14/biden-uaw-contract-talks-gm-ford-stellantis.html).
+You can read more about it [here](https://www.cbsnews.com/news/air-pollution-dementia-cases-study/).
 
 ## Requirements
 - Python 3.8
