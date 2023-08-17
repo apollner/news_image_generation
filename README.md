@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK inflation slows to 6.8% but services are getting even more expensive**
+**Vladimir Putin to hold meeting on Russian currency controls after rouble slide**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/economy/uk-inflation-slowdown/index.html).
+You can read more about it [here](https://www.ft.com/content/52e2cfc3-1157-424d-bf08-1b9544c99803).
 
 ## Requirements
 - Python 3.8
