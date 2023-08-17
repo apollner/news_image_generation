@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens injured, 10 dead in San Cristobal, Dominican Republic explosion**
+**Taylor Swift Is the Subject of a New University Course on Social Psychology**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/15/san-cristobal-dominican-republic-explosion-casualties/70599063007/).
+You can read more about it [here](https://www.billboard.com/music/music-news/taylor-swift-asu-course-social-psychology-1235393248/).
 
 ## Requirements
 - Python 3.8
