@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shoppers are spending big at TJX Companies as Target sales slide**
+**Bradley Cooper in ‘Jewface’ storm after Leonard Bernstein trailer reveals prosthetic nose**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/16/tjx-companies-tjx-earnings-q2-2024.html).
+You can read more about it [here](https://www.theguardian.com/film/2023/aug/16/bradley-cooper-in-jewface-storm-after-leonard-bernstein-trailer-reveals-prosthetic-nose).
 
 ## Requirements
 - Python 3.8
