@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judges agree to abortion pill restrictions, but the drugs remain legal for now**
+**Ukraine claims it has retaken key village from Russians as counteroffensive grinds on**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/16/abortion-pill-restrictions-00111499).
+You can read more about it [here](https://www.cbsnews.com/news/ukraine-russia-war-urozhaine-counteroffensive/).
 
 ## Requirements
 - Python 3.8
