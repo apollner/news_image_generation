@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**En route to the moon, Russia beams back first mission images**
+**Chick-fil-A introduces first-ever seasonal spin on the original chicken sandwich**
 
-You can read more about it [here](https://mashable.com/article/russia-moon-luna-25-images).
+You can read more about it [here](https://www.azfamily.com/2023/08/15/chick-fil-a-introduces-first-ever-seasonal-spin-original-chicken-sandwich/).
 
 ## Requirements
 - Python 3.8
