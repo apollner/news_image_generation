@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's Powerful 82nd Brigade Has Joined The Counteroffensive**
+**Maui's displaced grow anxious as wildfire recovery drags on**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/08/15/ukraines-powerful-82nd-brigade-once-held-in-reserve-has-finally-joined-the-counteroffensive/).
+You can read more about it [here](https://www.reuters.com/world/us/maui-officials-urge-patience-search-missing-inches-ahead-2023-08-15/).
 
 ## Requirements
 - Python 3.8
