@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The US eliminated malaria in 1951. How can it keep it under control now?**
+**UK inflation slows to 6.8% but services are getting even more expensive**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/health/malaria-mosquito-control-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/16/economy/uk-inflation-slowdown/index.html).
 
 ## Requirements
 - Python 3.8
