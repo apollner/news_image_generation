@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Meadows seeks to move Fulton charges to federal court**
+**Ukraine defies Russian threat of naval attack as container vessel leaves Odesa**
 
-You can read more about it [here](https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/).
+You can read more about it [here](https://www.ft.com/content/3fbb9cc8-3805-4591-9694-5c45cfd8c51b).
 
 ## Requirements
 - Python 3.8
