@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Meadows seeks to move Fulton charges to federal court**
+**UK inflation slows to 6.8% but services are getting even more expensive**
 
-You can read more about it [here](https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/economy/uk-inflation-slowdown/index.html).
 
 ## Requirements
 - Python 3.8
