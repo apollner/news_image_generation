@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI wants GPT-4 to solve the content moderation dilemma**
+**Former top FBI agent pleads guilty to working for Russian oligarch**
 
-You can read more about it [here](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/fbi-agent-mcgonigal-pleads-guilty-russian-oligarch-rcna100073).
 
 ## Requirements
 - Python 3.8
