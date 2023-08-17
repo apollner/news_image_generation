@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katharine McPhee and David Foster's Nanny's Cause of Death Revealed**
+**Meadows trying to move Fulton County case to federal court**
 
-You can read more about it [here](https://www.etonline.com/katharine-mcphee-and-david-fosters-nannys-cause-of-death-revealed-209770).
+You can read more about it [here](https://www.cnn.com/2023/08/15/politics/mark-meadows-fulton-case-federal-court/index.html).
 
 ## Requirements
 - Python 3.8
