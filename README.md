@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui's displaced grow anxious as wildfire recovery drags on**
+**Travis King: North Korea says US soldier blamed discrimination**
 
-You can read more about it [here](https://www.reuters.com/world/us/maui-officials-urge-patience-search-missing-inches-ahead-2023-08-15/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66517280).
 
 ## Requirements
 - Python 3.8
