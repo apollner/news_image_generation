@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's economic woes mount as trust firm misses payments, home prices fall**
+**Mark Meadows seeks to move Fulton charges to federal court**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-new-home-prices-fall-first-time-this-year-2023-08-16/).
+You can read more about it [here](https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/).
 
 ## Requirements
 - Python 3.8
