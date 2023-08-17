@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meadows trying to move Fulton County case to federal court**
+**Dozens injured, 10 dead in San Cristobal, Dominican Republic explosion**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/politics/mark-meadows-fulton-case-federal-court/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/15/san-cristobal-dominican-republic-explosion-casualties/70599063007/).
 
 ## Requirements
 - Python 3.8
