@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cancer among younger Americans is on the rise, new study shows**
+**Agony and ecstasy: England fans celebrate win while Australians lament World Cup exit**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/16/young-patients-breast-gastrointestinal-cancer/).
+You can read more about it [here](https://www.youtube.com/watch?v=H65T-zS9xa8).
 
 ## Requirements
 - Python 3.8
