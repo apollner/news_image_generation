@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK inflation slows to 6.8% but services are getting even more expensive**
+**Intel Announces Termination of Tower Semiconductor Acquisition**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/economy/uk-inflation-slowdown/index.html).
+You can read more about it [here](https://www.intc.com/news-events/press-releases/detail/1642/intel-announces-termination-of-tower-semiconductor).
 
 ## Requirements
 - Python 3.8
