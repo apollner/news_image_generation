@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Is the Subject of a New University Course on Social Psychology**
+**OpenAI wants GPT-4 to solve the content moderation dilemma**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/taylor-swift-asu-course-social-psychology-1235393248/).
+You can read more about it [here](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta).
 
 ## Requirements
 - Python 3.8
