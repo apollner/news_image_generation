@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big 12 leaving UConn, Gonzaga behind in conference realignment will prove best for both in long run**
+**Reports: Drunk American tourists spent night in Paris' Eiffel Tower**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/big-12-leaving-uconn-gonzaga-behind-in-conference-realignment-will-prove-best-for-both-in-long-run/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/16/reports-drunk-american-tourists-spent-night-in-paris-eiffel-tower/70601628007/).
 
 ## Requirements
 - Python 3.8
