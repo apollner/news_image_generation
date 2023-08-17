@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Agony and ecstasy: England fans celebrate win while Australians lament World Cup exit**
+**This $70 device can spoof an Apple device and trick you into sharing your password**
 
-You can read more about it [here](https://www.youtube.com/watch?v=H65T-zS9xa8).
+You can read more about it [here](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/).
 
 ## Requirements
 - Python 3.8
