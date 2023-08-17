@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football 2023: DO's and DON'Ts for your drafts**
+**Federal judges agree to abortion pill restrictions, but the drugs remain legal for now**
 
-You can read more about it [here](https://www.nfl.com/news/fantasy-football-2023-do-s-and-don-ts-for-your-drafts).
+You can read more about it [here](https://www.politico.com/news/2023/08/16/abortion-pill-restrictions-00111499).
 
 ## Requirements
 - Python 3.8
