@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest San Antonio Metro Health data shows COVID cases have increased 387% since early July**
+**Joel Embiid removes 'Processing,' Philadelphia location from Twitter bio as 76ers' offseason gets messier**
 
-You can read more about it [here](https://www.ksat.com/news/local/2023/08/15/latest-san-antonio-metro-health-data-shows-covid-cases-have-increased-387-since-early-july/).
+You can read more about it [here](https://www.cbssports.com/nba/news/joel-embiid-removes-processing-philadelphia-location-from-twitter-bio-as-76ers-offseason-gets-messier/).
 
 ## Requirements
 - Python 3.8
