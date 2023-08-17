@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chick-fil-A introduces first-ever seasonal spin on the original chicken sandwich**
+**Here’s what DeSantis, Christie and other Trump 2024 rivals are saying about the Georgia indictment**
 
-You can read more about it [here](https://www.azfamily.com/2023/08/15/chick-fil-a-introduces-first-ever-seasonal-spin-original-chicken-sandwich/).
+You can read more about it [here](https://www.cnn.com/2023/08/15/politics/2024-trump-rivals-georgia-indictment/index.html).
 
 ## Requirements
 - Python 3.8
