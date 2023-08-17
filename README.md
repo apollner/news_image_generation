@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carmelo Hayes and Wes Lee sign their NXT Title Match contract: NXT highlights, Aug. 15, 2023**
+**China Asks Some Funds to Avoid Net Equity Sales as Markets Sink**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0AH8diAy588).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-16/china-asks-some-funds-to-avoid-net-equity-sales-as-markets-sink).
 
 ## Requirements
 - Python 3.8
