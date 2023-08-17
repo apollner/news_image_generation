@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pig kidney works in human body for over a month, in latest step forward in animal-human transplants**
+**Fantasy football 2023: DO's and DON'Ts for your drafts**
 
-You can read more about it [here](https://www.cbsnews.com/news/pig-kidney-transplant-animal-human-xenotransplant/).
+You can read more about it [here](https://www.nfl.com/news/fantasy-football-2023-do-s-and-don-ts-for-your-drafts).
 
 ## Requirements
 - Python 3.8
