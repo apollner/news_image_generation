@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid removes 'Processing,' Philadelphia location from Twitter bio as 76ers' offseason gets messier**
+**Travis King: North Korea says US soldier blamed discrimination**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/joel-embiid-removes-processing-philadelphia-location-from-twitter-bio-as-76ers-offseason-gets-messier/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66517280).
 
 ## Requirements
 - Python 3.8
