@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis King: North Korea says US soldier blamed discrimination**
+**Trump expected to be booked at Fulton County jail, sheriff says**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66517280).
+You can read more about it [here](https://www.cnn.com/2023/08/15/politics/fulton-county-jail-trump/index.html).
 
 ## Requirements
 - Python 3.8
