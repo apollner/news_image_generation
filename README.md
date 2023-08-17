@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis King: North Korea says US soldier blamed discrimination**
+**Carmelo Hayes and Wes Lee sign their NXT Title Match contract: NXT highlights, Aug. 15, 2023**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66517280).
+You can read more about it [here](https://www.youtube.com/watch?v=0AH8diAy588).
 
 ## Requirements
 - Python 3.8
