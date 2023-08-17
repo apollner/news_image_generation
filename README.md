@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine claims it has retaken key village from Russians as counteroffensive grinds on**
+**Big 12 leaving UConn, Gonzaga behind in conference realignment will prove best for both in long run**
 
-You can read more about it [here](https://www.cbsnews.com/news/ukraine-russia-war-urozhaine-counteroffensive/).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/big-12-leaving-uconn-gonzaga-behind-in-conference-realignment-will-prove-best-for-both-in-long-run/).
 
 ## Requirements
 - Python 3.8
