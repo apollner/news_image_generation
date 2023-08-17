@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump expected to be booked at Fulton County jail, sheriff says**
+**Ukraine's Powerful 82nd Brigade Has Joined The Counteroffensive**
 
-You can read more about it [here](https://www.cnn.com/2023/08/15/politics/fulton-county-jail-trump/index.html).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/08/15/ukraines-powerful-82nd-brigade-once-held-in-reserve-has-finally-joined-the-counteroffensive/).
 
 ## Requirements
 - Python 3.8
