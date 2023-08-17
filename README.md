@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meet LG's StanbyMe Go, the Portable Touchscreen TV That's Also a Suitcase**
+**Katharine McPhee and David Foster's Nanny's Cause of Death Revealed**
 
-You can read more about it [here](https://www.cnet.com/tech/home-entertainment/meet-lgs-portable-stanbyme-go-the-touchscreen-tv-thats-also-a-suitcase/).
+You can read more about it [here](https://www.etonline.com/katharine-mcphee-and-david-fosters-nannys-cause-of-death-revealed-209770).
 
 ## Requirements
 - Python 3.8
