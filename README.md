@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Asks Some Funds to Avoid Net Equity Sales as Markets Sink**
+**Sinema takes on Schumer, Jeffries and the White House over the border**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-16/china-asks-some-funds-to-avoid-net-equity-sales-as-markets-sink).
+You can read more about it [here](https://www.politico.com/news/2023/08/16/sinema-takes-on-schumer-jeffries-border-00111355).
 
 ## Requirements
 - Python 3.8
