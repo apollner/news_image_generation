@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reports: Drunk American tourists spent night in Paris' Eiffel Tower**
+**Appeals court embraces abortion-pill limits, sets up Supreme Court review**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/16/reports-drunk-american-tourists-spent-night-in-paris-eiffel-tower/70601628007/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/08/16/abortion-pill-mifepristone-court-ruling-appeal/).
 
 ## Requirements
 - Python 3.8
