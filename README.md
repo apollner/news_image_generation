@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man Uses Strange Rock as Doorstop For Decades. It Turned Out to Be Worth a Fortune.**
+**The US eliminated malaria in 1951. How can it keep it under control now?**
 
-You can read more about it [here](https://www.sciencealert.com/man-uses-strange-rock-as-doorstop-for-decades-it-turned-out-to-be-worth-a-fortune).
+You can read more about it [here](https://www.cnn.com/2023/08/16/health/malaria-mosquito-control-scn/index.html).
 
 ## Requirements
 - Python 3.8
