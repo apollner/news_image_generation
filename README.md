@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched - NASASpaceFlight.com**
+**EV Startup VinFast's Market Debut Pushes Value Higher Than GM, Ford**
 
-You can read more about it [here](https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/).
+You can read more about it [here](https://www.wsj.com/business/autos/ev-startup-vinfasts-stock-rally-pushes-value-higher-than-gm-ford-c9dac0e6).
 
 ## Requirements
 - Python 3.8
