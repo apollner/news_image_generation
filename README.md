@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former top FBI agent pleads guilty to working for Russian oligarch**
+**Latest San Antonio Metro Health data shows COVID cases have increased 387% since early July**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/fbi-agent-mcgonigal-pleads-guilty-russian-oligarch-rcna100073).
+You can read more about it [here](https://www.ksat.com/news/local/2023/08/15/latest-san-antonio-metro-health-data-shows-covid-cases-have-increased-387-since-early-july/).
 
 ## Requirements
 - Python 3.8
