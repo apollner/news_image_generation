@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vladimir Putin to hold meeting on Russian currency controls after rouble slide**
+**Man Uses Strange Rock as Doorstop For Decades. It Turned Out to Be Worth a Fortune.**
 
-You can read more about it [here](https://www.ft.com/content/52e2cfc3-1157-424d-bf08-1b9544c99803).
+You can read more about it [here](https://www.sciencealert.com/man-uses-strange-rock-as-doorstop-for-decades-it-turned-out-to-be-worth-a-fortune).
 
 ## Requirements
 - Python 3.8
