@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Announces Termination of Tower Semiconductor Acquisition**
+**Mark Meadows seeks to move Fulton charges to federal court**
 
-You can read more about it [here](https://www.intc.com/news-events/press-releases/detail/1642/intel-announces-termination-of-tower-semiconductor).
+You can read more about it [here](https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/).
 
 ## Requirements
 - Python 3.8
