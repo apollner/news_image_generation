@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine defies Russian threat of naval attack as container vessel leaves Odesa**
+**Shoppers are spending big at TJX Companies as Target sales slide**
 
-You can read more about it [here](https://www.ft.com/content/3fbb9cc8-3805-4591-9694-5c45cfd8c51b).
+You can read more about it [here](https://www.cnbc.com/2023/08/16/tjx-companies-tjx-earnings-q2-2024.html).
 
 ## Requirements
 - Python 3.8
