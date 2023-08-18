@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bruce Springsteen postpones Philadelphia shows last-minute after being 'taken ill'**
+**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/bruce-springsteen-philadelphia-show-postponed-b2394490.html).
+You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
 
 ## Requirements
 - Python 3.8
