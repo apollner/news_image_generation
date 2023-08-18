@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked Images of Lenovo's Gaming Handheld Shows Nintendo Switch-Like Design**
+**Hurricane Hilary to produce flooding rains across Southwestern U.S.**
 
-You can read more about it [here](https://www.ign.com/articles/lenovo-legion-go-handheld-gaming-pc-leaked-images).
+You can read more about it [here](https://www.axios.com/2023/08/17/hurricane-hilary-2023-flooding-california-arizona).
 
 ## Requirements
 - Python 3.8
