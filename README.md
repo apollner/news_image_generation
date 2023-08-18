@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
+**Colts RB Jonathan Taylor Leaves Camp Due To Personal Matter**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
+You can read more about it [here](https://www.profootballrumors.com/2023/08/colts-rb-jonathan-taylor-leaves-camp-due-to-personal-matter).
 
 ## Requirements
 - Python 3.8
