@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shanna Gardner, Microsoft exec Jared Bridegan's ex-wife arrested in murder**
+**Saudi Arabia says it executed U.S. national convicted of killing and torturing his father**
 
-You can read more about it [here](https://www.jacksonville.com/story/news/crime/2023/08/17/shanna-gardner-jared-bridegans-arrested-in-jacksonville-beach-murder/70611389007/).
+You can read more about it [here](https://www.cbsnews.com/news/saudi-arabia-executes-u-s-national-convicted-of-killing-and-torturing-his-father/).
 
 ## Requirements
 - Python 3.8
