@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount Decides Against Selling BET Majority Stake**
+**Texas woman charged over threat to kill judge overseeing Trump case**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/paramount-bet-majority-stake-1235568588/).
+You can read more about it [here](https://www.axios.com/2023/08/17/texas-woman-charged-trump-judge-kill-threat).
 
 ## Requirements
 - Python 3.8
