@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Appeals court says abortion pill mifepristone should remain on the market but rules in favor of limiting access**
+**Paramount Drops Plans to Sell BET Stake - WSJ**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/politics/abortion-pill-mifepristone-5th-circuit/index.html).
+You can read more about it [here](https://www.wsj.com/business/media/paramount-drops-plans-to-sell-bet-stake-5911a133).
 
 ## Requirements
 - Python 3.8
