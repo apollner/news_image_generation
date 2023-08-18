@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rachel Leviss breaks silence, shades Bravo in 1st interview since treatment: 'I've been portrayed as the ultimate villain'**
+**Indian moon lander module splits from propulsion section in key step**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/rachel-leviss-breaks-silence-shades-bravo-in-1st-interview-since-treatment-ive-been-portrayed-as-the-ultimate-villain-171530477.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/17/indian-lunar-lander-splits-from-propulsion-module-in-key-step).
 
 ## Requirements
 - Python 3.8
