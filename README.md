@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
+**Purported names, photos and addresses of Fulton County grand jurors circulate on far-right internet**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/17/politics/fulton-county-grand-jurors-far-right-internet/index.html).
 
 ## Requirements
 - Python 3.8
