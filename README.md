@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti gang leader vows to fight any foreign armed force if it commits abuses**
+**Bruce Springsteen postpones Philadelphia shows last-minute after being 'taken ill'**
 
-You can read more about it [here](https://news.yahoo.com/haiti-gang-leader-vows-fight-211624777.html).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/bruce-springsteen-philadelphia-show-postponed-b2394490.html).
 
 ## Requirements
 - Python 3.8
