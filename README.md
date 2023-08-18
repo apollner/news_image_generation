@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow falls 100 points as investors digest earnings, economic data: Live updates**
+**Hurricane Hilary is rapidly intensifying, could bring significant flooding to Southern California, Southwest**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/16/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/08/17/weather/tropical-storm-hilary-thursday/index.html).
 
 ## Requirements
 - Python 3.8
