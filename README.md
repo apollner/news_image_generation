@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York State Department releases guidance after 3 dead from flesh-eating bacteria in New York, Connecticut**
+**Aldi acquires Winn-Dixie stores amid fast growth in Florida**
 
-You can read more about it [here](https://nypost.com/2023/08/16/ny-health-department-releases-guidance-after-3-die-from-flesh-eating-bacteria/).
+You can read more about it [here](https://www.tampabay.com/news/business/2023/08/16/aldi-acquires-winn-dixie-stores-amid-fast-growth-florida/).
 
 ## Requirements
 - Python 3.8
