@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Working With Dream Team of Hollywood Lawyers in Separation From Husband Sam Asghari**
+**New York State Department releases guidance after 3 dead from flesh-eating bacteria in New York, Connecticut**
 
-You can read more about it [here](https://variety.com/2023/music/news/britney-spears-sam-asghari-split-divorce-lawyers-1235698220/).
+You can read more about it [here](https://nypost.com/2023/08/16/ny-health-department-releases-guidance-after-3-die-from-flesh-eating-bacteria/).
 
 ## Requirements
 - Python 3.8
