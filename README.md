@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purported names, photos and addresses of Fulton County grand jurors circulate on far-right internet**
+**Rachel Leviss breaks silence, shades Bravo in 1st interview since treatment: 'I've been portrayed as the ultimate villain'**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/politics/fulton-county-grand-jurors-far-right-internet/index.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/rachel-leviss-breaks-silence-shades-bravo-in-1st-interview-since-treatment-ive-been-portrayed-as-the-ultimate-villain-171530477.html).
 
 ## Requirements
 - Python 3.8
