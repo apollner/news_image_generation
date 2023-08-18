@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Music Mogul, Horse Owner Jerry Moss Dies at 88**
+**Appeals court says abortion pill mifepristone should remain on the market but rules in favor of limiting access**
 
-You can read more about it [here](https://www.thoroughbreddailynews.com/music-mogul-horse-owner-jerry-moss-dies-at-88/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/politics/abortion-pill-mifepristone-5th-circuit/index.html).
 
 ## Requirements
 - Python 3.8
