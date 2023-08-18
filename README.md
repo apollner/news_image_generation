@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blasphemous 2 Review**
+**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mhkESLb1boo).
+You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
 
 ## Requirements
 - Python 3.8
