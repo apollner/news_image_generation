@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tweets are 'overt acts' in Trump's Georgia indictment. What does this mean?**
+**Blue Shield California ditches CVS for Amazon and Mark Cuban’s drug company**
 
-You can read more about it [here](https://www.npr.org/2023/08/17/1194209486/trump-georgia-indictment-rico-tweets-charges).
+You can read more about it [here](https://www.cnn.com/2023/08/17/business/blue-shield-california-new-pharmacy-care/index.html).
 
 ## Requirements
 - Python 3.8
