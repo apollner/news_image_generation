@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lenovo's leaked Legion Go is part Steam Deck, part Nintendo Switch**
+**Blasphemous 2 Review**
 
-You can read more about it [here](https://www.engadget.com/lenovos-leaked-legion-go-is-part-steam-deck-part-nintendo-switch-102508065.html).
+You can read more about it [here](https://www.youtube.com/watch?v=mhkESLb1boo).
 
 ## Requirements
 - Python 3.8
