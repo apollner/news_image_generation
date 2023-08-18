@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas woman charged over threat to kill judge overseeing Trump case**
+**Britney Spears Working With Dream Team of Hollywood Lawyers in Separation From Husband Sam Asghari**
 
-You can read more about it [here](https://www.axios.com/2023/08/17/texas-woman-charged-trump-judge-kill-threat).
+You can read more about it [here](https://variety.com/2023/music/news/britney-spears-sam-asghari-split-divorce-lawyers-1235698220/).
 
 ## Requirements
 - Python 3.8
