@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aldi acquires Winn-Dixie stores amid fast growth in Florida**
+**Haiti gang leader vows to fight any foreign armed force if it commits abuses**
 
-You can read more about it [here](https://www.tampabay.com/news/business/2023/08/16/aldi-acquires-winn-dixie-stores-amid-fast-growth-florida/).
+You can read more about it [here](https://news.yahoo.com/haiti-gang-leader-vows-fight-211624777.html).
 
 ## Requirements
 - Python 3.8
