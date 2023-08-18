@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blasphemous 2 review: Metroidvania with a potent world and weak bosses**
+**Death toll from Maui’s wildfires rises to 111 – with possibly 1,000 still missing – as tensions escalate over the cause and response**
 
-You can read more about it [here](https://www.polygon.com/reviews/23834535/blasphemous-2-review-metroidvania-weapons-release-date).
+You can read more about it [here](https://www.cnn.com/2023/08/17/us/hawaii-maui-wildfires-death-toll-thursday/index.html).
 
 ## Requirements
 - Python 3.8
