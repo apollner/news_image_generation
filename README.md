@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blue Shield California ditches CVS for Amazon and Mark Cuban’s drug company**
+**Hurricane Hilary nearly a major hurricane with ‘significant’ impacts expected in California, Southwest**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/business/blue-shield-california-new-pharmacy-care/index.html).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-hilary).
 
 ## Requirements
 - Python 3.8
