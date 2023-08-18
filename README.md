@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Asghari Files for Divorce From Britney Spears - E! Online**
+**Armed defendant identified in police SUV takedown, charged with multiple crimes, Nassau police say**
 
-You can read more about it [here](https://www.eonline.com/news/1383322/sam-asghari-files-for-divorce-from-britney-spears).
+You can read more about it [here](https://www.newsday.com/long-island/crime/police-suv-takedown-north-bellmore-ryder-iyjtrsz3).
 
 ## Requirements
 - Python 3.8
