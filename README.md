@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schumer trumpets Dems' party-line law as GOP pummels Manchin**
+**Music Mogul, Horse Owner Jerry Moss Dies at 88**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/16/inflation-reduction-act-dems-economy-schumer-manchin-00111545).
+You can read more about it [here](https://www.thoroughbreddailynews.com/music-mogul-horse-owner-jerry-moss-dies-at-88/).
 
 ## Requirements
 - Python 3.8
