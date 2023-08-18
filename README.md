@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MPTF Sends Out Urgent Plea For Donations To Aid Below-The-Line Crews, “The Forgotten Casualties” Of Ongoing WGA & SAG-AFTRA Strikes**
+**Dow falls 100 points as investors digest earnings, economic data: Live updates**
 
-You can read more about it [here](https://deadline.com/2023/08/hollywood-strikes-mptf-donations-1235521523/).
+You can read more about it [here](https://www.cnbc.com/2023/08/16/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
