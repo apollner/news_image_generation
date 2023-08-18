@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Armed defendant identified in police SUV takedown, charged with multiple crimes, Nassau police say**
+**Publisher of raided Kansas newspaper 'vindicated' by prosecutor's decision to return seized items after backlash**
 
-You can read more about it [here](https://www.newsday.com/long-island/crime/police-suv-takedown-north-bellmore-ryder-iyjtrsz3).
+You can read more about it [here](https://www.cnn.com/2023/08/16/media/marion-county-record-kansas-newspaper-reliable-sources/index.html).
 
 ## Requirements
 - Python 3.8
