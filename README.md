@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**About 1.5 million dehumidifiers recalled; brands include GE and Kenmore**
+**Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/16/gree-dehumidifier-recall-ge-kenmore/).
+You can read more about it [here](https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html).
 
 ## Requirements
 - Python 3.8
