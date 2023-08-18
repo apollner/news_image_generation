@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Moss, the 'M' of A&M Records, dies at 88**
+**Paramount Decides Against Selling BET Majority Stake**
 
-You can read more about it [here](https://www.latimes.com/entertainment-arts/music/story/2023-08-16/jerry-moss-cofounder-am-records-dies-88).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/paramount-bet-majority-stake-1235568588/).
 
 ## Requirements
 - Python 3.8
