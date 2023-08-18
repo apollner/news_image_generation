@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian moon lander module splits from propulsion section in key step**
+**The 7 things you need to know for Thursday, August 17**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/17/indian-lunar-lander-splits-from-propulsion-module-in-key-step).
+You can read more about it [here](https://www.washingtonpost.com/the-seven/2023/08/17/what-to-know-for-august-17/).
 
 ## Requirements
 - Python 3.8
