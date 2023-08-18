@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds**
+**In ‘Blue Beetle,’ DC bulks up a TV-style superhero origin story for theaters**
 
-You can read more about it [here](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds).
+You can read more about it [here](https://www.cnn.com/2023/08/17/entertainment/blue-beetle-review/index.html).
 
 ## Requirements
 - Python 3.8
