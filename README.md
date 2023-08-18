@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Publisher of raided Kansas newspaper 'vindicated' by prosecutor's decision to return seized items after backlash**
+**Jerry Moss, the 'M' of A&M Records, dies at 88**
 
-You can read more about it [here](https://www.cnn.com/2023/08/16/media/marion-county-record-kansas-newspaper-reliable-sources/index.html).
+You can read more about it [here](https://www.latimes.com/entertainment-arts/music/story/2023-08-16/jerry-moss-cofounder-am-records-dies-88).
 
 ## Requirements
 - Python 3.8
