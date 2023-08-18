@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colts RB Jonathan Taylor Leaves Camp Due To Personal Matter**
+**Lenovo's leaked Legion Go is part Steam Deck, part Nintendo Switch**
 
-You can read more about it [here](https://www.profootballrumors.com/2023/08/colts-rb-jonathan-taylor-leaves-camp-due-to-personal-matter).
+You can read more about it [here](https://www.engadget.com/lenovos-leaked-legion-go-is-part-steam-deck-part-nintendo-switch-102508065.html).
 
 ## Requirements
 - Python 3.8
