@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EV startup VinFast may be worth more than Ford and GM, but there's a catch**
+**Schumer trumpets Dems' party-line law as GOP pummels Manchin**
 
-You can read more about it [here](https://www.marketwatch.com/story/ev-startup-vinfast-may-be-worth-more-than-ford-and-gm-but-theres-a-catch-c2dff988).
+You can read more about it [here](https://www.politico.com/news/2023/08/16/inflation-reduction-act-dems-economy-schumer-manchin-00111545).
 
 ## Requirements
 - Python 3.8
