@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In ‘Blue Beetle,’ DC bulks up a TV-style superhero origin story for theaters**
+**Leaked Images of Lenovo's Gaming Handheld Shows Nintendo Switch-Like Design**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/entertainment/blue-beetle-review/index.html).
+You can read more about it [here](https://www.ign.com/articles/lenovo-legion-go-handheld-gaming-pc-leaked-images).
 
 ## Requirements
 - Python 3.8
