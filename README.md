@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll from Maui’s wildfires rises to 111 – with possibly 1,000 still missing – as tensions escalate over the cause and response**
+**Shanna Gardner, Microsoft exec Jared Bridegan's ex-wife arrested in murder**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/us/hawaii-maui-wildfires-death-toll-thursday/index.html).
+You can read more about it [here](https://www.jacksonville.com/story/news/crime/2023/08/17/shanna-gardner-jared-bridegans-arrested-in-jacksonville-beach-murder/70611389007/).
 
 ## Requirements
 - Python 3.8
