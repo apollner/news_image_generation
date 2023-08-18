@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed officials divided in July over need for more rate hikes, minutes show**
+**EV startup VinFast may be worth more than Ford and GM, but there's a catch**
 
-You can read more about it [here](https://www.reuters.com/markets/us/fed-policymakers-divided-july-over-need-more-rate-hikes-minutes-show-2023-08-16/).
+You can read more about it [here](https://www.marketwatch.com/story/ev-startup-vinfast-may-be-worth-more-than-ford-and-gm-but-theres-a-catch-c2dff988).
 
 ## Requirements
 - Python 3.8
