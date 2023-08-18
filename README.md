@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 7 things you need to know for Thursday, August 17**
+**Blasphemous 2 review: Metroidvania with a potent world and weak bosses**
 
-You can read more about it [here](https://www.washingtonpost.com/the-seven/2023/08/17/what-to-know-for-august-17/).
+You can read more about it [here](https://www.polygon.com/reviews/23834535/blasphemous-2-review-metroidvania-weapons-release-date).
 
 ## Requirements
 - Python 3.8
