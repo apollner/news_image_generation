@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Hilary to produce flooding rains across Southwestern U.S.**
+**Indian moon lander module splits from propulsion section in key step**
 
-You can read more about it [here](https://www.axios.com/2023/08/17/hurricane-hilary-2023-flooding-california-arizona).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/17/indian-lunar-lander-splits-from-propulsion-module-in-key-step).
 
 ## Requirements
 - Python 3.8
