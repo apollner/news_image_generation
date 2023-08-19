@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Merab Dvalishvili steals spotlight wearing jacket he took from Sean O’Malley to UFC 292 pre-fight press confe…**
+**Thirty-year fixed-rate mortgage rate surges to highest in two decades**
 
-You can read more about it [here](https://www.mmafighting.com/2023/8/17/23836633/merab-dvalishvili-steals-show-wearing-jacket-he-took-from-sean-omalley-ufc-292-press-conference).
+You can read more about it [here](https://thehill.com/business/4157952-thirty-year-fixed-rate-mortgage-rate-surges-to-highest-in-two-decades/).
 
 ## Requirements
 - Python 3.8
