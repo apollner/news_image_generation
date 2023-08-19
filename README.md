@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heavy, highly magnetic star may be first magnetar precursor we’ve seen**
+**Biden looks to solidify key ties with Japan and South Korea at Camp David meeting**
 
-You can read more about it [here](https://arstechnica.com/science/2023/08/heavy-highly-magnetic-star-may-be-first-magnetar-precursor-weve-seen/).
+You can read more about it [here](https://www.cnbc.com/2023/08/17/biden-hosts-leaders-of-japan-and-south-korea-at-camp-david-meeting.html).
 
 ## Requirements
 - Python 3.8
