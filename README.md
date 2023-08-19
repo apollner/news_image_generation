@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twitch will let streamers ban users from watching their streams**
+**Britney Spears, Sam Asghari Divorce Court Document Details**
 
-You can read more about it [here](https://www.theverge.com/2023/8/18/23836913/twitch-ban-block-stream-viewing).
+You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/britney-spears-sam-asghari-divorce-details-pregnancy-scare).
 
 ## Requirements
 - Python 3.8
