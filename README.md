@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeffrey Clark: Trump DOJ official urges judge to reject March 2024 trial date in Georgia case**
+**The iPhone 15 might support faster charging speeds via USB-C**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/politics/jeffrey-clark-georgia-trial-date/index.html).
+You can read more about it [here](https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage).
 
 ## Requirements
 - Python 3.8
