@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thirty-year fixed-rate mortgage rate surges to highest in two decades**
+**Twila Kilgore tapped as interim coach for US women's national soccer team**
 
-You can read more about it [here](https://thehill.com/business/4157952-thirty-year-fixed-rate-mortgage-rate-surges-to-highest-in-two-decades/).
+You can read more about it [here](https://abcnews.go.com/Sports/wireStory/twila-kilgore-tapped-interim-coach-us-womens-national-102343246).
 
 ## Requirements
 - Python 3.8
