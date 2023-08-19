@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twila Kilgore tapped as interim coach for US women's national soccer team**
+**Moderna's updated COVID vaccine effective against 'Eris' variant in humans**
 
-You can read more about it [here](https://abcnews.go.com/Sports/wireStory/twila-kilgore-tapped-interim-coach-us-womens-national-102343246).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-updated-covid-vaccine-effective-against-eris-variant-humans-2023-08-17/).
 
 ## Requirements
 - Python 3.8
