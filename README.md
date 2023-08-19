@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moderna's updated COVID vaccine effective against 'Eris' variant in humans**
+**Merab Dvalishvili steals spotlight wearing jacket he took from Sean O’Malley to UFC 292 pre-fight press confe…**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-updated-covid-vaccine-effective-against-eris-variant-humans-2023-08-17/).
+You can read more about it [here](https://www.mmafighting.com/2023/8/17/23836633/merab-dvalishvili-steals-show-wearing-jacket-he-took-from-sean-omalley-ufc-292-press-conference).
 
 ## Requirements
 - Python 3.8
