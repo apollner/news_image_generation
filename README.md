@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best Taylor Swift Eras Tour Moments: Surprise Guests And More**
+**Passkeys are great, but not safe from quantum computers. Dilithium could change that.**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-lists/best-taylor-swift-eras-tour-moments-1234807544/).
+You can read more about it [here](https://arstechnica.com/security/2023/08/passkeys-are-great-but-not-safe-from-quantum-computers-dilithium-could-change-that/).
 
 ## Requirements
 - Python 3.8
