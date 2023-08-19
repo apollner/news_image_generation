@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington Commanders name Sam Howell starting quarterback - ESPN**
+**Chandrayaan-3: India's lunar lander Vikram sends close-up photos of Moon**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38214268/washington-commanders-name-sam-howell-starting-quarterback).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-66541956).
 
 ## Requirements
 - Python 3.8
