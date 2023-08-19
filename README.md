@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US CDC tracks new lineage of virus that causes COVID**
+**UFC 292 Embedded: Vlog Series - Episode 5**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-cdc-tracks-new-lineage-virus-that-causes-covid-2023-08-18/).
+You can read more about it [here](https://www.youtube.com/watch?v=84YtYPmwcyQ).
 
 ## Requirements
 - Python 3.8
