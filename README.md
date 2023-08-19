@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 292 Embedded: Vlog Series - Episode 5**
+**Crypto sell-off intensifies, with XRP, Litecoin, and Bitcoin Cash among the hardest hit**
 
-You can read more about it [here](https://www.youtube.com/watch?v=84YtYPmwcyQ).
+You can read more about it [here](https://fortune.com/crypto/2023/08/18/crypto-bitcoin-downtrun-xrp-litecoin-bitcoin-cash-down/).
 
 ## Requirements
 - Python 3.8
