@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Hilary nearly a major hurricane with ‘significant’ impacts expected in California, Southwest**
+**Strong earthquake and aftershock shake Colombia's capital and other cities**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-hilary).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/strong-earthquake-aftershock-shake-colombias-capital-cities-102349077).
 
 ## Requirements
 - Python 3.8
