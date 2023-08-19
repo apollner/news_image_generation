@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Strong earthquake and aftershock shake Colombia's capital and other cities**
+**Auburn coach Hugh Freeze addresses 'The Blind Side' star Michael Oher's lawsuit against Tuohy family**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/strong-earthquake-aftershock-shake-colombias-capital-cities-102349077).
+You can read more about it [here](https://www.cbssports.com/college-football/news/auburn-coach-hugh-freeze-addresses-the-blind-side-star-michael-ohers-lawsuit-against-tuohy-family/).
 
 ## Requirements
 - Python 3.8
