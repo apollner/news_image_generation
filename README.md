@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman sentenced to 22 years for trying to mail ricin to Trump**
+**Hillsong Church founder found not guilty of concealing his father's child sex crimes**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/08/17/ricin-letter-trump-sentence/).
+You can read more about it [here](https://www.npr.org/2023/08/17/1194499061/hillsong-church-brian-houston-not-guilty-concealing-sex-crimes).
 
 ## Requirements
 - Python 3.8
