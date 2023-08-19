@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands scramble to evacuate capital of Canada's Northwest Territories as more than 200 'unprecedented' wildfires blanket region**
+**West African militaries meet to finalise possible Niger intervention**
 
-You can read more about it [here](https://www.cnn.com/2023/08/18/americas/canada-northwest-territories-wildfire-evacuation-friday/index.html).
+You can read more about it [here](https://www.reuters.com/world/africa/west-african-militaries-meet-finalise-possible-niger-intervention-2023-08-18/).
 
 ## Requirements
 - Python 3.8
