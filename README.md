@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia state senator moves toward impeaching DA Fani Willis over Trump charges**
+**Twila Kilgore tapped as interim coach for US women's national soccer team**
 
-You can read more about it [here](https://www.foxnews.com/politics/georgia-state-senator-moves-impeaching-da-fani-willis-trump-charges).
+You can read more about it [here](https://abcnews.go.com/Sports/wireStory/twila-kilgore-tapped-interim-coach-us-womens-national-102343246).
 
 ## Requirements
 - Python 3.8
