@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hillsong Church founder found not guilty of concealing his father's child sex crimes**
+**Moderna's updated COVID vaccine effective against 'Eris' variant in humans**
 
-You can read more about it [here](https://www.npr.org/2023/08/17/1194499061/hillsong-church-brian-houston-not-guilty-concealing-sex-crimes).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-updated-covid-vaccine-effective-against-eris-variant-humans-2023-08-17/).
 
 ## Requirements
 - Python 3.8
