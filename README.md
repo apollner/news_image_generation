@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Passkeys are great, but not safe from quantum computers. Dilithium could change that.**
+**Ford Unveils 800-HP Race-Inspired Mustang GTD**
 
-You can read more about it [here](https://arstechnica.com/security/2023/08/passkeys-are-great-but-not-safe-from-quantum-computers-dilithium-could-change-that/).
+You can read more about it [here](https://jalopnik.com/ford-unveils-800-hp-race-inspired-mustang-gtd-1850751765).
 
 ## Requirements
 - Python 3.8
