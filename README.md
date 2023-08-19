@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles WR Tyrie Cleveland leaves on stretcher with neck injury**
+**Woman sentenced to 22 years for trying to mail ricin to Trump**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-wr-tyrie-cleveland-taken-off-on-a-stretcher-with-neck-injury).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/08/17/ricin-letter-trump-sentence/).
 
 ## Requirements
 - Python 3.8
