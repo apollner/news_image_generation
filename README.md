@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Auburn coach Hugh Freeze addresses 'The Blind Side' star Michael Oher's lawsuit against Tuohy family**
+**Heavy, highly magnetic star may be first magnetar precursor we’ve seen**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/auburn-coach-hugh-freeze-addresses-the-blind-side-star-michael-ohers-lawsuit-against-tuohy-family/).
+You can read more about it [here](https://arstechnica.com/science/2023/08/heavy-highly-magnetic-star-may-be-first-magnetar-precursor-weve-seen/).
 
 ## Requirements
 - Python 3.8
