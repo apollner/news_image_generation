@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Ancient Fire Wiped Out Entire Species. It's Happening Again, Scientists Fear**
+**Washington Commanders name Sam Howell starting quarterback - ESPN**
 
-You can read more about it [here](https://www.sciencealert.com/an-ancient-fire-wiped-out-entire-species-its-happening-again-scientists-fear).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38214268/washington-commanders-name-sam-howell-starting-quarterback).
 
 ## Requirements
 - Python 3.8
