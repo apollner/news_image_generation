@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears, Sam Asghari Divorce Court Document Details**
+**China property giant Evergrande files for US bankruptcy protection - BBC News**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/britney-spears-sam-asghari-divorce-details-pregnancy-scare).
+You can read more about it [here](https://www.youtube.com/watch?v=x5wQDKUSxhQ).
 
 ## Requirements
 - Python 3.8
