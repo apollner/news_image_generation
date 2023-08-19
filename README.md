@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moderna's updated COVID vaccine effective against 'Eris' variant in humans**
+**Georgia state senator moves toward impeaching DA Fani Willis over Trump charges**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-updated-covid-vaccine-effective-against-eris-variant-humans-2023-08-17/).
+You can read more about it [here](https://www.foxnews.com/politics/georgia-state-senator-moves-impeaching-da-fani-willis-trump-charges).
 
 ## Requirements
 - Python 3.8
