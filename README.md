@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Hilary strengthens to a Category 4 storm, but is expected to weaken before bringing rain to the Southwest US this weekend**
+**Twitch will let streamers ban users from watching their streams**
 
-You can read more about it [here](https://www.cnn.com/2023/08/18/weather/hurricane-hilary-rain-flooding-forecast-friday/index.html).
+You can read more about it [here](https://www.theverge.com/2023/8/18/23836913/twitch-ban-block-stream-viewing).
 
 ## Requirements
 - Python 3.8
