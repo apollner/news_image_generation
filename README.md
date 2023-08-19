@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP candidates claim to qualify for the debate — and dare the RNC to say no**
+**Microsoft says listing the Ottawa Food Bank as a tourist destination wasn't the result of 'unsupervised AI'**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/18/gop-longshot-debate-campaigns-00111859).
+You can read more about it [here](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination).
 
 ## Requirements
 - Python 3.8
