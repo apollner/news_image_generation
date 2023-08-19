@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senegalese migrants feared dead at sea near Cape Verde**
+**Microsoft & OpenAI CEOs: Dawn of the AI Wars**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/17/migrant-boat-senegal-spain/70613212007/).
+You can read more about it [here](https://www.youtube.com/watch?v=6ydFDwv-n8w).
 
 ## Requirements
 - Python 3.8
