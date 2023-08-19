@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui's emergency management chief resigns, citing health reasons, a day after he defended sirens' silence during deadly wildfires**
+**Thousands scramble to evacuate capital of Canada's Northwest Territories as more than 200 'unprecedented' wildfires blanket region**
 
-You can read more about it [here](https://www.cnn.com/2023/08/17/us/hawaii-maui-wildfires-death-toll-thursday/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/18/americas/canada-northwest-territories-wildfire-evacuation-friday/index.html).
 
 ## Requirements
 - Python 3.8
