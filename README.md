@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft & OpenAI CEOs: Dawn of the AI Wars**
+**Eagles WR Tyrie Cleveland leaves on stretcher with neck injury**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6ydFDwv-n8w).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-wr-tyrie-cleveland-taken-off-on-a-stretcher-with-neck-injury).
 
 ## Requirements
 - Python 3.8
