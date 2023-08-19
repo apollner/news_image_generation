@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China property giant Evergrande files for US bankruptcy protection - BBC News**
+**Leading politician says victory for Niger's coup leaders would be 'the end of democracy' in Africa**
 
-You can read more about it [here](https://www.youtube.com/watch?v=x5wQDKUSxhQ).
+You can read more about it [here](https://news.yahoo.com/leading-politician-says-victory-nigers-080020420.html).
 
 ## Requirements
 - Python 3.8
