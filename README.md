@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crypto sell-off intensifies, with XRP, Litecoin, and Bitcoin Cash among the hardest hit**
+**GOP candidates claim to qualify for the debate — and dare the RNC to say no**
 
-You can read more about it [here](https://fortune.com/crypto/2023/08/18/crypto-bitcoin-downtrun-xrp-litecoin-bitcoin-cash-down/).
+You can read more about it [here](https://www.politico.com/news/2023/08/18/gop-longshot-debate-campaigns-00111859).
 
 ## Requirements
 - Python 3.8
