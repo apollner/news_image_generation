@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Little Rock schools will allow African American class to count for graduation, in break from Arkansas state officials**
+**Five best NFL long-shot bets to make for 2023 season, including Tyreek Hill for MVP**
 
-You can read more about it [here](https://www.cnn.com/2023/08/18/us/african-american-studies-little-rock/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/five-best-nfl-long-shot-bets-to-make-for-2023-season-including-tyreek-hill-for-mvp/).
 
 ## Requirements
 - Python 3.8
