@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video)**
+**US CDC tracks new lineage of virus that causes COVID**
 
-You can read more about it [here](https://www.space.com/india-chandrayaan-3-moon-photos-august-2023).
+You can read more about it [here](https://www.reuters.com/world/us/us-cdc-tracks-new-lineage-virus-that-causes-covid-2023-08-18/).
 
 ## Requirements
 - Python 3.8
