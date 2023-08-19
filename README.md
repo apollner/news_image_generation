@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden looks to solidify key ties with Japan and South Korea at Camp David meeting**
+**Senegalese migrants feared dead at sea near Cape Verde**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/17/biden-hosts-leaders-of-japan-and-south-korea-at-camp-david-meeting.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/17/migrant-boat-senegal-spain/70613212007/).
 
 ## Requirements
 - Python 3.8
