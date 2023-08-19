@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five best NFL long-shot bets to make for 2023 season, including Tyreek Hill for MVP**
+**India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video)**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/five-best-nfl-long-shot-bets-to-make-for-2023-season-including-tyreek-hill-for-mvp/).
+You can read more about it [here](https://www.space.com/india-chandrayaan-3-moon-photos-august-2023).
 
 ## Requirements
 - Python 3.8
