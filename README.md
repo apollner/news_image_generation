@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada wildfire: Yellowknife evacuees turned away from full flights**
+**Jeffrey Clark: Trump DOJ official urges judge to reject March 2024 trial date in Georgia case**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66539828).
+You can read more about it [here](https://www.cnn.com/2023/08/17/politics/jeffrey-clark-georgia-trial-date/index.html).
 
 ## Requirements
 - Python 3.8
