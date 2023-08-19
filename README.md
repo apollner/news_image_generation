@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chandrayaan-3: India's lunar lander Vikram sends close-up photos of Moon**
+**An Ancient Fire Wiped Out Entire Species. It's Happening Again, Scientists Fear**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-66541956).
+You can read more about it [here](https://www.sciencealert.com/an-ancient-fire-wiped-out-entire-species-its-happening-again-scientists-fear).
 
 ## Requirements
 - Python 3.8
