@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twila Kilgore tapped as interim coach for US women's national soccer team**
+**Maui's emergency management chief resigns, citing health reasons, a day after he defended sirens' silence during deadly wildfires**
 
-You can read more about it [here](https://abcnews.go.com/Sports/wireStory/twila-kilgore-tapped-interim-coach-us-womens-national-102343246).
+You can read more about it [here](https://www.cnn.com/2023/08/17/us/hawaii-maui-wildfires-death-toll-thursday/index.html).
 
 ## Requirements
 - Python 3.8
