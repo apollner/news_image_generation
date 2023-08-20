@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Physical child abuse linked to mental health problems**
+**Russia and India attempt moon landings as they join new space race**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/19/child-abuse-mental-health/).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/08/19/russia-india-moon-landing-artemis/).
 
 ## Requirements
 - Python 3.8
