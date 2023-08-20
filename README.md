@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baldur's Gate 3 on the Steam Deck plays better than it looks**
+**Dozens of shelter cats from Maui arrive at PDX airport**
 
-You can read more about it [here](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great).
+You can read more about it [here](https://www.kgw.com/article/life/animals/maui-wildfires-shelter-animals-portland/283-9a92909c-c77f-4f1f-9334-7c6793900892).
 
 ## Requirements
 - Python 3.8
