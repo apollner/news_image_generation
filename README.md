@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Block Island in a state of emergency following fire at historic hotel**
+**Israeli father and son gunned down and killed in terror shooting at Huwara carwash**
 
-You can read more about it [here](https://www.wtnh.com/news/connecticut/new-london/block-island-in-a-state-of-emergency-following-fire-at-historic-hotel/).
+You can read more about it [here](https://www.timesofisrael.com/two-israelis-critically-wounded-in-suspected-terror-shooting-in-huwara/).
 
 ## Requirements
 - Python 3.8
