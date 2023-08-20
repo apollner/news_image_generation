@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Search for Maui wildfire victims continues as death toll rises to 114**
+**Block Island in a state of emergency following fire at historic hotel**
 
-You can read more about it [here](https://www.cbsnews.com/news/search-maui-wildfire-victims-intensifies-lahaina-death-toll-rises/).
+You can read more about it [here](https://www.wtnh.com/news/connecticut/new-london/block-island-in-a-state-of-emergency-following-fire-at-historic-hotel/).
 
 ## Requirements
 - Python 3.8
