@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Things I think’ after Giants-Panthers preseason game**
+**Today’s daily horoscope for Aug. 19, 2023**
 
-You can read more about it [here](https://www.bigblueview.com/2023/8/18/23837759/things-i-think-after-giants-panthers-preseason-game).
+You can read more about it [here](https://www.nj.com/advice/2023/08/todays-daily-horoscope-for-aug-19-2023.html).
 
 ## Requirements
 - Python 3.8
