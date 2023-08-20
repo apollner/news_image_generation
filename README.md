@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's Luna-25 spacecraft suffers technical glitch, space agency says**
+**Michael K. Williams drug dealer gets 10-year prison sentence**
 
-You can read more about it [here](https://news.yahoo.com/russias-luna-25-spacecraft-produces-130746279.html).
+You can read more about it [here](https://www.washingtonpost.com/arts-entertainment/2023/08/19/michael-k-williams-overdose-drug-dealer-sentenced/).
 
 ## Requirements
 - Python 3.8
