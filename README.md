@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palo Alto shares rise on earnings beat, surprising investors who worried about a Friday report**
+**The iPhone 15 could get one of the biggest upgrades in years: A new charging port**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/18/palo-alto-networks-panw-earnings-report-q4-2023.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/18/iphone-15-usb-c-charging-would-be-biggest-upgrade-in-years.html).
 
 ## Requirements
 - Python 3.8
