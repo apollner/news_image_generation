@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Jackson Sexual Abuse Lawsuits Revived by Appeals Court**
+**Daughter searches for elderly father called Uncle Shadow; he's among hundreds missing from Maui wildfires**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/michael-jackson-companies-sexual-abuse-lawsuits-revived-1234809177/).
+You can read more about it [here](https://mauinow.com).
 
 ## Requirements
 - Python 3.8
