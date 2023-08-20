@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lionel Messi’s first Inter Miami press conference: What he said and what he meant**
+**Trump indictment looms large over GOP presidential hopefuls in Georgia**
 
-You can read more about it [here](https://theathletic.com/4787858/2023/08/18/messi-press-conference-miami/).
+You can read more about it [here](https://www.politico.com/news/2023/08/18/trump-indictment-gop-georgia-00111942).
 
 ## Requirements
 - Python 3.8
