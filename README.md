@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ECOWAS defence chiefs agree ‘D-day’ for Niger military intervention**
+**Ukrainian Military Says Its Troops Continue Push To Sever Russia's Land Bridge To Crimea**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/18/ecowas-defence-chiefs-agree-d-day-for-niger-military-intervention).
+You can read more about it [here](https://www.rferl.org/a/ukraine-crimean-land-bridge-russia-troops-push/32554441.html).
 
 ## Requirements
 - Python 3.8
