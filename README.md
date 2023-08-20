@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 killed in Washington wildfires; hundreds of buildings burned**
+**Russia's Luna-25 spacecraft suffers technical glitch, space agency says**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/19/washington-wildfires-killed-evacuation-orders-buildings-burned/70632358007/).
+You can read more about it [here](https://news.yahoo.com/russias-luna-25-spacecraft-produces-130746279.html).
 
 ## Requirements
 - Python 3.8
