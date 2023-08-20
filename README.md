@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael K. Williams drug dealer gets 10-year prison sentence**
+**Charlize Theron responds to rumors she's had a facelift: 'B****, I'm just aging!'**
 
-You can read more about it [here](https://www.washingtonpost.com/arts-entertainment/2023/08/19/michael-k-williams-overdose-drug-dealer-sentenced/).
+You can read more about it [here](https://www.yahoo.com/lifestyle/charlize-theron-responds-rumors-shes-170103725.html).
 
 ## Requirements
 - Python 3.8
