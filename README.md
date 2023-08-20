@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When was Lucy Letby arrested? Key dates in the investigation of baby-killing nurse**
+**Maui homeowner reveals property upgrades that left her house spared in wildfires**
 
-You can read more about it [here](https://www.independent.co.uk/news/uk/crime/nurse-lucy-letby-news-arrest-video-b2395865.html).
+You can read more about it [here](https://www.independent.co.uk/climate-change/maui-homeowners-wildfires-property-upgrade-b2395872.html).
 
 ## Requirements
 - Python 3.8
