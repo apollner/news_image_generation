@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Camp David, Biden hails 'next era of partnership' between U.S., South Korea and Japan**
+**Baldur's Gate 3 on the Steam Deck plays better than it looks**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/18/at-camp-david-biden-hails-next-era-of-partnership-between-us-south-korea-and-japan-00111901).
+You can read more about it [here](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great).
 
 ## Requirements
 - Python 3.8
