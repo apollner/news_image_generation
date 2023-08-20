@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines sues Skiplagged travel site after company bars teen for using for cheap ticket**
+**New data reveals dozens of power grid malfunctions as Maui wildfires began**
 
-You can read more about it [here](https://nypost.com/2023/08/18/american-airlines-sues-skiplagged-travel-site-after-company-bars-teen-for-using-for-cheap-ticket/).
+You can read more about it [here](https://www.youtube.com/watch?v=zN8gtzyX0bI).
 
 ## Requirements
 - Python 3.8
