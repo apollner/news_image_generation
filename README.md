@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cases of new COVID variant rising in Georgia, high temperatures may contribute to spread**
+**Hurricane Hilary prompts historic tropical storm warning for California as Southwest braces for dangerous rain, flooding**
 
-You can read more about it [here](https://www.walb.com/2023/08/19/cases-new-covid-variant-rising-georgia-high-temperatures-may-contribute-spread/).
+You can read more about it [here](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html).
 
 ## Requirements
 - Python 3.8
