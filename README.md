@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Slim S Pen Case Hands-on—Not for Everyone**
+**Trump indictment looms large over GOP presidential hopefuls in Georgia**
 
-You can read more about it [here](https://gizmodo.com/samsung-slim-s-pen-case-hands-on-not-for-everyone-1850753066).
+You can read more about it [here](https://www.politico.com/news/2023/08/18/trump-indictment-gop-georgia-00111942).
 
 ## Requirements
 - Python 3.8
