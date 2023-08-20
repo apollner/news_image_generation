@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Hilary prompts historic tropical storm warning for California as Southwest braces for dangerous rain, flooding**
+**‘Things I think’ after Giants-Panthers preseason game**
 
-You can read more about it [here](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html).
+You can read more about it [here](https://www.bigblueview.com/2023/8/18/23837759/things-i-think-after-giants-panthers-preseason-game).
 
 ## Requirements
 - Python 3.8
