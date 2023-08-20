@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Darius Jackson slams 'false' reports claiming he's 'moved on' from Keke Palmer**
+**ECOWAS defence chiefs agree ‘D-day’ for Niger military intervention**
 
-You can read more about it [here](https://pagesix.com/2023/08/18/darius-jackson-slams-false-reports-claiming-hes-moved-on-from-keke-palmer/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/18/ecowas-defence-chiefs-agree-d-day-for-niger-military-intervention).
 
 ## Requirements
 - Python 3.8
