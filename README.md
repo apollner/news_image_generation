@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Block Island in a state of emergency following fire at historic hotel**
+**NASA films rare footage of its Mars helicopter flying and landing**
 
-You can read more about it [here](https://www.wtnh.com/news/connecticut/new-london/block-island-in-a-state-of-emergency-following-fire-at-historic-hotel/).
+You can read more about it [here](https://mashable.com/article/mars-helicopter-video-nasa).
 
 ## Requirements
 - Python 3.8
