@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump indictment looms large over GOP presidential hopefuls in Georgia**
+**American Airlines sues Skiplagged travel site after company bars teen for using for cheap ticket**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/18/trump-indictment-gop-georgia-00111942).
+You can read more about it [here](https://nypost.com/2023/08/18/american-airlines-sues-skiplagged-travel-site-after-company-bars-teen-for-using-for-cheap-ticket/).
 
 ## Requirements
 - Python 3.8
