@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump indictment looms large over GOP presidential hopefuls in Georgia**
+**Palo Alto shares rise on earnings beat, surprising investors who worried about a Friday report**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/18/trump-indictment-gop-georgia-00111942).
+You can read more about it [here](https://www.cnbc.com/2023/08/18/palo-alto-networks-panw-earnings-report-q4-2023.html).
 
 ## Requirements
 - Python 3.8
