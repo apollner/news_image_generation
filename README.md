@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why are the Republican candidates meeting in Milwaukee? No, it's not for the beer**
+**'Blue Beetle' Ends 'Barbie's Domestic Box Office Reign**
 
-You can read more about it [here](https://www.npr.org/2023/08/19/1194806639/republican-presidential-debate-milwaukee-political-history).
+You can read more about it [here](https://collider.com/blue-beetle-domestic-box-office-10-million/).
 
 ## Requirements
 - Python 3.8
