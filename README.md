@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlize Theron responds to rumors she's had a facelift: 'B****, I'm just aging!'**
+**2023 Women's World Cup final odds, time: Spain vs. England picks, predictions, bets by proven soccer expert**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/charlize-theron-responds-rumors-shes-170103725.html).
+You can read more about it [here](https://www.cbssports.com/soccer/news/2023-womens-world-cup-final-odds-time-spain-vs-england-picks-predictions-bets-by-proven-soccer-expert/).
 
 ## Requirements
 - Python 3.8
