@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA films rare footage of its Mars helicopter flying and landing**
+**Canada Wildfire Latest: British Columbia Declares State Of Emergency, Yellowknife Fire Approaches City**
 
-You can read more about it [here](https://mashable.com/article/mars-helicopter-video-nasa).
+You can read more about it [here](https://www.forbes.com/sites/brianbushard/2023/08/19/canada-wildfire-latest-british-columbia-declares-state-of-emergency-yellowknife-fire-approaches-city/).
 
 ## Requirements
 - Python 3.8
