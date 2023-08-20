@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada Wildfire Latest: British Columbia Declares State Of Emergency, Yellowknife Fire Approaches City**
+**Block Island in a state of emergency following fire at historic hotel**
 
-You can read more about it [here](https://www.forbes.com/sites/brianbushard/2023/08/19/canada-wildfire-latest-british-columbia-declares-state-of-emergency-yellowknife-fire-approaches-city/).
+You can read more about it [here](https://www.wtnh.com/news/connecticut/new-london/block-island-in-a-state-of-emergency-following-fire-at-historic-hotel/).
 
 ## Requirements
 - Python 3.8
