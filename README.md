@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Blue Beetle' Ends 'Barbie's Domestic Box Office Reign**
+**Ford CEO: It's the 'right time' to build the Mustang GTD supercar**
 
-You can read more about it [here](https://collider.com/blue-beetle-domestic-box-office-10-million/).
+You can read more about it [here](https://finance.yahoo.com/news/ford-ceo-its-the-right-time-to-build-the-mustang-gtd-supercar-132431166.html).
 
 ## Requirements
 - Python 3.8
