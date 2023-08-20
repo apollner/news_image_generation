@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui homeowner reveals property upgrades that left her house spared in wildfires**
+**Search for Maui wildfire victims continues as death toll rises to 114**
 
-You can read more about it [here](https://www.independent.co.uk/climate-change/maui-homeowners-wildfires-property-upgrade-b2395872.html).
+You can read more about it [here](https://www.cbsnews.com/news/search-maui-wildfire-victims-intensifies-lahaina-death-toll-rises/).
 
 ## Requirements
 - Python 3.8
