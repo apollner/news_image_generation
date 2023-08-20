@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford Unveils 800-HP Race-Inspired Mustang GTD**
+**Lionel Messi’s first Inter Miami press conference: What he said and what he meant**
 
-You can read more about it [here](https://jalopnik.com/ford-unveils-800-hp-race-inspired-mustang-gtd-1850751765).
+You can read more about it [here](https://theathletic.com/4787858/2023/08/18/messi-press-conference-miami/).
 
 ## Requirements
 - Python 3.8
