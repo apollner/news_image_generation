@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New data reveals dozens of power grid malfunctions as Maui wildfires began**
+**UFC 292 Embedded: Vlog Series - Episode 6**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zN8gtzyX0bI).
+You can read more about it [here](https://www.youtube.com/watch?v=lIC-ineSvWo).
 
 ## Requirements
 - Python 3.8
