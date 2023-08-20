@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPhone 15 could get one of the biggest upgrades in years: A new charging port**
+**At Camp David, Biden hails 'next era of partnership' between U.S., South Korea and Japan**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/18/iphone-15-usb-c-charging-would-be-biggest-upgrade-in-years.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/18/at-camp-david-biden-hails-next-era-of-partnership-between-us-south-korea-and-japan-00111901).
 
 ## Requirements
 - Python 3.8
