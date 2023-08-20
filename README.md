@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baldur's Gate 3 on the Steam Deck plays better than it looks**
+**Darius Jackson slams 'false' reports claiming he's 'moved on' from Keke Palmer**
 
-You can read more about it [here](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great).
+You can read more about it [here](https://pagesix.com/2023/08/18/darius-jackson-slams-false-reports-claiming-hes-moved-on-from-keke-palmer/).
 
 ## Requirements
 - Python 3.8
