@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s daily horoscope for Aug. 19, 2023**
+**Cases of new COVID variant rising in Georgia, high temperatures may contribute to spread**
 
-You can read more about it [here](https://www.nj.com/advice/2023/08/todays-daily-horoscope-for-aug-19-2023.html).
+You can read more about it [here](https://www.walb.com/2023/08/19/cases-new-covid-variant-rising-georgia-high-temperatures-may-contribute-spread/).
 
 ## Requirements
 - Python 3.8
