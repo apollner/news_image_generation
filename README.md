@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli father and son gunned down and killed in terror shooting at Huwara carwash**
+**Why are the Republican candidates meeting in Milwaukee? No, it's not for the beer**
 
-You can read more about it [here](https://www.timesofisrael.com/two-israelis-critically-wounded-in-suspected-terror-shooting-in-huwara/).
+You can read more about it [here](https://www.npr.org/2023/08/19/1194806639/republican-presidential-debate-milwaukee-political-history).
 
 ## Requirements
 - Python 3.8
