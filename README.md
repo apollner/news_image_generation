@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 292 Embedded: Vlog Series - Episode 6**
+**When was Lucy Letby arrested? Key dates in the investigation of baby-killing nurse**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lIC-ineSvWo).
+You can read more about it [here](https://www.independent.co.uk/news/uk/crime/nurse-lucy-letby-news-arrest-video-b2395865.html).
 
 ## Requirements
 - Python 3.8
