@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Hilary prompts historic tropical storm warning for California as Southwest braces for dangerous rain, flooding**
+**Physical child abuse linked to mental health problems**
 
-You can read more about it [here](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/08/19/child-abuse-mental-health/).
 
 ## Requirements
 - Python 3.8
