@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daughter searches for elderly father called Uncle Shadow; he's among hundreds missing from Maui wildfires**
+**Soaring mortgage rates and you: 6 things homebuyers should know**
 
-You can read more about it [here](https://mauinow.com).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/08/18/mortgage-rates-home-buying/).
 
 ## Requirements
 - Python 3.8
