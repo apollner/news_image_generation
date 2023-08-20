@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia and India attempt moon landings as they join new space race**
+**UFC 292 Embedded: Vlog Series - Episode 6**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/08/19/russia-india-moon-landing-artemis/).
+You can read more about it [here](https://www.youtube.com/watch?v=lIC-ineSvWo).
 
 ## Requirements
 - Python 3.8
