@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 292 Embedded: Vlog Series - Episode 6**
+**Baldur's Gate 3 on the Steam Deck plays better than it looks**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lIC-ineSvWo).
+You can read more about it [here](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great).
 
 ## Requirements
 - Python 3.8
