@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford CEO: It's the 'right time' to build the Mustang GTD supercar**
+**1 killed in Washington wildfires; hundreds of buildings burned**
 
-You can read more about it [here](https://finance.yahoo.com/news/ford-ceo-its-the-right-time-to-build-the-mustang-gtd-supercar-132431166.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/19/washington-wildfires-killed-evacuation-orders-buildings-burned/70632358007/).
 
 ## Requirements
 - Python 3.8
