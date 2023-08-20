@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of shelter cats from Maui arrive at PDX airport**
+**Michael Jackson Sexual Abuse Lawsuits Revived by Appeals Court**
 
-You can read more about it [here](https://www.kgw.com/article/life/animals/maui-wildfires-shelter-animals-portland/283-9a92909c-c77f-4f1f-9334-7c6793900892).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/michael-jackson-companies-sexual-abuse-lawsuits-revived-1234809177/).
 
 ## Requirements
 - Python 3.8
