@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 Women's World Cup final odds, time: Spain vs. England picks, predictions, bets by proven soccer expert**
+**Britney Spears says she 'couldn't take the pain anymore' as she addresses divorce from Sam Asghari**
 
-You can read more about it [here](https://www.cbssports.com/soccer/news/2023-womens-world-cup-final-odds-time-spain-vs-england-picks-predictions-bets-by-proven-soccer-expert/).
+You can read more about it [here](https://www.cnn.com/2023/08/19/entertainment/britney-spears-sam-asghari-divorce-comment/index.html).
 
 ## Requirements
 - Python 3.8
