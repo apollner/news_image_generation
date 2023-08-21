@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lionel Messi & Inter Miami: How they achieved Leagues Cup glory | MLSSoccer.com**
+**Britney Spears breaks silence on 'shocking' divorce**
 
-You can read more about it [here](https://www.mlssoccer.com/news/lionel-messi-inter-miami-how-they-achieved-leagues-cup-glory).
+You can read more about it [here](https://www.thepinknews.com/2023/08/20/britney-spears-divorce-sam-asghari-marriage/).
 
 ## Requirements
 - Python 3.8
