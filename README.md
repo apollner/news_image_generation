@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tourists asked to stay away after fire at Harborside Inn on Block Island**
+**Winning numbers for Powerball Jackpot August 19 drawing**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/fire-harborside-inn-block-island/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/08/19/powerball-winning-numbers-august-19-jackpot/70632258007/).
 
 ## Requirements
 - Python 3.8
