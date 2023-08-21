@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Cephas Jones, Emmy-winning actor in 'This Is Us,' dies at age 66**
+**Jack Antonoff & Margaret Qualley Marry in Star-Studded Ceremony Attended by Taylor Swift, Lana Del Rey & More**
 
-You can read more about it [here](https://www.cnn.com/2023/08/20/entertainment/ron-cephas-jones-death/index.html).
+You can read more about it [here](https://www.billboard.com/music/music-news/jack-antonoff-margaret-qualley-marry-taylor-swift-lana-del-rey-1235396218/).
 
 ## Requirements
 - Python 3.8
