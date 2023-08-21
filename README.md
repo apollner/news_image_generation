@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**About 30000 people ordered to evacuate as wildfires rage in Canada's British Columbia**
+**Marion city council refuses to address Kansas newspaper raid, uses 47 exclamations points in bizarre message**
 
-You can read more about it [here](https://www.cbsnews.com/news/about-30000-people-ordered-to-evacuate-as-wildfires-rage-in-british-columbia-canada/).
+You can read more about it [here](https://nypost.com/2023/08/19/madison-ks-city-council-refuses-to-address-newspaper-raid/).
 
 ## Requirements
 - Python 3.8
