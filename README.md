@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Cephas Jones, Emmy-winning actor in 'This Is Us,' dies at age 66**
+**Tish Cyrus marries ‘Prison Break’ star Dominic Purcell with daughter Miley as her Maid of Honor**
 
-You can read more about it [here](https://www.cnn.com/2023/08/20/entertainment/ron-cephas-jones-death/index.html).
+You can read more about it [here](https://pagesix.com/2023/08/20/tish-cyrus-marries-prison-break-star-dominic-purcell-with-daughter-miley-as-her-maid-of-honor/).
 
 ## Requirements
 - Python 3.8
