@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix DVD offer confuses some customers**
+**F-16s already touched down in Ukraine – Head of Ukraine's Air Force**
 
-You can read more about it [here](https://www.npr.org/2023/08/19/1194884346/netflix-extra-dvd-offer-shutdown-confuses-customers).
+You can read more about it [here](https://news.yahoo.com/f-16s-already-touched-down-201510259.html).
 
 ## Requirements
 - Python 3.8
