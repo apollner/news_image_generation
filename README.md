@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marion city council refuses to address Kansas newspaper raid, uses 47 exclamations points in bizarre message**
+**Tourists asked to stay away after fire at Harborside Inn on Block Island**
 
-You can read more about it [here](https://nypost.com/2023/08/19/madison-ks-city-council-refuses-to-address-newspaper-raid/).
+You can read more about it [here](https://www.cbsnews.com/boston/news/fire-harborside-inn-block-island/).
 
 ## Requirements
 - Python 3.8
