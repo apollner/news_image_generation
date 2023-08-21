@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jaws without the shark: absent Trump looms over Republicans’ first debate**
+**Ecuadorians vote for new president in election marred by candidate’s murder**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/20/donald-trump-republican-presidential-debate-milwaukee-desantis-christie).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/20/ecuadoreans-vote-for-new-president-in-election-marred-by-candidates).
 
 ## Requirements
 - Python 3.8
