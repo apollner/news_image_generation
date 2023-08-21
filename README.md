@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deciphering Quantum Complexity: A Pioneering Algorithm for Accurate Qubit Calculation**
+**Netflix DVD offer confuses some customers**
 
-You can read more about it [here](https://scitechdaily.com/deciphering-quantum-complexity-a-pioneering-algorithm-for-accurate-qubit-calculation/).
+You can read more about it [here](https://www.npr.org/2023/08/19/1194884346/netflix-extra-dvd-offer-shutdown-confuses-customers).
 
 ## Requirements
 - Python 3.8
