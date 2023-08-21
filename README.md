@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tish Cyrus marries ‘Prison Break’ star Dominic Purcell with daughter Miley as her Maid of Honor**
+**Rising yields put S&P 500 on pace for biggest monthly loss of 2023 as investors brace for Fed Chair Powell's Jackson Hole speech**
 
-You can read more about it [here](https://pagesix.com/2023/08/20/tish-cyrus-marries-prison-break-star-dominic-purcell-with-daughter-miley-as-her-maid-of-honor/).
+You can read more about it [here](https://www.marketwatch.com/story/rising-yields-put-s-p-500-on-pace-for-biggest-monthly-loss-of-2023-as-investors-brace-for-fed-chair-powells-jackson-hole-speech-f620b5a2).
 
 ## Requirements
 - Python 3.8
