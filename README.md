@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills vs. Pittsburgh Steelers Live Updates: Pittsburgh Strikes Quickly 7-0**
+**About 30000 people ordered to evacuate as wildfires rage in Canada's British Columbia**
 
-You can read more about it [here](https://www.si.com/nfl/bills/news/buffalo-bills-vs-pittsburgh-steelers-preseason-live-updates-highlights-josh-allen-stefon-diggs-starters).
+You can read more about it [here](https://www.cbsnews.com/news/about-30000-people-ordered-to-evacuate-as-wildfires-rage-in-british-columbia-canada/).
 
 ## Requirements
 - Python 3.8
