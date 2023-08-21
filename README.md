@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers, Patriots preseason game called off after injury to Isaiah Bolden**
+**Ron Cephas Jones, Emmy-winning actor in 'This Is Us,' dies at age 66**
 
-You can read more about it [here](https://www.wisn.com/article/packers-and-patriots-preseason-game-called-off-after-injury-to-isaiah-bolden/44858673).
+You can read more about it [here](https://www.cnn.com/2023/08/20/entertainment/ron-cephas-jones-death/index.html).
 
 ## Requirements
 - Python 3.8
