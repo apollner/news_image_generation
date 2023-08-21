@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude-5.1 earthquake shakes parts of Southern California**
+**S&P 500 futures are little changed Sunday after another losing week: Live updates**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/earthquake-shakes-parts-of-southern-california/3209652/).
+You can read more about it [here](https://www.cnbc.com/2023/08/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
