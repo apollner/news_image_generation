@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lotus Type 66 (2024) - pictures, information & specs**
+**Video: Trump campaign demands apology from DeSantis over 'listless vessels' comment**
 
-You can read more about it [here](https://www.netcarshow.com/lotus/2024-type_66/).
+You can read more about it [here](https://www.cnn.com/videos/politics/2023/08/20/listless-vessels-ron-desantis-comment-trump-sot-cnntmw-vpx.cnn).
 
 ## Requirements
 - Python 3.8
