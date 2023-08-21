@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fractal Terra Mini-ITX Case Review: Build Quality, Thermals, Acoustics, & Cable Management**
+**Scientists fear death by wildfires that wiped out ancient mammals**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pKiFk7tBTLg).
+You can read more about it [here](https://www.jpost.com/environment-and-climate-change/article-755491).
 
 ## Requirements
 - Python 3.8
