@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
+**Lotus Type 66 (2024) - pictures, information & specs**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
+You can read more about it [here](https://www.netcarshow.com/lotus/2024-type_66/).
 
 ## Requirements
 - Python 3.8
