@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Trump campaign demands apology from DeSantis over 'listless vessels' comment**
+**Malaria in Maryland: How health officials say you can protect yourself from mosquitoes**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2023/08/20/listless-vessels-ron-desantis-comment-trump-sot-cnntmw-vpx.cnn).
+You can read more about it [here](https://wtop.com/prince-georges-county/2023/08/malaria-in-maryland-how-health-officials-say-you-can-protect-yourself-from-mosquitoes/).
 
 ## Requirements
 - Python 3.8
