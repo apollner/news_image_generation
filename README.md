@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winning numbers for Powerball Jackpot August 19 drawing**
+**Saints TE Jimmy Graham experienced medical episode Friday night, taken into custody by LAPD**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/19/powerball-winning-numbers-august-19-jackpot/70632258007/).
+You can read more about it [here](https://www.wdsu.com/article/saints-te-jimmy-graham-experienced-medical-episode-friday-night-taken-into-custody-by-lapd/44857449).
 
 ## Requirements
 - Python 3.8
