@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures are little changed Sunday after another losing week: Live updates**
+**Jaws without the shark: absent Trump looms over Republicans’ first debate**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/20/donald-trump-republican-presidential-debate-milwaukee-desantis-christie).
 
 ## Requirements
 - Python 3.8
