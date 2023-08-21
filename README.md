@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix DVD offer confuses some customers**
+**Buffalo Bills vs. Pittsburgh Steelers Live Updates: Pittsburgh Strikes Quickly 7-0**
 
-You can read more about it [here](https://www.npr.org/2023/08/19/1194884346/netflix-extra-dvd-offer-shutdown-confuses-customers).
+You can read more about it [here](https://www.si.com/nfl/bills/news/buffalo-bills-vs-pittsburgh-steelers-preseason-live-updates-highlights-josh-allen-stefon-diggs-starters).
 
 ## Requirements
 - Python 3.8
