@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
+**Category 1 Hurricane Hilary barrels toward California, still threatening floods and damaging winds**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
+You can read more about it [here](https://www.cnn.com/2023/08/20/weather/hurricane-hilary-california-southwest-tropical-storm-sunday/index.html).
 
 ## Requirements
 - Python 3.8
