@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Jay Inslee declares state of emergency for fires across Washington**
+**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
 
-You can read more about it [here](https://www.khq.com/fires/gov-jay-inslee-declares-state-of-emergency-for-fires-across-washington/article_004e27b8-3efd-11ee-9afa-e3a569ba33c7.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
