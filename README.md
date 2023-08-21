@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
+**California DMV requests Cruise to halve driverless car fleet after collision with firetruck in San Francisco**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
+You can read more about it [here](https://www.foxbusiness.com/markets/california-dmv-requests-cruise-halve-driverless-car-fleet-after-collision-with-firetruck-san-francisco).
 
 ## Requirements
 - Python 3.8
