@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A raid on a Kansas newspaper likely broke the law, experts say. But which one?**
+**Netflix DVD offer confuses some customers**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/19/kansas-newspaper-raid-00111975).
+You can read more about it [here](https://www.npr.org/2023/08/19/1194884346/netflix-extra-dvd-offer-shutdown-confuses-customers).
 
 ## Requirements
 - Python 3.8
