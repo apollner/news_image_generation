@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears breaks silence on 'shocking' divorce**
+**Ron Cephas Jones, Emmy-winning actor in 'This Is Us,' dies at age 66**
 
-You can read more about it [here](https://www.thepinknews.com/2023/08/20/britney-spears-divorce-sam-asghari-marriage/).
+You can read more about it [here](https://www.cnn.com/2023/08/20/entertainment/ron-cephas-jones-death/index.html).
 
 ## Requirements
 - Python 3.8
