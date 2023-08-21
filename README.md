@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jack Antonoff & Margaret Qualley Marry in Star-Studded Ceremony Attended by Taylor Swift, Lana Del Rey & More**
+**Packers, Patriots preseason game called off after injury to Isaiah Bolden**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/jack-antonoff-margaret-qualley-marry-taylor-swift-lana-del-rey-1235396218/).
+You can read more about it [here](https://www.wisn.com/article/packers-and-patriots-preseason-game-called-off-after-injury-to-isaiah-bolden/44858673).
 
 ## Requirements
 - Python 3.8
