@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rising yields put S&P 500 on pace for biggest monthly loss of 2023 as investors brace for Fed Chair Powell's Jackson Hole speech**
+**Fractal Terra Mini-ITX Case Review: Build Quality, Thermals, Acoustics, & Cable Management**
 
-You can read more about it [here](https://www.marketwatch.com/story/rising-yields-put-s-p-500-on-pace-for-biggest-monthly-loss-of-2023-as-investors-brace-for-fed-chair-powells-jackson-hole-speech-f620b5a2).
+You can read more about it [here](https://www.youtube.com/watch?v=pKiFk7tBTLg).
 
 ## Requirements
 - Python 3.8
