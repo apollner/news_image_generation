@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hope is hard to let go after Maui fire, as odds wane over reuniting with still-missing loved ones**
+**Lionel Messi & Inter Miami: How they achieved Leagues Cup glory | MLSSoccer.com**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/20/hawaii-wildfires-missing-people-00111980).
+You can read more about it [here](https://www.mlssoccer.com/news/lionel-messi-inter-miami-how-they-achieved-leagues-cup-glory).
 
 ## Requirements
 - Python 3.8
