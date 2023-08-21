@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of flight cancellations at Harry Reid Airport as Hilary makes landfall - KLAS**
+**Hurricane Hilary Affecting Los Angeles-Area Events: Hollywood Bowl Shows, MLS Matches Postponed; Magic Mountain Closed Sunday; Disneyland Closing Early**
 
-You can read more about it [here](https://www.8newsnow.com/news/local-news/hundreds-of-flight-cancellations-at-harry-reid-airport-as-hilary-makes-landfall/).
+You can read more about it [here](https://deadline.com/2023/08/hurricane-hilary-los-angeles-events-cancellations-postponments-1235522474/).
 
 ## Requirements
 - Python 3.8
