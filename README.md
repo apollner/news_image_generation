@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears says she 'couldn't take the pain anymore' as she addresses divorce from Sam Asghari**
+**Devastating wildfires caught Hawaii underprepared for ‘preventable disaster’**
 
-You can read more about it [here](https://www.cnn.com/2023/08/19/entertainment/britney-spears-sam-asghari-divorce-comment/index.html).
+You can read more about it [here](https://thehill.com/policy/equilibrium-sustainability/4159573-devastating-wildfires-caught-hawaii-underprepared-for-preventable-disaster/).
 
 ## Requirements
 - Python 3.8
