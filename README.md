@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Devastating wildfires caught Hawaii underprepared for ‘preventable disaster’**
+**A raid on a Kansas newspaper likely broke the law, experts say. But which one?**
 
-You can read more about it [here](https://thehill.com/policy/equilibrium-sustainability/4159573-devastating-wildfires-caught-hawaii-underprepared-for-preventable-disaster/).
+You can read more about it [here](https://www.politico.com/news/2023/08/19/kansas-newspaper-raid-00111975).
 
 ## Requirements
 - Python 3.8
