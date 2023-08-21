@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malaria in Maryland: How health officials say you can protect yourself from mosquitoes**
+**Hope is hard to let go after Maui fire, as odds wane over reuniting with still-missing loved ones**
 
-You can read more about it [here](https://wtop.com/prince-georges-county/2023/08/malaria-in-maryland-how-health-officials-say-you-can-protect-yourself-from-mosquitoes/).
+You can read more about it [here](https://www.politico.com/news/2023/08/20/hawaii-wildfires-missing-people-00111980).
 
 ## Requirements
 - Python 3.8
