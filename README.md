@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuadorians vote for new president in election marred by candidate’s murder**
+**Jerome Powell at Jackson Hole: Expect push-back on rate cuts, bond yield comments**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/20/ecuadoreans-vote-for-new-president-in-election-marred-by-candidates).
+You can read more about it [here](https://seekingalpha.com/news/4004096-federal-reserve-jerome-powell-jackson-hole-preview).
 
 ## Requirements
 - Python 3.8
