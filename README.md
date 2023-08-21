@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saints TE Jimmy Graham experienced medical episode Friday night, taken into custody by LAPD**
+**Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia**
 
-You can read more about it [here](https://www.wdsu.com/article/saints-te-jimmy-graham-experienced-medical-episode-friday-night-taken-into-custody-by-lapd/44857449).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
