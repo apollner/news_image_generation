@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California DMV requests Cruise to halve driverless car fleet after collision with firetruck in San Francisco**
+**Hundreds of flight cancellations at Harry Reid Airport as Hilary makes landfall - KLAS**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/california-dmv-requests-cruise-halve-driverless-car-fleet-after-collision-with-firetruck-san-francisco).
+You can read more about it [here](https://www.8newsnow.com/news/local-news/hundreds-of-flight-cancellations-at-harry-reid-airport-as-hilary-makes-landfall/).
 
 ## Requirements
 - Python 3.8
