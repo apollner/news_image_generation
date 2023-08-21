@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Hilary Affecting Los Angeles-Area Events: Hollywood Bowl Shows, MLS Matches Postponed; Magic Mountain Closed Sunday; Disneyland Closing Early**
+**Gov. Jay Inslee declares state of emergency for fires across Washington**
 
-You can read more about it [here](https://deadline.com/2023/08/hurricane-hilary-los-angeles-events-cancellations-postponments-1235522474/).
+You can read more about it [here](https://www.khq.com/fires/gov-jay-inslee-declares-state-of-emergency-for-fires-across-washington/article_004e27b8-3efd-11ee-9afa-e3a569ba33c7.html).
 
 ## Requirements
 - Python 3.8
