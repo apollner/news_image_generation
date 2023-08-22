@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anti-graft crusader wins Guatemala presidency**
+**Sean O'Malley is a star - Dana White reveals new champ made UFC 292 break records**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wQLhPbLBTiw).
+You can read more about it [here](https://bloodyelbow.com/2023/08/21/sean-omalley-ufc-292-record-breaker/).
 
 ## Requirements
 - Python 3.8
