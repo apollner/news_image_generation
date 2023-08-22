@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Historic’: Ecuador voters reject oil drilling in Amazon protected area**
+**American Airlines pilots approve sweetened labor deal with big raises**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/21/historic-ecuador-voters-reject-oil-drilling-in-amazon-protected-area).
+You can read more about it [here](https://www.cnbc.com/2023/08/21/american-airlines-pilots-approve-labor-deal-with-big-raises.html).
 
 ## Requirements
 - Python 3.8
