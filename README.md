@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tracking the Tropics: Tropical Storm Franklin strengthens, Tropical Storm Emily slightly weakens**
+**Russia-Ukraine war news: Ukraine to receive F-16s from Netherlands and Denmark**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Nyf-kHCEl4E).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/21/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
