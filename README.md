@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean O'Malley is a star - Dana White reveals new champ made UFC 292 break records**
+**Stocks making the biggest premarket moves: Palo Alto Networks, Earthstone Energy, Nvidia, VMware and more**
 
-You can read more about it [here](https://bloodyelbow.com/2023/08/21/sean-omalley-ufc-292-record-breaker/).
+You can read more about it [here](https://www.cnbc.com/2023/08/21/stocks-making-the-biggest-premarket-moves-.html).
 
 ## Requirements
 - Python 3.8
