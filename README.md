@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerome Powell at Jackson Hole: Expect push-back on rate cuts, bond yield comments**
+**Magnitude-5.1 earthquake in Ventura County shakes parts of Southern California**
 
-You can read more about it [here](https://seekingalpha.com/news/4004096-federal-reserve-jerome-powell-jackson-hole-preview).
+You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/earthquake-hurriquake-california-la-ventura-hurricane-tropical-storm-hilary/3209652/).
 
 ## Requirements
 - Python 3.8
