@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s Wordle #793 Hints, Clues And Answer For Monday, August 21st**
+**Magnitude-5.1 earthquake in Ventura County shakes parts of Southern California**
 
-You can read more about it [here](https://www.forbes.com/sites/erikkain/2023/08/20/todays-wordle-793-hints-clues-and-answer-for-monday-august-21st/).
+You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/earthquake-hurriquake-california-la-ventura-hurricane-tropical-storm-hilary/3209652/).
 
 ## Requirements
 - Python 3.8
