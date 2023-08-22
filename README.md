@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s STEREO-A flies by Earth after a 17-year trip around the sun**
+**Trump Holds 23-Point Lead Over DeSantis in Closely Watched Iowa Poll**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/20/nasa-stereo-a-earth-flyby/).
+You can read more about it [here](https://www.wsj.com/politics/elections/donald-trump-iowa-poll-lead-ron-desantis-bc96c1b4).
 
 ## Requirements
 - Python 3.8
