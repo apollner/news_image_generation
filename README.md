@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens Monday**
+**China's Xi visits South Africa in just his second trip abroad this year as domestic woes bubble back home**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/21/5-things-to-know-before-the-stock-market-opens-monday-august-21.html).
+You can read more about it [here](https://www.cnn.com/2023/08/20/china/brics-summit-xi-jinping-south-africa-visit-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
