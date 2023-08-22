@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anti-corruption candidate Bernardo Arévalo wins Guatemala presidential election**
+**Russia's first lunar mission in 47 years smashes into the moon in failure**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/21/anti-corruption-candidate-arvalo-wins-guatemala-election/70640342007/).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/russias-moon-mission-falters-after-problem-entering-pre-landing-orbit-2023-08-20/).
 
 ## Requirements
 - Python 3.8
