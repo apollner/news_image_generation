@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s Wordle #793 Hints, Clues And Answer For Monday, August 21st**
+**Tropical Storm Hilary hitting Southern California as Southwest braces for its wrath**
 
-You can read more about it [here](https://www.forbes.com/sites/erikkain/2023/08/20/todays-wordle-793-hints-clues-and-answer-for-monday-august-21st/).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-hilary-southern-california-nevada-rain-flooding/).
 
 ## Requirements
 - Python 3.8
