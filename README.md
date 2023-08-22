@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war news: Ukraine to receive F-16s from Netherlands and Denmark**
+**Preseason Week 2 Fantasy Football Game Recap: New Orleans Saints vs. Los Angeles Chargers | Fantasy Football News, Rankings and Projections**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/21/russia-ukraine-war-news/).
+You can read more about it [here](https://www.pff.com/news/fantasy-football-game-recap-preseason-week-2-new-orleans-saints-vs-los-angeles-chargers).
 
 ## Requirements
 - Python 3.8
