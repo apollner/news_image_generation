@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street All-Stars Including Weinstein, Ackman Bid for Hedge Fund - WSJ**
+**S&P 500 futures are little changed Sunday after another losing week: Live updates**
 
-You can read more about it [here](https://www.wsj.com/business/deals/wall-street-all-stars-including-weinstein-ackman-bid-for-hedge-fund-833726e0).
+You can read more about it [here](https://www.cnbc.com/2023/08/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
