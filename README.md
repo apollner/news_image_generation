@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: TN legislature special session addresses safety, guns**
+**American Airlines pilots approve sweetened labor deal with big raises**
 
-You can read more about it [here](https://www.tennessean.com/story/news/politics/2023/08/21/live-updates-tennessee-legislature-special-session-public-safety-guns-starts/70618843007/).
+You can read more about it [here](https://www.cnbc.com/2023/08/21/american-airlines-pilots-approve-labor-deal-with-big-raises.html).
 
 ## Requirements
 - Python 3.8
