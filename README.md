@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court documents suggest reason for police raid of Kansas newspaper**
+**Tracking the Tropics: Tropical Storm Franklin strengthens, Tropical Storm Emily slightly weakens**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/20/court-documents-police-raid-kansas-newspaper-00112035).
+You can read more about it [here](https://www.youtube.com/watch?v=Nyf-kHCEl4E).
 
 ## Requirements
 - Python 3.8
