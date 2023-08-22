@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Official Xbox Controllers Get Big Discounts At Amazon**
+**Ohio teen sobs as she learns fate for intentionally killing boyfriend, passenger in car wreck**
 
-You can read more about it [here](https://www.gamespot.com/articles/official-xbox-controllers-get-big-discounts-at-amazon/1100-6517028/).
+You can read more about it [here](https://www.foxnews.com/us/ohio-teen-sobs-learns-fate-intentionally-killing-boyfriend-passenger-car-wreck).
 
 ## Requirements
 - Python 3.8
