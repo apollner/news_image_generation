@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines pilots approve sweetened labor deal with big raises**
+**Trump’s shadow hangs over Republican debates even as he refuses to attend**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/21/american-airlines-pilots-approve-labor-deal-with-big-raises.html).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/21/trump-republican-debate-presidential-nomination).
 
 ## Requirements
 - Python 3.8
