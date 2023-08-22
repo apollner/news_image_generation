@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration to urge Americans get new COVID-19 boosters**
+**Spanish soccer president Luis Rubiales kisses player during World Cup celebrations, prompting outcry**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-administration-urge-americans-get-new-covid-19-boosters-2023-08-20/).
+You can read more about it [here](https://sports.yahoo.com/spain-kiss-womens-world-cup-luis-rubiales-jenni-hermoso-001714063.html).
 
 ## Requirements
 - Python 3.8
