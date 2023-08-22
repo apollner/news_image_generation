@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration to urge Americans get new COVID-19 boosters**
+**Wall Street All-Stars Including Weinstein, Ackman Bid for Hedge Fund - WSJ**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-administration-urge-americans-get-new-covid-19-boosters-2023-08-20/).
+You can read more about it [here](https://www.wsj.com/business/deals/wall-street-all-stars-including-weinstein-ackman-bid-for-hedge-fund-833726e0).
 
 ## Requirements
 - Python 3.8
