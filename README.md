@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude-5.1 earthquake in Ventura County shakes parts of Southern California**
+**NASA’s STEREO-A flies by Earth after a 17-year trip around the sun**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/earthquake-hurriquake-california-la-ventura-hurricane-tropical-storm-hilary/3209652/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/20/nasa-stereo-a-earth-flyby/).
 
 ## Requirements
 - Python 3.8
