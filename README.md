@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid-19 linked with higher risk of high blood pressure, study finds**
+**DNA technology reveals more information about oldest human mummy found intact**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/health/covid-high-blood-pressure/index.html).
+You can read more about it [here](https://www.cnn.com/videos/world/2023/08/21/exp-tzi-iceman-oldest-human-mummy-michael-holmes-pkg-082101aseg3-cnni-world.cnn).
 
 ## Requirements
 - Python 3.8
