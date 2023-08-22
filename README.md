@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks making the biggest premarket moves: Palo Alto Networks, Earthstone Energy, Nvidia, VMware and more**
+**5 things to know before the stock market opens Monday**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/21/stocks-making-the-biggest-premarket-moves-.html).
+You can read more about it [here](https://www.cnbc.com/2023/08/21/5-things-to-know-before-the-stock-market-opens-monday-august-21.html).
 
 ## Requirements
 - Python 3.8
