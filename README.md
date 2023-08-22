@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s shadow hangs over Republican debates even as he refuses to attend**
+**Official Xbox Controllers Get Big Discounts At Amazon**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/21/trump-republican-debate-presidential-nomination).
+You can read more about it [here](https://www.gamespot.com/articles/official-xbox-controllers-get-big-discounts-at-amazon/1100-6517028/).
 
 ## Requirements
 - Python 3.8
