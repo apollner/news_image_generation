@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's first lunar mission in 47 years smashes into the moon in failure**
+**Live updates: TN legislature special session addresses safety, guns**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/russias-moon-mission-falters-after-problem-entering-pre-landing-orbit-2023-08-20/).
+You can read more about it [here](https://www.tennessean.com/story/news/politics/2023/08/21/live-updates-tennessee-legislature-special-session-public-safety-guns-starts/70618843007/).
 
 ## Requirements
 - Python 3.8
