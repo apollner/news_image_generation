@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**You can still buy the Galaxy Z Fold 5 with a free storage upgrade - SamMobile**
+**Anti-corruption candidate Bernardo Arévalo wins Guatemala presidential election**
 
-You can read more about it [here](https://www.sammobile.com/news/buy-galaxy-z-fold-5-with-free-storage-upgrade/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/21/anti-corruption-candidate-arvalo-wins-guatemala-election/70640342007/).
 
 ## Requirements
 - Python 3.8
