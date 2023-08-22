@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude-5.1 earthquake in Ventura County shakes parts of Southern California**
+**Biden administration to urge Americans get new COVID-19 boosters**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/earthquake-hurriquake-california-la-ventura-hurricane-tropical-storm-hilary/3209652/).
+You can read more about it [here](https://www.reuters.com/world/us/biden-administration-urge-americans-get-new-covid-19-boosters-2023-08-20/).
 
 ## Requirements
 - Python 3.8
