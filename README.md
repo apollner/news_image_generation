@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Holds 23-Point Lead Over DeSantis in Closely Watched Iowa Poll**
+**Covid-19 linked with higher risk of high blood pressure, study finds**
 
-You can read more about it [here](https://www.wsj.com/politics/elections/donald-trump-iowa-poll-lead-ron-desantis-bc96c1b4).
+You can read more about it [here](https://www.cnn.com/2023/08/21/health/covid-high-blood-pressure/index.html).
 
 ## Requirements
 - Python 3.8
