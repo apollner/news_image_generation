@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Preseason Week 2 Fantasy Football Game Recap: New Orleans Saints vs. Los Angeles Chargers | Fantasy Football News, Rankings and Projections**
+**Today’s Wordle #793 Hints, Clues And Answer For Monday, August 21st**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-game-recap-preseason-week-2-new-orleans-saints-vs-los-angeles-chargers).
+You can read more about it [here](https://www.forbes.com/sites/erikkain/2023/08/20/todays-wordle-793-hints-clues-and-answer-for-monday-august-21st/).
 
 ## Requirements
 - Python 3.8
