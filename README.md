@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines pilots approve new contract that includes big pay raises**
+**BREAKING: Trump's bond set at $200,000 in Georgia election interference case**
 
-You can read more about it [here](https://nypost.com/2023/08/21/american-airlines-pilots-approve-new-contract-that-includes-big-pay-raises/).
+You can read more about it [here](https://www.youtube.com/watch?v=nhijvj5J9C0).
 
 ## Requirements
 - Python 3.8
