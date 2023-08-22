@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump has already recorded his debate-night Tucker Carlson interview**
+**‘Historic’: Ecuador voters reject oil drilling in Amazon protected area**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-already-recorded-debate-night-counter-programming-interview-tuck-rcna100994).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/21/historic-ecuador-voters-reject-oil-drilling-in-amazon-protected-area).
 
 ## Requirements
 - Python 3.8
