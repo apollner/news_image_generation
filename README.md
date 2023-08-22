@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he won't take part in Republican debates**
+**Court documents suggest reason for police raid of Kansas newspaper**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-says-he-wont-take-part-republican-debates-2023-08-21/).
+You can read more about it [here](https://www.politico.com/news/2023/08/20/court-documents-police-raid-kansas-newspaper-00112035).
 
 ## Requirements
 - Python 3.8
