@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio teen sobs as she learns fate for intentionally killing boyfriend, passenger in car wreck**
+**BREAKING: Trump's bond set at $200,000 in Georgia election interference case**
 
-You can read more about it [here](https://www.foxnews.com/us/ohio-teen-sobs-learns-fate-intentionally-killing-boyfriend-passenger-car-wreck).
+You can read more about it [here](https://www.youtube.com/watch?v=nhijvj5J9C0).
 
 ## Requirements
 - Python 3.8
