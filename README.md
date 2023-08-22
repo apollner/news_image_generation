@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spanish soccer president Luis Rubiales kisses player during World Cup celebrations, prompting outcry**
+**Khloe Kardashian's Kids True and Tatum Thompson Have Fun Bouncing on a Trampoline in the Rain**
 
-You can read more about it [here](https://sports.yahoo.com/spain-kiss-womens-world-cup-luis-rubiales-jenni-hermoso-001714063.html).
+You can read more about it [here](https://www.eonline.com/news/1383557/khloe-kardashians-kids-true-and-tatum-thompson-have-fun-bouncing-on-a-trampoline-in-the-rain).
 
 ## Requirements
 - Python 3.8
