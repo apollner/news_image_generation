@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BREAKING: Trump's bond set at $200,000 in Georgia election interference case**
+**Lucy Letby, most prolific child killer in modern UK history, sentenced to life in prison**
 
-You can read more about it [here](https://www.youtube.com/watch?v=nhijvj5J9C0).
+You can read more about it [here](https://apnews.com/article/lucy-letby-nurse-serial-killer-baby-deaths-0165654a8afa9db74e97980323f5b0e1).
 
 ## Requirements
 - Python 3.8
