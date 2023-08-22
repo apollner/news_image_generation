@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Khloe Kardashian's Kids True and Tatum Thompson Have Fun Bouncing on a Trampoline in the Rain**
+**Biden administration to urge Americans get new COVID-19 boosters**
 
-You can read more about it [here](https://www.eonline.com/news/1383557/khloe-kardashians-kids-true-and-tatum-thompson-have-fun-bouncing-on-a-trampoline-in-the-rain).
+You can read more about it [here](https://www.reuters.com/world/us/biden-administration-urge-americans-get-new-covid-19-boosters-2023-08-20/).
 
 ## Requirements
 - Python 3.8
