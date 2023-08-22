@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s Wordle #793 Hints, Clues And Answer For Monday, August 21st**
+**Trump says he won't take part in Republican debates**
 
-You can read more about it [here](https://www.forbes.com/sites/erikkain/2023/08/20/todays-wordle-793-hints-clues-and-answer-for-monday-august-21st/).
+You can read more about it [here](https://www.reuters.com/world/us/trump-says-he-wont-take-part-republican-debates-2023-08-21/).
 
 ## Requirements
 - Python 3.8
