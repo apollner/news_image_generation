@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Xi visits South Africa in just his second trip abroad this year as domestic woes bubble back home**
+**You can still buy the Galaxy Z Fold 5 with a free storage upgrade - SamMobile**
 
-You can read more about it [here](https://www.cnn.com/2023/08/20/china/brics-summit-xi-jinping-south-africa-visit-intl-hnk/index.html).
+You can read more about it [here](https://www.sammobile.com/news/buy-galaxy-z-fold-5-with-free-storage-upgrade/).
 
 ## Requirements
 - Python 3.8
