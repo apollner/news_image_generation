@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US FAA holding runway safety meetings after close call incidents**
+**Neptune’s disappearing clouds linked to solar cycle**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-faa-holding-runway-safety-meetings-after-close-call-incidents-2023-08-22/).
+You can read more about it [here](https://www.cnn.com/2023/08/22/world/neptune-disappearing-clouds-solar-cycle-sun-scn/index.html).
 
 ## Requirements
 - Python 3.8
