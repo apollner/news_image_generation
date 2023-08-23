@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Ukraine reportedly destroys supersonic Russian bomber; drones damage Moscow apartments**
+**Christian Pulisic: US captain scores sensational goal on AC Milan debut**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/22/russia-ukraine-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/08/22/sport/christian-pulisic-ac-milan-debut-bologna-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
