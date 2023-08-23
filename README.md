@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sha'Carri Richardson receives her long-awaited gold medal after 100m World Title | NBC Sports**
+**What you need to watch before ‘Ahsoka’ series releases**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tzzf_sKEm7E).
+You can read more about it [here](https://www.washingtonpost.com/arts-entertainment/2023/08/22/ahsoka-series-stream-star-wars-thrawn/).
 
 ## Requirements
 - Python 3.8
