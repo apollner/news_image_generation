@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laura Carleton news: Travis Ikeguchi, 27, named as gunman who killed California store owner over Pride flag**
+**Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval**
 
-You can read more about it [here](https://www.independent.co.uk/news/world/americas/crime/laura-carleton-travis-ikeguchi-california-pride-flag-b2397016.html).
+You can read more about it [here](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma).
 
 ## Requirements
 - Python 3.8
