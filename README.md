@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Ahsoka': 15 Key Episodes From Previous 'Star Wars' Series to Watch Before the Disney+ Premiere**
+**FDA approves first RSV vaccine to prevent infections in infants**
 
-You can read more about it [here](https://www.hollywoodreporter.com/lists/ahsoka-tano-star-wars-episodes-watch-disney-premiere/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4163370-fda-approves-first-rsv-vaccine-to-prevent-infections-in-infants/).
 
 ## Requirements
 - Python 3.8
