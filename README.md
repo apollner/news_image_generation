@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval**
+**Thailand's former PM Thaksin Shinawatra jailed after return from exile**
 
-You can read more about it [here](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma).
+You can read more about it [here](https://www.ft.com/content/4ef9ba75-21a4-4b06-b486-25e094d07dd3).
 
 ## Requirements
 - Python 3.8
