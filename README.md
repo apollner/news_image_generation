@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Pulisic: US captain scores sensational goal on AC Milan debut**
+**The EU might need to reassess Microsoft's Activision Blizzard deal after restructuring**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/sport/christian-pulisic-ac-milan-debut-bologna-spt-intl/index.html).
+You can read more about it [here](https://www.theverge.com/2023/8/22/23841244/eu-microsoft-activision-blizzard-restructure-investigation-comment).
 
 ## Requirements
 - Python 3.8
