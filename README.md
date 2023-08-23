@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoftBank-backed chip designer Arm files for Nasdaq IPO**
+**Controversial country song Rich Men North of Richmond makes US chart history**
 
-You can read more about it [here](https://www.ft.com/content/36bc706f-66a1-48e3-8c20-ab4966cb0fce).
+You can read more about it [here](https://www.theguardian.com/music/2023/aug/21/rich-men-north-of-richmond-us-chart-history).
 
 ## Requirements
 - Python 3.8
