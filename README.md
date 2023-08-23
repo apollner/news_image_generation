@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Harold makes landfall in Texas with threat of flash flooding and tornadoes**
+**Neptune’s disappearing clouds linked to solar cycle**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/tropical-storm-harold-south-texas-rain-floods-rcna101128).
+You can read more about it [here](https://www.cnn.com/2023/08/22/world/neptune-disappearing-clouds-solar-cycle-sun-scn/index.html).
 
 ## Requirements
 - Python 3.8
