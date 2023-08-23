@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neptune’s disappearing clouds linked to solar cycle**
+**Something unusual happened on the Nasdaq Monday. It’s one more reason for investors to tread carefully, analyst says.**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/world/neptune-disappearing-clouds-solar-cycle-sun-scn/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/something-unusual-happened-on-the-nasdaq-monday-its-one-more-reason-for-investors-to-tread-carefully-analyst-says-de3f4f98).
 
 ## Requirements
 - Python 3.8
