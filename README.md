@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves first RSV vaccine to prevent infections in infants**
+**Game over: voice of Mario retiring after three decades, Nintendo announces**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4163370-fda-approves-first-rsv-vaccine-to-prevent-infections-in-infants/).
+You can read more about it [here](https://www.theguardian.com/games/2023/aug/22/voice-of-mario-charles-martinet-retires-nintendo).
 
 ## Requirements
 - Python 3.8
