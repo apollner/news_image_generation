@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland's leader says Russia's moving tactical nuclear weapons to Belarus, shifting regional security**
+**First Trump co-defendant surrenders to Fulton County jail**
 
-You can read more about it [here](https://news.yahoo.com/polands-leader-says-russias-moving-135008837.html).
+You can read more about it [here](https://www.cnn.com/2023/08/22/politics/scott-hall-surrender-jail-trump/index.html).
 
 ## Requirements
 - Python 3.8
