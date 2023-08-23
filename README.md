@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neural Navigators: How MIT Cracked the Code That Relates Brain and Behavior in a Simple Animal**
+**Poland's leader says Russia's moving tactical nuclear weapons to Belarus, shifting regional security**
 
-You can read more about it [here](https://scitechdaily.com/?p=302831).
+You can read more about it [here](https://news.yahoo.com/polands-leader-says-russias-moving-135008837.html).
 
 ## Requirements
 - Python 3.8
