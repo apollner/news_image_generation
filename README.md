@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Will Surrender At Georgia Jail Thursday — Here’s What To Expect As He May Get First Mug Shot**
+**Ukraine war live updates: Ukraine reportedly destroys supersonic Russian bomber; drones damage Moscow apartments**
 
-You can read more about it [here](https://www.forbes.com/sites/alisondurkee/2023/08/22/trump-will-surrender-at-georgia-jail-thursday---heres-what-to-expect-as-he-may-get-first-mug-shot/).
+You can read more about it [here](https://www.cnbc.com/2023/08/22/russia-ukraine-live-updates.html).
 
 ## Requirements
 - Python 3.8
