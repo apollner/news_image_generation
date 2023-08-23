@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman Sachs weighs selling part of wealth business in broad strategy revamp**
+**Biden visits fire-ravaged Maui as search efforts continue, with more than 800 people still missing**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/goldman-sachs-weighs-sale-part-its-wealth-business-2023-08-21/).
+You can read more about it [here](https://www.cnn.com/2023/08/21/politics/biden-hawaii-fire-visit/index.html).
 
 ## Requirements
 - Python 3.8
