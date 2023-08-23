@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis heads to first 2024 debate looking for a big win**
+**Why are space agencies racing to the moon's south pole?**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/21/needs-a-breakout-moment-desantis-heads-to-debate-looking-for-a-big-win-00112197).
+You can read more about it [here](https://www.reuters.com/science/why-are-space-agencies-racing-moons-south-pole-2023-08-22/).
 
 ## Requirements
 - Python 3.8
