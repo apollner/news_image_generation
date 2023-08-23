@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What you need to watch before ‘Ahsoka’ series releases**
+**Bail set for additional defendants in Georgia election case after Trump's bond set at $200,000**
 
-You can read more about it [here](https://www.washingtonpost.com/arts-entertainment/2023/08/22/ahsoka-series-stream-star-wars-thrawn/).
+You can read more about it [here](https://abcnews.go.com/US/trumps-bond-set-200000-fulton-county-election-interference/story?id=102431955).
 
 ## Requirements
 - Python 3.8
