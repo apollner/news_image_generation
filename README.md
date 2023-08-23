@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires**
+**Trump plans to turn himself in Thursday at Fulton County jail**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/).
+You can read more about it [here](https://www.cnn.com/2023/08/21/politics/fulton-county-da-office-negotiations-trump/index.html).
 
 ## Requirements
 - Python 3.8
