@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former PM Thaksin Shinawatra returns to a politically divided Thailand after 15 years of self-exile**
+**US FAA holding runway safety meetings after close call incidents**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/asia/thaksin-shinawatra-return-thailand-parliament-vote-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-faa-holding-runway-safety-meetings-after-close-call-incidents-2023-08-22/).
 
 ## Requirements
 - Python 3.8
