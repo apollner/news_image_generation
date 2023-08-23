@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lucy Letby, most prolific child killer in modern UK history, sentenced to life in prison**
+**SoftBank-backed chip designer Arm files for Nasdaq IPO**
 
-You can read more about it [here](https://apnews.com/article/lucy-letby-nurse-serial-killer-baby-deaths-0165654a8afa9db74e97980323f5b0e1).
+You can read more about it [here](https://www.ft.com/content/36bc706f-66a1-48e3-8c20-ab4966cb0fce).
 
 ## Requirements
 - Python 3.8
