@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neptune’s disappearing clouds linked to solar cycle**
+**Zoo asks public to name rare giraffe born without spots**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/world/neptune-disappearing-clouds-solar-cycle-sun-scn/index.html).
+You can read more about it [here](https://www.goodmorningamerica.com/living/story/zoo-asks-public-rare-giraffe-born-spots-102449721).
 
 ## Requirements
 - Python 3.8
