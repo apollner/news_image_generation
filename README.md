@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A failed lunar mission dents Russian pride and reflects deeper problems with Moscow's space industry**
+**Sha'Carri Richardson receives her long-awaited gold medal after 100m World Title | NBC Sports**
 
-You can read more about it [here](https://apnews.com/article/russia-moon-luna25-spacecraft-mission-33c9884c907998f06bf9562be6d47445).
+You can read more about it [here](https://www.youtube.com/watch?v=tzzf_sKEm7E).
 
 ## Requirements
 - Python 3.8
