@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Harold heads toward South Texas, threatening floods and dangerous storm surge**
+**DeSantis heads to first 2024 debate looking for a big win**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/weather/texas-tropical-storm-warning-tuesday/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/08/21/needs-a-breakout-moment-desantis-heads-to-debate-looking-for-a-big-win-00112197).
 
 ## Requirements
 - Python 3.8
