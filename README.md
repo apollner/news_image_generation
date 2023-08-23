@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden visits fire-ravaged Maui as search efforts continue, with more than 800 people still missing**
+**'Ahsoka': 15 Key Episodes From Previous 'Star Wars' Series to Watch Before the Disney+ Premiere**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/politics/biden-hawaii-fire-visit/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/lists/ahsoka-tano-star-wars-episodes-watch-disney-premiere/).
 
 ## Requirements
 - Python 3.8
