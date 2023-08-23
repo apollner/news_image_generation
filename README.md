@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Something unusual happened on the Nasdaq Monday. It’s one more reason for investors to tread carefully, analyst says.**
+**A failed lunar mission dents Russian pride and reflects deeper problems with Moscow's space industry**
 
-You can read more about it [here](https://www.marketwatch.com/story/something-unusual-happened-on-the-nasdaq-monday-its-one-more-reason-for-investors-to-tread-carefully-analyst-says-de3f4f98).
+You can read more about it [here](https://apnews.com/article/russia-moon-luna25-spacecraft-mission-33c9884c907998f06bf9562be6d47445).
 
 ## Requirements
 - Python 3.8
