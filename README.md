@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Join Sha'Carri Richardson on her historic 100m World Championship victory lap | NBC Sports**
+**Goldman Sachs weighs selling part of wealth business in broad strategy revamp**
 
-You can read more about it [here](https://www.youtube.com/watch?v=jnPm6U9Fz8I).
+You can read more about it [here](https://www.reuters.com/markets/deals/goldman-sachs-weighs-sale-part-its-wealth-business-2023-08-21/).
 
 ## Requirements
 - Python 3.8
