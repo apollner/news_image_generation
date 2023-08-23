@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Controversial country song Rich Men North of Richmond makes US chart history**
+**Join Sha'Carri Richardson on her historic 100m World Championship victory lap | NBC Sports**
 
-You can read more about it [here](https://www.theguardian.com/music/2023/aug/21/rich-men-north-of-richmond-us-chart-history).
+You can read more about it [here](https://www.youtube.com/watch?v=jnPm6U9Fz8I).
 
 ## Requirements
 - Python 3.8
