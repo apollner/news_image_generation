@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thailand's former PM Thaksin Shinawatra jailed after return from exile**
+**Tropical Storm Harold heads toward South Texas, threatening floods and dangerous storm surge**
 
-You can read more about it [here](https://www.ft.com/content/4ef9ba75-21a4-4b06-b486-25e094d07dd3).
+You can read more about it [here](https://www.cnn.com/2023/08/22/weather/texas-tropical-storm-warning-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
