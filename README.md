@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demi Lovato splits from manager Scooter Braun**
+**In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/demi-lovato-manager-scooter-braun-justin-bieber-b2397042.html).
+You can read more about it [here](https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/).
 
 ## Requirements
 - Python 3.8
