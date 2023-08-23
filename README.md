@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland's leader says Russia's moving tactical nuclear weapons to Belarus, shifting regional security**
+**Ariana Grande and Demi Lovato latest to split from manager Scooter Braun**
 
-You can read more about it [here](https://news.yahoo.com/polands-leader-says-russias-moving-135008837.html).
+You can read more about it [here](https://www.theguardian.com/music/2023/aug/22/ariana-grande-and-demi-lovato-latest-to-split-from-manager-scooter-braun).
 
 ## Requirements
 - Python 3.8
