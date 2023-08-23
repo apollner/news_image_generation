@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bail set for additional defendants in Georgia election case after Trump's bond set at $200,000**
+**Charred bodies of 18 migrants found in Greece amid European wildfires**
 
-You can read more about it [here](https://abcnews.go.com/US/trumps-bond-set-200000-fulton-county-election-interference/story?id=102431955).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/22/greece-wildfires-bodies-heat-europe/).
 
 ## Requirements
 - Python 3.8
