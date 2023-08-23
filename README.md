@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump plans to turn himself in Thursday at Fulton County jail**
+**Demi Lovato splits from manager Scooter Braun**
 
-You can read more about it [here](https://www.cnn.com/2023/08/21/politics/fulton-county-da-office-negotiations-trump/index.html).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/music/news/demi-lovato-manager-scooter-braun-justin-bieber-b2397042.html).
 
 ## Requirements
 - Python 3.8
