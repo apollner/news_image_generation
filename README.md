@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Maui, Biden sees 'long road' ahead in recovering from deadly wildfires**
+**Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-heading-maui-console-wildfire-survivors-2023-08-21/).
+You can read more about it [here](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma).
 
 ## Requirements
 - Python 3.8
