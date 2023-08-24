@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the RSV vaccine — before a 'tripledemic' strikes**
+**Oklahoma authorities name the BTK killer as the 'prime suspect' in at least two unsolved cases**
 
-You can read more about it [here](https://nypost.com/2023/08/23/what-to-know-about-the-rsv-vaccine-before-a-tripledemic-strikes/).
+You can read more about it [here](https://apnews.com/article/btk-serial-killer-investigation-161ee1a8d405a0a2d6ae87db85d643af).
 
 ## Requirements
 - Python 3.8
