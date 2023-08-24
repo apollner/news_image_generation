@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martin Sheen, Kerry Washington, Ron Perlman at Solidarity Rally: Don’t Let Studios “Gaslight Us”**
+**Five potential trade destinations for Colts RB Jonathan Taylor**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/martin-sheen-kerry-washington-ron-perlman-solidarity-rally-1235572475/).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/five-potential-trade-destinations-for-colts-rb-jonathan-taylor).
 
 ## Requirements
 - Python 3.8
