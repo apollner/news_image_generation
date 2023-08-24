@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peloton Stock Plunges 20% as It Warns of Continued Losses**
+**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
 
-You can read more about it [here](https://www.wsj.com/business/earnings/peloton-interactive-pton-q4-earnings-report-2023-89922868).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
 
 ## Requirements
 - Python 3.8
