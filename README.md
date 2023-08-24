@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia markets mixed as investors assess private business activity reports from Australia and Japan**
+**Dow Jones Futures: Nvidia Earnings Are Everything For The Market Rally Attempt, These AI Stocks**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/asia-markets.html).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-loom-for-market-rally-attempt-these-ai-stocks/).
 
 ## Requirements
 - Python 3.8
