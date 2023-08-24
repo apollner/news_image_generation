@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel investigating false statements made by Trump employees in classified documents case**
+**Ariana Grande and Demi Lovato both split from music manager Scooter Braun**
 
-You can read more about it [here](https://www.cnn.com/2023/08/22/politics/special-counsel-trump-documents-investigation/index.html).
+You can read more about it [here](https://ew.com/music/ariana-grande-demi-lovato-split-from-music-manager-scooter-braun/).
 
 ## Requirements
 - Python 3.8
