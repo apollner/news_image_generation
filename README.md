@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charred bodies of 18 migrants found in Greece amid European wildfires**
+**Martin Sheen, Kerry Washington, Ron Perlman at Solidarity Rally: Don’t Let Studios “Gaslight Us”**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/22/greece-wildfires-bodies-heat-europe/).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/martin-sheen-kerry-washington-ron-perlman-solidarity-rally-1235572475/).
 
 ## Requirements
 - Python 3.8
