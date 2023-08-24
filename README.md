@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heavy flooding near Grand Canyon's southern rim prompts calls to shelter in place. Swift water rescue teams are on scene**
+**A'ja Wilson ties WNBA record with 53 points in Aces' win - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/us/arizona-grand-canyon-tusayan-flooding/index.html).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/38242136/las-vegas-aces-aja-wilson-scores-53-points-tie-wnba-single-game-record).
 
 ## Requirements
 - Python 3.8
