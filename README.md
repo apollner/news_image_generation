@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Opioid-maker Mallinckrodt to file for bankruptcy - The Washington Post**
+**Former Trump lawyers Rudy Giuliani and Sidney Powell surrender in election subversion case**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/08/23/opioid-manufacturer-mallinckrodt-bankruptcy/).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
 
 ## Requirements
 - Python 3.8
