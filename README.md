@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks making the biggest moves premarket: Nvidia, Foot Locker, Safehold, Kohl's and more**
+**What’s this new COVID variant and is another vaccine coming?**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/stocks-making-the-biggest-moves-premarket-nvidia-foot-locker-safehold-kohls-and-more.html).
+You can read more about it [here](https://www.mlive.com/public-interest/2023/08/whats-this-new-covid-variant-and-is-another-vaccine-coming.html).
 
 ## Requirements
 - Python 3.8
