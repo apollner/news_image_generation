@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five potential trade destinations for Colts RB Jonathan Taylor**
+**NFL preseason Week 2 grades for first-round rookies: Here's who stood out, disappointed and surprised**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/five-potential-trade-destinations-for-colts-rb-jonathan-taylor).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-2-grades-for-first-round-rookies-heres-who-stood-out-disappointed-and-surprised/).
 
 ## Requirements
 - Python 3.8
