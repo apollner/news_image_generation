@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple Teams Inquire On Colts RB Jonathan Taylor**
+**Heavy flooding near Grand Canyon's southern rim prompts calls to shelter in place. Swift water rescue teams are on scene**
 
-You can read more about it [here](https://www.profootballrumors.com/2023/08/multiple-teams-inquire-on-colts-rb-jonathan-taylor).
+You can read more about it [here](https://www.cnn.com/2023/08/23/us/arizona-grand-canyon-tusayan-flooding/index.html).
 
 ## Requirements
 - Python 3.8
