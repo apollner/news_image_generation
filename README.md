@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia launches cargo ship to the International Space Station – Spaceflight Now**
+**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
 
-You can read more about it [here](https://spaceflightnow.com/2023/08/23/live-coverage-russia-to-launch-cargo-to-the-international-space-station/).
+You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
 
 ## Requirements
 - Python 3.8
