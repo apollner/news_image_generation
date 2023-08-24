@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: The moon's surface from India's lunar probe at it flies to landing zone**
+**Peloton Stock Plunges 20% as It Warns of Continued Losses**
 
-You can read more about it [here](https://www.youtube.com/watch?v=heeam8wqiO4).
+You can read more about it [here](https://www.wsj.com/business/earnings/peloton-interactive-pton-q4-earnings-report-2023-89922868).
 
 ## Requirements
 - Python 3.8
