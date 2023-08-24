@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine latest: Russian attacks kill school workers, destroy grain, Ukraine says**
+**Nvidia reports 88% jump in revenue and tops estimates, driven by demand for AI chips**
 
-You can read more about it [here](https://asia.nikkei.com/Politics/Ukraine-war/Ukraine-war-Free-to-read/Ukraine-latest-Russian-attacks-kill-school-workers-destroy-grain-Ukraine-says).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html).
 
 ## Requirements
 - Python 3.8
