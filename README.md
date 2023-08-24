@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lonzo Ball disputes Stephen A. Smith report with chair, video evidence: 'Stop yapping'**
+**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
 
-You can read more about it [here](https://sports.yahoo.com/lonzo-ball-disputes-stephen-a-smith-report-with-chair-video-evidence-stop-yapping-224103029.html).
+You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
 
 ## Requirements
 - Python 3.8
