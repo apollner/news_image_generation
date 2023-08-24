@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Armored Core 6 - S Rank Combat Gameplay**
+**Ongoing shooting situation erupts in Pittsburgh during attempted eviction, officials say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=f5MWVVNTZic).
+You can read more about it [here](https://www.cnn.com/2023/08/23/us/pittsburgh-police-shooting-garfield/index.html).
 
 ## Requirements
 - Python 3.8
