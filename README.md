@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears considering reconciling with 'ill' dad Jamie Spears: report**
+**Putin has strange deep voice in address to BRICS summit**
 
-You can read more about it [here](https://pagesix.com/2023/08/23/britney-spears-considering-reconciling-with-ill-dad-jamie-spears-report/).
+You can read more about it [here](https://www.politico.eu/article/russia-vladimir-putin-has-strange-deep-voice-in-address-to-brics-summit/).
 
 ## Requirements
 - Python 3.8
