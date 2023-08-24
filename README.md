@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures: Nvidia Earnings Are Everything For The Market Rally Attempt, These AI Stocks**
+**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-loom-for-market-rally-attempt-these-ai-stocks/).
+You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
 
 ## Requirements
 - Python 3.8
