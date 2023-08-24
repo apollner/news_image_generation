@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A'ja Wilson ties WNBA record with 53 points in Aces' win - ESPN**
+**FBI estimates 1,000 to 1,100 people remain unaccounted in Lahaina**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/38242136/las-vegas-aces-aja-wilson-scores-53-points-tie-wnba-single-game-record).
+You can read more about it [here](https://www.staradvertiser.com/2023/08/22/breaking-news/maui-county-officials-to-discuss-efforts-to-account-for-the-missing/).
 
 ## Requirements
 - Python 3.8
