@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia reports 88% jump in revenue and tops estimates, driven by demand for AI chips**
+**What to know about the RSV vaccine — before a 'tripledemic' strikes**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html).
+You can read more about it [here](https://nypost.com/2023/08/23/what-to-know-about-the-rsv-vaccine-before-a-tripledemic-strikes/).
 
 ## Requirements
 - Python 3.8
