@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
+**‘Hegemonism not in China’s DNA’: Xi calls for BRICS expansion**
 
-You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
+You can read more about it [here](https://www.aljazeera.com/economy/2023/8/23/hegemonism-not-in-chinas-dna-xi-calls-for-brics-expansion).
 
 ## Requirements
 - Python 3.8
