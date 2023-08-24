@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about COVID Pirola: How new lineage BA.2.86 differs from other variants**
+**2 more Coloradans dead after contracting West Nile virus**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/08/21/pirola-covid-lineage-not-omicron-variant/70644689007/).
+You can read more about it [here](https://www.9news.com/article/news/local/west-nile-virus-death-larimer-boulder-county/73-a03a349d-38da-4730-a7b0-4ce39c40da7e).
 
 ## Requirements
 - Python 3.8
