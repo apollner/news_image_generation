@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL preseason Week 2 grades for first-round rookies: Here's who stood out, disappointed and surprised**
+**What to know about COVID Pirola: How new lineage BA.2.86 differs from other variants**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-preseason-week-2-grades-for-first-round-rookies-heres-who-stood-out-disappointed-and-surprised/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/08/21/pirola-covid-lineage-not-omicron-variant/70644689007/).
 
 ## Requirements
 - Python 3.8
