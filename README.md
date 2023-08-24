@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande and Demi Lovato both split from music manager Scooter Braun**
+**Lonzo Ball disputes Stephen A. Smith report with chair, video evidence: 'Stop yapping'**
 
-You can read more about it [here](https://ew.com/music/ariana-grande-demi-lovato-split-from-music-manager-scooter-braun/).
+You can read more about it [here](https://sports.yahoo.com/lonzo-ball-disputes-stephen-a-smith-report-with-chair-video-evidence-stop-yapping-224103029.html).
 
 ## Requirements
 - Python 3.8
