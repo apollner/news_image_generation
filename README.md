@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious remains found in Netherlands identified as Bernard Luza, Jewish resistance hero who was executed by Nazis in 1943**
+**Ukraine latest: Russian attacks kill school workers, destroy grain, Ukraine says**
 
-You can read more about it [here](https://www.cbsnews.com/news/bernard-luza-remains-identified-jewish-resistance-hero-executed-by-nazis-1943/).
+You can read more about it [here](https://asia.nikkei.com/Politics/Ukraine-war/Ukraine-war-Free-to-read/Ukraine-latest-Russian-attacks-kill-school-workers-destroy-grain-Ukraine-says).
 
 ## Requirements
 - Python 3.8
