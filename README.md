@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
+**Studios Offer New AI, Data Transparency & Residuals Proposals To WGA; Guild Meets With CEOs – Update**
 
-You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
+You can read more about it [here](https://deadline.com/2023/08/wga-strike-amptp-deal-revealed-1235525636/).
 
 ## Requirements
 - Python 3.8
