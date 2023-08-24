@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
+**Britney Spears considering reconciling with 'ill' dad Jamie Spears: report**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
+You can read more about it [here](https://pagesix.com/2023/08/23/britney-spears-considering-reconciling-with-ill-dad-jamie-spears-report/).
 
 ## Requirements
 - Python 3.8
