@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI estimates 1,000 to 1,100 people remain unaccounted in Lahaina**
+**Stocks making the biggest moves premarket: Nvidia, Foot Locker, Safehold, Kohl's and more**
 
-You can read more about it [here](https://www.staradvertiser.com/2023/08/22/breaking-news/maui-county-officials-to-discuss-efforts-to-account-for-the-missing/).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/stocks-making-the-biggest-moves-premarket-nvidia-foot-locker-safehold-kohls-and-more.html).
 
 ## Requirements
 - Python 3.8
