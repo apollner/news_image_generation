@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin has strange deep voice in address to BRICS summit**
+**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
 
-You can read more about it [here](https://www.politico.eu/article/russia-vladimir-putin-has-strange-deep-voice-in-address-to-brics-summit/).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
 
 ## Requirements
 - Python 3.8
