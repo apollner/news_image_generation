@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giuliani to negotiate bond and surrender in Fulton County Wednesday**
+**Armored Core 6 - S Rank Combat Gameplay**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=f5MWVVNTZic).
 
 ## Requirements
 - Python 3.8
