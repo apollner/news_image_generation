@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the RSV vaccine — before a 'tripledemic' strikes**
+**Opioid-maker Mallinckrodt to file for bankruptcy - The Washington Post**
 
-You can read more about it [here](https://nypost.com/2023/08/23/what-to-know-about-the-rsv-vaccine-before-a-tripledemic-strikes/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/08/23/opioid-manufacturer-mallinckrodt-bankruptcy/).
 
 ## Requirements
 - Python 3.8
