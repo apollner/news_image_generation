@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ongoing shooting situation erupts in Pittsburgh during attempted eviction, officials say**
+**Mysterious remains found in Netherlands identified as Bernard Luza, Jewish resistance hero who was executed by Nazis in 1943**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/us/pittsburgh-police-shooting-garfield/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/bernard-luza-remains-identified-jewish-resistance-hero-executed-by-nazis-1943/).
 
 ## Requirements
 - Python 3.8
