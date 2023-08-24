@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 more Coloradans dead after contracting West Nile virus**
+**Special counsel investigating false statements made by Trump employees in classified documents case**
 
-You can read more about it [here](https://www.9news.com/article/news/local/west-nile-virus-death-larimer-boulder-county/73-a03a349d-38da-4730-a7b0-4ce39c40da7e).
+You can read more about it [here](https://www.cnn.com/2023/08/22/politics/special-counsel-trump-documents-investigation/index.html).
 
 ## Requirements
 - Python 3.8
