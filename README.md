@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Studios Offer New AI, Data Transparency & Residuals Proposals To WGA; Guild Meets With CEOs – Update**
+**Half-Life 2 RTX Remaster Announced At Gamescom - IGN Daily Fix**
 
-You can read more about it [here](https://deadline.com/2023/08/wga-strike-amptp-deal-revealed-1235525636/).
+You can read more about it [here](https://www.youtube.com/watch?v=KEwS3y7H7ng).
 
 ## Requirements
 - Python 3.8
