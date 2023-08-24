@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s this new COVID variant and is another vaccine coming?**
+**Watch: The moon's surface from India's lunar probe at it flies to landing zone**
 
-You can read more about it [here](https://www.mlive.com/public-interest/2023/08/whats-this-new-covid-variant-and-is-another-vaccine-coming.html).
+You can read more about it [here](https://www.youtube.com/watch?v=heeam8wqiO4).
 
 ## Requirements
 - Python 3.8
