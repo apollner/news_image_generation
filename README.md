@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
+**100+ people evacuated due to flash flooding at Grand Canyon's South Rim**
 
-You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
+You can read more about it [here](https://www.azfamily.com/2023/08/23/100-people-evacuated-due-flash-flooding-grand-canyons-south-rim/).
 
 ## Requirements
 - Python 3.8
