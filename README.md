@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Half-Life 2 RTX Remaster Announced At Gamescom - IGN Daily Fix**
+**Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KEwS3y7H7ng).
+You can read more about it [here](https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937).
 
 ## Requirements
 - Python 3.8
