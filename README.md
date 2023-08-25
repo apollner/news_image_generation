@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN news is coming to Warner Bros. Discovery streaming service Max**
+**Fact check: The first Republican presidential debate of the 2024 election**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/24/cnn-streaming-warner-bros-discovery-max.html).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/fact-check-republican-debate/index.html).
 
 ## Requirements
 - Python 3.8
