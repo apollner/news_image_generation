@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: The first Republican presidential debate of the 2024 election**
+**‘Barbie’ Squashes ‘Super Mario Bros Movie’ As Top-Grossing 2023 Film At Domestic Box Office**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/politics/fact-check-republican-debate/index.html).
+You can read more about it [here](https://deadline.com/2023/08/box-office-barbie-2023-record-1235525302/).
 
 ## Requirements
 - Python 3.8
