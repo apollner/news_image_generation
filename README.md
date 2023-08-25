@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six countries to join BRICS group; China labels expansion 'historic'**
+**How a nearly 100-year-old "miracle house" survived the Lahaina wildfire**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/24/brics-china-russia-expansion/).
+You can read more about it [here](https://www.youtube.com/watch?v=Ol6CN3qiAw0).
 
 ## Requirements
 - Python 3.8
