@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Retired Ventura police sergeant named as shooter at O.C. biker bar**
+**Brain implants can help people with paralysis ‘speak’ through screens faster, more accurately than before, new studies show**
 
-You can read more about it [here](https://www.vcstar.com/story/news/2023/08/23/authorities-say-4-people-dead-in-shooting-at-california-biker-bar/70666072007/).
+You can read more about it [here](https://www.cnn.com/2023/08/23/health/brain-implants-speech-scn/index.html).
 
 ## Requirements
 - Python 3.8
