@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says special forces made daring amphibious raid into Crimea**
+**Mark Meadows surrenders to face Georgia election charges**
 
-You can read more about it [here](https://www.businessinsider.com/ukraine-special-forces-daring-amphibious-raid-crimea-raised-flag-russia-2023-8).
+You can read more about it [here](https://www.npr.org/2023/08/24/1195314434/mark-meadows-arrest-georgia-fulton-county).
 
 ## Requirements
 - Python 3.8
