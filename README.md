@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Riverdale’: Behind The Surprise Cameos From Former Warner Bros. TV Group Chairman Peter Roth In Final Season**
+**Moon rover exits India's Chandrayaan-3 spacecraft to explore lunar surface**
 
-You can read more about it [here](https://deadline.com/2023/08/riverdale-peter-roth-cameos-series-finale-the-cw-1235526565/).
+You can read more about it [here](https://www.reuters.com/technology/space/moon-rover-exits-indias-chandrayaan-3-spacecraft-explore-lunar-surface-tv-2023-08-24/).
 
 ## Requirements
 - Python 3.8
