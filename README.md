@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike McDaniel on Jonathan Taylor: Chris Grier's job is to work, he lets me know when it's real**
+**Writers Guild Replies to Studios’ Counter Offer: Not “Nearly Enough”**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-on-jonathan-taylor-chris-griers-job-is-to-work-he-lets-me-know-when-its-real).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/).
 
 ## Requirements
 - Python 3.8
