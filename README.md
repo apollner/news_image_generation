@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Below Deck Sailing Yacht's Gary King Accused of Misconduct**
+**Retired Ventura police sergeant named as shooter at O.C. biker bar**
 
-You can read more about it [here](http://www.vulture.com/2023/08/below-deck-gary-king-sexual-misconduct.html).
+You can read more about it [here](https://www.vcstar.com/story/news/2023/08/23/authorities-say-4-people-dead-in-shooting-at-california-biker-bar/70666072007/).
 
 ## Requirements
 - Python 3.8
