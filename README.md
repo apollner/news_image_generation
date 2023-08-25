@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani has UCL tear, won't pitch again in '23**
+**Nvidia Stock Is Surging. Its Earnings Cleared Up Concerns Including China.**
 
-You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-has-tear-in-ucl).
+You can read more about it [here](https://www.barrons.com/articles/nvidia-wall-street-reaction-stock-price-earnings-87703e67).
 
 ## Requirements
 - Python 3.8
