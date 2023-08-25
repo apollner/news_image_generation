@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Each Zodiac Sign's Weekly Tarot Horoscope For August 28 - September 3**
+**Ohtani has UCL tear, won't pitch again in '23**
 
-You can read more about it [here](https://www.yourtango.com/2023365364/weekly-tarot-horoscope-august-28-september-3-2023-zodiac-signs).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-has-tear-in-ucl).
 
 ## Requirements
 - Python 3.8
