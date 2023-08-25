@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 Injured, 4 Dead In Mass Shooting At Famous Orange County Biker Bar**
+**Shohei Ohtani won’t pitch again this season after tearing UCL; hits MLB-leading home run in same game**
 
-You can read more about it [here](https://deadline.com/2023/08/mass-shooting-orange-county-biker-bar-cooks-corner-1235526821/).
+You can read more about it [here](https://www.cnn.com/2023/08/24/sport/shohei-ohtani-ucl-tear-home-run-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
