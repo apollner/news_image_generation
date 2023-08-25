@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers Guild Replies to Studios’ Counter Offer: Not “Nearly Enough”**
+**Fulton County prosecutors ask judge to set Oct. 23 trial on Trump racketeering charges**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/).
+You can read more about it [here](https://www.politico.com/news/2023/08/24/fulton-county-prosecutors-ask-judge-to-set-oct-23-trial-on-trump-racketeering-charges-00112816).
 
 ## Requirements
 - Python 3.8
