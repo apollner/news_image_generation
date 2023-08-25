@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran, Saudi Arabia and Egypt are among 6 nations set to join the BRICS economic bloc**
+**T-Mobile to lay off 5,000 employees**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/iran-saudi-arabia-egypt-6-nations-set-join-102523966).
+You can read more about it [here](https://www.cnn.com/2023/08/24/tech/tmobile-layoffs-5000-employees/index.html).
 
 ## Requirements
 - Python 3.8
