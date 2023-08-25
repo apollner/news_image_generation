@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giuliani surrenders in Trump election subversion case, $150000 bond set**
+**Stock futures climb as Nvidia beats Wall Street earnings estimates: Live updates**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-ex-attorney-rudy-giuliani-heads-georgia-face-election-charges-2023-08-23/).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
