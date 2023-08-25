@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage Rates Hit 7.23%, Highest Since 2001 - WSJ**
+**Iran, Saudi Arabia and Egypt are among 6 nations set to join the BRICS economic bloc**
 
-You can read more about it [here](https://www.wsj.com/economy/housing/mortgage-rates-hit-7-23-percent-72688ccd).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/iran-saudi-arabia-egypt-6-nations-set-join-102523966).
 
 ## Requirements
 - Python 3.8
