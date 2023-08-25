@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump attacks rivals in Tucker Carlson interview and skips Republican presidential debate**
+**Takeaways from the first Republican presidential debate**
 
-You can read more about it [here](https://apnews.com/article/trump-skips-gop-presidential-debate-ae9bcfd8c3d492277cc3e7f77df9466d).
+You can read more about it [here](https://www.cnn.com/2023/08/23/politics/takeaways-republican-debate/index.html).
 
 ## Requirements
 - Python 3.8
