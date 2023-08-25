@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County prosecutors ask judge to set Oct. 23 trial on Trump racketeering charges**
+**Below Deck Sailing Yacht's Gary King Accused of Misconduct**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/24/fulton-county-prosecutors-ask-judge-to-set-oct-23-trial-on-trump-racketeering-charges-00112816).
+You can read more about it [here](http://www.vulture.com/2023/08/below-deck-gary-king-sexual-misconduct.html).
 
 ## Requirements
 - Python 3.8
