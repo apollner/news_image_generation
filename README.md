@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina's new all-male highest court reverses course on abortion, upholding strict 6-week ban**
+**Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/south-carolinas-new-male-highest-court-reverses-abortion-102480714).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html).
 
 ## Requirements
 - Python 3.8
