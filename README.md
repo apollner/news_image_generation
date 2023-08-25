@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Meadows surrenders to face Georgia election charges**
+**Trump travels to Atlanta for mug shot, booking in election case**
 
-You can read more about it [here](https://www.npr.org/2023/08/24/1195314434/mark-meadows-arrest-georgia-fulton-county).
+You can read more about it [here](https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/).
 
 ## Requirements
 - Python 3.8
