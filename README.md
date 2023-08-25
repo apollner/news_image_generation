@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Stock Is Surging. Its Earnings Cleared Up Concerns Including China.**
+**Ukraine is going all out in the decisive phase of the summer offensive**
 
-You can read more about it [here](https://www.barrons.com/articles/nvidia-wall-street-reaction-stock-price-earnings-87703e67).
+You can read more about it [here](https://meduza.io/en/feature/2023/08/24/ukraine-is-going-all-out-in-the-decisive-phase-of-the-summer-offensive).
 
 ## Requirements
 - Python 3.8
