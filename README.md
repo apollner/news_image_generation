@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a nearly 100-year-old "miracle house" survived the Lahaina wildfire**
+**Mortgage Rates Hit 7.23%, Highest Since 2001 - WSJ**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ol6CN3qiAw0).
+You can read more about it [here](https://www.wsj.com/economy/housing/mortgage-rates-hit-7-23-percent-72688ccd).
 
 ## Requirements
 - Python 3.8
