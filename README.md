@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moon rover exits India's Chandrayaan-3 spacecraft to explore lunar surface**
+**Stock market today: Live updates**
 
-You can read more about it [here](https://www.reuters.com/technology/space/moon-rover-exits-indias-chandrayaan-3-spacecraft-explore-lunar-surface-tv-2023-08-24/).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
