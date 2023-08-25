@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 1 person is dead and 2 are missing as Tropical Storm Franklin batters Dominican Republic**
+**Absent Donald Trump tries to upstage Republican primary debate**
 
-You can read more about it [here](https://apnews.com/article/tropical-storm-franklin-haiti-dominican-republic-floods-9172b46177a80fec91340478f235586d).
+You can read more about it [here](https://www.ft.com/content/3a58cc7a-879a-4f50-9192-6bd81d83aa0e).
 
 ## Requirements
 - Python 3.8
