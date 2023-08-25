@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani has UCL tear, won't pitch again in '23**
+**Donald Trump attacks rivals in Tucker Carlson interview and skips Republican presidential debate**
 
-You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-has-tear-in-ucl).
+You can read more about it [here](https://apnews.com/article/trump-skips-gop-presidential-debate-ae9bcfd8c3d492277cc3e7f77df9466d).
 
 ## Requirements
 - Python 3.8
