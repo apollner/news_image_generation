@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mandel: ACC adding Stanford, Cal and SMU makes perfect sense and no sense at all**
+**Each Zodiac Sign's Weekly Tarot Horoscope For August 28 - September 3**
 
-You can read more about it [here](https://theathletic.com/4801435/2023/08/23/acc-stanford-cal-smu/).
+You can read more about it [here](https://www.yourtango.com/2023365364/weekly-tarot-horoscope-august-28-september-3-2023-zodiac-signs).
 
 ## Requirements
 - Python 3.8
