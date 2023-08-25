@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fukushima nuclear waste water: Japan to release treated water despite China's opposition**
+**Nvidia's jaw-dropping revenue forecast might not even be its peak**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/asia/japan-fukushima-water-release-thursday-intl-hnk/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/nvidias-jaw-dropping-revenue-forecast-might-not-even-be-its-peak-438c9729).
 
 ## Requirements
 - Python 3.8
