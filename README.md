@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Boeing 737 MAX supplier defect to delay aircraft deliveries**
+**Fukushima nuclear waste water: Japan to release treated water despite China's opposition**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/new-boeing-737-max-supplier-defect-delay-aircraft-deliveries-2023-08-23/).
+You can read more about it [here](https://www.cnn.com/2023/08/23/asia/japan-fukushima-water-release-thursday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
