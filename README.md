@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta Quest 3 will feature eye relief adjustment**
+**CNN news is coming to Warner Bros. Discovery streaming service Max**
 
-You can read more about it [here](https://mixed-news.com/en/meta-quest-3-eye-relief-adjustment/).
+You can read more about it [here](https://www.cnbc.com/2023/08/24/cnn-streaming-warner-bros-discovery-max.html).
 
 ## Requirements
 - Python 3.8
