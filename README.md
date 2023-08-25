@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Live updates**
+**Ohtani has UCL tear, won't pitch again in '23**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-has-tear-in-ucl).
 
 ## Requirements
 - Python 3.8
