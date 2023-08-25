@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Barbie’ Squashes ‘Super Mario Bros Movie’ As Top-Grossing 2023 Film At Domestic Box Office**
+**Six countries to join BRICS group; China labels expansion 'historic'**
 
-You can read more about it [here](https://deadline.com/2023/08/box-office-barbie-2023-record-1235525302/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/24/brics-china-russia-expansion/).
 
 ## Requirements
 - Python 3.8
