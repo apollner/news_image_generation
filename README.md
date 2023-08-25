@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani won’t pitch again this season after tearing UCL; hits MLB-leading home run in same game**
+**Meta Quest 3 will feature eye relief adjustment**
 
-You can read more about it [here](https://www.cnn.com/2023/08/24/sport/shohei-ohtani-ucl-tear-home-run-spt-intl/index.html).
+You can read more about it [here](https://mixed-news.com/en/meta-quest-3-eye-relief-adjustment/).
 
 ## Requirements
 - Python 3.8
