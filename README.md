@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's jaw-dropping revenue forecast might not even be its peak**
+**Giuliani surrenders in Trump election subversion case, $150000 bond set**
 
-You can read more about it [here](https://www.marketwatch.com/story/nvidias-jaw-dropping-revenue-forecast-might-not-even-be-its-peak-438c9729).
+You can read more about it [here](https://www.reuters.com/legal/trump-ex-attorney-rudy-giuliani-heads-georgia-face-election-charges-2023-08-23/).
 
 ## Requirements
 - Python 3.8
