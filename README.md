@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Absent Donald Trump tries to upstage Republican primary debate**
+**Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI**
 
-You can read more about it [here](https://www.ft.com/content/3a58cc7a-879a-4f50-9192-6bd81d83aa0e).
+You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html).
 
 ## Requirements
 - Python 3.8
