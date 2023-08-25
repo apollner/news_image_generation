@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani injury: Angels superstar won't pitch again this season due to UCL tear after exiting game early**
+**‘Riverdale’: Behind The Surprise Cameos From Former Warner Bros. TV Group Chairman Peter Roth In Final Season**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-injury-angels-superstar-wont-pitch-again-this-season-due-to-ucl-tear-after-exiting-game-early/).
+You can read more about it [here](https://deadline.com/2023/08/riverdale-peter-roth-cameos-series-finale-the-cw-1235526565/).
 
 ## Requirements
 - Python 3.8
