@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI**
+**At least 1 person is dead and 2 are missing as Tropical Storm Franklin batters Dominican Republic**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html).
+You can read more about it [here](https://apnews.com/article/tropical-storm-franklin-haiti-dominican-republic-floods-9172b46177a80fec91340478f235586d).
 
 ## Requirements
 - Python 3.8
