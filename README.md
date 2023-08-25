@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures climb as Nvidia beats Wall Street earnings estimates: Live updates**
+**Shohei Ohtani injury: Angels superstar won't pitch again this season due to UCL tear after exiting game early**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-injury-angels-superstar-wont-pitch-again-this-season-due-to-ucl-tear-after-exiting-game-early/).
 
 ## Requirements
 - Python 3.8
