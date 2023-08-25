@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brain implants can help people with paralysis ‘speak’ through screens faster, more accurately than before, new studies show**
+**Ukraine says special forces made daring amphibious raid into Crimea**
 
-You can read more about it [here](https://www.cnn.com/2023/08/23/health/brain-implants-speech-scn/index.html).
+You can read more about it [here](https://www.businessinsider.com/ukraine-special-forces-daring-amphibious-raid-crimea-raised-flag-russia-2023-8).
 
 ## Requirements
 - Python 3.8
