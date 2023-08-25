@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mallinckrodt Lenders to Take Control in Bankruptcy That Cuts $1 Billion in Opioid Payments**
+**South Carolina's new all-male highest court reverses course on abortion, upholding strict 6-week ban**
 
-You can read more about it [here](https://www.wsj.com/articles/mallinckrodt-to-file-for-second-bankruptcy-amid-opioid-payments-e6151c71).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/south-carolinas-new-male-highest-court-reverses-abortion-102480714).
 
 ## Requirements
 - Python 3.8
