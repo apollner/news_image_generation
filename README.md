@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's blowout earnings report shows chipmaker is gobbling up all the profit in AI**
+**New Boeing 737 MAX supplier defect to delay aircraft deliveries**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/23/nvidia-blowout-earnings-report-shows-chipmaker-grabbing-all-ai-profits.html).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/new-boeing-737-max-supplier-defect-delay-aircraft-deliveries-2023-08-23/).
 
 ## Requirements
 - Python 3.8
