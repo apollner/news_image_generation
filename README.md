@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine is going all out in the decisive phase of the summer offensive**
+**6 Injured, 4 Dead In Mass Shooting At Famous Orange County Biker Bar**
 
-You can read more about it [here](https://meduza.io/en/feature/2023/08/24/ukraine-is-going-all-out-in-the-decisive-phase-of-the-summer-offensive).
+You can read more about it [here](https://deadline.com/2023/08/mass-shooting-orange-county-biker-bar-cooks-corner-1235526821/).
 
 ## Requirements
 - Python 3.8
