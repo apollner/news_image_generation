@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bray Wyatt, WWE Superstar, Dies at 36**
+**Opinion | The Checkup With Dr. Wen: Most people can wait to get a covid booster**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/bray-wyatt-dead-wwe-superstar-1235574598/).
+You can read more about it [here](https://www.washingtonpost.com/opinions/2023/08/24/timing-new-covid-booster-fall/).
 
 ## Requirements
 - Python 3.8
