@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine latest: Pro-Kyiv Russians urge Wagner to 'take revenge'**
+**Reddit launches moderator rewards program amid sitewide discontent**
 
-You can read more about it [here](https://asia.nikkei.com/Politics/Ukraine-war/Ukraine-war-Free-to-read/Ukraine-latest-Pro-Kyiv-Russians-urge-Wagner-to-take-revenge).
+You can read more about it [here](https://techcrunch.com/2023/08/24/reddit-mod-helper-program-update-moderation-protest/).
 
 ## Requirements
 - Python 3.8
