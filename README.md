@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Chair Powell At Jackson Hole: The Real Risk For Stocks**
+**In new interview, Giannis Antetokounmpo says he wants to see championship-level commitment from Bucks before re-signing**
 
-You can read more about it [here](https://www.investors.com/news/federal-reserve-chair-powell-at-jackson-hole-heres-the-real-risk-for-the-sp-500/).
+You can read more about it [here](https://www.jsonline.com/story/sports/nba/bucks/2023/08/24/giannis-antetokounmpo-wants-nba-championship-commitment-from-bucks/70674343007/).
 
 ## Requirements
 - Python 3.8
