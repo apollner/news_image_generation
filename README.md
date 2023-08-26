@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dune fans bemused by Warner Bros' decision to delay Part 2**
+**Subway sandwich company sold to Roark Capital for billions**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/dune-part-2-movie-delay-b2399278.html).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/08/25/subway-company-sold-roark-capital-billions/70675156007/).
 
 ## Requirements
 - Python 3.8
