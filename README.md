@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martino: Lionel Messi in doubt to make MLS debut Saturday**
+**SpaceX Crew-7 launch scrubbed**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/38259083/lionel-messi-doubt-make-mls-debut-saturday-martino).
+You can read more about it [here](https://www.wesh.com/article/spacex-crew-7-launch-scrubbed/44909297).
 
 ## Requirements
 - Python 3.8
