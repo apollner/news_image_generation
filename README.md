@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Authorities detail how mass shooting unfolded in Trabuco Canyon**
+**The Next Full Moon is a Supermoon and a Blue Moon – NASA Solar System Exploration**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ru_0B28ux1Y).
+You can read more about it [here](https://solarsystem.nasa.gov/news/2367/the-next-full-moon-is-a-supermoon-and-a-blue-moon/).
 
 ## Requirements
 - Python 3.8
