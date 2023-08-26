@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit launches moderator rewards program amid sitewide discontent**
+**‘Blind Side’ Producers Say What They Paid Michael Oher and the Tuohys**
 
-You can read more about it [here](https://techcrunch.com/2023/08/24/reddit-mod-helper-program-update-moderation-protest/).
+You can read more about it [here](https://www.today.com/popculture/movies/blind-side-payment-michael-oher-tuohys-rcna101691).
 
 ## Requirements
 - Python 3.8
