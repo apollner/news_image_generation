@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Blind Side’ Producers Say What They Paid Michael Oher and the Tuohys**
+**Authorities detail how mass shooting unfolded in Trabuco Canyon**
 
-You can read more about it [here](https://www.today.com/popculture/movies/blind-side-payment-michael-oher-tuohys-rcna101691).
+You can read more about it [here](https://www.youtube.com/watch?v=Ru_0B28ux1Y).
 
 ## Requirements
 - Python 3.8
