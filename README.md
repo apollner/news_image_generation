@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bond Traders Obsessing Over R* Gauge Before Jackson Hole**
+**UFC Singapore weigh-in results: Max Holloway, Korean Zombie set for main event**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gGEV2YkI1BI).
+You can read more about it [here](https://www.mmafighting.com/2023/8/24/23845240/ufc-singapore-weigh-in-results-max-holloway-korean-zombie-set-for-main-event).
 
 ## Requirements
 - Python 3.8
