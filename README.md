@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Opinion | The Checkup With Dr. Wen: Most people can wait to get a covid booster**
+**SAG-AFTRA Tells Members It’s OK To Promote Their Movies With Interim Agreements At Film Festivals**
 
-You can read more about it [here](https://www.washingtonpost.com/opinions/2023/08/24/timing-new-covid-booster-fall/).
+You can read more about it [here](https://deadline.com/2023/08/sag-aftra-interim-agreements-festivals-1235527733/).
 
 ## Requirements
 - Python 3.8
