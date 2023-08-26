@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boyfriend arrested in murder of missing North Carolina woman, police say they believe they found remains**
+**Bray Wyatt, WWE Superstar, Dies at 36**
 
-You can read more about it [here](https://abcnews.go.com/US/boyfriend-arrested-murder-missing-north-carolina-woman-police/story?id=102538208).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/bray-wyatt-dead-wwe-superstar-1235574598/).
 
 ## Requirements
 - Python 3.8
