@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine, Russia war live updates: Putin speaks on plane crash**
+**Trump's mug shot released after booking at Georgia jail on election charges**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/08/24/ukraine-russia-war-live-updates/70666371007/).
+You can read more about it [here](https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/).
 
 ## Requirements
 - Python 3.8
