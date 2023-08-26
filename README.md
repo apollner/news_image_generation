@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I will not resign,' says defiant Spanish soccer boss Luis Rubiales following week of fierce criticism for unwanted kiss on star player**
+**Amid rise in COVID hospitalizations, health experts reveal new details about updated boosters**
 
-You can read more about it [here](https://www.cnn.com/2023/08/25/football/luis-rubiales-defiant-speech-spain-world-cup-kiss-spt-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=d6tFQDzKdPs).
 
 ## Requirements
 - Python 3.8
