@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Iowa voters shift favorites after GOP debate, while Ramaswamy stokes a divide**
+**AMD reveals long-awaited FSR 3 tech and frame gen for every DX11/DX12 game**
 
-You can read more about it [here](https://www.cnn.com/2023/08/25/politics/haley-ramaswamy-gop-debate-iowa-voters/index.html).
+You can read more about it [here](https://www.eurogamer.net/digitalfoundry-2023-amd-reveals-long-awaited-fsr-3-tech-and-frame-gen-for-every-dx11dx12-game).
 
 ## Requirements
 - Python 3.8
