@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storms leave over 55,000 without power in Lansing region**
+**Georgia governor pressured to publicly back Fani Willis in Trump case**
 
-You can read more about it [here](https://www.lansingstatejournal.com/story/news/local/2023/08/25/lansing-power-outages-bwl-consumers-tornado-thunderstorms/70677647007/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/25/georgia-brian-kemp-support-fani-willis-trump-indictment/70677179007/).
 
 ## Requirements
 - Python 3.8
