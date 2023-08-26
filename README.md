@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bray Wyatt, WWE Superstar, Dies at 36**
+**Groundbreaking AI implants help stroke victim 'talk' for first time in nearly two decades**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/bray-wyatt-dead-wwe-superstar-1235574598/).
+You can read more about it [here](https://www.foxbusiness.com/technology/groundbreaking-ai-implants-help-stroke-victim-talk-first-time-nearly-two-decades).
 
 ## Requirements
 - Python 3.8
