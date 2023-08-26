@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Richardson leads Colts on three scoring drives in first half**
+**Bray Wyatt, WWE Superstar, Dies at 36**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-leads-colts-on-three-scoring-drives-in-first-half).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/bray-wyatt-dead-wwe-superstar-1235574598/).
 
 ## Requirements
 - Python 3.8
