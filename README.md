@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia governor pressured to publicly back Fani Willis in Trump case**
+**New coronavirus variant has experts on alert and WHO is urging countries to step up COVID surveillance**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/08/25/georgia-brian-kemp-support-fani-willis-trump-indictment/70677179007/).
+You can read more about it [here](https://www.marketwatch.com/story/new-covid-variant-has-experts-on-alert-and-who-is-urging-countries-to-step-up-surveillance-ec8eab56).
 
 ## Requirements
 - Python 3.8
