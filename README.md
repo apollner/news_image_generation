@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's lunar rover goes down a ramp to the moon's surface and takes a walk**
+**Maui residents say development company took advantage of fire**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/indias-lunar-rover-ramp-moons-surface-takes-walk-102532044).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/maui-fire-kaleo-manuel-water-official-removed-unfairly-rcna100974).
 
 ## Requirements
 - Python 3.8
