@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Subway sandwich company sold to Roark Capital for billions**
+**India's lunar rover goes down a ramp to the moon's surface and takes a walk**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/08/25/subway-company-sold-roark-capital-billions/70675156007/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/indias-lunar-rover-ramp-moons-surface-takes-walk-102532044).
 
 ## Requirements
 - Python 3.8
