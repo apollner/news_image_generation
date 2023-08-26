@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Chair Powell At Jackson Hole: More Rate Hikes A Real Threat; S&P 500 Shrugs**
+**Some Iowa voters shift favorites after GOP debate, while Ramaswamy stokes a divide**
 
-You can read more about it [here](https://www.investors.com/news/federal-reserve-chair-powell-at-jackson-hole-heres-the-real-risk-for-the-sp-500/).
+You can read more about it [here](https://www.cnn.com/2023/08/25/politics/haley-ramaswamy-gop-debate-iowa-voters/index.html).
 
 ## Requirements
 - Python 3.8
