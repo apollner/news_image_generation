@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Futures: Stakes Rise For Powell Speech After Ugly Market Reversal**
+**Russia says Ukraine fired missile towards Moscow, hit Crimea with drones**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-speech-ugly-market-reversal/).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-says-destroys-42-ukraine-launched-drones-over-crimea-2023-08-25/).
 
 ## Requirements
 - Python 3.8
