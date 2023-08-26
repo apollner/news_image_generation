@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's mug shot released after booking at Georgia jail on election charges**
+**Heineken Sells Russia Business…for $1 - WSJ**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/).
+You can read more about it [here](https://www.wsj.com/business/deals/heineken-sells-russia-businessfor-1-313c7976).
 
 ## Requirements
 - Python 3.8
