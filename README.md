@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD reveals long-awaited FSR 3 tech and frame gen for every DX11/DX12 game**
+**Fed Chair Powell At Jackson Hole: More Rate Hikes A Real Threat; S&P 500 Shrugs**
 
-You can read more about it [here](https://www.eurogamer.net/digitalfoundry-2023-amd-reveals-long-awaited-fsr-3-tech-and-frame-gen-for-every-dx11dx12-game).
+You can read more about it [here](https://www.investors.com/news/federal-reserve-chair-powell-at-jackson-hole-heres-the-real-risk-for-the-sp-500/).
 
 ## Requirements
 - Python 3.8
