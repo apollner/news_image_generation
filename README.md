@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable**
+**U.S. agrees to train Ukraine’s F-16 pilots in Arizona**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/08/24/ukraine-f-16-training-arizona/).
 
 ## Requirements
 - Python 3.8
