@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New coronavirus variant has experts on alert and WHO is urging countries to step up COVID surveillance**
+**Martino: Lionel Messi in doubt to make MLS debut Saturday**
 
-You can read more about it [here](https://www.marketwatch.com/story/new-covid-variant-has-experts-on-alert-and-who-is-urging-countries-to-step-up-surveillance-ec8eab56).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/38259083/lionel-messi-doubt-make-mls-debut-saturday-martino).
 
 ## Requirements
 - Python 3.8
