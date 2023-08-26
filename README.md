@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump travels to Atlanta for mug shot, booking in election case**
+**Boyfriend arrested in murder of missing North Carolina woman, police say they believe they found remains**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/).
+You can read more about it [here](https://abcnews.go.com/US/boyfriend-arrested-murder-missing-north-carolina-woman-police/story?id=102538208).
 
 ## Requirements
 - Python 3.8
