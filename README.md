@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Singapore weigh-in results: Max Holloway, Korean Zombie set for main event**
+**Ukraine, Russia war live updates: Putin speaks on plane crash**
 
-You can read more about it [here](https://www.mmafighting.com/2023/8/24/23845240/ufc-singapore-weigh-in-results-max-holloway-korean-zombie-set-for-main-event).
+You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/08/24/ukraine-russia-war-live-updates/70666371007/).
 
 ## Requirements
 - Python 3.8
