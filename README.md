@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID variant BA.2.86 spreading in the U.S. in August 2023. Here are key facts experts want you to know.**
+**Storms leave over 55,000 without power in Lansing region**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/).
+You can read more about it [here](https://www.lansingstatejournal.com/story/news/local/2023/08/25/lansing-power-outages-bwl-consumers-tornado-thunderstorms/70677647007/).
 
 ## Requirements
 - Python 3.8
