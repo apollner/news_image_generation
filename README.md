@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid rise in COVID hospitalizations, health experts reveal new details about updated boosters**
+**Power outage map: Michigan, Ohio at center of US outages**
 
-You can read more about it [here](https://www.youtube.com/watch?v=d6tFQDzKdPs).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/25/power-outage-map-michigan-ohio/70676777007/).
 
 ## Requirements
 - Python 3.8
