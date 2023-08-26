@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. agrees to train Ukraine’s F-16 pilots in Arizona**
+**Dune fans bemused by Warner Bros' decision to delay Part 2**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/08/24/ukraine-f-16-training-arizona/).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/dune-part-2-movie-delay-b2399278.html).
 
 ## Requirements
 - Python 3.8
