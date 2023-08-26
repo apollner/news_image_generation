@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heineken Sells Russia Business…for $1 - WSJ**
+**Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable**
 
-You can read more about it [here](https://www.wsj.com/business/deals/heineken-sells-russia-businessfor-1-313c7976).
+You can read more about it [here](https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/).
 
 ## Requirements
 - Python 3.8
