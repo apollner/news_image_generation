@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Taylor trade rumors: What Colts backfield could look like if team deals disgruntled star RB**
+**Futures: Stakes Rise For Powell Speech After Ugly Market Reversal**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-what-colts-backfield-could-look-like-if-team-deals-disgruntled-star-rb/).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-speech-ugly-market-reversal/).
 
 ## Requirements
 - Python 3.8
