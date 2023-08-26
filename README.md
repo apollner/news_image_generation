@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui residents say development company took advantage of fire**
+**'I will not resign,' says defiant Spanish soccer boss Luis Rubiales following week of fierce criticism for unwanted kiss on star player**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/maui-fire-kaleo-manuel-water-official-removed-unfairly-rcna100974).
+You can read more about it [here](https://www.cnn.com/2023/08/25/football/luis-rubiales-defiant-speech-spain-world-cup-kiss-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
