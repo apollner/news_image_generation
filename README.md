@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In new interview, Giannis Antetokounmpo says he wants to see championship-level commitment from Bucks before re-signing**
+**Dune fans bemused by Warner Bros' decision to delay Part 2**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/nba/bucks/2023/08/24/giannis-antetokounmpo-wants-nba-championship-commitment-from-bucks/70674343007/).
+You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/dune-part-2-movie-delay-b2399278.html).
 
 ## Requirements
 - Python 3.8
