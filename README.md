@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Groundbreaking AI implants help stroke victim 'talk' for first time in nearly two decades**
+**Ukraine latest: Pro-Kyiv Russians urge Wagner to 'take revenge'**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/groundbreaking-ai-implants-help-stroke-victim-talk-first-time-nearly-two-decades).
+You can read more about it [here](https://asia.nikkei.com/Politics/Ukraine-war/Ukraine-war-Free-to-read/Ukraine-latest-Pro-Kyiv-Russians-urge-Wagner-to-take-revenge).
 
 ## Requirements
 - Python 3.8
