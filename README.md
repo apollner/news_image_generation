@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia says Ukraine fired missile towards Moscow, hit Crimea with drones**
+**Bond Traders Obsessing Over R* Gauge Before Jackson Hole**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-says-destroys-42-ukraine-launched-drones-over-crimea-2023-08-25/).
+You can read more about it [here](https://www.youtube.com/watch?v=gGEV2YkI1BI).
 
 ## Requirements
 - Python 3.8
