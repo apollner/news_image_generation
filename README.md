@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-7 launch scrubbed**
+**Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean**
 
-You can read more about it [here](https://www.wesh.com/article/spacex-crew-7-launch-scrubbed/44909297).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/).
 
 ## Requirements
 - Python 3.8
