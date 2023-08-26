@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warner Bros delays 'Dune' sequel, 'Lord of the Rings' movie**
+**Bray Wyatt, WWE Superstar, Dies at 36**
 
-You can read more about it [here](https://www.reuters.com/business/media-telecom/warner-bros-delays-dune-sequel-lord-rings-movie-2023-08-24/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/bray-wyatt-dead-wwe-superstar-1235574598/).
 
 ## Requirements
 - Python 3.8
