@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Power outage map: Michigan, Ohio at center of US outages**
+**Some Iowa voters shift favorites after GOP debate, while Ramaswamy stokes a divide**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/25/power-outage-map-michigan-ohio/70676777007/).
+You can read more about it [here](https://www.cnn.com/2023/08/25/politics/haley-ramaswamy-gop-debate-iowa-voters/index.html).
 
 ## Requirements
 - Python 3.8
