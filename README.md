@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dune fans bemused by Warner Bros' decision to delay Part 2**
+**Fed Chair Powell At Jackson Hole: The Real Risk For Stocks**
 
-You can read more about it [here](https://www.independent.co.uk/arts-entertainment/films/news/dune-part-2-movie-delay-b2399278.html).
+You can read more about it [here](https://www.investors.com/news/federal-reserve-chair-powell-at-jackson-hole-heres-the-real-risk-for-the-sp-500/).
 
 ## Requirements
 - Python 3.8
