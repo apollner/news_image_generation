@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Tells Members It’s OK To Promote Their Movies With Interim Agreements At Film Festivals**
+**Warner Bros delays 'Dune' sequel, 'Lord of the Rings' movie**
 
-You can read more about it [here](https://deadline.com/2023/08/sag-aftra-interim-agreements-festivals-1235527733/).
+You can read more about it [here](https://www.reuters.com/business/media-telecom/warner-bros-delays-dune-sequel-lord-rings-movie-2023-08-24/).
 
 ## Requirements
 - Python 3.8
