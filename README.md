@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Next Full Moon is a Supermoon and a Blue Moon – NASA Solar System Exploration**
+**Jonathan Taylor trade rumors: What Colts backfield could look like if team deals disgruntled star RB**
 
-You can read more about it [here](https://solarsystem.nasa.gov/news/2367/the-next-full-moon-is-a-supermoon-and-a-blue-moon/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-what-colts-backfield-could-look-like-if-team-deals-disgruntled-star-rb/).
 
 ## Requirements
 - Python 3.8
