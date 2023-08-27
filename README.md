@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain's soccer federation stands by its chief amid uproar over kiss**
+**August ends with rings of Saturn and a super blue moon hovering over NYC**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/spain-soccer-federation-luis-rubiales-jenni-hermoso-kiss-rcna101940).
+You can read more about it [here](https://gothamist.com/news/august-ends-with-rings-of-saturn-and-a-super-blue-moon-hovering-over-nyc).
 
 ## Requirements
 - Python 3.8
