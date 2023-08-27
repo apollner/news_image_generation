@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See stunning footage captured by India’s Chandrayaan-3 lunar lander**
+**Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US**
 
-You can read more about it [here](https://www.cnn.com/2023/08/25/world/india-chandrayaan-3-lander-rover-images-scn/index.html).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/texas-trial-biden-policy-letting-migrants-4-countries-102558605).
 
 ## Requirements
 - Python 3.8
