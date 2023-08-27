@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-7 launch successful Saturday morning**
+**F1 Dutch GP: Verstappen leads red flag-filled, wet final practice**
 
-You can read more about it [here](https://www.wesh.com/article/spacex-crew-7-watch/44915376).
+You can read more about it [here](https://www.motorsport.com/f1/news/f1-dutch-gp-verstappen-leads-red-flag-filled-wet-final-practice/10511711/).
 
 ## Requirements
 - Python 3.8
