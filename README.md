@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US**
+**Talks Between Writers, Studios at a Standstill After Week of Trading Barbs**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/texas-trial-biden-policy-letting-migrants-4-countries-102558605).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/writers-studios-standstill-1235575169/).
 
 ## Requirements
 - Python 3.8
