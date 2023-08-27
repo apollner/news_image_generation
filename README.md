@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN**
+**New crew for the space station launches with 4 astronauts from 4 countries**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/new-crew-space-station-launches-4-astronauts-4-102583145).
 
 ## Requirements
 - Python 3.8
