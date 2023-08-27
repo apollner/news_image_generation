@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean**
+**Fox News debate host defends playing 'Rich Men North of Richmond' amid singer's criticism of GOP candidates**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/).
+You can read more about it [here](https://www.politico.com/news/2023/08/25/singer-gop-debate-00113095).
 
 ## Requirements
 - Python 3.8
