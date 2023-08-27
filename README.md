@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Talks Between Writers, Studios at a Standstill After Week of Trading Barbs**
+**Higher chance Florida-bound tropical system will form, hurricane center says**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/writers-studios-standstill-1235575169/).
+You can read more about it [here](http://www.orlandosentinel.com/2023/08/25/florida-could-be-in-sights-of-tropical-system-brewing-hurricane-center-says/).
 
 ## Requirements
 - Python 3.8
