@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flu shot recommendations from the CDC: 'Vaccination should continue throughout the season'**
+**Thousands converge on National Mall to mark the March on Washington's 60th anniversary**
 
-You can read more about it [here](https://www.foxnews.com/health/flu-shot-recommendations-cdc-vaccination-continue-throughout-season).
+You can read more about it [here](https://apnews.com/article/march-on-washington-mlk-dream-speech-anniversary-washington-7639b60f26948fe614978dc6a763cc84).
 
 ## Requirements
 - Python 3.8
