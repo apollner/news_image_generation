@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India’s lunar rover goes down a ramp to the moon’s surface and takes a walk**
+**Ukraine will speed up advance on southern front - commander**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/26/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.html).
+You can read more about it [here](https://www.jpost.com/international/internationalrussia-ukraine-war/article-756276).
 
 ## Requirements
 - Python 3.8
