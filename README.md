@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawmakers, civil rights groups join together recreate iconic March on Washington: recap**
+**Stormy Daniels in disbelief over Trump weight: 'I'm 110lbs and a virgin'**
 
-You can read more about it [here](https://thehill.com/homenews/race-politics/4172298-civil-rights-groups-recreate-march-on-washington-60-years-later-live-updates/).
+You can read more about it [here](https://nypost.com/2023/08/26/stormy-daniels-in-disbelief-over-trump-weight-im-110lbs-and-a-virgin/).
 
 ## Requirements
 - Python 3.8
