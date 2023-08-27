@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Blind Side' Producers Release Statement on Earnings, Baltimore Ravens' Michael Oher Claims**
+**India’s lunar rover goes down a ramp to the moon’s surface and takes a walk**
 
-You can read more about it [here](https://www.si.com/nfl/ravens/news/baltimore-ravens-blind-side-producers-respond-michael-oher-lawsuit).
+You can read more about it [here](https://www.cnbc.com/2023/08/26/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.html).
 
 ## Requirements
 - Python 3.8
