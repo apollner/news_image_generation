@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**School districts cancelled in-person classes due to COVID-19 increase**
+**Exclusive: Tiger Global says ex-employee targets it in misinformation attacks**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/25/covid-19-school-districs-have-suspended-in-person-learning/70675048007/).
+You can read more about it [here](https://www.reuters.com/business/finance/tiger-global-letter-says-ex-employee-targets-it-misinformation-attacks-2023-08-25/).
 
 ## Requirements
 - Python 3.8
