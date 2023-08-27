@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine will speed up advance on southern front - commander**
+**Trey Lance traded from 49ers to Cowboys: Grading the deal from both sides**
 
-You can read more about it [here](https://www.jpost.com/international/internationalrussia-ukraine-war/article-756276).
+You can read more about it [here](https://theathletic.com/4806889/2023/08/25/trey-lance-trade-49ers-cowboys/).
 
 ## Requirements
 - Python 3.8
