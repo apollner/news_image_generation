@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New crew for the space station launches with 4 astronauts from 4 countries**
+**Bare electrical wire and poles in need of replacement on Maui were little match for strong winds**
 
-You can read more about it [here](https://abcnews.go.com/Technology/wireStory/new-crew-space-station-launches-4-astronauts-4-102583145).
+You can read more about it [here](https://news.yahoo.com/bare-electrical-wire-poles-replacement-120410504.html).
 
 ## Requirements
 - Python 3.8
