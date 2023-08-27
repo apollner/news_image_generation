@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands converge on National Mall to mark the March on Washington's 60th anniversary**
+**Spain's soccer federation stands by its chief amid uproar over kiss**
 
-You can read more about it [here](https://apnews.com/article/march-on-washington-mlk-dream-speech-anniversary-washington-7639b60f26948fe614978dc6a763cc84).
+You can read more about it [here](https://www.nbcnews.com/news/world/spain-soccer-federation-luis-rubiales-jenni-hermoso-kiss-rcna101940).
 
 ## Requirements
 - Python 3.8
