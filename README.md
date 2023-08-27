@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA 🇺🇸 vs New Zealand 🇳🇿 | J9 Highlights | FIBA Basketball World Cup 2023 - FIBA**
+**Silicon Valley elites revealed as buyers of $800m of land to build utopian city**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bQNNElK-Q_M).
+You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city).
 
 ## Requirements
 - Python 3.8
