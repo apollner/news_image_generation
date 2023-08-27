@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean**
+**See stunning footage captured by India’s Chandrayaan-3 lunar lander**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/).
+You can read more about it [here](https://www.cnn.com/2023/08/25/world/india-chandrayaan-3-lander-rover-images-scn/index.html).
 
 ## Requirements
 - Python 3.8
