@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fox News debate host defends playing 'Rich Men North of Richmond' amid singer's criticism of GOP candidates**
+**'Tough Mudder' obstacle course tied to serious bacterial infections**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/25/singer-gop-debate-00113095).
+You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/tough-mudder-obstacle-course-tied-to-serious-bacterial-infections).
 
 ## Requirements
 - Python 3.8
