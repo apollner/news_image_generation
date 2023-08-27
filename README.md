@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches truly international astronaut team on Crew-7 flight to space station for NASA (video)**
+**Vivek Ramaswamy Wants to Rewrite the Constitution**
 
-You can read more about it [here](https://www.space.com/spacex-nasa-crew-7-launch-international-space-station).
+You can read more about it [here](https://www.thedailybeast.com/vivek-ramaswamy-wants-to-rewrite-the-constitution).
 
 ## Requirements
 - Python 3.8
