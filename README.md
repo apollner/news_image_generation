@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Tough Mudder' obstacle course tied to serious bacterial infections**
+**Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean**
 
-You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/tough-mudder-obstacle-course-tied-to-serious-bacterial-infections).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/).
 
 ## Requirements
 - Python 3.8
