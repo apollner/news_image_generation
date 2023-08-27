@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Noah Lyles wins sprint double; Sha'Carri Richardson gets bronze in 200**
+**Trump co-defendant remains in jail after telling judge he cannot afford private lawyer**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2023/08/25/noah-lyles-sprint-double-shacarri-richardson-bronze-200-world-championships/70681320007/).
+You can read more about it [here](https://www.reuters.com/legal/trump-co-defendant-smith-appear-atlanta-court-election-charges-2023-08-25/).
 
 ## Requirements
 - Python 3.8
