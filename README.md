@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California judge shoots down Eastman bid to postpone disbarment proceedings**
+**Man accused of holding kidnapped woman in Oregon garage tried to escape from jail cell, authorities say**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/25/john-eastman-disbarment-hearings-georgia-00113101).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/man-accused-holding-kidnapped-woman-garage-tried-escape-jail-cell-auth-rcna101928).
 
 ## Requirements
 - Python 3.8
