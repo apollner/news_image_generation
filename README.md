@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bare electrical wire and poles in need of replacement on Maui were little match for strong winds**
+**Ukrainian pilot who led push for F-16s dies in training exercise**
 
-You can read more about it [here](https://news.yahoo.com/bare-electrical-wire-poles-replacement-120410504.html).
+You can read more about it [here](https://www.ft.com/content/36f8a478-f29b-4d5a-8c4a-64add04897fd).
 
 ## Requirements
 - Python 3.8
