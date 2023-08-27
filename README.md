@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Underdog Fantasy Plays for Patriots vs Titans, Chargers vs 49ers Include Elijah Dotson, More**
+**Noah Lyles wins sprint double; Sha'Carri Richardson gets bronze in 200**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-underdog-fantasy-plays-for-patriots-vs-titans-chargers-vs-49ers-include-sam-darnold-trey-lance).
+You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2023/08/25/noah-lyles-sprint-double-shacarri-richardson-bronze-200-world-championships/70681320007/).
 
 ## Requirements
 - Python 3.8
