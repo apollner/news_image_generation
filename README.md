@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Silicon Valley elites revealed as buyers of $800m of land to build utopian city**
+**Lawmakers, civil rights groups join together recreate iconic March on Washington: recap**
 
-You can read more about it [here](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city).
+You can read more about it [here](https://thehill.com/homenews/race-politics/4172298-civil-rights-groups-recreate-march-on-washington-60-years-later-live-updates/).
 
 ## Requirements
 - Python 3.8
