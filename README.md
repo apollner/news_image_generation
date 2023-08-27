@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Powell: higher rates may be needed, will move 'carefully'**
+**'Tough Mudder' obstacle course tied to serious bacterial infections**
 
-You can read more about it [here](https://www.reuters.com/markets/us/fed-registers-gains-powell-may-take-lay-low-approach-2023-08-25/).
+You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/tough-mudder-obstacle-course-tied-to-serious-bacterial-infections).
 
 ## Requirements
 - Python 3.8
