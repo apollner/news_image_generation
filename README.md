@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trey Lance traded from 49ers to Cowboys: Grading the deal from both sides**
+**College football schedule, games 2023: What to watch in Week 0, TV channels, Saturday kickoff times**
 
-You can read more about it [here](https://theathletic.com/4806889/2023/08/25/trey-lance-trade-49ers-cowboys/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-schedule-games-2023-what-to-watch-in-week-0-tv-channels-saturday-kickoff-times/).
 
 ## Requirements
 - Python 3.8
