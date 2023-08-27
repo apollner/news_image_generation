@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F1 Dutch GP: Verstappen leads red flag-filled, wet final practice**
+**How a small-town feud in Kansas sent a shock through American journalism**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/f1-dutch-gp-verstappen-leads-red-flag-filled-wet-final-practice/10511711/).
+You can read more about it [here](https://www.washingtonpost.com/media/2023/08/26/marion-county-newspaper-police-raid-what-really-happened/).
 
 ## Requirements
 - Python 3.8
