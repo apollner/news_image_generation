@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man accused of holding kidnapped woman in Oregon garage tried to escape from jail cell, authorities say**
+**‘Vanderpump Rules’ Stars & Other Reality TV Participants Can Break NDAs To Reveal “Unlawful Acts,” Bravo Says, As Potential Lawsuits Loom**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/man-accused-holding-kidnapped-woman-garage-tried-escape-jail-cell-auth-rcna101928).
+You can read more about it [here](https://deadline.com/2023/08/vanderpump-rules-reality-tv-nda-lawsuit-bravo-1235528642/).
 
 ## Requirements
 - Python 3.8
