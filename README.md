@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vivek Ramaswamy Wants to Rewrite the Constitution**
+**SpaceX Crew-7 launch successful Saturday morning**
 
-You can read more about it [here](https://www.thedailybeast.com/vivek-ramaswamy-wants-to-rewrite-the-constitution).
+You can read more about it [here](https://www.wesh.com/article/spacex-crew-7-watch/44915376).
 
 ## Requirements
 - Python 3.8
