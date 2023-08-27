@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian pilot who led push for F-16s dies in training exercise**
+**Flu shot recommendations from the CDC: 'Vaccination should continue throughout the season'**
 
-You can read more about it [here](https://www.ft.com/content/36f8a478-f29b-4d5a-8c4a-64add04897fd).
+You can read more about it [here](https://www.foxnews.com/health/flu-shot-recommendations-cdc-vaccination-continue-throughout-season).
 
 ## Requirements
 - Python 3.8
