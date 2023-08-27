@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vivek Ramaswamy Wants to Rewrite the Constitution**
+**Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN**
 
-You can read more about it [here](https://www.thedailybeast.com/vivek-ramaswamy-wants-to-rewrite-the-constitution).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout).
 
 ## Requirements
 - Python 3.8
