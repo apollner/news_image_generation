@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The science behind the Fukushima waste water release**
+**California judge shoots down Eastman bid to postpone disbarment proceedings**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-66610977).
+You can read more about it [here](https://www.politico.com/news/2023/08/25/john-eastman-disbarment-hearings-georgia-00113101).
 
 ## Requirements
 - Python 3.8
