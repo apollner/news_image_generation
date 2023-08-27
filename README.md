@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a small-town feud in Kansas sent a shock through American journalism**
+**Vivek Ramaswamy Wants to Rewrite the Constitution**
 
-You can read more about it [here](https://www.washingtonpost.com/media/2023/08/26/marion-county-newspaper-police-raid-what-really-happened/).
+You can read more about it [here](https://www.thedailybeast.com/vivek-ramaswamy-wants-to-rewrite-the-constitution).
 
 ## Requirements
 - Python 3.8
