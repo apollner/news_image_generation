@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Vanderpump Rules’ Stars & Other Reality TV Participants Can Break NDAs To Reveal “Unlawful Acts,” Bravo Says, As Potential Lawsuits Loom**
+**Green: All Maui evacuees at shelters have been moved to hotels, vacation rentals**
 
-You can read more about it [here](https://deadline.com/2023/08/vanderpump-rules-reality-tv-nda-lawsuit-bravo-1235528642/).
+You can read more about it [here](https://www.hawaiinewsnow.com/2023/08/25/governor-all-maui-evacuees-shelters-have-been-moved-hotels-vacation-rentals/).
 
 ## Requirements
 - Python 3.8
