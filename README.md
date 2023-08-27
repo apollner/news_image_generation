@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**School districts cancelled in-person classes due to COVID-19 increase**
+**NFL Underdog Fantasy Plays for Patriots vs Titans, Chargers vs 49ers Include Elijah Dotson, More**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/25/covid-19-school-districs-have-suspended-in-person-learning/70675048007/).
+You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-underdog-fantasy-plays-for-patriots-vs-titans-chargers-vs-49ers-include-sam-darnold-trey-lance).
 
 ## Requirements
 - Python 3.8
