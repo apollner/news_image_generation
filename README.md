@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump co-defendant remains in jail after telling judge he cannot afford private lawyer**
+**The science behind the Fukushima waste water release**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-co-defendant-smith-appear-atlanta-court-election-charges-2023-08-25/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-66610977).
 
 ## Requirements
 - Python 3.8
