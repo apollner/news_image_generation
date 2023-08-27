@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Green: All Maui evacuees at shelters have been moved to hotels, vacation rentals**
+**'Blind Side' Producers Release Statement on Earnings, Baltimore Ravens' Michael Oher Claims**
 
-You can read more about it [here](https://www.hawaiinewsnow.com/2023/08/25/governor-all-maui-evacuees-shelters-have-been-moved-hotels-vacation-rentals/).
+You can read more about it [here](https://www.si.com/nfl/ravens/news/baltimore-ravens-blind-side-producers-respond-michael-oher-lawsuit).
 
 ## Requirements
 - Python 3.8
