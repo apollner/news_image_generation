@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Higher chance Florida-bound tropical system will form, hurricane center says**
+**School districts cancelled in-person classes due to COVID-19 increase**
 
-You can read more about it [here](http://www.orlandosentinel.com/2023/08/25/florida-could-be-in-sights-of-tropical-system-brewing-hurricane-center-says/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/08/25/covid-19-school-districs-have-suspended-in-person-learning/70675048007/).
 
 ## Requirements
 - Python 3.8
