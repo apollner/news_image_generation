@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekly Horoscopes for the Week of August 28 by the Cut**
+**Aaron Rodgers: Jets debut a "special moment," will be "electric" in Week 1**
 
-You can read more about it [here](http://www.thecut.com/2023/08/weekly-horoscopes-for-the-week-of-august-28-by-the-cut.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-jets-debut-a-special-moment-will-be-electric-in-week-1).
 
 ## Requirements
 - Python 3.8
