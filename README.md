@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona State football to self-impose bowl ban for 2023 amid ongoing NCAA investigation**
+**Derek Hough and Hayley Erbert get married: See their wedding photos**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/arizona-state-football-expected-to-self-impose-bowl-ban-for-2023-amid-ongoing-ncaa-investigation-per-report/).
+You can read more about it [here](https://ew.com/celebrity/derek-hough-hayley-erbert-get-married-wedding-photos/).
 
 ## Requirements
 - Python 3.8
