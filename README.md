@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stormy Daniels in disbelief over Trump weight: 'I'm 110lbs and a virgin'**
+**7 injured in shooting at Boston Caribbean carnival celebration**
 
-You can read more about it [here](https://nypost.com/2023/08/26/stormy-daniels-in-disbelief-over-trump-weight-im-110lbs-and-a-virgin/).
+You can read more about it [here](https://abcnews.go.com/US/7-injured-shooting-boston-caribbean-carnival-celebration/story?id=102586419).
 
 ## Requirements
 - Python 3.8
