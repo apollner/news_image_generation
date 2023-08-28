@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OFFICIAL GRID: Who starts where in Zandvoort as Magnussen demoted to pit lane**
+**Aaron Rodgers: Jets debut a "special moment," will be "electric" in Week 1**
 
-You can read more about it [here](https://www.formula1.com/en/latest/article.official-grid-who-starts-where-in-zandvoort-as-magnussen-demoted-to-pit-lane.32GKxHlr0XcPnE7XaiEXd1.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-jets-debut-a-special-moment-will-be-electric-in-week-1).
 
 ## Requirements
 - Python 3.8
