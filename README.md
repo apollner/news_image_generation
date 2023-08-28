@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia confirms death of Prigozhin, war czar who turned on Putin: Live Ukraine updates**
+**Weekly Horoscopes for the Week of August 28 by the Cut**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/08/27/ukraine-russia-war-live-updates/70694504007/).
+You can read more about it [here](http://www.thecut.com/2023/08/weekly-horoscopes-for-the-week-of-august-28-by-the-cut.html).
 
 ## Requirements
 - Python 3.8
