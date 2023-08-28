@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian pilot ‘Juice’ among three killed in jet collision, says Volodymyr Zelenskiy**
+**Daewood Davis injury ends Dolphins vs. Jaguars preseason game early**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/27/ukrainian-pilot-juice-among-three-killed-in-jet-collision-says-volodymyr-zelenskiy).
+You can read more about it [here](https://www.thephinsider.com/miami-dolphins-injuries/2023/8/26/23847565/miami-dolphins-injury-update-daewood-davis-jacksonville-jaguars-preseason-week-3).
 
 ## Requirements
 - Python 3.8
