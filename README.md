@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zimbabwe's President Mnangagwa reelected after tense contest**
+**USC vs. San Jose State score, takeaways: Caleb Williams helps Trojans overcome shaky start in season opener**
 
-You can read more about it [here](https://www.cnn.com/2023/08/26/africa/zimbabwe-emmerson-mnangagwa-reelected-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/usc-vs-san-jose-state-score-takeaways-caleb-williams-helps-trojans-overcome-shaky-start-in-season-opener/live/).
 
 ## Requirements
 - Python 3.8
