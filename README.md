@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds join largest Loch Ness monster hunt in 50 years in Scotland**
+**Jets Rookie Recap | Aaron Rodgers on Undrafted WR Xavier Gipson: 'He Took a Big Step Forward'**
 
-You can read more about it [here](https://www.reuters.com/world/uk/hundreds-join-largest-loch-ness-monster-hunt-50-years-scotland-2023-08-27/).
+You can read more about it [here](https://www.newyorkjets.com/news/jets-rookie-recap-aaron-rodgers-on-undrafted-wr-xavier-gipson-he-took-a-big-step).
 
 ## Requirements
 - Python 3.8
