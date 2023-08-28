@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daewood Davis injury ends Dolphins vs. Jaguars preseason game early**
+**'Dancing With the Stars' Judge Derek Hough Marries Hayley Erbert in Romantic Redwoods Ceremony**
 
-You can read more about it [here](https://www.thephinsider.com/miami-dolphins-injuries/2023/8/26/23847565/miami-dolphins-injury-update-daewood-davis-jacksonville-jaguars-preseason-week-3).
+You can read more about it [here](https://www.etonline.com/dancing-with-the-stars-judge-derek-hough-marries-hayley-erbert-in-romantic-redwoods-ceremony-194132).
 
 ## Requirements
 - Python 3.8
