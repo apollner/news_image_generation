@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are We Watching the End of Russia's Space Ambitions?**
+**China's Industrial Profits Drop Persists as Economy Weakens**
 
-You can read more about it [here](https://www.thedailybeast.com/are-we-watching-the-end-of-russias-roscosmos-space-ambitions).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-27/china-s-industrial-profits-drop-persists-as-economy-weakens).
 
 ## Requirements
 - Python 3.8
