@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Falcon 9 launches 22 Starlink satellites from Cape Canaveral – Spaceflight Now**
+**Taylor Swift Will Forevermore Be Dancing to ‘Bestie’ Selena Gomez’s ‘Single Soon’**
 
-You can read more about it [here](https://spaceflightnow.com/2023/08/26/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-cape-canaveral/).
+You can read more about it [here](https://www.billboard.com/music/music-news/taylor-swift-selena-gomez-single-soon-1235401606/).
 
 ## Requirements
 - Python 3.8
