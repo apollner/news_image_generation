@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers: Jets debut a "special moment," will be "electric" in Week 1**
+**Tropical Depression Ten to strengthen to Tropical Storm Idalia Sunday with path eyeing Florida as a hurricane**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-jets-debut-a-special-moment-will-be-electric-in-week-1).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-threat-florida).
 
 ## Requirements
 - Python 3.8
