@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup win kiss**
+**20-year-old USC student killed after trying to enter wrong home in Columbia**
 
-You can read more about it [here](https://ktla.com/sports/ap-sports/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/).
+You can read more about it [here](https://www.wspa.com/news/local-news/20-year-old-usc-student-killed-after-trying-to-enter-wrong-home-in-columbia/).
 
 ## Requirements
 - Python 3.8
