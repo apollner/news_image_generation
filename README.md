@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers caps brief New York Jets preseason debut with touchdown pass**
+**Shohei Ohtani injury: Updates from Ben Verlander**
 
-You can read more about it [here](https://www.theguardian.com/sport/2023/aug/26/aaron-rodgers-preseason-new-york-jets-debut).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtani-injury-updates-from-ben-verlander).
 
 ## Requirements
 - Python 3.8
