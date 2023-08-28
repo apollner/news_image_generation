@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 'Fidelity Mafia' Behind Big Crypto - WSJ**
+**Aaron Rodgers caps brief New York Jets preseason debut with touchdown pass**
 
-You can read more about it [here](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e).
+You can read more about it [here](https://www.theguardian.com/sport/2023/aug/26/aaron-rodgers-preseason-new-york-jets-debut).
 
 ## Requirements
 - Python 3.8
