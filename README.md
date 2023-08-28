@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why you sweat, and why that's a good thing**
+**Russia’s Kursk Airbase suffers major losses in successful attack by Security Service of Ukraine**
 
-You can read more about it [here](https://www.cbsnews.com/news/the-science-of-sweat-record-breaking-heatwaves/).
+You can read more about it [here](https://news.yahoo.com/russia-kursk-airbase-suffers-major-165100378.html).
 
 ## Requirements
 - Python 3.8
