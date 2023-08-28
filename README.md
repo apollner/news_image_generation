@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani injury: Updates from Ben Verlander**
+**23 US Marines injured as Osprey aircraft crashes during military exercise in Australia**
 
-You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtani-injury-updates-from-ben-verlander).
+You can read more about it [here](https://www.cnn.com/2023/08/27/asia/aircraft-incident-us-defense-personnel-australia-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
