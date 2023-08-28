@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**20-year-old USC student killed after trying to enter wrong home in Columbia**
+**7 injured in shooting at Boston Caribbean carnival celebration**
 
-You can read more about it [here](https://www.wspa.com/news/local-news/20-year-old-usc-student-killed-after-trying-to-enter-wrong-home-in-columbia/).
+You can read more about it [here](https://abcnews.go.com/US/7-injured-shooting-boston-caribbean-carnival-celebration/story?id=102586419).
 
 ## Requirements
 - Python 3.8
