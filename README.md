@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Soulframe - Official Gameplay Spotlight Trailer**
+**Why you sweat, and why that's a good thing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ZNtIakNofOE).
+You can read more about it [here](https://www.cbsnews.com/news/the-science-of-sweat-record-breaking-heatwaves/).
 
 ## Requirements
 - Python 3.8
