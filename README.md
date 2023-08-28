@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 injured in shooting at Boston Caribbean carnival celebration**
+**State of Emergency issued in 33 counties ahead of Tropical Depression 10**
 
-You can read more about it [here](https://abcnews.go.com/US/7-injured-shooting-boston-caribbean-carnival-celebration/story?id=102586419).
+You can read more about it [here](https://www.wesh.com/article/florida-state-emergency-33-counties-invest-93l/44917319).
 
 ## Requirements
 - Python 3.8
