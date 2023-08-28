@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPad Pro Overhaul Reportedly to Include OLED Display, Revamped Magic Keyboard**
+**Arizona State football to self-impose bowl ban for 2023 amid ongoing NCAA investigation**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/ipad-pro-overhaul-reportedly-to-include-oled-display-revamped-magic-keyboard/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/arizona-state-football-expected-to-self-impose-bowl-ban-for-2023-amid-ongoing-ncaa-investigation-per-report/).
 
 ## Requirements
 - Python 3.8
