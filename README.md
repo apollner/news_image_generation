@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Will Forevermore Be Dancing to ‘Bestie’ Selena Gomez’s ‘Single Soon’**
+**Are We Watching the End of Russia's Space Ambitions?**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/taylor-swift-selena-gomez-single-soon-1235401606/).
+You can read more about it [here](https://www.thedailybeast.com/are-we-watching-the-end-of-russias-roscosmos-space-ambitions).
 
 ## Requirements
 - Python 3.8
