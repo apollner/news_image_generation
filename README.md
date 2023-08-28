@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timing of Complete Revascularization with Multivessel PCI for Myocardial Infarction | NEJM**
+**Soulframe - Official Gameplay Spotlight Trailer**
 
-You can read more about it [here](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2307823).
+You can read more about it [here](https://www.youtube.com/watch?v=ZNtIakNofOE).
 
 ## Requirements
 - Python 3.8
