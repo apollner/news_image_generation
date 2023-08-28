@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USC vs. San Jose State score, takeaways: Caleb Williams helps Trojans overcome shaky start in season opener**
+**Ukrainian pilot ‘Juice’ among three killed in jet collision, says Volodymyr Zelenskiy**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/usc-vs-san-jose-state-score-takeaways-caleb-williams-helps-trojans-overcome-shaky-start-in-season-opener/live/).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/27/ukrainian-pilot-juice-among-three-killed-in-jet-collision-says-volodymyr-zelenskiy).
 
 ## Requirements
 - Python 3.8
