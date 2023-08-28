@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s Kursk Airbase suffers major losses in successful attack by Security Service of Ukraine**
+**iPad Pro Overhaul Reportedly to Include OLED Display, Revamped Magic Keyboard**
 
-You can read more about it [here](https://news.yahoo.com/russia-kursk-airbase-suffers-major-165100378.html).
+You can read more about it [here](https://www.cnet.com/tech/mobile/ipad-pro-overhaul-reportedly-to-include-oled-display-revamped-magic-keyboard/).
 
 ## Requirements
 - Python 3.8
