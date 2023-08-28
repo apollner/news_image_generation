@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian pilot 'Juice' among three killed in jet collision, says Volodymyr Zelenskiy**
+**Honoring the legacy of game show host and activist Bob Barker**
 
-You can read more about it [here](https://www.theguardian.com/world/2023/aug/27/ukrainian-pilot-juice-among-three-killed-in-jet-collision-says-volodymyr-zelenskiy).
+You can read more about it [here](https://www.cnn.com/2023/08/26/us/iyw-bob-barker-legacy-article/index.html).
 
 ## Requirements
 - Python 3.8
