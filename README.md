@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Depression Ten to strengthen to Tropical Storm Idalia Sunday with path eyeing Florida as a hurricane**
+**The 'Fidelity Mafia' Behind Big Crypto - WSJ**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-threat-florida).
+You can read more about it [here](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e).
 
 ## Requirements
 - Python 3.8
