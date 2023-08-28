@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers: Jets debut a "special moment," will be "electric" in Week 1**
+**Timing of Complete Revascularization with Multivessel PCI for Myocardial Infarction | NEJM**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-jets-debut-a-special-moment-will-be-electric-in-week-1).
+You can read more about it [here](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2307823).
 
 ## Requirements
 - Python 3.8
