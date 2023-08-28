@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Depression Ten to strengthen to Tropical Storm Idalia Sunday with path eyeing Florida as a hurricane**
+**Trump campaign raises $7.1m following historic Georgia mugshot**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-threat-florida).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66632882).
 
 ## Requirements
 - Python 3.8
