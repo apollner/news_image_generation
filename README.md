@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Industrial Profits Drop Persists as Economy Weakens**
+**Ukrainian pilot 'Juice' among three killed in jet collision, says Volodymyr Zelenskiy**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-27/china-s-industrial-profits-drop-persists-as-economy-weakens).
+You can read more about it [here](https://www.theguardian.com/world/2023/aug/27/ukrainian-pilot-juice-among-three-killed-in-jet-collision-says-volodymyr-zelenskiy).
 
 ## Requirements
 - Python 3.8
