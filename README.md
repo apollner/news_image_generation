@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 injured in shooting at Boston Caribbean carnival celebration**
+**FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup win kiss**
 
-You can read more about it [here](https://abcnews.go.com/US/7-injured-shooting-boston-caribbean-carnival-celebration/story?id=102586419).
+You can read more about it [here](https://ktla.com/sports/ap-sports/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/).
 
 ## Requirements
 - Python 3.8
