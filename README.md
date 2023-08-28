@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Crew-7 mission launched four astronauts to the ISS**
+**Hundreds join largest Loch Ness monster hunt in 50 years in Scotland**
 
-You can read more about it [here](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts).
+You can read more about it [here](https://www.reuters.com/world/uk/hundreds-join-largest-loch-ness-monster-hunt-50-years-scotland-2023-08-27/).
 
 ## Requirements
 - Python 3.8
