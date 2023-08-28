@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**23 US Marines injured as Osprey aircraft crashes during military exercise in Australia**
+**Tropical Depression Ten to strengthen to Tropical Storm Idalia Sunday with path eyeing Florida as a hurricane**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/asia/aircraft-incident-us-defense-personnel-australia-intl-hnk/index.html).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-threat-florida).
 
 ## Requirements
 - Python 3.8
