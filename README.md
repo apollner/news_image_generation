@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'DWTS' judge Derek Hough marries partner Hayley Erbert in fairytale redwood forest wedding**
+**OFFICIAL GRID: Who starts where in Zandvoort as Magnussen demoted to pit lane**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/27/derek-hough-hayley-erbert-married/70616101007/).
+You can read more about it [here](https://www.formula1.com/en/latest/article.official-grid-who-starts-where-in-zandvoort-as-magnussen-demoted-to-pit-lane.32GKxHlr0XcPnE7XaiEXd1.html).
 
 ## Requirements
 - Python 3.8
