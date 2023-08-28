@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing With the Stars' Judge Derek Hough Marries Hayley Erbert in Romantic Redwoods Ceremony**
+**Shohei Ohtani injury: Updates from Ben Verlander**
 
-You can read more about it [here](https://www.etonline.com/dancing-with-the-stars-judge-derek-hough-marries-hayley-erbert-in-romantic-redwoods-ceremony-194132).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtani-injury-updates-from-ben-verlander).
 
 ## Requirements
 - Python 3.8
