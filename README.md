@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Derek Hough and Hayley Erbert get married: See their wedding photos**
+**NASA's Crew-7 mission launched four astronauts to the ISS**
 
-You can read more about it [here](https://ew.com/celebrity/derek-hough-hayley-erbert-get-married-wedding-photos/).
+You can read more about it [here](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts).
 
 ## Requirements
 - Python 3.8
