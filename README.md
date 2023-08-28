@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets Rookie Recap | Aaron Rodgers on Undrafted WR Xavier Gipson: 'He Took a Big Step Forward'**
+**Citing rising COVID cases, these US hospital systems have now reinstated mask mandates**
 
-You can read more about it [here](https://www.newyorkjets.com/news/jets-rookie-recap-aaron-rodgers-on-undrafted-wr-xavier-gipson-he-took-a-big-step).
+You can read more about it [here](https://www.foxnews.com/health/covid-cases-these-us-hospital-systems-reinstated-mask-mandates).
 
 ## Requirements
 - Python 3.8
