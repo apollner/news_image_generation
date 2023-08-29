@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia shares rally as China measures boost market**
+**Simone Biles Speaks at Post-Xfinity U.S. Gymnastics Championships Press Conference**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-28/).
+You can read more about it [here](https://www.youtube.com/watch?v=hiu1l_YgyMI).
 
 ## Requirements
 - Python 3.8
