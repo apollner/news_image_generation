@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Meadows Heads to Court in Early Test for District Attorney Fani Willis**
+**Apple reportedly planning major iPad Pro upgrade**
 
-You can read more about it [here](https://www.wsj.com/us-news/law/mark-meadows-heads-to-court-in-early-test-for-district-attorney-fani-willis-aa42a7f7).
+You can read more about it [here](https://www.cnbc.com/2023/08/28/apple-ipad-pro-major-upgrade-reportedly-coming-next-year.html).
 
 ## Requirements
 - Python 3.8
