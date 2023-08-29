@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who was Dmitry Utkin, a key Wagner mercenary who died alongside Prigozhin?**
+**49ers 53-man roster projection: Nick Bosa insurance and 3 quarterbacks**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/28/who-was-dmitry-utkin-a-key-wagner-mercenary-who-died-alongside-prigozhin).
+You can read more about it [here](https://www.ninersnation.com/2023/8/28/23848380/trey-lance-brandon-allen-nick-bosa-49ers-roster).
 
 ## Requirements
 - Python 3.8
