@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Every flight is a learning event': why the V-22 Osprey aircraft won't be grounded despite dozens of crashes and 54 fatalities**
+**First test in Georgia v. Trump: Can prosecutors keep home-court advantage?**
 
-You can read more about it [here](https://theconversation.com/every-flight-is-a-learning-event-why-the-v-22-osprey-aircraft-wont-be-grounded-despite-dozens-of-crashes-and-54-fatalities-212358).
+You can read more about it [here](https://www.politico.com/news/2023/08/28/georgia-trump-removal-hearing-federal-court-00113149).
 
 ## Requirements
 - Python 3.8
