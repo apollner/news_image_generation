@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Hi Mum’: Stolen at birth, man reunited with Chilean mother after 42 years**
+**Flights to and from UK impacted by air traffic 'technical issue'**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/28/hi-mom-stolen-at-birth-man-reunited-with-chilean-mother-after-42-years).
+You can read more about it [here](https://www.reuters.com/world/uk/uk-air-traffic-control-experiencing-technical-issue-2023-08-28/).
 
 ## Requirements
 - Python 3.8
