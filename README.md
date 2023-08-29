@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citing rising COVID cases, these US hospital systems have now reinstated mask mandates**
+**North Korea allowing citizens abroad to return home for first time since 2020, state media says**
 
-You can read more about it [here](https://www.foxnews.com/health/covid-cases-these-us-hospital-systems-reinstated-mask-mandates).
+You can read more about it [here](https://www.foxnews.com/world/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says).
 
 ## Requirements
 - Python 3.8
