@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA vs. Greece live stream: TV channel, how to watch online, time, prediction, pick for 2023 FIBA World Cup**
+**Mark Meadows Heads to Court in Early Test for District Attorney Fani Willis**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/usa-vs-greece-live-stream-tv-channel-how-to-watch-online-time-prediction-pick-for-2023-fiba-world-cup/).
+You can read more about it [here](https://www.wsj.com/us-news/law/mark-meadows-heads-to-court-in-early-test-for-district-attorney-fani-willis-aa42a7f7).
 
 ## Requirements
 - Python 3.8
