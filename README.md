@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan suspends H-IIA rocket launch for moonshot because of strong winds**
+**'Sister Wives' star Kody Brown calls Christine Brown 'Machiavellian'**
 
-You can read more about it [here](https://www.reuters.com/technology/space/japan-space-agency-suspends-launch-attempt-rocket-carrying-moon-lander-2023-08-28/).
+You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-calls-christine-brown-machiavellian-2023-8).
 
 ## Requirements
 - Python 3.8
