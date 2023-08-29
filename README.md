@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protests erupt in Libya over contact with Israel**
+**Don't Miss: Super Blue Moon**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66636651).
+You can read more about it [here](https://scitechdaily.com/dont-miss-super-blue-moon/).
 
 ## Requirements
 - Python 3.8
