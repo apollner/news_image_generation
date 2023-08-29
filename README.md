@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Hannah Montana' actor Mitchel Musso arrested on charges of public intoxication, theft**
+**The fifth season of Love Island USA has crowned its champions**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/27/mitchel-musso-arrest-public-intoxication-hannah-montana/70696668007/).
+You can read more about it [here](https://www.avclub.com/love-island-season-5-winners-1850779315).
 
 ## Requirements
 - Python 3.8
