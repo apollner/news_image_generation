@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump raised $7.1 million since he was booked at Atlanta jail**
+**C.J. Stroud throws first preseason touchdown, calls it a night**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-raised-71-million-since-he-was-booked-thursday-an-atlanta-jail-2023-08-27/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-throws-first-preseason-touchdown-calls-it-a-night).
 
 ## Requirements
 - Python 3.8
