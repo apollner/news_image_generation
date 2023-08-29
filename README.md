@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google announces new $1.7 billion investment in Ohio**
+**Peter Navarro, facing trial for contempt of Congress, says Trump invoked executive privilege**
 
-You can read more about it [here](https://www.dispatch.com/story/business/economy/2023/08/28/google-to-announce-new-ohio-investment-on-monday/70680474007/).
+You can read more about it [here](https://www.politico.com/news/2023/08/28/navarro-contempt-hearing-testimony-00113231).
 
 ## Requirements
 - Python 3.8
