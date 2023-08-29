@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California's Louis Lappe launches walk-off HR to win LLBWS - ESPN**
+**Trump raised $7.1 million since he was booked at Atlanta jail**
 
-You can read more about it [here](https://www.espn.com/espn/story/_/id/38272957/california-louis-lappe-launches-walk-hr-win-llws).
+You can read more about it [here](https://www.reuters.com/world/us/trump-raised-71-million-since-he-was-booked-thursday-an-atlanta-jail-2023-08-27/).
 
 ## Requirements
 - Python 3.8
