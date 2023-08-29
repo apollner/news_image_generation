@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Idalia could threaten the Gulf Coast and Florida this week**
+**California's Louis Lappe launches walk-off HR to win LLBWS - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/08/27/weather/tropical-depression-storm-gulf-climate-sunday/index.html).
+You can read more about it [here](https://www.espn.com/espn/story/_/id/38272957/california-louis-lappe-launches-walk-hr-win-llws).
 
 ## Requirements
 - Python 3.8
