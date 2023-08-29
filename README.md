@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump LIVE : US judge to set trial date for Trump over efforts to overturn 2020 election**
+**Covid-19 has changed, and so has our immunity. Here’s how to think about risk from the virus now**
 
-You can read more about it [here](https://www.youtube.com/watch?v=YiEYU285bhQ).
+You can read more about it [here](https://www.cnn.com/2023/08/28/health/risk-from-catching-covid-wellness/index.html).
 
 ## Requirements
 - Python 3.8
