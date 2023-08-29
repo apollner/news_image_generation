@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What time is the Super Blue Moon of 2023?**
+**UNC Chapel Hill Safety Alert**
 
-You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-what-time).
+You can read more about it [here](https://www.youtube.com/watch?v=FJHEixTlASw).
 
 ## Requirements
 - Python 3.8
