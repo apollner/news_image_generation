@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid-19 has changed, and so has our immunity. Here’s how to think about risk from the virus now**
+**USA vs. Greece live stream: TV channel, how to watch online, time, prediction, pick for 2023 FIBA World Cup**
 
-You can read more about it [here](https://www.cnn.com/2023/08/28/health/risk-from-catching-covid-wellness/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/usa-vs-greece-live-stream-tv-channel-how-to-watch-online-time-prediction-pick-for-2023-fiba-world-cup/).
 
 ## Requirements
 - Python 3.8
