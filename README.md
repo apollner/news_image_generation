@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Hannah Montana' star Mitchel Musso arrested in Texas**
+**Dolby Atmos will use your TV to expand living room speaker setups**
 
-You can read more about it [here](https://www.mysanantonio.com/news/local/article/mitchel-musso-arrested-texas-18333933.php).
+You can read more about it [here](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html).
 
 ## Requirements
 - Python 3.8
