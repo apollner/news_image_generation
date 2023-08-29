@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The fifth season of Love Island USA has crowned its champions**
+**Live: Ukraine has 'liberated' Robotyne village in Zaporizhzhia region, says official**
 
-You can read more about it [here](https://www.avclub.com/love-island-season-5-winners-1850779315).
+You can read more about it [here](https://www.france24.com/en/europe/20230828-%F0%9F%94%B4-live-symbol-of-hope-ukraine-s-best-high-jumper-wins-gold-for-her-country).
 
 ## Requirements
 - Python 3.8
