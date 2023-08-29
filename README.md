@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolby Atmos will use your TV to expand living room speaker setups**
+**Box Office Battle: ‘Barbie’ and ‘Gran Turismo’ Feud Over Who Won the Weekend**
 
-You can read more about it [here](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html).
+You can read more about it [here](https://variety.com/2023/film/news/box-office-battle-barbie-gran-turismo-feud-over-first-place-finish-1235706049/).
 
 ## Requirements
 - Python 3.8
