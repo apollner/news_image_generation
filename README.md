@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peter Navarro, facing trial for contempt of Congress, says Trump invoked executive privilege**
+**Earthquake of magnitude 7.0 strikes Bali Sea, Indonesia –EMSC**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/28/navarro-contempt-hearing-testimony-00113231).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/earthquake-magnitude-71-strikes-bali-sea-indonesia-emsc-2023-08-28/).
 
 ## Requirements
 - Python 3.8
