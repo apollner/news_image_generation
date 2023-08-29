@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan suspends H-IIA rocket launch for moonshot because of strong winds**
+**‘Hi Mum’: Stolen at birth, man reunited with Chilean mother after 42 years**
 
-You can read more about it [here](https://www.reuters.com/technology/space/japan-space-agency-suspends-launch-attempt-rocket-carrying-moon-lander-2023-08-28/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/28/hi-mom-stolen-at-birth-man-reunited-with-chilean-mother-after-42-years).
 
 ## Requirements
 - Python 3.8
