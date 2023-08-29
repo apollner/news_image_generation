@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis cancels SC campaign travel, returns to Florida facing tropical storm and shooting aftermath**
+**C.J. Stroud throws first preseason touchdown, calls it a night**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/desantis-leaves-campaign-trail-returns-florida-facing-tropical-102606201).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-throws-first-preseason-touchdown-calls-it-a-night).
 
 ## Requirements
 - Python 3.8
