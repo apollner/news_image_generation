@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flights to and from UK impacted by air traffic 'technical issue'**
+**'Every flight is a learning event': why the V-22 Osprey aircraft won't be grounded despite dozens of crashes and 54 fatalities**
 
-You can read more about it [here](https://www.reuters.com/world/uk/uk-air-traffic-control-experiencing-technical-issue-2023-08-28/).
+You can read more about it [here](https://theconversation.com/every-flight-is-a-learning-event-why-the-v-22-osprey-aircraft-wont-be-grounded-despite-dozens-of-crashes-and-54-fatalities-212358).
 
 ## Requirements
 - Python 3.8
