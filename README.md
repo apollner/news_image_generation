@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Simone Biles Speaks at Post-Xfinity U.S. Gymnastics Championships Press Conference**
+**'Hannah Montana' actor Mitchel Musso arrested on charges of public intoxication, theft**
 
-You can read more about it [here](https://www.youtube.com/watch?v=hiu1l_YgyMI).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/08/27/mitchel-musso-arrest-public-intoxication-hannah-montana/70696668007/).
 
 ## Requirements
 - Python 3.8
