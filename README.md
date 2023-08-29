@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**60th anniversary of the March on Washington | USA TODAY**
+**Google announces new $1.7 billion investment in Ohio**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-Ko08-q8tQE).
+You can read more about it [here](https://www.dispatch.com/story/business/economy/2023/08/28/google-to-announce-new-ohio-investment-on-monday/70680474007/).
 
 ## Requirements
 - Python 3.8
