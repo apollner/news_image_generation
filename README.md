@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BRICS Invites Saudi, UAE, Egypt; Lira (TRY/USD) Outlook, Dubai Real Estate Boom**
+**'Hannah Montana' star Mitchel Musso arrested in Texas**
 
-You can read more about it [here](https://www.bloomberg.com/news/newsletters/2023-08-28/brics-invites-saudi-uae-egypt-lira-try-usd-outlook-dubai-real-estate-boom).
+You can read more about it [here](https://www.mysanantonio.com/news/local/article/mitchel-musso-arrested-texas-18333933.php).
 
 ## Requirements
 - Python 3.8
