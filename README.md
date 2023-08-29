@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea allowing citizens abroad to return home for first time since 2020, state media says**
+**Victim Of Deadly Choctaw Football Game Shooting Identified**
 
-You can read more about it [here](https://www.foxnews.com/world/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says).
+You can read more about it [here](https://www.news9.com/story/64e97193013e920501c6810f/victim-of-deadly-choctaw-football-game-shooting-identified-).
 
 ## Requirements
 - Python 3.8
