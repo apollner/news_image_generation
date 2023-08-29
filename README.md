@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reportedly planning major iPad Pro upgrade**
+**Who was Dmitry Utkin, a key Wagner mercenary who died alongside Prigozhin?**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/28/apple-ipad-pro-major-upgrade-reportedly-coming-next-year.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/28/who-was-dmitry-utkin-a-key-wagner-mercenary-who-died-alongside-prigozhin).
 
 ## Requirements
 - Python 3.8
