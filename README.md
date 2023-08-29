@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hazy skies in the New Orleans metropolitan area caused by wildfires in western Louisiana**
+**Protests erupt in Libya over contact with Israel**
 
-You can read more about it [here](https://www.wdsu.com/article/hazy-skies-in-the-new-orleans-metropolitan-area-caused-by-wildfires-in-western-louisiana-sunday/44919540).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66636651).
 
 ## Requirements
 - Python 3.8
