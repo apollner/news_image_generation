@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Sister Wives' star Kody Brown calls Christine Brown 'Machiavellian'**
+**Hazy skies in the New Orleans metropolitan area caused by wildfires in western Louisiana**
 
-You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-calls-christine-brown-machiavellian-2023-8).
+You can read more about it [here](https://www.wdsu.com/article/hazy-skies-in-the-new-orleans-metropolitan-area-caused-by-wildfires-in-western-louisiana-sunday/44919540).
 
 ## Requirements
 - Python 3.8
