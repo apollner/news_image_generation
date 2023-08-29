@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live: Ukraine has 'liberated' Robotyne village in Zaporizhzhia region, says official**
+**Japan suspends H-IIA rocket launch for moonshot because of strong winds**
 
-You can read more about it [here](https://www.france24.com/en/europe/20230828-%F0%9F%94%B4-live-symbol-of-hope-ukraine-s-best-high-jumper-wins-gold-for-her-country).
+You can read more about it [here](https://www.reuters.com/technology/space/japan-space-agency-suspends-launch-attempt-rocket-carrying-moon-lander-2023-08-28/).
 
 ## Requirements
 - Python 3.8
