@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**C.J. Stroud throws first preseason touchdown, calls it a night**
+**Asia shares rally as China measures boost market**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-throws-first-preseason-touchdown-calls-it-a-night).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-28/).
 
 ## Requirements
 - Python 3.8
