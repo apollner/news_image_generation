@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earthquake of magnitude 7.0 strikes Bali Sea, Indonesia –EMSC**
+**Idalia is expected to make landfall in Florida as a Category 3 hurricane with dangerous rain, winds and storm surge**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/earthquake-magnitude-71-strikes-bali-sea-indonesia-emsc-2023-08-28/).
+You can read more about it [here](https://www.cnn.com/2023/08/28/weather/tropical-storm-idalia-florida-monday/index.html).
 
 ## Requirements
 - Python 3.8
