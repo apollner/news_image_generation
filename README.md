@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don't Miss: Super Blue Moon**
+**Japan suspends H-IIA rocket launch for moonshot because of strong winds**
 
-You can read more about it [here](https://scitechdaily.com/dont-miss-super-blue-moon/).
+You can read more about it [here](https://www.reuters.com/technology/space/japan-space-agency-suspends-launch-attempt-rocket-carrying-moon-lander-2023-08-28/).
 
 ## Requirements
 - Python 3.8
