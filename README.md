@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office Battle: ‘Barbie’ and ‘Gran Turismo’ Feud Over Who Won the Weekend**
+**What time is the Super Blue Moon of 2023?**
 
-You can read more about it [here](https://variety.com/2023/film/news/box-office-battle-barbie-gran-turismo-feud-over-first-place-finish-1235706049/).
+You can read more about it [here](https://www.space.com/super-blue-moon-august-2023-what-time).
 
 ## Requirements
 - Python 3.8
