@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida fire rescue helicopter crashes into apartment complex, 2 dead**
+**60th anniversary of the March on Washington | USA TODAY**
 
-You can read more about it [here](https://abcnews.go.com/US/fire-rescue-helicopter-crashes-florida-2-hospitalized/story?id=102617239).
+You can read more about it [here](https://www.youtube.com/watch?v=-Ko08-q8tQE).
 
 ## Requirements
 - Python 3.8
