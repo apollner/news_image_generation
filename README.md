@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First test in Georgia v. Trump: Can prosecutors keep home-court advantage?**
+**Donald Trump LIVE : US judge to set trial date for Trump over efforts to overturn 2020 election**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/28/georgia-trump-removal-hearing-federal-court-00113149).
+You can read more about it [here](https://www.youtube.com/watch?v=YiEYU285bhQ).
 
 ## Requirements
 - Python 3.8
