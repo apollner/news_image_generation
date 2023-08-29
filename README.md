@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers 53-man roster projection: Nick Bosa insurance and 3 quarterbacks**
+**BRICS Invites Saudi, UAE, Egypt; Lira (TRY/USD) Outlook, Dubai Real Estate Boom**
 
-You can read more about it [here](https://www.ninersnation.com/2023/8/28/23848380/trey-lance-brandon-allen-nick-bosa-49ers-roster).
+You can read more about it [here](https://www.bloomberg.com/news/newsletters/2023-08-28/brics-invites-saudi-uae-egypt-lira-try-usd-outlook-dubai-real-estate-boom).
 
 ## Requirements
 - Python 3.8
