@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victim Of Deadly Choctaw Football Game Shooting Identified**
+**Tropical Storm Idalia could threaten the Gulf Coast and Florida this week**
 
-You can read more about it [here](https://www.news9.com/story/64e97193013e920501c6810f/victim-of-deadly-choctaw-football-game-shooting-identified-).
+You can read more about it [here](https://www.cnn.com/2023/08/27/weather/tropical-depression-storm-gulf-climate-sunday/index.html).
 
 ## Requirements
 - Python 3.8
