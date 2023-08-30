@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK flight disruption will take 'days' to fix after technical glitch causes travel chaos**
+**Pope Francis again draws criticism with remarks on Russia as Ukraine war rages**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/29/uk-flight-disruption-will-take-days-to-fix-after-technical-glitch.html).
+You can read more about it [here](https://www.cbsnews.com/news/pope-francis-russia-ukraine-war-russian-imperial-heritage-youth-remarks/).
 
 ## Requirements
 - Python 3.8
