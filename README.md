@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNC-Chapel Hill faculty member killed in shooting, sparking campus lockdown**
+**Fatal stabbing on 14th Street in NW DC stemmed from argument over sweet and sour sauce: prosecutors**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/28/unc-shooting-faculty-member-killed/).
+You can read more about it [here](https://www.nbcwashington.com/news/local/fatal-stabbing-on-14th-street-in-northwest-dc-stemmed-from-argument-over-sweet-and-sour-sauce-prosecutors-say/3412503/).
 
 ## Requirements
 - Python 3.8
