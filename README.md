@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Jessica Simpson Left Hollywood With Her Family and Moved to Nashville for the Summer**
+**California sues schools over parent notification policy concerning gender**
 
-You can read more about it [here](https://www.eonline.com/news/1384290/why-jessica-simpson-left-hollywood-with-her-family-and-moved-to-nashville-for-the-summer).
+You can read more about it [here](https://www.usatoday.com/story/news/education/2023/08/28/california-sues-chino-valley-unified-school-district/70704573007/).
 
 ## Requirements
 - Python 3.8
