@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon CEO says ‘it’s probably not going work out’ for employees who defy return-to-office policy**
+**California sues school district over transgender 'outing' policy**
 
-You can read more about it [here](https://www.seattletimes.com/business/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/).
+You can read more about it [here](https://abcnews.go.com/US/california-sues-school-district-transgender-outing-policy/story?id=102645156).
 
 ## Requirements
 - Python 3.8
