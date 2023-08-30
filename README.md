@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's iPhone 15 Event Page Goes Live, Features Animation Instead of AR Easter Egg**
+**More than 60 people arrested at a gay wedding in southern Nigeria**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/29/apple-iphone-15-event-page/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/29/more-than-60-people-arrested-at-a-gay-wedding-in-southern-nigeria).
 
 ## Requirements
 - Python 3.8
