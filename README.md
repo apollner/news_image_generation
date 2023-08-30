@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police raid suspected gay wedding in Nigeria and arrest more than 200 people**
+**'Killers of the Flower Moon' Posters: Leonardo DiCaprio Confronts the Truth**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/africa/nigeria-gay-marriage-raid-intl-afr/index.html).
+You can read more about it [here](https://collider.com/killers-of-the-flower-moon-posters/).
 
 ## Requirements
 - Python 3.8
