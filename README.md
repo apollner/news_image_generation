@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida receives more than 1,600 complaints after potentially contaminated fuel sold as Idalia looms**
+**UNC-Chapel Hill faculty member killed in shooting, sparking campus lockdown**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IRWISgpypLw).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/28/unc-shooting-faculty-member-killed/).
 
 ## Requirements
 - Python 3.8
