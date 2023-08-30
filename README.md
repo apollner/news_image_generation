@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed as Wall Street comes off winning day: Live updates**
+**Why Jessica Simpson Left Hollywood With Her Family and Moved to Nashville for the Summer**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/28/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.eonline.com/news/1384290/why-jessica-simpson-left-hollywood-with-her-family-and-moved-to-nashville-for-the-summer).
 
 ## Requirements
 - Python 3.8
