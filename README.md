@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hot Chips 2023: Intel Details More on Granite Rapids and Sierra Forest Xeons**
+**Ozempic users say weight loss 'wonder drug' curbs cravings for booze, cigarettes, gambling**
 
-You can read more about it [here](https://www.anandtech.com/show/20034/hot-chips-2023-intel-details-granite-rapids-and-sierra-forest-xeons).
+You can read more about it [here](https://nypost.com/2023/08/28/ozempic-could-cure-cravings-for-alcohol-nicotine-and-drugs/).
 
 ## Requirements
 - Python 3.8
