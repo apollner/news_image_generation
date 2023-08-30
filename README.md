@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Parasitic Worm Found In Australian Woman's Brain In World-First Discovery**
+**University of North Carolina faculty member is killed in campus shooting, and a suspect is in custody, school says**
 
-You can read more about it [here](https://www.ndtv.com/science/live-parasitic-worm-found-in-australian-womans-brain-in-world-first-discovery-4338020).
+You can read more about it [here](https://www.cnn.com/2023/08/28/us/university-of-north-carolina-shooting/index.html).
 
 ## Requirements
 - Python 3.8
