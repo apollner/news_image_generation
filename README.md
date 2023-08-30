@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Majority Leader Steve Scalise announces blood cancer diagnosis, currently undergoing treatment**
+**Patriots are trading Nick Folk to Titans for 2025 seventh-round pick**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/politics/steve-scalise-blood-cancer/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-trading-nick-folk-to-titans-for-2025-seventh-round-pick).
 
 ## Requirements
 - Python 3.8
