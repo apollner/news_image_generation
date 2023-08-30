@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis again draws criticism with remarks on Russia as Ukraine war rages**
+**Doctoral student arrested on murder charge in fatal shooting of UNC faculty member, source says**
 
-You can read more about it [here](https://www.cbsnews.com/news/pope-francis-russia-ukraine-war-russian-imperial-heritage-youth-remarks/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOC8yOS91cy91bmMtY2hhcGVsLWhpbGwtY2FtcHVzLXNob290aW5nLXR1ZXNkYXkvaW5kZXguaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
