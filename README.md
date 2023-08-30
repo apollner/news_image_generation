@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brooks Koepka among Zach Johnson's picks for U.S. Ryder Cup team - ESPN**
+**Bills LB Von Miller to begin 2023 NFL season on PUP, out at least four games**
 
-You can read more about it [here](https://www.espn.com/golf/story/_/id/38282894/brooks-koepka-zach-johnson-picks-us-ryder-cup-team).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9iaWxscy1sYi12b24tbWlsbGVyLXRvLWJlZ2luLTIwMjMtbmZsLXNlYXNvbi1vbi1wdXAtb3V0LWF0LWxlYXN0LWZvdXItZ2FtZXPSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
