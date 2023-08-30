@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doctoral student arrested on murder charge in fatal shooting of UNC faculty member, source says**
+**More than 60 people arrested at a gay wedding in southern Nigeria**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/us/unc-chapel-hill-campus-shooting-tuesday/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/8/29/more-than-60-people-arrested-at-a-gay-wedding-in-southern-nigeria).
 
 ## Requirements
 - Python 3.8
