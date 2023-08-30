@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doctoral student arrested on murder charge in fatal shooting of UNC faculty member, source says**
+**Biden administration unveils first 10 drugs subject to Medicare price negotiations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOC8yOS91cy91bmMtY2hhcGVsLWhpbGwtY2FtcHVzLXNob290aW5nLXR1ZXNkYXkvaW5kZXguaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDgvMjkvMTAtZHJ1Z3MtdG8tZmFjZS1tZWRpY2FyZS1wcmljZS1uZWdvdGlhdGlvbnMtc2VlLXRoZS1saXN0Lmh0bWzSAWJodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wOC8yOS8xMC1kcnVncy10by1mYWNlLW1lZGljYXJlLXByaWNlLW5lZ290aWF0aW9ucy1zZWUtdGhlLWxpc3QuaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
