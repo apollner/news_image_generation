@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Majority Leader Steve Scalise diagnosed with blood cancer**
+**Brooks Koepka among Zach Johnson's picks for U.S. Ryder Cup team - ESPN**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOC8yOS8xMTk2NTU1NDAxL3NjYWxpc2UtYmxvb2QtY2FuY2Vy0gEA?oc=5).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/38282894/brooks-koepka-zach-johnson-picks-us-ryder-cup-team).
 
 ## Requirements
 - Python 3.8
