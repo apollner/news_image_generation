@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fatal stabbing on 14th Street in NW DC stemmed from argument over sweet and sour sauce: prosecutors**
+**Browns acquire kicker Dustin Hopkins from Chargers: Why both teams made the trade**
 
-You can read more about it [here](https://www.nbcwashington.com/news/local/fatal-stabbing-on-14th-street-in-northwest-dc-stemmed-from-argument-over-sweet-and-sour-sauce-prosecutors-say/3412503/).
+You can read more about it [here](https://theathletic.com/4813005/2023/08/28/dustin-hopkins-trade-chargers-browns/).
 
 ## Requirements
 - Python 3.8
