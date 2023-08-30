@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP salivates at the biggest campaign finance win since Citizens United**
+**UK flight disruption will take 'days' to fix after technical glitch causes travel chaos**
 
-You can read more about it [here](https://www.politico.com/news/2023/08/29/gop-campaign-finance-citizens-united-00113235).
+You can read more about it [here](https://www.cnbc.com/2023/08/29/uk-flight-disruption-will-take-days-to-fix-after-technical-glitch.html).
 
 ## Requirements
 - Python 3.8
