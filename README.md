@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Browns acquire kicker Dustin Hopkins from Chargers: Why both teams made the trade**
+**'Claim to Fame' Winner Gabriel Cannon Shares Brother Nick's Reaction to Being on the Show (Exclusive)**
 
-You can read more about it [here](https://theathletic.com/4813005/2023/08/28/dustin-hopkins-trade-chargers-browns/).
+You can read more about it [here](https://www.etonline.com/interview-claim-to-fame-winner-gabriel-cannon-shares-brother-nicks-reaction-to-being-on-the-show-exclusive).
 
 ## Requirements
 - Python 3.8
