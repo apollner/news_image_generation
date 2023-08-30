@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozempic users say weight loss 'wonder drug' curbs cravings for booze, cigarettes, gambling**
+**Pope Francis blasts "backwards" U.S. conservatives, "reactionary attitude" in U.S. church**
 
-You can read more about it [here](https://nypost.com/2023/08/28/ozempic-could-cure-cravings-for-alcohol-nicotine-and-drugs/).
+You can read more about it [here](https://www.cbsnews.com/news/pope-francis-criticizes-us-conservatives-church/).
 
 ## Requirements
 - Python 3.8
