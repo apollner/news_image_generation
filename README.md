@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNC-Chapel Hill faculty member killed in shooting, sparking campus lockdown**
+**Stock Market Today: Dow, S&P Live Updates for August 29**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/08/28/unc-shooting-faculty-member-killed/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-08-28/stock-market-today-dow-s-p-live-updates).
 
 ## Requirements
 - Python 3.8
