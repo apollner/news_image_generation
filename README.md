@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Idalia is expected to make landfall in Florida as a Category 3 hurricane with dangerous rain, winds and storm surge**
+**Florida receives more than 1,600 complaints after potentially contaminated fuel sold as Idalia looms**
 
-You can read more about it [here](https://www.cnn.com/2023/08/28/weather/tropical-storm-idalia-florida-monday/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=IRWISgpypLw).
 
 ## Requirements
 - Python 3.8
