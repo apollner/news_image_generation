@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California sues schools over parent notification policy concerning gender**
+**GOP salivates at the biggest campaign finance win since Citizens United**
 
-You can read more about it [here](https://www.usatoday.com/story/news/education/2023/08/28/california-sues-chino-valley-unified-school-district/70704573007/).
+You can read more about it [here](https://www.politico.com/news/2023/08/29/gop-campaign-finance-citizens-united-00113235).
 
 ## Requirements
 - Python 3.8
