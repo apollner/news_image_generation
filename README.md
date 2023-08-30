@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills LB Von Miller to begin 2023 NFL season on PUP, out at least four games**
+**Doctoral student arrested on murder charge in fatal shooting of UNC faculty member, source says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9iaWxscy1sYi12b24tbWlsbGVyLXRvLWJlZ2luLTIwMjMtbmZsLXNlYXNvbi1vbi1wdXAtb3V0LWF0LWxlYXN0LWZvdXItZ2FtZXPSAQA?oc=5).
+You can read more about it [here](https://www.cnn.com/2023/08/29/us/unc-chapel-hill-campus-shooting-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
