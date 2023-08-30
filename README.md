@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Francis Suarez ends campaign for Republican presidential nomination**
+**Apple's iPhone 15 Event Page Goes Live, Features Animation Instead of AR Easter Egg**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/politics/francis-suarez-ends-president-campaign-republican/index.html).
+You can read more about it [here](https://www.macrumors.com/2023/08/29/apple-iphone-15-event-page/).
 
 ## Requirements
 - Python 3.8
