@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 60 people arrested at a gay wedding in southern Nigeria**
+**House Majority Leader Steve Scalise announces blood cancer diagnosis, currently undergoing treatment**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/29/more-than-60-people-arrested-at-a-gay-wedding-in-southern-nigeria).
+You can read more about it [here](https://www.cnn.com/2023/08/29/politics/steve-scalise-blood-cancer/index.html).
 
 ## Requirements
 - Python 3.8
