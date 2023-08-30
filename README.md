@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**University of North Carolina faculty member is killed in campus shooting, and a suspect is in custody, school says**
+**Judge sets trial date for Trump's election interference case**
 
-You can read more about it [here](https://www.cnn.com/2023/08/28/us/university-of-north-carolina-shooting/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/show/federal-judge-sets-march-trial-date-for-trumps-federal-election-interference-case).
 
 ## Requirements
 - Python 3.8
