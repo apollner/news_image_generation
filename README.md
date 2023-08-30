@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge sets trial date for Trump's election interference case**
+**Florida receives more than 1,600 complaints after potentially contaminated fuel sold as Idalia looms**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/federal-judge-sets-march-trial-date-for-trumps-federal-election-interference-case).
+You can read more about it [here](https://www.youtube.com/watch?v=IRWISgpypLw).
 
 ## Requirements
 - Python 3.8
