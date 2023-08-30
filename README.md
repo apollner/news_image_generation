@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFEF regional leaders request Luis Rubiales to resign as president after Jenni Hermoso kiss**
+**Stock futures are little changed as Wall Street comes off winning day: Live updates**
 
-You can read more about it [here](https://theathletic.com/4812462/2023/08/28/luis-rubiales-spain-fa-resign/).
+You can read more about it [here](https://www.cnbc.com/2023/08/28/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
