@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Claim to Fame' Winner Gabriel Cannon Shares Brother Nick's Reaction to Being on the Show (Exclusive)**
+**RFEF regional leaders request Luis Rubiales to resign as president after Jenni Hermoso kiss**
 
-You can read more about it [here](https://www.etonline.com/interview-claim-to-fame-winner-gabriel-cannon-shares-brother-nicks-reaction-to-being-on-the-show-exclusive).
+You can read more about it [here](https://theathletic.com/4812462/2023/08/28/luis-rubiales-spain-fa-resign/).
 
 ## Requirements
 - Python 3.8
