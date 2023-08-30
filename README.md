@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: Fireball in sky caught on police bodycam**
+**Francis Suarez ends campaign for Republican presidential nomination**
 
-You can read more about it [here](https://fox8.com/news/watch-fireball-in-sky-caught-on-police-bodycam/).
+You can read more about it [here](https://www.cnn.com/2023/08/29/politics/francis-suarez-ends-president-campaign-republican/index.html).
 
 ## Requirements
 - Python 3.8
