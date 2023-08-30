@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patriots are trading Nick Folk to Titans for 2025 seventh-round pick**
+**20 takeaways from 2023 NFL roster cuts: Bears, Patriots rolling dice at QB; Jonathan Taylor saga continues**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-trading-nick-folk-to-titans-for-2025-seventh-round-pick).
+You can read more about it [here](https://www.cbssports.com/nfl/news/20-takeaways-from-2023-nfl-roster-cuts-bears-patriots-rolling-dice-at-qb-jonathan-taylor-saga-continues/).
 
 ## Requirements
 - Python 3.8
