@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**20 takeaways from 2023 NFL roster cuts: Bears, Patriots rolling dice at QB; Jonathan Taylor saga continues**
+**Amazon CEO says ‘it’s probably not going work out’ for employees who defy return-to-office policy**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/20-takeaways-from-2023-nfl-roster-cuts-bears-patriots-rolling-dice-at-qb-jonathan-taylor-saga-continues/).
+You can read more about it [here](https://www.seattletimes.com/business/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/).
 
 ## Requirements
 - Python 3.8
