@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration unveils first 10 drugs subject to Medicare price negotiations**
+**House Majority Leader Steve Scalise diagnosed with blood cancer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDgvMjkvMTAtZHJ1Z3MtdG8tZmFjZS1tZWRpY2FyZS1wcmljZS1uZWdvdGlhdGlvbnMtc2VlLXRoZS1saXN0Lmh0bWzSAWJodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wOC8yOS8xMC1kcnVncy10by1mYWNlLW1lZGljYXJlLXByaWNlLW5lZ290aWF0aW9ucy1zZWUtdGhlLWxpc3QuaHRtbA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOC8yOS8xMTk2NTU1NDAxL3NjYWxpc2UtYmxvb2QtY2FuY2Vy0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
