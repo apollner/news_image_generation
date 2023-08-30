@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida receives more than 1,600 complaints after potentially contaminated fuel sold as Idalia looms**
+**Hot Chips 2023: Intel Details More on Granite Rapids and Sierra Forest Xeons**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IRWISgpypLw).
+You can read more about it [here](https://www.anandtech.com/show/20034/hot-chips-2023-intel-details-granite-rapids-and-sierra-forest-xeons).
 
 ## Requirements
 - Python 3.8
