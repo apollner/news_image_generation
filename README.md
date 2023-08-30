@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 60 people arrested at a gay wedding in southern Nigeria**
+**WATCH: Fireball in sky caught on police bodycam**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/8/29/more-than-60-people-arrested-at-a-gay-wedding-in-southern-nigeria).
+You can read more about it [here](https://fox8.com/news/watch-fireball-in-sky-caught-on-police-bodycam/).
 
 ## Requirements
 - Python 3.8
