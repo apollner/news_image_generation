@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California sues school district over transgender 'outing' policy**
+**Police raid suspected gay wedding in Nigeria and arrest more than 200 people**
 
-You can read more about it [here](https://abcnews.go.com/US/california-sues-school-district-transgender-outing-policy/story?id=102645156).
+You can read more about it [here](https://www.cnn.com/2023/08/29/africa/nigeria-gay-marriage-raid-intl-afr/index.html).
 
 ## Requirements
 - Python 3.8
