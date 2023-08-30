@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis blasts "backwards" U.S. conservatives, "reactionary attitude" in U.S. church**
+**Live Parasitic Worm Found In Australian Woman's Brain In World-First Discovery**
 
-You can read more about it [here](https://www.cbsnews.com/news/pope-francis-criticizes-us-conservatives-church/).
+You can read more about it [here](https://www.ndtv.com/science/live-parasitic-worm-found-in-australian-womans-brain-in-world-first-discovery-4338020).
 
 ## Requirements
 - Python 3.8
