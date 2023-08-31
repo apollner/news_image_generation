@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB waivers explained: How Angels’ salary dump could alter pennant race**
+**NFL cuts tracker 2023: Live roster updates for all 32 teams - ESPN**
 
-You can read more about it [here](https://theathletic.com/4817320/2023/08/29/mlb-waivers-explained-angels/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38259317/nfl-cuts-tracker-2023-live-roster-updates-all-32-teams).
 
 ## Requirements
 - Python 3.8
