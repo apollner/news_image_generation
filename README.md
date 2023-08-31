@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple expected to unveil new iPhone 15 at "Wonderlust" special event**
+**David Zaslav Says Mark Thompson Will Bring “Transformational Leadership” to CNN as His Hire Becomes Official**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/tech/new-iphone-15-apple-wonderlust/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/david-zaslav-mark-thompson-new-cnn-ceo-transformational-leadership-1235577924/).
 
 ## Requirements
 - Python 3.8
