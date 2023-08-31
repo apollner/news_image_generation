@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tribal ranger draws weapon on climate activists blocking road to Burning Man; conduct under review**
+**Apple will announce the iPhone 15 on September 12**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/tribal-ranger-draws-weapon-climate-activists-blocking-road-102660277).
+You can read more about it [here](https://techcrunch.com/2023/08/29/apple-will-announce-the-iphone-15-on-september-12/).
 
 ## Requirements
 - Python 3.8
