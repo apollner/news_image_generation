@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Ciely’s 2023 fantasy football rankings, tiers, positional ranks | Roster cuts update**
+**Stock futures slip after a third straight winning day on Wall Street: Live updates**
 
-You can read more about it [here](https://theathletic.com/4679960/2023/08/29/jake-cielys-2023-fantasy-football-rankings-tiers-positional-ranks/).
+You can read more about it [here](https://www.cnbc.com/2023/08/29/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
