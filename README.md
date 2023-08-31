@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fairphone 5 gets 8 years of updates for €699**
+**HHS calls for easing restrictions on marijuana, sending cannabis stocks higher**
 
-You can read more about it [here](https://9to5google.com/2023/08/30/fairphone-5-updates-specs-release-date/).
+You can read more about it [here](https://www.cnbc.com/2023/08/30/hhs-calls-for-easing-marijuana-restrictions.html).
 
 ## Requirements
 - Python 3.8
