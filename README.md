@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US financial regulators green lit new rules aimed at reducing the cost of bank failures**
+**Uganda charges man with 'aggravated homosexuality' punishable by death penalty under new law**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/business/bank-long-term-debt-rule/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/29/uganda-homosexuality-new-law-man-charged/70711129007/).
 
 ## Requirements
 - Python 3.8
