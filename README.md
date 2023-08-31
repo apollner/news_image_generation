@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India to launch mission to study the sun — just days after successful moon landing**
+**Colts could consider suspension for Jonathan Taylor, according to report**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/30/india-to-launch-mission-to-study-sun-days-after-chandrayaan-3-landing.html).
+You can read more about it [here](https://www.indystar.com/story/sports/nfl/colts/2023/08/29/colts-could-consider-suspension-for-jonathan-taylor-per-report/70707151007/).
 
 ## Requirements
 - Python 3.8
