@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabon coup: Military officers place president under house arrest**
+**Ukraine war: Wave of drone strikes hits several Russian regions**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66654125).
 
 ## Requirements
 - Python 3.8
