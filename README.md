@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
+**As Trump and Republicans target Georgia's Fani Willis for retribution, the state's governor opts out**
 
-You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
+You can read more about it [here](https://news.yahoo.com/trump-republicans-target-georgias-fani-040755203.html).
 
 ## Requirements
 - Python 3.8
