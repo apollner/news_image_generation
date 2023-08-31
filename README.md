@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Idalia turns deadly, pummeling Florida with record-breaking storm surge and catastrophic flooding. And more dangers loom**
+**Apple expected to unveil new iPhone 15 at "Wonderlust" special event**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/weather/florida-hurricane-idalia-wednesday/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/29/tech/new-iphone-15-apple-wonderlust/index.html).
 
 ## Requirements
 - Python 3.8
