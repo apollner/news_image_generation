@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo on iPhone 15: New Colors, Production Issues Resolved, and More**
+**Videos tell the story of how Hurricane Idalia is impacting Florida communities**
 
-You can read more about it [here](https://www.macrumors.com/2023/08/30/kuo-iphone-15-colors-and-more/).
+You can read more about it [here](https://www.news4jax.com/news/local/2023/08/30/videos-tell-the-story-of-how-hurricane-idalia-is-impacting-florida-communities/).
 
 ## Requirements
 - Python 3.8
