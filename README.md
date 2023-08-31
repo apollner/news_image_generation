@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple will announce the iPhone 15 on September 12**
+**US financial regulators green lit new rules aimed at reducing the cost of bank failures**
 
-You can read more about it [here](https://techcrunch.com/2023/08/29/apple-will-announce-the-iphone-15-on-september-12/).
+You can read more about it [here](https://www.cnn.com/2023/08/29/business/bank-long-term-debt-rule/index.html).
 
 ## Requirements
 - Python 3.8
