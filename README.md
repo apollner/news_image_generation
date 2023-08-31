@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US financial regulators green lit new rules aimed at reducing the cost of bank failures**
+**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
 
-You can read more about it [here](https://www.cnn.com/2023/08/29/business/bank-long-term-debt-rule/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
 
 ## Requirements
 - Python 3.8
