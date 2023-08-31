@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Erases Gains On Weak Jobs, GDP Data; Tesla Stock Slides On Sell Rating**
+**CNN hires Mark Thompson as new chief executive, replacing Chris Licht**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-adp-jobs-data-chip-stock-ambarella-crashes-on-earnings/).
+You can read more about it [here](https://www.washingtonpost.com/media/2023/08/30/mark-thompson-cnn-new-ceo/).
 
 ## Requirements
 - Python 3.8
