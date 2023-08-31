@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings 2023: Breakouts from advanced NFL model that nailed Dameon Pierce's huge season**
+**Kuo on iPhone 15: New Colors, Production Issues Resolved, and More**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2023-breakouts-from-advanced-nfl-model-that-nailed-dameon-pierces-huge-season/).
+You can read more about it [here](https://www.macrumors.com/2023/08/30/kuo-iphone-15-colors-and-more/).
 
 ## Requirements
 - Python 3.8
