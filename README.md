@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fruit and vegetable "prescriptions" linked to better health and less food insecurity, study finds**
+**Uganda charges man with 'aggravated homosexuality' punishable by death penalty under new law**
 
-You can read more about it [here](https://www.cbsnews.com/news/fruit-vegetable-prescriptions-heart-health-study/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/29/uganda-homosexuality-new-law-man-charged/70711129007/).
 
 ## Requirements
 - Python 3.8
