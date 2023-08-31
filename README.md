@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Videos tell the story of how Hurricane Idalia is impacting Florida communities**
+**Hurricane Idalia turns deadly, pummeling Florida with record-breaking storm surge and catastrophic flooding. And more dangers loom**
 
-You can read more about it [here](https://www.news4jax.com/news/local/2023/08/30/videos-tell-the-story-of-how-hurricane-idalia-is-impacting-florida-communities/).
+You can read more about it [here](https://www.cnn.com/2023/08/30/weather/florida-hurricane-idalia-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
