@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK parliament calls Taiwan ‘independent country’ as Cleverly visits China**
+**Massachusetts sees first two cases of deadly West Nile virus**
 
-You can read more about it [here](https://www.politico.eu/article/uk-parliament-calls-taiwan-independent-country-report-says-james-cleverly-visit-china/).
+You can read more about it [here](https://www.foxnews.com/health/massachusetts-sees-first-two-cases-deadly-west-nile-virus).
 
 ## Requirements
 - Python 3.8
