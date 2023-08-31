@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings 2023: Breakouts from advanced NFL model that nailed Dameon Pierce's huge season**
+**Fairphone 5 gets 8 years of updates for €699**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2023-breakouts-from-advanced-nfl-model-that-nailed-dameon-pierces-huge-season/).
+You can read more about it [here](https://9to5google.com/2023/08/30/fairphone-5-updates-specs-release-date/).
 
 ## Requirements
 - Python 3.8
