@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Trump and Republicans target Georgia's Fani Willis for retribution, the state's governor opts out**
+**Jake Ciely’s 2023 fantasy football rankings, tiers, positional ranks | Roster cuts update**
 
-You can read more about it [here](https://news.yahoo.com/trump-republicans-target-georgias-fani-040755203.html).
+You can read more about it [here](https://theathletic.com/4679960/2023/08/29/jake-cielys-2023-fantasy-football-rankings-tiers-positional-ranks/).
 
 ## Requirements
 - Python 3.8
