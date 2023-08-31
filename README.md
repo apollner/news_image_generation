@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HHS calls for easing restrictions on marijuana, sending cannabis stocks higher**
+**Rare Blue Supermoon to Rise In Wednesday Night Sky**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/30/hhs-calls-for-easing-marijuana-restrictions.html).
+You can read more about it [here](https://www.wsj.com/science/rare-blue-supermoon-to-rise-in-wednesday-night-sky-781a14d8).
 
 ## Requirements
 - Python 3.8
