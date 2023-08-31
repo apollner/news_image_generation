@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massachusetts sees first two cases of deadly West Nile virus**
+**See Selena Gomez's Sister Gracie Shave Brooklyn Beckham's Head**
 
-You can read more about it [here](https://www.foxnews.com/health/massachusetts-sees-first-two-cases-deadly-west-nile-virus).
+You can read more about it [here](https://www.eonline.com/news/1384395/see-selena-gomezs-sister-gracie-shave-brooklyn-beckhams-head).
 
 ## Requirements
 - Python 3.8
