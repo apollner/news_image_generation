@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Killers of the Flower Moon' Posters: Leonardo DiCaprio Confronts the Truth**
+**Tribal ranger draws weapon on climate activists blocking road to Burning Man; conduct under review**
 
-You can read more about it [here](https://collider.com/killers-of-the-flower-moon-posters/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/tribal-ranger-draws-weapon-climate-activists-blocking-road-102660277).
 
 ## Requirements
 - Python 3.8
