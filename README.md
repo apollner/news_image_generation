@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabon coup: Military officers place president under house arrest**
+**Eris COVID subvariant: What to know about the latest strain spreading across the U.S.**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html).
+You can read more about it [here](https://www.nj.com/coronavirus/2023/08/eris-covid-subvariant-what-to-know-about-the-latest-strain-spreading-across-the-us.html).
 
 ## Requirements
 - Python 3.8
