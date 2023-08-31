@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Zaslav Says Mark Thompson Will Bring “Transformational Leadership” to CNN as His Hire Becomes Official**
+**Fantasy Football Rankings 2023: Breakouts from advanced NFL model that nailed Dameon Pierce's huge season**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/david-zaslav-mark-thompson-new-cnn-ceo-transformational-leadership-1235577924/).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2023-breakouts-from-advanced-nfl-model-that-nailed-dameon-pierces-huge-season/).
 
 ## Requirements
 - Python 3.8
