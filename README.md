@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Wave of drone strikes hits several Russian regions**
+**Dow Jones Erases Gains On Weak Jobs, GDP Data; Tesla Stock Slides On Sell Rating**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66654125).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-adp-jobs-data-chip-stock-ambarella-crashes-on-earnings/).
 
 ## Requirements
 - Python 3.8
