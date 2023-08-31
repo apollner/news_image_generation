@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uganda charges man with 'aggravated homosexuality' punishable by death penalty under new law**
+**Monroe County sees small surge in COVID cases; doctors urge citizens to stay aware**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/08/29/uganda-homosexuality-new-law-man-charged/70711129007/).
+You can read more about it [here](https://13wham.com/news/local/monroe-county-sees-small-surge-in-covid-cases-doctors-urge-citizens-to-stay-aware).
 
 ## Requirements
 - Python 3.8
