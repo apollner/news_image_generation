@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabon military officers claim to have seized power after election**
+**As Trump and Republicans target Georgia's Fani Willis for retribution, the state's governor opts out**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html).
+You can read more about it [here](https://news.yahoo.com/trump-republicans-target-georgias-fani-040755203.html).
 
 ## Requirements
 - Python 3.8
