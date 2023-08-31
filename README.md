@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Monroe County sees small surge in COVID cases; doctors urge citizens to stay aware**
+**US financial regulators green lit new rules aimed at reducing the cost of bank failures**
 
-You can read more about it [here](https://13wham.com/news/local/monroe-county-sees-small-surge-in-covid-cases-doctors-urge-citizens-to-stay-aware).
+You can read more about it [here](https://www.cnn.com/2023/08/29/business/bank-long-term-debt-rule/index.html).
 
 ## Requirements
 - Python 3.8
