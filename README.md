@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Selena Gomez's Sister Gracie Shave Brooklyn Beckham's Head**
+**India to launch mission to study the sun — just days after successful moon landing**
 
-You can read more about it [here](https://www.eonline.com/news/1384395/see-selena-gomezs-sister-gracie-shave-brooklyn-beckhams-head).
+You can read more about it [here](https://www.cnbc.com/2023/08/30/india-to-launch-mission-to-study-sun-days-after-chandrayaan-3-landing.html).
 
 ## Requirements
 - Python 3.8
