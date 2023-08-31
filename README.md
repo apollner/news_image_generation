@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures slip after a third straight winning day on Wall Street: Live updates**
+**Gabon coup: Military officers place president under house arrest**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/29/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
