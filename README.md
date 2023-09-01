@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm Surge Drains From Florida Coastal Cities**
+**Harper hits 300th career home run in dramatic moment at Citizens Bank Park**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ju5VJbK7bMU).
+You can read more about it [here](https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/harper-hits-300th-career-home-run-in-dramatic-moment-at-citizens-bank-park/534197/).
 
 ## Requirements
 - Python 3.8
