@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marijuana users found to have lead in their blood and urine**
+**Russia sees biggest drone assault on its own territory since invading Ukraine, as Kyiv strikes back through the skies**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/marijuana-users-lead-heavy-metal-in-blood-urine-rcna102431).
+You can read more about it [here](https://www.cnn.com/2023/08/30/europe/ukraine-russia-drone-strikes-wednesday-intl/index.html).
 
 ## Requirements
 - Python 3.8
