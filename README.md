@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harper hits 300th career home run in dramatic moment at Citizens Bank Park**
+**Swimmer in Texas dies after infection caused by brain-eating amoeba**
 
-You can read more about it [here](https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/harper-hits-300th-career-home-run-in-dramatic-moment-at-citizens-bank-park/534197/).
+You can read more about it [here](https://www.cbsnews.com/news/texas-swimmer-dies-after-infection-caused-by-brain-eating-amoeba/).
 
 ## Requirements
 - Python 3.8
