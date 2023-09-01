@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saudi man sentenced to death for online posts**
+**Chopper 2 video shows devastation along Florida's Gulf Coast after Hurricane Idalia**
 
-You can read more about it [here](https://thehill.com/policy/international/4181335-saudi-man-sentenced-to-death-for-online-posts/).
+You can read more about it [here](https://www.wesh.com/article/idalia-florida-chopper-drone-video/44964668).
 
 ## Requirements
 - Python 3.8
