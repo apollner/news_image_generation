@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony Raises Price of PlayStation Plus 1-Year Subscriptions - IGN Daily Fix**
+**Former cardinal McCarrick found not competent to stand trial for sex abuse**
 
-You can read more about it [here](https://www.youtube.com/watch?v=v7bZL941iD8).
+You can read more about it [here](https://www.npr.org/2023/08/30/1196839901/former-cardinal-mccarrick-found-not-competent-to-stand-trial-for-sex-abuse).
 
 ## Requirements
 - Python 3.8
