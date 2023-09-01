@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Swimmer in Texas dies after infection caused by brain-eating amoeba**
+**NASA conducts crucial drop test ahead of Sept. 24 arrival of OSIRIS-REx asteroid sample**
 
-You can read more about it [here](https://www.cbsnews.com/news/texas-swimmer-dies-after-infection-caused-by-brain-eating-amoeba/).
+You can read more about it [here](https://www.space.com/nasa-osiris-rex-asteroid-sample-arrival-drop-test).
 
 ## Requirements
 - Python 3.8
