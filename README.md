@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: How Chandrayaan-3 Rover and Lander help each other find Sulphur on the Moon**
+**Ukraine live briefing: U.S. warns of Russia-North Korea arms negotiations; Wagner commander buried**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/videos/toi-original/watch-how-chandrayaan-3-rover-and-lander-help-each-other-find-sulphur-on-the-moon/videoshow/103247319.cms).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/08/31/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
