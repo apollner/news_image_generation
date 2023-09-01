@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starfield is a stellar sci-fi refresh of the Bethesda RPG formula**
+**Vikings Agree to Terms with Tight End T.J. Hockenson on Contract Extension**
 
-You can read more about it [here](https://www.theverge.com/23852390/starfield-review-xbox-pc).
+You can read more about it [here](https://www.vikings.com/news/tj-hockenson-contract-extension).
 
 ## Requirements
 - Python 3.8
