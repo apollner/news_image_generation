@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow rises, tries for 5-day winning streak in last day of August: Live updates**
+**PCE inflation measure picked up in July. Will Fed raise rates again?**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/30/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/08/31/july-pce-inflation-report-today/70723559007/).
 
 ## Requirements
 - Python 3.8
