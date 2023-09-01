@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Photos: Rare super blue moon rises and lights up skies worldwide**
+**College football Week 1: Deion, coach debuts, stats to know - ESPN**
 
-You can read more about it [here](https://www.aljazeera.com/gallery/2023/8/31/photos-rare-super-blue-moon-rises-and-lights-up-skies-worldwide).
+You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedaykickoff083123/college-football-week-1-gameday-kickoff-preview-deion-debut).
 
 ## Requirements
 - Python 3.8
