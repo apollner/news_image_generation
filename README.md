@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best movies at 2023 fall film festivals, from Maestro to Ferrari**
+**Sony Raises Price of PlayStation Plus 1-Year Subscriptions - IGN Daily Fix**
 
-You can read more about it [here](https://ew.com/movies/must-see-movies-fall-film-festivals-2023/).
+You can read more about it [here](https://www.youtube.com/watch?v=v7bZL941iD8).
 
 ## Requirements
 - Python 3.8
