@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Georgia Republicans shut down GOP attack on Trump prosecutor**
+**Saudi man sentenced to death for online posts**
 
-You can read more about it [here](https://www.axios.com/2023/08/31/georgia-kemp-burns-fani-willis-impeach-defund).
+You can read more about it [here](https://thehill.com/policy/international/4181335-saudi-man-sentenced-to-death-for-online-posts/).
 
 ## Requirements
 - Python 3.8
