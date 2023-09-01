@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Rise: Salesforce Jumps, Four Titans Near Buy Points; Inflation Data Due**
+**McConnell seeks to reassure allies after health scares prompt new questions over his leadership position**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-extends-gains-salesforce-jumps-late-with-inflation-jobs-data-due/).
+You can read more about it [here](https://www.cnn.com/2023/08/31/politics/mitch-mcconnell-health/index.html).
 
 ## Requirements
 - Python 3.8
