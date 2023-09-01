@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia sees biggest drone assault on its own territory since invading Ukraine, as Kyiv strikes back through the skies**
+**Storm Surge Drains From Florida Coastal Cities**
 
-You can read more about it [here](https://www.cnn.com/2023/08/30/europe/ukraine-russia-drone-strikes-wednesday-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ju5VJbK7bMU).
 
 ## Requirements
 - Python 3.8
