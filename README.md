@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings Agree to Terms with Tight End T.J. Hockenson on Contract Extension**
+**Google Pixel 8 and Pixel 8 Pro confirmed to lack Wi-Fi 7 connectivity**
 
-You can read more about it [here](https://www.vikings.com/news/tj-hockenson-contract-extension).
+You can read more about it [here](https://www.notebookcheck.net/Google-Pixel-8-and-Pixel-8-Pro-confirmed-to-lack-Wi-Fi-7-connectivity.745195.0.html).
 
 ## Requirements
 - Python 3.8
