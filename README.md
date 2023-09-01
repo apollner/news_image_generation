@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House calls on Congress to pass a short-term spending bill**
+**Taylor Swift's tour enters her movie theater 'Era' as she brings record-breaking concert to the big screen**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/politics/white-house-short-term-government-funding/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/31/entertainment/taylor-swift-eras-tour-movie/index.html).
 
 ## Requirements
 - Python 3.8
