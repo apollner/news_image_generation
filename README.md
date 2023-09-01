@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabon coup leaders name General Brice Oligui Nguema as new leader**
+**UBS posts $29 billion second-quarter profit in first results since Credit Suisse takeover**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66666585).
+You can read more about it [here](https://www.cnbc.com/2023/08/31/ubs-posts-29-billion-second-quarter-profit-in-first-results-since-credit-suisse-takeover.html).
 
 ## Requirements
 - Python 3.8
