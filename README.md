@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hall of Famer Gil Brandt dies at 91: Former Cowboys executive helped build Dallas dynasty**
+**Top Georgia Republicans shut down GOP attack on Trump prosecutor**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/hall-of-famer-gil-brandt-dies-at-91-former-cowboys-executive-helped-build-dallas-dynasty/).
+You can read more about it [here](https://www.axios.com/2023/08/31/georgia-kemp-burns-fani-willis-impeach-defund).
 
 ## Requirements
 - Python 3.8
