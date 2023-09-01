@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump asks to sever Georgia election case from co-defendants seeking speedy trial**
+**Hall of Famer Gil Brandt dies at 91: Former Cowboys executive helped build Dallas dynasty**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/31/trump-asks-to-sever-georgia-election-case-from-co-defendants-seeking-speedy-trial.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/hall-of-famer-gil-brandt-dies-at-91-former-cowboys-executive-helped-build-dallas-dynasty/).
 
 ## Requirements
 - Python 3.8
