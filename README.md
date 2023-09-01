@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings Agree to Terms with Tight End T.J. Hockenson on Contract Extension**
+**Trump asks to sever Georgia election case from co-defendants seeking speedy trial**
 
-You can read more about it [here](https://www.vikings.com/news/tj-hockenson-contract-extension).
+You can read more about it [here](https://www.cnbc.com/2023/08/31/trump-asks-to-sever-georgia-election-case-from-co-defendants-seeking-speedy-trial.html).
 
 ## Requirements
 - Python 3.8
