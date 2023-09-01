@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UBS posts $29 billion second-quarter profit in first results since Credit Suisse takeover**
+**Marijuana users have elevated levels of heavy metals in their blood, urine: study**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/31/ubs-posts-29-billion-second-quarter-profit-in-first-results-since-credit-suisse-takeover.html).
+You can read more about it [here](https://thehill.com/policy/healthcare/4180169-marijuana-users-have-elevated-levels-of-heavy-metals-in-their-blood-urine-study/).
 
 ## Requirements
 - Python 3.8
