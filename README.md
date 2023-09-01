@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Human and ape ancestors arose in Europe, not in Africa, controversial study claims**
+**Marijuana users found to have lead in their blood and urine**
 
-You can read more about it [here](https://www.livescience.com/archaeology/human-and-ape-ancestors-arose-in-europe-not-in-africa-controversial-study-claims).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/marijuana-users-lead-heavy-metal-in-blood-urine-rcna102431).
 
 ## Requirements
 - Python 3.8
