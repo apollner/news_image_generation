@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine live briefing: U.S. warns of Russia-North Korea arms negotiations; Wagner commander buried**
+**Days after West Point time capsule opened, objects found inside**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/08/31/russia-ukraine-war-news/).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/2023/08/31/west-point-time-capsule-coins/70725393007/).
 
 ## Requirements
 - Python 3.8
