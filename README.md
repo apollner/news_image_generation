@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell seeks to reassure allies after health scares prompt new questions over his leadership position**
+**Taylor Swift Concert Film Will Bring ‘Eras Tour’ to America’s Movie Theaters in October**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/politics/mitch-mcconnell-health/index.html).
+You can read more about it [here](https://variety.com/2023/music/news/taylor-swift-concert-film-amc-theaters-eras-tour-october-1235709150/).
 
 ## Requirements
 - Python 3.8
