@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reportedly tests 3D printing to manufacture the new Apple Watch**
+**Jabra announces its most premium (and toughest) earbuds yet**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/31/apple-is-testing-3d-printing-to-manufacture-the-new-apple-watch-report.html).
+You can read more about it [here](https://www.theverge.com/2023/8/31/23853416/jabra-elite-10-elite-8-active-announced).
 
 ## Requirements
 - Python 3.8
