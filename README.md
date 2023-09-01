@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's tour enters her movie theater 'Era' as she brings record-breaking concert to the big screen**
+**Starfield is a stellar sci-fi refresh of the Bethesda RPG formula**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/entertainment/taylor-swift-eras-tour-movie/index.html).
+You can read more about it [here](https://www.theverge.com/23852390/starfield-review-xbox-pc).
 
 ## Requirements
 - Python 3.8
