@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johannesburg building fire: Death toll rises to 52 in South Africa**
+**Gabon coup leaders name General Brice Oligui Nguema as new leader**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/africa/johannesburg-fire-south-africa-death-intl-hnk/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66666585).
 
 ## Requirements
 - Python 3.8
