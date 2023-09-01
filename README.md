@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chopper 2 video shows devastation along Florida's Gulf Coast after Hurricane Idalia**
+**Vikings Agree to Terms with Tight End T.J. Hockenson on Contract Extension**
 
-You can read more about it [here](https://www.wesh.com/article/idalia-florida-chopper-drone-video/44964668).
+You can read more about it [here](https://www.vikings.com/news/tj-hockenson-contract-extension).
 
 ## Requirements
 - Python 3.8
