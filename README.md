@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare Blue Supermoon to Rise In Wednesday Night Sky**
+**Best movies at 2023 fall film festivals, from Maestro to Ferrari**
 
-You can read more about it [here](https://www.wsj.com/science/rare-blue-supermoon-to-rise-in-wednesday-night-sky-781a14d8).
+You can read more about it [here](https://ew.com/movies/must-see-movies-fall-film-festivals-2023/).
 
 ## Requirements
 - Python 3.8
