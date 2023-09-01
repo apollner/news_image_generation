@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Days after West Point time capsule opened, objects found inside**
+**Photos: Rare super blue moon rises and lights up skies worldwide**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/2023/08/31/west-point-time-capsule-coins/70725393007/).
+You can read more about it [here](https://www.aljazeera.com/gallery/2023/8/31/photos-rare-super-blue-moon-rises-and-lights-up-skies-worldwide).
 
 ## Requirements
 - Python 3.8
