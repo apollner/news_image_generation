@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA conducts crucial drop test ahead of Sept. 24 arrival of OSIRIS-REx asteroid sample**
+**Johannesburg building fire: Death toll rises to 52 in South Africa**
 
-You can read more about it [here](https://www.space.com/nasa-osiris-rex-asteroid-sample-arrival-drop-test).
+You can read more about it [here](https://www.cnn.com/2023/08/31/africa/johannesburg-fire-south-africa-death-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
