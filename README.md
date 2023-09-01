@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PCE inflation measure picked up in July. Will Fed raise rates again?**
+**White House calls on Congress to pass a short-term spending bill**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/08/31/july-pce-inflation-report-today/70723559007/).
+You can read more about it [here](https://www.cnn.com/2023/08/31/politics/white-house-short-term-government-funding/index.html).
 
 ## Requirements
 - Python 3.8
