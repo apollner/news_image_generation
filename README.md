@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marijuana users have elevated levels of heavy metals in their blood, urine: study**
+**Horoscope for Thursday, August 31, 2023**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4180169-marijuana-users-have-elevated-levels-of-heavy-metals-in-their-blood-urine-study/).
+You can read more about it [here](https://chicago.suntimes.com/2023/8/31/23843550/horoscopes-today-thursday-august-31-2023).
 
 ## Requirements
 - Python 3.8
