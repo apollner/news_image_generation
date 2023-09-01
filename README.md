@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Concert Film Will Bring ‘Eras Tour’ to America’s Movie Theaters in October**
+**Watch: How Chandrayaan-3 Rover and Lander help each other find Sulphur on the Moon**
 
-You can read more about it [here](https://variety.com/2023/music/news/taylor-swift-concert-film-amc-theaters-eras-tour-october-1235709150/).
+You can read more about it [here](https://timesofindia.indiatimes.com/videos/toi-original/watch-how-chandrayaan-3-rover-and-lander-help-each-other-find-sulphur-on-the-moon/videoshow/103247319.cms).
 
 ## Requirements
 - Python 3.8
