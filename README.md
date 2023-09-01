@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former cardinal McCarrick found not competent to stand trial for sex abuse**
+**Human and ape ancestors arose in Europe, not in Africa, controversial study claims**
 
-You can read more about it [here](https://www.npr.org/2023/08/30/1196839901/former-cardinal-mccarrick-found-not-competent-to-stand-trial-for-sex-abuse).
+You can read more about it [here](https://www.livescience.com/archaeology/human-and-ape-ancestors-arose-in-europe-not-in-africa-controversial-study-claims).
 
 ## Requirements
 - Python 3.8
