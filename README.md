@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football Week 1: Deion, coach debuts, stats to know - ESPN**
+**Apple reportedly tests 3D printing to manufacture the new Apple Watch**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedaykickoff083123/college-football-week-1-gameday-kickoff-preview-deion-debut).
+You can read more about it [here](https://www.cnbc.com/2023/08/31/apple-is-testing-3d-printing-to-manufacture-the-new-apple-watch-report.html).
 
 ## Requirements
 - Python 3.8
