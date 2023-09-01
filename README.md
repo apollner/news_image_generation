@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jabra announces its most premium (and toughest) earbuds yet**
+**Dow rises, tries for 5-day winning streak in last day of August: Live updates**
 
-You can read more about it [here](https://www.theverge.com/2023/8/31/23853416/jabra-elite-10-elite-8-active-announced).
+You can read more about it [here](https://www.cnbc.com/2023/08/30/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
