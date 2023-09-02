@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Press Conference | Gators Head Coach Billy Napier Discusses Loss to Utah, Graham Mertz's Performance & More**
+**Stock futures are higher ahead of August payrolls report: Live updates**
 
-You can read more about it [here](https://floridagators.com/news/2023/9/1/football-press-conference-gators-head-coach-billy-napier-discusses-loss-to-utah-graham-mertzs-performance-more.aspx).
+You can read more about it [here](https://www.cnbc.com/2023/08/31/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
