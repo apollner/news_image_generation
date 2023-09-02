@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over-the-counter Narcan: Availability, cost, and how to administer**
+**Stanford, Cal, SMU to join ACC in 2024-25: How the vote went down**
 
-You can read more about it [here](https://www.vox.com/23855543/narcan-naloxone-over-the-counter-walgreens-cost-use-overdose-opioid).
+You can read more about it [here](https://theathletic.com/4825140/2023/09/01/acc-adding-stanford-cal-smu-conference-realignment/).
 
 ## Requirements
 - Python 3.8
