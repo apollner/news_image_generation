@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meet Howdy Doody, the steer who rides shotgun in his owner's car**
+**Adam Driver criticises studios and streamers over Hollywood strike**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/01/howdy-doody-watusi-bull-police-stop/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66681268).
 
 ## Requirements
 - Python 3.8
