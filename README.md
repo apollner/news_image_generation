@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong braces for the storm as Typhoon Saola approaches**
+**Pope Francis arrives in Mongolia**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/asia/hong-kong-china-macau-typhoon-saola-intl-hnk/index.html).
+You can read more about it [here](https://www.vaticannews.va/en/pope/news/2023-09/pope-arrival-mongolia-apostolic-visit.html).
 
 ## Requirements
 - Python 3.8
