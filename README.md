@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stanford, Cal, SMU to join ACC in 2024-25: How the vote went down**
+**Private Equity, Hedge Funds Sue SEC to Fend Off Oversight**
 
-You can read more about it [here](https://theathletic.com/4825140/2023/09/01/acc-adding-stanford-cal-smu-conference-realignment/).
+You can read more about it [here](https://www.wsj.com/finance/regulation/private-equity-hedge-funds-sue-sec-to-fend-off-oversight-345ce372).
 
 ## Requirements
 - Python 3.8
