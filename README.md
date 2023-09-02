@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ESPN networks go dark on Charter Spectrum cable systems**
+**Utah Utes vs. Florida Gators: Live college football updates**
 
-You can read more about it [here](https://www.staradvertiser.com/2023/08/31/sports/sports-breaking/espn-networks-go-dark-on-charter-spectrum-cable-systems/).
+You can read more about it [here](https://www.sltrib.com/sports/utah-utes/2023/08/31/utes-stars-cam-rising-brant-kuithe/).
 
 ## Requirements
 - Python 3.8
