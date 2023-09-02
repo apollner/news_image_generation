@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Remote workers approach vacation differently than office workers - Buffalo Business First**
+**AG denounces election worker threats as DOJ charges over a dozen people**
 
-You can read more about it [here](https://www.bizjournals.com/buffalo/news/2023/09/01/vacation-time-pto-remote-work-return-office.html).
+You can read more about it [here](https://www.axios.com/2023/09/01/election-workers-threat-justice-department-taskforce).
 
 ## Requirements
 - Python 3.8
