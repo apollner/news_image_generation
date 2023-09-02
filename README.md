@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Qi2 chargers look to expand MagSafe-like wireless charging beyond Apple**
+**Fulton County judge gives green light for Trump Georgia 2020 election case to be televised**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/08/first-qi2-chargers-could-bring-15-w-wireless-charging-to-more-apple-users/).
+You can read more about it [here](https://www.cnn.com/2023/08/31/politics/fulton-county-trump-trial-tv-cameras/index.html).
 
 ## Requirements
 - Python 3.8
