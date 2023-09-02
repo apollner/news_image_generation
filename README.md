@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Private Equity, Hedge Funds Sue SEC to Fend Off Oversight**
+**Scott Van Pelt's 'Winners' for Week 1 college football games - ESPN**
 
-You can read more about it [here](https://www.wsj.com/finance/regulation/private-equity-hedge-funds-sue-sec-to-fend-off-oversight-345ce372).
+You can read more about it [here](https://www.espn.com/chalk/story/_/id/38284176/scott-van-pelt-winners-week-1-college-football-games-svp-2023-picks).
 
 ## Requirements
 - Python 3.8
