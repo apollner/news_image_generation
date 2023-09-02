@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adam Driver criticises studios and streamers over Hollywood strike**
+**Press Conference | Gators Head Coach Billy Napier Discusses Loss to Utah, Graham Mertz's Performance & More**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-66681268).
+You can read more about it [here](https://floridagators.com/news/2023/9/1/football-press-conference-gators-head-coach-billy-napier-discusses-loss-to-utah-graham-mertzs-performance-more.aspx).
 
 ## Requirements
 - Python 3.8
