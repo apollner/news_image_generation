@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Taylor Swift: Eras Tour’ Film Earns Record-Breaking $26 Million in Presales at AMC Theatres**
+**Hong Kong closes schools and cancels hundreds of flights as Typhoon Saola arrives**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-film-record-breaking-presales-1235710568/).
+You can read more about it [here](https://www.cnn.com/2023/08/31/asia/hong-kong-china-macau-typhoon-saola-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
