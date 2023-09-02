@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AG denounces election worker threats as DOJ charges over a dozen people**
+**Meet Howdy Doody, the steer who rides shotgun in his owner's car**
 
-You can read more about it [here](https://www.axios.com/2023/09/01/election-workers-threat-justice-department-taskforce).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/01/howdy-doody-watusi-bull-police-stop/).
 
 ## Requirements
 - Python 3.8
