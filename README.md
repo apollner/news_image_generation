@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Taylor Swift: Eras Tour’ Film Earns Record-Breaking $26 Million in Presales at AMC Theatres**
+**College football odds, picks, predictions for Week 1, 2023: Computer model backs Purdue, Western Kentucky**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-film-record-breaking-presales-1235710568/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-odds-picks-predictions-for-week-1-2023-computer-model-backs-purdue-western-kentucky/).
 
 ## Requirements
 - Python 3.8
