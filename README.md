@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabon military coup: What to know about the overthrow of the Bongo dynasty**
+**Hong Kong braces for the storm as Typhoon Saola approaches**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/africa/gabon-military-coup-explainer-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/08/31/asia/hong-kong-china-macau-typhoon-saola-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
