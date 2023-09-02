@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong closes schools and cancels hundreds of flights as Typhoon Saola arrives**
+**The iPhone 15 Event Could Leave Some Apple Fans Sour**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/asia/hong-kong-china-macau-typhoon-saola-intl-hnk/index.html).
+You can read more about it [here](https://www.cnet.com/tech/the-iphone-15-event-could-leave-some-apple-fans-sour/).
 
 ## Requirements
 - Python 3.8
