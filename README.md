@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott Van Pelt's 'Winners' for Week 1 college football games - ESPN**
+**Drone strike sets fire to Russian factory making missile microchips, Ukraine says**
 
-You can read more about it [here](https://www.espn.com/chalk/story/_/id/38284176/scott-van-pelt-winners-week-1-college-football-games-svp-2023-picks).
+You can read more about it [here](https://nypost.com/2023/09/01/drone-strikes-sets-fire-to-russian-factory-making-microchips-for-missiles-ukraine/).
 
 ## Requirements
 - Python 3.8
