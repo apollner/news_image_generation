@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football Week 1 top plays: Matt Rhule's Huskers lead in 3rd**
+**Gabon military coup: What to know about the overthrow of the Bongo dynasty**
 
-You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-1-top-plays-nebraska-at-minnesota).
+You can read more about it [here](https://www.cnn.com/2023/08/31/africa/gabon-military-coup-explainer-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
