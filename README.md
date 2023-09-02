@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis arrives in Mongolia**
+**ESPN networks go dark on Charter Spectrum cable systems**
 
-You can read more about it [here](https://www.vaticannews.va/en/pope/news/2023-09/pope-arrival-mongolia-apostolic-visit.html).
+You can read more about it [here](https://www.staradvertiser.com/2023/08/31/sports/sports-breaking/espn-networks-go-dark-on-charter-spectrum-cable-systems/).
 
 ## Requirements
 - Python 3.8
