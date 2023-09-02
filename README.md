@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift announces Eras Tour movie with AMC**
+**College football Week 1 top plays: Matt Rhule's Huskers lead in 3rd**
 
-You can read more about it [here](https://www.washingtonpost.com/lifestyle/2023/08/31/taylor-swift-eras-tour-amc-tickets/).
+You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-1-top-plays-nebraska-at-minnesota).
 
 ## Requirements
 - Python 3.8
