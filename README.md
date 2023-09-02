@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 and Pixel 8 Pro confirmed to lack Wi-Fi 7 connectivity**
+**Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition**
 
-You can read more about it [here](https://www.notebookcheck.net/Google-Pixel-8-and-Pixel-8-Pro-confirmed-to-lack-Wi-Fi-7-connectivity.745195.0.html).
+You can read more about it [here](https://www.science.org/doi/10.1126/science.abq7487).
 
 ## Requirements
 - Python 3.8
