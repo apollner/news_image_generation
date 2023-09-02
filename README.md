@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to Watch the Nebraska at Minnesota: Stream College Football Live, TV Channel**
+**First Qi2 chargers look to expand MagSafe-like wireless charging beyond Apple**
 
-You can read more about it [here](https://www.si.com/tv/college-football/2023/08/31/nebraska-minnesota-free-live-stream-college-football-online).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/08/first-qi2-chargers-could-bring-15-w-wireless-charging-to-more-apple-users/).
 
 ## Requirements
 - Python 3.8
