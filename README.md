@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eastern equine encephalitis virus detected in mosquitoes collected in Dudley and Southbridge, Massachusetts**
+**College football schedule, games 2023: What to watch in Week 1, TV channels, Saturday kickoff times**
 
-You can read more about it [here](https://www.wcvb.com/article/eastern-equine-encephalitis-virus-detected-in-mosquitoes-dudley-southbridge-massachusetts-eee/44975771).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-schedule-games-2023-what-to-watch-in-week-1-tv-channels-saturday-kickoff-times/).
 
 ## Requirements
 - Python 3.8
