@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston hospital reports Texas' first case of COVID, BA.2.86 variant**
+**US hits North Korean and Russian accused of supporting North Korea's ballistics missile program**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/trending/article/fourth-new-covid-variant-case-found-in-houston-18340782.php).
+You can read more about it [here](https://news.yahoo.com/us-hits-north-korean-russian-212215744.html).
 
 ## Requirements
 - Python 3.8
