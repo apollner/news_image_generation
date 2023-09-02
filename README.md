@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football odds, picks, predictions for Week 1, 2023: Computer model backs Purdue, Western Kentucky**
+**Nikki Haley reacts to McConnell freezing for second time**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-odds-picks-predictions-for-week-1-2023-computer-model-backs-purdue-western-kentucky/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/01/nikki-haley-reacts-mcconnell-freezing-senate/70736918007/).
 
 ## Requirements
 - Python 3.8
