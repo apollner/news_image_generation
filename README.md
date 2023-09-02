@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippines, Taiwan, Malaysia reject China's latest South China Sea map**
+**Former Proud Boys leaders Joseph Biggs, Zachary Rehl sentenced for Jan. 6 sedition**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/01/philippines-taiwan-malaysia-reject-chinas-latest-south-china-sea-map.html).
+You can read more about it [here](https://abcnews.go.com/Politics/proud-boy-leaders-joe-biggs-zachary-rehl-sentenced/story?id=102832655).
 
 ## Requirements
 - Python 3.8
