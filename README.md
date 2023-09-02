@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPhone 15 Event Could Leave Some Apple Fans Sour**
+**‘Taylor Swift: Eras Tour’ Film Earns Record-Breaking $26 Million in Presales at AMC Theatres**
 
-You can read more about it [here](https://www.cnet.com/tech/the-iphone-15-event-could-leave-some-apple-fans-sour/).
+You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-film-record-breaking-presales-1235710568/).
 
 ## Requirements
 - Python 3.8
