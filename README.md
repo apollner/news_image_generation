@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lenovo's new Legion 9i is a liquid-cooled, Mini LED, RGB monstrosity**
+**ESPN networks go dark on Charter Spectrum cable systems**
 
-You can read more about it [here](https://www.theverge.com/2023/9/1/23853318/lenovo-legion-9i-gaming-laptop-price-release-date-specs-features-intel).
+You can read more about it [here](https://www.staradvertiser.com/2023/08/31/sports/sports-breaking/espn-networks-go-dark-on-charter-spectrum-cable-systems/).
 
 ## Requirements
 - Python 3.8
