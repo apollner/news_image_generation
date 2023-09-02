@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley reacts to McConnell freezing for second time**
+**Eastern equine encephalitis virus detected in mosquitoes collected in Dudley and Southbridge, Massachusetts**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/01/nikki-haley-reacts-mcconnell-freezing-senate/70736918007/).
+You can read more about it [here](https://www.wcvb.com/article/eastern-equine-encephalitis-virus-detected-in-mosquitoes-dudley-southbridge-massachusetts-eee/44975771).
 
 ## Requirements
 - Python 3.8
