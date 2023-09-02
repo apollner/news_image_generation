@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County judge gives green light for Trump Georgia 2020 election case to be televised**
+**How to Watch the Nebraska at Minnesota: Stream College Football Live, TV Channel**
 
-You can read more about it [here](https://www.cnn.com/2023/08/31/politics/fulton-county-trump-trial-tv-cameras/index.html).
+You can read more about it [here](https://www.si.com/tv/college-football/2023/08/31/nebraska-minnesota-free-live-stream-college-football-online).
 
 ## Requirements
 - Python 3.8
