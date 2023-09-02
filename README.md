@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition**
+**Fulton County judge gives green light for Trump Georgia 2020 election case to be televised**
 
-You can read more about it [here](https://www.science.org/doi/10.1126/science.abq7487).
+You can read more about it [here](https://www.cnn.com/2023/08/31/politics/fulton-county-trump-trial-tv-cameras/index.html).
 
 ## Requirements
 - Python 3.8
