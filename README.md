@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utah Utes vs. Florida Gators: Live college football updates**
+**Remote workers approach vacation differently than office workers - Buffalo Business First**
 
-You can read more about it [here](https://www.sltrib.com/sports/utah-utes/2023/08/31/utes-stars-cam-rising-brant-kuithe/).
+You can read more about it [here](https://www.bizjournals.com/buffalo/news/2023/09/01/vacation-time-pto-remote-work-return-office.html).
 
 ## Requirements
 - Python 3.8
