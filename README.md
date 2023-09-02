@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US hits North Korean and Russian accused of supporting North Korea's ballistics missile program**
+**Taylor Swift announces Eras Tour movie with AMC**
 
-You can read more about it [here](https://news.yahoo.com/us-hits-north-korean-russian-212215744.html).
+You can read more about it [here](https://www.washingtonpost.com/lifestyle/2023/08/31/taylor-swift-eras-tour-amc-tickets/).
 
 ## Requirements
 - Python 3.8
