@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are higher ahead of August payrolls report: Live updates**
+**‘Taylor Swift: Eras Tour’ Film Earns Record-Breaking $26 Million in Presales at AMC Theatres**
 
-You can read more about it [here](https://www.cnbc.com/2023/08/31/stock-market-today-live-updates.html).
+You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-film-record-breaking-presales-1235710568/).
 
 ## Requirements
 - Python 3.8
