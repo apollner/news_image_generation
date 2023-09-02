@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Proud Boys leaders Joseph Biggs, Zachary Rehl sentenced for Jan. 6 sedition**
+**Updates: SpaceX Falcon 9 boosted more Starlink satellites Thursday**
 
-You can read more about it [here](https://abcnews.go.com/Politics/proud-boy-leaders-joe-biggs-zachary-rehl-sentenced/story?id=102832655).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/08/31/spacex-falcon-9-rocket-starlink-launch-updates-from-cape-canaveral-space-force-florida/70695969007/).
 
 ## Requirements
 - Python 3.8
