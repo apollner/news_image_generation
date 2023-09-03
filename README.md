@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**India's launches first sun-studying spacecraft, Aditya-L1**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/09/02/world/india-sun-probe-aditya-scn/index.html).
 
 ## Requirements
 - Python 3.8
