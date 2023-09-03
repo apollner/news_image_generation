@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blink-182 announces Travis Barker's return home due to "urgent family matter," postpones European tour**
+**Yorgos Lanthimos’ ‘Poor Things’ Starring Emma Stone Gets Huge 10-Minute-Plus Ovation At Venice Film Festival Premiere**
 
-You can read more about it [here](https://www.cbsnews.com/news/blink-182-travis-barker-european-tour-postponed/).
+You can read more about it [here](https://deadline.com/2023/09/poor-things-standing-ovation-yorgos-lanthimos-venice-1235534100/).
 
 ## Requirements
 - Python 3.8
