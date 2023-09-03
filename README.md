@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC warns health-care professionals about Vibrio vulnificus bacteria**
+**ACC becomes latest super conference, expanding cross-country by adding Stanford, Cal and SMU**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/09/02/cdc-vibrio-vulnificus-bacteria/).
+You can read more about it [here](https://apnews.com/article/acc-conference-realignment-expansion-stanford-cal-smu-95e7d6f990dd35a638f9bef72fe96ee7).
 
 ## Requirements
 - Python 3.8
