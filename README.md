@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley's gender is rarely mentioned on the campaign trail but always present**
+**The former Chester County Prison warden retired the day before a convicted murderer escaped, officials said**
 
-You can read more about it [here](https://www.cnn.com/2023/09/02/politics/nikki-haley-gender-president-campaign/index.html).
+You can read more about it [here](https://www.inquirer.com/crime/danelo-cavalcante-chester-county-prison-escape-20230901.html).
 
 ## Requirements
 - Python 3.8
