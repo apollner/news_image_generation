@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX delays launch of 13 satellites for US Space Force today. Here's how to watch online for free.**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/spacex-launch-space-force-second-tranche-0-mission).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
