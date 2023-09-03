@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's election interference trial in Georgia will be televised**
+**Outrage as mother of biscuit-stealing bear cub shot dead in Italy**
 
-You can read more about it [here](https://www.youtube.com/watch?v=NoArFrDNcnc).
+You can read more about it [here](https://www.cnn.com/2023/09/02/europe/mother-bear-shot-dead-in-italy-abruzzo-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
