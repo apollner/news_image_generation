@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the making of 'Starfield' — one of the biggest stories ever told**
+**Will Rishi Sunak prove to be more than a good loser?**
 
-You can read more about it [here](https://www.npr.org/2023/09/02/1197223759/starfield-bethesda-video-games).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-66695170).
 
 ## Requirements
 - Python 3.8
