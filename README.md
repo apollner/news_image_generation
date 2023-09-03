@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The former Chester County Prison warden retired the day before a convicted murderer escaped, officials said**
+**Blink-182 announces Travis Barker's return home due to "urgent family matter," postpones European tour**
 
-You can read more about it [here](https://www.inquirer.com/crime/danelo-cavalcante-chester-county-prison-escape-20230901.html).
+You can read more about it [here](https://www.cbsnews.com/news/blink-182-travis-barker-european-tour-postponed/).
 
 ## Requirements
 - Python 3.8
