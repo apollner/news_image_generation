@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Typhoon Saola makes landfall on China’s coast after slamming Hong Kong**
+**UFC Paris: Fight Day Focus - Ciryl Gane vs Sergey Spivac!**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/2/typhoon-saola-makes-landfall-on-chinas-coast-after-slamming-hong-kong).
+You can read more about it [here](https://www.youtube.com/watch?v=r9lWBPhrHUY).
 
 ## Requirements
 - Python 3.8
