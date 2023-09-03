@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pac-12 Loses Stanford, Cal To ACC, All But Killing 108-Year-Old Conference**
+**Texas AG Ken Paxton's impeachment trial is in the hands of Republicans who have been by his side**
 
-You can read more about it [here](https://deadline.com/2023/09/pac-12-loses-stanford-cal-to-acc-killing-108-year-old-west-coast-conference-1235534601/).
+You can read more about it [here](https://www.politico.com/news/2023/09/02/texas-ag-ken-paxtons-impeachment-trial-is-in-the-hands-of-republicans-who-have-been-by-his-side-00113827).
 
 ## Requirements
 - Python 3.8
