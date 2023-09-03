@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner Speaks Out About ‘Yellowstone’ Exit, Threatens to Sue Producers Over Salary**
+**Walgreens CEO Rosalind Brewer steps down**
 
-You can read more about it [here](https://variety.com/2023/tv/news/kevin-costner-yellowstone-exit-salary-1235711604/).
+You can read more about it [here](https://chicago.suntimes.com/business/2023/9/1/23855354/rosalind-brewer-ceo-walgreens-boots-alliance-deerfield).
 
 ## Requirements
 - Python 3.8
