@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ACC becomes latest super conference, expanding cross-country by adding Stanford, Cal and SMU**
+**Texas AG Ken Paxton's impeachment trial is in the hands of Republicans who have been by his side**
 
-You can read more about it [here](https://apnews.com/article/acc-conference-realignment-expansion-stanford-cal-smu-95e7d6f990dd35a638f9bef72fe96ee7).
+You can read more about it [here](https://www.politico.com/news/2023/09/02/texas-ag-ken-paxtons-impeachment-trial-is-in-the-hands-of-republicans-who-have-been-by-his-side-00113827).
 
 ## Requirements
 - Python 3.8
