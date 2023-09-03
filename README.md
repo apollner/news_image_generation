@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intact 1881 'Trinidad' shipwreck found in Wisconsin waters by historians - The Washington Post**
+**Apple iPhone 15 Release Date: New Event Page Goes Live With Cool Animation**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/02/trinidad-schooner-shipwreck-maritime/).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/02/apple-iphone-15-release-date-new-event-page-goes-live-with-cool-animation-iphone-15-pro-max/).
 
 ## Requirements
 - Python 3.8
