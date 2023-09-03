@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Outrage as mother of biscuit-stealing bear cub shot dead in Italy**
+**Nikki Haley's gender is rarely mentioned on the campaign trail but always present**
 
-You can read more about it [here](https://www.cnn.com/2023/09/02/europe/mother-bear-shot-dead-in-italy-abruzzo-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/02/politics/nikki-haley-gender-president-campaign/index.html).
 
 ## Requirements
 - Python 3.8
