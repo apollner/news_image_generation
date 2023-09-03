@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Nobel Foundation will not invite Russia, Belarus to Stockholm ceremony**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/02/nobel-ceremony-russia-belarus-invite-criticism/).
 
 ## Requirements
 - Python 3.8
