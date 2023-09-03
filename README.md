@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starfield Guides Hub**
+**[Removed]**
 
-You can read more about it [here](https://www.gamespot.com/articles/starfield-guides-hub/1100-6517292/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
