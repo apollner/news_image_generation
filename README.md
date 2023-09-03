@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden heads to Florida to tour Idalia damage as presidential politics swirl**
+**UFC Paris: Gane vs. Spivac LIVE Stream | People's Pre-Fight Show | MMA Fighting**
 
-You can read more about it [here](https://www.cnn.com/2023/09/02/politics/joe-biden-florida-trip-hurricane-idalia-ron-desantis/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=oRWmJfrh3fk).
 
 ## Requirements
 - Python 3.8
