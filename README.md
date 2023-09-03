@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nobel Foundation will not invite Russia, Belarus to Stockholm ceremony**
+**Former New Mexico Gov. Bill Richardson dies at 75**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/02/nobel-ceremony-russia-belarus-invite-criticism/).
+You can read more about it [here](https://www.cnn.com/2023/09/02/politics/bill-richardson-former-new-mexico-governor/index.html).
 
 ## Requirements
 - Python 3.8
