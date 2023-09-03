@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bradley Cooper’s ‘Maestro’ Wows Venice With 7-Minute Standing Ovation as Leonard Bernstein’s Kids Break Down in Tears**
+**Vampire: The Masquerade - Bloodlines 2 - Official 2023 Announcement Trailer**
 
-You can read more about it [here](https://variety.com/2023/film/news/bradley-cooper-maestro-venice-standing-ovation-leonard-bernstein-kids-sob-1235695781/).
+You can read more about it [here](https://www.youtube.com/watch?v=gw2frvZnWZQ).
 
 ## Requirements
 - Python 3.8
