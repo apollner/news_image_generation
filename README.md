@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former New Mexico Gov. Bill Richardson dies at 75**
+**Intact 1881 'Trinidad' shipwreck found in Wisconsin waters by historians - The Washington Post**
 
-You can read more about it [here](https://www.cnn.com/2023/09/02/politics/bill-richardson-former-new-mexico-governor/index.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/02/trinidad-schooner-shipwreck-maritime/).
 
 ## Requirements
 - Python 3.8
