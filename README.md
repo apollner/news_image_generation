@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabon coup: Military chief says suspension of democracy only 'temporary'**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66691766).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
