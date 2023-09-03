@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Rishi Sunak prove to be more than a good loser?**
+**Biden heads to Florida to tour Idalia damage as presidential politics swirl**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-66695170).
+You can read more about it [here](https://www.cnn.com/2023/09/02/politics/joe-biden-florida-trip-hurricane-idalia-ron-desantis/index.html).
 
 ## Requirements
 - Python 3.8
