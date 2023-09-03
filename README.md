@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ruby Franke: '8 Passengers' parenting mum arrested on child abuse suspicion**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66651506).
 
 ## Requirements
 - Python 3.8
