@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 15 Release Date: New Event Page Goes Live With Cool Animation**
+**Bradley Cooper’s ‘Maestro’ Wows Venice With 7-Minute Standing Ovation as Leonard Bernstein’s Kids Break Down in Tears**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/02/apple-iphone-15-release-date-new-event-page-goes-live-with-cool-animation-iphone-15-pro-max/).
+You can read more about it [here](https://variety.com/2023/film/news/bradley-cooper-maestro-venice-standing-ovation-leonard-bernstein-kids-sob-1235695781/).
 
 ## Requirements
 - Python 3.8
