@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The former Chester County Prison warden retired the day before a convicted murderer escaped, officials said**
+**CDC warns health-care professionals about Vibrio vulnificus bacteria**
 
-You can read more about it [here](https://www.inquirer.com/crime/danelo-cavalcante-chester-county-prison-escape-20230901.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/09/02/cdc-vibrio-vulnificus-bacteria/).
 
 ## Requirements
 - Python 3.8
