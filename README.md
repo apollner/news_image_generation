@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Paris: Gane vs. Spivac LIVE Stream | People's Pre-Fight Show | MMA Fighting**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=oRWmJfrh3fk).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
