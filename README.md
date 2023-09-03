@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's launches first sun-studying spacecraft, Aditya-L1**
+**Typhoon Saola makes landfall on China’s coast after slamming Hong Kong**
 
-You can read more about it [here](https://www.cnn.com/2023/09/02/world/india-sun-probe-aditya-scn/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/2/typhoon-saola-makes-landfall-on-chinas-coast-after-slamming-hong-kong).
 
 ## Requirements
 - Python 3.8
