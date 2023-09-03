@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drone strike sets fire to Russian factory making missile microchips, Ukraine says**
+**Ruby Franke: '8 Passengers' parenting mum arrested on child abuse suspicion**
 
-You can read more about it [here](https://nypost.com/2023/09/01/drone-strikes-sets-fire-to-russian-factory-making-microchips-for-missiles-ukraine/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66651506).
 
 ## Requirements
 - Python 3.8
