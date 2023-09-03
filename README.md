@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ruby Franke: '8 Passengers' parenting mum arrested on child abuse suspicion**
+**Kevin Costner Speaks Out About ‘Yellowstone’ Exit, Threatens to Sue Producers Over Salary**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66651506).
+You can read more about it [here](https://variety.com/2023/tv/news/kevin-costner-yellowstone-exit-salary-1235711604/).
 
 ## Requirements
 - Python 3.8
