@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walgreens CEO Rosalind Brewer steps down**
+**Trump's election interference trial in Georgia will be televised**
 
-You can read more about it [here](https://chicago.suntimes.com/business/2023/9/1/23855354/rosalind-brewer-ceo-walgreens-boots-alliance-deerfield).
+You can read more about it [here](https://www.youtube.com/watch?v=NoArFrDNcnc).
 
 ## Requirements
 - Python 3.8
