@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nobel Foundation will not invite Russia, Belarus to Stockholm ceremony**
+**Travis Barker Leaves Tour For ‘Urgent Family Matter,’ Reportedly Posts From Prayer Room**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/02/nobel-ceremony-russia-belarus-invite-criticism/).
+You can read more about it [here](https://www.huffpost.com/entry/travis-barker-urgent-family-matter-postpone-tour_n_64f33c0ee4b002c0364648ad).
 
 ## Requirements
 - Python 3.8
