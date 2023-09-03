@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas AG Ken Paxton's impeachment trial is in the hands of Republicans who have been by his side**
+**Starfield Guides Hub**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/02/texas-ag-ken-paxtons-impeachment-trial-is-in-the-hands-of-republicans-who-have-been-by-his-side-00113827).
+You can read more about it [here](https://www.gamespot.com/articles/starfield-guides-hub/1100-6517292/).
 
 ## Requirements
 - Python 3.8
