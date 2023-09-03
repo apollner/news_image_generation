@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui’s unmanaged invasive grasslands strengthened the Lahaina fires**
+**Inside the making of 'Starfield' — one of the biggest stories ever told**
 
-You can read more about it [here](https://www.washingtonpost.com/investigations/interactive/2023/lahaina-wildfires-invasive-grass-destruction/).
+You can read more about it [here](https://www.npr.org/2023/09/02/1197223759/starfield-bethesda-video-games).
 
 ## Requirements
 - Python 3.8
