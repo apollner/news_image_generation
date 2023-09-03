@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yorgos Lanthimos’ ‘Poor Things’ Starring Emma Stone Gets Huge 10-Minute-Plus Ovation At Venice Film Festival Premiere**
+**Drone strike sets fire to Russian factory making missile microchips, Ukraine says**
 
-You can read more about it [here](https://deadline.com/2023/09/poor-things-standing-ovation-yorgos-lanthimos-venice-1235534100/).
+You can read more about it [here](https://nypost.com/2023/09/01/drone-strikes-sets-fire-to-russian-factory-making-microchips-for-missiles-ukraine/).
 
 ## Requirements
 - Python 3.8
