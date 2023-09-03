@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Paris: Gane vs. Spivac LIVE Stream | People's Pre-Fight Show | MMA Fighting**
+**SpaceX delays launch of 13 satellites for US Space Force today. Here's how to watch online for free.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=oRWmJfrh3fk).
+You can read more about it [here](https://www.space.com/spacex-launch-space-force-second-tranche-0-mission).
 
 ## Requirements
 - Python 3.8
