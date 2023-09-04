@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin deer farm infected with fatal brain disease**
+**Final 8 FIBA World Cup teams still alive, ranked by their championship chances**
 
-You can read more about it [here](https://www.foxnews.com/us/wisconsin-deer-farm-infected-fatal-brain-disease).
+You can read more about it [here](https://www.sbnation.com/nba/2023/9/3/23855459/fiba-world-cup-ranking-final-eight-knockout-usa-canada-quarterfinals).
 
 ## Requirements
 - Python 3.8
