@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui fires: Hawaiians on many islands fear they could be next**
+**Kevin Costner's estranged wife spent $18,000 per month on clothing**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/09/02/maui-fires-hawaii-emergency-response/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kevin-costners-estranged-wife-spent-18-000-per-month-on-clothing-claims-the-yellowstone-stars-forensic-accountant-101693684490487.html).
 
 ## Requirements
 - Python 3.8
