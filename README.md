@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parenting advice YouTuber Ruby Franke arrested on suspicion of child abuse**
+**Maui fires: Hawaiians on many islands fear they could be next**
 
-You can read more about it [here](https://www.youtube.com/watch?v=c3OR0J5x4Kg).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/09/02/maui-fires-hawaii-emergency-response/).
 
 ## Requirements
 - Python 3.8
