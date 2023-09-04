@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner's estranged wife spent $18,000 per month on clothing**
+**Bradley Cooper’s ‘Maestro’ Receives Extended Ovation At World Premiere As Family Conducts Along – Venice Film Festival**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kevin-costners-estranged-wife-spent-18-000-per-month-on-clothing-claims-the-yellowstone-stars-forensic-accountant-101693684490487.html).
+You can read more about it [here](https://deadline.com/2023/09/maestro-world-premiere-bradley-cooper-venice-film-festival-1235534956/).
 
 ## Requirements
 - Python 3.8
