@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'There's a powerful argument' Trump is disqualified for presidency under 14th Amendment: Kaine**
+**Wisconsin deer farm infected with fatal brain disease**
 
-You can read more about it [here](https://abcnews.go.com/Politics/powerful-argument-trump-disqualified-presidency-14th-amendment-kaine/story?id=102886037).
+You can read more about it [here](https://www.foxnews.com/us/wisconsin-deer-farm-infected-fatal-brain-disease).
 
 ## Requirements
 - Python 3.8
