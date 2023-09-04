@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Housing market affordability is so strained that couples want down payment cash rather than a wedding gift**
+**Death investigated at Burning Man while 70,000 festival attendees remain stuck in Nevada desert after rain**
 
-You can read more about it [here](https://fortune.com/2023/09/03/housing-market-affordability-couples-want-down-payment-cash-for-wedding-gift/).
+You can read more about it [here](https://www.cnn.com/2023/09/03/us/burning-man-storms-shelter-sunday/index.html).
 
 ## Requirements
 - Python 3.8
