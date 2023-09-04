@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**India's moon rover completes its walk, scientists analyzing data looking for signs of frozen water.**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.yahoo.com/indias-moon-rover-completes-walk-043215917.html).
 
 ## Requirements
 - Python 3.8
