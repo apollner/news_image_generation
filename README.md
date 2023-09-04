@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final 8 FIBA World Cup teams still alive, ranked by their championship chances**
+**Israel’s Netanyahu calls for deportation of Eritrean refugee ‘rioters’**
 
-You can read more about it [here](https://www.sbnation.com/nba/2023/9/3/23855459/fiba-world-cup-ranking-final-eight-knockout-usa-canada-quarterfinals).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/3/israels-netanyahu-calls-for-immediate-deportation-of-eritrean-refugees).
 
 ## Requirements
 - Python 3.8
