@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Fincher’s Noir Thriller ‘The Killer’ Gets Rousing Standing Ovation in Venice**
+**Minnesota prison on emergency lockdown after about 100 inmates 'refuse' to return to cells**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/david-finchers-the-killer-standing-ovation-venice-1235581013/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-prison-emergency-lockdown-after-100-inmates-refuse-102895704).
 
 ## Requirements
 - Python 3.8
