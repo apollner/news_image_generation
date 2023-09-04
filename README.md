@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reflecting on Bill Richardson's tenure as New Mexico governor**
+**North Carolina vs. South Carolina Game Highlights | 2023 ACC Football**
 
-You can read more about it [here](https://www.koat.com/article/bill-richardson-reflects-new-mexico-governor-tenure/44981528).
+You can read more about it [here](https://www.youtube.com/watch?v=B9loEvyb9Dk).
 
 ## Requirements
 - Python 3.8
