@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**16-year-old student killed in shooting at Louisiana high school football game**
+**More rainfall on the way for Southern California**
 
-You can read more about it [here](https://nypost.com/2023/09/02/louisana-high-school-student-killed-in-football-game-shooting/).
+You can read more about it [here](https://www.youtube.com/watch?v=uf70sld_JUY).
 
 ## Requirements
 - Python 3.8
