@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More unmarried couples are buying homes together. What to know before you do**
+**Smash Mouth Singer Steve Harwell Enters Hospice Care**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/03/more-unmarried-couples-are-buying-homes-together.html).
+You can read more about it [here](https://consequence.net/2023/09/smash-mouth-steve-harwell-hospice-days-left-to-live/).
 
 ## Requirements
 - Python 3.8
