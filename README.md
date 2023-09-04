@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death investigated at Burning Man while 70,000 festival attendees remain stuck in Nevada desert after rain**
+**Fed in focus as earnings, economic calendars slow: What to know this week**
 
-You can read more about it [here](https://www.cnn.com/2023/09/03/us/burning-man-storms-shelter-sunday/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/fed-in-focus-as-earnings-economic-calendars-slow-what-to-know-this-week-115548083.html).
 
 ## Requirements
 - Python 3.8
