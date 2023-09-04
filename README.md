@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel’s Netanyahu calls for deportation of Eritrean refugee ‘rioters’**
+**More unmarried couples are buying homes together. What to know before you do**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/3/israels-netanyahu-calls-for-immediate-deportation-of-eritrean-refugees).
+You can read more about it [here](https://www.cnbc.com/2023/09/03/more-unmarried-couples-are-buying-homes-together.html).
 
 ## Requirements
 - Python 3.8
