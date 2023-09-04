@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johannesburg fire: Hijacks and death traps in a crumbling South African city centre**
+**Billionaires want to build a new city in rural California. They must convince voters first.**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66695688).
+You can read more about it [here](https://www.politico.com/news/2023/09/02/billionaires-want-to-build-a-new-city-in-rural-california-they-must-convince-voters-first-00113842).
 
 ## Requirements
 - Python 3.8
