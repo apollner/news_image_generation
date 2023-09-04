@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vampire: The Masquerade - Bloodlines 2 - Official 2023 Announcement Trailer**
+**Parenting advice YouTuber Ruby Franke arrested on suspicion of child abuse**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gw2frvZnWZQ).
+You can read more about it [here](https://www.youtube.com/watch?v=c3OR0J5x4Kg).
 
 ## Requirements
 - Python 3.8
