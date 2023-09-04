@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaires want to build a new city in rural California. They must convince voters first.**
+**Trish Stratus receives emotional ovation: WWE Payback 2023 exclusive**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/02/billionaires-want-to-build-a-new-city-in-rural-california-they-must-convince-voters-first-00113842).
+You can read more about it [here](https://www.youtube.com/watch?v=x-EdDzE1Zyk).
 
 ## Requirements
 - Python 3.8
