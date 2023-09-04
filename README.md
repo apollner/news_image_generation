@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bradley Cooper’s ‘Maestro’ Receives Extended Ovation At World Premiere As Family Conducts Along – Venice Film Festival**
+**Neighbors say they tried to help Ruby Franke’s kids before YouTuber’s arrest on child abuse charges**
 
-You can read more about it [here](https://deadline.com/2023/09/maestro-world-premiere-bradley-cooper-venice-film-festival-1235534956/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/neighbors-say-tried-help-ruby-frankes-kids-youtubers-arrest-child-abus-rcna103145).
 
 ## Requirements
 - Python 3.8
