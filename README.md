@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neighbors say they tried to help Ruby Franke’s kids before YouTuber’s arrest on child abuse charges**
+**[Removed]**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/neighbors-say-tried-help-ruby-frankes-kids-youtubers-arrest-child-abus-rcna103145).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
