@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina vs. South Carolina Game Highlights | 2023 ACC Football**
+**Alabama's Jalen Milroe wows in opener with 5 TDs in blowout win - ESPN**
 
-You can read more about it [here](https://www.youtube.com/watch?v=B9loEvyb9Dk).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38318061/alabama-jalen-milroe-wows-opener-5-tds-blowout-win).
 
 ## Requirements
 - Python 3.8
