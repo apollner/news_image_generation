@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More rain on the way for Southern California**
+**Reflecting on Bill Richardson's tenure as New Mexico governor**
 
-You can read more about it [here](https://ktla.com/news/local-news/more-rain-on-the-way-for-southern-california/).
+You can read more about it [here](https://www.koat.com/article/bill-richardson-reflects-new-mexico-governor-tenure/44981528).
 
 ## Requirements
 - Python 3.8
