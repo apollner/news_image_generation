@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smash Mouth Singer Steve Harwell Enters Hospice Care**
+**David Fincher’s Noir Thriller ‘The Killer’ Gets Rousing Standing Ovation in Venice**
 
-You can read more about it [here](https://consequence.net/2023/09/smash-mouth-steve-harwell-hospice-days-left-to-live/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/david-finchers-the-killer-standing-ovation-venice-1235581013/).
 
 ## Requirements
 - Python 3.8
