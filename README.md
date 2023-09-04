@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Barker Leaves Tour For ‘Urgent Family Matter,’ Reportedly Posts From Prayer Room**
+**Vampire: The Masquerade - Bloodlines 2 - Official 2023 Announcement Trailer**
 
-You can read more about it [here](https://www.huffpost.com/entry/travis-barker-urgent-family-matter-postpone-tour_n_64f33c0ee4b002c0364648ad).
+You can read more about it [here](https://www.youtube.com/watch?v=gw2frvZnWZQ).
 
 ## Requirements
 - Python 3.8
