@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 Pro to launch new Night Sight for videos feature and with SIM card slot globally**
+**[Removed]**
 
-You can read more about it [here](https://www.notebookcheck.net/Google-Pixel-8-Pro-to-launch-new-Night-Sight-for-videos-feature-and-with-SIM-card-slot-globally.745776.0.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
