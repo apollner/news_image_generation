@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama's Jalen Milroe wows in opener with 5 TDs in blowout win - ESPN**
+**Today’s daily horoscope for Sept. 3, 2023**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38318061/alabama-jalen-milroe-wows-opener-5-tds-blowout-win).
+You can read more about it [here](https://www.nj.com/advice/2023/09/todays-daily-horoscope-for-sept-3-2023.html).
 
 ## Requirements
 - Python 3.8
