@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AP Top 25 Takeaways: Believe the hype! Coach Prime delivers thrilling upset in debut for Colorado**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/coach-prime-colorado-tcu-pac12-ohio-state-4b823d27cb6a8beadb439a4bd7264be3).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
