@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trish Stratus receives emotional ovation: WWE Payback 2023 exclusive**
+**16-year-old student killed in shooting at Louisiana high school football game**
 
-You can read more about it [here](https://www.youtube.com/watch?v=x-EdDzE1Zyk).
+You can read more about it [here](https://nypost.com/2023/09/02/louisana-high-school-student-killed-in-football-game-shooting/).
 
 ## Requirements
 - Python 3.8
