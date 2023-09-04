@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carvana, CarMax should be in the driver's seat as used car shortages persist (NYSE:CVNA)**
+**More unmarried couples are buying homes together. What to know before you do**
 
-You can read more about it [here](https://seekingalpha.com/news/4008701-carvana-carmax-should-be-in-the-drivers-seat-as-used-car-shortages-persist).
+You can read more about it [here](https://www.cnbc.com/2023/09/03/more-unmarried-couples-are-buying-homes-together.html).
 
 ## Requirements
 - Python 3.8
