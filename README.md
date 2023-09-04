@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed in focus as earnings, economic calendars slow: What to know this week**
+**Carvana, CarMax should be in the driver's seat as used car shortages persist (NYSE:CVNA)**
 
-You can read more about it [here](https://finance.yahoo.com/news/fed-in-focus-as-earnings-economic-calendars-slow-what-to-know-this-week-115548083.html).
+You can read more about it [here](https://seekingalpha.com/news/4008701-carvana-carmax-should-be-in-the-drivers-seat-as-used-car-shortages-persist).
 
 ## Requirements
 - Python 3.8
