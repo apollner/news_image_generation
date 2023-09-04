@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s daily horoscope for Sept. 3, 2023**
+**AP Top 25 Takeaways: Believe the hype! Coach Prime delivers thrilling upset in debut for Colorado**
 
-You can read more about it [here](https://www.nj.com/advice/2023/09/todays-daily-horoscope-for-sept-3-2023.html).
+You can read more about it [here](https://apnews.com/article/coach-prime-colorado-tcu-pac12-ohio-state-4b823d27cb6a8beadb439a4bd7264be3).
 
 ## Requirements
 - Python 3.8
