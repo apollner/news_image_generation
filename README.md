@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden surveys Hurricane Idalia damage in Florida; DeSantis snubs meeting**
+**More rain on the way for Southern California**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/3/biden-surveys-hurricane-idalia-damage-in-florida-desantis-snubs-meeting).
+You can read more about it [here](https://ktla.com/news/local-news/more-rain-on-the-way-for-southern-california/).
 
 ## Requirements
 - Python 3.8
