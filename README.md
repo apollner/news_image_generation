@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See the moon meet up with Jupiter on Sept. 4.**
+**India's moon lander set for nighttime as solar mission soars**
 
-You can read more about it [here](https://www.space.com/moon-jupiter-conjunction-september-2023).
+You can read more about it [here](https://spacenews.com/indias-moon-lander-set-for-nighttime-as-solar-mission-soars/).
 
 ## Requirements
 - Python 3.8
