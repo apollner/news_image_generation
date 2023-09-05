@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second quarter updates, stream: Florida State Seminoles vs. LSU Tigers**
+**[Removed]**
 
-You can read more about it [here](https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/2023/9/3/23849609/lsu-orlando-score-live-free-tigers-watch-stream-sec-acc-jordan-travis-daniels-norvell-kelly-abc).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
