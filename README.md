@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan: Typhoon Haikui makes second landfall**
+**Horoscope for Monday, September 4, 2023**
 
-You can read more about it [here](https://www.dw.com/en/taiwan-typhoon-haikui-makes-second-landfall/a-66705629).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/4/23850078/horoscopes-today-monday-september-4-2023).
 
 ## Requirements
 - Python 3.8
