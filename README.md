@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of NYC Airbnb listings face removal as city drags feet over new building regulations: report**
+**What to know about Texas Attorney General Ken Paxton's impeachment trial**
 
-You can read more about it [here](https://nypost.com/2023/09/04/thousands-of-airbnb-listings-in-nyc-face-removal-amid-backlog-report/).
+You can read more about it [here](https://www.cnn.com/2023/09/04/politics/ken-paxton-impeachment-texas-attorney-general/index.html).
 
 ## Requirements
 - Python 3.8
