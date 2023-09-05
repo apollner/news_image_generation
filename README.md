@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Insider Q&A: Atlanta Fed President Raphael Bostic foresees interest rates staying higher for longer**
+**Ukraine claims Russian drones crashed on Romanian territory**
 
-You can read more about it [here](https://www.aol.com/news/insider-q-atlanta-fed-president-134634932.html).
+You can read more about it [here](https://www.ft.com/content/4ff04e76-6369-45b8-adc5-092cf08f5e78).
 
 ## Requirements
 - Python 3.8
