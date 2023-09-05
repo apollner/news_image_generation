@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starfield dev laughs at games media outlets asking for PS5 codes**
+**US Open: Defending champion Iga Świątek stunned by Jelena Ostapenko**
 
-You can read more about it [here](https://www.dexerto.com/starfield/starfield-dev-laughs-at-games-media-outlets-asking-for-ps5-codes-2277201/).
+You can read more about it [here](https://www.cnn.com/2023/09/04/tennis/iga-swiatek-loses-jelena-ostapenko-us-open-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
