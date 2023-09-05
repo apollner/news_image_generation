@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When Did Janelle Leave Kody? Sister Wives, Are They Still Together 2023? – StyleCaster**
+**Taiwan: Typhoon Haikui makes second landfall**
 
-You can read more about it [here](https://stylecaster.com/lists/janelle-leave-kody-sister-wives/).
+You can read more about it [here](https://www.dw.com/en/taiwan-typhoon-haikui-makes-second-landfall/a-66705629).
 
 ## Requirements
 - Python 3.8
