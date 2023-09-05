@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM Update: 'Hot Weather Emergency' declared; Labor Day heat index likely to top 100**
+**Minnesota prison on emergency lockdown after about 100 inmates 'refuse' to return to cells**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/09/03/pm-update-hot-weather-emergency-declared-labor-day-heat-index-likely-top-100/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-prison-emergency-lockdown-after-100-inmates-refuse-102895704).
 
 ## Requirements
 - Python 3.8
