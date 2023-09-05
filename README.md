@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Open: Defending champion Iga Świątek stunned by Jelena Ostapenko**
+**See the moon meet up with Jupiter on Sept. 4.**
 
-You can read more about it [here](https://www.cnn.com/2023/09/04/tennis/iga-swiatek-loses-jelena-ostapenko-us-open-spt-intl/index.html).
+You can read more about it [here](https://www.space.com/moon-jupiter-conjunction-september-2023).
 
 ## Requirements
 - Python 3.8
