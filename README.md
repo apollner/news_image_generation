@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top 5 Neuroscience Discoveries of the Week - September 3, 2023**
+**Second quarter updates, stream: Florida State Seminoles vs. LSU Tigers**
 
-You can read more about it [here](https://neurosciencenews.com/neuroscience-news-weekly-sep-3-2023/).
+You can read more about it [here](https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/2023/9/3/23849609/lsu-orlando-score-live-free-tigers-watch-stream-sec-acc-jordan-travis-daniels-norvell-kelly-abc).
 
 ## Requirements
 - Python 3.8
