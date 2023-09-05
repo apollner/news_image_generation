@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**G2 geomagnetic storm hits Earth, sparks auroras in the US**
+**In battle of NL's best, Braves reassert their standing as MLB's team to beat**
 
-You can read more about it [here](https://tech.hindustantimes.com/tech/news/g2-geomagnetic-storm-hits-earth-sparks-auroras-in-the-us-71693795509162.html).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/in-battle-of-nls-best-braves-reassert-their-standing-as-mlbs-team-to-beat).
 
 ## Requirements
 - Python 3.8
