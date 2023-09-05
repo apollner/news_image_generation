@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ken Paxton’s affair will be focus of impeachment trial**
+**Zelensky replaces Ukrainian defense minister, citing need for 'new approaches'**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/04/ken-paxton-affair-impeachment-trial-marriage/).
+You can read more about it [here](https://www.cnn.com/2023/09/03/europe/ukraine-zelensky-fires-defense-minister-reznikov-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
