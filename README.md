@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden touts unions, job creation during Philadelphia Labor Day appearance**
+**Thousands of NYC Airbnb listings face removal as city drags feet over new building regulations: report**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/biden-heads-philadelphia-labor-day-parade-expected-speak-102904480).
+You can read more about it [here](https://nypost.com/2023/09/04/thousands-of-airbnb-listings-in-nyc-face-removal-amid-backlog-report/).
 
 ## Requirements
 - Python 3.8
