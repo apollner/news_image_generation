@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are the pros and cons of evening workouts**
+**Hoka Labor Day Sale: Save On The Clifton 8, Carbon X3 And More**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/04/evening-workouts-health-sleep-benefits/).
+You can read more about it [here](https://www.forbes.com/sites/forbes-personal-shopper/2023/09/04/hoka-labor-day-sale/).
 
 ## Requirements
 - Python 3.8
