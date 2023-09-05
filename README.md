@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC issues flesh-eating bacteria warning after cases in North Carolina**
+**2 dead, 3 injured in Birmingham club shooting; Shots fired outside UAB Hospital**
 
-You can read more about it [here](https://www.wxii12.com/article/cdc-warns-flesh-eating-bacteria-north-carolina/44991555).
+You can read more about it [here](https://www.wvtm13.com/article/birmingham-labor-day-shooting-uab-hospital/44989804).
 
 ## Requirements
 - Python 3.8
