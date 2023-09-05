@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tomy is recalling more than 85,000 highchairs that pose a fall risk**
+**PM Update: 'Hot Weather Emergency' declared; Labor Day heat index likely to top 100**
 
-You can read more about it [here](https://www.npr.org/2023/09/03/1197497035/tomy-highchair-child-baby-safety-recall-fall-risk).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/09/03/pm-update-hot-weather-emergency-declared-labor-day-heat-index-likely-top-100/).
 
 ## Requirements
 - Python 3.8
