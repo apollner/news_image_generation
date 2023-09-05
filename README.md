@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olivia Rodrigo Responds to Theory That "Vampire" Is About Taylor Swift**
+**Tomy is recalling more than 85,000 highchairs that pose a fall risk**
 
-You can read more about it [here](https://www.eonline.com/news/1384757/olivia-rodrigo-responds-to-theory-that-vampire-song-is-about-taylor-swift).
+You can read more about it [here](https://www.npr.org/2023/09/03/1197497035/tomy-highchair-child-baby-safety-recall-fall-risk).
 
 ## Requirements
 - Python 3.8
