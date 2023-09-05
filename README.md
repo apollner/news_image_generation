@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In battle of NL's best, Braves reassert their standing as MLB's team to beat**
+**[Removed]**
 
-You can read more about it [here](https://www.foxsports.com/stories/mlb/in-battle-of-nls-best-braves-reassert-their-standing-as-mlbs-team-to-beat).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
