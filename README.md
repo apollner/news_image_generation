@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead, 3 injured in Birmingham club shooting; Shots fired outside UAB Hospital**
+**Biden touts unions, job creation during Philadelphia Labor Day appearance**
 
-You can read more about it [here](https://www.wvtm13.com/article/birmingham-labor-day-shooting-uab-hospital/44989804).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/biden-heads-philadelphia-labor-day-parade-expected-speak-102904480).
 
 ## Requirements
 - Python 3.8
