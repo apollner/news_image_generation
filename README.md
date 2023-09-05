@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Texas Attorney General Ken Paxton's impeachment trial**
+**Here are the pros and cons of evening workouts**
 
-You can read more about it [here](https://www.cnn.com/2023/09/04/politics/ken-paxton-impeachment-texas-attorney-general/index.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/04/evening-workouts-health-sleep-benefits/).
 
 ## Requirements
 - Python 3.8
