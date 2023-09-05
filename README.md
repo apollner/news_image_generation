@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota prison on emergency lockdown after about 100 inmates 'refuse' to return to cells**
+**Top 5 Neuroscience Discoveries of the Week - September 3, 2023**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-prison-emergency-lockdown-after-100-inmates-refuse-102895704).
+You can read more about it [here](https://neurosciencenews.com/neuroscience-news-weekly-sep-3-2023/).
 
 ## Requirements
 - Python 3.8
