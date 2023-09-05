@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**CDC issues flesh-eating bacteria warning after cases in North Carolina**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wxii12.com/article/cdc-warns-flesh-eating-bacteria-north-carolina/44991555).
 
 ## Requirements
 - Python 3.8
