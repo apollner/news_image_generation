@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Buffett had been fighting skin cancer for 4 years before his death**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/jimmy-buffett-had-been-fighting-skin-cancer-for-4-years-before-his-death/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
