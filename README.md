@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 NFL season preview: Fifty-eight things to watch on the road to Super Bowl LVIII**
+**[Removed]**
 
-You can read more about it [here](https://www.nfl.com/news/2023-nfl-season-preview-fifty-eight-things-to-watch-on-the-road-to-super-bowl-lv).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
