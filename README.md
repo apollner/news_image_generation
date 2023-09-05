@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**G2 geomagnetic storm hits Earth, sparks auroras in the US**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://tech.hindustantimes.com/tech/news/g2-geomagnetic-storm-hits-earth-sparks-auroras-in-the-us-71693795509162.html).
 
 ## Requirements
 - Python 3.8
