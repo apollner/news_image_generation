@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**G2 geomagnetic storm hits Earth, sparks auroras in the US**
+**Ken Paxton’s affair will be focus of impeachment trial**
 
-You can read more about it [here](https://tech.hindustantimes.com/tech/news/g2-geomagnetic-storm-hits-earth-sparks-auroras-in-the-us-71693795509162.html).
+You can read more about it [here](https://www.texastribune.org/2023/09/04/ken-paxton-affair-impeachment-trial-marriage/).
 
 ## Requirements
 - Python 3.8
