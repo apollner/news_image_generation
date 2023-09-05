@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's moon lander set for nighttime as solar mission soars**
+**Insider Q&A: Atlanta Fed President Raphael Bostic foresees interest rates staying higher for longer**
 
-You can read more about it [here](https://spacenews.com/indias-moon-lander-set-for-nighttime-as-solar-mission-soars/).
+You can read more about it [here](https://www.aol.com/news/insider-q-atlanta-fed-president-134634932.html).
 
 ## Requirements
 - Python 3.8
