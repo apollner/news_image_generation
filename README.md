@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ESA to set target for first Ariane 6 launch after upcoming tests**
+**Jimmy Buffett had been fighting skin cancer for 4 years before his death**
 
-You can read more about it [here](https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/jimmy-buffett-had-been-fighting-skin-cancer-for-4-years-before-his-death/).
 
 ## Requirements
 - Python 3.8
