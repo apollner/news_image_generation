@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky replaces Ukrainian defense minister, citing need for 'new approaches'**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/09/03/europe/ukraine-zelensky-fires-defense-minister-reznikov-intl-hnk/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
