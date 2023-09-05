@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota prison on emergency lockdown after about 100 inmates 'refuse' to return to cells**
+**Olivia Rodrigo Responds to Theory That "Vampire" Is About Taylor Swift**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-prison-emergency-lockdown-after-100-inmates-refuse-102895704).
+You can read more about it [here](https://www.eonline.com/news/1384757/olivia-rodrigo-responds-to-theory-that-vampire-song-is-about-taylor-swift).
 
 ## Requirements
 - Python 3.8
