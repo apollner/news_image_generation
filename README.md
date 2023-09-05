@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Starfield dev laughs at games media outlets asking for PS5 codes**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.dexerto.com/starfield/starfield-dev-laughs-at-games-media-outlets-asking-for-ps5-codes-2277201/).
 
 ## Requirements
 - Python 3.8
