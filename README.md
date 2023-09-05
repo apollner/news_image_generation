@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hoka Labor Day Sale: Save On The Clifton 8, Carbon X3 And More**
+**Joe Jonas Wears Wedding Ring Amid Sophie Turner Divorce Rumors**
 
-You can read more about it [here](https://www.forbes.com/sites/forbes-personal-shopper/2023/09/04/hoka-labor-day-sale/).
+You can read more about it [here](https://www.eonline.com/news/1384770/joe-jonas-wears-wedding-ring-amid-sophie-turner-divorce-rumors).
 
 ## Requirements
 - Python 3.8
