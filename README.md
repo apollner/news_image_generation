@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine claims Russian drones crashed on Romanian territory**
+**2023 NFL season preview: Fifty-eight things to watch on the road to Super Bowl LVIII**
 
-You can read more about it [here](https://www.ft.com/content/4ff04e76-6369-45b8-adc5-092cf08f5e78).
+You can read more about it [here](https://www.nfl.com/news/2023-nfl-season-preview-fifty-eight-things-to-watch-on-the-road-to-super-bowl-lv).
 
 ## Requirements
 - Python 3.8
