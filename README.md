@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas Wears Wedding Ring Amid Sophie Turner Divorce Rumors**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1384770/joe-jonas-wears-wedding-ring-amid-sophie-turner-divorce-rumors).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
