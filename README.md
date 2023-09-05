@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LSU's collapse to FSU in opener 'a total failure,' Brian Kelly says - ESPN**
+**When Did Janelle Leave Kody? Sister Wives, Are They Still Together 2023? – StyleCaster**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38325446/lsu-collapse-fsu-opener-total-failure-brian-kelly-says).
+You can read more about it [here](https://stylecaster.com/lists/janelle-leave-kody-sister-wives/).
 
 ## Requirements
 - Python 3.8
