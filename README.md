@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Chester County Prison escape: Pocopson Township resident believes escaped killer Danelo Cavalcante was in his home**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://6abc.com/chester-county-prison-escape-pocopson-township-burglary-danelo-cavalcante-prisoner-convicted-murderer-pennsylvania/13735720/).
 
 ## Requirements
 - Python 3.8
