@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First lady Jill Biden tests positive for Covid-19**
+**Injured pickup truck driver rescued after 5 days trapped at bottom of 100-foot ravine in California**
 
-You can read more about it [here](https://www.cnn.com/2023/09/04/politics/jill-biden-covid/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/driver-rescued-5-days-trapped-ravine-sheeps-trail-stallion-springs-california/).
 
 ## Requirements
 - Python 3.8
