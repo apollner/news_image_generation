@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four-person crew returns to Earth aboard SpaceX’s Dragon capsule**
+**Taylor Swift Box Office: Theater Owners Predict Record $100M Opening for Eras Tour Concert Pic**
 
-You can read more about it [here](https://arstechnica.com/space/2023/09/four-person-crew-returns-to-earth-aboard-spacexs-dragon-capsule/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/taylor-swift-eras-tour-movie-1235581725/).
 
 ## Requirements
 - Python 3.8
