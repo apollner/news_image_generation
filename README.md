@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Stocks Fall on Weak China PMI; Aussie Dollar Falls: Markets Wrap**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-set-fall-china-222354986.html).
 
 ## Requirements
 - Python 3.8
