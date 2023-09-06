@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wegovy: Weight-loss drug firm becomes Europe's most valuable**
+**First lady Jill Biden tests positive for Covid-19**
 
-You can read more about it [here](https://www.bbc.com/news/business-66714128).
+You can read more about it [here](https://www.cnn.com/2023/09/04/politics/jill-biden-covid/index.html).
 
 ## Requirements
 - Python 3.8
