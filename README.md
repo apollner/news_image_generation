@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Rustem Umerov, Zelensky's pick for Ukraine defense minister?**
+**S&P 500 futures slip to start the week: Live updates**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/04/umerov-defense-minister-ukraine/).
+You can read more about it [here](https://www.cnbc.com/2023/09/04/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
