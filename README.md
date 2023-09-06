@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Set To Embrace an iPhone Charger Change It Didn't Want**
+**PA state police take over hunt for escaped convicted murderer, play mom’s surrender plea from chopper**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.foxnews.com/us/pa-state-police-take-over-hunt-escaped-convicted-murderer-play-moms-surrender-plea-chopper).
 
 ## Requirements
 - Python 3.8
