@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA lifts brief nationwide ground stop for United Airlines**
+**Oil prices surge after Saudi Arabia and Russia extend production cuts**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/05/faa-issues-nationwide-ground-stop-for-united-airlines-flights.html).
+You can read more about it [here](https://www.cnn.com/2023/09/05/energy/oil-prices-saudi-russia-output-cuts/index.html).
 
 ## Requirements
 - Python 3.8
