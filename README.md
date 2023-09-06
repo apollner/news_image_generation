@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyoncé's Birthday Concerts: Here's Every Star Who Attended in L.A.**
+**Kylie Jenner and Timothée go public with their romance at Beyoncé concert. Watch**
 
-You can read more about it [here](https://www.etonline.com/beyonces-birthday-concerts-heres-every-star-who-attended-the-renaissance-world-tour-in-los-angeles).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-and-timoth-e-chalamet-go-public-with-their-romance-at-beyonc-concert-watch-101693915594700.html).
 
 ## Requirements
 - Python 3.8
