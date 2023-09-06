@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Shares 'Wonderlust' Event Live Stream Placeholder on YouTube**
+**Narcan is now available over-the-counter: cost, where to find it and how it works**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/05/apple-wonderlust-event-live-stream/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/09/05/narcan-over-the-counter-faq/).
 
 ## Requirements
 - Python 3.8
