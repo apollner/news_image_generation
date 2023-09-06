@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 1: Steelers rising heading into 2023 season; Jets, Patriots fall before kickoff**
+**Beyoncé's Birthday Concerts: Here's Every Star Who Attended in L.A.**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-1-2023-nfl-season).
+You can read more about it [here](https://www.etonline.com/beyonces-birthday-concerts-heres-every-star-who-attended-the-renaissance-world-tour-in-los-angeles).
 
 ## Requirements
 - Python 3.8
