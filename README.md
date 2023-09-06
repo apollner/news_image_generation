@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 559**
+**Emergency responders at Hampton Beach report an increase of rescue calls this summer**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/5/russia-ukraine-war-list-of-key-events-day-559).
+You can read more about it [here](https://www.wmur.com/article/hampton-new-hampshire-rescue-calls-increase/44991858).
 
 ## Requirements
 - Python 3.8
