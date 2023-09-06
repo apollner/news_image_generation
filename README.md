@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cubs continue honoring Jimmy Buffett with special 7th-inning stretch tribute**
+**First lady Jill Biden tests positive for Covid-19**
 
-You can read more about it [here](https://www.foxnews.com/sports/cubs-continue-honoring-jimmy-buffett-special-7th-inning-stretch-tribute).
+You can read more about it [here](https://www.cnn.com/2023/09/04/politics/jill-biden-covid/index.html).
 
 ## Requirements
 - Python 3.8
