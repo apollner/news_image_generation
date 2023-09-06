@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An angelfish at the Denver Zoo was "swimming abnormally." A special CT scan revealed the reason why.**
+**Beyoncé's Birthday Concerts: Here's Every Star Who Attended in L.A.**
 
-You can read more about it [here](https://www.cbsnews.com/news/angelfish-denver-zoo-swimming-with-tilt-ct-scan/).
+You can read more about it [here](https://www.etonline.com/beyonces-birthday-concerts-heres-every-star-who-attended-the-renaissance-world-tour-in-los-angeles).
 
 ## Requirements
 - Python 3.8
