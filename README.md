@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane center says tropical system will form on way to Caribbean**
+**Russia-Ukraine war: List of key events, day 559**
 
-You can read more about it [here](http://www.orlandosentinel.com/2023/09/04/hurricane-center-raises-odds-for-tropical-system-headed-toward-caribbean/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/5/russia-ukraine-war-list-of-key-events-day-559).
 
 ## Requirements
 - Python 3.8
