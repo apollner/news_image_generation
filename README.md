@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas And Sophie Turner Divorce: Split Is Confirmed**
+**6 die from 'flesh-eating' bacteria in 3 East Coast states. Here's what to know about Vibrio vulnificus**
 
-You can read more about it [here](https://www.today.com/popculture/joe-jonas-sophie-turner-divorce-rcna103286).
+You can read more about it [here](https://abcnews.go.com/Health/6-die-flesh-eating-bacteria-3-eeast-coast/story?id=102926186).
 
 ## Requirements
 - Python 3.8
