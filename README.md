@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US lab tests suggest new Covid-19 variant BA.2.86 may be less contagious and less immune-evasive than feared**
+**Stocks Fall on Weak China PMI; Aussie Dollar Falls: Markets Wrap**
 
-You can read more about it [here](https://www.cnn.com/2023/09/03/health/covid-new-variant-pirola-early-lab-results/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-set-fall-china-222354986.html).
 
 ## Requirements
 - Python 3.8
