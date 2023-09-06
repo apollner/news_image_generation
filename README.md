@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency responders at Hampton Beach report an increase of rescue calls this summer**
+**[Removed]**
 
-You can read more about it [here](https://www.wmur.com/article/hampton-new-hampshire-rescue-calls-increase/44991858).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
