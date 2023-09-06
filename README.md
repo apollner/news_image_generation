@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woody Allen says he's had a 'very, very lucky life' at premiere of 50th film**
+**China's Country Garden dodges another default in relief for property sector**
 
-You can read more about it [here](https://www.cnn.com/2023/09/05/entertainment/woody-allen-venice-intl-scli/index.html).
+You can read more about it [here](https://www.reuters.com/world/china/country-garden-faces-second-debt-challenge-days-offshore-payment-comes-due-2023-09-05/).
 
 ## Requirements
 - Python 3.8
