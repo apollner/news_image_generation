@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burning Man mass exodus begins after flooding trapped desert revelers**
+**Woody Allen says he's had a 'very, very lucky life' at premiere of 50th film**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/5/burning-man-mass-exodus-begins-after-flooding-trapped-desert-revelers).
+You can read more about it [here](https://www.cnn.com/2023/09/05/entertainment/woody-allen-venice-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
