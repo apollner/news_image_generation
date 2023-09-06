@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Country Garden dodges another default in relief for property sector**
+**An angelfish at the Denver Zoo was "swimming abnormally." A special CT scan revealed the reason why.**
 
-You can read more about it [here](https://www.reuters.com/world/china/country-garden-faces-second-debt-challenge-days-offshore-payment-comes-due-2023-09-05/).
+You can read more about it [here](https://www.cbsnews.com/news/angelfish-denver-zoo-swimming-with-tilt-ct-scan/).
 
 ## Requirements
 - Python 3.8
