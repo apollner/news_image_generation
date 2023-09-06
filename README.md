@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UW Madison pier collapse is second in 20 years**
+**Joe Jonas And Sophie Turner Divorce: Split Is Confirmed**
 
-You can read more about it [here](https://www.jsonline.com/story/news/education/2023/09/05/uw-madison-pier-collapse-memorial-union-terrace-is-second-in-20-years/70766874007/).
+You can read more about it [here](https://www.today.com/popculture/joe-jonas-sophie-turner-divorce-rcna103286).
 
 ## Requirements
 - Python 3.8
