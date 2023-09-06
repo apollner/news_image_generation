@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil prices surge after Saudi Arabia and Russia extend production cuts**
+**Four-person crew returns to Earth aboard SpaceX’s Dragon capsule**
 
-You can read more about it [here](https://www.cnn.com/2023/09/05/energy/oil-prices-saudi-russia-output-cuts/index.html).
+You can read more about it [here](https://arstechnica.com/space/2023/09/four-person-crew-returns-to-earth-aboard-spacexs-dragon-capsule/).
 
 ## Requirements
 - Python 3.8
