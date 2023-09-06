@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Fall on Weak China PMI; Aussie Dollar Falls: Markets Wrap**
+**Cubs continue honoring Jimmy Buffett with special 7th-inning stretch tribute**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-set-fall-china-222354986.html).
+You can read more about it [here](https://www.foxnews.com/sports/cubs-continue-honoring-jimmy-buffett-special-7th-inning-stretch-tribute).
 
 ## Requirements
 - Python 3.8
