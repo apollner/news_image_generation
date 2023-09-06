@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 1: Steelers rising heading into 2023 season; Jets, Patriots fall before kickoff**
+**In EV Transition, German Carmakers Lag Behind Tesla and China**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-1-2023-nfl-season).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvYXV0b3MvaW4tZXYtdHJhbnNpdGlvbi1nZXJtYW4tY2FybWFrZXJzLWxhZy1iZWhpbmQtdGVzbGEtYW5kLWNoaW5hLTVmNjBhOTlm0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
