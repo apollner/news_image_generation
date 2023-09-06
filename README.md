@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In EV Transition, German Carmakers Lag Behind Tesla and China**
+**Kylie Jenner and Timothée Chalamet Make First Public Appearance at Beyoncé Concert**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvYXV0b3MvaW4tZXYtdHJhbnNpdGlvbi1nZXJtYW4tY2FybWFrZXJzLWxhZy1iZWhpbmQtdGVzbGEtYW5kLWNoaW5hLTVmNjBhOTlm0gEA?oc=5).
+You can read more about it [here](https://www.youtube.com/watch?v=QBy9QdPuUrQ).
 
 ## Requirements
 - Python 3.8
