@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Narcan is now available over-the-counter: cost, where to find it and how it works**
+**FAA lifts brief nationwide ground stop for United Airlines**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/09/05/narcan-over-the-counter-faq/).
+You can read more about it [here](https://www.cnbc.com/2023/09/05/faa-issues-nationwide-ground-stop-for-united-airlines-flights.html).
 
 ## Requirements
 - Python 3.8
