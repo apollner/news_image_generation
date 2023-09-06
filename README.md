@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Jenner and Timothée Chalamet Make First Public Appearance at Beyoncé Concert**
+**Clemson football’s red-zone curse at Duke and more on ACC realignment**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QBy9QdPuUrQ).
+You can read more about it [here](https://theathletic.com/4812941/2023/09/05/duke-clemson-acc-until-saturday/).
 
 ## Requirements
 - Python 3.8
