@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clemson football’s red-zone curse at Duke and more on ACC realignment**
+**Apple Shares 'Wonderlust' Event Live Stream Placeholder on YouTube**
 
-You can read more about it [here](https://theathletic.com/4812941/2023/09/05/duke-clemson-acc-until-saturday/).
+You can read more about it [here](https://www.macrumors.com/2023/09/05/apple-wonderlust-event-live-stream/).
 
 ## Requirements
 - Python 3.8
