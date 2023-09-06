@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 killed, several others rescued in rip currents at Jersey Shore beaches**
+**Apple Set To Embrace an iPhone Charger Change It Didn't Want**
 
-You can read more about it [here](https://abc7ny.com/new-jersey-shore-drowning-rescue/13736009/).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
