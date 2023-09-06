@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Jenner and Timothée go public with their romance at Beyoncé concert. Watch**
+**NFL Power Rankings, Week 1: Steelers rising heading into 2023 season; Jets, Patriots fall before kickoff**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-and-timoth-e-chalamet-go-public-with-their-romance-at-beyonc-concert-watch-101693915594700.html).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-1-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
