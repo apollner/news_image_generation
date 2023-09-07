@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawsuit filed to remove Trump from ballot in CO under 14th Amendment - CREW**
+**Sonos Move 2 Portable Speaker Promises Better Sound and Battery Life**
 
-You can read more about it [here](https://www.citizensforethics.org/news/press-releases/lawsuit-filed-to-remove-trump-from-ballot-in-co-under-14th-amendment/).
+You can read more about it [here](https://www.cnet.com/tech/home-entertainment/sonos-move-2-portable-speaker-promises-better-sound-and-battery-life/).
 
 ## Requirements
 - Python 3.8
