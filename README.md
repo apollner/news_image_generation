@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 1 NFL picks: Bills spoil Aaron Rodgers' debut with Jets; Steelers, Packers pull off upsets**
+**Sailors rescued after several shark attacks damage inflatable catamaran in Coral Sea: Video**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-1-nfl-picks-bills-spoil-aaron-rodgers-debut-with-jets-steelers-packers-pull-off-upsets/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDkvMDYvY2F0YW1hcmFuLXNoYXJrLWF0dGFja3MtY29yYWwtc2VhLXZpZGVvLzcwNzc0NDA3MDA3L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
