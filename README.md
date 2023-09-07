@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman Sachs chief economist: US consumer won't break in 2024**
+**Google Play Movies app on Android TV going away in October**
 
-You can read more about it [here](https://finance.yahoo.com/news/goldman-sachs-chief-economist-us-consumer-wont-break-in-2024-212928011.html).
+You can read more about it [here](https://9to5google.com/2023/09/05/google-play-movies-tv-app-october/).
 
 ## Requirements
 - Python 3.8
