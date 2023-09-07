@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID is on the rise in Florida: What to know about hospitalizations, testing**
+**iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown**
 
-You can read more about it [here](https://www.floridatoday.com/story/news/2023/09/04/covid-is-on-the-rise-in-florida-what-to-know-about-hospitalizations-testing/70700735007/).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/05/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/).
 
 ## Requirements
 - Python 3.8
