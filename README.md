@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India or Bharat? G20 dinner invitation triggers name change row**
+**Horoscope for Wednesday, September 6, 2023**
 
-You can read more about it [here](https://asia.nikkei.com/Politics/India-or-Bharat-G20-dinner-invitation-triggers-name-change-row).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/6/23851354/horoscopes-today-wednesday-september-6-2023).
 
 ## Requirements
 - Python 3.8
