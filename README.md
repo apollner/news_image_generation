@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman Sachs chief economist: US consumer won't break in 2024**
+**Jose Altuve on home run tear in Astros' game vs. Rangers**
 
-You can read more about it [here](https://finance.yahoo.com/news/goldman-sachs-chief-economist-us-consumer-wont-break-in-2024-212928011.html).
+You can read more about it [here](https://www.mlb.com/news/jose-altuve-home-run-tear-in-astros-game-vs-rangers).
 
 ## Requirements
 - Python 3.8
