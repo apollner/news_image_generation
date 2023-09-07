@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A UAW strike at Detroit’s Big 3 could be a ‘nightmare scenario’ for Ford and GM, top analyst Dan Ives warns**
+**Trump found liable for defamation in writer Carroll's second lawsuit**
 
-You can read more about it [here](https://fortune.com/2023/09/06/uaw-strike-nightmare-scenario-for-carmakers-detroit-big-3-union/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3RydW1wLWxvc2VzLWtleS1ydWxpbmctYWhlYWQtd3JpdGVyLWNhcnJvbGxzLWRlZmFtYXRpb24tdHJpYWwtMjAyMy0wOS0wNi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
