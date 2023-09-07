@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sonos Move 2 Portable Speaker Promises Better Sound and Battery Life**
+**FDA could greenlight new Covid boosters as early as Friday**
 
-You can read more about it [here](https://www.cnet.com/tech/home-entertainment/sonos-move-2-portable-speaker-promises-better-sound-and-battery-life/).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/fda-green-light-new-covid-boosters-early-friday-rcna103379).
 
 ## Requirements
 - Python 3.8
