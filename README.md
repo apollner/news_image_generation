@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Air Force tests nuclear-capable long-range missile**
+**Trump is liable in the second E. Jean Carroll defamation case, judge rules; January trial will determine damages**
 
-You can read more about it [here](https://www.cnn.com/2023/09/06/politics/usaf-nuclear-missile-tests/index.html).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
