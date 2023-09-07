@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 21 killed, thousands displaced by Brazil cyclone**
+**Huawei's new chip breakthrough likely to trigger closer US scrutiny, analysts say**
 
-You can read more about it [here](https://www.cbsnews.com/news/brazil-cyclone-several-killed-thousands-displaced-flooding-heavy-rains/).
+You can read more about it [here](https://www.reuters.com/technology/huaweis-new-chip-breakthrough-likely-trigger-closer-us-scrutiny-analysts-2023-09-05/).
 
 ## Requirements
 - Python 3.8
