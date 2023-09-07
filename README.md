@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple signs new agreement with Arm that goes past 2040**
+**Bob Barker's cause of death at age 99 revealed in death certificate**
 
-You can read more about it [here](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040).
+You can read more about it [here](https://abc7chicago.com/bob-barker-cause-of-death-certificate-alzheimers-disease/13740156/).
 
 ## Requirements
 - Python 3.8
