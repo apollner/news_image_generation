@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Air Force tests nuclear-capable long-range missile**
+**Sonos Move 2 Portable Speaker Promises Better Sound and Battery Life**
 
-You can read more about it [here](https://www.cnn.com/2023/09/06/politics/usaf-nuclear-missile-tests/index.html).
+You can read more about it [here](https://www.cnet.com/tech/home-entertainment/sonos-move-2-portable-speaker-promises-better-sound-and-battery-life/).
 
 ## Requirements
 - Python 3.8
