@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo: Apple-Designed 5G Modem for iPhones to Debut in 2025**
+**A UAW strike at Detroit’s Big 3 could be a ‘nightmare scenario’ for Ford and GM, top analyst Dan Ives warns**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/06/apple-modem-in-2025-kuo/).
+You can read more about it [here](https://fortune.com/2023/09/06/uaw-strike-nightmare-scenario-for-carmakers-detroit-big-3-union/).
 
 ## Requirements
 - Python 3.8
