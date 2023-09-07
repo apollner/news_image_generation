@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA could greenlight new Covid boosters as early as Friday**
+**Stock Market Today: Dow, S&P Live Updates for September 6**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/fda-green-light-new-covid-boosters-early-friday-rcna103379).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-05/stock-market-today-dow-s-p-live-updates).
 
 ## Requirements
 - Python 3.8
