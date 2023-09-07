@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown**
+**Cuba says Russian human traffickers lure citizens to war with Ukraine**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/05/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/05/cuba-russia-ukraine-trafficking-smuggling/).
 
 ## Requirements
 - Python 3.8
