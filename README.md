@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chevron and unions in talks to avert Australia LNG strike**
+**Federal court rejects Alabama's congressional map, will draw new districts to boost Black voting power**
 
-You can read more about it [here](https://www.bbc.com/news/business-66714132).
+You can read more about it [here](https://www.cbsnews.com/news/alabamas-congressional-districts-rejected-federal-court-majority-black-voters-district/).
 
 ## Requirements
 - Python 3.8
