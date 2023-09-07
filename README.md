@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal court rejects Alabama's congressional map, will draw new districts to boost Black voting power**
+**Goldman Sachs chief economist: US consumer won't break in 2024**
 
-You can read more about it [here](https://www.cbsnews.com/news/alabamas-congressional-districts-rejected-federal-court-majority-black-voters-district/).
+You can read more about it [here](https://finance.yahoo.com/news/goldman-sachs-chief-economist-us-consumer-wont-break-in-2024-212928011.html).
 
 ## Requirements
 - Python 3.8
