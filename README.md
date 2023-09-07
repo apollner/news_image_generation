@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Play Movies app on Android TV going away in October**
+**India or Bharat? G20 dinner invitation triggers name change row**
 
-You can read more about it [here](https://9to5google.com/2023/09/05/google-play-movies-tv-app-october/).
+You can read more about it [here](https://asia.nikkei.com/Politics/India-or-Bharat-G20-dinner-invitation-triggers-name-change-row).
 
 ## Requirements
 - Python 3.8
