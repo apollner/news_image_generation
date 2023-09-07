@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Jenner & Timothée Chalamet Spotted at Beyoncé Concert**
+**Chevron and unions in talks to avert Australia LNG strike**
 
-You can read more about it [here](http://www.vulture.com/2023/09/kylie-jenner-timothee-chalamet-spotted.html).
+You can read more about it [here](https://www.bbc.com/news/business-66714132).
 
 ## Requirements
 - Python 3.8
