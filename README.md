@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: 16 killed in missile attack on market**
+**Sonos Move 2 Portable Speaker Promises Better Sound and Battery Life**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66731927).
+You can read more about it [here](https://www.cnet.com/tech/home-entertainment/sonos-move-2-portable-speaker-promises-better-sound-and-battery-life/).
 
 ## Requirements
 - Python 3.8
