@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump found liable for defamation in writer Carroll's second lawsuit**
+**NFL Fantasy 2023 Start 'Em, Sit 'Em Week 1: Quarterbacks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3RydW1wLWxvc2VzLWtleS1ydWxpbmctYWhlYWQtd3JpdGVyLWNhcnJvbGxzLWRlZmFtYXRpb24tdHJpYWwtMjAyMy0wOS0wNi_SAQA?oc=5).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-week-1-quarterbacks).
 
 ## Requirements
 - Python 3.8
