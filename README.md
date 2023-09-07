@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Air Force tests nuclear-capable long-range missile**
+**Lawsuit filed to remove Trump from ballot in CO under 14th Amendment - CREW**
 
-You can read more about it [here](https://www.cnn.com/2023/09/06/politics/usaf-nuclear-missile-tests/index.html).
+You can read more about it [here](https://www.citizensforethics.org/news/press-releases/lawsuit-filed-to-remove-trump-from-ballot-in-co-under-14th-amendment/).
 
 ## Requirements
 - Python 3.8
