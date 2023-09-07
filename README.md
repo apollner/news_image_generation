@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Sen. McConnell's health episodes show no evidence of stroke or seizure disorder but questions linger**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/mitch-mcconnell-health-senate-doctor-162087fbf0d0c1dfa2c19beca1bd380f).
 
 ## Requirements
 - Python 3.8
