@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cuba says Russian human traffickers lure citizens to war with Ukraine**
+**Dozens face RICO charges over Atlanta police center protests**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/05/cuba-russia-ukraine-trafficking-smuggling/).
+You can read more about it [here](https://www.reuters.com/legal/dozens-face-rico-charges-over-atlanta-police-center-protests-2023-09-05/).
 
 ## Requirements
 - Python 3.8
