@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Lee is expected to rapidly intensify into an ‘extremely dangerous’ hurricane in the Atlantic by this weekend**
+**Vast Bubble of Galaxies Discovered – Believed To Be a Remnant From the Universe's Inception**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8wNS93ZWF0aGVyL2F0bGFudGljLXRyb3BpY2FsLXN0b3JtLWh1cnJpY2FuZS1zZWFzb24tY2xpbWF0ZS9pbmRleC5odG1s0gFmaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8wNS93ZWF0aGVyL2F0bGFudGljLXRyb3BpY2FsLXN0b3JtLWh1cnJpY2FuZS1zZWFzb24tY2xpbWF0ZS9pbmRleC5odG1s?oc=5).
+You can read more about it [here](https://scitechdaily.com/?p=307076).
 
 ## Requirements
 - Python 3.8
