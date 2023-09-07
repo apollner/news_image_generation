@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 21 killed, thousands displaced by Brazil cyclone**
+**Xi, Putin missing G20 summit not unusual, India's foreign minister says**
 
-You can read more about it [here](https://www.cbsnews.com/news/brazil-cyclone-several-killed-thousands-displaced-flooding-heavy-rains/).
+You can read more about it [here](https://www.reuters.com/world/india/xi-putin-missing-g20-summit-not-unusual-indias-foreign-minister-says-2023-09-06/).
 
 ## Requirements
 - Python 3.8
