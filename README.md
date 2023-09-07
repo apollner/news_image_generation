@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. McConnell's health episodes show no evidence of stroke or seizure disorder but questions linger**
+**Kylie Jenner & Timothée Chalamet Spotted at Beyoncé Concert**
 
-You can read more about it [here](https://apnews.com/article/mitch-mcconnell-health-senate-doctor-162087fbf0d0c1dfa2c19beca1bd380f).
+You can read more about it [here](http://www.vulture.com/2023/09/kylie-jenner-timothee-chalamet-spotted.html).
 
 ## Requirements
 - Python 3.8
