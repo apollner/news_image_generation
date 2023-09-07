@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is liable in the second E. Jean Carroll defamation case, judge rules; January trial will determine damages**
+**Ukraine war: 16 killed in missile attack on market**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66731927).
 
 ## Requirements
 - Python 3.8
