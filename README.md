@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vietnam pilot who disregarded direct order gets Medal of Honor**
+**The world has just experienced the hottest summer on record – by a significant margin**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66722741).
+You can read more about it [here](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
