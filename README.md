@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The world has just experienced the hottest summer on record – by a significant margin**
+**Tropical Storm Lee is expected to rapidly intensify into an ‘extremely dangerous’ hurricane in the Atlantic by this weekend**
 
-You can read more about it [here](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8wNS93ZWF0aGVyL2F0bGFudGljLXRyb3BpY2FsLXN0b3JtLWh1cnJpY2FuZS1zZWFzb24tY2xpbWF0ZS9pbmRleC5odG1s0gFmaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8wNS93ZWF0aGVyL2F0bGFudGljLXRyb3BpY2FsLXN0b3JtLWh1cnJpY2FuZS1zZWFzb24tY2xpbWF0ZS9pbmRleC5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
