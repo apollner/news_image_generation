@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens face RICO charges over Atlanta police center protests**
+**Apple signs new agreement with Arm that goes past 2040**
 
-You can read more about it [here](https://www.reuters.com/legal/dozens-face-rico-charges-over-atlanta-police-center-protests-2023-09-05/).
+You can read more about it [here](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040).
 
 ## Requirements
 - Python 3.8
