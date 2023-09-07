@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Wednesday, September 6, 2023**
+**At least 21 killed, thousands displaced by Brazil cyclone**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/6/23851354/horoscopes-today-wednesday-september-6-2023).
+You can read more about it [here](https://www.cbsnews.com/news/brazil-cyclone-several-killed-thousands-displaced-flooding-heavy-rains/).
 
 ## Requirements
 - Python 3.8
