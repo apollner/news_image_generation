@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sailors rescued after several shark attacks damage inflatable catamaran in Coral Sea: Video**
+**US Air Force tests nuclear-capable long-range missile**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDkvMDYvY2F0YW1hcmFuLXNoYXJrLWF0dGFja3MtY29yYWwtc2VhLXZpZGVvLzcwNzc0NDA3MDA3L9IBAA?oc=5).
+You can read more about it [here](https://www.cnn.com/2023/09/06/politics/usaf-nuclear-missile-tests/index.html).
 
 ## Requirements
 - Python 3.8
