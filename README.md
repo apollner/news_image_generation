@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P Live Updates for September 6**
+**Kuo: Apple-Designed 5G Modem for iPhones to Debut in 2025**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-05/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://www.macrumors.com/2023/09/06/apple-modem-in-2025-kuo/).
 
 ## Requirements
 - Python 3.8
