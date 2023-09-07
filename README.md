@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Burning Man’s flooding, exodus delay is a lesson in extreme weather**
+**At least 21 killed, thousands displaced by Brazil cyclone**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/09/05/burning-man-exodus-flooding-climate-change/).
+You can read more about it [here](https://www.cbsnews.com/news/brazil-cyclone-several-killed-thousands-displaced-flooding-heavy-rains/).
 
 ## Requirements
 - Python 3.8
