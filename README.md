@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Across the Northern Hemisphere, now's the time to catch a new comet before it vanishes for 400 years**
+**Georgia leads the Southeast in rising RSV cases**
 
-You can read more about it [here](https://phys.org/news/2023-09-northern-hemisphere-comet-years.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFqYy5jb20vbmV3cy9oZWFsdGgtbmV3cy9nZW9yZ2lhLWxlYWRzLXRoZS1zb3V0aGVhc3QtaW4tcmlzaW5nLXJzdi1jYXNlcy82SzdFSFhQS0U1SDNWR0g2TU4zWTdXTkRSQS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
