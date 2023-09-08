@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the first Fulton County hearing on the Trump election subversion case**
+**Fantasy Football Week 1 Start 'Em & Sit 'Em Quarterbacks: Aaron Rodgers, Anthony Richardson in no-go zone**
 
-You can read more about it [here](https://www.cnn.com/2023/09/06/politics/takeaways-fulton-county-trump-powell-chesebro/index.html).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-1-start-em-sit-em-quarterbacks-aaron-rodgers-anthony-richardson-in-no-go-zone/).
 
 ## Requirements
 - Python 3.8
