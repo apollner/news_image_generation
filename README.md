@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**San Francisco 49ers’ Nick Bosa reportedly becomes highest paid NFL defensive player ever**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/09/06/sport/nfl-nick-bosa-49ers-record-contract-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
