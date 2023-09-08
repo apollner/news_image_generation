@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 1 picks against the spread: Justin Herbert for MVP, not buying Aaron Rodgers’ Jets**
+**Donald Trump may seek to move Georgia election case to federal court**
 
-You can read more about it [here](https://theathletic.com/4837898/2023/09/07/nfl-week-1-picks-predictions/).
+You can read more about it [here](https://www.reuters.com/world/us/trump-may-seek-removal-georgia-election-subversion-case-us-court-filing-2023-09-07/).
 
 ## Requirements
 - Python 3.8
