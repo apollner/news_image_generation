@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 asteroids to pass by Earth this week — including 1 as big as a house**
+**New Covid-19 booster shots expected to be available as soon as next week**
 
-You can read more about it [here](https://nypost.com/2023/09/06/5-asteroids-to-pass-by-earth-this-week-1-as-big-as-a-house/).
+You can read more about it [here](https://www.youtube.com/watch?v=Z3A2aAy1yh4).
 
 ## Requirements
 - Python 3.8
