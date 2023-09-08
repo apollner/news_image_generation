@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat wave leads some schools to close or dismiss classes early**
+**Hurricane Lee forms, expected to rapidly intensify into 'extremely dangerous' major storm by weekend**
 
-You can read more about it [here](https://www.washingtonpost.com/education/2023/09/06/schools-heat-wave-closures-early-dismissals/).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
 
 ## Requirements
 - Python 3.8
