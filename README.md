@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump may seek to move Georgia election case to federal court**
+**iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-may-seek-removal-georgia-election-subversion-case-us-court-filing-2023-09-07/).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2023/09/07/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/).
 
 ## Requirements
 - Python 3.8
