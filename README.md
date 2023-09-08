@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 1 Wide Receiver Preview: Arrival of Jaxon Smith-Njigba makes thing crowded in Seattle**
+**Hurricane Lee is getting powerful. Will it hit land?**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-1-wide-receiver-preview-arrival-of-jaxon-smith-njigba-makes-thing-crowded-in-seattle/).
+You can read more about it [here](https://www.npr.org/2023/09/07/1198147021/hurricane-lee-forecast-category-5-storm).
 
 ## Requirements
 - Python 3.8
