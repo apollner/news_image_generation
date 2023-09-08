@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunt for Daniel Abed Khalife, terror suspect who escaped a London prison, enters second day**
+**Polaroid Launches New I-2 Instant Camera**
 
-You can read more about it [here](https://www.cbsnews.com/news/daniel-abed-khalife-wandsworth-prison-escape-london-united-kingdom/).
+You can read more about it [here](https://hypebeast.com/2023/9/polaroid-launches-new-polaroid-i-2-instant-camera).
 
 ## Requirements
 - Python 3.8
