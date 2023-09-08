@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee forms, expected to rapidly intensify into 'extremely dangerous' major storm by weekend**
+**Biden, COVID and mask mandates are a timely test for the 2024 election. Here's what's at stake**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/07/biden-covid-mask-mandates-2024/70771151007/).
 
 ## Requirements
 - Python 3.8
