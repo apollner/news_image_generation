@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polaroid Launches New I-2 Instant Camera**
+**Thursday Night Football: How to Watch Lions vs. Chiefs on NBC Without Cable**
 
-You can read more about it [here](https://hypebeast.com/2023/9/polaroid-launches-new-polaroid-i-2-instant-camera).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/thursday-night-football-nfl-opening-night-how-to-watch-lions-vs-chiefs-on-nbc-without-cable/).
 
 ## Requirements
 - Python 3.8
