@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa State QB Hunter Dekkers, 4 others plead guilty to underage gambling charges, still face NCAA's wrath**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/iowa-state-qb-hunter-dekkers-4-others-plead-guilty-to-underage-gambling-charges-still-face-ncaas-wrath-010426356.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
