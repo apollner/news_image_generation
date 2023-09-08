@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine drone attack causes explosion near Russian military HQ**
+**Lainey Wilson Leads 2023 CMA Awards Nominations – And Makes History (Full List)**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/europe/ukraine-russia-rostov-military-drone-strike-intl/index.html).
+You can read more about it [here](https://www.billboard.com/music/awards/2023-cma-awards-nominations-full-list-lainey-wilson-1235407931/).
 
 ## Requirements
 - Python 3.8
