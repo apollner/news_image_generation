@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine Russia live updates: US support, aid may not help end the war**
+**Miami school board again shuts down LGBTQ month recognition**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/09/07/ukraine-russia-war-live-updates/70783569007/).
+You can read more about it [here](https://www.politico.com/news/2023/09/07/miami-school-board-lgbtq-month-dont-say-gay-00114496).
 
 ## Requirements
 - Python 3.8
