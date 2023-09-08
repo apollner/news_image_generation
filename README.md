@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia leads the Southeast in rising RSV cases**
+**Ukraine drone attack causes explosion near Russian military HQ**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFqYy5jb20vbmV3cy9oZWFsdGgtbmV3cy9nZW9yZ2lhLWxlYWRzLXRoZS1zb3V0aGVhc3QtaW4tcmlzaW5nLXJzdi1jYXNlcy82SzdFSFhQS0U1SDNWR0g2TU4zWTdXTkRSQS_SAQA?oc=5).
+You can read more about it [here](https://www.cnn.com/2023/09/07/europe/ukraine-russia-rostov-military-drone-strike-intl/index.html).
 
 ## Requirements
 - Python 3.8
