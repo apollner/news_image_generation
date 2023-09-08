@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Environment groups file lawsuit to save Great Salt Lake**
+**5 asteroids to pass by Earth this week — including 1 as big as a house**
 
-You can read more about it [here](https://www.youtube.com/watch?v=1iSIk6219FI).
+You can read more about it [here](https://nypost.com/2023/09/06/5-asteroids-to-pass-by-earth-this-week-1-as-big-as-a-house/).
 
 ## Requirements
 - Python 3.8
