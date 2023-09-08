@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine drone attack causes explosion near Russian military HQ**
+**Joe Jonas, Sophie Turner 'Mutually Decided to Amicably End' Marriage**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/europe/ukraine-russia-rostov-military-drone-strike-intl/index.html).
+You can read more about it [here](https://www.today.com/popculture/joe-jonas-sophie-turner-divorce-statement-rcna103598).
 
 ## Requirements
 - Python 3.8
