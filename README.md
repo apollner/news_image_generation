@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Covid-19 booster shots expected to be available as soon as next week**
+**Felony convictions vacated for 4 Navy officers in 'Fat Leonard' case**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Z3A2aAy1yh4).
+You can read more about it [here](https://www.navytimes.com/news/your-navy/2023/09/06/felony-convictions-vacated-for-4-navy-officers-in-fat-leonard-case/).
 
 ## Requirements
 - Python 3.8
