@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paleontologists May Have Found A Missing Branch Between Dinosaurs And Birds**
+**Joe Jonas & Sophie Turner Relationship Timeline – Billboard**
 
-You can read more about it [here](https://www.sciencealert.com/paleontologists-may-have-found-an-important-missing-link-between-dinosaurs-and-birds).
+You can read more about it [here](https://www.billboard.com/lists/joe-jonas-sophie-turner-relationship-timeline/).
 
 ## Requirements
 - Python 3.8
