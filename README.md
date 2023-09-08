@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden, COVID and mask mandates are a timely test for the 2024 election. Here's what's at stake**
+**Across the Northern Hemisphere, now's the time to catch a new comet before it vanishes for 400 years**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/07/biden-covid-mask-mandates-2024/70771151007/).
+You can read more about it [here](https://phys.org/news/2023-09-northern-hemisphere-comet-years.html).
 
 ## Requirements
 - Python 3.8
