@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thursday Night Football: How to Watch Lions vs. Chiefs on NBC Without Cable**
+**Complex cave rescue looms in Turkey as American Mark Dickey stuck 3,200 feet inside Morca cave**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/thursday-night-football-nfl-opening-night-how-to-watch-lions-vs-chiefs-on-nbc-without-cable/).
+You can read more about it [here](https://www.cbsnews.com/news/turkey-cave-rescue-mark-dickey-american-speleologist-morca-cave/).
 
 ## Requirements
 - Python 3.8
