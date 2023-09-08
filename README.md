@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami school board again shuts down LGBTQ month recognition**
+**Jury in trial of Trump advisor Peter Navarro for contempt of Congress begins deliberations**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/07/miami-school-board-lgbtq-month-dont-say-gay-00114496).
+You can read more about it [here](https://www.cnbc.com/2023/09/07/verdict-peter-navarro-contempt-of-congress-jan6-case.html).
 
 ## Requirements
 - Python 3.8
