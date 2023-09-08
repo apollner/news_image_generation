@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 1 Start 'Em & Sit 'Em Quarterbacks: Aaron Rodgers, Anthony Richardson in no-go zone**
+**Paleontologists May Have Found A Missing Branch Between Dinosaurs And Birds**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-1-start-em-sit-em-quarterbacks-aaron-rodgers-anthony-richardson-in-no-go-zone/).
+You can read more about it [here](https://www.sciencealert.com/paleontologists-may-have-found-an-important-missing-link-between-dinosaurs-and-birds).
 
 ## Requirements
 - Python 3.8
