@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Fantasy 2023 Start 'Em, Sit 'Em Week 1: Quarterbacks**
+**Takeaways from the first Fulton County hearing on the Trump election subversion case**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-week-1-quarterbacks).
+You can read more about it [here](https://www.cnn.com/2023/09/06/politics/takeaways-fulton-county-trump-powell-chesebro/index.html).
 
 ## Requirements
 - Python 3.8
