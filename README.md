@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas & Sophie Turner Relationship Timeline – Billboard**
+**Environment groups file lawsuit to save Great Salt Lake**
 
-You can read more about it [here](https://www.billboard.com/lists/joe-jonas-sophie-turner-relationship-timeline/).
+You can read more about it [here](https://www.youtube.com/watch?v=1iSIk6219FI).
 
 ## Requirements
 - Python 3.8
