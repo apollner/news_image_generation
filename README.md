@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee forms, expected to rapidly intensify into 'extremely dangerous' major storm by weekend**
+**Witness in Trump documents case reached deal with prosecutors, ex-attorney says**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
+You can read more about it [here](https://www.reuters.com/legal/witness-trump-documents-case-reached-deal-with-prosecutors-ex-attorney-says-2023-09-06/).
 
 ## Requirements
 - Python 3.8
