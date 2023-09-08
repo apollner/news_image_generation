@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee forms, expected to rapidly intensify into 'extremely dangerous' major storm by weekend**
+**Four former US Navy officers cleared in Fat Leonard case due to prosecutor misconduct**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee).
+You can read more about it [here](https://www.reuters.com/legal/four-former-us-navy-officers-cleared-fat-leonard-case-due-prosecutor-misconduct-2023-09-07/).
 
 ## Requirements
 - Python 3.8
