@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee is getting powerful. Will it hit land?**
+**Apple zero-click iMessage exploit used to infect iPhones with spyware**
 
-You can read more about it [here](https://www.npr.org/2023/09/07/1198147021/hurricane-lee-forecast-category-5-storm).
+You can read more about it [here](https://www.bleepingcomputer.com/).
 
 ## Requirements
 - Python 3.8
