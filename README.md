@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury in trial of Trump advisor Peter Navarro for contempt of Congress begins deliberations**
+**NFL Week 1 picks against the spread: Justin Herbert for MVP, not buying Aaron Rodgers’ Jets**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/07/verdict-peter-navarro-contempt-of-congress-jan6-case.html).
+You can read more about it [here](https://theathletic.com/4837898/2023/09/07/nfl-week-1-picks-predictions/).
 
 ## Requirements
 - Python 3.8
