@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Complex cave rescue looms in Turkey as American Mark Dickey stuck 3,200 feet inside Morca cave**
+**Ukraine Russia live updates: US support, aid may not help end the war**
 
-You can read more about it [here](https://www.cbsnews.com/news/turkey-cave-rescue-mark-dickey-american-speleologist-morca-cave/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/09/07/ukraine-russia-war-live-updates/70783569007/).
 
 ## Requirements
 - Python 3.8
