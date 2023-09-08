@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Felony convictions vacated for 4 Navy officers in 'Fat Leonard' case**
+**Heat wave leads some schools to close or dismiss classes early**
 
-You can read more about it [here](https://www.navytimes.com/news/your-navy/2023/09/06/felony-convictions-vacated-for-4-navy-officers-in-fat-leonard-case/).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/09/06/schools-heat-wave-closures-early-dismissals/).
 
 ## Requirements
 - Python 3.8
