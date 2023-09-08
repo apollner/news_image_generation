@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas, Sophie Turner 'Mutually Decided to Amicably End' Marriage**
+**GM offers wage increases, hefty bonuses in UAW contract fight**
 
-You can read more about it [here](https://www.today.com/popculture/joe-jonas-sophie-turner-divorce-statement-rcna103598).
+You can read more about it [here](https://www.cnbc.com/2023/09/07/gm-offers-wage-increases-hefty-bonuses-uaw.html).
 
 ## Requirements
 - Python 3.8
