@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM offers wage increases, hefty bonuses in UAW contract fight**
+**Hunt for Daniel Abed Khalife, terror suspect who escaped a London prison, enters second day**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/07/gm-offers-wage-increases-hefty-bonuses-uaw.html).
+You can read more about it [here](https://www.cbsnews.com/news/daniel-abed-khalife-wandsworth-prison-escape-london-united-kingdom/).
 
 ## Requirements
 - Python 3.8
