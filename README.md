@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four former US Navy officers cleared in Fat Leonard case due to prosecutor misconduct**
+**Iowa State QB Hunter Dekkers, 4 others plead guilty to underage gambling charges, still face NCAA's wrath**
 
-You can read more about it [here](https://www.reuters.com/legal/four-former-us-navy-officers-cleared-fat-leonard-case-due-prosecutor-misconduct-2023-09-07/).
+You can read more about it [here](https://sports.yahoo.com/iowa-state-qb-hunter-dekkers-4-others-plead-guilty-to-underage-gambling-charges-still-face-ncaas-wrath-010426356.html).
 
 ## Requirements
 - Python 3.8
