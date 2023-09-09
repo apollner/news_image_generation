@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House completes $50 million revamp of high-security Situation Room**
+**Stock futures are little changed on Friday as S&P 500 heads for losing week: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/politics/situation-room-makeover-white-house/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/07/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
