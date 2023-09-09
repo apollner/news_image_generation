@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lilly's diabetes drug gains backing of UK watchdog -Bloomberg News**
+**Hong Kong paralyzed by flash flooding after heaviest rainfall since 1884**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/lillys-diabetes-drug-gains-backing-uk-watchdog-bloomberg-news-2023-09-08/).
+You can read more about it [here](https://www.cnn.com/2023/09/07/asia/hong-kong-black-rainstorm-flooding-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
