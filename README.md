@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia DA eviscerates Jim Jordan, suggests he buy book on RICO law**
+**Hurricane Lee strengthens to Category 5 storm in Atlantic as East Coast impact still uncertain**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tGAKIL3xtLI).
+You can read more about it [here](https://www.cnn.com/2023/09/08/weather/hurricane-lee-path-friday-climate/index.html).
 
 ## Requirements
 - Python 3.8
