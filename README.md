@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danelo Cavalcante prison escape: Updates, search area, sightings in Chester County**
+**Stellantis offers 14.5% pay increase to UAW, days before possible strike**
 
-You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230908.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/08/stellantis-offers-pay-increase-to-uaw-days-before-possible-strike.html).
 
 ## Requirements
 - Python 3.8
