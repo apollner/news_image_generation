@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bombshell report details tense relationship between Disney execs**
+**Former Trump adviser Navarro convicted of contempt of Congress**
 
-You can read more about it [here](https://www.sfgate.com/disneyland/article/bombshell-report-tense-relationship-disney-execs-18353678.php).
+You can read more about it [here](https://www.reuters.com/world/us/former-trump-adviser-navarro-convicted-contempt-congress-2023-09-07/).
 
 ## Requirements
 - Python 3.8
