@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee strengthens to Category 5 storm in Atlantic as East Coast impact still uncertain**
+**Travis Kelce injury update: Chiefs optimistic star TE can play Week 2 after missing opener, per report**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/weather/hurricane-lee-path-friday-climate/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/travis-kelce-injury-update-chiefs-optimistic-star-te-can-play-week-2-after-missing-opener-per-report/).
 
 ## Requirements
 - Python 3.8
