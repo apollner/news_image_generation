@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed on Friday as S&P 500 heads for losing week: Live updates**
+**Covid worries linger at colleges, but little appetite for tighter controls**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/07/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/09/08/colleges-covid-surge-fall-semester/).
 
 ## Requirements
 - Python 3.8
