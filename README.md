@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Huawei launches Mate 60 Pro+ smartphone for presale**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/technology/chinas-huawei-launches-mate-60-pro-smartphone-presale-2023-09-08/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
