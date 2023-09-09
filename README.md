@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs vs. Lions odds, picks: Point spread, total, player props, TV, live stream for 2023 NFL Kickoff Game**
+**Hurricane Lee rapidly strengthens to Category 4 storm as it approaches the Caribbean**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-lions-odds-picks-point-spread-total-player-props-tv-live-stream-for-2023-nfl-kickoff-game/).
+You can read more about it [here](https://www.cnn.com/2023/09/07/weather/hurricane-lee-path-atlantic-caribbean-climate/index.html).
 
 ## Requirements
 - Python 3.8
