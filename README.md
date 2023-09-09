@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google shows off the Pixel 8 and Pixel Watch 2 ahead of launch**
+**Country singer Zach Bryan is arrested in Oklahoma, apologizes on social media**
 
-You can read more about it [here](https://arstechnica.com/google/2023/09/google-shows-off-the-pixel-8-and-pixel-watch-2-ahead-of-launch/).
+You can read more about it [here](https://www.cnn.com/2023/09/08/entertainment/zach-bryan-arrest-oklahoma/index.html).
 
 ## Requirements
 - Python 3.8
