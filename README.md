@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country star Zach Bryan arrested in Oklahoma: Police**
+**Philly Police officer Mark Dial charged with murder for fatally shooting Eddie Irizarry**
 
-You can read more about it [here](https://abcnews.go.com/Entertainment/country-star-zach-bryan-arrested-police/story?id=103016994).
+You can read more about it [here](https://www.inquirer.com/news/mark-dial-philly-police-murder-charges-eddie-irizarry-20230908.html).
 
 ## Requirements
 - Python 3.8
