@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple fixes zero-day bugs used to plant Pegasus spyware**
+**Chiefs vs. Lions odds, picks: Point spread, total, player props, TV, live stream for 2023 NFL Kickoff Game**
 
-You can read more about it [here](https://techcrunch.com/2023/09/07/apple-fixes-zero-day-bugs-used-to-plant-pegasus-spyware/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-lions-odds-picks-point-spread-total-player-props-tv-live-stream-for-2023-nfl-kickoff-game/).
 
 ## Requirements
 - Python 3.8
