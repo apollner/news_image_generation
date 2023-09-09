@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comet Nishimura viewing: See it now or forever hold your peace**
+**NASA's Perseverance Mars rover wraps up MOXIE oxygen-making experiment**
 
-You can read more about it [here](https://www.usatoday.com/story/graphics/2023/09/08/comet-nishimura-path-viewing-2023/70783714007/).
+You can read more about it [here](https://www.space.com/perseverance-mars-rover-ends-moxie-oxygen-experiment).
 
 ## Requirements
 - Python 3.8
