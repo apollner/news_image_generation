@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs QB Patrick Mahomes: 'I have trust in' WR Kadarius Toney despite Thursday's drops**
+**Lindsey Graham among those who Georgia special grand jury recommended for charges in 2020 election probe**
 
-You can read more about it [here](https://www.nfl.com/news/chiefs-qb-patrick-mahomes-i-have-trust-in-wr-kadarius-toney-despite-thursday-s-d).
+You can read more about it [here](https://abcnews.go.com/US/judge-release-findings-georgia-special-grand-jury-investigated/story?id=103027242).
 
 ## Requirements
 - Python 3.8
