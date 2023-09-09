@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toyota Century, the new high end hybrid SUV, has a $170,000 price tag**
+**China's Huawei launches Mate 60 Pro+ smartphone for presale**
 
-You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/09/07/toyota-century-suv-price-features-luxury-market/70790299007/).
+You can read more about it [here](https://www.reuters.com/technology/chinas-huawei-launches-mate-60-pro-smartphone-presale-2023-09-08/).
 
 ## Requirements
 - Python 3.8
