@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee strengthens to Category 5 storm in Atlantic as East Coast impact still uncertain**
+**Fact Check Team: Narcan now available over-the-counter in efforts to ease opioid overdose deaths**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/weather/hurricane-lee-path-friday-climate/index.html).
+You can read more about it [here](https://thenationaldesk.com/news/fact-check-team/fact-check-team-narcan-now-available-over-the-counter-in-efforts-to-ease-opioid-overdose-deaths-naloxone-opiates-cvs-rite-aid-walmart-oud-private-health-insurance-medicaid-fentanyl-fake-pills-oxycodone-xanax).
 
 ## Requirements
 - Python 3.8
