@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis offers 14.5% pay increase to UAW, days before possible strike**
+**Country star Zach Bryan arrested in Oklahoma: Police**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/08/stellantis-offers-pay-increase-to-uaw-days-before-possible-strike.html).
+You can read more about it [here](https://abcnews.go.com/Entertainment/country-star-zach-bryan-arrested-police/story?id=103016994).
 
 ## Requirements
 - Python 3.8
