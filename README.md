@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philly Police officer Mark Dial charged with murder for fatally shooting Eddie Irizarry**
+**X-Ray Telescope Spots Black Hole Slowly Devouring a Star**
 
-You can read more about it [here](https://www.inquirer.com/news/mark-dial-philly-police-murder-charges-eddie-irizarry-20230908.html).
+You can read more about it [here](https://gizmodo.com/x-ray-telescope-black-hole-slowly-devouring-star-1850818441).
 
 ## Requirements
 - Python 3.8
