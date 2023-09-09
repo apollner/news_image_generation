@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong paralyzed by flash flooding after heaviest rainfall since 1884**
+**Hurricane Lee strengthens to Category 5 storm in Atlantic as East Coast impact still uncertain**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/asia/hong-kong-black-rainstorm-flooding-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/08/weather/hurricane-lee-path-friday-climate/index.html).
 
 ## Requirements
 - Python 3.8
