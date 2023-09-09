@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Burrow reportedly signs 5-year, $275 million contract extension with Bengals**
+**Chiefs QB Patrick Mahomes: 'I have trust in' WR Kadarius Toney despite Thursday's drops**
 
-You can read more about it [here](https://sports.yahoo.com/joe-burrow-5-year-275-million-contract-extension-bengals-report-120104430.html).
+You can read more about it [here](https://www.nfl.com/news/chiefs-qb-patrick-mahomes-i-have-trust-in-wr-kadarius-toney-despite-thursday-s-d).
 
 ## Requirements
 - Python 3.8
