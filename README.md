@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lindsey Graham among those who Georgia special grand jury recommended for charges in 2020 election probe**
+**Fulton County special grand jury recommended charges against Lindsey Graham, David Perdue and Kelly Loeffler**
 
-You can read more about it [here](https://abcnews.go.com/US/judge-release-findings-georgia-special-grand-jury-investigated/story?id=103027242).
+You can read more about it [here](https://www.cnn.com/2023/09/08/politics/fulton-county-special-grand-jury-report/index.html).
 
 ## Requirements
 - Python 3.8
