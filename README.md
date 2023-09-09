@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Joe Burrow reportedly signs 5-year, $275 million contract extension with Bengals**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/joe-burrow-5-year-275-million-contract-extension-bengals-report-120104430.html).
 
 ## Requirements
 - Python 3.8
