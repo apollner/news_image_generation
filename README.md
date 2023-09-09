@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia DA eviscerates Jim Jordan, suggests he buy book on RICO law**
+**Lilly's diabetes drug gains backing of UK watchdog -Bloomberg News**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tGAKIL3xtLI).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/lillys-diabetes-drug-gains-backing-uk-watchdog-bloomberg-news-2023-09-08/).
 
 ## Requirements
 - Python 3.8
