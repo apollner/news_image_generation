@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact Check Team: Narcan now available over-the-counter in efforts to ease opioid overdose deaths**
+**Georgia DA eviscerates Jim Jordan, suggests he buy book on RICO law**
 
-You can read more about it [here](https://thenationaldesk.com/news/fact-check-team/fact-check-team-narcan-now-available-over-the-counter-in-efforts-to-ease-opioid-overdose-deaths-naloxone-opiates-cvs-rite-aid-walmart-oud-private-health-insurance-medicaid-fentanyl-fake-pills-oxycodone-xanax).
+You can read more about it [here](https://www.youtube.com/watch?v=tGAKIL3xtLI).
 
 ## Requirements
 - Python 3.8
