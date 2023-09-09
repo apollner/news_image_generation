@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California Legislature sends Newsom his 'anti-book ban' bill**
+**FDA could greenlight new Covid boosters, but they won't be free for everyone**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/07/california-newsom-anti-book-ban-bill-00114634).
+You can read more about it [here](https://www.youtube.com/watch?v=y6TlWoGb7rs).
 
 ## Requirements
 - Python 3.8
