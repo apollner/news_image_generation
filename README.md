@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As COVID variant Pirola gathers pace, Health Ministry mum on plans to fend off threat**
+**White House completes $50 million revamp of high-security Situation Room**
 
-You can read more about it [here](https://www.timesofisrael.com/as-covid-variant-pirola-gathers-pace-health-ministry-mum-on-plans-to-fend-off-threat/).
+You can read more about it [here](https://www.cnn.com/2023/09/08/politics/situation-room-makeover-white-house/index.html).
 
 ## Requirements
 - Python 3.8
