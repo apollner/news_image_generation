@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Generating Oxygen on Mars: The Triumph of NASA's MOXIE**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://scitechdaily.com/generating-oxygen-on-mars-the-triumph-of-nasas-moxie/).
 
 ## Requirements
 - Python 3.8
