@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Perseverance Mars rover wraps up MOXIE oxygen-making experiment**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/perseverance-mars-rover-ends-moxie-oxygen-experiment).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
