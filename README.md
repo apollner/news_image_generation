@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Trump adviser Navarro convicted of contempt of Congress**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/us/former-trump-adviser-navarro-convicted-contempt-congress-2023-09-07/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
