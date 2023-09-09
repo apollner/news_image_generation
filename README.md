@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rescuers rush to save American man trapped in deep cave in Turkey**
+**Preserved Roman swords dating back 1900 years found hidden deep in Dead Sea cave**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/middleeast/turkey-american-cave-rescue-scli-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/07/roman-swords-found-in-dead-sea-cave/70788523007/).
 
 ## Requirements
 - Python 3.8
