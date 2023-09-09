@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X-Ray Telescope Spots Black Hole Slowly Devouring a Star**
+**Google shows off the Pixel 8 and Pixel Watch 2 ahead of launch**
 
-You can read more about it [here](https://gizmodo.com/x-ray-telescope-black-hole-slowly-devouring-star-1850818441).
+You can read more about it [here](https://arstechnica.com/google/2023/09/google-shows-off-the-pixel-8-and-pixel-watch-2-ahead-of-launch/).
 
 ## Requirements
 - Python 3.8
