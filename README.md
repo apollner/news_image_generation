@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee rapidly strengthens to Category 4 storm as it approaches the Caribbean**
+**Rescuers rush to save American man trapped in deep cave in Turkey**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/weather/hurricane-lee-path-atlantic-caribbean-climate/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/07/middleeast/turkey-american-cave-rescue-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
