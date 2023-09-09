@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: NASA's latest MOXIE experiment offers hope for human exploration on Mars**
+**Apple fixes zero-day bugs used to plant Pegasus spyware**
 
-You can read more about it [here](https://www.cnn.com/videos/business/2023/09/07/nasa-moxie-mars-perseverance-rover-oxygen-ctw-vpx.cnn).
+You can read more about it [here](https://techcrunch.com/2023/09/07/apple-fixes-zero-day-bugs-used-to-plant-pegasus-spyware/).
 
 ## Requirements
 - Python 3.8
