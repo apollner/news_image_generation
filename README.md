@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The first experiment to produce oxygen on another planet has come to an end**
+**Georgia DA eviscerates Jim Jordan, suggests he buy book on RICO law**
 
-You can read more about it [here](https://www.cnn.com/2023/09/07/world/nasa-mars-moxie-perseverance-scn/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=tGAKIL3xtLI).
 
 ## Requirements
 - Python 3.8
