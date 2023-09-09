@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County special grand jury recommended charges against Lindsey Graham, David Perdue and Kelly Loeffler**
+**Danelo Cavalcante prison escape: Updates, search area, sightings in Chester County**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/politics/fulton-county-special-grand-jury-report/index.html).
+You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230908.html).
 
 ## Requirements
 - Python 3.8
