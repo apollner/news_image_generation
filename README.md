@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Preserved Roman swords dating back 1900 years found hidden deep in Dead Sea cave**
+**Bombshell report details tense relationship between Disney execs**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/07/roman-swords-found-in-dead-sea-cave/70788523007/).
+You can read more about it [here](https://www.sfgate.com/disneyland/article/bombshell-report-tense-relationship-disney-execs-18353678.php).
 
 ## Requirements
 - Python 3.8
