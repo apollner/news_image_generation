@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA could greenlight new Covid boosters, but they won't be free for everyone**
+**Toyota Century, the new high end hybrid SUV, has a $170,000 price tag**
 
-You can read more about it [here](https://www.youtube.com/watch?v=y6TlWoGb7rs).
+You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/09/07/toyota-century-suv-price-features-luxury-market/70790299007/).
 
 ## Requirements
 - Python 3.8
