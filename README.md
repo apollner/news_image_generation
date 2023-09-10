@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At the G20, Biden joins forces with India and the Middle East, sidelining China**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2023/09/09/1198644841/biden-g20-india-saudi-arabia-corridor).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
