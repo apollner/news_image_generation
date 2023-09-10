@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Reubens' official cause of death confirmed | EW.com**
+**DeSantis camp on Iowa: A 'strong second' is good enough**
 
-You can read more about it [here](https://ew.com/celebrity/paul-reubens-official-cause-of-death-certificate/).
+You can read more about it [here](https://www.politico.com/news/2023/09/08/desantis-campaign-lowers-expectations-in-iowa-strong-second-good-enough-00114856).
 
 ## Requirements
 - Python 3.8
