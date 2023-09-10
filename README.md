@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Nancy Pelosi, 83, is running for Congress again in a year dominated by age concerns**
+**New details reveal Georgia special grand jury in Trump election case recommended charges for Lindsey Graham**
 
-You can read more about it [here](https://www.sfchronicle.com/politics/article/pelosi-age-concerns-18355220.php).
+You can read more about it [here](https://www.cbsnews.com/news/trump-georgia-judge-to-release-special-grand-jury-report-2020-election-case/).
 
 ## Requirements
 - Python 3.8
