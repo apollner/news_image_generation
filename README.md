@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newly discovered Comet Nishimura will soon swing by Earth**
+**Staying home to raise kids can have retirement repercussions**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/world/comet-nishimura-earth-flyby-scn/index.html).
+You can read more about it [here](https://www.investmentnews.com/staying-home-to-raise-kids-has-retirement-repercussions-study-finds-243301).
 
 ## Requirements
 - Python 3.8
