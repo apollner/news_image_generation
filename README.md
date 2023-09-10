@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Green comet to streak across Earth skies for first time in centuries**
+**Biden super PAC ad campaign begins in swing states - POLITICO**
 
-You can read more about it [here](https://www.foxnews.com/us/green-comet-streak-across-earth-skies-first-time-centuries).
+You can read more about it [here](https://www.politico.com/news/2023/09/09/what-an-unprecedented-biden-ad-blitz-says-about-his-reelection-fight-00114838).
 
 ## Requirements
 - Python 3.8
