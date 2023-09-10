@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Staying home to raise kids can have retirement repercussions**
+**MOXIE, an oxygen generator on Mars Perseverance Rover produced oxygen**
 
-You can read more about it [here](https://www.investmentnews.com/staying-home-to-raise-kids-has-retirement-repercussions-study-finds-243301).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/08/mars-rover-perseverance-moxie-oxygen-generator/70795806007/).
 
 ## Requirements
 - Python 3.8
