@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**New Mexico governor issues emergency order to suspend open, concealed carry of guns in Albuquerque**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/new-mexico-michelle-lujan-grisham-suspends-open-concealed-carry-albuquerque-gun-violence/).
 
 ## Requirements
 - Python 3.8
