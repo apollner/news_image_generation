@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Perseverance rover produces oxygen on Mars**
+**[Removed]**
 
-You can read more about it [here](https://www.livescience.com/space/space-exploration/in-a-1st-nasas-perseverance-rover-makes-breathable-oxygen-on-mars).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
