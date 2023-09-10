@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ashton Kutcher & Mila Kunis' Letters For Danny Masterson's Rape Trial Just Leaked**
+**Justice Samuel Alito rejects calls from Democratic senators to recuse in case involving journalist who interviewed him**
 
-You can read more about it [here](https://stylecaster.com/lists/mila-kunis-ashton-kutcher-letters-danny-masterson/).
+You can read more about it [here](https://www.cnn.com/2023/09/08/politics/alito-durbin-supreme-court-ethics/index.html).
 
 ## Requirements
 - Python 3.8
