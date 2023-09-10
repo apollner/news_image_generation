@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Nancy Pelosi, 83, is running for Congress again in a year dominated by age concerns**
+**Apple Leak Details All-New iPhone 15, iPhone 15 Pro Price Changes**
 
-You can read more about it [here](https://www.sfchronicle.com/politics/article/pelosi-age-concerns-18355220.php).
+You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/09/09/apple-iphone-15-pro-max-price-increase-new-iphone-upgrade-cost/).
 
 ## Requirements
 - Python 3.8
