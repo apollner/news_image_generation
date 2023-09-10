@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**G20 summit avoids condemning Russia for Ukraine war, calls for peace**
+**Box Office: ‘The Nun II’ Scares Away ‘Equalizer 3’ With $13 Million Opening Day**
 
-You can read more about it [here](https://www.reuters.com/world/g20-leaders-begin-two-day-summit-overshadowed-by-divisions-over-ukraine-2023-09-09/).
+You can read more about it [here](https://variety.com/2023/film/box-office/the-nun-2-opening-day-taissa-farmiga-1235718588/).
 
 ## Requirements
 - Python 3.8
