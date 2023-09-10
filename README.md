@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Leak Details All-New iPhone 15, iPhone 15 Pro Price Changes**
+**Green comet to streak across Earth skies for first time in centuries**
 
-You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/09/09/apple-iphone-15-pro-max-price-increase-new-iphone-upgrade-cost/).
+You can read more about it [here](https://www.foxnews.com/us/green-comet-streak-across-earth-skies-first-time-centuries).
 
 ## Requirements
 - Python 3.8
