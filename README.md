@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ashton Kutcher & Mila Kunis' Letters For Danny Masterson's Rape Trial Just Leaked**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://stylecaster.com/lists/mila-kunis-ashton-kutcher-letters-danny-masterson/).
 
 ## Requirements
 - Python 3.8
