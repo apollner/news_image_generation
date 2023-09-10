@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekly Astrology Forecast, September 10-16: Learning Who You Truly Are**
+**Ukraine: Musk defends Starlink decision on Crimea strike**
 
-You can read more about it [here](https://www.yogajournal.com/lifestyle/astrology/weekly-astrology-forecast-september-10-16-2023/).
+You can read more about it [here](https://www.dw.com/en/ukraine-musk-defends-starlink-decision-on-crimea-strike/a-66764304).
 
 ## Requirements
 - Python 3.8
