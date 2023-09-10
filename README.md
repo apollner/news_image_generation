@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 US Open women's final picks: Expert predictions for Coco Gauff vs. Aryna Sabalenka**
+**African Union to become permanent member of G20, India’s Modi says**
 
-You can read more about it [here](https://www.usopen.org/en_US/news/articles/2023-09-08/2023_us_open_womens_final_picks_expert_predictions_for_coco_gauff_vs_aryna_sabalenka.html).
+You can read more about it [here](https://www.cnn.com/2023/09/09/india/india-african-union-g20-permanent-member-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
