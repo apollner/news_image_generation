@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden super PAC ad campaign begins in swing states - POLITICO**
+**Statement from President Joe Biden on the Earthquake in Morocco**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/09/what-an-unprecedented-biden-ad-blitz-says-about-his-reelection-fight-00114838).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/statement-from-president-joe-biden-on-the-earthquake-in-morocco/).
 
 ## Requirements
 - Python 3.8
