@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**G20 summit: Transport project to link India to Middle East, Europe unveiled**
+**G20 leaders avoid blaming Russia over Ukraine invasion as Biden struggles to rally support**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/9/g20-summit-transport-project-to-link-india-to-middle-east-europe-unveiled).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/09/biden-struggles-to-rally-ukraine-support-g20-avoids-blaming-russia/70808121007/).
 
 ## Requirements
 - Python 3.8
