@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New mosaic of Mars could enable humans to settle on another world**
+**G20 summit avoids condemning Russia for Ukraine war, calls for peace**
 
-You can read more about it [here](https://www.cnn.com/2023/09/09/world/mars-map-science-newsletter-wt-scn/index.html).
+You can read more about it [here](https://www.reuters.com/world/g20-leaders-begin-two-day-summit-overshadowed-by-divisions-over-ukraine-2023-09-09/).
 
 ## Requirements
 - Python 3.8
