@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**G20 leaders avoid blaming Russia over Ukraine invasion as Biden struggles to rally support**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/09/biden-struggles-to-rally-ukraine-support-g20-avoids-blaming-russia/70808121007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
