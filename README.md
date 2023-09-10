@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19, flu and RSV vaccines are all available this fall: See what some doctors recommend and why**
+**How to watch the US Open women’s final as Coco Gauff chases glory on home soil**
 
-You can read more about it [here](https://www.foxnews.com/lifestyle/covid-19-flu-rsv-vaccines-available-this-fall-see-doctors-recommend-why).
+You can read more about it [here](https://www.cnn.com/2023/09/09/tennis/us-open-final-coco-gauff-aryna-sabalenka-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
