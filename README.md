@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘The Nun II’ Scares Away ‘Equalizer 3’ With $13 Million Opening Day**
+**College football Week 2 top plays: Ohio State, Texas-Alabama, more**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/the-nun-2-opening-day-taissa-farmiga-1235718588/).
+You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-2-top-plays).
 
 ## Requirements
 - Python 3.8
