@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC issues warning RSV is on the rise in young children in Southeastern US**
+**MOXIE, an oxygen generator on Mars Perseverance Rover produced oxygen**
 
-You can read more about it [here](https://abcnews.go.com/Health/cdc-warns-rsv-cases-rising-young-children-southeastern/story?id=102994557).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/08/mars-rover-perseverance-moxie-oxygen-generator/70795806007/).
 
 ## Requirements
 - Python 3.8
