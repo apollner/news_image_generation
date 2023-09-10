@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country singer Zach Bryan is arrested in Oklahoma, apologizes on social media**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/entertainment/zach-bryan-arrest-oklahoma/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
