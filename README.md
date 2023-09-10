@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Samuel Alito rejects calls from Democratic senators to recuse in case involving journalist who interviewed him**
+**Florida abortion: Supreme Court justices appear skeptical over protection arguments - POLITICO**
 
-You can read more about it [here](https://www.cnn.com/2023/09/08/politics/alito-durbin-supreme-court-ethics/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/09/08/florida-supreme-court-justices-appear-skeptical-over-abortion-protection-arguments-00114740).
 
 ## Requirements
 - Python 3.8
