@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 US Open women's final picks: Expert predictions for Coco Gauff vs. Aryna Sabalenka**
+**Why Nancy Pelosi, 83, is running for Congress again in a year dominated by age concerns**
 
-You can read more about it [here](https://www.usopen.org/en_US/news/articles/2023-09-08/2023_us_open_womens_final_picks_expert_predictions_for_coco_gauff_vs_aryna_sabalenka.html).
+You can read more about it [here](https://www.sfchronicle.com/politics/article/pelosi-age-concerns-18355220.php).
 
 ## Requirements
 - Python 3.8
