@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis camp on Iowa: A 'strong second' is good enough**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/08/desantis-campaign-lowers-expectations-in-iowa-strong-second-good-enough-00114856).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
