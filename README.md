@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kroger and Albertsons propose selling Carrs Safeway grocery stores in Alaska as part of $24.6 billion merger plan**
+**Paul Reubens, Actor Best Known as Pee-wee Herman, Cause of Death Confirmed**
 
-You can read more about it [here](https://www.adn.com/business-economy/2023/09/08/kroger-and-albertsons-propose-selling-14-carrs-safeway-grocery-stores-in-alaska-as-part-of-19-billion-divestiture-plan/).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/paul-reubens-cause-of-death-1234821558/).
 
 ## Requirements
 - Python 3.8
