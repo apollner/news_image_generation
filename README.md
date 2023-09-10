@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida abortion: Supreme Court justices appear skeptical over protection arguments - POLITICO**
+**NASA's Perseverance rover produces oxygen on Mars**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/08/florida-supreme-court-justices-appear-skeptical-over-abortion-protection-arguments-00114740).
+You can read more about it [here](https://www.livescience.com/space/space-exploration/in-a-1st-nasas-perseverance-rover-makes-breathable-oxygen-on-mars).
 
 ## Requirements
 - Python 3.8
