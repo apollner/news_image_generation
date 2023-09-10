@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico governor issues emergency order to suspend open, concealed carry of guns in Albuquerque**
+**2023 US Open women's final picks: Expert predictions for Coco Gauff vs. Aryna Sabalenka**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-mexico-michelle-lujan-grisham-suspends-open-concealed-carry-albuquerque-gun-violence/).
+You can read more about it [here](https://www.usopen.org/en_US/news/articles/2023-09-08/2023_us_open_womens_final_picks_expert_predictions_for_coco_gauff_vs_aryna_sabalenka.html).
 
 ## Requirements
 - Python 3.8
