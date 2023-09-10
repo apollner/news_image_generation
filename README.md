@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MOXIE, an oxygen generator on Mars Perseverance Rover produced oxygen**
+**Our SpaceX Crew-6 Mission Safely Returns to Earth on This Week @NASA – September 8, 2023**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/08/mars-rover-perseverance-moxie-oxygen-generator/70795806007/).
+You can read more about it [here](https://www.youtube.com/watch?v=fwBBFmINkpw).
 
 ## Requirements
 - Python 3.8
