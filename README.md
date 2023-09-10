@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Our SpaceX Crew-6 Mission Safely Returns to Earth on This Week @NASA – September 8, 2023**
+**Paul Reubens' official cause of death confirmed | EW.com**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fwBBFmINkpw).
+You can read more about it [here](https://ew.com/celebrity/paul-reubens-official-cause-of-death-certificate/).
 
 ## Requirements
 - Python 3.8
