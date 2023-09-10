@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New details reveal Georgia special grand jury in Trump election case recommended charges for Lindsey Graham**
+**Kroger and Albertsons propose selling Carrs Safeway grocery stores in Alaska as part of $24.6 billion merger plan**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-georgia-judge-to-release-special-grand-jury-report-2020-election-case/).
+You can read more about it [here](https://www.adn.com/business-economy/2023/09/08/kroger-and-albertsons-propose-selling-14-carrs-safeway-grocery-stores-in-alaska-as-part-of-19-billion-divestiture-plan/).
 
 ## Requirements
 - Python 3.8
