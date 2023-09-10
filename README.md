@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from President Joe Biden on the Earthquake in Morocco**
+**Weekly Astrology Forecast, September 10-16: Learning Who You Truly Are**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/statement-from-president-joe-biden-on-the-earthquake-in-morocco/).
+You can read more about it [here](https://www.yogajournal.com/lifestyle/astrology/weekly-astrology-forecast-september-10-16-2023/).
 
 ## Requirements
 - Python 3.8
