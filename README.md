@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/updated-covid-shots-coming-part-trio-vaccines-block-103048597).
 
 ## Requirements
 - Python 3.8
