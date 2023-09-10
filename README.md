@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW strike: How Ford F-150 production and prices could be affected**
+**G20 summit: Transport project to link India to Middle East, Europe unveiled**
 
-You can read more about it [here](https://www.nbcnews.com/business/business-news/uaw-strike-ford-f150-production-stoppage-how-prices-inventory-affected-rcna104165).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/9/g20-summit-transport-project-to-link-india-to-middle-east-europe-unveiled).
 
 ## Requirements
 - Python 3.8
