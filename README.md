@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football Week 2 top plays: Ohio State, Texas-Alabama, more**
+**At the G20, Biden joins forces with India and the Middle East, sidelining China**
 
-You can read more about it [here](https://www.foxsports.com/stories/college-football/college-football-week-2-top-plays).
+You can read more about it [here](https://www.npr.org/2023/09/09/1198644841/biden-g20-india-saudi-arabia-corridor).
 
 ## Requirements
 - Python 3.8
