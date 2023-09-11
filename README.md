@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will India's Chandrayaan-3 probes survive the lunar night?**
+**Trump, the ultimate attention seeker, wages a campaign largely out of public view**
 
-You can read more about it [here](https://www.space.com/india-chandrayaan-3-no-heaters-lunar-night-survival).
+You can read more about it [here](https://www.politico.com/news/2023/09/10/trump-campaign-out-of-public-view-00114873).
 
 ## Requirements
 - Python 3.8
