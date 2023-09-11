@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses**
+**Hurricane Lee is charting a new course in weather and could signal more monster storms**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/updated-covid-shots-coming-part-trio-vaccines-block-103048597).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/hurricane-lee-charting-new-weather-signal-monster-storms-103048327).
 
 ## Requirements
 - Python 3.8
