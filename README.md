@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italian PM: Strong partnership with China more important than Belt and Road Initiative**
+**US and Vietnam ink historic partnership in Biden visit, with eyes on China**
 
-You can read more about it [here](https://www.reuters.com/world/italian-pm-tells-chinas-premier-plan-quit-belt-road-initiative-media-2023-09-10/).
+You can read more about it [here](https://www.reuters.com/world/us-vietnam-elevate-ties-during-biden-visit-with-eye-china-2023-09-09/).
 
 ## Requirements
 - Python 3.8
