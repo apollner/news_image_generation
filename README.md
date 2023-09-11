@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US, Russia praise G20 summit declaration as meeting heads to close**
+**Electric cars have a road trip problem: slow and unreliable charging**
 
-You can read more about it [here](https://www.reuters.com/world/russia-says-g20-declaration-balanced-summit-moves-final-day-2023-09-10/).
+You can read more about it [here](https://www.npr.org/2023/09/10/1187224861/electric-vehicles-evs-cars-chargers-charging-energy-secretary-jennifer-granholm).
 
 ## Requirements
 - Python 3.8
