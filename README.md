@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Open women’s final: American Coco Gauff rallies to defeat Aryna Sabalenka in dramatic finish**
+**Deion Sanders, Shedeur Sanders lead Colorado to 'personal' Nebraska win**
 
-You can read more about it [here](https://www.cnn.com/2023/09/09/tennis/us-open-final-coco-gauff-aryna-sabalenka-spt-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/09/09/deion-sanders-shedeur-colorado-nebraska-matt-rhule/70812700007/).
 
 ## Requirements
 - Python 3.8
