@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania adds more police officers to manhunt for escaped prisoner**
+**How to watch Alabama vs. Texas: TV channel, live stream online, prediction, spread, kickoff time**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4195921-pennsylvania-adds-police-officers-to-manhunt/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/how-to-watch-alabama-vs-texas-tv-channel-live-stream-online-prediction-spread-kickoff-time/).
 
 ## Requirements
 - Python 3.8
