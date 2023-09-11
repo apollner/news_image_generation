@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee is charting a new course in weather and could signal more monster storms**
+**Pennsylvania adds more police officers to manhunt for escaped prisoner**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/hurricane-lee-charting-new-weather-signal-monster-storms-103048327).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4195921-pennsylvania-adds-police-officers-to-manhunt/).
 
 ## Requirements
 - Python 3.8
