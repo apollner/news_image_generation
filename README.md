@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and Vietnam ink historic partnership in Biden visit, with eyes on China**
+**Revisit the 10 Best 'X-Files' Episodes, According to Fans**
 
-You can read more about it [here](https://www.reuters.com/world/us-vietnam-elevate-ties-during-biden-visit-with-eye-china-2023-09-09/).
+You can read more about it [here](https://www.tvinsider.com/1104198/the-x-files-best-episodes-fans/).
 
 ## Requirements
 - Python 3.8
