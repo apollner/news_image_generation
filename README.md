@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clashes, arson mar Chile march to commemorate Pinochet victims**
+**'The Nun 2' scares up $32.6 million at the box office, takes down 'Equalizer 3' for No. 1**
 
-You can read more about it [here](https://www.france24.com/en/live-news/20230910-clashes-arson-mar-chile-march-to-commemorate-pinochet-victims-1).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/movies/2023/09/10/the-nun-ii-tops-weekend-box-office/70817487007/).
 
 ## Requirements
 - Python 3.8
