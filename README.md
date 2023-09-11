@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bowl projections: Texas takes Alabama's place in College Football Playoff after upset in Tuscaloosa**
+**Nervous Moroccans spend a second night in streets after powerful earthquake kills more than 2,000**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/bowl-projections-texas-takes-alabamas-place-in-college-football-playoff-after-upset-in-tuscaloosa/).
+You can read more about it [here](https://www.cnn.com/2023/09/10/africa/morocco-earthquake-day-two-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
