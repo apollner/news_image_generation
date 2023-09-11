@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Several wounded when gunmen open fire on convoy in Mexican border town**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/shooting-convoy-mexico-border-town-miguel-aleman-several-hurt-tamaulipas-roma-texas/).
 
 ## Requirements
 - Python 3.8
