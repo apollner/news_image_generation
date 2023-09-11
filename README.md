@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newsom doesn't want to appoint Senate replacement for Dianne Feinstein**
+**Youngkin pardons father of girl sexually assaulted at Loudoun school**
 
-You can read more about it [here](https://www.axios.com/2023/09/10/dianne-feinstein-newsom-replacement-senator).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
 
 ## Requirements
 - Python 3.8
