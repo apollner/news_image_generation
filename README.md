@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Governor Glenn Youngkin Grants Pardon to Loudoun County Dad Whose Daughter was Sexually Assaulted in Public School - Virginia Governor Ralph Northam**
+**Italian PM: Strong partnership with China more important than Belt and Road Initiative**
 
-You can read more about it [here](https://www.governor.virginia.gov/newsroom/news-releases/2023/september/name-1013859-en.html).
+You can read more about it [here](https://www.reuters.com/world/italian-pm-tells-chinas-premier-plan-quit-belt-road-initiative-media-2023-09-10/).
 
 ## Requirements
 - Python 3.8
