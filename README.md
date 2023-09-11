@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Youngkin pardons father of girl sexually assaulted at Loudoun school**
+**Trump and DeSantis rally at Iowa football game in clash of personas**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
+You can read more about it [here](https://nypost.com/2023/09/10/trump-and-desantis-rally-at-iowa-football-game-in-clash-of-personas/).
 
 ## Requirements
 - Python 3.8
