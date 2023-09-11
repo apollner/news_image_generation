@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Open women’s final: American Coco Gauff rallies to defeat Aryna Sabalenka in dramatic finish**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/09/09/tennis/us-open-final-coco-gauff-aryna-sabalenka-spt-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
