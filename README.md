@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped convict Danelo Cavalcante spotted with altered appearance, driving stolen van, police say**
+**Apple Leak Details All-New iPhone 15, iPhone 15 Pro Price Changes**
 
-You can read more about it [here](https://abcnews.go.com/US/escaped-convict-danelo-cavalcante-spotted-altered-appearance-pennsylvania/story?id=103064127).
+You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/09/10/apple-iphone-15-pro-max-price-increase-new-iphone-upgrade-cost/).
 
 ## Requirements
 - Python 3.8
