@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, the ultimate attention seeker, wages a campaign largely out of public view**
+**US, Russia praise G20 summit declaration as meeting heads to close**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/10/trump-campaign-out-of-public-view-00114873).
+You can read more about it [here](https://www.reuters.com/world/russia-says-g20-declaration-balanced-summit-moves-final-day-2023-09-10/).
 
 ## Requirements
 - Python 3.8
