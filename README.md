@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Several wounded when gunmen open fire on convoy in Mexican border town**
+**‘American Fiction’ Review: Jeffrey Wright Takes on Narrow Ideas of Black Representation in Sharp Industry Satire**
 
-You can read more about it [here](https://www.cbsnews.com/news/shooting-convoy-mexico-border-town-miguel-aleman-several-hurt-tamaulipas-roma-texas/).
+You can read more about it [here](https://variety.com/2023/film/reviews/american-fiction-review-jeffrey-wright-1235718392/).
 
 ## Requirements
 - Python 3.8
