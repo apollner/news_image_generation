@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nervous Moroccans spend a second night in streets after powerful earthquake kills more than 2,000**
+**Elon Musk is a ‘jerk’ but was a ‘talent magnet’ for OpenAI early on, admits Sam Altman—who now faces direct competition from him**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/africa/morocco-earthquake-day-two-intl-hnk/index.html).
+You can read more about it [here](https://fortune.com/2023/09/09/elon-musk-jerk-but-talent-magnet-for-openai-early-on-admits-sam-altman-who-now-faces-direct-competition-from-him/).
 
 ## Requirements
 - Python 3.8
