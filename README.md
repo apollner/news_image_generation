@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas addresses his ‘crazy week’ during Los Angeles concert**
+**Governor Glenn Youngkin Grants Pardon to Loudoun County Dad Whose Daughter was Sexually Assaulted in Public School - Virginia Governor Ralph Northam**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/entertainment/joe-jonas-addresses-crazy-week/index.html).
+You can read more about it [here](https://www.governor.virginia.gov/newsroom/news-releases/2023/september/name-1013859-en.html).
 
 ## Requirements
 - Python 3.8
