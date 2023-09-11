@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Strickland upsets Israel Adesanya to take UFC middleweight title**
+**Trump, the ultimate attention seeker, wages a campaign largely out of public view**
 
-You can read more about it [here](https://www.aljazeera.com/sports/2023/9/10/sean-strickland-upsets-israel-adesanya-to-take-ufc-middleweight-title).
+You can read more about it [here](https://www.politico.com/news/2023/09/10/trump-campaign-out-of-public-view-00114873).
 
 ## Requirements
 - Python 3.8
