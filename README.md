@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Exclusive Leaks All-New iPhone 15, iPhone 15 Pro Upgrades**
+**How to help victims of Morocco’s deadly earthquake**
 
-You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/09/09/apple-iphone-15-pro-max-design-size-battery-life-charging-cameras-new-iphone-release/).
+You can read more about it [here](https://www.cnn.com/2023/09/09/world/how-to-help-morocco-earthquake-iyw/index.html).
 
 ## Requirements
 - Python 3.8
