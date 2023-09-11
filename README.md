@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IMF chief says new Biden-backed economic corridor should not exclude any countries**
+**Escaped convict Danelo Cavalcante spotted with altered appearance, driving stolen van, police say**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/10/imfs-georgieva-biden-backed-economic-corridor-should-not-exclude-anyone.html).
+You can read more about it [here](https://abcnews.go.com/US/escaped-convict-danelo-cavalcante-spotted-altered-appearance-pennsylvania/story?id=103064127).
 
 ## Requirements
 - Python 3.8
