@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daily horoscope for September 10, 2023**
+**Several wounded when gunmen open fire on convoy in Mexican border town**
 
-You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09102023-20230910-zefmbun5kjaonhl7exjt6gc6ty-story.html).
+You can read more about it [here](https://www.cbsnews.com/news/shooting-convoy-mexico-border-town-miguel-aleman-several-hurt-tamaulipas-roma-texas/).
 
 ## Requirements
 - Python 3.8
