@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Nun 2' scares up $32.6 million at the box office, takes down 'Equalizer 3' for No. 1**
+**Football season begins: Chicago Bears take on Green Bay Packers at Soldier Field to kick off week one of NFL season**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/movies/2023/09/10/the-nun-ii-tops-weekend-box-office/70817487007/).
+You can read more about it [here](https://abc7chicago.com/chicago-bears-green-bay-packers-nfl-season-week-one/13762470/).
 
 ## Requirements
 - Python 3.8
