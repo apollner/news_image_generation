@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Revisit the 10 Best 'X-Files' Episodes, According to Fans**
+**Newsom doesn't want to appoint Senate replacement for Dianne Feinstein**
 
-You can read more about it [here](https://www.tvinsider.com/1104198/the-x-files-best-episodes-fans/).
+You can read more about it [here](https://www.axios.com/2023/09/10/dianne-feinstein-newsom-replacement-senator).
 
 ## Requirements
 - Python 3.8
