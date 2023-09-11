@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Football season begins: Chicago Bears take on Green Bay Packers at Soldier Field to kick off week one of NFL season**
+**Rescuers scramble to find survivors in Morocco after powerful earthquake kills more than 2,000**
 
-You can read more about it [here](https://abc7chicago.com/chicago-bears-green-bay-packers-nfl-season-week-one/13762470/).
+You can read more about it [here](https://www.cnn.com/2023/09/10/africa/morocco-earthquake-day-two-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
