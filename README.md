@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk is a ‘jerk’ but was a ‘talent magnet’ for OpenAI early on, admits Sam Altman—who now faces direct competition from him**
+**Daily horoscope for September 10, 2023**
 
-You can read more about it [here](https://fortune.com/2023/09/09/elon-musk-jerk-but-talent-magnet-for-openai-early-on-admits-sam-altman-who-now-faces-direct-competition-from-him/).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09102023-20230910-zefmbun5kjaonhl7exjt6gc6ty-story.html).
 
 ## Requirements
 - Python 3.8
