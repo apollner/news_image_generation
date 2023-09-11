@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**UFC 293: Israel Adesanya vs. Sean Strickland in progress: Live updates, results, highlights**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.dazn.com/en-US/news/mixed-martial-arts/ufc-293-israel-adesanya-vs-sean-strickland-live-updates-results-highlights/119q7fkx4mlszzye4aliykc4w).
 
 ## Requirements
 - Python 3.8
