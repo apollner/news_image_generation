@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Alabama vs. Texas: TV channel, live stream online, prediction, spread, kickoff time**
+**Citing NYC migrant crisis, Adams calls for steep budget cuts, hiring freeze**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/how-to-watch-alabama-vs-texas-tv-channel-live-stream-online-prediction-spread-kickoff-time/).
+You can read more about it [here](https://www.politico.com/news/2023/09/09/nyc-eric-adams-migrant-crisis-00114879).
 
 ## Requirements
 - Python 3.8
