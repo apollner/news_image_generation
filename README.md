@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citing NYC migrant crisis, Adams calls for steep budget cuts, hiring freeze**
+**Apple Exclusive Leaks All-New iPhone 15, iPhone 15 Pro Upgrades**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/09/nyc-eric-adams-migrant-crisis-00114879).
+You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/09/09/apple-iphone-15-pro-max-design-size-battery-life-charging-cameras-new-iphone-release/).
 
 ## Requirements
 - Python 3.8
