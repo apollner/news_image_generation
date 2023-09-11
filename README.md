@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘American Fiction’ Review: Jeffrey Wright Takes on Narrow Ideas of Black Representation in Sharp Industry Satire**
+**Sean Strickland upsets Israel Adesanya to take UFC middleweight title**
 
-You can read more about it [here](https://variety.com/2023/film/reviews/american-fiction-review-jeffrey-wright-1235718392/).
+You can read more about it [here](https://www.aljazeera.com/sports/2023/9/10/sean-strickland-upsets-israel-adesanya-to-take-ufc-middleweight-title).
 
 ## Requirements
 - Python 3.8
