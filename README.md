@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bowl projections: Texas takes Alabama's place in College Football Playoff after upset in Tuscaloosa**
+**Daily horoscope for September 10, 2023**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/bowl-projections-texas-takes-alabamas-place-in-college-football-playoff-after-upset-in-tuscaloosa/).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09102023-20230910-zefmbun5kjaonhl7exjt6gc6ty-story.html).
 
 ## Requirements
 - Python 3.8
