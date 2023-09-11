@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Electric cars have a road trip problem: slow and unreliable charging**
+**Will India's Chandrayaan-3 probes survive the lunar night?**
 
-You can read more about it [here](https://www.npr.org/2023/09/10/1187224861/electric-vehicles-evs-cars-chargers-charging-energy-secretary-jennifer-granholm).
+You can read more about it [here](https://www.space.com/india-chandrayaan-3-no-heaters-lunar-night-survival).
 
 ## Requirements
 - Python 3.8
