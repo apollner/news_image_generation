@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Leak Details All-New iPhone 15, iPhone 15 Pro Price Changes**
+**Joe Jonas addresses his ‘crazy week’ during Los Angeles concert**
 
-You can read more about it [here](https://www.forbes.com/sites/gordonkelly/2023/09/10/apple-iphone-15-pro-max-price-increase-new-iphone-upgrade-cost/).
+You can read more about it [here](https://www.cnn.com/2023/09/10/entertainment/joe-jonas-addresses-crazy-week/index.html).
 
 ## Requirements
 - Python 3.8
