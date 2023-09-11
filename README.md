@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, the ultimate attention seeker, wages a campaign largely out of public view**
+**IMF chief says new Biden-backed economic corridor should not exclude any countries**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/10/trump-campaign-out-of-public-view-00114873).
+You can read more about it [here](https://www.cnbc.com/2023/09/10/imfs-georgieva-biden-backed-economic-corridor-should-not-exclude-anyone.html).
 
 ## Requirements
 - Python 3.8
