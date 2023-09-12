@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed ahead of key inflation data: Live updates**
+**Hurricane Lee restrengthens to Category 3 as East Coast faces hazardous beach conditions this week**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/10/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/09/10/weather/hurricane-lee-path-sunday-climate/index.html).
 
 ## Requirements
 - Python 3.8
