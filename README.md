@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Jenner, Timothee Chalamet pack on the PDA at US Open. Watch**
+**New Mexico gun owners are up in arms over governor's recent action**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-timothee-chalamet-pack-on-the-pda-at-us-open-101694402962271.html).
+You can read more about it [here](https://www.koat.com/article/new-mexico-gun-owners-frustrations-governor/45072213).
 
 ## Requirements
 - Python 3.8
