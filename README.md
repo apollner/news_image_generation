@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaii's Kilauea volcano erupts third time this year**
+**Las Vegas Raiders vs. Denver Broncos Game Highlights | NFL 2023 Week 1**
 
-You can read more about it [here](https://www.reuters.com/world/us/hawaiis-kilauea-volcano-erupts-third-time-this-year-2023-09-11/).
+You can read more about it [here](https://www.youtube.com/watch?v=JEVmIDXz8GM).
 
 ## Requirements
 - Python 3.8
