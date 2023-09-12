@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ed Sheeran Cancels Las Vegas Concert Just an Hour Before Showtime Due to a 'Safety Issue'**
+**Hawaii's Kilauea volcano erupts third time this year**
 
-You can read more about it [here](https://www.etonline.com/ed-sheeran-cancels-las-vegas-concert-just-an-hour-before-showtime-due-to-a-safety-issue-211059).
+You can read more about it [here](https://www.reuters.com/world/us/hawaiis-kilauea-volcano-erupts-third-time-this-year-2023-09-11/).
 
 ## Requirements
 - Python 3.8
