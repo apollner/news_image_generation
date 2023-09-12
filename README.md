@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 takeaways from Cowboys' 40-0 drubbing of Giants on Sunday Night Football**
+**New Mexico gun owners are up in arms over governor's recent action**
 
-You can read more about it [here](https://www.nbcdfw.com/news/sports/nfl/5-takeaways-from-cowboys-40-0-drubbing-of-giants-on-sunday-night-football/3334413/).
+You can read more about it [here](https://www.koat.com/article/new-mexico-gun-owners-frustrations-governor/45072213).
 
 ## Requirements
 - Python 3.8
