@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Mighty American Consumer Is About to Hit a Wall, Investors Say**
+**Jordan Love continues Packers' winning ways vs. Bears - ESPN**
 
-You can read more about it [here](https://finance.yahoo.com/news/mighty-american-consumer-hit-wall-000004700.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38375626/jordan-love-continues-packers-winning-ways-vs-bears).
 
 ## Requirements
 - Python 3.8
