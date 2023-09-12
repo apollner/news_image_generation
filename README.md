@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico gun owners are up in arms over governor's recent action**
+**Ed Sheeran Cancels Las Vegas Concert Just an Hour Before Showtime Due to a 'Safety Issue'**
 
-You can read more about it [here](https://www.koat.com/article/new-mexico-gun-owners-frustrations-governor/45072213).
+You can read more about it [here](https://www.etonline.com/ed-sheeran-cancels-las-vegas-concert-just-an-hour-before-showtime-due-to-a-safety-issue-211059).
 
 ## Requirements
 - Python 3.8
