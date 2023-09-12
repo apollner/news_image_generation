@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rich Eisen: What the Cowboys Proved in Their 40-0 Beatdown of Their NFC East Rival Giants in Week 1**
+**Rep. Barbara Lee says she's 'troubled' by Gov. Gavin Newsom's talk of an 'interim' senator**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3gaG2I-xFZk).
+You can read more about it [here](https://www.kcra.com/article/barbara-lee-troubled-gavin-newsoms-interim-senator/45081565).
 
 ## Requirements
 - Python 3.8
