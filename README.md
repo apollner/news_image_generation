@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Drew Barrymore Show’ Audience Members Say They Were Kicked Out for Writers Guild Support Amid Picket**
+**Mark Meadows requests emergency stay in Georgia election interference case**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/drew-barrymore-show-audience-kicked-out-1235587064/).
+You can read more about it [here](https://abcnews.go.com/US/mark-meadows-requests-emergency-stay-georgia-election-interference/story?id=103091247).
 
 ## Requirements
 - Python 3.8
