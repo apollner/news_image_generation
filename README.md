@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm Daniel causes deadly flooding in Libya’s Derna**
+**McCarthy juggles a government shutdown and a Biden impeachment inquiry as the House returns for fall**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/).
+You can read more about it [here](https://apnews.com/article/mccarthy-speaker-biden-impeachment-republicans-shutdown-4d8c314763252429a6f87e7d13ad2b43).
 
 ## Requirements
 - Python 3.8
