@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla, Alibaba, Hostess Brands, Apple, Oracle, and More Stock Market Movers**
+**Chris Evans Alba Baptista Are Married**
 
-You can read more about it [here](https://www.barrons.com/articles/stock-market-movers-3b9e8737).
+You can read more about it [here](https://www.buzzfeed.com/noradominick/chris-evans-alba-baptista-married).
 
 ## Requirements
 - Python 3.8
