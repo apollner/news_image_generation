@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy juggles a government shutdown and a Biden impeachment inquiry as the House returns for fall**
+**Forget cash back: Microsoft's Xbox Mastercard exclusively earns game discounts**
 
-You can read more about it [here](https://apnews.com/article/mccarthy-speaker-biden-impeachment-republicans-shutdown-4d8c314763252429a6f87e7d13ad2b43).
+You can read more about it [here](https://www.engadget.com/forget-cash-back-microsofts-xbox-mastercard-exclusively-earns-game-discounts-185141446.html).
 
 ## Requirements
 - Python 3.8
