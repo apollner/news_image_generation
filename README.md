@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Islamic scholars rule on how to make lab-grown meat halal**
+**How 60 Minutes reported on the September 11th terrorist attacks**
 
-You can read more about it [here](https://www.ft.com/content/2f58f99e-5494-458a-9d71-8e6518012e56).
+You can read more about it [here](https://www.cbsnews.com/news/60-minutes-reporting-september-11-archive/).
 
 ## Requirements
 - Python 3.8
