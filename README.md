@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Barbara Lee says she's 'troubled' by Gov. Gavin Newsom's talk of an 'interim' senator**
+**Storm Daniel causes deadly flooding in Libya’s Derna**
 
-You can read more about it [here](https://www.kcra.com/article/barbara-lee-troubled-gavin-newsoms-interim-senator/45081565).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/).
 
 ## Requirements
 - Python 3.8
