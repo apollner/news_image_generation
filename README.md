@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia governor pardons man whose arrest at a school board meeting galvanized conservatives**
+**Islamic scholars rule on how to make lab-grown meat halal**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/virginia-governor-pardons-man-arrest-school-board-meeting-103069679).
+You can read more about it [here](https://www.ft.com/content/2f58f99e-5494-458a-9d71-8e6518012e56).
 
 ## Requirements
 - Python 3.8
