@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Youngkin pardons father of girl sexually assaulted at Loudoun school**
+**The Nun II Scares Its Way to a $32.6 Million Domestic Weekend Box Office Victory**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
+You can read more about it [here](https://www.ign.com/articles/the-nun-ii-scares-its-way-to-a-326-million-domestic-weekend-box-office-victory).
 
 ## Requirements
 - Python 3.8
