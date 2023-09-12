@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These 5 steps can help you build a better body: ‘It’s not rocket science’**
+**The Mighty American Consumer Is About to Hit a Wall, Investors Say**
 
-You can read more about it [here](https://www.foxnews.com/health/5-steps-help-build-better-body-not-rocket-science).
+You can read more about it [here](https://finance.yahoo.com/news/mighty-american-consumer-hit-wall-000004700.html).
 
 ## Requirements
 - Python 3.8
