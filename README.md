@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Meadows requests emergency stay in Georgia election interference case**
+**Here are the 3 shots you need to get this fall — and when to get them**
 
-You can read more about it [here](https://abcnews.go.com/US/mark-meadows-requests-emergency-stay-georgia-election-interference/story?id=103091247).
+You can read more about it [here](https://www.newsobserver.com/news/coronavirus/article279093299.html).
 
 ## Requirements
 - Python 3.8
