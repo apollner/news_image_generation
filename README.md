@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 takeaways from Joe Biden’s trip to the G20 and Vietnam**
+**Ukraine says it regains more territory in the east, south**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/politics/takeaways-joe-biden-g20-vietnam/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/ukraine-says-it-regains-more-territory-east-south-2023-09-11/).
 
 ## Requirements
 - Python 3.8
