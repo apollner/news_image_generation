@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee restrengthens to Category 3 as East Coast faces hazardous beach conditions this week**
+**Youngkin pardons father of girl sexually assaulted at Loudoun school**
 
-You can read more about it [here](https://www.cnn.com/2023/09/10/weather/hurricane-lee-path-sunday-climate/index.html).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/10/loudoun-bathroom-sex-assault-youngkin-pardon-father/).
 
 ## Requirements
 - Python 3.8
