@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Several' employees injured after explosion rips through Illinois ADM plant**
+**J.M. Smucker to Buy Twinkies Maker Hostess for $4.6 Billion**
 
-You can read more about it [here](https://nypost.com/2023/09/11/illinoisexplosion-rips-through-illinois-adm-plant-injuring-several-employees/).
+You can read more about it [here](https://www.wsj.com/business/deals/jm-smucker-buy-hostess-twinkies-maker-6924a82).
 
 ## Requirements
 - Python 3.8
