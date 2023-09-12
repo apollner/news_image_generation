@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How 60 Minutes reported on the September 11th terrorist attacks**
+**Kylie Jenner, Timothee Chalamet pack on the PDA at US Open. Watch**
 
-You can read more about it [here](https://www.cbsnews.com/news/60-minutes-reporting-september-11-archive/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/kylie-jenner-timothee-chalamet-pack-on-the-pda-at-us-open-101694402962271.html).
 
 ## Requirements
 - Python 3.8
