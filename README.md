@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Brady Bunch' House Sells for $3.2 Million - WSJ**
+**Astronaut Frank Rubio sets new US record for longest trip in space**
 
-You can read more about it [here](https://www.wsj.com/real-estate/luxury-homes/the-brady-bunch-house-sells-for-3-2-million-1c792518).
+You can read more about it [here](https://www.cnn.com/2023/09/11/world/nasa-astronaut-longest-time-in-space-frank-rubio-scn/index.html).
 
 ## Requirements
 - Python 3.8
