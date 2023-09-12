@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US threatens sanctions if North Korea sells arms to Russia**
+**Disney, Charter End Dispute, Restoring ESPN, ABC to 15 Million Households**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/11/us-threatens-sanctions-if-north-korea-sells-arms-to-russia).
+You can read more about it [here](https://www.wsj.com/business/media/disney-charter-end-carriage-dispute-restoring-espn-other-channels-to-15-million-spectrum-households-6236560c).
 
 ## Requirements
 - Python 3.8
