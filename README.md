@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla, Alibaba, Hostess Brands, Apple, Oracle, and More Stock Market Movers**
+**‘Drew Barrymore Show’ Audience Members Say They Were Kicked Out for Writers Guild Support Amid Picket**
 
-You can read more about it [here](https://www.barrons.com/articles/stock-market-movers-3b9e8737).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/drew-barrymore-show-audience-kicked-out-1235587064/).
 
 ## Requirements
 - Python 3.8
