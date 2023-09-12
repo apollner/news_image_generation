@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney, Charter End Dispute, Restoring ESPN, ABC to 15 Million Households**
+**'The Brady Bunch' House Sells for $3.2 Million - WSJ**
 
-You can read more about it [here](https://www.wsj.com/business/media/disney-charter-end-carriage-dispute-restoring-espn-other-channels-to-15-million-spectrum-households-6236560c).
+You can read more about it [here](https://www.wsj.com/real-estate/luxury-homes/the-brady-bunch-house-sells-for-3-2-million-1c792518).
 
 ## Requirements
 - Python 3.8
