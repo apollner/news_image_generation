@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Love continues Packers' winning ways vs. Bears - ESPN**
+**Virginia governor pardons man whose arrest at a school board meeting galvanized conservatives**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38375626/jordan-love-continues-packers-winning-ways-vs-bears).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/virginia-governor-pardons-man-arrest-school-board-meeting-103069679).
 
 ## Requirements
 - Python 3.8
