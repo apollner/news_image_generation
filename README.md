@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee to bring dangerous rip currents to Maryland beaches**
+**5 takeaways from Joe Biden’s trip to the G20 and Vietnam**
 
-You can read more about it [here](https://www.cbsnews.com/baltimore/news/lee-to-bring-dangerous-rip-currents-to-maryland-beaches-weather-baltimore/).
+You can read more about it [here](https://www.cnn.com/2023/09/10/politics/takeaways-joe-biden-g20-vietnam/index.html).
 
 ## Requirements
 - Python 3.8
