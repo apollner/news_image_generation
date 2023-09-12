@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico gun owners are up in arms over governor's recent action**
+**Hawaii's Kilauea volcano erupts third time this year**
 
-You can read more about it [here](https://www.koat.com/article/new-mexico-gun-owners-frustrations-governor/45072213).
+You can read more about it [here](https://www.reuters.com/world/us/hawaiis-kilauea-volcano-erupts-third-time-this-year-2023-09-11/).
 
 ## Requirements
 - Python 3.8
