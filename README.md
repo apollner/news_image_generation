@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Nun II Scares Its Way to a $32.6 Million Domestic Weekend Box Office Victory**
+**Stock futures are little changed ahead of key inflation data: Live updates**
 
-You can read more about it [here](https://www.ign.com/articles/the-nun-ii-scares-its-way-to-a-326-million-domestic-weekend-box-office-victory).
+You can read more about it [here](https://www.cnbc.com/2023/09/10/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
