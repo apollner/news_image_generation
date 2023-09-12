@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says it regains more territory in the east, south**
+**'Several' employees injured after explosion rips through Illinois ADM plant**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukraine-says-it-regains-more-territory-east-south-2023-09-11/).
+You can read more about it [here](https://nypost.com/2023/09/11/illinoisexplosion-rips-through-illinois-adm-plant-injuring-several-employees/).
 
 ## Requirements
 - Python 3.8
