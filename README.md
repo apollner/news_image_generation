@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Las Vegas Raiders vs. Denver Broncos Game Highlights | NFL 2023 Week 1**
+**Hurricane Lee to bring dangerous rip currents to Maryland beaches**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JEVmIDXz8GM).
+You can read more about it [here](https://www.cbsnews.com/baltimore/news/lee-to-bring-dangerous-rip-currents-to-maryland-beaches-weather-baltimore/).
 
 ## Requirements
 - Python 3.8
