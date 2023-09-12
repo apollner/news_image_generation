@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are the 3 shots you need to get this fall — and when to get them**
+**Rich Eisen: What the Cowboys Proved in Their 40-0 Beatdown of Their NFC East Rival Giants in Week 1**
 
-You can read more about it [here](https://www.newsobserver.com/news/coronavirus/article279093299.html).
+You can read more about it [here](https://www.youtube.com/watch?v=3gaG2I-xFZk).
 
 ## Requirements
 - Python 3.8
