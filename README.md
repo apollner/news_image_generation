@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sundar Pichai says Google and Nvidia will still be working together 10 years from now**
+**Hurricane Lee remains Category 3 as hurricane center tracks TS Margot, 2 more systems**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/11/sundar-pichai-says-google-and-nvidia-will-still-be-working-together-10-years-from-now.html).
+You can read more about it [here](http://www.orlandosentinel.com/2023/09/11/hurricane-lee-remains-category-3-as-hurricane-center-tracks-ts-margot-2-more-systems/).
 
 ## Requirements
 - Python 3.8
