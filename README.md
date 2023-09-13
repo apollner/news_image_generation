@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Jong Un heads to Russia on armored train to meet Vladimir Putin after US warnings of weapons deal**
+**The iPhone 15 Pro's New Action Button: What to Expect**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html).
+You can read more about it [here](https://www.macrumors.com/2023/09/12/the-iphone-15-pros-new-action-button-what-to-expect/).
 
 ## Requirements
 - Python 3.8
