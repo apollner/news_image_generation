@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP senators: Next move to avert shutdown is on McCarthy**
+**FDA signs off on updated COVID boosters. Here's what to know about the new vaccine shots for fall 2023.**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
+You can read more about it [here](https://www.cbsnews.com/news/new-covid-vaccine-boosters-fda-price-variants/).
 
 ## Requirements
 - Python 3.8
