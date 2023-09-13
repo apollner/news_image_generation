@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danelo Cavalcante prison escape: Updates, search area, Chester County sightings**
+**Daily horoscope for September 12, 2023**
 
-You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230911.html).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09122023-20230912-wam6iknlonhd7cm5fkq77oldse-story.html).
 
 ## Requirements
 - Python 3.8
