@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyond Earth: Webb Space Telescope Detects Key Molecules on Exoplanet K2-18 b**
+**Apple iPhone 15 Event Will Tout Enhanced Camera, Titanium Finish**
 
-You can read more about it [here](https://scitechdaily.com/beyond-earth-webb-space-telescope-detects-key-molecules-on-exoplanet-k2-18-b/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-12/apple-aapl-sept-12-iphone-15-event-will-tout-enhanced-camera-titanium-finish).
 
 ## Requirements
 - Python 3.8
