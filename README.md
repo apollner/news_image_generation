@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple ditches the Lightning connector in favor of USB-C after exactly 11 years**
+**See Comet Nishimura at its closest point to Earth this week. It won't visit again for 435 years.**
 
-You can read more about it [here](https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/).
+You can read more about it [here](https://www.space.com/comet-nishimura-perigee-how-to-see-it).
 
 ## Requirements
 - Python 3.8
