@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 15 Event Will Tout Enhanced Camera, Titanium Finish**
+**Escaped prisoner Danelo Cavalcante is now armed, residents told to stay inside**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-12/apple-aapl-sept-12-iphone-15-event-will-tout-enhanced-camera-titanium-finish).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/12/danelo-cavalcante-prison-escape-weapon-police-warnings/70830262007/).
 
 ## Requirements
 - Python 3.8
