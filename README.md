@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm Daniel causes deadly flooding in Libya’s Derna**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
