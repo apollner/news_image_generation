@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPhone 15 Pro's New Action Button: What to Expect**
+**Beyond Earth: Webb Space Telescope Detects Key Molecules on Exoplanet K2-18 b**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/12/the-iphone-15-pros-new-action-button-what-to-expect/).
+You can read more about it [here](https://scitechdaily.com/beyond-earth-webb-space-telescope-detects-key-molecules-on-exoplanet-k2-18-b/).
 
 ## Requirements
 - Python 3.8
