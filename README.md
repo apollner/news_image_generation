@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 15 Event Will Tout Enhanced Camera, Titanium Finish**
+**American rescued from cave in Turkey and said to be doing well after more than a week trapped underground**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-12/apple-aapl-sept-12-iphone-15-event-will-tout-enhanced-camera-titanium-finish).
+You can read more about it [here](https://www.cbsnews.com/news/mark-dickey-american-explorer-rescued-cave-turkey/).
 
 ## Requirements
 - Python 3.8
