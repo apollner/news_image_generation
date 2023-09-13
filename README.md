@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danelo Cavalcante armed, police pursue escaped Pennsylvania killer**
+**[Removed]**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/danelo-cavalcante-armed-pursued-police-pennsylvania-escape-rcna104566).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
