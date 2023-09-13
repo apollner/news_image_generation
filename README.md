@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA greenlights fall COVID boosters amid uptick in cases. Here's who is eligible**
+**Danelo Cavalcante armed, police pursue escaped Pennsylvania killer**
 
-You can read more about it [here](https://www.nbcchicago.com/news/local/fda-greenlights-fall-covid-boosters-amid-uptick-in-cases-heres-who-is-eligible/3225376/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/danelo-cavalcante-armed-pursued-police-pennsylvania-escape-rcna104566).
 
 ## Requirements
 - Python 3.8
