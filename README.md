@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronaut Frank Rubio sets new US record for longest trip in space**
+**Storm Daniel causes deadly flooding in Libya’s Derna**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/world/nasa-astronaut-longest-time-in-space-frank-rubio-scn/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/).
 
 ## Requirements
 - Python 3.8
