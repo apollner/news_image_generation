@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The opioid crisis is still very real, despite less pain pills in the US**
+**Apple event 2023 live updates: iPhone 15 Pro starts at $999**
 
-You can read more about it [here](https://www.washingtonpost.com/investigations/2023/09/12/us-overdose-deaths-opioid-crisis/).
+You can read more about it [here](https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html).
 
 ## Requirements
 - Python 3.8
