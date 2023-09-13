@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Event 2023: Today Is the Expected iPhone 15 Reveal and More**
+**Kim Jong Un heads to Russia on armored train to meet Vladimir Putin after US warnings of weapons deal**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apple-event-2023-today-is-the-expected-iphone-15-reveal-and-more/).
+You can read more about it [here](https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
