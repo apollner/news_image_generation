@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple event 2023 live updates: iPhone 15 Pro starts at $999**
+**See Comet Nishimura at its closest point to Earth this week. It won't visit again for 435 years.**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html).
+You can read more about it [here](https://www.space.com/comet-nishimura-perigee-how-to-see-it).
 
 ## Requirements
 - Python 3.8
