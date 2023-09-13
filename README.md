@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danelo Cavalcante prison escape: Updates, search area, Chester County sightings**
+**How to Watch the 2023 MTV VMAs, Online Streaming Options**
 
-You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230911.html).
+You can read more about it [here](http://www.vulture.com/2023/09/mtv-vmas-2023-how-to-watch.html).
 
 ## Requirements
 - Python 3.8
