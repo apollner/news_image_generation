@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to Watch the 2023 MTV VMAs, Online Streaming Options**
+**Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights**
 
-You can read more about it [here](http://www.vulture.com/2023/09/mtv-vmas-2023-how-to-watch.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Zk8DnHKqBRg).
 
 ## Requirements
 - Python 3.8
