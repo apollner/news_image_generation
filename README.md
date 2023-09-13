@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights**
+**Danelo Cavalcante prison escape: Updates, search area, Chester County sightings**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Zk8DnHKqBRg).
+You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230911.html).
 
 ## Requirements
 - Python 3.8
