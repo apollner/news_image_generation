@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drew Barrymore defends plans to resume talk show amid entertainment strikes**
+**Escaped Pennsylvania prisoner now armed with a stolen rifle and ‘extremely dangerous,’ police say**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/entertainment/drew-barrymore-show-strike/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/12/us/danelo-cavalcante-inmate-search-pennsylvania-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
