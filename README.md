@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Comet Nishimura at its closest point to Earth this week. It won't visit again for 435 years.**
+**Stock Market Today: Dow, S&P 500 Open Lower; Apple, Oracle Stocks in Focus**
 
-You can read more about it [here](https://www.space.com/comet-nishimura-perigee-how-to-see-it).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-12-2023).
 
 ## Requirements
 - Python 3.8
