@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Apple Event 2023: Today Is the Expected iPhone 15 Reveal and More**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apple-event-2023-today-is-the-expected-iphone-15-reveal-and-more/).
 
 ## Requirements
 - Python 3.8
