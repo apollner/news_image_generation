@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Comet Nishimura at its closest point to Earth this week. It won't visit again for 435 years.**
+**Panama Canal to further reduce daily transits if drought continues**
 
-You can read more about it [here](https://www.space.com/comet-nishimura-perigee-how-to-see-it).
+You can read more about it [here](https://www.reuters.com/world/americas/panama-canal-further-reduce-daily-transits-if-drought-continues-2023-09-12/).
 
 ## Requirements
 - Python 3.8
