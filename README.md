@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans slam Biden administration for prisoner swap deal with Iran**
+**Sources - Jets' Aaron Rodgers has torn Achilles tendon - ESPN**
 
-You can read more about it [here](https://www.nbcnews.com/politics/national-security/republicans-slam-us-prisoner-swap-deal-iran-rcna104616).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38385791/sources-jets-aaron-rodgers-torn-achilles-tendon).
 
 ## Requirements
 - Python 3.8
