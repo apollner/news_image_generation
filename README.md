@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panama Canal to further reduce daily transits if drought continues**
+**Covid booster: CDC recommends 2023 vaccine for children and adults**
 
-You can read more about it [here](https://www.reuters.com/world/americas/panama-canal-further-reduce-daily-transits-if-drought-continues-2023-09-12/).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/covid-booster-cdc-advisers-recommend-2023-vaccine-children-adults-rcna104586).
 
 ## Requirements
 - Python 3.8
