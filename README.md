@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libya floods: Derna city looks like a tsunami hit it - minister**
+**The opioid crisis is still very real, despite less pain pills in the US**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66785466).
+You can read more about it [here](https://www.washingtonpost.com/investigations/2023/09/12/us-overdose-deaths-opioid-crisis/).
 
 ## Requirements
 - Python 3.8
