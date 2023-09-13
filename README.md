@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped prisoner Danelo Cavalcante is now armed, residents told to stay inside**
+**American who helped save Mark Dickey speaks about 'dire' situation during Turkish cave rescue**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/12/danelo-cavalcante-prison-escape-weapon-police-warnings/70830262007/).
+You can read more about it [here](https://www.foxnews.com/world/american-helped-save-mark-dickey-speaks-dire-situation-turkish-cave-rescue).
 
 ## Requirements
 - Python 3.8
