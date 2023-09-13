@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American who helped save Mark Dickey speaks about 'dire' situation during Turkish cave rescue**
+**Drew Barrymore defends plans to resume talk show amid entertainment strikes**
 
-You can read more about it [here](https://www.foxnews.com/world/american-helped-save-mark-dickey-speaks-dire-situation-turkish-cave-rescue).
+You can read more about it [here](https://www.cnn.com/2023/09/11/entertainment/drew-barrymore-show-strike/index.html).
 
 ## Requirements
 - Python 3.8
