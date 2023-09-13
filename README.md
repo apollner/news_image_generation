@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA signs off on updated COVID boosters. Here's what to know about the new vaccine shots for fall 2023.**
+**Kim Jong Un heads to Russia on armored train to meet Vladimir Putin after US warnings of weapons deal**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-vaccine-boosters-fda-price-variants/).
+You can read more about it [here](https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
