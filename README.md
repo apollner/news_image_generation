@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid booster: CDC recommends 2023 vaccine for children and adults**
+**Danelo Cavalcante update: Escaped prisoner armed with rifle, police say**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/covid-booster-cdc-advisers-recommend-2023-vaccine-children-adults-rcna104586).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/danelo-cavalcante-escaped-convict-press-conference-pennsylvania-chester-county-escape-video/).
 
 ## Requirements
 - Python 3.8
