@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee tracker: Follow path of Category 3 storm as it continues to move north**
+**Libya floods: Derna city looks like a tsunami hit it - minister**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/09/12/hurricane-lee-tracker-spaghetti-models/70830293007/).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66785466).
 
 ## Requirements
 - Python 3.8
