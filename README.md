@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P 500 Open Lower; Apple, Oracle Stocks in Focus**
+**Republicans slam Biden administration for prisoner swap deal with Iran**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-12-2023).
+You can read more about it [here](https://www.nbcnews.com/politics/national-security/republicans-slam-us-prisoner-swap-deal-iran-rcna104616).
 
 ## Requirements
 - Python 3.8
