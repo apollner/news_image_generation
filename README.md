@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP senators: Next move to avert shutdown is on McCarthy**
+**Aaron Rodgers suffers game-ending ankle injury four plays into New York Jets’ debut and will need MRI**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
+You can read more about it [here](https://www.cnn.com/2023/09/11/sport/nfl-aaron-rodgers-injury-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
