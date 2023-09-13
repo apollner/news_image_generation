@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daily horoscope for September 12, 2023**
+**FDA greenlights fall COVID boosters amid uptick in cases. Here's who is eligible**
 
-You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09122023-20230912-wam6iknlonhd7cm5fkq77oldse-story.html).
+You can read more about it [here](https://www.nbcchicago.com/news/local/fda-greenlights-fall-covid-boosters-amid-uptick-in-cases-heres-who-is-eligible/3225376/).
 
 ## Requirements
 - Python 3.8
