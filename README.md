@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libya floods: Derna city looks like a tsunami hit it - minister**
+**Apple Event 2023: How to watch today’s iPhone 15 reveal**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-66785466).
+You can read more about it [here](https://techcrunch.com/2023/09/12/apple-event-2023-how-to-watch/).
 
 ## Requirements
 - Python 3.8
