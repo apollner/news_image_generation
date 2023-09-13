@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Jets' Aaron Rodgers has torn Achilles tendon - ESPN**
+**Apple ditches the Lightning connector in favor of USB-C after exactly 11 years**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38385791/sources-jets-aaron-rodgers-torn-achilles-tendon).
+You can read more about it [here](https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/).
 
 ## Requirements
 - Python 3.8
