@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Jong Un heads to Russia on armored train to meet Vladimir Putin after US warnings of weapons deal**
+**GOP senators: Next move to avert shutdown is on McCarthy**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
 
 ## Requirements
 - Python 3.8
