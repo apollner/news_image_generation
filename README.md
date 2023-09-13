@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**GOP senators: Next move to avert shutdown is on McCarthy**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
 
 ## Requirements
 - Python 3.8
