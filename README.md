@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP senators: Next move to avert shutdown is on McCarthy**
+**Danelo Cavalcante prison escape: Updates, search area, Chester County sightings**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132).
+You can read more about it [here](https://www.inquirer.com/news/pennsylvania/live/chester-county-prison-escape-danelo-cavalcante-manhunt-updates-20230911.html).
 
 ## Requirements
 - Python 3.8
