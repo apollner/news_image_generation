@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped Pennsylvania prisoner now armed with a stolen rifle and ‘extremely dangerous,’ police say**
+**Hurricane Lee tracker: Follow path of Category 3 storm as it continues to move north**
 
-You can read more about it [here](https://www.cnn.com/2023/09/12/us/danelo-cavalcante-inmate-search-pennsylvania-tuesday/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/09/12/hurricane-lee-tracker-spaghetti-models/70830293007/).
 
 ## Requirements
 - Python 3.8
