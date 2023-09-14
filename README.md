@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NSYNC reunites at VMAs, gives Taylor Swift award: 'You're pop personified'**
+**Covid-19, flu, RSV: Here are the vaccine recommendations for fall—and the best time to get them**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/09/12/nsync-reunion-2023-vmas/70836934007/).
+You can read more about it [here](https://www.cnbc.com/2023/09/12/covid-19-flu-rsv-vaccines-who-should-get-them-and-when.html).
 
 ## Requirements
 - Python 3.8
