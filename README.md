@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen's hands, feet amputated after 'flu-like symptoms'**
+**North Korea's Kim vows full support for Moscow at a summit with Putin in Russia's Far East**
 
-You can read more about it [here](https://www.foxnews.com/us/teens-hands-feet-amputated-after-flu-like-symptoms).
+You can read more about it [here](https://apnews.com/article/north-korea-russia-kim-putin-missile-0d70f5190df1088ebe53e8ca19f8e9c9).
 
 ## Requirements
 - Python 3.8
