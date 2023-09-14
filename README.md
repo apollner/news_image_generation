@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats mock Biden impeachment, but it could affect re-election bid**
+**Fantasy Football Rankings Week 2: Sleepers, projections, starts, sits | Justice Hill, Jordan Addison and more**
 
-You can read more about it [here](https://www.reuters.com/world/us/democrats-mock-biden-impeachment-it-will-impact-2024-race-2023-09-13/).
+You can read more about it [here](https://theathletic.com/4857864/2023/09/13/fantasy-football-rankings-week-2-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
