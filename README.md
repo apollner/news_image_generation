@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump wants a judge to recuse from the Jan. 6 case. It's a dangerous attempt to thwart a conviction.**
+**Escaped killer Danelo Cavalcante caught after 13-day manhunt in Pennsylvania**
 
-You can read more about it [here](https://slate.com/news-and-politics/2023/09/trump-recusal-verdict-conviction-january-6.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/13/danelo-cavalcante-escape-captured-pennsylvania/).
 
 ## Requirements
 - Python 3.8
