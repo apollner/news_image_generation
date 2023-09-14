@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Lauren Boebert was escorted out of 'Beetlejuice' over reports of rude behavior**
+**White House sends letter to news execs urging outlets to 'ramp up' scrutiny of GOP's Biden impeachment inquiry 'based on lies'**
 
-You can read more about it [here](https://www.npr.org/2023/09/13/1199188010/lauren-boebert-theater-beetlejuice-denver).
+You can read more about it [here](https://www.cnn.com/2023/09/12/media/white-house-letter-news-executives/index.html).
 
 ## Requirements
 - Python 3.8
