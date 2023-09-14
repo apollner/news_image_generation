@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea and Japan say that North Korea has fired what appears to be a ballistic missile**
+**iPhone 15 Pro and Pro Max Hands-On: Titanium Frame, 5x Zoom Camera and Spatial Video**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_qaoPLgv_a4).
+You can read more about it [here](https://www.cnet.com/tech/mobile/iphone-15-pro-and-pro-max-hands-on-titanium-frame-5x-zoom-camera-and-spatial-video/).
 
 ## Requirements
 - Python 3.8
