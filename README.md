@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Student killed, another arrested in shooting at Louisiana high school**
+**Jets’ Garrett Wilson reveals Aaron Rodgers' two-word message to him after season-ending injury**
 
-You can read more about it [here](https://www.cbsnews.com/news/shooting-louisiana-school-st-helena-college-career-academy/).
+You can read more about it [here](https://www.foxnews.com/sports/jets-garrett-wilson-reveals-aaron-rodgers-two-word-message-season-ending-injury).
 
 ## Requirements
 - Python 3.8
