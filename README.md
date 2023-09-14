@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 5,000 presumed dead in Libya after ‘catastrophic’ flooding breaks dams and sweeps away homes**
+**Juvenile suspect arrested in connection with deadly shooting at St. Helena school, school canceled until Friday**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/africa/libya-flooding-storm-daniel-climate-intl/index.html).
+You can read more about it [here](https://www.wafb.com/2023/09/13/juvenile-suspect-arrested-connection-with-deadly-shooting-st-helena-school-school-canceled-until-friday/).
 
 ## Requirements
 - Python 3.8
