@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine launches missile attack on Crimea, Russia says**
+**Canadians officials investigate E. coli outbreak at Calgary daycares**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66793900).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66793650).
 
 ## Requirements
 - Python 3.8
