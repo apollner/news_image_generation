@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA warns CVS, Walgreens and others about unapproved eye products**
+**Apple Watch Series 9 First Look: Double Tap Gesture, Faster Performance**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/09/12/fda-warning-unapproved-eye-products/70836516007/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apple-watch-series-9-first-look-double-tap-gesture-faster-performance/).
 
 ## Requirements
 - Python 3.8
