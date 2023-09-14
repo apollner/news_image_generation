@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets’ Garrett Wilson reveals Aaron Rodgers' two-word message to him after season-ending injury**
+**Ukraine launches missile attack on Crimea, Russia says**
 
-You can read more about it [here](https://www.foxnews.com/sports/jets-garrett-wilson-reveals-aaron-rodgers-two-word-message-season-ending-injury).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66793900).
 
 ## Requirements
 - Python 3.8
