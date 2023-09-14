@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘All clear’ issued at UNC-Chapel Hill after reports of ‘armed, dangerous person’**
+**Teen's hands, feet amputated after 'flu-like symptoms'**
 
-You can read more about it [here](https://thehill.com/homenews/4202411-all-clear-issued-at-unc-chapel-hill-after-reports-of-armed-dangerous-person/).
+You can read more about it [here](https://www.foxnews.com/us/teens-hands-feet-amputated-after-flu-like-symptoms).
 
 ## Requirements
 - Python 3.8
