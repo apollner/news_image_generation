@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 5,000 presumed dead in Libya after ‘catastrophic’ flooding breaks dams and sweeps away homes**
+**FDA warns CVS, Walgreens and others about unapproved eye products**
 
-You can read more about it [here](https://www.cnn.com/2023/09/11/africa/libya-flooding-storm-daniel-climate-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/09/12/fda-warning-unapproved-eye-products/70836516007/).
 
 ## Requirements
 - Python 3.8
