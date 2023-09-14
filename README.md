@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancient-human fossils sent to space: researchers slam 'publicity stunt'**
+**Libya floods destroy quarter of Derna city; death toll rises to 5300**
 
-You can read more about it [here](https://www.nature.com/articles/d41586-023-02882-1).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/13/libya-flooding-death-toll-derna/).
 
 ## Requirements
 - Python 3.8
