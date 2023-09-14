@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea's Kim vows full support for Moscow at a summit with Putin in Russia's Far East**
+**Escaped Pennsylvania killer Danelo Cavalcante was surrounded by tactical teams moments before a police dog subdued him**
 
-You can read more about it [here](https://apnews.com/article/north-korea-russia-kim-putin-missile-0d70f5190df1088ebe53e8ca19f8e9c9).
+You can read more about it [here](https://www.cnn.com/2023/09/13/us/danelo-cavalcante-inmate-search-pennsylvania-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
