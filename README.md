@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's everything Apple announced at its 2023 event: iPhone 15 models, new Apple Watch, updated AirPods**
+**Ancient-human fossils sent to space: researchers slam 'publicity stunt'**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html).
+You can read more about it [here](https://www.nature.com/articles/d41586-023-02882-1).
 
 ## Requirements
 - Python 3.8
