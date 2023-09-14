@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House sends letter to news execs urging outlets to 'ramp up' scrutiny of GOP's Biden impeachment inquiry 'based on lies'**
+**North Korea's Kim vows full support for Moscow at a summit with Putin in Russia's Far East**
 
-You can read more about it [here](https://www.cnn.com/2023/09/12/media/white-house-letter-news-executives/index.html).
+You can read more about it [here](https://apnews.com/article/north-korea-russia-kim-putin-missile-0d70f5190df1088ebe53e8ca19f8e9c9).
 
 ## Requirements
 - Python 3.8
