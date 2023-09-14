@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House to send letter to news execs urging outlets to ‘ramp up’ scrutiny of GOP’s Biden impeachment inquiry ‘based on lies’**
+**Man dies after eating oysters infected by Vibrio vulnificus bacteria**
 
-You can read more about it [here](https://www.cnn.com/2023/09/12/media/white-house-letter-news-executives/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/12/man-contracts-vibrio-vulnificus-bacteria-raw-oysters-galveston-restaurant/70837369007/).
 
 ## Requirements
 - Python 3.8
