@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC migrant crisis: Former City Council Speaker speaks out**
+**More than 5,000 presumed dead in Libya after ‘catastrophic’ flooding breaks dams and sweeps away homes**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mkOOI-vfbXg).
+You can read more about it [here](https://www.cnn.com/2023/09/11/africa/libya-flooding-storm-daniel-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
