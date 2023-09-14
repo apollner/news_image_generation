@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple announces iOS 17 release date**
+**Rep. Lauren Boebert was escorted out of 'Beetlejuice' over reports of rude behavior**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/13/apple-announces-ios-17-release-date-.html).
+You can read more about it [here](https://www.npr.org/2023/09/13/1199188010/lauren-boebert-theater-beetlejuice-denver).
 
 ## Requirements
 - Python 3.8
