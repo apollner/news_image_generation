@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll in Libya's Derna flooding could reach 20000: Mayor**
+**Democrats mock Biden impeachment, but it could affect re-election bid**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/13/libyans-search-for-families-after-catastrophic-flood-kill-thousands).
+You can read more about it [here](https://www.reuters.com/world/us/democrats-mock-biden-impeachment-it-will-impact-2024-race-2023-09-13/).
 
 ## Requirements
 - Python 3.8
