@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped killer Danelo Cavalcante caught after 13-day manhunt in Pennsylvania**
+**Here’s why Apple’s charger switch is such a big deal**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/09/13/danelo-cavalcante-escape-captured-pennsylvania/).
+You can read more about it [here](https://www.cnn.com/2023/09/13/tech/iphone-15-usb-c-charging/index.html).
 
 ## Requirements
 - Python 3.8
