@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libya floods destroy quarter of Derna city; death toll rises to 5300**
+**Morocco reels as hopes fade for any more survivors under earthquake rubble**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/13/libya-flooding-death-toll-derna/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/13/morocco-reels-as-hopes-fade-for-any-more-survivors-under-quake-rubble).
 
 ## Requirements
 - Python 3.8
