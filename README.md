@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Watch Series 9 First Look: Double Tap Gesture, Faster Performance**
+**NSYNC reunites at VMAs, gives Taylor Swift award: 'You're pop personified'**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apple-watch-series-9-first-look-double-tap-gesture-faster-performance/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/09/12/nsync-reunion-2023-vmas/70836934007/).
 
 ## Requirements
 - Python 3.8
