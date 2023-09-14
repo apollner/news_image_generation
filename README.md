@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea launches possible ballistic missile: Japan's Ministry of Defense**
+**CDC recommends updated Covid shot for everyone ages 6 months and up**
 
-You can read more about it [here](https://abcnews.go.com/International/north-korea-launches-ballistic-missile-japanese-ministry-defense/story?id=103141510).
+You can read more about it [here](https://www.nbcchicago.com/news/national-international/cdc-advisers-recommend-updated-covid-shot-for-everyone-ages-6-months-and-up/3226512/).
 
 ## Requirements
 - Python 3.8
