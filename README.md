@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest Covid-19 vaccine is here. Here’s where and when to get it — and RSV and flu shots, too**
+**Escaped Pennsylvania killer Danelo Cavalcante was surrounded by tactical teams moments before a police dog subdued him**
 
-You can read more about it [here](https://www.cnn.com/2023/09/13/health/updated-covid-vaccine-where-when-flu-rsv-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/13/us/danelo-cavalcante-inmate-search-pennsylvania-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
