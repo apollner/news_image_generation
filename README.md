@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 rises Wednesday as traders shake off hotter core inflation print: Live updates**
+**The latest Covid-19 vaccine is here. Here’s where and when to get it — and RSV and flu shots, too**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/12/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2023/09/13/health/updated-covid-vaccine-where-when-flu-rsv-wellness/index.html).
 
 ## Requirements
 - Python 3.8
