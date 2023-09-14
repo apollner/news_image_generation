@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morocco reels as hopes fade for any more survivors under earthquake rubble**
+**‘Dancing With The Stars’ Reveals Season 32 Cast; Includes Mira Sorvino, Alyson Hannigan, Jason Mraz & Barry Williams**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/13/morocco-reels-as-hopes-fade-for-any-more-survivors-under-quake-rubble).
+You can read more about it [here](https://deadline.com/2023/09/dancing-with-the-stars-season-32-cast-1235545247/).
 
 ## Requirements
 - Python 3.8
