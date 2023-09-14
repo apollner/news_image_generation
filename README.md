@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canadians officials investigate E. coli outbreak at Calgary daycares**
+**Hip Hop 50th Anniversary Tribute feat. Lil Wayne, Nicki Minaj, LL Cool J & More | 2023 VMAs**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66793650).
+You can read more about it [here](https://www.youtube.com/watch?v=RqZXOsFa3B0).
 
 ## Requirements
 - Python 3.8
