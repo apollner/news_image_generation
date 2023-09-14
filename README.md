@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly rip currents are a concern with Hurricane Lee**
+**Death toll in Libya's Derna flooding could reach 20000: Mayor**
 
-You can read more about it [here](https://www.npr.org/2023/09/13/1199261623/hurricane-lee-major-maine-canada-rip-currents).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/13/libyans-search-for-families-after-catastrophic-flood-kill-thousands).
 
 ## Requirements
 - Python 3.8
