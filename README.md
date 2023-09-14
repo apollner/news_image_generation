@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee, now very large, is raising wind and surf dangers along the East Coast**
+**NYC migrant crisis: Former City Council Speaker speaks out**
 
-You can read more about it [here](https://www.npr.org/2023/09/12/1198996108/hurricane-lee-now-very-large-is-raising-wind-and-surf-dangers-along-the-east-coa).
+You can read more about it [here](https://www.youtube.com/watch?v=mkOOI-vfbXg).
 
 ## Requirements
 - Python 3.8
