@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid-19, flu, RSV: Here are the vaccine recommendations for fall—and the best time to get them**
+**South Korea and Japan say that North Korea has fired what appears to be a ballistic missile**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/12/covid-19-flu-rsv-vaccines-who-should-get-them-and-when.html).
+You can read more about it [here](https://www.youtube.com/watch?v=_qaoPLgv_a4).
 
 ## Requirements
 - Python 3.8
