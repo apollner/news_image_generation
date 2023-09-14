@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped Pennsylvania killer Danelo Cavalcante was surrounded by tactical teams moments before a police dog subdued him**
+**Deadly rip currents are a concern with Hurricane Lee**
 
-You can read more about it [here](https://www.cnn.com/2023/09/13/us/danelo-cavalcante-inmate-search-pennsylvania-wednesday/index.html).
+You can read more about it [here](https://www.npr.org/2023/09/13/1199261623/hurricane-lee-major-maine-canada-rip-currents).
 
 ## Requirements
 - Python 3.8
