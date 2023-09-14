@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s why Apple’s charger switch is such a big deal**
+**Apple announces iOS 17 release date**
 
-You can read more about it [here](https://www.cnn.com/2023/09/13/tech/iphone-15-usb-c-charging/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/13/apple-announces-ios-17-release-date-.html).
 
 ## Requirements
 - Python 3.8
