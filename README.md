@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canadians officials investigate E. coli outbreak at Calgary daycares**
+**Here's everything Apple announced at its 2023 event: iPhone 15 models, new Apple Watch, updated AirPods**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66793650).
+You can read more about it [here](https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html).
 
 ## Requirements
 - Python 3.8
