@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The IRS whistleblower at the heart of the Hunter Biden probe took notes. We've got them.**
+**S&P 500 rises Wednesday as traders shake off hotter core inflation print: Live updates**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/13/irs-whistleblower-hunter-probe-took-notes-00115623).
+You can read more about it [here](https://www.cnbc.com/2023/09/12/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
