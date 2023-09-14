@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Dancing With The Stars’ Reveals Season 32 Cast; Includes Mira Sorvino, Alyson Hannigan, Jason Mraz & Barry Williams**
+**Trump wants a judge to recuse from the Jan. 6 case. It's a dangerous attempt to thwart a conviction.**
 
-You can read more about it [here](https://deadline.com/2023/09/dancing-with-the-stars-season-32-cast-1235545247/).
+You can read more about it [here](https://slate.com/news-and-politics/2023/09/trump-recusal-verdict-conviction-january-6.html).
 
 ## Requirements
 - Python 3.8
