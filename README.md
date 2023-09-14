@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea's Kim vows full support for Moscow at a summit with Putin in Russia's Far East**
+**The IRS whistleblower at the heart of the Hunter Biden probe took notes. We've got them.**
 
-You can read more about it [here](https://apnews.com/article/north-korea-russia-kim-putin-missile-0d70f5190df1088ebe53e8ca19f8e9c9).
+You can read more about it [here](https://www.politico.com/news/2023/09/13/irs-whistleblower-hunter-probe-took-notes-00115623).
 
 ## Requirements
 - Python 3.8
