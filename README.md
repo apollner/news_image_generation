@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danelo Cavalcante update: Escaped prisoner armed with rifle, police say**
+**Hurricane Lee, now very large, is raising wind and surf dangers along the East Coast**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/danelo-cavalcante-escaped-convict-press-conference-pennsylvania-chester-county-escape-video/).
+You can read more about it [here](https://www.npr.org/2023/09/12/1198996108/hurricane-lee-now-very-large-is-raising-wind-and-surf-dangers-along-the-east-coa).
 
 ## Requirements
 - Python 3.8
