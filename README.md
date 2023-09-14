@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC recommends updated Covid shot for everyone ages 6 months and up**
+**Student killed, another arrested in shooting at Louisiana high school**
 
-You can read more about it [here](https://www.nbcchicago.com/news/national-international/cdc-advisers-recommend-updated-covid-shot-for-everyone-ages-6-months-and-up/3226512/).
+You can read more about it [here](https://www.cbsnews.com/news/shooting-louisiana-school-st-helena-college-career-academy/).
 
 ## Requirements
 - Python 3.8
