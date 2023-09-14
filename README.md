@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped Pennsylvania killer Danelo Cavalcante was surrounded by tactical teams moments before a police dog subdued him**
+**‘All clear’ issued at UNC-Chapel Hill after reports of ‘armed, dangerous person’**
 
-You can read more about it [here](https://www.cnn.com/2023/09/13/us/danelo-cavalcante-inmate-search-pennsylvania-wednesday/index.html).
+You can read more about it [here](https://thehill.com/homenews/4202411-all-clear-issued-at-unc-chapel-hill-after-reports-of-armed-dangerous-person/).
 
 ## Requirements
 - Python 3.8
