@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unity engine: Among Us and Slay the Spire makers join criticism**
+**Imposing Further Sanctions in Response to Russia's Illegal War Against Ukraine - United States Department of State**
 
-You can read more about it [here](https://www.bbc.com/news/newsbeat-66810296).
+You can read more about it [here](https://www.state.gov/imposing-further-sanctions-in-response-to-russias-illegal-war-against-ukraine/).
 
 ## Requirements
 - Python 3.8
