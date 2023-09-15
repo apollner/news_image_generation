@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro, 15 Pro Max Specs vs. Galaxy S23 Ultra, Pixel 7 Pro, OnePlus 11**
+**Taiwan reports 40 Chinese military aircraft in its air defence zone**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/iphone-15-pro-15-pro-max-specs-vs-galaxy-s23-ultra-pixel-7-pro-oneplus-11/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-reports-40-chinese-military-aircraft-its-air-defence-zone-2023-09-14/).
 
 ## Requirements
 - Python 3.8
