@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden brushes off House impeachment inquiry and says Republicans want to shut down the government**
+**WGA Calls Bill Maher’s Decision To Bring HBO’s ‘Real Time’ Back During Writers Strike “Disappointing”, Guild Says It Will Picket Show**
 
-You can read more about it [here](https://apnews.com/article/mccarthy-biden-impeachment-government-shutdown-051edf97ad8938e77f41ab57be631f8a).
+You can read more about it [here](https://deadline.com/2023/09/writers-strike-bill-maher-real-time-wga-disappointing-picket-1235546557/).
 
 ## Requirements
 - Python 3.8
