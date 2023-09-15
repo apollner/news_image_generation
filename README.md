@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden makes first comments on McCarthy’s impeachment inquiry as his advisers go on the offensive**
+**iPhone 15 Pro's Action Button to Support Translate App Later This Year**
 
-You can read more about it [here](https://www.cnn.com/2023/09/13/politics/joe-biden-impeachment-inquiry-response-strategy/index.html).
+You can read more about it [here](https://www.macrumors.com/2023/09/13/iphone-15-pro-action-button-translate-later/).
 
 ## Requirements
 - Python 3.8
