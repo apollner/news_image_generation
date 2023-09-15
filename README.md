@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll soars to 11300 from flooding in Libyan coastal city of Derna**
+**Margot Robbie Takes the No-Pants Trend to the SAG-AFTRA Picket Line**
 
-You can read more about it [here](https://www.npr.org/2023/09/14/1199555068/death-toll-soars-to-11-300-from-flooding-in-libyan-coastal-city-of-derna).
+You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a45138901/margot-robbie-sag-aftra-strike-picket-line-outfit/).
 
 ## Requirements
 - Python 3.8
