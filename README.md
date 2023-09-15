@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man dies after eating oysters infected by Vibrio vulnificus bacteria**
+**Georgia judge shuts down DA’s effort to try Trump and co-defendants together**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/12/man-contracts-vibrio-vulnificus-bacteria-raw-oysters-galveston-restaurant/70837369007/).
+You can read more about it [here](https://www.cnn.com/2023/09/14/politics/trump-georgia-trial-date/index.html).
 
 ## Requirements
 - Python 3.8
