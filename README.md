@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan reports 40 Chinese military aircraft in its air defence zone**
+**SoftBank's Arm valued at $54.5 bln in year's biggest IPO**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-reports-40-chinese-military-aircraft-its-air-defence-zone-2023-09-14/).
+You can read more about it [here](https://www.reuters.com/markets/deals/softbanks-arm-discusses-pricing-ipo-52-per-share-source-2023-09-13/).
 
 ## Requirements
 - Python 3.8
