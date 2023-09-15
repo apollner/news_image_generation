@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's Attack On Sevastopol Also Targeted Important Ships Crossing Black Sea**
+**The House has rested its case against Ken Paxton after a chaotic day for the prosecution**
 
-You can read more about it [here](https://www.navalnews.com/naval-news/2023/09/ukraines-attack-on-sevastopol-also-targeted-important-ships-crossing-black-sea/).
+You can read more about it [here](https://www.texastribune.org/2023/09/13/ken-paxton-impeachment-trial-laura-olson-drew-wicker/).
 
 ## Requirements
 - Python 3.8
