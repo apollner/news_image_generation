@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘One Piece’ Renewed for Season 2 at Netflix**
+**Luxury cruise ship that ran aground in Greenland is freed at high tide**
 
-You can read more about it [here](https://variety.com/2023/tv/news/one-piece-renewed-season-2-netflix-1235724027/).
+You can read more about it [here](https://www.npr.org/2023/09/14/1199481250/greenland-cruise-ship-aground-free).
 
 ## Requirements
 - Python 3.8
