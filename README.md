@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico Democrat governor's sweeping gun order hits major temporary roadblock**
+**Biden brushes off House impeachment inquiry and says Republicans want to shut down the government**
 
-You can read more about it [here](https://www.foxnews.com/politics/new-mexico-democrat-governors-sweeping-gun-order-hits-major-temporary-roadblock).
+You can read more about it [here](https://apnews.com/article/mccarthy-biden-impeachment-government-shutdown-051edf97ad8938e77f41ab57be631f8a).
 
 ## Requirements
 - Python 3.8
