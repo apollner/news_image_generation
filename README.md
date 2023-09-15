@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The House has rested its case against Ken Paxton after a chaotic day for the prosecution**
+**Justin Roiland Accused of Sexual Assault**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/13/ken-paxton-impeachment-trial-laura-olson-drew-wicker/).
+You can read more about it [here](http://www.vulture.com/2023/09/justin-roiland-sexual-assault-messages-underage-fans.html).
 
 ## Requirements
 - Python 3.8
