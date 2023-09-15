@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Bakhtiari, former teammates 'gutted' for Aaron Rodgers**
+**Apple's iPhone 15 Pro Max Starts at $1199, but You Can't Get 128GB**
 
-You can read more about it [here](https://www.packers.com/news/david-bakhtiari-former-teammates-gutted-for-aaron-rodgers).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apples-iphone-15-pro-max-starts-at-1199-but-you-cant-get-128gb/).
 
 ## Requirements
 - Python 3.8
