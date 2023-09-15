@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All iPhone 15 Models Support DisplayPort for Up to 4K HDR Video Output to External Display**
+**Man dies after eating oysters infected by Vibrio vulnificus bacteria**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/13/all-iphone-15-models-support-displayport/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/09/12/man-contracts-vibrio-vulnificus-bacteria-raw-oysters-galveston-restaurant/70837369007/).
 
 ## Requirements
 - Python 3.8
