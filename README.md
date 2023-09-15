@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Prevent mosquito bites’: High risk for EEE in six Mass. communities, state health officials say**
+**iPhone 15 Pro, 15 Pro Max Specs vs. Galaxy S23 Ultra, Pixel 7 Pro, OnePlus 11**
 
-You can read more about it [here](https://www.boston25news.com/news/local/prevent-mosquito-bites-high-risk-eee-six-mass-communities-state-health-officials-say/3YHJ4KSAIJFXTN2LLG7GO3TTOU/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/iphone-15-pro-15-pro-max-specs-vs-galaxy-s23-ultra-pixel-7-pro-oneplus-11/).
 
 ## Requirements
 - Python 3.8
