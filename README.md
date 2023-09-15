@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New England on alert: Hurricane and Tropical Storm watches issued for much of coastline ahead of Lee's arrival**
+**‘Prevent mosquito bites’: High risk for EEE in six Mass. communities, state health officials say**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee-new-england-impacts).
+You can read more about it [here](https://www.boston25news.com/news/local/prevent-mosquito-bites-high-risk-eee-six-mass-communities-state-health-officials-say/3YHJ4KSAIJFXTN2LLG7GO3TTOU/).
 
 ## Requirements
 - Python 3.8
