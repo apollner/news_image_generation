@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's Attack On Sevastopol Also Targeted Important Ships Crossing Black Sea**
+**Braves win sixth-straight NL East title; first team to punch ticket to MLB Postseason**
 
-You can read more about it [here](https://www.navalnews.com/naval-news/2023/09/ukraines-attack-on-sevastopol-also-targeted-important-ships-crossing-black-sea/).
+You can read more about it [here](https://www.foxnews.com/sports/braves-win-sixth-straight-nl-east-title-first-team-punch-ticket-mlb-postseason).
 
 ## Requirements
 - Python 3.8
