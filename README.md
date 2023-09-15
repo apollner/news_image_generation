@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luxury cruise ship that ran aground in Greenland is freed at high tide**
+**Death toll soars to 11300 from flooding in Libyan coastal city of Derna**
 
-You can read more about it [here](https://www.npr.org/2023/09/14/1199481250/greenland-cruise-ship-aground-free).
+You can read more about it [here](https://www.npr.org/2023/09/14/1199555068/death-toll-soars-to-11-300-from-flooding-in-libyan-coastal-city-of-derna).
 
 ## Requirements
 - Python 3.8
