@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best NFL football knockout, survivor pool picks, strategy, advice for Week 2, 2023: Fade the Dolphins**
+**Unity engine: Among Us and Slay the Spire makers join criticism**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/best-nfl-football-knockout-survivor-pool-picks-strategy-advice-for-week-2-2023-fade-the-dolphins/).
+You can read more about it [here](https://www.bbc.com/news/newsbeat-66810296).
 
 ## Requirements
 - Python 3.8
