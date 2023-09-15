@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoftBank's Arm valued at $54.5 bln in year's biggest IPO**
+**New Mexico Democrat governor's sweeping gun order hits major temporary roadblock**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/softbanks-arm-discusses-pricing-ipo-52-per-share-source-2023-09-13/).
+You can read more about it [here](https://www.foxnews.com/politics/new-mexico-democrat-governors-sweeping-gun-order-hits-major-temporary-roadblock).
 
 ## Requirements
 - Python 3.8
