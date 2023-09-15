@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro's Action Button to Support Translate App Later This Year**
+**Ukraine's Attack On Sevastopol Also Targeted Important Ships Crossing Black Sea**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/13/iphone-15-pro-action-button-translate-later/).
+You can read more about it [here](https://www.navalnews.com/naval-news/2023/09/ukraines-attack-on-sevastopol-also-targeted-important-ships-crossing-black-sea/).
 
 ## Requirements
 - Python 3.8
