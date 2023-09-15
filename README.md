@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aging dams and missed warnings: A lethal mix of factors caused Africa’s deadliest flood disaster**
+**‘One Piece’ Renewed for Season 2 at Netflix**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/middleeast/lethal-factors-leading-to-libya-floods-intl/index.html).
+You can read more about it [here](https://variety.com/2023/tv/news/one-piece-renewed-season-2-netflix-1235724027/).
 
 ## Requirements
 - Python 3.8
