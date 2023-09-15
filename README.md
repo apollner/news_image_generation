@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGA Calls Bill Maher’s Decision To Bring HBO’s ‘Real Time’ Back During Writers Strike “Disappointing”, Guild Says It Will Picket Show**
+**For stocks this was 'the worst part' of inflation report, says First Trust**
 
-You can read more about it [here](https://deadline.com/2023/09/writers-strike-bill-maher-real-time-wga-disappointing-picket-1235546557/).
+You can read more about it [here](https://www.marketwatch.com/story/for-stocks-this-was-the-worst-part-of-inflation-report-says-first-trust-9db6ac4f).
 
 ## Requirements
 - Python 3.8
