@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings Week 2: Sleepers, projections, starts, sits | Justice Hill, Jordan Addison and more**
+**Apple (AAPL) iPhone 15 Event: Company Pivots Toward Making Vision Pro Its Future**
 
-You can read more about it [here](https://theathletic.com/4857864/2023/09/13/fantasy-football-rankings-week-2-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.bloomberg.com/news/newsletters/2023-09-13/apple-aapl-iphone-15-event-company-pivots-toward-making-vision-pro-its-future).
 
 ## Requirements
 - Python 3.8
