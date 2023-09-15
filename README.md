@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alex Murdaugh back in court for first time since murder trial**
+**Luxury cruise ship that ran aground in Greenland is freed at high tide**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/alex-murdaugh-back-court-first-time-murder-trial-rcna104890).
+You can read more about it [here](https://www.npr.org/2023/09/14/1199481250/greenland-cruise-ship-aground-free).
 
 ## Requirements
 - Python 3.8
