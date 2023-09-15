@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia judge shuts down DA’s effort to try Trump and co-defendants together**
+**Best NFL football knockout, survivor pool picks, strategy, advice for Week 2, 2023: Fade the Dolphins**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/politics/trump-georgia-trial-date/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/best-nfl-football-knockout-survivor-pool-picks-strategy-advice-for-week-2-2023-fade-the-dolphins/).
 
 ## Requirements
 - Python 3.8
