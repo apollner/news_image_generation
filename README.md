@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico Democrat governor's sweeping gun order hits major temporary roadblock**
+**New England on alert: Hurricane and Tropical Storm watches issued for much of coastline ahead of Lee's arrival**
 
-You can read more about it [here](https://www.foxnews.com/politics/new-mexico-democrat-governors-sweeping-gun-order-hits-major-temporary-roadblock).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee-new-england-impacts).
 
 ## Requirements
 - Python 3.8
