@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Roiland Accused of Sexual Assault**
+**Biden makes first comments on McCarthy’s impeachment inquiry as his advisers go on the offensive**
 
-You can read more about it [here](http://www.vulture.com/2023/09/justin-roiland-sexual-assault-messages-underage-fans.html).
+You can read more about it [here](https://www.cnn.com/2023/09/13/politics/joe-biden-impeachment-inquiry-response-strategy/index.html).
 
 ## Requirements
 - Python 3.8
