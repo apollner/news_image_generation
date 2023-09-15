@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro's Action Button to Support Translate App Later This Year**
+**All iPhone 15 Models Support DisplayPort for Up to 4K HDR Video Output to External Display**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/13/iphone-15-pro-action-button-translate-later/).
+You can read more about it [here](https://www.macrumors.com/2023/09/13/all-iphone-15-models-support-displayport/).
 
 ## Requirements
 - Python 3.8
