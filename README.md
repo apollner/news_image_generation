@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘One Piece’ Renewed for Season 2 at Netflix**
+**Google Extends Lifespan of Chromebooks With 10-Year Update Policy - WSJ**
 
-You can read more about it [here](https://variety.com/2023/tv/news/one-piece-renewed-season-2-netflix-1235724027/).
+You can read more about it [here](https://www.wsj.com/tech/personal-tech/google-extends-lifespan-of-chromebooks-with-10-year-update-policy-38910da1).
 
 ## Requirements
 - Python 3.8
