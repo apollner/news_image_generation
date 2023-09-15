@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imposing Further Sanctions in Response to Russia's Illegal War Against Ukraine - United States Department of State**
+**Aging dams and missed warnings: A lethal mix of factors caused Africa’s deadliest flood disaster**
 
-You can read more about it [here](https://www.state.gov/imposing-further-sanctions-in-response-to-russias-illegal-war-against-ukraine/).
+You can read more about it [here](https://www.cnn.com/2023/09/14/middleeast/lethal-factors-leading-to-libya-floods-intl/index.html).
 
 ## Requirements
 - Python 3.8
