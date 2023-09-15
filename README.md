@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple (AAPL) iPhone 15 Event: Company Pivots Toward Making Vision Pro Its Future**
+**New England on alert: Hurricane and Tropical Storm watches issued for much of coastline ahead of Lee's arrival**
 
-You can read more about it [here](https://www.bloomberg.com/news/newsletters/2023-09-13/apple-aapl-iphone-15-event-company-pivots-toward-making-vision-pro-its-future).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-hurricane-lee-new-england-impacts).
 
 ## Requirements
 - Python 3.8
