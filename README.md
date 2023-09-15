@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Extends Lifespan of Chromebooks With 10-Year Update Policy - WSJ**
+**David Bakhtiari, former teammates 'gutted' for Aaron Rodgers**
 
-You can read more about it [here](https://www.wsj.com/tech/personal-tech/google-extends-lifespan-of-chromebooks-with-10-year-update-policy-38910da1).
+You can read more about it [here](https://www.packers.com/news/david-bakhtiari-former-teammates-gutted-for-aaron-rodgers).
 
 ## Requirements
 - Python 3.8
