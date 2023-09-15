@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For stocks this was 'the worst part' of inflation report, says First Trust**
+**Horoscope for Thursday, September 14, 2023**
 
-You can read more about it [here](https://www.marketwatch.com/story/for-stocks-this-was-the-worst-part-of-inflation-report-says-first-trust-9db6ac4f).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/14/23860423/horoscopes-today-thursday-september-14-2023).
 
 ## Requirements
 - Python 3.8
