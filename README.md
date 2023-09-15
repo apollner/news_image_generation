@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aging dams and missed warnings: A lethal mix of factors caused Africa’s deadliest flood disaster**
+**Alex Murdaugh back in court for first time since murder trial**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/middleeast/lethal-factors-leading-to-libya-floods-intl/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/alex-murdaugh-back-court-first-time-murder-trial-rcna104890).
 
 ## Requirements
 - Python 3.8
