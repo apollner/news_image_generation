@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Margot Robbie Takes the No-Pants Trend to the SAG-AFTRA Picket Line**
+**Thursday Night Football: Everything you need to know as the Philadelphia Eagles take on the Minnesota Vikings**
 
-You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a45138901/margot-robbie-sag-aftra-strike-picket-line-outfit/).
+You can read more about it [here](https://www.cnn.com/2023/09/14/sport/nfl-football-philadelphia-eagles-minnesota-vikings-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
