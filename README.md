@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, September 14, 2023**
+**iPhone 15 Pro's Action Button to Support Translate App Later This Year**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/14/23860423/horoscopes-today-thursday-september-14-2023).
+You can read more about it [here](https://www.macrumors.com/2023/09/13/iphone-15-pro-action-button-translate-later/).
 
 ## Requirements
 - Python 3.8
