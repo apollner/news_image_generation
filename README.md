@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's iPhone 15 Pro Max Starts at $1199, but You Can't Get 128GB**
+**‘One Piece’ Renewed for Season 2 at Netflix**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apples-iphone-15-pro-max-starts-at-1199-but-you-cant-get-128gb/).
+You can read more about it [here](https://variety.com/2023/tv/news/one-piece-renewed-season-2-netflix-1235724027/).
 
 ## Requirements
 - Python 3.8
