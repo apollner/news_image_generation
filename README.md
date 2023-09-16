@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mystery of 'living fossil' tree frozen in time for 66 million years finally solved**
+**Striking Hollywood writers, studios to resume negotiations next week**
 
-You can read more about it [here](https://www.livescience.com/planet-earth/plants/mystery-of-living-fossil-tree-frozen-in-time-for-66-million-years-finally-solved).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/striking-hollywood-writers-studios-resume-negotiations-week-103207055).
 
 ## Requirements
 - Python 3.8
