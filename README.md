@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin accepts Kim Jong Un's invitation to visit North Korea**
+**NASA names its new UFO boss — after initially saying it wouldn't**
 
-You can read more about it [here](https://www.dw.com/en/putin-accepts-kim-jong-uns-invitation-to-visit-north-korea/a-66805632).
+You can read more about it [here](https://www.politico.com/news/2023/09/14/nasa-ufo-boss-secret-00116075).
 
 ## Requirements
 - Python 3.8
