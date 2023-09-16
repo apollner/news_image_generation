@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Auto Workers go on strike against Ford, GM, Stellantis**
+**Planet Fitness stock plunges as CEO abruptly steps down, surprising Wall Street**
 
-You can read more about it [here](https://www.cbsnews.com/news/united-auto-workers-strike-underway-ford-general-motors-stellantis-big-three/).
+You can read more about it [here](https://finance.yahoo.com/news/planet-fitness-stock-plunges-as-ceo-abruptly-steps-down-surprising-wall-street-165959495.html).
 
 ## Requirements
 - Python 3.8
