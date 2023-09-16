@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**10 hospitalized after Salmonella outbreak at Avondale taqueria**
+**United Auto Workers go on strike against Ford, GM, Stellantis**
 
-You can read more about it [here](https://wgntv.com/news/chicago-news/10-hospitalized-after-salmonella-outbreak-at-avondale-taqueria/).
+You can read more about it [here](https://www.cbsnews.com/news/united-auto-workers-strike-underway-ford-general-motors-stellantis-big-three/).
 
 ## Requirements
 - Python 3.8
