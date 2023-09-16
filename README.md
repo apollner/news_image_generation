@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin McCarthy opens impeachment inquiry without passing budget despite once criticizing Democrats for the same**
+**Putin accepts Kim Jong Un's invitation to visit North Korea**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/politics/kfile-mccarthy-opens-impeachment-without-passing-budget/index.html).
+You can read more about it [here](https://www.dw.com/en/putin-accepts-kim-jong-uns-invitation-to-visit-north-korea/a-66805632).
 
 ## Requirements
 - Python 3.8
