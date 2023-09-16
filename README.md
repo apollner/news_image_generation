@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets QB Aaron Rodgers says surgery for torn Achilles 'went great' - ESPN**
+**Aging dams and missed warnings: A lethal mix of factors caused Africa’s deadliest flood disaster**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38402084/jets-qb-aaron-rodgers-says-surgery-torn-achilles-went-great).
+You can read more about it [here](https://www.cnn.com/2023/09/14/middleeast/lethal-factors-leading-to-libya-floods-intl/index.html).
 
 ## Requirements
 - Python 3.8
