@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OHSU scientists discover condition that contributes to Alzheimer's by triggering a cascade of degeneration among immune cells in the brain**
+**Tracking Hurricane Lee**
 
-You can read more about it [here](https://www.kgw.com/article/news/health/healthier-together/ohsu-scientists-discover-new-cause-alzheimers/283-9473cf8d-5ae7-4f47-bca4-8e572e01727f).
+You can read more about it [here](https://www.youtube.com/watch?v=4nP8s1aTj5k).
 
 ## Requirements
 - Python 3.8
