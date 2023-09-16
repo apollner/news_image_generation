@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Diana’s ‘black sheep’ sweater auctioned for $1.1 million**
+**Hugh Jackman and wife Deborra-Lee Furness announce separation**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/09/15/princess-diana-black-sheep-sweater-auction/).
+You can read more about it [here](https://www.cnn.com/2023/09/15/entertainment/hugh-jackman-wife-separate/index.html).
 
 ## Requirements
 - Python 3.8
