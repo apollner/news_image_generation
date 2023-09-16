@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut, 2 Russian cosmonauts launch to space station**
+**Marc Benioff drops a bomb after calling Salesforce workers back to their desks: ‘I don’t work well in an office—it just doesn’t work with my personality’**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/world/russia-launch-soyuz-ms-24-scn/index.html).
+You can read more about it [here](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/).
 
 ## Requirements
 - Python 3.8
