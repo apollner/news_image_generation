@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where To Pre-Order Mario vs. Donkey Kong On Switch**
+**New COVID vaccine shots aren't being called "boosters." Here's why.**
 
-You can read more about it [here](https://www.nintendolife.com/guides/where-to-pre-order-mario-vs-donkey-kong-on-switch).
+You can read more about it [here](https://www.cbsnews.com/news/new-covid-vaccine-shots-booster-2023/).
 
 ## Requirements
 - Python 3.8
