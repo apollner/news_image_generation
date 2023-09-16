@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stunning James Webb Space Telescope image shows young star blasting supersonic jets**
+**Kevin McCarthy opens impeachment inquiry without passing budget despite once criticizing Democrats for the same**
 
-You can read more about it [here](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope).
+You can read more about it [here](https://www.cnn.com/2023/09/14/politics/kfile-mccarthy-opens-impeachment-without-passing-budget/index.html).
 
 ## Requirements
 - Python 3.8
