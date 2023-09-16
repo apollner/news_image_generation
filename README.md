@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hackers say they stole 6 terabytes of data from casino giants MGM, Caesars**
+**Boston Red Sox fire Chief Baseball Officer Chaim Bloom**
 
-You can read more about it [here](https://www.reuters.com/business/casino-giant-caesars-confirms-data-breach-2023-09-14/).
+You can read more about it [here](https://www.wcvb.com/article/boston-red-sox-chaim-bloom/45141021).
 
 ## Requirements
 - Python 3.8
