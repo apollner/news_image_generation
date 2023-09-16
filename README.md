@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID vaccine shots aren't being called "boosters." Here's why.**
+**Princess Diana’s ‘black sheep’ sweater auctioned for $1.1 million**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-vaccine-shots-booster-2023/).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/09/15/princess-diana-black-sheep-sweater-auction/).
 
 ## Requirements
 - Python 3.8
