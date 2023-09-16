@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA names its new UFO boss — after initially saying it wouldn't**
+**Jets QB Aaron Rodgers says surgery for torn Achilles 'went great' - ESPN**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/14/nasa-ufo-boss-secret-00116075).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38402084/jets-qb-aaron-rodgers-says-surgery-torn-achilles-went-great).
 
 ## Requirements
 - Python 3.8
