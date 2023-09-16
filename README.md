@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First iPhone 15 Pro ad highlights new titanium finish**
+**Apple moves to defuse French iPhone 12 row as EU scrutiny steps up**
 
-You can read more about it [here](https://9to5mac.com/2023/09/14/first-iphone-15-pro-ad-titanium/).
+You can read more about it [here](https://www.reuters.com/technology/apple-implement-iphone-12-update-next-few-days-france-minister-2023-09-15/).
 
 ## Requirements
 - Python 3.8
