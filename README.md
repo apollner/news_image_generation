@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets QB Aaron Rodgers says surgery for torn Achilles 'went great' - ESPN**
+**Ukraine says Russian missile defence destroyed in Crimea, 2 warships hits**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38402084/jets-qb-aaron-rodgers-says-surgery-torn-achilles-went-great).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/15/ukraine-says-russian-missile-defence-destroyed-in-crimea-2-warships-hits).
 
 ## Requirements
 - Python 3.8
