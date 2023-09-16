@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hugh Jackman and wife Deborra-Lee Furness announce separation**
+**NASA astronaut, 2 Russian cosmonauts launch to space station**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/entertainment/hugh-jackman-wife-separate/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/15/world/russia-launch-soyuz-ms-24-scn/index.html).
 
 ## Requirements
 - Python 3.8
