@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple moves to defuse French iPhone 12 row as EU scrutiny steps up**
+**NFL Week 2 fantasy football start ’em, sit ’em | Fantasy Football News, Rankings and Projections**
 
-You can read more about it [here](https://www.reuters.com/technology/apple-implement-iphone-12-update-next-few-days-france-minister-2023-09-15/).
+You can read more about it [here](https://www.pff.com/news/fantasy-football-nfl-week-2-start-em-sit-em-2023).
 
 ## Requirements
 - Python 3.8
