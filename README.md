@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hackers say they stole 6 terabytes of data from casino giants MGM, Caesars**
+**Vikings vs. Eagles highlights: Eagles win 34-28 on Thursday Night Football**
 
-You can read more about it [here](https://www.reuters.com/business/casino-giant-caesars-confirms-data-breach-2023-09-14/).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/vikings-vs-eagles-live-updates-top-moments-from-thursday-night-football).
 
 ## Requirements
 - Python 3.8
