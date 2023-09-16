@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 fantasy football start ’em, sit ’em | Fantasy Football News, Rankings and Projections**
+**Putin touts ‘good neighborly relations’ with North Korea after Kim visits Russian fighter jet plant**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-nfl-week-2-start-em-sit-em-2023).
+You can read more about it [here](https://www.cnn.com/2023/09/15/asia/kim-jong-un-north-korea-russia-komsomolsk-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
