@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Economy Shows Fresh Signs of Fragile Recovery**
+**OHSU scientists discover condition that contributes to Alzheimer's by triggering a cascade of degeneration among immune cells in the brain**
 
-You can read more about it [here](https://www.wsj.com/world/china/chinas-economy-shows-fresh-signs-of-fragile-recovery-f20b32f2).
+You can read more about it [here](https://www.kgw.com/article/news/health/healthier-together/ohsu-scientists-discover-new-cause-alzheimers/283-9473cf8d-5ae7-4f47-bca4-8e572e01727f).
 
 ## Requirements
 - Python 3.8
