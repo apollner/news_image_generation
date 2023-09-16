@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 acquitted in final trial of Michigan Gov. Gretchen Whitmer kidnapping plot**
+**iPhone 15 and iPhone 15 Pro Models Now Available for Pre-Order**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/politics/gretchen-whitmer-michigan-kidnapping-plot/index.html).
+You can read more about it [here](https://www.macrumors.com/2023/09/15/iphone-15-preorders-now-available/).
 
 ## Requirements
 - Python 3.8
