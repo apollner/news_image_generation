@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marc Benioff drops a bomb after calling Salesforce workers back to their desks: ‘I don’t work well in an office—it just doesn’t work with my personality’**
+**10 hospitalized after Salmonella outbreak at Avondale taqueria**
 
-You can read more about it [here](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/).
+You can read more about it [here](https://wgntv.com/news/chicago-news/10-hospitalized-after-salmonella-outbreak-at-avondale-taqueria/).
 
 ## Requirements
 - Python 3.8
