@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aging dams and missed warnings: A lethal mix of factors caused Africa’s deadliest flood disaster**
+**Hackers say they stole 6 terabytes of data from casino giants MGM, Caesars**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/middleeast/lethal-factors-leading-to-libya-floods-intl/index.html).
+You can read more about it [here](https://www.reuters.com/business/casino-giant-caesars-confirms-data-breach-2023-09-14/).
 
 ## Requirements
 - Python 3.8
