@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Striking Hollywood writers, studios to resume negotiations next week**
+**Arkansan dies from brain-eating amoeba; likely exposed at splash pad**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/striking-hollywood-writers-studios-resume-negotiations-week-103207055).
+You can read more about it [here](https://www.4029tv.com/article/arkansas-splash-pad-amoeba-death/45144142).
 
 ## Requirements
 - Python 3.8
