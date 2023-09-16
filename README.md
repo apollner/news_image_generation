@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deion Sanders hits back at Colorado State’s Jay Norvell after jab: ‘It was just going to be a good game’**
+**Hunter Biden indicted on gun charges**
 
-You can read more about it [here](https://www.foxnews.com/sports/deion-sanders-hits-back-colorado-states-jay-norvell-jab-was-just-going-good-game).
+You can read more about it [here](https://www.cnn.com/2023/09/14/politics/hunter-biden/index.html).
 
 ## Requirements
 - Python 3.8
