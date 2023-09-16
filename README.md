@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin touts ‘good neighborly relations’ with North Korea after Kim visits Russian fighter jet plant**
+**Cyberpunk 2077's free 2.0 update arrives September 21**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/asia/kim-jong-un-north-korea-russia-komsomolsk-intl-hnk/index.html).
+You can read more about it [here](https://www.engadget.com/cyberpunk-2077s-free-20-update-arrives-september-21-064242975.html).
 
 ## Requirements
 - Python 3.8
