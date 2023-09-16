@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkansan dies from brain-eating amoeba; likely exposed at splash pad**
+**Covid, RSV and flu vaccines are now available — here's how to decide whether to get them together**
 
-You can read more about it [here](https://www.4029tv.com/article/arkansas-splash-pad-amoeba-death/45144142).
+You can read more about it [here](https://www.cnbc.com/2023/09/15/covid-rsv-flu-vaccines-how-to-decide-whether-to-get-them-together.html).
 
 ## Requirements
 - Python 3.8
