@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings vs. Eagles highlights: Eagles win 34-28 on Thursday Night Football**
+**Jets QB Aaron Rodgers says surgery for torn Achilles 'went great' - ESPN**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/vikings-vs-eagles-live-updates-top-moments-from-thursday-night-football).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38402084/jets-qb-aaron-rodgers-says-surgery-torn-achilles-went-great).
 
 ## Requirements
 - Python 3.8
