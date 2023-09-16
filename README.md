@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 and iPhone 15 Pro Models Now Available for Pre-Order**
+**Hasan Minhaj Admits to Fabricating Stand-Up Stories, Including Details of Daughter’s Anthrax Scare: ‘The Punch Line Is Worth the Fictionalized Premise’**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/15/iphone-15-preorders-now-available/).
+You can read more about it [here](https://variety.com/2023/tv/news/hasan-minhaj-lied-stand-up-daughter-exposed-anthrax-1235724731/).
 
 ## Requirements
 - Python 3.8
