@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thursday Night Football: Everything you need to know as the Philadelphia Eagles take on the Minnesota Vikings**
+**Stunning James Webb Space Telescope image shows young star blasting supersonic jets**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/sport/nfl-football-philadelphia-eagles-minnesota-vikings-spt-intl/index.html).
+You can read more about it [here](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope).
 
 ## Requirements
 - Python 3.8
