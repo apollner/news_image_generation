@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boston Red Sox fire Chief Baseball Officer Chaim Bloom**
+**Chinese defence minister under investigation by Beijing, US believes**
 
-You can read more about it [here](https://www.wcvb.com/article/boston-red-sox-chaim-bloom/45141021).
+You can read more about it [here](https://www.ft.com/content/d0fa10c5-303c-4129-8283-a147639f70b3).
 
 ## Requirements
 - Python 3.8
