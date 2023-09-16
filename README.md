@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple to Issue iPhone 12 Software Update in France to Address Radiation Concerns**
+**First iPhone 15 Pro ad highlights new titanium finish**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/15/apple-iphone-12-software-update-france-radiation/).
+You can read more about it [here](https://9to5mac.com/2023/09/14/first-iphone-15-pro-ad-titanium/).
 
 ## Requirements
 - Python 3.8
