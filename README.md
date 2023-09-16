@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hasan Minhaj Admits to Fabricating Stand-Up Stories, Including Details of Daughter’s Anthrax Scare: ‘The Punch Line Is Worth the Fictionalized Premise’**
+**Parts of coastal New England and Atlantic Canada are under tropical storm warnings as Hurricane Lee nears**
 
-You can read more about it [here](https://variety.com/2023/tv/news/hasan-minhaj-lied-stand-up-daughter-exposed-anthrax-1235724731/).
+You can read more about it [here](https://www.cnn.com/2023/09/15/weather/hurricane-lee-new-england-forecast-friday/index.html).
 
 ## Requirements
 - Python 3.8
