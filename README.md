@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parts of coastal New England and Atlantic Canada are under tropical storm warnings as Hurricane Lee nears**
+**Where To Pre-Order Mario vs. Donkey Kong On Switch**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/weather/hurricane-lee-new-england-forecast-friday/index.html).
+You can read more about it [here](https://www.nintendolife.com/guides/where-to-pre-order-mario-vs-donkey-kong-on-switch).
 
 ## Requirements
 - Python 3.8
