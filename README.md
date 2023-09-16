@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese defence minister under investigation by Beijing, US believes**
+**Hackers say they stole 6 terabytes of data from casino giants MGM, Caesars**
 
-You can read more about it [here](https://www.ft.com/content/d0fa10c5-303c-4129-8283-a147639f70b3).
+You can read more about it [here](https://www.reuters.com/business/casino-giant-caesars-confirms-data-breach-2023-09-14/).
 
 ## Requirements
 - Python 3.8
