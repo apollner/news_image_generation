@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid, RSV and flu vaccines are now available — here's how to decide whether to get them together**
+**3 acquitted in final trial of Michigan Gov. Gretchen Whitmer kidnapping plot**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/15/covid-rsv-flu-vaccines-how-to-decide-whether-to-get-them-together.html).
+You can read more about it [here](https://www.cnn.com/2023/09/15/politics/gretchen-whitmer-michigan-kidnapping-plot/index.html).
 
 ## Requirements
 - Python 3.8
