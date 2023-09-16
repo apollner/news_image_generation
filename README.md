@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden indicted on gun charges**
+**China's Economy Shows Fresh Signs of Fragile Recovery**
 
-You can read more about it [here](https://www.cnn.com/2023/09/14/politics/hunter-biden/index.html).
+You can read more about it [here](https://www.wsj.com/world/china/chinas-economy-shows-fresh-signs-of-fragile-recovery-f20b32f2).
 
 ## Requirements
 - Python 3.8
