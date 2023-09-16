@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says Russian missile defence destroyed in Crimea, 2 warships hits**
+**Vikings vs. Eagles highlights: Eagles win 34-28 on Thursday Night Football**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/15/ukraine-says-russian-missile-defence-destroyed-in-crimea-2-warships-hits).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/vikings-vs-eagles-live-updates-top-moments-from-thursday-night-football).
 
 ## Requirements
 - Python 3.8
