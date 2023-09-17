@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Only on WCNC Charlotte: White House calls impeachment inquiry 'baseless'**
+**Florida vs. Tennessee live stream, TV channel, watch online, prediction, spread, pick, football game odds**
 
-You can read more about it [here](https://www.youtube.com/watch?v=B--jUhbzVg4).
+You can read more about it [here](https://www.cbssports.com/college-football/news/florida-vs-tennessee-live-stream-tv-channel-watch-online-prediction-spread-pick-football-game-odds/).
 
 ## Requirements
 - Python 3.8
