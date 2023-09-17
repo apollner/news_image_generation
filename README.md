@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oops! I called my boss 'dude.' Career coaches weigh in on tricky workplace dilemmas**
+**Aaron Rodgers fallout: Jets don't control 2024 first-round pick thanks in part to Brett Favre**
 
-You can read more about it [here](https://www.npr.org/2023/09/16/1199740381/career-coaches-ageism-burnout-tricky-workplace-dilemmas).
+You can read more about it [here](https://www.cbssports.com/nfl/news/aaron-rodgers-fallout-jets-dont-control-2024-first-round-pick-thanks-in-part-to-brett-favre/).
 
 ## Requirements
 - Python 3.8
