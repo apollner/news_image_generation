@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spider-Man 2’s Fast Travel On PS5 Looks Absolutely Insane**
+**The Rock moves Deion Sanders to the brink of tears on ESPN's 'College GameDay'**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/09/16/spider-man-2s-fast-travel-on-ps5-looks-absolutely-insane/).
+You can read more about it [here](https://sports.yahoo.com/the-rock-moves-deion-sanders-to-the-brink-of-tears-on-espns-college-gameday-180348240.html).
 
 ## Requirements
 - Python 3.8
