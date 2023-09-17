@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drew Barrymore Defends Talk Show Return Amid WGA Strike After Growing Criticism: “There Are Other People’s Jobs on the Line”**
+**WGA Meeting With Concerned Showrunners Has Been Postponed**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/drew-barrymore-defends-talk-show-return-strike-1235591766/).
+You can read more about it [here](https://variety.com/2023/biz/news/wga-amptp-showrunner-meeting-postponed-1235723812/).
 
 ## Requirements
 - Python 3.8
