@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexican Independence Day crowds force Chicago street closures**
+**Seattle cop defends laughing about 'limited value' grad student killed in police car collision**
 
-You can read more about it [here](https://www.youtube.com/watch?v=f78PZAcaVeo).
+You can read more about it [here](https://nypost.com/2023/09/16/seattle-cop-daniel-auderer-defends-laughing-about-student-jaahnavi-kandula-killed-by-colleague/).
 
 ## Requirements
 - Python 3.8
