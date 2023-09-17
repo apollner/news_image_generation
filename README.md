@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Planet Fitness stock plunges as CEO abruptly steps down, surprising Wall Street**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/news/planet-fitness-stock-plunges-as-ceo-abruptly-steps-down-surprising-wall-street-165959495.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
