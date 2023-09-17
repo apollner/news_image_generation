@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It’s baby boomers’ world. Millennials and Gen Zers fear for their financial future because they’re still living in it**
+**Poland, Slovakia, and Hungary to defy EU and extend ban on Ukrainian grain imports**
 
-You can read more about it [here](https://fortune.com/2023/09/16/millennials-gen-z-worry-baby-boomer-impact-financial-future/).
+You can read more about it [here](https://www.cnn.com/2023/09/16/europe/ukraine-grain-imports-pland-slovakia-hungary-intl/index.html).
 
 ## Requirements
 - Python 3.8
