@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Speculation grows over whereabouts of China’s Defense Minister Li Shangfu**
+**What to know about COVID-19 levels and masking as updated vaccine lands in WA**
 
-You can read more about it [here](https://www.cnn.com/2023/09/15/china/li-shangfu-china-defense-minister-whereabouts-intl-hnk/index.html).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/health/what-to-know-about-covid-levels-masking-as-updated-vaccine-lands-in-wa/).
 
 ## Requirements
 - Python 3.8
