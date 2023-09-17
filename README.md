@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hugh Jackman and Deborra-Lee Furness announce shock split | Today Show Australia**
+**The Rock and John Cena highlight wild SmackDown: SmackDown, Sept. 15, 2023**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_Djs0N7XlJo).
+You can read more about it [here](https://www.youtube.com/watch?v=7d-xW-wQJ6s).
 
 ## Requirements
 - Python 3.8
