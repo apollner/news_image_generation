@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Brand posts video denying 'serious criminal allegations'**
+**‘Disaster of epic proportions’: Libya prosecutor probes deadly dam collapse**
 
-You can read more about it [here](https://www.bbc.com/news/uk-66831593).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/16/disaster-of-epic-proportions-libya-prosecutor-probes-deadly-dam-collapse).
 
 ## Requirements
 - Python 3.8
