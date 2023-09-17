@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea's Kim views Russian nuclear-capable bombers, hypersonic missiles**
+**Mexican Independence Day crowds force Chicago street closures**
 
-You can read more about it [here](https://www.reuters.com/world/russia-shows-north-koreas-kim-hypersonic-missiles-strategic-bombers-2023-09-16/).
+You can read more about it [here](https://www.youtube.com/watch?v=f78PZAcaVeo).
 
 ## Requirements
 - Python 3.8
