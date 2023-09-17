@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bristol Motor Speedway starting lineup: Christopher Bell claims pole**
+**Fantasy Football Week 2 injuries: Travis Kelce, Mark Andrews, Aaron Jones, Puka Nacua questionable**
 
-You can read more about it [here](https://www.nbcsports.com/nascar/news/bristol-motor-speedway-starting-lineup-christopher-bell-claims-pole).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-2-injuries-travis-kelce-mark-andrews-aaron-jones-puka-nacua-questionable/).
 
 ## Requirements
 - Python 3.8
