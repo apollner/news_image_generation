@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sprawling Hurricane Lee's impacts begin as winds, power outages increase in New England**
+**Steve Martin Refutes Accusations From ‘Little Shop Of Horrors’ Co-Star Miriam Margolyes Who Calls Him “Undeniably Brilliant, But Horrid”**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/hurricane-lee-landfall-impacts-new-england).
+You can read more about it [here](https://deadline.com/2023/09/steve-martin-miriam-margolyesr-little-shop-of-horrors-allegations-1235548503/).
 
 ## Requirements
 - Python 3.8
