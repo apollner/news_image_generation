@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk's Cybertruck Is Almost Here. Will Anyone Buy The 'Ludicrous' Vehicle?**
+**North Korea's Kim Jong Un inspects Russian bombers and a warship on a visit to Russia's Far East**
 
-You can read more about it [here](https://www.forbes.com/sites/alanohnsman/2023/09/16/musks-cybertruck-is-almost-here-but-will-anyone-buy-the-ludicrous-vehicle/).
+You can read more about it [here](https://www.politico.com/news/2023/09/16/north-koreas-kim-jong-un-inspects-russian-bombers-and-a-warship-on-a-visit-to-russias-far-east-00116389).
 
 ## Requirements
 - Python 3.8
