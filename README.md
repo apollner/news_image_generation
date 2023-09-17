@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaii governor: Fewer people died in Maui wildfires, number reduced to 97**
+**Musk's Cybertruck Is Almost Here. Will Anyone Buy The 'Ludicrous' Vehicle?**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4207758-maui-wildfire-death-toll-reduced-to-97/).
+You can read more about it [here](https://www.forbes.com/sites/alanohnsman/2023/09/16/musks-cybertruck-is-almost-here-but-will-anyone-buy-the-ludicrous-vehicle/).
 
 ## Requirements
 - Python 3.8
