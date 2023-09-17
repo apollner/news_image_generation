@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian Soyuz spacecraft carrying 3 spaceflyers arrives at ISS (video)**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/soyuz-ms-24-arrives-international-space-station).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
