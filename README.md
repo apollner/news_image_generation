@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK will ban American XL Bully dogs after series of recent attacks**
+**Lagarde seized ECB colleagues' handsets to prevent leaks**
 
-You can read more about it [here](https://www.foxnews.com/world/uk-will-ban-american-xl-bully-dogs-series-recent-attacks).
+You can read more about it [here](https://www.reuters.com/world/europe/lagarde-seized-ecb-colleagues-handsets-prevent-leaks-sources-2023-09-16/).
 
 ## Requirements
 - Python 3.8
