@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Rock and John Cena highlight wild SmackDown: SmackDown, Sept. 15, 2023**
+**North Korea's Kim views Russian nuclear-capable bombers, hypersonic missiles**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7d-xW-wQJ6s).
+You can read more about it [here](https://www.reuters.com/world/russia-shows-north-koreas-kim-hypersonic-missiles-strategic-bombers-2023-09-16/).
 
 ## Requirements
 - Python 3.8
