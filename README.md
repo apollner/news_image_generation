@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland, Slovakia, and Hungary to defy EU and extend ban on Ukrainian grain imports**
+**Spider-Man 2’s Fast Travel On PS5 Looks Absolutely Insane**
 
-You can read more about it [here](https://www.cnn.com/2023/09/16/europe/ukraine-grain-imports-pland-slovakia-hungary-intl/index.html).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2023/09/16/spider-man-2s-fast-travel-on-ps5-looks-absolutely-insane/).
 
 ## Requirements
 - Python 3.8
