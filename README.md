@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jackpot hits $162M: Mega Millions winning numbers for Friday, Sept. 15**
+**FULL SEGMENT - The Rock returns to dismantle Austin Theory: SmackDown highlights, Sept. 15, 2023**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/09/15/mega-millions-winning-numbers-september-15/70869637007/).
+You can read more about it [here](https://www.youtube.com/watch?v=peuSz-fEvHU).
 
 ## Requirements
 - Python 3.8
