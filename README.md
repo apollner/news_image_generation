@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Disaster of epic proportions’: Libya prosecutor probes deadly dam collapse**
+**TikToker Levi Jed Murphy Reveals Why He's Already Ready for His Fifth Round of Plastic Surgery**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/16/disaster-of-epic-proportions-libya-prosecutor-probes-deadly-dam-collapse).
+You can read more about it [here](https://www.eonline.com/news/1385324/tiktoker-levi-jed-murphy-reveals-why-hes-already-ready-for-his-fifth-round-of-plastic-surgery).
 
 ## Requirements
 - Python 3.8
