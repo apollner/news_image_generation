@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikToker Levi Jed Murphy Reveals Why He's Already Ready for His Fifth Round of Plastic Surgery**
+**UK will ban American XL Bully dogs after series of recent attacks**
 
-You can read more about it [here](https://www.eonline.com/news/1385324/tiktoker-levi-jed-murphy-reveals-why-hes-already-ready-for-his-fifth-round-of-plastic-surgery).
+You can read more about it [here](https://www.foxnews.com/world/uk-will-ban-american-xl-bully-dogs-series-recent-attacks).
 
 ## Requirements
 - Python 3.8
