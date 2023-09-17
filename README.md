@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Rock moves Deion Sanders to the brink of tears on ESPN's 'College GameDay'**
+**Escaped Pa. prisoner Danelo Cavalcante capture: DEA releases thermal imaging video that led to arrest**
 
-You can read more about it [here](https://sports.yahoo.com/the-rock-moves-deion-sanders-to-the-brink-of-tears-on-espns-college-gameday-180348240.html).
+You can read more about it [here](https://6abc.com/pa-prisoner-heat-video-thermal-imaging-dea-plane-danelo-cavalcante-arrest/13790547/).
 
 ## Requirements
 - Python 3.8
