@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 2 injuries: Travis Kelce, Mark Andrews, Aaron Jones, Puka Nacua questionable**
+**Okta CEO on MGM breach: Companies are under 'massive attack from cybercriminals'**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-2-injuries-travis-kelce-mark-andrews-aaron-jones-puka-nacua-questionable/).
+You can read more about it [here](https://www.cnbc.com/2023/09/15/okta-ceo-on-mgm-breach-companies-under-attack-from-cybercriminals.html).
 
 ## Requirements
 - Python 3.8
