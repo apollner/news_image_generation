@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Okta CEO on MGM breach: Companies are under 'massive attack from cybercriminals'**
+**Steve Martin Refutes Accusations From ‘Little Shop Of Horrors’ Co-Star Miriam Margolyes Who Calls Him “Undeniably Brilliant, But Horrid”**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/15/okta-ceo-on-mgm-breach-companies-under-attack-from-cybercriminals.html).
+You can read more about it [here](https://deadline.com/2023/09/steve-martin-miriam-margolyesr-little-shop-of-horrors-allegations-1235548503/).
 
 ## Requirements
 - Python 3.8
