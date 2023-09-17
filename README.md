@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about COVID-19 levels and masking as updated vaccine lands in WA**
+**Bristol Motor Speedway starting lineup: Christopher Bell claims pole**
 
-You can read more about it [here](https://www.seattletimes.com/seattle-news/health/what-to-know-about-covid-levels-masking-as-updated-vaccine-lands-in-wa/).
+You can read more about it [here](https://www.nbcsports.com/nascar/news/bristol-motor-speedway-starting-lineup-christopher-bell-claims-pole).
 
 ## Requirements
 - Python 3.8
