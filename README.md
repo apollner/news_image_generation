@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lagarde seized ECB colleagues' handsets to prevent leaks**
+**It’s baby boomers’ world. Millennials and Gen Zers fear for their financial future because they’re still living in it**
 
-You can read more about it [here](https://www.reuters.com/world/europe/lagarde-seized-ecb-colleagues-handsets-prevent-leaks-sources-2023-09-16/).
+You can read more about it [here](https://fortune.com/2023/09/16/millennials-gen-z-worry-baby-boomer-impact-financial-future/).
 
 ## Requirements
 - Python 3.8
