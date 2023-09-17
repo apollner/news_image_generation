@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ovidio Guzman Lopez, son of El Chapo, brought to US to face drug trafficking charges: Sources**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/ovidio-guzman-lopez-son-el-chapo-brought-us/story?id=103234606).
 
 ## Requirements
 - Python 3.8
