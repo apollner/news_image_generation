@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea's Kim Jong Un inspects Russian bombers and a warship on a visit to Russia's Far East**
+**Russell Brand posts video denying 'serious criminal allegations'**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/16/north-koreas-kim-jong-un-inspects-russian-bombers-and-a-warship-on-a-visit-to-russias-far-east-00116389).
+You can read more about it [here](https://www.bbc.com/news/uk-66831593).
 
 ## Requirements
 - Python 3.8
