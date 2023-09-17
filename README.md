@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped Pa. prisoner Danelo Cavalcante capture: DEA releases thermal imaging video that led to arrest**
+**iPhone 15's new USB-C port unlocks robust support for external displays**
 
-You can read more about it [here](https://6abc.com/pa-prisoner-heat-video-thermal-imaging-dea-plane-danelo-cavalcante-arrest/13790547/).
+You can read more about it [here](https://9to5mac.com/2023/09/16/iphone-15-usb-c-external-displays/).
 
 ## Requirements
 - Python 3.8
