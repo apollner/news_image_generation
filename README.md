@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers fallout: Jets don't control 2024 first-round pick thanks in part to Brett Favre**
+**Sahith Theegala shoots 8-under 64 | Round 2 | Fortinet Championship | 2023**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/aaron-rodgers-fallout-jets-dont-control-2024-first-round-pick-thanks-in-part-to-brett-favre/).
+You can read more about it [here](https://www.youtube.com/watch?v=Hf7fin0L-rE).
 
 ## Requirements
 - Python 3.8
