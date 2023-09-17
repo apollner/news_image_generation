@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seattle cop defends laughing about 'limited value' grad student killed in police car collision**
+**Oops! I called my boss 'dude.' Career coaches weigh in on tricky workplace dilemmas**
 
-You can read more about it [here](https://nypost.com/2023/09/16/seattle-cop-daniel-auderer-defends-laughing-about-student-jaahnavi-kandula-killed-by-colleague/).
+You can read more about it [here](https://www.npr.org/2023/09/16/1199740381/career-coaches-ageism-burnout-tricky-workplace-dilemmas).
 
 ## Requirements
 - Python 3.8
