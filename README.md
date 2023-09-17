@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FULL SEGMENT - The Rock returns to dismantle Austin Theory: SmackDown highlights, Sept. 15, 2023**
+**Hugh Jackman and Deborra-Lee Furness announce shock split | Today Show Australia**
 
-You can read more about it [here](https://www.youtube.com/watch?v=peuSz-fEvHU).
+You can read more about it [here](https://www.youtube.com/watch?v=_Djs0N7XlJo).
 
 ## Requirements
 - Python 3.8
