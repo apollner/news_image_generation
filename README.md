@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wartime Pope Pius XII Knew About Holocaust, Letter Suggests**
+**California lawsuit says oil giants deceived public on climate, seeks funds for storm damage**
 
-You can read more about it [here](https://www.wsj.com/world/europe/wartime-pope-pius-xii-knew-about-holocaust-letter-suggests-159856ca).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/california-lawsuit-oil-giants-deceived-public-climate-seeks-103253474).
 
 ## Requirements
 - Python 3.8
