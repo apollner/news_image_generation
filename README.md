@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When SpaceX's Starship is ready to settle Mars, will we be? (op-ed)**
+**House Republicans are in 'civil war' amid Biden impeachment probe, looming shutdown: Jeffries**
 
-You can read more about it [here](https://www.space.com/spacex-starship-ready-mars-humanity-ready).
+You can read more about it [here](https://abcnews.go.com/Politics/house-republicans-civil-war-amid-biden-impeachment-probe/story?id=103253211).
 
 ## Requirements
 - Python 3.8
