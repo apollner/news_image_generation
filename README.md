@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs vs. Jaguars odds, picks, line, how to watch, live stream: Model reveals 2023 Week 2 NFL predictions**
+**Drew Barrymore talk show to pause amid Hollywood strike**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-jaguars-odds-picks-line-how-to-watch-live-stream-model-reveals-2023-week-2-nfl-predictions/).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/09/17/drew-barrymore-talk-show/).
 
 ## Requirements
 - Python 3.8
