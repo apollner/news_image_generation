@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran detains Mahsa Amini’s father, cracks down on protests: Rights groups**
+**China police detain some Evergrande wealth management staff**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/iran-detains-mahsa-aminis-father-cracks-down-on-protests-rights-groups).
+You can read more about it [here](https://www.reuters.com/markets/asia/china-police-detain-some-evergrande-wealth-management-staff-2023-09-17/).
 
 ## Requirements
 - Python 3.8
