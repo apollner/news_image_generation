@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five takeaways from Kansas State’s last-second road loss against the Missouri Tigers**
+**Arkansas toddler dies of rare brain-eating amoeba infection likely contracted at country club splash pad**
 
-You can read more about it [here](https://www.kansas.com/sports/college/big-12/kansas-state/article279409634.html).
+You can read more about it [here](https://www.foxnews.com/health/arkansas-toddler-dies-rare-brain-eating-amoeba-infection-likely-contracted-splash-pad-country-club).
 
 ## Requirements
 - Python 3.8
