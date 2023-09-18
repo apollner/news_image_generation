@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drew Barrymore talk show to pause amid Hollywood strike**
+**Two suspects charged with murder in death of 1-year-old following alleged fentanyl exposure at NYC day care**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/09/17/drew-barrymore-talk-show/).
+You can read more about it [here](https://www.nbcnews.com/news/crime-courts/1-baby-dead-3-kids-hospitalized-fentanyl-exposure-new-york-city-daycar-rcna105474).
 
 ## Requirements
 - Python 3.8
