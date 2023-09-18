@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15's USB-C Port: 4.5W Charging for Accessories, USB 3.2 Gen 2 for Pro Models, and More**
+**Iran detains Mahsa Amini’s father, cracks down on protests: Rights groups**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/16/iphone-15-usb-c-port-details/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/iran-detains-mahsa-aminis-father-cracks-down-on-protests-rights-groups).
 
 ## Requirements
 - Python 3.8
