@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 bold predictions: Browns accomplish feat they haven't done in 30 years, Jags finally beat Mahomes**
+**When SpaceX's Starship is ready to settle Mars, will we be? (op-ed)**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-2-bold-predictions-browns-accomplish-feat-they-havent-done-in-30-years-jags-finally-beat-mahomes/).
+You can read more about it [here](https://www.space.com/spacex-starship-ready-mars-humanity-ready).
 
 ## Requirements
 - Python 3.8
