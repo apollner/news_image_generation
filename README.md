@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney asset sales won't break the bank, but they will move legacy media forward**
+**Chiefs vs. Jaguars odds, picks, line, how to watch, live stream: Model reveals 2023 Week 2 NFL predictions**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/17/disney-asset-sales-will-move-media-industry-forward.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-jaguars-odds-picks-line-how-to-watch-live-stream-model-reveals-2023-week-2-nfl-predictions/).
 
 ## Requirements
 - Python 3.8
