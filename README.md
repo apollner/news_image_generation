@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkansas toddler dies of rare brain-eating amoeba infection likely contracted at country club splash pad**
+**Libya floods death toll rises to 11,300 in Derna, UN says**
 
-You can read more about it [here](https://www.foxnews.com/health/arkansas-toddler-dies-rare-brain-eating-amoeba-infection-likely-contracted-splash-pad-country-club).
+You can read more about it [here](https://www.cnn.com/2023/09/16/world/libya-flood-death-toll-rise-derna-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
