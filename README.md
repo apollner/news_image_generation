@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida vs. Tennessee live stream, TV channel, watch online, prediction, spread, pick, football game odds**
+**How sales of Deion Sanders' sunglasses skyrocketed after feud with Colorado State's Jay Norvell**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/florida-vs-tennessee-live-stream-tv-channel-watch-online-prediction-spread-pick-football-game-odds/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/how-sales-of-deion-sanders-sunglasses-skyrocketed-after-feud-with-colorado-states-jay-norvell/).
 
 ## Requirements
 - Python 3.8
