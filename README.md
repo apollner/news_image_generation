@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Attorney General Ken Paxton acquitted in impeachment trial**
+**iPhone 15's USB-C Port: 4.5W Charging for Accessories, USB 3.2 Gen 2 for Pro Models, and More**
 
-You can read more about it [here](https://www.cbsnews.com/news/ken-paxton-texas-attorney-general-impeachment-acquitted/).
+You can read more about it [here](https://www.macrumors.com/2023/09/16/iphone-15-usb-c-port-details/).
 
 ## Requirements
 - Python 3.8
