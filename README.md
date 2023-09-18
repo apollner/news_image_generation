@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Lee fades, but 'life-threatening' surf persists for thousands of miles: Updates**
+**Stimulants may be driving a "fourth wave" of the overdose crisis, with deaths at an all-time high**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/17/hurricane-lee-storm-updates-path/70884026007/).
+You can read more about it [here](https://www.salon.com/2023/09/17/stimulants-may-be-driving-a-fourth-wave-of-the-overdose-crisis-with-at-an-all-time-high/).
 
 ## Requirements
 - Python 3.8
