@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drew Barrymore talk show to pause amid Hollywood strike**
+**Hurricane Lee fades, but 'life-threatening' surf persists for thousands of miles: Updates**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/09/17/drew-barrymore-talk-show/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/09/17/hurricane-lee-storm-updates-path/70884026007/).
 
 ## Requirements
 - Python 3.8
