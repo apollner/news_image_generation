@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China police detain some Evergrande wealth management staff**
+**Fatigue patient’s case prompts discovery that may help with long covid**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/china-police-detain-some-evergrande-wealth-management-staff-2023-09-17/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/09/17/fatigue-cfs-longcovid-mitochondria/).
 
 ## Requirements
 - Python 3.8
