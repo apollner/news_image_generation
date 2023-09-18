@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A new COVID vaccine is here, but those at greatest risk may not get it as outreach drops off**
+**Donald Trump calls six-week abortion bans 'terrible' - The Washington Post**
 
-You can read more about it [here](https://www.pbs.org/newshour/health/a-new-covid-vaccine-is-here-but-those-at-greatest-risk-may-not-get-it-as-outreach-drops-off).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/17/trump-abortion/).
 
 ## Requirements
 - Python 3.8
