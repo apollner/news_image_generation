@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jann Wenner removed from Rock & Roll Hall of Fame board after interview**
+**Texas Attorney General Ken Paxton acquitted in impeachment trial**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/jann-wenner-removed-rock-roll-hall-fame-board-interview-rcna105448).
+You can read more about it [here](https://www.cbsnews.com/news/ken-paxton-texas-attorney-general-impeachment-acquitted/).
 
 ## Requirements
 - Python 3.8
