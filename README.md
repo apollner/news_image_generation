@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump calls six-week abortion bans 'terrible' - The Washington Post**
+**NFL Week 2 late games live tracker: 49ers, Rams locked in tight NFC West battle**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/17/trump-abortion/).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-2-late-games-live-tracker-giants-trying-to-pull-off-stunning-comeback-221521213.html).
 
 ## Requirements
 - Python 3.8
