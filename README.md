@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Attorney General Ken Paxton acquitted in impeachment trial**
+**Kim Jong Un tours Putin's war arsenal, sparks concern over budding alliance— but top US general downplays potential threat**
 
-You can read more about it [here](https://www.cbsnews.com/news/ken-paxton-texas-attorney-general-impeachment-acquitted/).
+You can read more about it [here](https://nypost.com/2023/09/16/kim-jong-un-tours-putins-war-arsenal-sparks-concern-over-budding-alliance-but-top-us-general-downplays-potential-threat/).
 
 ## Requirements
 - Python 3.8
