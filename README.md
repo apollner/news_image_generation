@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, September 17, 2023**
+**Texas Attorney General Ken Paxton acquitted in impeachment trial**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/17/23862430/horoscopes-today-sunday-september-17-2023).
+You can read more about it [here](https://www.cbsnews.com/news/ken-paxton-texas-attorney-general-impeachment-acquitted/).
 
 ## Requirements
 - Python 3.8
