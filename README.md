@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets QB Aaron Rodgers aims for potential playoff return after innovative surgery on torn Achilles**
+**Iran detains Mahsa Amini’s father, cracks down on protests: Rights groups**
 
-You can read more about it [here](https://www.nfl.com/news/jets-qb-aaron-rodgers-aims-for-potential-playoff-return-after-innovative-surgery).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/iran-detains-mahsa-aminis-father-cracks-down-on-protests-rights-groups).
 
 ## Requirements
 - Python 3.8
