@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fatigue patient’s case prompts discovery that may help with long covid**
+**Wartime Pope Pius XII Knew About Holocaust, Letter Suggests**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/09/17/fatigue-cfs-longcovid-mitochondria/).
+You can read more about it [here](https://www.wsj.com/world/europe/wartime-pope-pius-xii-knew-about-holocaust-letter-suggests-159856ca).
 
 ## Requirements
 - Python 3.8
