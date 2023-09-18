@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atlantic storm Lee delivers high winds and rain**
+**Antarctic winter sea-ice reaches record lows - BBC News**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/17/lee-storm-atlantic-new-england-maine-00116410).
+You can read more about it [here](https://www.youtube.com/watch?v=P6IhyM79HHI).
 
 ## Requirements
 - Python 3.8
