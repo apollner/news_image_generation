@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stimulants may be driving a "fourth wave" of the overdose crisis, with deaths at an all-time high**
+**Disney asset sales won't break the bank, but they will move legacy media forward**
 
-You can read more about it [here](https://www.salon.com/2023/09/17/stimulants-may-be-driving-a-fourth-wave-of-the-overdose-crisis-with-at-an-all-time-high/).
+You can read more about it [here](https://www.cnbc.com/2023/09/17/disney-asset-sales-will-move-media-industry-forward.html).
 
 ## Requirements
 - Python 3.8
