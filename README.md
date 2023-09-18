@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans are in 'civil war' amid Biden impeachment probe, looming shutdown: Jeffries**
+**Atlantic storm Lee delivers high winds and rain**
 
-You can read more about it [here](https://abcnews.go.com/Politics/house-republicans-civil-war-amid-biden-impeachment-probe/story?id=103253211).
+You can read more about it [here](https://www.politico.com/news/2023/09/17/lee-storm-atlantic-new-england-maine-00116410).
 
 ## Requirements
 - Python 3.8
