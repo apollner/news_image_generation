@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ken Paxton's impeachment trial escalates Texas Republican civil war**
+**Five takeaways from Kansas State’s last-second road loss against the Missouri Tigers**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/16/ken-paxton-impeachment-trial-republican-civil-war/).
+You can read more about it [here](https://www.kansas.com/sports/college/big-12/kansas-state/article279409634.html).
 
 ## Requirements
 - Python 3.8
