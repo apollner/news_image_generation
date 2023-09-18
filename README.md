@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran detains Mahsa Amini’s father, cracks down on protests: Rights groups**
+**Amid migrant influx, top EU official to visit Lampedusa**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/iran-detains-mahsa-aminis-father-cracks-down-on-protests-rights-groups).
+You can read more about it [here](https://www.dw.com/en/amid-migrant-influx-top-eu-official-to-visit-lampedusa/a-66834124).
 
 ## Requirements
 - Python 3.8
