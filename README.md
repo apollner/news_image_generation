@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers vs. Rams Livestream: How to Watch NFL Week 2 Online Today**
+**Drew Barrymore talk show to pause amid Hollywood strike**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/49ers-vs-rams-livestream-how-to-watch-nfl-week-2-online-today/).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/09/17/drew-barrymore-talk-show/).
 
 ## Requirements
 - Python 3.8
