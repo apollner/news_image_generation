@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 late games live tracker: 49ers, Rams locked in tight NFC West battle**
+**Libya floods: The bodies left unrecognisable by disaster**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-week-2-late-games-live-tracker-giants-trying-to-pull-off-stunning-comeback-221521213.html).
+You can read more about it [here](https://www.bbc.com/news/world-africa-66838559).
 
 ## Requirements
 - Python 3.8
