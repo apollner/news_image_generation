@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China police detain some Evergrande wealth management staff**
+**Texas Gov. praises Ken Paxton following his acquittal**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/china-police-detain-some-evergrande-wealth-management-staff-2023-09-17/).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4208471-greg-abbott-responds-ken-paxton-acquitted/).
 
 ## Requirements
 - Python 3.8
