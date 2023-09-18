@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California lawsuit says oil giants deceived public on climate, seeks funds for storm damage**
+**NFL Week 2 bold predictions: Browns accomplish feat they haven't done in 30 years, Jags finally beat Mahomes**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/california-lawsuit-oil-giants-deceived-public-climate-seeks-103253474).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-2-bold-predictions-browns-accomplish-feat-they-havent-done-in-30-years-jags-finally-beat-mahomes/).
 
 ## Requirements
 - Python 3.8
