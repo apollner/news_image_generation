@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How sales of Deion Sanders' sunglasses skyrocketed after feud with Colorado State's Jay Norvell**
+**Ken Paxton's impeachment trial escalates Texas Republican civil war**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/how-sales-of-deion-sanders-sunglasses-skyrocketed-after-feud-with-colorado-states-jay-norvell/).
+You can read more about it [here](https://www.texastribune.org/2023/09/16/ken-paxton-impeachment-trial-republican-civil-war/).
 
 ## Requirements
 - Python 3.8
