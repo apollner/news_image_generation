@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Stimulants may be driving a "fourth wave" of the overdose crisis, with deaths at an all-time high**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.salon.com/2023/09/17/stimulants-may-be-driving-a-fourth-wave-of-the-overdose-crisis-with-at-an-all-time-high/).
 
 ## Requirements
 - Python 3.8
