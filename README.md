@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libya floods death toll rises to 11,300 in Derna, UN says**
+**Jets QB Aaron Rodgers aims for potential playoff return after innovative surgery on torn Achilles**
 
-You can read more about it [here](https://www.cnn.com/2023/09/16/world/libya-flood-death-toll-rise-derna-intl-hnk/index.html).
+You can read more about it [here](https://www.nfl.com/news/jets-qb-aaron-rodgers-aims-for-potential-playoff-return-after-innovative-surgery).
 
 ## Requirements
 - Python 3.8
