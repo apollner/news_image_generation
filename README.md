@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**$250K reward offered for assailant who shot Los Angeles County sheriff's deputy**
+**iPhone users to get iOS 17 starting today! Will yours get it? Check full list**
 
-You can read more about it [here](https://www.npr.org/2023/09/17/1200073197/-250k-reward-offered-for-assailant-who-shot-los-angeles-county-sheriffs-deputy).
+You can read more about it [here](https://tech.hindustantimes.com/mobile/news/iphone-users-to-get-ios-17-starting-today-will-yours-get-it-check-full-list-71694999217782.html).
 
 ## Requirements
 - Python 3.8
