@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4th Wave in U.S. Overdose Crisis: 50x Surge in Deaths From Fentanyl Laced Stimulants**
+**[Removed]**
 
-You can read more about it [here](https://scitechdaily.com/4th-wave-in-u-s-overdose-crisis-50x-surge-in-deaths-from-fentanyl-laced-stimulants/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
