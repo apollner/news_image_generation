@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US shutdown looms: Top House Republican Kevin McCarthy faces crucial test**
+**NFL Week 2 overreactions, reality checks: Jets moving on from Zach Wilson? How hot is Brandon Staley's seat?**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-shutdown-looms-top-house-republican-kevin-mccarthy-faces-crucial-test-2023-09-18/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-2-overreactions-reality-checks-jets-moving-on-from-zach-wilson-how-hot-is-brandon-staley-seat/).
 
 ## Requirements
 - Python 3.8
