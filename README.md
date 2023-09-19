@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two pilots killed in mid-air crash during final day of National Championship Air Races at Reno Stead Airport**
+**Libyan flood survivors weigh water shortages against landmine risk**
 
-You can read more about it [here](https://mynews4.com/news/local/emergency-crews-responding-to-incident-at-national-championship-air-races-at-reno-stead-airport).
+You can read more about it [here](https://www.reuters.com/world/africa/libyan-flood-survivors-weigh-water-shortages-against-landmine-risk-2023-09-17/).
 
 ## Requirements
 - Python 3.8
