@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare dinosaur skeleton, known as ‘Barry,’ goes on sale in Paris auction**
+**Lauren Boebert beau's bar flooded with bad reviews following 'Beetlejuice' date**
 
-You can read more about it [here](https://www.cnn.com/style/article/dinosaur-skeleton-barry-auction-scli-intl-scn/index.html).
+You can read more about it [here](https://nypost.com/2023/09/18/lauren-boeberts-new-beaus-bar-is-flooded-with-bad-reviews/).
 
 ## Requirements
 - Python 3.8
