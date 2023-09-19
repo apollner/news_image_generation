@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Naspers, Prosus CEO Bob van Dijk steps down**
+**Major central banks are on the brink of peak rates — but the inflation battle might not be over**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/18/naspers-prosus-ceo-bob-van-dijk-steps-down.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/18/central-banks-head-for-peak-rates-but-inflation-battle-is-not-over.html).
 
 ## Requirements
 - Python 3.8
