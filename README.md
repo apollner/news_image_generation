@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 - Bills, Seahawks lead Sunday's best trolls - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38423351/nfl-week-2-top-trolls).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
