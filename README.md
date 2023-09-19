@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**College Football Power Rankings: Notre Dame, USC continue to rise, UCLA gets bumped up, Missouri jumps in**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-power-rankings-notre-dame-usc-continue-to-rise-ucla-gets-bumped-up-missouri-jumps-in/).
 
 ## Requirements
 - Python 3.8
