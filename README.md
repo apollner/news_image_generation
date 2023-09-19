@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libyan flood survivors weigh water shortages against landmine risk**
+**Prehistoric Palestinian site added to UNESCO World Heritage list**
 
-You can read more about it [here](https://www.reuters.com/world/africa/libyan-flood-survivors-weigh-water-shortages-against-landmine-risk-2023-09-17/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/prehistoric-palestinian-site-added-to-unesco-world-heritage-list).
 
 ## Requirements
 - Python 3.8
