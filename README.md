@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major central banks are on the brink of peak rates — but the inflation battle might not be over**
+**4th Wave in U.S. Overdose Crisis: 50x Surge in Deaths From Fentanyl Laced Stimulants**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/18/central-banks-head-for-peak-rates-but-inflation-battle-is-not-over.html).
+You can read more about it [here](https://scitechdaily.com/4th-wave-in-u-s-overdose-crisis-50x-surge-in-deaths-from-fentanyl-laced-stimulants/).
 
 ## Requirements
 - Python 3.8
