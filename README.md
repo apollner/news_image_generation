@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Releases watchOS 10 With Widget-Focused Interface, New Watch Faces and More**
+**Biden to push for Ukraine aid, democracy as China and Russia skip UN General Assembly**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/18/apple-releases-watchos-10/).
+You can read more about it [here](https://www.cnbc.com/2023/09/18/biden-to-push-for-ukraine-aid-democracy-as-china-and-russia-skip-un.html).
 
 ## Requirements
 - Python 3.8
