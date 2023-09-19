@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China flies 103 military planes toward Taiwan in a new high of activity the island calls harassment**
+**US shutdown looms: Top House Republican Kevin McCarthy faces crucial test**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/taiwan-103-chinese-warplanes-flew-island-new-daily-103269405).
+You can read more about it [here](https://www.reuters.com/world/us/us-shutdown-looms-top-house-republican-kevin-mccarthy-faces-crucial-test-2023-09-18/).
 
 ## Requirements
 - Python 3.8
