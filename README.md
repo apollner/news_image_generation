@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Winning Time: The Rise Of The Lakers Dynasty’ Canceled After Two Seasons**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://deadline.com/2023/09/winning-time-the-rise-of-the-lakers-dynasty-canceled-two-seasons-1235549093/).
 
 ## Requirements
 - Python 3.8
