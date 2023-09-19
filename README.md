@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine sues Poland, Hungary and Slovakia over unilateral grain bans**
+**Apple Releases watchOS 10 With Widget-Focused Interface, New Watch Faces and More**
 
-You can read more about it [here](https://www.euronews.com/my-europe/2023/09/18/ukraine-files-wto-case-against-poland-hungary-and-slovakia-over-their-unilateral-grain-ban).
+You can read more about it [here](https://www.macrumors.com/2023/09/18/apple-releases-watchos-10/).
 
 ## Requirements
 - Python 3.8
