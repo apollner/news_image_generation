@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war news: Kyiv dismisses Deputy Defense Minister Hanna Maliar**
+**Obesity tied to more heart disease deaths, especially for Black people**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/18/russia-ukraine-war-news/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/18/obesity-heart-disease-cardiac-death/).
 
 ## Requirements
 - Python 3.8
