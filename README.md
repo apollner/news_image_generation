@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Growth jitters knock global stocks before central bank-packed week**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-09-18/).
 
 ## Requirements
 - Python 3.8
