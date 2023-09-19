@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bulgaria sends team to inspect drone that landed in Black Sea resort**
+**China flies 103 military planes toward Taiwan in a new high of activity the island calls harassment**
 
-You can read more about it [here](https://www.reuters.com/world/europe/bulgaria-sends-team-inspect-drone-landed-black-sea-resort-2023-09-18/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/taiwan-103-chinese-warplanes-flew-island-new-daily-103269405).
 
 ## Requirements
 - Python 3.8
