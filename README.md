@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Rep. Jennifer Wexton diagnosed with progressive supranuclear palsy**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/18/jennifer-wexton-parkinsons-diagnosis-progressive-supranuclear-palsy/).
 
 ## Requirements
 - Python 3.8
