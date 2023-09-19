@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert beau's bar flooded with bad reviews following 'Beetlejuice' date**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2023/09/18/lauren-boeberts-new-beaus-bar-is-flooded-with-bad-reviews/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
