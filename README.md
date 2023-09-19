@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-checking Trump’s ‘Meet the Press’ interview**
+**Soyuz docks at International Space Station with two Russians, one American**
 
-You can read more about it [here](https://www.cnn.com/2023/09/17/politics/fact-check-donald-trump/index.html).
+You can read more about it [here](https://www.foxnews.com/science/soyuz-docks-international-space-station-two-russians-one-american).
 
 ## Requirements
 - Python 3.8
