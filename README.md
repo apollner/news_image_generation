@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Soyuz docks at International Space Station with two Russians, one American**
+**NFL Week 2 - Bills, Seahawks lead Sunday's best trolls - ESPN**
 
-You can read more about it [here](https://www.foxnews.com/science/soyuz-docks-international-space-station-two-russians-one-american).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38423351/nfl-week-2-top-trolls).
 
 ## Requirements
 - Python 3.8
