@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California Dems consider unique approach to getting Trump off ballot**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/18/democrats-effort-kick-trump-off-california-ballot-00116476).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
