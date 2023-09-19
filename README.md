@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prehistoric Palestinian site added to UNESCO World Heritage list**
+**Two pilots killed in mid-air crash during final day of National Championship Air Races at Reno Stead Airport**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/17/prehistoric-palestinian-site-added-to-unesco-world-heritage-list).
+You can read more about it [here](https://mynews4.com/news/local/emergency-crews-responding-to-incident-at-national-championship-air-races-at-reno-stead-airport).
 
 ## Requirements
 - Python 3.8
