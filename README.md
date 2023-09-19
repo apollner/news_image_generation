@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Curiosity Mars Rover Reaches Gediz Vallis Ridge (360 View)**
+**Rare dinosaur skeleton, known as ‘Barry,’ goes on sale in Paris auction**
 
-You can read more about it [here](https://www.youtube.com/watch?v=sIfLkcFaFQY).
+You can read more about it [here](https://www.cnn.com/style/article/dinosaur-skeleton-barry-auction-scli-intl-scn/index.html).
 
 ## Requirements
 - Python 3.8
