@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Russia-Ukraine war news: Kyiv dismisses Deputy Defense Minister Hanna Maliar**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/18/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
