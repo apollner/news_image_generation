@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iOS 17: 17 New Features for Apple’s New iPhone Software Update | WSJ**
+**Ukraine sues Poland, Hungary and Slovakia over unilateral grain bans**
 
-You can read more about it [here](https://www.youtube.com/watch?v=F-kMfV9Dx1Y).
+You can read more about it [here](https://www.euronews.com/my-europe/2023/09/18/ukraine-files-wto-case-against-poland-hungary-and-slovakia-over-their-unilateral-grain-ban).
 
 ## Requirements
 - Python 3.8
