@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libyan flood survivors weigh water shortages against landmine risk**
+**Fact-checking Trump’s ‘Meet the Press’ interview**
 
-You can read more about it [here](https://www.reuters.com/world/africa/libyan-flood-survivors-weigh-water-shortages-against-landmine-risk-2023-09-17/).
+You can read more about it [here](https://www.cnn.com/2023/09/17/politics/fact-check-donald-trump/index.html).
 
 ## Requirements
 - Python 3.8
