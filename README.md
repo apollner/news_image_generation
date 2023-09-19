@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**iOS 17: 17 New Features for Apple’s New iPhone Software Update | WSJ**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=F-kMfV9Dx1Y).
 
 ## Requirements
 - Python 3.8
