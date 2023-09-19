@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 overreactions, reality checks: Jets moving on from Zach Wilson? How hot is Brandon Staley's seat?**
+**Russia-Ukraine war news: Kyiv dismisses Deputy Defense Minister Hanna Maliar**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-2-overreactions-reality-checks-jets-moving-on-from-zach-wilson-how-hot-is-brandon-staley-seat/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/18/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
