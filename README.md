@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Jennifer Wexton diagnosed with progressive supranuclear palsy**
+**California Dems consider unique approach to getting Trump off ballot**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/18/jennifer-wexton-parkinsons-diagnosis-progressive-supranuclear-palsy/).
+You can read more about it [here](https://www.politico.com/news/2023/09/18/democrats-effort-kick-trump-off-california-ballot-00116476).
 
 ## Requirements
 - Python 3.8
