@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Winning Time: The Rise Of The Lakers Dynasty’ Canceled After Two Seasons**
+**Jets' Breece Hall has simple reason for run game struggles in 30-10 loss at Cowboys: 'I only got four touches'**
 
-You can read more about it [here](https://deadline.com/2023/09/winning-time-the-rise-of-the-lakers-dynasty-canceled-two-seasons-1235549093/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jets-breece-hall-has-simple-reason-for-run-game-struggles-in-30-10-loss-at-cowboys-i-only-got-four-touches/).
 
 ## Requirements
 - Python 3.8
