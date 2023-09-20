@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 3: New Orleans Saints crack top 10, while Cincinnati Bengals keep sliding**
+**As UAW strikes in Detroit, Donald Trump sees an opportunity for 2024 election**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-3-2023-nfl-season).
+You can read more about it [here](https://www.npr.org/2023/09/19/1200339134/trump-to-skip-second-gop-debate-and-head-to-detroit-to-court-autoworkers-instead).
 
 ## Requirements
 - Python 3.8
