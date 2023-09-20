@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Debris reportedly found in South Carolina after F-35 stealth fighter jet disappearance; USMC pauses air ops**
+**Elon Musk: Social media platform X could go behind paywall**
 
-You can read more about it [here](https://www.foxnews.com/us/debris-reportedly-found-south-carolina-f-35-stealth-fighter-jet-disappearance).
+You can read more about it [here](https://www.bbc.com/news/technology-66850821).
 
 ## Requirements
 - Python 3.8
