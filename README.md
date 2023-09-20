@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani’s former attorneys sue him for more than $1.3 million in unpaid legal fees**
+**3-Billion-Year-Old Secrets: NASA's Curiosity Rover Reaches Mars Ridge Where Water Left Debris Pileup**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/politics/rudy-giuliani-legal-fees-lawsuit/index.html).
+You can read more about it [here](https://scitechdaily.com/3-billion-year-old-secrets-nasas-curiosity-rover-reaches-mars-ridge-where-water-left-debris-pileup/).
 
 ## Requirements
 - Python 3.8
