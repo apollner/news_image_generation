@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 Power Rankings 2023: How all 32 teams stack up - ESPN**
+**Wall Street Journal reporter Evan Gershkovich to remain in detention after latest appeal is denied**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38432345/nfl-week-3-power-rankings-poll-2023-plus-contract-situations-watch).
+You can read more about it [here](https://www.cnn.com/2023/09/19/europe/evan-gershkovich-detention-intl/index.html).
 
 ## Requirements
 - Python 3.8
