@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3-Billion-Year-Old Secrets: NASA's Curiosity Rover Reaches Mars Ridge Where Water Left Debris Pileup**
+**NFL Week 3 Power Rankings 2023: How all 32 teams stack up - ESPN**
 
-You can read more about it [here](https://scitechdaily.com/3-billion-year-old-secrets-nasas-curiosity-rover-reaches-mars-ridge-where-water-left-debris-pileup/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38432345/nfl-week-3-power-rankings-poll-2023-plus-contract-situations-watch).
 
 ## Requirements
 - Python 3.8
