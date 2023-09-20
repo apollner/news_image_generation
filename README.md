@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Cubans are fighting for Russia in Ukraine**
+**‘This is God’s will.’ Survivors dig mass graves for those killed in Libya’s devastating floods**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/americas/cuba-fighters-russia-ukraine-war-intl-latam/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/18/africa/libya-mass-graves-derna-intl-cmd/index.html).
 
 ## Requirements
 - Python 3.8
