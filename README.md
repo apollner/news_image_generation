@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Proper treatment for hypertension could avert 76 million deaths globally by 2050, WHO says**
+**3-Billion-Year-Old Secrets: NASA's Curiosity Rover Reaches Mars Ridge Where Water Left Debris Pileup**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/health/high-blood-pressure-who-report/index.html).
+You can read more about it [here](https://scitechdaily.com/3-billion-year-old-secrets-nasas-curiosity-rover-reaches-mars-ridge-where-water-left-debris-pileup/).
 
 ## Requirements
 - Python 3.8
