@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As UAW strikes in Detroit, Donald Trump sees an opportunity for 2024 election**
+**NASA Moon Camera Mosaic Sheds Light on Lunar South Pole**
 
-You can read more about it [here](https://www.npr.org/2023/09/19/1200339134/trump-to-skip-second-gop-debate-and-head-to-detroit-to-court-autoworkers-instead).
+You can read more about it [here](https://www.nasa.gov/feature/nasa-moon-camera-mosaic-sheds-light-on-lunar-south-pole).
 
 ## Requirements
 - Python 3.8
