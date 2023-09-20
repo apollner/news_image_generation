@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street Journal reporter Evan Gershkovich to remain in detention after latest appeal is denied**
+**Hundreds protest against Libyan authorities in flood-ravaged Derna**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/europe/evan-gershkovich-detention-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/19/africa/libya-derna-flood-protests-intl/index.html).
 
 ## Requirements
 - Python 3.8
