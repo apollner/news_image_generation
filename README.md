@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy's Meloni gets tough on migrants – POLITICO**
+**Patrick Mahomes restructures contract for record 4-year deal**
 
-You can read more about it [here](https://www.politico.eu/article/italy-prime-minister-giorgia-meloni-immigration-crackdown/).
+You can read more about it [here](https://www.cnn.com/2023/09/18/football/patrick-mahomes-record-contract-deal/index.html).
 
 ## Requirements
 - Python 3.8
