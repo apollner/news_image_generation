@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lt. Gov. Dan Patrick asks state auditor to review Ken Paxton impeachment**
+**NYC Mayor Eric Adams calls for ‘national assault’ on fentanyl epidemic following death of child at day care**
 
-You can read more about it [here](https://www.texastribune.org/2023/09/18/dan-patrick-ken-paxton-impeachment-audit/).
+You can read more about it [here](https://abcnews.go.com/US/bronx-day-care-operator-held-bail-after-1/story?id=103274582).
 
 ## Requirements
 - Python 3.8
