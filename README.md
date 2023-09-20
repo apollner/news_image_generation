@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama band director tased by police for not stopping his students' performance**
+**Deion Sanders Defends Henry Blackburn, Who Received Death Threats After Late Hit on Travis Hunter**
 
-You can read more about it [here](https://www.npr.org/2023/09/19/1200145239/alabama-band-director-tased-by-police-for-not-stopping-his-students-performance).
+You can read more about it [here](https://www.youtube.com/watch?v=gHrVL5o8Oss).
 
 ## Requirements
 - Python 3.8
