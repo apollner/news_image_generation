@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘This is God’s will.’ Survivors dig mass graves for those killed in Libya’s devastating floods**
+**Proper treatment for hypertension could avert 76 million deaths globally by 2050, WHO says**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/africa/libya-mass-graves-derna-intl-cmd/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/19/health/high-blood-pressure-who-report/index.html).
 
 ## Requirements
 - Python 3.8
