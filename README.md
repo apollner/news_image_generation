@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden aims to elevate his global agenda at the UN even as key leaders skip the gathering**
+**Once a global ideal, Germany's economy struggles with an energy shock that's exposing longtime flaws**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/politics/biden-unga-remarks/index.html).
+You can read more about it [here](https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed).
 
 ## Requirements
 - Python 3.8
