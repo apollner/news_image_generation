@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds protest against Libyan authorities in flood-ravaged Derna**
+**NFL Power Rankings, Week 3: New Orleans Saints crack top 10, while Cincinnati Bengals keep sliding**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/africa/libya-derna-flood-protests-intl/index.html).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-3-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
