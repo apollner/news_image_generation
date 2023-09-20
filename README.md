@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3-Billion-Year-Old Secrets: NASA's Curiosity Rover Reaches Mars Ridge Where Water Left Debris Pileup**
+**Trump to speak to Detroit autoworkers instead of Republican debate**
 
-You can read more about it [here](https://scitechdaily.com/3-billion-year-old-secrets-nasas-curiosity-rover-reaches-mars-ridge-where-water-left-debris-pileup/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4211136-trump-to-speak-to-detroit-autoworkers-instead-of-republican-debate/).
 
 ## Requirements
 - Python 3.8
