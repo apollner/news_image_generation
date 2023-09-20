@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After U.S. News college ranking changes, many public universities rose on lists**
+**Canada expels Indian diplomat over ‘credible allegations’ linking India’s government to killing on Canadian soil**
 
-You can read more about it [here](https://www.washingtonpost.com/education/2023/09/18/us-news-college-rankings-methodology-changes/).
+You can read more about it [here](https://www.cnn.com/2023/09/18/americas/canada-hardeep-singh-nijjar-india-intl/index.html).
 
 ## Requirements
 - Python 3.8
