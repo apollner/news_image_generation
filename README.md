@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Moon Camera Mosaic Sheds Light on Lunar South Pole**
+**Rihanna and A$AP Rocky debut newborn son Riot Rose in new photoshoot**
 
-You can read more about it [here](https://www.nasa.gov/feature/nasa-moon-camera-mosaic-sheds-light-on-lunar-south-pole).
+You can read more about it [here](https://www.cbsnews.com/news/rihanna-asap-rocky-photos-son-riot-rose-newborn-rza/).
 
 ## Requirements
 - Python 3.8
