@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball: Numbers drawn for $638 million jackpot**
+**Rudy Giuliani’s former attorneys sue him for more than $1.3 million in unpaid legal fees**
 
-You can read more about it [here](https://wgntv.com/news/illinois-lottery/powerball-numbers-drawn-for-638-million-jackpot/).
+You can read more about it [here](https://www.cnn.com/2023/09/18/politics/rudy-giuliani-legal-fees-lawsuit/index.html).
 
 ## Requirements
 - Python 3.8
