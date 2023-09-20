@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare cache of pink diamonds formed when a supercontinent broke apart, study says**
+**Gun used in ambush killing of LA sheriff's deputy appears to have been purchased legally: Officials**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/world/pink-diamonds-ancient-super-continent-scn/index.html).
+You can read more about it [here](https://abcnews.go.com/US/gun-ambush-killing-la-sheriffs-deputy-appears-purchased/story?id=103314420).
 
 ## Requirements
 - Python 3.8
