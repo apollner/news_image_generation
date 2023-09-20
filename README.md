@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada expels Indian diplomat over ‘credible allegations’ linking India’s government to killing on Canadian soil**
+**Debris reportedly found in South Carolina after F-35 stealth fighter jet disappearance; USMC pauses air ops**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/americas/canada-hardeep-singh-nijjar-india-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/us/debris-reportedly-found-south-carolina-f-35-stealth-fighter-jet-disappearance).
 
 ## Requirements
 - Python 3.8
