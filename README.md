@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rihanna and A$AP Rocky debut newborn son Riot Rose in new photoshoot**
+**Ukrainian grain ship leaves Odesa despite Russian blockade**
 
-You can read more about it [here](https://www.cbsnews.com/news/rihanna-asap-rocky-photos-son-riot-rose-newborn-rza/).
+You can read more about it [here](https://www.ft.com/content/e32cc04e-85a7-42a8-aae0-ab7451bdea35).
 
 ## Requirements
 - Python 3.8
