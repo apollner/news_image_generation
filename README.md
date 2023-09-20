@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Real Housewives of O.C.' star Shannon Beador arrested on suspicion of DUI, hit-and-run in Newport Beach**
+**Rare cache of pink diamonds formed when a supercontinent broke apart, study says**
 
-You can read more about it [here](https://www.latimes.com/socal/daily-pilot/news/story/2023-09-19/real-housewives-of-o-c-star-shannon-beador-arrested-dui-hit-and-run).
+You can read more about it [here](https://www.cnn.com/2023/09/19/world/pink-diamonds-ancient-super-continent-scn/index.html).
 
 ## Requirements
 - Python 3.8
