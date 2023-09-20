@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump to speak to Detroit autoworkers instead of Republican debate**
+**Why Cubans are fighting for Russia in Ukraine**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4211136-trump-to-speak-to-detroit-autoworkers-instead-of-republican-debate/).
+You can read more about it [here](https://www.cnn.com/2023/09/19/americas/cuba-fighters-russia-ukraine-war-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
