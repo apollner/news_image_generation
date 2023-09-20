@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes restructures contract for record 4-year deal**
+**Lt. Gov. Dan Patrick asks state auditor to review Ken Paxton impeachment**
 
-You can read more about it [here](https://www.cnn.com/2023/09/18/football/patrick-mahomes-record-contract-deal/index.html).
+You can read more about it [here](https://www.texastribune.org/2023/09/18/dan-patrick-ken-paxton-impeachment-audit/).
 
 ## Requirements
 - Python 3.8
