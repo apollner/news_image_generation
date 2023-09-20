@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan State football after Mel Tucker: Spartans coaching job pluses, minuses and candidates**
+**NFL Week 3 Power Rankings 2023: How all 32 teams stack up - ESPN**
 
-You can read more about it [here](https://theathletic.com/4875276/2023/09/18/mel-tucker-michigan-state-coaching-candidates/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38432345/nfl-week-3-power-rankings-poll-2023-plus-contract-situations-watch).
 
 ## Requirements
 - Python 3.8
