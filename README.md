@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian grain ship leaves Odesa despite Russian blockade**
+**Deion Sanders Defends Henry Blackburn, Who Received Death Threats After Late Hit on Travis Hunter**
 
-You can read more about it [here](https://www.ft.com/content/e32cc04e-85a7-42a8-aae0-ab7451bdea35).
+You can read more about it [here](https://www.youtube.com/watch?v=gHrVL5o8Oss).
 
 ## Requirements
 - Python 3.8
