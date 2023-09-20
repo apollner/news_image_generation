@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to push for Ukraine aid, democracy as China and Russia skip UN General Assembly**
+**Patrick Mahomes, Chiefs reportedly agree to record contract restructure**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/18/biden-to-push-for-ukraine-aid-democracy-as-china-and-russia-skip-un.html).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/patrick-mahomes-chiefs-reportedly-agree-to-record-contract-restructure).
 
 ## Requirements
 - Python 3.8
