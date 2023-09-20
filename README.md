@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3-Billion-Year-Old Secrets: NASA's Curiosity Rover Reaches Mars Ridge Where Water Left Debris Pileup**
+**North Korea says Kim Jong Un is back home from Russia, where he deepened 'comradely' ties with Putin**
 
-You can read more about it [here](https://scitechdaily.com/3-billion-year-old-secrets-nasas-curiosity-rover-reaches-mars-ridge-where-water-left-debris-pileup/).
+You can read more about it [here](https://news.yahoo.com/north-korea-says-kim-jong-043321527.html).
 
 ## Requirements
 - Python 3.8
