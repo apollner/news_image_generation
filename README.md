@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC Mayor Eric Adams calls for ‘national assault’ on fentanyl epidemic following death of child at day care**
+**Michigan Democrats urge Biden to beat Trump to UAW picket line**
 
-You can read more about it [here](https://abcnews.go.com/US/bronx-day-care-operator-held-bail-after-1/story?id=103274582).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/09/18/biden-uaw-strike-picket-line/).
 
 ## Requirements
 - Python 3.8
