@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk: Social media platform X could go behind paywall**
+**Powerball: Numbers drawn for $638 million jackpot**
 
-You can read more about it [here](https://www.bbc.com/news/technology-66850821).
+You can read more about it [here](https://wgntv.com/news/illinois-lottery/powerball-numbers-drawn-for-638-million-jackpot/).
 
 ## Requirements
 - Python 3.8
