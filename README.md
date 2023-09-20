@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deion Sanders Defends Henry Blackburn, Who Received Death Threats After Late Hit on Travis Hunter**
+**Group sues West Point, seeking to ban affirmative action in admissions**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gHrVL5o8Oss).
+You can read more about it [here](https://www.npr.org/2023/09/19/1200400504/west-point-affirmative-action).
 
 ## Requirements
 - Python 3.8
