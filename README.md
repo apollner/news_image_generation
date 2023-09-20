@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street Journal reporter Evan Gershkovich to remain in detention after latest appeal is denied**
+**Michigan State football after Mel Tucker: Spartans coaching job pluses, minuses and candidates**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/europe/evan-gershkovich-detention-intl/index.html).
+You can read more about it [here](https://theathletic.com/4875276/2023/09/18/mel-tucker-michigan-state-coaching-candidates/).
 
 ## Requirements
 - Python 3.8
