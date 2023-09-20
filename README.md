@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Once a global ideal, Germany's economy struggles with an energy shock that's exposing longtime flaws**
+**The moon's south pole is a mystery. This image offers a stunning new glimpse**
 
-You can read more about it [here](https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed).
+You can read more about it [here](https://www.nationalgeographic.com/science/article/exploring-moon-permanently-shadowed-regions-water-ice).
 
 ## Requirements
 - Python 3.8
