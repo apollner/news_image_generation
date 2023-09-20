@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked Microsoft documents detail 'cloud hybrid' next-gen Xbox for 2028**
+**Biden aims to elevate his global agenda at the UN even as key leaders skip the gathering**
 
-You can read more about it [here](https://www.engadget.com/leaked-microsoft-documents-detail-cloud-hybrid-next-gen-xbox-for-2028-110309102.html).
+You can read more about it [here](https://www.cnn.com/2023/09/19/politics/biden-unga-remarks/index.html).
 
 ## Requirements
 - Python 3.8
