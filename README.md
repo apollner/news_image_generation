@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 Power Rankings 2023: How all 32 teams stack up - ESPN**
+**Leaked Microsoft documents detail 'cloud hybrid' next-gen Xbox for 2028**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38432345/nfl-week-3-power-rankings-poll-2023-plus-contract-situations-watch).
+You can read more about it [here](https://www.engadget.com/leaked-microsoft-documents-detail-cloud-hybrid-next-gen-xbox-for-2028-110309102.html).
 
 ## Requirements
 - Python 3.8
