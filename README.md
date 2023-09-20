@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deion Sanders Defends Henry Blackburn, Who Received Death Threats After Late Hit on Travis Hunter**
+**'Real Housewives of O.C.' star Shannon Beador arrested on suspicion of DUI, hit-and-run in Newport Beach**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gHrVL5o8Oss).
+You can read more about it [here](https://www.latimes.com/socal/daily-pilot/news/story/2023-09-19/real-housewives-of-o-c-star-shannon-beador-arrested-dui-hit-and-run).
 
 ## Requirements
 - Python 3.8
