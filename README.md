@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gun used in ambush killing of LA sheriff's deputy appears to have been purchased legally: Officials**
+**Alabama band director tased by police for not stopping his students' performance**
 
-You can read more about it [here](https://abcnews.go.com/US/gun-ambush-killing-la-sheriffs-deputy-appears-purchased/story?id=103314420).
+You can read more about it [here](https://www.npr.org/2023/09/19/1200145239/alabama-band-director-tased-by-police-for-not-stopping-his-students-performance).
 
 ## Requirements
 - Python 3.8
