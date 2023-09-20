@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers union will resume strike negotiations with studios this week**
+**After U.S. News college ranking changes, many public universities rose on lists**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/18/wga-strike-negotiations-resume-this-week.html).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/09/18/us-news-college-rankings-methodology-changes/).
 
 ## Requirements
 - Python 3.8
