@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan Democrats urge Biden to beat Trump to UAW picket line**
+**Writers union will resume strike negotiations with studios this week**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/09/18/biden-uaw-strike-picket-line/).
+You can read more about it [here](https://www.cnbc.com/2023/09/18/wga-strike-negotiations-resume-this-week.html).
 
 ## Requirements
 - Python 3.8
