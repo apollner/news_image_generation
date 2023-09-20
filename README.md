@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Jung Un returns to North Korea after troubling summit with 'comrade' Putin**
+**Wall Street Journal reporter Evan Gershkovich to remain in detention after latest appeal is denied**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFodHRwczovL255cG9zdC5jb20vMjAyMy8wOS8xOS9ub3J0aC1rb3JlYS1zYXlzLWtpbS1qb25nLXVuLWlzLWJhY2staG9tZS1mcm9tLXJ1c3NpYS13aGVyZS1oZS1kZWVwZW5lZC1jb21yYWRlbHktdGllcy13aXRoLXB1dGluL9IBhAFodHRwczovL255cG9zdC5jb20vMjAyMy8wOS8xOS9ub3J0aC1rb3JlYS1zYXlzLWtpbS1qb25nLXVuLWlzLWJhY2staG9tZS1mcm9tLXJ1c3NpYS13aGVyZS1oZS1kZWVwZW5lZC1jb21yYWRlbHktdGllcy13aXRoLXB1dGluL2FtcC8?oc=5).
+You can read more about it [here](https://www.cnn.com/2023/09/19/europe/evan-gershkovich-detention-intl/index.html).
 
 ## Requirements
 - Python 3.8
