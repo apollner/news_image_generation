@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID vaccine in NY: Coverage delays hurt rollout**
+**Artist ordered to repay museum $76K after submitting blank canvases titled ‘Take the Money and Run’**
 
-You can read more about it [here](https://www.democratandchronicle.com/story/news/2023/09/19/new-covid-vaccine-ny-coverage-delays-hurt-rollout/70894146007/).
+You can read more about it [here](https://www.cnn.com/style/jens-haaning-kunsten-take-money-run/index.html).
 
 ## Requirements
 - Python 3.8
