@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more**
+**Artificially sweetened ultraprocessed foods linked to depression in women, study finds**
 
-You can read more about it [here](https://theathletic.com/4880188/2023/09/20/fantasy-football-rankings-week-3-sleepers-projections-starts-sits-tony-jones-josh-reynolds-and-more/).
+You can read more about it [here](https://www.cnn.com/2023/09/20/health/no-calorie-ultraprocessed-food-depression-wellness/index.html).
 
 ## Requirements
 - Python 3.8
