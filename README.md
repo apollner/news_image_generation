@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Ukrainian and Russian officials face off as Zelenskyy pushes peace plan; Moscow's losses rise in south**
+**What to know about the Nagorno-Karabakh ceasefire**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/20/whats-happening-in-nagorno-karabakh-between-azerbaijan-and-armenia).
 
 ## Requirements
 - Python 3.8
