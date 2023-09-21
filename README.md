@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feds to restart mail-order Covid test program**
+**Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/20/feds-mail-order-covid-test-00117133).
+You can read more about it [here](https://theathletic.com/4880188/2023/09/20/fantasy-football-rankings-week-3-sleepers-projections-starts-sits-tony-jones-josh-reynolds-and-more/).
 
 ## Requirements
 - Python 3.8
