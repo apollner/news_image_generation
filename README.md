@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sacramento's district attorney speaks after suing city**
+**Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more**
 
-You can read more about it [here](https://www.kcra.com/article/sacramento-district-attorney-lawsuit-interview/45213255).
+You can read more about it [here](https://theathletic.com/4880188/2023/09/20/fantasy-football-rankings-week-3-sleepers-projections-starts-sits-tony-jones-josh-reynolds-and-more/).
 
 ## Requirements
 - Python 3.8
