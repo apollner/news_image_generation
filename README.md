@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cingulate dynamics track depression recovery with deep brain stimulation**
+**Feds to restart mail-order Covid test program**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-023-06541-3).
+You can read more about it [here](https://www.politico.com/news/2023/09/20/feds-mail-order-covid-test-00117133).
 
 ## Requirements
 - Python 3.8
