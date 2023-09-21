@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US child dies from fentanyl kept under nursery nap mat**
+**Massive Next-Gen Xbox Leaks, AMD Zen 6, Elder Scrolls VI, Navi 5, & More**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66861588).
+You can read more about it [here](https://www.youtube.com/watch?v=2Ay5Qh1e-iY).
 
 ## Requirements
 - Python 3.8
