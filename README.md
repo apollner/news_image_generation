@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina man goes viral after wild interview about missing F-35: 'I heard a boom, my whole house shook'**
+**Indians express anger at Canada over backing Sikh separatists**
 
-You can read more about it [here](https://www.foxnews.com/media/south-carolina-man-viral-wild-interview-missing-f35-heard-boom-whole-house-shook).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/20/india-canada-killing-public-reaction/).
 
 ## Requirements
 - Python 3.8
