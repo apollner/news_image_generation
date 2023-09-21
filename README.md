@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China says Britain's plans to disrupt Hong Kong 'doomed to fail'**
+**Sacramento's district attorney speaks after suing city**
 
-You can read more about it [here](https://www.reuters.com/world/china-says-britains-plans-disrupt-hong-kong-doomed-fail-2023-09-20/).
+You can read more about it [here](https://www.kcra.com/article/sacramento-district-attorney-lawsuit-interview/45213255).
 
 ## Requirements
 - Python 3.8
