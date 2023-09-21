@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Artist ordered to repay museum $76K after submitting blank canvases titled ‘Take the Money and Run’**
+**Ukraine war live updates: Ukrainian and Russian officials face off as Zelenskyy pushes peace plan; Moscow's losses rise in south**
 
-You can read more about it [here](https://www.cnn.com/style/jens-haaning-kunsten-take-money-run/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
