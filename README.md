@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks struggle as oil surge sets stage for hawkish Fed**
+**China says Britain's plans to disrupt Hong Kong 'doomed to fail'**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-09-20/).
+You can read more about it [here](https://www.reuters.com/world/china-says-britains-plans-disrupt-hong-kong-doomed-fail-2023-09-20/).
 
 ## Requirements
 - Python 3.8
