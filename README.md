@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fall Covid shot rollout gets off to a bumpy start as some patients see insurance delays**
+**Prisco's Week 3 NFL picks: Patriots' nightmare start continues with loss to Jets; Eagles hold off feisty Bucs**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/20/covid-vaccine-rollout-some-patients-see-insurance-coverage-delays.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-patriots-nightmare-start-continues-with-loss-to-jets-eagles-hold-off-feisty-bucs/).
 
 ## Requirements
 - Python 3.8
