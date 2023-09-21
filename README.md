@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican senators blast dress-code change as disrespectful**
+**Here are the new Apple Shortcuts app features in iOS 17**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/19/republican-senators-dress-code/).
+You can read more about it [here](https://9to5mac.com/2023/09/19/whats-new-shortcuts-app-ios-17/).
 
 ## Requirements
 - Python 3.8
