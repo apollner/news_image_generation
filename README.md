@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Here's Who's Eligible For The Fortnite FTC Settlement Refunds**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://kotaku.com/fortnite-settlement-ftc-epic-games-apply-refund-1850856499).
 
 ## Requirements
 - Python 3.8
