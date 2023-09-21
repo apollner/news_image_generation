@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden not asking for 'special treatment' in gun case court appearance, lawyer says**
+**Nick Chubb out for season: Browns RB options as Kareem Hunt visits, Jerome Ford to be 'featured back'**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/19/hunter-biden-will-plead-not-guilty-to-gun-charges-lawyer-says.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nick-chubb-out-for-season-browns-rb-options-as-kareem-hunt-visits-jerome-ford-to-be-featured-back/).
 
 ## Requirements
 - Python 3.8
