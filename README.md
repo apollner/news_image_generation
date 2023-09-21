@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smell smoke? Northern California, Oregon wildfires are impacting Bay Area air quality**
+**US child dies from fentanyl kept under nursery nap mat**
 
-You can read more about it [here](https://www.youtube.com/watch?v=J61Pdxr3PKo).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66861588).
 
 ## Requirements
 - Python 3.8
