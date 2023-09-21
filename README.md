@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare cache of pink diamonds formed when a supercontinent broke apart, study says**
+**Stocks struggle as oil surge sets stage for hawkish Fed**
 
-You can read more about it [here](https://www.cnn.com/2023/09/19/world/pink-diamonds-ancient-super-continent-scn/index.html).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-09-20/).
 
 ## Requirements
 - Python 3.8
