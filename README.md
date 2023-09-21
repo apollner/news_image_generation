@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Bard AI can now connect to Gmail, Google Docs, Maps, Drive, and YouTube - GSMArena.com news**
+**Ohtani has elbow surgery, expected to hit in '24, pitch by '25**
 
-You can read more about it [here](https://www.gsmarena.com/googles_bard_ai_can_now_connect_to_gmail_google_docs_maps_drive_and_youtube-news-59959.php).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-surgery-update).
 
 ## Requirements
 - Python 3.8
