@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indians express anger at Canada over backing Sikh separatists**
+**Cingulate dynamics track depression recovery with deep brain stimulation**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/20/india-canada-killing-public-reaction/).
+You can read more about it [here](https://www.nature.com/articles/s41586-023-06541-3).
 
 ## Requirements
 - Python 3.8
