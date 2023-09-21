@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani has elbow surgery, expected to hit in '24, pitch by '25**
+**XL bully breed: New UK ban could take dogs from owners**
 
-You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-surgery-update).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/19/american-xl-bully-breed-dog-uk-ban/70901737007/).
 
 ## Requirements
 - Python 3.8
