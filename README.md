@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the Nagorno-Karabakh ceasefire**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/20/whats-happening-in-nagorno-karabakh-between-azerbaijan-and-armenia).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
