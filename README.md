@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Group sues West Point, seeking to ban affirmative action in admissions**
+**FTX Sues Sam Bankman-Fried's Parents to Recover 'Misappropriated Funds'**
 
-You can read more about it [here](https://www.npr.org/2023/09/19/1200400504/west-point-affirmative-action).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-19-2023).
 
 ## Requirements
 - Python 3.8
