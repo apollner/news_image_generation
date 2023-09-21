@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift goes to dinner with Sophie Turner after Joe Jonas breakup**
+**Armenian separatists in Karabakh surrender and agree to ceasefire with Azerbaijan**
 
-You can read more about it [here](https://www.insider.com/taylor-swift-sophie-turner-girl-power-joe-jonas-break-up-2023-9).
+You can read more about it [here](https://www.reuters.com/world/us-calls-azerbaijan-halt-karabakh-attack-russia-urges-return-ceasefire-2023-09-20/).
 
 ## Requirements
 - Python 3.8
