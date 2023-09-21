@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Search for Dark Matter – A Promising New Method**
+**New COVID vaccine in NY: Coverage delays hurt rollout**
 
-You can read more about it [here](https://scitechdaily.com/?p=309969).
+You can read more about it [here](https://www.democratandchronicle.com/story/news/2023/09/19/new-covid-vaccine-ny-coverage-delays-hurt-rollout/70894146007/).
 
 ## Requirements
 - Python 3.8
