@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**XL bully breed: New UK ban could take dogs from owners**
+**Rare cache of pink diamonds formed when a supercontinent broke apart, study says**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/09/19/american-xl-bully-breed-dog-uk-ban/70901737007/).
+You can read more about it [here](https://www.cnn.com/2023/09/19/world/pink-diamonds-ancient-super-continent-scn/index.html).
 
 ## Requirements
 - Python 3.8
