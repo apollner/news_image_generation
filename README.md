@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive Next-Gen Xbox Leaks, AMD Zen 6, Elder Scrolls VI, Navi 5, & More**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2Ay5Qh1e-iY).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
