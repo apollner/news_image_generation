@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden not asking for 'special treatment' in gun case court appearance, lawyer says**
+**Google's Bard AI can now connect to Gmail, Google Docs, Maps, Drive, and YouTube - GSMArena.com news**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/19/hunter-biden-will-plead-not-guilty-to-gun-charges-lawyer-says.html).
+You can read more about it [here](https://www.gsmarena.com/googles_bard_ai_can_now_connect_to_gmail_google_docs_maps_drive_and_youtube-news-59959.php).
 
 ## Requirements
 - Python 3.8
