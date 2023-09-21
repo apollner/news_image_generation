@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Artificially sweetened ultraprocessed foods linked to depression in women, study finds**
+**Azerbaijan halts Karabakh offensive after ceasefire deal with Armenian separatists**
 
-You can read more about it [here](https://www.cnn.com/2023/09/20/health/no-calorie-ultraprocessed-food-depression-wellness/index.html).
+You can read more about it [here](https://www.reuters.com/world/us-calls-azerbaijan-halt-karabakh-attack-russia-urges-return-ceasefire-2023-09-20/).
 
 ## Requirements
 - Python 3.8
