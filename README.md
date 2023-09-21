@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Armenian separatists in Karabakh surrender and agree to ceasefire with Azerbaijan**
+**The Republican Party infighting is driving America toward a government shutdown**
 
-You can read more about it [here](https://www.reuters.com/world/us-calls-azerbaijan-halt-karabakh-attack-russia-urges-return-ceasefire-2023-09-20/).
+You can read more about it [here](https://www.cnn.com/2023/09/20/politics/government-shutdown-house-republicans/index.html).
 
 ## Requirements
 - Python 3.8
