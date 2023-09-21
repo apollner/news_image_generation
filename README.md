@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 3 NFL picks: Patriots' nightmare start continues with loss to Jets; Eagles hold off feisty Bucs**
+**South Carolina man goes viral after wild interview about missing F-35: 'I heard a boom, my whole house shook'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-patriots-nightmare-start-continues-with-loss-to-jets-eagles-hold-off-feisty-bucs/).
+You can read more about it [here](https://www.foxnews.com/media/south-carolina-man-viral-wild-interview-missing-f35-heard-boom-whole-house-shook).
 
 ## Requirements
 - Python 3.8
