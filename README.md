@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Republican Party infighting is driving America toward a government shutdown**
+**Taylor Swift goes to dinner with Sophie Turner after Joe Jonas breakup**
 
-You can read more about it [here](https://www.cnn.com/2023/09/20/politics/government-shutdown-house-republicans/index.html).
+You can read more about it [here](https://www.insider.com/taylor-swift-sophie-turner-girl-power-joe-jonas-break-up-2023-9).
 
 ## Requirements
 - Python 3.8
