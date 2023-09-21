@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon gives Alexa an AI facelift as it launches new smart speakers**
+**Federal Reserve pauses interest rate hikes — for now**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html).
+You can read more about it [here](https://www.cbsnews.com/news/federal-reserve-interest-rate-pause/).
 
 ## Requirements
 - Python 3.8
