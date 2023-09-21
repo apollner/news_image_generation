@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTX Sues Sam Bankman-Fried's Parents to Recover 'Misappropriated Funds'**
+**Hunter Biden not asking for 'special treatment' in gun case court appearance, lawyer says**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-19-2023).
+You can read more about it [here](https://www.cnbc.com/2023/09/19/hunter-biden-will-plead-not-guilty-to-gun-charges-lawyer-says.html).
 
 ## Requirements
 - Python 3.8
