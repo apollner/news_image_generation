@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal Reserve pauses interest rate hikes — for now**
+**Georgia prosecutors push back against claims of anti-Trump bias at fiery hearing for 3 fake GOP electors**
 
-You can read more about it [here](https://www.cbsnews.com/news/federal-reserve-interest-rate-pause/).
+You can read more about it [here](https://www.cnn.com/2023/09/20/politics/fake-electors-georgia-removal-hearing/index.html).
 
 ## Requirements
 - Python 3.8
