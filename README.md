@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican senators blast dress-code change as disrespectful**
+**The Republican Party infighting is driving America toward a government shutdown**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/19/republican-senators-dress-code/).
+You can read more about it [here](https://www.cnn.com/2023/09/20/politics/government-shutdown-house-republicans/index.html).
 
 ## Requirements
 - Python 3.8
