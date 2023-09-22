@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India Suspends Visas for Canadians as Rift Over Killing Deepens**
+**Microsoft’s Surface Laptop Studio 2 has upgraded chips and ports**
 
-You can read more about it [here](https://www.wsj.com/world/india/india-suspends-visas-for-canadians-as-rift-over-extrajudicial-killing-deepens-bdd21752).
+You can read more about it [here](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date).
 
 ## Requirements
 - Python 3.8
