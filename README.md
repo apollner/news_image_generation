@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Morning After: Amazon turns Alexa into a more conversational chatbot for your home**
+**As Ukraine's war drags on and a D.C. shutdown looms, Zelenskyy makes his case for aid**
 
-You can read more about it [here](https://www.engadget.com/the-morning-after-amazon-turns-alexa-into-a-more-conversational-chatbot-for-your-home-111539413.html).
+You can read more about it [here](https://www.npr.org/2023/09/21/1200674632/zelenskyy-washington-ukraine-funding-shutdown).
 
 ## Requirements
 - Python 3.8
