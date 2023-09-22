@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP leaders float new plan to avert government shutdown**
+**Lionel Messi exits with apparent injury during Inter Miami match against Toronto FC**
 
-You can read more about it [here](https://www.axios.com/2023/09/20/house-republicans-government-shutdown-new-plan).
+You can read more about it [here](https://www.cnn.com/2023/09/20/sport/lionel-messi-exit-match-injury-inter-miami-toronto-spt/index.html).
 
 ## Requirements
 - Python 3.8
