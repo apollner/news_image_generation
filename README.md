@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump steamrolls anti-abortion groups - POLITICO**
+**Russia strikes Ukrainian energy facilities in biggest attack in weeks**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/21/trump-anti-abortion-groups-00117260).
+You can read more about it [here](https://www.reuters.com/world/europe/blasts-heard-kyiv-other-parts-ukraine-2023-09-21/).
 
 ## Requirements
 - Python 3.8
