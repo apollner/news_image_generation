@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Ukraine's war drags on and a D.C. shutdown looms, Zelenskyy makes his case for aid**
+**New COVID vaccine campaign off to a bumpy start**
 
-You can read more about it [here](https://www.npr.org/2023/09/21/1200674632/zelenskyy-washington-ukraine-funding-shutdown).
+You can read more about it [here](https://thehill.com/policy/healthcare/4214770-new-covid-vaccine-campaign-off-to-a-bumpy-start/).
 
 ## Requirements
 - Python 3.8
