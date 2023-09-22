@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lionel Messi exits with apparent injury during Inter Miami match against Toronto FC**
+**Under pressure over border, Biden administration to protect hundreds of thousands of Venezuelans**
 
-You can read more about it [here](https://www.cnn.com/2023/09/20/sport/lionel-messi-exit-match-injury-inter-miami-toronto-spt/index.html).
+You can read more about it [here](https://news.yahoo.com/under-pressure-over-border-biden-002325382.html).
 
 ## Requirements
 - Python 3.8
