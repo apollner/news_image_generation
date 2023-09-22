@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World's oldest wooden structure found in Zambia**
+**The Morning After: Amazon turns Alexa into a more conversational chatbot for your home**
 
-You can read more about it [here](https://www.dw.com/en/worlds-oldest-wooden-structure-found-in-zambia/a-66878895).
+You can read more about it [here](https://www.engadget.com/the-morning-after-amazon-turns-alexa-into-a-more-conversational-chatbot-for-your-home-111539413.html).
 
 ## Requirements
 - Python 3.8
