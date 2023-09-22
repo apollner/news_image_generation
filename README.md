@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential Tropical Cyclone 16 to bring heavy rain, possible tropical-storm-force winds to Maryland**
+**US Congress split over Ukraine funding as Zelenskyy visits Washington**
 
-You can read more about it [here](https://www.wbaltv.com/article/tropical-storm-force-winds-maryland-potential-tropical-cyclone-16/45245854).
+You can read more about it [here](https://www.ft.com/content/71da1b74-1566-48f3-9b1a-9573ca0a494f).
 
 ## Requirements
 - Python 3.8
