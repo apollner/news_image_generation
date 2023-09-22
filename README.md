@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One of Ukraine's strongest allies says it will no longer supply Kyiv with weapons**
+**Trump steamrolls anti-abortion groups - POLITICO**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/21/poland-says-it-will-no-longer-supply-kyiv-with-weapons.html).
+You can read more about it [here](https://www.politico.com/news/2023/09/21/trump-anti-abortion-groups-00117260).
 
 ## Requirements
 - Python 3.8
