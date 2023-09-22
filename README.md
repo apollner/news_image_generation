@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings for Week 3, 2023: Model says start Raheem Mostert, sit Terry McLaurin**
+**Poland will stop providing weapons to Ukraine as dispute over grain imports deepens**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-for-week-3-2023-model-says-start-raheem-mostert-sit-terry-mclaurin/).
+You can read more about it [here](https://www.cnn.com/2023/09/20/europe/poland-ukraine-weapons-grain-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
