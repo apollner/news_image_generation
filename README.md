@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal Reserve pauses interest rate hikes — for now**
+**Inter Miami vs. Toronto FC live updates: Lionel Messi starts but leaves game in first half**
 
-You can read more about it [here](https://www.cbsnews.com/news/federal-reserve-interest-rate-pause/).
+You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/09/20/messi-inter-miami-vs-toronto-fc-live-updates-score-highlights/70913216007/).
 
 ## Requirements
 - Python 3.8
