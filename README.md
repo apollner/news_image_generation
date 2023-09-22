@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Announces Alexa With Generative AI, New Echo Devices, eero Max 7 With Wi-Fi 7 Support and More**
+**Hollywood's writers' strike might come to an end soon**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/20/amazon-alexa-generative-ai/).
+You can read more about it [here](https://www.theverge.com/2023/9/21/23882218/wga-negotiations-hollywood-writers-strike-2023).
 
 ## Requirements
 - Python 3.8
