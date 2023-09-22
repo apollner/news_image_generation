@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inter Miami vs. Toronto FC live updates: Lionel Messi starts but leaves game in first half**
+**Russell Brand Loses Sponsors Following Sex-Abuse Allegations**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2023/09/20/messi-inter-miami-vs-toronto-fc-live-updates-score-highlights/70913216007/).
+You can read more about it [here](https://www.wsj.com/articles/russell-brand-loses-sponsors-following-sex-abuse-allegations-2b6859b4).
 
 ## Requirements
 - Python 3.8
