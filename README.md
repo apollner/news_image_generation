@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of England ends run of 14 straight interest rate hikes after cooler-than-expected inflation**
+**Cisco Buys AI Firm Splunk In $28 Billion Cash Deal**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/21/bank-of-england-ends-run-of-14-straight-interest-rate-hikes.html).
+You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/09/21/cisco-buys-ai-firm-splunk-in-28-billion-cash-deal/).
 
 ## Requirements
 - Python 3.8
