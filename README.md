@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ranking NFL panic meters for Week 3: Levels high for Bears' Justin Fields and Chargers' Brandon Staley**
+**Potential Tropical Cyclone 16 to bring heavy rain, possible tropical-storm-force winds to Maryland**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ranking-nfl-panic-meters-for-week-3-levels-high-for-bears-justin-fields-and-chargers-brandon-staley/).
+You can read more about it [here](https://www.wbaltv.com/article/tropical-storm-force-winds-maryland-potential-tropical-cyclone-16/45245854).
 
 ## Requirements
 - Python 3.8
