@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft’s Surface Laptop Studio 2 has upgraded chips and ports**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
