@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal Reserve pauses interest rate hikes — for now**
+**David Zaslav, Bob Iger, Donna Langley and Ted Sarandos Join WGA Talks as Strike Nears Record Length**
 
-You can read more about it [here](https://www.cbsnews.com/news/federal-reserve-interest-rate-pause/).
+You can read more about it [here](https://variety.com/2023/tv/news/wga-resumes-bargaining-ceos-record-1235729779/).
 
 ## Requirements
 - Python 3.8
