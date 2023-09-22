@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**OHSU researcher wins prestigious medical honor for technology that can save sight**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.oregonlive.com/health/2023/09/ohsu-researcher-wins-prestigious-medical-honor-for-technology-that-can-save-sight.html).
 
 ## Requirements
 - Python 3.8
