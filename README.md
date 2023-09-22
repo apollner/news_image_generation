@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE's SmackDown to return to NBCUniversal's USA Network in more than $1.4 billion deal**
+**Fantasy Football Rankings for Week 3, 2023: Model says start Raheem Mostert, sit Terry McLaurin**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/21/wwes-smackdown-to-return-to-nbcuniversals-usa-network.html).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-for-week-3-2023-model-says-start-raheem-mostert-sit-terry-mclaurin/).
 
 ## Requirements
 - Python 3.8
