@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland will stop providing weapons to Ukraine as dispute over grain imports deepens**
+**Rupert Murdoch steps down as chairman of Fox and News Corp**
 
-You can read more about it [here](https://www.cnn.com/2023/09/20/europe/poland-ukraine-weapons-grain-intl-hnk/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/21/rupert-murdoch-steps-down-as-chairman-of-fox-and-news-corp.html).
 
 ## Requirements
 - Python 3.8
