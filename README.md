@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OHSU researcher wins prestigious medical honor for technology that can save sight**
+**Ranking NFL panic meters for Week 3: Levels high for Bears' Justin Fields and Chargers' Brandon Staley**
 
-You can read more about it [here](https://www.oregonlive.com/health/2023/09/ohsu-researcher-wins-prestigious-medical-honor-for-technology-that-can-save-sight.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/ranking-nfl-panic-meters-for-week-3-levels-high-for-bears-justin-fields-and-chargers-brandon-staley/).
 
 ## Requirements
 - Python 3.8
