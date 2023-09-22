@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toshiba says $14 bln takeover bid by JIP succeeds, set to go private**
+**How masked gunmen killed Hardeep Singh Nijjar**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/jip-gains-7865-stake-toshiba-through-tender-offer-2023-09-20/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/20/hardeep-singh-nijjar-killing/).
 
 ## Requirements
 - Python 3.8
