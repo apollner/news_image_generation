@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID vaccine campaign off to a bumpy start**
+**Bank of England ends run of 14 straight interest rate hikes after cooler-than-expected inflation**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4214770-new-covid-vaccine-campaign-off-to-a-bumpy-start/).
+You can read more about it [here](https://www.cnbc.com/2023/09/21/bank-of-england-ends-run-of-14-straight-interest-rate-hikes.html).
 
 ## Requirements
 - Python 3.8
