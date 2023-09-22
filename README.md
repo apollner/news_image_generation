@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
+**Amazon Announces Alexa With Generative AI, New Echo Devices, eero Max 7 With Wi-Fi 7 Support and More**
 
-You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
+You can read more about it [here](https://www.macrumors.com/2023/09/20/amazon-alexa-generative-ai/).
 
 ## Requirements
 - Python 3.8
