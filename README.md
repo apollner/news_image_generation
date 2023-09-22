@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**K-Pop Group Stray Kids' Lee Know, Hyunjin and Seungmin Involved in Car Accident**
+**Toshiba says $14 bln takeover bid by JIP succeeds, set to go private**
 
-You can read more about it [here](https://www.eonline.com/news/1386054/k-pop-group-stray-kids-lee-know-hyunjin-and-seungmin-involved-in-car-accident).
+You can read more about it [here](https://www.reuters.com/markets/deals/jip-gains-7865-stake-toshiba-through-tender-offer-2023-09-20/).
 
 ## Requirements
 - Python 3.8
