@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rupert Murdoch steps down as chairman of Fox and News Corp**
+**India Suspends Visas for Canadians as Rift Over Killing Deepens**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/21/rupert-murdoch-steps-down-as-chairman-of-fox-and-news-corp.html).
+You can read more about it [here](https://www.wsj.com/world/india/india-suspends-visas-for-canadians-as-rift-over-extrajudicial-killing-deepens-bdd21752).
 
 ## Requirements
 - Python 3.8
