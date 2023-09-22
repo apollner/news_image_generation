@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F-35 pilot ejected from $100M jet over South Carolina due to ‘bad weather’ as experts reveal why plane couldn’t be tracked**
+**Where Can I Get New Covid Vaccine 2023? Pharmacies Report Delays, Cancellations**
 
-You can read more about it [here](https://nypost.com/2023/09/20/f-35-pilot-ejected-over-south-carolina-due-to-bad-weather/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-20/where-can-i-get-new-covid-vaccine-2023-pharmacies-report-delays-cancellations).
 
 ## Requirements
 - Python 3.8
