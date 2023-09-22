@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hollywood's writers' strike might come to an end soon**
+**House GOP leaders float new plan to avert government shutdown**
 
-You can read more about it [here](https://www.theverge.com/2023/9/21/23882218/wga-negotiations-hollywood-writers-strike-2023).
+You can read more about it [here](https://www.axios.com/2023/09/20/house-republicans-government-shutdown-new-plan).
 
 ## Requirements
 - Python 3.8
