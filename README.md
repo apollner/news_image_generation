@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophie Turner Sues Joe Jonas, Demands Kids Be Returned to England After Being 'Wrongfully Detained' amid Split**
+**WWE's SmackDown to return to NBCUniversal's USA Network in more than $1.4 billion deal**
 
-You can read more about it [here](https://people.com/sophie-turner-sues-joe-jonas-demands-kids-be-returned-to-england-amid-split-7972708).
+You can read more about it [here](https://www.cnbc.com/2023/09/21/wwes-smackdown-to-return-to-nbcuniversals-usa-network.html).
 
 ## Requirements
 - Python 3.8
