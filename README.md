@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where Can I Get New Covid Vaccine 2023? Pharmacies Report Delays, Cancellations**
+**Federal Reserve pauses interest rate hikes — for now**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-20/where-can-i-get-new-covid-vaccine-2023-pharmacies-report-delays-cancellations).
+You can read more about it [here](https://www.cbsnews.com/news/federal-reserve-interest-rate-pause/).
 
 ## Requirements
 - Python 3.8
