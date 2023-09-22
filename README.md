@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cisco Buys AI Firm Splunk In $28 Billion Cash Deal**
+**Sophie Turner Sues Joe Jonas, Demands Kids Be Returned to England After Being 'Wrongfully Detained' amid Split**
 
-You can read more about it [here](https://www.forbes.com/sites/dereksaul/2023/09/21/cisco-buys-ai-firm-splunk-in-28-billion-cash-deal/).
+You can read more about it [here](https://people.com/sophie-turner-sues-joe-jonas-demands-kids-be-returned-to-england-amid-split-7972708).
 
 ## Requirements
 - Python 3.8
