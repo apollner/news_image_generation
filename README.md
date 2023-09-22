@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How masked gunmen killed Hardeep Singh Nijjar**
+**World's oldest wooden structure found in Zambia**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/20/hardeep-singh-nijjar-killing/).
+You can read more about it [here](https://www.dw.com/en/worlds-oldest-wooden-structure-found-in-zambia/a-66878895).
 
 ## Requirements
 - Python 3.8
