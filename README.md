@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia strikes Ukrainian energy facilities in biggest attack in weeks**
+**K-Pop Group Stray Kids' Lee Know, Hyunjin and Seungmin Involved in Car Accident**
 
-You can read more about it [here](https://www.reuters.com/world/europe/blasts-heard-kyiv-other-parts-ukraine-2023-09-21/).
+You can read more about it [here](https://www.eonline.com/news/1386054/k-pop-group-stray-kids-lee-know-hyunjin-and-seungmin-involved-in-car-accident).
 
 ## Requirements
 - Python 3.8
