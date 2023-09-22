@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Under pressure over border, Biden administration to protect hundreds of thousands of Venezuelans**
+**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
 
-You can read more about it [here](https://news.yahoo.com/under-pressure-over-border-biden-002325382.html).
+You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
 
 ## Requirements
 - Python 3.8
