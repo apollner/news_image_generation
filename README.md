@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Democrats weigh risky strategy: Whether to save McCarthy**
+**Northeastern University granted $17.5 million by CDC to become infectious disease detection, prep center**
 
-You can read more about it [here](https://www.cnn.com/2023/09/20/politics/democrats-mccarthy-speaker-strategy/index.html).
+You can read more about it [here](https://www.foxnews.com/health/northeastern-university-granted-seventeen-point-five-million-dollars-cdc-become-infectious-disease-detection-prep-center).
 
 ## Requirements
 - Python 3.8
