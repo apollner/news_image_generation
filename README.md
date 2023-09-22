@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Congress split over Ukraine funding as Zelenskyy visits Washington**
+**Michigan could lose 150K jobs if UAW strike lasts 4 weeks, expert says**
 
-You can read more about it [here](https://www.ft.com/content/71da1b74-1566-48f3-9b1a-9573ca0a494f).
+You can read more about it [here](https://www.freep.com/story/money/business/michigan/2023/09/21/michigan-jobs-uaw-auto-strike-detroit/70921695007/).
 
 ## Requirements
 - Python 3.8
