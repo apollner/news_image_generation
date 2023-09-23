@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two key Fed officials express support for keeping interest rates high**
+**Fantasy Week 3 RB Start/Sit: Top Options Include Joshua Kelley and Tyler Allgeier**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/22/feds-susan-collins-expresses-support-for-holding-interest-rates-high.html).
+You can read more about it [here](https://www.profootballnetwork.com/fantasy-rb-start-sit-week-3-2023-thursday/).
 
 ## Requirements
 - Python 3.8
