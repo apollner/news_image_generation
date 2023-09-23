@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippine issues health warning as volcano brings smog to capital, nearby provinces**
+**Joe Jonas breaks silence after Sophie claims he's withholding kids' passports**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippine-issues-health-warning-volcano-brings-smog-capital-nearby-provinces-2023-09-22/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/joe-jonas-breaks-silence-after-sophie-turner-claims-hes-withholding-kids-passports-101695346993885.html).
 
 ## Requirements
 - Python 3.8
