@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thursday Night Football: 49ers WR Brandon Aiyuk is inactive; Giants WR Wan'Dale Robinson is active**
+**Cowboys' Trevon Diggs tears ACL in practice, 'projected' to miss rest of 2023 NFL season**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-49ers-wr-brandon-aiyuk-is-inactive-giants-wr-wandale-robinson-is-active).
+You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-trevon-diggs-tears-acl-in-practice-projected-to-miss-rest-of-2023-nfl-season/).
 
 ## Requirements
 - Python 3.8
