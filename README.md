@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden announces $325 million in Ukraine aid during Zelensky visit**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2023/09/21/zelensky-washington-dc-biden-mccarthy-congress).
 
 ## Requirements
 - Python 3.8
