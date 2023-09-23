@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT legend Julie Ertz says goodbye, departs with a legacy of humility and fierceness**
+**McDonald's to raise royalty fees for new franchised restaurants for first time in nearly 30 years**
 
-You can read more about it [here](https://www.cbssports.com/soccer/news/uswnt-legend-julie-ertz-says-goodbye-departs-with-a-legacy-of-humility-and-fierceness/).
+You can read more about it [here](https://www.cnbc.com/2023/09/22/mcdonalds-to-raise-royalty-fees-for-new-franchised-restaurants.html).
 
 ## Requirements
 - Python 3.8
