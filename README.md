@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers Guild and Studios Conclude Latest Bargaining Session, More Talks Expected Friday**
+**Hardeep Singh Nijjar killing: India suspends visa services in Canada as rift widens**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-and-studios-conclude-latest-bargaining-session-more-talks-expected-friday-1235596641/).
+You can read more about it [here](https://apnews.com/article/india-canada-visas-sikh-activist-killing-381e973e84f8d0c10b0bd53b03ccbdf2).
 
 ## Requirements
 - Python 3.8
