@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sample of Empire State Building-sized asteroid set to crash down in Utah desert**
+**NFL Week 3 picks, schedule, odds, injuries, fantasy tips - ESPN**
 
-You can read more about it [here](https://www.foxnews.com/world/sample-empire-state-building-sized-asteroid-set-crash-down-utah-desert).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38448647/nfl-week-3-picks-schedule-fantasy-football-odds-injuries-stats-2023).
 
 ## Requirements
 - Python 3.8
