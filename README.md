@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft refreshes Surface Laptop Go and Laptop Studio**
+**Biden announces $325M aid package to Ukraine after meeting with Zelenskyy**
 
-You can read more about it [here](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/).
+You can read more about it [here](https://www.foxnews.com/politics/biden-announces-aid-package-ukraine-meeting-zelenskyy).
 
 ## Requirements
 - Python 3.8
