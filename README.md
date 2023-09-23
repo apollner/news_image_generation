@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Week 3 RB Start/Sit: Top Options Include Joshua Kelley and Tyler Allgeier**
+**Democratic Sen. Bob Menendez facing indictment on bribery charges**
 
-You can read more about it [here](https://www.profootballnetwork.com/fantasy-rb-start-sit-week-3-2023-thursday/).
+You can read more about it [here](https://www.foxnews.com/politics/democratic-sen-bob-menendez-facing-indictment-bribery-charges).
 
 ## Requirements
 - Python 3.8
