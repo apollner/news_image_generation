@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Dangerous" inmate captured after escaping custody while getting treatment at hospital in St. Louis**
+**Writers Guild and Studios Conclude Latest Bargaining Session, More Talks Expected Friday**
 
-You can read more about it [here](https://www.cbsnews.com/news/tommy-wayne-boyd-dangerous-inmate-escape-capture-custody-st-louis-hospital-police/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-and-studios-conclude-latest-bargaining-session-more-talks-expected-friday-1235596641/).
 
 ## Requirements
 - Python 3.8
