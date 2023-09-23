@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Lockheed Martin F-35A fighter jets land on motorway**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9sb2NraGVlZC1tYXJ0aW4tZi0zNWEtZmlnaHRlci1qZXRzLWxhbmQtbW90b3J3YXktMjAyMy0wOS0yMi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
