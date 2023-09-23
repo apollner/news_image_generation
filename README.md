@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan could lose 150K jobs if UAW strike lasts 4 weeks, expert says**
+**Fantasy Football Week 3: New York Giants vs. San Francisco 49ers start 'em, sit 'em, how to watch TNF and more**
 
-You can read more about it [here](https://www.freep.com/story/money/business/michigan/2023/09/21/michigan-jobs-uaw-auto-strike-detroit/70921695007/).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-3-new-york-giants-vs-san-francisco-49ers-start-em-sit-em-how-to-watch-tnf-and-more-152637525.html).
 
 ## Requirements
 - Python 3.8
