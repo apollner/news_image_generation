@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 picks, schedule, odds, injuries, fantasy tips - ESPN**
+**New Galaxy Buds FE leak leaves nothing to imagination - SamMobile**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38448647/nfl-week-3-picks-schedule-fantasy-football-odds-injuries-stats-2023).
+You can read more about it [here](https://www.sammobile.com/news/new-galaxy-buds-fe-leak-images-features/).
 
 ## Requirements
 - Python 3.8
