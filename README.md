@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYPD finds trap door and drugs hidden in floor at Bronx day care where 1-year-old died of suspected fentanyl overdose**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/09/21/us/bronx-day-care-overdose-indictment/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
