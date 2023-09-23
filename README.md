@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft refreshes Surface Laptop Go and Laptop Studio**
+**In the Tropics: Potential Tropical Cyclone 16 takes aim at Mid-Atlantic**
 
-You can read more about it [here](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/).
+You can read more about it [here](https://www.youtube.com/watch?v=U0z63FkwufQ).
 
 ## Requirements
 - Python 3.8
