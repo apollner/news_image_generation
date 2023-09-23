@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried Bid's for Jail Release Denied by Appeals Court**
+**Lizzo Faces New Lawsuit Alleging Racial & Sexual Harassment On Tour; “Absurd,” Singer’s Team Says**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-21/sam-bankman-fried-bid-for-jail-release-denied-by-appeals-court).
+You can read more about it [here](https://deadline.com/2023/09/lizzo-lawsuit-racial-sexual-harassment-wardrobe-designer-1235552956/).
 
 ## Requirements
 - Python 3.8
