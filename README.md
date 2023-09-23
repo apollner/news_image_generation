@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lizzo Faces New Lawsuit Alleging Racial & Sexual Harassment On Tour; “Absurd,” Singer’s Team Says**
+**CEOs Return to WGA Talks as Some Movement Seen Toward a Deal**
 
-You can read more about it [here](https://deadline.com/2023/09/lizzo-lawsuit-racial-sexual-harassment-wardrobe-designer-1235552956/).
+You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-ceo-talks-movement-deal-1235731476/).
 
 ## Requirements
 - Python 3.8
