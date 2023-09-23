@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Las Vegas Raiders, Pittsburgh Steelers Injury Report | NFL Week 3, 2023**
+**Microsoft refreshes Surface Laptop Go and Laptop Studio**
 
-You can read more about it [here](https://www.raiders.com/news/las-vegas-raiders-pittsburgh-steelers-nfl-week-3-injury-report-2023).
+You can read more about it [here](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/).
 
 ## Requirements
 - Python 3.8
