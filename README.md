@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why is Poland no longer sending arms to Ukraine?**
+**Purdy, 49ers' offense make Giants pay for blitz-happy approach**
 
-You can read more about it [here](https://www.dw.com/en/why-is-poland-no-longer-sending-arms-to-ukraine/a-66889180).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-offense-giants-blitz/1657065/).
 
 ## Requirements
 - Python 3.8
