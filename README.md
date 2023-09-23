@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hardeep Singh Nijjar killing: India suspends visa services in Canada as rift widens**
+**Las Vegas Raiders, Pittsburgh Steelers Injury Report | NFL Week 3, 2023**
 
-You can read more about it [here](https://apnews.com/article/india-canada-visas-sikh-activist-killing-381e973e84f8d0c10b0bd53b03ccbdf2).
+You can read more about it [here](https://www.raiders.com/news/las-vegas-raiders-pittsburgh-steelers-nfl-week-3-injury-report-2023).
 
 ## Requirements
 - Python 3.8
