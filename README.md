@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden announces $325 million in Ukraine aid during Zelensky visit**
+**Thursday Night Football: 49ers WR Brandon Aiyuk is inactive; Giants WR Wan'Dale Robinson is active**
 
-You can read more about it [here](https://www.axios.com/2023/09/21/zelensky-washington-dc-biden-mccarthy-congress).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-49ers-wr-brandon-aiyuk-is-inactive-giants-wr-wandale-robinson-is-active).
 
 ## Requirements
 - Python 3.8
