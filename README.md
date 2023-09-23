@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas breaks silence after Sophie claims he's withholding kids' passports**
+**USWNT legend Julie Ertz says goodbye, departs with a legacy of humility and fierceness**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/joe-jonas-breaks-silence-after-sophie-turner-claims-hes-withholding-kids-passports-101695346993885.html).
+You can read more about it [here](https://www.cbssports.com/soccer/news/uswnt-legend-julie-ertz-says-goodbye-departs-with-a-legacy-of-humility-and-fierceness/).
 
 ## Requirements
 - Python 3.8
