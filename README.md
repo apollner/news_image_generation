@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In the Tropics: Potential Tropical Cyclone 16 takes aim at Mid-Atlantic**
+**Philippine issues health warning as volcano brings smog to capital, nearby provinces**
 
-You can read more about it [here](https://www.youtube.com/watch?v=U0z63FkwufQ).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippine-issues-health-warning-volcano-brings-smog-capital-nearby-provinces-2023-09-22/).
 
 ## Requirements
 - Python 3.8
