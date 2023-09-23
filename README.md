@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CEOs Return to WGA Talks as Some Movement Seen Toward a Deal**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-ceo-talks-movement-deal-1235731476/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
