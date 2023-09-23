@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source - Bengals add QB Reid Sinnett to practice squad**
+**UAW announces significant expansion of strike at GM, Stellantis but reports progress in talks at Ford**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38462072/source-bengals-add-qb-reid-sinnett-practice-squad).
+You can read more about it [here](https://www.cnn.com/2023/09/22/business/auto-workers-strike-expands/index.html).
 
 ## Requirements
 - Python 3.8
