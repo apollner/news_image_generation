@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Sen. Bob Menendez facing indictment on bribery charges**
+**Why is Poland no longer sending arms to Ukraine?**
 
-You can read more about it [here](https://www.foxnews.com/politics/democratic-sen-bob-menendez-facing-indictment-bribery-charges).
+You can read more about it [here](https://www.dw.com/en/why-is-poland-no-longer-sending-arms-to-ukraine/a-66889180).
 
 ## Requirements
 - Python 3.8
