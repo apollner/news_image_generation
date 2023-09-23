@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F-35 crash: Pilot called 911 after parachuting into backyard**
+**Binge, Stream and Skip: Fantasy football Week 3 viewer's guide**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66890941).
+You can read more about it [here](https://sports.yahoo.com/binge-stream-and-skip-fantasy-football-week-3-viewers-guide-172859666.html).
 
 ## Requirements
 - Python 3.8
