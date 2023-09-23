@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lockheed Martin F-35A fighter jets land on motorway**
+**Kyle Shanahan: Brock Purdy's career night in 49ers' win over Giants 'definitely wasn't his best game'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9sb2NraGVlZC1tYXJ0aW4tZi0zNWEtZmlnaHRlci1qZXRzLWxhbmQtbW90b3J3YXktMjAyMy0wOS0yMi_SAQA?oc=5).
+You can read more about it [here](https://www.nfl.com/news/kyle-shanahan-brock-purdy-49ers-win-giants-definitely-wasnt-best-game).
 
 ## Requirements
 - Python 3.8
