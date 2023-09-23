@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purdy, 49ers' offense make Giants pay for blitz-happy approach**
+**Source - Bengals add QB Reid Sinnett to practice squad**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-offense-giants-blitz/1657065/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38462072/source-bengals-add-qb-reid-sinnett-practice-squad).
 
 ## Requirements
 - Python 3.8
