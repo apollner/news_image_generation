@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys' Trevon Diggs tears ACL in practice, 'projected' to miss rest of 2023 NFL season**
+**"Dangerous" inmate captured after escaping custody while getting treatment at hospital in St. Louis**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-trevon-diggs-tears-acl-in-practice-projected-to-miss-rest-of-2023-nfl-season/).
+You can read more about it [here](https://www.cbsnews.com/news/tommy-wayne-boyd-dangerous-inmate-escape-capture-custody-st-louis-hospital-police/).
 
 ## Requirements
 - Python 3.8
