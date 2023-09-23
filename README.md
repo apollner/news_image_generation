@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Shanahan: Brock Purdy's career night in 49ers' win over Giants 'definitely wasn't his best game'**
+**Microsoft, Google rebuild around AI with Windows and Bard updates**
 
-You can read more about it [here](https://www.nfl.com/news/kyle-shanahan-brock-purdy-49ers-win-giants-definitely-wasnt-best-game).
+You can read more about it [here](https://www.axios.com/2023/09/22/ai-microsoft-google-windows-copilot).
 
 ## Requirements
 - Python 3.8
