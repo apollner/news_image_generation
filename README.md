@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Galaxy Buds FE leak leaves nothing to imagination - SamMobile**
+**NYPD finds trap door and drugs hidden in floor at Bronx day care where 1-year-old died of suspected fentanyl overdose**
 
-You can read more about it [here](https://www.sammobile.com/news/new-galaxy-buds-fe-leak-images-features/).
+You can read more about it [here](https://www.cnn.com/2023/09/21/us/bronx-day-care-overdose-indictment/index.html).
 
 ## Requirements
 - Python 3.8
