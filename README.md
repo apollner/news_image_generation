@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purdy, 49ers' offense make Giants pay for blitz-happy approach**
+**F-35 crash: Pilot called 911 after parachuting into backyard**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-offense-giants-blitz/1657065/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66890941).
 
 ## Requirements
 - Python 3.8
