@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland no longer sending arms to Ukraine: A reason to worry?**
+**Microsoft refreshes Surface Laptop Go and Laptop Studio**
 
-You can read more about it [here](https://www.dw.com/en/poland-no-longer-sending-arms-to-ukraine-a-reason-to-worry/a-66889180).
+You can read more about it [here](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/).
 
 ## Requirements
 - Python 3.8
