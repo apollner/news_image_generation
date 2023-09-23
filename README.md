@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW announces significant expansion of strike at GM, Stellantis but reports progress in talks at Ford**
+**Purdy, 49ers' offense make Giants pay for blitz-happy approach**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/business/auto-workers-strike-expands/index.html).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-offense-giants-blitz/1657065/).
 
 ## Requirements
 - Python 3.8
