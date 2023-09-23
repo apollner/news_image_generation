@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft, Google rebuild around AI with Windows and Bard updates**
+**Two key Fed officials express support for keeping interest rates high**
 
-You can read more about it [here](https://www.axios.com/2023/09/22/ai-microsoft-google-windows-copilot).
+You can read more about it [here](https://www.cnbc.com/2023/09/22/feds-susan-collins-expresses-support-for-holding-interest-rates-high.html).
 
 ## Requirements
 - Python 3.8
