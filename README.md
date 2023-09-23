@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Settlement and Innovation 476,000 Years Ago: Archaeologists Discover World's Oldest Wooden Structure**
+**Sample of Empire State Building-sized asteroid set to crash down in Utah desert**
 
-You can read more about it [here](https://scitechdaily.com/settlement-and-innovation-476000-years-ago-archaeologists-discover-worlds-oldest-wooden-structure/).
+You can read more about it [here](https://www.foxnews.com/world/sample-empire-state-building-sized-asteroid-set-crash-down-utah-desert).
 
 ## Requirements
 - Python 3.8
