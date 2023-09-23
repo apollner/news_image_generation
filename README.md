@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 3: New York Giants vs. San Francisco 49ers start 'em, sit 'em, how to watch TNF and more**
+**Sam Bankman-Fried Bid's for Jail Release Denied by Appeals Court**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-3-new-york-giants-vs-san-francisco-49ers-start-em-sit-em-how-to-watch-tnf-and-more-152637525.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-21/sam-bankman-fried-bid-for-jail-release-denied-by-appeals-court).
 
 ## Requirements
 - Python 3.8
