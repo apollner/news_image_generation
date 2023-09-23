@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden announces $325M aid package to Ukraine after meeting with Zelenskyy**
+**Poland no longer sending arms to Ukraine: A reason to worry?**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-announces-aid-package-ukraine-meeting-zelenskyy).
+You can read more about it [here](https://www.dw.com/en/poland-no-longer-sending-arms-to-ukraine-a-reason-to-worry/a-66889180).
 
 ## Requirements
 - Python 3.8
