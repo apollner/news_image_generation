@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brock Purdy could go from Mr. Irrelevant to Mr. MVP**
+**Will NASA's OSIRIS-REx stick its asteroid sample landing? Scientists are 'very much confident' as zero hour nears**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-could-go-from-mr-irrelevant-to-mr-mvp).
+You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-landing-nasa-briefing).
 
 ## Requirements
 - Python 3.8
