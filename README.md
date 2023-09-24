@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Ophelia will deliver a wet and windy weekend to the East Coast**
+**New map shows states with the highest and lowest obesity rates**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/weather/east-coast-tropical-storm-threat-friday/index.html).
+You can read more about it [here](https://ktla.com/news/new-map-shows-states-with-the-highest-and-lowest-obesity-rates/).
 
 ## Requirements
 - Python 3.8
