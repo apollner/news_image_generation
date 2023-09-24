@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Surface Studio 2 and Surface Go 3 Laptops (Hands-On)**
+**Shared intelligence from Five Eyes informed Trudeau's India allegation, CTV News reports**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WOLPexX7_wo).
+You can read more about it [here](https://www.reuters.com/world/shared-intelligence-five-eyes-informed-trudeaus-india-allegation-ctv-news-2023-09-23/).
 
 ## Requirements
 - Python 3.8
