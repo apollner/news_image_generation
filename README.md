@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI investigates alleged abuse in Baton Rouge police building called the 'Brave Cave'**
+**Five hospitalized after house explodes in West Milford. Here's what we know**
 
-You can read more about it [here](https://www.npr.org/2023/09/23/1201297034/fbi-investigates-alleged-abuse-baton-rouge-police-warehouse-brave-cave).
+You can read more about it [here](https://www.northjersey.com/story/news/passaic/west-milford/2023/09/22/west-milford-nj-possible-house-explosion/70938851007/).
 
 ## Requirements
 - Python 3.8
