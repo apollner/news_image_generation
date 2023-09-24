@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 and 8 Pro launch day colors have leaked in their entirety**
+**India's Clash With Canada Over Killing Follows New Wave of Calls for Sikh Homeland**
 
-You can read more about it [here](https://www.androidpolice.com/google-pixel-8-8-pro-colors-render-leak/).
+You can read more about it [here](https://www.wsj.com/world/india/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe).
 
 ## Requirements
 - Python 3.8
