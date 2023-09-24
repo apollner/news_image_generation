@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s asteroid sampling mission is on course for landing this weekend**
+**Caribbean box jellyfish don’t have a central nervous system or brain, but the animals can learn, study says**
 
-You can read more about it [here](https://arstechnica.com/space/2023/09/nasas-asteroid-sampling-mission-is-on-course-for-landing-this-weekend/).
+You can read more about it [here](https://www.cnn.com/2023/09/22/world/jellyfish-brain-central-nervous-system-learning-scn/index.html).
 
 ## Requirements
 - Python 3.8
