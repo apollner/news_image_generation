@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 predictions, fantasy sleepers, key stats, buzz - ESPN**
+**New Jersey Sen. Robert Menendez indicted on federal bribery charges**
 
-You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/38453588/nfl-week-3-predictions-fantasy-sleepers-stats-latest-buzz-2023).
+You can read more about it [here](https://www.youtube.com/watch?v=tc4bPFNZvdk).
 
 ## Requirements
 - Python 3.8
