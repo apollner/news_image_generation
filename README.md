@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football bold predictions for Week 4 schedule of Top 25 games**
+**India's Clash With Canada Over Killing Follows New Wave of Calls for Sikh Homeland**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/09/23/college-football-bold-predictions-week-4-schedule/70895723007/).
+You can read more about it [here](https://www.wsj.com/world/india/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe).
 
 ## Requirements
 - Python 3.8
