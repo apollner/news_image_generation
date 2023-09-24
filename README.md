@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch NASA's OSIRIS-REx asteroid probe approach Earth tonight with free telescope livestream**
+**New Jersey Sen. Robert Menendez indicted on federal bribery charges**
 
-You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-return-telescope-livestream).
+You can read more about it [here](https://www.youtube.com/watch?v=tc4bPFNZvdk).
 
 ## Requirements
 - Python 3.8
