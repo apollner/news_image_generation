@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can Katie Britt Be the Face of the GOP's Post-Trump Future?**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/09/23/britt-face-post-trump-future-00117753).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
