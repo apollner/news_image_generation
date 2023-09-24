@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden announces White House Office of Gun Violence Prevention**
+**Biden to visit Michigan to support auto strike, a day before Trump**
 
-You can read more about it [here](https://abcnews.go.com/Politics/biden-announce-white-house-office-gun-violence-prevention/story?id=103394253).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/biden-visit-uaw-strike-would-be-historic-move-by-us-president-2023-09-22/).
 
 ## Requirements
 - Python 3.8
