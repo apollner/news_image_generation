@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brock Purdy could go from Mr. Irrelevant to Mr. MVP**
+**WGA Picket Lines Swell with Solidarity and Cautious Optimism as AMPTP Contract Talks Go a Third Day with CEOs**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-could-go-from-mr-irrelevant-to-mr-mvp).
+You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-picket-lines-amptp-talks-1235732902/).
 
 ## Requirements
 - Python 3.8
