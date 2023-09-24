@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 iOS 0-days, a cellular network compromise, and HTTP used to infect an iPhone**
+**NFL Week 3 predictions, fantasy sleepers, key stats, buzz - ESPN**
 
-You can read more about it [here](https://arstechnica.com/security/2023/09/how-the-iphone-of-a-presidential-candidate-in-egypt-got-hacked-for-the-2nd-time/).
+You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/38453588/nfl-week-3-predictions-fantasy-sleepers-stats-latest-buzz-2023).
 
 ## Requirements
 - Python 3.8
