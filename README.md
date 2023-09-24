@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**2023 NCAA college football season: How to watch the Ohio State vs. Notre Dame game today**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/watch-ohio-state-notre-dame-game-tonight-ncaa-college-football-2023-schedule-time-channel-140003834.html).
 
 ## Requirements
 - Python 3.8
