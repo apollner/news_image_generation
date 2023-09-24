@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian forces have broken through in Verbove, top general says**
+**College football bold predictions for Week 4 schedule of Top 25 games**
 
-You can read more about it [here](https://www.cnn.com/2023/09/23/europe/ukraine-biggest-counteroffensive-to-come-intl-hnk/index.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/09/23/college-football-bold-predictions-week-4-schedule/70895723007/).
 
 ## Requirements
 - Python 3.8
