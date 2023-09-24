@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five hospitalized after house explodes in West Milford. Here's what we know**
+**Google Pixel 8 and 8 Pro launch day colors have leaked in their entirety**
 
-You can read more about it [here](https://www.northjersey.com/story/news/passaic/west-milford/2023/09/22/west-milford-nj-possible-house-explosion/70938851007/).
+You can read more about it [here](https://www.androidpolice.com/google-pixel-8-8-pro-colors-render-leak/).
 
 ## Requirements
 - Python 3.8
