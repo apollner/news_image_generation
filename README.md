@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey Sen. Robert Menendez indicted on federal bribery charges**
+**Microsoft Surface Studio 2 and Surface Go 3 Laptops (Hands-On)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tc4bPFNZvdk).
+You can read more about it [here](https://www.youtube.com/watch?v=WOLPexX7_wo).
 
 ## Requirements
 - Python 3.8
