@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGA Picket Lines Swell with Solidarity and Cautious Optimism as AMPTP Contract Talks Go a Third Day with CEOs**
+**Biden announces White House Office of Gun Violence Prevention**
 
-You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-picket-lines-amptp-talks-1235732902/).
+You can read more about it [here](https://abcnews.go.com/Politics/biden-announce-white-house-office-gun-violence-prevention/story?id=103394253).
 
 ## Requirements
 - Python 3.8
