@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New map shows states with the highest and lowest obesity rates**
+**Brock Purdy could go from Mr. Irrelevant to Mr. MVP**
 
-You can read more about it [here](https://ktla.com/news/new-map-shows-states-with-the-highest-and-lowest-obesity-rates/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-could-go-from-mr-irrelevant-to-mr-mvp).
 
 ## Requirements
 - Python 3.8
