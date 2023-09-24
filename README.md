@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five Clues to Where the UAW Strike Is Headed Next**
+**India's Clash With Canada Over Killing Follows New Wave of Calls for Sikh Homeland**
 
-You can read more about it [here](https://www.wsj.com/business/autos/uaw-strike-labor-negotiations-5-things-323de258).
+You can read more about it [here](https://www.wsj.com/world/india/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe).
 
 ## Requirements
 - Python 3.8
