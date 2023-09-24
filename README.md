@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's Clash With Canada Over Killing Follows New Wave of Calls for Sikh Homeland**
+**Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut**
 
-You can read more about it [here](https://www.wsj.com/world/india/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe).
+You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/).
 
 ## Requirements
 - Python 3.8
