@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's Clash With Canada Over Killing Follows New Wave of Calls for Sikh Homeland**
+**3 iOS 0-days, a cellular network compromise, and HTTP used to infect an iPhone**
 
-You can read more about it [here](https://www.wsj.com/world/india/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe).
+You can read more about it [here](https://arstechnica.com/security/2023/09/how-the-iphone-of-a-presidential-candidate-in-egypt-got-hacked-for-the-2nd-time/).
 
 ## Requirements
 - Python 3.8
