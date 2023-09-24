@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Andy Kim announces he’ll run against NJ Sen. Bob Menendez in wake of his indictment**
+**Walmart has already discounted the new Apple iPhone 15 by up to $1,100**
 
-You can read more about it [here](https://www.cnn.com/2023/09/23/politics/menendez-andy-kim-senate/index.html).
+You can read more about it [here](https://www.nj.com/shopping-deals/2023/09/walmart-has-already-discounted-the-new-apple-iphone-15-by-up-to-1100.html).
 
 ## Requirements
 - Python 3.8
