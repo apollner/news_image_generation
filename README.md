@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch NASA's OSIRIS-REx Return Asteroid Samples to Earth**
+**Deadly truck explosion hits checkpoint in central Somali town**
 
-You can read more about it [here](https://gizmodo.com/watch-nasa-osiris-rex-return-asteroid-samples-bennu-1850866330).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/23/deadly-truck-explosion-hits-checkpoint-in-central-somali-town).
 
 ## Requirements
 - Python 3.8
