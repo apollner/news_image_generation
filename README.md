@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut**
+**Ukrainian forces have broken through in Verbove, top general says**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/).
+You can read more about it [here](https://www.cnn.com/2023/09/23/europe/ukraine-biggest-counteroffensive-to-come-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
