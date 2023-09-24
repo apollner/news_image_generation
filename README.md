@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shared intelligence from Five Eyes informed Trudeau's India allegation, CTV News reports**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/shared-intelligence-five-eyes-informed-trudeaus-india-allegation-ctv-news-2023-09-23/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
