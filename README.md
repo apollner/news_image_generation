@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caribbean box jellyfish don’t have a central nervous system or brain, but the animals can learn, study says**
+**WGA Confirms Weekend Talks With Studio CEOs After Friday Negotiations End With No Deal – Update**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/world/jellyfish-brain-central-nervous-system-learning-scn/index.html).
+You can read more about it [here](https://deadline.com/2023/09/writers-strike-no-deal-talks-continue-1235554165/).
 
 ## Requirements
 - Python 3.8
