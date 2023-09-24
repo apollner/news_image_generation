@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez and wife indicted on bribery charges; DOJ seizes gold bars and $500,000**
+**Five Clues to Where the UAW Strike Is Headed Next**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/politics/bob-menendez-charges/index.html).
+You can read more about it [here](https://www.wsj.com/business/autos/uaw-strike-labor-negotiations-5-things-323de258).
 
 ## Requirements
 - Python 3.8
