@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Never ‘insult Poles again,’ Poland’s prime minister tells Ukraine’s Zelensky**
+**FBI investigates alleged abuse in Baton Rouge police building called the 'Brave Cave'**
 
-You can read more about it [here](https://www.cnn.com/2023/09/23/europe/morawiecki-ukraine-zelensky-insult-poland-intl-hnk/index.html).
+You can read more about it [here](https://www.npr.org/2023/09/23/1201297034/fbi-investigates-alleged-abuse-baton-rouge-police-warehouse-brave-cave).
 
 ## Requirements
 - Python 3.8
