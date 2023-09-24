@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 NCAA college football season: How to watch the Ohio State vs. Notre Dame game today**
+**Can Katie Britt Be the Face of the GOP's Post-Trump Future?**
 
-You can read more about it [here](https://sports.yahoo.com/watch-ohio-state-notre-dame-game-tonight-ncaa-college-football-2023-schedule-time-channel-140003834.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/09/23/britt-face-post-trump-future-00117753).
 
 ## Requirements
 - Python 3.8
