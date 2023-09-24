@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to visit Michigan to support auto strike, a day before Trump**
+**Border crossings by migrant families hits record high**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/biden-visit-uaw-strike-would-be-historic-move-by-us-president-2023-09-22/).
+You can read more about it [here](https://www.axios.com/2023/09/22/us-border-migrant-families-biden).
 
 ## Requirements
 - Python 3.8
