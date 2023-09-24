@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Border crossings by migrant families hits record high**
+**NASA’s asteroid sampling mission is on course for landing this weekend**
 
-You can read more about it [here](https://www.axios.com/2023/09/22/us-border-migrant-families-biden).
+You can read more about it [here](https://arstechnica.com/space/2023/09/nasas-asteroid-sampling-mission-is-on-course-for-landing-this-weekend/).
 
 ## Requirements
 - Python 3.8
