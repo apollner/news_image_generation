@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Never ‘insult Poles again,’ Poland’s prime minister tells Ukraine’s Zelensky**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/09/23/europe/morawiecki-ukraine-zelensky-insult-poland-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
