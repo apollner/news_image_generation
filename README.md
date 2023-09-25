@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunmen battle police in Kosovo monastery siege; four dead**
+**Striking the Russian Black Sea Fleet HQ boosted morale: Ukraine general**
 
-You can read more about it [here](https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/).
+You can read more about it [here](https://www.businessinsider.com/russian-black-sea-fleet-strike-boosted-morale-ukrainian-soldiers-general-2023-9).
 
 ## Requirements
 - Python 3.8
