@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans are turning potential glory days into a 'clown show' with government shutdown looming**
+**Woman's body found in jaws of Florida alligator**
 
-You can read more about it [here](https://nypost.com/2023/09/23/house-republicans-are-turning-potential-glory-days-into-a-clown-show-with-government-shutdown-looming/).
+You can read more about it [here](https://www.cbsnews.com/news/body-found-jaws-of-alligator-tampa-bay-largo-florida-canal/).
 
 ## Requirements
 - Python 3.8
