@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, September 24, 2023**
+**Israeli forces destroy war room, explosives in West Bank refugee camp**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/9/24/23881188/horoscopes-today-sunday-september-24-2023).
+You can read more about it [here](https://www.jpost.com/breaking-news/article-760297).
 
 ## Requirements
 - Python 3.8
