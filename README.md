@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football Week 3 inactives - Who's in and who's out? - ESPN**
+**Russia-Ukraine war news: Kyiv again targets Crimea**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek3/nfl-fantasy-football-espn-injured-inactives-watchlist-week-3-2023-september-24).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/24/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
