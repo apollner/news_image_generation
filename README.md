@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats, Republicans want Menendez to resign over corruption charges**
+**Usher to Headline 2024 Apple Music Super Bowl Halftime Show**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/24/bob-menendez-resign-indictment-bribery/70953592007/).
+You can read more about it [here](https://www.billboard.com/music/music-news/usher-super-bowl-halftime-show-2024-headline-1235419754/).
 
 ## Requirements
 - Python 3.8
