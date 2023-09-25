@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis campaign pre-debate memo criticizes Trump, is dismissive of other rivals despite polling gap closing**
+**McCarthy reverses on Ukraine aid as GOP scrambles on funding bills**
 
-You can read more about it [here](https://www.cbsnews.com/news/desantis-campaign-pre-debate-memo-criticizes-trump/).
+You can read more about it [here](https://www.politico.com/news/2023/09/23/mccarthy-ukraine-aid-00117801).
 
 ## Requirements
 - Python 3.8
