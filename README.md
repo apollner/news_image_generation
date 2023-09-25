@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war news: Kyiv again targets Crimea**
+**Watch NASA's OSIRIS-REx asteroid probe approach Earth tonight with free telescope livestream**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/24/russia-ukraine-war-news/).
+You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-return-telescope-livestream).
 
 ## Requirements
 - Python 3.8
