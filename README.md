@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karabakh humanitarian fears grow with thousands sleeping on Stepanakert streets**
+**US Envoy Confirms Canada Received 'Five Eyes' Intel Against India: Report**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66901759).
+You can read more about it [here](https://www.ndtv.com/india-news/khalistani-terrorist-hardeep-singh-nijjar-justin-trudeau-pm-narendra-modi-us-envoy-confirms-canada-received-five-eyes-intel-against-india-report-4416628).
 
 ## Requirements
 - Python 3.8
