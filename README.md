@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**41-year-old woman found dead after Florida alligator is spotted with a body in its mouth**
+**Parineeti Chopra ties the knot with Raghav Chadha**
 
-You can read more about it [here](https://www.cnn.com/2023/09/24/us/florida-alligator-killed-woman-in-mouth/index.html).
+You can read more about it [here](https://indianexpress.com/article/entertainment/bollywood/actor-parineeti-chopra-ties-the-knot-with-politican-raghav-chadha-8954017/).
 
 ## Requirements
 - Python 3.8
