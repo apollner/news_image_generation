@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey governor calls on Sen. Menendez, a fellow Democrat, to resign**
+**Nagorno-Karabakh's 120000 Armenians will leave for Armenia, leadership says**
 
-You can read more about it [here](https://www.cnn.com/2023/09/22/politics/new-jersey-democrats-menendez/index.html).
+You can read more about it [here](https://www.reuters.com/world/armenia-calls-un-mission-monitor-rights-nagorno-karabakh-2023-09-24/).
 
 ## Requirements
 - Python 3.8
