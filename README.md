@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy reverses on Ukraine aid as GOP scrambles on funding bills**
+**Horoscope for Sunday, September 24, 2023**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/23/mccarthy-ukraine-aid-00117801).
+You can read more about it [here](https://chicago.suntimes.com/2023/9/24/23881188/horoscopes-today-sunday-september-24-2023).
 
 ## Requirements
 - Python 3.8
