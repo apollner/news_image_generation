@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 odds, picks, best bets, schedule, live stream: Expert selections, teasers, survivor picks and more**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-odds-picks-best-bets-schedule-live-stream-expert-selections-teasers-survivor-picks-and-more/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
