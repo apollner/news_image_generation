@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buttigieg slams Trump comments on military officer, wounded veterans**
+**NASA's OSIRIS-REx spacecraft delivers asteroid Bennu sample to Earth - The Washington Post**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/24/buttigieg-donald-trump-wounded-veteran/70953824007/).
+You can read more about it [here](https://www.washingtonpost.com/science/2023/09/24/nasa-osiris-rex-landing-asteroid-bennu/).
 
 ## Requirements
 - Python 3.8
