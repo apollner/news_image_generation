@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former President Jimmy Carter rides through Georgia peanut fest**
+**Rep. Andy Kim announces bid to unseat Sen. Menendez after bribery charges**
 
-You can read more about it [here](https://www.reuters.com/world/us/former-president-jimmy-carter-rides-through-georgia-peanut-fest-2023-09-23/).
+You can read more about it [here](https://www.axios.com/2023/09/23/rep-andy-kim-to-challenge-sen-menendez-in-2024-after-bribery-charges).
 
 ## Requirements
 - Python 3.8
