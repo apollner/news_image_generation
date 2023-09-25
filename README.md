@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Negotiations between Hollywood writers, studio in the “home stretch”**
+**McCarthy reverses on Ukraine aid as GOP scrambles on funding bills**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zcRUOjy_Q7k).
+You can read more about it [here](https://www.politico.com/news/2023/09/23/mccarthy-ukraine-aid-00117801).
 
 ## Requirements
 - Python 3.8
