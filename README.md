@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Expendables 4’ Debuts With Franchise Low, Bested by ‘Nun II’**
+**Serb gunmen battle police in Kosovo monastery siege; four dead**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/expendables-4-box-office-nun-ii-1235597319/).
+You can read more about it [here](https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/).
 
 ## Requirements
 - Python 3.8
