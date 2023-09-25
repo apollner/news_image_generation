@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Envoy Confirms Canada Received 'Five Eyes' Intel Against India: Report**
+**Iowa Hawkeyes at Penn State: Live Updates, Results and Game Thread**
 
-You can read more about it [here](https://www.ndtv.com/india-news/khalistani-terrorist-hardeep-singh-nijjar-justin-trudeau-pm-narendra-modi-us-envoy-confirms-canada-received-five-eyes-intel-against-india-report-4416628).
+You can read more about it [here](https://www.blackheartgoldpants.com/2023/9/23/23885861/iowa-hawkeyes-at-penn-state-game-thread-live-updates-score-big-ten-college-football-bhgp).
 
 ## Requirements
 - Python 3.8
