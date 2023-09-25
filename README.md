@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly truck explosion hits checkpoint in central Somali town**
+**Amazon Prime Video to include ads in 2024 — unless users pay $2.99 a month to get rid of them**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/23/deadly-truck-explosion-hits-checkpoint-in-central-somali-town).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-prime-video-include-ads-2024-unless-users-pay-2-99-month-get-rid).
 
 ## Requirements
 - Python 3.8
