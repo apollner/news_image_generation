@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame vs. Ohio State score: Live game updates, college football scores, NCAA top 25 highlights in Week 4**
+**Karabakh humanitarian fears grow with thousands sleeping on Stepanakert streets**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-ohio-state-score-live-game-updates-college-football-scores-ncaa-top-25-highlights-in-week-4/live/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66901759).
 
 ## Requirements
 - Python 3.8
