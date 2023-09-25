@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear**
+**Democrats, Republicans want Menendez to resign over corruption charges**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/24/bob-menendez-resign-indictment-bribery/70953592007/).
 
 ## Requirements
 - Python 3.8
