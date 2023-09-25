@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman's body found in jaws of Florida alligator**
+**Fantasy football Week 3 inactives - Who's in and who's out? - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/news/body-found-jaws-of-alligator-tampa-bay-largo-florida-canal/).
+You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek3/nfl-fantasy-football-espn-injured-inactives-watchlist-week-3-2023-september-24).
 
 ## Requirements
 - Python 3.8
