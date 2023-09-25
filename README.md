@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Andy Kim announces bid to unseat Sen. Menendez after bribery charges**
+**Negotiations between Hollywood writers, studio in the “home stretch”**
 
-You can read more about it [here](https://www.axios.com/2023/09/23/rep-andy-kim-to-challenge-sen-menendez-in-2024-after-bribery-charges).
+You can read more about it [here](https://www.youtube.com/watch?v=zcRUOjy_Q7k).
 
 ## Requirements
 - Python 3.8
