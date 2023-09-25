@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh's 120000 Armenians will leave for Armenia, leadership says**
+**House Republicans are turning potential glory days into a 'clown show' with government shutdown looming**
 
-You can read more about it [here](https://www.reuters.com/world/armenia-calls-un-mission-monitor-rights-nagorno-karabakh-2023-09-24/).
+You can read more about it [here](https://nypost.com/2023/09/23/house-republicans-are-turning-potential-glory-days-into-a-clown-show-with-government-shutdown-looming/).
 
 ## Requirements
 - Python 3.8
