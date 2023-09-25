@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's OSIRIS-REx spacecraft delivers asteroid Bennu sample to Earth - The Washington Post**
+**McCarthy ally to Republican rebels: Go ahead, make my day**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2023/09/24/nasa-osiris-rex-landing-asteroid-bennu/).
+You can read more about it [here](https://www.politico.com/news/2023/09/24/garret-graves-mccarthy-speaker-00117837).
 
 ## Requirements
 - Python 3.8
