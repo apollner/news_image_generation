@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Troubles for Biden not just his age in reelection campaign: POLL**
+**Former President Jimmy Carter rides through Georgia peanut fest**
 
-You can read more about it [here](https://abcnews.go.com/Politics/troubles-biden-age-reelection-campaign-poll/story?id=103436611).
+You can read more about it [here](https://www.reuters.com/world/us/former-president-jimmy-carter-rides-through-georgia-peanut-fest-2023-09-23/).
 
 ## Requirements
 - Python 3.8
