@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli forces destroy war room, explosives in West Bank refugee camp**
+**New Jersey governor calls on Sen. Menendez, a fellow Democrat, to resign**
 
-You can read more about it [here](https://www.jpost.com/breaking-news/article-760297).
+You can read more about it [here](https://www.cnn.com/2023/09/22/politics/new-jersey-democrats-menendez/index.html).
 
 ## Requirements
 - Python 3.8
