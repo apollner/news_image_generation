@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher to Headline 2024 Apple Music Super Bowl Halftime Show**
+**Buttigieg slams Trump comments on military officer, wounded veterans**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/usher-super-bowl-halftime-show-2024-headline-1235419754/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/09/24/buttigieg-donald-trump-wounded-veteran/70953824007/).
 
 ## Requirements
 - Python 3.8
