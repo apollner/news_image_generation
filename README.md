@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Menendez rejects calls to resign after bribery indictment**
+**Box Office: ‘Expendables 4’ Debuts With Franchise Low, Bested by ‘Nun II’**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mHckTnejs40).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/expendables-4-box-office-nun-ii-1235597319/).
 
 ## Requirements
 - Python 3.8
