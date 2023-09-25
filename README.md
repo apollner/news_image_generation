@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy reverses on Ukraine aid as GOP scrambles on funding bills**
+**Troubles for Biden not just his age in reelection campaign: POLL**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/23/mccarthy-ukraine-aid-00117801).
+You can read more about it [here](https://abcnews.go.com/Politics/troubles-biden-age-reelection-campaign-poll/story?id=103436611).
 
 ## Requirements
 - Python 3.8
