@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock investors' wall of worry keeps growing, creating the need for protection**
+**Sen. Menendez rejects calls to resign after bribery indictment**
 
-You can read more about it [here](https://www.marketwatch.com/story/stock-investors-face-a-wall-of-worry-into-the-year-end-creating-the-need-for-protection-82081d88).
+You can read more about it [here](https://www.youtube.com/watch?v=mHckTnejs40).
 
 ## Requirements
 - Python 3.8
