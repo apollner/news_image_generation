@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy ally to Republican rebels: Go ahead, make my day**
+**41-year-old woman found dead after Florida alligator is spotted with a body in its mouth**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/24/garret-graves-mccarthy-speaker-00117837).
+You can read more about it [here](https://www.cnn.com/2023/09/24/us/florida-alligator-killed-woman-in-mouth/index.html).
 
 ## Requirements
 - Python 3.8
