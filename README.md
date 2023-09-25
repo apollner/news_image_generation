@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parineeti Chopra ties the knot with Raghav Chadha**
+**Gunmen battle police in Kosovo monastery siege; four dead**
 
-You can read more about it [here](https://indianexpress.com/article/entertainment/bollywood/actor-parineeti-chopra-ties-the-knot-with-politican-raghav-chadha-8954017/).
+You can read more about it [here](https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/).
 
 ## Requirements
 - Python 3.8
