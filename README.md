@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift cheers on Travis Kelce at Kansas City Chiefs game**
+**Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear**
 
-You can read more about it [here](https://www.cnn.com/2023/09/24/entertainment/taylor-swift-travis-kelce-chiefs-game/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
 
 ## Requirements
 - Python 3.8
