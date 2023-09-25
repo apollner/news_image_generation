@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut**
+**Notre Dame vs. Ohio State score: Live game updates, college football scores, NCAA top 25 highlights in Week 4**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-ohio-state-score-live-game-updates-college-football-scores-ncaa-top-25-highlights-in-week-4/live/).
 
 ## Requirements
 - Python 3.8
