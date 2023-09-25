@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa Hawkeyes at Penn State: Live Updates, Results and Game Thread**
+**Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut**
 
-You can read more about it [here](https://www.blackheartgoldpants.com/2023/9/23/23885861/iowa-hawkeyes-at-penn-state-game-thread-live-updates-score-big-ten-college-football-bhgp).
+You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/).
 
 ## Requirements
 - Python 3.8
