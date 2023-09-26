@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**17-year-old gunman allegedly kills 3 teens, injures 1 over 'stupid' fight: Sheriff**
+**Bomb cyclone slams Pacific Northwest with heavy rain, raising threat of debris flows**
 
-You can read more about it [here](https://abcnews.go.com/US/17-year-gunman-allegedly-kills-3-teens-injures/story?id=103471309).
+You can read more about it [here](https://www.foxweather.com/weather-news/west-coast-atmospheric-river-el-nino).
 
 ## Requirements
 - Python 3.8
