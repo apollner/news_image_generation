@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked UK Google Pixel 8 pricing corroborates higher US prices**
+**Perspective | What the egg-freezing process feels like: One woman's fertility journey**
 
-You can read more about it [here](https://www.androidpolice.com/leaked-uk-google-pixel-8-pricing-corroborates-higher-us-prices-b/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/25/egg-freezing-fertility-motherhood-emotions/).
 
 ## Requirements
 - Python 3.8
