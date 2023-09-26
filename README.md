@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets' frustrations build as QB Zach Wilson struggles again - ESPN**
+**El Paso announces new shelter amid migrant surge**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38483709/jets-frustrations-build-qb-zach-wilson-struggles-again).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4221021-el-paso-announces-new-shelter-amid-migrant-surge/).
 
 ## Requirements
 - Python 3.8
