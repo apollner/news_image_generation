@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 8, 8 Pro, and Pixel Watch 2 pricing for the UK has leaked**
+**Ford says 'significant gaps' remain in UAW labor contract talks**
 
-You can read more about it [here](https://9to5google.com/2023/09/24/pixel-8-watch-2-uk-price/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/ford-says-significant-gaps-remain-reach-uaw-contract-deal-2023-09-25/).
 
 ## Requirements
 - Python 3.8
