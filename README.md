@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippines to remove barrier placed by China in South China Sea - national security advisor**
+**Ukraine war live updates: Russia inflicts 'significant damage' on Odesa in attack; Poland tries to ease tensions with Kyiv**
 
-You can read more about it [here](https://news.yahoo.com/philippines-remove-barrier-placed-china-063048891.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/25/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
