@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford says 'significant gaps' remain in UAW labor contract talks**
+**NFL Week 3 grades: Dolphins earn 'A+' for scoring 70, Cowboys get an 'F' after upset loss to Cardinals**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/ford-says-significant-gaps-remain-reach-uaw-contract-deal-2023-09-25/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-grades-dolphins-earn-a-for-scoring-70-cowboys-get-an-f-after-upset-loss-to-cardinals/).
 
 ## Requirements
 - Python 3.8
