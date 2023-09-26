@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ChatGPT has gone full virtual assistant with voice and image recognition**
+**US government shutdown bad for country's credit, warns Moody's**
 
-You can read more about it [here](https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/).
+You can read more about it [here](https://www.reuters.com/markets/us/moodys-warns-us-government-shutdown-would-be-credit-negative-2023-09-25/).
 
 ## Requirements
 - Python 3.8
