@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot grows to $785 million, fourth-largest prize in history**
+**Jamaica declares Dengue fever outbreak with hundreds of confirmed and suspected cases**
 
-You can read more about it [here](https://www.cnn.com/2023/09/24/us/powerball-jackpot-lottery-amount-millions/index.html).
+You can read more about it [here](https://nypost.com/2023/09/24/jamaica-declares-dengue-fever-outbreak-with-hundreds-of-confirmed-and-suspected-cases/).
 
 ## Requirements
 - Python 3.8
