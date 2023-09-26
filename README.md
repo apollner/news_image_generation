@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Serb gunmen battle police in Kosovo monastery siege; four dead**
+**Powerball jackpot grows to $785 million, fourth-largest prize in history**
 
-You can read more about it [here](https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/).
+You can read more about it [here](https://www.cnn.com/2023/09/24/us/powerball-jackpot-lottery-amount-millions/index.html).
 
 ## Requirements
 - Python 3.8
