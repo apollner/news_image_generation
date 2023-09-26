@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamaica declares Dengue fever outbreak with hundreds of confirmed and suspected cases**
+**Jets' frustrations build as QB Zach Wilson struggles again - ESPN**
 
-You can read more about it [here](https://nypost.com/2023/09/24/jamaica-declares-dengue-fever-outbreak-with-hundreds-of-confirmed-and-suspected-cases/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38483709/jets-frustrations-build-qb-zach-wilson-struggles-again).
 
 ## Requirements
 - Python 3.8
