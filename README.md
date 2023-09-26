@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon will invest up to $4 billion in OpenAI rival Anthropic**
+**Italian Mafia boss Messina Denaro dies of cancer months after capture**
 
-You can read more about it [here](https://www.theverge.com/2023/9/25/23888841/amazon-4-billion-investment-anthropic-claude-ai-openai-microsoft).
+You can read more about it [here](https://www.reuters.com/world/europe/jailed-italian-mafia-boss-messina-denaro-dies-afp-citing-italian-media-2023-09-25/).
 
 ## Requirements
 - Python 3.8
