@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evergrande's debt revamp roadblock hits China property investors' sentiment**
+**Nagorno-Karabakh: Thousands flee as Armenia warns of ethnic cleansing risk**
 
-You can read more about it [here](https://www.reuters.com/world/china/evergrande-shares-sink-after-saying-it-is-unable-issue-new-debt-2023-09-25/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
 
 ## Requirements
 - Python 3.8
