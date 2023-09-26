@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Phillips says he hasn’t ruled out Biden challenge in 2024**
+**Travis Kelce Rents Out Restaurant for Taylor Swift and Team for Private Party After Football Game (Exclusive)**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4221698-rep-phillips-says-he-hasnt-ruled-out-biden-challenge-in-2024/).
+You can read more about it [here](https://www.etonline.com/travis-kelce-rents-out-restaurant-for-taylor-swift-and-team-for-private-party-after-football-game).
 
 ## Requirements
 - Python 3.8
