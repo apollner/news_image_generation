@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Union Members Poke Fun At “Best And Final Offer” Line From AMPTP**
+**Pixel 8, 8 Pro, and Pixel Watch 2 pricing for the UK has leaked**
 
-You can read more about it [here](https://deadline.com/2023/09/wga-strike-amptp-statement-best-and-final-offer-1235554911/).
+You can read more about it [here](https://9to5google.com/2023/09/24/pixel-8-watch-2-uk-price/).
 
 ## Requirements
 - Python 3.8
