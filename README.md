@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro Max Teardown: X70 Modem for Faster 5G, 5x Optical Zoom Lens, A17 Pro Chip, and More**
+**Biden, Trump deadlocked in hypothetical rematch, latest poll shows**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/25/iphone-15-pro-max-teardown-ifixit/).
+You can read more about it [here](https://www.youtube.com/watch?v=RFNCpE1wcHQ).
 
 ## Requirements
 - Python 3.8
