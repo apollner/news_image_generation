@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear**
+**Houston Texans vs. Jacksonville Jaguars | 2023 Week 3 Game Highlights**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
+You can read more about it [here](https://www.youtube.com/watch?v=gTE1VHo727s).
 
 ## Requirements
 - Python 3.8
