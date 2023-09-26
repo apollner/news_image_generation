@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston Texans vs. Jacksonville Jaguars | 2023 Week 3 Game Highlights**
+**Democrats embrace Biden's upcoming visit to Michigan UAW picket lines**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gTE1VHo727s).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/09/24/uaw-strike-updates-biden/).
 
 ## Requirements
 - Python 3.8
