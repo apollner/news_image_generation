@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and Biden’s Michigan visits will present competing strategies for winning union voters**
+**Leaked UK Google Pixel 8 pricing corroborates higher US prices**
 
-You can read more about it [here](https://www.cnn.com/2023/09/25/politics/trump-biden-michigan-union-voters/index.html).
+You can read more about it [here](https://www.androidpolice.com/leaked-uk-google-pixel-8-pricing-corroborates-higher-us-prices-b/).
 
 ## Requirements
 - Python 3.8
