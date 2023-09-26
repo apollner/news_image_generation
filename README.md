@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ask Amy: When I heard the voicemail, I called back and told her we were done**
+**Trump and Biden’s Michigan visits will present competing strategies for winning union voters**
 
-You can read more about it [here](https://www.mercurynews.com/2023/09/25/ask-amy-when-i-heard-the-voicemail-i-told-her-we-were-done/).
+You can read more about it [here](https://www.cnn.com/2023/09/25/politics/trump-biden-michigan-union-voters/index.html).
 
 ## Requirements
 - Python 3.8
