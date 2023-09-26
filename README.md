@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France to withdraw ambassador, troops from Niger after coup: Macron**
+**France will end its military presence in Niger by the end of 2023, Macron says**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/24/france-to-withdraw-ambassador-troops-from-niger-after-coup-macron).
+You can read more about it [here](https://www.cnn.com/2023/09/24/europe/france-end-military-presence-niger-intl/index.html).
 
 ## Requirements
 - Python 3.8
