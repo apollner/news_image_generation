@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italian Mafia boss Messina Denaro dies of cancer months after capture**
+**Perspective | What the egg-freezing process feels like: One woman's fertility journey**
 
-You can read more about it [here](https://www.reuters.com/world/europe/jailed-italian-mafia-boss-messina-denaro-dies-afp-citing-italian-media-2023-09-25/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/25/egg-freezing-fertility-motherhood-emotions/).
 
 ## Requirements
 - Python 3.8
