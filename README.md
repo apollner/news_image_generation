@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh: Thousands flee as Armenia warns of ethnic cleansing risk**
+**Amazon will invest up to $4 billion in OpenAI rival Anthropic**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
+You can read more about it [here](https://www.theverge.com/2023/9/25/23888841/amazon-4-billion-investment-anthropic-claude-ai-openai-microsoft).
 
 ## Requirements
 - Python 3.8
