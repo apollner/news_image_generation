@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Rents Out Restaurant for Taylor Swift and Team for Private Party After Football Game (Exclusive)**
+**Covid Boosters Aren't Reaching People Who Want Them**
 
-You can read more about it [here](https://www.etonline.com/travis-kelce-rents-out-restaurant-for-taylor-swift-and-team-for-private-party-after-football-game).
+You can read more about it [here](https://www.wsj.com/health/healthcare/covid-vaccine-shots-canceled-813f712f).
 
 ## Requirements
 - Python 3.8
