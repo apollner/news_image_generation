@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid Boosters Aren't Reaching People Who Want Them**
+**Wixom's Eagle Industries announces layoffs as UAW strike persists**
 
-You can read more about it [here](https://www.wsj.com/health/healthcare/covid-vaccine-shots-canceled-813f712f).
+You can read more about it [here](https://www.freep.com/story/money/cars/2023/09/25/uaw-strike-ford-stellantis-gm-layoffs-michigan-eagle/70959901007/).
 
 ## Requirements
 - Python 3.8
