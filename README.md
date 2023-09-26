@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**El Paso announces new shelter amid migrant surge**
+**Union Members Poke Fun At “Best And Final Offer” Line From AMPTP**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4221021-el-paso-announces-new-shelter-amid-migrant-surge/).
+You can read more about it [here](https://deadline.com/2023/09/wga-strike-amptp-statement-best-and-final-offer-1235554911/).
 
 ## Requirements
 - Python 3.8
