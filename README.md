@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wixom's Eagle Industries announces layoffs as UAW strike persists**
+**17-year-old gunman allegedly kills 3 teens, injures 1 over 'stupid' fight: Sheriff**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/2023/09/25/uaw-strike-ford-stellantis-gm-layoffs-michigan-eagle/70959901007/).
+You can read more about it [here](https://abcnews.go.com/US/17-year-gunman-allegedly-kills-3-teens-injures/story?id=103471309).
 
 ## Requirements
 - Python 3.8
