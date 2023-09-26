@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bomb cyclone slams Pacific Northwest with heavy rain, raising threat of debris flows**
+**Bengals’ Joe Burrow trending in right direction to play Monday vs. Rams: Sources**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/west-coast-atmospheric-river-el-nino).
+You can read more about it [here](https://theathletic.com/4898031/2023/09/25/joe-burrow-injury-status-bengals-rams/).
 
 ## Requirements
 - Python 3.8
