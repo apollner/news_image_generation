@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez indicates he will not resign after indictment on bribery charges**
+**Bomb cyclone slams Pacific Northwest with heavy rain, raising threat of debris flows**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/indicted-sen-bob-menendez-indicates-not-resigning-rcna117144).
+You can read more about it [here](https://www.foxweather.com/weather-news/west-coast-atmospheric-river-el-nino).
 
 ## Requirements
 - Python 3.8
