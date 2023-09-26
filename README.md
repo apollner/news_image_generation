@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why more women are choosing to be child-free**
+**Philippines to remove barrier placed by China in South China Sea - national security advisor**
 
-You can read more about it [here](https://www.cnn.com/us/childfree-by-choice-women-birth-rate-decline-cec/index.html).
+You can read more about it [here](https://news.yahoo.com/philippines-remove-barrier-placed-china-063048891.html).
 
 ## Requirements
 - Python 3.8
