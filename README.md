@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Russia inflicts 'significant damage' on Odesa in attack; Poland tries to ease tensions with Kyiv**
+**Evergrande's debt revamp roadblock hits China property investors' sentiment**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/25/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.reuters.com/world/china/evergrande-shares-sink-after-saying-it-is-unable-issue-new-debt-2023-09-25/).
 
 ## Requirements
 - Python 3.8
