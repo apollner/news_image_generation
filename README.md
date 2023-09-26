@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear**
+**France to withdraw ambassador, troops from Niger after coup: Macron**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66905581).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/24/france-to-withdraw-ambassador-troops-from-niger-after-coup-macron).
 
 ## Requirements
 - Python 3.8
