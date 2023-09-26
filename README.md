@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perspective | What the egg-freezing process feels like: One woman's fertility journey**
+**Ask Amy: When I heard the voicemail, I called back and told her we were done**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/09/25/egg-freezing-fertility-motherhood-emotions/).
+You can read more about it [here](https://www.mercurynews.com/2023/09/25/ask-amy-when-i-heard-the-voicemail-i-told-her-we-were-done/).
 
 ## Requirements
 - Python 3.8
