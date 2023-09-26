@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals’ Joe Burrow trending in right direction to play Monday vs. Rams: Sources**
+**[Removed]**
 
-You can read more about it [here](https://theathletic.com/4898031/2023/09/25/joe-burrow-injury-status-bengals-rams/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
