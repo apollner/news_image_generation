@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel event 2023: What to expect from the new Pixel 8 and Watch 2**
+**JPMorgan Paying $75 Million to Settle Suit Over Jeffrey Epstein Ties**
 
-You can read more about it [here](https://www.engadget.com/google-pixel-event-2023-what-to-expect-from-the-new-pixel-8-and-watch-2-194531738.html).
+You can read more about it [here](https://www.wsj.com/finance/banking/jpmorgan-paying-75-million-to-settle-suit-over-jeffrey-epstein-ties-545e7824).
 
 ## Requirements
 - Python 3.8
