@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 grades: Eagles and Bengals each earn an 'A-' for big wins on Monday night**
+**Trudeau calls praise for Nazi-linked veteran 'deeply embarrassing'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-grades-eagles-and-bengals-earn-an-a-for-big-wins-on-monday-night/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66919862).
 
 ## Requirements
 - Python 3.8
