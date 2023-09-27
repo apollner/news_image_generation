@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan Paying $75 Million to Settle Suit Over Jeffrey Epstein Ties**
+**Fantasy Football Week 4 Running Back Preview: Waiver adds, matchups, DFS and more**
 
-You can read more about it [here](https://www.wsj.com/finance/banking/jpmorgan-paying-75-million-to-settle-suit-over-jeffrey-epstein-ties-545e7824).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-running-back-preview-waiver-adds-matchups-dfs-and-more/).
 
 ## Requirements
 - Python 3.8
