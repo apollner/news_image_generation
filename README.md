@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge drops murder charge against Philadelphia police officer who shot driver during traffic stop**
+**Trump blasts special counsel's gag order request in federal election case**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/judge-drops-murder-charge-philadelphia-police-officer-shot-driver-traf-rcna117395).
+You can read more about it [here](https://www.cnbc.com/2023/09/26/trump-blasts-special-counsel-gag-order-bid-in-january-6-election-case-.html).
 
 ## Requirements
 - Python 3.8
