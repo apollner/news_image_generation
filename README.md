@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden makes a historic trip to Michigan to walk the picket line to show solidarity with striking UAW – and counter Trump**
+**"Few Nations Setting The Agenda Won't Go Unchallenged": S Jaishankar At UN**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/politics/biden-picket-line-michigan-uaw/index.html).
+You can read more about it [here](https://www.ndtv.com/india-news/few-nations-setting-the-agenda-wont-go-unchallenged-s-jaishankar-at-un-4425899).
 
 ## Requirements
 - Python 3.8
