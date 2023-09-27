@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Creator retreads familiar AI panic territory to stunningly inert effect**
+**Review | 'The Creator' aims for sentimental, lands at artificial**
 
-You can read more about it [here](https://www.theverge.com/23889089/the-creator-movie-review-gareth-edwards).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/09/26/the-creator-movie-review/).
 
 ## Requirements
 - Python 3.8
