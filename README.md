@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cassidy Hutchinson’s new book reveals a Trump White House even more chaotic than previously known**
+**Asia markets largely fall despite Wall Street rally**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/politics/cassidy-hutchinson-book-trump-white-house-chaos/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/26/asia-stock-markets-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
