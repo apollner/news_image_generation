@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel Watch 2's features and fancy new straps shown off in leaked commercial**
+**Cassidy Hutchinson’s new book reveals a Trump White House even more chaotic than previously known**
 
-You can read more about it [here](https://www.androidpolice.com/google-pixel-watch-2-features-fancy-new-straps-shown-off-leaked-commercial/).
+You can read more about it [here](https://www.cnn.com/2023/09/26/politics/cassidy-hutchinson-book-trump-white-house-chaos/index.html).
 
 ## Requirements
 - Python 3.8
