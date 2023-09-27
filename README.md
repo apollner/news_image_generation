@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles Rams vs. Cincinnati Bengals | 2023 Week 3 Game Highlights**
+**SAG-AFTRA Members Vote in Favor of Video Game Strike Authorization**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QPJ3dBmhLGI).
+You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-vote-authorize-video-game-strike-1235735114/).
 
 ## Requirements
 - Python 3.8
