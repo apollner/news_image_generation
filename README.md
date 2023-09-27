@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Jalen Hurts finally got the best of Todd Bowles**
+**Google Pixel event 2023: What to expect from the new Pixel 8 and Watch 2**
 
-You can read more about it [here](https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/how-jalen-hurts-finally-got-best-of-todd-bowles/537678/).
+You can read more about it [here](https://www.engadget.com/google-pixel-event-2023-what-to-expect-from-the-new-pixel-8-and-watch-2-194531738.html).
 
 ## Requirements
 - Python 3.8
