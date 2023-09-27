@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review | 'The Creator' aims for sentimental, lands at artificial**
+**Supreme Court rejects Alabama's attempt to avoid creating a second Black majority district**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/09/26/the-creator-movie-review/).
+You can read more about it [here](https://www.cnn.com/2023/09/26/politics/supreme-court-alabama-redistricting/index.html).
 
 ## Requirements
 - Python 3.8
