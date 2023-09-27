@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pretty Little Liars' Torrey DeVitto Is Engaged to Jared LaPine: See Her Gorgeous Ring**
+**Google Pixel Watch 2's features and fancy new straps shown off in leaked commercial**
 
-You can read more about it [here](https://www.eonline.com/news/1386377/pretty-little-liars-torrey-devitto-is-engaged-to-jared-lapine-see-her-gorgeous-ring).
+You can read more about it [here](https://www.androidpolice.com/google-pixel-watch-2-features-fancy-new-straps-shown-off-leaked-commercial/).
 
 ## Requirements
 - Python 3.8
