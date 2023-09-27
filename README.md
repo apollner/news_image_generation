@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trudeau calls praise for Nazi-linked veteran 'deeply embarrassing'**
+**Los Angeles Rams vs. Cincinnati Bengals | 2023 Week 3 Game Highlights**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66919862).
+You can read more about it [here](https://www.youtube.com/watch?v=QPJ3dBmhLGI).
 
 ## Requirements
 - Python 3.8
