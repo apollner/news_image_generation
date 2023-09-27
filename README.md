@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's presence at Chiefs game boosts Travis Kelce, NFL**
+**Biden makes a historic trip to Michigan to walk the picket line to show solidarity with striking UAW – and counter Trump**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/taylor-swifts-presence-at-chiefs-game-boosts-travis-kelce-nfl).
+You can read more about it [here](https://www.cnn.com/2023/09/26/politics/biden-picket-line-michigan-uaw/index.html).
 
 ## Requirements
 - Python 3.8
