@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Members Vote to Authorize Video Game Strike**
+**3rd person arrested in Bronx fentanyl day care case, search continues for owner's husband**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-members-authorize-video-game-strike-1235598617/).
+You can read more about it [here](https://abcnews.go.com/US/3rd-person-arrested-bronx-fentanyl-day-care-case/story?id=103475902).
 
 ## Requirements
 - Python 3.8
