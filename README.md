@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot climbs to $835 million after no one overcomes awful odds to win top prize**
+**U.S. Abrams Tanks Reach Ukraine. Is It a Case of Too Little, Too Late?**
 
-You can read more about it [here](https://abc7.com/powerball-lottery-jackpot-785-million/13828780/).
+You can read more about it [here](https://www.wsj.com/world/u-s-abrams-tanks-reach-ukraine-is-it-a-case-of-too-little-too-late-f1fb5061).
 
 ## Requirements
 - Python 3.8
