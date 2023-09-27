@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden backs 40% UAW pay raise in Michigan strike visit**
+**Kerry Washington says Django Unchained cut even more brutal scene**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/biden-trump-woo-union-workers-michigan-auto-strikes-grow-2023-09-26/).
+You can read more about it [here](https://www.avclub.com/kerry-washington-says-django-unchained-cut-brutal-rape-1850873653).
 
 ## Requirements
 - Python 3.8
