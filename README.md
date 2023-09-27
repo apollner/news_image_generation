@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court rejects Alabama's attempt to avoid creating a second Black majority district**
+**Biden backs 40% UAW pay raise in Michigan strike visit**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/politics/supreme-court-alabama-redistricting/index.html).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/biden-trump-woo-union-workers-michigan-auto-strikes-grow-2023-09-26/).
 
 ## Requirements
 - Python 3.8
