@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A blast in Nagorno-Karabakh injures more than 200, while thousands flee to Armenia**
+**Powerball jackpot climbs to $835 million after no one overcomes awful odds to win top prize**
 
-You can read more about it [here](https://www.npr.org/2023/09/25/1201668404/explosion-nagorno-karabakh-armenia-azerbaijan).
+You can read more about it [here](https://abc7.com/powerball-lottery-jackpot-785-million/13828780/).
 
 ## Requirements
 - Python 3.8
