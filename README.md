@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Abrams Tanks Reach Ukraine. Is It a Case of Too Little, Too Late?**
+**Cassidy Hutchinson’s new book reveals a Trump White House even more chaotic than previously known**
 
-You can read more about it [here](https://www.wsj.com/world/u-s-abrams-tanks-reach-ukraine-is-it-a-case-of-too-little-too-late-f1fb5061).
+You can read more about it [here](https://www.cnn.com/2023/09/26/politics/cassidy-hutchinson-book-trump-white-house-chaos/index.html).
 
 ## Requirements
 - Python 3.8
