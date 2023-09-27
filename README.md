@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump blasts special counsel's gag order request in federal election case**
+**The Creator retreads familiar AI panic territory to stunningly inert effect**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/26/trump-blasts-special-counsel-gag-order-bid-in-january-6-election-case-.html).
+You can read more about it [here](https://www.theverge.com/23889089/the-creator-movie-review-gareth-edwards).
 
 ## Requirements
 - Python 3.8
