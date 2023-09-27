@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian Black Sea commander shown working after Ukraine said it killed him**
+**Taylor Swift's presence at Chiefs game boosts Travis Kelce, NFL**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russian-black-sea-commander-shown-working-after-ukraine-said-it-killed-him-2023-09-26/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/taylor-swifts-presence-at-chiefs-game-boosts-travis-kelce-nfl).
 
 ## Requirements
 - Python 3.8
