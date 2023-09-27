@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Smith resigns as CEO of Jeff Bezos's Blue Origin - The Washington Post**
+**NFL Week 3 grades: Eagles and Bengals each earn an 'A-' for big wins on Monday night**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/09/25/blue-origin-space-ceo-resigns/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-3-grades-eagles-and-bengals-earn-an-a-for-big-wins-on-monday-night/).
 
 ## Requirements
 - Python 3.8
