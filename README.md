@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Few Nations Setting The Agenda Won't Go Unchallenged": S Jaishankar At UN**
+**Judge drops murder charge against Philadelphia police officer who shot driver during traffic stop**
 
-You can read more about it [here](https://www.ndtv.com/india-news/few-nations-setting-the-agenda-wont-go-unchallenged-s-jaishankar-at-un-4425899).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/judge-drops-murder-charge-philadelphia-police-officer-shot-driver-traf-rcna117395).
 
 ## Requirements
 - Python 3.8
