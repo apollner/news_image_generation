@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's who made the second Republican presidential debate**
+**Pretty Little Liars' Torrey DeVitto Is Engaged to Jared LaPine: See Her Gorgeous Ring**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/25/rnc-announces-candidates-for-another-trump-less-debate-00118087).
+You can read more about it [here](https://www.eonline.com/news/1386377/pretty-little-liars-torrey-devitto-is-engaged-to-jared-lapine-see-her-gorgeous-ring).
 
 ## Requirements
 - Python 3.8
