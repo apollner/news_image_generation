@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia markets largely fall despite Wall Street rally**
+**Gov. Newsom signs bill to classify child sex trafficking as a serious felony in California**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/26/asia-stock-markets-today-live-updates.html).
+You can read more about it [here](https://www.kcra.com/article/california-bill-child-sex-trafficking-felony-signed/45310822).
 
 ## Requirements
 - Python 3.8
