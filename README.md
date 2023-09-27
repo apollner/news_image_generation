@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW strike: Biden is headed to Michigan to join the picket line**
+**JPMorgan Paying $75 Million to Settle Suit Over Jeffrey Epstein Ties**
 
-You can read more about it [here](https://apnews.com/article/president-joe-biden-strike-united-auto-workers-8ecc84eeca15c99673f31bdac6921f7b).
+You can read more about it [here](https://www.wsj.com/finance/banking/jpmorgan-paying-75-million-to-settle-suit-over-jeffrey-epstein-ties-545e7824).
 
 ## Requirements
 - Python 3.8
