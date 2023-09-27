@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Members Vote in Favor of Video Game Strike Authorization**
+**A blast in Nagorno-Karabakh injures more than 200, while thousands flee to Armenia**
 
-You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-vote-authorize-video-game-strike-1235735114/).
+You can read more about it [here](https://www.npr.org/2023/09/25/1201668404/explosion-nagorno-karabakh-armenia-azerbaijan).
 
 ## Requirements
 - Python 3.8
