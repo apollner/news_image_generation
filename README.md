@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Newsom signs bill to classify child sex trafficking as a serious felony in California**
+**Here's who made the second Republican presidential debate**
 
-You can read more about it [here](https://www.kcra.com/article/california-bill-child-sex-trafficking-felony-signed/45310822).
+You can read more about it [here](https://www.politico.com/news/2023/09/25/rnc-announces-candidates-for-another-trump-less-debate-00118087).
 
 ## Requirements
 - Python 3.8
