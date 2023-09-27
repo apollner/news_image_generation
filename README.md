@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘NCIS’ star David McCallum dead at 90**
+**SAG-AFTRA Members Vote to Authorize Video Game Strike**
 
-You can read more about it [here](https://www.cnn.com/2023/09/25/entertainment/david-mccallum-dead/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-members-authorize-video-game-strike-1235598617/).
 
 ## Requirements
 - Python 3.8
