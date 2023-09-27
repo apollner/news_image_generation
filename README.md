@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3rd person arrested in Bronx fentanyl day care case, search continues for owner's husband**
+**Bob Smith resigns as CEO of Jeff Bezos's Blue Origin - The Washington Post**
 
-You can read more about it [here](https://abcnews.go.com/US/3rd-person-arrested-bronx-fentanyl-day-care-case/story?id=103475902).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/09/25/blue-origin-space-ceo-resigns/).
 
 ## Requirements
 - Python 3.8
