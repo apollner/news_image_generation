@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine live briefing: Russia criticizes delivery of U.S.-made M1 Abrams tanks to Ukraine**
+**DraftKings pops as JPMorgan says stock is undervalued**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/26/russia-ukraine-war-news/).
+You can read more about it [here](https://finance.yahoo.com/news/draftkings-pops-as-jpmorgan-says-stock-is-undervalued-132401308.html).
 
 ## Requirements
 - Python 3.8
