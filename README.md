@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh: Fuel depot blast kills 20 as refugee count doubles**
+**Ukraine live briefing: Russia criticizes delivery of U.S.-made M1 Abrams tanks to Ukraine**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66921557).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/26/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
