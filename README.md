@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 4 Running Back Preview: Waiver adds, matchups, DFS and more**
+**Biden dog Commander bites another Secret Service agent**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-running-back-preview-waiver-adds-matchups-dfs-and-more/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66932087).
 
 ## Requirements
 - Python 3.8
