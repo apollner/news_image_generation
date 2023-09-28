@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Tonight Show Starring Jimmy Fallon’ & ‘Late Night With Seth Meyers’ To Return Next Week**
+**‘We Caused Them Pain’: The Inside Story of How the WGA and AMPTP Negotiated a ‘Great Deal’ to End the Writers Strike**
 
-You can read more about it [here](https://deadline.com/2023/09/the-tonight-show-jimmy-fallon-late-night-seth-meyers-return-date-1235557263/).
+You can read more about it [here](https://variety.com/2023/biz/news/wga-strike-writers-studios-reached-deal-explained-1235737090/).
 
 ## Requirements
 - Python 3.8
