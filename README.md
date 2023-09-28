@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia accuses Ukraine's Western allies of helping attack its Black Sea Fleet headquarters**
+**Obama’s auto task force head rips Biden for joining UAW picket line**
 
-You can read more about it [here](https://news.yahoo.com/russia-accuses-ukraines-western-allies-103300415.html).
+You can read more about it [here](https://thehill.com/homenews/4225836-obamas-auto-task-force-head-rips-biden-for-joining-uaw-picket-line/).
 
 ## Requirements
 - Python 3.8
