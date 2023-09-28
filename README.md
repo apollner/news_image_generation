@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA opens OSIRIS-REx's asteroid-sample canister (photos)**
+**Russia accuses Ukraine's Western allies of helping attack its Black Sea Fleet headquarters**
 
-You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-caniser-lid-lifted-photos).
+You can read more about it [here](https://news.yahoo.com/russia-accuses-ukraines-western-allies-103300415.html).
 
 ## Requirements
 - Python 3.8
