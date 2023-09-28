@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore police searching for ‘extremely dangerous’ ex-con in killing of 26-year-old female tech CEO**
+**Dan Harmon Is Ready to Talk About All of It (Including the Justin Roiland Drama)**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/us/baltimore-tech-ceo-murder-suspect-pava-lapere-wednesday/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-features/dan-harmon-interview-rick-morty-community-krapopolis-justin-roiland-1235600699/).
 
 ## Requirements
 - Python 3.8
