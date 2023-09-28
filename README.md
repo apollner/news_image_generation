@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We Caused Them Pain’: The Inside Story of How the WGA and AMPTP Negotiated a ‘Great Deal’ to End the Writers Strike**
+**North Korea has decided to ‘expel’ US soldier Travis King, state media reports**
 
-You can read more about it [here](https://variety.com/2023/biz/news/wga-strike-writers-studios-reached-deal-explained-1235737090/).
+You can read more about it [here](https://www.cnn.com/2023/09/27/asia/north-korea-travis-king-expel-intl/index.html).
 
 ## Requirements
 - Python 3.8
