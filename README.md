@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers sends subtle jab to Joe Namath, tells Jets offense to 'grow up a little bit'**
+**New Jersey Sen. Cory Booker joins calls for Bob Menendez to resign as pressure escalates**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/jets/2023/09/26/aaron-rodgers-joe-namath-new-york-jets-zach-wilson/70974597007/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/pressure-escalates-fellow-new-jersey-sen-cory-booker-joins-calls-bob-m-rcna117366).
 
 ## Requirements
 - Python 3.8
