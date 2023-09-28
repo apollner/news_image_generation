@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dan Harmon Is Ready to Talk About All of It (Including the Justin Roiland Drama)**
+**Target says it will close nine stores in major cities across four states because of theft and organized crime**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-features/dan-harmon-interview-rick-morty-community-krapopolis-justin-roiland-1235600699/).
+You can read more about it [here](https://www.cnn.com/2023/09/26/business/target-retail-theft-store-closures/index.html).
 
 ## Requirements
 - Python 3.8
