@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Inside Ukraine’s offensive in the East**
+**Baltimore police searching for ‘extremely dangerous’ ex-con in killing of 26-year-old female tech CEO**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/europe/ukraine-eastern-offensive-cotovio-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/27/us/baltimore-tech-ceo-murder-suspect-pava-lapere-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
