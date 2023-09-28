@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea has decided to ‘expel’ US soldier Travis King, state media reports**
+**NASA astronaut Frank Rubio returns from record-setting mission in space**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/asia/north-korea-travis-king-expel-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/27/world/frank-rubio-nasa-return-space-station-scn/index.html).
 
 ## Requirements
 - Python 3.8
