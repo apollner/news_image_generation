@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers Guild Strike to End Wednesday: Leadership Votes to Conclude Historic Work Stoppage**
+**White House readies itself for operating in a government shutdown**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-strike-end-1235600992/).
+You can read more about it [here](https://www.cnn.com/2023/09/26/politics/white-house-prepares-for-government-shutdown/index.html).
 
 ## Requirements
 - Python 3.8
