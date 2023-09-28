@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war news: Russia claims Admiral Viktor Sokolov is alive**
+**Exclusive: Inside Ukraine’s offensive in the East**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/27/russia-ukraine-war-news/).
+You can read more about it [here](https://www.cnn.com/2023/09/27/europe/ukraine-eastern-offensive-cotovio-intl/index.html).
 
 ## Requirements
 - Python 3.8
