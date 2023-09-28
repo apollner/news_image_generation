@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands flee Karabakh to Armenia, death toll rises in fuel depot blast**
+**An annular solar eclipse is coming to parts of the U.S. in October**
 
-You can read more about it [here](https://www.reuters.com/world/russia-us-trade-diplomatic-blame-over-instability-karabakh-crisis-2023-09-26/).
+You can read more about it [here](https://www.npr.org/2023/09/26/1201881081/annular-solar-eclipse-2023).
 
 ## Requirements
 - Python 3.8
