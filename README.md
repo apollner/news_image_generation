@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York judge finds Donald Trump liable for fraud**
+**NASA opens OSIRIS-REx's asteroid-sample canister (photos)**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/politics/trump-organization-business-fraud/index.html).
+You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-caniser-lid-lifted-photos).
 
 ## Requirements
 - Python 3.8
