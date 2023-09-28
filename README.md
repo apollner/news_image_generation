@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing With the Stars' season 32 premiere elimination revealed**
+**Ukraine war live updates: Belarus says it wants peace in Ukraine; mystery surrounds Russian video showing 'dead' navy chief alive**
 
-You can read more about it [here](https://ew.com/tv/recaps/dancing-with-the-stars-season-32-premiere-recap/).
+You can read more about it [here](https://www.cnbc.com/2023/09/27/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
