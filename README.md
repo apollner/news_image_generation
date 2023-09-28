@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target says it will close nine stores in major cities across four states because of theft and organized crime**
+**Canada's House speaker resigns after inviting a man who fought for the Nazis to Parliament: 'Profound regret'**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/business/target-retail-theft-store-closures/index.html).
+You can read more about it [here](https://www.foxnews.com/world/canadas-house-speaker-resigns-inviting-man-fought-nazis-parliament-profound-regret).
 
 ## Requirements
 - Python 3.8
