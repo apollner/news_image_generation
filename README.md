@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Belarus says it wants peace in Ukraine; mystery surrounds Russian video showing 'dead' navy chief alive**
+**Florida man gets bitten by rabies-infested otter while feeding ducks: officials**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/27/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials).
 
 ## Requirements
 - Python 3.8
