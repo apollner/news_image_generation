@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada's House speaker resigns after inviting a man who fought for the Nazis to Parliament: 'Profound regret'**
+**Sen. Bob Menendez to be arraigned as resignation calls grow louder**
 
-You can read more about it [here](https://www.foxnews.com/world/canadas-house-speaker-resigns-inviting-man-fought-nazis-parliament-profound-regret).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/sen-bob-menendez-arraigned-resignation-calls-grow-louder-rcna117438).
 
 ## Requirements
 - Python 3.8
