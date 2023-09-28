@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGA Leaders David Goodman, Chris Keyser and Meredith Stiehm on How the Deal Was Done: ‘We Got Something for Every Sector of the Guild’**
+**In latest recall, Hyundai and Kia ask owners of 3.3 million vehicles to park outside due to risk of fire**
 
-You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-goodman-keyser-stiehm-amptp-contract-1235737384/).
+You can read more about it [here](https://www.cnn.com/2023/09/27/business/hyundai-kia-abs-fire-recall/index.html).
 
 ## Requirements
 - Python 3.8
