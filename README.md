@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US admits Israel into visa waiver program**
+**NASA opens OSIRIS-REx's asteroid-sample canister (photos)**
 
-You can read more about it [here](https://www.reuters.com/world/us-admit-israel-into-visa-waiver-program-2023-09-27/).
+You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-caniser-lid-lifted-photos).
 
 ## Requirements
 - Python 3.8
