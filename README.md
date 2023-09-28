@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Who is Jason Billingsley, accused of killing Baltimore tech CEO Pava Marie LaPere?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/us/jason-billingsley-accused-killing-baltimore-tech-ceo-pava-marie-lapere).
 
 ## Requirements
 - Python 3.8
