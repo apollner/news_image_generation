@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey Sen. Cory Booker joins calls for Bob Menendez to resign as pressure escalates**
+**Week 4 NFL power rankings: Miami Dolphins overtake Kansas City Chiefs**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/pressure-escalates-fellow-new-jersey-sen-cory-booker-joins-calls-bob-m-rcna117366).
+You can read more about it [here](https://www.arrowheadpride.com/2023/9/26/23891032/week-4-nfl-power-rankings-dolphins-chiefs).
 
 ## Requirements
 - Python 3.8
