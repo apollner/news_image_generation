@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama’s auto task force head rips Biden for joining UAW picket line**
+**Sources - Blazers trading Damian Lillard to Bucks in 3-team deal - ESPN**
 
-You can read more about it [here](https://thehill.com/homenews/4225836-obamas-auto-task-force-head-rips-biden-for-joining-uaw-picket-line/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38505763/sources-blazers-trading-damian-lillard-bucks-3-team-deal).
 
 ## Requirements
 - Python 3.8
