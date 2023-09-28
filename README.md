@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ray-Ban Meta smart glasses livestream to Instagram and Facebook**
+**NASA astronaut Frank Rubio is home after a year in space**
 
-You can read more about it [here](https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/).
+You can read more about it [here](https://arstechnica.com/space/2023/09/nasa-astronaut-frank-rubio-is-home-after-a-year-in-space/).
 
 ## Requirements
 - Python 3.8
