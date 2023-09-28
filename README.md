@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DNA testing leads to exoneration of California man imprisoned nearly 3 decades on kidnapping and sexual assault convictions**
+**Russia-Ukraine war news: Russia claims Admiral Viktor Sokolov is alive**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/us/california-man-exonerated-kidnapping-assault-gerardo-cabanillas/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/27/russia-ukraine-war-news/).
 
 ## Requirements
 - Python 3.8
