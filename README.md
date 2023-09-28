@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI probing whether Egyptian intelligence played a role in Menendez case**
+**'Goldy Brar building hideout in California': Dossier on Khalistani terrorists**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/fbi-probing-whether-egyptian-intelligence-played-role-menendez-case-rcna117531).
+You can read more about it [here](https://www.hindustantimes.com/india-news/goldy-brar-building-hideout-in-california-indias-dossier-on-khalistani-terrorists-101695784913766.html).
 
 ## Requirements
 - Python 3.8
