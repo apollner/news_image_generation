@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An annular solar eclipse is coming to parts of the U.S. in October**
+**New Jersey Sen. Cory Booker joins calls for Bob Menendez to resign as pressure escalates**
 
-You can read more about it [here](https://www.npr.org/2023/09/26/1201881081/annular-solar-eclipse-2023).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/pressure-escalates-fellow-new-jersey-sen-cory-booker-joins-calls-bob-m-rcna117366).
 
 ## Requirements
 - Python 3.8
