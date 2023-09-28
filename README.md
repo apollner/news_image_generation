@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US government and 17 states sue Amazon in landmark monopoly case**
+**Writers Guild Strike to End Wednesday: Leadership Votes to Conclude Historic Work Stoppage**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/tech/ftc-sues-amazon-antitrust-monopoly-case/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/writers-guild-strike-end-1235600992/).
 
 ## Requirements
 - Python 3.8
