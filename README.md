@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden dog Commander bites another Secret Service agent**
+**Thousands flee Karabakh to Armenia, death toll rises in fuel depot blast**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66932087).
+You can read more about it [here](https://www.reuters.com/world/russia-us-trade-diplomatic-blame-over-instability-karabakh-crisis-2023-09-26/).
 
 ## Requirements
 - Python 3.8
