@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez to be arraigned as resignation calls grow louder**
+**‘The Tonight Show Starring Jimmy Fallon’ & ‘Late Night With Seth Meyers’ To Return Next Week**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/sen-bob-menendez-arraigned-resignation-calls-grow-louder-rcna117438).
+You can read more about it [here](https://deadline.com/2023/09/the-tonight-show-jimmy-fallon-late-night-seth-meyers-return-date-1235557263/).
 
 ## Requirements
 - Python 3.8
