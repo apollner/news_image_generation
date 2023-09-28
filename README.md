@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA opens OSIRIS-REx's asteroid-sample canister (photos)**
+**Shutdown odds grow as House GOP leaders reject Senate's spending bill**
 
-You can read more about it [here](https://www.space.com/osiris-rex-asteroid-sample-caniser-lid-lifted-photos).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/09/27/government-shutdown-house-rejects-senate-spending-bill/).
 
 ## Requirements
 - Python 3.8
