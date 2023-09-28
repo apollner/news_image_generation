@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Goldy Brar building hideout in California': Dossier on Khalistani terrorists**
+**'Dancing With the Stars' season 32 premiere elimination revealed**
 
-You can read more about it [here](https://www.hindustantimes.com/india-news/goldy-brar-building-hideout-in-california-indias-dossier-on-khalistani-terrorists-101695784913766.html).
+You can read more about it [here](https://ew.com/tv/recaps/dancing-with-the-stars-season-32-premiere-recap/).
 
 ## Requirements
 - Python 3.8
