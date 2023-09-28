@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida man gets bitten by rabies-infested otter while feeding ducks: officials**
+**DNA testing leads to exoneration of California man imprisoned nearly 3 decades on kidnapping and sexual assault convictions**
 
-You can read more about it [here](https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials).
+You can read more about it [here](https://www.cnn.com/2023/09/27/us/california-man-exonerated-kidnapping-assault-gerardo-cabanillas/index.html).
 
 ## Requirements
 - Python 3.8
