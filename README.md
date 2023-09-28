@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia markets fall as investors digest China industrial data and Australian inflation figures**
+**FBI probing whether Egyptian intelligence played a role in Menendez case**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/27/asia-stock-markets-today-live-updates.html).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/fbi-probing-whether-egyptian-intelligence-played-role-menendez-case-rcna117531).
 
 ## Requirements
 - Python 3.8
