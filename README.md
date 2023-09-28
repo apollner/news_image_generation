@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shutdown odds grow as House GOP leaders reject Senate's spending bill**
+**WGA Leaders David Goodman, Chris Keyser and Meredith Stiehm on How the Deal Was Done: ‘We Got Something for Every Sector of the Guild’**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/09/27/government-shutdown-house-rejects-senate-spending-bill/).
+You can read more about it [here](https://variety.com/2023/biz/news/writers-strike-wga-goodman-keyser-stiehm-amptp-contract-1235737384/).
 
 ## Requirements
 - Python 3.8
