@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In latest recall, Hyundai and Kia ask owners of 3.3 million vehicles to park outside due to risk of fire**
+**Ray-Ban Meta smart glasses livestream to Instagram and Facebook**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/business/hyundai-kia-abs-fire-recall/index.html).
+You can read more about it [here](https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/).
 
 ## Requirements
 - Python 3.8
