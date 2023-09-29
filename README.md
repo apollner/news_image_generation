@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Rabid Otter in Florida Went on a Rampage Last Week, Attacking a Man and a Dog**
+**‘Wedding became a graveyard.’ At least 100 killed as fire rips through party in Iraq**
 
-You can read more about it [here](https://gizmodo.com/a-rabid-otter-in-florida-went-on-a-rampage-1850879701).
+You can read more about it [here](https://www.cnn.com/2023/09/26/world/iraq-wedding-fire-intl/index.html).
 
 ## Requirements
 - Python 3.8
