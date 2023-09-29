@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woj on how Damian Lillard ended up with the Milwaukee Bucks | SportsCenter**
+**NFL Week 4 injuries: Packers' Aaron Jones, Christian Watson questionable vs. Lions; rookie QBs back practicing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0FAHMt-xXE0).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-injuries-packers-aaron-jones-christian-watson-questionable-vs-lions-rookie-qbs-back-practicing/).
 
 ## Requirements
 - Python 3.8
