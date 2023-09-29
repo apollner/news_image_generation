@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heinz selling Ketchup and Seemingly Ranch bottles after viral Taylor Swift tweet**
+**Obama’s auto task force head rips Biden for joining UAW picket line**
 
-You can read more about it [here](https://www.cbsnews.com/news/taylor-swift-ketchup-seemingly-ranch-heinz-empire-state-building/).
+You can read more about it [here](https://thehill.com/homenews/4225836-obamas-auto-task-force-head-rips-biden-for-joining-uaw-picket-line/).
 
 ## Requirements
 - Python 3.8
