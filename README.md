@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerful explosion causes fire near airport in Tashkent, Uzbekistan**
+**Jets QB situation: Colin Kaepernick sends letter to Jets requesting to be signed to New York's practice squad**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/powerful-explosion-has-occurred-near-airport-tashkent-uzbekistan-report-2023-09-28/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/jets-qb-situation-colin-kaepernick-sends-letter-to-jets-requesting-to-be-signed-to-new-yorks-practice-squad/).
 
 ## Requirements
 - Python 3.8
