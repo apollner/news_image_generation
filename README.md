@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Survivor’ Season 45 Launches With Bruce’s Surprisingly Controversial Return and a Shocking First Tribal**
+**Proof Patrick Mahomes Was Enchanted to Meet Taylor Swift After Game With Travis Kelce**
 
-You can read more about it [here](https://variety.com/2023/tv/news/survivor-premiere-recap-emily-bruce-hannah-quits-1235736369/).
+You can read more about it [here](https://www.eonline.com/news/1386603/proof-patrick-mahomes-was-enchanted-to-meet-taylor-swift-after-game-with-travis-kelce).
 
 ## Requirements
 - Python 3.8
