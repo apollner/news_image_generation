@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Blazers trading Damian Lillard to Bucks in 3-team deal - ESPN**
+**Heinz selling Ketchup and Seemingly Ranch bottles after viral Taylor Swift tweet**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38505763/sources-blazers-trading-damian-lillard-bucks-3-team-deal).
+You can read more about it [here](https://www.cbsnews.com/news/taylor-swift-ketchup-seemingly-ranch-heinz-empire-state-building/).
 
 ## Requirements
 - Python 3.8
