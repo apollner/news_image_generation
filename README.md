@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut Frank Rubio is home after a year in space**
+**Iraq fire: At least 93 killed in blaze at wedding party in Qaraqosh**
 
-You can read more about it [here](https://arstechnica.com/space/2023/09/nasa-astronaut-frank-rubio-is-home-after-a-year-in-space/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-66932327).
 
 ## Requirements
 - Python 3.8
