@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy's Lampedusa island struggles with migration crisis**
+**Epic Games Sells Bandcamp Amid Layoffs**
 
-You can read more about it [here](https://www.npr.org/2023/09/28/1201785102/lampedusa-italy-migrant-crisis-meloni).
+You can read more about it [here](https://pitchfork.com/news/epic-games-sells-bandcamp-amid-layoffs/).
 
 ## Requirements
 - Python 3.8
