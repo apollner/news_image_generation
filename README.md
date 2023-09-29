@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 4: Three WR/CB matchups to target and avoid | Fantasy Football News, Rankings and Projections**
+**The Morning After: Meta unveils AI personalities, Meta Quest 3 and new smart glasses**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-week-4-three-wr-cb-matchups-target-avoid-2023).
+You can read more about it [here](https://www.engadget.com/the-morning-after-meta-unveils-ai-personalities-meta-quest-3-and-new-smart-glasses-111526119.html).
 
 ## Requirements
 - Python 3.8
