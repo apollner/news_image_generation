@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smithsonian to get some of the asteroid sample that NASA brought back**
+**Americans are sick of vaccination amid flu season, COVID boosters: data**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/28/asteroid-bennu-smithsonian-sample/).
+You can read more about it [here](https://nypost.com/2023/09/28/americans-are-sick-of-vaccination-amid-flu-season-covid-boosters-data/).
 
 ## Requirements
 - Python 3.8
