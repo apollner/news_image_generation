@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Epic Games Sells Bandcamp Amid Layoffs**
+**Smithsonian to get some of the asteroid sample that NASA brought back**
 
-You can read more about it [here](https://pitchfork.com/news/epic-games-sells-bandcamp-amid-layoffs/).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/09/28/asteroid-bennu-smithsonian-sample/).
 
 ## Requirements
 - Python 3.8
