@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaire Ryan Cohen takes over as CEO at GameStop, adding to chairman role**
+**Lina Khan Once Went Big Against Amazon. As FTC Chair, She Changed Tack.**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/billionaire-ryan-cohen-takes-ceo-gamestop-103558714).
+You can read more about it [here](https://www.wsj.com/tech/in-suing-amazon-ftcs-lina-khan-turns-her-earlier-pricing-argument-on-its-head-e45b91e9).
 
 ## Requirements
 - Python 3.8
