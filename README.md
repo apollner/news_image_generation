@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wedding became a graveyard.’ At least 100 killed as fire rips through party in Iraq**
+**Takeaways from the second Republican presidential debate**
 
-You can read more about it [here](https://www.cnn.com/2023/09/26/world/iraq-wedding-fire-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/27/politics/takeaways-republican-debate/index.html).
 
 ## Requirements
 - Python 3.8
