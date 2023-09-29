@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Appeals court will not delay Donald Trump civil fraud trial**
+**Nike GAAP EPS of $0.94 beats by $0.18, revenue of $12.94B misses by $60M**
 
-You can read more about it [here](https://www.reuters.com/legal/appeals-court-will-not-delay-donald-trump-civil-fraud-trial-2023-09-28/).
+You can read more about it [here](https://seekingalpha.com/news/4016497-nike-gaap-eps-of-0_94-beats-0_18-revenue-of-12_94b-misses-60m).
 
 ## Requirements
 - Python 3.8
