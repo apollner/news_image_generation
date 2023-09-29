@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Senate, House hold procedural votes as partial government shutdown looms**
+**Damian Lillard trade: Two NBA win-total picks worth considering after blockbuster deal**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senate-house-hold-procedural-votes-partial-government-shutdown-looms-2023-09-28/).
+You can read more about it [here](https://www.cbssports.com/nba/news/damian-lillard-trade-two-nba-win-total-picks-worth-considering-after-blockbuster-deal/).
 
 ## Requirements
 - Python 3.8
