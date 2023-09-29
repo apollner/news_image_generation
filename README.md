@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 injuries: Packers' Aaron Jones, Christian Watson questionable vs. Lions; rookie QBs back practicing**
+**Energy at Writers Guild Deal Meeting Akin to a “Rock Concert”**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-injuries-packers-aaron-jones-christian-watson-questionable-vs-lions-rookie-qbs-back-practicing/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/writers-guild-deal-meeting-1235603114/).
 
 ## Requirements
 - Python 3.8
