@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 injuries: Packers' Aaron Jones, Christian Watson questionable vs. Lions; rookie QBs back practicing**
+**‘Survivor’ Season 45 Launches With Bruce’s Surprisingly Controversial Return and a Shocking First Tribal**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-injuries-packers-aaron-jones-christian-watson-questionable-vs-lions-rookie-qbs-back-practicing/).
+You can read more about it [here](https://variety.com/2023/tv/news/survivor-premiere-recap-emily-bruce-hannah-quits-1235736369/).
 
 ## Requirements
 - Python 3.8
