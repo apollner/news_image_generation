@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Morning After: Meta unveils AI personalities, Meta Quest 3 and new smart glasses**
+**Taiwan Unveils Homemade Submarine as It Seeks to Counter China Threat**
 
-You can read more about it [here](https://www.engadget.com/the-morning-after-meta-unveils-ai-personalities-meta-quest-3-and-new-smart-glasses-111526119.html).
+You can read more about it [here](https://www.wsj.com/world/china/taiwan-unveils-homemade-submarine-as-it-seeks-to-counter-china-threat-ad4c41e8).
 
 ## Requirements
 - Python 3.8
