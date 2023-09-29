@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How rumors and conspiracy theories got in the way of Maui's fire recovery**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2023/09/28/1202110410/how-rumors-and-conspiracy-theories-got-in-the-way-of-mauis-fire-recovery).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
