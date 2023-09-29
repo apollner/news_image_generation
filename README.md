@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the second Republican presidential debate**
+**Cubs Broadcasters Complain About Braves Stopping Game to Honor Ronald Acuña Jr.**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://www.si.com/mlb/2023/09/28/cubs-broadcasters-complain-stopping-game-honor-ronald-acuña-jr).
 
 ## Requirements
 - Python 3.8
