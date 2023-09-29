@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets QB situation: Colin Kaepernick sends letter to Jets requesting to be signed to New York's practice squad**
+**The numbers for Wednesday night’s $850 million Powerball jackpot have been drawn**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/jets-qb-situation-colin-kaepernick-sends-letter-to-jets-requesting-to-be-signed-to-new-yorks-practice-squad/).
+You can read more about it [here](https://www.cnn.com/2023/09/27/us/powerball-lottery-jackpot-millions-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
