@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot winning numbers for Sept. 27 drawing**
+**Woj on how Damian Lillard ended up with the Milwaukee Bucks | SportsCenter**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/09/27/powerball-winning-numbers/70987787007/).
+You can read more about it [here](https://www.youtube.com/watch?v=0FAHMt-xXE0).
 
 ## Requirements
 - Python 3.8
