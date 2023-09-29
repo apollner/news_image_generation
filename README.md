@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lina Khan Once Went Big Against Amazon. As FTC Chair, She Changed Tack.**
+**Italy's Lampedusa island struggles with migration crisis**
 
-You can read more about it [here](https://www.wsj.com/tech/in-suing-amazon-ftcs-lina-khan-turns-her-earlier-pricing-argument-on-its-head-e45b91e9).
+You can read more about it [here](https://www.npr.org/2023/09/28/1201785102/lampedusa-italy-migrant-crisis-meloni).
 
 ## Requirements
 - Python 3.8
