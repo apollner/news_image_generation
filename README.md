@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan Unveils Homemade Submarine as It Seeks to Counter China Threat**
+**US Senate, House hold procedural votes as partial government shutdown looms**
 
-You can read more about it [here](https://www.wsj.com/world/china/taiwan-unveils-homemade-submarine-as-it-seeks-to-counter-china-threat-ad4c41e8).
+You can read more about it [here](https://www.reuters.com/world/us/us-senate-house-hold-procedural-votes-partial-government-shutdown-looms-2023-09-28/).
 
 ## Requirements
 - Python 3.8
