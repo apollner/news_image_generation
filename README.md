@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 injuries: Packers' Aaron Jones, Christian Watson questionable vs. Lions; rookie QBs back practicing**
+**Taiwan Unveils First Domestic Submarine to Fend Off China**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-injuries-packers-aaron-jones-christian-watson-questionable-vs-lions-rookie-qbs-back-practicing/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-28/taiwan-unveils-first-domestic-submarine-to-fend-off-china).
 
 ## Requirements
 - Python 3.8
