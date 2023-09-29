@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Damian Lillard trade: Two NBA win-total picks worth considering after blockbuster deal**
+**Billionaire Ryan Cohen takes over as CEO at GameStop, adding to chairman role**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/damian-lillard-trade-two-nba-win-total-picks-worth-considering-after-blockbuster-deal/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/billionaire-ryan-cohen-takes-ceo-gamestop-103558714).
 
 ## Requirements
 - Python 3.8
