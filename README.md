@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Government shutdown would affect Colorado military families**
+**Powerful explosion causes fire near airport in Tashkent, Uzbekistan**
 
-You can read more about it [here](https://www.youtube.com/watch?v=1ACKQwt1yN4).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/powerful-explosion-has-occurred-near-airport-tashkent-uzbekistan-report-2023-09-28/).
 
 ## Requirements
 - Python 3.8
