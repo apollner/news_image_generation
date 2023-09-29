@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The numbers for Wednesday night’s $850 million Powerball jackpot have been drawn**
+**Woj on how Damian Lillard ended up with the Milwaukee Bucks | SportsCenter**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/us/powerball-lottery-jackpot-millions-wednesday/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=0FAHMt-xXE0).
 
 ## Requirements
 - Python 3.8
