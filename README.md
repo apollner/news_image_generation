@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iraq fire: At least 93 killed in blaze at wedding party in Qaraqosh**
+**Sources - Blazers trading Damian Lillard to Bucks in 3-team deal - ESPN**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-66932327).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38505763/sources-blazers-trading-damian-lillard-bucks-3-team-deal).
 
 ## Requirements
 - Python 3.8
