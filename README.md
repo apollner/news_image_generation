@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Americans are sick of vaccination amid flu season, COVID boosters: data**
+**Epic Games is laying off about 830 employees, divesting Bandcamp**
 
-You can read more about it [here](https://nypost.com/2023/09/28/americans-are-sick-of-vaccination-amid-flu-season-covid-boosters-data/).
+You can read more about it [here](https://www.reuters.com/technology/epic-games-is-laying-off-roughly-900-employees-bloomberg-news-2023-09-28/).
 
 ## Requirements
 - Python 3.8
