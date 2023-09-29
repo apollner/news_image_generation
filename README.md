@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joseph Lawson, 2nd man charged in Crystal Rogers' death, has history of violence against women**
+**Here’s what Joe Jonas heard Sophie Turner say on Ring camera: report**
 
-You can read more about it [here](https://www.wdrb.com/wdrb-investigates/joseph-lawson-2nd-man-charged-in-crystal-rogers-death-has-history-of-violence-against-women/article_79d1c7b6-5d75-11ee-9943-a7c15e2eaf55.html).
+You can read more about it [here](https://pagesix.com/2023/09/27/heres-what-joe-jonas-reportedly-heard-sophie-turner-say-on-ring-camera/).
 
 ## Requirements
 - Python 3.8
