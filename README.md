@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s what Joe Jonas heard Sophie Turner say on Ring camera: report**
+**Jrue Holiday to Warriors? Windhorst speculates next trade partner**
 
-You can read more about it [here](https://pagesix.com/2023/09/27/heres-what-joe-jonas-reportedly-heard-sophie-turner-say-on-ring-camera/).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/jrue-holiday-trail-blazers-trade/1658233/).
 
 ## Requirements
 - Python 3.8
