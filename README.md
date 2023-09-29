@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cubs Broadcasters Complain About Braves Stopping Game to Honor Ronald Acuña Jr.**
+**Fantasy Football Week 4: Three WR/CB matchups to target and avoid | Fantasy Football News, Rankings and Projections**
 
-You can read more about it [here](https://www.si.com/mlb/2023/09/28/cubs-broadcasters-complain-stopping-game-honor-ronald-acuña-jr).
+You can read more about it [here](https://www.pff.com/news/fantasy-football-week-4-three-wr-cb-matchups-target-avoid-2023).
 
 ## Requirements
 - Python 3.8
