@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Energy at Writers Guild Deal Meeting Akin to a “Rock Concert”**
+**How rumors and conspiracy theories got in the way of Maui's fire recovery**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/writers-guild-deal-meeting-1235603114/).
+You can read more about it [here](https://www.npr.org/2023/09/28/1202110410/how-rumors-and-conspiracy-theories-got-in-the-way-of-mauis-fire-recovery).
 
 ## Requirements
 - Python 3.8
