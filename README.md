@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the second Republican presidential debate**
+**Government shutdown would affect Colorado military families**
 
-You can read more about it [here](https://www.cnn.com/2023/09/27/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=1ACKQwt1yN4).
 
 ## Requirements
 - Python 3.8
