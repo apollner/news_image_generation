@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Slovakia's Robert Fico eyes comeback in Saturday's election**
+**Damian Lillard posts long goodbye to Portland as he eyes championship with Giannis Antetokounmpo, Bucks**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66938694).
+You can read more about it [here](https://sports.yahoo.com/damian-lillard-posts-long-goodbye-to-portland-as-he-eyes-championship-with-giannis-antetokounmpo-bucks-012308487.html).
 
 ## Requirements
 - Python 3.8
