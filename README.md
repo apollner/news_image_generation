@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike GAAP EPS of $0.94 beats by $0.18, revenue of $12.94B misses by $60M**
+**Country Icon Recipient Toby Keith Shares Update on Cancer Battle**
 
-You can read more about it [here](https://seekingalpha.com/news/4016497-nike-gaap-eps-of-0_94-beats-0_18-revenue-of-12_94b-misses-60m).
+You can read more about it [here](https://www.eonline.com/news/1386704/peoples-choice-country-awards-icon-recipient-toby-keith-shares-update-on-stomach-cancer-battle).
 
 ## Requirements
 - Python 3.8
