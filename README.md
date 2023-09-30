@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COCOON - Launch Trailer – Nintendo Switch**
+**New details emerge about the slaying of beloved Baltimore tech CEO and the suspect in her killing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JDp0Be_UVXE).
+You can read more about it [here](https://www.cnn.com/2023/09/29/us/baltimore-tech-ceo-killing-pava-lapere-friday/index.html).
 
 ## Requirements
 - Python 3.8
