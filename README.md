@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Damian Lillard posts long goodbye to Portland as he eyes championship with Giannis Antetokounmpo, Bucks**
+**Epic Games, Fortnite developers, laying off about 16% of workforce which is 830 workers**
 
-You can read more about it [here](https://sports.yahoo.com/damian-lillard-posts-long-goodbye-to-portland-as-he-eyes-championship-with-giannis-antetokounmpo-bucks-012308487.html).
+You can read more about it [here](https://abc11.com/epic-games-layoffs-fortnite-video-gaming/13838820/).
 
 ## Requirements
 - Python 3.8
