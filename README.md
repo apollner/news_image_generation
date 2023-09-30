@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second GOP debate ratings: Viewership drops by more than 25 percent**
+**Ukraine war: Slovakia's Robert Fico eyes comeback in Saturday's election**
 
-You can read more about it [here](https://www.politico.com/news/2023/09/28/viewership-second-republican-presidential-primary-debate-00118960).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66938694).
 
 ## Requirements
 - Python 3.8
