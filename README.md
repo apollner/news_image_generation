@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Jerami Grant Could Join Jrue Holiday on Trading Block**
+**Sen. Menendez faces fellow senators in Washington, D.C.**
 
-You can read more about it [here](https://www.blazersedge.com/2023/9/28/23894634/portland-trail-blazers-trade-rumors-jerami-grant-hoopshype-scotto-jrue-holiday-nba).
+You can read more about it [here](https://www.youtube.com/watch?v=VxWwjQMo5ao).
 
 ## Requirements
 - Python 3.8
