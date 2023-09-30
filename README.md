@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW set to expand strike on Detroit 3 US automakers - UAW**
+**College Football Week 5 preview - Georgia, Auburn, Michigan, Nebraska, Notre Dame, Duke, Utah, bets more - ESPN**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/strikes-could-idle-more-detroit-three-auto-plants-friday-2023-09-29/).
+You can read more about it [here](https://www.espn.com/college-football/insider/story/_/id/38513150/college-football-week-5-preview-georgia-auburn-michigan-nebraska-bets-more).
 
 ## Requirements
 - Python 3.8
