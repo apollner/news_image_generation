@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New details emerge about the slaying of beloved Baltimore tech CEO and the suspect in her killing**
+**Dianne Feinstein, senator from California, dies at age 90**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/us/baltimore-tech-ceo-killing-pava-lapere-friday/index.html).
+You can read more about it [here](https://apnews.com/article/dianne-feinstein-dead-c831f3228ac44faa9653234570bb8ce9).
 
 ## Requirements
 - Python 3.8
