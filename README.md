@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: Republicans make false, misleading claims at first Biden impeachment inquiry hearing**
+**A program that saved child care for millions is expiring. What now?**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/politics/fact-check-house-impeachment-hearing-biden/index.html).
+You can read more about it [here](https://www.vox.com/policy/23892133/child-care-daycare-pandemic-emergency-providers).
 
 ## Requirements
 - Python 3.8
