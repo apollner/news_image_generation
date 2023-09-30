@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dianne Feinstein, senator from California, dies at age 90**
+**National Coffee Day 2023: Dunkin', Krispy Kreme and more coffee spots have deals, promotions**
 
-You can read more about it [here](https://apnews.com/article/dianne-feinstein-dead-c831f3228ac44faa9653234570bb8ce9).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/09/28/national-coffee-day-2023-deals-dunkin-starbucks/70970235007/).
 
 ## Requirements
 - Python 3.8
