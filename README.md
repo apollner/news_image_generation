@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Automakers grow frustrated over pace of UAW negotiations as new deadline looms**
+**Report: Jerami Grant Could Join Jrue Holiday on Trading Block**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/28/uaw-negotiations-automakers-grow-frustrated-as-new-deadline-looms.html).
+You can read more about it [here](https://www.blazersedge.com/2023/9/28/23894634/portland-trail-blazers-trade-rumors-jerami-grant-hoopshype-scotto-jrue-holiday-nba).
 
 ## Requirements
 - Python 3.8
