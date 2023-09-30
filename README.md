@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Versace Partners With the Albie Awards to Champion Justice**
+**New York subways disrupted as more heavy rain triggers flooding**
 
-You can read more about it [here](https://www.harpersbazaar.com/fashion/designers/a45370373/versace-clooneys-albie-awards-celebrity-guests-design-sketches/).
+You can read more about it [here](https://www.reuters.com/world/us/new-york-subways-disrupted-more-heavy-rain-triggers-flooding-2023-09-29/).
 
 ## Requirements
 - Python 3.8
