@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chewy Founder Ryan Cohen Is Now Officially GameStop's CEO**
+**Second GOP debate ratings: Viewership drops by more than 25 percent**
 
-You can read more about it [here](https://www.ign.com/articles/chewy-founder-ryan-cohen-is-now-officially-gamestops-ceo).
+You can read more about it [here](https://www.politico.com/news/2023/09/28/viewership-second-republican-presidential-primary-debate-00118960).
 
 ## Requirements
 - Python 3.8
