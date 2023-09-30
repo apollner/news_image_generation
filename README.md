@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW announces new strikes at GM and Ford plants, spares Stellantis citing 'momentum' in talks**
+**September’s full harvest moon is the last supermoon of the year**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/29/uaw-announces-new-strikes-at-gm-and-ford-plants-sparing-stellantis.html).
+You can read more about it [here](https://www.cnn.com/2023/09/28/world/harvest-supermoon-full-moon-september-scn/index.html).
 
 ## Requirements
 - Python 3.8
