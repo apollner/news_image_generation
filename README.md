@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. readout excludes India-Canada rift as Blinken meets India's top diplomat**
+**Automakers grow frustrated over pace of UAW negotiations as new deadline looms**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/29/us-readout-excludes-canada-as-blinken-meets-indias-top-diplomat.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/28/uaw-negotiations-automakers-grow-frustrated-as-new-deadline-looms.html).
 
 ## Requirements
 - Python 3.8
