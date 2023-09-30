@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump tells judge he will not try to move his Georgia election subversion case to federal court**
+**A populist leader, sympathetic to Putin's Russia, could be about to win elections in Slovakia**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/politics/trump-georgia-election-subversion-federal-court/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/29/robert-fico-slovakias-election-could-further-fracture-ukraine-support-.html).
 
 ## Requirements
 - Python 3.8
