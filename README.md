@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A populist leader, sympathetic to Putin's Russia, could be about to win elections in Slovakia**
+**“I regret it.” Social media influencer Meatball talks to NBC10 about livestreaming looting and arrest**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/29/robert-fico-slovakias-election-could-further-fracture-ukraine-support-.html).
+You can read more about it [here](https://www.nbcphiladelphia.com/news/local/social-media-influencer-talks-livestreaming-looting-arrest/3656311/).
 
 ## Requirements
 - Python 3.8
