@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Euro zone inflation fell to 4.3% in September, lowest level since October 2021**
+**Apple iOS Update to Fix iPhone 12 Radiation Levels Approved by French Regulators**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/29/euro-zone-inflation-fell-to-4point3percent-in-september-lowest-level-since-october-2021.html).
+You can read more about it [here](https://www.macrumors.com/2023/09/29/apple-software-update-approved-iphone-12-france/).
 
 ## Requirements
 - Python 3.8
