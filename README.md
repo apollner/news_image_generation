@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Week 5 preview - Georgia, Auburn, Michigan, Nebraska, Notre Dame, Duke, Utah, bets more - ESPN**
+**Government shutdown fear grows as House prepares to vote on partisan spending plan**
 
-You can read more about it [here](https://www.espn.com/college-football/insider/story/_/id/38513150/college-football-week-5-preview-georgia-auburn-michigan-nebraska-bets-more).
+You can read more about it [here](https://www.cnbc.com/2023/09/29/government-shutdown-fear-grows-as-mccarthy-lays-out-partisan-vote-plan.html).
 
 ## Requirements
 - Python 3.8
