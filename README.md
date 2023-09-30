@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. readout excludes India-Canada rift as Blinken meets India's top diplomat**
+**Husband of owner of drug-filled Bronx day care where 1-year-old died appears in federal court**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/29/us-readout-excludes-canada-as-blinken-meets-indias-top-diplomat.html).
+You can read more about it [here](https://www.cnn.com/2023/09/28/us/bronx-day-care-fentanyl-federal-court/index.html).
 
 ## Requirements
 - Python 3.8
