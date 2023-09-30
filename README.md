@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft executive says Google deals kept Bing small**
+**Automakers grow frustrated over pace of UAW negotiations as new deadline looms**
 
-You can read more about it [here](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/).
+You can read more about it [here](https://www.cnbc.com/2023/09/28/uaw-negotiations-automakers-grow-frustrated-as-new-deadline-looms.html).
 
 ## Requirements
 - Python 3.8
