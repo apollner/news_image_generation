@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“I regret it.” Social media influencer Meatball talks to NBC10 about livestreaming looting and arrest**
+**Euro zone inflation fell to 4.3% in September, lowest level since October 2021**
 
-You can read more about it [here](https://www.nbcphiladelphia.com/news/local/social-media-influencer-talks-livestreaming-looting-arrest/3656311/).
+You can read more about it [here](https://www.cnbc.com/2023/09/29/euro-zone-inflation-fell-to-4point3percent-in-september-lowest-level-since-october-2021.html).
 
 ## Requirements
 - Python 3.8
