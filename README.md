@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Radcliffe and other 'Harry Potter' stars remember 'magnificent' Michael Gambon**
+**U.S. readout excludes India-Canada rift as Blinken meets India's top diplomat**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/entertainment/daniel-radcliffe-michael-gambon-tribute/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/29/us-readout-excludes-canada-as-blinken-meets-indias-top-diplomat.html).
 
 ## Requirements
 - Python 3.8
