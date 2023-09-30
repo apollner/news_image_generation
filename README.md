@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Epic Games, Fortnite developers, laying off about 16% of workforce which is 830 workers**
+**'Golden Bachelor' recap: Who got Gerry Turner's roses night one?**
 
-You can read more about it [here](https://abc11.com/epic-games-layoffs-fortnite-video-gaming/13838820/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2023/09/28/the-golden-bachelor-premiere-recap/70986727007/).
 
 ## Requirements
 - Python 3.8
