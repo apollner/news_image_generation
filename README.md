@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York subways disrupted as more heavy rain triggers flooding**
+**COCOON - Launch Trailer – Nintendo Switch**
 
-You can read more about it [here](https://www.reuters.com/world/us/new-york-subways-disrupted-more-heavy-rain-triggers-flooding-2023-09-29/).
+You can read more about it [here](https://www.youtube.com/watch?v=JDp0Be_UVXE).
 
 ## Requirements
 - Python 3.8
