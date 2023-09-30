@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Automakers grow frustrated over pace of UAW negotiations as new deadline looms**
+**Daniel Radcliffe and other 'Harry Potter' stars remember 'magnificent' Michael Gambon**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/28/uaw-negotiations-automakers-grow-frustrated-as-new-deadline-looms.html).
+You can read more about it [here](https://www.cnn.com/2023/09/28/entertainment/daniel-radcliffe-michael-gambon-tribute/index.html).
 
 ## Requirements
 - Python 3.8
