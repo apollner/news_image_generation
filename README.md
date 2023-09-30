@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Menendez faces fellow senators in Washington, D.C.**
+**U.S. readout excludes India-Canada rift as Blinken meets India's top diplomat**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VxWwjQMo5ao).
+You can read more about it [here](https://www.cnbc.com/2023/09/29/us-readout-excludes-canada-as-blinken-meets-indias-top-diplomat.html).
 
 ## Requirements
 - Python 3.8
