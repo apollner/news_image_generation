@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country Icon Recipient Toby Keith Shares Update on Cancer Battle**
+**Fetterman backs a vote to expel Menendez from Senate**
 
-You can read more about it [here](https://www.eonline.com/news/1386704/peoples-choice-country-awards-icon-recipient-toby-keith-shares-update-on-stomach-cancer-battle).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/fetterman-backs-vote-expel-menendez-senate-rcna117920).
 
 ## Requirements
 - Python 3.8
