@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A program that saved child care for millions is expiring. What now?**
+**UAW set to expand strike on Detroit 3 US automakers - UAW**
 
-You can read more about it [here](https://www.vox.com/policy/23892133/child-care-daycare-pandemic-emergency-providers).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/strikes-could-idle-more-detroit-three-auto-plants-friday-2023-09-29/).
 
 ## Requirements
 - Python 3.8
