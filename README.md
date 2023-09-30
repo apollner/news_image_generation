@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Golden Bachelor' recap: Who got Gerry Turner's roses night one?**
+**Fact check: Republicans make false, misleading claims at first Biden impeachment inquiry hearing**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2023/09/28/the-golden-bachelor-premiere-recap/70986727007/).
+You can read more about it [here](https://www.cnn.com/2023/09/28/politics/fact-check-house-impeachment-hearing-biden/index.html).
 
 ## Requirements
 - Python 3.8
