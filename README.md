@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Government shutdown fear grows as House prepares to vote on partisan spending plan**
+**UAW announces new strikes at GM and Ford plants, spares Stellantis citing 'momentum' in talks**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/29/government-shutdown-fear-grows-as-mccarthy-lays-out-partisan-vote-plan.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/29/uaw-announces-new-strikes-at-gm-and-ford-plants-sparing-stellantis.html).
 
 ## Requirements
 - Python 3.8
