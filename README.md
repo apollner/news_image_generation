@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iOS Update to Fix iPhone 12 Radiation Levels Approved by French Regulators**
+**New York City's Hotspots Sinking Faster Than Others, Reveals New NASA Report**
 
-You can read more about it [here](https://www.macrumors.com/2023/09/29/apple-software-update-approved-iphone-12-france/).
+You can read more about it [here](https://www.ndtv.com/world-news/new-york-citys-hotspots-sinking-faster-than-others-reveals-new-nasa-report-4434131).
 
 ## Requirements
 - Python 3.8
