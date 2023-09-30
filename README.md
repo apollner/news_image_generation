@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citigroup (C) Stock Slump Prompts CEO Jane Fraser to Plot Downsizing**
+**Versace Partners With the Albie Awards to Champion Justice**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-29/citigroup-c-stock-slump-prompts-ceo-jane-fraser-to-plot-downsizing).
+You can read more about it [here](https://www.harpersbazaar.com/fashion/designers/a45370373/versace-clooneys-albie-awards-celebrity-guests-design-sketches/).
 
 ## Requirements
 - Python 3.8
