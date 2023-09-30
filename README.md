@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fetterman backs a vote to expel Menendez from Senate**
+**Microsoft executive says Google deals kept Bing small**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/fetterman-backs-vote-expel-menendez-senate-rcna117920).
+You can read more about it [here](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/).
 
 ## Requirements
 - Python 3.8
