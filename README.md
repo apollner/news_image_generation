@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: Republicans make false, misleading claims at first Biden impeachment inquiry hearing**
+**Donald Trump tells judge he will not try to move his Georgia election subversion case to federal court**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/politics/fact-check-house-impeachment-hearing-biden/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/28/politics/trump-georgia-election-subversion-federal-court/index.html).
 
 ## Requirements
 - Python 3.8
