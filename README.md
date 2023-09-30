@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Menendez faces fellow senators in Washington, D.C.**
+**NFL Week 4 Thursday Night Football live tracker: Lions and Packers square off in early NFC North grudge match**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VxWwjQMo5ao).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-4-thursday-night-football-live-tracker-lions-and-packers-square-off-in-early-nfc-north-grudge-match-225048032.html).
 
 ## Requirements
 - Python 3.8
