@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**September’s full harvest moon is the last supermoon of the year**
+**Citigroup (C) Stock Slump Prompts CEO Jane Fraser to Plot Downsizing**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/world/harvest-supermoon-full-moon-september-scn/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-09-29/citigroup-c-stock-slump-prompts-ceo-jane-fraser-to-plot-downsizing).
 
 ## Requirements
 - Python 3.8
