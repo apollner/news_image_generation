@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Owner of Bronx day care where baby died pulled her child out over fentanyl concerns: Sources**
+**Fact check: Republicans make false, misleading claims at first Biden impeachment inquiry hearing**
 
-You can read more about it [here](https://abcnews.go.com/US/husband-bronx-day-care-owner-returns-us-wife/story?id=103573555).
+You can read more about it [here](https://www.cnn.com/2023/09/28/politics/fact-check-house-impeachment-hearing-biden/index.html).
 
 ## Requirements
 - Python 3.8
