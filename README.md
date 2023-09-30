@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Husband of owner of drug-filled Bronx day care where 1-year-old died appears in federal court**
+**Chewy Founder Ryan Cohen Is Now Officially GameStop's CEO**
 
-You can read more about it [here](https://www.cnn.com/2023/09/28/us/bronx-day-care-fentanyl-federal-court/index.html).
+You can read more about it [here](https://www.ign.com/articles/chewy-founder-ryan-cohen-is-now-officially-gamestops-ceo).
 
 ## Requirements
 - Python 3.8
