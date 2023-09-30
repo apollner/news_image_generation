@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York City's Hotspots Sinking Faster Than Others, Reveals New NASA Report**
+**Owner of Bronx day care where baby died pulled her child out over fentanyl concerns: Sources**
 
-You can read more about it [here](https://www.ndtv.com/world-news/new-york-citys-hotspots-sinking-faster-than-others-reveals-new-nasa-report-4434131).
+You can read more about it [here](https://abcnews.go.com/US/husband-bronx-day-care-owner-returns-us-wife/story?id=103573555).
 
 ## Requirements
 - Python 3.8
