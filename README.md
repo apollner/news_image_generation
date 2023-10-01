@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One family of flu viruses hasn’t been seen since 2020. WHO says it can be left out of future flu vaccines**
+**Trump says he may attend his civil fraud trial in New York after asking to reschedule a conflicting deposition**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/health/who-flu-vaccine-recommendation-2024/index.html).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/trump-new-york-civil-fraud-trial/index.html).
 
 ## Requirements
 - Python 3.8
