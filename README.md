@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Ryder Cup, Day 2: Live scores, tee times, TV times, schedule of events - PGA TOUR**
+**Brooks Koepka takes shot at Jon Rahm: 'Act like a child'**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2023/09/29/how-to-watch-2023-ryder-cup-day-2-live-scores-stream-tv-times-tee-times-marco-simone-italy-usa-europe).
+You can read more about it [here](https://www.nbcsports.com/golf/news/brooks-koepka-takes-shot-at-jon-rahm-act-like-a-child).
 
 ## Requirements
 - Python 3.8
