@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he may attend his civil fraud trial in New York after asking to reschedule a conflicting deposition**
+**Slovakia election: Anti-Ukraine populist Fico faces ex-journalist Simecka**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/politics/trump-new-york-civil-fraud-trial/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/09/30/slovakia-election-results-fico-simecka/).
 
 ## Requirements
 - Python 3.8
