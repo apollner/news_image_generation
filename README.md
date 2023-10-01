@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO says flu vaccines should ditch strain that vanished during COVID**
+**Trump says he may attend his civil fraud trial in New York after asking to reschedule a conflicting deposition**
 
-You can read more about it [here](https://arstechnica.com/health/2023/09/who-says-flu-vaccines-should-ditch-strain-that-vanished-during-covid/).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/trump-new-york-civil-fraud-trial/index.html).
 
 ## Requirements
 - Python 3.8
