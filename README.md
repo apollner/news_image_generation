@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Coffee Day 2023: Dunkin', Krispy Kreme and more coffee spots have deals, promotions**
+**Trump-era DOJ official and fake electors can’t move Georgia election charges to federal court, judge rules**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/09/28/national-coffee-day-2023-deals-dunkin-starbucks/70970235007/).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/jeffrey-clark-fulton-county-removal/index.html).
 
 ## Requirements
 - Python 3.8
