@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Government shutdown would have significant impact on Triangle**
+**Big-spending Padres eliminated from playoff contention - ESPN**
 
-You can read more about it [here](https://www.wral.com/story/government-shutdown-would-have-significant-impact-on-triangle/21074256/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38524512/big-spending-padres-eliminated-playoff-contention).
 
 ## Requirements
 - Python 3.8
