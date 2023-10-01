@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brilliant Harvest Moon, the last supermoon of 2023, wows stargazers around the world (photos)**
+**Illinois semitruck crash causes "multiple fatalities," ammonia leak evacuation for residents**
 
-You can read more about it [here](https://www.space.com/harvest-moon-2023-last-supermoon-wows-skywatchers-photos).
+You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
 
 ## Requirements
 - Python 3.8
