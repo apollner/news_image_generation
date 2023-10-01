@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One family of flu viruses hasn’t been seen since 2020. WHO says it can be left out of future flu vaccines**
+**WHO says flu vaccines should ditch strain that vanished during COVID**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/health/who-flu-vaccine-recommendation-2024/index.html).
+You can read more about it [here](https://arstechnica.com/health/2023/09/who-says-flu-vaccines-should-ditch-strain-that-vanished-during-covid/).
 
 ## Requirements
 - Python 3.8
