@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Housing Market Is Starting to Flash Some Hope for Homebuyers**
+**Leaked Pixel 8 Pro unboxing images spill every last secret about its design**
 
-You can read more about it [here](https://markets.businessinsider.com/news/stocks/us-housing-market-homebuyers-home-prices-inventory-sellers-asking-rates-2023-9).
+You can read more about it [here](https://www.phonearena.com/news/Leaked-Pixel-8-Pro-unboxing-images-spill-every-last-secret-about-its-design_id151117).
 
 ## Requirements
 - Python 3.8
