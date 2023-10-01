@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s next stop: An asteroid named for the Egyptian god of chaos**
+**Apple will issue a software update to address iPhone 15 overheating complaints**
 
-You can read more about it [here](https://www.cnn.com/2023/09/30/world/apophis-explorer-science-newsletter-wt-scn/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/09/30/apple-will-issue-a-software-update-to-address-iphone-15-overheating-complaints.html).
 
 ## Requirements
 - Python 3.8
