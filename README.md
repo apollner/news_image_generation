@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: House passes funding measure as government shutdown looms**
+**Leaked Pixel 8 Pro unboxing images spill every last secret about its design**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/government-shutdown-deadline-09-30-23/index.html).
+You can read more about it [here](https://www.phonearena.com/news/Leaked-Pixel-8-Pro-unboxing-images-spill-every-last-secret-about-its-design_id151117).
 
 ## Requirements
 - Python 3.8
