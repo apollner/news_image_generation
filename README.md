@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Natalie Portman Sex Soap Opera ‘May December’ Opens New York Film Festival as Epic Rainstorm Drenches the City**
+**Packers Put Out Statement After Lions Fans Swarm Lambeau Field in Droves**
 
-You can read more about it [here](https://variety.com/2023/film/news/may-december-nyff-opening-night-flood-1235740658/).
+You can read more about it [here](https://www.si.com/nfl/2023/09/30/packers-statement-lions-fans-swarm-lambeau-field).
 
 ## Requirements
 - Python 3.8
