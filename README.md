@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House fails to pass short-term funding bill as shutdown looms**
+**Why Calais Campbell is just what the Falcons needed - ESPN**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/09/29/government-shutdown-updates/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38513527/why-calais-campbell-just-falcons-needed).
 
 ## Requirements
 - Python 3.8
