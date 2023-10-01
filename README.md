@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big-spending Padres eliminated from playoff contention - ESPN**
+**One family of flu viruses hasn’t been seen since 2020. WHO says it can be left out of future flu vaccines**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38524512/big-spending-padres-eliminated-playoff-contention).
+You can read more about it [here](https://www.cnn.com/2023/09/29/health/who-flu-vaccine-recommendation-2024/index.html).
 
 ## Requirements
 - Python 3.8
