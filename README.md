@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Calais Campbell is just what the Falcons needed - ESPN**
+**Nagorno-Karabakh: Armenia says 100,000 refugees flee region**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38513527/why-calais-campbell-just-falcons-needed).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66969845).
 
 ## Requirements
 - Python 3.8
