@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers Put Out Statement After Lions Fans Swarm Lambeau Field in Droves**
+**Donald Trump expects to attend start of New York civil trial Monday**
 
-You can read more about it [here](https://www.si.com/nfl/2023/09/30/packers-statement-lions-fans-swarm-lambeau-field).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-attending-new-york-civil-fraud-trial/).
 
 ## Requirements
 - Python 3.8
