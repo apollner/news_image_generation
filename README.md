@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump expects to attend start of New York civil trial Monday**
+**Stewie is back, Aces advance: Biggest takeaways from the WNBA semifinals - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/news/donald-trump-attending-new-york-civil-fraud-trial/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/38523065/wnba-playoffs-2023-new-york-liberty-las-vegas-aces-win).
 
 ## Requirements
 - Python 3.8
