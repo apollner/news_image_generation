@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wolves v. Manchester City | PREMIER LEAGUE HIGHLIGHTS | 9/30/2023 | NBC Sports**
+**Brilliant Harvest Moon, the last supermoon of 2023, wows stargazers around the world (photos)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=NXs3UT92fKw).
+You can read more about it [here](https://www.space.com/harvest-moon-2023-last-supermoon-wows-skywatchers-photos).
 
 ## Requirements
 - Python 3.8
