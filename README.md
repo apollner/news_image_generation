@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brilliant Harvest Moon, the last supermoon of 2023, wows stargazers around the world (photos)**
+**Nagorno-Karabakh: Armenia says 100000 refugees flee region**
 
-You can read more about it [here](https://www.space.com/harvest-moon-2023-last-supermoon-wows-skywatchers-photos).
+You can read more about it [here](https://www.bbc.com/news/world-europe-66969845).
 
 ## Requirements
 - Python 3.8
