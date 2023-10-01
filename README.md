@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slovakia election: Anti-Ukraine populist Fico faces ex-journalist Simecka**
+**Natalie Portman Sex Soap Opera ‘May December’ Opens New York Film Festival as Epic Rainstorm Drenches the City**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/09/30/slovakia-election-results-fico-simecka/).
+You can read more about it [here](https://variety.com/2023/film/news/may-december-nyff-opening-night-flood-1235740658/).
 
 ## Requirements
 - Python 3.8
