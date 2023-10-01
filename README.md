@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott Hall, Trump ally indicted in Georgia election case, pleads guilty**
+**How to watch Ryder Cup, Day 2: Live scores, tee times, TV times, schedule of events - PGA TOUR**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/9/29/scott-hall-trump-ally-indicted-in-georgia-election-case-pleads-guilty).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2023/09/29/how-to-watch-2023-ryder-cup-day-2-live-scores-stream-tv-times-tee-times-marco-simone-italy-usa-europe).
 
 ## Requirements
 - Python 3.8
