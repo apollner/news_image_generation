@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro Max loses to Samsung Galaxy S23 Ultra in drop test**
+**Scott Hall, Trump ally indicted in Georgia election case, pleads guilty**
 
-You can read more about it [here](https://9to5mac.com/2023/09/29/iphone-15-pro-max-loses-samsung-galaxy-s23-drop-test/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/9/29/scott-hall-trump-ally-indicted-in-georgia-election-case-pleads-guilty).
 
 ## Requirements
 - Python 3.8
