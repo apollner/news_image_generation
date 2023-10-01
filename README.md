@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump-era DOJ official and fake electors can’t move Georgia election charges to federal court, judge rules**
+**TV Ratings: ‘Golden Bachelor’ Earns a Rose From Viewers**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/politics/jeffrey-clark-fulton-county-removal/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-thursday-sept-28-2023-1235604518/).
 
 ## Requirements
 - Python 3.8
