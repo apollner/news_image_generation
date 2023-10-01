@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jacky Oh, ‘Wild 'N Out’ star and partner of DC Young Fly, cause of death revealed**
+**Biden admin 'deliberately' trying to make looming government shutdown 'as painful as possible': GOP senator**
 
-You can read more about it [here](https://nypost.com/2023/09/29/wild-n-out-star-jacky-ohs-cause-of-death-revealed/).
+You can read more about it [here](https://www.foxnews.com/politics/biden-admin-deliberately-trying-make-looming-government-shutdown-painful-possible-gop-senator).
 
 ## Requirements
 - Python 3.8
