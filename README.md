@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brooks Koepka takes shot at Jon Rahm: 'Act like a child'**
+**Gaetz war against McCarthy could leave Dems playing kingmaker**
 
-You can read more about it [here](https://www.nbcsports.com/golf/news/brooks-koepka-takes-shot-at-jon-rahm-act-like-a-child).
+You can read more about it [here](https://www.cnn.com/2023/09/29/politics/democrats-matt-gaetz-mccarthy-speakership/index.html).
 
 ## Requirements
 - Python 3.8
