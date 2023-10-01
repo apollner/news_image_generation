@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple will issue a software update to address iPhone 15 overheating complaints**
+**Wolves v. Manchester City | PREMIER LEAGUE HIGHLIGHTS | 9/30/2023 | NBC Sports**
 
-You can read more about it [here](https://www.cnbc.com/2023/09/30/apple-will-issue-a-software-update-to-address-iphone-15-overheating-complaints.html).
+You can read more about it [here](https://www.youtube.com/watch?v=NXs3UT92fKw).
 
 ## Requirements
 - Python 3.8
