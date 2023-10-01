@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nagorno-Karabakh: Armenia says 100000 refugees flee region**
+**Canelo Alvarez vs. Jermell Charlo odds, prop bets: Breaking down what the lines say about the matchup**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-66969845).
+You can read more about it [here](https://www.cbssports.com/boxing/news/canelo-alvarez-vs-jermell-charlo-odds-prop-bets-breaking-down-what-the-lines-say-about-the-matchup/).
 
 ## Requirements
 - Python 3.8
