@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canelo Alvarez vs. Jermell Charlo odds, prop bets: Breaking down what the lines say about the matchup**
+**Live updates: House passes funding measure as government shutdown looms**
 
-You can read more about it [here](https://www.cbssports.com/boxing/news/canelo-alvarez-vs-jermell-charlo-odds-prop-bets-breaking-down-what-the-lines-say-about-the-matchup/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/government-shutdown-deadline-09-30-23/index.html).
 
 ## Requirements
 - Python 3.8
