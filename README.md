@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked Pixel 8 Pro unboxing images spill every last secret about its design**
+**Jada Pinkett Smith Speaks Out On Arrest In Murder Of Her Friend, Tupac Shakur**
 
-You can read more about it [here](https://www.phonearena.com/news/Leaked-Pixel-8-Pro-unboxing-images-spill-every-last-secret-about-its-design_id151117).
+You can read more about it [here](https://deadline.com/2023/09/jada-pinkett-smith-speaks-on-arrest-in-murder-friend-tupac-shakur-1235560829/).
 
 ## Requirements
 - Python 3.8
