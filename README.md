@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden admin 'deliberately' trying to make looming government shutdown 'as painful as possible': GOP senator**
+**UAW targets more Ford and GM plants as union expands autoworker strike**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-admin-deliberately-trying-make-looming-government-shutdown-painful-possible-gop-senator).
+You can read more about it [here](https://www.cbsnews.com/news/strike-uaw-update-big-three-detroit-shawn-fain/).
 
 ## Requirements
 - Python 3.8
