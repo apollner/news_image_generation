@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TV Ratings: ‘Golden Bachelor’ Earns a Rose From Viewers**
+**Jacky Oh, ‘Wild 'N Out’ star and partner of DC Young Fly, cause of death revealed**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-thursday-sept-28-2023-1235604518/).
+You can read more about it [here](https://nypost.com/2023/09/29/wild-n-out-star-jacky-ohs-cause-of-death-revealed/).
 
 ## Requirements
 - Python 3.8
