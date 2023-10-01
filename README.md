@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaetz war against McCarthy could leave Dems playing kingmaker**
+**Big-spending Padres eliminated from playoff contention - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/politics/democrats-matt-gaetz-mccarthy-speakership/index.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38524512/big-spending-padres-eliminated-playoff-contention).
 
 ## Requirements
 - Python 3.8
