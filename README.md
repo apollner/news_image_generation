@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW targets more Ford and GM plants as union expands autoworker strike**
+**Court orders Subway franchise owners to pay workers nearly $1M - and to sell or close their stores**
 
-You can read more about it [here](https://www.cbsnews.com/news/strike-uaw-update-big-three-detroit-shawn-fain/).
+You can read more about it [here](https://news.yahoo.com/subway-franchise-owners-must-pay-221916422.html).
 
 ## Requirements
 - Python 3.8
