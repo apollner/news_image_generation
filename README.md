@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump supporters, critics gather outside GOP convention in Anaheim**
+**NASA’s next stop: An asteroid named for the Egyptian god of chaos**
 
-You can read more about it [here](https://abc7.com/donald-trump-california-republican-party-anaheim-protest/13846266/).
+You can read more about it [here](https://www.cnn.com/2023/09/30/world/apophis-explorer-science-newsletter-wt-scn/index.html).
 
 ## Requirements
 - Python 3.8
