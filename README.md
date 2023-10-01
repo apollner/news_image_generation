@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TV Ratings: ‘Golden Bachelor’ Earns a Rose From Viewers**
+**Giants fire manager Gabe Kapler after disappointing 2023 MLB season**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-thursday-sept-28-2023-1235604518/).
+You can read more about it [here](https://www.nbcsportsbayarea.com/mlb/san-francisco-giants/gabe-kapler-fired-manager/1658602/).
 
 ## Requirements
 - Python 3.8
