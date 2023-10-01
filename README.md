@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he may attend his civil fraud trial in New York after asking to reschedule a conflicting deposition**
+**iPhone 15 Pro Max loses to Samsung Galaxy S23 Ultra in drop test**
 
-You can read more about it [here](https://www.cnn.com/2023/09/29/politics/trump-new-york-civil-fraud-trial/index.html).
+You can read more about it [here](https://9to5mac.com/2023/09/29/iphone-15-pro-max-loses-samsung-galaxy-s23-drop-test/).
 
 ## Requirements
 - Python 3.8
