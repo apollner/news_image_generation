@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stewie is back, Aces advance: Biggest takeaways from the WNBA semifinals - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/38523065/wnba-playoffs-2023-new-york-liberty-las-vegas-aces-win).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
