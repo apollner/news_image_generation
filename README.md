@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois semitruck crash causes 5 fatalities and an ammonia leak evacuation for residents; NTSB investigating**
+**Pro-Russian politician wins Slovakia’s parliamentary election**
 
-You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
+You can read more about it [here](https://www.cnn.com/2023/10/01/world/slovakia-election-pro-russia-robert-fico-win-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
