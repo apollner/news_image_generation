@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 children among 5 killed when semi-truck carrying ammonia overturns on Illinois highway**
+**NFL DFS, Week 4: Optimal DraftKings, FanDuel Fantasy football picks include Keenan Allen, Zack Moss**
 
-You can read more about it [here](https://abcnews.go.com/US/illinois-semi-truck-crash-toxic-ammonia-spill/story?id=103625761).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-dfs-week-4-optimal-draftkings-fanduel-fantasy-football-picks-include-keenan-allen-zack-moss/).
 
 ## Requirements
 - Python 3.8
