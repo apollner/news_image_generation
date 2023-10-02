@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden signs stopgap measure to avert shutdown ahead of midnight deadline**
+**Jamaal Bowman: Democrat denies setting off fire alarm to stall spending vote**
 
-You can read more about it [here](https://www.cnn.com/2023/09/30/politics/us-government-shutdown-latest/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66975448).
 
 ## Requirements
 - Python 3.8
