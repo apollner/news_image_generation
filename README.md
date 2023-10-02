@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 storylines to watch: Who wins Dolphins-Bills and other big divisional battles?**
+**Feinstein’s body, accompanied by Pelosi, arrives in California on plane from president’s military fleet**
 
-You can read more about it [here](https://theathletic.com/4905838/2023/10/01/nfl-week-4-previews-matchups-storylines/).
+You can read more about it [here](https://www.cnn.com/2023/09/30/politics/dianne-feinstein-nancy-pelosi/index.html).
 
 ## Requirements
 - Python 3.8
