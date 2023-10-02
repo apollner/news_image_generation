@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liberals lead in Slovakia election, exit poll shows**
+**Pelosi accompanying Feinstein’s body to California on plane from president’s military fleet**
 
-You can read more about it [here](https://www.politico.eu/article/liberals-in-lead-in-slovakia-election-exit-polls-show/).
+You can read more about it [here](https://www.cnn.com/2023/09/30/politics/dianne-feinstein-nancy-pelosi/index.html).
 
 ## Requirements
 - Python 3.8
