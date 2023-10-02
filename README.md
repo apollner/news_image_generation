@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois semitruck crash causes 5 fatalities and an ammonia leak evacuation for residents; NTSB investigating**
+**Deion Sanders after loss to USC: Colorado lacks a 'true identity'**
 
-You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/pac12/2023/09/30/deion-sanders-quotes-colorado-loss-usc/71020122007/).
 
 ## Requirements
 - Python 3.8
