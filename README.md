@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I modded the hell out of my Steam Deck, and it’s so much better**
+**Sources - Celtics add Jrue Holiday in trade with Blazers - ESPN**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/modded-steam-deck-so-much-better/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38538353/sources-celtics-add-jrue-holiday-trade-blazers).
 
 ## Requirements
 - Python 3.8
