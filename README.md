@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York authorities are searching for 9-year-old Charlotte Sena who vanished while biking on a camping trip in a state park**
+**NFL 2023 Week 4: Biggest questions, risers and takeaways - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/10/01/us/charlotte-sena-missing-moreau-park/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38505579/nfl-week-4-2023-questions-risers-fallers-takeaways-lessons-stats).
 
 ## Requirements
 - Python 3.8
