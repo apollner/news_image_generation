@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five dead after truck crash and ammonia leak lead to evacuation in Illinois**
+**Travis Kelce & Chiefs Trade Friendship Bracelets on TikTok Like They’re at a Taylor Swift Concert: Watch**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/multiple-people-dead-truck-crash-ammonia-leak-lead-evacuation-illinois-rcna118210).
+You can read more about it [here](https://www.billboard.com/music/music-news/travis-kelce-friendship-bracelets-chiefs-tiktok-1235429887/).
 
 ## Requirements
 - Python 3.8
