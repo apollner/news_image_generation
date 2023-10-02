@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Celtics add Jrue Holiday in trade with Blazers - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38538353/sources-celtics-add-jrue-holiday-trade-blazers).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
