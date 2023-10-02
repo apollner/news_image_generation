@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois semitruck crash causes 5 fatalities and an ammonia leak evacuation for residents; NTSB investigating**
+**Apple identifies issues causing overheating in the iPhone 15**
 
-You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
+You can read more about it [here](https://ca.finance.yahoo.com/news/apple-identifies-issues-causing-overheating-220320674.html).
 
 ## Requirements
 - Python 3.8
