@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID Map Shows States With Increased Hospital Admissions**
+**Capricorn Daily Horoscope Today, Oct 02, 2023 predicts growth and transformation**
 
-You can read more about it [here](https://www.newsweek.com/covid-map-shows-states-increased-hospital-admissions-1831156).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/capricorn-daily-horoscope-today-oct-02-2023-predicts-growth-and-transformation-101696159926624.html).
 
 ## Requirements
 - Python 3.8
