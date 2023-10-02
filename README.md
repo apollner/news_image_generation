@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feinstein’s body, accompanied by Pelosi, arrives in California on plane from president’s military fleet**
+**Polish opposition holds massive Warsaw rally ahead of tight election**
 
-You can read more about it [here](https://www.cnn.com/2023/09/30/politics/dianne-feinstein-nancy-pelosi/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/thousands-gather-warsaw-opposition-rally-ahead-tight-election-2023-10-01/).
 
 ## Requirements
 - Python 3.8
