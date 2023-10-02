@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jada Pinkett Smith Speaks Out On Arrest In Murder Of Her Friend, Tupac Shakur**
+**Liberals lead in Slovakia election, exit poll shows**
 
-You can read more about it [here](https://deadline.com/2023/09/jada-pinkett-smith-speaks-on-arrest-in-murder-friend-tupac-shakur-1235560829/).
+You can read more about it [here](https://www.politico.eu/article/liberals-in-lead-in-slovakia-election-exit-polls-show/).
 
 ## Requirements
 - Python 3.8
