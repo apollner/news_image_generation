@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL DFS, Week 4: Optimal DraftKings, FanDuel Fantasy football picks include Keenan Allen, Zack Moss**
+**Notre Dame football’s ‘sweet victory’ at Duke keeps Irish’s season in play for something bigger**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-dfs-week-4-optimal-draftkings-fanduel-fantasy-football-picks-include-keenan-allen-zack-moss/).
+You can read more about it [here](https://theathletic.com/4917296/2023/10/01/notre-dame-duke-analysis/).
 
 ## Requirements
 - Python 3.8
