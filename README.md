@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID vaccine poll finds more than half of adults are likely to say 'no thanks' to the vax**
+**I modded the hell out of my Steam Deck, and it’s so much better**
 
-You can read more about it [here](https://www.foxnews.com/health/covid-vaccine-poll-finds-more-than-half-adults-likely-say-no-thanks-vax).
+You can read more about it [here](https://www.digitaltrends.com/computing/modded-steam-deck-so-much-better/).
 
 ## Requirements
 - Python 3.8
