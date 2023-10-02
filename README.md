@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois semitruck crash causes 5 fatalities and an ammonia leak evacuation for residents; NTSB investigating**
+**Biden signs bill to keep government funded and avoid shutdown**
 
-You can read more about it [here](https://www.cbsnews.com/news/illinois-semitruck-crash-causes-ammonia-leak-evacuation-multiple-fatalities/).
+You can read more about it [here](https://thehill.com/homenews/senate/4232249-biden-signs-bill-to-keep-government-funded-and-avoid-shutdown/).
 
 ## Requirements
 - Python 3.8
