@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feinstein’s body, accompanied by Pelosi, arrives in California on plane from president’s military fleet**
+**NFL in London live updates: Jaguars-Falcons score, how to watch**
 
-You can read more about it [here](https://www.cnn.com/2023/09/30/politics/dianne-feinstein-nancy-pelosi/index.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/10/01/nfl-london-jaguars-falcons-updates-score-highlights/70995664007/).
 
 ## Requirements
 - Python 3.8
