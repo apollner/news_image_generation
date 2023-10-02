@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AOC slams GOP for criticizing Bowman over fire alarm instead of Santos**
+**Biden presses Republicans after spending bill drops Ukraine aid**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/01/alexandria-ocasio-cortez-jamaal-bowman-fire-alarm/71025296007/).
+You can read more about it [here](https://www.reuters.com/world/us/biden-suggests-democrats-have-new-deal-with-republicans-ukraine-aid-2023-10-01/).
 
 ## Requirements
 - Python 3.8
