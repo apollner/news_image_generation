@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden presses Republicans after spending bill drops Ukraine aid**
+**COVID Map Shows States With Increased Hospital Admissions**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-suggests-democrats-have-new-deal-with-republicans-ukraine-aid-2023-10-01/).
+You can read more about it [here](https://www.newsweek.com/covid-map-shows-states-increased-hospital-admissions-1831156).
 
 ## Requirements
 - Python 3.8
