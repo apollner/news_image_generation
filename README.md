@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple identifies issues causing overheating in the iPhone 15**
+**Gov. Newsom rejects bill to give unemployment checks to striking workers**
 
-You can read more about it [here](https://ca.finance.yahoo.com/news/apple-identifies-issues-causing-overheating-220320674.html).
+You can read more about it [here](https://www.youtube.com/watch?v=OSWKY5anMGY).
 
 ## Requirements
 - Python 3.8
