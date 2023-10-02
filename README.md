@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Capricorn Daily Horoscope Today, Oct 02, 2023 predicts growth and transformation**
+**New York authorities are searching for 9-year-old Charlotte Sena who vanished while biking on a camping trip in a state park**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/capricorn-daily-horoscope-today-oct-02-2023-predicts-growth-and-transformation-101696159926624.html).
+You can read more about it [here](https://www.cnn.com/2023/10/01/us/charlotte-sena-missing-moreau-park/index.html).
 
 ## Requirements
 - Python 3.8
