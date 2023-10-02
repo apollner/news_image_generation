@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**October skywatch highlights: ‘Ring of fire’ eclipse and hunter’s moon**
+**Feinstein’s body, accompanied by Pelosi, arrives in California on plane from president’s military fleet**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/10/01/october-annular-eclipse-hunters-moon/).
+You can read more about it [here](https://www.cnn.com/2023/09/30/politics/dianne-feinstein-nancy-pelosi/index.html).
 
 ## Requirements
 - Python 3.8
