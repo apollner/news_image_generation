@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL in London live updates: Jaguars-Falcons score, how to watch**
+**2 children among 5 killed when semi-truck carrying ammonia overturns on Illinois highway**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/10/01/nfl-london-jaguars-falcons-updates-score-highlights/70995664007/).
+You can read more about it [here](https://abcnews.go.com/US/illinois-semi-truck-crash-toxic-ammonia-spill/story?id=103625761).
 
 ## Requirements
 - Python 3.8
