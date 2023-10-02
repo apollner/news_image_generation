@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame football’s ‘sweet victory’ at Duke keeps Irish’s season in play for something bigger**
+**Robert Fico wins Slovakia election with anti-Ukraine stance**
 
-You can read more about it [here](https://theathletic.com/4917296/2023/10/01/notre-dame-duke-analysis/).
+You can read more about it [here](https://www.ft.com/content/9de49e7a-d830-4d5d-8615-2c00ba6f8552).
 
 ## Requirements
 - Python 3.8
