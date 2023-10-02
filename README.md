@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamaal Bowman: Democrat denies setting off fire alarm to stall spending vote**
+**NFL Week 4 storylines to watch: Who wins Dolphins-Bills and other big divisional battles?**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66975448).
+You can read more about it [here](https://theathletic.com/4905838/2023/10/01/nfl-week-4-previews-matchups-storylines/).
 
 ## Requirements
 - Python 3.8
