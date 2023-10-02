@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL 2023 Week 4: Biggest questions, risers and takeaways - ESPN**
+**Turkey strikes suspected Kurdish militant targets in northern Iraq after suicide attack in Ankara**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38505579/nfl-week-4-2023-questions-risers-fallers-takeaways-lessons-stats).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/turkish-media-report-explosion-heard-ankara-day-parliament-103634782).
 
 ## Requirements
 - Python 3.8
