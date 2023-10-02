@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polish opposition holds massive Warsaw rally ahead of tight election**
+**October skywatch highlights: ‘Ring of fire’ eclipse and hunter’s moon**
 
-You can read more about it [here](https://www.reuters.com/world/europe/thousands-gather-warsaw-opposition-rally-ahead-tight-election-2023-10-01/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/10/01/october-annular-eclipse-hunters-moon/).
 
 ## Requirements
 - Python 3.8
