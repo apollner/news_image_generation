@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 Ryder Cup schedule, tee times: Jon Rahm vs. Scottie Scheffler highlights Sunday singles matches**
+**Biden signs stopgap measure to avert shutdown ahead of midnight deadline**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2023-ryder-cup-schedule-tee-times-jon-rahm-vs-scottie-scheffler-highlights-sunday-singles-matches/).
+You can read more about it [here](https://www.cnn.com/2023/09/30/politics/us-government-shutdown-latest/index.html).
 
 ## Requirements
 - Python 3.8
