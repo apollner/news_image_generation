@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Fico wins Slovakia election with anti-Ukraine stance**
+**COVID vaccine poll finds more than half of adults are likely to say 'no thanks' to the vax**
 
-You can read more about it [here](https://www.ft.com/content/9de49e7a-d830-4d5d-8615-2c00ba6f8552).
+You can read more about it [here](https://www.foxnews.com/health/covid-vaccine-poll-finds-more-than-half-adults-likely-say-no-thanks-vax).
 
 ## Requirements
 - Python 3.8
