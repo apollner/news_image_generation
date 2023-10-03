@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grizzly bear kills couple and their dog at Banff National Park in Canada**
+**Justin Herbert brushes off finger injury as 'just a flesh wound' - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/news/grizzly-bear-kills-2-people-banff-national-park-canada/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38544732/chargers-qb-justin-herbert-brushes-finger-injury-just-flesh-wound).
 
 ## Requirements
 - Python 3.8
