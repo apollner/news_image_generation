@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Deliveries Fall In Q3 But Wall Street Stays Focused On Positives**
+**Someone already unboxed the Google Pixel 8 and 8 Pro**
 
-You can read more about it [here](https://www.investors.com/news/tesla-stock-q3-deliveries-fell-as-wall-street-stays-focused-on-positives/).
+You can read more about it [here](https://www.theverge.com/2023/10/2/23899648/google-pixel-8-pro-unboxing-video-leak).
 
 ## Requirements
 - Python 3.8
