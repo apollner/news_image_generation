@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Herbert brushes off finger injury as 'just a flesh wound' - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38544732/chargers-qb-justin-herbert-brushes-finger-injury-just-flesh-wound).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
