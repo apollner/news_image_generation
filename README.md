@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York**
+**Newsom rejects bill giving striking workers unemployment benefits**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/01/california-strike-unemployment-benefits-gavin-newsom/71026817007/).
 
 ## Requirements
 - Python 3.8
