@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Couple killed in grizzly bear attack in Canada's Banff National Park**
+**Trump says Bowman should be jailed for ‘egregious act’ of pulling fire alarm**
 
-You can read more about it [here](https://www.reuters.com/world/americas/grizzly-bear-attack-canadas-banff-national-park-leaves-two-dead-2023-10-01/).
+You can read more about it [here](https://thehill.com/homenews/house/4233070-trump-says-bowman-should-be-jailed-for-egregious-act-of-pulling-fire-alarm/).
 
 ## Requirements
 - Python 3.8
