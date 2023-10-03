@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A ‘ring of fire’ solar eclipse is coming soon. Here’s what you should know**
+**Pixel Watch 2 will have automatic workout tracking, new leak shows**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/world/annular-solar-eclipse-october-2023-preview-scn/index.html).
+You can read more about it [here](https://9to5google.com/2023/10/02/pixel-watch-2-leak-automatic-workout-tracking/).
 
 ## Requirements
 - Python 3.8
