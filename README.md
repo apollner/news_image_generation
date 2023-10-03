@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Mars rover spies 200-foot-wide dust devil moving across red planet's surface**
+**Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York**
 
-You can read more about it [here](https://www.foxnews.com/science/nasa-mars-rover-spies-dust-devil-moving-across-red-planet-surface).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/).
 
 ## Requirements
 - Python 3.8
