@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Someone already unboxed the Google Pixel 8 and 8 Pro**
+**In a first, CDC to recommend antibiotic pill after sex for some to prevent sexually transmitted infections**
 
-You can read more about it [here](https://www.theverge.com/2023/10/2/23899648/google-pixel-8-pro-unboxing-video-leak).
+You can read more about it [here](https://www.cbsnews.com/news/cdc-antibiotic-pill-after-sex-prevent-stds/).
 
 ## Requirements
 - Python 3.8
