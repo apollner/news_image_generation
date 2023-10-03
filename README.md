@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attorney General Garland says in interview he'd resign if Biden asked him to take action on Trump**
+**Democrats weigh McCarthy’s fate as GOP moderates float rules changes to save speaker**
 
-You can read more about it [here](https://news.yahoo.com/attorney-general-garland-says-interview-001135251.html).
+You can read more about it [here](https://www.cnn.com/2023/10/01/politics/democrats-kevin-mccarthy-speakership/index.html).
 
 ## Requirements
 - Python 3.8
