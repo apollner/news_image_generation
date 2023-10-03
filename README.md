@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA investigating baby's death linked to probiotic given by hospital**
+**Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York**
 
-You can read more about it [here](https://www.cbsnews.com/news/fda-warning-probiotics-preterm-infant-death-linked-evivo/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/).
 
 ## Requirements
 - Python 3.8
