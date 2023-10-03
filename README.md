@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coast Guard suspends search for missing swimmer following apparent shark attack near Point Reyes**
+**FDA investigating baby's death linked to probiotic given by hospital**
 
-You can read more about it [here](https://www.marinij.com/2023/10/02/coast-guard-suspends-search-for-missing-swimmer-following-apparent-shark-attack-near-point-reyes/).
+You can read more about it [here](https://www.cbsnews.com/news/fda-warning-probiotics-preterm-infant-death-linked-evivo/).
 
 ## Requirements
 - Python 3.8
