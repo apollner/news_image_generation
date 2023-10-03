@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 15 users complain about overheating issues as Apple prepares fix**
+**Garland: I'd resign if Biden asked me to take action on Trump**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-iphone-15-users-complain-about-overheating-issues-apple-prepares-fix).
+You can read more about it [here](https://www.politico.com/news/2023/10/01/attorney-general-garland-biden-trump-00119411).
 
 ## Requirements
 - Python 3.8
