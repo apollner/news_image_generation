@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Monday, Oct. 2, 2023**
+**Mass death of dolphins in Brazilian Amazon as water temperatures soar**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/10/2/23893419/horoscopes-today-monday-oct-2-2023).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/02/dolphins-amazon-drought-deaths-brazil/71029128007/).
 
 ## Requirements
 - Python 3.8
