@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB playoffs 2023: Texas Rangers had a season to be proud of — but it wasn't enough to unseat the Houston Astros**
+**NASA Mars rover spies 200-foot-wide dust devil moving across red planet's surface**
 
-You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
+You can read more about it [here](https://www.foxnews.com/science/nasa-mars-rover-spies-dust-devil-moving-across-red-planet-surface).
 
 ## Requirements
 - Python 3.8
