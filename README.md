@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats weigh McCarthy’s fate as GOP moderates float rules changes to save speaker**
+**Breaking: EU foreign ministers make surprise visit to Kyiv I DW News**
 
-You can read more about it [here](https://www.cnn.com/2023/10/01/politics/democrats-kevin-mccarthy-speakership/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Ls-cGXlmnME).
 
 ## Requirements
 - Python 3.8
