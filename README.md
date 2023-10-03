@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feinstein to lie in state at San Francisco City Hall ahead of Thursday funeral**
+**Advice | Are hand tremors a bad sign? Here's what the science says.**
 
-You can read more about it [here](https://www.cnn.com/2023/10/01/politics/feinstein-funeral-arrangements/index.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/02/hand-tremors-shaking-parkinsons/).
 
 ## Requirements
 - Python 3.8
