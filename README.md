@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jodie Turner-Smith and Joshua Jackson to divorce**
+**E.U. makes historic show of support for Ukraine after U.S. budget deal snub**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/entertainment/jodie-turner-smith-joshua-jackson-divorce/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/world/eu-show-support-ukraine-foreign-ministers-us-budget-deal-snub-rcna118330).
 
 ## Requirements
 - Python 3.8
