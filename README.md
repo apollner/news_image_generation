@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All Onewheel electric skateboards are under recall after 4 deaths and serious injury reports**
+**Taylor Swift Chiefs Jets Game Best Moments**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/oneboard-electric-skateboards-recall-after-4-deaths-injury-103659934).
+You can read more about it [here](https://www.buzzfeed.com/noradominick/taylor-swift-chiefs-jets-game-travis-kelce).
 
 ## Requirements
 - Python 3.8
