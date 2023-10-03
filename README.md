@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NBC’s Coverage of Sunday’s Chiefs-Jets NFL Game Puts Taylor Swift in the Spotlight**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.hollywoodreporter.com/news/music-news/taylor-swift-chiefs-game-jets-nfl-nbc-1235605824/).
 
 ## Requirements
 - Python 3.8
