@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**E.U. makes historic show of support for Ukraine after U.S. budget deal snub**
+**Vikings hope to spoil 'cool' Travis Kelce-Taylor Swift saga - ESPN**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/eu-show-support-ukraine-foreign-ministers-us-budget-deal-snub-rcna118330).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38550291/vikings-hope-spoil-cool-travis-kelce-taylor-swift-saga).
 
 ## Requirements
 - Python 3.8
