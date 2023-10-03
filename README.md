@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In a first, CDC to recommend antibiotic pill after sex for some to prevent sexually transmitted infections**
+**All Onewheel electric skateboards are under recall after 4 deaths and serious injury reports**
 
-You can read more about it [here](https://www.cbsnews.com/news/cdc-antibiotic-pill-after-sex-prevent-stds/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/oneboard-electric-skateboards-recall-after-4-deaths-injury-103659934).
 
 ## Requirements
 - Python 3.8
