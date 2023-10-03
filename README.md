@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Couple killed in grizzly bear attack in Canada's Banff National Park**
+**Advice | Are hand tremors a bad sign? Here's what the science says.**
 
-You can read more about it [here](https://www.reuters.com/world/americas/grizzly-bear-attack-canadas-banff-national-park-leaves-two-dead-2023-10-01/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/02/hand-tremors-shaking-parkinsons/).
 
 ## Requirements
 - Python 3.8
