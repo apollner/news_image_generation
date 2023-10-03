@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says Bowman should be jailed for ‘egregious act’ of pulling fire alarm**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/homenews/house/4233070-trump-says-bowman-should-be-jailed-for-egregious-act-of-pulling-fire-alarm/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
