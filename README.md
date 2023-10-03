@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Chiefs Jets Game Best Moments**
+**Coast Guard suspends search for missing swimmer following apparent shark attack near Point Reyes**
 
-You can read more about it [here](https://www.buzzfeed.com/noradominick/taylor-swift-chiefs-jets-game-travis-kelce).
+You can read more about it [here](https://www.marinij.com/2023/10/02/coast-guard-suspends-search-for-missing-swimmer-following-apparent-shark-attack-near-point-reyes/).
 
 ## Requirements
 - Python 3.8
