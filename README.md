@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL 2023 Week 4: Biggest questions, risers and takeaways**
+**Couple killed in grizzly bear attack in Canada's Banff National Park**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38505579/nfl-week-4-2023-questions-risers-fallers-takeaways-lessons-stats).
+You can read more about it [here](https://www.reuters.com/world/americas/grizzly-bear-attack-canadas-banff-national-park-leaves-two-dead-2023-10-01/).
 
 ## Requirements
 - Python 3.8
