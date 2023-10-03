@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Effective altruism fueled SBF's 'ridiculous' actions at FTX: Ex-Alameda engineer**
+**Feinstein to lie in state at San Francisco City Hall ahead of Thursday funeral**
 
-You can read more about it [here](https://cointelegraph.com/news/effective-altruism-fueled-ftx-founder-sam-bankman-fried-ridiculous-actions-former-alameda).
+You can read more about it [here](https://www.cnn.com/2023/10/01/politics/feinstein-funeral-arrangements/index.html).
 
 ## Requirements
 - Python 3.8
