@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Gaetz concedes McCarthy 'probably' can survive a first vote to oust him**
+**Jodie Turner-Smith and Joshua Jackson to divorce**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/rep-gaetz-concedes-mccarthy-probably-can-survive-first-vote-oust-rcna118419).
+You can read more about it [here](https://www.cnn.com/2023/10/02/entertainment/jodie-turner-smith-joshua-jackson-divorce/index.html).
 
 ## Requirements
 - Python 3.8
