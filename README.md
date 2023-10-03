@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB playoffs 2023: Texas Rangers had a season to be proud of — but it wasn't enough to unseat the Houston Astros**
+**Horoscope for Monday, Oct. 2, 2023**
 
-You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/2/23893419/horoscopes-today-monday-oct-2-2023).
 
 ## Requirements
 - Python 3.8
