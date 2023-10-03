@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mass death of dolphins in Brazilian Amazon as water temperatures soar**
+**Couple killed in grizzly bear attack in Canada's Banff National Park**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/02/dolphins-amazon-drought-deaths-brazil/71029128007/).
+You can read more about it [here](https://www.reuters.com/world/americas/grizzly-bear-attack-canadas-banff-national-park-leaves-two-dead-2023-10-01/).
 
 ## Requirements
 - Python 3.8
