@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York**
+**Rep. Gaetz concedes McCarthy 'probably' can survive a first vote to oust him**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/rep-gaetz-concedes-mccarthy-probably-can-survive-first-vote-oust-rcna118419).
 
 ## Requirements
 - Python 3.8
