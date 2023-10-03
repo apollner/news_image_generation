@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple identifies issues causing overheating in the iPhone 15**
+**MLB playoffs 2023: Rangers had a season to be proud of — but it wasn't enough to unseat the Astros**
 
-You can read more about it [here](https://www.ksl.com/article/50741992/apple-identifies-issues-causing-overheating-in-the-iphone-15).
+You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
 
 ## Requirements
 - Python 3.8
