@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Garland: I'd resign if Biden asked me to take action on Trump**
+**MLB playoffs 2023: Texas Rangers had a season to be proud of — but it wasn't enough to unseat the Houston Astros**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/01/attorney-general-garland-biden-trump-00119411).
+You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
 
 ## Requirements
 - Python 3.8
