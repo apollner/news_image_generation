@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breaking: EU foreign ministers make surprise visit to Kyiv I DW News**
+**MLB playoffs 2023: Texas Rangers had a season to be proud of — but it wasn't enough to unseat the Houston Astros**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ls-cGXlmnME).
+You can read more about it [here](https://sports.yahoo.com/mlb-playoffs-2023-texas-rangers-had-a-season-to-be-proud-of--but-it-wasnt-enough-to-unseat-the-houston-astros-015303348.html).
 
 ## Requirements
 - Python 3.8
