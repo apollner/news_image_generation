@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya police to take on Haiti criminal gangs amid criticism of their human rights record**
+**The Taylor Swift effect: 'Miss Americana is turning Travis Kelce into America’s sweetheart'**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/africa/kenya-multinational-force-haiti-intl/index.html).
+You can read more about it [here](https://sports.yahoo.com/taylor-swift-travis-kelce-miss-americana-americas-sweetheart-115801222.html).
 
 ## Requirements
 - Python 3.8
