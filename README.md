@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Henry Cuellar: US congressman carjacked at gunpoint in Washington**
+**Johnnys Sex Abuse Scandal: 478 Victims Come Forward – The Hollywood Reporter**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-66991932).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/japan-johnnys-sex-abuse-scandal-renaming-plan-slammed-1235607160/).
 
 ## Requirements
 - Python 3.8
