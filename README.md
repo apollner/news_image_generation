@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marion police chief resigns after the widely-condemned raid of the Marion County Record newspaper in Kansas**
+**Chinese Stocks in Hong Kong Slump, Leading Asia Equities Selloff**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/us/marion-county-record-raid-police-chief-resigns/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-03/chinese-stocks-in-hong-kong-slump-leading-asia-equities-selloff).
 
 ## Requirements
 - Python 3.8
