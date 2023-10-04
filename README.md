@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing California swimmer reportedly attacked by shark, say officials**
+**NFL Week 4 Monday Night Football live tracker: Seahawks up early on Giants as Drew Lock briefly replaces injured Geno Smith**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/02/missing-california-swimmer-reportedly-attacked-by-shark/71033777007/).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-4-monday-night-football-live-tracker-seahawks-up-early-on-giants-as-drew-lock-briefly-replaces-injured-geno-smith-225035677.html).
 
 ## Requirements
 - Python 3.8
