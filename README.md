@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rouble recovers slightly after slide past 100 vs dollar**
+**Texas lawmaker carjacked in Navy Yard**
 
-You can read more about it [here](https://www.reuters.com/markets/currencies/russian-rouble-weakens-past-100-vs-dollar-2023-10-03/).
+You can read more about it [here](https://www.youtube.com/watch?v=nR77S6XhySo).
 
 ## Requirements
 - Python 3.8
