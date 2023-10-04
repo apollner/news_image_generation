@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 Monday Night Football live tracker: Seahawks up early on Giants as Drew Lock briefly replaces injured Geno Smith**
+**Exclusive: John Kelly goes on the record to confirm several disturbing stories about Trump**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-week-4-monday-night-football-live-tracker-seahawks-up-early-on-giants-as-drew-lock-briefly-replaces-injured-geno-smith-225035677.html).
+You can read more about it [here](https://www.cnn.com/2023/10/02/politics/john-kelly-donald-trump-us-service-members-veterans/index.html).
 
 ## Requirements
 - Python 3.8
