@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slovakia election win for pro-Putin Fico shows cracks in Ukraine support**
+**2023 MLB playoff bracket: Postseason matchups, schedule as Wild Card Series start Tuesday**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/slovakia-election-win-fico-ukraine-support-putin-rcna118532).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-playoff-bracket-postseason-matchups-schedule-as-wild-card-series-start-tuesday/).
 
 ## Requirements
 - Python 3.8
