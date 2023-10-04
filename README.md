@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb telescope finds ‘Jupiter-sized’ planets floating in space**
+**Marvel Studios' Loki Season 2 - Official Season 1 Recap Trailer (2023) Tom Hiddleston, Owen Wilson**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/home/science/webb-telescope-finds-jupiter-sized-planets-floating-in-space/articleshow/104139316.cms).
+You can read more about it [here](https://www.youtube.com/watch?v=mLWXKBhXwAQ).
 
 ## Requirements
 - Python 3.8
