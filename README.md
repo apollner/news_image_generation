@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Devon Witherspoon's 97-yard pick-six gives Seahawks 21-3 lead**
+**Evergrande shares volatile as trade resumes amid chairman probe**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-witherspoons-97-yard-pick-six-gives-seahawks-21-3-lead).
+You can read more about it [here](https://www.reuters.com/world/china/china-evergrande-shares-set-open-up-94-amid-probe-into-chairman-2023-10-03/).
 
 ## Requirements
 - Python 3.8
