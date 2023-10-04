@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried's father, ex-Trump staffer among possible trial witnesses**
+**WATCH: Jude Bellingham or Zinedine Zidane?! Real Madrid star scores ridiculous solo goal to put Real Madrid ahead against Napoli just seven minutes after assisting Vinicius Junior**
 
-You can read more about it [here](https://www.reuters.com/legal/sam-bankman-fried-heads-trial-charges-stealing-billions-ftx-users-2023-10-03/).
+You can read more about it [here](https://www.sportingnews.com/ca/soccer).
 
 ## Requirements
 - Python 3.8
