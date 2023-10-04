@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Airlines buys 110 additional Boeing, Airbus jets into the 2030s with delivery slots scarce**
+**Sam Bankman-Fried's father, ex-Trump staffer among possible trial witnesses**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/03/united-airlines-buys-110-additional-boeing-airbus.html).
+You can read more about it [here](https://www.reuters.com/legal/sam-bankman-fried-heads-trial-charges-stealing-billions-ftx-users-2023-10-03/).
 
 ## Requirements
 - Python 3.8
