@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Gaetz moves to oust Kevin McCarthy as House speaker**
+**NY Republican introduces resolution to expel Bowman for pulling fire alarm**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html).
+You can read more about it [here](https://thehill.com/homenews/house/4234822-ny-republican-introduces-resolution-to-expel-bowman-for-pulling-fire-alarm/).
 
 ## Requirements
 - Python 3.8
