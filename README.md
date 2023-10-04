@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas police chief who approved raid on journalists resigns**
+**Feeling lucky? Winning numbers are announced for the $1.04 billion Powerball jackpot**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/kansas-police-chief-approved-raid-journalists-resigns-rcna118512).
+You can read more about it [here](https://www.cnn.com/2023/10/02/business/powerball-jackpot-drawing-monday-billion-lottery-trnd/index.html).
 
 ## Requirements
 - Python 3.8
