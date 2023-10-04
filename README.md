@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese Stocks in Hong Kong Slump, Leading Asia Equities Selloff**
+**Republican US Rep Matt Gaetz moves to oust McCarthy as speaker**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-03/chinese-stocks-in-hong-kong-slump-leading-asia-equities-selloff).
+You can read more about it [here](https://www.reuters.com/world/us/us-house-speaker-mccarthy-braces-likely-new-republican-rebellion-2023-10-02/).
 
 ## Requirements
 - Python 3.8
