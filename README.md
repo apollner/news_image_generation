@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feeling lucky? Winning numbers are announced for the $1.04 billion Powerball jackpot**
+**Taylor Swift, a pop culture juggernaut, propels ‘Sunday Night Football’ to record ratings**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/business/powerball-jackpot-drawing-monday-billion-lottery-trnd/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/02/media/taylor-swift-sunday-night-football-ratings-reliable-sources/index.html).
 
 ## Requirements
 - Python 3.8
