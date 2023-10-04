@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: John Kelly goes on the record to confirm several disturbing stories about Trump**
+**Matt Gaetz moves to oust Kevin McCarthy as House speaker**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/politics/john-kelly-donald-trump-us-service-members-veterans/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html).
 
 ## Requirements
 - Python 3.8
