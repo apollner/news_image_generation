@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel Watch 2 will have automatic workout tracking, new leak shows**
+**Charlotte Sena update: What we know about the 9-year-old who was missing in New York, now found safe**
 
-You can read more about it [here](https://9to5google.com/2023/10/02/pixel-watch-2-leak-automatic-workout-tracking/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/charlotte-sena-update-what-we-know-about-the-9-year-old-missing-in-new-york/).
 
 ## Requirements
 - Python 3.8
