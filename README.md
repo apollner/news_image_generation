@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marvel Studios' Loki Season 2 - Official Season 1 Recap Trailer (2023) Tom Hiddleston, Owen Wilson**
+**Biden calls allies amid concerns over support for Ukraine**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mLWXKBhXwAQ).
+You can read more about it [here](https://www.politico.com/news/2023/10/03/ukraine-war-funding-biden-00119651).
 
 ## Requirements
 - Python 3.8
