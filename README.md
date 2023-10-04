@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 5: 49ers reclaim No. 1 spot; Seahawks, Buccaneers crack top 10**
+**Slovakia election win for pro-Putin Fico shows cracks in Ukraine support**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-5-2023-nfl-season).
+You can read more about it [here](https://www.nbcnews.com/news/world/slovakia-election-win-fico-ukraine-support-putin-rcna118532).
 
 ## Requirements
 - Python 3.8
