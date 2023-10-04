@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlotte Sena update: What we know about the 9-year-old who was missing in New York, now found safe**
+**Missing California swimmer reportedly attacked by shark, say officials**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/charlotte-sena-update-what-we-know-about-the-9-year-old-missing-in-new-york/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/02/missing-california-swimmer-reportedly-attacked-by-shark/71033777007/).
 
 ## Requirements
 - Python 3.8
