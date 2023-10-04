@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reports of a number of fatalities after a bus plunges off bridge in Venice, lands on train tracks**
+**Judge issues gag order and rebukes Trump after social media post attacking his clerk**
 
-You can read more about it [here](https://www.euronews.com/2023/10/03/italy-reports-of-a-number-of-fatalities-after-a-bus-plunges-off-bridge-in-venice).
+You can read more about it [here](https://www.cnn.com/2023/10/03/politics/trump-gag-order-social-media-threat/index.html).
 
 ## Requirements
 - Python 3.8
