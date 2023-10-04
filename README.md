@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Late-night talk shows return, Fallon quiet on toxic workplace reports**
+**Hands On: WarioWare Move It! Takes Us Right Back To A Wii Classic**
 
-You can read more about it [here](https://www.insider.com/late-night-talk-shows-return-5-months-writers-strike-2023-10).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/hands-on-warioware-move-it-takes-us-right-back-to-a-wii-classic).
 
 ## Requirements
 - Python 3.8
