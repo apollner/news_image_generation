@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden calls allies amid concerns over support for Ukraine**
+**Reports of a number of fatalities after a bus plunges off bridge in Venice, lands on train tracks**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/03/ukraine-war-funding-biden-00119651).
+You can read more about it [here](https://www.euronews.com/2023/10/03/italy-reports-of-a-number-of-fatalities-after-a-bus-plunges-off-bridge-in-venice).
 
 ## Requirements
 - Python 3.8
