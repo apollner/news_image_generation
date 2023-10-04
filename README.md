@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 5 Power Rankings: Buccaneers balling without Tom Brady; Texans climbing, Steelers fall seven spots**
+**‘Ring of fire’ solar eclipse to put on show for California this month**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-power-rankings-buccaneers-balling-without-tom-brady-texans-climbing-steelers-fall-seven-spots/).
+You can read more about it [here](https://ktla.com/news/local-news/ring-of-fire-solar-eclipse-to-put-on-show-for-california-this-month/).
 
 ## Requirements
 - Python 3.8
