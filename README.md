@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia journalist Josh Kruger shot, killed inside Point Breeze neighborhood home**
+**Trump's civil fraud trial gets underway in New York as both sides lay out case**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/philadelphia-journalist-josh-kruger-killed-point-breeze/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-civil-fraud-trial-new-york-opening-arguments/).
 
 ## Requirements
 - Python 3.8
