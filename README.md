@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnnys Sex Abuse Scandal: 478 Victims Come Forward – The Hollywood Reporter**
+**Rouble recovers slightly after slide past 100 vs dollar**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/japan-johnnys-sex-abuse-scandal-renaming-plan-slammed-1235607160/).
+You can read more about it [here](https://www.reuters.com/markets/currencies/russian-rouble-weakens-past-100-vs-dollar-2023-10-03/).
 
 ## Requirements
 - Python 3.8
