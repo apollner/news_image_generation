@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evergrande shares volatile as trade resumes amid chairman probe**
+**UN Security Council approves sending forces to Haiti to fight violent gangs**
 
-You can read more about it [here](https://www.reuters.com/world/china/china-evergrande-shares-set-open-up-94-amid-probe-into-chairman-2023-10-03/).
+You can read more about it [here](https://www.politico.com/news/2023/10/02/un-security-council-approves-sending-forces-to-haiti-to-fight-violent-gangs-00119593).
 
 ## Requirements
 - Python 3.8
