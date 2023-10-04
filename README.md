@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN Security Council approves sending forces to Haiti to fight violent gangs**
+**Feeling lucky? Winning numbers are announced for the $1.04 billion Powerball jackpot**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/02/un-security-council-approves-sending-forces-to-haiti-to-fight-violent-gangs-00119593).
+You can read more about it [here](https://www.cnn.com/2023/10/02/business/powerball-jackpot-drawing-monday-billion-lottery-trnd/index.html).
 
 ## Requirements
 - Python 3.8
