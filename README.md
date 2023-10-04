@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN Security Council approves sending forces to Haiti to fight violent gangs**
+**Henry Cuellar: US congressman carjacked at gunpoint in Washington**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/02/un-security-council-approves-sending-forces-to-haiti-to-fight-violent-gangs-00119593).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-66991932).
 
 ## Requirements
 - Python 3.8
