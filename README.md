@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 MLB playoff bracket: Postseason matchups, schedule as Wild Card Series start Tuesday**
+**Webb telescope finds ‘Jupiter-sized’ planets floating in space**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2023-mlb-playoff-bracket-postseason-matchups-schedule-as-wild-card-series-start-tuesday/).
+You can read more about it [here](https://timesofindia.indiatimes.com/home/science/webb-telescope-finds-jupiter-sized-planets-floating-in-space/articleshow/104139316.cms).
 
 ## Requirements
 - Python 3.8
