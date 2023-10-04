@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Taylor Swift effect: 'Miss Americana is turning Travis Kelce into America’s sweetheart'**
+**Late-night talk shows return, Fallon quiet on toxic workplace reports**
 
-You can read more about it [here](https://sports.yahoo.com/taylor-swift-travis-kelce-miss-americana-americas-sweetheart-115801222.html).
+You can read more about it [here](https://www.insider.com/late-night-talk-shows-return-5-months-writers-strike-2023-10).
 
 ## Requirements
 - Python 3.8
