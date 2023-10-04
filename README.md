@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hands On: WarioWare Move It! Takes Us Right Back To A Wii Classic**
+**NFL Week 5 Power Rankings: Buccaneers balling without Tom Brady; Texans climbing, Steelers fall seven spots**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/hands-on-warioware-move-it-takes-us-right-back-to-a-wii-classic).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-power-rankings-buccaneers-balling-without-tom-brady-texans-climbing-steelers-fall-seven-spots/).
 
 ## Requirements
 - Python 3.8
