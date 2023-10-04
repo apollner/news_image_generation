@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brian Daboll addresses sideline interaction with Daniel Jones**
+**Job openings increase in August, hitting highest level since May**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-addresses-sideline-interaction-with-daniel-jones).
+You can read more about it [here](https://finance.yahoo.com/news/job-openings-increase-in-august-hitting-highest-level-since-may-140858634.html).
 
 ## Requirements
 - Python 3.8
