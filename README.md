@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnnys Sex Abuse Scandal: 478 Victims Come Forward – The Hollywood Reporter**
+**Marion police chief resigns after the widely-condemned raid of the Marion County Record newspaper in Kansas**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/japan-johnnys-sex-abuse-scandal-renaming-plan-slammed-1235607160/).
+You can read more about it [here](https://www.cnn.com/2023/10/02/us/marion-county-record-raid-police-chief-resigns/index.html).
 
 ## Requirements
 - Python 3.8
