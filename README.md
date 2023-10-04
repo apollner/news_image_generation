@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift, a pop culture juggernaut, propels ‘Sunday Night Football’ to record ratings**
+**Devon Witherspoon's 97-yard pick-six gives Seahawks 21-3 lead**
 
-You can read more about it [here](https://www.cnn.com/2023/10/02/media/taylor-swift-sunday-night-football-ratings-reliable-sources/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-witherspoons-97-yard-pick-six-gives-seahawks-21-3-lead).
 
 ## Requirements
 - Python 3.8
