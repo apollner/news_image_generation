@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ring of fire’ solar eclipse to put on show for California this month**
+**NFL Power Rankings, Week 5: 49ers reclaim No. 1 spot; Seahawks, Buccaneers crack top 10**
 
-You can read more about it [here](https://ktla.com/news/local-news/ring-of-fire-solar-eclipse-to-put-on-show-for-california-this-month/).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-5-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
