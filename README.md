@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hands On: WarioWare Move It! Takes Us Right Back To A Wii Classic**
+**Brian Daboll addresses sideline interaction with Daniel Jones**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/hands-on-warioware-move-it-takes-us-right-back-to-a-wii-classic).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-addresses-sideline-interaction-with-daniel-jones).
 
 ## Requirements
 - Python 3.8
