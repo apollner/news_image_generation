@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rouble recovers slightly after slide past 100 vs dollar**
+**Kenya police to take on Haiti criminal gangs amid criticism of their human rights record**
 
-You can read more about it [here](https://www.reuters.com/markets/currencies/russian-rouble-weakens-past-100-vs-dollar-2023-10-03/).
+You can read more about it [here](https://www.cnn.com/2023/10/03/africa/kenya-multinational-force-haiti-intl/index.html).
 
 ## Requirements
 - Python 3.8
