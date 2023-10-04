@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's civil fraud trial gets underway in New York as both sides lay out case**
+**Kansas police chief who approved raid on journalists resigns**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-civil-fraud-trial-new-york-opening-arguments/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/kansas-police-chief-approved-raid-journalists-resigns-rcna118512).
 
 ## Requirements
 - Python 3.8
