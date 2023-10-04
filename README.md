@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge issues gag order and rebukes Trump after social media post attacking his clerk**
+**United Airlines buys 110 additional Boeing, Airbus jets into the 2030s with delivery slots scarce**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/politics/trump-gag-order-social-media-threat/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/03/united-airlines-buys-110-additional-boeing-airbus.html).
 
 ## Requirements
 - Python 3.8
