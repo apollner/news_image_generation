@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge in fraud trial imposes gag order after Trump attacks judge's aide**
+**Laphonza Butler sworn in as California's newest U.S. senator**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/03/trump-fraud-trial-gag-order-00119735).
+You can read more about it [here](https://www.latimes.com/politics/story/2023-10-03/laphonza-butler-sworn-in-californias-senator-kamala-harris-gavin-newsom-barbara-lee).
 
 ## Requirements
 - Python 3.8
