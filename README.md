@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jodie Turner-Smith and Joshua Jackson Stepped Out Holding Hands One Day Before Separation - E! Online**
+**Neighbors react after Craig Ross, Jr. charged with kidnapping 9-year-old Charlotte Sena from Moreau Lake State Park**
 
-You can read more about it [here](https://www.eonline.com/news/1386986/jodie-turner-smith-and-joshua-jackson-stepped-out-holding-hands-one-day-before-separation).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/neighbors-react-after-craig-ross-jr-charged-with-kidnapping-9-year-old-charlotte-sena-from-moreau-lake-state-park/).
 
 ## Requirements
 - Python 3.8
