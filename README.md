@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kaiser Permanente and healthcare workers head for labor clash as strike deadline looms**
+**Pope Francis on climate: ‘Irresponsible’ Western lifestyle must change**
 
-You can read more about it [here](https://www.reuters.com/world/us/kaiser-permanente-healthcare-workers-head-labor-clash-strike-deadline-looms-2023-10-04/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/04/pope-francis-environment-climate/).
 
 ## Requirements
 - Python 3.8
