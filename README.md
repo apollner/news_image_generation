@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pelosi says interim House speaker McHenry has ordered her to vacate her office in the Capitol building**
+**4 students among 5 shot near Morgan State University in Baltimore, police searching for suspect**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/politics/pelosi-vacate-office-capitol-mchenry-interim-speaker/index.html).
+You can read more about it [here](https://abcnews.go.com/US/baltimore-police-respond-active-shooter-situation-morgan-state/story?id=103708195).
 
 ## Requirements
 - Python 3.8
