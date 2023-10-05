@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homes of journalists at India news site critical of government raided, fueling press freedom fears**
+**Baltimore police confirm multiple victims in an active shooter situation at Morgan State University**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/media/india-newsclick-journalist-arrests-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/03/us/baltimore-morgan-state-university-campus-shooting/index.html).
 
 ## Requirements
 - Python 3.8
