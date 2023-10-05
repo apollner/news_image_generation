@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laphonza Butler sworn in as California's newest U.S. senator**
+**More than 20 killed after Italian tourist bus crashes off Venice overpass**
 
-You can read more about it [here](https://www.latimes.com/politics/story/2023-10-03/laphonza-butler-sworn-in-californias-senator-kamala-harris-gavin-newsom-barbara-lee).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/4/more-than-20-killed-after-italian-tourist-bus-crashes-off-venice-overpass).
 
 ## Requirements
 - Python 3.8
