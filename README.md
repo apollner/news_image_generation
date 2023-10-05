@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore police confirm multiple victims in an active shooter situation at Morgan State University**
+**Jury selection begins for FTX CEO Sam Bankman Fried's trial**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/us/baltimore-morgan-state-university-campus-shooting/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=bF3cDgFgNY4).
 
 ## Requirements
 - Python 3.8
