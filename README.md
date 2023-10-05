@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Military analyst on possible nuclear-powered missile test in Russia**
+**Google's Pixel Watch 2 refines last year's template**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7pOsTT2DanA).
+You can read more about it [here](https://www.engadget.com/googles-pixel-watch-2-refines-last-years-template-141610073.html).
 
 ## Requirements
 - Python 3.8
