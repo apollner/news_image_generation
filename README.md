@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At GOP dinner in rural Wisconsin, mixed reactions to McCarthy's ouster**
+**Driver may have fallen ill before fatal Venice bus crash**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/04/wisconsin-republicans-mccarthy/).
+You can read more about it [here](https://www.reuters.com/world/europe/italy-authorities-probe-venice-bus-crash-that-killed-21-people-2023-10-04/).
 
 ## Requirements
 - Python 3.8
