@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia police say they have a person of interest in journalist's fatal shooting**
+**‘Ahsoka’ Finale: Surprise Force Powers, One More ‘Rebels’ Reunion and What Happens to Thrawn?**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/philadelphia-police-say-person-interest-journalists-fatal-shooting-rcna118717).
+You can read more about it [here](https://variety.com/2023/tv/news/ahsoka-finale-sabine-force-thrawn-1235744205/).
 
 ## Requirements
 - Python 3.8
