@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin McCarthy voted out: first House Speaker to be ousted**
+**In Ukraine, explosive DIY drones give an intimate view of killing**
 
-You can read more about it [here](https://apnews.com/article/mccarthy-gaetz-speaker-motion-to-vacate-congress-327e294a39f8de079ef5e4abfb1fa555).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/04/fpv-drone-ukraine-russia/).
 
 ## Requirements
 - Python 3.8
