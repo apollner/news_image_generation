@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury selection begins for FTX CEO Sam Bankman Fried's trial**
+**Philadelphia police say they have a person of interest in journalist's fatal shooting**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bF3cDgFgNY4).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/philadelphia-police-say-person-interest-journalists-fatal-shooting-rcna118717).
 
 ## Requirements
 - Python 3.8
