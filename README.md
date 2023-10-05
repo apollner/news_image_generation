@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neighbors react after Craig Ross, Jr. charged with kidnapping 9-year-old Charlotte Sena from Moreau Lake State Park**
+**GM reports 3rd-quarter gain of 21% with pickups, new SUVs driving sales**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/neighbors-react-after-craig-ross-jr-charged-with-kidnapping-9-year-old-charlotte-sena-from-moreau-lake-state-park/).
+You can read more about it [here](https://www.freep.com/story/money/cars/general-motors/2023/10/03/gm-reports-3rd-quarter-sales-gain-pickups-suvs/71037412007/).
 
 ## Requirements
 - Python 3.8
