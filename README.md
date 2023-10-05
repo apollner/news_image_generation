@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Only Murders in the Building' renewed for fourth season**
+**US 30-Year Mortgage Rate Tops 7.5% for First Time Since 2000**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/entertainment/only-murders-season-4/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-04/us-30-year-mortgage-rate-tops-7-5-for-first-time-since-2000).
 
 ## Requirements
 - Python 3.8
