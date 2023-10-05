@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley surpasses Ron DeSantis in New Hampshire 2024 poll - POLITICO**
+**Webb Mystery Unraveled: Astrophysicists Explain the “Impossible” Brightness at Cosmic Dawn**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/04/new-hampshire-nikki-haley-desantis-00119864).
+You can read more about it [here](https://scitechdaily.com/webb-mystery-unraveled-astrophysicists-explain-the-impossible-brightness-at-cosmic-dawn/).
 
 ## Requirements
 - Python 3.8
