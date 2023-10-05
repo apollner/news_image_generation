@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: Jude Bellingham or Zinedine Zidane?! Real Madrid star scores ridiculous solo goal to put Real Madrid ahead against Napoli just seven minutes after assisting Vinicius Junior**
+**Jodie Turner-Smith and Joshua Jackson Stepped Out Holding Hands One Day Before Separation - E! Online**
 
-You can read more about it [here](https://www.sportingnews.com/ca/soccer).
+You can read more about it [here](https://www.eonline.com/news/1386986/jodie-turner-smith-and-joshua-jackson-stepped-out-holding-hands-one-day-before-separation).
 
 ## Requirements
 - Python 3.8
