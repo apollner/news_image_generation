@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlotte Sena kidnapping: Man accused of taking her previously charged in choking incident**
+**World Cup 2030: Morocco, Spain and Portugal to host with opening three games in South America**
 
-You can read more about it [here](https://www.nbcnews.com/news/man-accused-kidnapping-charlotte-sena-previously-charged-domestic-chok-rcna118816).
+You can read more about it [here](https://theathletic.com/4929110/2023/10/04/world-cup-2030-hosts-morocco-spain-portugal/).
 
 ## Requirements
 - Python 3.8
