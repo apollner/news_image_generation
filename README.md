@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico police officer charged with voluntary manslaughter**
+**Kevin McCarthy voted out: first House Speaker to be ousted**
 
-You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-police-officer-charged-with-voluntary-manslaughter/).
+You can read more about it [here](https://apnews.com/article/mccarthy-gaetz-speaker-motion-to-vacate-congress-327e294a39f8de079ef5e4abfb1fa555).
 
 ## Requirements
 - Python 3.8
