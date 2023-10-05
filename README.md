@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Cup 2030: Morocco, Spain and Portugal to host with opening three games in South America**
+**Everything Google launched at its big fall event: Pixel 8 and 8 Pro, Pixel Watch, more**
 
-You can read more about it [here](https://theathletic.com/4929110/2023/10/04/world-cup-2030-hosts-morocco-spain-portugal/).
+You can read more about it [here](https://www.digitaltrends.com/mobile/everything-announced-at-made-by-google-event-pixel-8-pro-pixel-watch-2/).
 
 ## Requirements
 - Python 3.8
