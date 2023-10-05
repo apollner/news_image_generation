@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 20 killed after Italian tourist bus crashes off Venice overpass**
+**It’s crunch time for companies building NASA’s commercial lunar landers**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/4/more-than-20-killed-after-italian-tourist-bus-crashes-off-venice-overpass).
+You can read more about it [here](https://arstechnica.com/space/2023/10/its-crunch-time-for-companies-building-nasas-commercial-lunar-landers/).
 
 ## Requirements
 - Python 3.8
