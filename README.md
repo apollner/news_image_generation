@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ahsoka’ Finale: Surprise Force Powers, One More ‘Rebels’ Reunion and What Happens to Thrawn?**
+**The Pixel 8 Launch Is Today. Here's How to Watch the Made by Google Event**
 
-You can read more about it [here](https://variety.com/2023/tv/news/ahsoka-finale-sabine-force-thrawn-1235744205/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/the-pixel-8-launch-is-today-heres-how-to-watch-the-made-by-google-event/).
 
 ## Requirements
 - Python 3.8
