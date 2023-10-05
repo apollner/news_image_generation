@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Everything Google launched at its big fall event: Pixel 8 and 8 Pro, Pixel Watch, more**
+**‘Exorcist: Believer’ Gets Horrifying Reviews After Studio Gambled $400 Million for Rights**
 
-You can read more about it [here](https://www.digitaltrends.com/mobile/everything-announced-at-made-by-google-event-pixel-8-pro-pixel-watch-2/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/exorcist-believer-reviews-trilogy-400-million-1235608583/).
 
 ## Requirements
 - Python 3.8
