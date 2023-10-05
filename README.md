@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 launch event: all the news and products**
+**Pelosi says interim House speaker McHenry has ordered her to vacate her office in the Capitol building**
 
-You can read more about it [here](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup).
+You can read more about it [here](https://www.cnn.com/2023/10/03/politics/pelosi-vacate-office-capitol-mchenry-interim-speaker/index.html).
 
 ## Requirements
 - Python 3.8
