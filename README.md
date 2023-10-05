@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It’s crunch time for companies building NASA’s commercial lunar landers**
+**New Mexico police officer charged with voluntary manslaughter**
 
-You can read more about it [here](https://arstechnica.com/space/2023/10/its-crunch-time-for-companies-building-nasas-commercial-lunar-landers/).
+You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-police-officer-charged-with-voluntary-manslaughter/).
 
 ## Requirements
 - Python 3.8
