@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rachel Zegler Urges Media to ‘Leave Taylor Swift Alone’ After Sex Tape Comments**
+**Nikki Haley surpasses Ron DeSantis in New Hampshire 2024 poll - POLITICO**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/rachel-zegler-taylor-swift-travis-kelce-sex-tape-comments-1234839369/).
+You can read more about it [here](https://www.politico.com/news/2023/10/04/new-hampshire-nikki-haley-desantis-00119864).
 
 ## Requirements
 - Python 3.8
