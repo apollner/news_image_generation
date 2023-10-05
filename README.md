@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Exorcist: Believer’ Gets Horrifying Reviews After Studio Gambled $400 Million for Rights**
+**Julia Ormond Sues Harvey Weinstein for Battery, CAA and Disney as Enablers of Sexual Assault (EXCLUSIVE)**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/exorcist-believer-reviews-trilogy-400-million-1235608583/).
+You can read more about it [here](https://variety.com/2023/film/news/julia-ormond-harvey-weinstein-lawsuit-battery-caa-disney-1235744853/).
 
 ## Requirements
 - Python 3.8
