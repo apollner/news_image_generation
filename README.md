@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden pleads not guilty to gun charges in Delaware court**
+**Jury selection begins for FTX CEO Sam Bankman Fried's trial**
 
-You can read more about it [here](https://www.reuters.com/legal/hunter-biden-due-plead-not-guilty-gun-charges-delaware-court-2023-10-03/).
+You can read more about it [here](https://www.youtube.com/watch?v=bF3cDgFgNY4).
 
 ## Requirements
 - Python 3.8
