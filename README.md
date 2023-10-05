@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb Mystery Unraveled: Astrophysicists Explain the “Impossible” Brightness at Cosmic Dawn**
+**Pelosi says interim House speaker McHenry has ordered her to vacate her office in the Capitol building**
 
-You can read more about it [here](https://scitechdaily.com/webb-mystery-unraveled-astrophysicists-explain-the-impossible-brightness-at-cosmic-dawn/).
+You can read more about it [here](https://www.cnn.com/2023/10/03/politics/pelosi-vacate-office-capitol-mchenry-interim-speaker/index.html).
 
 ## Requirements
 - Python 3.8
