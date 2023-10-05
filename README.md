@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis on climate: ‘Irresponsible’ Western lifestyle must change**
+**Rachel Zegler Urges Media to ‘Leave Taylor Swift Alone’ After Sex Tape Comments**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/04/pope-francis-environment-climate/).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/rachel-zegler-taylor-swift-travis-kelce-sex-tape-comments-1234839369/).
 
 ## Requirements
 - Python 3.8
