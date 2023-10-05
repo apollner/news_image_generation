@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM reports 3rd-quarter gain of 21% with pickups, new SUVs driving sales**
+**Judge in fraud trial imposes gag order after Trump attacks judge's aide**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/general-motors/2023/10/03/gm-reports-3rd-quarter-sales-gain-pickups-suvs/71037412007/).
+You can read more about it [here](https://www.politico.com/news/2023/10/03/trump-fraud-trial-gag-order-00119735).
 
 ## Requirements
 - Python 3.8
