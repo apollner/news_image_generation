@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Pixel Watch 2 refines last year's template**
+**At GOP dinner in rural Wisconsin, mixed reactions to McCarthy's ouster**
 
-You can read more about it [here](https://www.engadget.com/googles-pixel-watch-2-refines-last-years-template-141610073.html).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/04/wisconsin-republicans-mccarthy/).
 
 ## Requirements
 - Python 3.8
