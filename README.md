@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Driver may have fallen ill before fatal Venice bus crash**
+**Charlotte Sena kidnapping: Man accused of taking her previously charged in choking incident**
 
-You can read more about it [here](https://www.reuters.com/world/europe/italy-authorities-probe-venice-bus-crash-that-killed-21-people-2023-10-04/).
+You can read more about it [here](https://www.nbcnews.com/news/man-accused-kidnapping-charlotte-sena-previously-charged-domestic-chok-rcna118816).
 
 ## Requirements
 - Python 3.8
