@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Ukraine, explosive DIY drones give an intimate view of killing**
+**Homes of journalists at India news site critical of government raided, fueling press freedom fears**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/04/fpv-drone-ukraine-russia/).
+You can read more about it [here](https://www.cnn.com/2023/10/03/media/india-newsclick-journalist-arrests-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
