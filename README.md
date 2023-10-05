@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Pixel 8 Launch Is Today. Here's How to Watch the Made by Google Event**
+**Kaiser Permanente and healthcare workers head for labor clash as strike deadline looms**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/the-pixel-8-launch-is-today-heres-how-to-watch-the-made-by-google-event/).
+You can read more about it [here](https://www.reuters.com/world/us/kaiser-permanente-healthcare-workers-head-labor-clash-strike-deadline-looms-2023-10-04/).
 
 ## Requirements
 - Python 3.8
