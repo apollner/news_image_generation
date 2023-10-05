@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 students among 5 shot near Morgan State University in Baltimore, police searching for suspect**
+**'Only Murders in the Building' renewed for fourth season**
 
-You can read more about it [here](https://abcnews.go.com/US/baltimore-police-respond-active-shooter-situation-morgan-state/story?id=103708195).
+You can read more about it [here](https://www.cnn.com/2023/10/04/entertainment/only-murders-season-4/index.html).
 
 ## Requirements
 - Python 3.8
