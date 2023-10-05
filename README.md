@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US 30-Year Mortgage Rate Tops 7.5% for First Time Since 2000**
+**Ford pickup truck sales lead third-quarter growth**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-04/us-30-year-mortgage-rate-tops-7-5-for-first-time-since-2000).
+You can read more about it [here](https://www.cnbc.com/2023/10/04/ford-reports-7point7percent-increase-in-third-quarter-sales.html).
 
 ## Requirements
 - Python 3.8
