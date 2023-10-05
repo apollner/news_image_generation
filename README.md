@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Patriots reacquire CB J.C. Jackson from Chargers**
+**Military analyst on possible nuclear-powered missile test in Russia**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38564002/source-patriots-reacquire-cb-jc-jackson-chargers).
+You can read more about it [here](https://www.youtube.com/watch?v=7pOsTT2DanA).
 
 ## Requirements
 - Python 3.8
