@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Ormond Sues Harvey Weinstein for Battery, CAA and Disney as Enablers of Sexual Assault (EXCLUSIVE)**
+**Sam Bankman-Fried painted by US as 'cartoon villain', his lawyer says**
 
-You can read more about it [here](https://variety.com/2023/film/news/julia-ormond-harvey-weinstein-lawsuit-battery-caa-disney-1235744853/).
+You can read more about it [here](https://www.ft.com/content/20b1b717-c1f0-486f-a072-0f574424f368).
 
 ## Requirements
 - Python 3.8
