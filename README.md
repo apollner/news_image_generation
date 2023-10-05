@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Only Murders in the Building' renewed for fourth season**
+**Venice bus crash: Victims still unidentified almost 24 hours on**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/entertainment/only-murders-season-4/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67008199).
 
 ## Requirements
 - Python 3.8
