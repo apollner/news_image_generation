@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried painted by US as 'cartoon villain', his lawyer says**
+**McCarthy behind move to kick Pelosi out of her office, sources say – so he can move into it**
 
-You can read more about it [here](https://www.ft.com/content/20b1b717-c1f0-486f-a072-0f574424f368).
+You can read more about it [here](https://www.cnn.com/2023/10/03/politics/pelosi-vacate-office-capitol-mchenry-interim-speaker/index.html).
 
 ## Requirements
 - Python 3.8
