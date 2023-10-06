@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Being a vegetarian might be in your DNA**
+**Why there is no jury in the New York civil case against Trump**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/health/vegetarian-genetics-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/04/politics/trump-new-york-case-no-jury/index.html).
 
 ## Requirements
 - Python 3.8
