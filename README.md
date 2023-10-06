@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why there is no jury in the New York civil case against Trump**
+**Kevin McCarthy has gone. Why was he removed and who might replace him?**
 
-You can read more about it [here](https://www.cnn.com/2023/10/04/politics/trump-new-york-case-no-jury/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67004970).
 
 ## Requirements
 - Python 3.8
