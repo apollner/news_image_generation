@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin McCarthy has gone. Why was he removed and who might replace him?**
+**Biden administration waives 26 federal laws to allow border wall construction in South Texas**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67004970).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/biden-administration-waives-26-federal-laws-border-wall-103738662).
 
 ## Requirements
 - Python 3.8
