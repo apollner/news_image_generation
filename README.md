@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy behind move to kick Pelosi out of her office, sources say – so he can move into it**
+**Being a vegetarian might be in your DNA**
 
-You can read more about it [here](https://www.cnn.com/2023/10/03/politics/pelosi-vacate-office-capitol-mchenry-interim-speaker/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/04/health/vegetarian-genetics-wellness/index.html).
 
 ## Requirements
 - Python 3.8
