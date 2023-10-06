@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration waives 26 federal laws to allow border wall construction in South Texas**
+**Where to find glasses for the October Ring of Fire annular eclipse**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/biden-administration-waives-26-federal-laws-border-wall-103738662).
+You can read more about it [here](https://www.koin.com/news/oregon/where-to-find-glasses-for-the-october-ring-of-fire-annular-eclipse/).
 
 ## Requirements
 - Python 3.8
