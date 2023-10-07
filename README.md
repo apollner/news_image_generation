@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Exorcist: Believer’ Delivers $2.9M in Box Office Previews**
+**US House Republicans fear loss of their 'rainmaker' Kevin McCarthy**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-exorcist-believer-box-office-previews-1235611021/).
+You can read more about it [here](https://www.ft.com/content/55a3afbf-1d53-4cba-9a71-7b271df64d1c).
 
 ## Requirements
 - Python 3.8
