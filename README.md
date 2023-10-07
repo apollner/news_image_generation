@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marc Anthony and Wife Nadia Ferreira Heat Up the Red Carpet at Billboard Latin Music Awards 2023**
+**Biden world fears third-party challengers could spoil 2024 campaign - POLITICO**
 
-You can read more about it [here](https://www.eonline.com/news/1387252/marc-anthony-and-wife-nadia-ferreira-heat-up-the-red-carpet-at-billboard-latin-music-awards-2023).
+You can read more about it [here](https://www.politico.com/news/2023/10/06/biden-donors-third-party-challengers-2024-00120285).
 
 ## Requirements
 - Python 3.8
