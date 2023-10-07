@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Suki Waterhouse Took a "Bout of Celibacy" Before Dating Robert Pattinson**
+**Trump files to dismiss $500 million lawsuit against his ex-lawyer**
 
-You can read more about it [here](https://www.eonline.com/news/1387259/why-suki-waterhouse-took-a-bout-of-celibacy-before-dating-robert-pattinson).
+You can read more about it [here](https://www.reuters.com/legal/trump-files-dismiss-500-mln-lawsuit-against-his-ex-lawyer-michael-cohen-2023-10-06/).
 
 ## Requirements
 - Python 3.8
