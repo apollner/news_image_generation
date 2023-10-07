@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump files to dismiss $500 million lawsuit against his ex-lawyer**
+**Marc Anthony and Wife Nadia Ferreira Heat Up the Red Carpet at Billboard Latin Music Awards 2023**
 
-You can read more about it [here](https://www.reuters.com/legal/trump-files-dismiss-500-mln-lawsuit-against-his-ex-lawyer-michael-cohen-2023-10-06/).
+You can read more about it [here](https://www.eonline.com/news/1387252/marc-anthony-and-wife-nadia-ferreira-heat-up-the-red-carpet-at-billboard-latin-music-awards-2023).
 
 ## Requirements
 - Python 3.8
