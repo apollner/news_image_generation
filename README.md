@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Philippe is on a path to New England and Canada**
+**Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-philippe-path-2023-track-map-new-england-canada-national-hurricane-center-noaa/).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-will-take-off-southern-europe-us-africa-this-decade-who-scientist-says-2023-10-06/).
 
 ## Requirements
 - Python 3.8
