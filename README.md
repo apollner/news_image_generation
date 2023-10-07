@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to build more US border wall using Trump-era funds**
+**Yelling at kids could cause long-term harm to their psyches, says new study: ‘A hidden problem’**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-build-new-barriers-roads-texas-border-area-2023-10-05/).
+You can read more about it [here](https://www.foxnews.com/health/yelling-kids-could-cause-long-term-harm-psyches-study-hidden-problem).
 
 ## Requirements
 - Python 3.8
