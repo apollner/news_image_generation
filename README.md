@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is dying from COVID now? This group represented 90% of deaths**
+**A weakened DeSantis returns to Florida to campaign**
 
-You can read more about it [here](https://www.sfchronicle.com/health/article/dying-covid-now-new-study-shows-who-s-highest-18409105.php).
+You can read more about it [here](https://www.politico.com/news/2023/10/05/desantis-florida-campaign-2024-00120284).
 
 ## Requirements
 - Python 3.8
