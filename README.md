@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot rises to estimated $1.4 billion after no winners Wednesday**
+**Who is dying from COVID now? This group represented 90% of deaths**
 
-You can read more about it [here](https://www.cbsnews.com/news/powerball-jackpot-rises-to-estimated-1-4-billion-after-no-winners-wednesday/).
+You can read more about it [here](https://www.sfchronicle.com/health/article/dying-covid-now-new-study-shows-who-s-highest-18409105.php).
 
 ## Requirements
 - Python 3.8
