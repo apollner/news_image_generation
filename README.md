@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war**
+**Treasury-Bond Collapse Ranks Among the Worst Market Crashes in History**
 
-You can read more about it [here](https://www.cnn.com/2023/10/05/europe/kupiansk-ukraine-attack-zelensky-intl/index.html).
+You can read more about it [here](https://markets.businessinsider.com/news/bonds/treasury-bond-yields-market-selloff-market-crashes-dot-com-bubble-2023-10).
 
 ## Requirements
 - Python 3.8
