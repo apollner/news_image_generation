@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce says NFL 'overdoing' its Taylor Swift coverage**
+**Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67013451).
+You can read more about it [here](https://www.cnn.com/2023/10/05/europe/kupiansk-ukraine-attack-zelensky-intl/index.html).
 
 ## Requirements
 - Python 3.8
