@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Pixel 8 launch was a parade of AI**
+**Jim Jordan, the face of key GOP investigations, seeks the speaker’s gavel**
 
-You can read more about it [here](https://www.theverge.com/2023/10/6/23905985/google-pixel-8-launch-artificial-intelligence-ai-hype-parade).
+You can read more about it [here](https://www.cnn.com/2023/10/06/politics/jim-jordan-profile-house-speaker-race/index.html).
 
 ## Requirements
 - Python 3.8
