@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Army sergeant indicted for efforts to give classified information to China**
+**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
 
-You can read more about it [here](https://abcnews.go.com/Politics/former-army-sergeant-indicted-efforts-give-classified-information/story?id=103789204).
+You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
 
 ## Requirements
 - Python 3.8
