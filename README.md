@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden world fears third-party challengers could spoil 2024 campaign - POLITICO**
+**Biden to build more US border wall using Trump-era funds**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/06/biden-donors-third-party-challengers-2024-00120285).
+You can read more about it [here](https://www.reuters.com/world/us/us-build-new-barriers-roads-texas-border-area-2023-10-05/).
 
 ## Requirements
 - Python 3.8
