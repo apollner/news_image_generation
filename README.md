@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where to find glasses for the October Ring of Fire annular eclipse**
+**Travis Kelce says NFL 'overdoing' its Taylor Swift coverage**
 
-You can read more about it [here](https://www.koin.com/news/oregon/where-to-find-glasses-for-the-october-ring-of-fire-annular-eclipse/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67013451).
 
 ## Requirements
 - Python 3.8
