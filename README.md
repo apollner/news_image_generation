@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US House Republicans fear loss of their 'rainmaker' Kevin McCarthy**
+**Pioneer shares jump on Exxon mega-merger talks**
 
-You can read more about it [here](https://www.ft.com/content/55a3afbf-1d53-4cba-9a71-7b271df64d1c).
+You can read more about it [here](https://www.reuters.com/markets/deals/pioneer-shares-jump-merger-talks-with-exxon-2023-10-06/).
 
 ## Requirements
 - Python 3.8
