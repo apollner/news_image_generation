@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin suggests Wagner mercenary chief’s plane brought down by grenade blast**
+**Funniest wildlife photos revealed in global photography competition**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/6/putin-suggests-wagner-mercenary-chiefs-plane-brought-down-by-grenade-blast).
+You can read more about it [here](https://www.usatoday.com/story/life/animalkind/2023/10/05/funniest-wildlife-photos-revealed-global-photography-competition/71071974007/).
 
 ## Requirements
 - Python 3.8
