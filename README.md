@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Philippe is on a path to New England and Canada**
+**George Santos' ex-campaign treasurer Nancy Marks pleads guilty**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-philippe-path-2023-track-map-new-england-canada-national-hurricane-center-noaa/).
+You can read more about it [here](https://www.cbsnews.com/news/george-santos-ex-campaign-treasurer-nancy-marks-guilty-plea/).
 
 ## Requirements
 - Python 3.8
