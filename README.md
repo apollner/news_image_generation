@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Taylor Swift's jean shorts she wore to Travis Kelce's game selling out amid dating rumors**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swifts-jean-shorts-wore-travis-kelces-game-selling-out-amid-dating-rumors).
 
 ## Requirements
 - Python 3.8
