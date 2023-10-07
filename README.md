@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pioneer shares jump on Exxon mega-merger talks**
+**Google's Pixel 8 launch was a parade of AI**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/pioneer-shares-jump-merger-talks-with-exxon-2023-10-06/).
+You can read more about it [here](https://www.theverge.com/2023/10/6/23905985/google-pixel-8-launch-artificial-intelligence-ai-hype-parade).
 
 ## Requirements
 - Python 3.8
