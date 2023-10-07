@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos' ex-campaign treasurer Nancy Marks pleads guilty**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/george-santos-ex-campaign-treasurer-nancy-marks-guilty-plea/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
