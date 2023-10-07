@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Android 14 statue goes all in on Upside Down Cake**
+**Trump endorses Jim Jordan for House speaker**
 
-You can read more about it [here](https://9to5google.com/2023/10/06/android-14-statue/).
+You can read more about it [here](https://www.cnn.com/2023/10/05/politics/trump-considering-capitol-hill-visit-speaker/index.html).
 
 ## Requirements
 - Python 3.8
