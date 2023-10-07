@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasury-Bond Collapse Ranks Among the Worst Market Crashes in History**
+**Critic of affirmative action sues Naval Academy over race in admissions**
 
-You can read more about it [here](https://markets.businessinsider.com/news/bonds/treasury-bond-yields-market-selloff-market-crashes-dot-com-bubble-2023-10).
+You can read more about it [here](https://www.washingtonpost.com/education/2023/10/05/naval-academy-affirmative-action-lawsuit/).
 
 ## Requirements
 - Python 3.8
