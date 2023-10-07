@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Critic of affirmative action sues Naval Academy over race in admissions**
+**Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war**
 
-You can read more about it [here](https://www.washingtonpost.com/education/2023/10/05/naval-academy-affirmative-action-lawsuit/).
+You can read more about it [here](https://www.cnn.com/2023/10/05/europe/kupiansk-ukraine-attack-zelensky-intl/index.html).
 
 ## Requirements
 - Python 3.8
