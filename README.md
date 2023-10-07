@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donna Kelce says NFL is ‘laughing all the way to the bank’ with Taylor Swift, Travis Kelce dating rumors**
+**Pioneer shares jump on Exxon mega-merger talks**
 
-You can read more about it [here](https://www.foxnews.com/sports/donna-kelce-says-nfl-laughing-all-way-bank-taylor-swift-travis-kelce-dating-rumors).
+You can read more about it [here](https://www.reuters.com/markets/deals/pioneer-shares-jump-merger-talks-with-exxon-2023-10-06/).
 
 ## Requirements
 - Python 3.8
