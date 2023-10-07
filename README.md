@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 Nobel Peace Prize winner is Narges Mohammadi, Iranian activist**
+**Biden to build more US border wall using Trump-era funds**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/06/nobel-peace-prize-2023-iran/).
+You can read more about it [here](https://www.reuters.com/world/us/us-build-new-barriers-roads-texas-border-area-2023-10-05/).
 
 ## Requirements
 - Python 3.8
