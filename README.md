@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says**
+**Why Suki Waterhouse Took a "Bout of Celibacy" Before Dating Robert Pattinson**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-will-take-off-southern-europe-us-africa-this-decade-who-scientist-says-2023-10-06/).
+You can read more about it [here](https://www.eonline.com/news/1387259/why-suki-waterhouse-took-a-bout-of-celibacy-before-dating-robert-pattinson).
 
 ## Requirements
 - Python 3.8
