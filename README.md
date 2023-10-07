@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Narges Mohammadi: Iranian woman jailed for rights work wins Nobel Peace prize**
+**Google's Android 14 statue goes all in on Upside Down Cake**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67026216).
+You can read more about it [here](https://9to5google.com/2023/10/06/android-14-statue/).
 
 ## Requirements
 - Python 3.8
