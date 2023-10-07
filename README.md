@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yelling at kids could cause long-term harm to their psyches, says new study: ‘A hidden problem’**
+**Philips shares fall 8% after U.S. drug regulator deals fresh blow to sleep device recall**
 
-You can read more about it [here](https://www.foxnews.com/health/yelling-kids-could-cause-long-term-harm-psyches-study-hidden-problem).
+You can read more about it [here](https://www.cnbc.com/2023/10/06/philips-shares-fall-after-fda-says-sleep-device-recall-inadequate.html).
 
 ## Requirements
 - Python 3.8
