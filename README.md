@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says border walls don’t work as administration bypasses laws to build more barriers in South Texas**
+**Tropical Storm Philippe is on a path to New England and Canada**
 
-You can read more about it [here](https://www.cnn.com/2023/10/05/politics/biden-administration-border-wall/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-philippe-path-2023-track-map-new-england-canada-national-hurricane-center-noaa/).
 
 ## Requirements
 - Python 3.8
