@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philips shares fall 8% after U.S. drug regulator deals fresh blow to sleep device recall**
+**Narges Mohammadi: Iranian woman jailed for rights work wins Nobel Peace prize**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/06/philips-shares-fall-after-fda-says-sleep-device-recall-inadequate.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67026216).
 
 ## Requirements
 - Python 3.8
