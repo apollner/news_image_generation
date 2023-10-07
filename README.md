@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Jordan, the face of key GOP investigations, seeks the speaker’s gavel**
+**‘The Exorcist: Believer’ Delivers $2.9M in Box Office Previews**
 
-You can read more about it [here](https://www.cnn.com/2023/10/06/politics/jim-jordan-profile-house-speaker-race/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/the-exorcist-believer-box-office-previews-1235611021/).
 
 ## Requirements
 - Python 3.8
