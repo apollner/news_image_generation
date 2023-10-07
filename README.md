@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's jean shorts she wore to Travis Kelce's game selling out amid dating rumors**
+**DJ Moore, Justin Fields lead Chicago Bears to 40-20 win over Washington Commanders**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swifts-jean-shorts-wore-travis-kelces-game-selling-out-amid-dating-rumors).
+You can read more about it [here](https://www.chicagobears.com/news/bears-defeat-commanders-40-20-at-fedexfield-dj-moore-justin-fields).
 
 ## Requirements
 - Python 3.8
