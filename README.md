@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump endorses Jim Jordan for House speaker**
+**Donna Kelce Gives Hilarious Response About Travis and Taylor Swift on TODAY**
 
-You can read more about it [here](https://www.cnn.com/2023/10/05/politics/trump-considering-capitol-hill-visit-speaker/index.html).
+You can read more about it [here](https://www.today.com/popculture/donna-kelce-taylor-swift-rcna119059).
 
 ## Requirements
 - Python 3.8
