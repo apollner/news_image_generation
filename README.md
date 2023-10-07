@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donna Kelce Gives Hilarious Response About Travis and Taylor Swift on TODAY**
+**Fantasy football 2023 rankings, NFL Week 5 QB, RB, WR, TE, defense picks: Model high on Travis Kelce**
 
-You can read more about it [here](https://www.today.com/popculture/donna-kelce-taylor-swift-rcna119059).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-2023-rankings-nfl-week-5-qb-rb-wr-te-defense-picks-model-high-on-travis-kelce/).
 
 ## Requirements
 - Python 3.8
