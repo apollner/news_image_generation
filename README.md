@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to use the new Messages features in iOS 17**
+**US House Republicans fear loss of their 'rainmaker' Kevin McCarthy**
 
-You can read more about it [here](https://www.theverge.com/23906072/apple-ios-17-iphone-messages-how-to).
+You can read more about it [here](https://www.ft.com/content/55a3afbf-1d53-4cba-9a71-7b271df64d1c).
 
 ## Requirements
 - Python 3.8
