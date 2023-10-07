@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Funniest wildlife photos revealed in global photography competition**
+**Biden says border walls don’t work as administration bypasses laws to build more barriers in South Texas**
 
-You can read more about it [here](https://www.usatoday.com/story/life/animalkind/2023/10/05/funniest-wildlife-photos-revealed-global-photography-competition/71071974007/).
+You can read more about it [here](https://www.cnn.com/2023/10/05/politics/biden-administration-border-wall/index.html).
 
 ## Requirements
 - Python 3.8
