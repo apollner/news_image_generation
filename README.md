@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war**
+**Powerball jackpot rises to estimated $1.4 billion after no winners Wednesday**
 
-You can read more about it [here](https://www.cnn.com/2023/10/05/europe/kupiansk-ukraine-attack-zelensky-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/powerball-jackpot-rises-to-estimated-1-4-billion-after-no-winners-wednesday/).
 
 ## Requirements
 - Python 3.8
