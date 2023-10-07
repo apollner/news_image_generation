@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pioneer shares jump on Exxon mega-merger talks**
+**How to use the new Messages features in iOS 17**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/pioneer-shares-jump-merger-talks-with-exxon-2023-10-06/).
+You can read more about it [here](https://www.theverge.com/23906072/apple-ios-17-iphone-messages-how-to).
 
 ## Requirements
 - Python 3.8
