@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Voice of oppressed people:’ Rights activist Narges Mohammadi speaks out for Iranian women from prison**
+**Six suspects in assassination of Ecuador candidate murdered in prison**
 
-You can read more about it [here](https://www.cnn.com/2023/10/06/middleeast/iran-narges-mohammadi-womens-rights-mime-intl-cmd/index.html).
+You can read more about it [here](https://www.reuters.com/world/americas/six-people-implicated-ecuador-candidate-murder-killed-prison-officials-2023-10-07/).
 
 ## Requirements
 - Python 3.8
