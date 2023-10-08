@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancient Footprints in New Mexico Shift Timeline for Early Human Presence in North America**
+**Weekend visit primer: Bryce James sees Ohio State; Georgia hosts a pair of five-stars, Kansas looking to close**
 
-You can read more about it [here](https://scitechdaily.com/?p=315130).
+You can read more about it [here](https://247sports.com/longformarticle/college-basketball-recruiting-weekend-visit-primer-ohio-state-georgia-kansas-usc-many-others-with-big-weekends-217556834/).
 
 ## Requirements
 - Python 3.8
