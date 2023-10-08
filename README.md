@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelce mom on meeting Taylor Swift: ‘It was…’**
+**The Pixel 8 Pro temperature sensor won’t tell you your body temperature**
 
-You can read more about it [here](https://fox8.com/news/kelce-mom-on-meeting-taylor-swift-it-was/).
+You can read more about it [here](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature).
 
 ## Requirements
 - Python 3.8
