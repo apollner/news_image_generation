@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
+**Kaiser health care strike will end with no contract deal**
 
-You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
+You can read more about it [here](https://www.politico.com/news/2023/10/06/kaiser-health-care-strike-no-contract-deal-00120479).
 
 ## Requirements
 - Python 3.8
