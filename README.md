@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘The Exorcist: Believer’ Crosses Off $11.9 Million Opening Day**
+**Watch All In With Chris Hayes Highlights: Oct. 6**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/the-exorcist-believer-opening-day-1235747626/).
+You can read more about it [here](https://www.youtube.com/watch?v=5urlH5xKRRo).
 
 ## Requirements
 - Python 3.8
