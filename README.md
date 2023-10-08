@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Her severe anxiety and weight gain weren’t caused by wedding jitters**
+**Best Early Deals From October's Amazon Prime Day**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/07/weight-anxiety-wedding-medical-mysteries/).
+You can read more about it [here](https://gizmodo.com/best-early-deals-from-octobers-amazon-prime-day-1850907746).
 
 ## Requirements
 - Python 3.8
