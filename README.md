@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekend visit primer: Bryce James sees Ohio State; Georgia hosts a pair of five-stars, Kansas looking to close**
+**Dolphins coach Mike McDaniel calls acquiring ex-Bears WR Chase Claypool an 'exciting opportunity'**
 
-You can read more about it [here](https://247sports.com/longformarticle/college-basketball-recruiting-weekend-visit-primer-ohio-state-georgia-kansas-usc-many-others-with-big-weekends-217556834/).
+You can read more about it [here](https://www.foxnews.com/sports/dolphins-coach-mike-mcdaniel-calls-acquiring-ex-bears-wr-chase-claypool-exciting-opportunity).
 
 ## Requirements
 - Python 3.8
