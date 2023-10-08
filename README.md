@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football scores, updates: Oklahoma opens up lead on Texas in Red River Rivalry**
+**SmartThings Head Jaeyeon Jung sheds light on challenges and platform evolution [Interview] - SamMobile**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-alabama-vs-texas-am-washington-state-at-ucla-and-more-195437584.html).
+You can read more about it [here](https://www.sammobile.com/news/smartthings-head-jaeyeon-jung-sheds-light-on-challenges-and-platform-evolution-interview/).
 
 ## Requirements
 - Python 3.8
