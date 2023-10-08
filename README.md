@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Travis Kelce Closes Down Restaurant for His 34th Birthday in Kansas City Sans Taylor Swift**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.etonline.com/travis-kelce-closes-down-restaurant-for-his-34th-birthday-in-kansas-city-sans-taylor-swift-212677).
 
 ## Requirements
 - Python 3.8
