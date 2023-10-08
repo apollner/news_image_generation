@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from President Joe Biden Condemning Terrorist Attacks in Israel**
+**Her severe anxiety and weight gain weren’t caused by wedding jitters**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/07/statement-from-president-joe-biden-condemning-terrorist-attacks-in-israel/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/07/weight-anxiety-wedding-medical-mysteries/).
 
 ## Requirements
 - Python 3.8
