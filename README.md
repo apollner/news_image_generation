@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas says it has taken ‘dozens’ of Israelis hostage**
+**College football scores, updates: Oklahoma opens up lead on Texas in Red River Rivalry**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/hamas-israel-palestinian-hostages-beeri-attack-rcna119337).
+You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-alabama-vs-texas-am-washington-state-at-ucla-and-more-195437584.html).
 
 ## Requirements
 - Python 3.8
