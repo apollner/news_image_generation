@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
+**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
 
-You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
+You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
 
 ## Requirements
 - Python 3.8
