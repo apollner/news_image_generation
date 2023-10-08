@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in Josh Kruger murder 'armed and dangerous': Philadelphia PD**
+**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/06/josh-kruger-murder-suspect-wanted-philadelphia/71086750007/).
+You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
 
 ## Requirements
 - Python 3.8
