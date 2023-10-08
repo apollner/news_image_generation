@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Her severe anxiety and weight gain weren’t caused by wedding jitters**
+**Box Office: ‘The Exorcist: Believer’ Crosses Off $11.9 Million Opening Day**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/07/weight-anxiety-wedding-medical-mysteries/).
+You can read more about it [here](https://variety.com/2023/film/box-office/the-exorcist-believer-opening-day-1235747626/).
 
 ## Requirements
 - Python 3.8
