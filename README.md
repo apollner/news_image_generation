@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins coach Mike McDaniel calls acquiring ex-Bears WR Chase Claypool an 'exciting opportunity'**
+**Kelce mom on meeting Taylor Swift: ‘It was…’**
 
-You can read more about it [here](https://www.foxnews.com/sports/dolphins-coach-mike-mcdaniel-calls-acquiring-ex-bears-wr-chase-claypool-exciting-opportunity).
+You can read more about it [here](https://fox8.com/news/kelce-mom-on-meeting-taylor-swift-it-was/).
 
 ## Requirements
 - Python 3.8
