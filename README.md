@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
+**‘Voice of oppressed people:’ Rights activist Narges Mohammadi speaks out for Iranian women from prison**
 
-You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
+You can read more about it [here](https://www.cnn.com/2023/10/06/middleeast/iran-narges-mohammadi-womens-rights-mime-intl-cmd/index.html).
 
 ## Requirements
 - Python 3.8
