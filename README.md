@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cavs say Travis Kelce was great before Taylor Swift - ESPN**
+**Dick Butkus, the ultimate football player, helped build the modern NFL**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38584343/cleveland-cavaliers-weigh-taylor-swift-travis-kelce).
+You can read more about it [here](https://theathletic.com/4936245/2023/10/06/dick-butkus-chicago-bears/).
 
 ## Requirements
 - Python 3.8
