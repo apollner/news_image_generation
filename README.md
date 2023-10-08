@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Closes Down Restaurant for His 34th Birthday in Kansas City Sans Taylor Swift**
+**Box Office: ‘The Exorcist: Believer’ Crosses Off $11.9 Million Opening Day**
 
-You can read more about it [here](https://www.etonline.com/travis-kelce-closes-down-restaurant-for-his-34th-birthday-in-kansas-city-sans-taylor-swift-212677).
+You can read more about it [here](https://variety.com/2023/film/box-office/the-exorcist-believer-opening-day-1235747626/).
 
 ## Requirements
 - Python 3.8
