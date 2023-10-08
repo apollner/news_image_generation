@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football schedule today: TV coverage, scores for Big Ten games**
+**Statement from President Joe Biden Condemning Terrorist Attacks in Israel**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/2023/10/07/college-football-schedule-today-tv-coverage-scores-big-ten-games/71075620007/).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/07/statement-from-president-joe-biden-condemning-terrorist-attacks-in-israel/).
 
 ## Requirements
 - Python 3.8
