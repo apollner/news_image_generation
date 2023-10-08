@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
+**Amazon Prime Day for October 2023 is here: Shop these deals**
 
-You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/10/06/amazon-prime-day-2023-october-10-deals/71076778007/).
 
 ## Requirements
 - Python 3.8
