@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
+**Cavs say Travis Kelce was great before Taylor Swift - ESPN**
 
-You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38584343/cleveland-cavaliers-weigh-taylor-swift-travis-kelce).
 
 ## Requirements
 - Python 3.8
