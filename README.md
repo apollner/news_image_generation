@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Half the village is gone': Ukraine hamlet reels after missile strike**
+**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
 
-You can read more about it [here](https://www.reuters.com/world/europe/half-village-is-gone-ukraine-hamlet-reels-after-missile-strike-2023-10-06/).
+You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
 
 ## Requirements
 - Python 3.8
