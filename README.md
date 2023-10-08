@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge in Oklahoma clears the way for a ban on medical care for transgender young people**
+**Ancient Footprints in New Mexico Shift Timeline for Early Human Presence in North America**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/federal-judge-oklahoma-clears-ban-medical-care-transgender-103799584).
+You can read more about it [here](https://scitechdaily.com/?p=315130).
 
 ## Requirements
 - Python 3.8
