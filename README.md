@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch All In With Chris Hayes Highlights: Oct. 6**
+**Statement from President Joe Biden Condemning Terrorist Attacks in Israel**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5urlH5xKRRo).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/07/statement-from-president-joe-biden-condemning-terrorist-attacks-in-israel/).
 
 ## Requirements
 - Python 3.8
