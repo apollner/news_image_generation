@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekend visit primer: Bryce James sees Ohio State; Georgia hosts a pair of five-stars, Kansas looking to close**
+**2023 Nobel Peace Prize awarded to Narges Mohammadi, women's rights activist jailed in Iran**
 
-You can read more about it [here](https://247sports.com/longformarticle/college-basketball-recruiting-weekend-visit-primer-ohio-state-georgia-kansas-usc-many-others-with-big-weekends-217556834/).
+You can read more about it [here](https://www.cbsnews.com/news/nobel-peace-prize-2023-winner-narges-mohammadi-iran-womens-rights-activist/).
 
 ## Requirements
 - Python 3.8
