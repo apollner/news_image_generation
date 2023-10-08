@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dick Butkus, the ultimate football player, helped build the modern NFL**
+**Suspect in Josh Kruger murder 'armed and dangerous': Philadelphia PD**
 
-You can read more about it [here](https://theathletic.com/4936245/2023/10/06/dick-butkus-chicago-bears/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/06/josh-kruger-murder-suspect-wanted-philadelphia/71086750007/).
 
 ## Requirements
 - Python 3.8
