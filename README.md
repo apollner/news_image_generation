@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best Early Deals From October's Amazon Prime Day**
+**[Removed]**
 
-You can read more about it [here](https://gizmodo.com/best-early-deals-from-octobers-amazon-prime-day-1850907746).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
