@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six suspects in assassination of Ecuador candidate murdered in prison**
+**Federal judge in Oklahoma clears the way for a ban on medical care for transgender young people**
 
-You can read more about it [here](https://www.reuters.com/world/americas/six-people-implicated-ecuador-candidate-murder-killed-prison-officials-2023-10-07/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/federal-judge-oklahoma-clears-ban-medical-care-transgender-103799584).
 
 ## Requirements
 - Python 3.8
