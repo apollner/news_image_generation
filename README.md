@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Pixel 8 Pro temperature sensor won’t tell you your body temperature**
+**College football schedule today: TV coverage, scores for Big Ten games**
 
-You can read more about it [here](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature).
+You can read more about it [here](https://www.freep.com/story/sports/college/2023/10/07/college-football-schedule-today-tv-coverage-scores-big-ten-games/71075620007/).
 
 ## Requirements
 - Python 3.8
