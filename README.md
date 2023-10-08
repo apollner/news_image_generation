@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SmartThings Head Jaeyeon Jung sheds light on challenges and platform evolution [Interview] - SamMobile**
+**Outside Ofakim, anguished parents seek signs of life from kids stranded in battle zone**
 
-You can read more about it [here](https://www.sammobile.com/news/smartthings-head-jaeyeon-jung-sheds-light-on-challenges-and-platform-evolution-interview/).
+You can read more about it [here](https://www.timesofisrael.com/outside-ofakim-anguished-parents-seek-signs-of-life-from-kids-stranded-in-battle-zone/).
 
 ## Requirements
 - Python 3.8
