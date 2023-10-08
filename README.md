@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 6**
+**Weekend visit primer: Bryce James sees Ohio State; Georgia hosts a pair of five-stars, Kansas looking to close**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-6/).
+You can read more about it [here](https://247sports.com/longformarticle/college-basketball-recruiting-weekend-visit-primer-ohio-state-georgia-kansas-usc-many-others-with-big-weekends-217556834/).
 
 ## Requirements
 - Python 3.8
