@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancient Footprints in New Mexico Shift Timeline for Early Human Presence in North America**
+**Troopers who fatally shot "Cop City" activist near Atlanta won't be charged, prosecutor says**
 
-You can read more about it [here](https://scitechdaily.com/?p=315130).
+You can read more about it [here](https://www.cbsnews.com/news/no-charges-troopers-killing-cop-city-activist-manuel-paez-teran-georgia/).
 
 ## Requirements
 - Python 3.8
