@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Annular solar eclipse set to cast shadow on South Carolina, North Carolina, Georgia next week**
+**Ancient Footprints in New Mexico Shift Timeline for Early Human Presence in North America**
 
-You can read more about it [here](https://www.wyff4.com/article/solar-eclipse-south-carolina-north-carolina-georgia/45467795).
+You can read more about it [here](https://scitechdaily.com/?p=315130).
 
 ## Requirements
 - Python 3.8
