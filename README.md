@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Prime Day for October 2023 is here: Shop these deals**
+**Dolphins coach Mike McDaniel calls acquiring ex-Bears WR Chase Claypool an 'exciting opportunity'**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/10/06/amazon-prime-day-2023-october-10-deals/71076778007/).
+You can read more about it [here](https://www.foxnews.com/sports/dolphins-coach-mike-mcdaniel-calls-acquiring-ex-bears-wr-chase-claypool-exciting-opportunity).
 
 ## Requirements
 - Python 3.8
