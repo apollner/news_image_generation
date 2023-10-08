@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Outside Ofakim, anguished parents seek signs of life from kids stranded in battle zone**
+**Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared**
 
-You can read more about it [here](https://www.timesofisrael.com/outside-ofakim-anguished-parents-seek-signs-of-life-from-kids-stranded-in-battle-zone/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/).
 
 ## Requirements
 - Python 3.8
