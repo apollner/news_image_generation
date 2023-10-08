@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘The Exorcist: Believer’ Crosses Off $11.9 Million Opening Day**
+**Hamas says it has taken ‘dozens’ of Israelis hostage**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/the-exorcist-believer-opening-day-1235747626/).
+You can read more about it [here](https://www.nbcnews.com/news/world/hamas-israel-palestinian-hostages-beeri-attack-rcna119337).
 
 ## Requirements
 - Python 3.8
