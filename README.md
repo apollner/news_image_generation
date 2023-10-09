@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC pro-Palestine rally splits Democrats over Israel**
+**Shooting at Bowie State University in Maryland leaves 2 injured, say police, who believe more than 1 shooter involved**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/08/nyc-palestine-rally-democrats-israel-00120533).
+You can read more about it [here](https://www.cnn.com/2023/10/08/us/bowie-state-university-maryland-shooting/index.html).
 
 ## Requirements
 - Python 3.8
