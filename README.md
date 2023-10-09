@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'A terrible intelligence failure' Breaking down Hamas' surprise assault on Israel**
+**Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared**
 
-You can read more about it [here](https://www.youtube.com/watch?v=FDm2A1UToMs).
+You can read more about it [here](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/).
 
 ## Requirements
 - Python 3.8
