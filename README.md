@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US pro-Palestinian groups applaud Hamas terror onslaught, plan support rallies**
+**Mexican liquors and beers are on the rise in the U.S. — here’s what’s driving the torrid growth**
 
-You can read more about it [here](https://www.timesofisrael.com/us-pro-palestinian-groups-applaud-hamas-terror-onslaught-plan-support-rallies/).
+You can read more about it [here](https://www.cnbc.com/2023/10/08/mexican-tequila-and-beers-don-julio-modelo-boom-in-the-us.html).
 
 ## Requirements
 - Python 3.8
