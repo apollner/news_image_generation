@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nobel Peace Prize winner's husband speaks of her dedication to human rights**
+**US pro-Palestinian groups applaud Hamas terror onslaught, plan support rallies**
 
-You can read more about it [here](https://www.npr.org/2023/10/07/1204435309/nobel-peace-prize-winners-husband-speaks-of-her-dedication-to-human-rights).
+You can read more about it [here](https://www.timesofisrael.com/us-pro-palestinian-groups-applaud-hamas-terror-onslaught-plan-support-rallies/).
 
 ## Requirements
 - Python 3.8
