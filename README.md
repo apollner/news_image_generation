@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caste discrimination bill vetoed by Newsom**
+**'A terrible intelligence failure' Breaking down Hamas' surprise assault on Israel**
 
-You can read more about it [here](https://calmatters.org/politics/2023/10/caste-discrimination-newsom/).
+You can read more about it [here](https://www.youtube.com/watch?v=FDm2A1UToMs).
 
 ## Requirements
 - Python 3.8
