@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Airlines cancel Tel Aviv flights as Israelis abroad scramble for way home**
+**[Removed]**
 
-You can read more about it [here](https://www.timesofisrael.com/airlines-cancel-tel-aviv-flights-as-israelis-abroad-scramble-for-way-home/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
