@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli leader warns of ‘long war’ as it faces unprecedented hostage crisis following Hamas attack**
+**Dodgers expect Clayton Kershaw to pitch again vs. D-backs despite 'embarrassing' start in NLDS Game 1**
 
-You can read more about it [here](https://www.cnn.com/2023/10/08/middleeast/israel-gaza-attack-hostages-response-intl-hnk/index.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/dodgers-expect-clayton-kershaw-to-pitch-again-vs-d-backs-despite-embarrassing-start-in-nlds-game-1/).
 
 ## Requirements
 - Python 3.8
