@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Knee-jerk surge': Oil experts predict market impact of Israel-Hamas conflict**
+**No winner as Powerball jackpot soars to at least $1.55 billion**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/08/israel-hamas-oil-experts-expect-knee-jerk-reaction-in-energy-markets.html).
+You can read more about it [here](https://abcnews.go.com/US/14-billion-powerball-jackpot-prize-grabs/story?id=103807204).
 
 ## Requirements
 - Python 3.8
