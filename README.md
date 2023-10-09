@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Von Miller, Zay Jones active in London**
+**‘The Exorcist: Believer’ Possesses Box Office With $27 Million Debut**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-zay-jones-active-in-london).
+You can read more about it [here](https://variety.com/2023/film/box-office/box-office-exorcist-believer-reboot-opening-weekend-falls-short-1235748520/).
 
 ## Requirements
 - Python 3.8
