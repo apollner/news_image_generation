@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 5 odds, expert picks, best bets, teasers, spreads, survivor picks, how to watch, streaming, more**
+**Horoscope for Sunday, Oct. 8, 2023**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-how-to-watch-streaming-more/).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/8/23902584/horoscopes-today-sunday-oct-8-2023).
 
 ## Requirements
 - Python 3.8
