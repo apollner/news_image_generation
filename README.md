@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shooting at Bowie State University in Maryland leaves 2 injured, say police, who believe more than 1 shooter involved**
+**Airlines cancel Tel Aviv flights as Israelis abroad scramble for way home**
 
-You can read more about it [here](https://www.cnn.com/2023/10/08/us/bowie-state-university-maryland-shooting/index.html).
+You can read more about it [here](https://www.timesofisrael.com/airlines-cancel-tel-aviv-flights-as-israelis-abroad-scramble-for-way-home/).
 
 ## Requirements
 - Python 3.8
