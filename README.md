@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US pro-Palestinian groups applaud Hamas terror onslaught, plan support rallies**
+**NFL Week 5 odds, expert picks, best bets, teasers, spreads, survivor picks, how to watch, streaming, more**
 
-You can read more about it [here](https://www.timesofisrael.com/us-pro-palestinian-groups-applaud-hamas-terror-onslaught-plan-support-rallies/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-how-to-watch-streaming-more/).
 
 ## Requirements
 - Python 3.8
