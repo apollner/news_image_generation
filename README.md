@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared**
+**Caste discrimination bill vetoed by Newsom**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/).
+You can read more about it [here](https://calmatters.org/politics/2023/10/caste-discrimination-newsom/).
 
 ## Requirements
 - Python 3.8
