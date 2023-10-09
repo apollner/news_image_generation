@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**War in Israel tests Biden's foreign policy case for 2024**
+**Phillies click on all fronts to shut out Braves in Game 1**
 
-You can read more about it [here](https://www.nbcnews.com/politics/white-house/war-israel-tests-bidens-foreign-policy-case-2024-rcna119349).
+You can read more about it [here](https://www.mlb.com/news/phillies-win-game-1-nl-division-series-2023).
 
 ## Requirements
 - Python 3.8
