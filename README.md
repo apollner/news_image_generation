@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame's Loss to Louisville Raises Doubts on Marcus Freeman**
+**'Knee-jerk surge': Oil experts predict market impact of Israel-Hamas conflict**
 
-You can read more about it [here](https://www.si.com/college/2023/10/08/notre-dame-loss-louisville-marcus-freeman-jeff-brohm).
+You can read more about it [here](https://www.cnbc.com/2023/10/08/israel-hamas-oil-experts-expect-knee-jerk-reaction-in-energy-markets.html).
 
 ## Requirements
 - Python 3.8
