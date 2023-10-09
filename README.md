@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel battles Hamas for a second day and trades fire with Lebanon's Hezbollah**
+**Why remote jobs are paying knowledge workers to move to the Heartland**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-rockets-airstrikes-tel-aviv-ca7903976387cfc1e1011ce9ea805a71).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/10/08/remote-jobs-paying-knowledge-workers-to-move/71086636007/).
 
 ## Requirements
 - Python 3.8
