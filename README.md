@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers' Clayton Kershaw pulled from playoff start after allowing 6 runs in 1st inning - ESPN**
+**Colorado edges ASU football with late field goal for Deion Sanders' first Pac-12 win**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38598171/dodgers-clayton-kershaw-pulled-playoff-start-allowing-6-runs-1st-inning).
+You can read more about it [here](https://www.azcentral.com/story/sports/college/asu/2023/10/07/colorado-asu-football-updates-analysis-score-pac-12-college-game/71075051007/).
 
 ## Requirements
 - Python 3.8
