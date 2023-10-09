@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia vs. Kentucky live stream, watch online, TV channel, kickoff time, prediction, expert picks**
+**Dodgers' Clayton Kershaw pulled from playoff start after allowing 6 runs in 1st inning - ESPN**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/georgia-vs-kentucky-live-stream-watch-online-tv-channel-kickoff-time-prediction-expert-picks/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38598171/dodgers-clayton-kershaw-pulled-playoff-start-allowing-6-runs-1st-inning).
 
 ## Requirements
 - Python 3.8
