@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, Oct. 8, 2023**
+**Notre Dame's Loss to Louisville Raises Doubts on Marcus Freeman**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/10/8/23902584/horoscopes-today-sunday-oct-8-2023).
+You can read more about it [here](https://www.si.com/college/2023/10/08/notre-dame-loss-louisville-marcus-freeman-jeff-brohm).
 
 ## Requirements
 - Python 3.8
