@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared**
+**Georgia vs. Kentucky live stream, watch online, TV channel, kickoff time, prediction, expert picks**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/georgia-vs-kentucky-live-stream-watch-online-tv-channel-kickoff-time-prediction-expert-picks/).
 
 ## Requirements
 - Python 3.8
