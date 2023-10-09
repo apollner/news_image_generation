@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Knee-jerk surge': Oil experts predict market impact of Israel-Hamas conflict**
+**Afghanistan earthquake: Hundreds feared dead in 6.3 quake**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/08/israel-hamas-oil-experts-expect-knee-jerk-reaction-in-energy-markets.html).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67039463).
 
 ## Requirements
 - Python 3.8
