@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Exorcist: Believer’ Scares Up $45M WW Debut; ‘Paw Patrol’ Nears $100M; WB Crosses $2B Overseas For 2023 To Date – International Box Office**
+**US to send military ships, aircraft closer to Israel**
 
-You can read more about it [here](https://deadline.com/2023/10/the-exorcist-believer-opening-paw-patrol-the-mighty-movie-jawan-global-international-box-office-1235567119/).
+You can read more about it [here](https://www.reuters.com/world/us-announce-new-assistance-israel-after-hamas-attack-2023-10-08/).
 
 ## Requirements
 - Python 3.8
