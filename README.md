@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress ousting a House speaker during global threats 'was dangerous,' Republican Rep. McCaul says**
+**Former Israeli commander says Hamas hostage-taking changes the game, as families search missing for loved ones**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/08/house-speaker-ousted-dangerous-mccaul/71110339007/).
+You can read more about it [here](https://www.cbsnews.com/news/israeli-commander-hamas-hostage-taking-point-of-no-return-israel-ziv/).
 
 ## Requirements
 - Python 3.8
