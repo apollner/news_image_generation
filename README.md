@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot grows to near record levels after no winners in Saturday's drawing**
+**‘The Exorcist: Believer’ Scares Up $45M WW Debut; ‘Paw Patrol’ Nears $100M; WB Crosses $2B Overseas For 2023 To Date – International Box Office**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/10/08/saturday-powerball-jackpot-no-winners/71109765007/).
+You can read more about it [here](https://deadline.com/2023/10/the-exorcist-believer-opening-paw-patrol-the-mighty-movie-jawan-global-international-box-office-1235567119/).
 
 ## Requirements
 - Python 3.8
