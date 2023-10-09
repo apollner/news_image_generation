@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers' Clayton Kershaw pulled from playoff start after allowing 6 runs in 1st inning - ESPN**
+**Drake Eviscerates Joe Budden After Slamming His Newest Album**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38598171/dodgers-clayton-kershaw-pulled-playoff-start-allowing-6-runs-1st-inning).
+You can read more about it [here](https://www.tmz.com/2023/10/07/drake-blast-joe-budden-commentary-new-album-grow-up/).
 
 ## Requirements
 - Python 3.8
