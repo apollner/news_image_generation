@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No winner as Powerball jackpot soars to at least $1.55 billion**
+**US pro-Palestinian groups applaud Hamas terror onslaught, plan support rallies**
 
-You can read more about it [here](https://abcnews.go.com/US/14-billion-powerball-jackpot-prize-grabs/story?id=103807204).
+You can read more about it [here](https://www.timesofisrael.com/us-pro-palestinian-groups-applaud-hamas-terror-onslaught-plan-support-rallies/).
 
 ## Requirements
 - Python 3.8
