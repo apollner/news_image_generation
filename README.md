@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado edges ASU football with late field goal for Deion Sanders' first Pac-12 win**
+**War in Israel tests Biden's foreign policy case for 2024**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/college/asu/2023/10/07/colorado-asu-football-updates-analysis-score-pac-12-college-game/71075051007/).
+You can read more about it [here](https://www.nbcnews.com/politics/white-house/war-israel-tests-bidens-foreign-policy-case-2024-rcna119349).
 
 ## Requirements
 - Python 3.8
