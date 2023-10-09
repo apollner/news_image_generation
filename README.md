@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Phillies click on all fronts to shut out Braves in Game 1**
+**[Removed]**
 
-You can read more about it [here](https://www.mlb.com/news/phillies-win-game-1-nl-division-series-2023).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
