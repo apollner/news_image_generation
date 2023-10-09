@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexican liquors and beers are on the rise in the U.S. — here’s what’s driving the torrid growth**
+**All solar eclipses will be "rings of fire" in the distant future. Here's why**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/08/mexican-tequila-and-beers-don-julio-modelo-boom-in-the-us.html).
+You can read more about it [here](https://www.space.com/solar-eclipses-all-ring-shaped-future).
 
 ## Requirements
 - Python 3.8
