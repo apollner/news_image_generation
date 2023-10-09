@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel, Hezbollah exchange artillery, rocket fire**
+**Von Miller, Zay Jones active in London**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-strikes-lebanon-after-hezbollah-hits-shebaa-farms-2023-10-08/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-zay-jones-active-in-london).
 
 ## Requirements
 - Python 3.8
