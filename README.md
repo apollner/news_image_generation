@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers expect Clayton Kershaw to pitch again vs. D-backs despite 'embarrassing' start in NLDS Game 1**
+**'Knee-jerk surge': Oil experts predict market impact of Israel-Hamas conflict**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/dodgers-expect-clayton-kershaw-to-pitch-again-vs-d-backs-despite-embarrassing-start-in-nlds-game-1/).
+You can read more about it [here](https://www.cnbc.com/2023/10/08/israel-hamas-oil-experts-expect-knee-jerk-reaction-in-energy-markets.html).
 
 ## Requirements
 - Python 3.8
