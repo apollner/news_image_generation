@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany's Hamburg airport halts flights after threat to plane from Iran**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/europe/germanys-hamburg-airport-suspends-flights-due-police-measures-2023-10-09/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
