@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers Top Plays vs. Dallas Cowboys | 2023 Regular Season Week 5**
+**Sophie shares 1st post since split announcement with Joe Jonas, deletes it later**
 
-You can read more about it [here](https://www.youtube.com/watch?v=BrMqcAD3Eso).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/sophie-turner-shares-1st-post-since-split-with-joe-jonas-connection-with-taylor-swift-101696819987188.html).
 
 ## Requirements
 - Python 3.8
