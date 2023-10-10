@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA rejects Alnylam's Onpattro label expansion after adcomm voted in favor**
+**Afghanistan earthquake: More than 1,000 dead as villagers dig for survivors**
 
-You can read more about it [here](https://endpts.com/fda-rejects-alnylams-onpattro-label-expansion-after-adcomm-voted-in-favor/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67052252).
 
 ## Requirements
 - Python 3.8
