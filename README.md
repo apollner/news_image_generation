@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers hope Brock Purdy gets 'more respect' after SNF showcase - ESPN**
+**LA Knight, Iyo Sky and the Real Winners and Losers from WWE Fastlane 2023 Match Card**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38611412/49ers-hope-brock-purdy-gets-more-respect-snf-showcase).
+You can read more about it [here](https://bleacherreport.com/articles/10092577-la-knight-iyo-sky-and-the-real-winners-and-losers-from-wwe-fastlane-2023-match-card).
 
 ## Requirements
 - Python 3.8
