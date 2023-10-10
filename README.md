@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel and Palestine backers in US divided over deadly Hamas attack**
+**New York Jets vs. Denver Broncos | 2023 Week 5 Game Highlights**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/08/israel-palestine-supporters-rallies-hamas-attack-united-states/71112473007/).
+You can read more about it [here](https://www.youtube.com/watch?v=jdY86oghPQc).
 
 ## Requirements
 - Python 3.8
