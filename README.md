@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Food Network star Michael Chiarello dead at 61 from 'acute allergic reaction'**
+**2 shot on Bowie State University campus as homecoming concludes**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/food-network-star-michael-chiarello-dead-61).
+You can read more about it [here](https://www.wbaltv.com/article/bowie-state-university-shooting/45475992).
 
 ## Requirements
 - Python 3.8
