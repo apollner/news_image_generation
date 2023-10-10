@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. sends aid to Israel, moves military ships closer to "bolster regional deterrence efforts"**
+**Israel and Palestine backers in US divided over deadly Hamas attack**
 
-You can read more about it [here](https://www.axios.com/2023/10/08/israel-hamas-war-us-military-aid-pentagon-gaza).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/08/israel-palestine-supporters-rallies-hamas-attack-united-states/71112473007/).
 
 ## Requirements
 - Python 3.8
