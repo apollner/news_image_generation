@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jets players back OC Nathaniel Hackett in win over Broncos: 'Getting this win for him was very huge'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/jets-players-back-oc-nathaniel-hackett-in-win-over-broncos-getting-this-win-for-).
 
 ## Requirements
 - Python 3.8
