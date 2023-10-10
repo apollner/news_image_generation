@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Stock Needs a Lift. Activist Nelson Peltz Raises Stake, Seeks Board Seat.**
+**What the Steelers Said After Beating Ravens**
 
-You can read more about it [here](https://www.barrons.com/articles/disney-stock-price-nelson-peltz-activist-5a281270).
+You can read more about it [here](https://www.baltimoreravens.com/news/what-steelers-said-ravens-beating-week-5-2023).
 
 ## Requirements
 - Python 3.8
