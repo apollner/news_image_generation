@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophie shares 1st post since split announcement with Joe Jonas, deletes it later**
+**Aid group warns devastation from Afghanistan earthquake ‘worse than we imagined’**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/sophie-turner-shares-1st-post-since-split-with-joe-jonas-connection-with-taylor-swift-101696819987188.html).
+You can read more about it [here](https://www.cnn.com/2023/10/09/world/herat-afghanistan-earthquake-aid-challenges-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
