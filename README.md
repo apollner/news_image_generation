@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Misses Chiefs-Vikings Game, Travis Kelce Sustains Apparent Ankle Injury**
+**Michael Chiarello, Food Network chef, dead at 61**
 
-You can read more about it [here](https://www.billboard.com/music/music-news/chiefs-vikings-taylor-swift-travis-kelce-injury-1235436777/).
+You can read more about it [here](https://www.cnn.com/2023/10/08/entertainment/michael-chiarello-death/index.html).
 
 ## Requirements
 - Python 3.8
