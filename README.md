@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese leader Xi strengthens statement on Israel after pressure from Schumer**
+**Israel-Gaza live updates: Israel mobilizes a record 300,000 reservists; Gaza under ‘complete siege’**
 
-You can read more about it [here](https://thehill.com/policy/international/4245686-chinese-leader-xi-strengthens-statement-on-israel-after-pressure-from-schumer/).
+You can read more about it [here](https://www.cnbc.com/2023/10/09/israel-hamas-live-updates.html).
 
 ## Requirements
 - Python 3.8
