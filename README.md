@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the Steelers Said After Beating Ravens**
+**New California law won't ban Skittles, but could change food additives**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/what-steelers-said-ravens-beating-week-5-2023).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/09/skittle-ban-california-law-additives/71116657007/).
 
 ## Requirements
 - Python 3.8
