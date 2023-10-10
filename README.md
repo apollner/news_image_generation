@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghanistan earthquake: More than 1,000 dead as villagers dig for survivors**
+**S&P 500 falls to start the week after Hamas attack against Israel: Live updates**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67052252).
+You can read more about it [here](https://www.cnbc.com/2023/10/08/dow-futures-open-180-points-lower-after-hamas-attack-against-israel.html).
 
 ## Requirements
 - Python 3.8
