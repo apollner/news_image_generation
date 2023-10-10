@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 falls to start the week after Hamas attack against Israel: Live updates**
+**Justice Department fights Trump effort to push Mar-a-Lago trial until after 2024 election**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/08/dow-futures-open-180-points-lower-after-hamas-attack-against-israel.html).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4245562-justice-department-fights-trump-effort-to-push-mar-a-lago-trial-until-after-2024-election/).
 
 ## Requirements
 - Python 3.8
