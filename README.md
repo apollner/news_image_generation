@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LA Knight, Iyo Sky and the Real Winners and Losers from WWE Fastlane 2023 Match Card**
+**[Removed]**
 
-You can read more about it [here](https://bleacherreport.com/articles/10092577-la-knight-iyo-sky-and-the-real-winners-and-losers-from-wwe-fastlane-2023-match-card).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
