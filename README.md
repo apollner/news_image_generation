@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 shot on Bowie State University campus as homecoming concludes**
+**San Francisco 49ers Top Plays vs. Dallas Cowboys | 2023 Regular Season Week 5**
 
-You can read more about it [here](https://www.wbaltv.com/article/bowie-state-university-shooting/45475992).
+You can read more about it [here](https://www.youtube.com/watch?v=BrMqcAD3Eso).
 
 ## Requirements
 - Python 3.8
