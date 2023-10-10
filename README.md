@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New California law won't ban Skittles, but could change food additives**
+**Meta Quest 3 takes a step closer to mainstream AR/VR**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/10/09/skittle-ban-california-law-additives/71116657007/).
+You can read more about it [here](https://techcrunch.com/2023/10/09/meta-quest-3-takes-a-step-closer-to-mainstream-ar-vr/).
 
 ## Requirements
 - Python 3.8
