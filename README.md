@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aid group warns devastation from Afghanistan earthquake ‘worse than we imagined’**
+**San Francisco 49ers Top Plays vs. Dallas Cowboys | 2023 Regular Season Week 5**
 
-You can read more about it [here](https://www.cnn.com/2023/10/09/world/herat-afghanistan-earthquake-aid-challenges-intl-hnk/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=BrMqcAD3Eso).
 
 ## Requirements
 - Python 3.8
