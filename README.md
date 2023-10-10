@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta Quest 3 takes a step closer to mainstream AR/VR**
+**New type of heart disease identified and 1 in 3 adults are at risk**
 
-You can read more about it [here](https://techcrunch.com/2023/10/09/meta-quest-3-takes-a-step-closer-to-mainstream-ar-vr/).
+You can read more about it [here](https://www.youtube.com/watch?v=viYkmUZvffc).
 
 ## Requirements
 - Python 3.8
