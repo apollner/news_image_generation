@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Chiarello, Food Network chef, dead at 61**
+**Republican Senators bash Biden's $6B Iran deal in push to support Israel**
 
-You can read more about it [here](https://www.cnn.com/2023/10/08/entertainment/michael-chiarello-death/index.html).
+You can read more about it [here](https://www.foxnews.com/politics/republican-senators-bash-bidens-6b-iran-deal-push-support-for-israel).
 
 ## Requirements
 - Python 3.8
