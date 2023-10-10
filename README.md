@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican Senators bash Biden's $6B Iran deal in push to support Israel**
+**NFL Week 5 grades: 49ers earn an 'A+' for destroying Cowboys, Patriots get an 'F' after blowout loss to Saints**
 
-You can read more about it [here](https://www.foxnews.com/politics/republican-senators-bash-bidens-6b-iran-deal-push-support-for-israel).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-grades-49ers-earn-an-a-for-destroying-cowboys-patriots-get-an-f-after-blowout-loss-to-saints/).
 
 ## Requirements
 - Python 3.8
