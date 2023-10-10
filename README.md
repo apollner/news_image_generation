@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major airlines halt flights to Israel after Hamas incursion**
+**FDA rejects Alnylam's Onpattro label expansion after adcomm voted in favor**
 
-You can read more about it [here](https://www.ft.com/content/9641a743-dc56-4ca2-aa67-dd3b6a732eca).
+You can read more about it [here](https://endpts.com/fda-rejects-alnylams-onpattro-label-expansion-after-adcomm-voted-in-favor/).
 
 ## Requirements
 - Python 3.8
