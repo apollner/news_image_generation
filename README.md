@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sister Wives' Christine Brown Says She's "So Blessed" After Wedding to David Woolley**
+**2 shot on Bowie State University campus as homecoming concludes**
 
-You can read more about it [here](https://www.eonline.com/news/1387385/sister-wives-christine-brown-says-shes-so-blessed-after-wedding-to-david-woolley).
+You can read more about it [here](https://www.wbaltv.com/article/bowie-state-university-shooting/45475992).
 
 ## Requirements
 - Python 3.8
