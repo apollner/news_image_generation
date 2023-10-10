@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York Jets vs. Denver Broncos | 2023 Week 5 Game Highlights**
+**Taylor Swift Misses Chiefs-Vikings Game, Travis Kelce Sustains Apparent Ankle Injury**
 
-You can read more about it [here](https://www.youtube.com/watch?v=jdY86oghPQc).
+You can read more about it [here](https://www.billboard.com/music/music-news/chiefs-vikings-taylor-swift-travis-kelce-injury-1235436777/).
 
 ## Requirements
 - Python 3.8
