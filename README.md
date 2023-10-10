@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran prisoner swap for $6 billion in spotlight after Hamas attacks Israel**
+**49ers hope Brock Purdy gets 'more respect' after SNF showcase - ESPN**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iran-prisoner-swap-6-billion-spotlight-after-hamas-attacks-israel-2023-10-09/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38611412/49ers-hope-brock-purdy-gets-more-respect-snf-showcase).
 
 ## Requirements
 - Python 3.8
