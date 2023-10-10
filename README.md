@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers Top Plays vs. Dallas Cowboys | 2023 Regular Season Week 5**
+**Iran prisoner swap for $6 billion in spotlight after Hamas attacks Israel**
 
-You can read more about it [here](https://www.youtube.com/watch?v=BrMqcAD3Eso).
+You can read more about it [here](https://www.reuters.com/world/middle-east/iran-prisoner-swap-6-billion-spotlight-after-hamas-attacks-israel-2023-10-09/).
 
 ## Requirements
 - Python 3.8
