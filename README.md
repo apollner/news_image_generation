@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 5 grades: 49ers earn an 'A+' for destroying Cowboys, Patriots get an 'F' after blowout loss to Saints**
+**Sister Wives' Christine Brown Says She's "So Blessed" After Wedding to David Woolley**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-5-grades-49ers-earn-an-a-for-destroying-cowboys-patriots-get-an-f-after-blowout-loss-to-saints/).
+You can read more about it [here](https://www.eonline.com/news/1387385/sister-wives-christine-brown-says-shes-so-blessed-after-wedding-to-david-woolley).
 
 ## Requirements
 - Python 3.8
