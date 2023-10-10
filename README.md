@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza live updates: Israel mobilizes a record 300,000 reservists; Gaza under ‘complete siege’**
+**Google's Pixel 8 Software Update Plan Could Help All Phone Buyers**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/09/israel-hamas-live-updates.html).
+You can read more about it [here](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-could-help-all-phone-buyers/).
 
 ## Requirements
 - Python 3.8
