@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets Fan Rich Eisen & Browns Fan Andrew Siciliano’s Advice for Dejected Patriots Fan Chris Brockman**
+**Gigi Hadid and Bradley Cooper Spotted Spending Time Together in NYC**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vhI7orIic2g).
+You can read more about it [here](https://www.eonline.com/news/1387440/gigi-hadid-and-bradley-cooper-spotted-spending-time-together-in-nyc).
 
 ## Requirements
 - Python 3.8
