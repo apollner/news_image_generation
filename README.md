@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department fights Trump effort to push Mar-a-Lago trial until after 2024 election**
+**Disney Stock Needs a Lift. Activist Nelson Peltz Raises Stake, Seeks Board Seat.**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4245562-justice-department-fights-trump-effort-to-push-mar-a-lago-trial-until-after-2024-election/).
+You can read more about it [here](https://www.barrons.com/articles/disney-stock-price-nelson-peltz-activist-5a281270).
 
 ## Requirements
 - Python 3.8
