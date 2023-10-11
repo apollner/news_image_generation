@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Pixel 8 Software Update Plan Could Help All Phone Buyers**
+**Former Texas Rep. Will Hurd suspends long-shot GOP 2024 presidential bid, endorses Nikki Haley**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-could-help-all-phone-buyers/).
+You can read more about it [here](https://apnews.com/article/will-hurd-ends-2024-presidential-campaign-c34b3c8d9ef44126e8e36623b1dc3021).
 
 ## Requirements
 - Python 3.8
