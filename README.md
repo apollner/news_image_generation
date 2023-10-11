@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says 14 Americans killed by Hamas in Israel, U.S. citizens among hostages: "Sheer evil"**
+**Europe gives Elon Musk 24 hours to respond about Israel-Hamas war misinformation and violence on X, formerly Twitter**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-remarks-hamas-attack-on-israel-2023-10-10/).
+You can read more about it [here](https://www.cnbc.com/2023/10/10/elon-musk-warned-about-misinformation-violent-content-on-x-by-eu.html).
 
 ## Requirements
 - Python 3.8
