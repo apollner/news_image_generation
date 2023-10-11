@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AOC knocks 'bigotry and callousness' at Times Square rally for Palestine**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/10/aoc-pro-palestine-nyc-rally-00120684).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
