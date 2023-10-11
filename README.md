@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coolant Leak on ISS Raises Concerns Over Russian Space Program**
+**Israel and Hamas at war after Palestinian militants launch deadly attacks from Gaza**
 
-You can read more about it [here](https://www.sciencealert.com/coolant-leak-on-iss-raises-concerns-over-russian-space-program).
+You can read more about it [here](https://www.cbsnews.com/live-updates/israel-hamas-palestinian-war-attacks-gaza-strip/).
 
 ## Requirements
 - Python 3.8
