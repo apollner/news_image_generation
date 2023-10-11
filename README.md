@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's Khamenei says Tehran was not behind Hamas attack on Israel**
+**Jewish Orgs Support Kylie Jenner for Deleted Israel Post, Shame Her Critics**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/irans-khamenei-says-tehran-was-not-behind-hamas-attack-israel-2023-10-10/).
+You can read more about it [here](https://www.tmz.com/2023/10/10/jewish-orgs-stand-up-kylie-jenner-israel-post/).
 
 ## Requirements
 - Python 3.8
