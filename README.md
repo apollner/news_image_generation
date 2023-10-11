@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A radiator circuit on the ISS is leaking**
+**warplanes warships pentagon israel hamas**
 
-You can read more about it [here](https://www.cnn.com/2023/10/09/world/russia-space-station-iss-coolant-leak-nauka-scn/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/09/warplanes-warships-pentagon-israel-hamas/71113691007/).
 
 ## Requirements
 - Python 3.8
