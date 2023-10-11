@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bodies of residents and militants lie in the grounds of ravaged Israeli kibbutz**
+**Week 6 Fantasy Football Defense (DST) Rankings and Streamers**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/bodies-residents-militants-lie-grounds-ravaged-israeli-kibbutz-2023-10-10/).
+You can read more about it [here](https://www.nbcsports.com/fantasy/football/news/week-6-fantasy-football-defense-dst-rankings-and-streamers).
 
 ## Requirements
 - Python 3.8
