@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Jonas, Sophie Turner Reach Temporary Custody Agreement for Daughters**
+**RFK Jr. super PAC raises $11 million within hours and courts Elon Musk's support**
 
-You can read more about it [here](https://people.com/joe-jonas-sophie-turner-reach-temporary-custody-arrangement-for-daughters-through-early-2024-7965826).
+You can read more about it [here](https://www.politico.com/news/2023/10/10/rfk-jr-raises-11-million-elon-musk-00120731).
 
 ## Requirements
 - Python 3.8
