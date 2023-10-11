@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia shares pick up after Fed rate comments; oil dips**
+**Powerball jackpot rises to $1.73B after no winners in Monday night's drawing**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-10-10/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-rises-1-73-billion-no-winners-monday-nights-drawing).
 
 ## Requirements
 - Python 3.8
