@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds killed in attack on music festival in Israel**
+**Iran's Khamenei says Tehran was not behind Hamas attack on Israel**
 
-You can read more about it [here](https://www.cbsnews.com/video/hundreds-killed-in-attack-on-music-festival-in-israel/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/irans-khamenei-says-tehran-was-not-behind-hamas-attack-israel-2023-10-10/).
 
 ## Requirements
 - Python 3.8
