@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**warplanes warships pentagon israel hamas**
+**Bodies of residents and militants lie in the grounds of ravaged Israeli kibbutz**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/09/warplanes-warships-pentagon-israel-hamas/71113691007/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/bodies-residents-militants-lie-grounds-ravaged-israeli-kibbutz-2023-10-10/).
 
 ## Requirements
 - Python 3.8
