@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gigi Hadid and Bradley Cooper Spotted Spending Time Together in NYC**
+**2 Federal Reserve officials say spike in bond yields may allow central bank to leave rates alone**
 
-You can read more about it [here](https://www.eonline.com/news/1387440/gigi-hadid-and-bradley-cooper-spotted-spending-time-together-in-nyc).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/2-federal-reserve-officials-spike-bond-yields-central-103838340).
 
 ## Requirements
 - Python 3.8
