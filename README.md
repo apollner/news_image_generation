@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden gave 'voluntary interview' to special counsel investigating his handling of classified docs**
+**Schumer, U.S. senators meet China's Xi in latest diplomatic outreach**
 
-You can read more about it [here](https://abcnews.go.com/Politics/biden-gave-voluntary-interview-special-counsel-investigating-handling/story?id=103846667).
+You can read more about it [here](https://www.axios.com/2023/10/09/schumer-senators-xi-china-meeting).
 
 ## Requirements
 - Python 3.8
