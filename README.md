@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Texas Rep. Will Hurd suspends long-shot GOP 2024 presidential bid, endorses Nikki Haley**
+**Coolant Leak on ISS Raises Concerns Over Russian Space Program**
 
-You can read more about it [here](https://apnews.com/article/will-hurd-ends-2024-presidential-campaign-c34b3c8d9ef44126e8e36623b1dc3021).
+You can read more about it [here](https://www.sciencealert.com/coolant-leak-on-iss-raises-concerns-over-russian-space-program).
 
 ## Requirements
 - Python 3.8
