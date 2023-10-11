@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schumer, U.S. senators meet China's Xi in latest diplomatic outreach**
+**Israel-Hamas war live updates: More than 100 Israelis thought to be held hostage by Hamas**
 
-You can read more about it [here](https://www.axios.com/2023/10/09/schumer-senators-xi-china-meeting).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/10/israel-hamas-war-gaza-attack-updates/).
 
 ## Requirements
 - Python 3.8
