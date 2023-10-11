@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Federal Reserve officials say spike in bond yields may allow central bank to leave rates alone**
+**Taylor Swift's Old 'Soccer Mom' Impression Goes Viral Amid Travis Kelce Frenzy**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/2-federal-reserve-officials-spike-bond-yields-central-103838340).
+You can read more about it [here](https://www.huffpost.com/entry/taylor-swift-minnesota-soccer-mom-impression_n_65244f36e4b09f4b8d4164c1).
 
 ## Requirements
 - Python 3.8
