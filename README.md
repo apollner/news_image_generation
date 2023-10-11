@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Israel mobilizes troops; Hamas armed wing warns Ashkelon citizens to leave**
+**Joe Jonas, Sophie Turner Reach Temporary Custody Agreement for Daughters**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/10/israel-hamas-gaza-live-updates.html).
+You can read more about it [here](https://people.com/joe-jonas-sophie-turner-reach-temporary-custody-arrangement-for-daughters-through-early-2024-7965826).
 
 ## Requirements
 - Python 3.8
