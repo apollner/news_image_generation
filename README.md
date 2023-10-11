@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel steps up Gaza strikes and battles Hamas fighters as deaths near 1,200**
+**Former Texas Rep. Will Hurd suspends long-shot GOP 2024 presidential bid, endorses Nikki Haley**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-airstrikes-hostages-4377e096f62bf535bebcdff38cf16049).
+You can read more about it [here](https://apnews.com/article/will-hurd-ends-2024-presidential-campaign-c34b3c8d9ef44126e8e36623b1dc3021).
 
 ## Requirements
 - Python 3.8
