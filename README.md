@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gigi Hadid and Bradley Cooper Spotted Spending Time Together in NYC**
+**Airlines cut flights in Israel during war with Hamas**
 
-You can read more about it [here](https://www.eonline.com/news/1387440/gigi-hadid-and-bradley-cooper-spotted-spending-time-together-in-nyc).
+You can read more about it [here](https://www.washingtonpost.com/travel/2023/10/09/israel-flights-war-hamas/).
 
 ## Requirements
 - Python 3.8
