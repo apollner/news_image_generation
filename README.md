@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard head says students don’t speak for school after widely condemned Hamas-Israel statement**
+**Biden says 14 Americans killed by Hamas in Israel, U.S. citizens among hostages: "Sheer evil"**
 
-You can read more about it [here](https://thehill.com/homenews/education/4248087-harvard-statement-hamas-israel-students/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-remarks-hamas-attack-on-israel-2023-10-10/).
 
 ## Requirements
 - Python 3.8
