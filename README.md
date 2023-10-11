@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jewish Orgs Support Kylie Jenner for Deleted Israel Post, Shame Her Critics**
+**AOC knocks 'bigotry and callousness' at Times Square rally for Palestine**
 
-You can read more about it [here](https://www.tmz.com/2023/10/10/jewish-orgs-stand-up-kylie-jenner-israel-post/).
+You can read more about it [here](https://www.politico.com/news/2023/10/10/aoc-pro-palestine-nyc-rally-00120684).
 
 ## Requirements
 - Python 3.8
