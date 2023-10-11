@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's Old 'Soccer Mom' Impression Goes Viral Amid Travis Kelce Frenzy**
+**Hamas threatens to execute Israeli hostages on camera leaving Jewish state in desperate race to find, free them from terror group**
 
-You can read more about it [here](https://www.huffpost.com/entry/taylor-swift-minnesota-soccer-mom-impression_n_65244f36e4b09f4b8d4164c1).
+You can read more about it [here](https://nypost.com/2023/10/09/hamas-threatens-to-execute-israeli-hostages-on-camera/).
 
 ## Requirements
 - Python 3.8
