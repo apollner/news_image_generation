@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PepsiCo beats Wall Street estimates, raises earnings outlook**
+**A radiator circuit on the ISS is leaking**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/10/pepsico-pep-q3-2023-earnings.html).
+You can read more about it [here](https://www.cnn.com/2023/10/09/world/russia-space-station-iss-coolant-leak-nauka-scn/index.html).
 
 ## Requirements
 - Python 3.8
