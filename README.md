@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 6 Fantasy Football Defense (DST) Rankings and Streamers**
+**Which airlines paused or cancelled flights to Israel after Hamas attacks?**
 
-You can read more about it [here](https://www.nbcsports.com/fantasy/football/news/week-6-fantasy-football-defense-dst-rankings-and-streamers).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/10/which-airlines-paused-or-cancelled-flights-to-israel-after-hamas-attacks).
 
 ## Requirements
 - Python 3.8
