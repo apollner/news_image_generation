@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Texas Rep. Will Hurd suspends long-shot GOP 2024 presidential bid, endorses Nikki Haley**
+**Gigi Hadid and Bradley Cooper Spotted Spending Time Together in NYC**
 
-You can read more about it [here](https://apnews.com/article/will-hurd-ends-2024-presidential-campaign-c34b3c8d9ef44126e8e36623b1dc3021).
+You can read more about it [here](https://www.eonline.com/news/1387440/gigi-hadid-and-bradley-cooper-spotted-spending-time-together-in-nyc).
 
 ## Requirements
 - Python 3.8
