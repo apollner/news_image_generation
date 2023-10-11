@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Airlines cut flights in Israel during war with Hamas**
+**Google's Pixel 8 Software Update Plan Could Help All Phone Buyers**
 
-You can read more about it [here](https://www.washingtonpost.com/travel/2023/10/09/israel-flights-war-hamas/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-could-help-all-phone-buyers/).
 
 ## Requirements
 - Python 3.8
