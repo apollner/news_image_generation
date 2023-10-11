@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: More than 100 Israelis thought to be held hostage by Hamas**
+**Hundreds killed in attack on music festival in Israel**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/10/israel-hamas-war-gaza-attack-updates/).
+You can read more about it [here](https://www.cbsnews.com/video/hundreds-killed-in-attack-on-music-festival-in-israel/).
 
 ## Requirements
 - Python 3.8
