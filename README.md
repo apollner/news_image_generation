@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. super PAC raises $11 million within hours and courts Elon Musk's support**
+**Food Network Star Michael Chiarello's Company Addresses His Fatal Allergic Reaction**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/10/rfk-jr-raises-11-million-elon-musk-00120731).
+You can read more about it [here](https://www.eonline.com/news/1387539/food-network-star-michael-chiarellos-company-addresses-his-fatal-allergic-reaction).
 
 ## Requirements
 - Python 3.8
