@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas threatens to execute Israeli hostages on camera leaving Jewish state in desperate race to find, free them from terror group**
+**Israel steps up Gaza strikes and battles Hamas fighters as deaths near 1,200**
 
-You can read more about it [here](https://nypost.com/2023/10/09/hamas-threatens-to-execute-israeli-hostages-on-camera/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-airstrikes-hostages-4377e096f62bf535bebcdff38cf16049).
 
 ## Requirements
 - Python 3.8
