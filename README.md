@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**PepsiCo beats Wall Street estimates, raises earnings outlook**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2023/10/10/pepsico-pep-q3-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
