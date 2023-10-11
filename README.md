@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Which airlines paused or cancelled flights to Israel after Hamas attacks?**
+**‘Seinfeld’ Reunion? Jerry Seinfeld Says ‘Something Is Going to Happen’ Related to Sitcom’s Divisive Finale**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/10/which-airlines-paused-or-cancelled-flights-to-israel-after-hamas-attacks).
+You can read more about it [here](https://variety.com/2023/tv/news/seinfeld-reunion-jerry-seinfeld-teases-finale-revival-project-1235750552/).
 
 ## Requirements
 - Python 3.8
