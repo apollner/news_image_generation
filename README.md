@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Which airlines paused or cancelled flights to Israel after Hamas attacks?**
+**A radiator circuit on the ISS is leaking**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/10/which-airlines-paused-or-cancelled-flights-to-israel-after-hamas-attacks).
+You can read more about it [here](https://www.cnn.com/2023/10/09/world/russia-space-station-iss-coolant-leak-nauka-scn/index.html).
 
 ## Requirements
 - Python 3.8
