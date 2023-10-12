@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The $180 Intel Arc A580 is Team Blue's new budget GPU**
+**James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door (photo)**
 
-You can read more about it [here](https://www.theverge.com/2023/10/10/23911902/intel-arc-a580-announcement-performance-price-nvidia-amd).
+You can read more about it [here](https://www.space.com/young-stars-jwst-photo-cosmic-noon).
 
 ## Requirements
 - Python 3.8
