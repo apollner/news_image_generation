@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel bombs south Lebanon after Hezbollah rocket fire**
+**Nintendo Switch Exclusives Get Big Discounts For Prime Day**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-reports-cross-border-fire-lebanon-where-residents-say-israeli-shelling-2023-10-11/).
+You can read more about it [here](https://www.gamespot.com/articles/nintendo-switch-exclusives-get-big-discounts-for-prime-day/1100-6518328/).
 
 ## Requirements
 - Python 3.8
