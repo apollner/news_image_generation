@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The massacre in Kfar Azza, an Israeli town destroyed by Hamas militants**
+**Israel bolsters troops at border with Gaza as details of Hamas attacks emerge**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/10/israel-hamas-attack-war-death/).
+You can read more about it [here](https://www.cnn.com/2023/10/10/middleeast/israel-gaza-siege-hamas-tuesday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
