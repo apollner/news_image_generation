@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Not 'little adults': Experts say long COVID undercounted, misdiagnosed in kids**
+**The massacre in Kfar Azza, an Israeli town destroyed by Hamas militants**
 
-You can read more about it [here](https://www.cidrap.umn.edu/covid-19/not-little-adults-experts-say-long-covid-undercounted-misdiagnosed-kids).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/10/israel-hamas-attack-war-death/).
 
 ## Requirements
 - Python 3.8
