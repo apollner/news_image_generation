@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican lawmakers to introduce resolution to expel Rep. George Santos from Congress**
+**The best Nintendo Switch Prime Day deals you can shop right now**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/new-york-house-republicans-introduce-resolution-expel-rep-george-santo-rcna119917).
+You can read more about it [here](https://www.engadget.com/the-best-nintendo-switch-prime-day-deals-you-can-shop-right-now-165501176.html).
 
 ## Requirements
 - Python 3.8
