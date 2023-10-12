@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP picks Steve Scalise as speaker nominee, but unclear if he can get the votes to win gavel**
+**Many dog owners have 'canine vaccine hesitancy,' a survey finds : Shots - Health News**
 
-You can read more about it [here](https://www.cnn.com/2023/10/11/politics/house-republicans-speaker-election/index.html).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2023/10/11/1205016558/canine-vaccine-hesitancy-dogs-rabies).
 
 ## Requirements
 - Python 3.8
