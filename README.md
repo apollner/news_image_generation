@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats play defense on Biden’s $6 billion Iran deal**
+**Israel steps up Gaza offensive as brutality of Hamas attacks laid bare**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4248697-democrats-play-defense-on-bidens-6-billion-iran-deal/).
+You can read more about it [here](https://www.cnn.com/2023/10/11/middleeast/israel-gaza-hamas-war-wednesday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
