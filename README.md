@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel news: Among Hamas hostages is an American mom. Here's her story**
+**Democrats play defense on Biden’s $6 billion Iran deal**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/11/israel-hamas-war-americans-taken-from-kibbutz/71134248007/).
+You can read more about it [here](https://thehill.com/homenews/senate/4248697-democrats-play-defense-on-bidens-6-billion-iran-deal/).
 
 ## Requirements
 - Python 3.8
