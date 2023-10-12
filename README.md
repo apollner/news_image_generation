@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Makhachev-Volkanovski 2: UFC 294 has a new main event with just days to spare ... now what? - ESPN**
+**The best Nintendo Switch Prime Day deals you can shop right now**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/38628880/islam-makhachev-alexander-volkanovski-2-ufc-294-new-main-event-just-days-spare-now-what).
+You can read more about it [here](https://www.engadget.com/the-best-nintendo-switch-prime-day-deals-you-can-shop-right-now-165501176.html).
 
 ## Requirements
 - Python 3.8
