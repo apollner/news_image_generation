@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB playoffs 2023: Despite Orioles' ALDS loss, the future is bright - ESPN**
+**Birkenstock prices US IPO at $46 per share**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38629031/orioles-alds-loss-texas-rangers-playoffs-2023).
+You can read more about it [here](https://www.reuters.com/markets/deals/birkenstock-prices-us-ipo-46-per-share-sources-2023-10-10/).
 
 ## Requirements
 - Python 3.8
