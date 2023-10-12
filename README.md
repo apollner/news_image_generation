@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comparing flu, COVID, cold and RSV: Understanding the differences and how to protect yourself**
+**Google Pixel 8 and Pixel 8 Pro review: AI brains and plenty of brawn**
 
-You can read more about it [here](https://www.wral.com/story/coronavirus/story/comparing-flu-covid-cold-and-rsv-understanding-the-differences-and-how-to-protect-yourself/21090435/).
+You can read more about it [here](https://finance.yahoo.com/news/google-pixel-8-and-pixel-8-pro-review-ai-brains-and-plenty-of-brawn-030039279.html).
 
 ## Requirements
 - Python 3.8
