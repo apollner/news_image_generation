@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jada Pinkett Smith reveals she, Will Smith were separated for 6 years before Oscars slap**
+**NASA's Psyche mission is headed out to an asteroid that's made of metal**
 
-You can read more about it [here](https://pagesix.com/2023/10/11/jada-pinkett-smith-will-smith-were-separated-before-oscars-slap/).
+You can read more about it [here](https://www.npr.org/2023/10/11/1204867862/this-next-nasa-mission-to-an-asteroid-is-seriously-metal).
 
 ## Requirements
 - Python 3.8
