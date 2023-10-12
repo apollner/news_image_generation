@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce, Taylor Swift had 'chill night' for Chiefs star's birthday**
+**‘Hauntingly beautiful’ image of horseshoe crab wins Wildlife Photographer of the Year 2023**
 
-You can read more about it [here](https://nypost.com/2023/10/10/travis-kelce-taylor-swift-had-chill-night-for-chiefs-stars-birthday/).
+You can read more about it [here](https://www.cnn.com/travel/wildlife-photographer-of-the-year-2023-scn-c2e-spc-intl/index.html).
 
 ## Requirements
 - Python 3.8
