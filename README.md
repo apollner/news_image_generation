@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door (photo)**
+**Israel bombs Gaza for fourth day as Hamas, Palestinian civilians, wait for next phase in war**
 
-You can read more about it [here](https://www.space.com/young-stars-jwst-photo-cosmic-noon).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-palestinians-death-toll-ground-offensive-expected/).
 
 ## Requirements
 - Python 3.8
