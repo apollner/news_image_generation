@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humanitarian efforts in Israel are supplying lone soldiers food and necessities upon request**
+**Cowboys' Dan Quinn 'bummed' about blowout loss to 49ers but determined not to 'let this game beat us twice'**
 
-You can read more about it [here](https://www.foxnews.com/world/israel-hamas-war-lone-soldier-military-donations-help-support).
+You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-dan-quinn-bummed-about-blowout-loss-to-49ers-but-determined-not-to-let-this-game-beat-us-twice/).
 
 ## Requirements
 - Python 3.8
