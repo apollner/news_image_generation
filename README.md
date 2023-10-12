@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel bombs Gaza for fourth day as Hamas, Palestinian civilians, wait for next phase in war**
+**McCarthy slams Dem leaders for not denouncing Tlaib’s Hamas attack statement**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-palestinians-death-toll-ground-offensive-expected/).
+You can read more about it [here](https://thehill.com/homenews/house/4248973-mccarthy-slams-dem-leaders-not-denouncing-tlaibs-hamas-attack-statement/).
 
 ## Requirements
 - Python 3.8
