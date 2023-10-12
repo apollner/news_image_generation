@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros vs. Twins: Houston defeats Minnesota 9-1 in Game 3 after Jose Abreu, Alex Bregman, Yordan Alvarez home runs**
+**Not 'little adults': Experts say long COVID undercounted, misdiagnosed in kids**
 
-You can read more about it [here](https://abc13.com/astros-starting-lineup-today-target-field-cristian-javier-vs-twins-sonny-gray-houston/13888942/).
+You can read more about it [here](https://www.cidrap.umn.edu/covid-19/not-little-adults-experts-say-long-covid-undercounted-misdiagnosed-kids).
 
 ## Requirements
 - Python 3.8
