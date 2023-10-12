@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel bolsters troops at border with Gaza as details of Hamas attacks emerge**
+**Chef Michael Chiarello's death and the risk of allergies: What to know**
 
-You can read more about it [here](https://www.cnn.com/2023/10/10/middleeast/israel-gaza-siege-hamas-tuesday-intl-hnk/index.html).
+You can read more about it [here](https://www.usatoday.com/story/life/health-wellness/2023/10/10/chef-michael-chiarello-death-deadly-risk-of-allergies-what-to-know/71131853007/).
 
 ## Requirements
 - Python 3.8
