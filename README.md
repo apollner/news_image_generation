@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel urges citizens in the north to shelter after hostile aircraft enters from Lebanon**
+**‘Daredevil’ Hits Reset Button as Marvel Overhauls Its TV Business**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zS2sz91SLRY).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/daredevil-marvel-disney-1235614518/).
 
 ## Requirements
 - Python 3.8
