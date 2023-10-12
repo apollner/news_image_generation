@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli PM Netanyahu, opposition leader Gantz to form emergency unity gov’t**
+**Israel steps up Gaza offensive as brutality of Hamas attacks laid bare**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/11/israeli-pm-netanyahu-opposition-leader-gantz-to-form-emergency-unity-govt).
+You can read more about it [here](https://www.cnn.com/2023/10/11/middleeast/israel-gaza-hamas-war-wednesday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
