@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys' Dan Quinn 'bummed' about blowout loss to 49ers but determined not to 'let this game beat us twice'**
+**FTX founder Sam Bankman-Fried hoped to be US president someday: Star witness Caroline Ellison - Times of India**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-dan-quinn-bummed-about-blowout-loss-to-49ers-but-determined-not-to-let-this-game-beat-us-twice/).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/us/ftx-founder-sam-bankman-fried-hoped-to-be-us-president-someday-star-witness-caroline-ellison/articleshow/104328367.cms).
 
 ## Requirements
 - Python 3.8
