@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Mental Health Day gets a Harry-and-Meghan boost**
+**Israel pounds Gaza by air; Biden condemns 'evil' Hamas attacks**
 
-You can read more about it [here](https://www.axios.com/2023/10/10/world-mental-health-day).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-prepares-ground-offensive-biden-pledges-support-after-hamas-attacks-2023-10-10/).
 
 ## Requirements
 - Python 3.8
