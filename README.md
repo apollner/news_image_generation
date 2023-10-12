@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli soldiers and militants killed in confrontation on Lebanon frontier**
+**Jada Pinkett Smith reveals she, Will Smith were separated for 6 years before Oscars slap**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67065338).
+You can read more about it [here](https://pagesix.com/2023/10/11/jada-pinkett-smith-will-smith-were-separated-before-oscars-slap/).
 
 ## Requirements
 - Python 3.8
