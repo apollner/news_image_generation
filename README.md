@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB playoffs 2023: Despite Orioles' ALDS loss, the future is bright - ESPN**
+**GOP lawmaker vows to support McCarthy in House-wide speaker vote despite pitches from Scalise, Jordan**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38629031/orioles-alds-loss-texas-rangers-playoffs-2023).
+You can read more about it [here](https://www.foxnews.com/politics/gop-lawmaker-support-mccarthy-house-wide-speaker-vote-despite-pitches-scalise-jordan).
 
 ## Requirements
 - Python 3.8
