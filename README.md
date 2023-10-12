@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP lawmaker vows to support McCarthy in House-wide speaker vote despite pitches from Scalise, Jordan**
+**Travis Kelce, Taylor Swift had 'chill night' for Chiefs star's birthday**
 
-You can read more about it [here](https://www.foxnews.com/politics/gop-lawmaker-support-mccarthy-house-wide-speaker-vote-despite-pitches-scalise-jordan).
+You can read more about it [here](https://nypost.com/2023/10/10/travis-kelce-taylor-swift-had-chill-night-for-chiefs-stars-birthday/).
 
 ## Requirements
 - Python 3.8
