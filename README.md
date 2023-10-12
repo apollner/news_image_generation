@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Initial US intelligence suggests Iran was surprised by the Hamas attack on Israel**
+**Makhachev-Volkanovski 2: UFC 294 has a new main event with just days to spare ... now what? - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/10/11/politics/us-intelligence-iran-hamas-doubt/index.html).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/38628880/islam-makhachev-alexander-volkanovski-2-ufc-294-new-main-event-just-days-spare-now-what).
 
 ## Requirements
 - Python 3.8
