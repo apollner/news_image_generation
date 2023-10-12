@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy slams Dem leaders for not denouncing Tlaib’s Hamas attack statement**
+**MLB playoffs 2023: Despite Orioles' ALDS loss, the future is bright - ESPN**
 
-You can read more about it [here](https://thehill.com/homenews/house/4248973-mccarthy-slams-dem-leaders-not-denouncing-tlaibs-hamas-attack-statement/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38629031/orioles-alds-loss-texas-rangers-playoffs-2023).
 
 ## Requirements
 - Python 3.8
