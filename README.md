@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Psyche mission is headed out to an asteroid that's made of metal**
+**Israel news: Among Hamas hostages is an American mom. Here's her story**
 
-You can read more about it [here](https://www.npr.org/2023/10/11/1204867862/this-next-nasa-mission-to-an-asteroid-is-seriously-metal).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/11/israel-hamas-war-americans-taken-from-kibbutz/71134248007/).
 
 ## Requirements
 - Python 3.8
