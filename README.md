@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chevron halts gas exports via EMG pipeline from Israel to Egypt**
+**The $180 Intel Arc A580 is Team Blue's new budget GPU**
 
-You can read more about it [here](https://www.reuters.com/business/energy/chevron-halts-gas-exports-via-emg-pipeline-israel-egypt-2023-10-10/).
+You can read more about it [here](https://www.theverge.com/2023/10/10/23911902/intel-arc-a580-announcement-performance-price-nvidia-amd).
 
 ## Requirements
 - Python 3.8
