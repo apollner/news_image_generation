@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasa to launch first mission to metal-rich asteroid**
+**Israel bombs south Lebanon after Hezbollah rocket fire**
 
-You can read more about it [here](https://www.ft.com/content/b69666d5-652a-4a70-ac11-9065b351527b).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-reports-cross-border-fire-lebanon-where-residents-say-israeli-shelling-2023-10-11/).
 
 ## Requirements
 - Python 3.8
