@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP picks Steve Scalise as speaker nominee, but unclear if he can get the votes to win gavel**
+**Satellite images reveal Gaza devastation after Israel retaliates against Hamas attack**
 
-You can read more about it [here](https://www.cnn.com/2023/10/11/politics/house-republicans-speaker-election/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/israel-war-satellite-images-reveal-gaza-strip-devastation-hamas-attack/).
 
 ## Requirements
 - Python 3.8
