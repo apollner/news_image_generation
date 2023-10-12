@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite images reveal Gaza devastation after Israel retaliates against Hamas attack**
+**Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict and election misinformation**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-war-satellite-images-reveal-gaza-strip-devastation-hamas-attack/).
+You can read more about it [here](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html).
 
 ## Requirements
 - Python 3.8
