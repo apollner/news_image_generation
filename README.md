@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Prime Day tool deals I used as a full time bike mechanic**
+**Israel urges citizens in the north to shelter after hostile aircraft enters from Lebanon**
 
-You can read more about it [here](https://www.cyclingnews.com/news/amazon-prime-day-tool-deals-i-used-as-a-full-time-mechanic/).
+You can read more about it [here](https://www.youtube.com/watch?v=zS2sz91SLRY).
 
 ## Requirements
 - Python 3.8
