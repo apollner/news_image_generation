@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 8 and Pixel 8 Pro review: AI brains and plenty of brawn**
+**Nasa to launch first mission to metal-rich asteroid**
 
-You can read more about it [here](https://finance.yahoo.com/news/google-pixel-8-and-pixel-8-pro-review-ai-brains-and-plenty-of-brawn-030039279.html).
+You can read more about it [here](https://www.ft.com/content/b69666d5-652a-4a70-ac11-9065b351527b).
 
 ## Requirements
 - Python 3.8
