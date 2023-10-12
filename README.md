@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel pounds Gaza by air; Biden condemns 'evil' Hamas attacks**
+**Israeli soldiers and militants killed in confrontation on Lebanon frontier**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-prepares-ground-offensive-biden-pledges-support-after-hamas-attacks-2023-10-10/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67065338).
 
 ## Requirements
 - Python 3.8
