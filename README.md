@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTX founder Sam Bankman-Fried hoped to be US president someday: Star witness Caroline Ellison - Times of India**
+**World Mental Health Day gets a Harry-and-Meghan boost**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/us/ftx-founder-sam-bankman-fried-hoped-to-be-us-president-someday-star-witness-caroline-ellison/articleshow/104328367.cms).
+You can read more about it [here](https://www.axios.com/2023/10/10/world-mental-health-day).
 
 ## Requirements
 - Python 3.8
