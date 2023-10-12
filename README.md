@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Hauntingly beautiful’ image of horseshoe crab wins Wildlife Photographer of the Year 2023**
+**Humanitarian efforts in Israel are supplying lone soldiers food and necessities upon request**
 
-You can read more about it [here](https://www.cnn.com/travel/wildlife-photographer-of-the-year-2023-scn-c2e-spc-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/world/israel-hamas-war-lone-soldier-military-donations-help-support).
 
 ## Requirements
 - Python 3.8
