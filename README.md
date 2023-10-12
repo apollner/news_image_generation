@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chef Michael Chiarello's death and the risk of allergies: What to know**
+**Chevron halts gas exports via EMG pipeline from Israel to Egypt**
 
-You can read more about it [here](https://www.usatoday.com/story/life/health-wellness/2023/10/10/chef-michael-chiarello-death-deadly-risk-of-allergies-what-to-know/71131853007/).
+You can read more about it [here](https://www.reuters.com/business/energy/chevron-halts-gas-exports-via-emg-pipeline-israel-egypt-2023-10-10/).
 
 ## Requirements
 - Python 3.8
