@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondbacks complete sweep of Dodgers, will play for National League pennant**
+**As war rages between Israel and Hamas, debate heats up at America's colleges**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/mlb/diamondbacks/2023/10/11/arizona-diamondbacks-los-angeles-dodgers-mlb-national-league-division-series-game-3-news-updates/71077990007/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/war-rages-israel-hamas-debate-heats-americas-colleges-rcna120012).
 
 ## Requirements
 - Python 3.8
