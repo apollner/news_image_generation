@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas men’s basketball vacates 2018 Final Four, escapes serious penalty after 6-year NCAA investigation**
+**"Luminescent" photo of horseshoe crab wins Wildlife Photographer of the Year prize**
 
-You can read more about it [here](https://theathletic.com/4954114/2023/10/11/kansas-infractions-final-four-investigation/).
+You can read more about it [here](https://www.cbsnews.com/news/wildlife-photographer-of-the-year-2023-horseshoe-crab-laurent-ballesta/).
 
 ## Requirements
 - Python 3.8
