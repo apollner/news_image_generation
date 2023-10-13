@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Luminescent" photo of horseshoe crab wins Wildlife Photographer of the Year prize**
+**The scene as the Israel-Hamas war continues**
 
-You can read more about it [here](https://www.cbsnews.com/news/wildlife-photographer-of-the-year-2023-horseshoe-crab-laurent-ballesta/).
+You can read more about it [here](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/).
 
 ## Requirements
 - Python 3.8
