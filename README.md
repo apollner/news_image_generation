@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The scene as the Israel-Hamas war continues**
+**Every Hamas member is a dead man, Netanyahu says**
 
-You can read more about it [here](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67082351).
 
 ## Requirements
 - Python 3.8
