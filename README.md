@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RSV antibody shot for babies hits obstacles in rollout: "As pediatricians, we're angry"**
+**"Luminescent" photo of horseshoe crab wins Wildlife Photographer of the Year prize**
 
-You can read more about it [here](https://www.cbsnews.com/news/rsv-antibody-shot-babies-beyfortus-supply-cost/).
+You can read more about it [here](https://www.cbsnews.com/news/wildlife-photographer-of-the-year-2023-horseshoe-crab-laurent-ballesta/).
 
 ## Requirements
 - Python 3.8
