@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Switch Exclusives Get Big Discounts For Prime Day**
+**House GOP picks Steve Scalise as speaker nominee, but unclear if he can get the votes to win gavel**
 
-You can read more about it [here](https://www.gamespot.com/articles/nintendo-switch-exclusives-get-big-discounts-for-prime-day/1100-6518328/).
+You can read more about it [here](https://www.cnn.com/2023/10/11/politics/house-republicans-speaker-election/index.html).
 
 ## Requirements
 - Python 3.8
