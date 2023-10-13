@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP picks Steve Scalise as speaker nominee, but unclear if he can get the votes to win gavel**
+**The scene as the Israel-Hamas war continues**
 
-You can read more about it [here](https://www.cnn.com/2023/10/11/politics/house-republicans-speaker-election/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/).
 
 ## Requirements
 - Python 3.8
