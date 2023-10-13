@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The scene as the Israel-Hamas war continues**
+**RSV antibody shot for babies hits obstacles in rollout: "As pediatricians, we're angry"**
 
-You can read more about it [here](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/).
+You can read more about it [here](https://www.cbsnews.com/news/rsv-antibody-shot-babies-beyfortus-supply-cost/).
 
 ## Requirements
 - Python 3.8
