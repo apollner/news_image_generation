@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As war rages between Israel and Hamas, debate heats up at America's colleges**
+**Kansas men’s basketball vacates 2018 Final Four, escapes serious penalty after 6-year NCAA investigation**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/war-rages-israel-hamas-debate-heats-americas-colleges-rcna120012).
+You can read more about it [here](https://theathletic.com/4954114/2023/10/11/kansas-infractions-final-four-investigation/).
 
 ## Requirements
 - Python 3.8
