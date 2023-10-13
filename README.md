@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Building Blocks of Life? NASA Reveals 4.5-Billion-Year-Old Asteroid Bennu Sample**
+**Diamondbacks complete sweep of Dodgers, will play for National League pennant**
 
-You can read more about it [here](https://scitechdaily.com/building-blocks-of-life-nasa-reveals-4-5-billion-year-old-asteroid-bennu-sample/).
+You can read more about it [here](https://www.azcentral.com/story/sports/mlb/diamondbacks/2023/10/11/arizona-diamondbacks-los-angeles-dodgers-mlb-national-league-division-series-game-3-news-updates/71077990007/).
 
 ## Requirements
 - Python 3.8
