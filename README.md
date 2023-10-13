@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Every Hamas member is a dead man, Netanyahu says**
+**Building Blocks of Life? NASA Reveals 4.5-Billion-Year-Old Asteroid Bennu Sample**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67082351).
+You can read more about it [here](https://scitechdaily.com/building-blocks-of-life-nasa-reveals-4-5-billion-year-old-asteroid-bennu-sample/).
 
 ## Requirements
 - Python 3.8
