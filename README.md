@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Luminescent" photo of horseshoe crab wins Wildlife Photographer of the Year prize**
+**Diamondbacks NLCS seven-game schedule vs. Phillies or Braves**
 
-You can read more about it [here](https://www.cbsnews.com/news/wildlife-photographer-of-the-year-2023-horseshoe-crab-laurent-ballesta/).
+You can read more about it [here](https://arizonasports.com/story/3536011/diamondbacks-nlcs-times-schedule-phillies-braves/).
 
 ## Requirements
 - Python 3.8
