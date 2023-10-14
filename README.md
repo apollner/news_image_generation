@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Philadelphia police officers shot, 1 fatally at airport garage**
+**‘Taylor Swift: Eras Tour’ Concert Film Makes $2.8M In Previews – Box Office**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/shooting-at-philadelphia-airport-police-officer-terminal-d-e-garage/).
+You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-eras-tour-concert-film-opening-1235572671/).
 
 ## Requirements
 - Python 3.8
