@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX's Falcon Heavy rocket launch a $1 billion asteroid mission for NASA**
+**Taylor Swift movie hits AMC: Will 'Swifties' help the movie chain?**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swift-movie-hits-amc-will-swifties-help-movie-chain).
 
 ## Requirements
 - Python 3.8
