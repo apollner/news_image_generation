@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Nordisk hikes outlook on soaring demand for Wegovy, Ozempic**
+**Ubisoft and Activision Blizzard's deal for cloud gaming rights, explained**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/13/novo-nordisk-hikes-outlook-on-soaring-demand-for-wegovy-ozempic.html).
+You can read more about it [here](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained).
 
 ## Requirements
 - Python 3.8
