@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jada Pinkett Smith says 'there was no chemistry' between her and Tupac**
+**George Kittle says 'f*** Dallas' shirt was worth likely fine: 'I'd do it again'**
 
-You can read more about it [here](https://www.insider.com/jada-pinkett-smith-says-no-chemistry-between-her-and-tupac-2023-10).
+You can read more about it [here](https://sports.yahoo.com/george-kittle-says-f-dallas-shirt-was-worth-likely-fine-id-do-it-again-020158695.html).
 
 ## Requirements
 - Python 3.8
