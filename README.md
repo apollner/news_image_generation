@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's almost virus season: Here's what you need to know about vaccines**
+**Bryce Harper on Phillies' ALCS advancement, Orlando Arcia staredown & more | The Pat McAfee Show**
 
-You can read more about it [here](https://ksltv.com/593966/its-almost-virus-season-heres-what-you-need-to-know-about-vaccines/).
+You can read more about it [here](https://www.youtube.com/watch?v=HiJbte1IqPg).
 
 ## Requirements
 - Python 3.8
