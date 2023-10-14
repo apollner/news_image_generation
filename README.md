@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Odds, Picks: Collin Wilson's Week 7 Bets for Washington vs Oregon, Oregon State vs UCLA**
+**Bank earnings kick off with JPMorgan, Wells Fargo amid concerns about rising rates, bad loans**
 
-You can read more about it [here](https://www.actionnetwork.com/ncaaf/college-football-odds-picks-week-7-betting-card-washington-vs-oregon-oregon-state-vs-ucla-more).
+You can read more about it [here](https://www.cnbc.com/2023/10/12/bank-earnings-kick-off-after-another-period-of-rising-rates-bad-loans.html).
 
 ## Requirements
 - Python 3.8
