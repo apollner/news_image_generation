@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Braves allow six homers vs. Phillies in Game 3 loss in NLDS**
+**Hamas drilled in plain sight, posted video of mock assault weeks before massacre**
 
-You can read more about it [here](https://www.mlb.com/news/braves-lose-to-phillies-in-game-3-nlds-2023).
+You can read more about it [here](https://www.timesofisrael.com/hamas-drilled-in-plain-sight-posted-video-of-mock-assault-weeks-before-massacre/).
 
 ## Requirements
 - Python 3.8
