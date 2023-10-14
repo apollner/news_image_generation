@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Denver Broncos vs. Kansas City Chiefs | 2023 Week 6 Game Highlights**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=KP2ZX8mld1Q).
 
 ## Requirements
 - Python 3.8
