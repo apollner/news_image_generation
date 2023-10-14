@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 6 fantasy football start ’em, sit ’em | Fantasy Football News, Rankings and Projections**
+**Houston stuns West Virginia on 'incredible' last-second Hail Mary - ESPN**
 
-You can read more about it [here](https://www.pff.com/news/fantasy-football-nfl-week-6-start-em-sit-em-2023).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38648155/houston-stuns-west-virginia-incredible-last-second-hail-mary).
 
 ## Requirements
 - Python 3.8
