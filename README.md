@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado officer found guilty in Elijah McClain death**
+**Gene-edited pig kidney keeps monkey alive for 2 years, trial finds, a step toward longer-lasting human transplants**
 
-You can read more about it [here](https://www.bbc.com/news/uk-67097118).
+You can read more about it [here](https://www.cnn.com/2023/10/12/health/pig-to-monkey-kidney-transplant-successful-scn/index.html).
 
 ## Requirements
 - Python 3.8
