@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ubuntu 23.10 is a Minotaur that moves faster and takes up less space**
+**Netanyahu’s office releases horrifying images of infants murdered by Hamas**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/10/ubuntu-23-10-is-a-smidge-smaller-a-bit-snappier-and-has-some-desktop-upgrades/).
+You can read more about it [here](https://www.timesofisrael.com/netanyahus-office-releases-horrifying-images-of-infants-murdered-by-hamas/).
 
 ## Requirements
 - Python 3.8
