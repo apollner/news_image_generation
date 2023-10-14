@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denver Broncos vs. Kansas City Chiefs | 2023 Week 6 Game Highlights**
+**Jada Pinkett Smith says 'there was no chemistry' between her and Tupac**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KP2ZX8mld1Q).
+You can read more about it [here](https://www.insider.com/jada-pinkett-smith-says-no-chemistry-between-her-and-tupac-2023-10).
 
 ## Requirements
 - Python 3.8
