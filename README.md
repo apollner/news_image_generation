@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift movie hits AMC: Will 'Swifties' help the movie chain?**
+**‘Taylor Swift: Eras Tour’ Concert Film Makes $2.8M In Previews – Box Office**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swift-movie-hits-amc-will-swifties-help-movie-chain).
+You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-eras-tour-concert-film-opening-1235572671/).
 
 ## Requirements
 - Python 3.8
