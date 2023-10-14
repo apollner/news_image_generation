@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Kittle says 'f*** Dallas' shirt was worth likely fine: 'I'd do it again'**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/george-kittle-says-f-dallas-shirt-was-worth-likely-fine-id-do-it-again-020158695.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
