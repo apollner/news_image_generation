@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Strikes devastate Gaza as Israel prepares for possible ground assault**
+**Ubuntu 23.10 is a Minotaur that moves faster and takes up less space**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-airstrikes-cabinet-beb1fa2b9e4ede6cf4568dd6c86ff11a).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/10/ubuntu-23-10-is-a-smidge-smaller-a-bit-snappier-and-has-some-desktop-upgrades/).
 
 ## Requirements
 - Python 3.8
