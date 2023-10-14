@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK removes final hurdle to Microsoft’s blockbuster Activision Blizzard deal**
+**Hamas drilled in plain sight, posted video of mock assault weeks before massacre**
 
-You can read more about it [here](https://www.cnn.com/2023/10/13/tech/microsoft-activision-blizzard-takeover-uk-intl-hnk/index.html).
+You can read more about it [here](https://www.timesofisrael.com/hamas-drilled-in-plain-sight-posted-video-of-mock-assault-weeks-before-massacre/).
 
 ## Requirements
 - Python 3.8
