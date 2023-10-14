@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How do the Phillies keep doing this? Good luck recreating the formula**
+**Braves allow six homers vs. Phillies in Game 3 loss in NLDS**
 
-You can read more about it [here](http://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/phillies-news/how-do-the-phillies-keep-doing-this-good-luck-recreating-the-formula/540610/).
+You can read more about it [here](https://www.mlb.com/news/braves-lose-to-phillies-in-game-3-nlds-2023).
 
 ## Requirements
 - Python 3.8
