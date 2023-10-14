@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500, Nasdaq down as decline in megacaps dulls big banks' shine**
+**Israel-Gaza war live updates: Hamas rejects IDF’s Gaza evacuation orders, U.S. not warned**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-lower-ahead-big-bank-earnings-2023-10-13/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/13/israel-gaza-war-updates-hamas-palestine/).
 
 ## Requirements
 - Python 3.8
