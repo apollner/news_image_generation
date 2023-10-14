@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ubisoft and Activision Blizzard's deal for cloud gaming rights, explained**
+**It's almost virus season: Here's what you need to know about vaccines**
 
-You can read more about it [here](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained).
+You can read more about it [here](https://ksltv.com/593966/its-almost-virus-season-heres-what-you-need-to-know-about-vaccines/).
 
 ## Requirements
 - Python 3.8
