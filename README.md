@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s behind Trump’s lashing out at Netanyahu after Hamas’ attack on Israel**
+**How do the Phillies keep doing this? Good luck recreating the formula**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/trump-netanyahu-biden-rcna120078).
+You can read more about it [here](http://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/phillies-news/how-do-the-phillies-keep-doing-this-good-luck-recreating-the-formula/540610/).
 
 ## Requirements
 - Python 3.8
