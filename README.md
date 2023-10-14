@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryce Harper on Phillies' ALCS advancement, Orlando Arcia staredown & more | The Pat McAfee Show**
+**S&P 500, Nasdaq down as decline in megacaps dulls big banks' shine**
 
-You can read more about it [here](https://www.youtube.com/watch?v=HiJbte1IqPg).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-lower-ahead-big-bank-earnings-2023-10-13/).
 
 ## Requirements
 - Python 3.8
