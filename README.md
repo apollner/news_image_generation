@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what Balloon Fiesta officials are planning for the annular solar eclipse Saturday**
+**Travis Kelce played like Taylor Swift was in the stands**
 
-You can read more about it [here](https://www.kob.com/new-mexico/heres-what-balloon-fiesta-officials-are-planning-for-the-annular-solar-eclipse-saturday/).
+You can read more about it [here](https://www.youtube.com/watch?v=gMNtTSgVYpo).
 
 ## Requirements
 - Python 3.8
