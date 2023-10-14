@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft-Activision Blizzard takeover approved by UK regulators, clearing way for deal to close**
+**NFL Week 6 fantasy football start ’em, sit ’em | Fantasy Football News, Rankings and Projections**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/13/microsoft-activision-blizzard-takeover-approved-by-uk-regulator-cma.html).
+You can read more about it [here](https://www.pff.com/news/fantasy-football-nfl-week-6-start-em-sit-em-2023).
 
 ## Requirements
 - Python 3.8
