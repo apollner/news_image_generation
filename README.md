@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK removes final hurdle to Microsoft’s blockbuster Activision Blizzard deal**
+**Watch SpaceX's Falcon Heavy rocket launch a $1 billion asteroid mission for NASA**
 
-You can read more about it [here](https://www.cnn.com/2023/10/13/tech/microsoft-activision-blizzard-takeover-uk-intl-hnk/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html).
 
 ## Requirements
 - Python 3.8
