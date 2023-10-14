@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Taylor Swift: Eras Tour’ Concert Film Makes $2.8M In Previews – Box Office**
+**WEATHER BLOG: Here's how to see the "Ring of Fire" solar eclipse in the Kansas City area Saturday**
 
-You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-eras-tour-concert-film-opening-1235572671/).
+You can read more about it [here](https://www.kmbc.com/article/kansas-city-missouri-ring-of-fire-solar-eclipse-how-when/45530124).
 
 ## Requirements
 - Python 3.8
