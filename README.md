@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu’s office releases horrifying images of infants murdered by Hamas**
+**College Football Odds, Picks: Collin Wilson's Week 7 Bets for Washington vs Oregon, Oregon State vs UCLA**
 
-You can read more about it [here](https://www.timesofisrael.com/netanyahus-office-releases-horrifying-images-of-infants-murdered-by-hamas/).
+You can read more about it [here](https://www.actionnetwork.com/ncaaf/college-football-odds-picks-week-7-betting-card-washington-vs-oregon-oregon-state-vs-ucla-more).
 
 ## Requirements
 - Python 3.8
