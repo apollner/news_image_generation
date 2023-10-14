@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elijah McClain death: Officer Randy Roedema guilty, former officer Jason Rosenblatt not guilty**
+**Sean Payton admits 'boneheaded mistake' that helped Chiefs score before halftime**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/elijah-mcclain-death-verdict-trial-jason-rosenblatt-and-randy-roedema-aurora-police-officers-colorado/).
+You can read more about it [here](https://sports.yahoo.com/sean-payton-admits-boneheaded-mistake-that-helped-chiefs-score-before-halftime-155725414.html).
 
 ## Requirements
 - Python 3.8
