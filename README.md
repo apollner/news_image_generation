@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WEATHER BLOG: Here's how to see the "Ring of Fire" solar eclipse in the Kansas City area Saturday**
+**Russell Wilson is Broncos main issue, Deion Sanders on late games: 'stupidest thing ever' | THE HERD**
 
-You can read more about it [here](https://www.kmbc.com/article/kansas-city-missouri-ring-of-fire-solar-eclipse-how-when/45530124).
+You can read more about it [here](https://www.youtube.com/watch?v=JUaOmUaSA3Y).
 
 ## Requirements
 - Python 3.8
