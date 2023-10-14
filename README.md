@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce played like Taylor Swift was in the stands**
+**Microsoft-Activision Blizzard takeover approved by UK regulators, clearing way for deal to close**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gMNtTSgVYpo).
+You can read more about it [here](https://www.cnbc.com/2023/10/13/microsoft-activision-blizzard-takeover-approved-by-uk-regulator-cma.html).
 
 ## Requirements
 - Python 3.8
