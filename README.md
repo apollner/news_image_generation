@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Wilson is Broncos main issue, Deion Sanders on late games: 'stupidest thing ever' | THE HERD**
+**Elijah McClain death: Officer Randy Roedema guilty, former officer Jason Rosenblatt not guilty**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JUaOmUaSA3Y).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/elijah-mcclain-death-verdict-trial-jason-rosenblatt-and-randy-roedema-aurora-police-officers-colorado/).
 
 ## Requirements
 - Python 3.8
