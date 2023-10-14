@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston stuns West Virginia on 'incredible' last-second Hail Mary - ESPN**
+**Harvard President Claudine Gay Fiercely Condemns Hamas, Rejects Calls to Punish Students for Israel Statement | News**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38648155/houston-stuns-west-virginia-incredible-last-second-hail-mary).
+You can read more about it [here](https://www.thecrimson.com/article/2023/10/13/gay-video-address/).
 
 ## Requirements
 - Python 3.8
