@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondbacks NLCS seven-game schedule vs. Phillies or Braves**
+**Israel-Hamas war: Strikes devastate Gaza as Israel prepares for possible ground assault**
 
-You can read more about it [here](https://arizonasports.com/story/3536011/diamondbacks-nlcs-times-schedule-phillies-braves/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-airstrikes-cabinet-beb1fa2b9e4ede6cf4568dd6c86ff11a).
 
 ## Requirements
 - Python 3.8
