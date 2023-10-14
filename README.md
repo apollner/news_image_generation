@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank earnings kick off with JPMorgan, Wells Fargo amid concerns about rising rates, bad loans**
+**Colorado officer found guilty in Elijah McClain death**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/12/bank-earnings-kick-off-after-another-period-of-rising-rates-bad-loans.html).
+You can read more about it [here](https://www.bbc.com/news/uk-67097118).
 
 ## Requirements
 - Python 3.8
