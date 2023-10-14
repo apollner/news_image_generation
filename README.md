@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Payton admits 'boneheaded mistake' that helped Chiefs score before halftime**
+**Novo Nordisk hikes outlook on soaring demand for Wegovy, Ozempic**
 
-You can read more about it [here](https://sports.yahoo.com/sean-payton-admits-boneheaded-mistake-that-helped-chiefs-score-before-halftime-155725414.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/13/novo-nordisk-hikes-outlook-on-soaring-demand-for-wegovy-ozempic.html).
 
 ## Requirements
 - Python 3.8
