@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard President Claudine Gay Fiercely Condemns Hamas, Rejects Calls to Punish Students for Israel Statement | News**
+**What’s behind Trump’s lashing out at Netanyahu after Hamas’ attack on Israel**
 
-You can read more about it [here](https://www.thecrimson.com/article/2023/10/13/gay-video-address/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/trump-netanyahu-biden-rcna120078).
 
 ## Requirements
 - Python 3.8
