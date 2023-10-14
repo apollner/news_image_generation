@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US colleges become flashpoints for protests on both sides of Israel-Hamas war**
+**George Kittle says 'f*** Dallas' shirt was worth likely fine: 'I'd do it again'**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-colleges-become-flashpoints-protests-both-sides-israel-hamas-war-2023-10-13/).
+You can read more about it [here](https://sports.yahoo.com/george-kittle-says-f-dallas-shirt-was-worth-likely-fine-id-do-it-again-020158695.html).
 
 ## Requirements
 - Python 3.8
