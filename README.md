@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden speaks with families of Americans missing in Israel, possibly among hostages held by Hamas**
+**As Taylor Swift Witnesses Third Chiefs Victory, Broncos Matchup Scores Record Audience Increase For ‘Thursday Night Football’**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-speaks-with-families-of-americans-held-hostage-by-hamas/).
+You can read more about it [here](https://deadline.com/2023/10/chiefs-broncos-ratings-prime-video-thursday-night-football-taylor-swift-1235573308/).
 
 ## Requirements
 - Python 3.8
