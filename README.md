@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weather could be cloudy for the 'ring of fire' annular solar eclipse in Arkansas Saturday**
+**Israel-Palestine: Chicago City Council meeting gets heated**
 
-You can read more about it [here](https://www.4029tv.com/article/arkansas-annular-solar-eclipse/45521732).
+You can read more about it [here](https://www.youtube.com/watch?v=q1pdW5WHreM).
 
 ## Requirements
 - Python 3.8
