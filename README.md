@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gazans stream south to seek shelter from Israeli bombardment**
+**Massive anti-Israel protests start in London, police threaten to arrest Hamas supporters**
 
-You can read more about it [here](https://www.ft.com/content/eb4717fc-432e-4251-b778-7a365f8de825).
+You can read more about it [here](https://nypost.com/2023/10/14/anti-israel-protests-start-in-london-police-threaten-to-arrest-hamas-supporters/).
 
 ## Requirements
 - Python 3.8
