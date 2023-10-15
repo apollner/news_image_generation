@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rules of war: international law and the Israel-Hamas conflict**
+**Reuters journalist killed in southern Lebanon by Israeli strike, colleagues say**
 
-You can read more about it [here](https://www.ft.com/content/0f7886df-e70e-4b7d-a4b2-03d7553949d1).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/13/israel-gaza-war-lebanon-journalists/).
 
 ## Requirements
 - Python 3.8
