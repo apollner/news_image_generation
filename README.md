@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Michigan vs. Indiana (10/14): Live stream, kickoff time, channel**
+**Grayscale's Bitcoin ETF Push: What's Next After Court Ruling Stands**
 
-You can read more about it [here](https://www.mlive.com/wolverines/2023/10/how-to-watch-michigan-vs-indiana-1014-live-stream-tipoff-time-channel.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-14/grayscale-s-bitcoin-etf-push-what-s-next-after-sec-doesn-t-appeal-court-ruling).
 
 ## Requirements
 - Python 3.8
