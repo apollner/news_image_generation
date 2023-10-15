@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinians flee to south of Gaza for second day**
+**When to view the solar eclipse in Central Florida**
 
-You can read more about it [here](https://www.ft.com/content/eb4717fc-432e-4251-b778-7a365f8de825).
+You can read more about it [here](https://www.wesh.com/article/solar-eclipse-time-florida/45536762).
 
 ## Requirements
 - Python 3.8
