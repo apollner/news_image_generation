@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war live updates: Hamas rejects IDF’s Gaza evacuation orders, U.S. not warned**
+**When to view the solar eclipse in Central Florida**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/13/israel-gaza-war-updates-hamas-palestine/).
+You can read more about it [here](https://www.wesh.com/article/solar-eclipse-view-central-florida/45523390).
 
 ## Requirements
 - Python 3.8
