@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grayscale's Bitcoin ETF Push: What's Next After Court Ruling Stands**
+**Sam Bankman-Fried trial: Why his hair was the talk on the stand**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-14/grayscale-s-bitcoin-etf-push-what-s-next-after-sec-doesn-t-appeal-court-ruling).
+You can read more about it [here](https://www.foxbusiness.com/markets/sam-bankmans-fried-haircut-trial-talk).
 
 ## Requirements
 - Python 3.8
