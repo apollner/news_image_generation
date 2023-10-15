@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US colleges become flashpoints for protests on both sides of Israel-Hamas war**
+**Colorado is in the path of a rare 'ring of fire' annular solar eclipse happening Saturday. Here's how to watch**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-colleges-become-flashpoints-protests-both-sides-israel-hamas-war-2023-10-13/).
+You can read more about it [here](https://www.denver7.com/news/state-news/colorado-is-in-the-path-of-a-rare-ring-of-fire-annual-solar-eclipse-happening-saturday-heres-how-to-watch).
 
 ## Requirements
 - Python 3.8
