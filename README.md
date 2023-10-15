@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LA Knight vs. Solo Sikoa: SmackDown highlights, Oct. 13, 2023**
+**Australians vote No in referendum that promised change for First Nations people but couldn’t deliver**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OtqNYBJzI4A).
+You can read more about it [here](https://www.cnn.com/2023/10/14/australia/australia-referendum-results-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
