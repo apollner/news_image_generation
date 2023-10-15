@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens' Mark Andrews praises Travis Kelce amid Taylor Swift rumors: 'Raising the bar for a long time'**
+**College Football: How to watch the Oregon vs. Washington game today**
 
-You can read more about it [here](https://www.foxnews.com/sports/ravens-mark-andrews-praises-travis-kelce-taylor-swift-rumors-raising-bar-long-time).
+You can read more about it [here](https://sports.yahoo.com/watch-oregon-washington-game-ncaa-college-football-2023-schedule-time-channel-120030687.html).
 
 ## Requirements
 - Python 3.8
