@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australians vote No in referendum that promised change for First Nations people but couldn’t deliver**
+**Microsoft closes $69 billion Activision deal after Britain's nod**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/australia/australia-referendum-results-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/markets/deals/uk-antitrust-regulator-clears-microsofts-acquisition-activision-2023-10-13/).
 
 ## Requirements
 - Python 3.8
