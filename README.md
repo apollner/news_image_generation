@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive anti-Israel protests start in London, police threaten to arrest Hamas supporters**
+**Newsom signs speed camera bill into law in some Bay Area cities**
 
-You can read more about it [here](https://nypost.com/2023/10/14/anti-israel-protests-start-in-london-police-threaten-to-arrest-hamas-supporters/).
+You can read more about it [here](http://www.nbcbayarea.com/news/california/california-speed-camera-bay-area/3342030/).
 
 ## Requirements
 - Python 3.8
