@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newsom signs speed camera bill into law in some Bay Area cities**
+**Ravens' Mark Andrews praises Travis Kelce amid Taylor Swift rumors: 'Raising the bar for a long time'**
 
-You can read more about it [here](http://www.nbcbayarea.com/news/california/california-speed-camera-bay-area/3342030/).
+You can read more about it [here](https://www.foxnews.com/sports/ravens-mark-andrews-praises-travis-kelce-taylor-swift-rumors-raising-bar-long-time).
 
 ## Requirements
 - Python 3.8
