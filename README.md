@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC reportedly wont appeal court decision on Grayscale Bitcoin ETF**
+**Rules of war: international law and the Israel-Hamas conflict**
 
-You can read more about it [here](https://cointelegraph.com/news/sec-wont-appeal-court-decision-on-grayscale-bitcoin-etf).
+You can read more about it [here](https://www.ft.com/content/0f7886df-e70e-4b7d-a4b2-03d7553949d1).
 
 ## Requirements
 - Python 3.8
