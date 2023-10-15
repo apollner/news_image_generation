@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisiana governor's race ignites GOP hopes of reclaiming position as Democrats try to keep it blue**
+**NFL Week 6 predictions: Ravens-Titans, Seahawks-Bengals, 49ers Browns**
 
-You can read more about it [here](https://apnews.com/article/louisiana-governor-race-election-2023-ed79c5a80af6e59593985c9be4ce5dc8).
+You can read more about it [here](https://www.arrowheadpride.com/2023/10/14/23916940/nfl-week-6-predictions-ravens-titans-seahawks-bengals-49ers-browns).
 
 ## Requirements
 - Python 3.8
