@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Brad Smith used Microsoft's $1bn law and lobbying machine to win Activision battle**
+**Michael Caine announces retirement, confirming 'The Great Escaper' will be his last film**
 
-You can read more about it [here](https://www.ft.com/content/07c507bd-2ce7-4345-85bd-0c27f408afbe).
+You can read more about it [here](https://www.cnn.com/2023/10/14/entertainment/michael-caine-retirement-great-escaper-intl-scli-gbr/index.html).
 
 ## Requirements
 - Python 3.8
