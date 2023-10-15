@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Caine announces retirement, confirming 'The Great Escaper' will be his last film**
+**Cops Hunt for Man Accused of Murdering 'Sandlot' Actor's Mom**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/entertainment/michael-caine-retirement-great-escaper-intl-scli-gbr/index.html).
+You can read more about it [here](https://www.thedailybeast.com/the-sandlot-actor-marty-yorks-mom-deanna-esmaeel-found-dead-cops-look-for-boyfriend-daniel-james-walter).
 
 ## Requirements
 - Python 3.8
