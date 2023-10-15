@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to view the solar eclipse in Central Florida**
+**6 key questions ahead of Poland's election – POLITICO**
 
-You can read more about it [here](https://www.wesh.com/article/solar-eclipse-time-florida/45536762).
+You can read more about it [here](https://www.politico.eu/article/6-key-questions-ahead-of-polands-election-duda-tusk-kaczynski-pis-poland-law-and-justice/).
 
 ## Requirements
 - Python 3.8
