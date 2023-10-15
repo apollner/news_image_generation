@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cops Hunt for Man Accused of Murdering 'Sandlot' Actor's Mom**
+**Louisiana governor's race ignites GOP hopes of reclaiming position as Democrats try to keep it blue**
 
-You can read more about it [here](https://www.thedailybeast.com/the-sandlot-actor-marty-yorks-mom-deanna-esmaeel-found-dead-cops-look-for-boyfriend-daniel-james-walter).
+You can read more about it [here](https://apnews.com/article/louisiana-governor-race-election-2023-ed79c5a80af6e59593985c9be4ce5dc8).
 
 ## Requirements
 - Python 3.8
