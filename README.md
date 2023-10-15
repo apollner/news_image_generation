@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What We Found in Some Historic Asteroid Samples on This Week @NASA – October 13, 2023**
+**Chiefs Vs. Broncos Scores Record Audience Increase For Prime Video**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QWHHzbIR_CE).
+You can read more about it [here](https://deadline.com/2023/10/chiefs-broncos-ratings-prime-video-thursday-night-football-taylor-swift-1235573308/).
 
 ## Requirements
 - Python 3.8
