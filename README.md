@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 key questions ahead of Poland's election – POLITICO**
+**Australians vote No in referendum that promised change for First Nations people but couldn’t deliver**
 
-You can read more about it [here](https://www.politico.eu/article/6-key-questions-ahead-of-polands-election-duda-tusk-kaczynski-pis-poland-law-and-justice/).
+You can read more about it [here](https://www.cnn.com/2023/10/14/australia/australia-referendum-results-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
