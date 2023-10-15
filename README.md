@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What We Found in Some Historic Asteroid Samples on This Week @NASA – October 13, 2023**
+**Colorado vs. Stanford game live stream, how to watch online, TV channel, prediction, kickoff time, odds**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QWHHzbIR_CE).
+You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-stanford-game-live-stream-how-to-watch-online-tv-channel-prediction-kickoff-time-odds/).
 
 ## Requirements
 - Python 3.8
