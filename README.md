@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Palestine: Chicago City Council meeting gets heated**
+**Trump-backed Jim Jordan chosen as Speaker nominee**
 
-You can read more about it [here](https://www.youtube.com/watch?v=q1pdW5WHreM).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67097300).
 
 ## Requirements
 - Python 3.8
