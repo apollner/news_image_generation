@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football: How to watch the Oregon vs. Washington game today**
+**How Brad Smith used Microsoft's $1bn law and lobbying machine to win Activision battle**
 
-You can read more about it [here](https://sports.yahoo.com/watch-oregon-washington-game-ncaa-college-football-2023-schedule-time-channel-120030687.html).
+You can read more about it [here](https://www.ft.com/content/07c507bd-2ce7-4345-85bd-0c27f408afbe).
 
 ## Requirements
 - Python 3.8
