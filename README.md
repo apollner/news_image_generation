@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado vs. Stanford game live stream, how to watch online, TV channel, prediction, kickoff time, odds**
+**US colleges become flashpoints for protests on both sides of Israel-Hamas war**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-stanford-game-live-stream-how-to-watch-online-tv-channel-prediction-kickoff-time-odds/).
+You can read more about it [here](https://www.reuters.com/world/us/us-colleges-become-flashpoints-protests-both-sides-israel-hamas-war-2023-10-13/).
 
 ## Requirements
 - Python 3.8
