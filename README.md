@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australians vote No in referendum that promised change for First Nations people but couldn’t deliver**
+**Journalist killed, 6 others wounded by Israeli shelling at Lebanon border**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/australia/australia-referendum-results-intl-hnk/index.html).
+You can read more about it [here](https://www.timesofisrael.com/journalist-killed-6-others-wounded-by-israeli-shelling-at-lebanon-border/).
 
 ## Requirements
 - Python 3.8
