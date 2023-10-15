@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs Vs. Broncos Scores Record Audience Increase For Prime Video**
+**Palestinians flee to south of Gaza for second day**
 
-You can read more about it [here](https://deadline.com/2023/10/chiefs-broncos-ratings-prime-video-thursday-night-football-taylor-swift-1235573308/).
+You can read more about it [here](https://www.ft.com/content/eb4717fc-432e-4251-b778-7a365f8de825).
 
 ## Requirements
 - Python 3.8
