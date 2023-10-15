@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Taylor Swift Witnesses Third Chiefs Victory, Broncos Matchup Scores Record Audience Increase For ‘Thursday Night Football’**
+**SEC reportedly wont appeal court decision on Grayscale Bitcoin ETF**
 
-You can read more about it [here](https://deadline.com/2023/10/chiefs-broncos-ratings-prime-video-thursday-night-football-taylor-swift-1235573308/).
+You can read more about it [here](https://cointelegraph.com/news/sec-wont-appeal-court-decision-on-grayscale-bitcoin-etf).
 
 ## Requirements
 - Python 3.8
