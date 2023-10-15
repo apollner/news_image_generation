@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to view the solar eclipse in Central Florida**
+**A 17-year-old has been arrested in connection with a mass shooting at Morgan State University**
 
-You can read more about it [here](https://www.wesh.com/article/solar-eclipse-view-central-florida/45523390).
+You can read more about it [here](https://www.cnn.com/2023/10/13/us/morgan-state-shooting-suspect-arrested/index.html).
 
 ## Requirements
 - Python 3.8
