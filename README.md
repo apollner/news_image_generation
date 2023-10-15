@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump-backed Jim Jordan chosen as Speaker nominee**
+**What We Found in Some Historic Asteroid Samples on This Week @NASA – October 13, 2023**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67097300).
+You can read more about it [here](https://www.youtube.com/watch?v=QWHHzbIR_CE).
 
 ## Requirements
 - Python 3.8
