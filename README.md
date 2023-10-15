@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Israel-Hamas war rages as Palestinian death toll in Gaza rises**
+**Chris Evans Confirms Marriage To Alba Baptista**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-14-23/index.html).
+You can read more about it [here](https://www.buzzfeed.com/chelseastewart/chris-evans-married-alba-baptista-confirmation).
 
 ## Requirements
 - Python 3.8
