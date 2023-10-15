@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Journalist killed, 6 others wounded by Israeli shelling at Lebanon border**
+**How much do UAW workers make? A look at hourly wages across US states**
 
-You can read more about it [here](https://www.timesofisrael.com/journalist-killed-6-others-wounded-by-israeli-shelling-at-lebanon-border/).
+You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/10/14/how-much-uaw-workers-earn-comparison/71159764007/).
 
 ## Requirements
 - Python 3.8
