@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft closes $69 billion Activision deal after Britain's nod**
+**LA Knight vs. Solo Sikoa: SmackDown highlights, Oct. 13, 2023**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/uk-antitrust-regulator-clears-microsofts-acquisition-activision-2023-10-13/).
+You can read more about it [here](https://www.youtube.com/watch?v=OtqNYBJzI4A).
 
 ## Requirements
 - Python 3.8
