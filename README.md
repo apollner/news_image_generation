@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado is in the path of a rare 'ring of fire' annular solar eclipse happening Saturday. Here's how to watch**
+**Biden speaks with families of Americans missing in Israel, possibly among hostages held by Hamas**
 
-You can read more about it [here](https://www.denver7.com/news/state-news/colorado-is-in-the-path-of-a-rare-ring-of-fire-annual-solar-eclipse-happening-saturday-heres-how-to-watch).
+You can read more about it [here](https://www.cbsnews.com/news/biden-speaks-with-families-of-americans-held-hostage-by-hamas/).
 
 ## Requirements
 - Python 3.8
