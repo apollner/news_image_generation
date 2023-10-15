@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How much do UAW workers make? A look at hourly wages across US states**
+**How to watch Michigan vs. Indiana (10/14): Live stream, kickoff time, channel**
 
-You can read more about it [here](https://www.usatoday.com/story/money/cars/2023/10/14/how-much-uaw-workers-earn-comparison/71159764007/).
+You can read more about it [here](https://www.mlive.com/wolverines/2023/10/how-to-watch-michigan-vs-indiana-1014-live-stream-tipoff-time-channel.html).
 
 ## Requirements
 - Python 3.8
