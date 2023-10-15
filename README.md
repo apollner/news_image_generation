@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 6 predictions: Ravens-Titans, Seahawks-Bengals, 49ers Browns**
+**Nick Saban on Jalen Milroe and playing for 60 minutes: ‘We will learn from it’**
 
-You can read more about it [here](https://www.arrowheadpride.com/2023/10/14/23916940/nfl-week-6-predictions-ravens-titans-seahawks-bengals-49ers-browns).
+You can read more about it [here](https://www.al.com/alabamafootball/2023/10/nick-saban-on-alabamas-24-21-win-over-arkansas-we-have-to-learn-how-to-play-for-60-minutes.html).
 
 ## Requirements
 - Python 3.8
