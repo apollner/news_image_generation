@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Annular solar eclipse of 2023 wows skywatchers with spectacular 'ring of fire' (photos, video)**
+**Blinken to extend Middle East tour, return to Israel on Monday**
 
-You can read more about it [here](https://www.space.com/annular-solar-eclipse-2023-photos).
+You can read more about it [here](https://www.reuters.com/world/middle-east/blinken-will-meet-with-saudi-crown-price-sunday-riyadh-us-official-says-2023-10-15/).
 
 ## Requirements
 - Python 3.8
