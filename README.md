@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 6 odds, expert picks, best bets, teasers, spreads, survivor picks, how to watch, streaming, more**
+**VIDEO: Israeli navy unit sprays machine gun fire at Hamas 'swimmers'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-how-to-watch-streaming-more/).
+You can read more about it [here](https://www.businessinsider.com/idf-footage-israeli-navy-fighting-off-sea-attack-hamas-2023-10).
 
 ## Requirements
 - Python 3.8
