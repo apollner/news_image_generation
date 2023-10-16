@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No letup in Russian strikes on Ukrainian town of Avdiivka**
+**Wray warns of rise in violent extremism amid Israel-Hamas war**
 
-You can read more about it [here](https://www.reuters.com/world/europe/top-ukraine-general-says-fighting-northeast-has-significantly-worsened-2023-10-14/).
+You can read more about it [here](https://thehill.com/homenews/administration/4256692-wray-warns-rise-violent-extremism/).
 
 ## Requirements
 - Python 3.8
