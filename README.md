@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan faces grim prospects in speaker’s fight after whirlwind week for House GOP**
+**Israel Strikes Killed 9 Hostages In Past 24 Hours: Hamas**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/politics/jim-jordan-house-speaker-race/index.html).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-strikes-killed-9-hostages-in-past-24-hours-hamas-4481325).
 
 ## Requirements
 - Python 3.8
