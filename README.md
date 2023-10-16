@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wray warns of rise in violent extremism amid Israel-Hamas war**
+**Taylor Swift Fans Shake It Off At First Screenings of ‘Eras Tour’ Concert Film, With Theme Outfits and Merch**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4256692-wray-warns-rise-violent-extremism/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/taylor-swift-eras-tour-concert-movie-audience-1235618648/).
 
 ## Requirements
 - Python 3.8
