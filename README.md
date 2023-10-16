@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin sees gains on eastern Ukraine front lines, including industrial hub Avdiivka**
+**3 wounded in shooting at State Fair of Texas, suspect in custody, Dallas police say**
 
-You can read more about it [here](https://www.france24.com/en/europe/20231015-putin-sees-gains-on-front-lines-in-eastern-ukraine-including-industrial-hub-avdiivka).
+You can read more about it [here](https://www.dallasnews.com/news/crime/2023/10/14/state-fair-of-texas-evacuated-as-dallas-police-investigate-shooting/).
 
 ## Requirements
 - Python 3.8
