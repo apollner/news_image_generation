@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Fans Shake It Off At First Screenings of ‘Eras Tour’ Concert Film, With Theme Outfits and Merch**
+**Heisman moment? Try career moment. Michael Penix Jr. delivers for Washington in thrilling win over Oregon**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/taylor-swift-eras-tour-concert-movie-audience-1235618648/).
+You can read more about it [here](https://sports.yahoo.com/heisman-moment-try-career-moment-michael-penix-jr-delivers-for-washington-in-thrilling-win-over-oregon-022129505.html).
 
 ## Requirements
 - Python 3.8
