@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Lebanon border clashes escalate**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/one-killed-3-wounded-cross-border-hezbollah-attack-northern-israel-2023-10-15/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
