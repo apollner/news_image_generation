@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historian Yuval Noah Harari on Hamas' crimes against humanity**
+**Adobe's latest wearable tech promises dynamic clothing that can change at the push of a button**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_VITOiCQlPs).
+You can read more about it [here](https://www.techspot.com/news/100494-adobe-latest-wearable-tech-promises-dynamic-clothing-can.html).
 
 ## Requirements
 - Python 3.8
