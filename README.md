@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suzanne Somers Dies: 'Three's Company' Actress And Personal Fitness Guru Was 76**
+**[Removed]**
 
-You can read more about it [here](https://deadline.com/2023/10/suzanne-somers-dead-threes-company-actress-and-personal-fitness-guru-was-76-1235574244/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
