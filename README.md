@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Titans' Ryan Tannehill suffers ankle injury, carted off - ESPN**
+**Historian Yuval Noah Harari on Hamas' crimes against humanity**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38664768/titans-ryan-tannehill-suffers-ankle-injury-carted-off).
+You can read more about it [here](https://www.youtube.com/watch?v=_VITOiCQlPs).
 
 ## Requirements
 - Python 3.8
