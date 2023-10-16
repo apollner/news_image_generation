@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Miracle drug' euphoria: Experts warn widespread use of weight loss medicine faces major hurdles**
+**Taylor Swift Fans Shake It Off At First Screenings of ‘Eras Tour’ Concert Film, With Theme Outfits and Merch**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/14/obesity-medicine-euphoria-warning-experts-tackle-miracle-drugs.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/taylor-swift-eras-tour-concert-movie-audience-1235618648/).
 
 ## Requirements
 - Python 3.8
