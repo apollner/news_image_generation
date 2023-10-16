@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why gas prices are going down, even in expensive California**
+**Opposition wins Polish election, according to exit poll**
 
-You can read more about it [here](https://www.usatoday.com/story/money/personalfinance/2023/10/15/gas-prices-decline/71171398007/).
+You can read more about it [here](https://www.politico.eu/article/opposition-wins-polish-election-according-to-exit-poll-poland-kaczynski-duda-tusk-election-rule-of-law/).
 
 ## Requirements
 - Python 3.8
