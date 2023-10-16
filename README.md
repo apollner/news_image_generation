@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tremor-Prone Afghanistan Suffers 3rd Earthquake in About a Week**
+**Why gas prices are going down, even in expensive California**
 
-You can read more about it [here](https://www.youtube.com/watch?v=PPKuSrv_SbA).
+You can read more about it [here](https://www.usatoday.com/story/money/personalfinance/2023/10/15/gas-prices-decline/71171398007/).
 
 ## Requirements
 - Python 3.8
