@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Brooks on his mission: To counter our nation's spiritual crisis**
+**Annular solar eclipse of 2023 wows skywatchers with spectacular 'ring of fire' (photos, video)**
 
-You can read more about it [here](https://www.cbsnews.com/news/david-brooks-on-how-to-know-a-person/).
+You can read more about it [here](https://www.space.com/annular-solar-eclipse-2023-photos).
 
 ## Requirements
 - Python 3.8
