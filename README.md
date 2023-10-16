@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Jordan tapped as Republican House speaker nominee**
+**Pete Davidson’s ‘SNL’ Cold Open Addresses Israel-Hamas War: “Sometimes Comedy Is Really the Only Way Forward Through Tragedy”**
 
-You can read more about it [here](https://www.npr.org/2023/10/14/1205987040/jim-jordan-tapped-as-republican-house-speaker-nominee).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/pete-davidson-snl-cold-open-israel-hamas-war-1235618723/).
 
 ## Requirements
 - Python 3.8
