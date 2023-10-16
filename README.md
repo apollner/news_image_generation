@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**VIDEO: Israeli navy unit sprays machine gun fire at Hamas 'swimmers'**
+**Israel Airstrikes Kill Key Hamas Leader as Gaza Humanitarian Crisis Grows**
 
-You can read more about it [here](https://www.businessinsider.com/idf-footage-israeli-navy-fighting-off-sea-attack-hamas-2023-10).
+You can read more about it [here](https://www.wsj.com/world/middle-east/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a).
 
 ## Requirements
 - Python 3.8
