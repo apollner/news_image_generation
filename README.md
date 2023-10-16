@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian McCaffrey heads to locker room with oblique injury**
+**Suzanne Somers Dies: 'Three's Company' Actress And Personal Fitness Guru Was 76**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-heads-to-locker-room-with-oblique-injury).
+You can read more about it [here](https://deadline.com/2023/10/suzanne-somers-dead-threes-company-actress-and-personal-fitness-guru-was-76-1235574244/).
 
 ## Requirements
 - Python 3.8
