@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Jordan tapped as Republican House speaker nominee**
+**US sending second carrier strike group, fighter jets to region as Israel prepares to expand Gaza operations**
 
-You can read more about it [here](https://www.npr.org/2023/10/14/1205987040/jim-jordan-tapped-as-republican-house-speaker-nominee).
+You can read more about it [here](https://www.cnn.com/2023/10/14/middleeast/us-aircraft-carrier-eisenhower-israel-gaza-intl-hnk-ml/index.html).
 
 ## Requirements
 - Python 3.8
