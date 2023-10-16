@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Hamas' horrific killings, Israeli trauma over the Holocaust resurfaces**
+**NFL Week 6 odds, expert picks, best bets, teasers, spreads, survivor picks, how to watch, streaming, more**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/15/hamas-horrific-killings-israeli-trauma-holocaust-00121599).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-odds-expert-picks-best-bets-teasers-spreads-survivor-picks-how-to-watch-streaming-more/).
 
 ## Requirements
 - Python 3.8
