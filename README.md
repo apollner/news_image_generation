@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mapping the Mind: Decoding Neuropsychiatric Disorders With the Human Brain Cell Atlas**
+**Dropbox’s CEO has a message for bosses who want workers to return to office: ‘They’re not resources to control’**
 
-You can read more about it [here](https://scitechdaily.com/?p=318045).
+You can read more about it [here](https://fortune.com/2023/10/15/dropbox-ceo-remote-work-return-to-office/).
 
 ## Requirements
 - Python 3.8
