@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Airstrikes Kill Key Hamas Leader as Gaza Humanitarian Crisis Grows**
+**David Brooks on his mission: To counter our nation's spiritual crisis**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a).
+You can read more about it [here](https://www.cbsnews.com/news/david-brooks-on-how-to-know-a-person/).
 
 ## Requirements
 - Python 3.8
