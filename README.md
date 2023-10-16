@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dropbox’s CEO has a message for bosses who want workers to return to office: ‘They’re not resources to control’**
+**Republican Jeff Landry claims back Louisiana governor's office in stunning GOP victory**
 
-You can read more about it [here](https://fortune.com/2023/10/15/dropbox-ceo-remote-work-return-to-office/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/10/15/republican-jeff-landry-louisiana-gop/71194695007/).
 
 ## Requirements
 - Python 3.8
