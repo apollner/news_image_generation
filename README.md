@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon coach Dan Lanning shoulders blame for 4th-down failures vs. Washington - ESPN**
+**Jim Jordan tapped as Republican House speaker nominee**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38661090/oregon-coach-dan-lanning-shoulders-blame-4th-failures-vs-washington).
+You can read more about it [here](https://www.npr.org/2023/10/14/1205987040/jim-jordan-tapped-as-republican-house-speaker-nominee).
 
 ## Requirements
 - Python 3.8
