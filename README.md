@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Davidson’s ‘SNL’ Cold Open Addresses Israel-Hamas War: “Sometimes Comedy Is Really the Only Way Forward Through Tragedy”**
+**Heisman moment? Try career moment. Michael Penix Jr. delivers for Washington in thrilling win over Oregon**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/pete-davidson-snl-cold-open-israel-hamas-war-1235618723/).
+You can read more about it [here](https://sports.yahoo.com/heisman-moment-try-career-moment-michael-penix-jr-delivers-for-washington-in-thrilling-win-over-oregon-022129505.html).
 
 ## Requirements
 - Python 3.8
