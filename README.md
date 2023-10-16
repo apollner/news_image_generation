@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Opposition wins Polish election, according to exit poll**
+**Israel-Lebanon border clashes escalate**
 
-You can read more about it [here](https://www.politico.eu/article/opposition-wins-polish-election-according-to-exit-poll-poland-kaczynski-duda-tusk-election-rule-of-law/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/one-killed-3-wounded-cross-border-hezbollah-attack-northern-israel-2023-10-15/).
 
 ## Requirements
 - Python 3.8
