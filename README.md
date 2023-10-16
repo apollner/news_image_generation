@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Murder plot revealed in Jade Janks' text messages: "I just dosed the hell out of him"**
+**Chris Evans Talks “Enjoying Life” With Wife Alba Baptista After Two Wedding Ceremonies**
 
-You can read more about it [here](https://www.cbsnews.com/news/jade-janks-tom-merriman-murder-plot-revealed-in-california-womans-text-messages/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/chris-evans-marriage-ceremonies-alba-baptista-broadway-return-nycc-1235618745/).
 
 ## Requirements
 - Python 3.8
