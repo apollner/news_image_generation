@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adobe's latest wearable tech promises dynamic clothing that can change at the push of a button**
+**Christian McCaffrey heads to locker room with oblique injury**
 
-You can read more about it [here](https://www.techspot.com/news/100494-adobe-latest-wearable-tech-promises-dynamic-clothing-can.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-heads-to-locker-room-with-oblique-injury).
 
 ## Requirements
 - Python 3.8
