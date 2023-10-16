@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Evans Confirms Marriage To Alba Baptista**
+**'Miracle drug' euphoria: Experts warn widespread use of weight loss medicine faces major hurdles**
 
-You can read more about it [here](https://www.buzzfeed.com/chelseastewart/chris-evans-married-alba-baptista-confirmation).
+You can read more about it [here](https://www.cnbc.com/2023/10/14/obesity-medicine-euphoria-warning-experts-tackle-miracle-drugs.html).
 
 ## Requirements
 - Python 3.8
