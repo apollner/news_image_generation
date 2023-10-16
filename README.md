@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Strikes Killed 9 Hostages In Past 24 Hours: Hamas**
+**No letup in Russian strikes on Ukrainian town of Avdiivka**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-strikes-killed-9-hostages-in-past-24-hours-hamas-4481325).
+You can read more about it [here](https://www.reuters.com/world/europe/top-ukraine-general-says-fighting-northeast-has-significantly-worsened-2023-10-14/).
 
 ## Requirements
 - Python 3.8
