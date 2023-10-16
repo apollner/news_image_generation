@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican Jeff Landry claims back Louisiana governor's office in stunning GOP victory**
+**Titans' Ryan Tannehill suffers ankle injury, carted off - ESPN**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/10/15/republican-jeff-landry-louisiana-gop/71194695007/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38664768/titans-ryan-tannehill-suffers-ankle-injury-carted-off).
 
 ## Requirements
 - Python 3.8
