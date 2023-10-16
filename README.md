@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US sending second carrier strike group, fighter jets to region as Israel prepares to expand Gaza operations**
+**See it in photos: "Ring of fire" annular eclipse dazzles viewers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/14/middleeast/us-aircraft-carrier-eisenhower-israel-gaza-intl-hnk-ml/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/photos-ring-of-fire-annular-eclipse/).
 
 ## Requirements
 - Python 3.8
