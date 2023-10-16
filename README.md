@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heisman moment? Try career moment. Michael Penix Jr. delivers for Washington in thrilling win over Oregon**
+**Notre Dame vs. USC live stream, how to watch, TV channel, prediction, expert picks, spread, odds**
 
-You can read more about it [here](https://sports.yahoo.com/heisman-moment-try-career-moment-michael-penix-jr-delivers-for-washington-in-thrilling-win-over-oregon-022129505.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-usc-live-stream-how-to-watch-tv-channel-prediction-expert-picks-spread-odds/).
 
 ## Requirements
 - Python 3.8
