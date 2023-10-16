@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See it in photos: "Ring of fire" annular eclipse dazzles viewers**
+**Putin sees gains on eastern Ukraine front lines, including industrial hub Avdiivka**
 
-You can read more about it [here](https://www.cbsnews.com/news/photos-ring-of-fire-annular-eclipse/).
+You can read more about it [here](https://www.france24.com/en/europe/20231015-putin-sees-gains-on-front-lines-in-eastern-ukraine-including-industrial-hub-avdiivka).
 
 ## Requirements
 - Python 3.8
