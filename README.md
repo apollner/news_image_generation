@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 wounded in shooting at State Fair of Texas, suspect in custody, Dallas police say**
+**China's Economy Is Going Bust. That Should Terrify US Businesses.**
 
-You can read more about it [here](https://www.dallasnews.com/news/crime/2023/10/14/state-fair-of-texas-evacuated-as-dallas-police-investigate-shooting/).
+You can read more about it [here](https://www.businessinsider.com/china-xi-jinping-economy-real-estate-debt-bust-american-companies-2023-10).
 
 ## Requirements
 - Python 3.8
