@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame vs. USC live stream, how to watch, TV channel, prediction, expert picks, spread, odds**
+**‘Ring of fire’ eclipse appears over the Americas**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-usc-live-stream-how-to-watch-tv-channel-prediction-expert-picks-spread-odds/).
+You can read more about it [here](https://www.cnn.com/2023/10/14/world/solar-eclipse-annular-americas-2023-scn/index.html).
 
 ## Requirements
 - Python 3.8
