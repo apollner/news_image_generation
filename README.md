@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Evans Talks “Enjoying Life” With Wife Alba Baptista After Two Wedding Ceremonies**
+**Oregon coach Dan Lanning shoulders blame for 4th-down failures vs. Washington - ESPN**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/chris-evans-marriage-ceremonies-alba-baptista-broadway-return-nycc-1235618745/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38661090/oregon-coach-dan-lanning-shoulders-blame-4th-failures-vs-washington).
 
 ## Requirements
 - Python 3.8
