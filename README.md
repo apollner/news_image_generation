@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Economy Is Going Bust. That Should Terrify US Businesses.**
+**In Hamas' horrific killings, Israeli trauma over the Holocaust resurfaces**
 
-You can read more about it [here](https://www.businessinsider.com/china-xi-jinping-economy-real-estate-debt-bust-american-companies-2023-10).
+You can read more about it [here](https://www.politico.com/news/2023/10/15/hamas-horrific-killings-israeli-trauma-holocaust-00121599).
 
 ## Requirements
 - Python 3.8
