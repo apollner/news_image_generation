@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken to extend Middle East tour, return to Israel on Monday**
+**Mapping the Mind: Decoding Neuropsychiatric Disorders With the Human Brain Cell Atlas**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/blinken-will-meet-with-saudi-crown-price-sunday-riyadh-us-official-says-2023-10-15/).
+You can read more about it [here](https://scitechdaily.com/?p=318045).
 
 ## Requirements
 - Python 3.8
