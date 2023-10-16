@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heisman moment? Try career moment. Michael Penix Jr. delivers for Washington in thrilling win over Oregon**
+**US sending second carrier strike group, fighter jets to region as Israel prepares to expand Gaza operations**
 
-You can read more about it [here](https://sports.yahoo.com/heisman-moment-try-career-moment-michael-penix-jr-delivers-for-washington-in-thrilling-win-over-oregon-022129505.html).
+You can read more about it [here](https://www.cnn.com/2023/10/14/middleeast/us-aircraft-carrier-eisenhower-israel-gaza-intl-hnk-ml/index.html).
 
 ## Requirements
 - Python 3.8
