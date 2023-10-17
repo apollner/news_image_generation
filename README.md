@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LinkedIn is laying off nearly 700 employees**
+**Moderna, BioNTech Leads Covid Sell-Off After Pfizer Slashes Outlook**
 
-You can read more about it [here](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs).
+You can read more about it [here](https://www.investors.com/news/technology/moderna-stock-biontech-stock-lead-covid-sell-off-after-pfizer-slashes-guidance/).
 
 ## Requirements
 - Python 3.8
