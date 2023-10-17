@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chevron Australia LNG unions stick to strike plan even as pay talks continue**
+**Israel-Gaza war live updates: Biden warns Israel against occupying Gaza; hospital fuel nearly gone, U.N. says**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/chevron-australia-lng-unions-stick-strike-plan-even-pay-talks-continue-2023-10-16/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/16/israel-war-news-hamas-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
