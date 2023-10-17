@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warner Bros. Discovery’s Max Details 2024 European Rollout Plans**
+**Jordan facing GOP holdouts in speaker race, Democrats trying to get Jeffries elected**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/hbo-max-europe-2024-rollout-mipcom-1235619251/).
+You can read more about it [here](https://www.youtube.com/watch?v=vj-M-y0Zn8M).
 
 ## Requirements
 - Python 3.8
