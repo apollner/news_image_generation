@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros vs. Rangers: Explaining unusual double play as Jose Altuve makes baserunning mistake in ALCS Game 1**
+**Warner Bros. Discovery’s Max Details 2024 European Rollout Plans**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-explaining-unusual-double-play-as-jose-altuve-makes-baserunning-mistake-in-alcs-game-1/).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-news/hbo-max-europe-2024-rollout-mipcom-1235619251/).
 
 ## Requirements
 - Python 3.8
