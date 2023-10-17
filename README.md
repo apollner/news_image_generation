@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jose Altuve Made Costly Baserunning Blunder After Alex Bregman's Near-Home Run vs. Rangers**
+**New York Giants vs. Buffalo Bills | 2023 Week 6 Game Highlights**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/16/jose-altuve-made-costly-baserunning-blunder-alex-bregmans-near-home-run-rangers).
+You can read more about it [here](https://www.youtube.com/watch?v=XSXvxJOpapc).
 
 ## Requirements
 - Python 3.8
