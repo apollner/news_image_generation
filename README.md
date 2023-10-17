@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says Israeli occupation of Gaza would be a "big mistake"**
+**Will Smith's reaction to Jada Pinkett Smith memoir revelations**
 
-You can read more about it [here](https://www.axios.com/2023/10/15/biden-60-minutes-israel-hamas-war).
+You can read more about it [here](https://www.insider.com/will-smith-reaction-jada-pinkett-smith-memoir-book-separation-2023-10).
 
 ## Requirements
 - Python 3.8
