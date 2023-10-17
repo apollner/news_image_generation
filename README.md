@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas war updates: Families of hostages are notified**
+**A brain atlas: Ambitious research may yield new understanding about dementia**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/15/israel-hamas-war-live-updates/71194572007/).
+You can read more about it [here](https://www.ksl.com/article/50751100/a-brain-atlas-ambitious-research-may-yield-new-understanding-about-dementia).
 
 ## Requirements
 - Python 3.8
