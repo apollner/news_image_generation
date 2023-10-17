@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis greets 270 American evacuees from Israel after they land in Tampa**
+**MAGA-backed Jeff Landry wins governor’s race in Louisiana**
 
-You can read more about it [here](https://www.wfla.com/news/hillsborough-county/live-desantis-greets-270-american-evacuees-from-israel-after-they-land-in-tampa/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/15/louisiana-governor-race/).
 
 ## Requirements
 - Python 3.8
