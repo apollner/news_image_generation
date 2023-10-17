@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moderna, BioNTech Leads Covid Sell-Off After Pfizer Slashes Outlook**
+**Israel-Hamas war live updates: Blinken meets with Israeli president, promises U.S. support; Gaza-Egypt border still closed**
 
-You can read more about it [here](https://www.investors.com/news/technology/moderna-stock-biontech-stock-lead-covid-sell-off-after-pfizer-slashes-guidance/).
+You can read more about it [here](https://www.cnbc.com/2023/10/16/israel-hamas-war-updates-latest-news-on-gaza.html).
 
 ## Requirements
 - Python 3.8
