@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stranger Things' Millie Bobby Brown Is Ready For Netflix Series To End**
+**Box Office: Taylor Swift’s ‘Eras Tour’ Officially Opens to $92.8 Million in North America, $123.5 Million Globally**
 
-You can read more about it [here](https://www.gamespot.com/articles/stranger-things-millie-bobby-brown-is-ready-for-netflix-series-to-end/1100-6518416/).
+You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-box-office-final-opening-weekend-record-1235757568/).
 
 ## Requirements
 - Python 3.8
