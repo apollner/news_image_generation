@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war live updates: Biden warns Israel against occupying Gaza; hospital fuel nearly gone, U.N. says**
+**Biden says Israeli occupation of Gaza would be a "big mistake"**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/16/israel-war-news-hamas-gaza-palestine/).
+You can read more about it [here](https://www.axios.com/2023/10/15/biden-60-minutes-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
