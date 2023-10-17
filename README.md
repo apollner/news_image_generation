@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Father faces heartbreaking response after HOA discovers the treehouse he built for his daughter: ‘[It] needs to be preserved’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.yahoo.com/lifestyle/father-faces-heartbreaking-response-hoa-200000685.html).
 
 ## Requirements
 - Python 3.8
