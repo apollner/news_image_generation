@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Hurts throws 3 interceptions in Eagles first loss of the season | Undisputed**
+**Stranger Things' Millie Bobby Brown Is Ready For Netflix Series To End**
 
-You can read more about it [here](https://www.foxsports.com/watch/fmc-1c017gjz0hwoz0x6).
+You can read more about it [here](https://www.gamespot.com/articles/stranger-things-millie-bobby-brown-is-ready-for-netflix-series-to-end/1100-6518416/).
 
 ## Requirements
 - Python 3.8
