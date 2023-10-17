@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Blinken meets with Israeli president, promises U.S. support; Gaza-Egypt border still closed**
+**Box Office: Taylor Swift’s ‘Eras Tour’ Officially Opens to $92.8 Million in North America, $123.5 Million Globally**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/16/israel-hamas-war-updates-latest-news-on-gaza.html).
+You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-box-office-final-opening-weekend-record-1235757568/).
 
 ## Requirements
 - Python 3.8
