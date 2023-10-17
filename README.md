@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hot Wheels Unleashed 2: Turbocharged Review (PS5)**
+**Chevron Australia LNG unions stick to strike plan even as pay talks continue**
 
-You can read more about it [here](https://www.pushsquare.com/reviews/ps5/hot-wheels-unleashed-2-turbocharged).
+You can read more about it [here](https://www.reuters.com/markets/commodities/chevron-australia-lng-unions-stick-strike-plan-even-pay-talks-continue-2023-10-16/).
 
 ## Requirements
 - Python 3.8
