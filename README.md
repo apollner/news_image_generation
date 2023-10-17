@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York Giants vs. Buffalo Bills | 2023 Week 6 Game Highlights**
+**Noboa, 35, to become Ecuador’s next president following election dominated by spiraling crime**
 
-You can read more about it [here](https://www.youtube.com/watch?v=XSXvxJOpapc).
+You can read more about it [here](https://www.cnn.com/2023/10/15/americas/ecuador-election-gonzalez-noboa-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
