@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas War: What is Egypt’s position in the conflict?**
+**Israel Hamas war updates: Families of hostages are notified**
 
-You can read more about it [here](https://www.vox.com/2023/10/15/23918218/israel-hamas-war-egypt-humanitarian-crisis-gaza-israel-palestine-rafah-crossing).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/15/israel-hamas-war-live-updates/71194572007/).
 
 ## Requirements
 - Python 3.8
