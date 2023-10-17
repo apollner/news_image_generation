@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Counting Cars: Danny’s Motorcycle Pullover Drama (S1, E8) | Full Episode**
+**Oil prices in spotlight as Iran warns of escalation of Israel-Hamas war**
 
-You can read more about it [here](https://www.youtube.com/watch?v=18Cd5waxROI).
+You can read more about it [here](https://www.marketwatch.com/story/oil-prices-in-spotlight-as-iran-warns-of-escalation-of-israel-hamas-war-cce5ba12).
 
 ## Requirements
 - Python 3.8
