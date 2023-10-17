@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MAGA-backed Jeff Landry wins governor’s race in Louisiana**
+**Landlord charged with hate crimes after fatally stabbing a 6-year-old and wounding his mom because they were Muslim, authorities say**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/10/15/louisiana-governor-race/).
+You can read more about it [here](https://www.cnn.com/2023/10/15/us/chicago-landlord-attack-muslim-boy-mother/index.html).
 
 ## Requirements
 - Python 3.8
