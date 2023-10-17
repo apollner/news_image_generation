@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Taylor Swift’s ‘Eras Tour’ Officially Opens to $92.8 Million in North America, $123.5 Million Globally**
+**FTX top engineer testifies on Sam Bankman-Fried’s ‘excessive’ spending at Alameda: CNBC Crypto World**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/taylor-swift-eras-tour-box-office-final-opening-weekend-record-1235757568/).
+You can read more about it [here](https://www.youtube.com/watch?v=V22JndWGHoM).
 
 ## Requirements
 - Python 3.8
