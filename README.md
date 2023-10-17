@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Landlord charged with hate crimes after fatally stabbing a 6-year-old and wounding his mom because they were Muslim, authorities say**
+**Israel-Hamas War: What is Egypt’s position in the conflict?**
 
-You can read more about it [here](https://www.cnn.com/2023/10/15/us/chicago-landlord-attack-muslim-boy-mother/index.html).
+You can read more about it [here](https://www.vox.com/2023/10/15/23918218/israel-hamas-war-egypt-humanitarian-crisis-gaza-israel-palestine-rafah-crossing).
 
 ## Requirements
 - Python 3.8
