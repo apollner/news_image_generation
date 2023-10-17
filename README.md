@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suzanne Somers Dies At 76**
+**Jalen Hurts throws 3 interceptions in Eagles first loss of the season | Undisputed**
 
-You can read more about it [here](https://www.today.com/health/news/suzanne-somers-dies-rcna120515).
+You can read more about it [here](https://www.foxsports.com/watch/fmc-1c017gjz0hwoz0x6).
 
 ## Requirements
 - Python 3.8
