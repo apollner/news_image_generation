@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil prices in spotlight as Iran warns of escalation of Israel-Hamas war**
+**[Removed]**
 
-You can read more about it [here](https://www.marketwatch.com/story/oil-prices-in-spotlight-as-iran-warns-of-escalation-of-israel-hamas-war-cce5ba12).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
