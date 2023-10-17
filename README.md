@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli officials identify 2 Hamas leaders it says are responsible for attack, "backed by Iran"**
+**Buffalo Bills’ Damien Harris was removed from the field on a gurney during New York Giants game**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-identifies-2-hamas-leaders-attacks-yahya-sinwar-el-deif-iran/).
+You can read more about it [here](https://www.cnn.com/2023/10/15/us/damien-harris-nfl-player-injury-removed-field/index.html).
 
 ## Requirements
 - Python 3.8
