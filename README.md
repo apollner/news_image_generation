@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muslim boy, 6, stabbed to death: Chicago-area landlord charged with hate crime**
+**New York Giants vs. Buffalo Bills | 2023 Week 6 Game Highlights**
 
-You can read more about it [here](https://www.axios.com/2023/10/16/plainfield-illinois-murder-muslim-hate-crime).
+You can read more about it [here](https://www.youtube.com/watch?v=XSXvxJOpapc).
 
 ## Requirements
 - Python 3.8
