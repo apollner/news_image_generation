@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford, UAW leaders spar as auto strike costs rise**
+**LinkedIn is laying off nearly 700 employees**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/ford-exec-calls-deal-end-uaw-strike-2023-10-16/).
+You can read more about it [here](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs).
 
 ## Requirements
 - Python 3.8
