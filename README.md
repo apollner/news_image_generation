@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LinkedIn lays off 668 employees in second cut this year**
+**Suzanne Somers Dies At 76**
 
-You can read more about it [here](https://www.reuters.com/technology/linkedin-lays-off-over-500-workers-hiring-activity-slows-source-2023-10-16/).
+You can read more about it [here](https://www.today.com/health/news/suzanne-somers-dies-rcna120515).
 
 ## Requirements
 - Python 3.8
