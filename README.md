@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect charged in State Fair of Texas shooting that injured 3**
+**DeSantis greets 270 American evacuees from Israel after they land in Tampa**
 
-You can read more about it [here](https://www.cbsnews.com/texas/news/dallas-police-investigating-state-fair-after-shooting/).
+You can read more about it [here](https://www.wfla.com/news/hillsborough-county/live-desantis-greets-270-american-evacuees-from-israel-after-they-land-in-tampa/).
 
 ## Requirements
 - Python 3.8
