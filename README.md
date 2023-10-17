@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drug retailer Rite Aid files for bankruptcy amid rising debt, opioid litigation**
+**LinkedIn lays off 668 employees in second cut this year**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/drug-retailer-rite-aid-files-bankruptcy-protection-2023-10-16/).
+You can read more about it [here](https://www.reuters.com/technology/linkedin-lays-off-over-500-workers-hiring-activity-slows-source-2023-10-16/).
 
 ## Requirements
 - Python 3.8
