@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Noboa, 35, to become Ecuador’s next president following election dominated by spiraling crime**
+**Suspect charged in State Fair of Texas shooting that injured 3**
 
-You can read more about it [here](https://www.cnn.com/2023/10/15/americas/ecuador-election-gonzalez-noboa-intl-latam/index.html).
+You can read more about it [here](https://www.cbsnews.com/texas/news/dallas-police-investigating-state-fair-after-shooting/).
 
 ## Requirements
 - Python 3.8
