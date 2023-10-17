@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A brain atlas: Ambitious research may yield new understanding about dementia**
+**Hot Wheels Unleashed 2: Turbocharged Review (PS5)**
 
-You can read more about it [here](https://www.ksl.com/article/50751100/a-brain-atlas-ambitious-research-may-yield-new-understanding-about-dementia).
+You can read more about it [here](https://www.pushsquare.com/reviews/ps5/hot-wheels-unleashed-2-turbocharged).
 
 ## Requirements
 - Python 3.8
