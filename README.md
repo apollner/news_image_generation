@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel hits 6GHz (again) with its 14th-gen desktop CPUs**
+**Eagles news: Injury report, score and highlights, NFL schedule, next game**
 
-You can read more about it [here](https://www.engadget.com/intel-hits-6ghz-again-with-its-14th-gen-desktop-cpus-130007286.html).
+You can read more about it [here](https://www.inquirer.com/eagles/live/eagles-news-injury-report-schedule-injuries-rumors-updates-next-game-20231016.html).
 
 ## Requirements
 - Python 3.8
