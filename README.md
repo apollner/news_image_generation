@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father faces heartbreaking response after HOA discovers the treehouse he built for his daughter: ‘[It] needs to be preserved’**
+**Counting Cars: Danny’s Motorcycle Pullover Drama (S1, E8) | Full Episode**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/father-faces-heartbreaking-response-hoa-200000685.html).
+You can read more about it [here](https://www.youtube.com/watch?v=18Cd5waxROI).
 
 ## Requirements
 - Python 3.8
