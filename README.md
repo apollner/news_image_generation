@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills’ Damien Harris was removed from the field on a gurney during New York Giants game**
+**Jose Altuve Made Costly Baserunning Blunder After Alex Bregman's Near-Home Run vs. Rangers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/15/us/damien-harris-nfl-player-injury-removed-field/index.html).
+You can read more about it [here](https://www.si.com/mlb/2023/10/16/jose-altuve-made-costly-baserunning-blunder-alex-bregmans-near-home-run-rangers).
 
 ## Requirements
 - Python 3.8
