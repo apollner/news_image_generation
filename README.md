@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A brain atlas: Ambitious research may yield new understanding about dementia**
+**Israeli officials identify 2 Hamas leaders it says are responsible for attack, "backed by Iran"**
 
-You can read more about it [here](https://www.ksl.com/article/50751100/a-brain-atlas-ambitious-research-may-yield-new-understanding-about-dementia).
+You can read more about it [here](https://www.cbsnews.com/news/israel-identifies-2-hamas-leaders-attacks-yahya-sinwar-el-deif-iran/).
 
 ## Requirements
 - Python 3.8
