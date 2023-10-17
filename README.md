@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Smith's reaction to Jada Pinkett Smith memoir revelations**
+**Astros vs. Rangers: Explaining unusual double play as Jose Altuve makes baserunning mistake in ALCS Game 1**
 
-You can read more about it [here](https://www.insider.com/will-smith-reaction-jada-pinkett-smith-memoir-book-separation-2023-10).
+You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-explaining-unusual-double-play-as-jose-altuve-makes-baserunning-mistake-in-alcs-game-1/).
 
 ## Requirements
 - Python 3.8
