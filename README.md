@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump ‘does not have the right to say and do exactly what he pleases,’ Judge Chutkan says, issuing gag order**
+**Ford, UAW leaders spar as auto strike costs rise**
 
-You can read more about it [here](https://www.cnn.com/2023/10/16/politics/trump-gag-order-chutkan-hearing/index.html).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/ford-exec-calls-deal-end-uaw-strike-2023-10-16/).
 
 ## Requirements
 - Python 3.8
