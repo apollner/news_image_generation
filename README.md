@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman profit tops estimates as dealmaking cushions hit from GreenSky, real estate**
+**Cash, corruption, crumbling dams — that's China's BRI, 10 years in**
 
-You can read more about it [here](https://www.reuters.com/business/finance/goldman-sachs-profit-plunges-impact-fintech-sale-real-estate-bets-2023-10-17/).
+You can read more about it [here](https://www.euronews.com/2023/10/17/cash-corruption-crumbling-dams-thats-chinas-belt-and-road-initiative-10-years-in).
 
 ## Requirements
 - Python 3.8
