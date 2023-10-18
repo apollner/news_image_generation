@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India’s top court stops short of legalizing same-sex marriage in landmark LGBTQ ruling**
+**Dallas Cowboys vs. Los Angeles Chargers | 2023 Week 6 Game Highlights**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/india/india-same-sex-marriage-verdict-intl-hnk/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=B_4X2oSs6LI).
 
 ## Requirements
 - Python 3.8
