@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cash, corruption, crumbling dams — that's China's BRI, 10 years in**
+**Jim Jordan takes speaker vote to the House floor in bid to end GOP leadership vacuum**
 
-You can read more about it [here](https://www.euronews.com/2023/10/17/cash-corruption-crumbling-dams-thats-chinas-belt-and-road-initiative-10-years-in).
+You can read more about it [here](https://www.cnn.com/2023/10/17/politics/jordan-speaker-vote-house-floor/index.html).
 
 ## Requirements
 - Python 3.8
