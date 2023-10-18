@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL Power Rankings Week 7 roundup: The first honest Chiefs rankings**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.arrowheadpride.com/2023/10/17/23921246/nfl-power-rankings-week-7-roundup-first-honest-chiefs-ranking).
 
 ## Requirements
 - Python 3.8
