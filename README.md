@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ray-Ban Meta sunglasses have ‘influencer’ written all over them**
+**Jordanian king warns Mideast ‘on brink of abyss,’ refuses refuge for fleeing Gazans**
 
-You can read more about it [here](https://techcrunch.com/2023/10/17/ray-ban-meta-review/).
+You can read more about it [here](https://www.timesofisrael.com/jordanian-king-warns-mideast-on-brink-of-abyss-refuses-refuge-for-fleeing-gazans/).
 
 ## Requirements
 - Python 3.8
