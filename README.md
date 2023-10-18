@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT's Week 7 2023 NFL power rankings**
+**Goldman profit tops estimates as dealmaking cushions hit from GreenSky, real estate**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2023-nfl-power-rankings).
+You can read more about it [here](https://www.reuters.com/business/finance/goldman-sachs-profit-plunges-impact-fintech-sale-real-estate-bets-2023-10-17/).
 
 ## Requirements
 - Python 3.8
