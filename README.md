@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Aguilera on Halloween Obsession, Pranking Fiancé & New Vegas Show**
+**Trump set to return to the civil fraud trial that could threaten his business empire**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zcO0zqKlsi0).
+You can read more about it [here](https://abcnews.go.com/US/trump-set-return-civil-trial-threaten-business-empire/story?id=104027258).
 
 ## Requirements
 - Python 3.8
