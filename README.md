@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM to delay all-electric truck production at Michigan plant until late-2025**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/17/gm-to-delay-ev-truck-production-at-michigan-plant.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
