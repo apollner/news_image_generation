@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordanian king warns Mideast ‘on brink of abyss,’ refuses refuge for fleeing Gazans**
+**Netflix Aims to Be PlayStation's Next Big Rival, And It Wants Grand Theft Auto**
 
-You can read more about it [here](https://www.timesofisrael.com/jordanian-king-warns-mideast-on-brink-of-abyss-refuses-refuge-for-fleeing-gazans/).
+You can read more about it [here](https://www.pushsquare.com/news/2023/10/netflix-aims-to-be-playstations-next-big-rival-and-it-wants-grand-theft-auto).
 
 ## Requirements
 - Python 3.8
