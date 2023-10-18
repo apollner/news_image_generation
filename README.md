@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Sandoval Gets Punched by Fellow Reality Star in ‘Special Forces: World’s Toughest Test’ (Exclusive Video)**
+**India’s top court stops short of legalizing same-sex marriage in landmark LGBTQ ruling**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/tom-sandoval-gets-punched-fellow-213304812.html).
+You can read more about it [here](https://www.cnn.com/2023/10/17/india/india-same-sex-marriage-verdict-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
