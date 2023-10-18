@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to visit Israel as Gaza war sparks humanitarian crisis**
+**What happens next in Poland? 5 things you need to know after a landmark election**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/diplomats-renew-calls-gaza-aid-iran-warns-israel-2023-10-16/).
+You can read more about it [here](https://www.politico.eu/article/5-takeaways-poland-election-donald-tusk-jaroslaw-kaczynski/).
 
 ## Requirements
 - Python 3.8
