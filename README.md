@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suzanne Somers struggled with cancer since her 20s on 'Three's Company'**
+**Bank of America tops profit estimates on better-than-expected interest income**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/suzanne-somers-struggled-cancer-20s-threes-company-rcna120759).
+You can read more about it [here](https://www.cnbc.com/2023/10/17/bank-of-america-bac-earnings-3q-2023.html).
 
 ## Requirements
 - Python 3.8
