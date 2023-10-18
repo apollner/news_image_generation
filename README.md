@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jim Jordan scrambles for votes after 20 GOP defections imperil his speaker bid**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/10/17/politics/jordan-speaker-vote-house-floor/index.html).
 
 ## Requirements
 - Python 3.8
