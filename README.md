@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys vs Chargers Odds, Expert Pick & Prediction for Monday Night Football**
+**Leaker Claims New 11th-Generation Low-Cost iPad Will Launch Tomorrow**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/dallas-cowboys-los-angeles-chargers-odds-picks-nfl-monday-night-football-october-16-2023).
+You can read more about it [here](https://www.macrumors.com/2023/10/16/leaker-claims-low-cost-ipad-launching-tomorrow/).
 
 ## Requirements
 - Python 3.8
