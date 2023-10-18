@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the testy hearing over the Trump gag order and what it means**
+**Suzanne Somers struggled with cancer since her 20s on 'Three's Company'**
 
-You can read more about it [here](https://www.cnn.com/2023/10/16/politics/gag-order-trump-chutkan-takeaways/index.html).
+You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/suzanne-somers-struggled-cancer-20s-threes-company-rcna120759).
 
 ## Requirements
 - Python 3.8
