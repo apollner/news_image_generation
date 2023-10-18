@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian American boy grew close to landlord accused of stabbing him in hate crime**
+**Hamas' First Hostage Video: Franco-Israeli Woman Abducted From Music Fest**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/palestinian-american-boy-grew-close-landlord-accused-stabbing-hate-cri-rcna120737).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-israel-gaza-war-hamas-first-hostage-video-franco-israeli-woman-abducted-from-music-fest-4487630).
 
 ## Requirements
 - Python 3.8
