@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas' First Hostage Video: Franco-Israeli Woman Abducted From Music Fest**
+**Ray-Ban Meta sunglasses have ‘influencer’ written all over them**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-israel-gaza-war-hamas-first-hostage-video-franco-israeli-woman-abducted-from-music-fest-4487630).
+You can read more about it [here](https://techcrunch.com/2023/10/17/ray-ban-meta-review/).
 
 ## Requirements
 - Python 3.8
