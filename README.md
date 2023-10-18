@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Marine rapid response force moving toward Israel as Pentagon strengthens military posture in region**
+**NFL Week 6 grades: Cowboys earn a 'B+' for Monday night win, Browns get an 'A' for shocking victory over 49ers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/16/politics/us-marines-pentagon-israel/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-grades-cowboys-earn-a-b-for-monday-night-win-browns-get-an-a-for-shocking-victory-over-49ers/).
 
 ## Requirements
 - Python 3.8
