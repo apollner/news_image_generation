@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Israel says "currently no cease-fire" agreed for foreigners to flee Gaza**
+**Cowboys vs Chargers Odds, Expert Pick & Prediction for Monday Night Football**
 
-You can read more about it [here](https://www.cbsnews.com/live-updates/israel-hamas-war-gaza-palestinians-hostages-updates/).
+You can read more about it [here](https://www.actionnetwork.com/nfl/dallas-cowboys-los-angeles-chargers-odds-picks-nfl-monday-night-football-october-16-2023).
 
 ## Requirements
 - Python 3.8
