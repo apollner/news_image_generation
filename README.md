@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Jordan takes speaker vote to the House floor in bid to end GOP leadership vacuum**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/politics/jordan-speaker-vote-house-floor/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
