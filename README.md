@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman profits drop 36% after pullback from retail banking**
+**Fans Spot 'Invisible Strings' Connecting Taylor Swift, Travis Kelce**
 
-You can read more about it [here](https://www.ft.com/content/b69bb541-927b-494a-a038-98a44f46797c).
+You can read more about it [here](https://www.today.com/popculture/taylor-swift-travis-kelce-invisible-strings-theory-rcna120499).
 
 ## Requirements
 - Python 3.8
