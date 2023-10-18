@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Jordan scrambles for votes after 20 GOP defections imperil his speaker bid**
+**Alec Baldwin could face new criminal charges as 'Rust' shooting heads back to grand jury: prosecutors**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/politics/jordan-speaker-vote-house-floor/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/alec-baldwin-could-face-new-criminal-charges-as-rust-shooting-heads-back-grand-jury).
 
 ## Requirements
 - Python 3.8
