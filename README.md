@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tom Sandoval Gets Punched by Fellow Reality Star in ‘Special Forces: World’s Toughest Test’ (Exclusive Video)**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.yahoo.com/entertainment/tom-sandoval-gets-punched-fellow-213304812.html).
 
 ## Requirements
 - Python 3.8
