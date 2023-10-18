@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 6 grades: Cowboys earn a 'B+' for Monday night win, Browns get an 'A' for shocking victory over 49ers**
+**Putin visits 'dear friend' Xi in show of no-limits partnership**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-grades-cowboys-earn-a-b-for-monday-night-win-browns-get-an-a-for-shocking-victory-over-49ers/).
+You can read more about it [here](https://www.reuters.com/world/putin-visits-dear-friend-xi-show-no-limits-partnership-2023-10-17/).
 
 ## Requirements
 - Python 3.8
