@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Aims to Be PlayStation's Next Big Rival, And It Wants Grand Theft Auto**
+**Bloody nose to toilet tears, Tom Sandoval gets what he asked for on ‘Special Forces’**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/10/netflix-aims-to-be-playstations-next-big-rival-and-it-wants-grand-theft-auto).
+You can read more about it [here](https://www.yahoo.com/entertainment/bloody-nose-toilet-tears-tom-sandoval-gets-what-he-asked-for-on-special-forces-060203419.html).
 
 ## Requirements
 - Python 3.8
