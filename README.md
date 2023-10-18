@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war latest news and Gaza updates: Biden to visit Israel**
+**Palestinian American boy grew close to landlord accused of stabbing him in hate crime**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/17/israel-hamas-war-news-gaza/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/palestinian-american-boy-grew-close-landlord-accused-stabbing-hate-cri-rcna120737).
 
 ## Requirements
 - Python 3.8
