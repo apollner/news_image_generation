@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles sign 7-time Pro Bowl WR Julio Jones to deal - ESPN**
+**Palestinian-American boy fatally stabbed near Chicago had celebrated his 6th birthday just 8 days earlier**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38681513/eagles-sign-7-pro-bowl-wr-julio-jones-deal).
+You can read more about it [here](https://www.cnn.com/2023/10/17/us/6-year-old-boy-palestinian-boy-chicago-profile/index.html).
 
 ## Requirements
 - Python 3.8
