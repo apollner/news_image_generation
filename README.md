@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bandcamp’s new owner lays off half the company**
+**US Marine rapid response force moving toward Israel as Pentagon strengthens military posture in region**
 
-You can read more about it [here](https://techcrunch.com/2023/10/16/bandcamps-new-owner-lays-off-half-the-company/).
+You can read more about it [here](https://www.cnn.com/2023/10/16/politics/us-marines-pentagon-israel/index.html).
 
 ## Requirements
 - Python 3.8
