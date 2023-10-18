@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of America tops profit estimates on better-than-expected interest income**
+**PFT's Week 7 2023 NFL power rankings**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/17/bank-of-america-bac-earnings-3q-2023.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2023-nfl-power-rankings).
 
 ## Requirements
 - Python 3.8
