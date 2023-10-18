@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian-American boy fatally stabbed near Chicago had celebrated his 6th birthday just 8 days earlier**
+**GM to delay all-electric truck production at Michigan plant until late-2025**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/us/6-year-old-boy-palestinian-boy-chicago-profile/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/17/gm-to-delay-ev-truck-production-at-michigan-plant.html).
 
 ## Requirements
 - Python 3.8
