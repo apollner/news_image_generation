@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What happens next in Poland? 5 things you need to know after a landmark election**
+**Bandcamp’s new owner lays off half the company**
 
-You can read more about it [here](https://www.politico.eu/article/5-takeaways-poland-election-donald-tusk-jaroslaw-kaczynski/).
+You can read more about it [here](https://techcrunch.com/2023/10/16/bandcamps-new-owner-lays-off-half-the-company/).
 
 ## Requirements
 - Python 3.8
