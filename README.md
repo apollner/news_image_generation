@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fans Spot 'Invisible Strings' Connecting Taylor Swift, Travis Kelce**
+**Takeaways from the testy hearing over the Trump gag order and what it means**
 
-You can read more about it [here](https://www.today.com/popculture/taylor-swift-travis-kelce-invisible-strings-theory-rcna120499).
+You can read more about it [here](https://www.cnn.com/2023/10/16/politics/gag-order-trump-chutkan-takeaways/index.html).
 
 ## Requirements
 - Python 3.8
