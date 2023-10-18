@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin visits 'dear friend' Xi in show of no-limits partnership**
+**Tom Sandoval Gets Punched by Fellow Reality Star in ‘Special Forces: World’s Toughest Test’ (Exclusive Video)**
 
-You can read more about it [here](https://www.reuters.com/world/putin-visits-dear-friend-xi-show-no-limits-partnership-2023-10-17/).
+You can read more about it [here](https://www.yahoo.com/entertainment/tom-sandoval-gets-punched-fellow-213304812.html).
 
 ## Requirements
 - Python 3.8
