@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Details emerge following court hearing for man who attacked, stabbed Muslim child, mom in hate crime**
+**Pink postpones concerts due to family medical issues**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/details-emerge-following-court-hearing-for-illinois-landlord-who-attacked-stabbed-muslim-child-mom-in-hate-crime/3251978/).
+You can read more about it [here](https://ew.com/music/pink-postpones-concerts-family-medical-issues/).
 
 ## Requirements
 - Python 3.8
