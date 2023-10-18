@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bloody nose to toilet tears, Tom Sandoval gets what he asked for on ‘Special Forces’**
+**Christina Aguilera on Halloween Obsession, Pranking Fiancé & New Vegas Show**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/bloody-nose-toilet-tears-tom-sandoval-gets-what-he-asked-for-on-special-forces-060203419.html).
+You can read more about it [here](https://www.youtube.com/watch?v=zcO0zqKlsi0).
 
 ## Requirements
 - Python 3.8
