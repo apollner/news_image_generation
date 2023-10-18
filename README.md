@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings Week 7 roundup: The first honest Chiefs rankings**
+**Eagles sign 7-time Pro Bowl WR Julio Jones to deal - ESPN**
 
-You can read more about it [here](https://www.arrowheadpride.com/2023/10/17/23921246/nfl-power-rankings-week-7-roundup-first-honest-chiefs-ranking).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38681513/eagles-sign-7-pro-bowl-wr-julio-jones-deal).
 
 ## Requirements
 - Python 3.8
