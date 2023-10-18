@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the testy hearing over the Trump gag order and what it means**
+**Goldman profits drop 36% after pullback from retail banking**
 
-You can read more about it [here](https://www.cnn.com/2023/10/16/politics/gag-order-trump-chutkan-takeaways/index.html).
+You can read more about it [here](https://www.ft.com/content/b69bb541-927b-494a-a038-98a44f46797c).
 
 ## Requirements
 - Python 3.8
