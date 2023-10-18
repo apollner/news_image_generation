@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Cowboys vs. Los Angeles Chargers | 2023 Week 6 Game Highlights**
+**Israel-Hamas war latest news and Gaza updates: Biden to visit Israel**
 
-You can read more about it [here](https://www.youtube.com/watch?v=B_4X2oSs6LI).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/17/israel-hamas-war-news-gaza/).
 
 ## Requirements
 - Python 3.8
