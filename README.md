@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTX top engineer testifies on Sam Bankman-Fried’s ‘excessive’ spending at Alameda: CNBC Crypto World**
+**Israel-Hamas war live updates: Israel says "currently no cease-fire" agreed for foreigners to flee Gaza**
 
-You can read more about it [here](https://www.youtube.com/watch?v=V22JndWGHoM).
+You can read more about it [here](https://www.cbsnews.com/live-updates/israel-hamas-war-gaza-palestinians-hostages-updates/).
 
 ## Requirements
 - Python 3.8
