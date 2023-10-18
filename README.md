@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pink postpones concerts due to family medical issues**
+**Biden to visit Israel as Gaza war sparks humanitarian crisis**
 
-You can read more about it [here](https://ew.com/music/pink-postpones-concerts-family-medical-issues/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/diplomats-renew-calls-gaza-aid-iran-warns-israel-2023-10-16/).
 
 ## Requirements
 - Python 3.8
