@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaker Claims New 11th-Generation Low-Cost iPad Will Launch Tomorrow**
+**Details emerge following court hearing for man who attacked, stabbed Muslim child, mom in hate crime**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/16/leaker-claims-low-cost-ipad-launching-tomorrow/).
+You can read more about it [here](http://www.nbcchicago.com/news/local/details-emerge-following-court-hearing-for-illinois-landlord-who-attacked-stabbed-muslim-child-mom-in-hate-crime/3251978/).
 
 ## Requirements
 - Python 3.8
