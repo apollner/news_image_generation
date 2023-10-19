@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Schwarber ties Reggie Jackson mark as Phillies take 2-0 NLCS lead - ESPN**
+**Morgan Stanley beats estimates on trading, but shares dip as wealth management disappoints**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38684466/kyle-schwarber-ties-reggie-jackson-mark-phillies-take-2-0-nlcs-lead).
+You can read more about it [here](https://www.cnbc.com/2023/10/18/morgan-stanley-ms-earnings-3q-2023.html).
 
 ## Requirements
 - Python 3.8
