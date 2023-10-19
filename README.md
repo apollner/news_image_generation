@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unincorp. Plainfield stabbing: Vigil held for Wadea Al-Fayoume, 6 year old Muslim boy stabbed to death; Joseph Czuba charged**
+**Could low serotonin levels contribute to Long COVID?**
 
-You can read more about it [here](https://abc7chicago.com/plainfield-stabbing-illinois-joseph-czuba-news/13927291/).
+You can read more about it [here](https://abcnews.go.com/Health/low-serotonin-levels-contribute-long-covid/story?id=104035810).
 
 ## Requirements
 - Python 3.8
