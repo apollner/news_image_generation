@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's New M39 Missiles Could Knock Out A Lot Of Russia's Air-Defenses**
+**House speakership up in air as resistance to Jim Jordan hardens**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/10/17/ukraines-new-m39-missiles-could-knock-out-a-lot-of-russias-air-defenses/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67138067).
 
 ## Requirements
 - Python 3.8
