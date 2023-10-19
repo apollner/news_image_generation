@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six French airports evacuated after 'threats of attack'**
+**Gaza hospital: What video, pictures and other evidence tell us about Al Ahli hospital blast**
 
-You can read more about it [here](https://www.france24.com/en/europe/20231018-six-french-airports-evacuated-after-threats-of-attack).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67144061).
 
 ## Requirements
 - Python 3.8
