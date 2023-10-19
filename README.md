@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists propose 'missing' law for the evolution of everything in the universe**
+**North Carolina groundskeeper mows around dead body after mistaking it for prop, police and family say**
 
-You can read more about it [here](https://www.livescience.com/space/scientists-propose-missing-law-for-the-evolution-of-everything-in-the-universe).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/north-carolina-groundskeeper-mows-dead-body-mistaking-prop-police-fami-rcna121034).
 
 ## Requirements
 - Python 3.8
