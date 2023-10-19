@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina groundskeeper mows around dead body after mistaking it for prop, police and family say**
+**Israel-Hamas war rages as crisis in Gaza deepens: Live updates**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/north-carolina-groundskeeper-mows-dead-body-mistaking-prop-police-fami-rcna121034).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-18-23/index.html).
 
 ## Requirements
 - Python 3.8
