@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vigil held Tuesday for Unincorp. Plainfield Muslim boy fatally stabbed in apparent hate crime**
+**Sorting out NFL contenders and pretenders: Playoff picture entering Week 7 includes legit teams and frauds**
 
-You can read more about it [here](https://abc7chicago.com/plainfield-stabbing-illinois-joseph-czuba-news/13927291/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/sorting-out-nfl-contenders-and-pretenders-playoff-picture-entering-week-7-includes-legit-teams-and-frauds/).
 
 ## Requirements
 - Python 3.8
