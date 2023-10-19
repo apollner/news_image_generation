@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where the Hell Are Those 11th-Gen iPads?**
+**SpaceX launches Falcon 9 rocket on 47th Starlink launch of 2023 – Spaceflight Now**
 
-You can read more about it [here](https://gizmodo.com/where-the-hell-are-those-11th-gen-ipads-1850933469).
+You can read more about it [here](https://spaceflightnow.com/2023/10/17/live-coverage-spacex-prepares-falcon-9-rocket-launch-of-47th-starlink-launch-of-2023/).
 
 ## Requirements
 - Python 3.8
