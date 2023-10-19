@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IRS to test free tax-filing platform in 13 U.S. states. Here's where.**
+**Elon Musk’s X is testing an annual fee for unverified accounts**
 
-You can read more about it [here](https://www.cbsnews.com/news/irs-tax-filing-direct-file-free-service-13-states/).
+You can read more about it [here](https://www.cnn.com/2023/10/17/tech/x-tests-annual-fee/index.html).
 
 ## Requirements
 - Python 3.8
