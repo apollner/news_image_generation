@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge warns Trump not to disrupt testimony during New York civil fraud trial**
+**Why the average American family's net worth increased 37% during the pandemic**
 
-You can read more about it [here](https://www.axios.com/2023/10/18/trump-back-in-court-new-york-civil-fraud-trial).
+You can read more about it [here](https://www.npr.org/2023/10/18/1206830922/family-wealth-income-inequality-finances-fed-survey).
 
 ## Requirements
 - Python 3.8
