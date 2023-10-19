@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Could low serotonin levels contribute to Long COVID?**
+**Phillies vs. Diamondbacks live score: NLCS Game 2 TV channel, pitchers**
 
-You can read more about it [here](https://abcnews.go.com/Health/low-serotonin-levels-contribute-long-covid/story?id=104035810).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/17/phillies-vs-diamondbacks-live-nlcs-game-2-time-tv-channel-pitchers/71219388007/).
 
 ## Requirements
 - Python 3.8
