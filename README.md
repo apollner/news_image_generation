@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war rages as crisis in Gaza deepens: Live updates**
+**Protesters on Capitol Hill call for Israel-Hamas cease-fire, hundreds arrested**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-18-23/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=W6TiXg3qMkY).
 
 ## Requirements
 - Python 3.8
