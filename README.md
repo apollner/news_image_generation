@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit casino workers launch strike for better pay and benefits**
+**Where the Hell Are Those 11th-Gen iPads?**
 
-You can read more about it [here](https://www.cbsnews.com/news/detroit-casino-workers-strike-update-mgm/).
+You can read more about it [here](https://gizmodo.com/where-the-hell-are-those-11th-gen-ipads-1850933469).
 
 ## Requirements
 - Python 3.8
