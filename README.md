@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says Gaza militants appear to be behind hospital blast as anti-Israel protests spread**
+**2023-24 CBS Sports Preseason All-America teams: College basketball's best and most talented players**
 
-You can read more about it [here](https://www.reuters.com/world/biden-heads-middle-east-inflamed-by-gaza-hospital-blast-2023-10-18/).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/2023-24-cbs-sports-preseason-all-america-teams-college-basketballs-best-and-most-talented-players/).
 
 ## Requirements
 - Python 3.8
