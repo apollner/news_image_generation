@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Stanley beats estimates on trading, but shares dip as wealth management disappoints**
+**Motorola Razr 2023 Review: The Best Foldable You Could Get for $700**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/18/morgan-stanley-ms-earnings-3q-2023.html).
+You can read more about it [here](https://www.cnet.com/tech/mobile/motorola-razr-2023-review-the-best-foldable-you-could-get-for-700/).
 
 ## Requirements
 - Python 3.8
