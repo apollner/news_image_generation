@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quartz crystals detected swirling in an exoplanet’s atmosphere**
+**Detroit casino workers launch strike for better pay and benefits**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/world/webb-quartz-crystals-exoplanet-wasp-17b-scn/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/detroit-casino-workers-strike-update-mgm/).
 
 ## Requirements
 - Python 3.8
