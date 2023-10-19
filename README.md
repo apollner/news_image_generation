@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Percy Jackson’ Strikes Back: How Rick Riordan Defied Fox’s Failed Movies, Fought Racist Trolls and Finally Returned to Hollywood for Disney+ Series**
+**Super Mario Bros. Wonder Devs Used The 3D Mario Games As Inspiration**
 
-You can read more about it [here](https://variety.com/2023/tv/news/percy-jackson-tv-series-rick-riordan-diverse-cast-movies-1235759319/).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/super-mario-bros-wonder-devs-used-the-3d-mario-games-as-inspiration).
 
 ## Requirements
 - Python 3.8
