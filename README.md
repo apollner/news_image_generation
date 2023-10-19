@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaire Ronald Lauder threatens to pull funding if UPenn doesn't do more to fight antisemitism**
+**USMNT vs. Ghana | Extended Highlights (En Español) | 10/17/2023 | NBC Sports**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/business/upenn-ronald-lauder/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=RILDGb5PARM).
 
 ## Requirements
 - Python 3.8
