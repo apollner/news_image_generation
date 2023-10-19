@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT vs. Ghana | Extended Highlights (En Español) | 10/17/2023 | NBC Sports**
+**Ukraine's New M39 Missiles Could Knock Out A Lot Of Russia's Air-Defenses**
 
-You can read more about it [here](https://www.youtube.com/watch?v=RILDGb5PARM).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/10/17/ukraines-new-m39-missiles-could-knock-out-a-lot-of-russias-air-defenses/).
 
 ## Requirements
 - Python 3.8
