@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple to offer USB-C equipped Apple Pencil with new pricing**
+**Quartz crystals detected swirling in an exoplanet’s atmosphere**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-offer-usb-c-equipped-apple-pencil-new-pricing).
+You can read more about it [here](https://www.cnn.com/2023/10/17/world/webb-quartz-crystals-exoplanet-wasp-17b-scn/index.html).
 
 ## Requirements
 - Python 3.8
