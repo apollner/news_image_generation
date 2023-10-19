@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023-24 CBS Sports Preseason All-America teams: College basketball's best and most talented players**
+**Judge warns Trump not to disrupt testimony during New York civil fraud trial**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/2023-24-cbs-sports-preseason-all-america-teams-college-basketballs-best-and-most-talented-players/).
+You can read more about it [here](https://www.axios.com/2023/10/18/trump-back-in-court-new-york-civil-fraud-trial).
 
 ## Requirements
 - Python 3.8
