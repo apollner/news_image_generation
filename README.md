@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears says she had abortion when dating Justin Timberlake**
+**'I am not a threat': Hundreds gather for vigil mourning 6-year-old Palestinian-American boy who was stabbed to death near Chicago**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67136898).
+You can read more about it [here](https://www.cnn.com/2023/10/18/us/wadea-al-fayoume-death-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
