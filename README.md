@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Hochul went to Israel - POLITICO**
+**Intel's 300W Core i9-14900K: CPU Review, Benchmarks, Gaming, & Power**
 
-You can read more about it [here](https://www.politico.com/newsletters/new-york-playbook/2023/10/18/why-hochul-went-to-israel-00122167).
+You can read more about it [here](https://www.youtube.com/watch?v=2MvvCr-thM8).
 
 ## Requirements
 - Python 3.8
