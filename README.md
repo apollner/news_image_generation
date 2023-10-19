@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophia Bush and Former USWNT Soccer Star Ashlyn Harris Are Dating Following Their Divorces**
+**Ukraine's New M39 Missiles Could Knock Out A Lot Of Russia's Air-Defenses**
 
-You can read more about it [here](https://www.etonline.com/sophia-bush-and-former-uswnt-soccer-star-ashlyn-harris-are-dating-following-their-divorces-213216).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/10/17/ukraines-new-m39-missiles-could-knock-out-a-lot-of-russias-air-defenses/).
 
 ## Requirements
 - Python 3.8
