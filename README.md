@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Motorola Razr 2023 Review: The Best Foldable You Could Get for $700**
+**Six French airports evacuated after 'threats of attack'**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/motorola-razr-2023-review-the-best-foldable-you-could-get-for-700/).
+You can read more about it [here](https://www.france24.com/en/europe/20231018-six-french-airports-evacuated-after-threats-of-attack).
 
 ## Requirements
 - Python 3.8
