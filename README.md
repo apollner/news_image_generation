@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers super-fan goes viral after loss to Cowboys on Monday Night Football**
+**Why Hochul went to Israel - POLITICO**
 
-You can read more about it [here](https://ktla.com/news/local-news/chargers-super-fan-goes-viral-after-loss-to-cowboys-on-monday-night-football/).
+You can read more about it [here](https://www.politico.com/newsletters/new-york-playbook/2023/10/18/why-hochul-went-to-israel-00122167).
 
 ## Requirements
 - Python 3.8
