@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Mario Bros. Wonder Devs Used The 3D Mario Games As Inspiration**
+**Biden says Gaza militants appear to be behind hospital blast as anti-Israel protests spread**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/super-mario-bros-wonder-devs-used-the-3d-mario-games-as-inspiration).
+You can read more about it [here](https://www.reuters.com/world/biden-heads-middle-east-inflamed-by-gaza-hospital-blast-2023-10-18/).
 
 ## Requirements
 - Python 3.8
