@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s X is testing an annual fee for unverified accounts**
+**Unincorp. Plainfield stabbing: Vigil held for Wadea Al-Fayoume, 6 year old Muslim boy stabbed to death; Joseph Czuba charged**
 
-You can read more about it [here](https://www.cnn.com/2023/10/17/tech/x-tests-annual-fee/index.html).
+You can read more about it [here](https://abc7chicago.com/plainfield-stabbing-illinois-joseph-czuba-news/13927291/).
 
 ## Requirements
 - Python 3.8
