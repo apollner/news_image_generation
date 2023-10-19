@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baldwin may face new charges for fatal 'Rust' movie set shooting**
+**Sophia Bush and Former USWNT Soccer Star Ashlyn Harris Are Dating Following Their Divorces**
 
-You can read more about it [here](https://www.youtube.com/watch?v=az6_2RGjdIo).
+You can read more about it [here](https://www.etonline.com/sophia-bush-and-former-uswnt-soccer-star-ashlyn-harris-are-dating-following-their-divorces-213216).
 
 ## Requirements
 - Python 3.8
