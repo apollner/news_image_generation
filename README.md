@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House speakership up in air as resistance to Jim Jordan hardens**
+**Chargers super-fan goes viral after loss to Cowboys on Monday Night Football**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67138067).
+You can read more about it [here](https://ktla.com/news/local-news/chargers-super-fan-goes-viral-after-loss-to-cowboys-on-monday-night-football/).
 
 ## Requirements
 - Python 3.8
