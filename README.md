@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's New M39 Missiles Could Knock Out A Lot Of Russia's Air-Defenses**
+**Vigil held Tuesday for Unincorp. Plainfield Muslim boy fatally stabbed in apparent hate crime**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2023/10/17/ukraines-new-m39-missiles-could-knock-out-a-lot-of-russias-air-defenses/).
+You can read more about it [here](https://abc7chicago.com/plainfield-stabbing-illinois-joseph-czuba-news/13927291/).
 
 ## Requirements
 - Python 3.8
