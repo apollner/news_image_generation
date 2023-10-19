@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel's 300W Core i9-14900K: CPU Review, Benchmarks, Gaming, & Power**
+**Kyle Schwarber ties Reggie Jackson mark as Phillies take 2-0 NLCS lead - ESPN**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2MvvCr-thM8).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38684466/kyle-schwarber-ties-reggie-jackson-mark-phillies-take-2-0-nlcs-lead).
 
 ## Requirements
 - Python 3.8
