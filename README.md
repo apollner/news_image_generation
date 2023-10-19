@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I am not a threat': Hundreds gather for vigil mourning 6-year-old Palestinian-American boy who was stabbed to death near Chicago**
+**Baldwin may face new charges for fatal 'Rust' movie set shooting**
 
-You can read more about it [here](https://www.cnn.com/2023/10/18/us/wadea-al-fayoume-death-wednesday/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=az6_2RGjdIo).
 
 ## Requirements
 - Python 3.8
