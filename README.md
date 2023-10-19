@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza hospital: What video, pictures and other evidence tell us about Al Ahli hospital blast**
+**Motorola Razr 2023 Review: The Best Foldable You Could Get for $700**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67144061).
+You can read more about it [here](https://www.cnet.com/tech/mobile/motorola-razr-2023-review-the-best-foldable-you-could-get-for-700/).
 
 ## Requirements
 - Python 3.8
