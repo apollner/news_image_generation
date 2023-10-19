@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Phillies vs. Diamondbacks live score: NLCS Game 2 TV channel, pitchers**
+**Billionaire Ronald Lauder threatens to pull funding if UPenn doesn't do more to fight antisemitism**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/playoffs/2023/10/17/phillies-vs-diamondbacks-live-nlcs-game-2-time-tv-channel-pitchers/71219388007/).
+You can read more about it [here](https://www.cnn.com/2023/10/17/business/upenn-ronald-lauder/index.html).
 
 ## Requirements
 - Python 3.8
