@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix stock surges 16% after Wall Street buys into ad-driven subscriber growth**
+**US troops in Syria targetted by drones- officials**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/19/netflix-stock-surges-after-earnings-report-jump-in-subscribers.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/lebanese-iran-aligned-al-mayadeen-reports-attacks-two-us-bases-syria-2023-10-19/).
 
 ## Requirements
 - Python 3.8
