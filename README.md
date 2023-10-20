@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First on CNN: US Navy warship near Yemen intercepts multiple missiles, US officials say**
+**Between 100 and 300 believed killed in Gaza hospital blast, according to preliminary US intelligence assessment**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/politics/us-navy-intercept-missiles-yemen/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/19/politics/us-intelligence-assessment-gaza-hospital-blast/index.html).
 
 ## Requirements
 - Python 3.8
