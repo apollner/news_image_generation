@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Las Vegas Aces celebrate their 2nd consecutive WNBA championship 🎉**
+**Mariannette Miller-Meeks says she got death threats after voting against Jordan in speaker’s race**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qzBDX55L6v8).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/mariannette-miller-meeks-says-got-death-threats-voting-jordan-speakers-rcna121142).
 
 ## Requirements
 - Python 3.8
