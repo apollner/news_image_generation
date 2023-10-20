@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US troops in Syria targetted by drones- officials**
+**Britney Spears Claims Justin Timberlake Initiated Breakup via Text Message**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/lebanese-iran-aligned-al-mayadeen-reports-attacks-two-us-bases-syria-2023-10-19/).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/britney-spears-justin-timberlake-initiated-breakup-text-message-woman-in-me-1234855858/).
 
 ## Requirements
 - Python 3.8
