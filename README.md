@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US vetoes UN Security Council action on Israel, Gaza**
+**Pro-Hamas extremists and neo-Nazis flood social media with calls for violence**
 
-You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/-hamas-extremists-neo-nazis-flood-social-media-calls-violence-rcna121043).
 
 ## Requirements
 - Python 3.8
