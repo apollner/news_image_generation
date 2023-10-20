@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US vetoes UN Security Council action on Israel, Gaza**
+**Arab diplomats 'horrified' by Hamas onslaught but critical of Israel's response**
 
-You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
+You can read more about it [here](https://www.timesofisrael.com/arab-diplomats-horrified-by-hamas-onslaught-but-critical-of-israels-response/).
 
 ## Requirements
 - Python 3.8
