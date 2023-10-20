@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 8 college football expert picks: Top 25 game predictions led by Ohio State-Penn State**
+**Mortgage rates rise again amid worsening home affordability crisis**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/10/19/college-football-week-8-picks/71220362007/).
+You can read more about it [here](https://www.foxbusiness.com/economy/mortgage-rates-rise-worsening-home-affordability-crisis).
 
 ## Requirements
 - Python 3.8
