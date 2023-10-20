@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Claims Justin Timberlake Initiated Breakup via Text Message**
+**Week 8 college football expert picks: Top 25 game predictions led by Ohio State-Penn State**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/britney-spears-justin-timberlake-initiated-breakup-text-message-woman-in-me-1234855858/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/10/19/college-football-week-8-picks/71220362007/).
 
 ## Requirements
 - Python 3.8
