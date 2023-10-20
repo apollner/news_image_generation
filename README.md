@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red meat associated with risk of developing Type 2 diabetes, study shows**
+**First on CNN: US Navy warship near Yemen intercepts multiple missiles, US officials say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=uqbLwgPaBaM).
+You can read more about it [here](https://www.cnn.com/2023/10/19/politics/us-navy-intercept-missiles-yemen/index.html).
 
 ## Requirements
 - Python 3.8
