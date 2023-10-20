@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beth Holloway believes Joran van der Sloot's confession to murdering daughter Natalee was 'corroborated'**
+**Stocks slip as Treasuries graze 5%, Middle East war rages**
 
-You can read more about it [here](https://www.foxnews.com/us/beth-holloway-believes-joran-van-der-sloots-confession-murdering-daughter-natalee-was-corroborated).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-10-19/).
 
 ## Requirements
 - Python 3.8
