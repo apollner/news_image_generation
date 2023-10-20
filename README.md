@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US vetoes UN Security Council action on Israel, Gaza**
+**Tropical Storm Tammy expected to become a hurricane after striking eastern Caribbean islands**
 
-You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-tammy).
 
 ## Requirements
 - Python 3.8
