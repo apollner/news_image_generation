@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red meat associated with risk of developing Type 2 diabetes, study shows**
+**U.N., World Leaders Push to Get Gaza Aid Flowing After Biden Pledge**
 
-You can read more about it [here](https://www.youtube.com/watch?v=uqbLwgPaBaM).
+You can read more about it [here](https://www.wsj.com/world/middle-east/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b).
 
 ## Requirements
 - Python 3.8
