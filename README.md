@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden warns Israel to avoid 9/11 'mistakes'**
+**US vetoes UN Security Council action on Israel, Gaza**
 
-You can read more about it [here](https://www.ft.com/content/3168166a-4d0b-429f-88b4-be8d6dd36db9).
+You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
 
 ## Requirements
 - Python 3.8
