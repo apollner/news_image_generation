@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How and When to See the 2023 Meteor Shower from Halley's Comet**
+**Red meat associated with risk of developing Type 2 diabetes, study shows**
 
-You can read more about it [here](https://gizmodo.com/orionids-meteor-shower-2023-halleys-comet-guide-1850935185).
+You can read more about it [here](https://www.youtube.com/watch?v=uqbLwgPaBaM).
 
 ## Requirements
 - Python 3.8
