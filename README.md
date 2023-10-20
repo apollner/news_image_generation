@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Hamas extremists and neo-Nazis flood social media with calls for violence**
+**Scientists may have untangled a mystery of Neanderthal ancestry**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/-hamas-extremists-neo-nazis-flood-social-media-calls-violence-rcna121043).
+You can read more about it [here](https://www.cnn.com/2023/10/18/world/neanderthal-ancestry-dna-percentage-scn/index.html).
 
 ## Requirements
 - Python 3.8
