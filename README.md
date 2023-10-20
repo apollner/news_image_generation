@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK Prime Minister Sunak reiterates support for Israel, does not mention ceasefire**
+**Egypt agrees to allow first aid trucks into Gaza as Palestinians reel from hospital blast**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0AOcv7VeAMk).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8xOS9taWRkbGVlYXN0L2lzcmFlbC1nYXphLWhhbWFzLXdhci10aHVyc2RheS1pbnRsLWhuay9pbmRleC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
