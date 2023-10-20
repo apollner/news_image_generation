@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. forces thwart drone strikes headed for bases in Syria**
+**Netflix jumps another 15% as Wall Street applauds 'upside surprises' in earnings**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/19/american-forces-thwart-drone-strikes-bases-syria-00122507).
+You can read more about it [here](https://finance.yahoo.com/news/netflix-jumps-another-15-as-wall-street-applauds-upside-surprises-in-earnings-163143974.html).
 
 ## Requirements
 - Python 3.8
