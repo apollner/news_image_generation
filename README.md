@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NOAA winter 2023-24 forecast: How cold will it be? What about El Niño?**
+**How and When to See the 2023 Meteor Shower from Halley's Comet**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/10/19/noaa-winter-forecast-cold-temperatures/71214343007/).
+You can read more about it [here](https://gizmodo.com/orionids-meteor-shower-2023-halleys-comet-guide-1850935185).
 
 ## Requirements
 - Python 3.8
