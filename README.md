@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Mario Bros. Wonder - Official Teaser Trailer**
+**Israel-Hamas war tests Western unity as Global South slams 'double standards'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IjQ8jiK-jLU).
+You can read more about it [here](https://www.france24.com/en/middle-east/20231019-israel-hamas-war-tests-western-unity-as-global-south-slams-double-standards).
 
 ## Requirements
 - Python 3.8
