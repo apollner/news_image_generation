@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Adds Nearly 9 Million Subscribers in Q3; Streamer Says Ad-Supported Plans Up Nearly 70% From Q2**
+**Netflix’s Ted Sarandos Defends Not Disclosing Streaming Numbers: Creators Felt ‘Trapped’ by Ratings, Box Office**
 
-You can read more about it [here](https://variety.com/2023/tv/news/netflix-subscribers-q3-earnings-1235760620/).
+You can read more about it [here](https://variety.com/2023/tv/news/netflix-ted-sarandos-streaming-viewership-transparency-creators-1235761257/).
 
 ## Requirements
 - Python 3.8
