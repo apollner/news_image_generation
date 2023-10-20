@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters on Capitol Hill call for Israel-Hamas cease-fire, hundreds arrested**
+**Netflix Adds Nearly 9 Million Subscribers in Q3; Streamer Says Ad-Supported Plans Up Nearly 70% From Q2**
 
-You can read more about it [here](https://www.youtube.com/watch?v=W6TiXg3qMkY).
+You can read more about it [here](https://variety.com/2023/tv/news/netflix-subscribers-q3-earnings-1235760620/).
 
 ## Requirements
 - Python 3.8
