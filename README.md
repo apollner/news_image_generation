@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mariannette Miller-Meeks says she got death threats after voting against Jordan in speaker’s race**
+**Beth Holloway believes Joran van der Sloot's confession to murdering daughter Natalee was 'corroborated'**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/mariannette-miller-meeks-says-got-death-threats-voting-jordan-speakers-rcna121142).
+You can read more about it [here](https://www.foxnews.com/us/beth-holloway-believes-joran-van-der-sloots-confession-murdering-daughter-natalee-was-corroborated).
 
 ## Requirements
 - Python 3.8
