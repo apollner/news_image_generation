@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros vs. Rangers: TV channel, watch ALCS online, live stream, prediction, Game 3 pick, odds, time, pitchers**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-tv-channel-watch-alcs-online-live-stream-prediction-game-3-pick-odds-time-pitchers/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
