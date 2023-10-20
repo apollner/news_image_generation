@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix jumps another 15% as Wall Street applauds 'upside surprises' in earnings**
+**Britney Spears Claims Justin Timberlake Initiated Breakup via Text Message**
 
-You can read more about it [here](https://finance.yahoo.com/news/netflix-jumps-another-15-as-wall-street-applauds-upside-surprises-in-earnings-163143974.html).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/britney-spears-justin-timberlake-initiated-breakup-text-message-woman-in-me-1234855858/).
 
 ## Requirements
 - Python 3.8
