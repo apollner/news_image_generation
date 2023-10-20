@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks slip as Treasuries graze 5%, Middle East war rages**
+**Tropical Storm Tammy expected to become a hurricane after striking eastern Caribbean islands**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-10-19/).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-tammy).
 
 ## Requirements
 - Python 3.8
