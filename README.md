@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Egypt agrees to allow first aid trucks into Gaza as Palestinians reel from hospital blast**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 7, 2023: Model high on Ravens, Rams**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8xOS9taWRkbGVlYXN0L2lzcmFlbC1nYXphLWhhbWFzLXdhci10aHVyc2RheS1pbnRsLWhuay9pbmRleC5odG1s0gEA?oc=5).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-7-2023-model-high-on-ravens-rams/).
 
 ## Requirements
 - Python 3.8
