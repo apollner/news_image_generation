@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Claims Justin Timberlake Initiated Breakup via Text Message**
+**NOAA winter 2023-24 forecast: How cold will it be? What about El Niño?**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/britney-spears-justin-timberlake-initiated-breakup-text-message-woman-in-me-1234855858/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/10/19/noaa-winter-forecast-cold-temperatures/71214343007/).
 
 ## Requirements
 - Python 3.8
