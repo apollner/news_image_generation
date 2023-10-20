@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix’s Ted Sarandos Defends Not Disclosing Streaming Numbers: Creators Felt ‘Trapped’ by Ratings, Box Office**
+**Joe Biden warns Israel to avoid 9/11 'mistakes'**
 
-You can read more about it [here](https://variety.com/2023/tv/news/netflix-ted-sarandos-streaming-viewership-transparency-creators-1235761257/).
+You can read more about it [here](https://www.ft.com/content/3168166a-4d0b-429f-88b4-be8d6dd36db9).
 
 ## Requirements
 - Python 3.8
