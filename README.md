@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live news: Rishi Sunak in Israel; Gaza hospital strike fuels war escalation fears**
+**Super Mario Bros. Wonder - Official Teaser Trailer**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/19/israel-news-hamas-war-gaza/).
+You can read more about it [here](https://www.youtube.com/watch?v=IjQ8jiK-jLU).
 
 ## Requirements
 - Python 3.8
