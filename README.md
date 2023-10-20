@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war tests Western unity as Global South slams 'double standards'**
+**UK Prime Minister Sunak reiterates support for Israel, does not mention ceasefire**
 
-You can read more about it [here](https://www.france24.com/en/middle-east/20231019-israel-hamas-war-tests-western-unity-as-global-south-slams-double-standards).
+You can read more about it [here](https://www.youtube.com/watch?v=0AOcv7VeAMk).
 
 ## Requirements
 - Python 3.8
