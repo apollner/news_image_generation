@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists may have untangled a mystery of Neanderthal ancestry**
+**Astros vs. Rangers: TV channel, watch ALCS online, live stream, prediction, Game 3 pick, odds, time, pitchers**
 
-You can read more about it [here](https://www.cnn.com/2023/10/18/world/neanderthal-ancestry-dna-percentage-scn/index.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/astros-vs-rangers-tv-channel-watch-alcs-online-live-stream-prediction-game-3-pick-odds-time-pitchers/).
 
 ## Requirements
 - Python 3.8
