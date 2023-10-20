@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates rise again amid worsening home affordability crisis**
+**U.S. forces thwart drone strikes headed for bases in Syria**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/mortgage-rates-rise-worsening-home-affordability-crisis).
+You can read more about it [here](https://www.politico.com/news/2023/10/19/american-forces-thwart-drone-strikes-bases-syria-00122507).
 
 ## Requirements
 - Python 3.8
