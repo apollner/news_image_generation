@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Tammy expected to become a hurricane after striking eastern Caribbean islands**
+**Israel-Hamas war live news: Rishi Sunak in Israel; Gaza hospital strike fuels war escalation fears**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-storm-tammy).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/19/israel-news-hamas-war-gaza/).
 
 ## Requirements
 - Python 3.8
