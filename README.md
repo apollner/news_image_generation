@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla (TSLA) Cybertruck Deliveries by Nov 30, Posts Q3 Profit, Sales Miss**
+**US vetoes UN Security Council action on Israel, Gaza**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-18/tesla-s-profits-take-a-hit-after-deliveries-slow-down).
+You can read more about it [here](https://www.reuters.com/world/us-vetoes-un-security-council-action-israel-gaza-2023-10-18/).
 
 ## Requirements
 - Python 3.8
