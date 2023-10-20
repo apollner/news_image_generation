@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arab diplomats 'horrified' by Hamas onslaught but critical of Israel's response**
+**Tesla (TSLA) Cybertruck Deliveries by Nov 30, Posts Q3 Profit, Sales Miss**
 
-You can read more about it [here](https://www.timesofisrael.com/arab-diplomats-horrified-by-hamas-onslaught-but-critical-of-israels-response/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-18/tesla-s-profits-take-a-hit-after-deliveries-slow-down).
 
 ## Requirements
 - Python 3.8
