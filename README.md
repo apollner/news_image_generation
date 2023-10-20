@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Max Scherzer rusty in ALCS Game 3 start**
+**Beth Holloway believes Joran van der Sloot's confession to murdering daughter Natalee was 'corroborated'**
 
-You can read more about it [here](https://www.mlb.com/news/max-scherzer-rusty-in-alcs-game-3-start).
+You can read more about it [here](https://www.foxnews.com/us/beth-holloway-believes-joran-van-der-sloots-confession-murdering-daughter-natalee-was-corroborated).
 
 ## Requirements
 - Python 3.8
