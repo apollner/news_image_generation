@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 7, 2023: Model high on Ravens, Rams**
+**Netflix stock surges 16% after Wall Street buys into ad-driven subscriber growth**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-7-2023-model-high-on-ravens-rams/).
+You can read more about it [here](https://www.cnbc.com/2023/10/19/netflix-stock-surges-after-earnings-report-jump-in-subscribers.html).
 
 ## Requirements
 - Python 3.8
