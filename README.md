@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**John Stamos reveals he was sexually abused as a child: 'I shouldn't have had to deal with those feelings'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/10/18/entertainment/john-stamos-sexually-abused/index.html).
 
 ## Requirements
 - Python 3.8
