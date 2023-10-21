@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Problem With Jon Stewart ending over AI and China coverage**
+**Sidney Powell Pleads Guilty in Trump's Georgia Election Case - WSJ**
 
-You can read more about it [here](https://www.theverge.com/2023/10/19/23924549/jon-stewart-apple-ai-china-cancel).
+You can read more about it [here](https://www.wsj.com/us-news/law/sidney-powell-pleads-guilty-georgia-trial-85e6543f).
 
 ## Requirements
 - Python 3.8
