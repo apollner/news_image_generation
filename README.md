@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly tropical disease spread by sand flies gains a foothold in US: new report**
+**Tesla’s Slowing Growth Is Sending a Warning to All EV Makers**
 
-You can read more about it [here](https://nypost.com/2023/10/20/deadly-tropical-disease-spread-by-sandflies-now-found-in-us/).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-slowing-growth-sending-warning-182159323.html).
 
 ## Requirements
 - Python 3.8
