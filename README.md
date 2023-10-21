@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Says Diane Sawyer Interview After Justin Timberlake Split Was a “Breaking Point”**
+**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
 
-You can read more about it [here](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/britney-spears-memoir-diane-sawyer-interview-justin-timberlake-breakup-1235623214/).
+You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
 
 ## Requirements
 - Python 3.8
