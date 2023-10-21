@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State Department advises all Americans overseas 'to exercise increased caution' in worldwide alert**
+**My Nintendo Store Adds Super Mario Bros. Wonder Rewards (North America)**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-worldwide-alert/index.html).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/my-nintendo-store-adds-super-mario-bros-wonder-rewards-north-america).
 
 ## Requirements
 - Python 3.8
