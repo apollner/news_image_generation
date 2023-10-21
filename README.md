@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Says Diane Sawyer Interview After Justin Timberlake Split Was a “Breaking Point”**
+**Ex-Trump lawyer Sidney Powell pleads guilty, could testify in Georgia case**
 
-You can read more about it [here](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/britney-spears-memoir-diane-sawyer-interview-justin-timberlake-breakup-1235623214/).
+You can read more about it [here](https://www.reuters.com/legal/former-trump-lawyer-powell-pleads-guilty-georgia-election-subversion-case-2023-10-19/).
 
 ## Requirements
 - Python 3.8
