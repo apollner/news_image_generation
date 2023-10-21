@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla’s Slowing Growth Is Sending a Warning to All EV Makers**
+**The Astros Are Now in Control of the ALCS**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-slowing-growth-sending-warning-182159323.html).
+You can read more about it [here](https://www.si.com/mlb/2023/10/20/astros-hitters-rangers-alcs-game-3).
 
 ## Requirements
 - Python 3.8
