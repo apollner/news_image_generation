@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Trump lawyer Sidney Powell pleads guilty, could testify in Georgia case**
+**Who won ALCS Game 4? Houston scores 10 runs from Jose Abreu, Chas McCormick home runs to even series with Texas Rangers**
 
-You can read more about it [here](https://www.reuters.com/legal/former-trump-lawyer-powell-pleads-guilty-georgia-election-subversion-case-2023-10-19/).
+You can read more about it [here](https://abc13.com/houston-astros-lineup-today-texas-rangers-roof-open-jose-urquidy-andrew-heaney/13940759/).
 
 ## Requirements
 - Python 3.8
