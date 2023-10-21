@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Says Diane Sawyer Interview After Justin Timberlake Split Was a “Breaking Point”**
+**How to Get 7 Free Nintendo Switch Games This Month**
 
-You can read more about it [here](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/britney-spears-memoir-diane-sawyer-interview-justin-timberlake-breakup-1235623214/).
+You can read more about it [here](https://comicbook.com/gaming/news/nintendo-switch-how-to-get-7-free-games-october/).
 
 ## Requirements
 - Python 3.8
