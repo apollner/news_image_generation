@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden asks divided Congress to pass $106bn in aid for Israel and Ukraine**
+**Prosecutors in Bankman-Fried trial compare defense argument to 'Dumb and Dumber'**
 
-You can read more about it [here](https://www.ft.com/content/be2eeb38-0879-44f4-8929-c816f57864a7).
+You can read more about it [here](https://www.cnbc.com/2023/10/20/prosecutors-in-sbf-trial-compare-defense-argument-to-dumb-and-dumber.html).
 
 ## Requirements
 - Python 3.8
