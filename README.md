@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake's response to Britney Spears book, abortion claim**
+**State Department advises all Americans overseas 'to exercise increased caution' in worldwide alert**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/justin-timberlake-response-britney-spears-book-abortion-pregnancy-101697770968279.html).
+You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-worldwide-alert/index.html).
 
 ## Requirements
 - Python 3.8
