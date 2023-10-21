@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Astros Are Now in Control of the ALCS**
+**Maryland judge killed: Andrew Wilkinson fatally shot in driveway**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/20/astros-hitters-rangers-alcs-game-3).
+You can read more about it [here](https://www.heraldmailmedia.com/story/news/local/2023/10/19/police-investigating-slaying-of-county-judge-in-western-maryland/71247680007/).
 
 ## Requirements
 - Python 3.8
