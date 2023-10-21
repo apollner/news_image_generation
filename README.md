@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who won ALCS Game 4? Houston scores 10 runs from Jose Abreu, Chas McCormick home runs to even series with Texas Rangers**
+**Rockets, drones hit Iraqi bases housing U.S. forces -security sources**
 
-You can read more about it [here](https://abc13.com/houston-astros-lineup-today-texas-rangers-roof-open-jose-urquidy-andrew-heaney/13940759/).
+You can read more about it [here](https://www.reuters.com/world/rockets-drones-hit-iraqi-base-housing-us-forces-security-sources-2023-10-19/).
 
 ## Requirements
 - Python 3.8
