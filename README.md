@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India-Canada diplomatic spat escalates as Ottawa pulls out 41 diplomats**
+**Jacksonville Jaguars vs. New Orleans Saints | 2023 Week 7 Game Highlights**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/20/canada-pulls-out-diplomats-from-india-as-sikh-killing-tensions-escalate.html).
+You can read more about it [here](https://www.youtube.com/watch?v=tJq8LO78XuM).
 
 ## Requirements
 - Python 3.8
