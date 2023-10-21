@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Joran van der Sloot might not be prosecuted for Natalee Holloway's murder, despite admitting he killed her**
+**Webb Telescope Reveals a High-Speed Jet on Jupiter**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/us/joran-van-der-sloot-natalee-holloway-legal-analysis/index.html).
+You can read more about it [here](https://gizmodo.com/webb-telescope-reveals-a-high-speed-jet-on-jupiter-1850945367).
 
 ## Requirements
 - Python 3.8
