@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**My Nintendo Store Adds Super Mario Bros. Wonder Rewards (North America)**
+**Laphonza Butler will not run for Senate in 2024**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/my-nintendo-store-adds-super-mario-bros-wonder-rewards-north-america).
+You can read more about it [here](https://apnews.com/article/california-senate-feinstein-2024-laphonza-butler-0132dc28d5459350526e4255c9c08644).
 
 ## Requirements
 - Python 3.8
