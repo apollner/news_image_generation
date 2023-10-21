@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maryland judge killed: Andrew Wilkinson fatally shot in driveway**
+**Joe Biden asks divided Congress to pass $106bn in aid for Israel and Ukraine**
 
-You can read more about it [here](https://www.heraldmailmedia.com/story/news/local/2023/10/19/police-investigating-slaying-of-county-judge-in-western-maryland/71247680007/).
+You can read more about it [here](https://www.ft.com/content/be2eeb38-0879-44f4-8929-c816f57864a7).
 
 ## Requirements
 - Python 3.8
