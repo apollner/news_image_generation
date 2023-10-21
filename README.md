@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fran Drescher Faces a Leadership Test as A-Listers Pressure SAG-AFTRA to Make a Deal**
+**Deadly tropical disease spread by sand flies gains a foothold in US: new report**
 
-You can read more about it [here](https://variety.com/2023/biz/news/fran-drescher-leadership-test-1235762923/).
+You can read more about it [here](https://nypost.com/2023/10/20/deadly-tropical-disease-spread-by-sandflies-now-found-in-us/).
 
 ## Requirements
 - Python 3.8
