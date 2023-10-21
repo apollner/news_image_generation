@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb Telescope Reveals a High-Speed Jet on Jupiter**
+**Hamas says it releases two US hostages 'for humanitarian reasons' after Qatari efforts**
 
-You can read more about it [here](https://gizmodo.com/webb-telescope-reveals-a-high-speed-jet-on-jupiter-1850945367).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-releases-two-us-hostages-for-humanitarian-reasons-response-qatari-efforts-2023-10-20/).
 
 ## Requirements
 - Python 3.8
