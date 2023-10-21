@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State Department advises all Americans overseas 'to exercise increased caution' in worldwide alert**
+**Jacksonville Jaguars vs. New Orleans Saints | 2023 Week 7 Game Highlights**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-worldwide-alert/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=tJq8LO78XuM).
 
 ## Requirements
 - Python 3.8
