@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas says it releases two US hostages 'for humanitarian reasons' after Qatari efforts**
+**By-elections: Is it back to the 1990s for Keir Starmer's Labour?**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-releases-two-us-hostages-for-humanitarian-reasons-response-qatari-efforts-2023-10-20/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67172485).
 
 ## Requirements
 - Python 3.8
