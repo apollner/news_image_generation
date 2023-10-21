@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jacksonville Jaguars vs. New Orleans Saints | 2023 Week 7 Game Highlights**
+**Diamondbacks-Phillies game 4 NLCS starting pitching matchup**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tJq8LO78XuM).
+You can read more about it [here](https://arizonasports.com/story/3536477/diamondbacks-turn-to-opener-joe-manitply-for-game-4-of-nlcs-vs-phillies/).
 
 ## Requirements
 - Python 3.8
