@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.N., World Leaders Push to Get Gaza Aid Flowing After Biden Pledge**
+**U.S. forces thwart drone strikes headed for bases in Syria**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b).
+You can read more about it [here](https://www.politico.com/news/2023/10/19/american-forces-thwart-drone-strikes-bases-syria-00122507).
 
 ## Requirements
 - Python 3.8
