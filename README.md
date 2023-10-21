@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondbacks-Phillies game 4 NLCS starting pitching matchup**
+**Britney Spears Says Diane Sawyer Interview After Justin Timberlake Split Was a “Breaking Point”**
 
-You can read more about it [here](https://arizonasports.com/story/3536477/diamondbacks-turn-to-opener-joe-manitply-for-game-4-of-nlcs-vs-phillies/).
+You can read more about it [here](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/britney-spears-memoir-diane-sawyer-interview-justin-timberlake-breakup-1235623214/).
 
 ## Requirements
 - Python 3.8
