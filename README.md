@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Joran van der Sloot might not be prosecuted for Natalee Holloway's murder, despite admitting he killed her**
+**Fran Drescher Says George Clooney, Et. Al Proposal To Lift SAG-AFTRA Dues Cap Wouldn’t Be Legal**
 
-You can read more about it [here](https://www.cnn.com/2023/10/19/us/joran-van-der-sloot-natalee-holloway-legal-analysis/index.html).
+You can read more about it [here](https://deadline.com/2023/10/fran-drescher-george-clooney-dues-proposal-not-legal-1235578908/).
 
 ## Requirements
 - Python 3.8
