@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laphonza Butler will not run for Senate in 2024**
+**Why Joran van der Sloot might not be prosecuted for Natalee Holloway's murder, despite admitting he killed her**
 
-You can read more about it [here](https://apnews.com/article/california-senate-feinstein-2024-laphonza-butler-0132dc28d5459350526e4255c9c08644).
+You can read more about it [here](https://www.cnn.com/2023/10/19/us/joran-van-der-sloot-natalee-holloway-legal-analysis/index.html).
 
 ## Requirements
 - Python 3.8
