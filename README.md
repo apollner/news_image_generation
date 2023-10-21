@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jacksonville Jaguars vs. New Orleans Saints | 2023 Week 7 Game Highlights**
+**My Nintendo Store Adds Super Mario Bros. Wonder Rewards (North America)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tJq8LO78XuM).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/my-nintendo-store-adds-super-mario-bros-wonder-rewards-north-america).
 
 ## Requirements
 - Python 3.8
