@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
+**State Department official resigns over Biden administration's handling of Israel-Hamas conflict**
 
-You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
+You can read more about it [here](https://www.cnn.com/2023/10/19/politics/state-department-official-resigns-israel-gaza/index.html).
 
 ## Requirements
 - Python 3.8
