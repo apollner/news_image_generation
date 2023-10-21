@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rockets, drones hit Iraqi bases housing U.S. forces -security sources**
+**Why Joran van der Sloot might not be prosecuted for Natalee Holloway's murder, despite admitting he killed her**
 
-You can read more about it [here](https://www.reuters.com/world/rockets-drones-hit-iraqi-base-housing-us-forces-security-sources-2023-10-19/).
+You can read more about it [here](https://www.cnn.com/2023/10/19/us/joran-van-der-sloot-natalee-holloway-legal-analysis/index.html).
 
 ## Requirements
 - Python 3.8
