@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Trump lawyer Sidney Powell pleads guilty, could testify in Georgia case**
+**India-Canada diplomatic spat escalates as Ottawa pulls out 41 diplomats**
 
-You can read more about it [here](https://www.reuters.com/legal/former-trump-lawyer-powell-pleads-guilty-georgia-election-subversion-case-2023-10-19/).
+You can read more about it [here](https://www.cnbc.com/2023/10/20/canada-pulls-out-diplomats-from-india-as-sikh-killing-tensions-escalate.html).
 
 ## Requirements
 - Python 3.8
