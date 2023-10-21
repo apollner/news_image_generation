@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
+**Ex-Trump lawyer Sidney Powell pleads guilty, could testify in Georgia case**
 
-You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
+You can read more about it [here](https://www.reuters.com/legal/former-trump-lawyer-powell-pleads-guilty-georgia-election-subversion-case-2023-10-19/).
 
 ## Requirements
 - Python 3.8
