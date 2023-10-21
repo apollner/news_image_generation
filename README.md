@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India-Canada diplomatic spat escalates as Ottawa pulls out 41 diplomats**
+**Justin Timberlake's response to Britney Spears book, abortion claim**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/20/canada-pulls-out-diplomats-from-india-as-sikh-killing-tensions-escalate.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/justin-timberlake-response-britney-spears-book-abortion-pregnancy-101697770968279.html).
 
 ## Requirements
 - Python 3.8
