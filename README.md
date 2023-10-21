@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors in Bankman-Fried trial compare defense argument to 'Dumb and Dumber'**
+**Evanston hostages Judith and Natalie Raanan released by Hamas**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/20/prosecutors-in-sbf-trial-compare-defense-argument-to-dumb-and-dumber.html).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/20/23925627/evanston-hostages-released-judith-natalie-raanan-hamas).
 
 ## Requirements
 - Python 3.8
