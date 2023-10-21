@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**By-elections: Is it back to the 1990s for Keir Starmer's Labour?**
+**Giorgia Meloni, Italian prime minister, splits from partner after his sexist TV comments**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67172485).
+You can read more about it [here](https://www.cnn.com/2023/10/20/europe/italian-prime-minister-partner-split-sexist-comments-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
