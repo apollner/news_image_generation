@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**My Nintendo Store Adds Super Mario Bros. Wonder Rewards (North America)**
+**Gwen Stefani's Son Apollo Channels Blake Shelton's Style at Her Walk of Fame Ceremony**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/my-nintendo-store-adds-super-mario-bros-wonder-rewards-north-america).
+You can read more about it [here](https://www.etonline.com/gwen-stefanis-son-apollo-channels-blake-sheltons-style-at-her-walk-of-fame-ceremony-213362).
 
 ## Requirements
 - Python 3.8
