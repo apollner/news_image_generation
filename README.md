@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. forces thwart drone strikes headed for bases in Syria**
+**The Problem With Jon Stewart ending over AI and China coverage**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/19/american-forces-thwart-drone-strikes-bases-syria-00122507).
+You can read more about it [here](https://www.theverge.com/2023/10/19/23924549/jon-stewart-apple-ai-china-cancel).
 
 ## Requirements
 - Python 3.8
