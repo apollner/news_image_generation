@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fran Drescher Says George Clooney, Et. Al Proposal To Lift SAG-AFTRA Dues Cap Wouldn’t Be Legal**
+**India-Canada diplomatic spat escalates as Ottawa pulls out 41 diplomats**
 
-You can read more about it [here](https://deadline.com/2023/10/fran-drescher-george-clooney-dues-proposal-not-legal-1235578908/).
+You can read more about it [here](https://www.cnbc.com/2023/10/20/canada-pulls-out-diplomats-from-india-as-sikh-killing-tensions-escalate.html).
 
 ## Requirements
 - Python 3.8
