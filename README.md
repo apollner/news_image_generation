@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Still Bejeweled With $32M Second Weekend; ‘Killers Of The Flower Moon’ Brings Adults Back To Cinemas With $23M Opening & A- CinemaScore – Box Office Update**
+**Israel-Hamas war: List of key events, day 15**
 
-You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-killers-of-the-flower-moon-1235579033/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/21/israel-hamas-war-list-of-key-events-day-15).
 
 ## Requirements
 - Python 3.8
