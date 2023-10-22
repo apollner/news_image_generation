@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meryl Streep and husband Don Gummer secretly split six years ago after 45 years of marriage**
+**Taylor Swift Still Bejeweled With $32M Second Weekend; ‘Killers Of The Flower Moon’ Brings Adults Back To Cinemas With $23M Opening & A- CinemaScore – Box Office Update**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/meryl-streep-husband-don-gummer-secretly-split-6-years-45-years-marriage).
+You can read more about it [here](https://deadline.com/2023/10/box-office-taylor-swift-killers-of-the-flower-moon-1235579033/).
 
 ## Requirements
 - Python 3.8
