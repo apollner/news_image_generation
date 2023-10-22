@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: First aid trucks enter Gaza from Egypt; Palestinian leader says ‘we will remain on our land’**
+**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/21/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
 
 ## Requirements
 - Python 3.8
