@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW presses Detroit automakers for better offer, threatens more walkouts**
+**Ohio State vs. Penn State PREVIEW w/ Kirk Herbstreit | The Pat McAfee Show**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-makes-new-offer-uaw-sees-movement-all-key-areas-2023-10-20/).
+You can read more about it [here](https://www.youtube.com/watch?v=rrKF8Dh6hVY).
 
 ## Requirements
 - Python 3.8
