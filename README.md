@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rite Aid will continue to keep medications that contain phenylephrine on shelves, CVS will no longer**
+**Republicans drop Jim Jordan's US House speaker bid after third failed vote**
 
-You can read more about it [here](https://abc7chicago.com/rite-aid-cold-flu-medicine-stays-on-shelves-allergies/13946299/).
+You can read more about it [here](https://www.reuters.com/world/us/jim-jordan-make-third-try-top-job-paralyzed-us-house-2023-10-20/).
 
 ## Requirements
 - Python 3.8
