@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meryl Streep and husband Don Gummer secretly split six years ago after 45 years of marriage**
+**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/meryl-streep-husband-don-gummer-secretly-split-6-years-45-years-marriage).
+You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
 
 ## Requirements
 - Python 3.8
