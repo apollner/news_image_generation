@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Empowering a temporary speaker could invite legal challenges**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2023/10/20/temporary-speaker-legal-challenges-00122859).
 
 ## Requirements
 - Python 3.8
