@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-MLB pitcher Danny Serafini arrested in connection with 2021 killing and attempted murder of elderly in-laws**
+**Rosenthal: Did Astros intentionally hit Rangers in pivotal ALCS moment? It’s difficult to believe**
 
-You can read more about it [here](https://www.foxnews.com/sports/ex-mlb-pitcher-danny-serafini-arrested-connection-2021-killing-attempted-murder-elderly-in-laws).
+You can read more about it [here](https://theathletic.com/4983070/2023/10/21/astros-rangers-intentions-hit-brawl/).
 
 ## Requirements
 - Python 3.8
