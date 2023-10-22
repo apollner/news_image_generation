@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Astros Are Now in Control of the ALCS**
+**[Removed]**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/20/astros-hitters-rangers-alcs-game-3).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
