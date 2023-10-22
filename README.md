@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Mike Pence's Sad, Dwindling Presidential Campaign - POLITICO**
+**Meryl Streep and husband Don Gummer secretly split six years ago after 45 years of marriage**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/10/21/mike-pence-sad-presidential-campaign-00122589).
+You can read more about it [here](https://www.foxnews.com/entertainment/meryl-streep-husband-don-gummer-secretly-split-6-years-45-years-marriage).
 
 ## Requirements
 - Python 3.8
