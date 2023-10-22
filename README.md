@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twitch will now let streamers simultaneously stream on any service they want**
+**Spirit Airlines cancels dozen of flights over 'necessary' inspections, expects to last for days**
 
-You can read more about it [here](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon).
+You can read more about it [here](https://www.foxbusiness.com/markets/spirit-airlines-cancels-dozen-flights-over-necessary-inspections-expects-last-for-days).
 
 ## Requirements
 - Python 3.8
