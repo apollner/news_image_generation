@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
+**US Official Says Export Curbs Will Impede China's Chip Progress**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-21/export-controls-will-impede-china-s-chip-progress-us-commerce-official-says).
 
 ## Requirements
 - Python 3.8
