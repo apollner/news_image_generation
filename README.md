@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce-Taylor Swift romance set to go international**
+**UFC 294 live results: Highlights, updates, analysis as Makhachev, Volkanovski battle**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEwLzIxL2NoaWVmcy10cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LXJvbWFuY2UtZ29lcy1pbnRlcm5hdGlvbmFsL9IBXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEwLzIxL2NoaWVmcy10cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LXJvbWFuY2UtZ29lcy1pbnRlcm5hdGlvbmFsL2FtcC8?oc=5).
+You can read more about it [here](https://sports.yahoo.com/ufc-294-live-results-highlights-updates-analysis-for-full-card-including-makhachev-volkanovski-2-135959969.html).
 
 ## Requirements
 - Python 3.8
