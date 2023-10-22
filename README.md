@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bickley: Home-field advantage swinging NLCS in D-backs' favor**
+**Twitch will now let streamers simultaneously stream on any service they want**
 
-You can read more about it [here](https://arizonasports.com/story/3536558/home-field-advantage-swinging-nlcs-in-d-backs-favor-vs-phillies/).
+You can read more about it [here](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon).
 
 ## Requirements
 - Python 3.8
