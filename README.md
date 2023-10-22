@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Empowering a temporary speaker could invite legal challenges**
+**UAW presses Detroit automakers for better offer, threatens more walkouts**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/20/temporary-speaker-legal-challenges-00122859).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-makes-new-offer-uaw-sees-movement-all-key-areas-2023-10-20/).
 
 ## Requirements
 - Python 3.8
