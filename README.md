@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosenthal: Did Astros intentionally hit Rangers in pivotal ALCS moment? It’s difficult to believe**
+**Travis Kelce-Taylor Swift romance set to go international**
 
-You can read more about it [here](https://theathletic.com/4983070/2023/10/21/astros-rangers-intentions-hit-brawl/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEwLzIxL2NoaWVmcy10cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LXJvbWFuY2UtZ29lcy1pbnRlcm5hdGlvbmFsL9IBXmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzEwLzIxL2NoaWVmcy10cmF2aXMta2VsY2UtdGF5bG9yLXN3aWZ0LXJvbWFuY2UtZ29lcy1pbnRlcm5hdGlvbmFsL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
