@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: List of key events, day 15**
+**UN chief, Arab leaders call for end to Israel-Hamas war, urge peaceful solution**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/21/israel-hamas-war-list-of-key-events-day-15).
+You can read more about it [here](https://www.timesofisrael.com/un-chief-arab-leaders-call-for-end-to-israel-hamas-war-urge-peaceful-solution/).
 
 ## Requirements
 - Python 3.8
