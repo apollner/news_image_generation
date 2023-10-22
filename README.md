@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
+**Super Mario Bros.™ Wonder Double Keychain**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
+You can read more about it [here](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-keychain-120488/).
 
 ## Requirements
 - Python 3.8
