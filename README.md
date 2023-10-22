@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 294 Results: Makhachev vs. Volkanovski 2**
+**'Extremely rare' case of dengue virus found in California**
 
-You can read more about it [here](https://www.mmafighting.com/2023/10/21/23924788/ufc-294-results-makhachev-vs-volkanovski-2).
+You can read more about it [here](https://www.foxnews.com/us/extremely-rare-case-dengue-virus-found-california).
 
 ## Requirements
 - Python 3.8
