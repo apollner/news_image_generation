@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chutkan temporarily freezes Trump gag order in 2020 election subversion case**
+**Empowering a temporary speaker could invite legal challenges**
 
-You can read more about it [here](https://www.cnn.com/2023/10/20/politics/trump-gag-order-tanya-chutkan-election-subversion-case/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/20/temporary-speaker-legal-challenges-00122859).
 
 ## Requirements
 - Python 3.8
