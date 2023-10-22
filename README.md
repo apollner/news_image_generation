@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-MLB pitcher Danny Serafini arrested in connection with 2021 killing and attempted murder of elderly in-laws**
+**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
 
-You can read more about it [here](https://www.foxnews.com/sports/ex-mlb-pitcher-danny-serafini-arrested-connection-2021-killing-attempted-murder-elderly-in-laws).
+You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
 
 ## Requirements
 - Python 3.8
