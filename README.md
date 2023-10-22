@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans drop Jim Jordan's US House speaker bid after third failed vote**
+**Chutkan temporarily freezes Trump gag order in 2020 election subversion case**
 
-You can read more about it [here](https://www.reuters.com/world/us/jim-jordan-make-third-try-top-job-paralyzed-us-house-2023-10-20/).
+You can read more about it [here](https://www.cnn.com/2023/10/20/politics/trump-gag-order-tanya-chutkan-election-subversion-case/index.html).
 
 ## Requirements
 - Python 3.8
