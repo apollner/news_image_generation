@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon will now fire workers who refuse to return to the office three days a week**
+**Biden seeks more aid for Israel and Ukraine in $105B funding request**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/amazon-will-now-fire-workers-refuse-return-office-three-days-week).
+You can read more about it [here](https://www.nbcnews.com/politics/white-house/white-house-supplemental-aid-israel-ukraine-105b-funding-request-rcna121388).
 
 ## Requirements
 - Python 3.8
