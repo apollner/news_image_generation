@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football scores, updates: Penn State takes on Ohio State in marquee Big Ten clash**
+**Don't be Distracted, Astros' Jose Altuve Is the Real Star of a Chaotic ALCS Game 5**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-scores-updates-penn-state-vs-ohio-state-ucf-vs-oklahoma-and-more-182320828.html).
+You can read more about it [here](https://www.si.com/mlb/2023/10/21/houston-astros-jose-altuve-real-star-texas-rangers-alcs-game-5).
 
 ## Requirements
 - Python 3.8
