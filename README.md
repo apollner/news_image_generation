@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don't be Distracted, Astros' Jose Altuve Is the Real Star of a Chaotic ALCS Game 5**
+**UFC 294 Results: Makhachev vs. Volkanovski 2**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/21/houston-astros-jose-altuve-real-star-texas-rangers-alcs-game-5).
+You can read more about it [here](https://www.mmafighting.com/2023/10/21/23924788/ufc-294-results-makhachev-vs-volkanovski-2).
 
 ## Requirements
 - Python 3.8
