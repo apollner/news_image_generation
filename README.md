@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Official Says Export Curbs Will Impede China's Chip Progress**
+**Inside Mike Pence's Sad, Dwindling Presidential Campaign - POLITICO**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-21/export-controls-will-impede-china-s-chip-progress-us-commerce-official-says).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/10/21/mike-pence-sad-presidential-campaign-00122589).
 
 ## Requirements
 - Python 3.8
