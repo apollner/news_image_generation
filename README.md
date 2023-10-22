@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Rep. Tom Emmer announces bid for House speaker nomination**
+**Sam Bankman-Fried: Former friends demolish defense in criminal trial**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/tom-emmer-house-speaker-nomination-jim-jordan-republicans-gop/).
+You can read more about it [here](https://www.businessinsider.com/sam-bankman-fried-former-friends-demolish-defense-in-criminal-trial-2023-10).
 
 ## Requirements
 - Python 3.8
