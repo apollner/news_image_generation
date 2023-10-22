@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Mario Bros.™ Wonder Double Keychain**
+**Israel-Hamas war live updates: First aid trucks enter Gaza from Egypt; Palestinian leader says ‘we will remain on our land’**
 
-You can read more about it [here](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-keychain-120488/).
+You can read more about it [here](https://www.cnbc.com/2023/10/21/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
