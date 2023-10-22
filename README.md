@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros Beat Rangers on Ninth-Inning Jose Altuve Home Run, and MLB World Lost It**
+**Twitch will now let streamers simultaneously stream on any service they want**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/21/astros-beat-rangers-jose-altuve-home-run-mlb-world-reacts).
+You can read more about it [here](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon).
 
 ## Requirements
 - Python 3.8
