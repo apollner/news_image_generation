@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio State vs. Penn State PREVIEW w/ Kirk Herbstreit | The Pat McAfee Show**
+**Astros Beat Rangers on Ninth-Inning Jose Altuve Home Run, and MLB World Lost It**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rrKF8Dh6hVY).
+You can read more about it [here](https://www.si.com/mlb/2023/10/21/astros-beat-rangers-jose-altuve-home-run-mlb-world-reacts).
 
 ## Requirements
 - Python 3.8
