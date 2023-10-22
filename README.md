@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden seeks more aid for Israel and Ukraine in $105B funding request**
+**Rite Aid will continue to keep medications that contain phenylephrine on shelves, CVS will no longer**
 
-You can read more about it [here](https://www.nbcnews.com/politics/white-house/white-house-supplemental-aid-israel-ukraine-105b-funding-request-rcna121388).
+You can read more about it [here](https://abc7chicago.com/rite-aid-cold-flu-medicine-stays-on-shelves-allergies/13946299/).
 
 ## Requirements
 - Python 3.8
