@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spirit Airlines cancels dozen of flights over 'necessary' inspections, expects to last for days**
+**Meryl Streep and husband Don Gummer secretly split six years ago after 45 years of marriage**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/spirit-airlines-cancels-dozen-flights-over-necessary-inspections-expects-last-for-days).
+You can read more about it [here](https://www.foxnews.com/entertainment/meryl-streep-husband-don-gummer-secretly-split-6-years-45-years-marriage).
 
 ## Requirements
 - Python 3.8
