@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans push unity 'pledge' to guarantee a speaker**
+**GM and Ford will answer to Wall Street and the UAW with third-quarter earnings this week**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/21/speakership-scramble-continues-with-new-crop-of-candidates-staking-their-claims-00122884).
+You can read more about it [here](https://www.cnbc.com/2023/10/22/gm-and-ford-report-q3-earnings-as-wall-street-and-uaw-watch.html).
 
 ## Requirements
 - Python 3.8
