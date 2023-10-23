@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel strikes militant compound under West Bank mosque, military says**
+**Weekly Horoscope, October 22 to October 28, 2023: Read weekly astrological predictions for all zodiac sig**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-jets-strike-west-banks-jenin-two-killed-palestinian-medics-2023-10-21/).
+You can read more about it [here](https://timesofindia.indiatimes.com/astrology/horoscope/weekly-horoscope-october-22-to-october-28-2023-read-weekly-astrological-predictions-for-all-zodiac-signs/articleshow/104613173.cms).
 
 ## Requirements
 - Python 3.8
