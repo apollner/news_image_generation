@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This Week @NASA: “Ring of Fire” Solar Eclipse, New Engine Test, Quartz Clouds on Exoplanet**
+**Fantasy football Week 7 inactives - Who's in and who's out? - ESPN**
 
-You can read more about it [here](https://scitechdaily.com/?p=320306).
+You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek7/nfl-fantasy-football-espn-injured-inactives-watchlist-week-7-2023-october-22).
 
 ## Requirements
 - Python 3.8
