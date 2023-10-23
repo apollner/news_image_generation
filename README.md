@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Web Summit CEO Paddy Cosgrave resigns after backlash to Israel-Hamas war comments**
+**Israel strikes militant compound under West Bank mosque, military says**
 
-You can read more about it [here](https://www.cnn.com/2023/10/21/business/web-summit-ceo-paddy-cosgrave-resigns/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-jets-strike-west-banks-jenin-two-killed-palestinian-medics-2023-10-21/).
 
 ## Requirements
 - Python 3.8
