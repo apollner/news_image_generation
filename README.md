@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**League threatens teams with potential loss of draft picks for pre-game fighting**
+**This Week @NASA: “Ring of Fire” Solar Eclipse, New Engine Test, Quartz Clouds on Exoplanet**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-threatens-teams-with-potential-loss-of-draft-picks-for-pre-game-fighting).
+You can read more about it [here](https://scitechdaily.com/?p=320306).
 
 ## Requirements
 - Python 3.8
