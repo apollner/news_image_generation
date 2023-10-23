@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Egypt's border crossing opens to let a trickle of desperately needed aid into besieged Gaza**
+**Detroit synagogue president Samantha Woll found dead outside home**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-captives-border-aid-f5976ed58ba508f14d45b72b428125ac).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/detroit/2023/10/21/samantha-woll-dead-isaac-agree-downtown-detroit-synagogue-president/71271616007/).
 
 ## Requirements
 - Python 3.8
