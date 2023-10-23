@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel calls Hamas' claim it rejected hostage release 'propaganda'**
+**Israel Steps Up Bombing After Gaza Receives Aid, Attacks West Bank Mosque**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-says-israel-declined-receive-two-hostages-it-intended-release-2023-10-21/).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-steps-up-bombing-after-gaza-receives-aid-attacks-west-bank-mosque-4503893).
 
 ## Requirements
 - Python 3.8
