@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Sidney Powell pleads guilty in Georgia case, Trump claims she was 'never' his attorney, despite their past ties**
+**Israel Hamas war live updates: Attacks intensify; aid halted**
 
-You can read more about it [here](https://www.cnn.com/2023/10/22/politics/trump-sidney-powell/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/10/22/israel-hamas-war-live-updates/71280692007/).
 
 ## Requirements
 - Python 3.8
