@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even Tim Scott's supporters are 'disappointed' in his campaign - POLITICO**
+**GM and Ford will answer to Wall Street and the UAW with third-quarter earnings this week**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/22/tim-scott-disappointed-campaign-00122896).
+You can read more about it [here](https://www.cnbc.com/2023/10/22/gm-and-ford-report-q3-earnings-as-wall-street-and-uaw-watch.html).
 
 ## Requirements
 - Python 3.8
