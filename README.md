@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel to evacuate 14 more communities on Lebanon border amid Hezbollah attacks**
+**[Removed]**
 
-You can read more about it [here](https://www.timesofisrael.com/israel-to-evacuate-14-more-communities-on-lebanon-border-amid-hezbollah-attacks/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
