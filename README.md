@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US budget gap soars to $1.7 trillion, largest outside COVID era**
+**Nick Saban says he's having 'fun' coaching up-and-down Alabama - ESPN**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/us-budget-gap-soars-1point7-trillion-largest-outside-covid-era).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38714687/nick-saban-says-having-fun-coaching-alabama).
 
 ## Requirements
 - Python 3.8
