@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nick Saban says he's having 'fun' coaching up-and-down Alabama - ESPN**
+**CNN Investigates: Forensic analysis of images and videos suggests rocket caused Gaza hospital blast, not Israeli airstrike**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38714687/nick-saban-says-having-fun-coaching-alabama).
+You can read more about it [here](https://www.cnn.com/2023/10/21/middleeast/cnn-investigates-forensic-analysis-gaza-hospital-blast/index.html).
 
 ## Requirements
 - Python 3.8
