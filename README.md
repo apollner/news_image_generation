@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bladder cancer studies suggest new ways to treat the disease and improve survival**
+**Israel to evacuate 14 more communities on Lebanon border amid Hezbollah attacks**
 
-You can read more about it [here](https://www.cnn.com/2023/10/22/health/bladder-cancer-treatment-studies/index.html).
+You can read more about it [here](https://www.timesofisrael.com/israel-to-evacuate-14-more-communities-on-lebanon-border-amid-hezbollah-attacks/).
 
 ## Requirements
 - Python 3.8
