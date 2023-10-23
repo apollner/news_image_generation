@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL early slate: Myles Garrett showing out as Browns, Colts locked in tight battle**
+**Box Office: Scorsese’s ‘Killers of the Flower Moon’ Impresses With $23 Million Debut, but Swift’s ‘Eras Tour’ Remains No. 1**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-lions-vs-ravens-score-highlights-inactives-and-live-tracker-153536035.html).
+You can read more about it [here](https://variety.com/2023/film/box-office/box-office-scorsese-killers-of-the-flower-moon-opening-weekend-taylor-swift-stays-first-1235764365/).
 
 ## Requirements
 - Python 3.8
