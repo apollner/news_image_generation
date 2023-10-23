@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even Tim Scott's supporters are 'disappointed' in his campaign - POLITICO**
+**League threatens teams with potential loss of draft picks for pre-game fighting**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/22/tim-scott-disappointed-campaign-00122896).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-threatens-teams-with-potential-loss-of-draft-picks-for-pre-game-fighting).
 
 ## Requirements
 - Python 3.8
