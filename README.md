@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Some GOP lawmakers back Biden's Ukraine and Israel aid package**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2023/10/22/israel-ukraine-aid-biden-gop).
 
 ## Requirements
 - Python 3.8
