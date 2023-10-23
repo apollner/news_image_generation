@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Convicted killer known as the Zombie Hunter says life on death row is cold, food is "not great"**
+**8 billion-year-old radio signal found by astronomers -- with experts 'precisely' knowing where it came from**
 
-You can read more about it [here](https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-convicted-killer-death-row-48-hours/).
+You can read more about it [here](https://nypost.com/2023/10/21/8-billion-year-old-radio-signal-found-by-astronomers-with-experts-precisely-knowing-where-it-came-from/).
 
 ## Requirements
 - Python 3.8
