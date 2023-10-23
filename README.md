@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**After Sidney Powell pleads guilty in Georgia case, Trump claims she was 'never' his attorney, despite their past ties**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/10/22/politics/trump-sidney-powell/index.html).
 
 ## Requirements
 - Python 3.8
