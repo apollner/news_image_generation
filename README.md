@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: First aid trucks enter Gaza from Egypt; Israel says it will increase attacks on Gaza**
+**House Republicans push unity 'pledge' to guarantee a speaker**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/21/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/21/speakership-scramble-continues-with-new-crop-of-candidates-staking-their-claims-00122884).
 
 ## Requirements
 - Python 3.8
