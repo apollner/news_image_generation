@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles-Dolphins: Start time, channel, how to watch and stream 'Sunday Night Football'**
+**[Removed]**
 
-You can read more about it [here](https://www.inquirer.com/eagles/eagles-game-dolphins-time-tv-channel-stream-live-sunday-night-football-snf-20231022.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
