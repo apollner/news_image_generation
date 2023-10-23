@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese ship collides with Philippine supply vessel in South China Sea**
+**Even Tim Scott's supporters are 'disappointed' in his campaign - POLITICO**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5i5WFHv6yKY).
+You can read more about it [here](https://www.politico.com/news/2023/10/22/tim-scott-disappointed-campaign-00122896).
 
 ## Requirements
 - Python 3.8
