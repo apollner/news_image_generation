@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit synagogue president Samantha Woll found dead outside home**
+**Kourtney Kardashian Shares Heartfelt Birthday Tribute to Kim Kardashian After TV "Fights"**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/detroit/2023/10/21/samantha-woll-dead-isaac-agree-downtown-detroit-synagogue-president/71271616007/).
+You can read more about it [here](https://www.eonline.com/news/1388391/kourtney-kardashian-shares-heartfelt-birthday-tribute-to-kim-kardashian-after-tv-fights).
 
 ## Requirements
 - Python 3.8
