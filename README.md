@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kourtney Kardashian Shares Heartfelt Birthday Tribute to Kim Kardashian After TV "Fights"**
+**Web Summit CEO Paddy Cosgrave resigns after backlash to Israel-Hamas war comments**
 
-You can read more about it [here](https://www.eonline.com/news/1388391/kourtney-kardashian-shares-heartfelt-birthday-tribute-to-kim-kardashian-after-tv-fights).
+You can read more about it [here](https://www.cnn.com/2023/10/21/business/web-summit-ceo-paddy-cosgrave-resigns/index.html).
 
 ## Requirements
 - Python 3.8
