@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, Oct. 22, 2023**
+**House Republicans push unity 'pledge' to guarantee a speaker**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/10/22/23923134/horoscopes-today-sunday-oct-22-2023).
+You can read more about it [here](https://www.politico.com/news/2023/10/21/speakership-scramble-continues-with-new-crop-of-candidates-staking-their-claims-00122884).
 
 ## Requirements
 - Python 3.8
