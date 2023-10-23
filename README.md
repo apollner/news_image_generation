@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans push unity 'pledge' to guarantee a speaker**
+**Israel calls Hamas' claim it rejected hostage release 'propaganda'**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/21/speakership-scramble-continues-with-new-crop-of-candidates-staking-their-claims-00122884).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-says-israel-declined-receive-two-hostages-it-intended-release-2023-10-21/).
 
 ## Requirements
 - Python 3.8
