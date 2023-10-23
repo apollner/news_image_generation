@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**8 billion-year-old radio signal found by astronomers -- with experts 'precisely' knowing where it came from**
+**Egypt's border crossing opens to let a trickle of desperately needed aid into besieged Gaza**
 
-You can read more about it [here](https://nypost.com/2023/10/21/8-billion-year-old-radio-signal-found-by-astronomers-with-experts-precisely-knowing-where-it-came-from/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-captives-border-aid-f5976ed58ba508f14d45b72b428125ac).
 
 ## Requirements
 - Python 3.8
