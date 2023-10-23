@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some GOP lawmakers back Biden's Ukraine and Israel aid package**
+**NFL early slate: Myles Garrett showing out as Browns, Colts locked in tight battle**
 
-You can read more about it [here](https://www.axios.com/2023/10/22/israel-ukraine-aid-biden-gop).
+You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-lions-vs-ravens-score-highlights-inactives-and-live-tracker-153536035.html).
 
 ## Requirements
 - Python 3.8
