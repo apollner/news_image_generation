@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekly Horoscope, October 22 to October 28, 2023: Read weekly astrological predictions for all zodiac sig**
+**US budget gap soars to $1.7 trillion, largest outside COVID era**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/astrology/horoscope/weekly-horoscope-october-22-to-october-28-2023-read-weekly-astrological-predictions-for-all-zodiac-signs/articleshow/104613173.cms).
+You can read more about it [here](https://www.foxbusiness.com/economy/us-budget-gap-soars-1point7-trillion-largest-outside-covid-era).
 
 ## Requirements
 - Python 3.8
