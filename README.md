@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Scorsese’s ‘Killers of the Flower Moon’ Impresses With $23 Million Debut, but Swift’s ‘Eras Tour’ Remains No. 1**
+**Bladder cancer studies suggest new ways to treat the disease and improve survival**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/box-office-scorsese-killers-of-the-flower-moon-opening-weekend-taylor-swift-stays-first-1235764365/).
+You can read more about it [here](https://www.cnn.com/2023/10/22/health/bladder-cancer-treatment-studies/index.html).
 
 ## Requirements
 - Python 3.8
