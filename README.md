@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Convicted killer known as the Zombie Hunter says life on death row is cold, food is "not great"**
+**Israel calls Hamas' claim it rejected hostage release 'propaganda'**
 
-You can read more about it [here](https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-convicted-killer-death-row-48-hours/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-says-israel-declined-receive-two-hostages-it-intended-release-2023-10-21/).
 
 ## Requirements
 - Python 3.8
