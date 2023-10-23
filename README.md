@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Israel vows to step up Gaza bombardment ahead of expected ground offensive; West Bank mosque hit**
+**Even Tim Scott's supporters are 'disappointed' in his campaign - POLITICO**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/22/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/22/tim-scott-disappointed-campaign-00122896).
 
 ## Requirements
 - Python 3.8
