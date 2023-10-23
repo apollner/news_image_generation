@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football Week 7 inactives - Who's in and who's out? - ESPN**
+**Eagles-Dolphins: Start time, channel, how to watch and stream 'Sunday Night Football'**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek7/nfl-fantasy-football-espn-injured-inactives-watchlist-week-7-2023-october-22).
+You can read more about it [here](https://www.inquirer.com/eagles/eagles-game-dolphins-time-tv-channel-stream-live-sunday-night-football-snf-20231022.html).
 
 ## Requirements
 - Python 3.8
