@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN Investigates: Forensic analysis of images and videos suggests rocket caused Gaza hospital blast, not Israeli airstrike**
+**Israel-Hamas war live updates: First aid trucks enter Gaza from Egypt; Israel says it will increase attacks on Gaza**
 
-You can read more about it [here](https://www.cnn.com/2023/10/21/middleeast/cnn-investigates-forensic-analysis-gaza-hospital-blast/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/21/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
