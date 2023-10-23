@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Egypt's border crossing opens to let a trickle of desperately needed aid into besieged Gaza**
+**Horoscope for Sunday, Oct. 22, 2023**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-captives-border-aid-f5976ed58ba508f14d45b72b428125ac).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/22/23923134/horoscopes-today-sunday-oct-22-2023).
 
 ## Requirements
 - Python 3.8
