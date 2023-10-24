@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Orionid meteor shower Sunday night**
+**Argentina's Peronists soar in election to seal run-off with radical Milei**
 
-You can read more about it [here](https://ktla.com/news/how-to-watch-the-orionid-meteor-shower-sunday-night/).
+You can read more about it [here](https://www.reuters.com/world/americas/argentina-heads-polls-grip-fierce-economic-crisis-2023-10-22/).
 
 ## Requirements
 - Python 3.8
