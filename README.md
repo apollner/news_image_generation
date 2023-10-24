@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China, Philippines trade accusations over South China Sea clash**
+**How to watch the Orionid meteor shower Sunday night**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/china-says-it-lawfully-blocked-philippine-ships-going-disputed-shoal-2023-10-22/).
+You can read more about it [here](https://ktla.com/news/how-to-watch-the-orionid-meteor-shower-sunday-night/).
 
 ## Requirements
 - Python 3.8
