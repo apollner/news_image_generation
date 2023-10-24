@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Mark Madden: Credit T.J. Watt, Minkah Fitzpatrick for Steelers' win in L.A.**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://triblive.com/sports/mark-madden-credit-t-j-watt-minkah-fitzpatrick-for-steelers-win-in-l-a/).
 
 ## Requirements
 - Python 3.8
