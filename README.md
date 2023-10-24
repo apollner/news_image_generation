@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Israel vows to step up Gaza bombardment ahead of expected ground offensive; West Bank mosque hit**
+**Detroit Lions vs. Baltimore Ravens Game Highlights | NFL 2023 Week 7**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/22/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://www.youtube.com/watch?v=m4S6-G5Zyzs).
 
 ## Requirements
 - Python 3.8
