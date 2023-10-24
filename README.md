@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Readout of President Joseph R. Biden, Jr.’s Call with Prime Minister Benjamin Netanyahu of Israel**
+**Israel-Hamas war live updates: Israel vows to step up Gaza bombardment ahead of expected ground offensive; West Bank mosque hit**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/22/readout-of-president-joseph-r-biden-jr-s-call-with-prime-minister-benjamin-netanyahu-of-israel/).
+You can read more about it [here](https://www.cnbc.com/2023/10/22/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
