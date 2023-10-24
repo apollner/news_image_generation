@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Touchdown: Taylor Swift in Kansas City for yet another Chiefs game**
+**Biden speaks with Netanyahu, says Israel to allow ‘continued flow’ of aid into Gaza**
 
-You can read more about it [here](https://www.kmbc.com/article/taylor-swift-lands-kansas-city-chiefs-game-chargers/45607785).
+You can read more about it [here](https://www.timesofisrael.com/biden-speaks-with-netanyahu-says-israel-to-allow-continued-flow-of-aid-into-gaza/).
 
 ## Requirements
 - Python 3.8
