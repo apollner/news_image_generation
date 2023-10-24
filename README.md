@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buy the Galaxy S23 flagship for the price of a low-end Galaxy A14 - SamMobile**
+**UK government concludes that hospital bombing was not Israel**
 
-You can read more about it [here](https://www.sammobile.com/news/buy-galaxy-s23-flagship-for-price-of-low-end-galaxy-a14/).
+You can read more about it [here](https://www.euronews.com/2023/10/23/israel-steps-up-attacks-on-gaza-as-vital-humanitarian-aid-trickles-in).
 
 ## Requirements
 - Python 3.8
