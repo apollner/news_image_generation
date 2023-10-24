@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Tom Emmer up for House speaker**
+**Touchdown: Taylor Swift in Kansas City for yet another Chiefs game**
 
-You can read more about it [here](https://www.youtube.com/watch?v=b0pTZfTrT_g).
+You can read more about it [here](https://www.kmbc.com/article/taylor-swift-lands-kansas-city-chiefs-game-chargers/45607785).
 
 ## Requirements
 - Python 3.8
