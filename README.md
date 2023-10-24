@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rock collected by Apollo 17 astronaut in 1972 reveals moon's age**
+**Buy the Galaxy S23 flagship for the price of a low-end Galaxy A14 - SamMobile**
 
-You can read more about it [here](https://www.reuters.com/technology/space/rock-collected-by-apollo-17-astronaut-1972-reveals-moons-age-2023-10-23/).
+You can read more about it [here](https://www.sammobile.com/news/buy-galaxy-s23-flagship-for-price-of-low-end-galaxy-a14/).
 
 ## Requirements
 - Python 3.8
