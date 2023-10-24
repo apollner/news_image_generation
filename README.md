@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Sister Wives': Kody calls Janelle and Christine Brown friendship 'pathetic'**
+**China, Philippines boats clash in South China Sea**
 
-You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-christine-janelle-friendship-pathetic-2023-10).
+You can read more about it [here](https://www.youtube.com/watch?v=mLP3PwJP_q4).
 
 ## Requirements
 - Python 3.8
