@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blast, ambulances heard near Rafah crossing between Egypt and Gaza, witnesses say**
+**Tropical Storm Norma brings heavy rainfall to Mexico as Hurricane Tammy makes landfall in Barbuda**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/blast-ambulances-heard-near-rafah-crossing-between-egypt-gaza-witnesses-2023-10-22/).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-norma-rainfall-flash-flooding-mainland-mexico-hurricane-tammy-barbuda/).
 
 ## Requirements
 - Python 3.8
