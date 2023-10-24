@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football rankings: Ohio State jumps Washington to join top three in CBS Sports 133 after top-10 win**
+**Israel-Hamas war live updates: Gaza health ministry says death toll surpasses 5,000; EU foreign ministers talk in Luxembourg**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-rankings-ohio-state-jumps-washington-to-join-top-three-in-cbs-sports-133-after-top-10-win/).
+You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
