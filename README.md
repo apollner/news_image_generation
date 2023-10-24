@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden speaks with Netanyahu, says Israel to allow ‘continued flow’ of aid into Gaza**
+**'Sister Wives': Kody calls Janelle and Christine Brown friendship 'pathetic'**
 
-You can read more about it [here](https://www.timesofisrael.com/biden-speaks-with-netanyahu-says-israel-to-allow-continued-flow-of-aid-into-gaza/).
+You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-christine-janelle-friendship-pathetic-2023-10).
 
 ## Requirements
 - Python 3.8
