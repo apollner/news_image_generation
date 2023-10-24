@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stonepeak agrees to buy shipping-container firm Textainer for $50/share**
+**Debunking Myths: Women Were Prehistoric Hunters, Not Just Gatherers**
 
-You can read more about it [here](https://seekingalpha.com/news/4022645-stonepeak-nears-purchase-of-shipping-container-firm-textainer-for-50-a-share-wsj).
+You can read more about it [here](https://scitechdaily.com/debunking-myths-women-were-prehistoric-hunters-not-just-gatherers/).
 
 ## Requirements
 - Python 3.8
