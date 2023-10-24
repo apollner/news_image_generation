@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Hamas releases 2 more hostages; Gaza health ministry says death toll tops 5,000**
+**Rock collected by Apollo 17 astronauts reveals moon’s true age**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://www.cnn.com/2023/10/23/world/apollo-17-moon-age-crystals-scn/index.html).
 
 ## Requirements
 - Python 3.8
