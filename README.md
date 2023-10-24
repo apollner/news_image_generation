@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros pitcher suspended: Bryan Abreu appeals 2-game ban for hitting Texas Rangers' Adolis Garcia, enters Game 6**
+**Miami Dolphins vs. Philadelphia Eagles | 2023 Week 7 Game Highlights**
 
-You can read more about it [here](https://abc13.com/bryan-abreu-appeals-2-game-suspension-astros-players-suspended-vs-rangers-brawl-adolis-garcia-hit-by-pitch/13955174/).
+You can read more about it [here](https://www.youtube.com/watch?v=Grh0GJjcbg0).
 
 ## Requirements
 - Python 3.8
