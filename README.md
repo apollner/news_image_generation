@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Norma brings heavy rainfall to Mexico as Hurricane Tammy makes landfall in Barbuda**
+**Astros pitcher suspended: Bryan Abreu appeals 2-game ban for hitting Texas Rangers' Adolis Garcia, enters Game 6**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-norma-rainfall-flash-flooding-mainland-mexico-hurricane-tammy-barbuda/).
+You can read more about it [here](https://abc13.com/bryan-abreu-appeals-2-game-suspension-astros-players-suspended-vs-rangers-brawl-adolis-garcia-hit-by-pitch/13955174/).
 
 ## Requirements
 - Python 3.8
