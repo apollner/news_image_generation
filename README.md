@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Netanyahu agree to a 'continued flow' of humanitarian aid to Gaza**
+**Israel-Hamas war live updates: Israel vows to step up Gaza bombardment ahead of expected ground offensive; West Bank mosque hit**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/22/biden-netanyahu-continued-flow-humanitarian-aid-00122929).
+You can read more about it [here](https://www.cnbc.com/2023/10/22/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
