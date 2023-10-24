@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon man arrested for allegedly planning shooting at rock climbing festival**
+**Aaron Pennington wanted for murder of wife Breanne Pennington in their Gardner home**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/oregon-man-arrested-allegedly-planning-shooting-rock-climbing-festival-rcna121660).
+You can read more about it [here](https://www.cbsnews.com/boston/news/breanne-aaron-pennington-gardner-massachusetts-wife-murder-search/).
 
 ## Requirements
 - Python 3.8
