@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The man broke my heart': Biden's Arab-American boosters begin to leave his side**
+**Rock collected by Apollo 17 astronaut in 1972 reveals moon's age**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/23/biden-israel-muslim-voters-michigan-2024-00122910).
+You can read more about it [here](https://www.reuters.com/technology/space/rock-collected-by-apollo-17-astronaut-1972-reveals-moons-age-2023-10-23/).
 
 ## Requirements
 - Python 3.8
