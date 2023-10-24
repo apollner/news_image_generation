@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina's Peronists soar in election to seal run-off with radical Milei**
+**Tapes of Aussie Billionaire's Bragging Pull Curtain Back on Trump Presidency**
 
-You can read more about it [here](https://www.reuters.com/world/americas/argentina-heads-polls-grip-fierce-economic-crisis-2023-10-22/).
+You can read more about it [here](https://www.thedailybeast.com/recordings-of-aussie-billionaire-anthony-pratt-pull-curtain-back-on-trump-presidency).
 
 ## Requirements
 - Python 3.8
