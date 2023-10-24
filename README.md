@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blood donations needed in wake of multi car crash on I-55**
+**Chevron to buy Hess Corp for $53 billion in all-stock deal**
 
-You can read more about it [here](https://www.wdsu.com/article/multi-car-crash-i-55-new-orleans-st-john-the-baptist-parish/45617261).
+You can read more about it [here](https://www.reuters.com/markets/deals/chevron-buy-hess-corp-53-bln-stock-2023-10-23/).
 
 ## Requirements
 - Python 3.8
