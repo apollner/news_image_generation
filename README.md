@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryan Abreu available for ALCS Game 6, appeal set for Monday**
+**China, Philippines trade accusations over South China Sea clash**
 
-You can read more about it [here](https://www.chron.com/sports/astros/article/bryan-abreu-suspension-appeal-alcs-18441238.php).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/china-says-it-lawfully-blocked-philippine-ships-going-disputed-shoal-2023-10-22/).
 
 ## Requirements
 - Python 3.8
