@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Debunking Myths: Women Were Prehistoric Hunters, Not Just Gatherers**
+**Rep. Tom Emmer up for House speaker**
 
-You can read more about it [here](https://scitechdaily.com/debunking-myths-women-were-prehistoric-hunters-not-just-gatherers/).
+You can read more about it [here](https://www.youtube.com/watch?v=b0pTZfTrT_g).
 
 ## Requirements
 - Python 3.8
