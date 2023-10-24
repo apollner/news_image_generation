@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 Ultra could share a design element with the Galaxy S9 - SamMobile**
+**Blast, ambulances heard near Rafah crossing between Egypt and Gaza, witnesses say**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-ultra-speaker-design-galaxy-s9/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/blast-ambulances-heard-near-rafah-crossing-between-egypt-gaza-witnesses-2023-10-22/).
 
 ## Requirements
 - Python 3.8
