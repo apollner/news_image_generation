@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Madden: Credit T.J. Watt, Minkah Fitzpatrick for Steelers' win in L.A.**
+**KitchenAid, Graza and Misen: Best online sales right now**
 
-You can read more about it [here](https://triblive.com/sports/mark-madden-credit-t-j-watt-minkah-fitzpatrick-for-steelers-win-in-l-a/).
+You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/best-online-sales-right-now-2023-10-23).
 
 ## Requirements
 - Python 3.8
