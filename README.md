@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**KitchenAid, Graza and Misen: Best online sales right now**
+**Turkey’s Erdogan submits Sweden’s bid for NATO membership to parliament**
 
-You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/best-online-sales-right-now-2023-10-23).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/23/turkeys-erdogan-submits-swedens-bid-for-nato-membership-to-parliament).
 
 ## Requirements
 - Python 3.8
