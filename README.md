@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tapes of Aussie Billionaire's Bragging Pull Curtain Back on Trump Presidency**
+**Stonepeak agrees to buy shipping-container firm Textainer for $50/share**
 
-You can read more about it [here](https://www.thedailybeast.com/recordings-of-aussie-billionaire-anthony-pratt-pull-curtain-back-on-trump-presidency).
+You can read more about it [here](https://seekingalpha.com/news/4022645-stonepeak-nears-purchase-of-shipping-container-firm-textainer-for-50-a-share-wsj).
 
 ## Requirements
 - Python 3.8
