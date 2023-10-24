@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions vs. Baltimore Ravens Game Highlights | NFL 2023 Week 7**
+**Bryan Abreu available for ALCS Game 6, appeal set for Monday**
 
-You can read more about it [here](https://www.youtube.com/watch?v=m4S6-G5Zyzs).
+You can read more about it [here](https://www.chron.com/sports/astros/article/bryan-abreu-suspension-appeal-alcs-18441238.php).
 
 ## Requirements
 - Python 3.8
