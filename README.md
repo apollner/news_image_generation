@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon man arrested for allegedly planning shooting at rock climbing festival**
+**Bobi, the world's oldest dog, dies at 31**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/oregon-man-arrested-allegedly-planning-shooting-rock-climbing-festival-rcna121660).
+You can read more about it [here](https://www.cbsnews.com/news/worlds-oldest-dog-bobi-dies-at-31/).
 
 ## Requirements
 - Python 3.8
