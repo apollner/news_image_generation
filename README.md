@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK government concludes that hospital bombing was not Israel**
+**College football rankings: Ohio State jumps Washington to join top three in CBS Sports 133 after top-10 win**
 
-You can read more about it [here](https://www.euronews.com/2023/10/23/israel-steps-up-attacks-on-gaza-as-vital-humanitarian-aid-trickles-in).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-rankings-ohio-state-jumps-washington-to-join-top-three-in-cbs-sports-133-after-top-10-win/).
 
 ## Requirements
 - Python 3.8
