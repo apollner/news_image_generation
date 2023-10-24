@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers vs. Vikings prediction: Nick Bosa and the Niners get defensive**
+**Blood donations needed in wake of multi car crash on I-55**
 
-You can read more about it [here](https://www.ninersnation.com/2023/10/23/23929021/49ers-vikings-kirk-cousins-brock-purdy-george-kittle-predictions).
+You can read more about it [here](https://www.wdsu.com/article/multi-car-crash-i-55-new-orleans-st-john-the-baptist-parish/45617261).
 
 ## Requirements
 - Python 3.8
