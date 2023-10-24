@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey’s Erdogan submits Sweden’s bid for NATO membership to parliament**
+**Oregon man arrested for allegedly planning shooting at rock climbing festival**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/23/turkeys-erdogan-submits-swedens-bid-for-nato-membership-to-parliament).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/oregon-man-arrested-allegedly-planning-shooting-rock-climbing-festival-rcna121660).
 
 ## Requirements
 - Python 3.8
