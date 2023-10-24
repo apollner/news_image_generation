@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami Dolphins vs. Philadelphia Eagles | 2023 Week 7 Game Highlights**
+**Trickle of aid enters Gaza as Israel ramps up airstrikes and Palestinian deaths keep mounting**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Grh0GJjcbg0).
+You can read more about it [here](https://www.cnn.com/2023/10/23/middleeast/israel-gaza-hamas-war-monday-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
