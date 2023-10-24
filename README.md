@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuelan opposition unites behind María Corina Machado**
+**Rock collected by Apollo 17 astronaut in 1972 reveals moon's age**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-67192789).
+You can read more about it [here](https://www.reuters.com/technology/space/rock-collected-by-apollo-17-astronaut-1972-reveals-moons-age-2023-10-23/).
 
 ## Requirements
 - Python 3.8
