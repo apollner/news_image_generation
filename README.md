@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trickle of aid enters Gaza as Israel ramps up airstrikes and Palestinian deaths keep mounting**
+**'The man broke my heart': Biden's Arab-American boosters begin to leave his side**
 
-You can read more about it [here](https://www.cnn.com/2023/10/23/middleeast/israel-gaza-hamas-war-monday-intl-hnk/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/23/biden-israel-muslim-voters-michigan-2024-00122910).
 
 ## Requirements
 - Python 3.8
