@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Gaza health ministry says death toll surpasses 5,000; EU foreign ministers talk in Luxembourg**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
