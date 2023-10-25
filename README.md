@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington warns Iran as doubts grow about Israel's abilities in Gaza war**
+**Rashida Tlaib calls for 'independent investigation' into Gaza hospital blast, refuses to accept US, Israel findings**
 
-You can read more about it [here](https://www.al-monitor.com/originals/2023/10/washington-warns-iran-doubts-grow-about-israels-abilities-gaza-war).
+You can read more about it [here](https://nypost.com/2023/10/24/news/rashida-tlaib-calls-for-independent-investigation-into-gaza-hospital-blast-refuses-to-accept-us-israel-findings/).
 
 ## Requirements
 - Python 3.8
