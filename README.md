@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reservation Dogs star Devery Jacobs slams Killers of the Flower Moon**
+**Why Travis Kelce's Dad Says Taylor Swift Didn't Get the “Diva Memo"**
 
-You can read more about it [here](https://ew.com/movies/reservation-dogs-star-devery-jacobs-slams-killers-of-the-flower-moon-hellfire-dehumanizes/).
+You can read more about it [here](https://www.eonline.com/news/1388484/why-travis-kelces-dad-says-charming-taylor-swift-didnt-get-the-diva-memo).
 
 ## Requirements
 - Python 3.8
