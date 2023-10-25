@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Link Between Fungal Organisms And Severe COVID Discovered**
+**Israel pledges 'unrelenting attacks' on Hamas; US, Obama urge caution**
 
-You can read more about it [here](https://www.sciencealert.com/new-link-between-fungal-organisms-and-severe-covid-discovered).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-promises-unrelenting-attacks-hamas-us-obama-urge-caution-2023-10-24/).
 
 ## Requirements
 - Python 3.8
