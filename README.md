@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles, Titans trade grades: Star safety Kevin Byard dealt to Philly for Terrell Edmunds, two draft picks**
+**Why Travis Kelce's Dad Says Taylor Swift Didn't Get the “Diva Memo"**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-titans-trade-grades-star-safety-kevin-byard-dealt-to-philly-for-terrell-edmunds-two-draft-picks/).
+You can read more about it [here](https://www.eonline.com/news/1388484/why-travis-kelces-dad-says-charming-taylor-swift-didnt-get-the-diva-memo).
 
 ## Requirements
 - Python 3.8
