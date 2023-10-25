@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Next season, you may be able to take your flu vaccine at home**
+**Rangers blast off to World Series with resounding Game 7 performance over Astros in ALCS**
 
-You can read more about it [here](https://www.cnn.com/2023/10/24/health/next-season-you-may-be-able-to-take-your-flu-vaccine-at-home/index.html).
+You can read more about it [here](https://theathletic.com/4992561/2023/10/23/rangers-astros-game-7-alcs/).
 
 ## Requirements
 - Python 3.8
