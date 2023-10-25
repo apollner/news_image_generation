@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia Supreme Court upholds state's six-week abortion ban – WABE**
+**CDC updates RSV shot recommendations due to drug shortages**
 
-You can read more about it [here](https://www.wabe.org/breaking-georgia-supreme-court-upholds-states-six-week-abortion-ban/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/10/24/rsv-monoclonal-shortage-cdc-update/).
 
 ## Requirements
 - Python 3.8
