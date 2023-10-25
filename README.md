@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates: Hamas releases 2 more hostages; Gaza health ministry says death toll tops 5,000**
+**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
+You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
 
 ## Requirements
 - Python 3.8
