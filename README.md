@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Advises Israel To "Hold Off" On Gaza Assault Amid Hostage Crisis: Report**
+**Klay Thompson joins the Manning Cast on 'MNF' to talk about the Bay area connection | Week 7**
 
-You can read more about it [here](https://www.ndtv.com/world-news/us-advises-israel-hold-off-on-gaza-invasion-keeps-qatar-in-loop-report-4508460).
+You can read more about it [here](https://www.youtube.com/watch?v=P7wAYgRNTHA).
 
 ## Requirements
 - Python 3.8
