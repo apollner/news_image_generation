@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Several people of interest identified in killing of Detroit synagogue president**
+**Former Trump campaign lawyer Jenna Ellis pleads guilty in Georgia case**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4272156-detroit-synagogue-killing-people-interest/).
+You can read more about it [here](https://www.cnn.com/2023/10/24/politics/jenna-ellis-fulton-county/index.html).
 
 ## Requirements
 - Python 3.8
