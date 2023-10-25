@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Travis Kelce's Dad Says Taylor Swift Didn't Get the “Diva Memo"**
+**US Advises Israel To "Hold Off" On Gaza Assault Amid Hostage Crisis: Report**
 
-You can read more about it [here](https://www.eonline.com/news/1388484/why-travis-kelces-dad-says-charming-taylor-swift-didnt-get-the-diva-memo).
+You can read more about it [here](https://www.ndtv.com/world-news/us-advises-israel-hold-off-on-gaza-invasion-keeps-qatar-in-loop-report-4508460).
 
 ## Requirements
 - Python 3.8
