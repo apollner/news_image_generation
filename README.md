@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California DMV suspends Cruise's driverless cars in San Francisco**
+**Astros Fans Roasted for Tough Scene Behind Home Plate During Game 7 Loss to Rangers**
 
-You can read more about it [here](https://www.sfchronicle.com/bayarea/article/s-f-cruise-driverless-taxis-suspended-18445110.php).
+You can read more about it [here](https://www.si.com/mlb/2023/10/24/astros-fans-roasted-for-empty-seats-in-loss-to-rangers).
 
 ## Requirements
 - Python 3.8
