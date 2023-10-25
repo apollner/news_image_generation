@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers vs. Minnesota Vikings | 2023 Week 7 Game Highlights**
+**Israel-Hamas war live updates: Hamas releases 2 more hostages; Gaza health ministry says death toll tops 5,000**
 
-You can read more about it [here](https://www.youtube.com/watch?v=goAvP2I-twQ).
+You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
