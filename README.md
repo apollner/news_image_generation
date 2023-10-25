@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
+**Washington warns Iran as doubts grow about Israel's abilities in Gaza war**
 
-You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
+You can read more about it [here](https://www.al-monitor.com/originals/2023/10/washington-warns-iran-doubts-grow-about-israels-abilities-gaza-war).
 
 ## Requirements
 - Python 3.8
