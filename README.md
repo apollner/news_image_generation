@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Announces October Event for Macs: 'Scary Fast'**
+**Qualcomm Previews Snapdragon X Elite SoC: Oryon CPU Starts in Laptops**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/).
+You can read more about it [here](https://www.anandtech.com/show/21105/qualcomm-previews-snapdragon-x-elite-soc-oryon-cpu-starts-in-laptops-).
 
 ## Requirements
 - Python 3.8
