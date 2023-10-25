@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Travis Kelce's Dad Says Taylor Swift Didn't Get the “Diva Memo"**
+**49ers injuries: Christian McCaffrey active vs. Vikings; Deebo Samuel, Trent Williams ruled out**
 
-You can read more about it [here](https://www.eonline.com/news/1388484/why-travis-kelces-dad-says-charming-taylor-swift-didnt-get-the-diva-memo).
+You can read more about it [here](https://www.cbssports.com/nfl/news/49ers-injuries-christian-mccaffrey-active-vs-vikings-deebo-samuel-trent-williams-ruled-out/).
 
 ## Requirements
 - Python 3.8
