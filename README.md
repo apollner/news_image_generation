@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 8: Chiefs reclaim No. 1 spot; rampaging Ravens soar into top five**
+**Coca-Cola downplays weight-loss drug fears as it raises revenue forecast**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-8-2023-nfl-season).
+You can read more about it [here](https://www.ft.com/content/b76c20b1-bcdf-4b33-ad50-157cf6e929ab).
 
 ## Requirements
 - Python 3.8
