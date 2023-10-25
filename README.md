@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans gather to pick third Speaker nominee: Live coverage**
+**NBA season predictions, picks and team records for 2023-24**
 
-You can read more about it [here](https://thehill.com/homenews/house/4271795-house-republicans-speaker-nominee-live-coverage/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nba/2023/10/24/nba-predictions-picks-team-records-2023-24/71244973007/).
 
 ## Requirements
 - Python 3.8
