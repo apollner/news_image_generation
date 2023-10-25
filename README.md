@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli boy turns 9 in captivity, as uncertainty agonizes grief-stricken family**
+**San Francisco 49ers vs. Minnesota Vikings | 2023 Week 7 Game Highlights**
 
-You can read more about it [here](https://www.timesofisrael.com/israeli-boy-turns-9-in-captivity-as-uncertainty-agonizes-grief-stricken-family/).
+You can read more about it [here](https://www.youtube.com/watch?v=goAvP2I-twQ).
 
 ## Requirements
 - Python 3.8
