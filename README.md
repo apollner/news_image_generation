@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coca-Cola downplays weight-loss drug fears as it raises revenue forecast**
+**Bitcoin bulls fight to hold $34K as CME BTC open interest surpasses 100K**
 
-You can read more about it [here](https://www.ft.com/content/b76c20b1-bcdf-4b33-ad50-157cf6e929ab).
+You can read more about it [here](https://cointelegraph.com/news/bitcoin-bulls-fight-to-hold-34-k-cme-btc-open-interest-surpasses-100-k).
 
 ## Requirements
 - Python 3.8
