@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rashida Tlaib calls for 'independent investigation' into Gaza hospital blast, refuses to accept US, Israel findings**
+**New Link Between Fungal Organisms And Severe COVID Discovered**
 
-You can read more about it [here](https://nypost.com/2023/10/24/news/rashida-tlaib-calls-for-independent-investigation-into-gaza-hospital-blast-refuses-to-accept-us-israel-findings/).
+You can read more about it [here](https://www.sciencealert.com/new-link-between-fungal-organisms-and-severe-covid-discovered).
 
 ## Requirements
 - Python 3.8
