@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA season predictions, picks and team records for 2023-24**
+**Several people of interest identified in killing of Detroit synagogue president**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nba/2023/10/24/nba-predictions-picks-team-records-2023-24/71244973007/).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4272156-detroit-synagogue-killing-people-interest/).
 
 ## Requirements
 - Python 3.8
