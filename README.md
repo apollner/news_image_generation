@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers injuries: Christian McCaffrey active vs. Vikings; Deebo Samuel, Trent Williams ruled out**
+**Reservation Dogs star Devery Jacobs slams Killers of the Flower Moon**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/49ers-injuries-christian-mccaffrey-active-vs-vikings-deebo-samuel-trent-williams-ruled-out/).
+You can read more about it [here](https://ew.com/movies/reservation-dogs-star-devery-jacobs-slams-killers-of-the-flower-moon-hellfire-dehumanizes/).
 
 ## Requirements
 - Python 3.8
