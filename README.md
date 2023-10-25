@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm Previews Snapdragon X Elite SoC: Oryon CPU Starts in Laptops**
+**Dolphins and 49ers drop in Prisco's Power Rankings, plus early Week 8 picks and grading the Vikings' upset win**
 
-You can read more about it [here](https://www.anandtech.com/show/21105/qualcomm-previews-snapdragon-x-elite-soc-oryon-cpu-starts-in-laptops-).
+You can read more about it [here](https://www.cbssports.com/nfl/news/dolphins-and-49ers-drop-in-priscos-power-rankings-plus-early-week-8-picks-and-grading-the-vikings-upset-win/).
 
 ## Requirements
 - Python 3.8
