@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rock collected by Apollo 17 astronauts reveals moon’s true age**
+**Eagles, Titans trade grades: Star safety Kevin Byard dealt to Philly for Terrell Edmunds, two draft picks**
 
-You can read more about it [here](https://www.cnn.com/2023/10/23/world/apollo-17-moon-age-crystals-scn/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-titans-trade-grades-star-safety-kevin-byard-dealt-to-philly-for-terrell-edmunds-two-draft-picks/).
 
 ## Requirements
 - Python 3.8
