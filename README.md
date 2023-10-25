@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Cohen tells court he 'reverse engineered' Donald Trump's financial statements**
+**[Removed]**
 
-You can read more about it [here](https://www.ft.com/content/ec620259-bb13-41f4-bc88-b0e3501c83a8).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
