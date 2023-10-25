@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears’ Biggest ‘The Woman in Me’ Revelations, From the Film Role She Regrets Turning Down to Her Relationship With Sister Jamie Lynn**
+**Warner, Purdy share private, quiet chat in 49ers locker room after loss**
 
-You can read more about it [here](https://variety.com/2023/music/news/britney-spears-book-woman-in-me-takeaways-revelations-1235766231/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/fred-warner-brock-purdy-private-conversation/1665027/).
 
 ## Requirements
 - Python 3.8
