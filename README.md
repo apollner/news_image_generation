@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump files new challenges to federal election obstruction case in D.C.**
+**Next season, you may be able to take your flu vaccine at home**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/24/donald-trump-motion-dismiss-double-jeopardy/).
+You can read more about it [here](https://www.cnn.com/2023/10/24/health/next-season-you-may-be-able-to-take-your-flu-vaccine-at-home/index.html).
 
 ## Requirements
 - Python 3.8
