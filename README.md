@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Trump campaign lawyer Jenna Ellis pleads guilty in Georgia case**
+**Georgia Supreme Court upholds state's six-week abortion ban – WABE**
 
-You can read more about it [here](https://www.cnn.com/2023/10/24/politics/jenna-ellis-fulton-county/index.html).
+You can read more about it [here](https://www.wabe.org/breaking-georgia-supreme-court-upholds-states-six-week-abortion-ban/).
 
 ## Requirements
 - Python 3.8
