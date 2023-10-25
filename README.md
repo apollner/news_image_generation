@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC updates RSV shot recommendations due to drug shortages**
+**Banks face tougher anti-discrimination rule - POLITICO**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/10/24/rsv-monoclonal-shortage-cdc-update/).
+You can read more about it [here](https://www.politico.com/news/2023/10/24/lending-discrimination-anti-redlining-rule-00123150).
 
 ## Requirements
 - Python 3.8
