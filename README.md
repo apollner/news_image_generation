@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Several cases of ‘emerging pathogenic yeast’ reported at UK Chandler Hospital**
+**Apple Announces October Event for Macs: 'Scary Fast'**
 
-You can read more about it [here](https://www.wkyt.com/2023/10/24/several-cases-emerging-pathogenic-yeast-reported-uk-chandler-hospital/).
+You can read more about it [here](https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/).
 
 ## Requirements
 - Python 3.8
