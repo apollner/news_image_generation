@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warner, Purdy share private, quiet chat in 49ers locker room after loss**
+**Trump files new challenges to federal election obstruction case in D.C.**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/fred-warner-brock-purdy-private-conversation/1665027/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/24/donald-trump-motion-dismiss-double-jeopardy/).
 
 ## Requirements
 - Python 3.8
