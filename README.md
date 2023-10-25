@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Klay Thompson joins the Manning Cast on 'MNF' to talk about the Bay area connection | Week 7**
+**Israel-Hamas war live updates: Hamas releases 2 more hostages; Gaza health ministry says death toll tops 5,000**
 
-You can read more about it [here](https://www.youtube.com/watch?v=P7wAYgRNTHA).
+You can read more about it [here](https://www.cnbc.com/2023/10/23/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html).
 
 ## Requirements
 - Python 3.8
