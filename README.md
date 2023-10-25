@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five extra points: Risner and prime time Cousins boost Vikings over 49ers**
+**Gaza authorities say 700 Palestinians killed in overnight strikes as Israel intensifies bombing campaign**
 
-You can read more about it [here](https://www.startribune.com/five-extra-points-vikings-49ers-kirk-cousins-camryn-bynum-dalton-risner-rick-spielman/600314343/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-promises-unrelenting-attacks-hamas-us-obama-urge-caution-2023-10-24/).
 
 ## Requirements
 - Python 3.8
