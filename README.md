@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rangers blast off to World Series with resounding Game 7 performance over Astros in ALCS**
+**Kremlin says Putin is healthy, laughs off body double rumours**
 
-You can read more about it [here](https://theathletic.com/4992561/2023/10/23/rangers-astros-game-7-alcs/).
+You can read more about it [here](https://www.reuters.com/world/europe/kremlin-rejects-speculation-that-putin-is-ill-uses-body-doubles-2023-10-24/).
 
 ## Requirements
 - Python 3.8
