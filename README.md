@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins and 49ers drop in Prisco's Power Rankings, plus early Week 8 picks and grading the Vikings' upset win**
+**California DMV suspends Cruise's driverless cars in San Francisco**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/dolphins-and-49ers-drop-in-priscos-power-rankings-plus-early-week-8-picks-and-grading-the-vikings-upset-win/).
+You can read more about it [here](https://www.sfchronicle.com/bayarea/article/s-f-cruise-driverless-taxis-suspended-18445110.php).
 
 ## Requirements
 - Python 3.8
