@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin bulls fight to hold $34K as CME BTC open interest surpasses 100K**
+**Several cases of ‘emerging pathogenic yeast’ reported at UK Chandler Hospital**
 
-You can read more about it [here](https://cointelegraph.com/news/bitcoin-bulls-fight-to-hold-34-k-cme-btc-open-interest-surpasses-100-k).
+You can read more about it [here](https://www.wkyt.com/2023/10/24/several-cases-emerging-pathogenic-yeast-reported-uk-chandler-hospital/).
 
 ## Requirements
 - Python 3.8
