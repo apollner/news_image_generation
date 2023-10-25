@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Banks face tougher anti-discrimination rule - POLITICO**
+**NFL Power Rankings, Week 8: Chiefs reclaim No. 1 spot; rampaging Ravens soar into top five**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/24/lending-discrimination-anti-redlining-rule-00123150).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-8-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
