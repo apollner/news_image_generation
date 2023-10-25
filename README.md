@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza authorities say 700 Palestinians killed in overnight strikes as Israel intensifies bombing campaign**
+**House Republicans gather to pick third Speaker nominee: Live coverage**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-promises-unrelenting-attacks-hamas-us-obama-urge-caution-2023-10-24/).
+You can read more about it [here](https://thehill.com/homenews/house/4271795-house-republicans-speaker-nominee-live-coverage/).
 
 ## Requirements
 - Python 3.8
