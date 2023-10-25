@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin says Putin is healthy, laughs off body double rumours**
+**Five extra points: Risner and prime time Cousins boost Vikings over 49ers**
 
-You can read more about it [here](https://www.reuters.com/world/europe/kremlin-rejects-speculation-that-putin-is-ill-uses-body-doubles-2023-10-24/).
+You can read more about it [here](https://www.startribune.com/five-extra-points-vikings-49ers-kirk-cousins-camryn-bynum-dalton-risner-rick-spielman/600314343/).
 
 ## Requirements
 - Python 3.8
