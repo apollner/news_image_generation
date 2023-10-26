@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Johnson: House to vote on fourth Republican nominee for Speaker**
+**Turkey's Erdogan says Hamas is not terrorist organisation**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67213205).
+You can read more about it [here](https://www.reuters.com/world/middle-east/turkeys-erdogan-says-hamas-is-not-terrorist-organisation-2023-10-25/).
 
 ## Requirements
 - Python 3.8
