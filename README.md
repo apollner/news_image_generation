@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel envoy calls for resignation of UN chief who said Hamas attack 'did not happen in a vacuum'**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/25/antonio-guterres-israel-envoy-calls-for-un-chiefs-resignation.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
