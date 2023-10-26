@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live news: Apple joins Netflix and Disney with TV+ streaming price increase**
+**Starvation used as a ‘weapon of war’ on civilians in Gaza: Oxfam**
 
-You can read more about it [here](https://www.ft.com/content/e01f80f4-f7a4-4cbd-b8a3-4de14d528f70).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/25/starvation-used-as-a-weapon-of-war-on-civilians-in-gaza-oxfam).
 
 ## Requirements
 - Python 3.8
