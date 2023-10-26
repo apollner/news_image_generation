@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden will not appear on the primary ballot in New Hampshire. Here's why.**
+**Biden will not be on the New Hampshire primary ballot this election**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-new-hampshire-primary-ballot/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/biden-will-not-new-hampshire-primary-ballot-election-rcna122039).
 
 ## Requirements
 - Python 3.8
