@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm claims its Snapdragon X Elite processor will beat Apple, Intel, and AMD**
+**Richard Roundtree, ‘Shaft’ Star, Dies at 81**
 
-You can read more about it [here](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date).
+You can read more about it [here](https://variety.com/2023/film/news/richard-roundtree-dead-shaft-1235767495/).
 
 ## Requirements
 - Python 3.8
