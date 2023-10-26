@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft stock jumps after revenue, earnings beats**
+**Israel envoy calls for resignation of UN chief who said Hamas attack 'did not happen in a vacuum'**
 
-You can read more about it [here](https://finance.yahoo.com/news/microsoft-stock-jumps-after-revenue-earnings-beats-200428078.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/25/antonio-guterres-israel-envoy-calls-for-un-chiefs-resignation.html).
 
 ## Requirements
 - Python 3.8
