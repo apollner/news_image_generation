@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL power rankings, Week 8: Finally, a victory to recap**
+**Turkey's Erdogan says Hamas is not terrorist organisation**
 
-You can read more about it [here](https://www.bigblueview.com/2023/10/25/23931568/nfl-power-rankings-week-8-finally-a-victory-to-recap).
+You can read more about it [here](https://www.reuters.com/world/middle-east/turkeys-erdogan-says-hamas-is-not-terrorist-organisation-2023-10-25/).
 
 ## Requirements
 - Python 3.8
