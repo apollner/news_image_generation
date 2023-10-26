@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden: Israel-Hamas war must end with vision for a 'two-state solution'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2023/10/25/biden-israel-hamas-war-must-end-with-vision-for-a-two-state-solution.html).
 
 ## Requirements
 - Python 3.8
