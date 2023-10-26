@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears releases bombshell memoir 'The Woman in Me' | ABC News**
+**Hurricane Otis makes landfall in Mexico as a dangerous Category 5 storm**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QvMecbTHdIo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaHVycmljYW5lLW90aXMtbWV4aWNvLWFjYXB1bGNvL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
