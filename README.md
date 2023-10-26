@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California DMV suspends Cruise's driverless cars in San Francisco**
+**Dallas Cowboys Linebacker Says ‘Bad Girl’ Taylor Swift Gives Travis Kelce ‘An Extra Boost of Confidence’**
 
-You can read more about it [here](https://www.sfchronicle.com/bayarea/article/s-f-cruise-driverless-taxis-suspended-18445110.php).
+You can read more about it [here](https://www.billboard.com/music/pop/taylor-swift-travis-kelce-extra-boost-confidence-chiefs-1235453159/).
 
 ## Requirements
 - Python 3.8
