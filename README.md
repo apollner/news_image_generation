@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After she was freed, Israeli hostage offered a handshake to Hamas**
+**Deutsche Bank shares surge 7% after net profit beats expectations**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/israeli-hostage-handshake-hamas-rcna121852).
+You can read more about it [here](https://www.cnbc.com/2023/10/25/deutsche-bank-net-profit-slides-8percent-in-third-quarter-but-beats-expectations.html).
 
 ## Requirements
 - Python 3.8
