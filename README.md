@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey's Erdogan says Hamas is not terrorist organisation**
+**Travis Kelce is aware his stats improve whenever Taylor Swift attends Chiefs' games**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/turkeys-erdogan-says-hamas-is-not-terrorist-organisation-2023-10-25/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2023/10/25/kansas-city-chiefs-travis-kelce-taylor-swift-attendance/71313586007/).
 
 ## Requirements
 - Python 3.8
