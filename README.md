@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Governor Ron DeSantis bans pro-Palestine student organisation**
+**NFL power rankings, Week 8: Finally, a victory to recap**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/25/florida-governor-ron-desantis-bans-pro-palestine-student-organisation).
+You can read more about it [here](https://www.bigblueview.com/2023/10/25/23931568/nfl-power-rankings-week-8-finally-a-victory-to-recap).
 
 ## Requirements
 - Python 3.8
