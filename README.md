@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Sorkin Drops CAA After Maha Dakhil’s Israel-Hamas Post: “She’s Just Wrong”**
+**Britney Spears releases bombshell memoir 'The Woman in Me' | ABC News**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/aaron-sorkin-drops-caa-after-maha-dakhils-israel-hamas-post-1235626852/).
+You can read more about it [here](https://www.youtube.com/watch?v=QvMecbTHdIo).
 
 ## Requirements
 - Python 3.8
