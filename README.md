@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starvation used as a ‘weapon of war’ on civilians in Gaza: Oxfam**
+**Sam Bankman-Fried will testify in his defense in what may be the gamble of his life**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/25/starvation-used-as-a-weapon-of-war-on-civilians-in-gaza-oxfam).
+You can read more about it [here](https://www.npr.org/2023/10/25/1208443539/sam-bankman-fried-trial-ftx-alameda-testimony).
 
 ## Requirements
 - Python 3.8
