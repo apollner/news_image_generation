@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel envoy calls for resignation of UN chief who said Hamas attack 'did not happen in a vacuum'**
+**Nashville police chief's son, wanted in the shooting of 2 officers, found dead after car chase**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/25/antonio-guterres-israel-envoy-calls-for-un-chiefs-resignation.html).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/police-chiefs-son-wanted-shooting-2-officers-found-104275134).
 
 ## Requirements
 - Python 3.8
