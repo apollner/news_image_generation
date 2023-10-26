@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Dozens of states sue Meta over addictive features harming kids**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2023/10/24/states-sue-meta-addictive-features-kids-00123217).
 
 ## Requirements
 - Python 3.8
