@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden busts century old tradition, won't place name on New Hampshire's presidential primary ballot**
+**Health workers face \"mental health crisis,\" CDC says**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-busts-century-old-tradition-wont-place-name-new-hampshires-presidential-primary-ballot).
+You can read more about it [here](https://www.cnn.com/2023/10/24/health/health-workers-face-mental-health-crisis-cdc-says/index.html).
 
 ## Requirements
 - Python 3.8
