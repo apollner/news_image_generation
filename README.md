@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Next-Generation iMac Chip, Stand, and Color Details Rumored Ahead of Apple Event**
+**Mike Johnson: House to vote on fourth Republican nominee for Speaker**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/25/next-gen-imac-details-rumored-ahead-of-event/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67213205).
 
 ## Requirements
 - Python 3.8
