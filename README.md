@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce is aware his stats improve whenever Taylor Swift attends Chiefs' games**
+**Fantasy Football Week 8 RB Rankings**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2023/10/25/kansas-city-chiefs-travis-kelce-taylor-swift-attendance/71313586007/).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-8-rb-rankings-180405106.html).
 
 ## Requirements
 - Python 3.8
