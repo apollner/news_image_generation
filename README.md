@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Otis makes landfall in Mexico as a dangerous Category 5 storm**
+**Israel releases graphic video of Hamas terror attacks as part of "narrative battle" over war in Gaza**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaHVycmljYW5lLW90aXMtbWV4aWNvLWFjYXB1bGNvL9IBAA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/israel-video-of-hamas-terror-attacks-war-in-gaza/).
 
 ## Requirements
 - Python 3.8
