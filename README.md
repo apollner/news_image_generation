@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Sorkin Drops CAA After Maha Dakhil’s Israel-Hamas Post: “She’s Just Wrong”**
+**Diamondbacks rally to defeat Phillies, win improbable NL pennant; will face Rangers in World Series**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/aaron-sorkin-drops-caa-after-maha-dakhils-israel-hamas-post-1235626852/).
+You can read more about it [here](https://theathletic.com/4996520/2023/10/24/diamondbacks-phillies-game-7-nlcs/).
 
 ## Requirements
 - Python 3.8
