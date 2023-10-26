@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 8 RB Rankings**
+**Live news: Apple joins Netflix and Disney with TV+ streaming price increase**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-8-rb-rankings-180405106.html).
+You can read more about it [here](https://www.ft.com/content/e01f80f4-f7a4-4cbd-b8a3-4de14d528f70).
 
 ## Requirements
 - Python 3.8
