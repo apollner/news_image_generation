@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Cowboys Linebacker Says ‘Bad Girl’ Taylor Swift Gives Travis Kelce ‘An Extra Boost of Confidence’**
+**Biden will not appear on the primary ballot in New Hampshire. Here's why.**
 
-You can read more about it [here](https://www.billboard.com/music/pop/taylor-swift-travis-kelce-extra-boost-confidence-chiefs-1235453159/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-new-hampshire-primary-ballot/).
 
 ## Requirements
 - Python 3.8
