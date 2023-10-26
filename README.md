@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deutsche Bank shares surge 7% after net profit beats expectations**
+**Britney Spears releases bombshell memoir 'The Woman in Me' | ABC News**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/25/deutsche-bank-net-profit-slides-8percent-in-third-quarter-but-beats-expectations.html).
+You can read more about it [here](https://www.youtube.com/watch?v=QvMecbTHdIo).
 
 ## Requirements
 - Python 3.8
