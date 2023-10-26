@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel releases graphic video of Hamas terror attacks as part of "narrative battle" over war in Gaza**
+**Microsoft stock jumps after revenue, earnings beats**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-video-of-hamas-terror-attacks-war-in-gaza/).
+You can read more about it [here](https://finance.yahoo.com/news/microsoft-stock-jumps-after-revenue-earnings-beats-200428078.html).
 
 ## Requirements
 - Python 3.8
