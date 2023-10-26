@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried will testify in his defense in what may be the gamble of his life**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2023/10/25/1208443539/sam-bankman-fried-trial-ftx-alameda-testimony).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
