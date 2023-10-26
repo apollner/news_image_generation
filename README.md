@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey's Erdogan says Hamas is not terrorist organisation**
+**Florida Governor Ron DeSantis bans pro-Palestine student organisation**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/turkeys-erdogan-says-hamas-is-not-terrorist-organisation-2023-10-25/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/25/florida-governor-ron-desantis-bans-pro-palestine-student-organisation).
 
 ## Requirements
 - Python 3.8
