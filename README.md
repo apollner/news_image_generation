@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of states sue Meta over addictive features harming kids**
+**California DMV suspends Cruise's driverless cars in San Francisco**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/24/states-sue-meta-addictive-features-kids-00123217).
+You can read more about it [here](https://www.sfchronicle.com/bayarea/article/s-f-cruise-driverless-taxis-suspended-18445110.php).
 
 ## Requirements
 - Python 3.8
