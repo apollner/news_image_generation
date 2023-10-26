@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondbacks rally to defeat Phillies, win improbable NL pennant; will face Rangers in World Series**
+**ABC News: Mark Meadows received immunity to testify to special counsel in federal election subversion probe**
 
-You can read more about it [here](https://theathletic.com/4996520/2023/10/24/diamondbacks-phillies-game-7-nlcs/).
+You can read more about it [here](https://www.cnn.com/2023/10/24/politics/mark-meadows/index.html).
 
 ## Requirements
 - Python 3.8
