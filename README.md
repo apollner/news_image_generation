@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Releases watchOS 10.1 With Double Tap, NameDrop and More**
+**Fantasy Football Week 8 RB Rankings**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/25/apple-releases-watchos-10-1/).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-8-rb-rankings-180405106.html).
 
 ## Requirements
 - Python 3.8
