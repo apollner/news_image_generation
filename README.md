@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Roundtree, ‘Shaft’ Star, Dies at 81**
+**Biden busts century old tradition, won't place name on New Hampshire's presidential primary ballot**
 
-You can read more about it [here](https://variety.com/2023/film/news/richard-roundtree-dead-shaft-1235767495/).
+You can read more about it [here](https://www.foxnews.com/politics/biden-busts-century-old-tradition-wont-place-name-new-hampshires-presidential-primary-ballot).
 
 ## Requirements
 - Python 3.8
