@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden will not be on the New Hampshire primary ballot this election**
+**Qualcomm claims its Snapdragon X Elite processor will beat Apple, Intel, and AMD**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/biden-will-not-new-hampshire-primary-ballot-election-rcna122039).
+You can read more about it [here](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date).
 
 ## Requirements
 - Python 3.8
