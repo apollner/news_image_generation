@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ABC News: Mark Meadows received immunity to testify to special counsel in federal election subversion probe**
+**After she was freed, Israeli hostage offered a handshake to Hamas**
 
-You can read more about it [here](https://www.cnn.com/2023/10/24/politics/mark-meadows/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/world/israeli-hostage-handshake-hamas-rcna121852).
 
 ## Requirements
 - Python 3.8
