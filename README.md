@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health workers face \"mental health crisis,\" CDC says**
+**Aaron Sorkin Drops CAA After Maha Dakhil’s Israel-Hamas Post: “She’s Just Wrong”**
 
-You can read more about it [here](https://www.cnn.com/2023/10/24/health/health-workers-face-mental-health-crisis-cdc-says/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/aaron-sorkin-drops-caa-after-maha-dakhils-israel-hamas-post-1235626852/).
 
 ## Requirements
 - Python 3.8
