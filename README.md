@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 27 killed by 'disastrous' Hurricane Otis as Mexico counts cost**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 8 2023: Model backing Eagles, Lions**
 
-You can read more about it [here](https://www.reuters.com/world/americas/mexico-clears-up-wreckage-hurricane-otis-counts-cost-damage-2023-10-26/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-8-2023-model-backing-eagles-lions/).
 
 ## Requirements
 - Python 3.8
