@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Skeletons discovered in "incredibly rare" 5,000-year-old tomb in Scotland**
+**Cosmonauts on ISS spacewalk encounter toxic coolant 'blob' while inspecting leaky radiator**
 
-You can read more about it [here](https://www.cbsnews.com/news/neolithic-tomb-skeletons-discovered-5000-years-old-orkney-islands-scotland/).
+You can read more about it [here](https://www.space.com/russian-spacewalk-nauka-radiator-leak-october-2023).
 
 ## Requirements
 - Python 3.8
