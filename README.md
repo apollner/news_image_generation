@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta stock rises 4% as it beats earnings estimates**
+**Remarks by President Biden and Prime Minister Anthony Albanese of Australia in Joint Press Conference**
 
-You can read more about it [here](https://finance.yahoo.com/news/meta-stock-rises-4-as-it-beats-earnings-estimates-204612743.html).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/25/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-australia-in-joint-press-conference/).
 
 ## Requirements
 - Python 3.8
