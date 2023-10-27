@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Megyn Kelly says it's no wonder Britney Spears 'wound up as screwed up as she is'**
+**Federal judge orders new congressional and state legislative maps in Georgia**
 
-You can read more about it [here](https://nypost.com/2023/10/26/media/megyn-kelly-talks-britney-spears-drinking-with-her-mom-in-8th-grade/).
+You can read more about it [here](https://www.cnn.com/2023/10/26/politics/georgia-legislative-maps-order/index.html).
 
 ## Requirements
 - Python 3.8
