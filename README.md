@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bubble of Toxic Coolant Abruptly Ends Russian ISS Spacewalk**
+**Afghanistan girls education activist Matiullah Wesa released by Taliban**
 
-You can read more about it [here](https://gizmodo.com/bubble-toxic-coolant-ends-russian-iss-spacewalk-nasa-1850961885).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/26/afghan-girls-rights-activist-matiulah-wesa-freed-by-taliban).
 
 ## Requirements
 - Python 3.8
