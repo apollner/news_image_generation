@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Jamaal Bowman pleads guilty to one count of falsely pulling a fire alarm**
+**It took just one game for Bulls to have players-only meeting**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/rep-jamaal-bowman-pleads-guilty-one-count-falsely-pulling-fire-alarm-rcna122306).
+You can read more about it [here](https://www.nbcsports.com/nba/news/it-took-just-one-game-for-bulls-to-have-players-only-meeting).
 
 ## Requirements
 - Python 3.8
