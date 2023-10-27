@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel conducts airstrikes in West Bank, Syria overnight, kills Hamas commander**
+**Meta stock rises 4% as it beats earnings estimates**
 
-You can read more about it [here](https://www.foxnews.com/live-news/israel-conducts-airstrikes-in-west-bank-syria-overnight-kills-hamas-commander).
+You can read more about it [here](https://finance.yahoo.com/news/meta-stock-rises-4-as-it-beats-earnings-estimates-204612743.html).
 
 ## Requirements
 - Python 3.8
