@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Negotiations Rescheduled for Thursday**
+**Suspect at large after 2 active shooter incidents in area of Lewiston, Maine, sheriff says**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-rescheduled-thursday-1235628348/).
+You can read more about it [here](https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html).
 
 ## Requirements
 - Python 3.8
