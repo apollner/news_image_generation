@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden: Israel-Hamas war must end with vision for a 'two-state solution'**
+**Wemby Watch: Tracking everything you need to know about Victor Wembanyama, the heralded San Antonio Spurs rookie**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/25/biden-israel-hamas-war-must-end-with-vision-for-a-two-state-solution.html).
+You can read more about it [here](https://sports.yahoo.com/victor-wembanyama-wemby-watch-spurs-rookie-everything-need-to-know-154101825.html).
 
 ## Requirements
 - Python 3.8
