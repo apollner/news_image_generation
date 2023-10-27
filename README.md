@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford, UAW reach a ‘balanced’ tentative deal after 6-week strike**
+**Adult ADHD is associated with a higher risk for dementia**
 
-You can read more about it [here](https://finance.yahoo.com/news/ford-uaw-reach-a-balanced-tentative-deal-after-6-week-strike-123919628.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/26/adult-adhd-dementia-risk/).
 
 ## Requirements
 - Python 3.8
