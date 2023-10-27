@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Stanley chooses Ted Pick to replace James Gorman as CEO**
+**Special counsel urges judge to reimpose Trump's federal gag order**
 
-You can read more about it [here](https://www.ft.com/content/3774296d-5c60-4e1b-8c91-0d37580ff9ef).
+You can read more about it [here](https://www.politico.com/news/2023/10/25/special-counsel-trump-federal-gag-order-00123676).
 
 ## Requirements
 - Python 3.8
