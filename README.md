@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid shots may slightly increase risk of stroke in older adults, particularly when administered with certain flu vaccines**
+**Israel conducts airstrikes in West Bank, Syria overnight, kills Hamas commander**
 
-You can read more about it [here](https://www.cnn.com/2023/10/25/health/a-new-study-flags-a-link-between-covid-19-and-influenza-vaccines-and-stroke-in-older-adults-but-experts-say-vaccination-is-still-your-best-bet/index.html).
+You can read more about it [here](https://www.foxnews.com/live-news/israel-conducts-airstrikes-in-west-bank-syria-overnight-kills-hamas-commander).
 
 ## Requirements
 - Python 3.8
