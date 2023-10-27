@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adult ADHD is associated with a higher risk for dementia**
+**‘Person of interest’ is being sought in two Maine shootings**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/10/26/adult-adhd-dementia-risk/).
+You can read more about it [here](https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html).
 
 ## Requirements
 - Python 3.8
