@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas' tunnel city beneath Gaza - a hidden front line for Israel**
+**NASA spacecraft snaps 'face figure' on Jupiter during close flyby of the planet: See the photos**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-tunnel-city-beneath-gaza-hidden-frontline-israel-2023-10-26/).
+You can read more about it [here](https://www.foxnews.com/lifestyle/nasa-spacecraft-snaps-face-figure-jupiter-during-close-flyby-planet-see-photos).
 
 ## Requirements
 - Python 3.8
