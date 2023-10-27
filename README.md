@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It took just one game for Bulls to have players-only meeting**
+**Kyle Richards Reacts To Photos Of Mauricio Umansky, Emma Slater Holding Hands**
 
-You can read more about it [here](https://www.nbcsports.com/nba/news/it-took-just-one-game-for-bulls-to-have-players-only-meeting).
+You can read more about it [here](https://www.today.com/popculture/tv/kyle-richards-mauricio-umansky-relationship-timeline-rcna122074).
 
 ## Requirements
 - Python 3.8
