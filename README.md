@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect at large after 2 active shooter incidents in area of Lewiston, Maine, sheriff says**
+**Russia, China veto US push for UN action on Israel, Gaza**
 
-You can read more about it [here](https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html).
+You can read more about it [here](https://www.reuters.com/world/un-security-council-vote-rival-us-russian-plans-israel-gaza-action-2023-10-25/).
 
 ## Requirements
 - Python 3.8
