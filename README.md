@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dems Turn Mike Johnson's First Viral Moment Into Anti-GOP Ad**
+**Mars' Seismic Secrets: Decoding the Red Planet's Core Mystery**
 
-You can read more about it [here](https://www.thedailybeast.com/dems-turn-mike-johnsons-first-viral-moment-into-anti-gop-ad).
+You can read more about it [here](https://scitechdaily.com/mars-seismic-secrets-decoding-the-red-planets-core-mystery/).
 
 ## Requirements
 - Python 3.8
