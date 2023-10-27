@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel urges judge to reimpose Trump's federal gag order**
+**Victor Wembanyama finishes with 15 points in debut as Spurs lose - ESPN**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/25/special-counsel-trump-federal-gag-order-00123676).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38746746/victor-wembanyama-15-points-debut-spurs-lose).
 
 ## Requirements
 - Python 3.8
