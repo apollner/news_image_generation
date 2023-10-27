@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Person of interest’ is being sought in two Maine shootings**
+**Rep. Jamaal Bowman pleads guilty to one count of falsely pulling a fire alarm**
 
-You can read more about it [here](https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/rep-jamaal-bowman-pleads-guilty-one-count-falsely-pulling-fire-alarm-rcna122306).
 
 ## Requirements
 - Python 3.8
