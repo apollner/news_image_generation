@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW strike: Ford and union agree record pay rise in tentative deal**
+**Israel Hamas live updates: UN chief defends comments on Hamas attack**
 
-You can read more about it [here](https://www.bbc.com/news/business-67224476).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/10/25/israel-hamas-war-gaza-live-updates/71311772007/).
 
 ## Requirements
 - Python 3.8
