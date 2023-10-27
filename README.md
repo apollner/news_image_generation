@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D-backs, Rangers took similar paths to improbable World Series matchup**
+**Apple Admits to BMW Wireless Charging Issue With iPhone 15 Lineup, Promises Fix Later This Year**
 
-You can read more about it [here](https://www.mlb.com/news/d-backs-rangers-similar-paths-to-world-series).
+You can read more about it [here](https://www.macrumors.com/2023/10/25/apple-to-fix-iphone-15-bmw-charging-issue/).
 
 ## Requirements
 - Python 3.8
