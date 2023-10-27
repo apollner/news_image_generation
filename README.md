@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Admits to BMW Wireless Charging Issue With iPhone 15 Lineup, Promises Fix Later This Year**
+**Jonathan Majors' ex-girlfriend charged with assault, but case to be dropped by prosecutors**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/25/apple-to-fix-iphone-15-bmw-charging-issue/).
+You can read more about it [here](https://nypost.com/2023/10/25/metro/jonathan-majors-ex-grace-jabbari-charged-with-assault/).
 
 ## Requirements
 - Python 3.8
