@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA spacecraft snaps 'face figure' on Jupiter during close flyby of the planet: See the photos**
+**Bubble of Toxic Coolant Abruptly Ends Russian ISS Spacewalk**
 
-You can read more about it [here](https://www.foxnews.com/lifestyle/nasa-spacecraft-snaps-face-figure-jupiter-during-close-flyby-planet-see-photos).
+You can read more about it [here](https://gizmodo.com/bubble-toxic-coolant-ends-russian-iss-spacewalk-nasa-1850961885).
 
 ## Requirements
 - Python 3.8
