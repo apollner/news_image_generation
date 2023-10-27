@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Majors' ex-girlfriend charged with assault, but case to be dropped by prosecutors**
+**Stock Market Today: Dow, S&P Live Updates for October 26**
 
-You can read more about it [here](https://nypost.com/2023/10/25/metro/jonathan-majors-ex-grace-jabbari-charged-with-assault/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-10-25/asian-stocks-to-open-mixed-yen-lowest-since-1990-markets-wrap).
 
 ## Requirements
 - Python 3.8
