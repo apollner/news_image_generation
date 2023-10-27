@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect at large after 2 active shooter incidents in area of Lewiston, Maine, sheriff says**
+**Dems Turn Mike Johnson's First Viral Moment Into Anti-GOP Ad**
 
-You can read more about it [here](https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html).
+You can read more about it [here](https://www.thedailybeast.com/dems-turn-mike-johnsons-first-viral-moment-into-anti-gop-ad).
 
 ## Requirements
 - Python 3.8
