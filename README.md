@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victor Wembanyama finishes with 15 points in debut as Spurs lose - ESPN**
+**UAW strike: Ford and union agree record pay rise in tentative deal**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38746746/victor-wembanyama-15-points-debut-spurs-lose).
+You can read more about it [here](https://www.bbc.com/news/business-67224476).
 
 ## Requirements
 - Python 3.8
