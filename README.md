@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wemby Watch: Tracking everything you need to know about Victor Wembanyama, the heralded San Antonio Spurs rookie**
+**Meta stock rises 4% as it beats earnings estimates**
 
-You can read more about it [here](https://sports.yahoo.com/victor-wembanyama-wemby-watch-spurs-rookie-everything-need-to-know-154101825.html).
+You can read more about it [here](https://finance.yahoo.com/news/meta-stock-rises-4-as-it-beats-earnings-estimates-204612743.html).
 
 ## Requirements
 - Python 3.8
