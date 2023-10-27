@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel carries out 'targeted raid' against Hamas in Gaza**
+**Megyn Kelly says it's no wonder Britney Spears 'wound up as screwed up as she is'**
 
-You can read more about it [here](https://www.ft.com/content/81858568-33f1-460d-b840-08141a4483f4).
+You can read more about it [here](https://nypost.com/2023/10/26/media/megyn-kelly-talks-britney-spears-drinking-with-her-mom-in-8th-grade/).
 
 ## Requirements
 - Python 3.8
