@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel conducts airstrikes in West Bank, Syria overnight, kills Hamas commander**
+**Morgan Stanley chooses Ted Pick to replace James Gorman as CEO**
 
-You can read more about it [here](https://www.foxnews.com/live-news/israel-conducts-airstrikes-in-west-bank-syria-overnight-kills-hamas-commander).
+You can read more about it [here](https://www.ft.com/content/3774296d-5c60-4e1b-8c91-0d37580ff9ef).
 
 ## Requirements
 - Python 3.8
