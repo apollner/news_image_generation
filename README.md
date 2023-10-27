@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia, China veto US push for UN action on Israel, Gaza**
+**Meta's Q4 guidance erases earnings beat gains**
 
-You can read more about it [here](https://www.reuters.com/world/un-security-council-vote-rival-us-russian-plans-israel-gaza-action-2023-10-25/).
+You can read more about it [here](https://finance.yahoo.com/news/metas-q4-guidance-erases-earnings-beat-gains-212533296.html).
 
 ## Requirements
 - Python 3.8
