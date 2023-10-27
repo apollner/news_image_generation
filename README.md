@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta's Q4 guidance erases earnings beat gains**
+**Skeletons discovered in "incredibly rare" 5,000-year-old tomb in Scotland**
 
-You can read more about it [here](https://finance.yahoo.com/news/metas-q4-guidance-erases-earnings-beat-gains-212533296.html).
+You can read more about it [here](https://www.cbsnews.com/news/neolithic-tomb-skeletons-discovered-5000-years-old-orkney-islands-scotland/).
 
 ## Requirements
 - Python 3.8
