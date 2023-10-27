@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars' Seismic Secrets: Decoding the Red Planet's Core Mystery**
+**Ford, UAW reach a ‘balanced’ tentative deal after 6-week strike**
 
-You can read more about it [here](https://scitechdaily.com/mars-seismic-secrets-decoding-the-red-planets-core-mystery/).
+You can read more about it [here](https://finance.yahoo.com/news/ford-uaw-reach-a-balanced-tentative-deal-after-6-week-strike-123919628.html).
 
 ## Requirements
 - Python 3.8
