@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta stock rises 4% as it beats earnings estimates**
+**Covid shots may slightly increase risk of stroke in older adults, particularly when administered with certain flu vaccines**
 
-You can read more about it [here](https://finance.yahoo.com/news/meta-stock-rises-4-as-it-beats-earnings-estimates-204612743.html).
+You can read more about it [here](https://www.cnn.com/2023/10/25/health/a-new-study-flags-a-link-between-covid-19-and-influenza-vaccines-and-stroke-in-older-adults-but-experts-say-vaccination-is-still-your-best-bet/index.html).
 
 ## Requirements
 - Python 3.8
