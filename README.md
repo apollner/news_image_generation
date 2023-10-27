@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge orders new congressional and state legislative maps in Georgia**
+**NASA spacecraft snaps 'face figure' on Jupiter during close flyby of the planet: See the photos**
 
-You can read more about it [here](https://www.cnn.com/2023/10/26/politics/georgia-legislative-maps-order/index.html).
+You can read more about it [here](https://www.foxnews.com/lifestyle/nasa-spacecraft-snaps-face-figure-jupiter-during-close-flyby-planet-see-photos).
 
 ## Requirements
 - Python 3.8
