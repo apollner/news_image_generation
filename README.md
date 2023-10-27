@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Richards Reacts To Photos Of Mauricio Umansky, Emma Slater Holding Hands**
+**At least 27 killed by 'disastrous' Hurricane Otis as Mexico counts cost**
 
-You can read more about it [here](https://www.today.com/popculture/tv/kyle-richards-mauricio-umansky-relationship-timeline-rcna122074).
+You can read more about it [here](https://www.reuters.com/world/americas/mexico-clears-up-wreckage-hurricane-otis-counts-cost-damage-2023-10-26/).
 
 ## Requirements
 - Python 3.8
