@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 8 2023: Model backing Eagles, Lions**
+**Hamas' tunnel city beneath Gaza - a hidden front line for Israel**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-8-2023-model-backing-eagles-lions/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-tunnel-city-beneath-gaza-hidden-frontline-israel-2023-10-26/).
 
 ## Requirements
 - Python 3.8
