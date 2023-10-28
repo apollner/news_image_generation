@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine manhunt for Lewiston mass shooter suspect continues; lockdown remains in place**
+**Chinese fighter jet got within 10 feet of US bomber over South China Sea, US military says**
 
-You can read more about it [here](https://www.reuters.com/world/us/maine-manhunt-lewiston-mass-shooter-extends-another-night-2023-10-27/).
+You can read more about it [here](https://www.cnn.com/2023/10/26/politics/china-fighter-jet-us-bomber-south-china-sea/index.html).
 
 ## Requirements
 - Python 3.8
