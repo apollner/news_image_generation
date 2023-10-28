@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Otis Updates: 27 Killed In Acapulco | Weather.com**
+**NBA Investigating James Harden's Absence From 76ers Season-Opening Road Trip**
 
-You can read more about it [here](https://weather.com/news/news/2023-10-26-hurricane-otis-tropical-cyclone-acapulco-mexico-updates).
+You can read more about it [here](https://www.si.com/nba/2023/10/26/nba-investigating-james-harden-76ers-player-participation-policy).
 
 ## Requirements
 - Python 3.8
