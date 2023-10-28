@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's ex-premier Li Keqiang, sidelined by Xi Jinping, dies at 68**
+**Counting time instead of calories also controls blood sugar and belly fat**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-former-premier-li-keqiang-has-died-state-media-2023-10-27/).
+You can read more about it [here](https://www.cnn.com/2023/10/27/health/time-restricted-eating-type-2-diabetes-wellness/index.html).
 
 ## Requirements
 - Python 3.8
