@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli air strikes kill dozens in Gaza overnight, Palestinian sources say**
+**Tampa Bay Buccaneers vs. Buffalo Bills | 2023 Week 8 Game Highlgihts**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/27/israeli-air-strikes-kill-dozens-in-gaza-overnight-palestinian-sources-say).
+You can read more about it [here](https://www.youtube.com/watch?v=XuSrkkdZjkQ).
 
 ## Requirements
 - Python 3.8
