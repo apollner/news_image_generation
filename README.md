@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge defends fining Trump $10,000 for breaking gag order**
+**Cruise pauses all driverless operations after collisions with pedestrians, permit suspensions in California**
 
-You can read more about it [here](https://www.cnn.com/2023/10/26/politics/trump-gag-order-engoron-fine/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/26/cruise-pauses-all-driverless-operations-after-collisions-suspensions.html).
 
 ## Requirements
 - Python 3.8
