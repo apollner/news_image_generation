@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. George Santos pleads not guilty to new fraud, theft charges**
+**China's ex-premier Li Keqiang, sidelined by Xi Jinping, dies at 68**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/27/rep-george-santos-arraignment-on-new-fraud-identity-theft-charges.html).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-former-premier-li-keqiang-has-died-state-media-2023-10-27/).
 
 ## Requirements
 - Python 3.8
