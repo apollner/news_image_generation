@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tampa Bay Buccaneers vs. Buffalo Bills | 2023 Week 8 Game Highlgihts**
+**LeBron James spoils Kevin Durant's historic night with fourth quarter takeover**
 
-You can read more about it [here](https://www.youtube.com/watch?v=XuSrkkdZjkQ).
+You can read more about it [here](https://www.foxsports.com/stories/nba/lebron-james-spoils-kevin-durants-historic-night-with-fourth-quarter-takeover).
 
 ## Requirements
 - Python 3.8
