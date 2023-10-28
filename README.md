@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about Biden and House Speaker Mike Johnson's working relationship**
+**Sam Bankman-Fried's defense team fails to land a blow as he takes the stand**
 
-You can read more about it [here](https://www.nbcnews.com/politics/white-house/know-biden-johnsons-working-relationship-rcna122426).
+You can read more about it [here](https://www.cnbc.com/2023/10/26/sam-bankman-fried-defense-team-fails-to-land-a-blow-as-he-takes-stand.html).
 
 ## Requirements
 - Python 3.8
