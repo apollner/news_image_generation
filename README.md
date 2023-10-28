@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of officers search for Maine shooting suspect**
+**Taylor Swift Presents ‘1989 (Taylor’s Version)’ With Poetic Soliloquy**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67232966).
+You can read more about it [here](https://www.billboard.com/music/pop/taylor-swift-presents-1989-taylors-version-handwritten-social-post-1235456086/).
 
 ## Requirements
 - Python 3.8
