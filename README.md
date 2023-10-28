@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortal Kombat 1 Gets A New Update For The Nintendo Switch**
+**What we know about Biden and House Speaker Mike Johnson's working relationship**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/mortal-kombat-1-gets-a-new-update-for-the-nintendo-switch).
+You can read more about it [here](https://www.nbcnews.com/politics/white-house/know-biden-johnsons-working-relationship-rcna122426).
 
 ## Requirements
 - Python 3.8
