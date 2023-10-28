@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump fraud trial: Ex-president attacks judge who fined him $15,000**
+**SAG-AFTRA & Studios Set More Contract Talks For Friday; “Cautious Optimism” Motto Of The Day**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/26/trump-fraud-trial-ex-president-rails-against-judge-who-fined-him-15000.html).
+You can read more about it [here](https://deadline.com/2023/10/actors-strike-talks-friday-optimism-1235584425/).
 
 ## Requirements
 - Python 3.8
