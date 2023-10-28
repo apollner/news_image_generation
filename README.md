@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven Things That Will Decide the Diamondbacks-Rangers World Series**
+**Taylor Swift achieves billionaire status amid new romance, record-breaking tour and '1989 (Taylor's Version)'**
 
-You can read more about it [here](https://www.si.com/mlb/2023/10/27/rangers-diamondbacks-world-series-keys-matchups).
+You can read more about it [here](https://www.foxbusiness.com/entertainment/taylor-swift-achieves-billionaire-status-amid-new-romance-record-breaking-tour-and-1989-taylors-version).
 
 ## Requirements
 - Python 3.8
