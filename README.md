@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA & Studios Set More Contract Talks For Friday; “Cautious Optimism” Motto Of The Day**
+**Amazon beats earning estimates, touts AI as the future of the cloud**
 
-You can read more about it [here](https://deadline.com/2023/10/actors-strike-talks-friday-optimism-1235584425/).
+You can read more about it [here](https://finance.yahoo.com/news/amazon-beats-earning-estimates-touts-ai-as-the-future-of-the-cloud-223950206.html).
 
 ## Requirements
 - Python 3.8
