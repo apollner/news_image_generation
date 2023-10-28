@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cruise pauses all driverless operations after collisions with pedestrians, permit suspensions in California**
+**Mortal Kombat 1 Gets A New Update For The Nintendo Switch**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/26/cruise-pauses-all-driverless-operations-after-collisions-suspensions.html).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/mortal-kombat-1-gets-a-new-update-for-the-nintendo-switch).
 
 ## Requirements
 - Python 3.8
