@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Damian Lillard makes Milwaukee Bucks history in electric debut vs. 76ers**
+**Mortal Kombat 1 Gets A New Update For The Nintendo Switch**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/damian-lillard-drops-39-points-makes-milwaukee-bucks-history-in-electric-debut-vs-76ers/).
+You can read more about it [here](https://www.nintendolife.com/news/2023/10/mortal-kombat-1-gets-a-new-update-for-the-nintendo-switch).
 
 ## Requirements
 - Python 3.8
