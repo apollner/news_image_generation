@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA spacecraft snaps 'face figure' on Jupiter during close flyby of the planet: See the photos**
+**Amazon Stock Flat Despite Earnings Beat. Blame the Cloud. - Barrons**
 
-You can read more about it [here](https://www.foxnews.com/lifestyle/nasa-spacecraft-snaps-face-figure-jupiter-during-close-flyby-planet-see-photos).
+You can read more about it [here](https://www.barrons.com/articles/amazon-earnings-stock-price-a9464368).
 
 ## Requirements
 - Python 3.8
