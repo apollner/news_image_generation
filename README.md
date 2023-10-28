@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese fighter jet got within 10 feet of US bomber over South China Sea, US military says**
+**NFL Week 8 bold predictions: Travis Etienne reaches mark not seen in 17 years; 49ers win with whoever's at QB**
 
-You can read more about it [here](https://www.cnn.com/2023/10/26/politics/china-fighter-jet-us-bomber-south-china-sea/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-bold-predictions-travis-etienne-reaches-mark-not-seen-in-17-years-49ers-win-with-whoevers-at-qb/).
 
 ## Requirements
 - Python 3.8
