@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Allen and Bills get back on track in Thursday night win over Bucs - ESPN**
+**Damian Lillard makes Milwaukee Bucks history in electric debut vs. 76ers**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38749117/bills-beat-buccaneers-bucs-thursday-night-football-josh-allen).
+You can read more about it [here](https://www.cbssports.com/nba/news/damian-lillard-drops-39-points-makes-milwaukee-bucks-history-in-electric-debut-vs-76ers/).
 
 ## Requirements
 - Python 3.8
