@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Investigating James Harden's Absence From 76ers Season-Opening Road Trip**
+**Judge defends fining Trump $10,000 for breaking gag order**
 
-You can read more about it [here](https://www.si.com/nba/2023/10/26/nba-investigating-james-harden-76ers-player-participation-policy).
+You can read more about it [here](https://www.cnn.com/2023/10/26/politics/trump-gag-order-engoron-fine/index.html).
 
 ## Requirements
 - Python 3.8
