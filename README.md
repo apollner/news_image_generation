@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 8 bold predictions: Travis Etienne reaches mark not seen in 17 years; 49ers win with whoever's at QB**
+**Rep. George Santos pleads not guilty to new fraud, theft charges**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-bold-predictions-travis-etienne-reaches-mark-not-seen-in-17-years-49ers-win-with-whoevers-at-qb/).
+You can read more about it [here](https://www.cnbc.com/2023/10/27/rep-george-santos-arraignment-on-new-fraud-identity-theft-charges.html).
 
 ## Requirements
 - Python 3.8
