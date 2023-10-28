@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Counting time instead of calories also controls blood sugar and belly fat**
+**A full moon and partial lunar eclipse just in time for Halloween weekend**
 
-You can read more about it [here](https://www.cnn.com/2023/10/27/health/time-restricted-eating-type-2-diabetes-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/27/world/partial-lunar-eclipse-hunter-full-moon-scn/index.html).
 
 ## Requirements
 - Python 3.8
