@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron James spoils Kevin Durant's historic night with fourth quarter takeover**
+**Taylor Swift embraced by Travis Kelce's Kansas City Chiefs crew: 'She's letting her guard down,' expert says**
 
-You can read more about it [here](https://www.foxsports.com/stories/nba/lebron-james-spoils-kevin-durants-historic-night-with-fourth-quarter-takeover).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-embraced-travis-kelces-kansas-city-chiefs-crew-shes-letting-her-guard-down-expert).
 
 ## Requirements
 - Python 3.8
