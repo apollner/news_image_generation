@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift embraced by Travis Kelce's Kansas City Chiefs crew: 'She's letting her guard down,' expert says**
+**Hundreds of officers search for Maine shooting suspect**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-embraced-travis-kelces-kansas-city-chiefs-crew-shes-letting-her-guard-down-expert).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67232966).
 
 ## Requirements
 - Python 3.8
