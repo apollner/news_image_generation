@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Says It Works Closely With Washington as U.S. Airstrikes Target Iran-Backed Militias**
+**22000-foot volcano summit is home to Earth's highest-dwelling vertebrates, study confirms**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f).
+You can read more about it [here](https://www.livescience.com/animals/land-mammals/22000-foot-volcano-summit-is-home-to-earths-highest-dwelling-vertebrates-study-confirms).
 
 ## Requirements
 - Python 3.8
