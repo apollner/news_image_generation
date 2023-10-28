@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Huawei's revenue barely rose in the third quarter, despite phone and car sales growth**
+**Israeli air strikes kill dozens in Gaza overnight, Palestinian sources say**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/27/huawei-q3-earnings-revenue-barely-grew-despite-growing-phone-car-sales.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/27/israeli-air-strikes-kill-dozens-in-gaza-overnight-palestinian-sources-say).
 
 ## Requirements
 - Python 3.8
