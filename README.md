@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Stock Flat Despite Earnings Beat. Blame the Cloud. - Barrons**
+**iPhones have been exposing your unique MAC despite Apple’s promises otherwise**
 
-You can read more about it [here](https://www.barrons.com/articles/amazon-earnings-stock-price-a9464368).
+You can read more about it [here](https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/).
 
 ## Requirements
 - Python 3.8
