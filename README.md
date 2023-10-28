@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhones have been exposing your unique MAC despite Apple’s promises otherwise**
+**Trump fraud trial: Ex-president attacks judge who fined him $15,000**
 
-You can read more about it [here](https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/).
+You can read more about it [here](https://www.cnbc.com/2023/10/26/trump-fraud-trial-ex-president-rails-against-judge-who-fined-him-15000.html).
 
 ## Requirements
 - Python 3.8
