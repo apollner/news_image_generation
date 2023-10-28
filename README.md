@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A full moon and partial lunar eclipse just in time for Halloween weekend**
+**Seven Things That Will Decide the Diamondbacks-Rangers World Series**
 
-You can read more about it [here](https://www.cnn.com/2023/10/27/world/partial-lunar-eclipse-hunter-full-moon-scn/index.html).
+You can read more about it [here](https://www.si.com/mlb/2023/10/27/rangers-diamondbacks-world-series-keys-matchups).
 
 ## Requirements
 - Python 3.8
