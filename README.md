@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon beats earning estimates, touts AI as the future of the cloud**
+**Hurricane Otis Updates: 27 Killed In Acapulco | Weather.com**
 
-You can read more about it [here](https://finance.yahoo.com/news/amazon-beats-earning-estimates-touts-ai-as-the-future-of-the-cloud-223950206.html).
+You can read more about it [here](https://weather.com/news/news/2023-10-26-hurricane-otis-tropical-cyclone-acapulco-mexico-updates).
 
 ## Requirements
 - Python 3.8
