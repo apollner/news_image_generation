@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Presents ‘1989 (Taylor’s Version)’ With Poetic Soliloquy**
+**Sam Asghari Reacted To Britney Spears's Book**
 
-You can read more about it [here](https://www.billboard.com/music/pop/taylor-swift-presents-1989-taylors-version-handwritten-social-post-1235456086/).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/sam-asghari-reacted-to-britney-spears-book-after-divorce).
 
 ## Requirements
 - Python 3.8
