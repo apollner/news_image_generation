@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift achieves billionaire status amid new romance, record-breaking tour and '1989 (Taylor's Version)'**
+**How Taylor Swift and Travis Kelce 'Complement Each Other': 'They Connect on So Many Levels,' Source Says**
 
-You can read more about it [here](https://www.foxbusiness.com/entertainment/taylor-swift-achieves-billionaire-status-amid-new-romance-record-breaking-tour-and-1989-taylors-version).
+You can read more about it [here](https://www.etonline.com/how-taylor-swift-and-travis-kelce-complement-each-other-they-connect-on-so-many-levels-source-says).
 
 ## Requirements
 - Python 3.8
