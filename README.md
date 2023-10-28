@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortal Kombat 1 Gets A New Update For The Nintendo Switch**
+**Josh Allen and Bills get back on track in Thursday night win over Bucs - ESPN**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/10/mortal-kombat-1-gets-a-new-update-for-the-nintendo-switch).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38749117/bills-beat-buccaneers-bucs-thursday-night-football-josh-allen).
 
 ## Requirements
 - Python 3.8
