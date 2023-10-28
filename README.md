@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Asghari Reacted To Britney Spears's Book**
+**Maine manhunt for Lewiston mass shooter suspect continues; lockdown remains in place**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/sam-asghari-reacted-to-britney-spears-book-after-divorce).
+You can read more about it [here](https://www.reuters.com/world/us/maine-manhunt-lewiston-mass-shooter-extends-another-night-2023-10-27/).
 
 ## Requirements
 - Python 3.8
