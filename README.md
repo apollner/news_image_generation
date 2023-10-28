@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Taylor Swift and Travis Kelce 'Complement Each Other': 'They Connect on So Many Levels,' Source Says**
+**Abercrombie & Fitch, former CEO Mike Jeffries accused of running trafficking operation**
 
-You can read more about it [here](https://www.etonline.com/how-taylor-swift-and-travis-kelce-complement-each-other-they-connect-on-so-many-levels-source-says).
+You can read more about it [here](https://www.cbsnews.com/news/abercrombie-fitch-mike-jeffries-trafficking-operation-lawsuit/).
 
 ## Requirements
 - Python 3.8
