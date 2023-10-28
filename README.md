@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missile strikes Egyptian Red Sea town on Israel border**
+**Amazon beats earning estimates, touts AI as the future of the cloud**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/explosion-heard-egyptian-red-sea-town-near-israeli-border-witness-2023-10-27/).
+You can read more about it [here](https://finance.yahoo.com/news/amazon-beats-earning-estimates-touts-ai-as-the-future-of-the-cloud-223950206.html).
 
 ## Requirements
 - Python 3.8
