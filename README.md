@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haas "very impressed" by Bearman after Mexico GP FP1 rookie run**
+**‘Killers of the Flower Moon’ Intermission Violations: Apple, Paramount Crack Down on Handful of Theaters Breaking Agreement**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/haas-impressed-by-bearman-after-mexico-gp-fp1-rookie-run/10538893/).
+You can read more about it [here](https://variety.com/2023/film/news/killers-of-the-flower-moon-intermission-violations-apple-paramount-martin-scorsese-1235771093/).
 
 ## Requirements
 - Python 3.8
