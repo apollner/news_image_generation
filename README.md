@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyson Fury vs. Francis Ngannou live results and analysis - ESPN**
+**The Crypto Whistleblower at the Center of the Sam Bankman-Fried Storm**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/38755660/tyson-fury-vs-francis-ngannou-live-boxing-results-analysis).
+You can read more about it [here](https://www.rollingstone.com/culture/culture-features/tiffany-fong-crypto-influencer-sam-bankman-fried-1234862132/).
 
 ## Requirements
 - Python 3.8
