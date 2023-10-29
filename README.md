@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war rages as Gaza deaths mount: Live updates**
+**World Series updates: DBacks lineup, roster set; reliever's role might change**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-27-23/index.html).
+You can read more about it [here](https://www.azcentral.com/story/sports/mlb/diamondbacks/2023/10/27/world-series-game-1-arizona-diamondbacks-texas-rangers-news-updates/71321312007/).
 
 ## Requirements
 - Python 3.8
