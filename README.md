@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID vaccine uptake is 'abysmal' — even among older demographics**
+**Iranian teen Armita Geravand dies following alleged assault by morality police**
 
-You can read more about it [here](https://www.sfchronicle.com/health/article/new-covid-vaccine-uptake-abysmal-even-18453094.php).
+You can read more about it [here](https://www.cnn.com/2023/10/28/world/armita-geravand-iranian-teen-dies-intl/index.html).
 
 ## Requirements
 - Python 3.8
