@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know about a stunning week for the economy**
+**Lunar Eclipse: Space scientist busts misconceptions related to celestial phenomena**
 
-You can read more about it [here](https://www.npr.org/2023/10/28/1208846395/economy-gdp-inflation-interest-rates-soft-landing-recession).
+You can read more about it [here](https://timesofindia.indiatimes.com/videos/news/lunar-eclipse-space-scientist-busts-misconceptions-related-to-celestial-phenomena/videoshow/104781438.cms).
 
 ## Requirements
 - Python 3.8
