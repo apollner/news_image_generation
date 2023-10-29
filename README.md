@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OU-Kansas Game Delayed In 2nd Quarter Due To Lightning**
+**‘Five Nights At Freddy’s’ Bearing Down On $130M Global Bow – International Box Office**
 
-You can read more about it [here](https://www.news9.com/story/653d41cdd8640006655627e2/ou-kansas-game-delayed-in-2nd-quarter-due-to-lightning).
+You can read more about it [here](https://deadline.com/2023/10/five-nights-at-freddys-bearing-down-on-130m-global-bow-international-box-office-1235586004/).
 
 ## Requirements
 - Python 3.8
