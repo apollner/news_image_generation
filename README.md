@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Series updates: DBacks lineup, roster set; reliever's role might change**
+**NASA works to recover 4.5-billion-year-old asteroid sample from seven-year mission**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/mlb/diamondbacks/2023/10/27/world-series-game-1-arizona-diamondbacks-texas-rangers-news-updates/71321312007/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/27/nasa-works-recover-asteroid-sample-trapped-sealed-container/71349221007/).
 
 ## Requirements
 - Python 3.8
