@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 9**
+**The Crypto Whistleblower at the Center of the Sam Bankman-Fried Storm**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-9/).
+You can read more about it [here](https://www.rollingstone.com/culture/culture-features/tiffany-fong-crypto-influencer-sam-bankman-fried-1234862132/).
 
 ## Requirements
 - Python 3.8
