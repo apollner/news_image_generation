@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Governor Mills Statement on Discovery of the Body of Robert Card | Office of Governor Janet T. Mills**
+**Victor Wembanyama shines late, helps deliver Spurs' first win - ESPN**
 
-You can read more about it [here](http://www.maine.gov/governor/mills/news/governor-mills-statement-discovery-body-robert-card-2023-10-27).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/38760376/victor-wembanyama-shines-late-helps-deliver-spurs-first-win).
 
 ## Requirements
 - Python 3.8
