@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**22000-foot volcano summit is home to Earth's highest-dwelling vertebrates, study confirms**
+**Rep. George Santos pleads not guilty to new charges**
 
-You can read more about it [here](https://www.livescience.com/animals/land-mammals/22000-foot-volcano-summit-is-home-to-earths-highest-dwelling-vertebrates-study-confirms).
+You can read more about it [here](https://www.cnn.com/2023/10/27/politics/george-santos-plea/index.html).
 
 ## Requirements
 - Python 3.8
