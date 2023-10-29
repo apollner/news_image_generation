@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Crypto Whistleblower at the Center of the Sam Bankman-Fried Storm**
+**Taylor Swift might skip Broncos game against Chiefs in Denver**
 
-You can read more about it [here](https://www.rollingstone.com/culture/culture-features/tiffany-fong-crypto-influencer-sam-bankman-fried-1234862132/).
+You can read more about it [here](https://www.9news.com/article/entertainment/taylor-swift-denver-broncos-chiefs/73-255ba5e2-3424-461f-96f7-b0c1b7ea5336).
 
 ## Requirements
 - Python 3.8
