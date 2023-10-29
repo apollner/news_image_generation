@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. George Santos pleads not guilty to new charges**
+**How to turn off YouTube's new ambient colors on fullscreen videos**
 
-You can read more about it [here](https://www.cnn.com/2023/10/27/politics/george-santos-plea/index.html).
+You can read more about it [here](https://9to5google.com/2023/10/27/youtube-ambient-mode-off/).
 
 ## Requirements
 - Python 3.8
