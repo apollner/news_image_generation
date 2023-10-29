@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Crypto Whistleblower at the Center of the Sam Bankman-Fried Storm**
+**Full Hunter's Moon puts on a spooky display today with partial lunar eclipse**
 
-You can read more about it [here](https://www.rollingstone.com/culture/culture-features/tiffany-fong-crypto-influencer-sam-bankman-fried-1234862132/).
+You can read more about it [here](https://www.space.com/full-hunters-moon-partial-lunar-eclipse-today).
 
 ## Requirements
 - Python 3.8
