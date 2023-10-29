@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victor Wembanyama shines late, helps deliver Spurs' first win - ESPN**
+**Who is Dean Phillips, Democratic challenger to Biden in 2024**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/38760376/victor-wembanyama-shines-late-helps-deliver-spurs-first-win).
+You can read more about it [here](https://www.axios.com/2023/10/27/democrat-dean-phillips-election-campaign-biden-2024).
 
 ## Requirements
 - Python 3.8
