@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Andrew Cuomo isn't going away**
+**Israel-Hamas war rages as Gaza deaths mount: Live updates**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/27/andrew-cuomo-derosa-00124020).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-27-23/index.html).
 
 ## Requirements
 - Python 3.8
