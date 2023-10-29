@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters shut New York's Grand Central, seeking Gaza ceasefire**
+**New COVID vaccine uptake is 'abysmal' — even among older demographics**
 
-You can read more about it [here](https://www.reuters.com/world/us/protesters-shut-new-yorks-grand-central-seeking-gaza-ceasefire-2023-10-28/).
+You can read more about it [here](https://www.sfchronicle.com/health/article/new-covid-vaccine-uptake-abysmal-even-18453094.php).
 
 ## Requirements
 - Python 3.8
