@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Dean Phillips, Democratic challenger to Biden in 2024**
+**Horoscope for Friday, Oct. 27, 2023**
 
-You can read more about it [here](https://www.axios.com/2023/10/27/democrat-dean-phillips-election-campaign-biden-2024).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/27/23932926/horoscopes-today-friday-oct-27-2023).
 
 ## Requirements
 - Python 3.8
