@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to turn off YouTube's new ambient colors on fullscreen videos**
+**S&P 500 falls into correction after losing 10% from summer peak**
 
-You can read more about it [here](https://9to5google.com/2023/10/27/youtube-ambient-mode-off/).
+You can read more about it [here](https://www.ft.com/content/839d42e1-53ce-4f24-8b22-342ab761c0e4).
 
 ## Requirements
 - Python 3.8
