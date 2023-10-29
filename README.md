@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrities Attend Rande Gerber and Cindy Crawford’s Annual Casamigos Halloween Party in L.A.**
+**Gaza sees heaviest night of Israeli bombardment since start of war**
 
-You can read more about it [here](https://people.com/stars-attend-rande-gerber-cindy-crawford-annual-halloween-party-photos-8384035).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67248320).
 
 ## Requirements
 - Python 3.8
