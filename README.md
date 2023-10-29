@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With no fanfare or acknowledgment, Biden hosts White House meeting with Muslim leaders**
+**Israel increases incursions into Gaza, Maine shooting investigation, more | CBS News Weekender**
 
-You can read more about it [here](https://www.nbcnews.com/politics/white-house/biden-hosts-meeting-muslim-leaders-rcna122433).
+You can read more about it [here](https://www.youtube.com/watch?v=wKX4KlqArG0).
 
 ## Requirements
 - Python 3.8
