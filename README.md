@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Looting hits Mexico's Acapulco after devastating Hurricane Otis**
+**With no fanfare or acknowledgment, Biden hosts White House meeting with Muslim leaders**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL21leGljby1zdGFydHMtY2xlYXJpbmctdXAtaHVycmljYW5lLW90aXMtd3JlY2thZ2UtY2FzdWFsdGllcy1yZWFjaC0yNy0yMDIzLTEwLTI3L9IBAA?oc=5).
+You can read more about it [here](https://www.nbcnews.com/politics/white-house/biden-hosts-meeting-muslim-leaders-rcna122433).
 
 ## Requirements
 - Python 3.8
