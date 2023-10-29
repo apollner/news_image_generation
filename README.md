@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**T-Kelce Shakes It Off to T-Swift at Game 1**
+**Protesters shut New York's Grand Central, seeking Gaza ceasefire**
 
-You can read more about it [here](https://www.si.com/mlb/rangers/news/texas-rangers-world-series-notebook-travis-kelce-shakes-it-off-taylor-swift-game-1).
+You can read more about it [here](https://www.reuters.com/world/us/protesters-shut-new-yorks-grand-central-seeking-gaza-ceasefire-2023-10-28/).
 
 ## Requirements
 - Python 3.8
