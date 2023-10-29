@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Friday, Oct. 27, 2023**
+**Governor Mills Statement on Discovery of the Body of Robert Card | Office of Governor Janet T. Mills**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/10/27/23932926/horoscopes-today-friday-oct-27-2023).
+You can read more about it [here](http://www.maine.gov/governor/mills/news/governor-mills-statement-discovery-body-robert-card-2023-10-27).
 
 ## Requirements
 - Python 3.8
