@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Ivanka Trump's NY fraud trial testimony can hurt Donald Trump and her brothers**
+**OU-Kansas Game Delayed In 2nd Quarter Due To Lightning**
 
-You can read more about it [here](https://www.businessinsider.com/ivanka-trumps-ny-fraud-trial-testimony-can-hurt-donald-trump-2023-10).
+You can read more about it [here](https://www.news9.com/story/653d41cdd8640006655627e2/ou-kansas-game-delayed-in-2nd-quarter-due-to-lightning).
 
 ## Requirements
 - Python 3.8
