@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried admits 'mistakes' but testifies he did not defraud anyone**
+**Paul Sewald, Diamondbacks left to lament Corey Seager’s ninth-inning homer in Game 1**
 
-You can read more about it [here](https://www.reuters.com/legal/sam-bankman-fried-jury-hear-ftx-founders-testimony-fraud-trial-2023-10-27/).
+You can read more about it [here](https://theathletic.com/5006842/2023/10/28/paul-sewald-diamondbacks/).
 
 ## Requirements
 - Python 3.8
