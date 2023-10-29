@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heather Rae El Moussa Diagnosed With Hashimoto's Disease**
+**Haas "very impressed" by Bearman after Mexico GP FP1 rookie run**
 
-You can read more about it [here](https://www.eonline.com/news/1388859/heather-rae-el-moussa-diagnosed-with-hashimotos-disease).
+You can read more about it [here](https://www.motorsport.com/f1/news/haas-impressed-by-bearman-after-mexico-gp-fp1-rookie-run/10538893/).
 
 ## Requirements
 - Python 3.8
