@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID vaccine uptake is 'abysmal' — even among older demographics**
+**Tyson Fury warns Sugar Ray Leonard: "Don't pick Ngannou over me!"**
 
-You can read more about it [here](https://www.sfchronicle.com/health/article/new-covid-vaccine-uptake-abysmal-even-18453094.php).
+You can read more about it [here](https://www.youtube.com/watch?v=feMhL-n6Hu4).
 
 ## Requirements
 - Python 3.8
