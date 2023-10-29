@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel increases incursions into Gaza, Maine shooting investigation, more | CBS News Weekender**
+**Heather Rae El Moussa Diagnosed With Hashimoto's Disease**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wKX4KlqArG0).
+You can read more about it [here](https://www.eonline.com/news/1388859/heather-rae-el-moussa-diagnosed-with-hashimotos-disease).
 
 ## Requirements
 - Python 3.8
