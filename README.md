@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'She declined so fast': Parents, doctors warn of RSV as cases increase across San Antonio**
+**Israel says ground operations expanding in Gaza as war with Hamas rages: Live updates**
 
-You can read more about it [here](https://www.ksat.com/news/local/2023/10/28/she-declined-so-fast-parents-doctors-warn-of-rsv-as-cases-increase-across-san-antonio/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-28-23/index.html).
 
 ## Requirements
 - Python 3.8
