@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Friday, Oct. 27, 2023**
+**Israel says ground operations expanding in Gaza as war with Hamas rages: Live updates**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/10/27/23932926/horoscopes-today-friday-oct-27-2023).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-28-23/index.html).
 
 ## Requirements
 - Python 3.8
