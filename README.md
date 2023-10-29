@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Full Hunter's Moon puts on a spooky display today with partial lunar eclipse**
+**How Ivanka Trump's NY fraud trial testimony can hurt Donald Trump and her brothers**
 
-You can read more about it [here](https://www.space.com/full-hunters-moon-partial-lunar-eclipse-today).
+You can read more about it [here](https://www.businessinsider.com/ivanka-trumps-ny-fraud-trial-testimony-can-hurt-donald-trump-2023-10).
 
 ## Requirements
 - Python 3.8
