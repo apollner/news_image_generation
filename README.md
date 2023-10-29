@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in Maine shooting rampage is dead from apparent self-inflicted gunshot, authorities say**
+**New COVID vaccine uptake is 'abysmal' — even among older demographics**
 
-You can read more about it [here](https://www.cnn.com/2023/10/27/us/maine-shootings-suspect-search-friday/index.html).
+You can read more about it [here](https://www.sfchronicle.com/health/article/new-covid-vaccine-uptake-abysmal-even-18453094.php).
 
 ## Requirements
 - Python 3.8
