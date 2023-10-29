@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Five Nights At Freddy’s’ Bearing Down On $130M Global Bow – International Box Office**
+**Britney Spears' high school boyfriend slams 'piece of s--t' Justin Timberlake**
 
-You can read more about it [here](https://deadline.com/2023/10/five-nights-at-freddys-bearing-down-on-130m-global-bow-international-box-office-1235586004/).
+You can read more about it [here](https://nypost.com/2023/10/28/metro/britneys-hs-boyfriend-bashes-her-former-celeb-love-timberlake/).
 
 ## Requirements
 - Python 3.8
