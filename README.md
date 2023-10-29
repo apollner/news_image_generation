@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears' high school boyfriend slams 'piece of s--t' Justin Timberlake**
+**Palestinian officials say death toll rises from expanded Israel military operation**
 
-You can read more about it [here](https://nypost.com/2023/10/28/metro/britneys-hs-boyfriend-bashes-her-former-celeb-love-timberlake/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-10-28-2023-c9bd7ecc5f4a9fe9d46486f66675244c).
 
 ## Requirements
 - Python 3.8
