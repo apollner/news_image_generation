@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iranian teen Armita Geravand dies following alleged assault by morality police**
+**Horoscope for Friday, Oct. 27, 2023**
 
-You can read more about it [here](https://www.cnn.com/2023/10/28/world/armita-geravand-iranian-teen-dies-intl/index.html).
+You can read more about it [here](https://chicago.suntimes.com/2023/10/27/23932926/horoscopes-today-friday-oct-27-2023).
 
 ## Requirements
 - Python 3.8
