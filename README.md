@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says ground operations expanding in Gaza as war with Hamas rages: Live updates**
+**Sam Bankman-Fried admits 'mistakes' but testifies he did not defraud anyone**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-28-23/index.html).
+You can read more about it [here](https://www.reuters.com/legal/sam-bankman-fried-jury-hear-ftx-founders-testimony-fraud-trial-2023-10-27/).
 
 ## Requirements
 - Python 3.8
