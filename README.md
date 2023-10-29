@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lunar Eclipse: Space scientist busts misconceptions related to celestial phenomena**
+**Celebrities Attend Rande Gerber and Cindy Crawford’s Annual Casamigos Halloween Party in L.A.**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/videos/news/lunar-eclipse-space-scientist-busts-misconceptions-related-to-celestial-phenomena/videoshow/104781438.cms).
+You can read more about it [here](https://people.com/stars-attend-rande-gerber-cindy-crawford-annual-halloween-party-photos-8384035).
 
 ## Requirements
 - Python 3.8
