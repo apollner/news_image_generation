@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Killers of the Flower Moon’ Intermission Violations: Apple, Paramount Crack Down on Handful of Theaters Breaking Agreement**
+**T-Kelce Shakes It Off to T-Swift at Game 1**
 
-You can read more about it [here](https://variety.com/2023/film/news/killers-of-the-flower-moon-intermission-violations-apple-paramount-martin-scorsese-1235771093/).
+You can read more about it [here](https://www.si.com/mlb/rangers/news/texas-rangers-world-series-notebook-travis-kelce-shakes-it-off-taylor-swift-game-1).
 
 ## Requirements
 - Python 3.8
