@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says ground operations expanding in Gaza as war with Hamas rages: Live updates**
+**Blackout In Gaza After Israel’s ‘Most Intense’ Strikes; Hamas Fires Rockets At Israeli Towns | Watch**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-28-23/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=SlsBXQTqL_I).
 
 ## Requirements
 - Python 3.8
