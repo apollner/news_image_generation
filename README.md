@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 falls into correction after losing 10% from summer peak**
+**Why Andrew Cuomo isn't going away**
 
-You can read more about it [here](https://www.ft.com/content/839d42e1-53ce-4f24-8b22-342ab761c0e4).
+You can read more about it [here](https://www.politico.com/news/2023/10/27/andrew-cuomo-derosa-00124020).
 
 ## Requirements
 - Python 3.8
