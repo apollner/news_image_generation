@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Sewald, Diamondbacks left to lament Corey Seager’s ninth-inning homer in Game 1**
+**5 things to know about a stunning week for the economy**
 
-You can read more about it [here](https://theathletic.com/5006842/2023/10/28/paul-sewald-diamondbacks/).
+You can read more about it [here](https://www.npr.org/2023/10/28/1208846395/economy-gdp-inflation-interest-rates-soft-landing-recession).
 
 ## Requirements
 - Python 3.8
