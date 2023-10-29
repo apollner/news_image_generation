@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyson Fury warns Sugar Ray Leonard: "Don't pick Ngannou over me!"**
+**Suspect in Maine shooting rampage is dead from apparent self-inflicted gunshot, authorities say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=feMhL-n6Hu4).
+You can read more about it [here](https://www.cnn.com/2023/10/27/us/maine-shootings-suspect-search-friday/index.html).
 
 ## Requirements
 - Python 3.8
