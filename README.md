@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA works to recover 4.5-billion-year-old asteroid sample from seven-year mission**
+**Looting hits Mexico's Acapulco after devastating Hurricane Otis**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/10/27/nasa-works-recover-asteroid-sample-trapped-sealed-container/71349221007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FtZXJpY2FzL21leGljby1zdGFydHMtY2xlYXJpbmctdXAtaHVycmljYW5lLW90aXMtd3JlY2thZ2UtY2FzdWFsdGllcy1yZWFjaC0yNy0yMDIzLTEwLTI3L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
