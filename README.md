@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence's early exit from the presidential campaign offers a reminder of Trump's grip on the GOP**
+**Here's how to get alerts when your personal info shows up in Google Search**
 
-You can read more about it [here](https://apnews.com/article/pence-2024-republican-presidential-campaign-trump-f0e228548820373f779b3dc7157d6635).
+You can read more about it [here](https://mashable.com/article/how-to-remove-your-personal-info-from-google-search).
 
 ## Requirements
 - Python 3.8
