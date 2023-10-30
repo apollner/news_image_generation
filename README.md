@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats make Speaker Mike Johnson their new 2024 boogeyman**
+**UAW strike: Stellantis and union agree pay rise in tentative deal**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4279889-mike-johnson-2024-democrats-election-denier-abortion/).
+You can read more about it [here](https://www.bbc.com/news/business-67254006).
 
 ## Requirements
 - Python 3.8
