@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine shooting suspect found dead in cargo trailer, motive still a mystery**
+**Merrill Kelly silences Rangers bats as D-backs roll in Game 2 of World Series - ESPN**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/38768527/merrill-kelly-silences-rangers-bats-d-backs-roll-game-2-world-series).
 
 ## Requirements
 - Python 3.8
