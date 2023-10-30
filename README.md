@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Merrill Kelly silences Rangers bats as D-backs roll in Game 2 of World Series - ESPN**
+**Trump on Pence’s 2024 presidential race exit: ‘He should endorse me’**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/38768527/merrill-kelly-silences-rangers-bats-d-backs-roll-game-2-world-series).
+You can read more about it [here](https://thehill.com/homenews/campaign/4281650-trump-on-pences-2024-presidential-race-exit-he-should-endorse-me/).
 
 ## Requirements
 - Python 3.8
