@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico hurricane death toll hits 39; president slams critics**
+**'These are not good or smart people': Haley slams Trump on praise for U.S. adversaries**
 
-You can read more about it [here](https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/).
+You can read more about it [here](https://www.politico.com/news/2023/10/28/these-are-not-good-or-smart-people-haley-slams-trump-on-praise-for-u-s-adversaries-00124102).
 
 ## Requirements
 - Python 3.8
