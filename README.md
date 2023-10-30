@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'These are not good or smart people': Haley slams Trump on praise for U.S. adversaries**
+**Protesters shut New York's Grand Central, seeking Gaza ceasefire**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/28/these-are-not-good-or-smart-people-haley-slams-trump-on-praise-for-u-s-adversaries-00124102).
+You can read more about it [here](https://www.reuters.com/world/us/protesters-shut-new-yorks-grand-central-seeking-gaza-ceasefire-2023-10-28/).
 
 ## Requirements
 - Python 3.8
