@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Israel PM Takes Jab At Intel Chiefs Over Hamas Attack, Later Apologises**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-pm-benjamin-netanyahu-takes-jab-at-intel-chiefs-over-hamas-attack-later-apologises-4525355).
 
 ## Requirements
 - Python 3.8
