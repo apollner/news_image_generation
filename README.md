@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico hurricane death toll hits 39; president slams critics**
+**Israel-Hamas war live updates on Israeli ground offensive in Gaza - The Washington Post**
 
-You can read more about it [here](https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/10/29/israel-war-hamas-gaza-news-palestine/).
 
 ## Requirements
 - Python 3.8
