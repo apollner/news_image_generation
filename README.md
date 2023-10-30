@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football Week 8 inactives - Who's in and who's out? - ESPN**
+**Democrats make Speaker Mike Johnson their new 2024 boogeyman**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek8/nfl-fantasy-football-espn-injured-inactives-watchlist-week-8-2023-october-29).
+You can read more about it [here](https://thehill.com/policy/healthcare/4279889-mike-johnson-2024-democrats-election-denier-abortion/).
 
 ## Requirements
 - Python 3.8
