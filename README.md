@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk offers Starlink internet for ‘recognized’ aid organizations in Gaza**
+**Full Hunter's Moon lunar eclipse, last eclipse of 2023, an early Halloween treat for stargazers (photos)**
 
-You can read more about it [here](https://www.timesofisrael.com/musk-offers-starlink-internet-for-recognized-aid-organizations-in-gaza/).
+You can read more about it [here](https://www.space.com/full-hunters-moon-lunar-eclipse-october-2023-photos-video).
 
 ## Requirements
 - Python 3.8
