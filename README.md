@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.N. aid warehouses looted in Gaza as Netanyahu declares "second phase" in war**
+**Will Taylor Swift Attend Travis Kelce's Chiefs vs. Broncos Game?**
 
-You can read more about it [here](https://www.cbsnews.com/news/gaza-un-warehouses-looted-second-phase-in-war-israel/).
+You can read more about it [here](https://www.etonline.com/taylor-swift-is-not-expected-to-attend-travis-kelces-chiefs-vs-broncos-game-213846).
 
 ## Requirements
 - Python 3.8
