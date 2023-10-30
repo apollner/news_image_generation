@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO**
+**Some pharmacy staff from Walgreens, other chains are walking out again — here's what you need to know**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063).
+You can read more about it [here](https://www.cnbc.com/2023/10/29/pharmacy-staff-from-walgreens-chains-like-cvs-to-walk-out-again.html).
 
 ## Requirements
 - Python 3.8
