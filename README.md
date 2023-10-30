@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW strike: Stellantis and union agree pay rise in tentative deal**
+**Tyson Fury knocked down but beats Francis Ngannou on a split decision**
 
-You can read more about it [here](https://www.bbc.com/news/business-67254006).
+You can read more about it [here](https://www.aljazeera.com/sports/2023/10/29/tyson-fury-knocked-down-but-beats-francis-ngannou-on-a-split-decision).
 
 ## Requirements
 - Python 3.8
