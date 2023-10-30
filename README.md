@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Taylor Swift Attend Travis Kelce's Chiefs vs. Broncos Game?**
+**Source -- QB Kirk Cousins tears right Achilles in Vikings' victory - ESPN**
 
-You can read more about it [here](https://www.etonline.com/taylor-swift-is-not-expected-to-attend-travis-kelces-chiefs-vs-broncos-game-213846).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38773634/kirk-cousins-exits-minnesota-vikings-game-second-half).
 
 ## Requirements
 - Python 3.8
