@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 8 weather report: Heavy snow, rain could impact Chiefs vs. Broncos, Jets vs. Giants and other games**
+**Former NHL player Adam Johnson dies after ‘freak accident’ during hockey game in Britain’s top league**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-weather-report-heavy-snow-rain-could-impact-chiefs-vs-broncos-jets-vs-giants-and-other-games/).
+You can read more about it [here](https://theathletic.com/5008199/2023/10/28/adam-johnson-hockey-injury-cut/).
 
 ## Requirements
 - Python 3.8
