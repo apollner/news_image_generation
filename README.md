@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift might skip Broncos game against Chiefs in Denver**
+**‘Five Nights At Freddy’s’ Bearing Down On $130M Global Bow – International Box Office**
 
-You can read more about it [here](https://www.9news.com/article/entertainment/taylor-swift-denver-broncos-chiefs/73-255ba5e2-3424-461f-96f7-b0c1b7ea5336).
+You can read more about it [here](https://deadline.com/2023/10/five-nights-at-freddys-bearing-down-on-130m-global-bow-international-box-office-1235586004/).
 
 ## Requirements
 - Python 3.8
