@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel PM Takes Jab At Intel Chiefs Over Hamas Attack, Later Apologises**
+**Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-pm-benjamin-netanyahu-takes-jab-at-intel-chiefs-over-hamas-attack-later-apologises-4525355).
+You can read more about it [here](https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063).
 
 ## Requirements
 - Python 3.8
