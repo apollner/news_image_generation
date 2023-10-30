@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live updates on Israeli ground offensive in Gaza - The Washington Post**
+**Maine shooting suspect found dead in cargo trailer, motive still a mystery**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/10/29/israel-war-hamas-gaza-news-palestine/).
+You can read more about it [here](https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/).
 
 ## Requirements
 - Python 3.8
