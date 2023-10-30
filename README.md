@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After three decades, Florida "killer clown" case ends with unexpected twist**
+**How astronauts on the ISS are tackling the latest ‘unexpected challenges’ miles above the earth**
 
-You can read more about it [here](https://www.cbsnews.com/news/florida-killer-clown-case-sheila-keen-warren-marlene-warren-murder-48-hours/).
+You can read more about it [here](https://www.foxnews.com/science/astronauts-iss-tackling-latest-unexpected-challenges-miles-above-earth).
 
 ## Requirements
 - Python 3.8
