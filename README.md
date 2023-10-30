@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some pharmacy staff from Walgreens, other chains are walking out again — here's what you need to know**
+**Fantasy football Week 8 inactives - Who's in and who's out? - ESPN**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/29/pharmacy-staff-from-walgreens-chains-like-cvs-to-walk-out-again.html).
+You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek8/nfl-fantasy-football-espn-injured-inactives-watchlist-week-8-2023-october-29).
 
 ## Requirements
 - Python 3.8
