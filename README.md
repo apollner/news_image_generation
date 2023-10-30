@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hospital authorities say they have received five warnings it will be bombed imminently**
+**U.N. aid warehouses looted in Gaza as Netanyahu declares "second phase" in war**
 
-You can read more about it [here](https://www.youtube.com/watch?v=T_MoABonR1c).
+You can read more about it [here](https://www.cbsnews.com/news/gaza-un-warehouses-looted-second-phase-in-war-israel/).
 
 ## Requirements
 - Python 3.8
