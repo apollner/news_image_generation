@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's how to get alerts when your personal info shows up in Google Search**
+**22-year-old charged in Tampa shooting that killed 2 and injured 16**
 
-You can read more about it [here](https://mashable.com/article/how-to-remove-your-personal-info-from-google-search).
+You can read more about it [here](https://www.cnn.com/2023/10/29/us/two-killed-18-injured-florida-shooting/index.html).
 
 ## Requirements
 - Python 3.8
