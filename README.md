@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump on Pence’s 2024 presidential race exit: ‘He should endorse me’**
+**After three decades, Florida "killer clown" case ends with unexpected twist**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4281650-trump-on-pences-2024-presidential-race-exit-he-should-endorse-me/).
+You can read more about it [here](https://www.cbsnews.com/news/florida-killer-clown-case-sheila-keen-warren-marlene-warren-murder-48-hours/).
 
 ## Requirements
 - Python 3.8
