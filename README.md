@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW reaches tentative agreement with Stellantis, expands strike at GM**
+**Pence suspends campaign for president**
 
-You can read more about it [here](https://www.cnn.com/2023/10/28/business/uaw-stellantis-deal/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/28/politics/pence-suspends-white-house-bid/index.html).
 
 ## Requirements
 - Python 3.8
