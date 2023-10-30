@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063).
 
 ## Requirements
 - Python 3.8
