@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO**
+**Android 14 review: There’s always next year**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/).
 
 ## Requirements
 - Python 3.8
