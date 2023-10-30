@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former NHL player Adam Johnson dies after ‘freak accident’ during hockey game in Britain’s top league**
+**Android 14 review: There’s always next year**
 
-You can read more about it [here](https://theathletic.com/5008199/2023/10/28/adam-johnson-hockey-injury-cut/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/).
 
 ## Requirements
 - Python 3.8
