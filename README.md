@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry, star of 'Friends,' dies after apparent drowning, TMZ reports**
+**Mexico hurricane death toll hits 39; president slams critics**
 
-You can read more about it [here](https://www.livenowfox.com/news/matthew-perry-star-of-friends-dies-from-apparent-drowning).
+You can read more about it [here](https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/).
 
 ## Requirements
 - Python 3.8
