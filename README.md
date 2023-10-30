@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley's breakout jolts the 2024 GOP undercard race - POLITICO**
+**NFL Week 8 weather report: Heavy snow, rain could impact Chiefs vs. Broncos, Jets vs. Giants and other games**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/29/nikki-haley-breakout-2024-00124063).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-weather-report-heavy-snow-rain-could-impact-chiefs-vs-broncos-jets-vs-giants-and-other-games/).
 
 ## Requirements
 - Python 3.8
