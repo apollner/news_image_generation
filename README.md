@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How astronauts on the ISS are tackling the latest ‘unexpected challenges’ miles above the earth**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/science/astronauts-iss-tackling-latest-unexpected-challenges-miles-above-earth).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
