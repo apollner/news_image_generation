@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source -- QB Kirk Cousins tears right Achilles in Vikings' victory - ESPN**
+**Pence's early exit from the presidential campaign offers a reminder of Trump's grip on the GOP**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38773634/kirk-cousins-exits-minnesota-vikings-game-second-half).
+You can read more about it [here](https://apnews.com/article/pence-2024-republican-presidential-campaign-trump-f0e228548820373f779b3dc7157d6635).
 
 ## Requirements
 - Python 3.8
