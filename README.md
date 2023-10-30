@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Android 14 review: There’s always next year**
+**Florida shooting leaves at least 2 dead, 18 injured during Halloween celebrations**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/).
+You can read more about it [here](https://www.foxnews.com/us/florida-shooting-leaves-dead-injured-during-halloween-celebrations).
 
 ## Requirements
 - Python 3.8
