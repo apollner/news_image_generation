@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Full Hunter's Moon lunar eclipse, last eclipse of 2023, an early Halloween treat for stargazers (photos)**
+**Mexico hurricane death toll hits 39; president slams critics**
 
-You can read more about it [here](https://www.space.com/full-hunters-moon-lunar-eclipse-october-2023-photos-video).
+You can read more about it [here](https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/).
 
 ## Requirements
 - Python 3.8
