@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida shooting leaves at least 2 dead, 18 injured during Halloween celebrations**
+**Hospital authorities say they have received five warnings it will be bombed imminently**
 
-You can read more about it [here](https://www.foxnews.com/us/florida-shooting-leaves-dead-injured-during-halloween-celebrations).
+You can read more about it [here](https://www.youtube.com/watch?v=T_MoABonR1c).
 
 ## Requirements
 - Python 3.8
