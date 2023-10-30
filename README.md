@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Five Nights At Freddy’s’ Bearing Down On $130M Global Bow – International Box Office**
+**Matthew Perry, star of 'Friends,' dies after apparent drowning, TMZ reports**
 
-You can read more about it [here](https://deadline.com/2023/10/five-nights-at-freddys-bearing-down-on-130m-global-bow-international-box-office-1235586004/).
+You can read more about it [here](https://www.livenowfox.com/news/matthew-perry-star-of-friends-dies-from-apparent-drowning).
 
 ## Requirements
 - Python 3.8
