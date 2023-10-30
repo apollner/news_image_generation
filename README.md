@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters shut New York's Grand Central, seeking Gaza ceasefire**
+**Pro-Palestinian protesters scale part of Brooklyn Bridge, force shutdown of iconic NYC artery**
 
-You can read more about it [here](https://www.reuters.com/world/us/protesters-shut-new-yorks-grand-central-seeking-gaza-ceasefire-2023-10-28/).
+You can read more about it [here](https://www.foxnews.com/us/pro-palestinian-protesters-scale-part-brooklyn-bridge-force-shutdown-iconic-nyc-artery).
 
 ## Requirements
 - Python 3.8
