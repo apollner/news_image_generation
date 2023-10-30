@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine shooting suspect found dead in cargo trailer, motive still a mystery**
+**49ers news: Three keys to a Niners victory over the Bengals**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/).
+You can read more about it [here](https://www.ninersnation.com/2023/10/28/23936456/3-keys-san-francisco-49ers-victory-brock-purdy-set-play-cincinnati-bengals-kyle-shanahan-joe-burrow).
 
 ## Requirements
 - Python 3.8
