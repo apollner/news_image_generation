@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence suspends campaign for president**
+**Maine shooting suspect found dead in cargo trailer, motive still a mystery**
 
-You can read more about it [here](https://www.cnn.com/2023/10/28/politics/pence-suspends-white-house-bid/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/).
 
 ## Requirements
 - Python 3.8
