@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plainfield man pleads not guilty to murder charges of Muslim boy**
+**FDA warns consumers to stop using 26 eye drop products sold at CVS, Target and Rite Aid**
 
-You can read more about it [here](https://www.chicagotribune.com/news/breaking/ct-wadea-al-fayoume-joseph-czuba-plea-not-guilty-20231030-qgkxud32wfeyhe53bivunw32di-story.html).
+You can read more about it [here](http://www.nbcnewyork.com/news/national-international/fda-warns-consumers-to-stop-using-26-eye-drop-products-sold-at-cvs-target-and-rite-aid/4813429/).
 
 ## Requirements
 - Python 3.8
