@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's beat earnings estimates, boosted by higher menu prices**
+**Heavy clashes as Israeli tanks briefly reach Gaza City outskirts**
 
-You can read more about it [here](https://finance.yahoo.com/news/mcdonalds-beat-earnings-estimates-boosted-by-higher-menu-prices-111246018.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/10/30/heavy-clashes-as-israeli-tanks-reach-gaza-city-outskirts-cut-key-road).
 
 ## Requirements
 - Python 3.8
