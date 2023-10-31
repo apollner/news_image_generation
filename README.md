@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge Chutkan reinstated restrictions on Trump’s public statements in election interference trial**
+**UAW-Ford deal nets union big wins on wages, benefits, investments**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4282835-judge-chutkan-reinstated-restrictions-on-trumps-public-statements-in-election-interference-trial/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-leaders-push-ahead-with-ford-contract-gm-talks-drag-2023-10-29/).
 
 ## Requirements
 - Python 3.8
