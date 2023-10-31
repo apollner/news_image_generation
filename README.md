@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil falls, markets hold steady as Israel launches Gaza ground offensive**
+**Judge Chutkan reinstated restrictions on Trump’s public statements in election interference trial**
 
-You can read more about it [here](https://www.marketwatch.com/story/oil-ticks-lower-markets-hold-ground-as-israel-launches-gaza-ground-offensive-698c95b4).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4282835-judge-chutkan-reinstated-restrictions-on-trumps-public-statements-in-election-interference-trial/).
 
 ## Requirements
 - Python 3.8
