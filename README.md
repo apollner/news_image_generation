@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**22-year-old charged in Tampa shooting that killed 2 and injured 16**
+**Cincinnati Bengals vs. San Francisco 49ers | 2023 Week 8 Game Highlights**
 
-You can read more about it [here](https://www.cnn.com/2023/10/29/us/two-killed-18-injured-florida-shooting/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=lpCusbU66cM).
 
 ## Requirements
 - Python 3.8
