@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge reinstates gag order on Trump in federal election subversion case**
+**Vikings fear QB Kirk Cousins suffered Achilles injury**
 
-You can read more about it [here](https://www.cnn.com/2023/10/29/politics/trump-gag-order-reinstated/index.html).
+You can read more about it [here](https://sports.yahoo.com/kirk-cousins-achilles-injury-vikings-qb-122434143.html).
 
 ## Requirements
 - Python 3.8
