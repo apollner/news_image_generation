@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings fear QB Kirk Cousins suffered Achilles injury**
+**Biden unveils U.S. government's first-ever AI executive order**
 
-You can read more about it [here](https://sports.yahoo.com/kirk-cousins-achilles-injury-vikings-qb-122434143.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html).
 
 ## Requirements
 - Python 3.8
