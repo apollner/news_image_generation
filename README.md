@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden unveils U.S. government's first-ever AI executive order**
+**Europe’s biggest economy shrank in the third quarter**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html).
+You can read more about it [here](https://www.cnn.com/2023/10/30/business/germany-economy-q3-gdp/index.html).
 
 ## Requirements
 - Python 3.8
