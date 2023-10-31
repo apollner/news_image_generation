@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW, GM sign tentative deal that will end strike if workers ratify it**
+**Landlord accused of killing 6-year-old Palestinian American boy pleads not guilty to murder and hate crime charges**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/10/30/gm-uaw-tentative-agreement/).
+You can read more about it [here](https://www.cnn.com/2023/10/30/us/palestinian-american-boy-stabbed/index.html).
 
 ## Requirements
 - Python 3.8
