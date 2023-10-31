@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antisemitic mob storms through Russian airport as flight from Tel Aviv lands**
+**McDonald's beat earnings estimates, boosted by higher menu prices**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/europe/russia-dagestan-airport-anti-israel-intl-hnk/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/mcdonalds-beat-earnings-estimates-boosted-by-higher-menu-prices-111246018.html).
 
 ## Requirements
 - Python 3.8
