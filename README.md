@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge Chutkan reinstated restrictions on Trump’s public statements in election interference trial**
+**Thousands break into aid warehouses in Gaza as deaths top 8,000**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4282835-judge-chutkan-reinstated-restrictions-on-trumps-public-statements-in-election-interference-trial/).
+You can read more about it [here](https://www.youtube.com/watch?v=iE-NkJEvQ9Y).
 
 ## Requirements
 - Python 3.8
