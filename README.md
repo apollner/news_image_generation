@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA warns consumers to stop using 26 eye drop products sold at CVS, Target and Rite Aid**
+**Webb telescope image captures ghostly glow of the Crab Nebula**
 
-You can read more about it [here](http://www.nbcnewyork.com/news/national-international/fda-warns-consumers-to-stop-using-26-eye-drop-products-sold-at-cvs-target-and-rite-aid/4813429/).
+You can read more about it [here](https://www.cnn.com/2023/10/30/world/webb-telescope-crab-nebula-scn/index.html).
 
 ## Requirements
 - Python 3.8
