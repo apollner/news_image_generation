@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 9 picks, predictions for every game on this week's schedule**
+**General Motors reaches tentative agreement with UAW, potentially ending six-week strike**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/nfl/2023/10/30/nfl-week-9-picks-predictions-2023-season/71382684007/).
+You can read more about it [here](https://apnews.com/article/general-motors-ford-stellantis-uaw-strike-34f6f0d7ca32a671783594722b20fb24).
 
 ## Requirements
 - Python 3.8
