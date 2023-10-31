@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Landlord accused of killing 6-year-old Palestinian American boy pleads not guilty to murder and hate crime charges**
+**German-Israeli woman taken hostage by Hamas at music festival is dead, Israel says**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/us/palestinian-american-boy-stabbed/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/german-israeli-woman-snatched-by-hamas-music-festival-is-dead-israel-says-2023-10-30/).
 
 ## Requirements
 - Python 3.8
