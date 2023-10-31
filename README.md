@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General Motors reaches tentative agreement with UAW, potentially ending six-week strike**
+**Israel conflict latest: US criticises Putin for not condemning antisemitic riot in Dagestan**
 
-You can read more about it [here](https://apnews.com/article/general-motors-ford-stellantis-uaw-strike-34f6f0d7ca32a671783594722b20fb24).
+You can read more about it [here](https://www.ft.com/content/d1e902bf-9187-413d-bd7e-baa1f060d8ae).
 
 ## Requirements
 - Python 3.8
