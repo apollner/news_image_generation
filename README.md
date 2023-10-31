@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands break into aid warehouses in Gaza as deaths top 8,000**
+**Oil falls, markets hold steady as Israel launches Gaza ground offensive**
 
-You can read more about it [here](https://www.youtube.com/watch?v=iE-NkJEvQ9Y).
+You can read more about it [here](https://www.marketwatch.com/story/oil-ticks-lower-markets-hold-ground-as-israel-launches-gaza-ground-offensive-698c95b4).
 
 ## Requirements
 - Python 3.8
