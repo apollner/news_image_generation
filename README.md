@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW-Ford deal nets union big wins on wages, benefits, investments**
+**Judge reinstates gag order on Trump in federal election subversion case**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-leaders-push-ahead-with-ford-contract-gm-talks-drag-2023-10-29/).
+You can read more about it [here](https://www.cnn.com/2023/10/29/politics/trump-gag-order-reinstated/index.html).
 
 ## Requirements
 - Python 3.8
