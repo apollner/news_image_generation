@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands break into aid warehouses in Gaza as deaths top 8,000**
+**HSBC post-tax profit surges over 235% year-on-year for quarter ending September**
 
-You can read more about it [here](https://www.youtube.com/watch?v=iE-NkJEvQ9Y).
+You can read more about it [here](https://www.cnbc.com/2023/10/30/hsbc-profit-after-surges-over-235percent-year-on-year.html).
 
 ## Requirements
 - Python 3.8
