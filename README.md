@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM, UAW reach tentative deal after weeks of contract negotiations**
+**Amon-Ra St. Brown set to play vs. Raiders**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/general-motors/2023/10/30/gm-uaw-deal-contract-negotiations-update/71334972007/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/amon-ra-st-brown-set-to-play-vs-raiders).
 
 ## Requirements
 - Python 3.8
