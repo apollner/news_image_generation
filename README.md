@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Negotiations Conclude for the Day as Talks With Studios Continue**
+**Matthew Perry cause of death 'deferred': coroner**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-continue-monday-1235631351/).
+You can read more about it [here](https://www.foxnews.com/entertainment/matthew-perry-cause-death-deferred-coroner).
 
 ## Requirements
 - Python 3.8
