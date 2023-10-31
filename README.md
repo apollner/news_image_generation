@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heavy clashes as Israeli tanks briefly reach Gaza City outskirts**
+**NFL Power Rankings Week 9: Eagles move to top spot as Chiefs stumble**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/10/30/heavy-clashes-as-israeli-tanks-reach-gaza-city-outskirts-cut-key-road).
+You can read more about it [here](https://cowboyswire.usatoday.com/lists/nfl-power-rankings-week-9-2023/).
 
 ## Requirements
 - Python 3.8
