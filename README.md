@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cincinnati Bengals vs. San Francisco 49ers | 2023 Week 8 Game Highlights**
+**‘Five Nights at Freddy’s’ Box Office: All the Records Shattered in Opening Weekend**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lpCusbU66cM).
+You can read more about it [here](https://variety.com/2023/film/news/five-nights-at-freddys-box-office-opening-weekend-records-1235772394/).
 
 ## Requirements
 - Python 3.8
