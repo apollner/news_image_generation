@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe’s biggest economy shrank in the third quarter**
+**Antisemitic mob storms through Russian airport as flight from Tel Aviv lands**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/business/germany-economy-q3-gdp/index.html).
+You can read more about it [here](https://www.cnn.com/2023/10/30/europe/russia-dagestan-airport-anti-israel-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
