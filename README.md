@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HSBC post-tax profit surges over 235% year-on-year for quarter ending September**
+**Judge Chutkan reinstated restrictions on Trump’s public statements in election interference trial**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/30/hsbc-profit-after-surges-over-235percent-year-on-year.html).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4282835-judge-chutkan-reinstated-restrictions-on-trumps-public-statements-in-election-interference-trial/).
 
 ## Requirements
 - Python 3.8
