@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Crab Nebula Seen in New Light by NASA's Webb**
+**UAW, GM sign tentative deal that will end strike if workers ratify it**
 
-You can read more about it [here](https://webbtelescope.org/contents/news-releases/2023/news-2023-137).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/10/30/gm-uaw-tentative-agreement/).
 
 ## Requirements
 - Python 3.8
