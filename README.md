@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli ground operations worry families of hostages**
+**Sister Wives: Kody told Meri their marriage was over on anniversary**
 
-You can read more about it [here](https://www.youtube.com/watch?v=M6CIjN-Q3PQ).
+You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-meri-brown-marriage-over-anniversary-2023-10).
 
 ## Requirements
 - Python 3.8
