@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Matthew Perry made Chandler the sweetest character on 'Friends'**
+**Cincinnati Bengals vs. San Francisco 49ers | 2023 Week 8 Game Highlights**
 
-You can read more about it [here](https://ew.com/tv/matthew-perry-appreciation-friends-chandler-bing/).
+You can read more about it [here](https://www.youtube.com/watch?v=lpCusbU66cM).
 
 ## Requirements
 - Python 3.8
