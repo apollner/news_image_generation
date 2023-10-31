@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sister Wives: Kody told Meri their marriage was over on anniversary**
+**UAW-Ford deal nets union big wins on wages, benefits, investments**
 
-You can read more about it [here](https://www.insider.com/sister-wives-kody-brown-meri-brown-marriage-over-anniversary-2023-10).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/uaw-leaders-push-ahead-with-ford-contract-gm-talks-drag-2023-10-29/).
 
 ## Requirements
 - Python 3.8
