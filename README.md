@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry cause of death 'deferred': coroner**
+**Israeli ground operations worry families of hostages**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/matthew-perry-cause-death-deferred-coroner).
+You can read more about it [here](https://www.youtube.com/watch?v=M6CIjN-Q3PQ).
 
 ## Requirements
 - Python 3.8
