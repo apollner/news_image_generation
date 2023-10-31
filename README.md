@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW deal with Ford includes $8.1 billion in investments, $5,000 ratification bonuses**
+**49ers Fall Short 31-17 to the Bengals; Five Takeaways from #CINvsSF**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/30/uaw-ford-deal-includes-8point1b-in-investment-5000-ratification-bonus.html).
+You can read more about it [here](https://www.49ers.com/news/49ers-fall-short-31-17-bengals-five-takeaways-cinvssf-purdy-cmc-armstead).
 
 ## Requirements
 - Python 3.8
