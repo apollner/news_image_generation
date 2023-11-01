@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Morning After: Apple reveals new MacBook Pros, M3 chips and a new iMac**
+**PFT's Week 9 2023 NFL power rankings**
 
-You can read more about it [here](https://www.engadget.com/the-morning-after-apple-reveals-a-new-macbook-pros-m3-chips-and-a-new-imac-111552483.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-9-2023-nfl-power-rankings).
 
 ## Requirements
 - Python 3.8
