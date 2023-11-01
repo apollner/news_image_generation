@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to try again at launching 23 Starlink satellites on Oct. 30 after staging system triggered abort**
+**SolarWinds charged by SEC for failing to disclose cybersecurity problems**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-satellite-launch-group-6-25).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/30/solarwinds-computer-breach-sec-russia/).
 
 ## Requirements
 - Python 3.8
