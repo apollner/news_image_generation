@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US officials, Jewish leaders meet to address antisemitism on campus**
+**Biden's executive order papers over growing divisions on AI**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-officials-jewish-leaders-meet-address-antisemitism-campus-2023-10-30/).
+You can read more about it [here](https://www.politico.com/news/2023/10/30/bidens-executive-order-artificial-intelligence-00124395).
 
 ## Requirements
 - Python 3.8
