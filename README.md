@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cardiovascular Deaths Due to Extreme Heat Expected To Skyrocket**
+**Euro zone inflation drops to two-year low in October; economy shrinks in third quarter**
 
-You can read more about it [here](https://scitechdaily.com/?p=323312).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/euro-zone-inflation-drops-to-two-year-low-in-october-economy-shrinks-in-third-quarter.html).
 
 ## Requirements
 - Python 3.8
