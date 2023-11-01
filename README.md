@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Democrats turn up the heat, announce 'next step' in Supreme Court ethics investigation**
+**Afghans return to Taliban rule as Pakistan moves to expel 1.7 million**
 
-You can read more about it [here](https://www.foxnews.com/politics/senate-democrats-turn-up-heat-announce-step-supreme-court-ethics-investigation).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/afghans-return-taliban-rule-pakistan-moves-expel-17-million-2023-10-31/).
 
 ## Requirements
 - Python 3.8
