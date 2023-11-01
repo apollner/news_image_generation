@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL trade deadline details and rumors, plus Week 9 picks and ranking all 32 teams with Ravens at No. 2**
+**FBI Director Wray warns terror threat to Americans at 'whole other level' amid Hamas-Israel conflict**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-and-details-plus-week-9-picks-and-ranking-all-32-teams-with-ravens-at-no-2/).
+You can read more about it [here](https://www.foxnews.com/politics/fbi-director-wray-warns-terror-threat-americans-whole-other-level-after-hamas-israel-attack).
 
 ## Requirements
 - Python 3.8
