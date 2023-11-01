@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Californian Vineyard Founded by Lebanese Migrants Sells for Up to $1 Billion**
+**Apple’s October Scary Fast Event: Everything announced so far**
 
-You can read more about it [here](https://www.wsj.com/business/deals/treasury-wine-to-buy-luxury-producer-daou-vineyards-for-up-to-1-billion-90e7aa6e).
+You can read more about it [here](https://techcrunch.com/2023/10/30/apples-october-scary-fast-event-everything-announced-so-far/).
 
 ## Requirements
 - Python 3.8
