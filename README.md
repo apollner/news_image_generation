@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Falls 125 Points On Key Housing Data; Tesla Stock Continues To Slide**
+**The Morning After: Apple reveals new MacBook Pros, M3 chips and a new iMac**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-key-housing-data-tesla-stock-continues-to-slide/).
+You can read more about it [here](https://www.engadget.com/the-morning-after-apple-reveals-a-new-macbook-pros-m3-chips-and-a-new-imac-111552483.html).
 
 ## Requirements
 - Python 3.8
