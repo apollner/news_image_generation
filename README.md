@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Says Sides Remain ‘Far Apart’ on Key Strike Issues**
+**Senate Democrats turn up the heat, announce 'next step' in Supreme Court ethics investigation**
 
-You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-far-apart-1235773949/).
+You can read more about it [here](https://www.foxnews.com/politics/senate-democrats-turn-up-heat-announce-step-supreme-court-ethics-investigation).
 
 ## Requirements
 - Python 3.8
