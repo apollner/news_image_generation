@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine shooting update: Sheriff alerted on Card weeks before shootings**
+**SAG-AFTRA Says Sides Remain ‘Far Apart’ on Key Strike Issues**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/10/30/metro/sheriff-maine-alerted-other-agencies-about-robert-card-weeks-before-shooting-heres-what-we-know/).
+You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-far-apart-1235773949/).
 
 ## Requirements
 - Python 3.8
