@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zoë Kravitz and Channing Tatum Are Reportedly Engaged**
+**Jusant review - soaring design and skyscraping climbs**
 
-You can read more about it [here](http://www.thecut.com/2023/10/zoe-kravitz-channing-tatum-engaged.html).
+You can read more about it [here](https://www.eurogamer.net/jusant-review).
 
 ## Requirements
 - Python 3.8
