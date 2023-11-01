@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s October Scary Fast Event: Everything revealed about the new MacBook Pro, iMac and M3 chips**
+**Zoë Kravitz and Channing Tatum Are Reportedly Engaged**
 
-You can read more about it [here](https://techcrunch.com/2023/10/31/apples-october-scary-fast-event-everything-announced-so-far/).
+You can read more about it [here](http://www.thecut.com/2023/10/zoe-kravitz-channing-tatum-engaged.html).
 
 ## Requirements
 - Python 3.8
