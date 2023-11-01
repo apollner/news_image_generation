@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US rejects Putin claim that West organised anti-Jewish airport mob**
+**US officials, Jewish leaders meet to address antisemitism on campus**
 
-You can read more about it [here](https://www.bbc.com/news/world-67267339).
+You can read more about it [here](https://www.reuters.com/world/us/us-officials-jewish-leaders-meet-address-antisemitism-campus-2023-10-30/).
 
 ## Requirements
 - Python 3.8
