@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dinosaur-killing impact did its dirty work with dust**
+**Biden will meet Xi Jinping in coming weeks, White House says**
 
-You can read more about it [here](https://arstechnica.com/science/2023/10/dust-of-death-did-it-do-in-the-dinosaurs/).
+You can read more about it [here](https://www.politico.com/news/2023/10/31/joe-biden-xi-jinping-san-francisco-00124571).
 
 ## Requirements
 - Python 3.8
