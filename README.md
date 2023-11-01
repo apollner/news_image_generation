@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SolarWinds charged by SEC for failing to disclose cybersecurity problems**
+**Californian Vineyard Founded by Lebanese Migrants Sells for Up to $1 Billion**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/30/solarwinds-computer-breach-sec-russia/).
+You can read more about it [here](https://www.wsj.com/business/deals/treasury-wine-to-buy-luxury-producer-daou-vineyards-for-up-to-1-billion-90e7aa6e).
 
 ## Requirements
 - Python 3.8
