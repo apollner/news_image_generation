@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT's Week 9 2023 NFL power rankings**
+**Dow Jones Falls 125 Points On Key Housing Data; Tesla Stock Continues To Slide**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-9-2023-nfl-power-rankings).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-key-housing-data-tesla-stock-continues-to-slide/).
 
 ## Requirements
 - Python 3.8
