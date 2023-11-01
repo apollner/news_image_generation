@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bud Light parent Anheuser-Busch InBev's sales tumble further in US**
+**NFL trade deadline details and rumors, plus Week 9 picks and ranking all 32 teams with Ravens at No. 2**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/bud-light-parent-anheuser-busch-inbev-sales-tumble-further-us).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-and-details-plus-week-9-picks-and-ranking-all-32-teams-with-ravens-at-no-2/).
 
 ## Requirements
 - Python 3.8
