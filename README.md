@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple M3 Pro Chip Has 25% Less Memory Bandwidth Than M1/M2 Pro**
+**Your daily horoscope: October 31**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/31/apple-m3-pro-less-memory-bandwidth/).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-october-31-5/).
 
 ## Requirements
 - Python 3.8
