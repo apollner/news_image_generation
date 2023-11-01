@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghans return to Taliban rule as Pakistan moves to expel 1.7 million**
+**SAG-AFTRA Says Sides Remain ‘Far Apart’ on Key Strike Issues**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/afghans-return-taliban-rule-pakistan-moves-expel-17-million-2023-10-31/).
+You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-far-apart-1235773949/).
 
 ## Requirements
 - Python 3.8
