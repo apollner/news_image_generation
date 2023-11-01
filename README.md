@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Says Sides Remain ‘Far Apart’ on Key Strike Issues**
+**Ukraine war live updates: Putin says the West is to blame for mob storming Russian airport; U.S. calls the accusation 'absurd'**
 
-You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-far-apart-1235773949/).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
