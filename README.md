@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s October Scary Fast Event: Everything announced so far**
+**Sam Bankman-Fried's Post-Collapse Media Blitz Has Clearly Backfired**
 
-You can read more about it [here](https://techcrunch.com/2023/10/30/apples-october-scary-fast-event-everything-announced-so-far/).
+You can read more about it [here](https://www.coindesk.com/policy/2023/10/30/sam-bankman-frieds-post-collapse-media-blitz-has-clearly-backfired/).
 
 ## Requirements
 - Python 3.8
