@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SolarWinds charged by SEC for failing to disclose cybersecurity problems**
+**Cops were sent to Maine gunman’s home weeks before massacres amid concern he ‘is going to snap and commit a mass shooting’**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/10/30/solarwinds-computer-breach-sec-russia/).
+You can read more about it [here](https://www.cnn.com/2023/10/29/maine-shooting-robert-card-investigation/index.html).
 
 ## Requirements
 - Python 3.8
