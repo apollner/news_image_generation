@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Falls 125 Points On Key Housing Data; Tesla Stock Continues To Slide**
+**Apple’s October Scary Fast Event: Everything revealed about the new MacBook Pro, iMac and M3 chips**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-key-housing-data-tesla-stock-continues-to-slide/).
+You can read more about it [here](https://techcrunch.com/2023/10/31/apples-october-scary-fast-event-everything-announced-so-far/).
 
 ## Requirements
 - Python 3.8
