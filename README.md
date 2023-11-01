@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried's Post-Collapse Media Blitz Has Clearly Backfired**
+**US officials, Jewish leaders meet to address antisemitism on campus**
 
-You can read more about it [here](https://www.coindesk.com/policy/2023/10/30/sam-bankman-frieds-post-collapse-media-blitz-has-clearly-backfired/).
+You can read more about it [here](https://www.reuters.com/world/us/us-officials-jewish-leaders-meet-address-antisemitism-campus-2023-10-30/).
 
 ## Requirements
 - Python 3.8
