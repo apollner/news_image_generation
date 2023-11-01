@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Putin says the West is to blame for mob storming Russian airport; U.S. calls the accusation 'absurd'**
+**Euro zone inflation drops to two-year low in October; economy shrinks in third quarter**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/euro-zone-inflation-drops-to-two-year-low-in-october-economy-shrinks-in-third-quarter.html).
 
 ## Requirements
 - Python 3.8
