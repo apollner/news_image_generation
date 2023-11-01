@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Euro zone inflation drops to two-year low in October; economy shrinks in third quarter**
+**Winners and losers of the UAW talks with GM, Ford and Stellantis**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/euro-zone-inflation-drops-to-two-year-low-in-october-economy-shrinks-in-third-quarter.html).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/uaw-talks-with-gm-ford-stellantis-winners-losers.html).
 
 ## Requirements
 - Python 3.8
