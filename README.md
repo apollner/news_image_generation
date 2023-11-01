@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US officials, Jewish leaders meet to address antisemitism on campus**
+**Maine shooting update: Sheriff alerted on Card weeks before shootings**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-officials-jewish-leaders-meet-address-antisemitism-campus-2023-10-30/).
+You can read more about it [here](https://www.bostonglobe.com/2023/10/30/metro/sheriff-maine-alerted-other-agencies-about-robert-card-weeks-before-shooting-heres-what-we-know/).
 
 ## Requirements
 - Python 3.8
