@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cops were sent to Maine gunman’s home weeks before massacres amid concern he ‘is going to snap and commit a mass shooting’**
+**US rejects Putin claim that West organised anti-Jewish airport mob**
 
-You can read more about it [here](https://www.cnn.com/2023/10/29/maine-shooting-robert-card-investigation/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-67267339).
 
 ## Requirements
 - Python 3.8
