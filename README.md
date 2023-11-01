@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's executive order papers over growing divisions on AI**
+**SpaceX to try again at launching 23 Starlink satellites on Oct. 30 after staging system triggered abort**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/30/bidens-executive-order-artificial-intelligence-00124395).
+You can read more about it [here](https://www.space.com/spacex-starlink-satellite-launch-group-6-25).
 
 ## Requirements
 - Python 3.8
