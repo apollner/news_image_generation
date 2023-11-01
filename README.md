@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb telescope image captures ghostly glow of the Crab Nebula**
+**Apple Announces New 14-Inch and 16-Inch MacBook Pro Models With M3 Series Chips**
 
-You can read more about it [here](https://www.cnn.com/2023/10/30/world/webb-telescope-crab-nebula-scn/index.html).
+You can read more about it [here](https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/).
 
 ## Requirements
 - Python 3.8
