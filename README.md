@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried defense rests in criminal trial, closing arguments kick off Wednesday**
+**NFL trade deadline details and rumors, plus Week 9 picks and ranking all 32 teams with Ravens at No. 2**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/sam-bankman-fried-defense-rests-in-criminal-trial-jury-decision-nears.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-and-details-plus-week-9-picks-and-ranking-all-32-teams-with-ravens-at-no-2/).
 
 ## Requirements
 - Python 3.8
