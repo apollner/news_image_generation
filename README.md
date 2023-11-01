@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI Director Wray warns terror threat to Americans at 'whole other level' amid Hamas-Israel conflict**
+**Bud Light parent Anheuser-Busch InBev's sales tumble further in US**
 
-You can read more about it [here](https://www.foxnews.com/politics/fbi-director-wray-warns-terror-threat-americans-whole-other-level-after-hamas-israel-attack).
+You can read more about it [here](https://www.foxbusiness.com/markets/bud-light-parent-anheuser-busch-inbev-sales-tumble-further-us).
 
 ## Requirements
 - Python 3.8
