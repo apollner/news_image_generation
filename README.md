@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bud Light parent Anheuser-Busch InBev's sales tumble further in US**
+**Sam Bankman-Fried defense rests in criminal trial, closing arguments kick off Wednesday**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/bud-light-parent-anheuser-busch-inbev-sales-tumble-further-us).
+You can read more about it [here](https://www.cnbc.com/2023/10/31/sam-bankman-fried-defense-rests-in-criminal-trial-jury-decision-nears.html).
 
 ## Requirements
 - Python 3.8
