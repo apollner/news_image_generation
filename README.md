@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winners and losers of the UAW talks with GM, Ford and Stellantis**
+**Cardiovascular Deaths Due to Extreme Heat Expected To Skyrocket**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/uaw-talks-with-gm-ford-stellantis-winners-losers.html).
+You can read more about it [here](https://scitechdaily.com/?p=323312).
 
 ## Requirements
 - Python 3.8
