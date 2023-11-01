@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL trade deadline details and rumors, plus Week 9 picks and ranking all 32 teams with Ravens at No. 2**
+**Dinosaur-killing impact did its dirty work with dust**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-and-details-plus-week-9-picks-and-ranking-all-32-teams-with-ravens-at-no-2/).
+You can read more about it [here](https://arstechnica.com/science/2023/10/dust-of-death-did-it-do-in-the-dinosaurs/).
 
 ## Requirements
 - Python 3.8
