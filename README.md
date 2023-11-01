@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Euro zone inflation drops to two-year low in October; economy shrinks in third quarter**
+**Apple M3 Pro Chip Has 25% Less Memory Bandwidth Than M1/M2 Pro**
 
-You can read more about it [here](https://www.cnbc.com/2023/10/31/euro-zone-inflation-drops-to-two-year-low-in-october-economy-shrinks-in-third-quarter.html).
+You can read more about it [here](https://www.macrumors.com/2023/10/31/apple-m3-pro-less-memory-bandwidth/).
 
 ## Requirements
 - Python 3.8
