@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Announces New 14-Inch and 16-Inch MacBook Pro Models With M3 Series Chips**
+**US officials, Jewish leaders meet to address antisemitism on campus**
 
-You can read more about it [here](https://www.macrumors.com/2023/10/30/apple-announces-m3-macbook-pros/).
+You can read more about it [here](https://www.reuters.com/world/us/us-officials-jewish-leaders-meet-address-antisemitism-campus-2023-10-30/).
 
 ## Requirements
 - Python 3.8
