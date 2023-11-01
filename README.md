@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jusant review - soaring design and skyscraping climbs**
+**Bud Light parent Anheuser-Busch InBev's sales tumble further in US**
 
-You can read more about it [here](https://www.eurogamer.net/jusant-review).
+You can read more about it [here](https://www.foxbusiness.com/markets/bud-light-parent-anheuser-busch-inbev-sales-tumble-further-us).
 
 ## Requirements
 - Python 3.8
