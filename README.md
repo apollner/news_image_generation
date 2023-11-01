@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your daily horoscope: October 31**
+**For some cardiac patients with stents, long-term aspirin treatments might be on the way out**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-october-31-5/).
+You can read more about it [here](https://www.cnn.com/2023/10/31/health/aspirin-stent-treatment-study/index.html).
 
 ## Requirements
 - Python 3.8
