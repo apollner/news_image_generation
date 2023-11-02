@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crisis at Marvel: Jonathan Majors Back-Up Plans, ‘The Marvels’ Reshoots, Reviving Original Avengers and More Issues Revealed**
+**YouTube’s ad blocker crackdown escalates, aggravating users**
 
-You can read more about it [here](https://variety.com/2023/film/features/marvel-jonathan-majors-problem-the-marvels-reshoots-kang-1235774940/).
+You can read more about it [here](https://arstechnica.com/google/2023/11/youtube-tries-to-kill-ad-blockers-in-push-for-ad-dollars-premium-subs/).
 
 ## Requirements
 - Python 3.8
