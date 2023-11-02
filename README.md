@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**College Football Playoff Rankings: Ohio State, Georgia, Michigan, Florida State open 1-4 in top 25 poll**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-ohio-state-georgia-michigan-florida-state-open-1-4-in-top-25-poll/).
 
 ## Requirements
 - Python 3.8
