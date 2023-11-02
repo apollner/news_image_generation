@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube’s ad blocker crackdown escalates, aggravating users**
+**Sophie Turner Kisses British Aristocrat Peregrine Pearson After Joe Jonas Break Up**
 
-You can read more about it [here](https://arstechnica.com/google/2023/11/youtube-tries-to-kill-ad-blockers-in-push-for-ad-dollars-premium-subs/).
+You can read more about it [here](https://www.eonline.com/news/1389062/sophie-turner-kisses-british-aristocrat-peregrine-pearson-after-joe-jonas-break-up).
 
 ## Requirements
 - Python 3.8
