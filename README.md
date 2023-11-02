@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen's Houthi rebels claim attacks on Israel, drawing their main sponsor Iran closer to Hamas war**
+**‘Against all odds’: Local woman determined to fulfill dream, with foundation’s help**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/31/yemens-houthi-rebels-claim-attacks-on-israel-drawing-their-main-sponsor-iran-closer-to-hamas-war-00124674).
+You can read more about it [here](https://www.wkbn.com/news/local-news/canfield-news/against-all-odds-local-woman-determined-to-fulfill-dream-with-foundations-help/).
 
 ## Requirements
 - Python 3.8
