@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moon-forming impactor as a source of Earth’s basal mantle anomalies**
+**Yemen's Houthi rebels claim attacks on Israel, drawing their main sponsor Iran closer to Hamas war**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-023-06589-1).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/yemens-houthi-rebels-claim-attacks-israel-drawing-main-104514030).
 
 ## Requirements
 - Python 3.8
