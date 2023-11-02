@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cornell student held over threats to Jewish classmates**
+**What to expect from today’s Fed meeting**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67280174).
+You can read more about it [here](https://www.cnn.com/2023/11/01/economy/what-to-expect-from-todays-fed-meeting/index.html).
 
 ## Requirements
 - Python 3.8
