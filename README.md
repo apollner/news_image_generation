@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to expect from today’s Fed meeting**
+**Futures Fall As AMD Slides; All Eyes On Fed, Powell**
 
-You can read more about it [here](https://www.cnn.com/2023/11/01/economy/what-to-expect-from-todays-fed-meeting/index.html).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-amd-slides-all-eyes-on-fed-decision-powell/).
 
 ## Requirements
 - Python 3.8
