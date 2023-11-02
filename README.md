@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**What to know about Day 2 of the Trump disqualification trial in Colorado**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/10/31/politics/colorado-14th-amendment-trump-day-two-takeaways/index.html).
 
 ## Requirements
 - Python 3.8
