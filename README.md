@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raiders fire coach Josh McDaniels, GM David Ziegler - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38790836/las-vegas-raiders-fire-coach-josh-mcdaniels-gm-david-ziegler).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
