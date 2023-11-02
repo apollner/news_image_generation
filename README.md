@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Against all odds’: Local woman determined to fulfill dream, with foundation’s help**
+**[Removed]**
 
-You can read more about it [here](https://www.wkbn.com/news/local-news/canfield-news/against-all-odds-local-woman-determined-to-fulfill-dream-with-foundations-help/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
