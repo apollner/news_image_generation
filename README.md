@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL trade deadline winners and losers: Vikings get their QB; why did Bears add Montez Sweat?**
+**Tyler Christopher, ‘General Hospital’ actor, dead at 50**
 
-You can read more about it [here](https://theathletic.com/5018642/2023/10/31/nfl-trade-deadline-2023-winners-losers-commanders/).
+You can read more about it [here](https://www.cnn.com/2023/10/31/entertainment/tyler-christopher-death/index.html).
 
 ## Requirements
 - Python 3.8
