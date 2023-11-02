@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings Week 9: Sleepers, projections, starts, sits | Chuba Hubbard, Jahan Dotson and more**
+**Apple's 'Shot on iPhone 15' claim is raising eyebrows**
 
-You can read more about it [here](https://theathletic.com/5018637/2023/11/01/fantasy-football-rankings-week-9-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.creativebloq.com/news/shot-on-iphone-15).
 
 ## Requirements
 - Python 3.8
