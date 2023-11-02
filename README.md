@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Day 2 of the Trump disqualification trial in Colorado**
+**AMD makes bold prediction for its AI chips — but it's not so far-fetched**
 
-You can read more about it [here](https://www.cnn.com/2023/10/31/politics/colorado-14th-amendment-trump-day-two-takeaways/index.html).
+You can read more about it [here](https://www.marketwatch.com/story/amd-makes-bold-prediction-for-its-ai-chips-but-its-actually-not-so-far-fetched-eabd29d9).
 
 ## Requirements
 - Python 3.8
