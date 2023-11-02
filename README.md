@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Millions more smokers should be screened for lung cancer, group says**
+**Prisco's Week 9 NFL picks: Chiefs top Dolphins in Germany thriller, Will Levis wins again, Cowboys edge Eagles**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/01/lung-cancer-screening-guidance-acs/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-9-nfl-picks-chiefs-top-dolphins-in-germany-thriller-will-levis-wins-again-cowboys-edge-eagles/).
 
 ## Requirements
 - Python 3.8
