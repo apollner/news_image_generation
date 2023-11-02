@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'General Hospital' alum Tyler Christopher dead at 50**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/general-hospital-alum-tyler-christopher-dead-50/story?id=104536344).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
