@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Bolivia severs ties with Israel, others recall envoys over Gaza**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/americas/bolivia-severs-diplomatic-ties-with-israel-citing-crimes-against-humanity-2023-10-31/).
 
 ## Requirements
 - Python 3.8
