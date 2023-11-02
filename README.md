@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teachers kick off strike in Portland, Oregon, over class sizes, pay and resources**
+**Sophie Turner Kisses British Aristocrat Peregrine Pearson After Joe Jonas Break Up**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/teachers-kick-off-strike-portland-oregon-class-sizes-104543036).
+You can read more about it [here](https://www.eonline.com/news/1389062/sophie-turner-kisses-british-aristocrat-peregrine-pearson-after-joe-jonas-break-up).
 
 ## Requirements
 - Python 3.8
