@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Israel-Hamas war, crisis in Gaza, crowds gather at Rafah crossing**
+**Millions more smokers should be screened for lung cancer, group says**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-01-23/index.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/01/lung-cancer-screening-guidance-acs/).
 
 ## Requirements
 - Python 3.8
