@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raiders fire head coach Josh McDaniels, general manager David Ziegler**
+**Unlike Pfizer, Moderna can meet 2023 COVID forecast, analysts say**
 
-You can read more about it [here](https://sports.yahoo.com/raiders-fire-josh-mcdaniels-head-coach-david-ziegler-general-manager-121146147.html).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/unlike-pfizer-moderna-can-meet-2023-covid-forecast-analysts-say-2023-11-01/).
 
 ## Requirements
 - Python 3.8
