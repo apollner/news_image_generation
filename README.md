@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophie Turner Kisses British Aristocrat Peregrine Pearson After Joe Jonas Break Up**
+**Moon-forming impactor as a source of Earth’s basal mantle anomalies**
 
-You can read more about it [here](https://www.eonline.com/news/1389062/sophie-turner-kisses-british-aristocrat-peregrine-pearson-after-joe-jonas-break-up).
+You can read more about it [here](https://www.nature.com/articles/s41586-023-06589-1).
 
 ## Requirements
 - Python 3.8
