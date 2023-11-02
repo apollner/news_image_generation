@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Crisis at Marvel: Jonathan Majors Back-Up Plans, ‘The Marvels’ Reshoots, Reviving Original Avengers and More Issues Revealed**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2023/film/features/marvel-jonathan-majors-problem-the-marvels-reshoots-kang-1235774940/).
 
 ## Requirements
 - Python 3.8
