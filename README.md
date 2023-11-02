@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unlike Pfizer, Moderna can meet 2023 COVID forecast, analysts say**
+**YouTube is taking its fight against ad blockers global**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/unlike-pfizer-moderna-can-meet-2023-covid-forecast-analysts-say-2023-11-01/).
+You can read more about it [here](https://www.engadget.com/youtube-is-taking-its-fight-against-ad-blockers-global-122041223.html).
 
 ## Requirements
 - Python 3.8
