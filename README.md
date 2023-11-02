@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyler Christopher, ‘General Hospital’ actor, dead at 50**
+**Yemen's Houthi rebels claim attacks on Israel, drawing their main sponsor Iran closer to Hamas war**
 
-You can read more about it [here](https://www.cnn.com/2023/10/31/entertainment/tyler-christopher-death/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/10/31/yemens-houthi-rebels-claim-attacks-on-israel-drawing-their-main-sponsor-iran-closer-to-hamas-war-00124674).
 
 ## Requirements
 - Python 3.8
