@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophie Turner Kisses British Aristocrat Peregrine Pearson After Joe Jonas Break Up**
+**Are cellphones leading to male infertility? New study makes shocking call**
 
-You can read more about it [here](https://www.eonline.com/news/1389062/sophie-turner-kisses-british-aristocrat-peregrine-pearson-after-joe-jonas-break-up).
+You can read more about it [here](https://nypost.com/2023/11/01/lifestyle/are-cellphones-leading-to-male-infertility-new-study-makes-shocking-call/).
 
 ## Requirements
 - Python 3.8
