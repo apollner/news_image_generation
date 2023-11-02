@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Young studied 49ers star Bosa's ‘standard' since early in NFL career**
+**Raiders fire coach Josh McDaniels, GM David Ziegler - ESPN**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/chase-young-nick-bosa-admiration/1667518/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38790836/las-vegas-raiders-fire-coach-josh-mcdaniels-gm-david-ziegler).
 
 ## Requirements
 - Python 3.8
