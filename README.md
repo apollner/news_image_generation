@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Young studied 49ers star Bosa's ‘standard' since early in NFL career**
+**Migrants brace for Chicago's winter**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/chase-young-nick-bosa-admiration/1667518/).
+You can read more about it [here](https://www.youtube.com/watch?v=WmLPKqpwKwI).
 
 ## Requirements
 - Python 3.8
