@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bolivia severs ties with Israel, others recall envoys over Gaza**
+**Young studied 49ers star Bosa's ‘standard' since early in NFL career**
 
-You can read more about it [here](https://www.reuters.com/world/americas/bolivia-severs-diplomatic-ties-with-israel-citing-crimes-against-humanity-2023-10-31/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/chase-young-nick-bosa-admiration/1667518/).
 
 ## Requirements
 - Python 3.8
