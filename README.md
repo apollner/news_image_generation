@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Futures Fall As AMD Slides; All Eyes On Fed, Powell**
+**Raiders fire head coach Josh McDaniels, general manager David Ziegler**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-amd-slides-all-eyes-on-fed-decision-powell/).
+You can read more about it [here](https://sports.yahoo.com/raiders-fire-josh-mcdaniels-head-coach-david-ziegler-general-manager-121146147.html).
 
 ## Requirements
 - Python 3.8
