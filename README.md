@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen's Houthi rebels claim attacks on Israel, drawing their main sponsor Iran closer to Hamas war**
+**Teachers kick off strike in Portland, Oregon, over class sizes, pay and resources**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/yemens-houthi-rebels-claim-attacks-israel-drawing-main-104514030).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/teachers-kick-off-strike-portland-oregon-class-sizes-104543036).
 
 ## Requirements
 - Python 3.8
