@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 9 NFL picks: Chiefs top Dolphins in Germany thriller, Will Levis wins again, Cowboys edge Eagles**
+**Fantasy Football Rankings Week 9: Sleepers, projections, starts, sits | Chuba Hubbard, Jahan Dotson and more**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-9-nfl-picks-chiefs-top-dolphins-in-germany-thriller-will-levis-wins-again-cowboys-edge-eagles/).
+You can read more about it [here](https://theathletic.com/5018637/2023/11/01/fantasy-football-rankings-week-9-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
