@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden will meet Xi Jinping in coming weeks, White House says**
+**Google plans RISC-V Android tools in 2024, wants developers to “be ready”**
 
-You can read more about it [here](https://www.politico.com/news/2023/10/31/joe-biden-xi-jinping-san-francisco-00124571).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/10/google-plans-risc-v-android-tools-in-2024-wants-developers-to-be-ready/).
 
 ## Requirements
 - Python 3.8
