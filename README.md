@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's 'Shot on iPhone 15' claim is raising eyebrows**
+**'General Hospital' alum Tyler Christopher dead at 50**
 
-You can read more about it [here](https://www.creativebloq.com/news/shot-on-iphone-15).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/general-hospital-alum-tyler-christopher-dead-50/story?id=104536344).
 
 ## Requirements
 - Python 3.8
