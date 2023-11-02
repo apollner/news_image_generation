@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unlike Pfizer, Moderna can meet 2023 COVID forecast, analysts say**
+**Live updates: Israel-Hamas war, crisis in Gaza, crowds gather at Rafah crossing**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/unlike-pfizer-moderna-can-meet-2023-covid-forecast-analysts-say-2023-11-01/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-01-23/index.html).
 
 ## Requirements
 - Python 3.8
