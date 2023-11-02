@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google plans RISC-V Android tools in 2024, wants developers to “be ready”**
+**NFL trade deadline winners and losers: Vikings get their QB; why did Bears add Montez Sweat?**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/10/google-plans-risc-v-android-tools-in-2024-wants-developers-to-be-ready/).
+You can read more about it [here](https://theathletic.com/5018642/2023/10/31/nfl-trade-deadline-2023-winners-losers-commanders/).
 
 ## Requirements
 - Python 3.8
