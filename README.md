@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD makes bold prediction for its AI chips — but it's not so far-fetched**
+**Raiders fire coach Josh McDaniels, GM David Ziegler - ESPN**
 
-You can read more about it [here](https://www.marketwatch.com/story/amd-makes-bold-prediction-for-its-ai-chips-but-its-actually-not-so-far-fetched-eabd29d9).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38790836/las-vegas-raiders-fire-coach-josh-mcdaniels-gm-david-ziegler).
 
 ## Requirements
 - Python 3.8
