@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden would veto House GOP’s Israel aid package, White House says**
+**Bolivia severs ties with Israel, others recall envoys over Gaza**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4286488-biden-would-veto-house-gops-israel-aid-package-white-house-says/).
+You can read more about it [here](https://www.reuters.com/world/americas/bolivia-severs-diplomatic-ties-with-israel-citing-crimes-against-humanity-2023-10-31/).
 
 ## Requirements
 - Python 3.8
