@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF: Troops breach Hamas defenses, approach Gaza City; anti-tank missile chief slain**
+**Republicans help torpedo resolution to censure Tlaib over Israel criticism**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-troops-breach-hamas-defenses-approach-gaza-city-anti-tank-missile-chief-slain/).
+You can read more about it [here](https://thehill.com/homenews/house/4288542-house-kills-rashida-tlaib-censure-vote/).
 
 ## Requirements
 - Python 3.8
