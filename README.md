@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How investigators will determine Matthew Perry's cause of death**
+**Listening to favorite songs can reduce pain as much as Advil, study finds**
 
-You can read more about it [here](https://www.latimes.com/california/story/2023-11-01/inside-the-investigation-to-determine-how-matthew-perry-died).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/02/music-relieve-pain-study-benefits/).
 
 ## Requirements
 - Python 3.8
