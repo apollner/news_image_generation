@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Listening to favorite songs can reduce pain as much as Advil, study finds**
+**Here's the holiday drink and food menu at Starbucks**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/02/music-relieve-pain-study-benefits/).
+You can read more about it [here](https://www.9news.com/article/life/holidays/holiday-guide/starbucks-2023-holiday-cups-menu/73-fd29106d-4d1b-4a61-8dbf-8a5185aed7c0).
 
 ## Requirements
 - Python 3.8
