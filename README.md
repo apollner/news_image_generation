@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google is moving Shopping List and other notes into one app to worry about, Keep**
+**Starbucks holiday menu 2023: Cups, drinks, coffee, food items featured**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-is-moving-shopping-list-and-other-notes-into-one-app-to-worry-about-keep/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/02/starbucks-holiday-cups-drinks-coffee/71419579007/).
 
 ## Requirements
 - Python 3.8
