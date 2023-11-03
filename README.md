@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears’ Memoir ‘The Woman In Me’ Is Off To Strong Start, Selling 1.1M Copies In US**
+**NFL Week 9 injury report: Titans' DeAndre Hopkins questionable, Kenny Pickett to play for Steelers**
 
-You can read more about it [here](https://deadline.com/2023/11/britney-spears-memoir-off-to-strong-sales-start-1235590373/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-titans-deandre-hopkins-questionable-kenny-pickett-to-play-for-steelers/).
 
 ## Requirements
 - Python 3.8
