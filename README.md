@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon's secret pricing scheme made it an extra $1 billion, FTC says**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2023/11/2/23943724/amazon-project-nessie-algorithm-ftc-antitrust-case).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
