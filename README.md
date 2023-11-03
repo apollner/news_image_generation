@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shell posts $6.2 billion third-quarter profit, announces $3.5 billion share buyback**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/02/shell-posts-6point2-billion-profit-announces-3point5-billion-buyback.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
