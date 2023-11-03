@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of England holds interest rates at 15-year high**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 9 2023: Model loving Saints, Texans**
 
-You can read more about it [here](https://uk.finance.yahoo.com/news/bank-of-england-holds-interest-rates-at-15-year-high-120209398.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-9-2023-model-loving-saints-texans/).
 
 ## Requirements
 - Python 3.8
