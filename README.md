@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Israeli losses rise in Gaza as President Biden calls for 'pause' in Hamas war**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/live-news/november-2-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
