@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US amusement park operators Cedar Fair, Six Flags in merger talks - sources**
+**S&P 500 futures tick higher as attention turns from Fed to latest earnings reports: Live updates**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/cedar-fair-explores-merger-with-six-flags-sources-2023-11-01/).
+You can read more about it [here](https://www.cnbc.com/2023/11/01/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
