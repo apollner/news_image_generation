@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans help torpedo resolution to censure Tlaib over Israel criticism**
+**Disney reaches $8.6 billion deal with Comcast to fully acquire Hulu**
 
-You can read more about it [here](https://thehill.com/homenews/house/4288542-house-kills-rashida-tlaib-censure-vote/).
+You can read more about it [here](https://www.cbsnews.com/news/disney-8-6-billion-dollar-deal-fully-acquire-hulu-from-comcast/).
 
 ## Requirements
 - Python 3.8
