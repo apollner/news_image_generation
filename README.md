@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antonio Pierce looking to bring 'an edge and a swag' to the Raiders as interim head coach**
+**Disney to buy remaining Hulu stake from Comcast in widely expected move**
 
-You can read more about it [here](https://www.raiders.com/news/antonio-pierce-looking-to-bring-edge-and-swag-to-the-raiders-interim-head-coach).
+You can read more about it [here](https://www.cnbc.com/2023/11/01/disney-to-buy-remaining-hulu-stake-from-comcast-in-widely-expected-move.html).
 
 ## Requirements
 - Python 3.8
