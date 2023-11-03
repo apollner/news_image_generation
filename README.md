@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are the North Texas school districts closed for the Rangers World Series parade**
+**Amazon's secret pricing scheme made it an extra $1 billion, FTC says**
 
-You can read more about it [here](https://www.wfaa.com/article/news/education/arlington-isd-closed-texas-rangers-world-series-championship-victory-friday-2023/287-56163664-5fda-4868-825b-55bc9b141f4a).
+You can read more about it [here](https://www.theverge.com/2023/11/2/23943724/amazon-project-nessie-algorithm-ftc-antitrust-case).
 
 ## Requirements
 - Python 3.8
