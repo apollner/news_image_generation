@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Ukraine's top military leader says war is at a stalemate and a 'beautiful breakthrough' is unlikely**
+**Shell posts $6.2 billion third-quarter profit, announces $3.5 billion share buyback**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/02/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/02/shell-posts-6point2-billion-profit-announces-3point5-billion-buyback.html).
 
 ## Requirements
 - Python 3.8
