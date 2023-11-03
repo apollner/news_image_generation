@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge signals she may postpone Trump’s trial in Mar-a-Lago classified documents case**
+**Stock Market Today: Dow, S&P Live Updates for November 2**
 
-You can read more about it [here](https://www.cnn.com/2023/11/01/politics/florida-hearing-trump-mar-a-lago-documents-trial/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-01/stock-market-today-dow-s-p-live-updates).
 
 ## Requirements
 - Python 3.8
