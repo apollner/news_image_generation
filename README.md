@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Search continues in rubble of collapsed Kentucky coal plant for trapped worker**
+**Listen to the 'final' Beatles track, made with machine learning and archival recordings**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/search-continues-rubble-collapsed-kentucky-coal-plant-trapped-worker-rcna123324).
+You can read more about it [here](https://www.engadget.com/listen-to-the-final-beatles-track-made-with-machine-learning-and-archival-recordings-153253946.html).
 
 ## Requirements
 - Python 3.8
