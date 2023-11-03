@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results**
+**Judge signals she may postpone Trump’s trial in Mar-a-Lago classified documents case**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/).
+You can read more about it [here](https://www.cnn.com/2023/11/01/politics/florida-hearing-trump-mar-a-lago-documents-trial/index.html).
 
 ## Requirements
 - Python 3.8
