@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HBO Doesn't Dispute Using Fake Twitter Accounts to Undermine TV Critics**
+**Israeli strikes on Gaza refugee camp offer glimpse of war's destruction**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/digital/hbo-fake-twitter-accounts-tv-critics-1235634620/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/01/israel-gaza-refugee-camp-strike-death-destruction/).
 
 ## Requirements
 - Python 3.8
