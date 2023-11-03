@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes on Gaza refugee camp offer glimpse of war's destruction**
+**Antonio Pierce looking to bring 'an edge and a swag' to the Raiders as interim head coach**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/11/01/israel-gaza-refugee-camp-strike-death-destruction/).
+You can read more about it [here](https://www.raiders.com/news/antonio-pierce-looking-to-bring-edge-and-swag-to-the-raiders-interim-head-coach).
 
 ## Requirements
 - Python 3.8
