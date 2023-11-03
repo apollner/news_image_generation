@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US President Joe Biden calls for 'pause' in Israel-Gaza conflict**
+**City of Arlington to Host Texas Rangers World Series Victory Parade in Entertainment District This Friday**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67294334).
+You can read more about it [here](https://www.arlingtontx.gov/news/my_arlington_t_x/news_stories/world_series_parade).
 
 ## Requirements
 - Python 3.8
