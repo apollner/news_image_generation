@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results**
+**Nicolas Cage Calls AI ‘Inhumane’ and a ‘Nightmare,’ Says CGI Changed His Superman ‘Flash’ Cameo: Spider Fight ‘Was Not What I Did’ on Set**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/).
+You can read more about it [here](https://variety.com/2023/film/news/nicolas-cage-ai-inhumane-cgi-changed-superman-flash-cameo-1235776876/).
 
 ## Requirements
 - Python 3.8
