@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia: Israel Occupying State, New IDF Estimate On Hamas Attack, Netanyahu Political Days Numbered?**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=SPZ_KTL-MWY).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
