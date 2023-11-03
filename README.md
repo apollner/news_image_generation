@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicolas Cage Calls AI ‘Inhumane’ and a ‘Nightmare,’ Says CGI Changed His Superman ‘Flash’ Cameo: Spider Fight ‘Was Not What I Did’ on Set**
+**Britney Spears’ Memoir ‘The Woman In Me’ Is Off To Strong Start, Selling 1.1M Copies In US**
 
-You can read more about it [here](https://variety.com/2023/film/news/nicolas-cage-ai-inhumane-cgi-changed-superman-flash-cameo-1235776876/).
+You can read more about it [here](https://deadline.com/2023/11/britney-spears-memoir-off-to-strong-sales-start-1235590373/).
 
 ## Requirements
 - Python 3.8
