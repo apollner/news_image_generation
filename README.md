@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Republicans erupt in anger over Tuberville's military freeze**
+**Ukraine war live updates: Ukraine's top military leader says war is at a stalemate and a 'beautiful breakthrough' is unlikely**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/11/01/tuberville-military-promotion-hold/).
+You can read more about it [here](https://www.cnbc.com/2023/11/02/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
