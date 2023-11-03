@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The planet is heating up faster than predicted, says scientist who sounded climate alarm in the 1980s**
+**Here are the North Texas school districts closed for the Rangers World Series parade**
 
-You can read more about it [here](https://www.cnn.com/2023/11/02/climate/the-planet-is-heating-up-faster-than-predicted-says-scientist-who-first-warned-the-world-about-climate-change/index.html).
+You can read more about it [here](https://www.wfaa.com/article/news/education/arlington-isd-closed-texas-rangers-world-series-championship-victory-friday-2023/287-56163664-5fda-4868-825b-55bc9b141f4a).
 
 ## Requirements
 - Python 3.8
