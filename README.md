@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures tick higher as attention turns from Fed to latest earnings reports: Live updates**
+**Bank of England holds interest rates at 15-year high**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/01/stock-market-today-live-updates.html).
+You can read more about it [here](https://uk.finance.yahoo.com/news/bank-of-england-holds-interest-rates-at-15-year-high-120209398.html).
 
 ## Requirements
 - Python 3.8
