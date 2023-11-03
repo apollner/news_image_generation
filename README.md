@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli losses rise in Gaza as President Biden calls for 'pause' in Hamas war**
+**US amusement park operators Cedar Fair, Six Flags in merger talks - sources**
 
-You can read more about it [here](https://www.foxnews.com/live-news/november-2-israel-hamas-war).
+You can read more about it [here](https://www.reuters.com/markets/deals/cedar-fair-explores-merger-with-six-flags-sources-2023-11-01/).
 
 ## Requirements
 - Python 3.8
