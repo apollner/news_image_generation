@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 9 injury report: Titans' DeAndre Hopkins questionable, Kenny Pickett to play for Steelers**
+**Senate Republicans erupt in anger over Tuberville's military freeze**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-titans-deandre-hopkins-questionable-kenny-pickett-to-play-for-steelers/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/11/01/tuberville-military-promotion-hold/).
 
 ## Requirements
 - Python 3.8
