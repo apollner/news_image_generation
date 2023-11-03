@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The planet is heating up faster than predicted, says scientist who sounded climate alarm in the 1980s**
+**Google is moving Shopping List and other notes into one app to worry about, Keep**
 
-You can read more about it [here](https://www.cnn.com/2023/11/02/climate/the-planet-is-heating-up-faster-than-predicted-says-scientist-who-first-warned-the-world-about-climate-change/index.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-is-moving-shopping-list-and-other-notes-into-one-app-to-worry-about-keep/).
 
 ## Requirements
 - Python 3.8
