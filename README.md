@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This Nvidia partner has seen its stock surge 200% this year. But investors may be overlooking a risk.**
+**M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results**
 
-You can read more about it [here](https://www.marketwatch.com/story/this-nvidia-partner-has-seen-its-stock-surge-200-this-year-but-investors-may-be-overlooking-a-risk-75f0d9b0).
+You can read more about it [here](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/).
 
 ## Requirements
 - Python 3.8
