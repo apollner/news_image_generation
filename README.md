@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The planet is heating up faster than predicted, says scientist who sounded climate alarm in the 1980s**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/11/02/climate/the-planet-is-heating-up-faster-than-predicted-says-scientist-who-first-warned-the-world-about-climate-change/index.html).
 
 ## Requirements
 - Python 3.8
