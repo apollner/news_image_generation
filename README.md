@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are cellphones leading to male infertility? New study makes shocking call**
+**HBO Doesn't Dispute Using Fake Twitter Accounts to Undermine TV Critics**
 
-You can read more about it [here](https://nypost.com/2023/11/01/lifestyle/are-cellphones-leading-to-male-infertility-new-study-makes-shocking-call/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/digital/hbo-fake-twitter-accounts-tv-critics-1235634620/).
 
 ## Requirements
 - Python 3.8
