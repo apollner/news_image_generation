@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks holiday menu 2023: Cups, drinks, coffee, food items featured**
+**US President Joe Biden calls for 'pause' in Israel-Gaza conflict**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/11/02/starbucks-holiday-cups-drinks-coffee/71419579007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67294334).
 
 ## Requirements
 - Python 3.8
