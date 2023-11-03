@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 9 2023: Model loving Saints, Texans**
+**How investigators will determine Matthew Perry's cause of death**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-9-2023-model-loving-saints-texans/).
+You can read more about it [here](https://www.latimes.com/california/story/2023-11-01/inside-the-investigation-to-determine-how-matthew-perry-died).
 
 ## Requirements
 - Python 3.8
