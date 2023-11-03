@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Suspect accused of killing Tupac Shakur pleads not guilty in Las Vegas court**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/11/02/us/tupac-murder-suspect-duane-davis-court-appearance/index.html).
 
 ## Requirements
 - Python 3.8
