@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's the holiday drink and food menu at Starbucks**
+**Search continues in rubble of collapsed Kentucky coal plant for trapped worker**
 
-You can read more about it [here](https://www.9news.com/article/life/holidays/holiday-guide/starbucks-2023-holiday-cups-menu/73-fd29106d-4d1b-4a61-8dbf-8a5185aed7c0).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/search-continues-rubble-collapsed-kentucky-coal-plant-trapped-worker-rcna123324).
 
 ## Requirements
 - Python 3.8
