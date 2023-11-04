@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspected mushroom poisoning: Erin Patterson faces Australian court on murder charges**
+**Inside Gerry’s Season of ‘The Golden Bachelor’: From First Kiss to “Knockin’ Boots” in the Fantasy Suites**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNjczMDUyNzjSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtYXVzdHJhbGlhLTY3MzA1Mjc4LmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtZ29sZGVuLWJhY2hlbG9yLWNhc3RpbmctZmFudGFzeS1zdWl0ZXMtZ29sZGVuLWJhY2hlbG9yZXR0ZS0xMjM1NjM1ODM2L9IBf2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtZ29sZGVuLWJhY2hlbG9yLWNhc3RpbmctZmFudGFzeS1zdWl0ZXMtZ29sZGVuLWJhY2hlbG9yZXR0ZS0xMjM1NjM1ODM2L2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
