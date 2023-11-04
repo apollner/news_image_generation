@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia steps up its aerial barrage of Ukraine as Kyiv officials brace for attacks on infrastructure**
+**'Party Time!' Crypto Land Celebrates as Sam Bankman-Fried Is Found Guilty**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/russia-steps-aerial-barrage-ukraine-kyiv-officials-brace-104599516).
+You can read more about it [here](https://www.wired.com/story/sam-bankman-fried-guilty-crypto-industry-reaction/).
 
 ## Requirements
 - Python 3.8
