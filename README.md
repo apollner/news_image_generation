@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The New Beatles Video: How AI Helped Make the 'Now and Then' Song Happen**
+**Is love in the air? Travis Kelce asked if he's in love with Taylor Swift. Here's what he said.**
 
-You can read more about it [here](https://www.cnet.com/tech/the-new-beatles-video-how-ai-helped-make-the-now-and-then-song-happen/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2023/11/03/travis-kelce-in-love-taylor-swift/71439698007/).
 
 ## Requirements
 - Python 3.8
