@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 9 picks, schedule, odds, injuries, fantasy tips - ESPN**
+**"Next level": Unmanned U.S Navy boat fires weapons in Middle East for first time**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38788608/nfl-week-9-picks-schedule-fantasy-football-odds-injuries-stats-2023).
+You can read more about it [here](https://www.cbsnews.com/news/unmanned-us-navy-boat-fires-weapons-middle-east-first-time/).
 
 ## Requirements
 - Python 3.8
