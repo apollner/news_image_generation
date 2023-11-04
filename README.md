@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New lung cancer screening guidelines increase eligibility for high-risk patients: Should you be screened?**
+**NASA’s Lucy mission makes ‘marvelous’ discovery of second asteroid during Dinkinesh flyby**
 
-You can read more about it [here](https://www.foxnews.com/health/new-lung-cancer-screening-guidelines-increase-eligibility-high-risk-patients-should-be-screened).
+You can read more about it [here](https://www.foxweather.com/earth-space/nasa-lucy-mission-discovery-asteroid-dinkinesh).
 
 ## Requirements
 - Python 3.8
