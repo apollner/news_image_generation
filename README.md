@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel encircles Gaza City as Blinken arrives to push for humanitarian aid**
+**Investigators are being sent to US research base on Antarctica to look into sexual violence concerns**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-gaza-news-11-3-2023-94d5d0b58bc10a14be6ac191060e47e1).
+You can read more about it [here](https://news.yahoo.com/investigators-being-sent-us-research-072952951.html).
 
 ## Requirements
 - Python 3.8
