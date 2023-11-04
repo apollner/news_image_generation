@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former head of NASA’s climate group issues dire warning on warming**
+**Russia steps up its aerial barrage of Ukraine as Kyiv officials brace for attacks on infrastructure**
 
-You can read more about it [here](https://insideclimatenews.org/news/02112023/study-warns-of-spike-of-warming-divides-climate-scientists/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/russia-steps-aerial-barrage-ukraine-kyiv-officials-brace-104599516).
 
 ## Requirements
 - Python 3.8
