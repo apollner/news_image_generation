@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health department announces Indiana's first 2 flu-related deaths of the season**
+**Apple Stock Slips Despite Earnings Beat - Barrons**
 
-You can read more about it [here](https://www.wlky.com/article/indiana-flu-related-deaths-2023/45725850).
+You can read more about it [here](https://www.barrons.com/articles/apple-earnings-stock-price-7868109d).
 
 ## Requirements
 - Python 3.8
