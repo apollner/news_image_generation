@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Double Surprise: NASA's Lucy Spacecraft Makes “Marvelous” Discovery During Asteroid Dinkinesh Flyby**
+**Prisco's Week 9 NFL picks: Chiefs drop Dolphins in Germany thriller, Cowboys edge Eagles in NFC East clash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9kb3VibGUtc3VycHJpc2UtbmFzYXMtbHVjeS1zcGFjZWNyYWZ0LW1ha2VzLW1hcnZlbG91cy1kaXNjb3ZlcnktZHVyaW5nLWFzdGVyb2lkLWRpbmtpbmVzaC1mbHlieS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL3ByaXNjb3Mtd2Vlay05LW5mbC1waWNrcy1jaGllZnMtZHJvcC1kb2xwaGlucy1pbi1nZXJtYW55LXRocmlsbGVyLWNvd2JveXMtZWRnZS1lYWdsZXMtaW4tbmZjLWVhc3QtY2xhc2gv0gGPAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmZsL25ld3MvcHJpc2Nvcy13ZWVrLTktbmZsLXBpY2tzLWNoaWVmcy1kcm9wLWRvbHBoaW5zLWluLWdlcm1hbnktdGhyaWxsZXItY293Ym95cy1lZGdlLWVhZ2xlcy1pbi1uZmMtZWFzdC1jbGFzaC9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
