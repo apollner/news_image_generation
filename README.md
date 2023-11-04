@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Echo’ Trailer Reveals Major Marvel Firsts: TV-MA Rating, Simultaneous Hulu Debut and Native American and Deaf Lead**
+**LIVE: President Joe Biden delivering remarks from Lewiston, Maine**
 
-You can read more about it [here](https://variety.com/2023/tv/news/echo-trailer-marvel-hulu-rating-release-date-1235778785/).
+You can read more about it [here](https://www.wmur.com/article/president-biden-victims-maine-mass-shootings/45735671).
 
 ## Requirements
 - Python 3.8
