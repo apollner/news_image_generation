@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyrese Maxey Reacts to James Harden Trade | NBA GameTime**
+**Elon Musk says AI will eventually create a situation where 'no job is needed'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC2Y3T3N1RmtGdXI0mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTEvMDIvdGVzbGEtYm9zcy1lbG9uLW11c2stc2F5cy1haS13aWxsLWNyZWF0ZS1zaXR1YXRpb24td2hlcmUtbm8tam9iLWlzLW5lZWRlZC5odG1s0gFyaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTEvMDIvdGVzbGEtYm9zcy1lbG9uLW11c2stc2F5cy1haS13aWxsLWNyZWF0ZS1zaXR1YXRpb24td2hlcmUtbm8tam9iLWlzLW5lZWRlZC5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
