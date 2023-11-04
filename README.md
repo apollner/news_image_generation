@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LIVE: President Joe Biden delivering remarks from Lewiston, Maine**
+**The New Beatles Video: How AI Helped Make the 'Now and Then' Song Happen**
 
-You can read more about it [here](https://www.wmur.com/article/president-biden-victims-maine-mass-shootings/45735671).
+You can read more about it [here](https://www.cnet.com/tech/the-new-beatles-video-how-ai-helped-make-the-now-and-then-song-happen/).
 
 ## Requirements
 - Python 3.8
