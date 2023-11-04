@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles vs. Cowboys predictions for Week 9**
+**Researchers Warn: Eating Too Much Salt Could Increase Your Risk of Diabetes**
 
-You can read more about it [here](https://www.inquirer.com/eagles/eagles-cowboys-predictions-week-9-20231103.html).
+You can read more about it [here](https://scitechdaily.com/researchers-warn-eating-too-much-salt-could-increase-your-risk-of-diabetes/).
 
 ## Requirements
 - Python 3.8
