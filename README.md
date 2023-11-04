@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian-American mother and her children fleeing Israel-Hamas war finally get through Rafah border crossing**
+**Israel encircles Gaza City as Blinken arrives to push for humanitarian aid**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-gaza-rafah-border-crossing-americans-stranded/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-gaza-news-11-3-2023-94d5d0b58bc10a14be6ac191060e47e1).
 
 ## Requirements
 - Python 3.8
