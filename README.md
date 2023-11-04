@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MSU AD Alan Haller: Hypocritical how Big Ten is handling Michigan**
+**Trump family testimony continues in N.Y. civil fraud trial**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/michigan-state/spartans/2023/11/02/michigan-state-athletic-director-alan-haller-hypocritical-big-ten-michigan-football-sign-stealing/71431449007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzExLzAyL2VyaWMtdHJ1bXAtdGVzdGlmeS1uZXcteW9yay1jaXZpbC1mcmF1ZC10cmlhbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
