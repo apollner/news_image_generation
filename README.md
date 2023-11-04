@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Stock Slips Despite Earnings Beat - Barrons**
+**Steven Tyler accused of 'mauling and groping' teen model in new sexual assault lawsuit**
 
-You can read more about it [here](https://www.barrons.com/articles/apple-earnings-stock-price-7868109d).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9jZWxlYnJpdGllcy8yMDIzLzExLzAyL3N0ZXZlbi10eWxlci1zZXh1YWwtYXNzYXVsdC1sYXdzdWl0LWplYW5uZS1iZWxsaW5vLzcxNDI2MjkzMDA3L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
