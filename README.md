@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says AI will eventually create a situation where 'no job is needed'**
+**Prisco's Week 9 NFL picks: Chiefs drop Dolphins in Germany thriller, Cowboys edge Eagles in NFC East clash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTEvMDIvdGVzbGEtYm9zcy1lbG9uLW11c2stc2F5cy1haS13aWxsLWNyZWF0ZS1zaXR1YXRpb24td2hlcmUtbm8tam9iLWlzLW5lZWRlZC5odG1s0gFyaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMTEvMDIvdGVzbGEtYm9zcy1lbG9uLW11c2stc2F5cy1haS13aWxsLWNyZWF0ZS1zaXR1YXRpb24td2hlcmUtbm8tam9iLWlzLW5lZWRlZC5odG1s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL3ByaXNjb3Mtd2Vlay05LW5mbC1waWNrcy1jaGllZnMtZHJvcC1kb2xwaGlucy1pbi1nZXJtYW55LXRocmlsbGVyLWNvd2JveXMtZWRnZS1lYWdsZXMtaW4tbmZjLWVhc3QtY2xhc2gv0gGPAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmZsL25ld3MvcHJpc2Nvcy13ZWVrLTktbmZsLXBpY2tzLWNoaWVmcy1kcm9wLWRvbHBoaW5zLWluLWdlcm1hbnktdGhyaWxsZXItY293Ym95cy1lZGdlLWVhZ2xlcy1pbi1uZmMtZWFzdC1jbGFzaC9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
