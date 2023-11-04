@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is love in the air? Travis Kelce asked if he's in love with Taylor Swift. Here's what he said.**
+**Thousands of people are uninstalling ad blockers after YouTube's big crackdown**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2023/11/03/travis-kelce-in-love-taylor-swift/71439698007/).
+You can read more about it [here](https://www.engadget.com/thousands-of-people-are-uninstalling-ad-blockers-after-youtubes-big-crackdown-174009041.html).
 
 ## Requirements
 - Python 3.8
