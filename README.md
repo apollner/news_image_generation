@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steven Tyler accused of 'mauling and groping' teen model in new sexual assault lawsuit**
+**Clippers' James Harden -- Can 'fit in with anybody' for title run - ESPN**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9jZWxlYnJpdGllcy8yMDIzLzExLzAyL3N0ZXZlbi10eWxlci1zZXh1YWwtYXNzYXVsdC1sYXdzdWl0LWplYW5uZS1iZWxsaW5vLzcxNDI2MjkzMDA3L9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzM4ODA0NzU2L2NsaXBwZXJzLWphbWVzLWhhcmRlbi1maXQtYW55Ym9keS10aXRsZS1ydW7SAWVodHRwczovL3d3dy5lc3BuLmNvbS9uYmEvc3RvcnkvXy9pZC8zODgwNDc1Ni9jbGlwcGVycy1qYW1lcy1oYXJkZW4tZml0LWFueWJvZHktdGl0bGUtcnVuP3BsYXRmb3JtPWFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
