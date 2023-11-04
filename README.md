@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers Warn: Eating Too Much Salt Could Increase Your Risk of Diabetes**
+**Why OLED monitor burn-in isn’t a huge problem anymore**
 
-You can read more about it [here](https://scitechdaily.com/researchers-warn-eating-too-much-salt-could-increase-your-risk-of-diabetes/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/).
 
 ## Requirements
 - Python 3.8
