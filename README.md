@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House passes resolution disavowing antisemitism, support for Hamas on campuses**
+**Tyrese Maxey Reacts to James Harden Trade | NBA GameTime**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/02/house-antisemitism-hamas-college-campuses-00125135).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2Y3T3N1RmtGdXI0mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
