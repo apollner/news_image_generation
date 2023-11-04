@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why OLED monitor burn-in isn’t a huge problem anymore**
+**NASA telescope reveals 7 new planets orbiting distant star "hotter than the sun"**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/).
+You can read more about it [here](https://www.cbsnews.com/news/nasa-telescope-reveals-new-planets-kepler/).
 
 ## Requirements
 - Python 3.8
