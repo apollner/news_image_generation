@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the tense testimony of Eric Trump and Donald Trump Jr. in the New York fraud case**
+**Tyrese Maxey Reacts to James Harden Trade | NBA GameTime**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wMi9wb2xpdGljcy90YWtlYXdheXMtZXJpYy1kb25hbGQtdHJ1bXAtZnJhdWQtdHJpYWwvaW5kZXguaHRtbNIBXmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTEvMDIvcG9saXRpY3MvdGFrZWF3YXlzLWVyaWMtZG9uYWxkLXRydW1wLWZyYXVkLXRyaWFsL2luZGV4Lmh0bWw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2Y3T3N1RmtGdXI0mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
