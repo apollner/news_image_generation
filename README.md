@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Party Time!' Crypto Land Celebrates as Sam Bankman-Fried Is Found Guilty**
+**‘Echo’ Trailer Reveals Major Marvel Firsts: TV-MA Rating, Simultaneous Hulu Debut and Native American and Deaf Lead**
 
-You can read more about it [here](https://www.wired.com/story/sam-bankman-fried-guilty-crypto-industry-reaction/).
+You can read more about it [here](https://variety.com/2023/tv/news/echo-trailer-marvel-hulu-rating-release-date-1235778785/).
 
 ## Requirements
 - Python 3.8
