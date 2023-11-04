@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump family testimony continues in N.Y. civil fraud trial**
+**Israel-Hamas war: List of key events, day 28**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzExLzAyL2VyaWMtdHJ1bXAtdGVzdGlmeS1uZXcteW9yay1jaXZpbC1mcmF1ZC10cmlhbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzExLzMvaXNyYWVsLWhhbWFzLXdhci1saXN0LW9mLWtleS1ldmVudHMtZGF5LTI40gFXaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIzLzExLzMvaXNyYWVsLWhhbWFzLXdhci1saXN0LW9mLWtleS1ldmVudHMtZGF5LTI4?oc=5).
 
 ## Requirements
 - Python 3.8
