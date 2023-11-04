@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of people are uninstalling ad blockers after YouTube's big crackdown**
+**Biden under pressure from within his own party to use leverage on Israel**
 
-You can read more about it [here](https://www.engadget.com/thousands-of-people-are-uninstalling-ad-blockers-after-youtubes-big-crackdown-174009041.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/03/israel-hamas-war-humanitarian-democrats-00125332).
 
 ## Requirements
 - Python 3.8
