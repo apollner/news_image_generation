@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Next level": Unmanned U.S Navy boat fires weapons in Middle East for first time**
+**Why OLED monitor burn-in isn’t a huge problem anymore**
 
-You can read more about it [here](https://www.cbsnews.com/news/unmanned-us-navy-boat-fires-weapons-middle-east-first-time/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/).
 
 ## Requirements
 - Python 3.8
