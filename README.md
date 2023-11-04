@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s Lucy mission makes ‘marvelous’ discovery of second asteroid during Dinkinesh flyby**
+**Los Angeles Clippers hold introductory press conference for newly acquired James Harden**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/nasa-lucy-mission-discovery-asteroid-dinkinesh).
+You can read more about it [here](https://www.youtube.com/watch?v=zJOTKZZXjb4).
 
 ## Requirements
 - Python 3.8
