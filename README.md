@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investigators are being sent to US research base on Antarctica to look into sexual violence concerns**
+**Wearable devices may prevent astronauts getting 'lost' in space**
 
-You can read more about it [here](https://news.yahoo.com/investigators-being-sent-us-research-072952951.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIzLTExLXdlYXJhYmxlLWRldmljZXMtYXN0cm9uYXV0cy1sb3N0LXNwYWNlLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
