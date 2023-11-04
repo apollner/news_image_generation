@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why OLED monitor burn-in isn’t a huge problem anymore**
+**YouTube's Ad Blocker Crackdown Spurs Record Uninstalls**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/).
+You can read more about it [here](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/).
 
 ## Requirements
 - Python 3.8
