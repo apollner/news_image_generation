@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube's Ad Blocker Crackdown Spurs Record Uninstalls**
+**Eagles vs. Cowboys predictions for Week 9**
 
-You can read more about it [here](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/).
+You can read more about it [here](https://www.inquirer.com/eagles/eagles-cowboys-predictions-week-9-20231103.html).
 
 ## Requirements
 - Python 3.8
