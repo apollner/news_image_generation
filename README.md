@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles Clippers hold introductory press conference for newly acquired James Harden**
+**Health department announces Indiana's first 2 flu-related deaths of the season**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zJOTKZZXjb4).
+You can read more about it [here](https://www.wlky.com/article/indiana-flu-related-deaths-2023/45725850).
 
 ## Requirements
 - Python 3.8
