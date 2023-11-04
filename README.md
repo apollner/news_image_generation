@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA telescope reveals 7 new planets orbiting distant star "hotter than the sun"**
+**Former head of NASA’s climate group issues dire warning on warming**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-telescope-reveals-new-planets-kepler/).
+You can read more about it [here](https://insideclimatenews.org/news/02112023/study-warns-of-spike-of-warming-divides-climate-scientists/).
 
 ## Requirements
 - Python 3.8
