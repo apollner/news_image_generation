@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why OLED monitor burn-in isn’t a huge problem anymore**
+**NFL Week 9 picks, schedule, odds, injuries, fantasy tips - ESPN**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38788608/nfl-week-9-picks-schedule-fantasy-football-odds-injuries-stats-2023).
 
 ## Requirements
 - Python 3.8
