@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House approves GOP’s $14.3 billion Israel aid package**
+**House passes resolution disavowing antisemitism, support for Hamas on campuses**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvNDI5MDc4Ny1ob3VzZS1wYXNzZXMtaXNyYWVsLWFpZC1wYWNrYWdlL9IBT2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvNDI5MDc4Ny1ob3VzZS1wYXNzZXMtaXNyYWVsLWFpZC1wYWNrYWdlL2FtcC8?oc=5).
+You can read more about it [here](https://www.politico.com/news/2023/11/02/house-antisemitism-hamas-college-campuses-00125135).
 
 ## Requirements
 - Python 3.8
