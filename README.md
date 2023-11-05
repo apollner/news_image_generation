@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Amazon founder Jeff Bezos' move from Seattle has to do with taxes**
+**Former crypto mogul Sam Bankman-Fried facing 110 years in prison**
 
-You can read more about it [here](https://www.seattletimes.com/business/what-amazon-founder-jeff-bezos-move-from-seattle-has-to-do-with-taxes/).
+You can read more about it [here](https://www.youtube.com/watch?v=WgKDkduJYNw).
 
 ## Requirements
 - Python 3.8
