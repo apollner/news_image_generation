@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 7 Texas vs. No. 23 Kansas State live updates: AD Mitchell catches 37-yard TD pass for 7-0 lead**
+**Israeli strikes kill multiple civilians at shelters in Gaza combat zone, as Blinken seeks more aid**
 
-You can read more about it [here](https://www.burntorangenation.com/2023/11/4/23946220/texas-longhorns-kansas-state-wildcats-live-updates-scores-injuries).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-gaza-news-11-4-2023-baf5a858e29aa6a4b8100e3afc5afdf2).
 
 ## Requirements
 - Python 3.8
