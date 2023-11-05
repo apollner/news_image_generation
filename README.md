@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Drug for Super Gonorrhea Looks to Be on the Way**
+**Nepal earthquake kills at least 69**
 
-You can read more about it [here](https://gizmodo.com/drug-to-treat-super-gonorrhea-zoliflodacin-1850991016).
+You can read more about it [here](https://www.reuters.com/business/environment/nepal-hit-by-64-earthquake-felt-new-delhi-2023-11-03/).
 
 ## Requirements
 - Python 3.8
