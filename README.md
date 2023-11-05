@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Militants attack air force base in central Pakistan**
+**Judge orders anonymous jury for E. Jean Carroll case against Trump**
 
-You can read more about it [here](https://www.jpost.com/breaking-news/article-771638).
+You can read more about it [here](https://abcnews.go.com/Politics/judge-orders-anonymous-jury-jean-carroll-case-trump/story?id=104621651).
 
 ## Requirements
 - Python 3.8
