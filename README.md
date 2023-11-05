@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Call of Duty: Modern Warfare 3's First PS5, PS4 Campaign Review Is a Massacre**
+**Steph Curry, Chris Paul graded in Warriors win vs. Thunder**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/11/call-of-duty-modern-warfare-3s-first-ps5-ps4-campaign-review-is-a-massacre).
+You can read more about it [here](https://www.goldenstateofmind.com/2023/11/3/23945874/warriors-thunder-grades-steph-curry-klay-thompson-chris-paul-andrew-wiggins-draymond-green).
 
 ## Requirements
 - Python 3.8
