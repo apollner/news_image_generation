@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Bankman-Fried faces over 100 years in prison at sentencing. Experts weigh in on how much time he'll actually get**
+**Live updates: Israel-Hamas war, Gaza crisis, Blinken's Middle East visit**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/04/sam-bankman-fried-sentence-could-be-100-plus-years-or-mere-decades.html).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-04-23/index.html).
 
 ## Requirements
 - Python 3.8
