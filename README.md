@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 workers are dead after an 11-story building collapsed in Kentucky, governor says**
+**Israel resists US pressure to pause the war to allow more aid to Gaza, wants hostages back first**
 
-You can read more about it [here](https://www.cnn.com/2023/11/03/us/kentucky-building-collapse-death/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-gaza-news-11-3-2023-94d5d0b58bc10a14be6ac191060e47e1).
 
 ## Requirements
 - Python 3.8
