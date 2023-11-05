@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tlaib asserts Biden is ‘supporting genocide’ in Gaza**
+**Musk's xAI set to launch first AI model to select group**
 
-You can read more about it [here](https://thehill.com/homenews/house/4293191-tlaib-asserts-biden-is-supporting-genocide-in-gaza/).
+You can read more about it [here](https://www.reuters.com/technology/musks-xai-set-launch-first-ai-model-select-group-2023-11-03/).
 
 ## Requirements
 - Python 3.8
