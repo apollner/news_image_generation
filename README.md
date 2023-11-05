@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Connor Stalions, Michigan football staffer at center of sign-stealing scandal, resigns**
+**What Amazon founder Jeff Bezos' move from Seattle has to do with taxes**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/bigten/2023/11/03/michigan-fires-football-staffer-connor-stalions-sign-stealing-scandal/71444251007/).
+You can read more about it [here](https://www.seattletimes.com/business/what-amazon-founder-jeff-bezos-move-from-seattle-has-to-do-with-taxes/).
 
 ## Requirements
 - Python 3.8
