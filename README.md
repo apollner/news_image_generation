@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WoW Classic: Cataclysm Classic Announced at BlizzCon — World of Warcraft — Blizzard News**
+**Alabama chicken farm quarantined, 48,000 birds killed after highly pathogenic avian flu detected**
 
-You can read more about it [here](https://news.blizzard.com/en-us/world-of-warcraft/24023092/wow-classic-cataclysm-classic-announced-at-blizzcon).
+You can read more about it [here](https://www.al.com/news/huntsville/2023/11/alabama-chicken-farm-quarantined-48000-birds-killed-after-highly-pathogenic-avian-flu-detected.html).
 
 ## Requirements
 - Python 3.8
