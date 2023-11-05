@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk's xAI set to launch first AI model to select group**
+**Call of Duty: Modern Warfare 3's First PS5, PS4 Campaign Review Is a Massacre**
 
-You can read more about it [here](https://www.reuters.com/technology/musks-xai-set-launch-first-ai-model-select-group-2023-11-03/).
+You can read more about it [here](https://www.pushsquare.com/news/2023/11/call-of-duty-modern-warfare-3s-first-ps5-ps4-campaign-review-is-a-massacre).
 
 ## Requirements
 - Python 3.8
