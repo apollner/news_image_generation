@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11-year-old dead, 5 injured after shooting in Cincinnati: Police**
+**Box Office: ‘Five Nights at Freddy’s’ Fending Off New Releases in Quiet Weekend**
 
-You can read more about it [here](https://abcnews.go.com/US/1-dead-5-injured-after-shooting-cincinnati-police/story?id=104625800).
+You can read more about it [here](https://variety.com/2023/film/box-office/box-office-five-nights-at-freddys-second-weekend-priscilla-expansion-1235779985/).
 
 ## Requirements
 - Python 3.8
