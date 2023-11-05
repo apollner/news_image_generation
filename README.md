@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former crypto mogul Sam Bankman-Fried facing 110 years in prison**
+**Tlaib asserts Biden is ‘supporting genocide’ in Gaza**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WgKDkduJYNw).
+You can read more about it [here](https://thehill.com/homenews/house/4293191-tlaib-asserts-biden-is-supporting-genocide-in-gaza/).
 
 ## Requirements
 - Python 3.8
