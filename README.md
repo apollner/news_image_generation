@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11-year-old dead, 5 injured after shooting in Cincinnati: Police**
+**Crisis in Gaza as Israel warns of long war with Hamas: Live updates**
 
-You can read more about it [here](https://abcnews.go.com/US/1-dead-5-injured-after-shooting-cincinnati-police/story?id=104625800).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-04-23/index.html).
 
 ## Requirements
 - Python 3.8
