@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Appeals court puts hold on Trump gag order in federal election case**
+**US shifts focus on Gaza to what follows an end to the war**
 
-You can read more about it [here](https://www.axios.com/2023/11/03/trump-gag-order-federal-election-case-hold).
+You can read more about it [here](https://www.ft.com/content/2bc594a3-84b9-4311-ab78-383900059a0d).
 
 ## Requirements
 - Python 3.8
