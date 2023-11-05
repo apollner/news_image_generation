@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel resists US pressure to pause the war to allow more aid to Gaza, wants hostages back first**
+**WoW Classic: Cataclysm Classic Announced at BlizzCon — World of Warcraft — Blizzard News**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-gaza-news-11-3-2023-94d5d0b58bc10a14be6ac191060e47e1).
+You can read more about it [here](https://news.blizzard.com/en-us/world-of-warcraft/24023092/wow-classic-cataclysm-classic-announced-at-blizzcon).
 
 ## Requirements
 - Python 3.8
