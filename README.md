@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Until Saturday Week 10 college football predictions: LSU-Alabama, Kansas State-Texas, Missouri-Georgia and more**
+**Nepal earthquake kills at least 128, toll could rise, officials say**
 
-You can read more about it [here](https://theathletic.com/5028586/2023/11/03/until-saturday-week-10-college-football-predictions-lsu-alabama-kansas-state-texas-missouri-georgia/).
+You can read more about it [here](https://www.reuters.com/business/environment/nepal-hit-by-64-earthquake-felt-new-delhi-2023-11-03/).
 
 ## Requirements
 - Python 3.8
