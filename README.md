@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Five Nights at Freddy’s’ Fending Off New Releases in Quiet Weekend**
+**I’m scared of next-gen Nvidia GPUs, and you should be too**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/box-office-five-nights-at-freddys-second-weekend-priscilla-expansion-1235779985/).
+You can read more about it [here](https://www.digitaltrends.com/computing/why-im-afraid-of-next-gen-nvidia-gpus/).
 
 ## Requirements
 - Python 3.8
