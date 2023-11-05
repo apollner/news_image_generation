@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly quake strikes Nepal, toppling homes and killing at least 157 people**
+**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 10**
 
-You can read more about it [here](https://www.cnn.com/2023/11/03/asia/nepal-earthquake-northwest-hnk-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-10/).
 
 ## Requirements
 - Python 3.8
