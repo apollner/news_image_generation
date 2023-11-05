@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war updates: IDF strikes ambulances near Gaza hospital, saying Hamas used them; Netanyahu rejects cease-fire before hostage release**
+**Militants attack air force base in central Pakistan**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/03/israel-hamas-war-live-updates-.html).
+You can read more about it [here](https://www.jpost.com/breaking-news/article-771638).
 
 ## Requirements
 - Python 3.8
