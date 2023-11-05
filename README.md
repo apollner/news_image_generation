@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tlaib accuses Biden of supporting 'genocide' of Palestinians, warns: 'We will remember in 2024'**
+**Until Saturday Week 10 college football predictions: LSU-Alabama, Kansas State-Texas, Missouri-Georgia and more**
 
-You can read more about it [here](https://www.foxnews.com/media/tlaib-accuses-biden-supporting-genocide-palestinians-warns-remember-2024).
+You can read more about it [here](https://theathletic.com/5028586/2023/11/03/until-saturday-week-10-college-football-predictions-lsu-alabama-kansas-state-texas-missouri-georgia/).
 
 ## Requirements
 - Python 3.8
