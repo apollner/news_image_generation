@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nepal earthquake kills at least 69**
+**2 workers are dead after an 11-story building collapsed in Kentucky, governor says**
 
-You can read more about it [here](https://www.reuters.com/business/environment/nepal-hit-by-64-earthquake-felt-new-delhi-2023-11-03/).
+You can read more about it [here](https://www.cnn.com/2023/11/03/us/kentucky-building-collapse-death/index.html).
 
 ## Requirements
 - Python 3.8
