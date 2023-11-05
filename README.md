@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge orders anonymous jury for E. Jean Carroll case against Trump**
+**Connor Stalions, Michigan football staffer at center of sign-stealing scandal, resigns**
 
-You can read more about it [here](https://abcnews.go.com/Politics/judge-orders-anonymous-jury-jean-carroll-case-trump/story?id=104621651).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/bigten/2023/11/03/michigan-fires-football-staffer-connor-stalions-sign-stealing-scandal/71444251007/).
 
 ## Requirements
 - Python 3.8
