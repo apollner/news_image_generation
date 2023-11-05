@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Guinea dictator Camara escapes from prison in jailbreak, justice minister says**
+**Matthew Perry’s family and friends attend late actor's funeral | 9 News Australia**
 
-You can read more about it [here](https://www.france24.com/en/africa/20231104-former-guinea-dictator-camara-escapes-from-prison-in-jailbreak-justice-minister-says).
+You can read more about it [here](https://www.youtube.com/watch?v=fyXRlST_gS4).
 
 ## Requirements
 - Python 3.8
