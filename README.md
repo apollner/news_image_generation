@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. cities consider banning "right on red" laws amid rise in pedestrian deaths**
+**Deadly quake strikes Nepal, toppling homes and killing at least 157 people**
 
-You can read more about it [here](https://www.cbsnews.com/news/pedestrian-deaths-right-on-red-ban/).
+You can read more about it [here](https://www.cnn.com/2023/11/03/asia/nepal-earthquake-northwest-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
