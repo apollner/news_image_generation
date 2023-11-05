@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry’s family and friends attend late actor's funeral | 9 News Australia**
+**Sam Bankman-Fried faces over 100 years in prison at sentencing. Experts weigh in on how much time he'll actually get**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fyXRlST_gS4).
+You can read more about it [here](https://www.cnbc.com/2023/11/04/sam-bankman-fried-sentence-could-be-100-plus-years-or-mere-decades.html).
 
 ## Requirements
 - Python 3.8
