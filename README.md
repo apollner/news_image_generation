@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court agrees to review gun-rights challenge to bump stock ban**
+**Israel strikes ambulance at Al-Shifa Hospital in Gaza City**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/03/bump-stocks-supreme-court-trump-ban/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/03/gaza-workers-expelled-israel-palestinian/).
 
 ## Requirements
 - Python 3.8
