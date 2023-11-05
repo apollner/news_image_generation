@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Militants attack air force base in central Pakistan**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.jpost.com/breaking-news/article-771638).
 
 ## Requirements
 - Python 3.8
