@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christie, Hutchinson get a stormy reception at Florida voter summit**
+**Video: Logan Paul uses brass knuckles to win U.S. title at WWE Crown Jewel**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/04/christie-hutchinson-florida-voters-00125396).
+You can read more about it [here](https://www.mmafighting.com/2023/11/4/23946516/video-logan-paul-uses-brass-knuckles-to-win-u-s-title-at-wwe-crown-jewel).
 
 ## Requirements
 - Python 3.8
