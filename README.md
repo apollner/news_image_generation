@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama chicken farm quarantined, 48,000 birds killed after highly pathogenic avian flu detected**
+**College football picks, schedule: Predictions against the spread, odds, top 25 games in Week 10**
 
-You can read more about it [here](https://www.al.com/news/huntsville/2023/11/alabama-chicken-farm-quarantined-48000-birds-killed-after-highly-pathogenic-avian-flu-detected.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-top-25-games-in-week-10/).
 
 ## Requirements
 - Python 3.8
