@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry, Chris Paul graded in Warriors win vs. Thunder**
+**Former Guinea dictator Camara escapes from prison in jailbreak, justice minister says**
 
-You can read more about it [here](https://www.goldenstateofmind.com/2023/11/3/23945874/warriors-thunder-grades-steph-curry-klay-thompson-chris-paul-andrew-wiggins-draymond-green).
+You can read more about it [here](https://www.france24.com/en/africa/20231104-former-guinea-dictator-camara-escapes-from-prison-in-jailbreak-justice-minister-says).
 
 ## Requirements
 - Python 3.8
