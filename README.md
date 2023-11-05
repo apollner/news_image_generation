@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden under pressure from within his own party to use leverage on Israel**
+**A Drug for Super Gonorrhea Looks to Be on the Way**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/03/israel-hamas-war-humanitarian-democrats-00125332).
+You can read more about it [here](https://gizmodo.com/drug-to-treat-super-gonorrhea-zoliflodacin-1850991016).
 
 ## Requirements
 - Python 3.8
