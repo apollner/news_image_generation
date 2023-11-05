@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crisis in Gaza as Israel warns of long war with Hamas: Live updates**
+**U.S. cities consider banning "right on red" laws amid rise in pedestrian deaths**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-04-23/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/pedestrian-deaths-right-on-red-ban/).
 
 ## Requirements
 - Python 3.8
