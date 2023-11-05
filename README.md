@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I’m scared of next-gen Nvidia GPUs, and you should be too**
+**11-year-old dead, 5 injured after shooting in Cincinnati: Police**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/why-im-afraid-of-next-gen-nvidia-gpus/).
+You can read more about it [here](https://abcnews.go.com/US/1-dead-5-injured-after-shooting-cincinnati-police/story?id=104625800).
 
 ## Requirements
 - Python 3.8
