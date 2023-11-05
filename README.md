@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel strikes ambulance at Al-Shifa Hospital in Gaza City**
+**Nepal earthquake kills at least 128, toll could rise, officials say**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/11/03/gaza-workers-expelled-israel-palestinian/).
+You can read more about it [here](https://www.reuters.com/business/environment/nepal-hit-by-64-earthquake-felt-new-delhi-2023-11-03/).
 
 ## Requirements
 - Python 3.8
