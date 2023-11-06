@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Nobody's hands are clean': Obama urges reflection amid Israel-Hamas conflict**
+**Brittany Mahomes dines with Taylor Swift in New York while Chiefs are in Germany**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/04/obama-all-of-us-are-complicit-00125395).
+You can read more about it [here](https://www.kansascity.com/news/local/article281444838.html).
 
 ## Requirements
 - Python 3.8
