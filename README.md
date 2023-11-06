@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine hits shipyard in Crimea's Kerch, damages ship, Russian defence ministry says**
+**Deadly quake strikes Nepal, toppling homes and killing at least 157 people**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukraine-hits-shipyard-crimeas-kerch-damages-ship-russian-defence-ministry-2023-11-04/).
+You can read more about it [here](https://www.cnn.com/2023/11/03/asia/nepal-earthquake-northwest-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
