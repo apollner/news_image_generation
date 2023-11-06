@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seattle Seahawks vs. Baltimore Ravens Game Highlights | NFL 2023 Week 9**
+**Should you be drinking lemon water everyday? Experts weigh in**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KcnOuQMxN4E).
+You can read more about it [here](https://nypost.com/2023/11/05/lifestyle/should-you-be-drinking-lemon-water-everyday-experts-weigh-in/).
 
 ## Requirements
 - Python 3.8
