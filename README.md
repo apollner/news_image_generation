@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hostage situation at Germany's Hamburg airport - police**
+**Jalen Milroe SNAGS 4 Rush TDs, as Alabama ROLLS over LSU | Game Recaps | CBS Sports**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67324726).
+You can read more about it [here](https://www.youtube.com/watch?v=MhtQ9nEpKv0).
 
 ## Requirements
 - Python 3.8
