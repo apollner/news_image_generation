@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump leads in 2024 polls as fears over war and economy hurt Biden**
+**Muslim Stanford student injured in suspected hate crime hit-and-run**
 
-You can read more about it [here](https://www.ft.com/content/40d7e543-dc96-47f8-b673-4ce4bbc60f26).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/muslim-stanford-student-injured-suspected-hate-crime-hit-run/).
 
 ## Requirements
 - Python 3.8
