@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in US**
+**Hostage situation at Germany's Hamburg airport - police**
 
-You can read more about it [here](https://jamaica-gleaner.com/article/world-news/20231104/california-officials-confirm-2-cases-dengue-mosquito-borne-illness).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67324726).
 
 ## Requirements
 - Python 3.8
