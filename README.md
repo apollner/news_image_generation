@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 300 Americans got out of Gaza, more remain, White House says**
+**These are some of the strange objects that get stuck in people's bodies, according to CDC data**
 
-You can read more about it [here](https://news.yahoo.com/more-300-americans-got-gaza-142220832.html).
+You can read more about it [here](https://www.foxnews.com/health/strange-objects-stuck-peoples-bodies-cdc-data).
 
 ## Requirements
 - Python 3.8
