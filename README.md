@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Biden, you can't hide': Tens of thousands march in US for Gaza ceasefire**
+**Israel-Hamas war: Live updates and latest news**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/biden-you-cant-hide-thousands-rally-in-washington-for-gaza-ceasefire).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-live-updates-11-4-2023-5f45787afc214e279f2ec4b160b7a910).
 
 ## Requirements
 - Python 3.8
