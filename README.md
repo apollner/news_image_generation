@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott: 'Obama is dead wrong' on Israel-Hamas conflict**
+**Ukraine hits shipyard in Crimea's Kerch, damages ship, Russian defence ministry says**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/04/tim-scott-obama-israel-hamas-00125401).
+You can read more about it [here](https://www.reuters.com/world/europe/ukraine-hits-shipyard-crimeas-kerch-damages-ship-russian-defence-ministry-2023-11-04/).
 
 ## Requirements
 - Python 3.8
