@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can vaccines, monoclonal antibodies help curb addiction and overdoses?**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/04/opioid-fentanyl-vaccine-antibody/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
