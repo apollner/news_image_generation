@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Live updates and latest news**
+**Ukraine military says it hit Zalyv shipyard in Russian-annexed Crimea**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-live-updates-11-4-2023-5f45787afc214e279f2ec4b160b7a910).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/4/ukraine-military-says-it-hit-zalyv-shipyard-in-port-city-of-kerch-crimea).
 
 ## Requirements
 - Python 3.8
