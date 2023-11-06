@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is hybrid work the new normal?**
+**Ukrainian missile strike on shipyard in Crimea damages Russian ship**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vHjhEIYN20s).
+You can read more about it [here](https://www.politico.com/news/2023/11/05/ukrainian-missile-strike-on-shipyard-in-crimea-damages-russian-ship-00125408).
 
 ## Requirements
 - Python 3.8
