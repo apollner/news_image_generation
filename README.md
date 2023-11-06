@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's new nuclear submarine test launches Bulava intercontinental missile**
+**Trump takes aim at DeSantis at Florida GOP summit**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russias-new-nuclear-submarine-test-launches-bulava-missile-white-sea-2023-11-05/).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-ron-desantis-florida-republican-summit/).
 
 ## Requirements
 - Python 3.8
