@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brittany Mahomes dines with Taylor Swift in New York while Chiefs are in Germany**
+**Deadly quake strikes Nepal, toppling homes and killing at least 157 people**
 
-You can read more about it [here](https://www.kansascity.com/news/local/article281444838.html).
+You can read more about it [here](https://www.cnn.com/2023/11/03/asia/nepal-earthquake-northwest-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
