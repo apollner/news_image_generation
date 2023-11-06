@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LSU vs. Alabama highlights: Top moments from Crimson Tide's victory**
+**Southern Taurid meteor shower: See fireballs in the sky when it peaks this weekend**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/04/lsu-alabama-college-football-highlights-scores-live-updates/71440771007/).
+You can read more about it [here](https://www.cnn.com/2023/11/05/world/southern-taurid-meteor-shower-november-fireball-scn/index.html).
 
 ## Requirements
 - Python 3.8
