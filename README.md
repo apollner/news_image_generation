@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M3 Pro Chip Barely Faster Than M2 Pro in Unverified Benchmark Result**
+**LSU vs. Alabama highlights: Top moments from Crimson Tide's victory**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/05/m3-pro-chip-benchmark-result/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/04/lsu-alabama-college-football-highlights-scores-live-updates/71440771007/).
 
 ## Requirements
 - Python 3.8
