@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Milroe SNAGS 4 Rush TDs, as Alabama ROLLS over LSU | Game Recaps | CBS Sports**
+**ESPN 2023 College Football Power Rankings after Week 10**
 
-You can read more about it [here](https://www.youtube.com/watch?v=MhtQ9nEpKv0).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38809794/espn-2023-college-football-power-rankings-week-10).
 
 ## Requirements
 - Python 3.8
