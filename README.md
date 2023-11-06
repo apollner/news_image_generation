@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After a $1.8 billion verdict, the clock is ticking on the 6% real estate commission**
+**Israel minister suspended after calling nuking Gaza an option**
 
-You can read more about it [here](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html).
+You can read more about it [here](https://www.politico.eu/article/israel-minister-amichai-eliyahu-suspend-benjamin-netanyahu-nuclear-bomb-gaza-hamas-war/).
 
 ## Requirements
 - Python 3.8
