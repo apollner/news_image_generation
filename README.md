@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly quake strikes Nepal, toppling homes and killing at least 157 people**
+**Scott: 'Obama is dead wrong' on Israel-Hamas conflict**
 
-You can read more about it [here](https://www.cnn.com/2023/11/03/asia/nepal-earthquake-northwest-hnk-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/04/tim-scott-obama-israel-hamas-00125401).
 
 ## Requirements
 - Python 3.8
