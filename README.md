@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Should you be drinking lemon water everyday? Experts weigh in**
+**Muslim Stanford student injured in suspected hate crime hit-and-run**
 
-You can read more about it [here](https://nypost.com/2023/11/05/lifestyle/should-you-be-drinking-lemon-water-everyday-experts-weigh-in/).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/muslim-stanford-student-injured-suspected-hate-crime-hit-run/).
 
 ## Requirements
 - Python 3.8
