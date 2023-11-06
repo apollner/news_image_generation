@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muslim Stanford student injured in suspected hate crime hit-and-run**
+**Katy Perry's partner Orlando Bloom, daughter Daisy attend Vegas finale**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/muslim-stanford-student-injured-suspected-hate-crime-hit-run/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/11/05/katy-perry-vegas-residency-finale-show/71466930007/).
 
 ## Requirements
 - Python 3.8
