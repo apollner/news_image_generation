@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry buried alongside Paul Walker, Carrie Fisher at famous cemetery**
+**Trump leads in 2024 polls as fears over war and economy hurt Biden**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/tv/matthew-perry-buried-alongside-paul-walker-carrie-fisher-at-famous-hollywood-cemetery-101699186662244.html).
+You can read more about it [here](https://www.ft.com/content/40d7e543-dc96-47f8-b673-4ce4bbc60f26).
 
 ## Requirements
 - Python 3.8
