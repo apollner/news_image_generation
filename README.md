@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southern Taurid meteor shower: See fireballs in the sky when it peaks this weekend**
+**Russia's new nuclear submarine test launches Bulava intercontinental missile**
 
-You can read more about it [here](https://www.cnn.com/2023/11/05/world/southern-taurid-meteor-shower-november-fireball-scn/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/russias-new-nuclear-submarine-test-launches-bulava-missile-white-sea-2023-11-05/).
 
 ## Requirements
 - Python 3.8
