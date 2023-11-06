@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Logan Paul uses brass knuckles to win U.S. title at WWE Crown Jewel**
+**'Nobody's hands are clean': Obama urges reflection amid Israel-Hamas conflict**
 
-You can read more about it [here](https://www.mmafighting.com/2023/11/4/23946516/video-logan-paul-uses-brass-knuckles-to-win-u-s-title-at-wwe-crown-jewel).
+You can read more about it [here](https://www.politico.com/news/2023/11/04/obama-all-of-us-are-complicit-00125395).
 
 ## Requirements
 - Python 3.8
