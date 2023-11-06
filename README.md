@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D.C.-area forecast: A sunny and mild Sunday afternoon as dry spell continues**
+**After a $1.8 billion verdict, the clock is ticking on the 6% real estate commission**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/05/dc-area-forecast-mild-sunday-afternoon/).
+You can read more about it [here](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html).
 
 ## Requirements
 - Python 3.8
