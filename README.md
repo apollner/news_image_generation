@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple starters injured in Alabama's win over LSU, Saban unsure of severity - al.com**
+**M3 Pro Chip Barely Faster Than M2 Pro in Unverified Benchmark Result**
 
-You can read more about it [here](https://www.al.com/alabamafootball/2023/11/multiple-starters-injured-in-alabamas-win-over-lsu-saban-unsure-of-severity.html).
+You can read more about it [here](https://www.macrumors.com/2023/11/05/m3-pro-chip-benchmark-result/).
 
 ## Requirements
 - Python 3.8
