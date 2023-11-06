@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly quake strikes Nepal, toppling homes and killing at least 157 people**
+**Thousands of pro-Palestinian marchers descend upon WH chanting 'Allahu akbar,' 'F--k Joe Biden' as they demand ceasefire**
 
-You can read more about it [here](https://www.cnn.com/2023/11/03/asia/nepal-earthquake-northwest-hnk-intl/index.html).
+You can read more about it [here](https://nypost.com/2023/11/04/news/pro-palestinian-marchers-flood-dc-say-racist-state-israel-does-not-have-the-right-to-exist-long-live-the-intifada/).
 
 ## Requirements
 - Python 3.8
