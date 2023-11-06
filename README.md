@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Epic v. Google, explained: why we’re going back to Fortnite court again**
+**S.Korea to re-impose stock short-selling ban through June to 'level playing field'**
 
-You can read more about it [here](https://www.theverge.com/23944251/epic-google-antitrust-trial-explainer-monopoly).
+You can read more about it [here](https://www.reuters.com/markets/asia/skorea-ban-all-stock-short-selling-through-june-2024-2023-11-05/).
 
 ## Requirements
 - Python 3.8
