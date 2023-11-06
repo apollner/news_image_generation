@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S.Korea to re-impose stock short-selling ban through June to 'level playing field'**
+**D.C.-area forecast: A sunny and mild Sunday afternoon as dry spell continues**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/skorea-ban-all-stock-short-selling-through-june-2024-2023-11-05/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/05/dc-area-forecast-mild-sunday-afternoon/).
 
 ## Requirements
 - Python 3.8
