@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Human skull found for sale in Florida thrift store’s Halloween section**
+**More than 300 Americans got out of Gaza, more remain, White House says**
 
-You can read more about it [here](https://www.wfla.com/news/florida/florida-anthropologist-finds-real-skull-for-sale-in-thrift-stores-halloween-section/).
+You can read more about it [here](https://news.yahoo.com/more-300-americans-got-gaza-142220832.html).
 
 ## Requirements
 - Python 3.8
