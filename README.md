@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel minister suspended after calling nuking Gaza an option**
+**Afghan opium poppy cultivation plunges by 95 percent under Taliban: UN**
 
-You can read more about it [here](https://www.politico.eu/article/israel-minister-amichai-eliyahu-suspend-benjamin-netanyahu-nuclear-bomb-gaza-hamas-war/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/afghan-opium-poppy-cultivation-plunges-by-95-percent-under-taliban-un).
 
 ## Requirements
 - Python 3.8
