@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine military says it hit Zalyv shipyard in Russian-annexed Crimea**
+**Multiple starters injured in Alabama's win over LSU, Saban unsure of severity - al.com**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/4/ukraine-military-says-it-hit-zalyv-shipyard-in-port-city-of-kerch-crimea).
+You can read more about it [here](https://www.al.com/alabamafootball/2023/11/multiple-starters-injured-in-alabamas-win-over-lsu-saban-unsure-of-severity.html).
 
 ## Requirements
 - Python 3.8
