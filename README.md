@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ESPN 2023 College Football Power Rankings after Week 10**
+**'Biden, you can't hide': Tens of thousands march in US for Gaza ceasefire**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38809794/espn-2023-college-football-power-rankings-week-10).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/biden-you-cant-hide-thousands-rally-in-washington-for-gaza-ceasefire).
 
 ## Requirements
 - Python 3.8
