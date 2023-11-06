@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian missile strike on shipyard in Crimea damages Russian ship**
+**Can vaccines, monoclonal antibodies help curb addiction and overdoses?**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/05/ukrainian-missile-strike-on-shipyard-in-crimea-damages-russian-ship-00125408).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/04/opioid-fentanyl-vaccine-antibody/).
 
 ## Requirements
 - Python 3.8
