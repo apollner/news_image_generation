@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These are some of the strange objects that get stuck in people's bodies, according to CDC data**
+**Seattle Seahawks vs. Baltimore Ravens Game Highlights | NFL 2023 Week 9**
 
-You can read more about it [here](https://www.foxnews.com/health/strange-objects-stuck-peoples-bodies-cdc-data).
+You can read more about it [here](https://www.youtube.com/watch?v=KcnOuQMxN4E).
 
 ## Requirements
 - Python 3.8
