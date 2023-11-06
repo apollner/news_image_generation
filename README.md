@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghan opium poppy cultivation plunges by 95 percent under Taliban: UN**
+**Is hybrid work the new normal?**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/5/afghan-opium-poppy-cultivation-plunges-by-95-percent-under-taliban-un).
+You can read more about it [here](https://www.youtube.com/watch?v=vHjhEIYN20s).
 
 ## Requirements
 - Python 3.8
