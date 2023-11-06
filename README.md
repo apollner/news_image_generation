@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muslim Stanford student injured in suspected hate crime hit-and-run**
+**Human skull found for sale in Florida thrift store’s Halloween section**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/muslim-stanford-student-injured-suspected-hate-crime-hit-run/).
+You can read more about it [here](https://www.wfla.com/news/florida/florida-anthropologist-finds-real-skull-for-sale-in-thrift-stores-halloween-section/).
 
 ## Requirements
 - Python 3.8
