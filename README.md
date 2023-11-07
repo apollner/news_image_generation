@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Probe Discovers a Hidden Surprise During Asteroid Flyby**
+**2 Stocks Warren Buffett Is Selling and the 1 Surprising Stock He Can't Stop Buying**
 
-You can read more about it [here](https://www.sciencealert.com/nasa-probe-discovers-a-hidden-surprise-during-asteroid-flyby).
+You can read more about it [here](https://www.fool.com/investing/2023/11/06/2-stocks-warren-buffett-selling-1-cant-stop-buying/).
 
 ## Requirements
 - Python 3.8
