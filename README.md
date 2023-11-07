@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Apple MacBook Pro 14-inch and 16-inch review (2023): An M3 chip for every situation**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.engadget.com/macbook-pro-14-inch-and-16-inch-review-an-m3-chip-for-every-situation-140048075.html).
 
 ## Requirements
 - Python 3.8
