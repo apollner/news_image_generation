@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu faces rising anger from within Israel after Hamas attack**
+**Live news: Disney names PepsiCo executive Hugh Johnston as new CFO**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-netanyahu-faces-rising-domestic-anger/).
+You can read more about it [here](https://www.ft.com/content/69ca6773-d0ce-4420-b864-00c3202c0d1b).
 
 ## Requirements
 - Python 3.8
