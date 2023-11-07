@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy invites Trump to visit Ukraine, saying ending war is not so easy**
+**2023 LACMA Art + Film Gala: Kim Kardashian, Jennifer Lopez & More Stars Hit the Carpet! (Pics)**
 
-You can read more about it [here](https://delivery.tribunecontentagency.com/preview/202311052051MCT_____NEWS_SVC_24454_knign).
+You can read more about it [here](https://www.etonline.com/gallery/2023-lacma-art-film-gala-kim-kardashian-jennifer-lopez-more-stars-hit-the-carpet-214271?utm_content=ETOnline%2Fmagazine%2FPhotos&utm_source=flipboard).
 
 ## Requirements
 - Python 3.8
