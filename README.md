@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Lights may be visible in DC area Sunday night**
+**NASA surprised to discover 'dinky' moon orbiting asteroid in close flyby**
 
-You can read more about it [here](https://wtop.com/the-space-place/2023/11/northern-lights-may-be-visible-in-dc-area-sunday-night/).
+You can read more about it [here](https://www.foxnews.com/science/nasa-surprised-discover-dinky-moon-orbiting-asteroid-close-flyby).
 
 ## Requirements
 - Python 3.8
