@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katy Perry's partner Orlando Bloom, daughter Daisy attend Vegas finale**
+**Likely human skull found in Halloween section of Florida thrift store**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/11/05/katy-perry-vegas-residency-finale-show/71466930007/).
+You can read more about it [here](https://www.cbsnews.com/news/human-skull-found-in-halloween-section-thrift-store-north-fort-myers-florida/).
 
 ## Requirements
 - Python 3.8
