@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys-Eagles takeaways: Dallas falls short in NFC East thriller**
+**Asia shares cheered by hopes of early rate cuts**
 
-You can read more about it [here](https://www.dallasnews.com/sports/cowboys/2023/11/05/5-cowboys-eagles-takeaways-dallas-falls-short-in-nfc-east-thriller-that-raises-questions/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-06/).
 
 ## Requirements
 - Python 3.8
