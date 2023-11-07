@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk debuts 'rebellious' Grok AI to challenge ChatGPT**
+**Cowboys-Eagles takeaways: Dallas falls short in NFC East thriller**
 
-You can read more about it [here](https://finance.yahoo.com/news/elon-musk-debuts-rebellious-grok-015320778.html).
+You can read more about it [here](https://www.dallasnews.com/sports/cowboys/2023/11/05/5-cowboys-eagles-takeaways-dallas-falls-short-in-nfc-east-thriller-that-raises-questions/).
 
 ## Requirements
 - Python 3.8
