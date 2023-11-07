@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Initial fear is Giants' Daniel Jones has torn ACL - ESPN**
+**Zelenskyy invites Trump to visit Ukraine, saying ending war is not so easy**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38827558/giants-qb-daniel-jones-ruled-exiting-first-half).
+You can read more about it [here](https://delivery.tribunecontentagency.com/preview/202311052051MCT_____NEWS_SVC_24454_knign).
 
 ## Requirements
 - Python 3.8
