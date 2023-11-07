@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA surprised to discover 'dinky' moon orbiting asteroid in close flyby**
+**Sunday Night Football: Joe Burrow passes for 348 yards as Bengals beat Bills 24-18**
 
-You can read more about it [here](https://www.foxnews.com/science/nasa-surprised-discover-dinky-moon-orbiting-asteroid-close-flyby).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-joe-burrow-passes-for-348-yards-as-bengals-beat-bills-24-18).
 
 ## Requirements
 - Python 3.8
