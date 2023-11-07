@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu suspends minister who suggested dropping nuclear bomb on Gaza**
+**These are some of the strange objects that get stuck in people's bodies, according to CDC data**
 
-You can read more about it [here](https://thehill.com/policy/international/4294715-netanyahu-suspends-minister-who-suggested-dropping-nuclear-bomb-on-gaza/).
+You can read more about it [here](https://www.foxnews.com/health/strange-objects-stuck-peoples-bodies-cdc-data).
 
 ## Requirements
 - Python 3.8
