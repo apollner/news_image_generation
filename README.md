@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Donald Trump testifies in New York civil fraud trial**
+**South Carolina dominates Notre Dame in women's Paris opener**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-civil-fraud-trial-11-06-23/index.html).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/38834123/south-carolina-dominates-notre-dame-women-paris-opener).
 
 ## Requirements
 - Python 3.8
