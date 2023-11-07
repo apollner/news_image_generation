@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College basketball rankings: Kansas sits atop Top 25 And 1 as 2023-24 season tips off on Monday**
+**Gaza death toll tops 10000; UN calls it a children's graveyard**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-kansas-sits-atop-top-25-and-1-as-2023-24-season-tips-off-on-monday/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/pressure-israel-over-civilians-steps-up-ceasefire-calls-rebuffed-2023-11-06/).
 
 ## Requirements
 - Python 3.8
