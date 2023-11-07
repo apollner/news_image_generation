@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dad of Highland Park parade shooting suspect pleads guilty to reckless conduct for helping son obtain gun**
+**Donald Trump's testimony turns heated in New York civil fraud trial**
 
-You can read more about it [here](https://abcnews.go.com/US/dad-highland-park-parade-shooting-suspect-pleads-guilty/story?id=104657360).
+You can read more about it [here](https://www.ft.com/content/1c247874-bca4-408d-a539-93f5f113ce0b).
 
 ## Requirements
 - Python 3.8
