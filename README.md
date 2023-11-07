@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ant Group wins approval to release AI products to Chinese public**
+**Northern Lights may be visible in DC area Sunday night**
 
-You can read more about it [here](https://www.reuters.com/technology/ant-group-wins-approval-release-ai-products-chinese-public-2023-11-06/).
+You can read more about it [here](https://wtop.com/the-space-place/2023/11/northern-lights-may-be-visible-in-dc-area-sunday-night/).
 
 ## Requirements
 - Python 3.8
