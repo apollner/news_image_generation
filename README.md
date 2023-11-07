@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump's testimony turns heated in New York civil fraud trial**
+**College basketball rankings: Kansas sits atop Top 25 And 1 as 2023-24 season tips off on Monday**
 
-You can read more about it [here](https://www.ft.com/content/1c247874-bca4-408d-a539-93f5f113ce0b).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-kansas-sits-atop-top-25-and-1-as-2023-24-season-tips-off-on-monday/).
 
 ## Requirements
 - Python 3.8
