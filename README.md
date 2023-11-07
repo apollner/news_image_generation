@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Palestine crisis: 'Enough is enough' say UN humanitarians**
+**[Removed]**
 
-You can read more about it [here](https://news.un.org/en/story/2023/11/1143237).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
