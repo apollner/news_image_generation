@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia shares cheered by hopes of early rate cuts**
+**The Traveler: New Series Coming Soon to NASA+**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-06/).
+You can read more about it [here](https://www.youtube.com/watch?v=pGj8UOZgCgI).
 
 ## Requirements
 - Python 3.8
