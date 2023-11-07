@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers find sensitive personal data of US military personnel is for sale online**
+**Marijuana use raises risk of heart attack, heart failure and stroke, studies say**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/politics/data-of-military-personnel-for-sale-online/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/06/health/marijuana-heart-stroke-risk-wellness/index.html).
 
 ## Requirements
 - Python 3.8
