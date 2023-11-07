@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Strong geomagnetic storm brings dazzling displays of the Northern Lights this week**
+**Netanyahu faces rising anger from within Israel after Hamas attack**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/space-storm-watch-lights-november-forecast-get-to-see).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-netanyahu-faces-rising-domestic-anger/).
 
 ## Requirements
 - Python 3.8
