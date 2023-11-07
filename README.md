@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live news: Disney names PepsiCo executive Hugh Johnston as new CFO**
+**DraftKings and FanDuel Promo Code for MNF: $1,400 Jets vs Chargers Bonus**
 
-You can read more about it [here](https://www.ft.com/content/69ca6773-d0ce-4420-b864-00c3202c0d1b).
+You can read more about it [here](https://www.gamingtoday.com/news/draftkings-fanduel-sportsbook-promo-code-mnf-chargers-jets-betting-preview/).
 
 ## Requirements
 - Python 3.8
