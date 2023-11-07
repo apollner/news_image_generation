@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Likely human skull found in Halloween section of Florida thrift store**
+**Netanyahu suspends minister who suggested dropping nuclear bomb on Gaza**
 
-You can read more about it [here](https://www.cbsnews.com/news/human-skull-found-in-halloween-section-thrift-store-north-fort-myers-florida/).
+You can read more about it [here](https://thehill.com/policy/international/4294715-netanyahu-suspends-minister-who-suggested-dropping-nuclear-bomb-on-gaza/).
 
 ## Requirements
 - Python 3.8
