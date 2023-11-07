@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These are some of the strange objects that get stuck in people's bodies, according to CDC data**
+**Tyson recalls nearly 30,000 pounds of dino chicken nuggets**
 
-You can read more about it [here](https://www.foxnews.com/health/strange-objects-stuck-peoples-bodies-cdc-data).
+You can read more about it [here](https://www.cbsnews.com/news/dino-chicken-nuggets-recall-tyson-possible-contamination/).
 
 ## Requirements
 - Python 3.8
