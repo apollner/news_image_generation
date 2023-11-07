@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza death toll tops 10000; UN calls it a children's graveyard**
+**Elijah McClain's death: Officer acquitted in 2nd trial of police officers**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/pressure-israel-over-civilians-steps-up-ceasefire-calls-rebuffed-2023-11-06/).
+You can read more about it [here](https://abcnews.go.com/US/elijah-mcclain-death-jury-decision-second-trial-police/story?id=104658159).
 
 ## Requirements
 - Python 3.8
