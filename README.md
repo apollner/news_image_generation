@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Lights may be visible in DC area Sunday night**
+**Sources: Initial fear is Giants' Daniel Jones has torn ACL - ESPN**
 
-You can read more about it [here](https://wtop.com/the-space-place/2023/11/northern-lights-may-be-visible-in-dc-area-sunday-night/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38827558/giants-qb-daniel-jones-ruled-exiting-first-half).
 
 ## Requirements
 - Python 3.8
