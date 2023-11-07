@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes on Gaza intensify, pressure mounts over civilian casualties**
+**Citigroup considers deep job cuts for CEO Jane Fraser’s overhaul, called 'Project Bora Bora'**
 
-You can read more about it [here](https://nypost.com/2023/11/06/news/israeli-strikes-on-gaza-intensify-pressure-mounts-over-civilian-casualties/).
+You can read more about it [here](https://www.cnbc.com/2023/11/06/citigroup-considers-deep-job-cuts-project-bora-bora.html).
 
 ## Requirements
 - Python 3.8
