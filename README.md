@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency room visits for firearm injuries among children doubled during the pandemic**
+**Tyson recalls nearly 30,000 pounds of dino chicken nuggets**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/health/firearm-injuries-children-emergency-room-pandemic/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/dino-chicken-nuggets-recall-tyson-possible-contamination/).
 
 ## Requirements
 - Python 3.8
