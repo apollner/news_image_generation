@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DraftKings and FanDuel Promo Code for MNF: $1,400 Jets vs Chargers Bonus**
+**Dad of Highland Park parade shooting suspect pleads guilty to reckless conduct for helping son obtain gun**
 
-You can read more about it [here](https://www.gamingtoday.com/news/draftkings-fanduel-sportsbook-promo-code-mnf-chargers-jets-betting-preview/).
+You can read more about it [here](https://abcnews.go.com/US/dad-highland-park-parade-shooting-suspect-pleads-guilty/story?id=104657360).
 
 ## Requirements
 - Python 3.8
