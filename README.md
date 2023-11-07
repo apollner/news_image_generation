@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 LACMA Art + Film Gala: Kim Kardashian, Jennifer Lopez & More Stars Hit the Carpet! (Pics)**
+**Northern Lights may be visible in DC area Sunday night**
 
-You can read more about it [here](https://www.etonline.com/gallery/2023-lacma-art-film-gala-kim-kardashian-jennifer-lopez-more-stars-hit-the-carpet-214271?utm_content=ETOnline%2Fmagazine%2FPhotos&utm_source=flipboard).
+You can read more about it [here](https://wtop.com/the-space-place/2023/11/northern-lights-may-be-visible-in-dc-area-sunday-night/).
 
 ## Requirements
 - Python 3.8
