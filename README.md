@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elijah McClain's death: Officer acquitted in 2nd trial of police officers**
+**Live Reveal: Euclid Telescope's First View of the Dark Universe**
 
-You can read more about it [here](https://abcnews.go.com/US/elijah-mcclain-death-jury-decision-second-trial-police/story?id=104658159).
+You can read more about it [here](https://gizmodo.com/euclid-space-telescope-first-images-dark-universe-1850995501).
 
 ## Requirements
 - Python 3.8
