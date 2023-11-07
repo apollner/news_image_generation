@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Traveler: New Series Coming Soon to NASA+**
+**Emergency room visits for firearm injuries among children doubled during the pandemic**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pGj8UOZgCgI).
+You can read more about it [here](https://www.cnn.com/2023/11/06/health/firearm-injuries-children-emergency-room-pandemic/index.html).
 
 ## Requirements
 - Python 3.8
