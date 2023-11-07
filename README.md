@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken makes unannounced visit to Iraq**
+**Ant Group wins approval to release AI products to Chinese public**
 
-You can read more about it [here](https://www.cnn.com/2023/11/05/politics/blinken-makes-unannounced-visit-to-iraq/index.html).
+You can read more about it [here](https://www.reuters.com/technology/ant-group-wins-approval-release-ai-products-chinese-public-2023-11-06/).
 
 ## Requirements
 - Python 3.8
