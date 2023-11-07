@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marijuana use raises risk of heart attack, heart failure and stroke, studies say**
+**Israel-Palestine crisis: 'Enough is enough' say UN humanitarians**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/health/marijuana-heart-stroke-risk-wellness/index.html).
+You can read more about it [here](https://news.un.org/en/story/2023/11/1143237).
 
 ## Requirements
 - Python 3.8
