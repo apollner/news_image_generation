@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Reveal: Euclid Telescope's First View of the Dark Universe**
+**Live updates: Donald Trump testifies in New York civil fraud trial**
 
-You can read more about it [here](https://gizmodo.com/euclid-space-telescope-first-images-dark-universe-1850995501).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-civil-fraud-trial-11-06-23/index.html).
 
 ## Requirements
 - Python 3.8
