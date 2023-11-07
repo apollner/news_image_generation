@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citigroup considers deep job cuts for CEO Jane Fraser’s overhaul, called 'Project Bora Bora'**
+**CDC to expand disease surveillance at four major US airports to include flu, RSV**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/06/citigroup-considers-deep-job-cuts-project-bora-bora.html).
+You can read more about it [here](https://www.cnn.com/2023/11/06/health/cdc-wastewater-surveillance-major-us-airports/index.html).
 
 ## Requirements
 - Python 3.8
