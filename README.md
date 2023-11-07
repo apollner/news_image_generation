@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Rips Into Iowa Governor Ahead of Her DeSantis Endorsement**
+**Elon Musk debuts 'rebellious' Grok AI to challenge ChatGPT**
 
-You can read more about it [here](https://www.thedailybeast.com/trump-rips-into-iowa-governor-kim-reynolds-ahead-of-her-desantis-endorsement).
+You can read more about it [here](https://finance.yahoo.com/news/elon-musk-debuts-rebellious-grok-015320778.html).
 
 ## Requirements
 - Python 3.8
