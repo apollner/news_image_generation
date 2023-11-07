@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyson recalls nearly 30,000 pounds of dino chicken nuggets**
+**Blinken makes unannounced visit to Iraq**
 
-You can read more about it [here](https://www.cbsnews.com/news/dino-chicken-nuggets-recall-tyson-possible-contamination/).
+You can read more about it [here](https://www.cnn.com/2023/11/05/politics/blinken-makes-unannounced-visit-to-iraq/index.html).
 
 ## Requirements
 - Python 3.8
