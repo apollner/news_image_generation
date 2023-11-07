@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes on Gaza intensify, pressure mounts over civilian casualties**
+**NASA Probe Discovers a Hidden Surprise During Asteroid Flyby**
 
-You can read more about it [here](https://nypost.com/2023/11/06/news/israeli-strikes-on-gaza-intensify-pressure-mounts-over-civilian-casualties/).
+You can read more about it [here](https://www.sciencealert.com/nasa-probe-discovers-a-hidden-surprise-during-asteroid-flyby).
 
 ## Requirements
 - Python 3.8
