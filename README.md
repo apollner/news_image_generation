@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Joe Burrow passes for 348 yards as Bengals beat Bills 24-18**
+**Trump Rips Into Iowa Governor Ahead of Her DeSantis Endorsement**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-joe-burrow-passes-for-348-yards-as-bengals-beat-bills-24-18).
+You can read more about it [here](https://www.thedailybeast.com/trump-rips-into-iowa-governor-kim-reynolds-ahead-of-her-desantis-endorsement).
 
 ## Requirements
 - Python 3.8
