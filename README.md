@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Harden's Clippers debut at Madison Square Garden draws an audible exhale**
+**WeWork Saga Cost Masayoshi Son $11.5 Billion and His Credibility**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9zaXhlcnMvamFtZXMtaGFyZGVuLWNsaXBwZXJzLWRlYnV0LXNpeGVycy1rbmlja3Mtam9lbC1lbWJpaWQtdHlyZXNlLW1heGV5LTIwMjMxMTA3Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/wework-saga-cost-masayoshi-son-11-5-billion-and-his-credibility).
 
 ## Requirements
 - Python 3.8
