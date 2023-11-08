@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina dominates Notre Dame in women's Paris opener**
+**SAG-AFTRA Says No Agreement On AI Yet As Guild Delivers Latest Response To Studios – Update**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/38834123/south-carolina-dominates-notre-dame-women-paris-opener).
+You can read more about it [here](https://deadline.com/2023/11/actors-strike-new-talks-final-offer-1235594696/).
 
 ## Requirements
 - Python 3.8
