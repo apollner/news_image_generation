@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Harden’s Los Angeles Clippers Debut Reveals the Challenges Ahead**
+**Democratic frustrations with Biden spill into the open: 'Five-alarm fire'**
 
-You can read more about it [here](https://www.theringer.com/nba/2023/11/7/23950381/james-harden-debut-los-angeles-clippers-new-york-knicks).
+You can read more about it [here](https://www.nbcnews.com/politics/joe-biden/democratic-frustrations-biden-spill-open-five-alarm-fire-rcna123841).
 
 ## Requirements
 - Python 3.8
