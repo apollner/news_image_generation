@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic Martian Milestone: NASA's Curiosity Rover Clocks 4,000 Days on Mars**
+**After James Harden’s first game with Clippers, Tyronn Lue calls Kawhi Leonard ‘the best player’**
 
-You can read more about it [here](https://scitechdaily.com/?p=325579).
+You can read more about it [here](https://theathletic.com/5038790/2023/11/07/kawhi-leonard-james-harden-clippers/).
 
 ## Requirements
 - Python 3.8
