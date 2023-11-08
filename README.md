@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks raising pay and benefits for most US workers**
+**Android 14’s storage disaster gets patched, but your data might be gone**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/11/07/starbucks-workers-raise-pay-benefits-union/71486368007/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/android-14-patches-ransomware-storage-bug-but-some-users-will-lose-data/).
 
 ## Requirements
 - Python 3.8
