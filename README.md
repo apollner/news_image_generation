@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 10,000 killed in Gaza, Hamas-controlled health ministry says, as condemnation of Israel’s campaign grows**
+**The Ram 1500 Ramcharger will be a hybrid like a locomotive**
 
-You can read more about it [here](https://www.cnn.com/2023/11/06/middleeast/gaza-10k-deaths-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/07/business/stellantis-ramcharger/index.html).
 
 ## Requirements
 - Python 3.8
