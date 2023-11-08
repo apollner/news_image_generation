@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA: Record-breaking black hole discovered by Webb and Chandra telescopes**
+**As SAG-AFTRA Responds to Studio Offer, AI Protections for High-Earning Members Remain Sticking Point**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/nasa-black-hole-discovery-webb-chandra-telescopes).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-ai-protections-for-high-earning-members-sticking-point-1235638247/).
 
 ## Requirements
 - Python 3.8
