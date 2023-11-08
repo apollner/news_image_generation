@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers snap Jets' three-game win streak on Monday night - ESPN**
+**UBS Posts First Loss Since 2017 on Credit Suisse Integration**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38837502/chargers-snap-jets-three-game-win-streak-monday-night-win).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/ubs-posts-first-loss-since-2017-amid-credit-suisse-integration).
 
 ## Requirements
 - Python 3.8
