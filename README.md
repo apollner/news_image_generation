@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Third officer charged in Elijah McClain's death found not guilty**
+**Chargers snap Jets' three-game win streak on Monday night - ESPN**
 
-You can read more about it [here](https://www.axios.com/2023/11/06/elijah-mcclain-trial-officer-nathan-woodyard-not-guilty).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38837502/chargers-snap-jets-three-game-win-streak-monday-night-win).
 
 ## Requirements
 - Python 3.8
