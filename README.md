@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Says No Agreement On AI Yet As Guild Delivers Latest Response To Studios – Update**
+**Not guilty: Aurora Police Officer Nathan Woodyard acquitted in Elijah McClain's death**
 
-You can read more about it [here](https://deadline.com/2023/11/actors-strike-new-talks-final-offer-1235594696/).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/nathan-woodyard-not-guilty-verdict-elijah-mcclain-death-aurora-police-officer/).
 
 ## Requirements
 - Python 3.8
