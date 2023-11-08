@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Portuguese PM quits over lithium, hydrogen corruption probe**
+**Multiple accidents on I-10 in New Orleans East**
 
-You can read more about it [here](https://www.reuters.com/world/europe/portuguese-prosecutors-search-government-buildings-lithium-investigation-2023-11-07/).
+You can read more about it [here](https://www.wdsu.com/article/i-10-closed-in-both-directions-at-michoud-boulevard-due-to-visibility-issues/45763645).
 
 ## Requirements
 - Python 3.8
