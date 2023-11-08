@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic frustrations with Biden spill into the open: 'Five-alarm fire'**
+**'My Sister's Keeper' Actor Evan Ellingson Dead at 35**
 
-You can read more about it [here](https://www.nbcnews.com/politics/joe-biden/democratic-frustrations-biden-spill-open-five-alarm-fire-rcna123841).
+You can read more about it [here](http://www.vulture.com/2023/11/evan-ellingson-actor-dead-at-35.html).
 
 ## Requirements
 - Python 3.8
