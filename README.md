@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry's Last Public Post: Meaning of “Mattman” – The Hollywood Reporter**
+**As Michigan scandal roils Big Ten, can Tony Petitti rein in his coaches and restore league order?**
 
-You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-features/mattman-matthew-perry-last-instagram-1235638705/).
+You can read more about it [here](https://theathletic.com/5039752/2023/11/07/michigan-scandal-big-ten-tony-petitti/).
 
 ## Requirements
 - Python 3.8
