@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube is testing a chatbot that will appear under select videos**
+**Jewish man dies in Thousand Oaks amid dueling pro-Israeli and pro-Palestinian demonstrations**
 
-You can read more about it [here](https://www.theverge.com/2023/11/7/23950327/youtube-artificial-intelligence-chatbot-video-summaries-ask-comments-topics-categorization).
+You can read more about it [here](https://www.youtube.com/watch?v=613TvvdkPbk).
 
 ## Requirements
 - Python 3.8
