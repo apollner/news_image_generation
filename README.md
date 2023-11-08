@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple accidents on I-10 in New Orleans East**
+**Telescopes spot the oldest and most distant black hole formed after the big bang**
 
-You can read more about it [here](https://www.wdsu.com/article/i-10-closed-in-both-directions-at-michoud-boulevard-due-to-visibility-issues/45763645).
+You can read more about it [here](https://www.cnn.com/2023/11/07/world/most-distant-black-hole-webb-chandra-scn/index.html).
 
 ## Requirements
 - Python 3.8
