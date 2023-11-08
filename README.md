@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel in Hunter Biden probe meets with House Republicans**
+**Starbucks raising pay and benefits for most US workers**
 
-You can read more about it [here](https://www.nbcnews.com/politics/joe-biden/special-counsel-hunter-biden-probe-meet-house-republicans-rcna123967).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/07/starbucks-workers-raise-pay-benefits-union/71486368007/).
 
 ## Requirements
 - Python 3.8
