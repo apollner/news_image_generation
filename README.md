@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Not guilty: Aurora Police Officer Nathan Woodyard acquitted in Elijah McClain's death**
+**How the Cubs swooped in to hire Craig Counsell and shocked the baseball world**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/nathan-woodyard-not-guilty-verdict-elijah-mcclain-death-aurora-police-officer/).
+You can read more about it [here](https://theathletic.com/5038015/2023/11/06/cubs-craig-counsell-david-ross-jed-hoyer/).
 
 ## Requirements
 - Python 3.8
