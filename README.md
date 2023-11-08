@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After James Harden’s first game with Clippers, Tyronn Lue calls Kawhi Leonard ‘the best player’**
+**Jewish man dies after suffering head injury at pro-Israeli and pro-Palestinian demonstrations in California**
 
-You can read more about it [here](https://theathletic.com/5038790/2023/11/07/kawhi-leonard-james-harden-clippers/).
+You can read more about it [here](https://www.cnn.com/2023/11/07/us/thousand-oaks-protest-man-dies/index.html).
 
 ## Requirements
 - Python 3.8
