@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Alabama mayor ended his life after a website showed pictures of him cross-dressing**
+**NFL Power Rankings, Week 10: Bengals back in top 10 for first time since Week 1; Pats lowest AFC team**
 
-You can read more about it [here](https://www.npr.org/2023/11/07/1210928121/bubba-copeland-alabama-mayor-suicide-cross-dressing-media-ethics).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-10-202-season).
 
 ## Requirements
 - Python 3.8
