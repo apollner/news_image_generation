@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Food-delivery startup Wonder Group gets $100 million investment from Nestle**
+**An Alabama mayor ended his life after a website showed pictures of him cross-dressing**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/07/wonder-group-food-delivery-startup-gets-100-million-nestle-investment.html).
+You can read more about it [here](https://www.npr.org/2023/11/07/1210928121/bubba-copeland-alabama-mayor-suicide-cross-dressing-media-ethics).
 
 ## Requirements
 - Python 3.8
