@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WeWork Saga Cost Masayoshi Son $11.5 Billion and His Credibility**
+**Historic Martian Milestone: NASA's Curiosity Rover Clocks 4,000 Days on Mars**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/wework-saga-cost-masayoshi-son-11-5-billion-and-his-credibility).
+You can read more about it [here](https://scitechdaily.com/?p=325579).
 
 ## Requirements
 - Python 3.8
