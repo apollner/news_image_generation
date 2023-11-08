@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Ram 1500 Ramcharger will be a hybrid like a locomotive**
+**UBS Posts First Loss Since 2017 on Credit Suisse Integration**
 
-You can read more about it [here](https://www.cnn.com/2023/11/07/business/stellantis-ramcharger/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/ubs-posts-first-loss-since-2017-amid-credit-suisse-integration).
 
 ## Requirements
 - Python 3.8
