@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Captain found guilty of 'seaman's manslaughter' in boat fire that killed 34 off California coast**
+**NASA: Record-breaking black hole discovered by Webb and Chandra telescopes**
 
-You can read more about it [here](https://apnews.com/article/fatal-boat-fire-california-conception-boylan-0cd001c598d7edbf0acdcce890e994fe).
+You can read more about it [here](https://www.foxweather.com/earth-space/nasa-black-hole-discovery-webb-chandra-telescopes).
 
 ## Requirements
 - Python 3.8
