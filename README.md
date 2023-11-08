@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoftBank's WeWork, once most valuable US startup, succumbs to bankruptcy**
+**2023 CFDA Fashion Awards: Red Carpet Arrivals**
 
-You can read more about it [here](https://www.reuters.com/business/softbanks-wework-once-most-valuable-us-startup-succumbs-bankruptcy-2023-11-07/).
+You can read more about it [here](https://www.etonline.com/gallery/2023-cfda-fashion-awards-red-carpet-arrivals-214340).
 
 ## Requirements
 - Python 3.8
