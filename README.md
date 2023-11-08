@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Third officer charged in Elijah McClain's death found not guilty**
+**69-year-old killed during dueling protests over Israel-Hamas conflict**
 
-You can read more about it [here](https://www.axios.com/2023/11/06/elijah-mcclain-trial-officer-nathan-woodyard-not-guilty).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/69-year-old-jewish-man-killed-during-simultaneous-pro-israel-and-pro-palestinian-rallies/).
 
 ## Requirements
 - Python 3.8
