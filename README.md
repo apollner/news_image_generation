@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As SAG-AFTRA Responds to Studio Offer, AI Protections for High-Earning Members Remain Sticking Point**
+**More than 10,000 killed in Gaza, Hamas-controlled health ministry says, as condemnation of Israel’s campaign grows**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-ai-protections-for-high-earning-members-sticking-point-1235638247/).
+You can read more about it [here](https://www.cnn.com/2023/11/06/middleeast/gaza-10k-deaths-intl/index.html).
 
 ## Requirements
 - Python 3.8
