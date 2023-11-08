@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 CFDA Fashion Awards: Red Carpet Arrivals**
+**Captain found guilty of 'seaman's manslaughter' in boat fire that killed 34 off California coast**
 
-You can read more about it [here](https://www.etonline.com/gallery/2023-cfda-fashion-awards-red-carpet-arrivals-214340).
+You can read more about it [here](https://apnews.com/article/fatal-boat-fire-california-conception-boylan-0cd001c598d7edbf0acdcce890e994fe).
 
 ## Requirements
 - Python 3.8
