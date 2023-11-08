@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 10: Bengals back in top 10 for first time since Week 1; Pats lowest AFC team**
+**Matthew Perry's Last Public Post: Meaning of “Mattman” – The Hollywood Reporter**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-10-202-season).
+You can read more about it [here](https://www.hollywoodreporter.com/tv/tv-features/mattman-matthew-perry-last-instagram-1235638705/).
 
 ## Requirements
 - Python 3.8
