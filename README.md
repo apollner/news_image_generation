@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Cubs swooped in to hire Craig Counsell and shocked the baseball world**
+**SoftBank's WeWork, once most valuable US startup, succumbs to bankruptcy**
 
-You can read more about it [here](https://theathletic.com/5038015/2023/11/06/cubs-craig-counsell-david-ross-jed-hoyer/).
+You can read more about it [here](https://www.reuters.com/business/softbanks-wework-once-most-valuable-us-startup-succumbs-bankruptcy-2023-11-07/).
 
 ## Requirements
 - Python 3.8
