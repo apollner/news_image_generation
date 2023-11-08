@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jewish man dies in Thousand Oaks amid dueling pro-Israeli and pro-Palestinian demonstrations**
+**UBS shares rise 4% as market focuses on strong underlying profit**
 
-You can read more about it [here](https://www.youtube.com/watch?v=613TvvdkPbk).
+You can read more about it [here](https://www.cnbc.com/2023/11/07/ubs-q3-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
