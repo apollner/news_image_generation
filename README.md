@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**69-year-old killed during dueling protests over Israel-Hamas conflict**
+**YouTube is testing a chatbot that will appear under select videos**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/69-year-old-jewish-man-killed-during-simultaneous-pro-israel-and-pro-palestinian-rallies/).
+You can read more about it [here](https://www.theverge.com/2023/11/7/23950327/youtube-artificial-intelligence-chatbot-video-summaries-ask-comments-topics-categorization).
 
 ## Requirements
 - Python 3.8
