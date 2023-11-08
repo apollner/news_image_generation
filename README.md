@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'My Sister's Keeper' Actor Evan Ellingson Dead at 35**
+**Food-delivery startup Wonder Group gets $100 million investment from Nestle**
 
-You can read more about it [here](http://www.vulture.com/2023/11/evan-ellingson-actor-dead-at-35.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/07/wonder-group-food-delivery-startup-gets-100-million-nestle-investment.html).
 
 ## Requirements
 - Python 3.8
