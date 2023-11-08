@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barbra Streisand's memoir reveals relationship secrets and stage fright dating back to "Funny Girl"**
+**Portuguese PM quits over lithium, hydrogen corruption probe**
 
-You can read more about it [here](https://www.salon.com/2023/11/07/barbra-streisand-memoir-revelations/).
+You can read more about it [here](https://www.reuters.com/world/europe/portuguese-prosecutors-search-government-buildings-lithium-investigation-2023-11-07/).
 
 ## Requirements
 - Python 3.8
