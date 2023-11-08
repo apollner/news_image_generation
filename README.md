@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Michigan scandal roils Big Ten, can Tony Petitti rein in his coaches and restore league order?**
+**Special counsel in Hunter Biden probe meets with House Republicans**
 
-You can read more about it [here](https://theathletic.com/5039752/2023/11/07/michigan-scandal-big-ten-tony-petitti/).
+You can read more about it [here](https://www.nbcnews.com/politics/joe-biden/special-counsel-hunter-biden-probe-meet-house-republicans-rcna123967).
 
 ## Requirements
 - Python 3.8
