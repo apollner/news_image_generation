@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats will win control of Virginia legislature, CNN projects, in blow to Gov. Youngkin**
+**Mike Shuster, who covered the world for NPR for three decades, has died at 76**
 
-You can read more about it [here](https://www.cnn.com/2023/11/07/politics/virginia-senate-election-democrats-youngkin/index.html).
+You can read more about it [here](https://www.wpr.org/mike-shuster-who-covered-world-npr-three-decades-has-died-76).
 
 ## Requirements
 - Python 3.8
