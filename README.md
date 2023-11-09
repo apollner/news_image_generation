@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Buccaneers' Series-Premiere Recap, Episodes 1-3**
+**A Decade Of GTA 6 Rumors And Hijinks Will Soon Come To An End**
 
-You can read more about it [here](http://www.vulture.com/article/the-buccaneers-series-premiere-recap-episodes-1-3.html).
+You can read more about it [here](https://kotaku.com/gta-6-theories-rumors-leaks-news-trailer-rockstar-games-1851004096).
 
 ## Requirements
 - Python 3.8
