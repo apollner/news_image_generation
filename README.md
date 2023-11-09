@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan, Big Ten reach sign-stealing crossroads - ESPN**
+**Overall grades for each NFL team at midway point of 2023 season: Eagles, Ravens come up aces; four teams fail**
 
-You can read more about it [here](https://www.espn.com.au/college-football/story/_/id/38845395/michigan-big-ten-reach-sign-stealing-crossroads).
+You can read more about it [here](https://www.cbssports.com/nfl/news/overall-grades-for-each-nfl-team-at-midway-point-of-2023-season-eagles-ravens-come-up-aces-four-teams-fail/).
 
 ## Requirements
 - Python 3.8
