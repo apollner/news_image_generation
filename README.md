@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Gov. Andy Beshear reelected to second term in Kentucky, overcoming state's GOP dominance**
+**Mississippi Gov. Tate Reeves wins re-election, extending Republicans' two-decade hold on state**
 
-You can read more about it [here](https://apnews.com/article/kentucky-primary-governors-race-election-2023-e8df45cd3978ce5a1691ba447c84bafc).
+You can read more about it [here](https://www.nbcnews.com/politics/elections/mississippi-gov-tate-reeves-wins-re-election-extending-republicans-two-rcna122075).
 
 ## Requirements
 - Python 3.8
