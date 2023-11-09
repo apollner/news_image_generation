@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mississippi Gov. Tate Reeves wins re-election, extending Republicans' two-decade hold on state**
+**Titanic first-class menu, victim's pocket watch going on sale at auction**
 
-You can read more about it [here](https://www.nbcnews.com/politics/elections/mississippi-gov-tate-reeves-wins-re-election-extending-republicans-two-rcna122075).
+You can read more about it [here](https://www.cbsnews.com/news/titanic-menu-auction-pocket-watch/).
 
 ## Requirements
 - Python 3.8
