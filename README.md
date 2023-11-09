@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election results point to major GOP liability on abortion heading into 2024**
+**California officials ask for the public’s help as they investigate the death of a Jewish man during Israel-Hamas war protests**
 
-You can read more about it [here](https://www.nbcnews.com/politics/elections/election-results-point-major-gop-liability-abortion-heading-2024-rcna123103).
+You can read more about it [here](https://www.cnn.com/2023/11/08/us/california-israel-hamas-protest-death-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
