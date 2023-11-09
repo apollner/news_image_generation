@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian Ends Amazon Van Exclusivity, Raises Production Forecast**
+**How WeWork Rose and Went Broke - WSJ**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/rivian-ends-amazon-van-exclusivity-raises-production-forecast).
+You can read more about it [here](https://www.wsj.com/articles/wework-bankruptcy-adam-neumann-federal-reserve-easy-money-861e0073).
 
 ## Requirements
 - Python 3.8
