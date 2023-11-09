@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California officials ask for the public’s help as they investigate the death of a Jewish man during Israel-Hamas war protests**
+**US House votes to censure Rashida Tlaib over Israel-Hamas war comments**
 
-You can read more about it [here](https://www.cnn.com/2023/11/08/us/california-israel-hamas-protest-death-wednesday/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/8/us-house-votes-to-censure-rashida-tlaib-over-israel-hamas-war-comments).
 
 ## Requirements
 - Python 3.8
