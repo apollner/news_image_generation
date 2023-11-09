@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US House votes to censure Rashida Tlaib over Israel-Hamas war comments**
+**Democrats will win control of Virginia legislature, CNN projects, in blow to Gov. Youngkin**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/8/us-house-votes-to-censure-rashida-tlaib-over-israel-hamas-war-comments).
+You can read more about it [here](https://www.cnn.com/2023/11/07/politics/virginia-senate-election-democrats-youngkin/index.html).
 
 ## Requirements
 - Python 3.8
