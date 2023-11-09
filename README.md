@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas voters reject proposal to increase judges' retirement ages**
+**Patrick Dempsey Named People’s 2023 Sexiest Man Alive**
 
-You can read more about it [here](https://www.texastribune.org/2023/11/07/texas-judges-retirement-proposition-results/).
+You can read more about it [here](https://variety.com/2023/tv/news/patrick-dempsey-peoples-sexiest-man-alive-2023-1235783627/).
 
 ## Requirements
 - Python 3.8
