@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian Reports Better-Than-Expected Results. The Stock Is Up.**
+**Virgin Galactic Provides Business Update - Virgin Galactic**
 
-You can read more about it [here](https://www.barrons.com/articles/rivian-earnings-stock-price-e78c3f52).
+You can read more about it [here](https://investors.virgingalactic.com/news/news-details/2023/Virgin-Galactic-Provides-Business-Update/default.aspx).
 
 ## Requirements
 - Python 3.8
