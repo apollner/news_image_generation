@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil prices stutter after hitting 3-months-lows, demand concerns mount**
+**Texas voters reject proposal to increase judges' retirement ages**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/oil-prices-fall-over-3-month-low-signs-higher-supply-2023-11-08/).
+You can read more about it [here](https://www.texastribune.org/2023/11/07/texas-judges-retirement-proposition-results/).
 
 ## Requirements
 - Python 3.8
