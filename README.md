@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden adviser-turned-ambassador opens up on 'scary' 2024 polling - POLITICO**
+**Michigan football sign-stealing case: What we know as possible Jim Harbaugh punishment looms**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/08/bidens-ottawa-envoy-calls-trump-polling-sobering-and-scary-00126077).
+You can read more about it [here](https://www.clickondetroit.com/all-about-ann-arbor/2023/11/08/michigan-football-sign-stealing-case-what-we-know-as-possible-jim-harbaugh-punishment-looms/).
 
 ## Requirements
 - Python 3.8
