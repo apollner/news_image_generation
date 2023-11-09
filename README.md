@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Shuster, who covered the world for NPR for three decades, has died at 76**
+**Israel-Hamas war rages as outcry grows over Gaza crisis: Live updates**
 
-You can read more about it [here](https://www.wpr.org/mike-shuster-who-covered-world-npr-three-decades-has-died-76).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-08-23/index.html).
 
 ## Requirements
 - Python 3.8
