@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How WeWork Rose and Went Broke - WSJ**
+**'Dancing With the Stars': Lele Pons Eliminated on Music Video Night**
 
-You can read more about it [here](https://www.wsj.com/articles/wework-bankruptcy-adam-neumann-federal-reserve-easy-money-861e0073).
+You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-lele-pons-eliminated/).
 
 ## Requirements
 - Python 3.8
