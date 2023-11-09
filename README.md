@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo's 330M+ User Accounts Will Be Foundation Of "Lasting Relationship With Consumers"**
+**Election results point to major GOP liability on abortion heading into 2024**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/11/nintendos-330mplus-user-accounts-will-be-foundation-of-lasting-relationship-with-consumers).
+You can read more about it [here](https://www.nbcnews.com/politics/elections/election-results-point-major-gop-liability-abortion-heading-2024-rcna123103).
 
 ## Requirements
 - Python 3.8
