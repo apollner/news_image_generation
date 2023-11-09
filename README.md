@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war rages as outcry grows over Gaza crisis: Live updates**
+**'Like something out of a Hollywood movie': Scientists say 2023 likely to be the hottest year on record**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-08-23/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/08/climate-scientists-warn-2023-likely-to-be-the-hottest-year-on-record.html).
 
 ## Requirements
 - Python 3.8
