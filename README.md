@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says its battling Hamas fighters deep in Gaza City**
+**Rivian Reports Better-Than-Expected Results. The Stock Is Up.**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-7-2023-6e1425d218de6a73f8a51e4c036cfd39).
+You can read more about it [here](https://www.barrons.com/articles/rivian-earnings-stock-price-e78c3f52).
 
 ## Requirements
 - Python 3.8
