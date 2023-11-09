@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qatar reportedly working deal to free some Hamas hostages, including Americans: Live updates**
+**Lice from around the world shed light on human history, says new study : Goats and Soda**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/11/08/israel-hamas-war-gaza-live-updates/71500547007/).
+You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/11/08/1211528184/having-lice-aint-nice-but-they-tell-our-story-concise-and-precise).
 
 ## Requirements
 - Python 3.8
