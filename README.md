@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says its battling Hamas fighters deep in Gaza City**
+**Google's November Pixel Watch 2 Update Arrived**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-7-2023-6e1425d218de6a73f8a51e4c036cfd39).
+You can read more about it [here](https://www.droid-life.com/2023/11/07/pixel-watch-2-with-lte-gets-november-update-others-waiting/).
 
 ## Requirements
 - Python 3.8
