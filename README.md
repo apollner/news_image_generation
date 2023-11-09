@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Decade Of GTA 6 Rumors And Hijinks Will Soon Come To An End**
+**Qatar reportedly working deal to free some Hamas hostages, including Americans: Live updates**
 
-You can read more about it [here](https://kotaku.com/gta-6-theories-rumors-leaks-news-trailer-rockstar-games-1851004096).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/11/08/israel-hamas-war-gaza-live-updates/71500547007/).
 
 ## Requirements
 - Python 3.8
