@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Like something out of a Hollywood movie': Scientists say 2023 likely to be the hottest year on record**
+**The National Zoo's giant pandas leave for China today**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/08/climate-scientists-warn-2023-likely-to-be-the-hottest-year-on-record.html).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/11/08/pandas-leaving-china-dc-zoo/).
 
 ## Requirements
 - Python 3.8
