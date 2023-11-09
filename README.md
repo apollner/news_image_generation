@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House censures Rep. Rashida Tlaib amid bipartisan backlash over Israel comments**
+**Oil prices stutter after hitting 3-months-lows, demand concerns mount**
 
-You can read more about it [here](https://www.cbsnews.com/news/rashida-tlaib-censure-vote-rich-mccormick-marjorie-taylor-greene/).
+You can read more about it [here](https://www.reuters.com/markets/commodities/oil-prices-fall-over-3-month-low-signs-higher-supply-2023-11-08/).
 
 ## Requirements
 - Python 3.8
