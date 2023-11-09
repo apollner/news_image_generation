@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virgin Galactic Provides Business Update - Virgin Galactic**
+**2023 Election Results from Your Local Election Headquarters**
 
-You can read more about it [here](https://investors.virgingalactic.com/news/news-details/2023/Virgin-Galactic-Provides-Business-Update/default.aspx).
+You can read more about it [here](https://www.rochesterfirst.com/news/your-local-election-hq/2023-election-results-from-your-local-election-headquarters/).
 
 ## Requirements
 - Python 3.8
