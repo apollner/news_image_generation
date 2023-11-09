@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats will win control of Virginia legislature, CNN projects, in blow to Gov. Youngkin**
+**Ukraine war live updates: Russia claims Kyiv attacked 3 nuclear power plants; Putin says post-Soviet space is being weakened**
 
-You can read more about it [here](https://www.cnn.com/2023/11/07/politics/virginia-senate-election-democrats-youngkin/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
