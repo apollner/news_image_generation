@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mother of Uvalde victim loses mayoral election**
+**Democratic Gov. Andy Beshear reelected to second term in Kentucky, overcoming state's GOP dominance**
 
-You can read more about it [here](https://abcnews.go.com/US/mother-uvalde-victim-loses-mayoral-election/story?id=104689732).
+You can read more about it [here](https://apnews.com/article/kentucky-primary-governors-race-election-2023-e8df45cd3978ce5a1691ba447c84bafc).
 
 ## Requirements
 - Python 3.8
