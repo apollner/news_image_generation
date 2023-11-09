@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Dempsey Named People’s 2023 Sexiest Man Alive**
+**Nintendo's 330M+ User Accounts Will Be Foundation Of "Lasting Relationship With Consumers"**
 
-You can read more about it [here](https://variety.com/2023/tv/news/patrick-dempsey-peoples-sexiest-man-alive-2023-1235783627/).
+You can read more about it [here](https://www.nintendolife.com/news/2023/11/nintendos-330mplus-user-accounts-will-be-foundation-of-lasting-relationship-with-consumers).
 
 ## Requirements
 - Python 3.8
