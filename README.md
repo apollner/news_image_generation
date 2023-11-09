@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lice from around the world shed light on human history, says new study : Goats and Soda**
+**Bruce Willis’ daughter, Tallulah Willis, gives update on dad’s health**
 
-You can read more about it [here](https://www.npr.org/sections/goatsandsoda/2023/11/08/1211528184/having-lice-aint-nice-but-they-tell-our-story-concise-and-precise).
+You can read more about it [here](https://www.cnn.com/2023/11/08/entertainment/bruce-willis-tallulah-update-ftd/index.html).
 
 ## Requirements
 - Python 3.8
