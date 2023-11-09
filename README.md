@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing With the Stars': Lele Pons Eliminated on Music Video Night**
+**Democrats will win control of Virginia legislature, CNN projects, in blow to Gov. Youngkin**
 
-You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-lele-pons-eliminated/).
+You can read more about it [here](https://www.cnn.com/2023/11/07/politics/virginia-senate-election-democrats-youngkin/index.html).
 
 ## Requirements
 - Python 3.8
