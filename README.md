@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The National Zoo's giant pandas leave for China today**
+**A Message from Rockstar Games**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/11/08/pandas-leaving-china-dc-zoo/).
+You can read more about it [here](https://www.rockstargames.com/newswire/article/4kok877a13aa32/a-message-from-rockstar-games).
 
 ## Requirements
 - Python 3.8
