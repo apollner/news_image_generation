@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Legend Of Zelda’ Live-Action Pic In Works At Sony With Wes Ball Directing, Nintendo Co-Financing**
+**Israel says its battling Hamas fighters deep in Gaza City**
 
-You can read more about it [here](https://deadline.com/2023/11/legend-of-zelda-movie-wes-ball-1235596216/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-7-2023-6e1425d218de6a73f8a51e4c036cfd39).
 
 ## Requirements
 - Python 3.8
