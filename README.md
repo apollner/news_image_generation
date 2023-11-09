@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden adviser-turned-ambassador opens up on 'scary' 2024 polling - POLITICO**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2023/11/08/bidens-ottawa-envoy-calls-trump-polling-sobering-and-scary-00126077).
 
 ## Requirements
 - Python 3.8
