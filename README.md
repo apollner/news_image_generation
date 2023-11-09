@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil prices stutter after hitting 3-months-lows, demand concerns mount**
+**Mother of Uvalde victim loses mayoral election**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/oil-prices-fall-over-3-month-low-signs-higher-supply-2023-11-08/).
+You can read more about it [here](https://abcnews.go.com/US/mother-uvalde-victim-loses-mayoral-election/story?id=104689732).
 
 ## Requirements
 - Python 3.8
