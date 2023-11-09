@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing With the Stars': Lele Pons Eliminated on Music Video Night**
+**Oil prices stutter after hitting 3-months-lows, demand concerns mount**
 
-You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-lele-pons-eliminated/).
+You can read more about it [here](https://www.reuters.com/markets/commodities/oil-prices-fall-over-3-month-low-signs-higher-supply-2023-11-08/).
 
 ## Requirements
 - Python 3.8
