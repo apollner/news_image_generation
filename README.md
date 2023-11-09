@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas leaders admit hope for 'permanent' Israel war, don't care about running Gaza**
+**Michigan, Big Ten reach sign-stealing crossroads - ESPN**
 
-You can read more about it [here](https://nypost.com/2023/11/08/news/hamas-leaders-admit-they-hope-for-permanent-war-do-not-care-about-running-gaza/).
+You can read more about it [here](https://www.espn.com.au/college-football/story/_/id/38845395/michigan-big-ten-reach-sign-stealing-crossroads).
 
 ## Requirements
 - Python 3.8
