@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Russia claims Kyiv attacked 3 nuclear power plants; Putin says post-Soviet space is being weakened**
+**'Dancing With the Stars': Lele Pons Eliminated on Music Video Night**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-lele-pons-eliminated/).
 
 ## Requirements
 - Python 3.8
