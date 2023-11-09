@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 Election Results from Your Local Election Headquarters**
+**Rivian Ends Amazon Van Exclusivity, Raises Production Forecast**
 
-You can read more about it [here](https://www.rochesterfirst.com/news/your-local-election-hq/2023-election-results-from-your-local-election-headquarters/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-07/rivian-ends-amazon-van-exclusivity-raises-production-forecast).
 
 ## Requirements
 - Python 3.8
