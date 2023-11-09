@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Titanic first-class menu, victim's pocket watch going on sale at auction**
+**House censures Rep. Rashida Tlaib amid bipartisan backlash over Israel comments**
 
-You can read more about it [here](https://www.cbsnews.com/news/titanic-menu-auction-pocket-watch/).
+You can read more about it [here](https://www.cbsnews.com/news/rashida-tlaib-censure-vote-rich-mccormick-marjorie-taylor-greene/).
 
 ## Requirements
 - Python 3.8
