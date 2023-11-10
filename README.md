@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats' new abortion battle plan: Rush to get it on ballots in 2024**
+**US carries out airstrikes in eastern Syria targeting IRGC and Iranian-backed groups’ weapons storage facility**
 
-You can read more about it [here](https://www.axios.com/2023/11/09/democrats-abortion-election-plan-2023).
+You can read more about it [here](https://www.cnn.com/2023/11/08/politics/us-airstrikes-eastern-syria-iran/index.html).
 
 ## Requirements
 - Python 3.8
