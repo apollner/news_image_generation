@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden team says election night wins show path to 2024 victory**
+**CMA Awards 2023 winners list: Lainey Wilson, Luke Combs and more**
 
-You can read more about it [here](https://www.reuters.com/world/us/ignore-polls-biden-team-says-after-democrats-election-night-wins-2023-11-08/).
+You can read more about it [here](https://www.delawareonline.com/story/entertainment/music/2023/11/09/cma-awards-2023-winners-list/71513000007/).
 
 ## Requirements
 - Python 3.8
