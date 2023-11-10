@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Duke vs. Arizona: Home-and-home series between traditional powers should be the expectation, not the exception**
+**Actors’ union reaches tentative deal with Hollywood film and TV studios, ending historic strike**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/duke-vs-arizona-home-and-home-series-between-traditional-powers-should-be-the-expectation-not-the-exception/).
+You can read more about it [here](https://www.cnn.com/2023/11/08/media/sag-aftra-actors-strike-over/index.html).
 
 ## Requirements
 - Python 3.8
