@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 CMA Awards: The best red carpet fashion from country music's biggest night**
+**Apple Co-Founder Steve Wozniak Hospitalised Due To Possible Stroke: Report**
 
-You can read more about it [here](https://abc7chicago.com/2023-cma-awards-red-carpet-photos-best-dressed/14022967/).
+You can read more about it [here](https://www.ndtv.com/world-news/apple-co-founder-steve-wozniak-hospitalised-in-mexico-due-to-possible-stroke-report-4559115).
 
 ## Requirements
 - Python 3.8
