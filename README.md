@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung details 'Galaxy AI' and a feature that can translate phone calls in real time**
+**3 arrested in connection with prostitution network whose clients allegedly included politicians**
 
-You can read more about it [here](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
 
 ## Requirements
 - Python 3.8
