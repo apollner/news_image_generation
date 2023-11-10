@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Embrace the Andy Beshear Moment. It Won't Last.**
+**NFL Week 10 injuries: Bears' Justin Fields doubtful vs. Panthers; Ja'Marr Chase held out of Bengals practice**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/11/08/andy-beshear-moment-wont-last-kentucky-00126233).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-injuries-bears-justin-fields-doubtful-vs-panthers-jamarr-chase-held-out-of-bengals-practice/).
 
 ## Requirements
 - Python 3.8
