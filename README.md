@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Met Gala Theme Revealed**
+**Actors Hit the Town to Celebrate the End of SAG-AFTRA Strike**
 
-You can read more about it [here](https://www.eonline.com/news/1389494/2024-met-gala-theme-revealed).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/actors-celebrate-end-of-sag-aftra-strike-1235642900/).
 
 ## Requirements
 - Python 3.8
