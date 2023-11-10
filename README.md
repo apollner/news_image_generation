@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 CMA Awards: The best red carpet fashion from country music's biggest night**
+**Kim Kardashian Reveals Secret Tattoo—and the Meaning Behind It**
 
-You can read more about it [here](https://abc7chicago.com/2023-cma-awards-red-carpet-photos-best-dressed/14022967/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM4OTQzMS9raW0ta2FyZGFzaGlhbi1yZXZlYWxzLXNlY3JldC10YXR0b28tYW5kLXRoZS1tZWFuaW5nLWJlaGluZC1pdNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
