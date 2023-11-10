@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bruce Willis’ daughter, Tallulah Willis, gives update on dad’s health**
+**Samsung details 'Galaxy AI' and a feature that can translate phone calls in real time**
 
-You can read more about it [here](https://www.cnn.com/2023/11/08/entertainment/bruce-willis-tallulah-update-ftd/index.html).
+You can read more about it [here](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call).
 
 ## Requirements
 - Python 3.8
