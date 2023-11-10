@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actors’ union reaches tentative deal with Hollywood film and TV studios, ending historic strike**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/11/08/media/sag-aftra-actors-strike-over/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
