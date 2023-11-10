@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 arrested in connection with prostitution network whose clients allegedly included politicians**
+**Embrace the Andy Beshear Moment. It Won't Last.**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/11/08/andy-beshear-moment-wont-last-kentucky-00126233).
 
 ## Requirements
 - Python 3.8
