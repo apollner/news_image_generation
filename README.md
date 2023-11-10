@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giannis Antetokounmpo takes courtside seat after being ejected for a controversial technical foul in Bucks win**
+**Wynonna Judd Responds After Fans Express Concern Over Her CMA Awards Performance: ‘I Was So Nervous’**
 
-You can read more about it [here](https://www.cnn.com/2023/11/09/sport/giannis-antetokounmpo-courtside-ejected-technical-foul-spt-intl?cid=external-feeds_iluminar_yahoo).
+You can read more about it [here](https://www.etonline.com/wynonna-judd-responds-after-fans-express-concern-over-her-cma-awards-performance-i-was-so-nervous).
 
 ## Requirements
 - Python 3.8
