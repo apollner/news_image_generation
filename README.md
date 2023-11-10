@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surge and Swarm: How China's Ships Control the South China Sea**
+**Biden team says election night wins show path to 2024 victory**
 
-You can read more about it [here](https://www.wsj.com/world/china/surge-and-swarm-how-chinas-ships-control-the-south-china-sea-ac8fa61c).
+You can read more about it [here](https://www.reuters.com/world/us/ignore-polls-biden-team-says-after-democrats-election-night-wins-2023-11-08/).
 
 ## Requirements
 - Python 3.8
