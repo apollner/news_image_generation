@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In a U.S. First, a Commercial Plant Starts Pulling Carbon From the Air**
+**Authorities investigating 'suspicious' envelopes sent to election offices in Washington, Georgia**
 
-You can read more about it [here](https://nytlicensing.com/stories/j5TboMKx).
+You can read more about it [here](https://abcnews.go.com/US/authorities-investigating-suspicious-envelopes-election-offices-washington-georgia/story?id=104761286).
 
 ## Requirements
 - Python 3.8
