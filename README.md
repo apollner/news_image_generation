@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Co-Founder Steve Wozniak Hospitalized in Mexico, TMZ Says**
+**Embrace the Andy Beshear Moment. It Won't Last.**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-09/apple-co-founder-steve-wozniak-hospitalized-in-mexico-tmz-says).
+You can read more about it [here](https://www.politico.com/news/magazine/2023/11/08/andy-beshear-moment-wont-last-kentucky-00126233).
 
 ## Requirements
 - Python 3.8
