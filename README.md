@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Embrace the Andy Beshear Moment. It Won't Last.**
+**Alarming spike in newborn syphilis cases reported**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2023/11/08/andy-beshear-moment-wont-last-kentucky-00126233).
+You can read more about it [here](https://www.youtube.com/watch?v=DUWJ2d4zoaQ).
 
 ## Requirements
 - Python 3.8
