@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giannis Antetokounmpo ejected in third quarter vs. Pistons after dunk**
+**Haley calls DeSantis ‘a liberal’ on environmental issues**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/nba/bucks/2023/11/08/giannis-antetokounmpo-ejected-in-third-quarter-vs-pistons-after-dunk/71511644007/).
+You can read more about it [here](https://thehill.com/policy/energy-environment/4301116-haley-calls-desantis-liberal-on-environmental-issues/).
 
 ## Requirements
 - Python 3.8
