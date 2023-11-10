@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. forces under fire in Middle East as America slides towards brink**
+**Israeli strikes pound Gaza City as ground forces battle Hamas near major hospital**
 
-You can read more about it [here](https://news.yahoo.com/u-forces-under-fire-middle-090314128.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-9-2023-49a2cfaf0c0856f6f6c32151d6b64226).
 
 ## Requirements
 - Python 3.8
