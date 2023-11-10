@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikola Jokic Drops DOUBLE-DOUBLE vs Warriors! | November 8, 2023**
+**2024 Met Gala Theme Revealed**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7XVKC0ItQac).
+You can read more about it [here](https://www.eonline.com/news/1389494/2024-met-gala-theme-revealed).
 
 ## Requirements
 - Python 3.8
