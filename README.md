@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry & Klay Thompson Miss Game-Tying Shots vs. Nuggets**
+**Giannis Antetokounmpo ejected in third quarter vs. Pistons after dunk**
 
-You can read more about it [here](https://www.youtube.com/watch?v=8Atwz2QheR8).
+You can read more about it [here](https://www.jsonline.com/story/sports/nba/bucks/2023/11/08/giannis-antetokounmpo-ejected-in-third-quarter-vs-pistons-after-dunk/71511644007/).
 
 ## Requirements
 - Python 3.8
