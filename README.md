@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes pound Gaza City as ground forces battle Hamas near major hospital**
+**Democrats' new abortion battle plan: Rush to get it on ballots in 2024**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-9-2023-49a2cfaf0c0856f6f6c32151d6b64226).
+You can read more about it [here](https://www.axios.com/2023/11/09/democrats-abortion-election-plan-2023).
 
 ## Requirements
 - Python 3.8
