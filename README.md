@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fight Breaks Out Outside Gal Gadot's Hamas Attack Film Screening**
+**In a U.S. First, a Commercial Plant Starts Pulling Carbon From the Air**
 
-You can read more about it [here](https://www.ndtv.com/world-news/fight-breaks-out-outside-gal-gadots-hamas-attack-film-screening-4562014).
+You can read more about it [here](https://nytlicensing.com/stories/j5TboMKx).
 
 ## Requirements
 - Python 3.8
