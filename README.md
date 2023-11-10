@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats' new abortion battle plan: Rush to get it on ballots in 2024**
+**Zac Efron, Mandy Moore, Octavia Spencer and More Stars React to SAG-AFTRA Strike Ending After 118 Days**
 
-You can read more about it [here](https://www.axios.com/2023/11/09/democrats-abortion-election-plan-2023).
+You can read more about it [here](https://www.eonline.com/news/1389543/zac-efron-octavia-spencer-and-more-stars-react-to-sag-aftra-strike-ending-after-118-days).
 
 ## Requirements
 - Python 3.8
