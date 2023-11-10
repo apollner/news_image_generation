@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 injuries: Bears' Justin Fields doubtful vs. Panthers; Ja'Marr Chase held out of Bengals practice**
+**Takeaways from the third 2024 Republican presidential debate**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-injuries-bears-justin-fields-doubtful-vs-panthers-jamarr-chase-held-out-of-bengals-practice/).
+You can read more about it [here](https://www.reuters.com/world/us/takeaway-third-2024-republican-presidential-debate-2023-11-09/).
 
 ## Requirements
 - Python 3.8
