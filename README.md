@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the third 2024 Republican presidential debate**
+**Nikola Jokic Drops DOUBLE-DOUBLE vs Warriors! | November 8, 2023**
 
-You can read more about it [here](https://www.reuters.com/world/us/takeaway-third-2024-republican-presidential-debate-2023-11-09/).
+You can read more about it [here](https://www.youtube.com/watch?v=7XVKC0ItQac).
 
 ## Requirements
 - Python 3.8
