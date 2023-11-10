@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hillary Clinton Criticizes Xi’s Decision to Keep Power**
+**China's consumer prices back in decline as recovery wobbles**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Yw6TQ_izRXk).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-oct-consumer-prices-fall-faster-than-expected-2023-11-09/).
 
 ## Requirements
 - Python 3.8
