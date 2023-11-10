@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CMA Awards 2023 winners list: Lainey Wilson, Luke Combs and more**
+**Hillary Clinton Criticizes Xi’s Decision to Keep Power**
 
-You can read more about it [here](https://www.delawareonline.com/story/entertainment/music/2023/11/09/cma-awards-2023-winners-list/71513000007/).
+You can read more about it [here](https://www.youtube.com/watch?v=Yw6TQ_izRXk).
 
 ## Requirements
 - Python 3.8
