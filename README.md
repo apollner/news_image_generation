@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Authorities investigating 'suspicious' envelopes sent to election offices in Washington, Georgia**
+**Duke vs. Arizona: Home-and-home series between traditional powers should be the expectation, not the exception**
 
-You can read more about it [here](https://abcnews.go.com/US/authorities-investigating-suspicious-envelopes-election-offices-washington-georgia/story?id=104761286).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/duke-vs-arizona-home-and-home-series-between-traditional-powers-should-be-the-expectation-not-the-exception/).
 
 ## Requirements
 - Python 3.8
