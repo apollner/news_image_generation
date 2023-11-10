@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three arrested for alleged roles in Mass., Va.-based brothel network**
+**Haley calls DeSantis ‘a liberal’ on environmental issues**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/11/08/metro/brothel-bust-boston/).
+You can read more about it [here](https://thehill.com/policy/energy-environment/4301116-haley-calls-desantis-liberal-on-environmental-issues/).
 
 ## Requirements
 - Python 3.8
