@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarming spike in newborn syphilis cases reported**
+**Here’s the 2023 CMA Awards Winners List**
 
-You can read more about it [here](https://www.youtube.com/watch?v=DUWJ2d4zoaQ).
+You can read more about it [here](https://www.billboard.com/music/awards/2023-cma-awards-winners-list-1235466821/).
 
 ## Requirements
 - Python 3.8
