@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wynonna Judd Responds After Fans Express Concern Over Her CMA Awards Performance: ‘I Was So Nervous’**
+**Surgeons in New York announce world's first eye transplant**
 
-You can read more about it [here](https://www.etonline.com/wynonna-judd-responds-after-fans-express-concern-over-her-cma-awards-performance-i-was-so-nervous).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/surgeons-new-york-announce-worlds-first-eye-transplant-2023-11-09/).
 
 ## Requirements
 - Python 3.8
