@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s the 2023 CMA Awards Winners List**
+**3 arrested in connection with prostitution network whose clients allegedly included politicians**
 
-You can read more about it [here](https://www.billboard.com/music/awards/2023-cma-awards-winners-list-1235466821/).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/3-arrested-connection-prostitution-network-whose-clients-allegedly-inc-rcna124274).
 
 ## Requirements
 - Python 3.8
