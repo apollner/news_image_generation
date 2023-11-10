@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Co-Founder Steve Wozniak Hospitalised Due To Possible Stroke: Report**
+**Surge and Swarm: How China's Ships Control the South China Sea**
 
-You can read more about it [here](https://www.ndtv.com/world-news/apple-co-founder-steve-wozniak-hospitalised-in-mexico-due-to-possible-stroke-report-4559115).
+You can read more about it [here](https://www.wsj.com/world/china/surge-and-swarm-how-chinas-ships-control-the-south-china-sea-ac8fa61c).
 
 ## Requirements
 - Python 3.8
