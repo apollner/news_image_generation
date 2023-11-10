@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's consumer prices back in decline as recovery wobbles**
+**Steph Curry & Klay Thompson Miss Game-Tying Shots vs. Nuggets**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-oct-consumer-prices-fall-faster-than-expected-2023-11-09/).
+You can read more about it [here](https://www.youtube.com/watch?v=8Atwz2QheR8).
 
 ## Requirements
 - Python 3.8
