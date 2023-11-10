@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surgeons in New York announce world's first eye transplant**
+**Israel will begin 4-hour pauses in military operations in Gaza each day, White House says**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/surgeons-new-york-announce-worlds-first-eye-transplant-2023-11-09/).
+You can read more about it [here](https://www.cnn.com/2023/11/09/politics/israel-pauses-gaza-white-house/index.html).
 
 ## Requirements
 - Python 3.8
