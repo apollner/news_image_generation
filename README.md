@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US carries out airstrikes in eastern Syria targeting IRGC and Iranian-backed groups’ weapons storage facility**
+**iPhone 15 Pro Max vs. Pixel 8 Pro: Camera, Battery, AI Features**
 
-You can read more about it [here](https://www.cnn.com/2023/11/08/politics/us-airstrikes-eastern-syria-iran/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=7LjHwRhn0TA).
 
 ## Requirements
 - Python 3.8
