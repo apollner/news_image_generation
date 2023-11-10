@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Kardashian Reveals Secret Tattoo—and the Meaning Behind It**
+**U.S. forces under fire in Middle East as America slides towards brink**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM4OTQzMS9raW0ta2FyZGFzaGlhbi1yZXZlYWxzLXNlY3JldC10YXR0b28tYW5kLXRoZS1tZWFuaW5nLWJlaGluZC1pdNIBAA?oc=5).
+You can read more about it [here](https://news.yahoo.com/u-forces-under-fire-middle-090314128.html).
 
 ## Requirements
 - Python 3.8
