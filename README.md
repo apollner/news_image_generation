@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 15 Pro Max vs. Pixel 8 Pro: Camera, Battery, AI Features**
+**Giannis Antetokounmpo takes courtside seat after being ejected for a controversial technical foul in Bucks win**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7LjHwRhn0TA).
+You can read more about it [here](https://www.cnn.com/2023/11/09/sport/giannis-antetokounmpo-courtside-ejected-technical-foul-spt-intl?cid=external-feeds_iluminar_yahoo).
 
 ## Requirements
 - Python 3.8
