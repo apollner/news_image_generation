@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actors Hit the Town to Celebrate the End of SAG-AFTRA Strike**
+**2023 CMA Awards: The best red carpet fashion from country music's biggest night**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/actors-celebrate-end-of-sag-aftra-strike-1235642900/).
+You can read more about it [here](https://abc7chicago.com/2023-cma-awards-red-carpet-photos-best-dressed/14022967/).
 
 ## Requirements
 - Python 3.8
