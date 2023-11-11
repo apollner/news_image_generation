@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
+**Pool Report on the ejection of Adrian Griffin during the third quarter of tonight's Milwaukee Bucks at Indiana Pacers Game**
 
-You can read more about it [here](https://scitechdaily.com/?p=326495).
+You can read more about it [here](https://official.nba.com/pool-report-on-the-ejection-of-adrian-griffin-during-the-third-quarter-of-tonights-milwaukee-bucks-at-indiana-pacers-game/).
 
 ## Requirements
 - Python 3.8
