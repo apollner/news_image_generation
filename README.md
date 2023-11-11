@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The First Small-Scale Nuclear Plant in the US Died Before It Could Live**
+**NFL Week 10 injuries: Bears without QB Justin Fields, three other starters; Panthers missing star edge rusher**
 
-You can read more about it [here](https://www.wired.com/story/first-small-scale-nuclear-plant-us-nuscale-canceled/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-injuries-bears-without-qb-justin-fields-three-other-starters-panthers-missing-star-edge-rusher/).
 
 ## Requirements
 - Python 3.8
