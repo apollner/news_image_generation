@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US veteran gets world's first eye transplant**
+**Carolina Panthers vs. Chicago Bears | 2023 Week 10 Game Highlights**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67375145).
+You can read more about it [here](https://www.youtube.com/watch?v=lfxxIv9sIj0).
 
 ## Requirements
 - Python 3.8
