@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration privately warned by American diplomats of growing fury against US in Arab world**
+**Valve Announces Steam Deck OLED, Says Switch OLED Paved The Way**
 
-You can read more about it [here](https://www.cnn.com/2023/11/09/politics/biden-diplomats-warn-middle-east-fury/index.html).
+You can read more about it [here](https://www.nintendolife.com/news/2023/11/valve-announces-steam-deck-oled-says-switch-oled-paved-the-way).
 
 ## Requirements
 - Python 3.8
