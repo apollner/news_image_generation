@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 injuries: Bears without QB Justin Fields, three other starters; Panthers missing star edge rusher**
+**SpaceX launches its 29th cargo mission to the International Space Station**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-injuries-bears-without-qb-justin-fields-three-other-starters-panthers-missing-star-edge-rusher/).
+You can read more about it [here](https://www.space.com/spacex-crs-29-iss-cargo-mission-launch).
 
 ## Requirements
 - Python 3.8
