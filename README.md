@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frank Borman, commander of the first mission to orbit the Moon, has died**
+**China's biggest lender ICBC hit by ransomware attack**
 
-You can read more about it [here](https://arstechnica.com/space/2023/11/frank-borman-commander-of-the-first-mission-to-orbit-the-moon-has-died/).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-largest-bank-icbc-hit-by-ransomware-software-ft-2023-11-09/).
 
 ## Requirements
 - Python 3.8
