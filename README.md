@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal jury convicts former Baltimore prosecutor Marilyn Mosby on 2 counts of perjury**
+**Palestinian officials say Israeli air strikes hit Gaza hospitals**
 
-You can read more about it [here](https://www.cnn.com/2023/11/09/us/baltimore-prosecutor-marilyn-mosby-convicted-perjury/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-officials-say-hospitals-come-under-new-israeli-attacks-2023-11-10/).
 
 ## Requirements
 - Python 3.8
