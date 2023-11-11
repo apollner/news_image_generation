@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's biggest lender ICBC hit by ransomware attack**
+**20,000 trucks stuck at Ukraine-Poland border amid spat over access to EU**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-largest-bank-icbc-hit-by-ransomware-software-ft-2023-11-09/).
+You can read more about it [here](https://www.cnn.com/2023/11/10/europe/poland-ukraine-border-truck-protest-intl/index.html).
 
 ## Requirements
 - Python 3.8
