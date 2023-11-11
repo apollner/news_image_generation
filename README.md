@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Officials Have Growing Confidence in Death Toll Reports From Gaza**
+**Nuclear stealth bomber, the B-21 Raider, takes first test flight**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/u-s-officials-have-growing-confidence-in-death-toll-reports-from-gaza-b3b5183a).
+You can read more about it [here](https://www.defensenews.com/air/2023/11/10/nuclear-stealth-bomber-the-b-21-raider-takes-first-test-flight/).
 
 ## Requirements
 - Python 3.8
