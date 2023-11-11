@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark guides No. 3 Iowa women's basketball to tough win over No. 5 Virginia Tech**
+**BOZICH | Louisville outlasts Virginia, 31-24, inching closer to ACC title game**
 
-You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2023/11/09/iowa-womens-basketball-holds-off-virginia-tech-behind-caitlin-clarks/71518548007/).
+You can read more about it [here](https://www.wdrb.com/sports/bozich-louisville-outlasts-virginia-31-24-inching-closer-to-acc-title-game/article_1e0e27d8-7f6e-11ee-8089-775af2dce603.html).
 
 ## Requirements
 - Python 3.8
