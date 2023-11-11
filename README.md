@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nuclear stealth bomber, the B-21 Raider, takes first test flight**
+**IDFA Artistic Director Under Fire After Applauding “From the River to the Sea” Opening Night Protest**
 
-You can read more about it [here](https://www.defensenews.com/air/2023/11/10/nuclear-stealth-bomber-the-b-21-raider-takes-first-test-flight/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/international-doc-film-fest-exec-slammed-palestine-protest-1235644263/).
 
 ## Requirements
 - Python 3.8
