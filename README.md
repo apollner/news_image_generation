@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First human eye transplant successfully performed in New York**
+**Hunter Biden special counsel tells Congress, "It wasn't a question of my authority. It was just a question of deciding to move forward."**
 
-You can read more about it [here](https://www.youtube.com/watch?v=uP5IclQGeqg).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-special-counsel-david-weiss-house-judiciary-committee-interview/).
 
 ## Requirements
 - Python 3.8
