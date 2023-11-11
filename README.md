@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches its 29th cargo mission to the International Space Station**
+**Double lung transplant with DD breast implants at Northwestern hospital**
 
-You can read more about it [here](https://www.space.com/spacex-crs-29-iss-cargo-mission-launch).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/09/lung-infection-transplant-breast-implants/).
 
 ## Requirements
 - Python 3.8
