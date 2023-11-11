@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Catalan politician shot in face in Madrid**
+**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
 
-You can read more about it [here](https://www.reuters.com/world/europe/former-catalan-politician-shot-face-madrid-2023-11-09/).
+You can read more about it [here](https://scitechdaily.com/?p=326495).
 
 ## Requirements
 - Python 3.8
