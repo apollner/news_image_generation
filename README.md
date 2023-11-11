@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**20,000 trucks stuck at Ukraine-Poland border amid spat over access to EU**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/11/10/europe/poland-ukraine-border-truck-protest-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
