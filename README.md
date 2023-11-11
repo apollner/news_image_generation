@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WGAE Members “Devastated” Over Closure Of Jezebel Amid Layoffs Across Parent Company G/O Media**
+**Biden administration privately warned by American diplomats of growing fury against US in Arab world**
 
-You can read more about it [here](https://deadline.com/2023/11/jezebel-closure-g-o-media-layoffs-wgae-reacts-1235599119/).
+You can read more about it [here](https://www.cnn.com/2023/11/09/politics/biden-diplomats-warn-middle-east-fury/index.html).
 
 ## Requirements
 - Python 3.8
