@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden special counsel tells Congress, "It wasn't a question of my authority. It was just a question of deciding to move forward."**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-special-counsel-david-weiss-house-judiciary-committee-interview/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
