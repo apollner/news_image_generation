@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Beckham, Victoria inspire Beckham Challenge for couples in love**
+**Federal jury convicts former Baltimore prosecutor Marilyn Mosby on 2 counts of perjury**
 
-You can read more about it [here](https://www.usatoday.com/story/life/health-wellness/2023/11/10/david-victoria-beckham-true-love-test/71516897007/).
+You can read more about it [here](https://www.cnn.com/2023/11/09/us/baltimore-prosecutor-marilyn-mosby-convicted-perjury/index.html).
 
 ## Requirements
 - Python 3.8
