@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Kyler Murray to make first start for Cardinals in 11 months - ESPN**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38863797/kyler-murray-make-1st-start-cardinals-11-months).
 
 ## Requirements
 - Python 3.8
