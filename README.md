@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US launches airstrikes on site in Syria targeting militia facility**
+**Caitlin Clark explodes for 44 as Iowa holds off Virginia Tech - ESPN**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/08/us-launches-airstrikes-on-site-in-syria-targeting-militia-facility/71511699007/).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/38860570/caitlin-clark-explodes-44-iowa-holds-virginia-tech).
 
 ## Requirements
 - Python 3.8
