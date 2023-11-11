@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pool Report on the ejection of Adrian Griffin during the third quarter of tonight's Milwaukee Bucks at Indiana Pacers Game**
+**First human eye transplant successfully performed in New York**
 
-You can read more about it [here](https://official.nba.com/pool-report-on-the-ejection-of-adrian-griffin-during-the-third-quarter-of-tonights-milwaukee-bucks-at-indiana-pacers-game/).
+You can read more about it [here](https://www.youtube.com/watch?v=uP5IclQGeqg).
 
 ## Requirements
 - Python 3.8
