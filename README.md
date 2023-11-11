@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian officials say Israeli air strikes hit Gaza hospitals**
+**The IRS just announced new tax brackets. Here's how to see yours.**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-officials-say-hospitals-come-under-new-israeli-attacks-2023-11-10/).
+You can read more about it [here](https://www.cbsnews.com/news/taxes-2024-tax-brackets-irs-how-to-see-yours/).
 
 ## Requirements
 - Python 3.8
