@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian officials say Israeli air strikes hit Gaza hospitals**
+**US launches airstrikes on site in Syria targeting militia facility**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-officials-say-hospitals-come-under-new-israeli-attacks-2023-11-10/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/08/us-launches-airstrikes-on-site-in-syria-targeting-militia-facility/71511699007/).
 
 ## Requirements
 - Python 3.8
