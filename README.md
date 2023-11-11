@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The IRS’s New 2024 Tax Brackets: Inflation Adjustment Could Save Taxpayers Money**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/personal-finance/taxes/income-tax-brackets-2024-irs-be0f9cc5).
 
 ## Requirements
 - Python 3.8
