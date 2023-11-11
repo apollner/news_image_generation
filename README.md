@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's biggest lender ICBC hit by ransomware attack**
+**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-largest-bank-icbc-hit-by-ransomware-software-ft-2023-11-09/).
+You can read more about it [here](https://scitechdaily.com/?p=326495).
 
 ## Requirements
 - Python 3.8
