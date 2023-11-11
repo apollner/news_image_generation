@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carolina Panthers vs. Chicago Bears | 2023 Week 10 Game Highlights**
+**China's biggest lender ICBC hit by ransomware attack**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lfxxIv9sIj0).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-largest-bank-icbc-hit-by-ransomware-software-ft-2023-11-09/).
 
 ## Requirements
 - Python 3.8
