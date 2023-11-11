@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark explodes for 44 as Iowa holds off Virginia Tech - ESPN**
+**Amazing Tiny Brain Implant Translates Brain Signals Into Speech**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/38860570/caitlin-clark-explodes-44-iowa-holds-virginia-tech).
+You can read more about it [here](https://www.sciencealert.com/amazing-tiny-brain-implant-translates-brain-signals-into-speech).
 
 ## Requirements
 - Python 3.8
