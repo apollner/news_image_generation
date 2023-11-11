@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Double lung transplant with DD breast implants at Northwestern hospital**
+**Former Catalan politician shot in face in Madrid**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/09/lung-infection-transplant-breast-implants/).
+You can read more about it [here](https://www.reuters.com/world/europe/former-catalan-politician-shot-face-madrid-2023-11-09/).
 
 ## Requirements
 - Python 3.8
