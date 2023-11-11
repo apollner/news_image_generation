@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carolina Panthers vs. Chicago Bears | 2023 Week 10 Game Highlights**
+**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lfxxIv9sIj0).
+You can read more about it [here](https://scitechdaily.com/?p=326495).
 
 ## Requirements
 - Python 3.8
