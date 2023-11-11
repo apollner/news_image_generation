@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The IRS just announced new tax brackets. Here's how to see yours.**
+**Frank Borman, commander of the first mission to orbit the Moon, has died**
 
-You can read more about it [here](https://www.cbsnews.com/news/taxes-2024-tax-brackets-irs-how-to-see-yours/).
+You can read more about it [here](https://arstechnica.com/space/2023/11/frank-borman-commander-of-the-first-mission-to-orbit-the-moon-has-died/).
 
 ## Requirements
 - Python 3.8
