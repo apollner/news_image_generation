@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
+**US veteran gets world's first eye transplant**
 
-You can read more about it [here](https://scitechdaily.com/?p=326495).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67375145).
 
 ## Requirements
 - Python 3.8
