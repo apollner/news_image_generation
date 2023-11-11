@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazing Tiny Brain Implant Translates Brain Signals Into Speech**
+**David Beckham, Victoria inspire Beckham Challenge for couples in love**
 
-You can read more about it [here](https://www.sciencealert.com/amazing-tiny-brain-implant-translates-brain-signals-into-speech).
+You can read more about it [here](https://www.usatoday.com/story/life/health-wellness/2023/11/10/david-victoria-beckham-true-love-test/71516897007/).
 
 ## Requirements
 - Python 3.8
