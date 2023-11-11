@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bloodlines and Bloodsuckers: Tracing Human Migration and Colonization in the Americas Through Lice**
+**WGAE Members “Devastated” Over Closure Of Jezebel Amid Layoffs Across Parent Company G/O Media**
 
-You can read more about it [here](https://scitechdaily.com/?p=326495).
+You can read more about it [here](https://deadline.com/2023/11/jezebel-closure-g-o-media-layoffs-wgae-reacts-1235599119/).
 
 ## Requirements
 - Python 3.8
