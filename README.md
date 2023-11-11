@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BOZICH | Louisville outlasts Virginia, 31-24, inching closer to ACC title game**
+**Palestinian officials say Israeli air strikes hit Gaza hospitals**
 
-You can read more about it [here](https://www.wdrb.com/sports/bozich-louisville-outlasts-virginia-31-24-inching-closer-to-acc-title-game/article_1e0e27d8-7f6e-11ee-8089-775af2dce603.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-officials-say-hospitals-come-under-new-israeli-attacks-2023-11-10/).
 
 ## Requirements
 - Python 3.8
