@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans eye plan to avert government shutdown**
+**SpaceX CRS-29 Cargo Dragon docks with space station**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-house-republicans-eye-plan-avert-government-shutdown-moodys-warns-2023-11-11/).
+You can read more about it [here](https://www.youtube.com/watch?v=8gkXdBOmbGU).
 
 ## Requirements
 - Python 3.8
