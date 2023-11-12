@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan court filings seek to block Jim Harbaugh suspension - ESPN**
+**Pro-Palestinian rioters vandalize NYPD cruiser during anti-Israel protests**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38867625/michigan-court-filings-seek-block-jim-harbaugh-suspension).
+You can read more about it [here](https://www.foxnews.com/us/pro-palestinian-rioters-vandalize-nypd-cruiser-anti-israel-protests).
 
 ## Requirements
 - Python 3.8
