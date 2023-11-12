@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The death knell': how tycoon behind Chrysler Building and Selfridges was forced out**
+**House Republicans eye plan to avert government shutdown**
 
-You can read more about it [here](https://www.ft.com/content/ace364ab-8fed-4cec-935f-0511131feb6a).
+You can read more about it [here](https://www.reuters.com/world/us/us-house-republicans-eye-plan-avert-government-shutdown-moodys-warns-2023-11-11/).
 
 ## Requirements
 - Python 3.8
