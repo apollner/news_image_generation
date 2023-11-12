@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vatican removes conservative Texas bishop Strickland**
+**Apple’s latest iMac packs solid performance and sleek design: Review**
 
-You can read more about it [here](https://www.npr.org/2023/11/11/1212468525/vatican-removes-conservative-texas-bishop-who-was-critical-of-pope-francis).
+You can read more about it [here](https://finance.yahoo.com/news/apples-latest-imac-packs-solid-performance-and-sleek-design-review-143025808.html).
 
 ## Requirements
 - Python 3.8
