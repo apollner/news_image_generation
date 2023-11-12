@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland braces for possible volcanic eruption after 1,400 earthquakes in 24 hours**
+**The clock is ticking for a Jim Harbaugh decision**
 
-You can read more about it [here](https://nypost.com/2023/11/11/news/iceland-issues-evacuation-orders-amid-growing-volcanic-eruption-concern/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-clock-is-ticking-for-a-jim-harbaugh-decision).
 
 ## Requirements
 - Python 3.8
