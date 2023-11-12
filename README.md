@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moody’s sends a warning to America: Your last AAA credit rating is at risk**
+**Big Ten bans Michigan coach Harbaugh from team's final 3 regular-season games over sign-stealing all**
 
-You can read more about it [here](https://www.cnn.com/2023/11/10/economy/moodys-warning-us-aaa-rating/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=SdICDKtQ2Xc).
 
 ## Requirements
 - Python 3.8
