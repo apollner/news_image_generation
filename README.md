@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Harbaugh suspension: Michigan takes legal action after Big Ten bans coach for final three games**
+**FBI seized New York City Mayor Eric Adams' phones, iPad in fundraising investigation**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/jim-harbaugh-suspension-michigan-takes-legal-action-after-big-ten-bans-coach-for-final-three-games/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/mayor-eric-adams-phone-ipad-seized-by-fbi-in-campaign-fundraising-investigation/).
 
 ## Requirements
 - Python 3.8
