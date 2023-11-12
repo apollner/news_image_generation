@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. debt in danger of downgrade by Moody's as shutdown looms**
+**APEC, where world leaders will meet face to face, gets underway Saturday**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/10/u-s-debt-in-danger-of-downgrade-by-moodys-as-shutdown-looms-00126680).
+You can read more about it [here](https://www.youtube.com/watch?v=7oTJEarAHuo).
 
 ## Requirements
 - Python 3.8
