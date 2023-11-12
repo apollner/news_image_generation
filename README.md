@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**300,000 march against Israel in London on Armistice Day, demand Gaza ceasefire**
+**Arab-Islamic summit rejects justifying Gaza war as Israeli self-defence**
 
-You can read more about it [here](https://www.timesofisrael.com/many-thousands-march-against-israel-in-london-on-armistice-day-demand-gaza-ceasefire/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/11/saudi-arabia-to-host-arab-islamic-summit-to-unify-efforts-on-gaza).
 
 ## Requirements
 - Python 3.8
