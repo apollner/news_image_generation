@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**London police scuffle with far-right protesters as pro-Palestinian rally starts**
+**The Big Ten’s punishment of Michigan’s Jim Harbaugh was sloppy, rushed and pleases nobody**
 
-You can read more about it [here](https://www.reuters.com/world/huge-crowds-expected-london-pro-palestinian-rally-police-gear-trouble-2023-11-11/).
+You can read more about it [here](https://theathletic.com/5052783/2023/11/11/harbaugh-suspension-michigan/).
 
 ## Requirements
 - Python 3.8
