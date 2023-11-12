@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan court filings seek to block Jim Harbaugh suspension - ESPN**
+**FDA approves first vaccine against mosquito-borne virus chikungunya**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38867625/michigan-court-filings-seek-block-jim-harbaugh-suspension).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/).
 
 ## Requirements
 - Python 3.8
