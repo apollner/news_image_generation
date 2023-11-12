@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's war on Hamas homes in on Gaza hospitals**
+**$29 flights are back as airlines race to fill seats in the off-season**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-death-toll-rises-israel-faces-pressure-protect-palestinian-civilians-2023-11-11/).
+You can read more about it [here](https://www.cnbc.com/2023/11/11/flight-discounts-are-back.html).
 
 ## Requirements
 - Python 3.8
