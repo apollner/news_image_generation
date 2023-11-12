@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The clock is ticking for a Jim Harbaugh decision**
+**Novo Nordisk's weight loss drug Wegovy slashes risk of serious heart events**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-clock-is-ticking-for-a-jim-harbaugh-decision).
+You can read more about it [here](https://www.cnbc.com/2023/11/11/weight-loss-drug-wegovy-slashes-risk-of-serious-heart-complications.html).
 
 ## Requirements
 - Python 3.8
