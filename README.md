@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s latest iMac packs solid performance and sleek design: Review**
+**300,000 march against Israel in London on Armistice Day, demand Gaza ceasefire**
 
-You can read more about it [here](https://finance.yahoo.com/news/apples-latest-imac-packs-solid-performance-and-sleek-design-review-143025808.html).
+You can read more about it [here](https://www.timesofisrael.com/many-thousands-march-against-israel-in-london-on-armistice-day-demand-gaza-ceasefire/).
 
 ## Requirements
 - Python 3.8
