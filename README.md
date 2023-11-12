@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**$29 flights are back as airlines race to fill seats in the off-season**
+**Israel-Palestine War: Israel's PM Netanyahu meets with soldiers | WION Speed News**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/11/flight-discounts-are-back.html).
+You can read more about it [here](https://www.youtube.com/watch?v=zynfg53HaNc).
 
 ## Requirements
 - Python 3.8
