@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX CRS-29 Cargo Dragon docks with space station**
+**300,000 join pro-Palestinian rally in London as scores of counter-protesters arrested**
 
-You can read more about it [here](https://www.youtube.com/watch?v=8gkXdBOmbGU).
+You can read more about it [here](https://www.cnn.com/2023/11/11/world/far-right-protestors-disrupt-armistice-day-london/index.html).
 
 ## Requirements
 - Python 3.8
