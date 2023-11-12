@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The clock is ticking for a Jim Harbaugh decision**
+**Israel-Palestine War: Israel's PM Netanyahu meets with soldiers | WION Speed News**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-clock-is-ticking-for-a-jim-harbaugh-decision).
+You can read more about it [here](https://www.youtube.com/watch?v=zynfg53HaNc).
 
 ## Requirements
 - Python 3.8
