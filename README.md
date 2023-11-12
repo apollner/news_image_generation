@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Nordisk's weight loss drug Wegovy slashes risk of serious heart events**
+**‘We are minutes away from death’: Gaza’s al-Shifa Hospital under attack**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/11/weight-loss-drug-wegovy-slashes-risk-of-serious-heart-complications.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/11/we-are-minutes-away-from-death-gazas-al-shifa-hospital-under-attack).
 
 ## Requirements
 - Python 3.8
