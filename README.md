@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saudi Arabia to host extraordinary joint Islamic-Arab summit on Saturday**
+**Jim Harbaugh suspension: Michigan takes legal action after Big Ten bans coach for final three games**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/saudi-arabia-host-extraordinary-joint-islamic-arab-summit-riyadh-saturday-2023-11-10/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/jim-harbaugh-suspension-michigan-takes-legal-action-after-big-ten-bans-coach-for-final-three-games/).
 
 ## Requirements
 - Python 3.8
