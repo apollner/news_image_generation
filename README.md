@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves first vaccine against mosquito-borne virus chikungunya**
+**NBA In-Season Tournament schedule: Live stream, TV channel, watch online, scores as action resumes Friday**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-in-season-tournament-schedule-scores-standings-lakers-celtics-76ers-mavs-hornets-mavs-pick-up-first-wins/).
 
 ## Requirements
 - Python 3.8
