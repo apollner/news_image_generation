@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We are minutes away from death’: Gaza’s al-Shifa Hospital under attack**
+**Israel's war on Hamas homes in on Gaza hospitals**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/11/we-are-minutes-away-from-death-gazas-al-shifa-hospital-under-attack).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-death-toll-rises-israel-faces-pressure-protect-palestinian-civilians-2023-11-11/).
 
 ## Requirements
 - Python 3.8
