@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Ten bans Michigan's Jim Harbaugh from sideline**
+**Taylor Swift postpones Argentina concert after Travis Kelce arrives**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38864724/sources-big-ten-ban-michigan-jim-harbaugh-field).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-cancels-argentina-concert-travis-kelce-arrives).
 
 ## Requirements
 - Python 3.8
