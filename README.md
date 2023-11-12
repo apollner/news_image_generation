@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bankman-Fried's parents could face their own legal perils, experts say**
+**The clock is ticking for a Jim Harbaugh decision**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-clock-is-ticking-for-a-jim-harbaugh-decision).
 
 ## Requirements
 - Python 3.8
