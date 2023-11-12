@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands who were sheltering at Gaza City's hospitals flee as Israel-Hamas war closes in**
+**FBI seizes New York City Mayor Eric Adams’ phones as part of federal investigation into fundraising**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-10-2023-98025565691cc44304074b3e25d11ae5).
+You can read more about it [here](https://www.cnn.com/2023/11/10/politics/eric-adams-phones-seized-fbi/index.html).
 
 ## Requirements
 - Python 3.8
