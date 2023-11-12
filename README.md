@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moody's downgrades US credit rating outlook to 'negative', Biden administration blames Republicans**
+**Michigan court filings seek to block Jim Harbaugh suspension - ESPN**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/business/international-business/moodys-downgrades-us-credit-rating-outlook-to-negative-biden-administration-blames-republicans/articleshow/105139132.cms).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38867625/michigan-court-filings-seek-block-jim-harbaugh-suspension).
 
 ## Requirements
 - Python 3.8
