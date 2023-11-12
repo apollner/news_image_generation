@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Big Ten’s punishment of Michigan’s Jim Harbaugh was sloppy, rushed and pleases nobody**
+**Bankman-Fried's parents could face their own legal perils, experts say**
 
-You can read more about it [here](https://theathletic.com/5052783/2023/11/11/harbaugh-suspension-michigan/).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/).
 
 ## Requirements
 - Python 3.8
