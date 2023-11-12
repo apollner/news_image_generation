@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Races to Root Out Hamas as Calls for Gaza Cease-Fire Mount**
+**Moody’s sends a warning to America: Your last AAA credit rating is at risk**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1).
+You can read more about it [here](https://www.cnn.com/2023/11/10/economy/moodys-warning-us-aaa-rating/index.html).
 
 ## Requirements
 - Python 3.8
