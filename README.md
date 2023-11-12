@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**APEC, where world leaders will meet face to face, gets underway Saturday**
+**Moody's downgrades US credit rating outlook to 'negative', Biden administration blames Republicans**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7oTJEarAHuo).
+You can read more about it [here](https://timesofindia.indiatimes.com/business/international-business/moodys-downgrades-us-credit-rating-outlook-to-negative-biden-administration-blames-republicans/articleshow/105139132.cms).
 
 ## Requirements
 - Python 3.8
