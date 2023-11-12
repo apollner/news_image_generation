@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian demonstrator sets Israeli flag on fire in NYC protest, stomps on it**
+**'Started seeing body parts': Tarzana murder suspect hired day laborers to move bags of human remains**
 
-You can read more about it [here](https://www.foxnews.com/us/pro-palestinin-demonstrator-sets-israeli-flag-fire-nyc-protest-stomps).
+You can read more about it [here](http://www.nbclosangeles.com/news/local/day-laborers-hired-by-tarzana-murder-suspect-to-move-body-parts-human-remains-encino/3266061/).
 
 ## Requirements
 - Python 3.8
