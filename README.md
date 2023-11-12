@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Palestine War: Israel's PM Netanyahu meets with soldiers | WION Speed News**
+**London police scuffle with far-right protesters as pro-Palestinian rally starts**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zynfg53HaNc).
+You can read more about it [here](https://www.reuters.com/world/huge-crowds-expected-london-pro-palestinian-rally-police-gear-trouble-2023-11-11/).
 
 ## Requirements
 - Python 3.8
