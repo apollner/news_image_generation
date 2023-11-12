@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Started seeing body parts': Tarzana murder suspect hired day laborers to move bags of human remains**
+**Michigan court filings seek to block Jim Harbaugh suspension - ESPN**
 
-You can read more about it [here](http://www.nbclosangeles.com/news/local/day-laborers-hired-by-tarzana-murder-suspect-to-move-body-parts-human-remains-encino/3266061/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38867625/michigan-court-filings-seek-block-jim-harbaugh-suspension).
 
 ## Requirements
 - Python 3.8
