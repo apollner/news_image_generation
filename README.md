@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**300,000 join pro-Palestinian rally in London as scores of counter-protesters arrested**
+**Vatican removes conservative Texas bishop Strickland**
 
-You can read more about it [here](https://www.cnn.com/2023/11/11/world/far-right-protestors-disrupt-armistice-day-london/index.html).
+You can read more about it [here](https://www.npr.org/2023/11/11/1212468525/vatican-removes-conservative-texas-bishop-who-was-critical-of-pope-francis).
 
 ## Requirements
 - Python 3.8
