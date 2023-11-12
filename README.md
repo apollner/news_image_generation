@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDFA Artistic Director Under Fire After Applauding “From the River to the Sea” Opening Night Protest**
+**Big Ten bans Michigan's Jim Harbaugh from sideline**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/international-doc-film-fest-exec-slammed-palestine-protest-1235644263/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38864724/sources-big-ten-ban-michigan-jim-harbaugh-field).
 
 ## Requirements
 - Python 3.8
