@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA’s Fran Drescher & Duncan Crabtree-Ireland Describe “Dealbreaker” Moment That Helped End Strike As Actors Wait For Full Studio Contract Details**
+**Thousands who were sheltering at Gaza City's hospitals flee as Israel-Hamas war closes in**
 
-You can read more about it [here](https://deadline.com/2023/11/sag-aftra-dealbreaker-moment-end-strike-1235600036/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-10-2023-98025565691cc44304074b3e25d11ae5).
 
 ## Requirements
 - Python 3.8
