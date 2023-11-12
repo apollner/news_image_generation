@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Palestine War: Israel's PM Netanyahu meets with soldiers | WION Speed News**
+**'The death knell': how tycoon behind Chrysler Building and Selfridges was forced out**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zynfg53HaNc).
+You can read more about it [here](https://www.ft.com/content/ace364ab-8fed-4cec-935f-0511131feb6a).
 
 ## Requirements
 - Python 3.8
