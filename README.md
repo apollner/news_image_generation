@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House tried, and failed, to persuade Manchin to make another Senate run**
+**Saudi Arabia to host extraordinary joint Islamic-Arab summit on Saturday**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/10/biden-manchin-senate-run-00126683).
+You can read more about it [here](https://www.reuters.com/world/middle-east/saudi-arabia-host-extraordinary-joint-islamic-arab-summit-riyadh-saturday-2023-11-10/).
 
 ## Requirements
 - Python 3.8
