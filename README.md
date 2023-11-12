@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves first vaccine against mosquito-borne virus chikungunya**
+**Iceland braces for possible volcanic eruption after 1,400 earthquakes in 24 hours**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/).
+You can read more about it [here](https://nypost.com/2023/11/11/news/iceland-issues-evacuation-orders-amid-growing-volcanic-eruption-concern/).
 
 ## Requirements
 - Python 3.8
