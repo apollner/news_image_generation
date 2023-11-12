@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Ten bans Michigan coach Harbaugh from team's final 3 regular-season games over sign-stealing all**
+**Big Ten Conference Announces Violation of Sportsmanship Policy by University of Michigan Football Program**
 
-You can read more about it [here](https://www.youtube.com/watch?v=SdICDKtQ2Xc).
+You can read more about it [here](https://bigten.org/news/2023/11/10/general-big-ten-conference-announces-violation-of-sportsmanship-policy-by-university-of-michigan-football-program.aspx).
 
 ## Requirements
 - Python 3.8
