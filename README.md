@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI seizes New York City Mayor Eric Adams’ phones as part of federal investigation into fundraising**
+**White House tried, and failed, to persuade Manchin to make another Senate run**
 
-You can read more about it [here](https://www.cnn.com/2023/11/10/politics/eric-adams-phones-seized-fbi/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/10/biden-manchin-senate-run-00126683).
 
 ## Requirements
 - Python 3.8
