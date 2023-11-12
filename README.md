@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian rioters vandalize NYPD cruiser during anti-Israel protests**
+**Pro-Palestinian demonstrator sets Israeli flag on fire in NYC protest, stomps on it**
 
-You can read more about it [here](https://www.foxnews.com/us/pro-palestinian-rioters-vandalize-nypd-cruiser-anti-israel-protests).
+You can read more about it [here](https://www.foxnews.com/us/pro-palestinin-demonstrator-sets-israeli-flag-fire-nyc-protest-stomps).
 
 ## Requirements
 - Python 3.8
