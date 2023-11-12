@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI seized New York City Mayor Eric Adams' phones, iPad in fundraising investigation**
+**FDA approves first vaccine against mosquito-borne virus chikungunya**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/mayor-eric-adams-phone-ipad-seized-by-fbi-in-campaign-fundraising-investigation/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/).
 
 ## Requirements
 - Python 3.8
