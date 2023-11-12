@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arab-Islamic summit rejects justifying Gaza war as Israeli self-defence**
+**An unlikely trio of Trump supporters are now his defiant co-defendants**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/11/saudi-arabia-to-host-arab-islamic-summit-to-unify-efforts-on-gaza).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/11/11/trump-georgia-ruby-freeman-harrison-floyd-trevian-kutti-stephen-lee/).
 
 ## Requirements
 - Python 3.8
