@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sherrone Moore guides Michigan through emotional 24 hours - ESPN**
+**Suspect released in murder of Detroit synagogue president Samantha Woll**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38876756/sherrone-moore-guides-michigan-emotional-24-hours).
+You can read more about it [here](https://www.cbsnews.com/detroit/news/suspect-released-in-murder-of-detroit-synagogue-president-samantha-woll/).
 
 ## Requirements
 - Python 3.8
