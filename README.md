@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawmakers, crowds in Paris march against antisemitism**
+**Taylor Swift And Travis Kelce Kissing Reactions**
 
-You can read more about it [here](https://www.youtube.com/watch?v=LtVS_9z6gDc).
+You can read more about it [here](https://www.buzzfeed.com/mychalthompson/taylor-swift-travis-kelce-eras-tour-kiss-reactions).
 
 ## Requirements
 - Python 3.8
