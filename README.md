@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football Week 10 inactives - Who's in and who's out? - ESPN**
+**Voting group founded by Abrams, once led by Warnock, faces financial scrutiny**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek10/nfl-fantasy-football-espn-injured-inactives-watchlist-week-10-2023-november-12).
+You can read more about it [here](https://www.politico.com/news/2023/11/12/new-georgia-project-nse-ufot-00122485).
 
 ## Requirements
 - Python 3.8
