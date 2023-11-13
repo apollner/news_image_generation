@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Jenner & Timothée Chalamet Attend ‘SNL’ Afterparty Together**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=GdfklQhDeb8).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
