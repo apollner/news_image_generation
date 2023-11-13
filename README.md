@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**9 Americans still missing after Hamas attack as hostage negotiations continue: Sullivan**
+**UK judges rule to remove 8-month-old Indi Gregory off life support**
 
-You can read more about it [here](https://abcnews.go.com/Politics/9-americans-missing-after-hamas-attack-hostage-negotiations/story?id=104822113).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/12/indi-gregory-removed-from-life-support/71557899007/).
 
 ## Requirements
 - Python 3.8
