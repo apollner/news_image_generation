@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP pursuing two-step plan to avert government shutdown**
+**Israel-Hamas war: Israel’s humanitarian pauses in Gaza, explained**
 
-You can read more about it [here](https://www.cnn.com/2023/11/11/politics/house-speaker-mike-johnson-pitches/index.html).
+You can read more about it [here](https://www.vox.com/world-politics/2023/11/11/23956555/israel-hamas-war-gaza-humanitarian-pauses-explained-hospitals-shifa).
 
 ## Requirements
 - Python 3.8
