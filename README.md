@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aries Horoscope Today: November 12, 2023**
+**PM Update: Dipping into the 30s tonight. Sunday's a bit cooler than today.**
 
-You can read more about it [here](https://www.vogue.in/horoscope/product/aries-horoscope-today-november-12-2023/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/11/weather-sunday-cooler/).
 
 ## Requirements
 - Python 3.8
