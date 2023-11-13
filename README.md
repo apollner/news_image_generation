@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 futuristic things the Humane Ai Pin can do as a smartphone alternative**
+**Your phone is the key to your digital life. Make sure you know what to do if you lose it.**
 
-You can read more about it [here](https://mashable.com/article/humane-ai-pin-futuristic-features).
+You can read more about it [here](https://www.vox.com/technology/23954548/lost-broken-stolen-phone-save-yourself).
 
 ## Requirements
 - Python 3.8
