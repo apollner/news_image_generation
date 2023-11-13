@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Lights Forecast: How To See Tonight’s Aurora**
+**White House reacts to Speaker’s ‘extreme’ stopgap funding bill**
 
-You can read more about it [here](https://www.forbes.com/sites/willskipworth/2023/11/11/northern-lights-forecast-how-to-see-tonights-aurora/).
+You can read more about it [here](https://thehill.com/homenews/house/4305757-white-house-reacts-speakers-stopgap-funding-bill/).
 
 ## Requirements
 - Python 3.8
