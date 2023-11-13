@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK judges rule to remove 8-month-old Indi Gregory off life support**
+**Jimbo Fisher expected to be fired by Texas A&M, sources confirm - ESPN**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/12/indi-gregory-removed-from-life-support/71557899007/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38880082/jimbo-fisher-expected-fired-texas-sources-confirm).
 
 ## Requirements
 - Python 3.8
