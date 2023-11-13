@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of Greenland’s glaciers are rapidly shrinking. Before-and-after photos reveal decades of change**
+**Germany Set to Double Its Ukraine Military Aid Under Scholz Plan**
 
-You can read more about it [here](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-11/germany-set-to-double-its-ukraine-military-aid-under-scholz-plan).
 
 ## Requirements
 - Python 3.8
