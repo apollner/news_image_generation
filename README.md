@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An unlikely trio of Trump supporters are now his defiant co-defendants**
+**Travis Kelce Spotted at Taylor Swift's Second Buenos Aires Eras Tour Concert**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/11/11/trump-georgia-ruby-freeman-harrison-floyd-trevian-kutti-stephen-lee/).
+You can read more about it [here](https://www.etonline.com/travis-kelce-spotted-at-taylor-swifts-second-buenos-aires-eras-tour-concert-214678).
 
 ## Requirements
 - Python 3.8
