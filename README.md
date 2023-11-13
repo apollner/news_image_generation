@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimbo Fisher expected to be fired by Texas A&M, sources confirm - ESPN**
+**House GOP pursuing two-step plan to avert government shutdown**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38880082/jimbo-fisher-expected-fired-texas-sources-confirm).
+You can read more about it [here](https://www.cnn.com/2023/11/11/politics/house-speaker-mike-johnson-pitches/index.html).
 
 ## Requirements
 - Python 3.8
