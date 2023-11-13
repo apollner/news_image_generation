@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voting group founded by Abrams, once led by Warnock, faces financial scrutiny**
+**Weekly Horoscopes for the Week of November 12, by the Cut**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/12/new-georgia-project-nse-ufot-00122485).
+You can read more about it [here](http://www.thecut.com/2023/11/weekly-horoscopes-for-the-week-of-november-12-by-the-cut.html).
 
 ## Requirements
 - Python 3.8
