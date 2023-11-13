@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**30 Products I Wish Everyone Knew About**
+**Sherrone Moore guides Michigan through emotional 24 hours - ESPN**
 
-You can read more about it [here](https://www.buzzfeed.com/bekoconnell/products-wish-everyone-knew-about-an).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38876756/sherrone-moore-guides-michigan-emotional-24-hours).
 
 ## Requirements
 - Python 3.8
