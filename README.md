@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekly Horoscopes for the Week of November 12, by the Cut**
+**Travis Kelce Reacts to Taylor Swift Changing 'Karma' Lyrics During Show**
 
-You can read more about it [here](http://www.thecut.com/2023/11/weekly-horoscopes-for-the-week-of-november-12-by-the-cut.html).
+You can read more about it [here](https://people.com/travis-kelce-is-surprised-after-taylor-swift-changes-karma-lyrics-8400785).
 
 ## Requirements
 - Python 3.8
