@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selling Sunset drama over LA's mansion tax and what it means**
+**Fantasy football Week 10 inactives - Who's in and who's out? - ESPN**
 
-You can read more about it [here](https://www.businessinsider.com/selling-sunset-los-angeles-mansion-tax-millionaires-housing-crisis-2023-11).
+You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek10/nfl-fantasy-football-espn-injured-inactives-watchlist-week-10-2023-november-12).
 
 ## Requirements
 - Python 3.8
