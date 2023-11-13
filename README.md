@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Reacts to Taylor Swift Changing 'Karma' Lyrics During Show**
+**9 Americans still missing after Hamas attack as hostage negotiations continue: Sullivan**
 
-You can read more about it [here](https://people.com/travis-kelce-is-surprised-after-taylor-swift-changes-karma-lyrics-8400785).
+You can read more about it [here](https://abcnews.go.com/Politics/9-americans-missing-after-hamas-attack-hostage-negotiations/story?id=104822113).
 
 ## Requirements
 - Python 3.8
