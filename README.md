@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Speaker Mike Johnson proposes 2-step stopgap funding bill to avert government shutdown**
+**4 futuristic things the Humane Ai Pin can do as a smartphone alternative**
 
-You can read more about it [here](https://www.cbsnews.com/news/mike-johnson-proposes-stopgap-funding-bill-government-shutdown/).
+You can read more about it [here](https://mashable.com/article/humane-ai-pin-futuristic-features).
 
 ## Requirements
 - Python 3.8
