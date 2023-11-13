@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Spotted at Taylor Swift's Second Buenos Aires Eras Tour Concert**
+**First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval**
 
-You can read more about it [here](https://www.etonline.com/travis-kelce-spotted-at-taylor-swifts-second-buenos-aires-eras-tour-concert-214678).
+You can read more about it [here](https://www.foxnews.com/health/first-vaccine-chikungunya-virus-emerging-global-health-threat-gets-fda-approval).
 
 ## Requirements
 - Python 3.8
