@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM Update: Dipping into the 30s tonight. Sunday's a bit cooler than today.**
+**Thousands of Greenland’s glaciers are rapidly shrinking. Before-and-after photos reveal decades of change**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/11/weather-sunday-cooler/).
+You can read more about it [here](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html).
 
 ## Requirements
 - Python 3.8
