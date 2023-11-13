@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect released in murder of Detroit synagogue president Samantha Woll**
+**House GOP pursuing two-step plan to avert government shutdown**
 
-You can read more about it [here](https://www.cbsnews.com/detroit/news/suspect-released-in-murder-of-detroit-synagogue-president-samantha-woll/).
+You can read more about it [here](https://www.cnn.com/2023/11/11/politics/house-speaker-mike-johnson-pitches/index.html).
 
 ## Requirements
 - Python 3.8
