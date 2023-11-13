@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football scores, results: Michigan gets signature win over Penn State; Georgia and Alabama roll; Washington survives**
+**Aries Horoscope Today: November 12, 2023**
 
-You can read more about it [here](https://sports.yahoo.com/college-football-scores-results-michigan-gets-signature-win-over-penn-state-georgia-and-alabama-roll-washington-survives-071058573.html).
+You can read more about it [here](https://www.vogue.in/horoscope/product/aries-horoscope-today-november-12-2023/).
 
 ## Requirements
 - Python 3.8
