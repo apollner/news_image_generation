@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift And Travis Kelce Kissing Reactions**
+**Wegovy cuts risk of serious heart problems by 20%: landmark study**
 
-You can read more about it [here](https://www.buzzfeed.com/mychalthompson/taylor-swift-travis-kelce-eras-tour-kiss-reactions).
+You can read more about it [here](https://nypost.com/2023/11/12/lifestyle/wegovy-cuts-risk-of-serious-heart-problems-by-20-study-finds/).
 
 ## Requirements
 - Python 3.8
