@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval**
+**Suspect released in murder of Detroit synagogue president Samantha Woll**
 
-You can read more about it [here](https://www.foxnews.com/health/first-vaccine-chikungunya-virus-emerging-global-health-threat-gets-fda-approval).
+You can read more about it [here](https://www.cbsnews.com/detroit/news/suspect-released-in-murder-of-detroit-synagogue-president-samantha-woll/).
 
 ## Requirements
 - Python 3.8
