@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM Update: Dipping into the 30s tonight. Sunday's a bit cooler than today.**
+**Israel says it's ready to evacuate babies from Gaza hospital as fighting rages**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/11/weather-sunday-cooler/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/fighting-rages-israel-says-ready-evacuate-babies-gazas-main-hospital-2023-11-11/).
 
 ## Requirements
 - Python 3.8
