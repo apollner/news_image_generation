@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House reacts to Speaker’s ‘extreme’ stopgap funding bill**
+**PM Update: Dipping into the 30s tonight. Sunday's a bit cooler than today.**
 
-You can read more about it [here](https://thehill.com/homenews/house/4305757-white-house-reacts-speakers-stopgap-funding-bill/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/11/weather-sunday-cooler/).
 
 ## Requirements
 - Python 3.8
