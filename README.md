@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Johnson stares down the first real test of his speakership**
+**Taylor Swift And Travis Kelce Kissing Reactions**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/12/government-shutdown-congress-plan-mike-johnson-00126730).
+You can read more about it [here](https://www.buzzfeed.com/mychalthompson/taylor-swift-travis-kelce-eras-tour-kiss-reactions).
 
 ## Requirements
 - Python 3.8
