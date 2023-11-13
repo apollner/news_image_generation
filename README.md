@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it's ready to evacuate babies from Gaza hospital as fighting rages**
+**College football scores, results: Michigan gets signature win over Penn State; Georgia and Alabama roll; Washington survives**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/fighting-rages-israel-says-ready-evacuate-babies-gazas-main-hospital-2023-11-11/).
+You can read more about it [here](https://sports.yahoo.com/college-football-scores-results-michigan-gets-signature-win-over-penn-state-georgia-and-alabama-roll-washington-survives-071058573.html).
 
 ## Requirements
 - Python 3.8
