@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinians in Lebanon disappointed that Hezbollah won’t escalate**
+**Selling Sunset drama over LA's mansion tax and what it means**
 
-You can read more about it [here](https://www.aljazeera.com/features/2023/11/12/palestinians-in-lebanon-disappointed-that-hezbollah-wont-escalate).
+You can read more about it [here](https://www.businessinsider.com/selling-sunset-los-angeles-mansion-tax-millionaires-housing-crisis-2023-11).
 
 ## Requirements
 - Python 3.8
