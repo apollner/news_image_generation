@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**30 Products I Wish Everyone Knew About**
+**House Speaker Mike Johnson proposes 2-step stopgap funding bill to avert government shutdown**
 
-You can read more about it [here](https://www.buzzfeed.com/bekoconnell/products-wish-everyone-knew-about-an).
+You can read more about it [here](https://www.cbsnews.com/news/mike-johnson-proposes-stopgap-funding-bill-government-shutdown/).
 
 ## Requirements
 - Python 3.8
