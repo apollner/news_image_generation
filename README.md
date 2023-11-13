@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your phone is the key to your digital life. Make sure you know what to do if you lose it.**
+**Palestinians in Lebanon disappointed that Hezbollah won’t escalate**
 
-You can read more about it [here](https://www.vox.com/technology/23954548/lost-broken-stolen-phone-save-yourself).
+You can read more about it [here](https://www.aljazeera.com/features/2023/11/12/palestinians-in-lebanon-disappointed-that-hezbollah-wont-escalate).
 
 ## Requirements
 - Python 3.8
