@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect released in murder of Detroit synagogue president Samantha Woll**
+**Northern Lights Forecast: How To See Tonight’s Aurora**
 
-You can read more about it [here](https://www.cbsnews.com/detroit/news/suspect-released-in-murder-of-detroit-synagogue-president-samantha-woll/).
+You can read more about it [here](https://www.forbes.com/sites/willskipworth/2023/11/11/northern-lights-forecast-how-to-see-tonights-aurora/).
 
 ## Requirements
 - Python 3.8
