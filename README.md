@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI chief seeks new Microsoft funds to build 'superintelligence'**
+**NFL Week 10 winners, losers: Jets' season is slipping away**
 
-You can read more about it [here](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/11/13/nfl-winners-losers-jets-week-10/71560936007/).
 
 ## Requirements
 - Python 3.8
