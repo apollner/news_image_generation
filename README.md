@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Jets vs. Raiders score, highlights, news, inactives and live updates**
+**Travis Kelce Departs Argentina After Eras Tour Stop with Taylor Swift**
 
-You can read more about it [here](https://sports.yahoo.com/sunday-night-football-jets-vs-raiders-score-highlights-news-inactives-and-live-tracker-234547474.html).
+You can read more about it [here](https://www.etonline.com/travis-kelce-departs-argentina-after-joining-taylor-swift-for-pda-filled-eras-tour-stop-214734).
 
 ## Requirements
 - Python 3.8
