@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 grades: Raiders earn 'B+' for Sunday night win over Jets, Browns get an 'A' for stunning Ravens**
+**Taurus Horoscope Today: November 13, 2023**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-grades-raiders-earn-b-for-sunday-night-win-over-jets-browns-get-an-a-for-stunning-ravens/).
+You can read more about it [here](https://www.vogue.in/horoscope/product/taurus-horoscope-today-november-13-2023/).
 
 ## Requirements
 - Python 3.8
