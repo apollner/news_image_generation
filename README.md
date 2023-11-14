@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP floats telework restrictions, drastic spending cuts as Congress weighs options to avert shutdown**
+**Newborns taken out of incubators wrapped in foil to keep them alive at Gaza’s largest hospital, director says**
 
-You can read more about it [here](https://www.govexec.com/management/2023/11/house-gop-floats-telework-restrictions-drastic-spending-cuts-congress-weighs-options-avert-shutdown/391920/).
+You can read more about it [here](https://www.cnn.com/2023/11/13/middleeast/gaza-babies-incubators-al-shifa-hospital-israel-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
