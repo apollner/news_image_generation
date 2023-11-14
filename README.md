@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM facing tough week on Braverman and Rwanda**
+**Sunday Night Football: Jets vs. Raiders score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67396107).
+You can read more about it [here](https://sports.yahoo.com/sunday-night-football-jets-vs-raiders-score-highlights-news-inactives-and-live-tracker-234547474.html).
 
 ## Requirements
 - Python 3.8
