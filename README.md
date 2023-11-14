@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas A&M fires Jimbo Fisher: Ill-advised extension, notable losses among moments that led to coach's downfall**
+**Netanyahu says Hamas refused Israeli fuel offer for Gaza's Shifa hospital**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/texas-a-m-fires-jimbo-fisher-ill-advised-extension-notable-losses-among-moments-that-led-to-coachs-downfall/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/netanyahu-says-hamas-refused-israeli-fuel-offer-gazas-shifa-hospital-2023-11-12/).
 
 ## Requirements
 - Python 3.8
