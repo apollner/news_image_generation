@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Big Bond Rally Needs a Recession With Fed Wary of 'Head Fakes'**
+**What they want: Biden and Xi are looking for clarity in an increasingly difficult relationship**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-12/a-big-bond-rally-needs-a-recession-with-fed-wary-of-head-fakes).
+You can read more about it [here](https://news.yahoo.com/want-biden-xi-looking-clarity-124858208.html).
 
 ## Requirements
 - Python 3.8
