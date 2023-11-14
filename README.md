@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What they want: Biden and Xi are looking for clarity in an increasingly difficult relationship**
+**Texas A&M fires Jimbo Fisher: Ill-advised extension, notable losses among moments that led to coach's downfall**
 
-You can read more about it [here](https://news.yahoo.com/want-biden-xi-looking-clarity-124858208.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/texas-a-m-fires-jimbo-fisher-ill-advised-extension-notable-losses-among-moments-that-led-to-coachs-downfall/).
 
 ## Requirements
 - Python 3.8
