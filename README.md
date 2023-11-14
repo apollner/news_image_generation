@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Under fire, US Supreme Court unveils ethics code for justices**
+**Novo Nordisk's Wegovy reduces risk of serious heart problems by 20%, study shows**
 
-You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-announces-formal-ethics-code-justices-2023-11-13/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/novo-nordisk-wegovy-reduces-risk-serious-heart-problems-study-shows).
 
 ## Requirements
 - Python 3.8
