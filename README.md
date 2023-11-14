@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Donald Trump Jr. testifies for defense in New York civil fraud trial**
+**Holiday hours: Hy-Vee will be closed Thanksgiving, Christmas days**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/donald-trump-jr-trial-testimony-11-13-23/index.html).
+You can read more about it [here](https://www.kcci.com/article/holiday-hours-hy-vee-will-be-closed-thanksgiving-christmas-days/45824944).
 
 ## Requirements
 - Python 3.8
