@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US conducts more strikes in eastern Syria, military says, following continued attacks on forces in region**
+**Three Indian cities among world's 10 most polluted after Diwali**
 
-You can read more about it [here](https://www.cnn.com/2023/11/12/politics/syria-strikes-lloyd-austin-joe-biden-iran-iraq/index.html).
+You can read more about it [here](https://www.reuters.com/world/india/three-indian-cities-among-worlds-10-most-polluted-after-diwali-2023-11-13/).
 
 ## Requirements
 - Python 3.8
