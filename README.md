@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Dobbs’ encore in Vikings’ victory over Saints has teammates buzzing: ‘This is sick’**
+**OpenAI chief seeks new Microsoft funds to build 'superintelligence'**
 
-You can read more about it [here](https://theathletic.com/5057680/2023/11/12/saints-vikings-josh-dobbs-tj-hockenson/).
+You can read more about it [here](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded).
 
 ## Requirements
 - Python 3.8
