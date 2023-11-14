@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. airstrikes kill Iranian proxies in Syria, officials say**
+**Texas A&M AD fired Jimbo Fisher because program 'stuck in neutral' - ESPN**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/11/12/us-airstrikes-iran-syria/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38886070/texas-ad-fired-jimbo-fisher-program-stuck-neutral).
 
 ## Requirements
 - Python 3.8
