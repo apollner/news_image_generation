@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 winners, losers: Jets' season is slipping away**
+**Hundreds trapped in Gaza’s main hospital as Israeli forces and Palestinian militants battle outside**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/11/13/nfl-winners-losers-jets-week-10/71560936007/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-13-2023-c98faefe9d5bb213d3e44cf9defd5990).
 
 ## Requirements
 - Python 3.8
