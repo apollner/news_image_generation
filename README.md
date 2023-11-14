@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Power Rankings: Michigan jumps Ohio State to retake No. 2 spot in top 25**
+**Gaza hospitals caught on front line of Israel-Hamas war**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-power-rankings-michigan-jumps-ohio-state-to-retake-no-2-spot-in-top-25/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67401064).
 
 ## Requirements
 - Python 3.8
