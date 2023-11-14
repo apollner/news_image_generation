@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 grades: Raiders earn 'B+' for Sunday night win over Jets, Browns get an 'A' for stunning Ravens**
+**Millions of Indians set a world record celebrating Diwali despite air quality worries**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-grades-raiders-earn-b-for-sunday-night-win-over-jets-browns-get-an-a-for-stunning-ravens/).
+You can read more about it [here](https://www.npr.org/2023/11/12/1212584838/millions-of-indians-set-a-world-record-celebrating-diwali-despite-air-quality-wo).
 
 ## Requirements
 - Python 3.8
