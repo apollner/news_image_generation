@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas A&M AD fired Jimbo Fisher because program 'stuck in neutral' - ESPN**
+**Chrissy Teigen Laughs Off Wardrobe Malfunction at Baby2Baby Gala 2023**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38886070/texas-ad-fired-jimbo-fisher-program-stuck-neutral).
+You can read more about it [here](https://www.eonline.com/news/1389735/chrissy-teigen-laughs-off-wardrobe-malfunction-at-star-studded-baby2baby-gala-2023).
 
 ## Requirements
 - Python 3.8
