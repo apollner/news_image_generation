@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Nordisk's Wegovy reduces risk of serious heart problems by 20%, study shows**
+**Live updates: Donald Trump Jr. testifies for defense in New York civil fraud trial**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/novo-nordisk-wegovy-reduces-risk-serious-heart-problems-study-shows).
+You can read more about it [here](https://www.cnn.com/politics/live-news/donald-trump-jr-trial-testimony-11-13-23/index.html).
 
 ## Requirements
 - Python 3.8
