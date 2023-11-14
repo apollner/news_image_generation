@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyson Foods forecasts downbeat annual revenue, shares slide**
+**Blake Lively Hilariously Captured "Thirst Content" of Ryan Reynolds at the Gym**
 
-You can read more about it [here](https://finance.yahoo.com/news/tyson-foods-forecasts-downbeat-annual-123416055.html).
+You can read more about it [here](https://www.instyle.com/blake-lively-thirst-content-ryan-reynolds-instagram-8400896).
 
 ## Requirements
 - Python 3.8
