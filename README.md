@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marlon Wayans reveals eldest child is transgender: 'I have a daughter that transitioned into a son'**
+**Tyson Foods forecasts downbeat annual revenue, shares slide**
 
-You can read more about it [here](https://pagesix.com/2023/11/13/parents/marlon-wayans-reveals-eldest-child-is-transgender/).
+You can read more about it [here](https://finance.yahoo.com/news/tyson-foods-forecasts-downbeat-annual-123416055.html).
 
 ## Requirements
 - Python 3.8
