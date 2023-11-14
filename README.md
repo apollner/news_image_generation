@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland officials warn Fagradalsfjall volcano could soon erupt - The Washington Post**
+**Gigabyte BIOS update outs next-gen AMD Ryzen APUs with upgraded Radeon GPUs**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/13/iceland-volcano-grindavik-reykjanes-fagradalsfjall/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/gigabyte-bios-update-outs-next-gen-amd-ryzen-apus-with-upgraded-radeon-gpus/).
 
 ## Requirements
 - Python 3.8
