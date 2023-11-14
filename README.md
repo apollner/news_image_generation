@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Departs Argentina After Eras Tour Stop with Taylor Swift**
+**Texas A&M AD fired Jimbo Fisher because program 'stuck in neutral' - ESPN**
 
-You can read more about it [here](https://www.etonline.com/travis-kelce-departs-argentina-after-joining-taylor-swift-for-pda-filled-eras-tour-stop-214734).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38886070/texas-ad-fired-jimbo-fisher-program-stuck-neutral).
 
 ## Requirements
 - Python 3.8
