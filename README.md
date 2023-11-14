@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu says Hamas refused Israeli fuel offer for Gaza's Shifa hospital**
+**U.S. airstrikes kill Iranian proxies in Syria, officials say**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/netanyahu-says-hamas-refused-israeli-fuel-offer-gazas-shifa-hospital-2023-11-12/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/11/12/us-airstrikes-iran-syria/).
 
 ## Requirements
 - Python 3.8
