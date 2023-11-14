@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisiana Tech student allegedly stabs 4 people in 'random act of violence' on campus**
+**Under fire, US Supreme Court unveils ethics code for justices**
 
-You can read more about it [here](https://abcnews.go.com/US/louisiana-tech-student-allegedly-stabs-4-people-random/story?id=104855638).
+You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-announces-formal-ethics-code-justices-2023-11-13/).
 
 ## Requirements
 - Python 3.8
