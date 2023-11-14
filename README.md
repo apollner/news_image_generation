@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: List of key events, day 38**
+**See Travis Kelce React to Taylor Swift's Sweet 'Karma' Lyric Change**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/13/israel-hamas-war-list-of-key-events-day-38).
+You can read more about it [here](https://www.etonline.com/see-travis-kelce-react-to-taylor-swifts-sweet-karma-lyric-change-214724).
 
 ## Requirements
 - Python 3.8
