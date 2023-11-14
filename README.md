@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Life expectancy gap between men and women widened significantly during the Covid-19 pandemic in the US**
+**Michigan's Jim Harbaugh plans to attend court hearing - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/health/life-expectancy-gender-gap/index.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38890110/michigan-jim-harbaugh-plans-attend-court-hearing).
 
 ## Requirements
 - Python 3.8
