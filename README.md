@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds trapped in Gaza’s main hospital as Israeli forces and Palestinian militants battle outside**
+**Israel-Hamas war: List of key events, day 38**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-13-2023-c98faefe9d5bb213d3e44cf9defd5990).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/13/israel-hamas-war-list-of-key-events-day-38).
 
 ## Requirements
 - Python 3.8
