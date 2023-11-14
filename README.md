@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu Hints At Possible Hostage Deal—And Won’t Commit To Letting Palestinians Ever Govern Gaza**
+**A Big Bond Rally Needs a Recession With Fed Wary of 'Head Fakes'**
 
-You can read more about it [here](https://www.forbes.com/sites/saradorn/2023/11/12/netanyahu-hints-at-possible-hostage-deal-and-wont-commit-to-letting-palestinians-ever-govern-gaza/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-12/a-big-bond-rally-needs-a-recession-with-fed-wary-of-head-fakes).
 
 ## Requirements
 - Python 3.8
