@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chrissy Teigen Laughs Off Wardrobe Malfunction at Baby2Baby Gala 2023**
+**U.S. airstrikes hit Iran-linked sites in Syria after attacks on American troops**
 
-You can read more about it [here](https://www.eonline.com/news/1389735/chrissy-teigen-laughs-off-wardrobe-malfunction-at-star-studded-baby2baby-gala-2023).
+You can read more about it [here](https://www.axios.com/2023/11/13/us-airstrikes-iran-linked-sites-syria).
 
 ## Requirements
 - Python 3.8
