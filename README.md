@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blake Lively Hilariously Captured "Thirst Content" of Ryan Reynolds at the Gym**
+**College Football Power Rankings: Michigan jumps Ohio State to retake No. 2 spot in top 25**
 
-You can read more about it [here](https://www.instyle.com/blake-lively-thirst-content-ryan-reynolds-instagram-8400896).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-power-rankings-michigan-jumps-ohio-state-to-retake-no-2-spot-in-top-25/).
 
 ## Requirements
 - Python 3.8
