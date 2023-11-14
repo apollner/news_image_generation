@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza hospitals caught on front line of Israel-Hamas war**
+**Life expectancy gap between men and women widened significantly during the Covid-19 pandemic in the US**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67401064).
+You can read more about it [here](https://www.cnn.com/2023/11/13/health/life-expectancy-gender-gap/index.html).
 
 ## Requirements
 - Python 3.8
