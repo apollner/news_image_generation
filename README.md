@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Marvels' has MCU's worst box office opening ever**
+**PM facing tough week on Braverman and Rwanda**
 
-You can read more about it [here](https://ew.com/movies/the-marvels-box-office-report/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67396107).
 
 ## Requirements
 - Python 3.8
