@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holiday hours: Hy-Vee will be closed Thanksgiving, Christmas days**
+**Actor Lukas Gage and Kim Kardashian's hairstylist Chris Appleton divorce after 6 months of marriage**
 
-You can read more about it [here](https://www.kcci.com/article/holiday-hours-hy-vee-will-be-closed-thanksgiving-christmas-days/45824944).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/11/13/lukas-gage-chris-appleton-divorce-kim-kardashian-hairstylist/71572057007/).
 
 ## Requirements
 - Python 3.8
