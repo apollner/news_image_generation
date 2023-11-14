@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gigabyte BIOS update outs next-gen AMD Ryzen APUs with upgraded Radeon GPUs**
+**Louisiana Tech student allegedly stabs 4 people in 'random act of violence' on campus**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/gigabyte-bios-update-outs-next-gen-amd-ryzen-apus-with-upgraded-radeon-gpus/).
+You can read more about it [here](https://abcnews.go.com/US/louisiana-tech-student-allegedly-stabs-4-people-random/story?id=104855638).
 
 ## Requirements
 - Python 3.8
