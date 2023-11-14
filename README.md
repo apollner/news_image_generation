@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. airstrikes hit Iran-linked sites in Syria after attacks on American troops**
+**US conducts more strikes in eastern Syria, military says, following continued attacks on forces in region**
 
-You can read more about it [here](https://www.axios.com/2023/11/13/us-airstrikes-iran-linked-sites-syria).
+You can read more about it [here](https://www.cnn.com/2023/11/12/politics/syria-strikes-lloyd-austin-joe-biden-iran-iraq/index.html).
 
 ## Requirements
 - Python 3.8
