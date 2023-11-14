@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wegovy cuts risk of serious heart problems by 20%: landmark study**
+**Netanyahu Hints At Possible Hostage Deal—And Won’t Commit To Letting Palestinians Ever Govern Gaza**
 
-You can read more about it [here](https://nypost.com/2023/11/12/lifestyle/wegovy-cuts-risk-of-serious-heart-problems-by-20-study-finds/).
+You can read more about it [here](https://www.forbes.com/sites/saradorn/2023/11/12/netanyahu-hints-at-possible-hostage-deal-and-wont-commit-to-letting-palestinians-ever-govern-gaza/).
 
 ## Requirements
 - Python 3.8
