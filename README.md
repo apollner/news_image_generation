@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taurus Horoscope Today: November 13, 2023**
+**Josh Dobbs’ encore in Vikings’ victory over Saints has teammates buzzing: ‘This is sick’**
 
-You can read more about it [here](https://www.vogue.in/horoscope/product/taurus-horoscope-today-november-13-2023/).
+You can read more about it [here](https://theathletic.com/5057680/2023/11/12/saints-vikings-josh-dobbs-tj-hockenson/).
 
 ## Requirements
 - Python 3.8
