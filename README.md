@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newborns taken out of incubators wrapped in foil to keep them alive at Gaza’s largest hospital, director says**
+**Marlon Wayans reveals eldest child is transgender: 'I have a daughter that transitioned into a son'**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/middleeast/gaza-babies-incubators-al-shifa-hospital-israel-intl-hnk/index.html).
+You can read more about it [here](https://pagesix.com/2023/11/13/parents/marlon-wayans-reveals-eldest-child-is-transgender/).
 
 ## Requirements
 - Python 3.8
