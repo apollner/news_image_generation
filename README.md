@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Travis Kelce React to Taylor Swift's Sweet 'Karma' Lyric Change**
+**House GOP floats telework restrictions, drastic spending cuts as Congress weighs options to avert shutdown**
 
-You can read more about it [here](https://www.etonline.com/see-travis-kelce-react-to-taylor-swifts-sweet-karma-lyric-change-214724).
+You can read more about it [here](https://www.govexec.com/management/2023/11/house-gop-floats-telework-restrictions-drastic-spending-cuts-congress-weighs-options-avert-shutdown/391920/).
 
 ## Requirements
 - Python 3.8
