@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 dead, 15 injured after semi crashes into bus carrying students on Ohio highway**
+**"World's most dangerous bird" emerges from ocean, stunning onlookers**
 
-You can read more about it [here](https://www.cbsnews.com/news/3-dead-15-injured-bus-crash-tuscarawas-tusky-valley-ohio-students/).
+You can read more about it [here](https://www.cbsnews.com/news/southern-cassowary-queensland-australia-bingil-bay/).
 
 ## Requirements
 - Python 3.8
