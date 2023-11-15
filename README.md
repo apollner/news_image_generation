@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan vs. St. John's score, takeaways: Wolverines spoil Rick Pitino's return to Madison Square Garden**
+**Purdy, 49ers win over Jags, CJ Stroud beats Bengals and Antonio Pierce in Vegas | NFL | THE HERD**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/michigan-vs-st-johns-score-takeaways-wolverines-spoil-rick-pitinos-return-to-madison-square-garden/).
+You can read more about it [here](https://www.youtube.com/watch?v=V6NdnUdy120).
 
 ## Requirements
 - Python 3.8
