@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actor Lukas Gage and hairstylist Chris Appleton will divorce after 6 months of marriage**
+**David Cameron's shock return divides UK Tories**
 
-You can read more about it [here](https://www.cbsnews.com/news/lukas-gage-chris-appleton-divorce/).
+You can read more about it [here](https://www.politico.eu/article/david-cameron-shock-return-divide-uk-tory/).
 
 ## Requirements
 - Python 3.8
