@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Simmons Tip Drill Pick on Josh Allen**
+**Actor Lukas Gage and hairstylist Chris Appleton will divorce after 6 months of marriage**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ax96HecwT2U).
+You can read more about it [here](https://www.cbsnews.com/news/lukas-gage-chris-appleton-divorce/).
 
 ## Requirements
 - Python 3.8
