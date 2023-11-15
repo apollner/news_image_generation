@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House to consider stopgap funding measure Tuesday to avert government shutdown**
+**White House weighed polling urging a 'Bidenomics' reboot**
 
-You can read more about it [here](https://www.cbsnews.com/news/government-shutdown-2023-mike-johnson-stopgap-funding-bill/).
+You can read more about it [here](https://www.politico.com/news/2023/11/14/white-house-bidenomics-polling-00126982).
 
 ## Requirements
 - Python 3.8
