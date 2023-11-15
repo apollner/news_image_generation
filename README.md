@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marvel Studios Taking Stock of Strategy Amid ‘The Marvels’ Meltdown**
+**NFL Power Rankings, Week 11: C.J. Stroud-led Texans crack top 10; Jaguars, Bills take plunge**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-rethinks-movie-strategy-marvels-1235645119/).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-11-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
