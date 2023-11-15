@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
+**F1 apologises to Las Vegas for Grand Prix disruption - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/middleeast/israel-alleges-hamas-armory-under-hospital-in-gaza-hnk-intl/index.html).
+You can read more about it [here](https://www.espn.com/f1/story/_/id/38894806/f1-apologises-las-vegas-grand-prix-disruption).
 
 ## Requirements
 - Python 3.8
