@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review: Steam Deck OLED’s brilliant screen fixes the portable’s biggest flaw**
+**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
 
-You can read more about it [here](https://arstechnica.com/gaming/2023/11/review-steam-deck-oleds-brilliant-screen-fixes-the-portables-biggest-flaw/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8xNC9taWRkbGVlYXN0L2lzcmFlbC1hbGxlZ2VzLWhhbWFzLWFybW9yeS11bmRlci1ob3NwaXRhbC1pbi1nYXphLWhuay1pbnRsL2luZGV4Lmh0bWzSAXRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzE0L21pZGRsZWVhc3QvaXNyYWVsLWFsbGVnZXMtaGFtYXMtYXJtb3J5LXVuZGVyLWhvc3BpdGFsLWluLWdhemEtaG5rLWludGwvaW5kZXguaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
