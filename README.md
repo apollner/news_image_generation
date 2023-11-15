@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 11: C.J. Stroud-led Texans crack top 10; Jaguars, Bills take plunge**
+**3 dead, 15 injured after semi crashes into bus carrying students on Ohio highway**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-11-2023-nfl-season).
+You can read more about it [here](https://www.cbsnews.com/news/3-dead-15-injured-bus-crash-tuscarawas-tusky-valley-ohio-students/).
 
 ## Requirements
 - Python 3.8
