@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"World's most dangerous bird" emerges from ocean, stunning onlookers**
+**Review: Steam Deck OLED’s brilliant screen fixes the portable’s biggest flaw**
 
-You can read more about it [here](https://www.cbsnews.com/news/southern-cassowary-queensland-australia-bingil-bay/).
+You can read more about it [here](https://arstechnica.com/gaming/2023/11/review-steam-deck-oleds-brilliant-screen-fixes-the-portables-biggest-flaw/).
 
 ## Requirements
 - Python 3.8
