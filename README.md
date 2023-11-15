@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House weighed polling urging a 'Bidenomics' reboot**
+**US CPI Report: Inflation Data to Show Fed May Not Be Done With Rate Hikes**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/14/white-house-bidenomics-polling-00126982).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-14/us-cpi-report-inflation-data-to-show-fed-may-not-be-done-with-rate-hikes).
 
 ## Requirements
 - Python 3.8
