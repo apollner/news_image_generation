@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man Receives World’s First Eye Transplant**
+**Chris Appleton files for divorce from ‘White Lotus’ star Lukas Gage**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/man-receives-world-s-first-eye-transplant/7353329.html).
+You can read more about it [here](https://www.cnn.com/2023/11/13/entertainment/chris-appleton-lukas-gage-divorce/index.html).
 
 ## Requirements
 - Python 3.8
