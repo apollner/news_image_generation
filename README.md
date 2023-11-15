@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demonstrators in Washington back Israel, denounce antisemitism**
+**The latest on the government funding bill as shutdown looms: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/us/demonstrators-gather-washington-back-israel-condemn-antisemitism-2023-11-14/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/federal-government-shutdown-funding-11-14-23/index.html).
 
 ## Requirements
 - Python 3.8
