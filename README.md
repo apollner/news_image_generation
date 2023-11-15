@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US CPI Report: Inflation Data to Show Fed May Not Be Done With Rate Hikes**
+**The Morning After: Sony whiffs another gaming handheld**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-14/us-cpi-report-inflation-data-to-show-fed-may-not-be-done-with-rate-hikes).
+You can read more about it [here](https://www.engadget.com/the-morning-after-sony-whiffs-another-gaming-handheld-121546041.html).
 
 ## Requirements
 - Python 3.8
