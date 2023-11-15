@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nepal bans TikTok citing disruption to social harmony**
+**Stocks Edge Up as Traders Bet on Slowing Inflation: Markets Wrap**
 
-You can read more about it [here](https://www.bbc.com/news/business-67411535).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-set-gain-cpi-223451371.html).
 
 ## Requirements
 - Python 3.8
