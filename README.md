@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F1 apologises to Las Vegas for Grand Prix disruption - ESPN**
+**Dow Jones Surges 350 Points On Cool Inflation Report; Tesla Stock Rallies On Price Hikes**
 
-You can read more about it [here](https://www.espn.com/f1/story/_/id/38894806/f1-apologises-las-vegas-grand-prix-disruption).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-report-tesla-stock-rallies-on-price-hikes/).
 
 ## Requirements
 - Python 3.8
