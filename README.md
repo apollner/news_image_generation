@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Morning After: Sony whiffs another gaming handheld**
+**Mass grave inside Israeli-encircled Gaza hospital, no plan to rescue babies**
 
-You can read more about it [here](https://www.engadget.com/the-morning-after-sony-whiffs-another-gaming-handheld-121546041.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/biden-says-gaza-hospitals-must-be-protected-2023-11-14/).
 
 ## Requirements
 - Python 3.8
