@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actor Lukas Gage and Kim Kardashian's hairstylist Chris Appleton divorce after 6 months of marriage**
+**Semaglutide helps boost heart health in people without diabetes, study finds**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/11/13/lukas-gage-chris-appleton-divorce-kim-kardashian-hairstylist/71572057007/).
+You can read more about it [here](https://www.goodmorningamerica.com/wellness/story/semaglutide-helps-reduce-risk-heart-attack-stroke-people-104844299).
 
 ## Requirements
 - Python 3.8
