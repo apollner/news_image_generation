@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
+**Demonstrators in Washington back Israel, denounce antisemitism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8xNC9taWRkbGVlYXN0L2lzcmFlbC1hbGxlZ2VzLWhhbWFzLWFybW9yeS11bmRlci1ob3NwaXRhbC1pbi1nYXphLWhuay1pbnRsL2luZGV4Lmh0bWzSAXRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzE0L21pZGRsZWVhc3QvaXNyYWVsLWFsbGVnZXMtaGFtYXMtYXJtb3J5LXVuZGVyLWhvc3BpdGFsLWluLWdhemEtaG5rLWludGwvaW5kZXguaHRtbA?oc=5).
+You can read more about it [here](https://www.reuters.com/world/us/demonstrators-gather-washington-back-israel-condemn-antisemitism-2023-11-14/).
 
 ## Requirements
 - Python 3.8
