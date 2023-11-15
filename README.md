@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
+**Home Depot undergoing a year of 'moderation', says CEO after earnings report**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/middleeast/israel-alleges-hamas-armory-under-hospital-in-gaza-hnk-intl/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/home-depot-undergoing-a-year-of-moderation-says-ceo-after-earnings-report-154321314.html).
 
 ## Requirements
 - Python 3.8
