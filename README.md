@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico’s first openly non-binary magistrate and prominent LGBTQ activist found dead**
+**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/americas/mexico-non-binary-magistrate-jesus-ociel-baena-saucedo-dead-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/14/middleeast/israel-alleges-hamas-armory-under-hospital-in-gaza-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
