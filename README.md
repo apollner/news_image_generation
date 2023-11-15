@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas City Chiefs dreamed of building an international fanbase. Then Taylor Swift came along**
+**Your chance of surviving lung cancer is better, but it’s still a leading cause of death, there’s a simple fix no one’s using**
 
-You can read more about it [here](https://www.kcur.org/news/2023-11-13/kansas-city-chiefs-dreamed-of-building-an-international-fanbase-then-taylor-swift-came-along).
+You can read more about it [here](https://www.cnn.com/2023/11/14/health/lung-cancer-survival-screening/index.html).
 
 ## Requirements
 - Python 3.8
