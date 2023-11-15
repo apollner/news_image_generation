@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: House to vote on GOP plan to avert government shutdown**
+**Mexico’s first openly non-binary magistrate and prominent LGBTQ activist found dead**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/14/government-shutdown-updates/).
+You can read more about it [here](https://www.cnn.com/2023/11/14/americas/mexico-non-binary-magistrate-jesus-ociel-baena-saucedo-dead-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
