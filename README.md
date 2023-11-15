@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Donald Trump Jr. testifies for defense in New York civil fraud trial**
+**Justin Simmons Tip Drill Pick on Josh Allen**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/donald-trump-jr-trial-testimony-11-13-23/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ax96HecwT2U).
 
 ## Requirements
 - Python 3.8
