@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Appleton files for divorce from ‘White Lotus’ star Lukas Gage**
+**Kansas City Chiefs dreamed of building an international fanbase. Then Taylor Swift came along**
 
-You can read more about it [here](https://www.cnn.com/2023/11/13/entertainment/chris-appleton-lukas-gage-divorce/index.html).
+You can read more about it [here](https://www.kcur.org/news/2023-11-13/kansas-city-chiefs-dreamed-of-building-an-international-fanbase-then-taylor-swift-came-along).
 
 ## Requirements
 - Python 3.8
