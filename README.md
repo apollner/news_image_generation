@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Cameron's shock return divides UK Tories**
+**Mass grave inside Israeli-encircled Gaza hospital, no plan to rescue babies**
 
-You can read more about it [here](https://www.politico.eu/article/david-cameron-shock-return-divide-uk-tory/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/biden-says-gaza-hospitals-must-be-protected-2023-11-14/).
 
 ## Requirements
 - Python 3.8
