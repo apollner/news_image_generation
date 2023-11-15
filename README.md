@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mass grave inside Israeli-encircled Gaza hospital, no plan to rescue babies**
+**House to consider stopgap funding measure Tuesday to avert government shutdown**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/biden-says-gaza-hospitals-must-be-protected-2023-11-14/).
+You can read more about it [here](https://www.cbsnews.com/news/government-shutdown-2023-mike-johnson-stopgap-funding-bill/).
 
 ## Requirements
 - Python 3.8
