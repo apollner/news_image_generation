@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Home Depot undergoing a year of 'moderation', says CEO after earnings report**
+**NFL Power Rankings, Week 11: C.J. Stroud-led Texans crack top 10; Jaguars, Bills take plunge**
 
-You can read more about it [here](https://finance.yahoo.com/news/home-depot-undergoing-a-year-of-moderation-says-ceo-after-earnings-report-154321314.html).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-11-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
