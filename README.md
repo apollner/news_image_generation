@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Buffalo Bills vs. Denver Broncos: TV channel, live stream info, start time**
+**Michigan vs. St. John's score, takeaways: Wolverines spoil Rick Pitino's return to Madison Square Garden**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/watch-buffalo-bills-vs-denver-broncos-tv-channel-live-stream-info-start-time-29114124/).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/michigan-vs-st-johns-score-takeaways-wolverines-spoil-rick-pitinos-return-to-madison-square-garden/).
 
 ## Requirements
 - Python 3.8
