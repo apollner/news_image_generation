@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review | 'Danny and the Deep Blue Sea' with Aubrey Plaza hits some rough waters**
+**Marvel Studios Taking Stock of Strategy Amid ‘The Marvels’ Meltdown**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2023/11/14/aubrey-plaza-danny-shanley-abbott/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-rethinks-movie-strategy-marvels-1235645119/).
 
 ## Requirements
 - Python 3.8
