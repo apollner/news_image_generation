@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House blocks Alejandro Mayorkas impeachment resolution**
+**Watch Buffalo Bills vs. Denver Broncos: TV channel, live stream info, start time**
 
-You can read more about it [here](https://www.cbsnews.com/news/alejandro-mayorkas-impeachment-resolution-house-vote/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/watch-buffalo-bills-vs-denver-broncos-tv-channel-live-stream-info-start-time-29114124/).
 
 ## Requirements
 - Python 3.8
