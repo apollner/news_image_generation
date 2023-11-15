@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your chance of surviving lung cancer is better, but it’s still a leading cause of death, there’s a simple fix no one’s using**
+**Israel-Hamas war: Battles force Palestinians out of hospitals in Gaza. Latest**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/health/lung-cancer-survival-screening/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-13-2023-c98faefe9d5bb213d3e44cf9defd5990).
 
 ## Requirements
 - Python 3.8
