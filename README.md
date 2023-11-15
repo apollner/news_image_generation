@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Edge Up as Traders Bet on Slowing Inflation: Markets Wrap**
+**David Cameron's shock return divides UK Tories**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-set-gain-cpi-223451371.html).
+You can read more about it [here](https://www.politico.eu/article/david-cameron-shock-return-divide-uk-tory/).
 
 ## Requirements
 - Python 3.8
