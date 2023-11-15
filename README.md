@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 11: C.J. Stroud-led Texans crack top 10; Jaguars, Bills take plunge**
+**Israel shows alleged Hamas ‘armory’ under children’s hospital in Gaza. Local health officials dismiss the claims**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-11-2023-nfl-season).
+You can read more about it [here](https://www.cnn.com/2023/11/14/middleeast/israel-alleges-hamas-armory-under-hospital-in-gaza-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
