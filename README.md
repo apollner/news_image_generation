@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purdy, 49ers win over Jags, CJ Stroud beats Bengals and Antonio Pierce in Vegas | NFL | THE HERD**
+**House blocks Alejandro Mayorkas impeachment resolution**
 
-You can read more about it [here](https://www.youtube.com/watch?v=V6NdnUdy120).
+You can read more about it [here](https://www.cbsnews.com/news/alejandro-mayorkas-impeachment-resolution-house-vote/).
 
 ## Requirements
 - Python 3.8
