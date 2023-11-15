@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The invisible dangers of travelling through time**
+**Review | 'Danny and the Deep Blue Sea' with Aubrey Plaza hits some rough waters**
 
-You can read more about it [here](https://www.bbc.com/future/article/20231113-the-invisible-dangers-of-travelling-through-time).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2023/11/14/aubrey-plaza-danny-shanley-abbott/).
 
 ## Requirements
 - Python 3.8
