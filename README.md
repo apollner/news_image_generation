@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas City Chiefs dreamed of building an international fanbase. Then Taylor Swift came along**
+**Purdy, 49ers win over Jags, CJ Stroud beats Bengals and Antonio Pierce in Vegas | NFL | THE HERD**
 
-You can read more about it [here](https://www.kcur.org/news/2023-11-13/kansas-city-chiefs-dreamed-of-building-an-international-fanbase-then-taylor-swift-came-along).
+You can read more about it [here](https://www.youtube.com/watch?v=V6NdnUdy120).
 
 ## Requirements
 - Python 3.8
