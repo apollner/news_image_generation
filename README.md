@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the government funding bill as shutdown looms: Live updates**
+**David DePape admits hitting Paul Pelosi with hammer after breaking down on stand**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/federal-government-shutdown-funding-11-14-23/index.html).
+You can read more about it [here](https://www.foxnews.com/us/david-depape-admits-hitting-paul-pelosi-hammer-breaking-down-stand).
 
 ## Requirements
 - Python 3.8
