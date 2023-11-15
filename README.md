@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Cameron's shock return divides UK Tories**
+**Nepal bans TikTok citing disruption to social harmony**
 
-You can read more about it [here](https://www.politico.eu/article/david-cameron-shock-return-divide-uk-tory/).
+You can read more about it [here](https://www.bbc.com/news/business-67411535).
 
 ## Requirements
 - Python 3.8
