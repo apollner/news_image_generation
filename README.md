@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Surges 350 Points On Cool Inflation Report; Tesla Stock Rallies On Price Hikes**
+**The invisible dangers of travelling through time**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-report-tesla-stock-rallies-on-price-hikes/).
+You can read more about it [here](https://www.bbc.com/future/article/20231113-the-invisible-dangers-of-travelling-through-time).
 
 ## Requirements
 - Python 3.8
