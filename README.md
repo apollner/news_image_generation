@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Battles force Palestinians out of hospitals in Gaza. Latest**
+**Live updates: Donald Trump Jr. testifies for defense in New York civil fraud trial**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-13-2023-c98faefe9d5bb213d3e44cf9defd5990).
+You can read more about it [here](https://www.cnn.com/politics/live-news/donald-trump-jr-trial-testimony-11-13-23/index.html).
 
 ## Requirements
 - Python 3.8
