@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of Metro Detroit Jews stranded at D.C. airport by 'malicious' bus drivers**
+**Texas school district reverses decision that removed trans student from ‘Oklahoma!’**
 
-You can read more about it [here](https://www.detroitnews.com/story/news/local/michigan/2023/11/14/hundreds-of-metro-detroit-jews-stranded-at-d-c-airport-by-absent-bus-drivers/71582002007/).
+You can read more about it [here](https://www.nbcnews.com/nbc-out/out-news/texas-school-district-reverses-decision-removed-trans-student-oklahoma-rcna125219).
 
 ## Requirements
 - Python 3.8
