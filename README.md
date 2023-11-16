@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Gaetz calls for House Ethics investigation into Kevin McCarthy**
+**Congresswoman said she faced death threats after being attacked in her DC apartment**
 
-You can read more about it [here](https://www.axios.com/2023/11/14/matt-gaetz-house-ethics-kevin-mccarthy-burchett).
+You can read more about it [here](https://abcnews.go.com/Politics/congresswoman-faced-death-threats-after-attacked-dc-apartment/story?id=104891987).
 
 ## Requirements
 - Python 3.8
