@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mandel’s Mailbag: Is Texas A&M an elite college football job? What’s next for Boise State?**
+**Jennifer Aniston Honors Matthew Perry by Sharing Text Messages**
 
-You can read more about it [here](https://theathletic.com/5064764/2023/11/15/mandel-mailbag-jayden-daniels-santa/).
+You can read more about it [here](https://variety.com/2023/tv/news/jennifer-aniston-matthew-perry-dead-tribute-friends-1235791573/).
 
 ## Requirements
 - Python 3.8
