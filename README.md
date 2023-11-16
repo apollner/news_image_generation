@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kourtney Kardashian Subtly Hints She Welcomed Baby Boy With Travis Barker - E! Online**
+**Quick recap: Kansas rallies from double-digit deficit to survive Kentucky in Champions Classic**
 
-You can read more about it [here](https://www.eonline.com/news/1389538/kourtney-kardashian-subtly-hints-she-welcomed-baby-boy-with-travis-barker).
+You can read more about it [here](https://www2.kusports.com/sports/2023/nov/14/quick-recap-kansas-rallies-from-double-digit-deficit-to-survive-kentucky-in-champions-classic/).
 
 ## Requirements
 - Python 3.8
