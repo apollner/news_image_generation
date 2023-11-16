@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK plan to send asylum-seekers to Rwanda blocked by Supreme Court**
+**Microsoft and Nvidia are making it easier to run AI models on Windows**
 
-You can read more about it [here](https://www.cnn.com/2023/11/15/uk/uk-supreme-court-rwanda-ruling-gbr-intl/index.html).
+You can read more about it [here](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers).
 
 ## Requirements
 - Python 3.8
