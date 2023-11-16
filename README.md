@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County DA expects Georgia election subversion case against Trump won’t conclude before 2024 election**
+**'Dancing WIth the Stars': Barry Williams Goes Shirtless, Is Eliminated**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/politics/fani-willis-donald-trump-election-subversion-case-2024/index.html).
+You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-barry-williams-eliminated/).
 
 ## Requirements
 - Python 3.8
