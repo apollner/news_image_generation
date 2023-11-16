@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia overtakes Ohio State; Michigan, FSU round out CFP top 4 - ESPN**
+**'Bouncing' comets may be able to spread life throughout the universe**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38899455/georgia-overtakes-ohio-state-michigan-fsu-round-cfp-top-4).
+You can read more about it [here](https://www.space.com/comets-bouncing-seed-life-on-exoplanets).
 
 ## Requirements
 - Python 3.8
