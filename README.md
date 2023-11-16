@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb telescope spots the most distant Milky Way-like galaxy yet**
+**Uttarakhand tunnel collapse: Race against time to rescue India workers**
 
-You can read more about it [here](https://www.cnn.com/2023/11/14/world/ceers-2112-distant-barred-spiral-galaxy-webb-scn/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-67423302).
 
 ## Requirements
 - Python 3.8
