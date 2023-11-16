@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bradley Cooper Spent Six Years Learning How to Conduct 'Six Minutes and 21 Seconds of Music' for 'Maestro'**
+**San Francisco patches over homelessness, drug-abuse for APEC**
 
-You can read more about it [here](https://www.indiewire.com/news/general-news/bradley-cooper-spent-six-years-learning-how-to-conduct-maestro-1234926360/).
+You can read more about it [here](https://www.reuters.com/world/us/san-francisco-patches-over-homelessness-drug-abuse-apec-2023-11-15/).
 
 ## Requirements
 - Python 3.8
