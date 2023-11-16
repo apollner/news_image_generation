@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Valve Reveals Time When Steam Deck OLED Will be Available to Purchase on November 16**
+**Matt Gaetz calls for House Ethics investigation into Kevin McCarthy**
 
-You can read more about it [here](https://www.ign.com/articles/steam-deck-oled-release-date-time).
+You can read more about it [here](https://www.axios.com/2023/11/14/matt-gaetz-house-ethics-kevin-mccarthy-burchett).
 
 ## Requirements
 - Python 3.8
