@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nothing Phone says it will hack into iMessage, bring blue bubbles to Android**
+**Government shutdown: House passes stopgap bill, sending it to Seante**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/house-bill-pass-government-shutdown-speaker-mike-johnson-rcna125008).
 
 ## Requirements
 - Python 3.8
