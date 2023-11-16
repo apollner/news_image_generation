@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**8 teenagers arrested on murder charges after Las Vegas boy, 17, beaten by mob**
+**Dow Jones Rises On Cool Inflation Data; Targets Surges 14% On Earnings**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/15/suspects-arrested-in-killing-of-jonathan-lewis-las-vegas/71590003007/).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-inflation-data-targets-surges-on-earnings/).
 
 ## Requirements
 - Python 3.8
