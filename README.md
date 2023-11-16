@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alphabet CEO Pichai Grilled on Record-Keeping at Google Play Trial**
+**Hundreds of Metro Detroit Jews stranded at D.C. airport by 'malicious' bus drivers**
 
-You can read more about it [here](https://finance.yahoo.com/news/alphabet-ceo-pichai-grilled-record-190222231.html).
+You can read more about it [here](https://www.detroitnews.com/story/news/local/michigan/2023/11/14/hundreds-of-metro-detroit-jews-stranded-at-d-c-airport-by-absent-bus-drivers/71582002007/).
 
 ## Requirements
 - Python 3.8
