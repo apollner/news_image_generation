@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flat feet are common. They shouldn’t stop you from running or walking.**
+**NFL power rankings Week 11: Cowboys, Texans both shining brightly**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/11/15/flat-feet-pain-shoes-muscles/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2023/11/14/nfl-power-rankings-week-11-cowboys-texans-both-shining-brightly/71576253007/).
 
 ## Requirements
 - Python 3.8
