@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 11 NFL picks: Ravens get back on track vs. Bengals; Browns beat Steelers without Deshaun Watson**
+**UK plan to send asylum-seekers to Rwanda blocked by Supreme Court**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-ravens-get-back-on-track-vs-bengals-browns-beat-steelers-without-deshaun-watson/).
+You can read more about it [here](https://www.cnn.com/2023/11/15/uk/uk-supreme-court-rwanda-ruling-gbr-intl/index.html).
 
 ## Requirements
 - Python 3.8
