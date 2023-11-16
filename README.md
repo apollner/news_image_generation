@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David DePape admits hitting Paul Pelosi with hammer after breaking down on stand**
+**Israel-Hamas War: Israeli Video Brings Gaza Hospital to Center of Information War**
 
-You can read more about it [here](https://www.foxnews.com/us/david-depape-admits-hitting-paul-pelosi-hammer-breaking-down-stand).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMy8xMS8xNC93b3JsZC9pc3JhZWwtaGFtYXMtZ2F6YS13YXItbmV3c9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
