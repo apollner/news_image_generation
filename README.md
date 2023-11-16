@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Aniston Honors Matthew Perry by Sharing Text Messages**
+**Prisco's Week 11 NFL picks: Ravens get back on track vs. Bengals; Browns beat Steelers without Deshaun Watson**
 
-You can read more about it [here](https://variety.com/2023/tv/news/jennifer-aniston-matthew-perry-dead-tribute-friends-1235791573/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-ravens-get-back-on-track-vs-bengals-browns-beat-steelers-without-deshaun-watson/).
 
 ## Requirements
 - Python 3.8
