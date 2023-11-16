@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing WIth the Stars': Barry Williams Goes Shirtless, Is Eliminated**
+**Webb telescope spots the most distant Milky Way-like galaxy yet**
 
-You can read more about it [here](https://variety.com/lists/dancing-with-the-stars-barry-williams-eliminated/).
+You can read more about it [here](https://www.cnn.com/2023/11/14/world/ceers-2112-distant-barred-spiral-galaxy-webb-scn/index.html).
 
 ## Requirements
 - Python 3.8
