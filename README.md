@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Government shutdown: House passes stopgap bill, sending it to Seante**
+**Valve Reveals Time When Steam Deck OLED Will be Available to Purchase on November 16**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/house-bill-pass-government-shutdown-speaker-mike-johnson-rcna125008).
+You can read more about it [here](https://www.ign.com/articles/steam-deck-oled-release-date-time).
 
 ## Requirements
 - Python 3.8
