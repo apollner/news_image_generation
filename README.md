@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uttarakhand tunnel collapse: Race against time to rescue India workers**
+**College Football Playoff Rankings reactions: Penn State overrated, Ole Miss underrated in new top 25**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-67423302).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reactions-penn-state-overrated-ole-miss-underrated-in-new-top-25/).
 
 ## Requirements
 - Python 3.8
