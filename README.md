@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Bouncing' comets may be able to spread life throughout the universe**
+**Indian workers remain trapped in collapsed tunnel as rescue hampered**
 
-You can read more about it [here](https://www.space.com/comets-bouncing-seed-life-on-exoplanets).
+You can read more about it [here](https://www.reuters.com/world/india/indian-workers-remain-trapped-collapsed-tunnel-rescue-hampered-2023-11-15/).
 
 ## Requirements
 - Python 3.8
