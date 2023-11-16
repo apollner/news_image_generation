@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quick recap: Kansas rallies from double-digit deficit to survive Kentucky in Champions Classic**
+**Asia stocks jump as US inflation recedes, China data surprises**
 
-You can read more about it [here](https://www2.kusports.com/sports/2023/nov/14/quick-recap-kansas-rallies-from-double-digit-deficit-to-survive-kentucky-in-champions-classic/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-15/).
 
 ## Requirements
 - Python 3.8
