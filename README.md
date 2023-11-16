@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL power rankings Week 11: Cowboys, Texans both shining brightly**
+**8 teenagers arrested on murder charges after Las Vegas boy, 17, beaten by mob**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2023/11/14/nfl-power-rankings-week-11-cowboys-texans-both-shining-brightly/71576253007/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/15/suspects-arrested-in-killing-of-jonathan-lewis-las-vegas/71590003007/).
 
 ## Requirements
 - Python 3.8
