@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco patches over homelessness, drug-abuse for APEC**
+**A NASA astronaut's tool bag got lost in space and is now orbiting Earth**
 
-You can read more about it [here](https://www.reuters.com/world/us/san-francisco-patches-over-homelessness-drug-abuse-apec-2023-11-15/).
+You can read more about it [here](https://www.cbsnews.com/news/nasa-astronaut-tool-bag-lost-in-space-orbiting-earth-debris/).
 
 ## Requirements
 - Python 3.8
