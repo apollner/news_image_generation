@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The realities and challenges of diabetes today**
+**Extreme Weight Loss Star Brandi Mallory Dies**
 
-You can read more about it [here](https://www.deseret.com/2023/11/14/23961108/world-diabetes-symptoms-type-1-type-2-prediabetes).
+You can read more about it [here](https://www.eonline.com/videos/2282870851665/extreme-weight-loss-star-brandi-mallory-dies).
 
 ## Requirements
 - Python 3.8
