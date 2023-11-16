@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme Weight Loss Star Brandi Mallory Dies**
+**Flat feet are common. They shouldn’t stop you from running or walking.**
 
-You can read more about it [here](https://www.eonline.com/videos/2282870851665/extreme-weight-loss-star-brandi-mallory-dies).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/11/15/flat-feet-pain-shoes-muscles/).
 
 ## Requirements
 - Python 3.8
