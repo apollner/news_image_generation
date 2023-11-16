@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Qatar seeking Israel-Hamas deal to free 50 hostages and 3-day truce**
+**UK's Sunak suffers major blow as Rwanda migrant scheme declared unlawful**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/qatar-seeking-israel-hamas-deal-release-50-hostages-3-day-truce-sources-say-2023-11-15/).
+You can read more about it [here](https://www.reuters.com/world/uk/uks-sunak-learn-fate-rwandan-migrant-deportation-plan-2023-11-15/).
 
 ## Requirements
 - Python 3.8
