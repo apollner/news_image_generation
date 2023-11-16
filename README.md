@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A NASA astronaut's tool bag got lost in space and is now orbiting Earth**
+**Carey Mulligan Never Felt Like a ‘Proper Actor.’ Then Came ‘Maestro’: ‘I’m Going to Absolutely Do It All’**
 
-You can read more about it [here](https://www.cbsnews.com/news/nasa-astronaut-tool-bag-lost-in-space-orbiting-earth-debris/).
+You can read more about it [here](https://variety.com/2023/film/news/carey-mulligan-maestro-bradley-cooper-interview-1235790647/).
 
 ## Requirements
 - Python 3.8
