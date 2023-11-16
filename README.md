@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Telegram Demos visionOS App**
+**The UAW’s deal to end the GM strike could be in trouble**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/14/telegram-demos-visionos-app/).
+You can read more about it [here](https://www.cnn.com/2023/11/14/business/uaw-auto-deals-ratification-vote/index.html).
 
 ## Requirements
 - Python 3.8
