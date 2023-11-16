@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congresswoman said she faced death threats after being attacked in her DC apartment**
+**Suella Braverman accuses Rishi Sunak of betrayal in scathing letter**
 
-You can read more about it [here](https://abcnews.go.com/Politics/congresswoman-faced-death-threats-after-attacked-dc-apartment/story?id=104891987).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67420331).
 
 ## Requirements
 - Python 3.8
