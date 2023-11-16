@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Rises On Cool Inflation Data; Targets Surges 14% On Earnings**
+**Exclusive: Qatar seeking Israel-Hamas deal to free 50 hostages and 3-day truce**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-inflation-data-targets-surges-on-earnings/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/qatar-seeking-israel-hamas-deal-release-50-hostages-3-day-truce-sources-say-2023-11-15/).
 
 ## Requirements
 - Python 3.8
