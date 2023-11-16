@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carey Mulligan Never Felt Like a ‘Proper Actor.’ Then Came ‘Maestro’: ‘I’m Going to Absolutely Do It All’**
+**UK plan to send asylum-seekers to Rwanda blocked by Supreme Court**
 
-You can read more about it [here](https://variety.com/2023/film/news/carey-mulligan-maestro-bradley-cooper-interview-1235790647/).
+You can read more about it [here](https://www.cnn.com/2023/11/15/uk/uk-supreme-court-rwanda-ruling-gbr-intl/index.html).
 
 ## Requirements
 - Python 3.8
