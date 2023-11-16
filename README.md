@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas War: Israeli Video Brings Gaza Hospital to Center of Information War**
+**Nothing Phone says it will hack into iMessage, bring blue bubbles to Android**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMy8xMS8xNC93b3JsZC9pc3JhZWwtaGFtYXMtZ2F6YS13YXItbmV3c9IBAA?oc=5).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/).
 
 ## Requirements
 - Python 3.8
