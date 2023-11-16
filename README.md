@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK's Sunak suffers major blow as Rwanda migrant scheme declared unlawful**
+**Mandel’s Mailbag: Is Texas A&M an elite college football job? What’s next for Boise State?**
 
-You can read more about it [here](https://www.reuters.com/world/uk/uks-sunak-learn-fate-rwandan-migrant-deportation-plan-2023-11-15/).
+You can read more about it [here](https://theathletic.com/5064764/2023/11/15/mandel-mailbag-jayden-daniels-santa/).
 
 ## Requirements
 - Python 3.8
