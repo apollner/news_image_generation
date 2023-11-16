@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff Rankings reactions: Penn State overrated, Ole Miss underrated in new top 25**
+**Kourtney Kardashian Subtly Hints She Welcomed Baby Boy With Travis Barker - E! Online**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reactions-penn-state-overrated-ole-miss-underrated-in-new-top-25/).
+You can read more about it [here](https://www.eonline.com/news/1389538/kourtney-kardashian-subtly-hints-she-welcomed-baby-boy-with-travis-barker).
 
 ## Requirements
 - Python 3.8
