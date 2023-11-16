@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suella Braverman accuses Rishi Sunak of betrayal in scathing letter**
+**Telegram Demos visionOS App**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67420331).
+You can read more about it [here](https://www.macrumors.com/2023/11/14/telegram-demos-visionos-app/).
 
 ## Requirements
 - Python 3.8
