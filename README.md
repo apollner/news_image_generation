@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian workers remain trapped in collapsed tunnel as rescue hampered**
+**Fulton County DA expects Georgia election subversion case against Trump won’t conclude before 2024 election**
 
-You can read more about it [here](https://www.reuters.com/world/india/indian-workers-remain-trapped-collapsed-tunnel-rescue-hampered-2023-11-15/).
+You can read more about it [here](https://www.cnn.com/2023/11/14/politics/fani-willis-donald-trump-election-subversion-case-2024/index.html).
 
 ## Requirements
 - Python 3.8
