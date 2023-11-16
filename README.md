@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mandel’s Mailbag: Is Texas A&M an elite college football job? What’s next for Boise State?**
+**Bradley Cooper Spent Six Years Learning How to Conduct 'Six Minutes and 21 Seconds of Music' for 'Maestro'**
 
-You can read more about it [here](https://theathletic.com/5064764/2023/11/15/mandel-mailbag-jayden-daniels-santa/).
+You can read more about it [here](https://www.indiewire.com/news/general-news/bradley-cooper-spent-six-years-learning-how-to-conduct-maestro-1234926360/).
 
 ## Requirements
 - Python 3.8
