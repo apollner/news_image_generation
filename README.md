@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Senate passes stopgap funding bill to avert government shutdown**
+**Biden hails productive talks with Xi as agreements reached on fentanyl and military communication**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senate-takes-up-bill-avert-partial-government-shutdown-2023-11-15/).
+You can read more about it [here](https://www.cnn.com/2023/11/15/politics/biden-xi-meeting/index.html).
 
 ## Requirements
 - Python 3.8
