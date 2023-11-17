@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronauts on spacewalk accidentally drop tool bag which can now be seen from Earth**
+**Taylor Swift Plans to Bring Her Parents to Chiefs vs. Eagles Game**
 
-You can read more about it [here](https://www.ksl.com/article/50786733/astronauts-on-spacewalk-accidentally-drop-tool-bag-which-can-now-be-seen-from-earth).
+You can read more about it [here](https://www.eonline.com/news/1389969/taylor-swift-will-bring-her-parents-to-chiefs-vs-eagles-football-game).
 
 ## Requirements
 - Python 3.8
