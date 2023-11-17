@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasuries Catch a Bid as Stock Rally Hits a Wall: Markets Wrap**
+**Israel-Hamas war rages as outcry grows over Gaza crisis: Live updates**
 
-You can read more about it [here](https://finance.yahoo.com/news/shares-asia-mixed-us-stocks-225121523.html).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-16-23/index.html).
 
 ## Requirements
 - Python 3.8
