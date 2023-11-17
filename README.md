@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man who attacked Pelosi's husband convicted of federal assault and attempted kidnapping charges**
+**Treasuries Catch a Bid as Stock Rally Hits a Wall: Markets Wrap**
 
-You can read more about it [here](https://news.yahoo.com/man-attacked-pelosi-husband-convicted-192244682.html).
+You can read more about it [here](https://finance.yahoo.com/news/shares-asia-mixed-us-stocks-225121523.html).
 
 ## Requirements
 - Python 3.8
