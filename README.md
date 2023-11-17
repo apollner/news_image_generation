@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Crown’ Season 6 Reactions: Some UK Critics Aghast At “Ghost Diana”; French Reviewers Largely Swoon**
+**Pedro Sanchez secures another term as Spain's prime minister, set to form government**
 
-You can read more about it [here](https://deadline.com/2023/11/the-crown-season-6-reviews-critics-reactions-uk-france-netflix-1235613494/).
+You can read more about it [here](https://www.cnbc.com/2023/11/16/pedro-sanchez-secures-another-term-as-spains-prime-minister-set-to-form-government.html).
 
 ## Requirements
 - Python 3.8
