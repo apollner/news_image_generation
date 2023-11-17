@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft and Nvidia are making it easier to run AI models on Windows**
+**Jimmy Kimmel to Host 2024 Oscars Ceremony**
 
-You can read more about it [here](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers).
+You can read more about it [here](https://variety.com/2023/film/awards/jimmy-kimmel-returns-oscars-host-2024-1235792005/).
 
 ## Requirements
 - Python 3.8
