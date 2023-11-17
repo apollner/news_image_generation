@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whatever you do, don’t buy an Nvidia GPU right now**
+**Lisa Kudrow Thanks Matthew Perry for 'the Best 10 Years a Person Gets to Have'**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/dont-buy-nvidia-gpu-right-now/).
+You can read more about it [here](http://www.vulture.com/2023/11/lisa-kudrow-matthew-perry-friends-tribute.html).
 
 ## Requirements
 - Python 3.8
