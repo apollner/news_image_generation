@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lisa Kudrow Thanks Matthew Perry for 'the Best 10 Years a Person Gets to Have'**
+**Expert recommends isolating dogs amid deadly, highly contagious, ‘mysterious illness’**
 
-You can read more about it [here](http://www.vulture.com/2023/11/lisa-kudrow-matthew-perry-friends-tribute.html).
+You can read more about it [here](https://www.kiro7.com/news/local/expert-recommends-isolating-dogs-amid-deadly-highly-contagious-mysterious-illness/R5AOH7FHG5B33FP2UFCEBU6F2A/).
 
 ## Requirements
 - Python 3.8
