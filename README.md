@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Plans to Bring Her Parents to Chiefs vs. Eagles Game**
+**Google is going to let teens use Bard, though with some guardrails**
 
-You can read more about it [here](https://www.eonline.com/news/1389969/taylor-swift-will-bring-her-parents-to-chiefs-vs-eagles-football-game).
+You can read more about it [here](https://www.theverge.com/2023/11/15/23963230/google-bard-teens-guardrails).
 
 ## Requirements
 - Python 3.8
