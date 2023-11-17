@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: ‘Large meteor’ seen over NE Ohio**
+**Dex Carvey Dies: Comedian Son Of Dana Carvey Was 32**
 
-You can read more about it [here](https://fox8.com/news/watch-large-meteor-seen-over-ne-ohio/).
+You can read more about it [here](https://deadline.com/2023/11/dex-carvey-dies-comedian-son-of-dana-carvey-age-32-obituary-1235615675/).
 
 ## Requirements
 - Python 3.8
