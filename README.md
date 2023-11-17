@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball winning numbers for 11/15/23 drawing, $225 million jackpot**
+**Astronauts on spacewalk accidentally drop tool bag which can now be seen from Earth**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2023/11/15/powerball-winning-numbers/71600060007/).
+You can read more about it [here](https://www.ksl.com/article/50786733/astronauts-on-spacewalk-accidentally-drop-tool-bag-which-can-now-be-seen-from-earth).
 
 ## Requirements
 - Python 3.8
