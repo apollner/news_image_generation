@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarming Diabetes Danger: Insufficient Sleep Raises Insulin Resistance in Women**
+**American women are outliving men by 6 years since pandemic. But why?**
 
-You can read more about it [here](https://scitechdaily.com/?p=328602).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/11/14/american-women-outliving-men-longevity-pandemic/71584808007/).
 
 ## Requirements
 - Python 3.8
