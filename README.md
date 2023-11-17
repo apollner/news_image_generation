@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Athletics get approval from MLB owners to move from Oakland to Las Vegas**
+**Watch: ‘Large meteor’ seen over NE Ohio**
 
-You can read more about it [here](https://theathletic.com/5068638/2023/11/16/oakland-athletics-relocation-las-vegas-mlb/).
+You can read more about it [here](https://fox8.com/news/watch-large-meteor-seen-over-ne-ohio/).
 
 ## Requirements
 - Python 3.8
