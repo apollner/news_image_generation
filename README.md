@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Expert recommends isolating dogs amid deadly, highly contagious, ‘mysterious illness’**
+**Taylor Swift Plans to Bring Her Parents to Chiefs vs. Eagles Game**
 
-You can read more about it [here](https://www.kiro7.com/news/local/expert-recommends-isolating-dogs-amid-deadly-highly-contagious-mysterious-illness/R5AOH7FHG5B33FP2UFCEBU6F2A/).
+You can read more about it [here](https://www.eonline.com/news/1389969/taylor-swift-will-bring-her-parents-to-chiefs-vs-eagles-football-game).
 
 ## Requirements
 - Python 3.8
