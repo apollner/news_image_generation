@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden hails productive talks with Xi as agreements reached on fentanyl and military communication**
+**Walmart will report earnings before the bell. Here's what to expect**
 
-You can read more about it [here](https://www.cnn.com/2023/11/15/politics/biden-xi-meeting/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/16/walmart-wmt-earnings-q3-2024-.html).
 
 ## Requirements
 - Python 3.8
