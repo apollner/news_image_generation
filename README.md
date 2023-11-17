@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American women are outliving men by 6 years since pandemic. But why?**
+**Kylie Jenner and Tristan Thompson Discuss Jordyn Woods Cheating Scandal**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/11/14/american-women-outliving-men-longevity-pandemic/71584808007/).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/kylie-jenner-and-tristan-thomspon-discuss-jordyn-woods).
 
 ## Requirements
 - Python 3.8
