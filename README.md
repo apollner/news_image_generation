@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart will report earnings before the bell. Here's what to expect**
+**Powerball winning numbers for 11/15/23 drawing, $225 million jackpot**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/16/walmart-wmt-earnings-q3-2024-.html).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2023/11/15/powerball-winning-numbers/71600060007/).
 
 ## Requirements
 - Python 3.8
