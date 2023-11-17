@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors’ Draymond Green suspended 5 games for involvement in fight with Timberwolves**
+**US Senate passes stopgap funding bill to avert government shutdown**
 
-You can read more about it [here](https://theathletic.com/5067548/2023/11/15/draymond-suspended-chokehold/).
+You can read more about it [here](https://www.reuters.com/world/us/us-senate-takes-up-bill-avert-partial-government-shutdown-2023-11-15/).
 
 ## Requirements
 - Python 3.8
