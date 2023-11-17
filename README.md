@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Jenner and Tristan Thompson Discuss Jordyn Woods Cheating Scandal**
+**‘The Crown’ Season 6 Reactions: Some UK Critics Aghast At “Ghost Diana”; French Reviewers Largely Swoon**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/kylie-jenner-and-tristan-thomspon-discuss-jordyn-woods).
+You can read more about it [here](https://deadline.com/2023/11/the-crown-season-6-reviews-critics-reactions-uk-france-netflix-1235613494/).
 
 ## Requirements
 - Python 3.8
