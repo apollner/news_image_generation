@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestine protesters shut down Bay Bridge during APEC Summit**
+**Suspect arrested for manslaughter in death of protester at California rally over Israel-Hamas war**
 
-You can read more about it [here](https://www.ktvu.com/news/pro-palestine-protesters-shut-down-bay-bridge-during-apec-summit).
+You can read more about it [here](https://abcnews.go.com/US/suspect-arrested-manslaughter-death-protester-paul-kessler-california/story?id=104946476).
 
 ## Requirements
 - Python 3.8
