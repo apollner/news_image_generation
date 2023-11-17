@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pedro Sanchez secures another term as Spain's prime minister, set to form government**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 11, 2023: Model backing Panthers, Steelers**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/16/pedro-sanchez-secures-another-term-as-spains-prime-minister-set-to-form-government.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-11-2023-model-backing-panthers-steelers/).
 
 ## Requirements
 - Python 3.8
