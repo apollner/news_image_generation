@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarming Diabetes Danger: Insufficient Sleep Raises Insulin Resistance in Women**
+**What has Israel ‘found’ in Gaza’s al-Shifa Hospital?**
 
-You can read more about it [here](https://scitechdaily.com/?p=328602).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/16/what-has-israel-found-in-gazas-al-shifa-hospital).
 
 ## Requirements
 - Python 3.8
