@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lisa Kudrow Thanks Matthew Perry for 'the Best 10 Years a Person Gets to Have'**
+**Trump fraud trial updates: Mistrial requested for NY civil trial by Trump legal team**
 
-You can read more about it [here](http://www.vulture.com/2023/11/lisa-kudrow-matthew-perry-friends-tribute.html).
+You can read more about it [here](https://www.axios.com/2023/11/15/trump-new-york-civil-fraud-trial-mistrial).
 
 ## Requirements
 - Python 3.8
