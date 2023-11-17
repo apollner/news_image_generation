@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tremors continue in Iceland with apparent volcanic eruption imminent**
+**Watch: ‘Large meteor’ seen over NE Ohio**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/11/16/iceland-volcano-reykjanes-grindavik/).
+You can read more about it [here](https://fox8.com/news/watch-large-meteor-seen-over-ne-ohio/).
 
 ## Requirements
 - Python 3.8
