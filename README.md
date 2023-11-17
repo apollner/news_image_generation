@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 11, 2023: Model backing Panthers, Steelers**
+**Pro-Palestine protesters shut down Bay Bridge during APEC Summit**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-11-2023-model-backing-panthers-steelers/).
+You can read more about it [here](https://www.ktvu.com/news/pro-palestine-protesters-shut-down-bay-bridge-during-apec-summit).
 
 ## Requirements
 - Python 3.8
