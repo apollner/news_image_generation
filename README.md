@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Plans to Bring Her Parents to Chiefs vs. Eagles Game**
+**Lisa Kudrow Thanks Matthew Perry for 'the Best 10 Years a Person Gets to Have'**
 
-You can read more about it [here](https://www.eonline.com/news/1389969/taylor-swift-will-bring-her-parents-to-chiefs-vs-eagles-football-game).
+You can read more about it [here](http://www.vulture.com/2023/11/lisa-kudrow-matthew-perry-friends-tribute.html).
 
 ## Requirements
 - Python 3.8
