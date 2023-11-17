@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasuries Catch a Bid as Stock Rally Hits a Wall: Markets Wrap**
+**Watch: ‘Large meteor’ seen over NE Ohio**
 
-You can read more about it [here](https://finance.yahoo.com/news/shares-asia-mixed-us-stocks-225121523.html).
+You can read more about it [here](https://fox8.com/news/watch-large-meteor-seen-over-ne-ohio/).
 
 ## Requirements
 - Python 3.8
