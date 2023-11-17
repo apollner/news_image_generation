@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whatever you do, don’t buy an Nvidia GPU right now**
+**Vatican confirms ban on Catholics becoming Freemasons**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/dont-buy-nvidia-gpu-right-now/).
+You can read more about it [here](https://www.reuters.com/world/europe/vatican-confirms-ban-catholics-becoming-freemasons-2023-11-15/).
 
 ## Requirements
 - Python 3.8
