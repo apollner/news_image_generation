@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA clears SpaceX to launch second Starship flight**
+**Whatever you do, don’t buy an Nvidia GPU right now**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/15/faa-clears-spacex-to-launch-second-starship-flight.html).
+You can read more about it [here](https://www.digitaltrends.com/computing/dont-buy-nvidia-gpu-right-now/).
 
 ## Requirements
 - Python 3.8
