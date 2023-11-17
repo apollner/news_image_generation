@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Kimmel to Host 2024 Oscars Ceremony**
+**FAA clears SpaceX to launch second Starship flight**
 
-You can read more about it [here](https://variety.com/2023/film/awards/jimmy-kimmel-returns-oscars-host-2024-1235792005/).
+You can read more about it [here](https://www.cnbc.com/2023/11/15/faa-clears-spacex-to-launch-second-starship-flight.html).
 
 ## Requirements
 - Python 3.8
