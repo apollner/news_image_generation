@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube gets more features, including AI-generated summaries of videos - SamMobile**
+**Athletics get approval from MLB owners to move from Oakland to Las Vegas**
 
-You can read more about it [here](https://www.sammobile.com/news/youtube-premium-features-ai-generated-summaries-enhanced-bitrate/).
+You can read more about it [here](https://theathletic.com/5068638/2023/11/16/oakland-athletics-relocation-las-vegas-mlb/).
 
 ## Requirements
 - Python 3.8
