@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump fraud trial updates: Mistrial requested for NY civil trial by Trump legal team**
+**Alarming Diabetes Danger: Insufficient Sleep Raises Insulin Resistance in Women**
 
-You can read more about it [here](https://www.axios.com/2023/11/15/trump-new-york-civil-fraud-trial-mistrial).
+You can read more about it [here](https://scitechdaily.com/?p=328602).
 
 ## Requirements
 - Python 3.8
