@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war rages as outcry grows over Gaza crisis: Live updates**
+**Man who attacked Pelosi's husband convicted of federal assault and attempted kidnapping charges**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-16-23/index.html).
+You can read more about it [here](https://news.yahoo.com/man-attacked-pelosi-husband-convicted-192244682.html).
 
 ## Requirements
 - Python 3.8
