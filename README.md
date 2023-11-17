@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google is going to let teens use Bard, though with some guardrails**
+**Warriors’ Draymond Green suspended 5 games for involvement in fight with Timberwolves**
 
-You can read more about it [here](https://www.theverge.com/2023/11/15/23963230/google-bard-teens-guardrails).
+You can read more about it [here](https://theathletic.com/5067548/2023/11/15/draymond-suspended-chokehold/).
 
 ## Requirements
 - Python 3.8
