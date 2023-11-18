@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Louisville cop Brett Hankison's federal trial ends in mistrial**
+**Vasseur: Vegas manhole issues that wrecked Sainz's Ferrari F1 car "unacceptable"**
 
-You can read more about it [here](https://www.courier-journal.com/story/news/crime/2023/11/16/ex-louisville-cop-brett-hankisons-federal-trial-ends-in-mistrial/71608553007/).
+You can read more about it [here](https://www.motorsport.com/f1/news/vasseur-f1-vegas-manhole-issues-that-wrecked-sainzs-ferrari-unacceptable/10547501/).
 
 ## Requirements
 - Python 3.8
