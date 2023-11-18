@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Louisville cop Brett Hankison's federal trial ends in mistrial**
+**NASA's Deep Space Optical Comm Demo Sends, Receives First Data**
 
-You can read more about it [here](https://www.courier-journal.com/story/news/crime/2023/11/16/ex-louisville-cop-brett-hankisons-federal-trial-ends-in-mistrial/71608553007/).
+You can read more about it [here](https://www.jpl.nasa.gov/news/nasas-deep-space-optical-comm-demo-sends-receives-first-data).
 
 ## Requirements
 - Python 3.8
