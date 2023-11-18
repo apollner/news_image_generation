@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IBM pulls ads from X as Musk amplifies antisemitism**
+**Dex Carvey, Dana Carvey's son, dies at age 32**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/11/16/elon-musk-antisemitic-advertisers/).
+You can read more about it [here](https://www.cbsnews.com/news/dex-carvey-dies-dana-carvey-son/).
 
 ## Requirements
 - Python 3.8
