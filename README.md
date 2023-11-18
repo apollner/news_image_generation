@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan fires linebackers coach Chris Partridge - ESPN**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38920463/michigan-fires-linebackers-coach-chris-partridge).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
