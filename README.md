@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweden's Tesla boycott snowballs as more workers join the strike**
+**Israel-Hamas war rages as outcry grows over Gaza crisis**
 
-You can read more about it [here](https://electrek.co/2023/11/17/sweden-tesla-boycott-snowballs-as-more-workers-join-the-strike/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-17-23/index.html).
 
 ## Requirements
 - Python 3.8
