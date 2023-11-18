@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens beat Bengals as Joe Burrow's exit makes big impact - ESPN**
+**Ex-Louisville cop Brett Hankison's federal trial ends in mistrial**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38915969/bengals-joe-burrow-injured-wrist-ravens-win-lamar-jackson-thursday-night-football).
+You can read more about it [here](https://www.courier-journal.com/story/news/crime/2023/11/16/ex-louisville-cop-brett-hankisons-federal-trial-ends-in-mistrial/71608553007/).
 
 ## Requirements
 - Python 3.8
