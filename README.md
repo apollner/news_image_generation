@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dex Carvey, Dana Carvey's son, dies at age 32**
+**Warriors' Steve Kerr: Draymond Green Suspension 'Deserved' amid 'Inexcusable' Actions**
 
-You can read more about it [here](https://www.cbsnews.com/news/dex-carvey-dies-dana-carvey-son/).
+You can read more about it [here](https://bleacherreport.com/articles/10097691-warriors-steve-kerr-draymond-green-suspension-deserved-amid-inexcusable-actions).
 
 ## Requirements
 - Python 3.8
