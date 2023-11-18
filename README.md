@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Theater Review: 'Spamalot' Returns to Broadway**
+**Ex-Louisville cop Brett Hankison's federal trial ends in mistrial**
 
-You can read more about it [here](http://www.vulture.com/2023/11/theater-review-spamalot-broadway-revival.html).
+You can read more about it [here](https://www.courier-journal.com/story/news/crime/2023/11/16/ex-louisville-cop-brett-hankisons-federal-trial-ends-in-mistrial/71608553007/).
 
 ## Requirements
 - Python 3.8
