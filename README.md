@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wrong statement made in Shakur Stevenson's title victory over Edwin De Los Santos - ESPN**
+**Morning Bid: Treasury yields dive as oil craters, economy softens**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/38905673/shakur-stevenson-edwin-de-los-santos-live-boxing-results-analysis).
+You can read more about it [here](https://www.reuters.com/markets/us/global-markets-view-usa-graphics-2023-11-17/).
 
 ## Requirements
 - Python 3.8
