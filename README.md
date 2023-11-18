@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens TE Mark Andrews (ankle) ruled out vs. Bengals**
+**IBM pulls ads from X as Musk amplifies antisemitism**
 
-You can read more about it [here](https://www.nfl.com/news/ravens-te-mark-andrews-ankle-questionable-to-return-vs-bengals).
+You can read more about it [here](https://www.washingtonpost.com/technology/2023/11/16/elon-musk-antisemitic-advertisers/).
 
 ## Requirements
 - Python 3.8
