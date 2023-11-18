@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu: One of the reasons for raiding Shifa was signs hostages were held there**
+**Angels’ Shohei Ohtani, Braves’ Ronald Acuña Jr. win 2023 MLB MVP awards**
 
-You can read more about it [here](https://www.timesofisrael.com/netanyahu-one-of-the-reasons-for-raiding-shifa-was-signs-hostages-were-held-there/).
+You can read more about it [here](https://theathletic.com/5060477/2023/11/16/mlb-mvp-shohei-ohtani-ronald-acuna/).
 
 ## Requirements
 - Python 3.8
