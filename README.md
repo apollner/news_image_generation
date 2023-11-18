@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second Hostage's Body Found Near Gaza Hospital, Israel Says**
+**10 Million Miles Away: NASA Achieves Historic Data Exchange With Deep Space Optical Communications Experiment**
 
-You can read more about it [here](https://www.thedailybeast.com/second-hostages-body-found-near-gaza-hospital-israel-claims).
+You can read more about it [here](https://scitechdaily.com/?p=328960).
 
 ## Requirements
 - Python 3.8
