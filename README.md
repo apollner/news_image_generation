@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens' Mark Andrews suffered likely season-ending injury on controversial hip-drop tackle**
+**Wrong statement made in Shakur Stevenson's title victory over Edwin De Los Santos - ESPN**
 
-You can read more about it [here](https://sports.yahoo.com/ravens-mark-andrews-suffered-likely-season-ending-injury-on-controversial-hip-drop-tackle-014839415.html).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/38905673/shakur-stevenson-edwin-de-los-santos-live-boxing-results-analysis).
 
 ## Requirements
 - Python 3.8
