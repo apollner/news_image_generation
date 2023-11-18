@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dex Carvey Dies: Comedian Son Of Dana Carvey Was 32**
+**Arrest made in death of Jewish protester in Thousand Oaks**
 
-You can read more about it [here](https://deadline.com/2023/11/dex-carvey-dies-comedian-son-of-dana-carvey-age-32-obituary-1235615675/).
+You can read more about it [here](https://www.youtube.com/watch?v=hiKiDQUgzO4).
 
 ## Requirements
 - Python 3.8
