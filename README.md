@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles rises globally amid vaccination crash; WHO and CDC sound the alarm**
+**'Fiery hell': Ukraine secures multiple strategic areas along eastern bank of Dnipro River**
 
-You can read more about it [here](https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/).
+You can read more about it [here](https://www.france24.com/en/europe/20231117-fiery-hell-ukraine-secures-multiple-strategic-areas-along-eastern-bank-of-dnipro-river).
 
 ## Requirements
 - Python 3.8
