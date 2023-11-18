@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Fiery hell': Ukraine secures multiple strategic areas along eastern bank of Dnipro River**
+**Michigan fires linebackers coach Chris Partridge - ESPN**
 
-You can read more about it [here](https://www.france24.com/en/europe/20231117-fiery-hell-ukraine-secures-multiple-strategic-areas-along-eastern-bank-of-dnipro-river).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38920463/michigan-fires-linebackers-coach-chris-partridge).
 
 ## Requirements
 - Python 3.8
