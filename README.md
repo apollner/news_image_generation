@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ketamine infusions might improve cognitive function in depressed individuals**
+**Israel Hamas war live updates: Second body of hostage found**
 
-You can read more about it [here](https://www.psypost.org/2023/11/ketamine-infusions-might-improve-cognitive-function-in-depressed-individuals-214565).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/11/17/israel-hamas-war-live-updates/71616890007/).
 
 ## Requirements
 - Python 3.8
