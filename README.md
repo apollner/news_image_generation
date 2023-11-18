@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morning Bid: Treasury yields dive as oil craters, economy softens**
+**Sweden's Tesla boycott snowballs as more workers join the strike**
 
-You can read more about it [here](https://www.reuters.com/markets/us/global-markets-view-usa-graphics-2023-11-17/).
+You can read more about it [here](https://electrek.co/2023/11/17/sweden-tesla-boycott-snowballs-as-more-workers-join-the-strike/).
 
 ## Requirements
 - Python 3.8
