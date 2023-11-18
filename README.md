@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Golden Bachelor' Fantasy Suites Set Up a Disastrous Finale**
+**Ketamine infusions might improve cognitive function in depressed individuals**
 
-You can read more about it [here](https://www.thedailybeast.com/obsessed/the-golden-bachelor-recap-fantasy-suites-set-up-a-disastrous-finale).
+You can read more about it [here](https://www.psypost.org/2023/11/ketamine-infusions-might-improve-cognitive-function-in-depressed-individuals-214565).
 
 ## Requirements
 - Python 3.8
