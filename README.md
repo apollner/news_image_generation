@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angels’ Shohei Ohtani, Braves’ Ronald Acuña Jr. win 2023 MLB MVP awards**
+**Ravens' Mark Andrews suffered likely season-ending injury on controversial hip-drop tackle**
 
-You can read more about it [here](https://theathletic.com/5060477/2023/11/16/mlb-mvp-shohei-ohtani-ronald-acuna/).
+You can read more about it [here](https://sports.yahoo.com/ravens-mark-andrews-suffered-likely-season-ending-injury-on-controversial-hip-drop-tackle-014839415.html).
 
 ## Requirements
 - Python 3.8
