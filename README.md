@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vasseur: Vegas manhole issues that wrecked Sainz's Ferrari F1 car "unacceptable"**
+**Alibaba shares plunge after reversing spinoff plan of cloud unit**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/vasseur-f1-vegas-manhole-issues-that-wrecked-sainzs-ferrari-unacceptable/10547501/).
+You can read more about it [here](https://asia.nikkei.com/Business/China-tech/Alibaba-shares-plunge-after-reversing-spinoff-plan-of-cloud-unit).
 
 ## Requirements
 - Python 3.8
