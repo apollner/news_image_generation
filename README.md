@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New data provide a boost for shorter drug-resistant TB regimens**
+**Biden calls Xi a dictator after carefully planned summit**
 
-You can read more about it [here](https://www.cidrap.umn.edu/antimicrobial-stewardship/new-data-provide-boost-shorter-drug-resistant-tb-regimens).
+You can read more about it [here](https://www.reuters.com/world/biden-calls-xi-dictator-after-carefully-planned-summit-2023-11-16/).
 
 ## Requirements
 - Python 3.8
