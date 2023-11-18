@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden calls Xi a dictator after carefully planned summit**
+**Arrest made in death of Jewish protester in Thousand Oaks**
 
-You can read more about it [here](https://www.reuters.com/world/biden-calls-xi-dictator-after-carefully-planned-summit-2023-11-16/).
+You can read more about it [here](https://www.youtube.com/watch?v=hiKiDQUgzO4).
 
 ## Requirements
 - Python 3.8
