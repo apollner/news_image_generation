@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM's Cruise suspends its employee equity program**
+**New data provide a boost for shorter drug-resistant TB regimens**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/gms-cruise-cancels-its-employee-equity-program-q4-2023-11-16/).
+You can read more about it [here](https://www.cidrap.umn.edu/antimicrobial-stewardship/new-data-provide-boost-shorter-drug-resistant-tb-regimens).
 
 ## Requirements
 - Python 3.8
