@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian rescuers still 40 metres away from workers trapped in collapsed tunnel**
+**Netanyahu: One of the reasons for raiding Shifa was signs hostages were held there**
 
-You can read more about it [here](https://www.reuters.com/world/india/indian-rescuers-still-40-metres-away-workers-trapped-collapsed-tunnel-2023-11-17/).
+You can read more about it [here](https://www.timesofisrael.com/netanyahu-one-of-the-reasons-for-raiding-shifa-was-signs-hostages-were-held-there/).
 
 ## Requirements
 - Python 3.8
