@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas war live updates: Second body of hostage found**
+**Scott Pilgrim Takes Off delivers an all-time great bait-and-switch**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/11/17/israel-hamas-war-live-updates/71616890007/).
+You can read more about it [here](https://www.polygon.com/23943353/netflix-scott-pilgrim-takes-off-anime-same-different-movie-comics).
 
 ## Requirements
 - Python 3.8
