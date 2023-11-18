@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second Hostage's Body Found Near Gaza Hospital, Israel Says**
+**'The Golden Bachelor' Fantasy Suites Set Up a Disastrous Finale**
 
-You can read more about it [here](https://www.thedailybeast.com/second-hostages-body-found-near-gaza-hospital-israel-claims).
+You can read more about it [here](https://www.thedailybeast.com/obsessed/the-golden-bachelor-recap-fantasy-suites-set-up-a-disastrous-finale).
 
 ## Requirements
 - Python 3.8
