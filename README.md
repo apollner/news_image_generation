@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks workers stage strike on coffee chain's "Red Cup" day**
+**Ravens TE Mark Andrews (ankle) ruled out vs. Bengals**
 
-You can read more about it [here](https://www.cbsnews.com/news/starbucks-on-strike-red-cup-day-rebellion/).
+You can read more about it [here](https://www.nfl.com/news/ravens-te-mark-andrews-ankle-questionable-to-return-vs-bengals).
 
 ## Requirements
 - Python 3.8
