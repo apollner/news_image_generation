@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No shutdown for the holidays: Biden signs bill pushing deadline into 2024**
+**Second Hostage's Body Found Near Gaza Hospital, Israel Says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0NrKXA7VqDE).
+You can read more about it [here](https://www.thedailybeast.com/second-hostages-body-found-near-gaza-hospital-israel-claims).
 
 ## Requirements
 - Python 3.8
