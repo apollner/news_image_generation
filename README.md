@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vaccination Vacation: Measles Makes a Menacing Comeback**
+**Indian rescuers still 40 metres away from workers trapped in collapsed tunnel**
 
-You can read more about it [here](https://scitechdaily.com/?p=328883).
+You can read more about it [here](https://www.reuters.com/world/india/indian-rescuers-still-40-metres-away-workers-trapped-collapsed-tunnel-2023-11-17/).
 
 ## Requirements
 - Python 3.8
