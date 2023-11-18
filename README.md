@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IBM pulls ads from X as Musk amplifies antisemitism**
+**Ravens beat Bengals as Joe Burrow's exit makes big impact - ESPN**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2023/11/16/elon-musk-antisemitic-advertisers/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38915969/bengals-joe-burrow-injured-wrist-ravens-win-lamar-jackson-thursday-night-football).
 
 ## Requirements
 - Python 3.8
