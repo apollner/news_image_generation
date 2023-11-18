@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Deep Space Optical Comm Demo Sends, Receives First Data**
+**Starbucks workers stage strike on coffee chain's "Red Cup" day**
 
-You can read more about it [here](https://www.jpl.nasa.gov/news/nasas-deep-space-optical-comm-demo-sends-receives-first-data).
+You can read more about it [here](https://www.cbsnews.com/news/starbucks-on-strike-red-cup-day-rebellion/).
 
 ## Requirements
 - Python 3.8
