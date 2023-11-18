@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott Pilgrim Takes Off delivers an all-time great bait-and-switch**
+**Measles rises globally amid vaccination crash; WHO and CDC sound the alarm**
 
-You can read more about it [here](https://www.polygon.com/23943353/netflix-scott-pilgrim-takes-off-anime-same-different-movie-comics).
+You can read more about it [here](https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/).
 
 ## Requirements
 - Python 3.8
