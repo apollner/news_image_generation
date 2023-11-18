@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alibaba shares plunge after reversing spinoff plan of cloud unit**
+**Vaccination Vacation: Measles Makes a Menacing Comeback**
 
-You can read more about it [here](https://asia.nikkei.com/Business/China-tech/Alibaba-shares-plunge-after-reversing-spinoff-plan-of-cloud-unit).
+You can read more about it [here](https://scitechdaily.com/?p=328883).
 
 ## Requirements
 - Python 3.8
