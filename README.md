@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF southern command chief: ‘We see clear Hamas presence in all hospitals’**
+**The Vander Plaats primary is about to get its biggest test**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.politico.com/news/2023/11/17/desantis-bob-vander-plaats-2024-00127904).
 
 ## Requirements
 - Python 3.8
