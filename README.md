@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football picks against the spread: Bruce Feldman’s Week 12 predictions**
+**‘Impossible’: Panic as Israel orders Gaza’s al-Shifa Hospital to evacuate**
 
-You can read more about it [here](https://theathletic.com/5072406/2023/11/17/college-football-picks-predictions-week-12-feldman/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/18/israel-gives-gazas-al-shifa-hospital-one-hour-to-evacuate).
 
 ## Requirements
 - Python 3.8
