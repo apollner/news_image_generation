@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shedeur Sanders hurt, Deion Sanders' Colorado team clinches losing record**
+**Sen. Mike Lee calls for investigation of J6 committee after tapes released: 'Deliberately hid from us'**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-hurt-deion-sanders-colorado-team-clinches-losing-record).
+You can read more about it [here](https://www.foxnews.com/politics/sen-mike-lee-calls-investigation-j6-committee-tapes-released-deliberately-hid-us).
 
 ## Requirements
 - Python 3.8
