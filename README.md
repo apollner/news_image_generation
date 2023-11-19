@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Security guard killed in New Hampshire hospital shooting; suspect killed by trooper, authorities say**
+**Tanzania confirms intern believed taken by Hamas in Israel is dead**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/us/new-hampshire-hospital-shooting-victims/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/tanzania-intern-taken-by-hamas-in-israel-dead-clemence-felix-mtenga/).
 
 ## Requirements
 - Python 3.8
