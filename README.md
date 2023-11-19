@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Mike Lee calls for investigation of J6 committee after tapes released: 'Deliberately hid from us'**
+**Colorado judge rejects bid to keep Trump off state's 2024 ballot**
 
-You can read more about it [here](https://www.foxnews.com/politics/sen-mike-lee-calls-investigation-j6-committee-tapes-released-deliberately-hid-us).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/colorado-judge-rejects-bid-keep-trump-2024-ballot-rcna125451).
 
 ## Requirements
 - Python 3.8
