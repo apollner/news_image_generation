@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado vs. Washington State: How to watch live stream, TV channel, kickoff time, odds, prediction**
+**IDF southern command chief: ‘We see clear Hamas presence in all hospitals’**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-washington-state-how-to-watch-live-stream-tv-channel-kickoff-time-odds-prediction/).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
