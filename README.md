@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Milei echoes Trump with fraud claims that inject uncertainty into Argentina's presidential runoff**
+**After I-10 closure, America's car capital grapples with freeway future**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/18/milei-echoes-trump-with-fraud-claims-that-inject-uncertainty-into-argentinas-presidential-runoff-00127925).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/18/i-10-los-angeles-freeway-future/).
 
 ## Requirements
 - Python 3.8
