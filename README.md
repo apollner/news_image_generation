@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Vander Plaats primary is about to get its biggest test**
+**Short seller Jim Chanos to close his main hedge funds**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/17/desantis-bob-vander-plaats-2024-00127904).
+You can read more about it [here](https://www.ft.com/content/68d3a4cc-322e-421d-99d9-6657b21f7044).
 
 ## Requirements
 - Python 3.8
