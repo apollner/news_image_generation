@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I built the best gaming PC in the world — and it wasn’t worth it**
+**Shedeur Sanders hurt, Deion Sanders' Colorado team clinches losing record**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/best-gaming-pc-not-worth-it/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-hurt-deion-sanders-colorado-team-clinches-losing-record).
 
 ## Requirements
 - Python 3.8
