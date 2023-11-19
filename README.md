@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Impossible’: Panic as Israel orders Gaza’s al-Shifa Hospital to evacuate**
+**College Football World Aghast As Colorado Goes Down 42–7 to Washington State at Half**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/18/israel-gives-gazas-al-shifa-hospital-one-hour-to-evacuate).
+You can read more about it [here](https://www.si.com/college/2023/11/18/college-football-world-aghast-colorado-goes-down-washington-state-half).
 
 ## Requirements
 - Python 3.8
