@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony announces The Last of Us Part II remaster for PS5**
+**Kaitlin Armstrong, convicted of killing Anna Moriah Wilson, sentenced to 90 years in prison**
 
-You can read more about it [here](https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks).
+You can read more about it [here](https://www.statesman.com/story/news/local/2023/11/17/kaitlin-armstrong-sentenced-guilty-verdict-murder-cyclist-anna-moriah-wilson-austin-texas/71615361007/).
 
 ## Requirements
 - Python 3.8
