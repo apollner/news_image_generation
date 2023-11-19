@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football World Aghast As Colorado Goes Down 42–7 to Washington State at Half**
+**College football picks against the spread: Bruce Feldman’s Week 12 predictions**
 
-You can read more about it [here](https://www.si.com/college/2023/11/18/college-football-world-aghast-colorado-goes-down-washington-state-half).
+You can read more about it [here](https://theathletic.com/5072406/2023/11/17/college-football-picks-predictions-week-12-feldman/).
 
 ## Requirements
 - Python 3.8
