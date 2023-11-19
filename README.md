@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Ackman Defends Elon Musk After Backlash Over Antisemitism**
+**What Sam Altman's Firing Means for the Future of OpenAI**
 
-You can read more about it [here](https://finance.yahoo.com/news/bill-ackman-defends-elon-musk-170125551.html).
+You can read more about it [here](https://www.wired.com/story/sam-altman-firing-openai-future/).
 
 ## Requirements
 - Python 3.8
