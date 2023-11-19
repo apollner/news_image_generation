@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After I-10 closure, America's car capital grapples with freeway future**
+**I built the best gaming PC in the world — and it wasn’t worth it**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/18/i-10-los-angeles-freeway-future/).
+You can read more about it [here](https://www.digitaltrends.com/computing/best-gaming-pc-not-worth-it/).
 
 ## Requirements
 - Python 3.8
