@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado judge finds Trump engaged in 'insurrection' but allows him on ballot**
+**Tanzania confirms intern believed taken by Hamas in Israel is dead**
 
-You can read more about it [here](https://www.reuters.com/legal/colorado-judges-allows-trump-primary-ballot-delays-decision-general-election-2023-11-18/).
+You can read more about it [here](https://www.cbsnews.com/news/tanzania-intern-taken-by-hamas-in-israel-dead-clemence-felix-mtenga/).
 
 ## Requirements
 - Python 3.8
