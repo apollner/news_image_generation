@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If Joe Burrow wrist wrap was no big deal, why did Bengals delete video of it?**
+**Bill Ackman Defends Elon Musk After Backlash Over Antisemitism**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-joe-burrow-wrist-wrap-was-no-big-deal-why-did-bengals-delete-video-of-it).
+You can read more about it [here](https://finance.yahoo.com/news/bill-ackman-defends-elon-musk-170125551.html).
 
 ## Requirements
 - Python 3.8
