@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Ackman Defends Elon Musk After Backlash Over Antisemitism**
+**Colorado judge rejects bid to keep Trump off state's 2024 ballot**
 
-You can read more about it [here](https://finance.yahoo.com/news/bill-ackman-defends-elon-musk-170125551.html).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/colorado-judge-rejects-bid-keep-trump-2024-ballot-rcna125451).
 
 ## Requirements
 - Python 3.8
