@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Love and Relationship Horoscope for November 18, 2023**
+**College football picks against the spread: Bruce Feldman’s Week 12 predictions**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/love-and-relationship-horoscope-for-november-18-2023-101700241612390.html).
+You can read more about it [here](https://theathletic.com/5072406/2023/11/17/college-football-picks-predictions-week-12-feldman/).
 
 ## Requirements
 - Python 3.8
