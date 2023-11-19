@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Every move I make, I second guess’: These Muslim and Arab Americans say the surge in hate has made them more vigilant**
+**College Football World Aghast As Colorado Goes Down 42–7 to Washington State at Half**
 
-You can read more about it [here](https://www.cnn.com/2023/11/18/us/hate-crimes-surge-us-muslims-arabs-react-reaj/index.html).
+You can read more about it [here](https://www.si.com/college/2023/11/18/college-football-world-aghast-colorado-goes-down-washington-state-half).
 
 ## Requirements
 - Python 3.8
