@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“It’s Embarrassing” – Michigan Alum Rich Eisen on Jim Harbaugh Accepting Big Ten’s 3-Game Suspension**
+**Former first lady Rosalynn Carter enters hospice care**
 
-You can read more about it [here](https://www.youtube.com/watch?v=mEFheTJjokk).
+You can read more about it [here](https://www.cnn.com/2023/11/17/politics/rosalynn-carter-hospice-care/index.html).
 
 ## Requirements
 - Python 3.8
