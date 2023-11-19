@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnson says Biden ‘projecting weakness’ after meeting with Xi Jinping**
+**The Last of Us 2 PS5 Remaster Announced, Has a Brand New Survival Mode, $10 Upgrade Path**
 
-You can read more about it [here](https://thehill.com/homenews/house/4316236-johnson-biden-projecting-weakness-after-meeting-xi-jinping/).
+You can read more about it [here](https://www.pushsquare.com/news/2023/11/the-last-of-us-2-ps5-remaster-announced-has-a-brand-new-survival-mode-usd10-upgrade-path).
 
 ## Requirements
 - Python 3.8
