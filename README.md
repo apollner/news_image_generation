@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Every move I make, I second guess’: These Muslim and Arab Americans say the surge in hate has made them more vigilant**
+**Scholz addresses 'differences' with Erdogan on Israel**
 
-You can read more about it [here](https://www.cnn.com/2023/11/18/us/hate-crimes-surge-us-muslims-arabs-react-reaj/index.html).
+You can read more about it [here](https://www.dw.com/en/scholz-addresses-differences-with-erdogan-on-israel/a-67464112).
 
 ## Requirements
 - Python 3.8
