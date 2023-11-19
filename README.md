@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosion, smoke in northern Gaza seen from Israel's Sderot | AFP**
+**‘Every move I make, I second guess’: These Muslim and Arab Americans say the surge in hate has made them more vigilant**
 
-You can read more about it [here](https://www.youtube.com/watch?v=TmwDfokhXYE).
+You can read more about it [here](https://www.cnn.com/2023/11/18/us/hate-crimes-surge-us-muslims-arabs-react-reaj/index.html).
 
 ## Requirements
 - Python 3.8
