@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado judge rejects bid to keep Trump off state's 2024 ballot**
+**SpaceX Starship launch failed minutes after reaching space**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/colorado-judge-rejects-bid-keep-trump-2024-ballot-rcna125451).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-starship-launched-test-flight-texas-after-last-one-blew-up-2023-11-18/).
 
 ## Requirements
 - Python 3.8
