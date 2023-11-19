@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former first lady Rosalynn Carter enters hospice care**
+**Suspect dead, situation 'contained' after shooting at New Hampshire State Hospital**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/politics/rosalynn-carter-hospice-care/index.html).
+You can read more about it [here](https://abcnews.go.com/US/multiple-victims-reported-shooting-new-hampshire-state-hospital/story?id=104989486).
 
 ## Requirements
 - Python 3.8
