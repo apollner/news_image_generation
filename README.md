@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado judge keeps Trump on 2024 primary ballot as latest 14th Amendment case falters**
+**Cantaloupe, fruit products recalled amid CDC investigation of salmonella infections**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/politics/trump-colorado-ballot-14th-amendment-insurrection/index.html).
+You can read more about it [here](https://www.cnn.com/2023/11/17/health/cantaloupe-salmonella-recall/index.html).
 
 ## Requirements
 - Python 3.8
