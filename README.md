@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australia Says Navy Divers Injured by Chinese Sonar Pulses**
+**Colorado vs. Washington State: How to watch live stream, TV channel, kickoff time, odds, prediction**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-17/australia-says-navy-divers-injured-by-chinese-sonar-pulses).
+You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-vs-washington-state-how-to-watch-live-stream-tv-channel-kickoff-time-odds-prediction/).
 
 ## Requirements
 - Python 3.8
