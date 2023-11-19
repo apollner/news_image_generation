@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Impossible’: Panic as Israel orders Gaza’s al-Shifa Hospital to evacuate**
+**Explosion, smoke in northern Gaza seen from Israel's Sderot | AFP**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/18/israel-gives-gazas-al-shifa-hospital-one-hour-to-evacuate).
+You can read more about it [here](https://www.youtube.com/watch?v=TmwDfokhXYE).
 
 ## Requirements
 - Python 3.8
