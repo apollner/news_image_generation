@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Starship launch failed minutes after reaching space**
+**If Joe Burrow wrist wrap was no big deal, why did Bengals delete video of it?**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-starship-launched-test-flight-texas-after-last-one-blew-up-2023-11-18/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-joe-burrow-wrist-wrap-was-no-big-deal-why-did-bengals-delete-video-of-it).
 
 ## Requirements
 - Python 3.8
