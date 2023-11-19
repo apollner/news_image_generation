@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: Stocks close little changed to notch weekly win**
+**Love and Relationship Horoscope for November 18, 2023**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-close-little-changed-to-notch-weekly-win-113959488.html).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/love-and-relationship-horoscope-for-november-18-2023-101700241612390.html).
 
 ## Requirements
 - Python 3.8
