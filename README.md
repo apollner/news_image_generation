@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Last of Us 2 PS5 Remaster Announced, Has a Brand New Survival Mode, $10 Upgrade Path**
+**‘Every move I make, I second guess’: These Muslim and Arab Americans say the surge in hate has made them more vigilant**
 
-You can read more about it [here](https://www.pushsquare.com/news/2023/11/the-last-of-us-2-ps5-remaster-announced-has-a-brand-new-survival-mode-usd10-upgrade-path).
+You can read more about it [here](https://www.cnn.com/2023/11/18/us/hate-crimes-surge-us-muslims-arabs-react-reaj/index.html).
 
 ## Requirements
 - Python 3.8
