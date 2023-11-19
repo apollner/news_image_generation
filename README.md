@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect dead, situation 'contained' after shooting at New Hampshire State Hospital**
+**Colorado judge keeps Trump on 2024 primary ballot as latest 14th Amendment case falters**
 
-You can read more about it [here](https://abcnews.go.com/US/multiple-victims-reported-shooting-new-hampshire-state-hospital/story?id=104989486).
+You can read more about it [here](https://www.cnn.com/2023/11/17/politics/trump-colorado-ballot-14th-amendment-insurrection/index.html).
 
 ## Requirements
 - Python 3.8
