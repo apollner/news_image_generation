@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scholz addresses 'differences' with Erdogan on Israel**
+**‘Impossible’: Panic as Israel orders Gaza’s al-Shifa Hospital to evacuate**
 
-You can read more about it [here](https://www.dw.com/en/scholz-addresses-differences-with-erdogan-on-israel/a-67464112).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/18/israel-gives-gazas-al-shifa-hospital-one-hour-to-evacuate).
 
 ## Requirements
 - Python 3.8
