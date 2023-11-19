@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cantaloupe, fruit products recalled amid CDC investigation of salmonella infections**
+**Sony announces The Last of Us Part II remaster for PS5**
 
-You can read more about it [here](https://www.cnn.com/2023/11/17/health/cantaloupe-salmonella-recall/index.html).
+You can read more about it [here](https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks).
 
 ## Requirements
 - Python 3.8
