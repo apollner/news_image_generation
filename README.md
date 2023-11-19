@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado judge rejects bid to keep Trump off state's 2024 ballot**
+**Sarah Yarborough's killer had been in prison for attacking another woman, but was released early**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/colorado-judge-rejects-bid-keep-trump-2024-ballot-rcna125451).
+You can read more about it [here](https://www.cbsnews.com/news/sarah-yarborough-murder-patrick-leon-nicholas-washington-state-in-prison-for-attacking-another-woman-released-early/).
 
 ## Requirements
 - Python 3.8
