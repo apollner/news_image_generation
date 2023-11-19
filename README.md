@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football picks against the spread: Bruce Feldman’s Week 12 predictions**
+**Australia Says Navy Divers Injured by Chinese Sonar Pulses**
 
-You can read more about it [here](https://theathletic.com/5072406/2023/11/17/college-football-picks-predictions-week-12-feldman/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-17/australia-says-navy-divers-injured-by-chinese-sonar-pulses).
 
 ## Requirements
 - Python 3.8
