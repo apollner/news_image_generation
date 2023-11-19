@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Vander Plaats primary is about to get its biggest test**
+**Colorado judge finds Trump engaged in 'insurrection' but allows him on ballot**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/17/desantis-bob-vander-plaats-2024-00127904).
+You can read more about it [here](https://www.reuters.com/legal/colorado-judges-allows-trump-primary-ballot-delays-decision-general-election-2023-11-18/).
 
 ## Requirements
 - Python 3.8
