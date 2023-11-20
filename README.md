@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina holds cliffhanger election with economy at stake**
+**OpenAI investors push for Sam Altman's return as CEO: Report**
 
-You can read more about it [here](https://news.yahoo.com/argentina-holds-cliffhanger-election-economy-011043999.html).
+You can read more about it [here](https://cointelegraph.com/news/open-ai-investors-sam-altman-ceo).
 
 ## Requirements
 - Python 3.8
