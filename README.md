@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manhunt underway after Memphis shootings leave at least 4 dead, police say**
+**College football Week 12 highlights: Top plays, games, takeaways - ESPN**
 
-You can read more about it [here](https://abcnews.go.com/US/manhunt-underway-after-memphis-shootings-leave-4-dead/story?id=105010786).
+You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedayfinal111823/college-football-week-12-highlights-top-plays-games-takeaways-2023).
 
 ## Requirements
 - Python 3.8
