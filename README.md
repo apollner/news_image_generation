@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel raids terrorists' luxury homes, take over parliament and police HQs in Gaza**
+**Sunday Night Football: How to watch the Minnesota Vikings vs. Denver Broncos tonight on NBC**
 
-You can read more about it [here](https://nypost.com/2023/11/19/news/israel-raids-terrorists-luxury-homes-take-over-parliament-and-police-hqs-in-gaza/).
+You can read more about it [here](https://sports.yahoo.com/watch-minnesota-vikings-denver-broncos-sunday-night-football-time-channel-160011536.html).
 
 ## Requirements
 - Python 3.8
