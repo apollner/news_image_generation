@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows dozens of bodies after alleged attack at UN-run school in Gaza**
+**Ahead of Sunday's election, one of Argentina's two presidential candidates talks Torah**
 
-You can read more about it [here](https://www.cnn.com/2023/11/18/world/gaza-school-strike-video/index.html).
+You can read more about it [here](https://www.timesofisrael.com/ahead-of-sundays-election-one-of-argentinas-two-presidential-candidates-talks-torah/).
 
 ## Requirements
 - Python 3.8
