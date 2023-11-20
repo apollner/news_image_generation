@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**17 best Apple Black Friday deals now — AirPods Pro, MacBook Air, iPhone 15 and more**
+**I-10 freeway in Los Angeles to reopen Monday, officials say, as search for person of interest in fire continues**
 
-You can read more about it [here](https://www.tomsguide.com/deals/black-friday-apple-deals-7-best-sales-to-shop-right-now).
+You can read more about it [here](https://abcnews.go.com/US/person-interest-sought-connection-10-freeway-fire-los/story?id=105006373).
 
 ## Requirements
 - Python 3.8
