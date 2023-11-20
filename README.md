@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI investors push for Sam Altman's return as CEO: Report**
+**Taylor Swift fan Ana Benevides' father speaks out: ‘I lost my only daughter…’**
 
-You can read more about it [here](https://cointelegraph.com/news/open-ai-investors-sam-altman-ceo).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-fan-ana-benevides-father-speaks-out-if-negligence-is-confirmed-someone-will-be-punished-101700394365313.html).
 
 ## Requirements
 - Python 3.8
