@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift postpones Saturday Rio concert after 23-year-old fan dies at show during extreme temperatures**
+**Investigators release images of "person of interest" in 10 Freeway arson fire**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/music/taylor-swift-fan-dies-show-brazil-rcna125824).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/authorities-release-images-of-person-of-interest-in-10-freeway-suspected-arson/).
 
 ## Requirements
 - Python 3.8
