@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investigators release images of "person of interest" in 10 Freeway arson fire**
+**Court records indicate New Hampshire Hospital shooting suspect was patient there in 2016**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/authorities-release-images-of-person-of-interest-in-10-freeway-suspected-arson/).
+You can read more about it [here](https://www.wmur.com/article/court-records-new-hampshire-hospital-john-madore-investigates/45882408).
 
 ## Requirements
 - Python 3.8
