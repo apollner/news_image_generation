@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI Investors Trying to Get Sam Altman Back as CEO After Sudden Firing**
+**Miss Nicaragua wins 2023 Miss Universe pageant**
 
-You can read more about it [here](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049).
+You can read more about it [here](https://www.cnn.com/style/miss-universe-2023-nicaragua-sheynnis-palacios/index.html).
 
 ## Requirements
 - Python 3.8
