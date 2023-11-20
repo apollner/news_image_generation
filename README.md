@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sarah Yarborough's killer had been in prison for attacking another woman, but was released early**
+**Cheers! A bottle of Scotch whisky sells for a record $2.7 million at auction**
 
-You can read more about it [here](https://www.cbsnews.com/news/sarah-yarborough-murder-patrick-leon-nicholas-washington-state-in-prison-for-attacking-another-woman-released-early/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/cheers-bottle-scotch-whisky-sells-record-27-million-105004002).
 
 ## Requirements
 - Python 3.8
