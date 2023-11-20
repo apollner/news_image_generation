@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden’s support among Democrats erodes on handling of Israel-Hamas war**
+**Giant Telescope – 8x the Size of Earth – Reveals Unprecedented View of Colossal Cosmic Jet**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4317318-bidens-support-among-democrats-erodes-on-handling-of-israel-hamas-war/).
+You can read more about it [here](https://scitechdaily.com/?p=329458).
 
 ## Requirements
 - Python 3.8
