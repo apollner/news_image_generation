@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EMIT: NASA's Unexpected Hero in the Climate Crisis**
+**Celebrities Sound off on Diddy vs Cassie Lawsuit and Settlement**
 
-You can read more about it [here](https://scitechdaily.com/?p=329357).
+You can read more about it [here](https://www.theroot.com/celebrities-sound-off-on-diddy-vs-cassie-lawsuit-and-se-1851034654).
 
 ## Requirements
 - Python 3.8
