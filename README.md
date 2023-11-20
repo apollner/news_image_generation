@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football Week 12 highlights: Top plays, games, takeaways - ESPN**
+**Argentina holds cliffhanger election with economy at stake**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedayfinal111823/college-football-week-12-highlights-top-plays-games-takeaways-2023).
+You can read more about it [here](https://news.yahoo.com/argentina-holds-cliffhanger-election-economy-011043999.html).
 
 ## Requirements
 - Python 3.8
