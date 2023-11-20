@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F1 exceeds Las Vegas expectations as Verstappen wins one of the most competitive races of the season**
+**Deputies: Missing Winter Springs mom found dead**
 
-You can read more about it [here](https://abcnews.go.com/Sports/wireStory/verstappen-earns-18th-win-f1-season-spirited-las-105011252).
+You can read more about it [here](https://www.wesh.com/article/shakeira-rucker-found-dead/45882522).
 
 ## Requirements
 - Python 3.8
