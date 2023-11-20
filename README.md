@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift fan Ana Benevides' father speaks out: ‘I lost my only daughter…’**
+**F1 exceeds Las Vegas expectations as Verstappen wins one of the most competitive races of the season**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-fan-ana-benevides-father-speaks-out-if-negligence-is-confirmed-someone-will-be-punished-101700394365313.html).
+You can read more about it [here](https://abcnews.go.com/Sports/wireStory/verstappen-earns-18th-win-f1-season-spirited-las-105011252).
 
 ## Requirements
 - Python 3.8
