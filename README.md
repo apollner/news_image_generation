@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ahead of Sunday's election, one of Argentina's two presidential candidates talks Torah**
+**Republicans sweep 3 major state offices in Louisiana election**
 
-You can read more about it [here](https://www.timesofisrael.com/ahead-of-sundays-election-one-of-argentinas-two-presidential-candidates-talks-torah/).
+You can read more about it [here](https://thehill.com/homenews/ap/ap-politics/4317062-republicans-sweep-3-major-state-offices-in-louisiana-election/).
 
 ## Requirements
 - Python 3.8
