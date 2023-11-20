@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrities Sound off on Diddy vs Cassie Lawsuit and Settlement**
+**Israel raids terrorists' luxury homes, take over parliament and police HQs in Gaza**
 
-You can read more about it [here](https://www.theroot.com/celebrities-sound-off-on-diddy-vs-cassie-lawsuit-and-se-1851034654).
+You can read more about it [here](https://nypost.com/2023/11/19/news/israel-raids-terrorists-luxury-homes-take-over-parliament-and-police-hqs-in-gaza/).
 
 ## Requirements
 - Python 3.8
