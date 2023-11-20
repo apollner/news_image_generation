@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court records indicate New Hampshire Hospital shooting suspect was patient there in 2016**
+**What Maryland coach Mike Locksley said after Michigan football beat Maryland**
 
-You can read more about it [here](https://www.wmur.com/article/court-records-new-hampshire-hospital-john-madore-investigates/45882408).
+You can read more about it [here](https://wolverineswire.usatoday.com/lists/what-maryland-coach-mike-locksley-said-after-michigan-football-beat-maryland/).
 
 ## Requirements
 - Python 3.8
