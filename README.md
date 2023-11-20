@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miss Universe 2023 Sheynnis Palacios crowned, a first for Nicaragua**
+**CNN visits exposed tunnel shaft IDF believes is part of larger network under hospital**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/11/19/miss-universe-2023-crowns-sheynnis-palacios-nicaragua/71645300007/).
+You can read more about it [here](https://www.cnn.com/videos/world/2023/11/19/idf-hamas-exposed-tunnel-shaft-al-shifa-hospital-liebermann-vpx.cnn).
 
 ## Requirements
 - Python 3.8
