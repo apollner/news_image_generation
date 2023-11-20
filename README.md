@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miss Nicaragua wins 2023 Miss Universe pageant**
+**Manhunt underway after Memphis shootings leave at least 4 dead, police say**
 
-You can read more about it [here](https://www.cnn.com/style/miss-universe-2023-nicaragua-sheynnis-palacios/index.html).
+You can read more about it [here](https://abcnews.go.com/US/manhunt-underway-after-memphis-shootings-leave-4-dead/story?id=105010786).
 
 ## Requirements
 - Python 3.8
