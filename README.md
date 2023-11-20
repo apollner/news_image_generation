@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift fan dies at Rio concert amid complaints about excessive heat**
+**White House says no deal between Israel and Hamas yet -spokesperson**
 
-You can read more about it [here](https://www.cbsnews.com/news/taylor-swift-fan-dies-at-rio-concert-amid-complaints-about-heat/).
+You can read more about it [here](https://www.reuters.com/world/white-house-says-no-deal-between-israel-hamas-yet-spokesperson-2023-11-19/).
 
 ## Requirements
 - Python 3.8
