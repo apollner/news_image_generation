@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans sweep 3 major state offices in Louisiana election**
+**17 Horrible Things Therapist Have Said That Made Their Clients Stop Seeing Them**
 
-You can read more about it [here](https://thehill.com/homenews/ap/ap-politics/4317062-republicans-sweep-3-major-state-offices-in-louisiana-election/).
+You can read more about it [here](https://www.buzzfeed.com/ravenishak/horrible-things-therapists-said).
 
 ## Requirements
 - Python 3.8
