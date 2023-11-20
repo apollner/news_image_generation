@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans sweep 3 major state offices in Louisiana election**
+**Musk threatens 'thermonuclear lawsuit' against media watchdog, calls advertisers 'oppressors'**
 
-You can read more about it [here](https://thehill.com/homenews/ap/ap-politics/4317062-republicans-sweep-3-major-state-offices-in-louisiana-election/).
+You can read more about it [here](https://www.cnbc.com/2023/11/18/musk-threatens-thermonuclear-lawsuit-against-media-watchdog-calls-advertisers-oppressors.html).
 
 ## Requirements
 - Python 3.8
