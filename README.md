@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN visits exposed tunnel shaft IDF believes is part of larger network under hospital**
+**EMIT: NASA's Unexpected Hero in the Climate Crisis**
 
-You can read more about it [here](https://www.cnn.com/videos/world/2023/11/19/idf-hamas-exposed-tunnel-shaft-al-shifa-hospital-liebermann-vpx.cnn).
+You can read more about it [here](https://scitechdaily.com/?p=329357).
 
 ## Requirements
 - Python 3.8
