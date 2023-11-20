@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One year on: Top 3 gainers after the 'FTX crash bottom'**
+**Miss Universe 2023 Sheynnis Palacios crowned, a first for Nicaragua**
 
-You can read more about it [here](https://cointelegraph.com/news/one-year-ftx-crash-3-cryptocurrencies-sol-okb-link).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/11/19/miss-universe-2023-crowns-sheynnis-palacios-nicaragua/71645300007/).
 
 ## Requirements
 - Python 3.8
