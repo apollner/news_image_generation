@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Cleveland Browns vs. Pittsburgh Steelers game on CBS today**
+**CNN visits exposed tunnel shaft IDF believes is part of larger network under hospital**
 
-You can read more about it [here](https://sports.yahoo.com/watch-cleveland-browns-pittsburgh-steelers-game-time-channel-130002643.html).
+You can read more about it [here](https://www.cnn.com/videos/world/2023/11/19/idf-hamas-exposed-tunnel-shaft-al-shifa-hospital-liebermann-vpx.cnn).
 
 ## Requirements
 - Python 3.8
