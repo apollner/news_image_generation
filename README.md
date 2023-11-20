@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rescuers in India tunnel collapse change approach as frantic efforts pass one-week mark**
+**One year on: Top 3 gainers after the 'FTX crash bottom'**
 
-You can read more about it [here](https://www.cnn.com/2023/11/18/india/india-tunnel-collapse-rescue-drilling-uttarakhand-intl/index.html).
+You can read more about it [here](https://cointelegraph.com/news/one-year-ftx-crash-3-cryptocurrencies-sol-okb-link).
 
 ## Requirements
 - Python 3.8
