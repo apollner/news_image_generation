@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI Investors Trying to Get Sam Altman Back as CEO After Sudden Firing**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
