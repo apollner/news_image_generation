@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House says no deal between Israel and Hamas yet -spokesperson**
+**Video shows dozens of bodies after alleged attack at UN-run school in Gaza**
 
-You can read more about it [here](https://www.reuters.com/world/white-house-says-no-deal-between-israel-hamas-yet-spokesperson-2023-11-19/).
+You can read more about it [here](https://www.cnn.com/2023/11/18/world/gaza-school-strike-video/index.html).
 
 ## Requirements
 - Python 3.8
