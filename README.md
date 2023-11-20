@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: How to watch the Minnesota Vikings vs. Denver Broncos tonight on NBC**
+**Democrats' guide to coping with Biden's terrible polls**
 
-You can read more about it [here](https://sports.yahoo.com/watch-minnesota-vikings-denver-broncos-sunday-night-football-time-channel-160011536.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/19/democrats-guide-coping-biden-terrible-polls-00127975).
 
 ## Requirements
 - Python 3.8
