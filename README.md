@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deputies: Missing Winter Springs mom found dead**
+**Biden’s support among Democrats erodes on handling of Israel-Hamas war**
 
-You can read more about it [here](https://www.wesh.com/article/shakeira-rucker-found-dead/45882522).
+You can read more about it [here](https://thehill.com/homenews/campaign/4317318-bidens-support-among-democrats-erodes-on-handling-of-israel-hamas-war/).
 
 ## Requirements
 - Python 3.8
