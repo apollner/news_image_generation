@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I-10 freeway in Los Angeles to reopen Monday, officials say, as search for person of interest in fire continues**
+**How to watch the Cleveland Browns vs. Pittsburgh Steelers game on CBS today**
 
-You can read more about it [here](https://abcnews.go.com/US/person-interest-sought-connection-10-freeway-fire-los/story?id=105006373).
+You can read more about it [here](https://sports.yahoo.com/watch-cleveland-browns-pittsburgh-steelers-game-time-channel-130002643.html).
 
 ## Requirements
 - Python 3.8
