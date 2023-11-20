@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire Hospital victim shot multiple times; suspect's name released**
+**Taylor Swift postpones Saturday Rio concert after 23-year-old fan dies at show during extreme temperatures**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-hospital-shooting-suspect-111823/45881767).
+You can read more about it [here](https://www.nbcnews.com/pop-culture/music/taylor-swift-fan-dies-show-brazil-rcna125824).
 
 ## Requirements
 - Python 3.8
