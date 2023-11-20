@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cheers! A bottle of Scotch whisky sells for a record $2.7 million at auction**
+**Ahead of Sunday’s election, one of Argentina’s two presidential candidates talks Torah**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/cheers-bottle-scotch-whisky-sells-record-27-million-105004002).
+You can read more about it [here](https://www.timesofisrael.com/ahead-of-sundays-election-one-of-argentinas-two-presidential-candidates-talks-torah/).
 
 ## Requirements
 - Python 3.8
