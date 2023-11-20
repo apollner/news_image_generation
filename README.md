@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**17 best Apple Black Friday deals now — AirPods Pro, MacBook Air, iPhone 15 and more**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.tomsguide.com/deals/black-friday-apple-deals-7-best-sales-to-shop-right-now).
 
 ## Requirements
 - Python 3.8
