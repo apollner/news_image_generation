@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**17 Horrible Things Therapist Have Said That Made Their Clients Stop Seeing Them**
+**OpenAI Investors Trying to Get Sam Altman Back as CEO After Sudden Firing**
 
-You can read more about it [here](https://www.buzzfeed.com/ravenishak/horrible-things-therapists-said).
+You can read more about it [here](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049).
 
 ## Requirements
 - Python 3.8
