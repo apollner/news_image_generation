@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ahead of Sunday’s election, one of Argentina’s two presidential candidates talks Torah**
+**New Hampshire Hospital victim shot multiple times; suspect's name released**
 
-You can read more about it [here](https://www.timesofisrael.com/ahead-of-sundays-election-one-of-argentinas-two-presidential-candidates-talks-torah/).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-hospital-shooting-suspect-111823/45881767).
 
 ## Requirements
 - Python 3.8
