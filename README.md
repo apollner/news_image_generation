@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk threatens 'thermonuclear lawsuit' against media watchdog, calls advertisers 'oppressors'**
+**Rescuers in India tunnel collapse change approach as frantic efforts pass one-week mark**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/18/musk-threatens-thermonuclear-lawsuit-against-media-watchdog-calls-advertisers-oppressors.html).
+You can read more about it [here](https://www.cnn.com/2023/11/18/india/india-tunnel-collapse-rescue-drilling-uttarakhand-intl/index.html).
 
 ## Requirements
 - Python 3.8
