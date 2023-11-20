@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Maryland coach Mike Locksley said after Michigan football beat Maryland**
+**Taylor Swift fan dies at Rio concert amid complaints about excessive heat**
 
-You can read more about it [here](https://wolverineswire.usatoday.com/lists/what-maryland-coach-mike-locksley-said-after-michigan-football-beat-maryland/).
+You can read more about it [here](https://www.cbsnews.com/news/taylor-swift-fan-dies-at-rio-concert-amid-complaints-about-heat/).
 
 ## Requirements
 - Python 3.8
