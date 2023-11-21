@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX Falcon 9 to launch 22 Starlink satellites from California – Spaceflight Now**
+**Severe storms possible in the New Orleans forecast Monday night**
 
-You can read more about it [here](https://spaceflightnow.com/2023/11/20/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-california/).
+You can read more about it [here](https://www.wdsu.com/article/new-orleans-severe-storms-monday-night-severe-winds-tornadoes/45887355).
 
 ## Requirements
 - Python 3.8
