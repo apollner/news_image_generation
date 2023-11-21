@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Known Case Of 'Zombie Deer Disease' Found In US Park. Know What It Is**
+**Robert Pattinson and Suki Waterhouse expecting first child**
 
-You can read more about it [here](https://www.ndtv.com/world-news/first-case-of-zombie-deer-disease-found-in-us-yellowstone-park-know-what-it-is-4589381).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67472557).
 
 ## Requirements
 - Python 3.8
