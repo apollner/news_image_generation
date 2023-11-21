@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump visits Texas near US-Mexico border as he escalates anti-immigrant rhetoric**
+**Dozens Dead After Attack on UN-Run Gaza School, Video Shows**
 
-You can read more about it [here](https://www.cnn.com/2023/11/19/politics/trump-us-mexico-border-abbott/index.html).
+You can read more about it [here](https://www.thedailybeast.com/dozens-dead-after-attack-on-un-run-al-fakhoora-school-in-gaza-video-shows).
 
 ## Requirements
 - Python 3.8
