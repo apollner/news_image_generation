@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden celebrates his 81st birthday pardoning Thanksgiving turkeys**
+**Here Are All of the Best Black Friday Video Game Deals at Best Buy (Updated)**
 
-You can read more about it [here](https://www.nbcnews.com/politics/white-house/biden-celebrate-81st-birthday-pardoning-thanksgiving-turkeys-rcna125967).
+You can read more about it [here](https://www.ign.com/articles/best-buy-black-friday-video-game-deals-ps5-nintendo-switch-xbox-series-x).
 
 ## Requirements
 - Python 3.8
