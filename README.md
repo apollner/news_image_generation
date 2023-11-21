@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift, Travis Kelce Full Steam Ahead With Holiday Plans, Talking Christmas**
+**Dak Prescott, Cowboys DOMINATE vs. Bryce Young, Panthers - Dave Helman's analysis | NFL on FOX Pod**
 
-You can read more about it [here](https://www.tmz.com/2023/11/20/taylor-swift-travis-kelce-holiday-plans-christmas-relationship/).
+You can read more about it [here](https://www.foxsports.com/watch/fmc-1xgk1agxmxmfbbdc).
 
 ## Requirements
 - Python 3.8
