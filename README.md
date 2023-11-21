@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL winners and losers from Week 11, plus grading every team and best bets for Eagles-Chiefs on 'MNF'**
+**Biden pardons Thanksgiving turkeys 'Liberty' and 'Bell'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-winners-and-losers-from-week-11-plus-grading-every-team-and-best-bets-for-eagles-chiefs-on-mnf/).
+You can read more about it [here](https://www.youtube.com/watch?v=R1rkL6D9ogc).
 
 ## Requirements
 - Python 3.8
