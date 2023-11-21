@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Jim Harbaugh Finally Learned to Counterpunch Ohio State**
+**NFL winners and losers from Week 11, plus grading every team and best bets for Eagles-Chiefs on 'MNF'**
 
-You can read more about it [here](https://www.si.com/college/2023/11/20/jim-harbaugh-michigan-flipped-ohio-state-rivarly).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-winners-and-losers-from-week-11-plus-grading-every-team-and-best-bets-for-eagles-chiefs-on-mnf/).
 
 ## Requirements
 - Python 3.8
