@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defensive issues of Brandon Staley era encapsulated in Chargers’ loss to Packers**
+**Trump visits Texas near US-Mexico border as he escalates anti-immigrant rhetoric**
 
-You can read more about it [here](https://theathletic.com/5076179/2023/11/19/chargers-packers-brandon-staley-outburst-defense/).
+You can read more about it [here](https://www.cnn.com/2023/11/19/politics/trump-us-mexico-border-abbott/index.html).
 
 ## Requirements
 - Python 3.8
