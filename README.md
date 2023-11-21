@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canned seafood moves beyond tuna sandwiches in a pandemic trend that stuck**
+**Citigroup Cuts Over 300 Manager Roles as Part of CEO Fraser's Restructuring**
 
-You can read more about it [here](https://nypost.com/2023/11/20/news/canned-seafood-moves-beyond-tuna-sandwiches-in-a-pandemic-trend-that-stuck/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-20/citi-cuts-hundreds-of-manager-roles-in-latest-restructuring-move).
 
 ## Requirements
 - Python 3.8
