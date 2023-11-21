@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing Florida mom found dead in estranged husband's storage unit**
+**Live coverage: SpaceX Falcon 9 to launch 22 Starlink satellites from California – Spaceflight Now**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/missing-florida-mom-found-dead-estranged-husbands-storage-unit-rcna125928).
+You can read more about it [here](https://spaceflightnow.com/2023/11/20/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-california/).
 
 ## Requirements
 - Python 3.8
