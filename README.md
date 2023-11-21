@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX wraps busy weekend with launch of 22 Starlink satellites (video)**
+**Apple reportedly plans to release its Vision Pro headset in March 2024**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-7-7).
+You can read more about it [here](https://techcrunch.com/2023/11/20/apple-reportedly-releasing-vision-pro-headset-in-march-2024/).
 
 ## Requirements
 - Python 3.8
