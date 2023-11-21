@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli-linked ship hijacked by Yemen’s Houthi rebels, with 25 hostages taken**
+**Billboard Music Awards 2023 Winners: Full List (Updating)**
 
-You can read more about it [here](https://thehill.com/policy/international/4317964-israeli-linked-ship-hijacked-by-yemens-houthi-rebels-with-25-hostages-taken/).
+You can read more about it [here](https://www.billboard.com/music/awards/2023-billboard-music-awards-bbmas-winners-list-1235491435/).
 
 ## Requirements
 - Python 3.8
