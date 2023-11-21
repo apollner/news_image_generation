@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect found dead after a teenager and 3 women killed in Memphis**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/homenews/4317299-suspect-found-dead-after-a-teenager-and-3-women-killed-in-memphis/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
