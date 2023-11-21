@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shakira: Singer settles Spanish tax fraud case with €7.5m fine**
+**Suspect found dead after a teenager and 3 women killed in Memphis**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67472496).
+You can read more about it [here](https://thehill.com/homenews/4317299-suspect-found-dead-after-a-teenager-and-3-women-killed-in-memphis/).
 
 ## Requirements
 - Python 3.8
