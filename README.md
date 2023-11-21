@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Pattinson and Suki Waterhouse expecting first child**
+**Shakira Settles Spanish Tax Fraud Case Before Trial Begins**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67472557).
+You can read more about it [here](https://variety.com/2023/music/global/shakira-settles-spanish-tax-fraud-case-1235801557/).
 
 ## Requirements
 - Python 3.8
