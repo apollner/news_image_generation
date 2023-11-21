@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats' guide to coping with Biden's terrible polls**
+**Defensive issues of Brandon Staley era encapsulated in Chargers’ loss to Packers**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/19/democrats-guide-coping-biden-terrible-polls-00127975).
+You can read more about it [here](https://theathletic.com/5076179/2023/11/19/chargers-packers-brandon-staley-outburst-defense/).
 
 ## Requirements
 - Python 3.8
