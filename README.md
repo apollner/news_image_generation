@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden celebrates his 81st birthday pardoning Thanksgiving turkeys**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcnews.com/politics/white-house/biden-celebrate-81st-birthday-pardoning-thanksgiving-turkeys-rcna125967).
 
 ## Requirements
 - Python 3.8
