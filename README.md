@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Far-right outsider Milei wins Argentina presidential run-off election**
+**Minnesota Vikings vs. Denver Broncos | 2023 Week 11 Game Highlights**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-67470549).
+You can read more about it [here](https://www.youtube.com/watch?v=Qx8LGbMyokg).
 
 ## Requirements
 - Python 3.8
