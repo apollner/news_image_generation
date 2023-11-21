@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sheetz Thanksgiving gas prices: $1.99 a gallon deal**
+**How Jim Harbaugh Finally Learned to Counterpunch Ohio State**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/11/20/sheetz-gas-prices-unleaded-88-1-99-thanksgiving-deal/71653557007/).
+You can read more about it [here](https://www.si.com/college/2023/11/20/jim-harbaugh-michigan-flipped-ohio-state-rivarly).
 
 ## Requirements
 - Python 3.8
