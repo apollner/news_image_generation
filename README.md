@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tributes for Rosalynn Carter pour in from Washington, D.C., and around the country**
+**Far-right outsider Milei wins Argentina presidential run-off election**
 
-You can read more about it [here](https://www.cbsnews.com/news/rosalynn-carter-death-tributes-reactions-memorials/).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-67470549).
 
 ## Requirements
 - Python 3.8
