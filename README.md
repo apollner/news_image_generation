@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shakira Settles Spanish Tax Fraud Case Before Trial Begins**
+**Canned seafood moves beyond tuna sandwiches in a pandemic trend that stuck**
 
-You can read more about it [here](https://variety.com/2023/music/global/shakira-settles-spanish-tax-fraud-case-1235801557/).
+You can read more about it [here](https://nypost.com/2023/11/20/news/canned-seafood-moves-beyond-tuna-sandwiches-in-a-pandemic-trend-that-stuck/).
 
 ## Requirements
 - Python 3.8
