@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats' guide to coping with Biden's terrible polls**
+**New York Jets vs.Buffalo Bills Game Inactives - Week 11 2023**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/19/democrats-guide-coping-biden-terrible-polls-00127975).
+You can read more about it [here](https://www.newyorkjets.com/news/jets-at-bills-2023-week-11-inactives).
 
 ## Requirements
 - Python 3.8
