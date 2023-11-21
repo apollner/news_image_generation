@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cruise CEO Kyle Vogt resigns from GM-owned robotaxi unit**
+**Tributes for Rosalynn Carter pour in from Washington, D.C., and around the country**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/20/gm-owned-robotaxi-unit-cruise-ceo-and-founder-kyle-vogt-resigns.html).
+You can read more about it [here](https://www.cbsnews.com/news/rosalynn-carter-death-tributes-reactions-memorials/).
 
 ## Requirements
 - Python 3.8
