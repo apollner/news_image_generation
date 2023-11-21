@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citigroup Cuts Over 300 Manager Roles as Part of CEO Fraser's Restructuring**
+**Shakira: Singer settles Spanish tax fraud case with €7.5m fine**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-20/citi-cuts-hundreds-of-manager-roles-in-latest-restructuring-move).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67472496).
 
 ## Requirements
 - Python 3.8
