@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens Dead After Attack on UN-Run Gaza School, Video Shows**
+**Why you age slower on a plane (and other incredibly strange effects of relativity)**
 
-You can read more about it [here](https://www.thedailybeast.com/dozens-dead-after-attack-on-un-run-al-fakhoora-school-in-gaza-video-shows).
+You can read more about it [here](https://www.bbc.com/future/article/20231117-time-dilation-planes-einstein-relativity-black-holes).
 
 ## Requirements
 - Python 3.8
