@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here Are All of the Best Black Friday Video Game Deals at Best Buy (Updated)**
+**U.S. court strikes down key path for enforcing voting rights**
 
-You can read more about it [here](https://www.ign.com/articles/best-buy-black-friday-video-game-deals-ps5-nintendo-switch-xbox-series-x).
+You can read more about it [here](https://www.npr.org/2023/11/20/1152732216/voting-rights-act-supreme-court-section-2-private-right-of-action).
 
 ## Requirements
 - Python 3.8
