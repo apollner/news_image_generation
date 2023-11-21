@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Live updates: Trump lawyers argue against gag order in election subversion case**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-gag-order-appeals-court-11-20-23/index.html).
 
 ## Requirements
 - Python 3.8
