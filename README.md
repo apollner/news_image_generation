@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billboard Music Awards 2023 Winners: Full List (Updating)**
+**Democrats' guide to coping with Biden's terrible polls**
 
-You can read more about it [here](https://www.billboard.com/music/awards/2023-billboard-music-awards-bbmas-winners-list-1235491435/).
+You can read more about it [here](https://www.politico.com/news/2023/11/19/democrats-guide-coping-biden-terrible-polls-00127975).
 
 ## Requirements
 - Python 3.8
