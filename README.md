@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe storms possible in the New Orleans forecast Monday night**
+**Israeli tanks besiege Gaza’s Indonesian Hospital**
 
-You can read more about it [here](https://www.wdsu.com/article/new-orleans-severe-storms-monday-night-severe-winds-tornadoes/45887355).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/20/israeli-tanks-surround-gazas-indonesian-hospital-after-killing-12-people).
 
 ## Requirements
 - Python 3.8
