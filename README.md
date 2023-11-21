@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Trump lawyers argue against gag order in election subversion case**
+**SpaceX wraps busy weekend with launch of 22 Starlink satellites (video)**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-gag-order-appeals-court-11-20-23/index.html).
+You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-7-7).
 
 ## Requirements
 - Python 3.8
