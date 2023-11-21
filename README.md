@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says soldier executed, foreign hostages held at Gaza's Shifa hospital**
+**Qatar PM says only ‘minor’ challenges to Israel-Hamas captive deal**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-55-metre-fortified-tunnel-found-under-gazas-shifa-hospital-2023-11-19/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/20/qatar-pm-says-only-minor-challenges-to-israel-hamas-captive-deal).
 
 ## Requirements
 - Python 3.8
