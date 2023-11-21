@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. court strikes down key path for enforcing voting rights**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2023/11/20/1152732216/voting-rights-act-supreme-court-section-2-private-right-of-action).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
