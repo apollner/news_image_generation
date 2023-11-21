@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Vikings vs. Denver Broncos | 2023 Week 11 Game Highlights**
+**Israel says soldier executed, foreign hostages held at Gaza's Shifa hospital**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Qx8LGbMyokg).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-55-metre-fortified-tunnel-found-under-gazas-shifa-hospital-2023-11-19/).
 
 ## Requirements
 - Python 3.8
