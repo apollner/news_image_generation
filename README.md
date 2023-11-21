@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qatar PM says only ‘minor’ challenges to Israel-Hamas captive deal**
+**Missing Florida mom found dead in estranged husband's storage unit**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/20/qatar-pm-says-only-minor-challenges-to-israel-hamas-captive-deal).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/missing-florida-mom-found-dead-estranged-husbands-storage-unit-rcna125928).
 
 ## Requirements
 - Python 3.8
