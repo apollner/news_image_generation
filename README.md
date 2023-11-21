@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens Dead After Attack on UN-Run Gaza School, Video Shows**
+**Cruise CEO Kyle Vogt resigns from GM-owned robotaxi unit**
 
-You can read more about it [here](https://www.thedailybeast.com/dozens-dead-after-attack-on-un-run-al-fakhoora-school-in-gaza-video-shows).
+You can read more about it [here](https://www.cnbc.com/2023/11/20/gm-owned-robotaxi-unit-cruise-ceo-and-founder-kyle-vogt-resigns.html).
 
 ## Requirements
 - Python 3.8
