@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli tanks besiege Gaza’s Indonesian Hospital**
+**Taylor Swift, Travis Kelce Full Steam Ahead With Holiday Plans, Talking Christmas**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/20/israeli-tanks-surround-gazas-indonesian-hospital-after-killing-12-people).
+You can read more about it [here](https://www.tmz.com/2023/11/20/taylor-swift-travis-kelce-holiday-plans-christmas-relationship/).
 
 ## Requirements
 - Python 3.8
