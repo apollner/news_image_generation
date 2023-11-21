@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reportedly plans to release its Vision Pro headset in March 2024**
+**Sheetz Thanksgiving gas prices: $1.99 a gallon deal**
 
-You can read more about it [here](https://techcrunch.com/2023/11/20/apple-reportedly-releasing-vision-pro-headset-in-march-2024/).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/11/20/sheetz-gas-prices-unleaded-88-1-99-thanksgiving-deal/71653557007/).
 
 ## Requirements
 - Python 3.8
