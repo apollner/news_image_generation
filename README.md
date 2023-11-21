@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden pardons Thanksgiving turkeys 'Liberty' and 'Bell'**
+**Joe Biden's birthday overshadowed by age concerns in 2024 election**
 
-You can read more about it [here](https://www.youtube.com/watch?v=R1rkL6D9ogc).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/11/20/joe-biden-81st-birthday/71654143007/).
 
 ## Requirements
 - Python 3.8
