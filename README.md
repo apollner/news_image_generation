@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump visits Texas near US-Mexico border as he escalates anti-immigrant rhetoric**
+**Brock Purdy posts perfect passer rating in 49ers win - ESPN**
 
-You can read more about it [here](https://www.cnn.com/2023/11/19/politics/trump-us-mexico-border-abbott/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38941339/brock-purdy-posts-perfect-passer-rating-49ers-win).
 
 ## Requirements
 - Python 3.8
