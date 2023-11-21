@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden's birthday overshadowed by age concerns in 2024 election**
+**GM Cruise cofounder, senior exec Dan Kan quits day after CEO exit**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2023/11/20/joe-biden-81st-birthday/71654143007/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-cruise-cofounder-senior-exec-dan-kan-resigns-2023-11-20/).
 
 ## Requirements
 - Python 3.8
