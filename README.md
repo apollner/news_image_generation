@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pentagon chief in Kyiv amid questions over future US arms supplies**
+**Navy plane overshoots runway and ends up in ocean, but all 9 aboard escape unharmed**
 
-You can read more about it [here](https://abcnews.go.com/International/pentagon-chief-kyiv-amid-questions-future-us-arms/story?id=105027529).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/us-navy-plane-overshoots-runway-bay-hawaii-military-105052174).
 
 ## Requirements
 - Python 3.8
