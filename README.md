@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Harbaugh - 'Outside chance' Mark Andrews returns this season - ESPN**
+**How to Watch the Chiefs vs. Eagles Game Online**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38945650/john-harbaugh-chance-mark-andrews-returns-season).
+You can read more about it [here](https://variety.com/2023/shopping/news/how-to-watch-chiefs-vs-eagles-online-free-1235802489/).
 
 ## Requirements
 - Python 3.8
