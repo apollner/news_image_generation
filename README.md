@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ROCKETS at WARRIORS | FULL GAME HIGHLIGHTS | November 20, 2023**
+**OpenAI board stands firm in face of staff revolt over Sam Altman's ousting**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7LsCAO77QNE).
+You can read more about it [here](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e).
 
 ## Requirements
 - Python 3.8
