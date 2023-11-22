@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft order: Patriots closer to No. 1 overall pick; Jets enter top 10**
+**Pentagon chief in Kyiv amid questions over future US arms supplies**
 
-You can read more about it [here](https://www.nfl.com/news/2024-nfl-draft-order-week-12-2023-nfl-season).
+You can read more about it [here](https://abcnews.go.com/International/pentagon-chief-kyiv-amid-questions-future-us-arms/story?id=105027529).
 
 ## Requirements
 - Python 3.8
