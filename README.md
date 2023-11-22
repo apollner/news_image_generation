@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study reveals first mammal known to mate without using penetration**
+**There May Be a Treatment for Covid Loss of Smell**
 
-You can read more about it [here](https://www.cnn.com/2023/11/21/europe/serotine-bats-mammals-sex-mating-scn/index.html).
+You can read more about it [here](https://gizmodo.com/treatment-covid-loss-of-smell-taste-anosmia-nerve-block-1851039834).
 
 ## Requirements
 - Python 3.8
