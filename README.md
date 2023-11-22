@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New OpenAI CEO Emmett Shear has freewheeling social media history**
+**Chiefs' Travis Kelce gives insight into relationship with Taylor Swift, calls her 'hilarious' and a 'genius'**
 
-You can read more about it [here](https://www.nbcnews.com/tech/tech-news/openai-ceo-emmett-shear-social-media-history-x-history-rcna126099).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-travis-kelce-gives-insight-into-relationship-with-taylor-swift-calls-her-hilarious-and-a-genius/).
 
 ## Requirements
 - Python 3.8
