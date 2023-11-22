@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Live updates**
+**2024 NFL Draft order: Patriots closer to No. 1 overall pick; Jets enter top 10**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.nfl.com/news/2024-nfl-draft-order-week-12-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
