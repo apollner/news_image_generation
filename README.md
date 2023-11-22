@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Germany freezes new spending as budget crisis deepens**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.eu/article/germany-freeze-spending-budget-crisis-deepen/).
 
 ## Requirements
 - Python 3.8
