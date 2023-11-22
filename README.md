@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to Watch the Chiefs vs. Eagles Game Online**
+**Webb telescope captures never-before-seen glimpse of the heart of the Milky Way**
 
-You can read more about it [here](https://variety.com/2023/shopping/news/how-to-watch-chiefs-vs-eagles-online-free-1235802489/).
+You can read more about it [here](https://www.cnn.com/2023/11/20/world/webb-telescope-milky-way-heart-scn/index.html).
 
 ## Requirements
 - Python 3.8
