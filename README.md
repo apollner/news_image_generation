@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shooter wounds 4 at Walmart near Dayton, Ohio, before dying of self-inflicted gunshot wound, police say**
+**Mysterious respiratory dog illness: Symptoms, everything to know**
 
-You can read more about it [here](https://www.cnn.com/2023/11/20/us/walmart-ohio-beavercreek-shooting/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/21/mysterious-respiratory-dog-illness-symptoms-states-everything-to-know/71652480007/).
 
 ## Requirements
 - Python 3.8
