@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious respiratory dog illness: Symptoms, everything to know**
+**Big Ten takes, picks: Ohio State getting right on offense at perfect time ahead of Michigan rivalry showdown**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/21/mysterious-respiratory-dog-illness-symptoms-states-everything-to-know/71652480007/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/big-ten-takes-picks-ohio-state-getting-right-on-offense-at-perfect-time-ahead-of-michigan-rivalry-showdown/).
 
 ## Requirements
 - Python 3.8
