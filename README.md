@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunman shoots 4 inside Ohio Walmart, dies from self-inflicted gunshot: Police**
+**US retaliates against Iran-backed militants after ballistic missile strike, officials say**
 
-You can read more about it [here](https://abcnews.go.com/US/walmart-beavercreek-ohio-shooting/story?id=105047468).
+You can read more about it [here](https://abcnews.go.com/Politics/us-gunship-strikes-back-iran-linked-militants-injured/story?id=105070277).
 
 ## Requirements
 - Python 3.8
