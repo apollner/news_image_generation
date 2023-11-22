@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navy plane overshoots runway, ends up in Hawaii bay**
+**Rosalynn Carter, who transformed role of first lady, dies at 96**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4320096-navy-plane-overshoots-runway-ends-up-in-hawaii-bay/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/11/19/rosalynn-carter-dies-transformed-role-first-lady/71625804007/).
 
 ## Requirements
 - Python 3.8
