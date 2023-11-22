@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war rages as humanitarian crisis spirals in Gaza: Live updates**
+**Flu surges in the Southeast**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-20-23/index.html).
+You can read more about it [here](https://thehill.com/newsletters/health-care/4319871-flu-surges-in-the-southeast/).
 
 ## Requirements
 - Python 3.8
