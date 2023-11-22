@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers fire offensive coordinator Matt Canada | Get Up**
+**Best Buy stock drops as it posts broad sales decline for Q3**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Urrn-wQxZVM).
+You can read more about it [here](https://finance.yahoo.com/news/best-buy-stock-drops-as-it-posts-broad-sales-decline-for-q3-125141935.html).
 
 ## Requirements
 - Python 3.8
