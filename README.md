@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best Buy stock drops as it posts broad sales decline for Q3**
+**Only 2-state solution can bring real peace to Israel and Palestinians: China**
 
-You can read more about it [here](https://finance.yahoo.com/news/best-buy-stock-drops-as-it-posts-broad-sales-decline-for-q3-125141935.html).
+You can read more about it [here](https://www.scmp.com/news/china/diplomacy/article/3242369/israel-gaza-war-only-two-state-solution-can-bring-real-peace-china-president-says-first-public).
 
 ## Requirements
 - Python 3.8
