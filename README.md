@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flu surges in the Southeast**
+**Black Friday 2023: The latest tech deals on Apple, Lenovo, Dyson, Vitamix, and more!**
 
-You can read more about it [here](https://thehill.com/newsletters/health-care/4319871-flu-surges-in-the-southeast/).
+You can read more about it [here](https://arstechnica.com/shopping/2023/11/black-friday-2023-deals/).
 
 ## Requirements
 - Python 3.8
