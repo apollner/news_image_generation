@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI board stands firm in face of staff revolt over Sam Altman's ousting**
+**Eagles unsatisfied after winning Super Bowl rematch vs. Chiefs - ESPN**
 
-You can read more about it [here](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38949833/eagles-unsatisfied-winning-super-bowl-rematch-chiefs).
 
 ## Requirements
 - Python 3.8
