@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Friday 2023: The latest tech deals on Apple, Lenovo, Dyson, Vitamix, and more!**
+**Video shows Iran-backed commandos hijack cargo ship in helicopter raid**
 
-You can read more about it [here](https://arstechnica.com/shopping/2023/11/black-friday-2023-deals/).
+You can read more about it [here](https://www.businessinsider.com/video-shows-iran-backed-commandos-hijack-cargo-ship-helicopter-raid-2023-11).
 
 ## Requirements
 - Python 3.8
