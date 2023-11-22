@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after tech powers S&P 500 to fifth straight winning day: Live updates**
+**New OpenAI CEO Emmett Shear has freewheeling social media history**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.nbcnews.com/tech/tech-news/openai-ceo-emmett-shear-social-media-history-x-history-rcna126099).
 
 ## Requirements
 - Python 3.8
