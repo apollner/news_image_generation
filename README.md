@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Braden Smith’s brilliance powers No. 2 Purdue past Gonzaga in Maui Invitational**
+**Stock market today: Live updates**
 
-You can read more about it [here](https://theathletic.com/5079369/2023/11/20/purdue-braden-smith-gonzaga-maui-invitational/).
+You can read more about it [here](https://www.cnbc.com/2023/11/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
