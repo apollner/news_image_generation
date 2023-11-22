@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legal critics blast Elon Musk’s lawsuit against Media Matters as ‘weak’ and ‘bogus’**
+**Gunman shoots 4 inside Ohio Walmart, dies from self-inflicted gunshot: Police**
 
-You can read more about it [here](https://www.cnn.com/2023/11/21/tech/elon-musk-texas-lawsuit-media-matters/index.html).
+You can read more about it [here](https://abcnews.go.com/US/walmart-beavercreek-ohio-shooting/story?id=105047468).
 
 ## Requirements
 - Python 3.8
