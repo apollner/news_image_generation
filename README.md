@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Ten takes, picks: Ohio State getting right on offense at perfect time ahead of Michigan rivalry showdown**
+**North Korea claims success in launching first spy satellite**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/big-ten-takes-picks-ohio-state-getting-right-on-offense-at-perfect-time-ahead-of-michigan-rivalry-showdown/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-flags-plan-launch-satellite-rocket-between-nov-22-dec-1-japan-says-2023-11-20/).
 
 ## Requirements
 - Python 3.8
