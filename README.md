@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM Cruise cofounder, senior exec Dan Kan quits day after CEO exit**
+**Travis Kelce Revealed What Led To His First Date With Taylor Swift**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-cruise-cofounder-senior-exec-dan-kan-resigns-2023-11-20/).
+You can read more about it [here](https://www.buzzfeed.com/josephlongo/travis-kelce-taylor-swift-how-they-met).
 
 ## Requirements
 - Python 3.8
