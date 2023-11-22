@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany freezes new spending as budget crisis deepens**
+**Steelers fire offensive coordinator Matt Canada | Get Up**
 
-You can read more about it [here](https://www.politico.eu/article/germany-freeze-spending-budget-crisis-deepen/).
+You can read more about it [here](https://www.youtube.com/watch?v=Urrn-wQxZVM).
 
 ## Requirements
 - Python 3.8
