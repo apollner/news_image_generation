@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin Supreme Court hears arguments in challenge to election maps**
+**Legal critics blast Elon Musk’s lawsuit against Media Matters as ‘weak’ and ‘bogus’**
 
-You can read more about it [here](https://www.jsonline.com/story/news/politics/2023/11/21/wisconsin-supreme-court-hears-arguments-in-challenge-to-election-maps/71625379007/).
+You can read more about it [here](https://www.cnn.com/2023/11/21/tech/elon-musk-texas-lawsuit-media-matters/index.html).
 
 ## Requirements
 - Python 3.8
