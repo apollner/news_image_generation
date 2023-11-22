@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chilling video shows Houthi rebels hijacking Israel-linked ship in Red Sea, taking crew hostage**
+**Shooter wounds 4 at Walmart near Dayton, Ohio, before dying of self-inflicted gunshot wound, police say**
 
-You can read more about it [here](https://nypost.com/2023/11/21/news/houthi-rebels-hijack-israel-linked-ship-in-red-sea-take-crew-hostage/).
+You can read more about it [here](https://www.cnn.com/2023/11/20/us/walmart-ohio-beavercreek-shooting/index.html).
 
 ## Requirements
 - Python 3.8
