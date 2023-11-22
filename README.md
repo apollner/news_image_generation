@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navy plane overshoots runway and ends up in ocean, but all 9 aboard escape unharmed**
+**ROCKETS at WARRIORS | FULL GAME HIGHLIGHTS | November 20, 2023**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/us-navy-plane-overshoots-runway-bay-hawaii-military-105052174).
+You can read more about it [here](https://www.youtube.com/watch?v=7LsCAO77QNE).
 
 ## Requirements
 - Python 3.8
