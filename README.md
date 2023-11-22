@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Only 2-state solution can bring real peace to Israel and Palestinians: China**
+**Chilling video shows Houthi rebels hijacking Israel-linked ship in Red Sea, taking crew hostage**
 
-You can read more about it [here](https://www.scmp.com/news/china/diplomacy/article/3242369/israel-gaza-war-only-two-state-solution-can-bring-real-peace-china-president-says-first-public).
+You can read more about it [here](https://nypost.com/2023/11/21/news/houthi-rebels-hijack-israel-linked-ship-in-red-sea-take-crew-hostage/).
 
 ## Requirements
 - Python 3.8
