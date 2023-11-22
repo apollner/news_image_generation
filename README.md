@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosalynn Carter, who transformed role of first lady, dies at 96**
+**Best Buy stock drops as it posts broad sales decline for Q3**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/11/19/rosalynn-carter-dies-transformed-role-first-lady/71625804007/).
+You can read more about it [here](https://finance.yahoo.com/news/best-buy-stock-drops-as-it-posts-broad-sales-decline-for-q3-125141935.html).
 
 ## Requirements
 - Python 3.8
