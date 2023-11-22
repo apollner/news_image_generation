@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows Iran-backed commandos hijack cargo ship in helicopter raid**
+**Stock futures are little changed after tech powers S&P 500 to fifth straight winning day: Live updates**
 
-You can read more about it [here](https://www.businessinsider.com/video-shows-iran-backed-commandos-hijack-cargo-ship-helicopter-raid-2023-11).
+You can read more about it [here](https://www.cnbc.com/2023/11/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
