@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs' Travis Kelce gives insight into relationship with Taylor Swift, calls her 'hilarious' and a 'genius'**
+**Navy plane overshoots runway and ends up in ocean, but all 9 aboard escape unharmed**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-travis-kelce-gives-insight-into-relationship-with-taylor-swift-calls-her-hilarious-and-a-genius/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/us-navy-plane-overshoots-runway-bay-hawaii-military-105052174).
 
 ## Requirements
 - Python 3.8
