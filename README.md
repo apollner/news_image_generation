@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb telescope captures never-before-seen glimpse of the heart of the Milky Way**
+**Israel-Hamas war rages as humanitarian crisis spirals in Gaza: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2023/11/20/world/webb-telescope-milky-way-heart-scn/index.html).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-20-23/index.html).
 
 ## Requirements
 - Python 3.8
