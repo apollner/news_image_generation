@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Revealed What Led To His First Date With Taylor Swift**
+**John Harbaugh - 'Outside chance' Mark Andrews returns this season - ESPN**
 
-You can read more about it [here](https://www.buzzfeed.com/josephlongo/travis-kelce-taylor-swift-how-they-met).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38945650/john-harbaugh-chance-mark-andrews-returns-season).
 
 ## Requirements
 - Python 3.8
