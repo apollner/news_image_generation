@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Steps Up Support for Palestinian Cause in Challenge to U.S. Mideast Policy**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/world/china-steps-up-support-for-palestinian-cause-in-challenge-to-u-s-mideast-policy-0cadf1d3).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
