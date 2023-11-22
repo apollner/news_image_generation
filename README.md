@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study reveals first mammal known to mate without using penetration**
+**Fed gave no indication of possible rate cuts at last meeting, minutes show**
 
-You can read more about it [here](https://www.cnn.com/2023/11/21/europe/serotine-bats-mammals-sex-mating-scn/index.html).
+You can read more about it [here](https://www.cnbc.com/2023/11/21/fed-minutes-november-2023.html).
 
 ## Requirements
 - Python 3.8
