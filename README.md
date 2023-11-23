@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**At least 1 dead in Wrangell after landslide destroys homes**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://alaskapublic.org/2023/11/21/at-least-1-dead-in-wrangell-after-landslide-destroys-homes/).
 
 ## Requirements
 - Python 3.8
