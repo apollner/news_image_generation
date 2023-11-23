@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel and Hamas agree to breakthrough deal on hostage release and four-day truce**
+**Pope says Israel-Hamas conflict has gone beyond war to 'terrorism'**
 
-You can read more about it [here](https://www.cnn.com/2023/11/22/middleeast/israel-approves-hamas-hostage-deal-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/pope-says-conflict-between-israel-hamas-has-gone-beyond-war-terrorism-2023-11-22/).
 
 ## Requirements
 - Python 3.8
