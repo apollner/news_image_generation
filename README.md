@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Behind the Scenes of Sam Altman's Showdown at OpenAI**
+**Argentine election winner Milei greeted globally by mix of hostility and support**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/altman-firing-openai-520a3a8c).
+You can read more about it [here](https://www.reuters.com/world/americas/election-victory-argentinas-milei-greeted-globally-by-mix-hostility-support-2023-11-21/).
 
 ## Requirements
 - Python 3.8
