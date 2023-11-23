@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID deaths tick up in some states ahead of holidays**
+**Nvidia Earnings Soar Past Analyst Predictions as Data Center Business Booms**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
+You can read more about it [here](https://www.investopedia.com/nvidia-earnings-soar-past-analyst-predictions-as-data-center-business-booms-8405322).
 
 ## Requirements
 - Python 3.8
