@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID deaths tick up in some states ahead of holidays**
+**College Football Playoff rankings: Washington moves up to No. 4 ahead of Florida State**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/21/college-football-playoff-rankings-washington-florida-state/71653721007/).
 
 ## Requirements
 - Python 3.8
