@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hidden Wonders: Webb Space Telescope Detects Unexplained Structures in Heart of Milky Way**
+**Israel and Hamas agree to breakthrough deal on hostage release and four-day truce**
 
-You can read more about it [here](https://scitechdaily.com/hidden-wonders-webb-space-telescope-detects-unexplained-structures-in-heart-of-milky-way/).
+You can read more about it [here](https://www.cnn.com/2023/11/22/middleeast/israel-approves-hamas-hostage-deal-intl/index.html).
 
 ## Requirements
 - Python 3.8
