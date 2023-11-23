@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel approves cease-fire with Hamas: 50 hostages released**
+**A girl and 2 adults found dead after large Alaska landslide and others are still missing**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-21-2023-39f5ae0bdb4e32f0e69115aa43446132).
+You can read more about it [here](https://www.cnn.com/2023/11/21/us/alaska-wrangell-landslide/index.html).
 
 ## Requirements
 - Python 3.8
