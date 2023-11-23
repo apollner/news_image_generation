@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What channel is Marquette vs. Kansas on tonight in Maui Invitational? Time, TV, odds**
+**Nvidia Earnings Soar Past Analyst Predictions as Data Center Business Booms**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/college/marquette/2023/11/21/marquette-kansas-channel-tonight-in-maui-invitational-time-tv-odds/71669952007/).
+You can read more about it [here](https://www.investopedia.com/nvidia-earnings-soar-past-analyst-predictions-as-data-center-business-booms-8405322).
 
 ## Requirements
 - Python 3.8
