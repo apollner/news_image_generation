@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police warn residents to stay indoors after "extremely venomous" green mamba snake escapes in the Netherlands**
+**Israel-Palestine war: Israeli attacks continue in Gaza | Latest News | WION**
 
-You can read more about it [here](https://www.cbsnews.com/news/green-mamba-snake-on-the-loose-netherlands-extremely-venomous-police-warning/).
+You can read more about it [here](https://www.youtube.com/watch?v=hsFHZKBgTyM).
 
 ## Requirements
 - Python 3.8
