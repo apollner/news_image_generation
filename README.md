@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope says Israel-Hamas conflict has gone beyond war to 'terrorism'**
+**Brazil vs. Argentina: Historic World Cup qualifier is overshadowed by violence and chaos at the Maracanã stadium**
 
-You can read more about it [here](https://www.reuters.com/world/pope-says-conflict-between-israel-hamas-has-gone-beyond-war-terrorism-2023-11-22/).
+You can read more about it [here](https://www.cnn.com/2023/11/22/sport/brazil-argentina-world-cup-qualifying-fan-violence-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
