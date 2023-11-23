@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nordstrom sales come up short, echoing broader retail industry pressures**
+**COVID deaths tick up in some states ahead of holidays**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/21/nordstrom-jwn-earnings-q3-2023.html).
+You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
 
 ## Requirements
 - Python 3.8
