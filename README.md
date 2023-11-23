@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dutch election: Wilders' far-right party set for gains**
+**PFT's Week 12 2023 NFL picks, Florio vs. Simms**
 
-You can read more about it [here](https://www.reuters.com/world/europe/dutch-vote-tight-race-pick-new-prime-minister-2023-11-22/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-12-2023-nfl-picks-florio-vs-simms).
 
 ## Requirements
 - Python 3.8
