@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bad news for Black Friday: Retailers cast doubt on holiday shopping with cautious guidance**
+**US thwarted plot to kill Sikh separatist on American soil**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/22/retailers-outlook-black-friday-holiday-2023-spending.html).
+You can read more about it [here](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d).
 
 ## Requirements
 - Python 3.8
