@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war live updates: Israel and Hamas agree to hostage release deal, 4-day pause in fighting**
+**Dutch election: Wilders' far-right party set for gains**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/11/22/israel-hamas-war-news-hostages-gaza-palestine/).
+You can read more about it [here](https://www.reuters.com/world/europe/dutch-vote-tight-race-pick-new-prime-minister-2023-11-22/).
 
 ## Requirements
 - Python 3.8
