@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentine election winner Milei greeted globally by mix of hostility and support**
+**Epic 33-engine burn among successes of of Starship's 2nd test flight**
 
-You can read more about it [here](https://www.reuters.com/world/americas/election-victory-argentinas-milei-greeted-globally-by-mix-hostility-support-2023-11-21/).
+You can read more about it [here](https://www.space.com/spacex-starship-second-test-flight-milestones).
 
 ## Requirements
 - Python 3.8
