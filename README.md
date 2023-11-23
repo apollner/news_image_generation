@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley is consolidating the 'Never Trump' vote**
+**Hidden Wonders: Webb Space Telescope Detects Unexplained Structures in Heart of Milky Way**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/22/nikki-haley-never-trump-voters-00128398).
+You can read more about it [here](https://scitechdaily.com/hidden-wonders-webb-space-telescope-detects-unexplained-structures-in-heart-of-milky-way/).
 
 ## Requirements
 - Python 3.8
