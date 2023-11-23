@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hidden Wonders: Webb Space Telescope Detects Unexplained Structures in Heart of Milky Way**
+**Fargo season 5 premiere recaps: episodes 1, 2**
 
-You can read more about it [here](https://scitechdaily.com/hidden-wonders-webb-space-telescope-detects-unexplained-structures-in-heart-of-milky-way/).
+You can read more about it [here](https://www.avclub.com/fargo-season-5-premiere-review-episodes-1-2-1851031893).
 
 ## Requirements
 - Python 3.8
