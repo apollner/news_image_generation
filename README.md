@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF breaches blast door in Hamas tunnel under Gaza’s Shifa Hospital**
+**Former Trump Org. controller breaks down in tears on witness stand in fraud trial**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-breaches-blast-door-in-hamas-tunnel-under-gazas-shifa-hospital/).
+You can read more about it [here](https://www.cnn.com/2023/11/21/politics/mcconney-trump-org-testimony-fraud-trial/index.html).
 
 ## Requirements
 - Python 3.8
