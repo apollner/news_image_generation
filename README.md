@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth receives laser beam message from 10 million miles away**
+**COVID deaths tick up in some states ahead of holidays**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/nasa-laser-beam-dsoc-psyche).
+You can read more about it [here](https://thehill.com/policy/healthcare/4321394-covid-deaths-cdc/).
 
 ## Requirements
 - Python 3.8
