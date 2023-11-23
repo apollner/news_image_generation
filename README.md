@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US thwarted plot to kill Sikh separatist on American soil**
+**Will weather impact Thanksgiving travel? Where snow is forecast.**
 
-You can read more about it [here](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/11/22/thanksgiving-travel-weather-forecast-includes-snow/71675858007/).
 
 ## Requirements
 - Python 3.8
