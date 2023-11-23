@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Earnings Soar Past Analyst Predictions as Data Center Business Booms**
+**Earth receives laser beam message from 10 million miles away**
 
-You can read more about it [here](https://www.investopedia.com/nvidia-earnings-soar-past-analyst-predictions-as-data-center-business-booms-8405322).
+You can read more about it [here](https://www.foxweather.com/earth-space/nasa-laser-beam-dsoc-psyche).
 
 ## Requirements
 - Python 3.8
