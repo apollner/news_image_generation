@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Palestine war: Israeli attacks continue in Gaza | Latest News | WION**
+**This congressman was one of the last people to see JFK alive. 60 years later, he looks back.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=hsFHZKBgTyM).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/congressman-was-one-last-people-see-jfk-alive-60-years-later-looks-bac-rcna125402).
 
 ## Requirements
 - Python 3.8
