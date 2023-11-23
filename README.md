@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple CEO Tim Cook tells Dua Lipa how long he'll remain in the role**
+**Nordstrom sales come up short, echoing broader retail industry pressures**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-ceo-tim-cook-dua-lipa-how-long-remain-role).
+You can read more about it [here](https://www.cnbc.com/2023/11/21/nordstrom-jwn-earnings-q3-2023.html).
 
 ## Requirements
 - Python 3.8
