@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT's Week 12 2023 NFL picks, Florio vs. Simms**
+**Israel-Gaza war live updates: Israel and Hamas agree to hostage release deal, 4-day pause in fighting**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-12-2023-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/22/israel-hamas-war-news-hostages-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
