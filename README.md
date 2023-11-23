@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This congressman was one of the last people to see JFK alive. 60 years later, he looks back.**
+**Another man was killed and buried without his family’s knowledge in Jackson, Mississippi**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/congressman-was-one-last-people-see-jfk-alive-60-years-later-looks-bac-rcna125402).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/marrio-moore-buried-police-dexter-wade-jackson-mississippi-rcna125540).
 
 ## Requirements
 - Python 3.8
