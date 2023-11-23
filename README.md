@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will weather impact Thanksgiving travel? Where snow is forecast.**
+**2 dead after vehicle explodes at U.S.-Canada border in Niagara Falls, governor says no sign of terrorism**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2023/11/22/thanksgiving-travel-weather-forecast-includes-snow/71675858007/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/rainbow-bridge-niagara-falls-closed-explosion-vehicle-reportedly-enter-rcna126397).
 
 ## Requirements
 - Python 3.8
