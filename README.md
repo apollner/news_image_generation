@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A girl and 2 adults found dead after large Alaska landslide and others are still missing**
+**IDF breaches blast door in Hamas tunnel under Gaza’s Shifa Hospital**
 
-You can read more about it [here](https://www.cnn.com/2023/11/21/us/alaska-wrangell-landslide/index.html).
+You can read more about it [here](https://www.timesofisrael.com/idf-breaches-blast-door-in-hamas-tunnel-under-gazas-shifa-hospital/).
 
 ## Requirements
 - Python 3.8
