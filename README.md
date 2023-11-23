@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Another man was killed and buried without his family’s knowledge in Jackson, Mississippi**
+**Israel-Gaza war live updates: Israel and Hamas agree to hostage release deal, 4-day pause in fighting**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/marrio-moore-buried-police-dexter-wade-jackson-mississippi-rcna125540).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/22/israel-hamas-war-news-hostages-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
