@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Epic 33-engine burn among successes of of Starship's 2nd test flight**
+**Jason Mraz and Charity Lawson’s A Celebration of Taylor Swift Relay Dance – Dancing with the Stars**
 
-You can read more about it [here](https://www.space.com/spacex-starship-second-test-flight-milestones).
+You can read more about it [here](https://www.youtube.com/watch?v=xz4zalKi3Ic).
 
 ## Requirements
 - Python 3.8
