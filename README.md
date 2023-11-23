@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**There May Be a Treatment for Covid Loss of Smell**
+**Apple CEO Tim Cook tells Dua Lipa how long he'll remain in the role**
 
-You can read more about it [here](https://gizmodo.com/treatment-covid-loss-of-smell-taste-anosmia-nerve-block-1851039834).
+You can read more about it [here](https://www.foxbusiness.com/technology/apple-ceo-tim-cook-dua-lipa-how-long-remain-role).
 
 ## Requirements
 - Python 3.8
