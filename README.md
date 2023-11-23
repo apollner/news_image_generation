@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff rankings: Washington moves up to No. 4 ahead of Florida State**
+**Israel approves cease-fire with Hamas: 50 hostages released**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/21/college-football-playoff-rankings-washington-florida-state/71653721007/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-21-2023-39f5ae0bdb4e32f0e69115aa43446132).
 
 ## Requirements
 - Python 3.8
