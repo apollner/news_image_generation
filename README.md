@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jason Mraz and Charity Lawson’s A Celebration of Taylor Swift Relay Dance – Dancing with the Stars**
+**Nikki Haley is consolidating the 'Never Trump' vote**
 
-You can read more about it [here](https://www.youtube.com/watch?v=xz4zalKi3Ic).
+You can read more about it [here](https://www.politico.com/news/2023/11/22/nikki-haley-never-trump-voters-00128398).
 
 ## Requirements
 - Python 3.8
