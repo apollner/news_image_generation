@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Americans celebrate Thanksgiving on edge over world events**
+**What the world was like the last time the Lions won on Thanksgiving - ESPN**
 
-You can read more about it [here](https://www.reuters.com/world/us/americans-celebrate-thanksgiving-edge-over-world-events-2023-11-23/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38961052/detroit-lions-thanksgiving-2023-last-victory).
 
 ## Requirements
 - Python 3.8
