@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Unheard of': Trump attacks led to 'serious and credible' death threats to court**
+**US warship shoots down attack drones over the Red Sea**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vfj9A8HCV_U).
+You can read more about it [here](https://www.cnn.com/2023/11/22/politics/us-warship-attack-drones-red-sea/index.html).
 
 ## Requirements
 - Python 3.8
