@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: Stocks extend gains into Thanksgiving holiday, Nvidia falls after earnings**
+**Watch SpaceX's Starship explode in astronomer's stunning telescope footage (video)**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-extend-gains-into-thanksgiving-holiday-nvidia-falls-after-earnings-210355057.html).
+You can read more about it [here](https://www.space.com/spacex-starship-telescope-astronomer-video).
 
 ## Requirements
 - Python 3.8
