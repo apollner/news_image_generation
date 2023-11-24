@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Chris Paul gets ejected by Scott Foster for arguing foul call | NBA on ESPN**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=DWxtij9X8Zg).
 
 ## Requirements
 - Python 3.8
