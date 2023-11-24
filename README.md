@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the world was like the last time the Lions won on Thanksgiving - ESPN**
+**Hezbollah hits Israel with heavy rocket barrages, anti-tank missile attacks**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38961052/detroit-lions-thanksgiving-2023-last-victory).
+You can read more about it [here](https://www.timesofisrael.com/hezbollah-hits-israel-with-heavy-rocket-barrages-anti-tank-missile-attacks/).
 
 ## Requirements
 - Python 3.8
