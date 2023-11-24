@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daryl Hall obtains restraining order against John Oates amid confidential lawsuit**
+**Dutch election exit polls show major victory for far-right**
 
-You can read more about it [here](https://www.cnn.com/2023/11/22/entertainment/daryl-hall-restraining-order-john-oates/index.html).
+You can read more about it [here](https://thehill.com/policy/international/4324090-dutch-election-major-victory-far-right/).
 
 ## Requirements
 - Python 3.8
