@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO asks China for data on 'undiagnosed pneumonia' cases**
+**Woman claims New York City Mayor Eric Adams sexually assaulted her in 1993**
 
-You can read more about it [here](https://www.ft.com/content/c1ef57d8-1e80-47e2-ad49-a56170b3e1c9).
+You can read more about it [here](https://abcnews.go.com/US/woman-claims-new-york-city-mayor-eric-adams/story?id=105123810).
 
 ## Requirements
 - Python 3.8
