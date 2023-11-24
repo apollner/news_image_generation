@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jenna Ortega Drops Out of Scream VII – The Hollywood Reporter**
+**Archaeologists discover mummies of children that may be at least 1,000 years old – and their skulls still had hair on them**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/jenna-ortega-quits-scream-vii-1235675434/).
+You can read more about it [here](https://www.cbsnews.com/news/peru-mummy-children-archaeologists-hair-skulls/).
 
 ## Requirements
 - Python 3.8
