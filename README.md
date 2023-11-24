@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rainbow Bridge car explosion: US-Canada bridge still shut after deadly car blast**
+**Dbrand is suing Casetify for allegedly stealing its case and skin designs**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67505126).
+You can read more about it [here](https://www.engadget.com/dbrand-is-suing-casetify-for-allegedly-stealing-its-case-and-skin-designs-221012321.html).
 
 ## Requirements
 - Python 3.8
