@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Violent clashes break out in Dublin after knife attack that injured 3 children, one seriously**
+**Israel agrees to hostage deal with Hamas: Live updates**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/3-children-woman-injured-ireland-suspected-stabbing-person-105126966).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-was-gaza-news-11-23-23/index.html).
 
 ## Requirements
 - Python 3.8
