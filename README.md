@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protesters force Macy's Thanksgiving Day Parade to stop**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/pro-palestinian-protesters-force-macys-thanksgiving-day-temporarily/story?id=105124720).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
