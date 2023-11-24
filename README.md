@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macy's Thanksgiving Day Parade 2023 Is Starting. Here's How to Watch**
+**Americans celebrate Thanksgiving on edge over world events**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/macys-thanksgiving-day-parade-2023-is-starting-heres-how-to-watch/).
+You can read more about it [here](https://www.reuters.com/world/us/americans-celebrate-thanksgiving-edge-over-world-events-2023-11-23/).
 
 ## Requirements
 - Python 3.8
