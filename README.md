@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosalynn Carter’s final moments were spent with Jimmy**
+**Is a mystery disease affecting dogs in central Ohio? OSU vet shares what he's seeing**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/22/rosalynn-carter-funeral-final-moments/).
+You can read more about it [here](https://abc6onyourside.com/news/local/is-mystery-disease-impacting-dogs-in-central-ohio-osu-vet-shares-what-hes-seeing).
 
 ## Requirements
 - Python 3.8
