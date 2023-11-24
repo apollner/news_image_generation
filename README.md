@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Scream 7’ Faces Full Creative Reboot After Losing Jenna Ortega; Neve Campbell and Patrick Dempsey on Wish List (EXCLUSIVE)**
+**Purdue vs. Marquette | Maui Invitational Championship | Full Game Highlights**
 
-You can read more about it [here](https://variety.com/2023/film/news/scream-7-eyes-neve-campbell-patrick-dempsey-to-return-1235805929/).
+You can read more about it [here](https://www.youtube.com/watch?v=rtwjOxx4O_w).
 
 ## Requirements
 - Python 3.8
