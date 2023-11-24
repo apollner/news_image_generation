@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thanksgiving Eve Box Office: Disney’s ‘Wish’ Grosses $8.3 Million, Apple’s ‘Napoleon’ Earns $7.7 Million**
+**Violent clashes break out in Dublin after knife attack that injured 3 children, one seriously**
 
-You can read more about it [here](https://variety.com/2023/film/news/thanksgiving-eve-box-office-disney-wish-bombing-apple-napoleon-1235806537/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/3-children-woman-injured-ireland-suspected-stabbing-person-105126966).
 
 ## Requirements
 - Python 3.8
