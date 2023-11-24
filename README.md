@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman claims New York City Mayor Eric Adams sexually assaulted her in 1993**
+**Macy's Thanksgiving Day Parade 2023 Is Starting. Here's How to Watch**
 
-You can read more about it [here](https://abcnews.go.com/US/woman-claims-new-york-city-mayor-eric-adams/story?id=105123810).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/macys-thanksgiving-day-parade-2023-is-starting-heres-how-to-watch/).
 
 ## Requirements
 - Python 3.8
