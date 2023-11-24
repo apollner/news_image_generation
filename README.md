@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Thanksgiving and Black Friday odds, how to watch, stream: Expert picks, best bets, teasers, survivor pool**
+**Daryl Hall obtains restraining order against John Oates amid confidential lawsuit**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-thanksgiving-and-black-friday-odds-how-to-watch-stream-expert-picks-best-bets-teasers-survivor-pool/).
+You can read more about it [here](https://abc7.com/hall-and-oates-daryl-john-lawsuit/14093774/).
 
 ## Requirements
 - Python 3.8
