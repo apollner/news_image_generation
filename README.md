@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead after vehicle explodes at U.S.-Canada border in Niagara Falls, governor says no sign of terrorism**
+**Stock market news today: Stocks extend gains into Thanksgiving holiday, Nvidia falls after earnings**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/rainbow-bridge-niagara-falls-closed-explosion-vehicle-reportedly-enter-rcna126397).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-extend-gains-into-thanksgiving-holiday-nvidia-falls-after-earnings-210355057.html).
 
 ## Requirements
 - Python 3.8
