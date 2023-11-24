@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosalynn Carter’s final moments were spent with Jimmy**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/22/rosalynn-carter-funeral-final-moments/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
