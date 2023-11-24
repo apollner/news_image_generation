@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warship shoots down attack drones over the Red Sea**
+**NFL Thanksgiving and Black Friday odds, how to watch, stream: Expert picks, best bets, teasers, survivor pool**
 
-You can read more about it [here](https://www.cnn.com/2023/11/22/politics/us-warship-attack-drones-red-sea/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-thanksgiving-and-black-friday-odds-how-to-watch-stream-expert-picks-best-bets-teasers-survivor-pool/).
 
 ## Requirements
 - Python 3.8
