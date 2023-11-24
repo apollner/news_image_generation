@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX's Starship explode in astronomer's stunning telescope footage (video)**
+**Iowa Republican’s wife convicted of voter fraud to help him in 2020 elections**
 
-You can read more about it [here](https://www.space.com/spacex-starship-telescope-astronomer-video).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/22/iowa-voter-fraud-wife-husband-republican/).
 
 ## Requirements
 - Python 3.8
