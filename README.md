@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purdue vs. Marquette | Maui Invitational Championship | Full Game Highlights**
+**Hezbollah Says Son Of Senior MP Among Five Dead In South Lebanon**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rtwjOxx4O_w).
+You can read more about it [here](https://www.barrons.com/articles/son-of-senior-hezbollah-mp-killed-in-israeli-bombing-source-b91e2689).
 
 ## Requirements
 - Python 3.8
