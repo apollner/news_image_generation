@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**WHO asks China for data on 'undiagnosed pneumonia' cases**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ft.com/content/c1ef57d8-1e80-47e2-ad49-a56170b3e1c9).
 
 ## Requirements
 - Python 3.8
