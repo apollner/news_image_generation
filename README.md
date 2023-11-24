@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daryl Hall obtains restraining order against John Oates amid confidential lawsuit**
+**Rosalynn Carter’s final moments were spent with Jimmy**
 
-You can read more about it [here](https://abc7.com/hall-and-oates-daryl-john-lawsuit/14093774/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/22/rosalynn-carter-funeral-final-moments/).
 
 ## Requirements
 - Python 3.8
