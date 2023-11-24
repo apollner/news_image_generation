@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO asks China for details on outbreaks of respiratory illness**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/china/who-asks-china-details-respiratory-illness-outbreaks-2023-11-23/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
