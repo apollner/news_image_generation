@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Archaeologists discover mummies of children that may be at least 1,000 years old – and their skulls still had hair on them**
+**‘Scream 7’ Faces Full Creative Reboot After Losing Jenna Ortega; Neve Campbell and Patrick Dempsey on Wish List (EXCLUSIVE)**
 
-You can read more about it [here](https://www.cbsnews.com/news/peru-mummy-children-archaeologists-hair-skulls/).
+You can read more about it [here](https://variety.com/2023/film/news/scream-7-eyes-neve-campbell-patrick-dempsey-to-return-1235805929/).
 
 ## Requirements
 - Python 3.8
