@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Suella Braverman hits out after record migration figures**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67511343).
 
 ## Requirements
 - Python 3.8
