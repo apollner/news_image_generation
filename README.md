@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA receives laser beam from 10 million miles away: 'First light'**
+**Rosalynn Carter’s final moments were spent with Jimmy**
 
-You can read more about it [here](https://www.foxnews.com/science/nasa-receives-laser-beam-ten-million-miles-first-light).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/11/22/rosalynn-carter-funeral-final-moments/).
 
 ## Requirements
 - Python 3.8
