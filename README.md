@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious Pneumonia Spreads in China: Cases Surge | Vantage with Palki Sharma**
+**Thanksgiving Eve Box Office: Disney’s ‘Wish’ Grosses $8.3 Million, Apple’s ‘Napoleon’ Earns $7.7 Million**
 
-You can read more about it [here](https://www.youtube.com/watch?v=LBQQoIt1XO4).
+You can read more about it [here](https://variety.com/2023/film/news/thanksgiving-eve-box-office-disney-wish-bombing-apple-napoleon-1235806537/).
 
 ## Requirements
 - Python 3.8
