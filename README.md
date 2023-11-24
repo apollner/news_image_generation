@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott Foster ejecting Chris Paul in Warriors-Suns sets NBA world ablaze**
+**Far-right anti-Islam candidate clinches shock Dutch election win. Here's what comes next**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/scott-foster-ejecting-chris-paul-reactions/1674629/).
+You can read more about it [here](https://www.cnbc.com/2023/11/23/dutch-election-what-comes-next-after-shock-far-right-victory.html).
 
 ## Requirements
 - Python 3.8
