@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa Republican’s wife convicted of voter fraud to help him in 2020 elections**
+**Jenna Ortega Drops Out of Scream VII – The Hollywood Reporter**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/11/22/iowa-voter-fraud-wife-husband-republican/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/jenna-ortega-quits-scream-vii-1235675434/).
 
 ## Requirements
 - Python 3.8
