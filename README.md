@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is a mystery disease affecting dogs in central Ohio? OSU vet shares what he's seeing**
+**Scott Foster ejecting Chris Paul in Warriors-Suns sets NBA world ablaze**
 
-You can read more about it [here](https://abc6onyourside.com/news/local/is-mystery-disease-impacting-dogs-in-central-ohio-osu-vet-shares-what-hes-seeing).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/scott-foster-ejecting-chris-paul-reactions/1674629/).
 
 ## Requirements
 - Python 3.8
