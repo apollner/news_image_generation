@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio State-Michigan and the 20 most anticipated games in college football history - ESPN**
+**Paris Hilton Announces Arrival of Baby Daughter and Reveals Her Name**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38952683/ohio-state-michigan-20-most-anticipated-games-college-football-history).
+You can read more about it [here](https://www.purewow.com/news/paris-hilton-welcome-baby-girl).
 
 ## Requirements
 - Python 3.8
