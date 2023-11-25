@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys celebrated late score with turkey leg stashed in Salvation Army kettle**
+**Short-term cease-fire in Israel-Hamas war takes effect in the Gaza Strip**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-celebrated-late-score-with-turkey-leg-stashed-in-salvation-army-kettle).
+You can read more about it [here](https://www.cbsnews.com/news/temporary-cease-fire-begins-israel-hamas-war/).
 
 ## Requirements
 - Python 3.8
