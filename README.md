@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Love's three-touchdown showing propels Packers past Lions**
+**[Removed]**
 
-You can read more about it [here](https://www.nfl.com/news/jordan-love-s-three-touchdown-showing-propels-packers-past-lions).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
