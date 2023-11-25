@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariane 6 completes long-duration static-fire test**
+**WHO asks for information about spike in respiratory illnesses in China**
 
-You can read more about it [here](https://spacenews.com/ariane-6-completes-long-duration-static-fire-test/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4325039-who-asks-for-information-about-spike-in-respiratory-illnesses-in-china/).
 
 ## Requirements
 - Python 3.8
