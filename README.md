@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dbrand is suing Casetify for allegedly stealing its case and skin designs**
+**Jordan Love's three-touchdown showing propels Packers past Lions**
 
-You can read more about it [here](https://www.engadget.com/dbrand-is-suing-casetify-for-allegedly-stealing-its-case-and-skin-designs-221012321.html).
+You can read more about it [here](https://www.nfl.com/news/jordan-love-s-three-touchdown-showing-propels-packers-past-lions).
 
 ## Requirements
 - Python 3.8
