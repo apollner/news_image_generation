@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First hostages released after Israel-Hamas truce begins: Live updates**
+**Israel-Hamas war: Gaza truce begins after hostage release deal**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-24-23/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-24-2023-172256dd593189f7b37f7c62f4739c6b).
 
 ## Requirements
 - Python 3.8
