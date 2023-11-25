@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean rocket stage exploded after satellite launch, video shows**
+**Macy's Thanksgiving Day Parade blocked by pro-Palestinian protesters**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/astronomy-camera-captures-north-korean-rocket-stage-exploding-after-satellite-2023-11-23/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/23/macys-thanksgiving-day-parade-pro-palestinian-protesters/71687502007/).
 
 ## Requirements
 - Python 3.8
