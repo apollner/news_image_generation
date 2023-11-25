@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois virus outbreak linked to dollar burrito event for Northwestern University students**
+**Man Keeps Rock For Years Thinking It's Gold. It Turned Out to Be Far More Valuable.**
 
-You can read more about it [here](https://www.foxnews.com/health/illinois-virus-outbreak-linked-dollar-burrito-event-northwestern-university-students).
+You can read more about it [here](https://www.sciencealert.com/man-keeps-rock-for-years-thinking-its-gold-it-turned-out-to-be-far-more-valuable).
 
 ## Requirements
 - Python 3.8
