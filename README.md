@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Mysterious respiratory illness spreads to North Carolina dogs**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wral.com/story/mysterious-respiratory-illness-spreads-to-north-carolina-dogs/21163851/).
 
 ## Requirements
 - Python 3.8
