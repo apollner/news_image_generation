@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war rages with cease-fire delayed, Israeli hostage and Palestinian prisoner families left to hope**
+**Dak Prescott throws four TDs as Cowboys crush Commanders - ESPN**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-cease-fire-delayed-release-hostages-palestinian-prisoners/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38966360/dak-prescott-throws-four-tds-cowboys-crush-commanders).
 
 ## Requirements
 - Python 3.8
