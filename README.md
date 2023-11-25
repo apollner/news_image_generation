@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Hilton announces second child with husband Carter Reum: 'Thankful'**
+**Sean Combs Faces Third Sexual Assault Lawsuit – Update**
 
-You can read more about it [here](https://ew.com/paris-hilton-announces-second-child-husband-carter-reum-8406471).
+You can read more about it [here](https://deadline.com/2023/11/sean-combs-sexual-assault-lawsuit-1235635896/).
 
 ## Requirements
 - Python 3.8
