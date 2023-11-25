@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Short-term cease-fire in Israel-Hamas war takes effect in the Gaza Strip**
+**Oscar Pistorius to be freed on parole**
 
-You can read more about it [here](https://www.cbsnews.com/news/temporary-cease-fire-begins-israel-hamas-war/).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67518501).
 
 ## Requirements
 - Python 3.8
