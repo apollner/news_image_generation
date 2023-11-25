@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are all 177 best deals to shop at Amazon during Black Friday 2023**
+**Cowboys celebrated late score with turkey leg stashed in Salvation Army kettle**
 
-You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-deals-2023-11-24).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-celebrated-late-score-with-turkey-leg-stashed-in-salvation-army-kettle).
 
 ## Requirements
 - Python 3.8
