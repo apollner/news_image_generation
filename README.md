@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs Faces Third Sexual Assault Lawsuit – Update**
+**Watch New York Jets vs. Miami Dolphins: TV channel, live stream info, start time**
 
-You can read more about it [here](https://deadline.com/2023/11/sean-combs-sexual-assault-lawsuit-1235635896/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/watch-new-york-jets-vs-miami-dolphins-tv-channel-live-stream-info-start-time-29113577/).
 
 ## Requirements
 - Python 3.8
