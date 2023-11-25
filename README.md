@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiffany Haddish Arrested Over DUI Concerns in Beverly Hills**
+**James Webb Detects “Unexplained Structures” in Heart of Our Galaxy**
 
-You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/tiffany-haddish-arrested-dui-thanksgiving-1234896400/).
+You can read more about it [here](https://futurism.com/the-byte/james-webb-unexplained-structures-galaxy).
 
 ## Requirements
 - Python 3.8
