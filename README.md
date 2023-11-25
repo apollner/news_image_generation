@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Trump posts 'Thanksgiving message' at 2 AM with a list of insults**
+**President Biden and son Hunter take Thanksgiving ‘polar plunge’ in frigid Nantucket waters**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2023/11/24/donald-trump-judge-engoron-thanksgiving-message-truth-social-vpx.cnn).
+You can read more about it [here](https://nypost.com/2023/11/23/news/biden-clan-including-joe-and-hunter-takes-a-thanksgiving-dip-in-nantucket/).
 
 ## Requirements
 - Python 3.8
