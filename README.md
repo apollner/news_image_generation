@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic First: NASA Uses Two Worlds to Test Future Mars Helicopter Designs**
+**Ohio State-Michigan and the 20 most anticipated games in college football history - ESPN**
 
-You can read more about it [here](https://scitechdaily.com/?p=331239).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38952683/ohio-state-michigan-20-most-anticipated-games-college-football-history).
 
 ## Requirements
 - Python 3.8
