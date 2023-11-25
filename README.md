@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden tells Americans "we have to bring the nation together" in Thanksgiving comments**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/biden-thanksgiving-message-americans-we-have-to-bring-nation-together-nantucket-massachusetts/).
 
 ## Requirements
 - Python 3.8
