@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's "Walking Pneumonia" Outbreak Worsens: Thousands Hospitalised | Vantage with Palki Sharma**
+**Sean Combs Faces Third Sexual Assault Lawsuit – Update**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pHnu8KpOk-E).
+You can read more about it [here](https://deadline.com/2023/11/sean-combs-sexual-assault-lawsuit-1235635896/).
 
 ## Requirements
 - Python 3.8
