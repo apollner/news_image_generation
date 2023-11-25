@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dak Prescott throws four TDs as Cowboys crush Commanders - ESPN**
+**WHO asks for information about spike in respiratory illnesses in China**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38966360/dak-prescott-throws-four-tds-cowboys-crush-commanders).
+You can read more about it [here](https://thehill.com/policy/healthcare/4325039-who-asks-for-information-about-spike-in-respiratory-illnesses-in-china/).
 
 ## Requirements
 - Python 3.8
