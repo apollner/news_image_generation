@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious respiratory illness spreads to North Carolina dogs**
+**China's "Walking Pneumonia" Outbreak Worsens: Thousands Hospitalised | Vantage with Palki Sharma**
 
-You can read more about it [here](https://www.wral.com/story/mysterious-respiratory-illness-spreads-to-north-carolina-dogs/21163851/).
+You can read more about it [here](https://www.youtube.com/watch?v=pHnu8KpOk-E).
 
 ## Requirements
 - Python 3.8
