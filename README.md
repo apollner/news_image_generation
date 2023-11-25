@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President Biden and son Hunter take Thanksgiving ‘polar plunge’ in frigid Nantucket waters**
+**Horoscope for Friday, 11/24/23 by Christopher Renstrom**
 
-You can read more about it [here](https://nypost.com/2023/11/23/news/biden-clan-including-joe-and-hunter-takes-a-thanksgiving-dip-in-nantucket/).
+You can read more about it [here](https://www.sfgate.com/horoscope/article/horoscope-friday-11-24-23-christopher-renstrom-18500192.php).
 
 ## Requirements
 - Python 3.8
