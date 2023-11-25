@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO asks for information about spike in respiratory illnesses in China**
+**Biden campaign released guide of how to respond to 'crazy MAGA nonsense' from relatives during the holidays**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4325039-who-asks-for-information-about-spike-in-respiratory-illnesses-in-china/).
+You can read more about it [here](https://www.foxnews.com/media/biden-campaign-released-guide-respond-crazy-maga-nonsense-relatives-holidays).
 
 ## Requirements
 - Python 3.8
