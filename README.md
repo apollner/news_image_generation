@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Hilton Announces Arrival of Baby Daughter and Reveals Her Name**
+**[Removed]**
 
-You can read more about it [here](https://www.purewow.com/news/paris-hilton-welcome-baby-girl).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
