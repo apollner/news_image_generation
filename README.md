@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Post-Thanksgiving storm moving through US could disrupt plans to travel home**
+**Paris Hilton announces second child with husband Carter Reum: 'Thankful'**
 
-You can read more about it [here](https://abcnews.go.com/US/post-thanksgiving-storm-moving-us-disrupt-plans-travel/story?id=105135338).
+You can read more about it [here](https://ew.com/paris-hilton-announces-second-child-husband-carter-reum-8406471).
 
 ## Requirements
 - Python 3.8
