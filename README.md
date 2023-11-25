@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nissan leads $2.5 billion investment to build two more EVs in UK**
+**Israel-Hamas war: List of key events, day 49**
 
-You can read more about it [here](https://www.cnn.com/2023/11/24/business/nissan-uk-ev-investment/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/24/israel-hamas-war-list-of-key-events-day-49).
 
 ## Requirements
 - Python 3.8
