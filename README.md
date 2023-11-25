@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man Keeps Rock For Years Thinking It's Gold. It Turned Out to Be Far More Valuable.**
+**LOOK: Dolly Parton shines during Thanksgiving halftime show, dresses as Dallas Cowboys cheerleader**
 
-You can read more about it [here](https://www.sciencealert.com/man-keeps-rock-for-years-thinking-its-gold-it-turned-out-to-be-far-more-valuable).
+You can read more about it [here](https://www.cbssports.com/nfl/news/look-dolly-parton-shines-during-thanksgiving-halftime-show-dresses-as-dallas-cowboys-cheerleader/).
 
 ## Requirements
 - Python 3.8
