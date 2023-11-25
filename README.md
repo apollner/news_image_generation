@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Friday, 11/24/23 by Christopher Renstrom**
+**Here are all 177 best deals to shop at Amazon during Black Friday 2023**
 
-You can read more about it [here](https://www.sfgate.com/horoscope/article/horoscope-friday-11-24-23-christopher-renstrom-18500192.php).
+You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-deals-2023-11-24).
 
 ## Requirements
 - Python 3.8
