@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscar Pistorius to be freed on parole**
+**Nissan leads $2.5 billion investment to build two more EVs in UK**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67518501).
+You can read more about it [here](https://www.cnn.com/2023/11/24/business/nissan-uk-ev-investment/index.html).
 
 ## Requirements
 - Python 3.8
