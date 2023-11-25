@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LOOK: Dolly Parton shines during Thanksgiving halftime show, dresses as Dallas Cowboys cheerleader**
+**Video: Trump posts 'Thanksgiving message' at 2 AM with a list of insults**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/look-dolly-parton-shines-during-thanksgiving-halftime-show-dresses-as-dallas-cowboys-cheerleader/).
+You can read more about it [here](https://www.cnn.com/videos/politics/2023/11/24/donald-trump-judge-engoron-thanksgiving-message-truth-social-vpx.cnn).
 
 ## Requirements
 - Python 3.8
