@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs Faces Third Sexual Assault Lawsuit – Update**
+**Post-Thanksgiving storm moving through US could disrupt plans to travel home**
 
-You can read more about it [here](https://deadline.com/2023/11/sean-combs-sexual-assault-lawsuit-1235635896/).
+You can read more about it [here](https://abcnews.go.com/US/post-thanksgiving-storm-moving-us-disrupt-plans-travel/story?id=105135338).
 
 ## Requirements
 - Python 3.8
