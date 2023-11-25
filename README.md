@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden campaign released guide of how to respond to 'crazy MAGA nonsense' from relatives during the holidays**
+**Illinois virus outbreak linked to dollar burrito event for Northwestern University students**
 
-You can read more about it [here](https://www.foxnews.com/media/biden-campaign-released-guide-respond-crazy-maga-nonsense-relatives-holidays).
+You can read more about it [here](https://www.foxnews.com/health/illinois-virus-outbreak-linked-dollar-burrito-event-northwestern-university-students).
 
 ## Requirements
 - Python 3.8
