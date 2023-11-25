@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 12 NFL picks: Jaguars beat Texans in AFC South battle, Saints get key divisional win vs. Falcons**
+**North Korean rocket stage exploded after satellite launch, video shows**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-12-nfl-picks-jaguars-beat-texans-in-afc-south-battle-saints-get-key-divisional-win-vs-falcons/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/astronomy-camera-captures-north-korean-rocket-stage-exploding-after-satellite-2023-11-23/).
 
 ## Requirements
 - Python 3.8
