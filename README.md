@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb Detects “Unexplained Structures” in Heart of Our Galaxy**
+**‘First light’: NASA receives laser-beamed message from 10 million miles away**
 
-You can read more about it [here](https://futurism.com/the-byte/james-webb-unexplained-structures-galaxy).
+You can read more about it [here](https://www.cnn.com/2023/11/24/world/nasa-psyche-dsoc-first-light-scn/index.html).
 
 ## Requirements
 - Python 3.8
