@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch New York Jets vs. Miami Dolphins: TV channel, live stream info, start time**
+**Tiffany Haddish Arrested Over DUI Concerns in Beverly Hills**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/watch-new-york-jets-vs-miami-dolphins-tv-channel-live-stream-info-start-time-29113577/).
+You can read more about it [here](https://www.rollingstone.com/tv-movies/tv-movie-news/tiffany-haddish-arrested-dui-thanksgiving-1234896400/).
 
 ## Requirements
 - Python 3.8
