@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know about the riots in Dublin**
+**ESPN’s ‘GameDay’ makes rivalry picks, talks Iron Bowl between Alabama-Auburn**
 
-You can read more about it [here](https://thehill.com/policy/international/4326637-5-things-to-know-about-the-riots-in-dublin/).
+You can read more about it [here](https://www.al.com/alabamafootball/2023/11/gameday-makes-rivalry-picks-talks-iron-bowl-between-alabama-auburn.html).
 
 ## Requirements
 - Python 3.8
