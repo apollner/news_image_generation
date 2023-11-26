@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Hilton baby girl: Hilton, husband Carter Reum announce arrival of baby daughter, London, chant 'big brother' to son Phoenix**
+**1.3 million chickens to be culled after bird flu detected at Ohio farm**
 
-You can read more about it [here](https://abc7.com/paris-hilton-second-baby-girl-daughter-london-surrogacy/14100923/).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/11/24/bird-flu-ohio-million-chickens-killed/71695340007/).
 
 ## Requirements
 - Python 3.8
