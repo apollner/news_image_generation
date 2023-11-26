@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian drone attack shatters Kyiv’s calm**
+**Israel-Hamas war updates: Hostage deal back on after delay, Qatar says**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/11/25/drone-attack-kyiv-russia-war/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-25-23/index.html).
 
 ## Requirements
 - Python 3.8
