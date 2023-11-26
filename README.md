@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter weather advisory issued for Kansas City area Saturday afternoon through Sunday morning**
+**SAG-AFTRA Releases More Detailed Contract Terms**
 
-You can read more about it [here](https://www.kshb.com/news/local-news/winter-weather-advisory-issued-for-kansas-city-area-saturday-afternoon-through-sunday-morning).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sag-aftra-releases-more-detailed-contract-terms-actors-strike-1235677232/).
 
 ## Requirements
 - Python 3.8
