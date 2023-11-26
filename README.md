@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prop bets: Ohio State at Michigan**
+**Black Friday shopping: Long Islanders keeping the pre-dawn tradition**
 
-You can read more about it [here](https://247sports.com/college/ohio-state/longformarticle/ohio-state-football-michigan-wolverines-over-under-prop-bet-odds-221171698/).
+You can read more about it [here](https://www.newsday.com/business/black-friday-retail-inflation-vd9hs909).
 
 ## Requirements
 - Python 3.8
