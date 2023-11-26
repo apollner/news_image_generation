@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 11/24/23 drawing**
+**Holland sparks Dolphins with pick-6 on Jets' failed Hail Mary - ESPN**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2023/11/24/mega-millions-winning-numbers/71694853007/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38972901/holland-sparks-dolphins-pick-6-jets-failed-hail-mary).
 
 ## Requirements
 - Python 3.8
