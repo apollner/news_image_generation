@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA expands cantaloupe recall after salmonella infections double in a week**
+**No. 6 Oregon Ducks vs. No. 16 Oregon State Beavers score updates, live stream, odds, time, TV channel, how to**
 
-You can read more about it [here](https://www.nbcnews.com/health/fda-expands-cantaloupe-recall-salmonella-infections-double-week-rcna126619).
+You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/11/no-6-oregon-ducks-vs-no-16-oregon-state-beavers-score-updates-live-stream-odds-time-tv-channel-how-to-watch-online.html).
 
 ## Requirements
 - Python 3.8
