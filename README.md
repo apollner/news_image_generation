@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Telescope in Utah detects mysterious cosmic ray beyond our galaxy**
+**2023 F1 Abu Dhabi GP qualifying results: Verstappen takes pole**
 
-You can read more about it [here](https://www.businessinsider.com/mysterious-cosmic-ray-could-come-from-another-galaxy-beyond-milky-way-2023-11).
+You can read more about it [here](https://www.motorsport.com/f1/news/2023-f1-abu-dhabi-gp-qualifying-results-pole/10551572/).
 
 ## Requirements
 - Python 3.8
