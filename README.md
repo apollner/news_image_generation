@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: More hostages expected to be released – DW – 11/25/2023**
+**Prop bets: Ohio State at Michigan**
 
-You can read more about it [here](https://www.dw.com/en/israel-hamas-war-more-hostages-expected-to-be-released/live-67549877).
+You can read more about it [here](https://247sports.com/college/ohio-state/longformarticle/ohio-state-football-michigan-wolverines-over-under-prop-bet-odds-221171698/).
 
 ## Requirements
 - Python 3.8
