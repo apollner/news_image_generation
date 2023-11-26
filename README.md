@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 6 Oregon Ducks vs. No. 16 Oregon State Beavers score updates, live stream, odds, time, TV channel, how to**
+**Winter weather advisory issued for Kansas City area Saturday afternoon through Sunday morning**
 
-You can read more about it [here](https://www.oregonlive.com/collegefootball/2023/11/no-6-oregon-ducks-vs-no-16-oregon-state-beavers-score-updates-live-stream-odds-time-tv-channel-how-to-watch-online.html).
+You can read more about it [here](https://www.kshb.com/news/local-news/winter-weather-advisory-issued-for-kansas-city-area-saturday-afternoon-through-sunday-morning).
 
 ## Requirements
 - Python 3.8
