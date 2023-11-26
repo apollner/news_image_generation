@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel to summon Spanish, Belgian envoys after appearance at Rafah crossing**
+**Binance Founder Changpeng 'CZ' Zhao Isn't a Flight Risk, His Attorneys Say**
 
-You can read more about it [here](https://www.timesofisrael.com/israel-to-summon-spanish-belgian-envoys-after-bizarre-appearance-at-rafah-crossing/).
+You can read more about it [here](https://www.coindesk.com/policy/2023/11/24/binance-founder-changpeng-cz-zhao-isnt-a-flight-risk-his-attorneys-say/).
 
 ## Requirements
 - Python 3.8
