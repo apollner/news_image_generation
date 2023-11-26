@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weather Alert: Winter storm tonight, Saturday**
+**Sam McKewon breaks down Nebraska vs. Iowa**
 
-You can read more about it [here](https://www.kwch.com/2023/11/24/weather-alert-winter-storm-tonight-saturday/).
+You can read more about it [here](https://omaha.com/sports/huskers/football/video-sam-mckewon-breaks-down-nebraskas-loss-to-iowa/article_c5896394-8afc-11ee-97d3-d72e0ff22da9.html).
 
 ## Requirements
 - Python 3.8
