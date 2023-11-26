@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian tunnel rescue set to take much longer after drill damaged**
+**Ex-Binance CEO asks judge to allow him to leave US ahead of sentencing**
 
-You can read more about it [here](https://www.reuters.com/world/india/manual-drilling-likely-last-stretch-rescue-41-trapped-workers-indian-tunnel-2023-11-25/).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4326679-ex-binance-ceo-asks-judge-to-leave-us/).
 
 ## Requirements
 - Python 3.8
