@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza: Families' relief as hostages released**
+**Iranian Drone Attacks Israeli Ship | 210 Hostages Still In Gaza | Ceasefire Hamas's “Political” Win?**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67524090).
+You can read more about it [here](https://www.youtube.com/watch?v=iIX4LJ-MFEw).
 
 ## Requirements
 - Python 3.8
