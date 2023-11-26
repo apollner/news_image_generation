@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Friday shopping: Long Islanders keeping the pre-dawn tradition**
+**Winners and losers from Dolphins-Jets Black Friday game**
 
-You can read more about it [here](https://www.newsday.com/business/black-friday-retail-inflation-vd9hs909).
+You can read more about it [here](http://www.nbcmiami.com/news/sports/nfl/5-winners-losers-from-dolphins-34-13-win-vs-jets-on-black-friday/3168064/).
 
 ## Requirements
 - Python 3.8
