@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iranian Drone Attacks Israeli Ship | 210 Hostages Still In Gaza | Ceasefire Hamas's “Political” Win?**
+**Crazy Black Friday camera deal still live! Save $900 on Canon EOS R5**
 
-You can read more about it [here](https://www.youtube.com/watch?v=iIX4LJ-MFEw).
+You can read more about it [here](https://www.space.com/black-friday-camera-deal-canon-eos-r5-900-dollars-discount).
 
 ## Requirements
 - Python 3.8
