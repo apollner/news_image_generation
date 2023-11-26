@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trudeau blames ‘MAGA influence’ for Ukraine skepticism on Canada’s right**
+**Paris Hilton baby girl: Hilton, husband Carter Reum announce arrival of baby daughter, London, chant 'big brother' to son Phoenix**
 
-You can read more about it [here](https://thehill.com/policy/international/4326443-trudeau-blames-maga-influence-for-ukraine-skepticism-on-canadas-right/).
+You can read more about it [here](https://abc7.com/paris-hilton-second-baby-girl-daughter-london-surrogacy/14100923/).
 
 ## Requirements
 - Python 3.8
