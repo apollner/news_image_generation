@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US shoppers set for cheapest holiday toys, coats and dresses in years**
+**FDA expands cantaloupe recall after salmonella infections double in a week**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-shoppers-set-cheapest-holiday-gift-season-years-2023-11-24/).
+You can read more about it [here](https://www.nbcnews.com/health/fda-expands-cantaloupe-recall-salmonella-infections-double-week-rcna126619).
 
 ## Requirements
 - Python 3.8
