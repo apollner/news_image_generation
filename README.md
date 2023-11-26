@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Releases More Detailed Contract Terms**
+**Mega Millions winning numbers for 11/24/23 drawing**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/sag-aftra-releases-more-detailed-contract-terms-actors-strike-1235677232/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2023/11/24/mega-millions-winning-numbers/71694853007/).
 
 ## Requirements
 - Python 3.8
