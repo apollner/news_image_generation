@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 F1 Abu Dhabi GP qualifying results: Verstappen takes pole**
+**[Removed]**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/2023-f1-abu-dhabi-gp-qualifying-results-pole/10551572/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
