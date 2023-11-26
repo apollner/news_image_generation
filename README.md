@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Early Cyber Monday gaming laptop deals 2023: Acer, MSI, more**
+**Over half the people who get COVID have lingering symptoms after 3 years, new study finds**
 
-You can read more about it [here](https://mashable.com/article/early-cyber-monday-gaming-laptop-deals-2023).
+You can read more about it [here](https://www.foxnews.com/health/over-half-people-get-covid-have-lingering-symptoms-3-years-study-finds).
 
 ## Requirements
 - Python 3.8
