@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Physician describes recovery ahead for released hostages**
+**Israel-Hamas war: More hostages expected to be released – DW – 11/25/2023**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/israeli-physician-describes-mental-and-physical-recovery-ahead-for-released-hostages).
+You can read more about it [here](https://www.dw.com/en/israel-hamas-war-more-hostages-expected-to-be-released/live-67549877).
 
 ## Requirements
 - Python 3.8
