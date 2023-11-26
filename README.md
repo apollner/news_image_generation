@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA expands cantaloupe recall after salmonella infections double in a week**
+**Trudeau blames ‘MAGA influence’ for Ukraine skepticism on Canada’s right**
 
-You can read more about it [here](https://www.nbcnews.com/health/fda-expands-cantaloupe-recall-salmonella-infections-double-week-rcna126619).
+You can read more about it [here](https://thehill.com/policy/international/4326443-trudeau-blames-maga-influence-for-ukraine-skepticism-on-canadas-right/).
 
 ## Requirements
 - Python 3.8
