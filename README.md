@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam McKewon breaks down Nebraska vs. Iowa**
+**US shoppers set for cheapest holiday toys, coats and dresses in years**
 
-You can read more about it [here](https://omaha.com/sports/huskers/football/video-sam-mckewon-breaks-down-nebraskas-loss-to-iowa/article_c5896394-8afc-11ee-97d3-d72e0ff22da9.html).
+You can read more about it [here](https://www.reuters.com/markets/us/us-shoppers-set-cheapest-holiday-gift-season-years-2023-11-24/).
 
 ## Requirements
 - Python 3.8
