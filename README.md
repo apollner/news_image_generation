@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyber Monday Apple deals: M3 MacBook Pro, AirPods, more**
+**Russian drone attack shatters Kyiv’s calm**
 
-You can read more about it [here](https://9to5mac.com/2023/11/25/best-black-friday-2023-apple-deals/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/11/25/drone-attack-kyiv-russia-war/).
 
 ## Requirements
 - Python 3.8
