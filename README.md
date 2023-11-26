@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holland sparks Dolphins with pick-6 on Jets' failed Hail Mary - ESPN**
+**Bucknuts expert Roundtable: Michigan**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38972901/holland-sparks-dolphins-pick-6-jets-failed-hail-mary).
+You can read more about it [here](https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-football-expert-roundtable-michigan-wolverines-221143017/).
 
 ## Requirements
 - Python 3.8
