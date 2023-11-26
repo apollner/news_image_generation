@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘First light’: NASA receives laser-beamed message from 10 million miles away**
+**Weather Alert: Winter storm tonight, Saturday**
 
-You can read more about it [here](https://www.cnn.com/2023/11/24/world/nasa-psyche-dsoc-first-light-scn/index.html).
+You can read more about it [here](https://www.kwch.com/2023/11/24/weather-alert-winter-storm-tonight-saturday/).
 
 ## Requirements
 - Python 3.8
