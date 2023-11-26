@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucknuts expert Roundtable: Michigan**
+**Cosmic ray more powerful than Oh My God found by scientists in Utah**
 
-You can read more about it [here](https://247sports.com/college/ohio-state/longformarticle/ohio-state-buckeyes-football-expert-roundtable-michigan-wolverines-221143017/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/11/24/cosmic-ray-baffles-scientists-utah-telescope/71694848007/).
 
 ## Requirements
 - Python 3.8
