@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beijing police launch investigation into troubled wealth manager Zhongzhi**
+**5 things to know about the riots in Dublin**
 
-You can read more about it [here](https://www.reuters.com/business/finance/beijing-police-launch-investigation-into-troubled-wealth-manager-zhongzhi-2023-11-25/).
+You can read more about it [here](https://thehill.com/policy/international/4326637-5-things-to-know-about-the-riots-in-dublin/).
 
 ## Requirements
 - Python 3.8
