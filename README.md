@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crazy Black Friday camera deal still live! Save $900 on Canon EOS R5**
+**Early Cyber Monday gaming laptop deals 2023: Acer, MSI, more**
 
-You can read more about it [here](https://www.space.com/black-friday-camera-deal-canon-eos-r5-900-dollars-discount).
+You can read more about it [here](https://mashable.com/article/early-cyber-monday-gaming-laptop-deals-2023).
 
 ## Requirements
 - Python 3.8
