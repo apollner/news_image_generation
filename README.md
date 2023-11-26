@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winners and losers from Dolphins-Jets Black Friday game**
+**Israel to summon Spanish, Belgian envoys after appearance at Rafah crossing**
 
-You can read more about it [here](http://www.nbcmiami.com/news/sports/nfl/5-winners-losers-from-dolphins-34-13-win-vs-jets-on-black-friday/3168064/).
+You can read more about it [here](https://www.timesofisrael.com/israel-to-summon-spanish-belgian-envoys-after-bizarre-appearance-at-rafah-crossing/).
 
 ## Requirements
 - Python 3.8
