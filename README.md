@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch today's Ohio State Buckeyes vs. Michigan Wolverines game: Livestream options, kickoff time, more**
+**Ex-Binance CEO Zhao urges judge to allow him to leave the U.S. before sentencing**
 
-You can read more about it [here](https://www.cbsnews.com/essentials/how-to-watch-ohio-state-buckeyes-vs-michigan-wolverines-game-2023-11-25/).
+You can read more about it [here](https://www.cnbc.com/2023/11/25/ex-binance-ceo-zhao-urges-judge-to-allow-him-to-leave-us-before-sentencing.html).
 
 ## Requirements
 - Python 3.8
