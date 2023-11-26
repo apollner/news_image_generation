@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Binance CEO asks judge to allow him to leave US ahead of sentencing**
+**Cyber Monday Apple deals: M3 MacBook Pro, AirPods, more**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4326679-ex-binance-ceo-asks-judge-to-leave-us/).
+You can read more about it [here](https://9to5mac.com/2023/11/25/best-black-friday-2023-apple-deals/).
 
 ## Requirements
 - Python 3.8
