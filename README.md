@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Call the police! This Galaxy Z Fold 5 Cyber Monday deal has to be stolen goods**
+**NFL late slate: Bills vs. Eagles score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.androidcentral.com/phones/call-the-police-this-galaxy-z-fold-5-cyber-monday-deal-has-to-be-stolen-goods).
+You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-bills-vs-eagles-score-highlights-news-inactives-and-live-updates-193030558.html).
 
 ## Requirements
 - Python 3.8
