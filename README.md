@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sierra Leone repels attack by 'renegade soldiers' on Freetown barracks**
+**4-year-old American Abigail Mor Edan among third group of hostages released by Hamas**
 
-You can read more about it [here](https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/).
+You can read more about it [here](https://www.cbsnews.com/news/hamas-could-release-american-hostage-today-jake-sullivan-says/).
 
 ## Requirements
 - Python 3.8
