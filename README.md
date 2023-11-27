@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 12 storylines to watch: Upstart Broncos face Browns; Bills get big chance vs. Eagles**
+**Couple claim eye antibiotic cured dog of mysterious illness sweeping America**
 
-You can read more about it [here](https://theathletic.com/5087396/2023/11/26/nfl-week-12-schedule-games-matchups/).
+You can read more about it [here](https://www.foxnews.com/lifestyle/couple-claim-eye-antibiotic-cured-dog-mysterious-illness-sweeping-america).
 
 ## Requirements
 - Python 3.8
