@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Travolta Recalls Near-Death Experience Flying a Plane**
+**Second group of Hamas-held hostages released after hours-long delay; Temporary cease-fire holds**
 
-You can read more about it [here](https://www.today.com/popculture/movies/john-travolta-near-death-experience-flying-plane-rcna126668).
+You can read more about it [here](https://www.cbsnews.com/news/second-group-of-hamas-hostages-released-as-gaza-cease-fire-holds/).
 
 ## Requirements
 - Python 3.8
