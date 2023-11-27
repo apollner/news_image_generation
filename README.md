@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As cantaloupes recalled over salmonella, 2 dead, 28 hospitalized**
+**November’s full beaver moon will shine bright this weekend**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/11/24/cantaloupe-recall-2023-salmonella-reports-spreading/71694221007/).
+You can read more about it [here](https://www.cnn.com/2023/11/26/world/november-full-beaver-moon-scn/index.html).
 
 ## Requirements
 - Python 3.8
