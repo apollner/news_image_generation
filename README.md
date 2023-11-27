@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Call the police! This Galaxy Z Fold 5 Cyber Monday deal has to be stolen goods**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.androidcentral.com/phones/call-the-police-this-galaxy-z-fold-5-cyber-monday-deal-has-to-be-stolen-goods).
 
 ## Requirements
 - Python 3.8
