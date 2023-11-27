@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas releases third group of hostages during truce with Israel: Live updates**
+**NFL late slate: Bills vs. Eagles score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-26-23/index.html).
+You can read more about it [here](https://sports.yahoo.com/nfl-late-slate-bills-vs-eagles-score-highlights-news-inactives-and-live-updates-193030558.html).
 
 ## Requirements
 - Python 3.8
