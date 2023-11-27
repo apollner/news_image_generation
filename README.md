@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa weather: Snow continues to fall in some parts of the state**
+**Alabama Crimson Tide outlast Auburn Tigers in Iron Bowl - ESPN**
 
-You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/38979913/alabama-crimson-tide-outlast-auburn-tigers-iron-bowl).
 
 ## Requirements
 - Python 3.8
