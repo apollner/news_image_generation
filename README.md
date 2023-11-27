@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL early slate: Jaguars vs. Texans score, highlights, news, inactives and live updates**
+**John Travolta recalls 1992 near-death flight: ‘I thought it was over’**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-jaguars-vs-texans-score-highlights-news-inactives-and-live-updates-164002400.html).
+You can read more about it [here](https://www.cnn.com/2023/11/26/entertainment/john-travolta-near-death-flight/index.html).
 
 ## Requirements
 - Python 3.8
