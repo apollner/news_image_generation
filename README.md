@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second group of Hamas-held hostages released after hours-long delay; Temporary cease-fire holds**
+**Iowa weather: Snow continues to fall in some parts of the state**
 
-You can read more about it [here](https://www.cbsnews.com/news/second-group-of-hamas-hostages-released-as-gaza-cease-fire-holds/).
+You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
 
 ## Requirements
 - Python 3.8
