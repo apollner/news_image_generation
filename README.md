@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**44 early Cyber Monday headphone deals: AirPods Pro at record-low**
+**Best early Cyber Monday laptop deals 2023 from Apple, Best Buy, Dell, and more**
 
-You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-headphone-and-speaker-deals-2023).
+You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-laptop-deals-2023).
 
 ## Requirements
 - Python 3.8
