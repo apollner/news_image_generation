@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After BYU's first Big 12 season, are changes coming to Kalani Sitake's program?**
+**Derek Chauvin, ex-officer convicted in George Floyd's killing, stabbed in prison**
 
-You can read more about it [here](https://www.ksl.com/article/50799842/after-byus-first-big-12-season-are-changes-coming-to-kalani-sitakes-program).
+You can read more about it [here](https://www.cbsnews.com/news/derek-chauvin-stabbed-in-prison-george-floyd/).
 
 ## Requirements
 - Python 3.8
