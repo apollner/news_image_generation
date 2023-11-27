@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Derek Chauvin expected to survive prison stabbing: officials**
+**With 'Gravedigger,' Isaiah Bond and Alabama deliver fourth-and-31 miracle that will live on forever in Iron Bowl lore**
 
-You can read more about it [here](https://thehill.com/homenews/race-politics/4327307-derek-chauvin-expected-to-survive-stabbing/).
+You can read more about it [here](https://sports.yahoo.com/with-gravedigger-isaiah-bond-and-alabama-deliver-fourth-and-31-miracle-that-will-live-on-forever-in-iron-bowl-lore-024621100.html).
 
 ## Requirements
 - Python 3.8
