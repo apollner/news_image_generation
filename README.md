@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football grades: Kirk Ferentz, Dave Clawson are out of touch**
+**NFL Week 12 storylines to watch: Upstart Broncos face Browns; Bills get big chance vs. Eagles**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/26/college-football-grades-week-13-kirk-ferentz-dave-clawson/71694038007/).
+You can read more about it [here](https://theathletic.com/5087396/2023/11/26/nfl-week-12-schedule-games-matchups/).
 
 ## Requirements
 - Python 3.8
