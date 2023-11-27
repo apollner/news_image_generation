@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**44 early Cyber Monday headphone deals: AirPods Pro at record-low**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-headphone-and-speaker-deals-2023).
 
 ## Requirements
 - Python 3.8
