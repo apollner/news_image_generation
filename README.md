@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops**
+**As cantaloupes recalled over salmonella, 2 dead, 28 hospitalized**
 
-You can read more about it [here](https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/11/24/cantaloupe-recall-2023-salmonella-reports-spreading/71694221007/).
 
 ## Requirements
 - Python 3.8
