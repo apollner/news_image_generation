@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa weather: Snow continues to fall in some parts of the state**
+**The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops**
 
-You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
+You can read more about it [here](https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops).
 
 ## Requirements
 - Python 3.8
