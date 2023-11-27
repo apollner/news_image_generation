@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa weather: Snow continues to fall in some parts of the state**
+**Alabama Scores on Fourth-And-Forever to Beat Auburn and Save Playoff Hopes**
 
-You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
+You can read more about it [here](https://www.si.com/college/2023/11/26/alabama-scores-fourth-and-forever-beat-auburn-save-college-football-playoff-hopes-iron-bowl).
 
 ## Requirements
 - Python 3.8
