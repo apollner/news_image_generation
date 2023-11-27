@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama Scores on Fourth-And-Forever to Beat Auburn and Save Playoff Hopes**
+**John Travolta Recalls Near-Death Experience Flying a Plane**
 
-You can read more about it [here](https://www.si.com/college/2023/11/26/alabama-scores-fourth-and-forever-beat-auburn-save-college-football-playoff-hopes-iron-bowl).
+You can read more about it [here](https://www.today.com/popculture/movies/john-travolta-near-death-experience-flying-plane-rcna126668).
 
 ## Requirements
 - Python 3.8
