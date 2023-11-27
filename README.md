@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4-year-old American Abigail Mor Edan among third group of hostages released by Hamas**
+**NFL early slate: Jaguars vs. Texans score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.cbsnews.com/news/hamas-could-release-american-hostage-today-jake-sullivan-says/).
+You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-jaguars-vs-texans-score-highlights-news-inactives-and-live-updates-164002400.html).
 
 ## Requirements
 - Python 3.8
