@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama Crimson Tide outlast Auburn Tigers in Iron Bowl - ESPN**
+**Derek Chauvin expected to survive prison stabbing: officials**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/38979913/alabama-crimson-tide-outlast-auburn-tigers-iron-bowl).
+You can read more about it [here](https://thehill.com/homenews/race-politics/4327307-derek-chauvin-expected-to-survive-stabbing/).
 
 ## Requirements
 - Python 3.8
