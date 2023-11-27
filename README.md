@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With 'Gravedigger,' Isaiah Bond and Alabama deliver fourth-and-31 miracle that will live on forever in Iron Bowl lore**
+**The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops**
 
-You can read more about it [here](https://sports.yahoo.com/with-gravedigger-isaiah-bond-and-alabama-deliver-fourth-and-31-miracle-that-will-live-on-forever-in-iron-bowl-lore-024621100.html).
+You can read more about it [here](https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops).
 
 ## Requirements
 - Python 3.8
