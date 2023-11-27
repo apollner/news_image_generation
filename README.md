@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan winter storm: 6-8 inches of snow expected for parts of state**
+**Sierra Leone repels attack by 'renegade soldiers' on Freetown barracks**
 
-You can read more about it [here](https://www.clickondetroit.com/weather/2023/11/26/michigan-winter-storm-6-8-inches-of-snow-expected-for-parts-of-state/).
+You can read more about it [here](https://www.reuters.com/world/africa/sierra-leone-security-forces-repelled-attack-barracks-govt-statement-2023-11-26/).
 
 ## Requirements
 - Python 3.8
