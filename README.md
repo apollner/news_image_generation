@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Travolta Recalls Near-Death Experience Flying a Plane**
+**Iowa weather: Snow continues to fall in some parts of the state**
 
-You can read more about it [here](https://www.today.com/popculture/movies/john-travolta-near-death-experience-flying-plane-rcna126668).
+You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
 
 ## Requirements
 - Python 3.8
