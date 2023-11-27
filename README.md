@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The HP Cyber Monday Sale Starts Now: Best Deals on OMEN Gaming PCs and Laptops**
+**After BYU's first Big 12 season, are changes coming to Kalani Sitake's program?**
 
-You can read more about it [here](https://www.ign.com/articles/hp-cyber-monday-sale-best-deals-on-omen-gaming-pcs-and-laptops).
+You can read more about it [here](https://www.ksl.com/article/50799842/after-byus-first-big-12-season-are-changes-coming-to-kalani-sitakes-program).
 
 ## Requirements
 - Python 3.8
