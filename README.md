@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas releases further 17 hostages on third day of Israel-Gaza truce**
+**Attackers seize an Israel-linked tanker off Yemen**
 
-You can read more about it [here](https://www.ft.com/content/6997f2b5-79b6-4b5b-adb0-fe53e9cf1c37).
+You can read more about it [here](https://www.politico.com/news/2023/11/26/israeli-oil-tanker-seized-yemen-00128605).
 
 ## Requirements
 - Python 3.8
