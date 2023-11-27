@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Derek Chauvin, ex-officer convicted in George Floyd's killing, stabbed in prison**
+**Iowa weather: Snow continues to fall in some parts of the state**
 
-You can read more about it [here](https://www.cbsnews.com/news/derek-chauvin-stabbed-in-prison-george-floyd/).
+You can read more about it [here](https://www.kcci.com/article/light-accumulating-snow-over-central-iowa-saturday-evening-through-sunday-morning/45942537).
 
 ## Requirements
 - Python 3.8
