@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaving Texas: Why people are exiting the Lone Star state**
+**Hamas releases further 17 hostages on third day of Israel-Gaza truce**
 
-You can read more about it [here](https://www.businessinsider.com/leaving-texas-political-freedom-property-taxes-housing-costs-2023-11).
+You can read more about it [here](https://www.ft.com/content/6997f2b5-79b6-4b5b-adb0-fe53e9cf1c37).
 
 ## Requirements
 - Python 3.8
