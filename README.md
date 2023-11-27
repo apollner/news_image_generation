@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart early Cyber Monday TV deals: Super cheap 4K TVs**
+**After BYU's first Big 12 season, are changes coming to Kalani Sitake's program?**
 
-You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-walmart-tv-deals-2023).
+You can read more about it [here](https://www.ksl.com/article/50799842/after-byus-first-big-12-season-are-changes-coming-to-kalani-sitakes-program).
 
 ## Requirements
 - Python 3.8
