@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attackers seize an Israel-linked tanker off Yemen**
+**Emily Hand: Irish-Israeli girl among latest Gaza hostages freed**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/26/israeli-oil-tanker-seized-yemen-00128605).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67533506).
 
 ## Requirements
 - Python 3.8
