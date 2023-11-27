@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best early Cyber Monday laptop deals 2023 from Apple, Best Buy, Dell, and more**
+**Sierra Leone under curfew after inmates freed from Freetown's Pademba Road Prison**
 
-You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-laptop-deals-2023).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67536147).
 
 ## Requirements
 - Python 3.8
