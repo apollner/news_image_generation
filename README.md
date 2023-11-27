@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best early Cyber Monday laptop deals 2023 from Apple, Best Buy, Dell, and more**
+**College football grades: Kirk Ferentz, Dave Clawson are out of touch**
 
-You can read more about it [here](https://mashable.com/article/nov-26-early-cyber-monday-laptop-deals-2023).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2023/11/26/college-football-grades-week-13-kirk-ferentz-dave-clawson/71694038007/).
 
 ## Requirements
 - Python 3.8
