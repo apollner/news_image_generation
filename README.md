@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Hunger Games’ Prequel and ‘Napoleon’ Rule Thanksgiving as ‘Wish’ Sings Out of Tune**
+**John Travolta Recalls Near-Death Experience Flying a Plane**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-napoleon-box-office-wish-1235678839/).
+You can read more about it [here](https://www.today.com/popculture/movies/john-travolta-near-death-experience-flying-plane-rcna126668).
 
 ## Requirements
 - Python 3.8
