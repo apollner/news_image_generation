@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emily Hand: Irish-Israeli girl among latest Gaza hostages freed**
+**Michigan winter storm: 6-8 inches of snow expected for parts of state**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67533506).
+You can read more about it [here](https://www.clickondetroit.com/weather/2023/11/26/michigan-winter-storm-6-8-inches-of-snow-expected-for-parts-of-state/).
 
 ## Requirements
 - Python 3.8
