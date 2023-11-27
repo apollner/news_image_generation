@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Travolta recalls 1992 near-death flight: ‘I thought it was over’**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/11/26/entertainment/john-travolta-near-death-flight/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
