@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sierra Leone under curfew after inmates freed from Freetown's Pademba Road Prison**
+**Leaving Texas: Why people are exiting the Lone Star state**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67536147).
+You can read more about it [here](https://www.businessinsider.com/leaving-texas-political-freedom-property-taxes-housing-costs-2023-11).
 
 ## Requirements
 - Python 3.8
