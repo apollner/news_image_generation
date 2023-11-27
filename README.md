@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ESPN’s ‘GameDay’ makes rivalry picks, talks Iron Bowl between Alabama-Auburn**
+**Box Office: ‘Hunger Games’ Prequel and ‘Napoleon’ Rule Thanksgiving as ‘Wish’ Sings Out of Tune**
 
-You can read more about it [here](https://www.al.com/alabamafootball/2023/11/gameday-makes-rivalry-picks-talks-iron-bowl-between-alabama-auburn.html).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-napoleon-box-office-wish-1235678839/).
 
 ## Requirements
 - Python 3.8
