@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attackers release Israel-linked tanker seized off Yemen in third such assault in Israel-Hamas war**
+**China, Japan and South Korea hold rare meeting**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/israeli-linked-oil-tanker-seized-off-coast-aden-105160009).
+You can read more about it [here](https://www.youtube.com/watch?v=9pSZ7D5I7ik).
 
 ## Requirements
 - Python 3.8
