@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia puts spokesperson for Facebook owner Meta on wanted list**
+**Linda Evangelista Hasn't Dated Since Before CoolSculpting Incident**
 
-You can read more about it [here](https://www.axios.com/2023/11/26/russia-meta-spokesperson-wanted-list).
+You can read more about it [here](https://www.eonline.com/news/1390399/linda-evangelista-says-she-hasnt-dated-since-before-coolsculpting-incident).
 
 ## Requirements
 - Python 3.8
