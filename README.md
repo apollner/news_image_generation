@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID variant BA.2.86 triples in new CDC estimates, now 8.8% of cases**
+**China's respiratory illness surge not as high as pre-pandemic - WHO official**
 
-You can read more about it [here](https://www.cbsnews.com/news/covid-variant-ba-2-86-triples-in-new-cdc-estimates/).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-respiratory-illness-surge-not-high-pre-pandemic-who-official-2023-11-27/).
 
 ## Requirements
 - Python 3.8
