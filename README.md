@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 12 grades: Patriots get 'D-' for embarrassing loss to Giants, Eagles earn 'A' for wild win over Bills**
+**Cyber Monday unlocked phone deals: Apple, Google, Samsung, more**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-grades-patriots-get-d-for-embarrassing-loss-to-giants-jaguars-earn-a-for-topping-texans/).
+You can read more about it [here](https://mashable.com/article/cyber-monday-unlocked-phone-deals-2023).
 
 ## Requirements
 - Python 3.8
