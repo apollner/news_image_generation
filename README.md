@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police departments warn parents about Apple's new iPhone iOS 17 feature**
+**Missiles fired from Yemen toward US warship that responded to attack on commercial tanker**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/apple-ios-17-warning-airdrop-namedrop/).
+You can read more about it [here](https://www.cnn.com/2023/11/27/politics/us-destroyer-missiles-distress-call-tanker-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
