@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carolina Panthers fire head coach Frank Reich**
+**Uttarakhand tunnel collapse: Rescuers explore new ways to reach trapped Indians**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38991151/carolina-panthers-fire-head-coach-frank-reich).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-67540250).
 
 ## Requirements
 - Python 3.8
