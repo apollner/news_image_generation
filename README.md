@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Jalen Hurts led another clutch Eagles victory, one teammate compared him to Tom Brady**
+**COVID variant BA.2.86 triples in new CDC estimates, now 8.8% of cases**
 
-You can read more about it [here](https://sports.yahoo.com/after-jalen-hurts-led-another-clutch-eagles-victory-one-teammate-compared-him-to-tom-brady-071730684.html).
+You can read more about it [here](https://www.cbsnews.com/news/covid-variant-ba-2-86-triples-in-new-cdc-estimates/).
 
 ## Requirements
 - Python 3.8
