@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panthers fire Frank Reich in his first season with team off to NFL-worst 1-10 record**
+**Police departments warn parents about Apple's new iPhone iOS 17 feature**
 
-You can read more about it [here](https://abcnews.go.com/Sports/wireStory/panthers-fire-frank-reich-season-team-off-nfl-105180880).
+You can read more about it [here](https://www.cbsnews.com/boston/news/apple-ios-17-warning-airdrop-namedrop/).
 
 ## Requirements
 - Python 3.8
