@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozzy Osbourne opens up about health struggles, saying he will ‘die a happy man’ if he can perform one last show**
+**Week 12 Care/Don't Care: Zay Flowers, Ravens hand Chargers bouquet of Ls**
 
-You can read more about it [here](https://www.cnn.com/2023/11/27/entertainment/ozzy-osbourne-health-struggles-intl-scli/index.html).
+You can read more about it [here](https://sports.yahoo.com/week-12-caredont-care-zay-flowers-ravens-hand-chargers-bouquet-of-ls-052654897.html).
 
 ## Requirements
 - Python 3.8
