@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greek PM slams Sunak as row over Elgin Marbles escalates**
+**Elon Musk, on Visit to Israel, Says Those Intent on Murder Must Be 'Neutralized'**
 
-You can read more about it [here](https://www.politico.eu/article/greek-pm-slams-sunak-as-row-over-elgin-marbles-escalates/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/elon-musk-visits-israel-amid-criticism-over-antisemitic-content-on-x-436e7d40).
 
 ## Requirements
 - Python 3.8
