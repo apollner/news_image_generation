@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missiles fired from Yemen toward US warship that responded to attack on commercial tanker**
+**After Jalen Hurts led another clutch Eagles victory, one teammate compared him to Tom Brady**
 
-You can read more about it [here](https://www.cnn.com/2023/11/27/politics/us-destroyer-missiles-distress-call-tanker-intl-hnk/index.html).
+You can read more about it [here](https://sports.yahoo.com/after-jalen-hurts-led-another-clutch-eagles-victory-one-teammate-compared-him-to-tom-brady-071730684.html).
 
 ## Requirements
 - Python 3.8
