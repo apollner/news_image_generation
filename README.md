@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing Goodhue County man’s body found**
+**Holiday shopping scams: How to avoid fake goods, phony deals online**
 
-You can read more about it [here](https://www.kttc.com/2023/11/26/missing-goodhue-county-mans-body-found/).
+You can read more about it [here](https://www.usatoday.com/story/money/retail/2023/11/26/holiday-shopping-online-scams-tips/71712096007/).
 
 ## Requirements
 - Python 3.8
