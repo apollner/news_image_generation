@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**'Mr. Big Stuff' Singer Jean Knight Dead at 80**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.tmz.com/2023/11/26/mr-big-stuff-singer-jean-knight-dead-dies/).
 
 ## Requirements
 - Python 3.8
