@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 12 Care/Don't Care: Zay Flowers, Ravens hand Chargers bouquet of Ls**
+**Serial Killer's Wife Goes on Trial for Decades-Old Murders**
 
-You can read more about it [here](https://sports.yahoo.com/week-12-caredont-care-zay-flowers-ravens-hand-chargers-bouquet-of-ls-052654897.html).
+You can read more about it [here](https://www.newser.com/story/343087/wife-of-frances-ogre-goes-on-trial-for-decades-old-murders.html).
 
 ## Requirements
 - Python 3.8
