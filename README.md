@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China, Japan and South Korea hold rare meeting**
+**Volcanoes or Asteroid? AI Ends Debate Over Dinosaur Extinction Event**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9pSZ7D5I7ik).
+You can read more about it [here](https://scitechdaily.com/volcanoes-or-asteroid-ai-ends-debate-over-dinosaur-extinction-event/).
 
 ## Requirements
 - Python 3.8
