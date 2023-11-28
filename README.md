@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uttarakhand tunnel collapse: Rescuers explore new ways to reach trapped Indians**
+**3 Palestinian college students shot in Vermont are hospitalized in the ICU as suspect pleads not guilty**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-67540250).
+You can read more about it [here](https://www.cnn.com/2023/11/26/us/palestinian-students-shot-vermont-investigation-monday/index.html).
 
 ## Requirements
 - Python 3.8
