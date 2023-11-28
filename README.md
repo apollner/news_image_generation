@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect arrested in shooting of 3 Palestinian college students in Vermont, police say**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/11/26/us/palestinian-students-shot-vermont-investigation-monday/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
