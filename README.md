@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyber Monday 2023 Live Blog: Over 170 Early Deals to Shop Right Now**
+**Pittsburgh Steelers vs. Cincinnati Bengals | 2023 Week 12 Game Highlights**
 
-You can read more about it [here](https://www.cnet.com/deals/cyber-monday-2023-live-ongoing/).
+You can read more about it [here](https://www.youtube.com/watch?v=-QRO-zpZP9o).
 
 ## Requirements
 - Python 3.8
