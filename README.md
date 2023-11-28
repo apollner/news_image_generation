@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyber Monday unlocked phone deals: Apple, Google, Samsung, more**
+**Police warning parents about new iPhone feature**
 
-You can read more about it [here](https://mashable.com/article/cyber-monday-unlocked-phone-deals-2023).
+You can read more about it [here](https://thehill.com/homenews/nexstar_media_wire/4328257-police-warning-parents-about-new-iphone-feature/).
 
 ## Requirements
 - Python 3.8
