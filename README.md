@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Volcanoes or Asteroid? AI Ends Debate Over Dinosaur Extinction Event**
+**Suspect arrested in shooting of 3 Palestinian college students in Vermont, police say**
 
-You can read more about it [here](https://scitechdaily.com/volcanoes-or-asteroid-ai-ends-debate-over-dinosaur-extinction-event/).
+You can read more about it [here](https://www.cnn.com/2023/11/26/us/palestinian-students-shot-vermont-investigation-monday/index.html).
 
 ## Requirements
 - Python 3.8
