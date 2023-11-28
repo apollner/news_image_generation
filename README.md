@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pittsburgh Steelers vs. Cincinnati Bengals | 2023 Week 12 Game Highlights**
+**3 Palestinian students were shot in Vermont. Civil rights groups are calling for a close look at the motive**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-QRO-zpZP9o).
+You can read more about it [here](https://www.cnn.com/2023/11/26/us/palestinian-students-shot-burlington-vermont/index.html).
 
 ## Requirements
 - Python 3.8
