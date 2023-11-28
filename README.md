@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Serial Killer's Wife Goes on Trial for Decades-Old Murders**
+**Ozzy Osbourne opens up about health struggles, saying he will ‘die a happy man’ if he can perform one last show**
 
-You can read more about it [here](https://www.newser.com/story/343087/wife-of-frances-ogre-goes-on-trial-for-decades-old-murders.html).
+You can read more about it [here](https://www.cnn.com/2023/11/27/entertainment/ozzy-osbourne-health-struggles-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
