@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift’s ‘Eras Tour’ Concert Film To Stream In December With Three Additional Songs**
+**Carolina Panthers fire head coach Frank Reich**
 
-You can read more about it [here](https://deadline.com/2023/11/taylor-swift-eras-tour-film-streaming-1235638073/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38991151/carolina-panthers-fire-head-coach-frank-reich).
 
 ## Requirements
 - Python 3.8
