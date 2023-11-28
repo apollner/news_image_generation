@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Mr. Big Stuff' Singer Jean Knight Dead at 80**
+**Week 12 Care/Don't Care: Zay Flowers, Ravens hand Chargers bouquet of Ls**
 
-You can read more about it [here](https://www.tmz.com/2023/11/26/mr-big-stuff-singer-jean-knight-dead-dies/).
+You can read more about it [here](https://sports.yahoo.com/week-12-caredont-care-zay-flowers-ravens-hand-chargers-bouquet-of-ls-052654897.html).
 
 ## Requirements
 - Python 3.8
