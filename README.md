@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Honda, Jeep, and Volvo among 337000 vehicles recalled: Check car recalls here**
+**Taylor Swift’s ‘Eras Tour’ Concert Film To Stream In December With Three Additional Songs**
 
-You can read more about it [here](https://www.usatoday.com/story/money/cars/recalls/2023/11/27/honda-jeep-volvo-check-car-recalls/71702383007/).
+You can read more about it [here](https://deadline.com/2023/11/taylor-swift-eras-tour-film-streaming-1235638073/).
 
 ## Requirements
 - Python 3.8
