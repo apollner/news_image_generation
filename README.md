@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Late Show" canceled as Stephen Colbert recovers from surgery**
+**Greek PM slams Sunak as row over Elgin Marbles escalates**
 
-You can read more about it [here](https://www.cbsnews.com/news/stephen-colbert-ruptured-appendix-late-show-canceled-as-he-recovers/?ftag=YHF4eb9d17).
+You can read more about it [here](https://www.politico.eu/article/greek-pm-slams-sunak-as-row-over-elgin-marbles-escalates/).
 
 ## Requirements
 - Python 3.8
