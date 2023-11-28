@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Linda Evangelista Hasn't Dated Since Before CoolSculpting Incident**
+**Jalen Hurts, Eagles tie record with 4th straight comeback win - ESPN**
 
-You can read more about it [here](https://www.eonline.com/news/1390399/linda-evangelista-says-she-hasnt-dated-since-before-coolsculpting-incident).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38989195/jalen-hurts-eagles-tie-record-4th-straight-comeback-win).
 
 ## Requirements
 - Python 3.8
