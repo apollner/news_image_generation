@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL Week 12 grades: Patriots get 'D-' for embarrassing loss to Giants, Jaguars earn 'A-' for topping Texans**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-grades-patriots-get-d-for-embarrassing-loss-to-giants-jaguars-earn-a-for-topping-texans/).
 
 ## Requirements
 - Python 3.8
