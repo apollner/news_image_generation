@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death during childbirth: I knew the risks of having a baby at 45. I wasn't ready.**
+**[Removed]**
 
-You can read more about it [here](https://slate.com/technology/2023/11/childbirth-death-united-states-advanced-maternal-age.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
