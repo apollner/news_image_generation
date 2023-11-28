@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nebraska woman kills huge buck on hunting trip, then gets marriage proposal**
+**Honda, Jeep, and Volvo among 337000 vehicles recalled: Check car recalls here**
 
-You can read more about it [here](https://www.cbsnews.com/news/nebraska-woman-kills-huge-buck-hunting-trip-then-gets-marriage-proposal/).
+You can read more about it [here](https://www.usatoday.com/story/money/cars/recalls/2023/11/27/honda-jeep-volvo-check-car-recalls/71702383007/).
 
 ## Requirements
 - Python 3.8
