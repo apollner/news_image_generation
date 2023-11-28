@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police warning parents about new iPhone feature**
+**Ozzy Osbourne opens up about health struggles, saying he will ‘die a happy man’ if he can perform one last show**
 
-You can read more about it [here](https://thehill.com/homenews/nexstar_media_wire/4328257-police-warning-parents-about-new-iphone-feature/).
+You can read more about it [here](https://www.cnn.com/2023/11/27/entertainment/ozzy-osbourne-health-struggles-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
