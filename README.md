@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's respiratory illness surge not as high as pre-pandemic - WHO official**
+**Uttarakhand tunnel collapse: Rescuers explore new ways to reach trapped Indians**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-respiratory-illness-surge-not-high-pre-pandemic-who-official-2023-11-27/).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-67540250).
 
 ## Requirements
 - Python 3.8
