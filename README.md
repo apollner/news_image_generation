@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk, on Visit to Israel, Says Those Intent on Murder Must Be 'Neutralized'**
+**"Late Show" canceled as Stephen Colbert recovers from surgery**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/elon-musk-visits-israel-amid-criticism-over-antisemitic-content-on-x-436e7d40).
+You can read more about it [here](https://www.cbsnews.com/news/stephen-colbert-ruptured-appendix-late-show-canceled-as-he-recovers/?ftag=YHF4eb9d17).
 
 ## Requirements
 - Python 3.8
