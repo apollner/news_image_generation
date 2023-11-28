@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holiday shopping scams: How to avoid fake goods, phony deals online**
+**Russia puts spokesperson for Facebook owner Meta on wanted list**
 
-You can read more about it [here](https://www.usatoday.com/story/money/retail/2023/11/26/holiday-shopping-online-scams-tips/71712096007/).
+You can read more about it [here](https://www.axios.com/2023/11/26/russia-meta-spokesperson-wanted-list).
 
 ## Requirements
 - Python 3.8
