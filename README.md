@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lightning and rain kill 24 in western India**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-67543528).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
