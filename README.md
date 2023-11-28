@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate nears vote on Biden's Ukraine request**
+**Missing Goodhue County man’s body found**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/26/senate-vote-biden-ukraine-00128631).
+You can read more about it [here](https://www.kttc.com/2023/11/26/missing-goodhue-county-mans-body-found/).
 
 ## Requirements
 - Python 3.8
