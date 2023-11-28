@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Hurts, Eagles tie record with 4th straight comeback win - ESPN**
+**Attackers release Israel-linked tanker seized off Yemen in third such assault in Israel-Hamas war**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38989195/jalen-hurts-eagles-tie-record-4th-straight-comeback-win).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/israeli-linked-oil-tanker-seized-off-coast-aden-105160009).
 
 ## Requirements
 - Python 3.8
