@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fast-Fashion Giant Shein Files to Go Public**
+**Police Chase 12-Year-Old Boy Who Stole Forklift: Cops**
 
-You can read more about it [here](https://www.wsj.com/business/fast-fashion-giant-shein-files-to-go-public-30a97410).
+You can read more about it [here](https://www.youtube.com/watch?v=k3r5CI0loR8).
 
 ## Requirements
 - Python 3.8
