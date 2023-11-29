@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Law enforcement agencies issue warnings after latest Apple iOS release**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/law-enforcement-agencies-issue-warnings-latest-apple-ios-release).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
