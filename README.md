@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maryland roommates claim police detained them at gunpoint for no reason and shot their pet dog: "No remorse"**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/roommates-lawsuit-prince-georges-county-death-pet-dog-shot-by-police/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
