@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Monday Night Football’ Week 12 expert picks: Bears at Vikings**
+**Police Departments and News Sites Spreading Misinformation About How iOS 17 NameDrop Feature Works**
 
-You can read more about it [here](https://www.prideofdetroit.com/2023/11/27/23972762/monday-night-football-week-12-expert-picks-bears-at-vikings).
+You can read more about it [here](https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/).
 
 ## Requirements
 - Python 3.8
