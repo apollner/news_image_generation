@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launch another batch of Starlink satellites from Florida on Nov. 27**
+**North Korea, US envoys engage in rare, public sparring match at UN**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-30).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-us-envoys-engage-rare-public-sparring-match-un-2023-11-27/).
 
 ## Requirements
 - Python 3.8
