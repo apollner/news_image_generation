@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea, US envoys engage in rare, public sparring match at UN**
+**Starlink can operate in Gaza if Israel controls satellites, official says**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-us-envoys-engage-rare-public-sparring-match-un-2023-11-27/).
+You can read more about it [here](https://www.businessinsider.com/starlink-can-operate-in-gaza-if-israel-controls-satellites-official-2023-11).
 
 ## Requirements
 - Python 3.8
