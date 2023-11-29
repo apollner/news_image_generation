@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Family says antibiotic saved their dog's life amid mystery respiratory illness**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.goodmorningamerica.com/living/story/family-credits-antibiotic-saving-dogs-life-amid-mystery-105194703).
 
 ## Requirements
 - Python 3.8
