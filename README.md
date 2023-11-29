@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says wife of spymaster Budanov was poisoned**
+**David Tepper stands by Panthers' decision to pick Bryce Young**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-spy-chiefs-wife-poisoned-media-reports-say-2023-11-28/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38999250/david-tepper-stands-panthers-decision-pick-bryce-young).
 
 ## Requirements
 - Python 3.8
