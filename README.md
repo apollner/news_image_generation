@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know for Nov. 28: Israel, Rosalynn Carter, Climate, Tunnel collapse, Google**
+**Newly discovered stem cell offers clues to a cancer mystery**
 
-You can read more about it [here](https://www.cnn.com/2023/11/28/us/5-things-to-know-for-nov-28-israel-rosalynn-carter-climate-tunnel-collapse-google/index.html).
+You can read more about it [here](https://www.washingtonpost.com/science/2023/11/28/new-stem-cell-spine-cancer/).
 
 ## Requirements
 - Python 3.8
