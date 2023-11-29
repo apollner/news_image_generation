@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family says antibiotic saved their dog's life amid mystery respiratory illness**
+**Novo Nordisk Stock Skids After Eli Lilly Wins In Head-To-Head Study Pitting Weight-Loss Drugs**
 
-You can read more about it [here](https://www.goodmorningamerica.com/living/story/family-credits-antibiotic-saving-dogs-life-amid-mystery-105194703).
+You can read more about it [here](https://www.investors.com/news/technology/novo-nordisk-stock-skids-after-eli-lilly-wins-in-head-to-head-study-pitting-weight-loss-drugs/).
 
 ## Requirements
 - Python 3.8
