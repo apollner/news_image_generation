@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Robert De Niro’s Gotham Awards Speech Debacle (EXCLUSIVE)**
+**Groundbreaking transatlantic flight using greener fuel takes off**
 
-You can read more about it [here](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/).
+You can read more about it [here](https://www.bbc.com/news/business-67548961).
 
 ## Requirements
 - Python 3.8
