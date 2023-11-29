@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The University of Oklahoma and Oklahoma State University collaboration finds semaglutide treatment is associated with remarkable reductions in Alcohol Use Disorder symptoms**
+**North Korea, US envoys engage in rare, public sparring match at UN**
 
-You can read more about it [here](https://www.eurekalert.org/news-releases/1009292).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-us-envoys-engage-rare-public-sparring-match-un-2023-11-27/).
 
 ## Requirements
 - Python 3.8
