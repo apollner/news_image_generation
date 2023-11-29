@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Voice' contestant Tom Nitti leaves Season 24 for 'personal reasons,' will not return**
+**Josh Dobbs comes back down to earth in loss to Bears, and now Vikings have questions at QB**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2023/11/28/tom-nitti-leaves-the-voice-season-24/71726153007/).
+You can read more about it [here](https://theathletic.com/5095369/2023/11/28/josh-dobbs-vikings-bears-qb/).
 
 ## Requirements
 - Python 3.8
