@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Has the Least Expensive 77" 4K OLED Smart TV for Cyber Monday**
+**Fast-Fashion Giant Shein Files to Go Public**
 
-You can read more about it [here](https://www.ign.com/articles/best-cyber-monday-tv-deal-2023-lg-b3-4k-oled-smart-tv).
+You can read more about it [here](https://www.wsj.com/business/fast-fashion-giant-shein-files-to-go-public-30a97410).
 
 ## Requirements
 - Python 3.8
