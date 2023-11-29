@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google will start deleting inactive accounts this week**
+**Raw: Nov. 27, 2023**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/google-start-deleting-inactive-accounts-this-week).
+You can read more about it [here](http://www.wwe.com/shows/raw/2023-11-27).
 
 ## Requirements
 - Python 3.8
