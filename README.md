@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Nordisk Stock Skids After Eli Lilly Wins In Head-To-Head Study Pitting Weight-Loss Drugs**
+**Inside Robert De Niro’s Gotham Awards Speech Debacle (EXCLUSIVE)**
 
-You can read more about it [here](https://www.investors.com/news/technology/novo-nordisk-stock-skids-after-eli-lilly-wins-in-head-to-head-study-pitting-weight-loss-drugs/).
+You can read more about it [here](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/).
 
 ## Requirements
 - Python 3.8
