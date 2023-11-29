@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 NFL MVP odds: Jalen Hurts’ clutch Week 12 play helps widen lead; NFC East primed for award?**
+**David Tepper stands by Panthers' decision to pick Bryce Young**
 
-You can read more about it [here](https://theathletic.com/5096095/2023/11/28/2023-nfl-mvp-odds-jalen-hurts/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/38999250/david-tepper-stands-panthers-decision-pick-bryce-young).
 
 ## Requirements
 - Python 3.8
