@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starlink can operate in Gaza if Israel controls satellites, official says**
+**'It impacts us personally': Portland parents react to shortened winter break due to teacher strike**
 
-You can read more about it [here](https://www.businessinsider.com/starlink-can-operate-in-gaza-if-israel-controls-satellites-official-2023-11).
+You can read more about it [here](https://www.kgw.com/article/news/education/pps-teacher-strike-students-winter-break-change-portland/283-3f549786-efea-4d38-b3fe-fe15745fa57c).
 
 ## Requirements
 - Python 3.8
