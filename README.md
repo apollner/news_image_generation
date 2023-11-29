@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Distraught Over Being Asked to Vacate Frogmore Cottage Earlier This Year, Prince Harry Asked His Father King Charles a Heartbreaking Question**
+**Panthers move on from Duce Staley, Josh McCown**
 
-You can read more about it [here](https://www.marieclaire.com/celebrity/royals/prince-harry-heartbreaking-question-frogmore-eviction/).
+You can read more about it [here](https://www.panthers.com/news/panthers-move-on-from-duce-staley-josh-mccown).
 
 ## Requirements
 - Python 3.8
