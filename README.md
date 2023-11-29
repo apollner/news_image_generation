@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raw: Nov. 27, 2023**
+**‘Monday Night Football’ Week 12 expert picks: Bears at Vikings**
 
-You can read more about it [here](http://www.wwe.com/shows/raw/2023-11-27).
+You can read more about it [here](https://www.prideofdetroit.com/2023/11/27/23972762/monday-night-football-week-12-expert-picks-bears-at-vikings).
 
 ## Requirements
 - Python 3.8
