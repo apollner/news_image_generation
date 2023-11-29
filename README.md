@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police Chase 12-Year-Old Boy Who Stole Forklift: Cops**
+**Monday Night Football: Bears vs. Vikings score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.youtube.com/watch?v=k3r5CI0loR8).
+You can read more about it [here](https://sports.yahoo.com/monday-night-football-bears-vs-vikings-score-highlights-news-inactives-and-live-updates-234020488.html).
 
 ## Requirements
 - Python 3.8
