@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Tepper stands by Panthers' decision to pick Bryce Young**
+**US to Back Million-Dollar Mortgages in San Diego, Breckenridge**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38999250/david-tepper-stands-panthers-decision-pick-bryce-young).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-28/us-to-back-million-dollar-mortgages-in-san-diego-breckenridge).
 
 ## Requirements
 - Python 3.8
