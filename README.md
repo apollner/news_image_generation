@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panthers move on from Duce Staley, Josh McCown**
+**Maryland roommates claim police detained them at gunpoint for no reason and shot their pet dog: "No remorse"**
 
-You can read more about it [here](https://www.panthers.com/news/panthers-move-on-from-duce-staley-josh-mccown).
+You can read more about it [here](https://www.cbsnews.com/news/roommates-lawsuit-prince-georges-county-death-pet-dog-shot-by-police/).
 
 ## Requirements
 - Python 3.8
