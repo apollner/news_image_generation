@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Dobbs comes back down to earth in loss to Bears, and now Vikings have questions at QB**
+**Law enforcement agencies issue warnings after latest Apple iOS release**
 
-You can read more about it [here](https://theathletic.com/5095369/2023/11/28/josh-dobbs-vikings-bears-qb/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/law-enforcement-agencies-issue-warnings-latest-apple-ios-release).
 
 ## Requirements
 - Python 3.8
