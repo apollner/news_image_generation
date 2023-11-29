@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Monday Night Football: Bears vs. Vikings score, highlights, news, inactives and live updates**
+**Amazon Has the Least Expensive 77" 4K OLED Smart TV for Cyber Monday**
 
-You can read more about it [here](https://sports.yahoo.com/monday-night-football-bears-vs-vikings-score-highlights-news-inactives-and-live-updates-234020488.html).
+You can read more about it [here](https://www.ign.com/articles/best-cyber-monday-tv-deal-2023-lg-b3-4k-oled-smart-tv).
 
 ## Requirements
 - Python 3.8
