@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bid to hold Trump accountable for Jan. 6 violence stalls at appeals court**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/27/trump-immunity-appeal-00128786).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
