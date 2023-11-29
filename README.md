@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**TikTok owner ByteDance is retreating from gaming and laying off hundreds**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/11/28/tech/bytedance-layoffs-video-gaming-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
