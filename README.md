@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Fast-Fashion Giant Shein Files to Go Public**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/business/fast-fashion-giant-shein-files-to-go-public-30a97410).
 
 ## Requirements
 - Python 3.8
