@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fast-Fashion Giant Shein Files to Go Public**
+**The University of Oklahoma and Oklahoma State University collaboration finds semaglutide treatment is associated with remarkable reductions in Alcohol Use Disorder symptoms**
 
-You can read more about it [here](https://www.wsj.com/business/fast-fashion-giant-shein-files-to-go-public-30a97410).
+You can read more about it [here](https://www.eurekalert.org/news-releases/1009292).
 
 ## Requirements
 - Python 3.8
