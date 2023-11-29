@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Andrew being offered Frogmore Cottage was brutal 'final blow' for evicted Harry and Meghan**
+**Google will start deleting inactive accounts this week**
 
-You can read more about it [here](https://nypost.com/2023/11/27/entertainment/prince-andrew-frogmore-offer-final-blow-for-harry-meghan/).
+You can read more about it [here](https://www.foxbusiness.com/technology/google-start-deleting-inactive-accounts-this-week).
 
 ## Requirements
 - Python 3.8
