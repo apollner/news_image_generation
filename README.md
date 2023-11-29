@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Omid Scobie's 'Endgame': Every Royal Scandal and Feud Revealed in New Book**
+**2023 NFL MVP odds: Jalen Hurts’ clutch Week 12 play helps widen lead; NFC East primed for award?**
 
-You can read more about it [here](https://www.thedailybeast.com/omid-scobies-endgame-explained-every-royal-scandal-and-feud-in-new-book).
+You can read more about it [here](https://theathletic.com/5096095/2023/11/28/2023-nfl-mvp-odds-jalen-hurts/).
 
 ## Requirements
 - Python 3.8
