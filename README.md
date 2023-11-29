@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It impacts us personally': Portland parents react to shortened winter break due to teacher strike**
+**Prince Andrew being offered Frogmore Cottage was brutal 'final blow' for evicted Harry and Meghan**
 
-You can read more about it [here](https://www.kgw.com/article/news/education/pps-teacher-strike-students-winter-break-change-portland/283-3f549786-efea-4d38-b3fe-fe15745fa57c).
+You can read more about it [here](https://nypost.com/2023/11/27/entertainment/prince-andrew-frogmore-offer-final-blow-for-harry-meghan/).
 
 ## Requirements
 - Python 3.8
