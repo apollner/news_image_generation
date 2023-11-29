@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Tepper stands by Panthers' decision to pick Bryce Young**
+**"Geological hazards" lurking below Yellowstone National Park, data show**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/38999250/david-tepper-stands-panthers-decision-pick-bryce-young).
+You can read more about it [here](https://www.cbsnews.com/news/geological-hazards-lurking-below-yellowstone-national-park-data-show/).
 
 ## Requirements
 - Python 3.8
