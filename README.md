@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jill Biden unveils decorations for her third White House Christmas**
+**"Late Show" canceled as Stephen Colbert recovers from surgery**
 
-You can read more about it [here](https://www.washingtonpost.com/style/of-interest/2023/11/27/white-house-christmas-decorations-2023/).
+You can read more about it [here](https://www.cbsnews.com/news/stephen-colbert-ruptured-appendix-late-show-canceled-as-he-recovers/?ftag=YHF4eb9d17).
 
 ## Requirements
 - Python 3.8
