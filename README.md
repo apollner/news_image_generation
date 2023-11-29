@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Late Show" canceled as Stephen Colbert recovers from surgery**
+**Bid to hold Trump accountable for Jan. 6 violence stalls at appeals court**
 
-You can read more about it [here](https://www.cbsnews.com/news/stephen-colbert-ruptured-appendix-late-show-canceled-as-he-recovers/?ftag=YHF4eb9d17).
+You can read more about it [here](https://www.politico.com/news/2023/11/27/trump-immunity-appeal-00128786).
 
 ## Requirements
 - Python 3.8
