@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police Departments and News Sites Spreading Misinformation About How iOS 17 NameDrop Feature Works**
+**Distraught Over Being Asked to Vacate Frogmore Cottage Earlier This Year, Prince Harry Asked His Father King Charles a Heartbreaking Question**
 
-You can read more about it [here](https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/).
+You can read more about it [here](https://www.marieclaire.com/celebrity/royals/prince-harry-heartbreaking-question-frogmore-eviction/).
 
 ## Requirements
 - Python 3.8
