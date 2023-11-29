@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newly discovered stem cell offers clues to a cancer mystery**
+**'The Voice' contestant Tom Nitti leaves Season 24 for 'personal reasons,' will not return**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2023/11/28/new-stem-cell-spine-cancer/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2023/11/28/tom-nitti-leaves-the-voice-season-24/71726153007/).
 
 ## Requirements
 - Python 3.8
