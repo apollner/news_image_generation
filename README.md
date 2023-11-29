@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**2023 NFL MVP odds: Jalen Hurts’ clutch Week 12 play helps widen lead; NFC East primed for award?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://theathletic.com/5096095/2023/11/28/2023-nfl-mvp-odds-jalen-hurts/).
 
 ## Requirements
 - Python 3.8
