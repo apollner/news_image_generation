@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Geological hazards" lurking below Yellowstone National Park, data show**
+**Ukraine says wife of spymaster Budanov was poisoned**
 
-You can read more about it [here](https://www.cbsnews.com/news/geological-hazards-lurking-below-yellowstone-national-park-data-show/).
+You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-spy-chiefs-wife-poisoned-media-reports-say-2023-11-28/).
 
 ## Requirements
 - Python 3.8
