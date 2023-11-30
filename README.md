@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 seriously hurt after fire torches city block in South Los Angeles**
+**Why Senate Dems are prepared to swallow a border policy compromise**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cbJIJCl91yE).
+You can read more about it [here](https://www.politico.com/news/2023/11/28/senate-dems-asylum-ukraine-money-00128970).
 
 ## Requirements
 - Python 3.8
