@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google beefs up Drive's document scanning feature and brings it to iPhone**
+**Israel, Hamas due to release more people amid efforts to extend truce**
 
-You can read more about it [here](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-hamas-due-release-more-people-amid-efforts-extend-truce-2023-11-28/).
 
 ## Requirements
 - Python 3.8
