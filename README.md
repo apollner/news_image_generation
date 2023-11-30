@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Virgin Atlantic just crossed the ocean using sustainable aviation fuel — here's what that actually means**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thepointsguy.com/news/virgin-atlantic-sustainable-aviation-fuel/).
 
 ## Requirements
 - Python 3.8
