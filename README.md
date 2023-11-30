@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Apple and Goldman Sachs are breaking up over money-losing Apple Card**
+**Jonathan Majors Domestic Violence Trial Ends First Day With No Jury Seated, No Ruling On Sealed Evidence – Update**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2023/11/report-apple-and-goldman-sachs-are-breaking-up-over-money-losing-apple-card/).
+You can read more about it [here](https://deadline.com/2023/11/jonathan-majors-trial-domestic-violence-1235642075/).
 
 ## Requirements
 - Python 3.8
