@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Matthew Perry’s Stepfather Keith Morrison Breaks Silence on Actor’s Death**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/matthew-perry-stepfather-keith-morrison-breaks-silence-death-1235684082/).
 
 ## Requirements
 - Python 3.8
