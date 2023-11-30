@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sands casino family says they'll buy majority of Mavs from Cuban. AP source says valuation is $3.5B**
+**Elijah McClain: Trial of paramedics charged in death begins**
 
-You can read more about it [here](https://apnews.com/article/dallas-mavericks-mark-cuban-adelson-family-sale-28b58fc35f5c4159b5a4b61c749186b3).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67550179).
 
 ## Requirements
 - Python 3.8
