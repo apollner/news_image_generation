@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 seriously hurt after fire torches city block in South Los Angeles**
+**NFL Power Rankings Week 13: Jalen Hurts’ MVP moment keeps Eagles on top**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cbJIJCl91yE).
+You can read more about it [here](https://www.arrowheadpride.com/2023/11/28/23977829/nfl-power-rankings-week-13-jalen-hurts-mvp-moment-eagles-on-top).
 
 ## Requirements
 - Python 3.8
