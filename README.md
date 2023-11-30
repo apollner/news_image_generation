@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COP28 host UAE lashes out at ‘fake news’ on eve of the major UN climate summit**
+**Dying orca's final moments after 'desperate' effort to stay afloat captured in 1st of its kind footage**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/29/uae-rejects-claims-cop28-boss-agreed-to-step-down-as-adnoc-ceo.html).
+You can read more about it [here](https://www.livescience.com/animals/orcas/dying-orcas-final-moments-after-desperate-effort-to-stay-afloat-captured-in-1st-of-its-kind-footage).
 
 ## Requirements
 - Python 3.8
