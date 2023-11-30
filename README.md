@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Drive users say Google lost their files; Google is investigating**
+**PBOC Is Set to Fund Property Lending Via Use of Its Policy Banks**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-drive-is-investigating-sync-issues-as-users-complain-of-lost-files/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-28/chinese-style-quantitative-easing-eyed-for-property-fix).
 
 ## Requirements
 - Python 3.8
