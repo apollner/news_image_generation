@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is China muddling its response to cold and flu spike?**
+**Online dispute rises over police warnings after iOS 17.1 software update**
 
-You can read more about it [here](https://www.dw.com/en/is-china-muddling-its-response-to-cold-and-flu-spike/a-67576386).
+You can read more about it [here](https://ksltv.com/604505/online-dispute-rises-over-police-warnings-after-ios-17-1-software-update/).
 
 ## Requirements
 - Python 3.8
