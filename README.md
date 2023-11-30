@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Senate Dems are prepared to swallow a border policy compromise**
+**Is China muddling its response to cold and flu spike?**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/28/senate-dems-asylum-ukraine-money-00128970).
+You can read more about it [here](https://www.dw.com/en/is-china-muddling-its-response-to-cold-and-flu-spike/a-67576386).
 
 ## Requirements
 - Python 3.8
