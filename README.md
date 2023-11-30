@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PBOC Is Set to Fund Property Lending Via Use of Its Policy Banks**
+**Akron police internal investigation finds officers were justified in shooting of Jayland Walker**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-28/chinese-style-quantitative-easing-eyed-for-property-fix).
+You can read more about it [here](https://www.ideastream.org/law-justice/2023-11-28/akron-police-find-no-wrongdoing-in-death-of-jayland-walker).
 
 ## Requirements
 - Python 3.8
