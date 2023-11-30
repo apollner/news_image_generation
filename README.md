@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Warren Buffett wouldn't have become the greatest investor ever without Charlie Munger**
+**COVID-19 variant BA.2.86 cases triple in two weeks, CDC estimates**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/29/why-warren-buffett-wouldnt-have-become-the-greatest-investor-ever-without-charlie-munger.html).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/11/29/covid-variant-ba-2-86-triples/71730552007/).
 
 ## Requirements
 - Python 3.8
