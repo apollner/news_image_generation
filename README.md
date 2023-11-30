@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel, Hamas due to release more people amid efforts to extend truce**
+**Beyoncé's mum hits out at 'racist' skin lightening comments**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-hamas-due-release-more-people-amid-efforts-extend-truce-2023-11-28/).
+You can read more about it [here](https://www.bbc.com/news/newsbeat-67564625).
 
 ## Requirements
 - Python 3.8
