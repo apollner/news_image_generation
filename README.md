@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cigna, Humana in Talks for Blockbuster Merger - WSJ**
+**Why Warren Buffett wouldn't have become the greatest investor ever without Charlie Munger**
 
-You can read more about it [here](https://www.wsj.com/business/deals/cigna-humana-in-talks-for-blockbuster-merger-c5c7f1b0).
+You can read more about it [here](https://www.cnbc.com/2023/11/29/why-warren-buffett-wouldnt-have-become-the-greatest-investor-ever-without-charlie-munger.html).
 
 ## Requirements
 - Python 3.8
