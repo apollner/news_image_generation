@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Chat update puts a navigation bar on top of a navigation bar.**
+**George Santos expulsion vote: Who are the other House members expelled from Congress?**
 
-You can read more about it [here](https://www.theverge.com/2023/11/29/23981298/google-chat-update-puts-a-navigation-bar-on-top-of-a-navigation-bar).
+You can read more about it [here](https://www.cbsnews.com/news/who-are-the-other-house-members-expelled-from-congress/).
 
 ## Requirements
 - Python 3.8
