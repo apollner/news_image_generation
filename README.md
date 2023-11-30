@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern lights may be visible in New England during potential "severe geomagnetic storm"**
+**OPEC+ Mulls New Oil Production Cuts Amid Middle East Conflict - WSJ**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/northern-lights-geomagnetic-storm-aurora-borealis-new-england/).
+You can read more about it [here](https://www.wsj.com/business/energy-oil/opec-mulls-new-oil-production-cuts-amid-middle-east-conflict-f37cef80).
 
 ## Requirements
 - Python 3.8
