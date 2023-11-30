@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COP28 host UAE lashes out at ‘fake news’ on eve of the major UN climate summit**
+**Hamas claims infant hostage, 4-year-old brother known as 'The Reds' killed along with mom in IDF shelling as Israel investigates**
 
-You can read more about it [here](https://www.cnbc.com/2023/11/29/uae-rejects-claims-cop28-boss-agreed-to-step-down-as-adnoc-ceo.html).
+You can read more about it [here](https://nypost.com/2023/11/29/news/hamas-claims-kfir-bibas-mother-and-brother-killed-in-captivity/).
 
 ## Requirements
 - Python 3.8
