@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings Week 13: Jalen Hurts’ MVP moment keeps Eagles on top**
+**Mysterious dog illness arrives in Maine, vet says**
 
-You can read more about it [here](https://www.arrowheadpride.com/2023/11/28/23977829/nfl-power-rankings-week-13-jalen-hurts-mvp-moment-eagles-on-top).
+You can read more about it [here](https://www.wabi.tv/2023/11/28/mysterious-dog-illness-arrives-maine-vet-says/).
 
 ## Requirements
 - Python 3.8
