@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk visits Israel and Benjamin Netanyahu: Antisemitism has never stopped Bibi from covering for allies.**
+**ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation**
 
-You can read more about it [here](https://slate.com/news-and-politics/2023/11/israel-elon-musk-antisemitism-netanyahu-trump-orban.html).
+You can read more about it [here](https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/).
 
 ## Requirements
 - Python 3.8
