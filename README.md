@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 variant BA.2.86 cases triple in two weeks, CDC estimates**
+**Amazon joins AI image creation fray with new model**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/11/29/covid-variant-ba-2-86-triples/71730552007/).
+You can read more about it [here](https://www.theverge.com/2023/11/29/23980697/amazon-ai-image-model-watermark-copyright).
 
 ## Requirements
 - Python 3.8
