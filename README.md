@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indicted Republican lawmaker George Santos faces new US House move to oust him**
+**Mysterious dog illness arrives in Maine, vet says**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-lawmaker-moves-force-vote-expel-embattled-republican-george-santos-2023-11-28/).
+You can read more about it [here](https://www.wabi.tv/2023/11/28/mysterious-dog-illness-arrives-maine-vet-says/).
 
 ## Requirements
 - Python 3.8
