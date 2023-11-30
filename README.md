@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Akron police officers didn’t violate policy in fatal shooting of Jayland Walker, internal probe determines**
+**Why Senate Dems are prepared to swallow a border policy compromise**
 
-You can read more about it [here](https://www.cnn.com/2023/11/28/us/jayland-walker-shooting-akron-police/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/28/senate-dems-asylum-ukraine-money-00128970).
 
 ## Requirements
 - Python 3.8
