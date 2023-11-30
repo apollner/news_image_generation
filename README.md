@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Majors Domestic Violence Trial Ends First Day With No Jury Seated, No Ruling On Sealed Evidence – Update**
+**Sands casino family says they'll buy majority of Mavs from Cuban. AP source says valuation is $3.5B**
 
-You can read more about it [here](https://deadline.com/2023/11/jonathan-majors-trial-domestic-violence-1235642075/).
+You can read more about it [here](https://apnews.com/article/dallas-mavericks-mark-cuban-adelson-family-sale-28b58fc35f5c4159b5a4b61c749186b3).
 
 ## Requirements
 - Python 3.8
