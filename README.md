@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyoncé's mum hits out at 'racist' skin lightening comments**
+**COP28 host UAE lashes out at ‘fake news’ on eve of the major UN climate summit**
 
-You can read more about it [here](https://www.bbc.com/news/newsbeat-67564625).
+You can read more about it [here](https://www.cnbc.com/2023/11/29/uae-rejects-claims-cop28-boss-agreed-to-step-down-as-adnoc-ceo.html).
 
 ## Requirements
 - Python 3.8
