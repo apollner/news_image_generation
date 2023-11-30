@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Online dispute rises over police warnings after iOS 17.1 software update**
+**[Removed]**
 
-You can read more about it [here](https://ksltv.com/604505/online-dispute-rises-over-police-warnings-after-ios-17-1-software-update/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
