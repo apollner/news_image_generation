@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More hostages freed on fifth day of Israel-Hamas truce: Live updates**
+**2 seriously hurt after fire torches city block in South Los Angeles**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-28-23/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=cbJIJCl91yE).
 
 ## Requirements
 - Python 3.8
