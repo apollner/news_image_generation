@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Senate Dems are prepared to swallow a border policy compromise**
+**More hostages freed on fifth day of Israel-Hamas truce: Live updates**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/28/senate-dems-asylum-ukraine-money-00128970).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-28-23/index.html).
 
 ## Requirements
 - Python 3.8
