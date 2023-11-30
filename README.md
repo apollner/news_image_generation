@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elijah McClain: Trial of paramedics charged in death begins**
+**Northern lights may be visible in New England during potential "severe geomagnetic storm"**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67550179).
+You can read more about it [here](https://www.cbsnews.com/boston/news/northern-lights-geomagnetic-storm-aurora-borealis-new-england/).
 
 ## Requirements
 - Python 3.8
