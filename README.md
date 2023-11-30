@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas claims infant hostage, 4-year-old brother known as 'The Reds' killed along with mom in IDF shelling as Israel investigates**
+**Cigna, Humana in Talks for Blockbuster Merger - WSJ**
 
-You can read more about it [here](https://nypost.com/2023/11/29/news/hamas-claims-kfir-bibas-mother-and-brother-killed-in-captivity/).
+You can read more about it [here](https://www.wsj.com/business/deals/cigna-humana-in-talks-for-blockbuster-merger-c5c7f1b0).
 
 ## Requirements
 - Python 3.8
