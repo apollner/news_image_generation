@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Google Chat update puts a navigation bar on top of a navigation bar.**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.theverge.com/2023/11/29/23981298/google-chat-update-puts-a-navigation-bar-on-top-of-a-navigation-bar).
 
 ## Requirements
 - Python 3.8
