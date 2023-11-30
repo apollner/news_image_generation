@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious dog illness arrives in Maine, vet says**
+**‘Dancing With The Stars’ Semi-Finals Shocker: You Won’t Believe Who Was Saved**
 
-You can read more about it [here](https://www.wabi.tv/2023/11/28/mysterious-dog-illness-arrives-maine-vet-says/).
+You can read more about it [here](https://deadline.com/2023/11/dancing-with-the-stars-semi-finals-who-went-home-1235642059/).
 
 ## Requirements
 - Python 3.8
