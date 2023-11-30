@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Akron police internal investigation finds officers were justified in shooting of Jayland Walker**
+**Mysterious dog illness arrives in Maine, vet says**
 
-You can read more about it [here](https://www.ideastream.org/law-justice/2023-11-28/akron-police-find-no-wrongdoing-in-death-of-jayland-walker).
+You can read more about it [here](https://www.wabi.tv/2023/11/28/mysterious-dog-illness-arrives-maine-vet-says/).
 
 ## Requirements
 - Python 3.8
