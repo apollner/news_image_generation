@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious dog illness arrives in Maine, vet says**
+**Google beefs up Drive's document scanning feature and brings it to iPhone**
 
-You can read more about it [here](https://www.wabi.tv/2023/11/28/mysterious-dog-illness-arrives-maine-vet-says/).
+You can read more about it [here](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android).
 
 ## Requirements
 - Python 3.8
