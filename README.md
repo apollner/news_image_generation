@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation**
+**2 seriously hurt after fire torches city block in South Los Angeles**
 
-You can read more about it [here](https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/).
+You can read more about it [here](https://www.youtube.com/watch?v=cbJIJCl91yE).
 
 ## Requirements
 - Python 3.8
