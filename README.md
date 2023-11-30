@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virgin Atlantic just crossed the ocean using sustainable aviation fuel — here's what that actually means**
+**'Rat miners' to the rescue: How trapped India tunnel workers were saved**
 
-You can read more about it [here](https://thepointsguy.com/news/virgin-atlantic-sustainable-aviation-fuel/).
+You can read more about it [here](https://www.reuters.com/world/india/rat-miners-rescue-how-trapped-india-tunnel-workers-were-saved-2023-11-28/).
 
 ## Requirements
 - Python 3.8
