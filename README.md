@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos expulsion vote: Who are the other House members expelled from Congress?**
+**Report: Apple and Goldman Sachs are breaking up over money-losing Apple Card**
 
-You can read more about it [here](https://www.cbsnews.com/news/who-are-the-other-house-members-expelled-from-congress/).
+You can read more about it [here](https://arstechnica.com/information-technology/2023/11/report-apple-and-goldman-sachs-are-breaking-up-over-money-losing-apple-card/).
 
 ## Requirements
 - Python 3.8
