@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry’s Stepfather Keith Morrison Breaks Silence on Actor’s Death**
+**Akron police officers didn’t violate policy in fatal shooting of Jayland Walker, internal probe determines**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/matthew-perry-stepfather-keith-morrison-breaks-silence-death-1235684082/).
+You can read more about it [here](https://www.cnn.com/2023/11/28/us/jayland-walker-shooting-akron-police/index.html).
 
 ## Requirements
 - Python 3.8
