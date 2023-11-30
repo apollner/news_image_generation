@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US to Back Million-Dollar Mortgages in San Diego, Breckenridge**
+**Google Drive users say Google lost their files; Google is investigating**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-11-28/us-to-back-million-dollar-mortgages-in-san-diego-breckenridge).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/11/google-drive-is-investigating-sync-issues-as-users-complain-of-lost-files/).
 
 ## Requirements
 - Python 3.8
