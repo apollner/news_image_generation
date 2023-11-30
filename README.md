@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon joins AI image creation fray with new model**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2023/11/29/23980697/amazon-ai-image-model-watermark-copyright).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
