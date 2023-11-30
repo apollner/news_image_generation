@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Indicted Republican lawmaker George Santos faces new US House move to oust him**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/us/us-lawmaker-moves-force-vote-expel-embattled-republican-george-santos-2023-11-28/).
 
 ## Requirements
 - Python 3.8
