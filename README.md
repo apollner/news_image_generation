@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Golden Bachelor' Ex Claims He Was a Gold-Plated Jerk**
+**Horoscope for Thursday, Nov, 30, 2023**
 
-You can read more about it [here](https://www.thedailybeast.com/golden-bachelor-gerry-turners-ex-claims-he-was-a-gold-plated-jerk).
+You can read more about it [here](https://chicago.suntimes.com/2023/11/30/23981710/horoscopes-today-thursday-nov-30-2023).
 
 ## Requirements
 - Python 3.8
