@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas truce extended to a seventh day: Live updates**
+**'It's going to kill the company': Elon Musk launches F-bomb-filled tirade against giants like Disney for stripping ads from X over his endorsement of an antisemitic post**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-30-23/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/going-kill-company-elon-musk-173500641.html).
 
 ## Requirements
 - Python 3.8
