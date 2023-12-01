@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Henry Kissinger, American diplomat and Nobel winner, dead at 100**
+**Hamas releases 16 hostages in swap for Palestinian prisoners**
 
-You can read more about it [here](https://www.reuters.com/world/us/henry-kissinger-american-diplomat-nobel-winner-dead-100-2023-11-30/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-29-2023-57e73a26c647ecd97e77afe19c08e077).
 
 ## Requirements
 - Python 3.8
