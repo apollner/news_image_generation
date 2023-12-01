@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google agrees to pay publishers in Canada and drops plans for blocking news**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2023/11/29/23981515/google-canadian-government-online-news-act-link-tax-agreement).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
