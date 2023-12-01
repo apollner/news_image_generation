@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thursday Night Football: How to watch the Seattle Seahawks vs. Dallas Cowboys game**
+**Ford shares new guidance after UAW strike costs it $1.7B**
 
-You can read more about it [here](https://sports.yahoo.com/thursday-night-football-how-to-watch-the-seattle-seahawks-vs-dallas-cowboys-game-114552949.html).
+You can read more about it [here](https://www.detroitnews.com/story/business/autos/ford/2023/11/30/ford-new-guidance-uaw-strike-cost-john-lawler-barclays/71751329007/).
 
 ## Requirements
 - Python 3.8
