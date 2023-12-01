@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska's chief veterinarian issues alert on mysterious illness killing dogs in Lower 48**
+**Tiny living robots made from human cells surprise scientists**
 
-You can read more about it [here](https://www.adn.com/alaska-life/pets/2023/11/30/alaskas-chief-veterinarian-issues-alert-on-mysterious-illness-killing-dogs-in-lower-48/).
+You can read more about it [here](https://www.cnn.com/2023/11/30/world/living-robots-from-human-cells-scn/index.html).
 
 ## Requirements
 - Python 3.8
