@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Kris Jenner Was Shocked By Kourtney Kardashian's Pregnancy Reveal**
+**Israel-Hamas truce extended to a seventh day: Live updates**
 
-You can read more about it [here](https://www.eonline.com/news/1390627/why-kris-jenner-wasnt-very-happy-about-kourtney-kardashians-public-pregnancy-reveal).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-30-23/index.html).
 
 ## Requirements
 - Python 3.8
