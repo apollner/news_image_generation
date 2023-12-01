@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says advertiser boycott at X could "kill the company"**
+**College Football Playoff, bowl projections: Paths for eight contenders still in hunt for four-team field**
 
-You can read more about it [here](https://www.cbsnews.com/news/elon-musk-x-advertiser-boycott-could-kill-the-company/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-bowl-projections-paths-for-eight-contenders-still-in-hunt-for-four-team-field/).
 
 ## Requirements
 - Python 3.8
