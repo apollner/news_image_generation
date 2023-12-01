@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indicted Republican George Santos to face US House expulsion vote Friday**
+**49ers finally have schedule advantage entering Sunday's Eagles clash**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-house-vote-expulsion-indicted-republican-george-santos-thursday-2023-11-29/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/rest-schedule-advantage-eagles/1676393/).
 
 ## Requirements
 - Python 3.8
