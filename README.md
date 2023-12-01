@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OPEC+ Mulls New Oil Production Cuts Amid Middle East Conflict - WSJ**
+**Indicted Republican George Santos to face US House expulsion vote Friday**
 
-You can read more about it [here](https://www.wsj.com/business/energy-oil/opec-mulls-new-oil-production-cuts-amid-middle-east-conflict-f37cef80).
+You can read more about it [here](https://www.reuters.com/world/us/us-house-vote-expulsion-indicted-republican-george-santos-thursday-2023-11-29/).
 
 ## Requirements
 - Python 3.8
