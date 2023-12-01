@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Kerry's 'gamble': Trusting an oil baron to run the COP28 climate summit - POLITICO**
+**Kim Mulkey scolds reporter for questioning Angel Reese's 4-game absence | SC with SVP**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/30/john-kerry-sultan-al-jaber-cop28-00123610).
+You can read more about it [here](https://www.youtube.com/watch?v=qo1bT0JqZ6E).
 
 ## Requirements
 - Python 3.8
