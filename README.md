@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford shares new guidance after UAW strike costs it $1.7B**
+**Russian court bans 'LGBT movement'**
 
-You can read more about it [here](https://www.detroitnews.com/story/business/autos/ford/2023/11/30/ford-new-guidance-uaw-strike-cost-john-lawler-barclays/71751329007/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67565509).
 
 ## Requirements
 - Python 3.8
