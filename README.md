@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate GOP stages hearing walkout to protest Supreme Court-related subpoenas**
+**The Six Pack: Georgia vs. Alabama, Oregon vs. Washington among top Week 14 college football picks**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4335581-senate-gop-stages-hearing-walkout-to-protest-supreme-court-related-subpoenas/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/the-six-pack-georgia-vs-alabama-oregon-vs-washington-among-top-week-14-college-football-picks/).
 
 ## Requirements
 - Python 3.8
