@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiny living robots made from human cells surprise scientists**
+**US leaders react to death of Henry Kissinger**
 
-You can read more about it [here](https://www.cnn.com/2023/11/30/world/living-robots-from-human-cells-scn/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/30/henry-kissinger-death-reaction-00129275).
 
 ## Requirements
 - Python 3.8
