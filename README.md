@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Six Pack: Georgia vs. Alabama, Oregon vs. Washington among top Week 14 college football picks**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/the-six-pack-georgia-vs-alabama-oregon-vs-washington-among-top-week-14-college-football-picks/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
