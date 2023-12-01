@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken urges Israel to protect civilians amid tough Gaza truce talks**
+**X/Twitter CEO in Damage-Control Mode After Musk Tells Fleeing Advertisers to ‘Go F— Yourself’**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/11/30/blinken-pledges-support-for-israel-as-gaza-truce-extend-for-third-time).
+You can read more about it [here](https://variety.com/2023/digital/news/x-twitter-ceo-damage-control-musk-advertisers-go-f-yourself-1235814608/).
 
 ## Requirements
 - Python 3.8
