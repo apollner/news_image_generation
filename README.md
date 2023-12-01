@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronomers discover a rhythmic family of six exoplanets**
+**Elon Musk says advertiser boycott at X could "kill the company"**
 
-You can read more about it [here](https://www.cnn.com/2023/11/29/world/six-exoplanets-resonance-scn/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/elon-musk-x-advertiser-boycott-could-kill-the-company/).
 
 ## Requirements
 - Python 3.8
