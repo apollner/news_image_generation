@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alibaba's Value Dips Below Upstart PDD's in Landmark for China**
+**John Kerry's 'gamble': Trusting an oil baron to run the COP28 climate summit - POLITICO**
 
-You can read more about it [here](https://finance.yahoo.com/news/alibaba-value-dips-below-upstart-022107371.html).
+You can read more about it [here](https://www.politico.com/news/2023/11/30/john-kerry-sultan-al-jaber-cop28-00123610).
 
 ## Requirements
 - Python 3.8
