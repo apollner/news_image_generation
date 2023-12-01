@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian court bans 'LGBT movement'**
+**Piers Morgan Sparks Furor Around Omid Scobie Book By Naming Royals Accused Of Commenting On Skin Color Of Harry & Meghan’s Son**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67565509).
+You can read more about it [here](https://deadline.com/2023/11/piers-morgan-omid-scobie-names-royals-endgame-harry-meghan-1235643953/).
 
 ## Requirements
 - Python 3.8
