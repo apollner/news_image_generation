@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World AIDS Day 2023 – events in Geneva and around the world**
+**U.S. military Osprey aircraft crashes off Japan's coast with 8 on board; at least 1 dead, official says**
 
-You can read more about it [here](https://www.who.int/news-room/events/detail/2023/12/01/default-calendar/world-aids-day-2023-events-in-geneva-and-around-the-world).
+You can read more about it [here](https://www.cbsnews.com/news/osprey-crash-japan-us-military-aircraft-down-ocean-yakushima/).
 
 ## Requirements
 - Python 3.8
