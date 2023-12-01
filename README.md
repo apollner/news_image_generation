@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk hits out at X advertisers at New York Times DealBook summit**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=hlSUy5MS2b0).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
