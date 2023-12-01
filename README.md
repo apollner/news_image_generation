@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Blinken urges Israel to protect civilians amid tough Gaza truce talks**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.aljazeera.com/news/2023/11/30/blinken-pledges-support-for-israel-as-gaza-truce-extend-for-third-time).
 
 ## Requirements
 - Python 3.8
