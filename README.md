@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers finally have schedule advantage entering Sunday's Eagles clash**
+**IDF: Two Israeli women hostages released by Hamas**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/rest-schedule-advantage-eagles/1676393/).
+You can read more about it [here](https://www.youtube.com/watch?v=JvPwpQHWKlk).
 
 ## Requirements
 - Python 3.8
