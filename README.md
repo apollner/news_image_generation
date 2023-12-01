@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Piers Morgan Sparks Furor Around Omid Scobie Book By Naming Royals Accused Of Commenting On Skin Color Of Harry & Meghan’s Son**
+**Why Kris Jenner Was Shocked By Kourtney Kardashian's Pregnancy Reveal**
 
-You can read more about it [here](https://deadline.com/2023/11/piers-morgan-omid-scobie-names-royals-endgame-harry-meghan-1235643953/).
+You can read more about it [here](https://www.eonline.com/news/1390627/why-kris-jenner-wasnt-very-happy-about-kourtney-kardashians-public-pregnancy-reveal).
 
 ## Requirements
 - Python 3.8
