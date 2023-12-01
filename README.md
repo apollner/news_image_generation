@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X/Twitter CEO in Damage-Control Mode After Musk Tells Fleeing Advertisers to ‘Go F— Yourself’**
+**Alaska's chief veterinarian issues alert on mysterious illness killing dogs in Lower 48**
 
-You can read more about it [here](https://variety.com/2023/digital/news/x-twitter-ceo-damage-control-musk-advertisers-go-f-yourself-1235814608/).
+You can read more about it [here](https://www.adn.com/alaska-life/pets/2023/11/30/alaskas-chief-veterinarian-issues-alert-on-mysterious-illness-killing-dogs-in-lower-48/).
 
 ## Requirements
 - Python 3.8
