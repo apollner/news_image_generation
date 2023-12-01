@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Thursday Night Football: How to watch the Seattle Seahawks vs. Dallas Cowboys game**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/thursday-night-football-how-to-watch-the-seattle-seahawks-vs-dallas-cowboys-game-114552949.html).
 
 ## Requirements
 - Python 3.8
