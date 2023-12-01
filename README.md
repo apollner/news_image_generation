@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff, bowl projections: Paths for eight contenders still in hunt for four-team field**
+**Henry Kissinger, American diplomat and Nobel winner, dead at 100**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-bowl-projections-paths-for-eight-contenders-still-in-hunt-for-four-team-field/).
+You can read more about it [here](https://www.reuters.com/world/us/henry-kissinger-american-diplomat-nobel-winner-dead-100-2023-11-30/).
 
 ## Requirements
 - Python 3.8
