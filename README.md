@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**World AIDS Day 2023 – events in Geneva and around the world**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.who.int/news-room/events/detail/2023/12/01/default-calendar/world-aids-day-2023-events-in-geneva-and-around-the-world).
 
 ## Requirements
 - Python 3.8
