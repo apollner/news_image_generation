@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US military Osprey crash: Aircraft with 6 aboard crashes off southern Japan**
+**Elon Musk hits out at X advertisers at New York Times DealBook summit**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/11/29/us-military-osprey-crash-off-southern-japan/71738009007/).
+You can read more about it [here](https://www.youtube.com/watch?v=hlSUy5MS2b0).
 
 ## Requirements
 - Python 3.8
