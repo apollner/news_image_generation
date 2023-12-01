@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Palestinians open fire at Jerusalem bus stop, killing three -police**
+**Some emergency rooms resume service after ransomware attack**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/shooting-attack-jerusalem-wounds-least-6-ambulance-service-2023-11-30/).
+You can read more about it [here](https://www.nbcnews.com/tech/security/emergency-rooms-resume-service-ransomware-attack-rcna127161).
 
 ## Requirements
 - Python 3.8
