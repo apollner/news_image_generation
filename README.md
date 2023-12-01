@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian court bans 'LGBT movement'**
+**Billionaires amass more through inheritance than wealth creation, says UBS**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67565509).
+You can read more about it [here](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4).
 
 ## Requirements
 - Python 3.8
