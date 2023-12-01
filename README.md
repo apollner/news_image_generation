@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, Nov, 30, 2023**
+**Powerful geomagnetic storm now pegged as ‘likely’, get ready for northern lights**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/11/30/23981710/horoscopes-today-thursday-nov-30-2023).
+You can read more about it [here](https://www.mlive.com/weather/2023/11/powerful-geomagnetic-storm-now-pegged-as-likely-get-ready-for-northern-lights.html).
 
 ## Requirements
 - Python 3.8
