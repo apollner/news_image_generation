@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas releases 16 hostages in swap for Palestinian prisoners**
+**Google agrees to pay publishers in Canada and drops plans for blocking news**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-11-29-2023-57e73a26c647ecd97e77afe19c08e077).
+You can read more about it [here](https://www.theverge.com/2023/11/29/23981515/google-canadian-government-online-news-act-link-tax-agreement).
 
 ## Requirements
 - Python 3.8
