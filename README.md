@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF: Two Israeli women hostages released by Hamas**
+**Astronomers discover a rhythmic family of six exoplanets**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JvPwpQHWKlk).
+You can read more about it [here](https://www.cnn.com/2023/11/29/world/six-exoplanets-resonance-scn/index.html).
 
 ## Requirements
 - Python 3.8
