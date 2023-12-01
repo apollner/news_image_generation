@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World AIDS Day 2023 – events in Geneva and around the world**
+**Alibaba's Value Dips Below Upstart PDD's in Landmark for China**
 
-You can read more about it [here](https://www.who.int/news-room/events/detail/2023/12/01/default-calendar/world-aids-day-2023-events-in-geneva-and-around-the-world).
+You can read more about it [here](https://finance.yahoo.com/news/alibaba-value-dips-below-upstart-022107371.html).
 
 ## Requirements
 - Python 3.8
