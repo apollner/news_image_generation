@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some emergency rooms resume service after ransomware attack**
+**'Golden Bachelor' Ex Claims He Was a Gold-Plated Jerk**
 
-You can read more about it [here](https://www.nbcnews.com/tech/security/emergency-rooms-resume-service-ransomware-attack-rcna127161).
+You can read more about it [here](https://www.thedailybeast.com/golden-bachelor-gerry-turners-ex-claims-he-was-a-gold-plated-jerk).
 
 ## Requirements
 - Python 3.8
