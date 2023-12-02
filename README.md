@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's latest China crackdown puts his EV ambitions at risk**
+**Neptune-sized exoplanet is too big for its host star**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/01/biden-china-crackdown-ev-00129475).
+You can read more about it [here](https://arstechnica.com/science/2023/12/neptune-sized-exoplanet-is-too-big-for-its-host-star/).
 
 ## Requirements
 - Python 3.8
