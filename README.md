@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Rep. George Santos expelled from House**
+**Mike Clay's NFL Betting Playbook for Week 13**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/george-santos-expulsion-vote-12-1-23/index.html).
+You can read more about it [here](https://www.espn.com/espn/insider/betting/insider/story/_/id/38943287/sports-betting-nfl-playbook-week-13-2023-win-totals-player-props).
 
 ## Requirements
 - Python 3.8
