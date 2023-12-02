@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See what Taylor Swift and more wore for Beyonce's 'Renaissance' London premiere**
+**The AP Interview: Ukraine's Zelenskyy says the war with Russia is in a new phase as winter looms**
 
-You can read more about it [here](https://www.goodmorningamerica.com/style/story/taylor-swift-blake-lively-stars-wore-beyonces-renaissance-105279084).
+You can read more about it [here](https://news.yahoo.com/ap-interview-ukraines-zelenskyy-says-050313106.html).
 
 ## Requirements
 - Python 3.8
