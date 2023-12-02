@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP lawmakers grill CDC director on China's respiratory virus spike**
+**Kelly Clarkson’s Ex-Husband Ordered To Repay Her $2.6M Over ‘Unlawfully Procured’ Business Deals**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/11/30/cdc-china-respiratory-virus/).
+You can read more about it [here](https://www.billboard.com/business/legal/kelly-clarkson-ex-husband-ordered-repay-2-6-million-1235518785/).
 
 ## Requirements
 - Python 3.8
