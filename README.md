@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aurora borealis might be seen in New Hampshire Thursday, Friday**
+**Disney Reinstates Dividend, Amends Bylaws Amid Push By Nelson Peltz For Board Seat**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-northern-lights-forecast-1130/45997238).
+You can read more about it [here](https://deadline.com/2023/11/disney-reinstates-dividend-amends-bylaws-nelson-peltz-board-seat-1235644175/).
 
 ## Requirements
 - Python 3.8
