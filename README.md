@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The AP Interview: Ukraine's Zelenskyy says the war with Russia is in a new phase as winter looms**
+**Tesla's article-to-Cybertruck delivery ratio currently stands at 219 to 1**
 
-You can read more about it [here](https://news.yahoo.com/ap-interview-ukraines-zelenskyy-says-050313106.html).
+You can read more about it [here](https://www.ft.com/content/550f50b2-237a-4a03-8f5c-e140ca5f8aed).
 
 ## Requirements
 - Python 3.8
