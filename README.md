@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zero-Day Alert: Apple Rolls Out iOS, macOS, and Safari Patches for 2 Actively Exploited Flaws**
+**See what Taylor Swift and more wore for Beyonce's 'Renaissance' London premiere**
 
-You can read more about it [here](https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html).
+You can read more about it [here](https://www.goodmorningamerica.com/style/story/taylor-swift-blake-lively-stars-wore-beyonces-renaissance-105279084).
 
 ## Requirements
 - Python 3.8
