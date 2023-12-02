@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump doesn’t have presidential immunity from lawsuits over January 6, appeals court rules**
+**Live updates: Rep. George Santos expelled from House**
 
-You can read more about it [here](https://www.cnn.com/2023/12/01/politics/trump-presidential-immunity-january-6-lawsuits/index.html).
+You can read more about it [here](https://www.cnn.com/politics/live-news/george-santos-expulsion-vote-12-1-23/index.html).
 
 ## Requirements
 - Python 3.8
