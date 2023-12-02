@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Supports Beyoncé at ‘Renaissance’ Documentary Concert Film Premiere in London**
+**Tiny living robots made from human cells surprise scientists**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/taylor-swift-attends-beyonce-renaissance-film-london-premiere-1234906237/).
+You can read more about it [here](https://www.cnn.com/2023/11/30/world/living-robots-from-human-cells-scn/index.html).
 
 ## Requirements
 - Python 3.8
