@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Publicist Slams Gossiper Deuxmoi Over “Insane” Joe Alwyn Marriage Ceremony Claim**
+**Officials warn Hoosiers of ‘unusual’ dog illness seen across Indiana**
 
-You can read more about it [here](https://deadline.com/2023/12/taylor-swift-deuxmoi-1235647612/).
+You can read more about it [here](https://www.wane.com/top-stories/officials-warn-hoosiers-of-unusual-dog-illness-seen-across-indiana/).
 
 ## Requirements
 - Python 3.8
