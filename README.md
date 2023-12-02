@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 Ultra leak shows titanium build & colors, removal of 10x telephoto**
+**College football championship weekend picks, plus the QB transfer portal shuffle begins**
 
-You can read more about it [here](https://9to5google.com/2023/12/01/galaxy-s24-ultra-titanium-leak/).
+You can read more about it [here](https://theathletic.com/5103357/2023/12/01/college-football-championship-game-predictions-transfer-portal-until-saturday/).
 
 ## Requirements
 - Python 3.8
