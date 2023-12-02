@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla's article-to-Cybertruck delivery ratio currently stands at 219 to 1**
+**Dak Prescott stays hot, keeps Cowboys rolling against Seahawks**
 
-You can read more about it [here](https://www.ft.com/content/550f50b2-237a-4a03-8f5c-e140ca5f8aed).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39018632/dak-prescott-stays-hot-keeps-cowboys-rolling-seahawks).
 
 ## Requirements
 - Python 3.8
