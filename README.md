@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neptune-sized exoplanet is too big for its host star**
+**Taylor Swift Publicist Slams Gossiper Deuxmoi Over “Insane” Joe Alwyn Marriage Ceremony Claim**
 
-You can read more about it [here](https://arstechnica.com/science/2023/12/neptune-sized-exoplanet-is-too-big-for-its-host-star/).
+You can read more about it [here](https://deadline.com/2023/12/taylor-swift-deuxmoi-1235647612/).
 
 ## Requirements
 - Python 3.8
