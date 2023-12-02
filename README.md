@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelly Clarkson’s Ex-Husband Ordered To Repay Her $2.6M Over ‘Unlawfully Procured’ Business Deals**
+**US leaders react to death of Henry Kissinger**
 
-You can read more about it [here](https://www.billboard.com/business/legal/kelly-clarkson-ex-husband-ordered-repay-2-6-million-1235518785/).
+You can read more about it [here](https://www.politico.com/news/2023/11/30/henry-kissinger-death-reaction-00129275).
 
 ## Requirements
 - Python 3.8
