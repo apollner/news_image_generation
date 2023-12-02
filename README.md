@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officials warn Hoosiers of ‘unusual’ dog illness seen across Indiana**
+**Galaxy S24 Ultra leak shows titanium build & colors, removal of 10x telephoto**
 
-You can read more about it [here](https://www.wane.com/top-stories/officials-warn-hoosiers-of-unusual-dog-illness-seen-across-indiana/).
+You can read more about it [here](https://9to5google.com/2023/12/01/galaxy-s24-ultra-titanium-leak/).
 
 ## Requirements
 - Python 3.8
