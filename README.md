@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dak Prescott stays hot, keeps Cowboys rolling against Seahawks**
+**Zero-Day Alert: Apple Rolls Out iOS, macOS, and Safari Patches for 2 Actively Exploited Flaws**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39018632/dak-prescott-stays-hot-keeps-cowboys-rolling-seahawks).
+You can read more about it [here](https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html).
 
 ## Requirements
 - Python 3.8
