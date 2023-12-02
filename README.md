@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump gag order reinstated in New York civil fraud trial**
+**Aurora borealis might be seen in New Hampshire Thursday, Friday**
 
-You can read more about it [here](https://apnews.com/article/trump-fraud-lawsuit-trial-gag-order-15304270ea3f61284a414f938155ae62).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-northern-lights-forecast-1130/45997238).
 
 ## Requirements
 - Python 3.8
