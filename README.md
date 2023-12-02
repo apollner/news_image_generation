@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From affordability to property demand, here are Zillow's 6 biggest predictions for the US housing market in 2024**
+**Prisco's Week 13 NFL picks: 49ers get revenge on Eagles, Saints upset Lions, Texans hold off Broncos**
 
-You can read more about it [here](https://markets.businessinsider.com/news/commodities/housing-market-outlook-zillow-homes-forecasts-prices-mortgage-rates-2024-2023-11).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-13-nfl-picks-49ers-get-revenge-on-eagles-saints-upset-lions-texans-hold-off-broncos/).
 
 ## Requirements
 - Python 3.8
