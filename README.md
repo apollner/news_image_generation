@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza cease-fire collapses as Israel resumes combat operations**
+**What do we know about China's respiratory illness surge?**
 
-You can read more about it [here](https://www.npr.org/2023/12/01/1216333362/israel-hamas-ceasefire-combat-gaza-hostages).
+You can read more about it [here](https://www.reuters.com/world/china/what-do-we-know-about-chinas-respiratory-illness-surge-2023-12-01/).
 
 ## Requirements
 - Python 3.8
