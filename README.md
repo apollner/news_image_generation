@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Reinstates Dividend, Amends Bylaws Amid Push By Nelson Peltz For Board Seat**
+**DeSantis, Newsom clash over COVID-19, border in testy debate: Live updates**
 
-You can read more about it [here](https://deadline.com/2023/11/disney-reinstates-dividend-amends-bylaws-nelson-peltz-board-seat-1235644175/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4335756-newsom-desantis-fox-debate-live-updates/).
 
 ## Requirements
 - Python 3.8
