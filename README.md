@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiny living robots made from human cells surprise scientists**
+**GOP lawmakers grill CDC director on China's respiratory virus spike**
 
-You can read more about it [here](https://www.cnn.com/2023/11/30/world/living-robots-from-human-cells-scn/index.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/11/30/cdc-china-respiratory-virus/).
 
 ## Requirements
 - Python 3.8
