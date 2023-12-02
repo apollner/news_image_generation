@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb's Galactic Surprise: Reveals Rocky Planet Secrets in Cosmic Extremes**
+**Stanley Cup champion Corey Perry ‘deeply sorry’ for his ‘inappropriate’ behavior after Chicago Blackhawks release**
 
-You can read more about it [here](https://scitechdaily.com/webbs-galactic-surprise-reveals-rocky-planet-secrets-in-cosmic-extremes/).
+You can read more about it [here](https://www.cnn.com/2023/12/01/sport/corey-perry-chicago-blackhawks-nhl-statement-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
