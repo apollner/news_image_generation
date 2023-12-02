@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Clay's NFL Betting Playbook for Week 13**
+**Court rules Donald Trump can be sued for allegedly inciting Capitol riot**
 
-You can read more about it [here](https://www.espn.com/espn/insider/betting/insider/story/_/id/38943287/sports-betting-nfl-playbook-week-13-2023-win-totals-player-props).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67596702).
 
 ## Requirements
 - Python 3.8
