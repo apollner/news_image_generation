@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What do we know about China's respiratory illness surge?**
+**Dak Prescott stays hot, keeps Cowboys rolling against Seahawks**
 
-You can read more about it [here](https://www.reuters.com/world/china/what-do-we-know-about-chinas-respiratory-illness-surge-2023-12-01/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39018632/dak-prescott-stays-hot-keeps-cowboys-rolling-seahawks).
 
 ## Requirements
 - Python 3.8
