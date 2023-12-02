@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Knew Hamas’ Attack Plan a Year Before Oct. 7: Report**
+**Israel says more hostages released by Hamas as temporary cease-fire holds for 7th day**
 
-You can read more about it [here](https://www.rollingstone.com/politics/politics-news/israel-hamas-attack-knew-over-year-1234906803/).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-hostages-released-gaza-strip-cease-fire-deal-seventh-day/).
 
 ## Requirements
 - Python 3.8
