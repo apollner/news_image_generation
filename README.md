@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US leaders react to death of Henry Kissinger**
+**Judge blocks Montana’s TikTok ban from taking effect on January 1**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/30/henry-kissinger-death-reaction-00129275).
+You can read more about it [here](https://www.cnn.com/2023/11/30/business/judge-blocks-montana-tiktok-ban/index.html).
 
 ## Requirements
 - Python 3.8
