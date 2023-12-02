@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google researchers report critical zero-days in Chrome and all Apple OSes**
+**Trump gag order reinstated in New York civil fraud trial**
 
-You can read more about it [here](https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/).
+You can read more about it [here](https://apnews.com/article/trump-fraud-lawsuit-trial-gag-order-15304270ea3f61284a414f938155ae62).
 
 ## Requirements
 - Python 3.8
