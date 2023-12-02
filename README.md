@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy says 'new phase of war' has begun, Hungary to back EU 'strategic partnership'**
+**Trump doesn’t have presidential immunity from lawsuits over January 6, appeals court rules**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/01/russia-ukraine-war-updates-for-decpoint1-2023.html).
+You can read more about it [here](https://www.cnn.com/2023/12/01/politics/trump-presidential-immunity-january-6-lawsuits/index.html).
 
 ## Requirements
 - Python 3.8
