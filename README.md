@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys win close track meet over Seahawks on Thursday Night Football**
+**Zelenskyy says 'new phase of war' has begun, Hungary to back EU 'strategic partnership'**
 
-You can read more about it [here](https://sports.yahoo.com/cowboys-win-close-track-meet-over-seahawks-on-thursday-night-football-234027469.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/01/russia-ukraine-war-updates-for-decpoint1-2023.html).
 
 ## Requirements
 - Python 3.8
