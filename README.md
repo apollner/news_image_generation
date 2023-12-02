@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stanley Cup champion Corey Perry ‘deeply sorry’ for his ‘inappropriate’ behavior after Chicago Blackhawks release**
+**Dow Jones Futures Rise; Tesla Falls On Cybertruck Details But These Techs Soar**
 
-You can read more about it [here](https://www.cnn.com/2023/12/01/sport/corey-perry-chicago-blackhawks-nhl-statement-spt-intl/index.html).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-tesla-falls-on-cybertruck-details/).
 
 ## Requirements
 - Python 3.8
