@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 13 NFL picks: 49ers get revenge on Eagles, Saints upset Lions, Texans hold off Broncos**
+**Google researchers report critical zero-days in Chrome and all Apple OSes**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-13-nfl-picks-49ers-get-revenge-on-eagles-saints-upset-lions-texans-hold-off-broncos/).
+You can read more about it [here](https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/).
 
 ## Requirements
 - Python 3.8
