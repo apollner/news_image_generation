@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US leaders react to death of Henry Kissinger**
+**Taylor Swift Supports Beyoncé at ‘Renaissance’ Documentary Concert Film Premiere in London**
 
-You can read more about it [here](https://www.politico.com/news/2023/11/30/henry-kissinger-death-reaction-00129275).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/taylor-swift-attends-beyonce-renaissance-film-london-premiere-1234906237/).
 
 ## Requirements
 - Python 3.8
