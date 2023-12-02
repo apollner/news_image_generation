@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 13 NFL picks: 49ers get revenge on Eagles, Saints upset Lions, Texans hold off Broncos**
+**Israel Knew Hamas’ Attack Plan a Year Before Oct. 7: Report**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-13-nfl-picks-49ers-get-revenge-on-eagles-saints-upset-lions-texans-hold-off-broncos/).
+You can read more about it [here](https://www.rollingstone.com/politics/politics-news/israel-hamas-attack-knew-over-year-1234906803/).
 
 ## Requirements
 - Python 3.8
