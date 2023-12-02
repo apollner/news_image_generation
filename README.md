@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dak Prescott stays hot, keeps Cowboys rolling against Seahawks**
+**Webb's Galactic Surprise: Reveals Rocky Planet Secrets in Cosmic Extremes**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39018632/dak-prescott-stays-hot-keeps-cowboys-rolling-seahawks).
+You can read more about it [here](https://scitechdaily.com/webbs-galactic-surprise-reveals-rocky-planet-secrets-in-cosmic-extremes/).
 
 ## Requirements
 - Python 3.8
