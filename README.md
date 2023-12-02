@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge blocks Montana’s TikTok ban from taking effect on January 1**
+**Prisco's Week 13 NFL picks: 49ers get revenge on Eagles, Saints upset Lions, Texans hold off Broncos**
 
-You can read more about it [here](https://www.cnn.com/2023/11/30/business/judge-blocks-montana-tiktok-ban/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-13-nfl-picks-49ers-get-revenge-on-eagles-saints-upset-lions-texans-hold-off-broncos/).
 
 ## Requirements
 - Python 3.8
