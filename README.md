@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis, Newsom clash over COVID-19, border in testy debate: Live updates**
+**From affordability to property demand, here are Zillow's 6 biggest predictions for the US housing market in 2024**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4335756-newsom-desantis-fox-debate-live-updates/).
+You can read more about it [here](https://markets.businessinsider.com/news/commodities/housing-market-outlook-zillow-homes-forecasts-prices-mortgage-rates-2024-2023-11).
 
 ## Requirements
 - Python 3.8
