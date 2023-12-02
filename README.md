@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Rise; Tesla Falls On Cybertruck Details But These Techs Soar**
+**Cowboys win close track meet over Seahawks on Thursday Night Football**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-tesla-falls-on-cybertruck-details/).
+You can read more about it [here](https://sports.yahoo.com/cowboys-win-close-track-meet-over-seahawks-on-thursday-night-football-234027469.html).
 
 ## Requirements
 - Python 3.8
