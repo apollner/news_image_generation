@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump doesn’t have presidential immunity from lawsuits over January 6, appeals court rules**
+**Biden's latest China crackdown puts his EV ambitions at risk**
 
-You can read more about it [here](https://www.cnn.com/2023/12/01/politics/trump-presidential-immunity-january-6-lawsuits/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/01/biden-china-crackdown-ev-00129475).
 
 ## Requirements
 - Python 3.8
