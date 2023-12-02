@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says more hostages released by Hamas as temporary cease-fire holds for 7th day**
+**Gaza cease-fire collapses as Israel resumes combat operations**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-hostages-released-gaza-strip-cease-fire-deal-seventh-day/).
+You can read more about it [here](https://www.npr.org/2023/12/01/1216333362/israel-hamas-ceasefire-combat-gaza-hostages).
 
 ## Requirements
 - Python 3.8
