@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football championship weekend picks, plus the QB transfer portal shuffle begins**
+**Trump doesn’t have presidential immunity from lawsuits over January 6, appeals court rules**
 
-You can read more about it [here](https://theathletic.com/5103357/2023/12/01/college-football-championship-game-predictions-transfer-portal-until-saturday/).
+You can read more about it [here](https://www.cnn.com/2023/12/01/politics/trump-presidential-immunity-january-6-lawsuits/index.html).
 
 ## Requirements
 - Python 3.8
