@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 dead, 4 injured in Las Vegas shooting of homeless: Police**
+**Bologna's famous leaning tower on 'high alert' over collapse fears**
 
-You can read more about it [here](https://abcnews.go.com/US/2-dead-3-injured-las-vegas-shooting-homeless/story?id=105324593).
+You can read more about it [here](https://www.euronews.com/2023/12/02/bolognas-other-leaning-tower-on-high-alert-over-fears-it-may-collapse).
 
 ## Requirements
 - Python 3.8
