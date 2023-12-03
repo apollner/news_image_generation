@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel airstrikes on Gaza resume after truce with Hamas ends**
+**George Santos expelled from Congress in historic House vote**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-1-2023-c944c736efdf8993c7a17cf683d6e364).
+You can read more about it [here](https://www.cbsnews.com/news/george-santos-expulsion-vote-house-congress-today/).
 
 ## Requirements
 - Python 3.8
