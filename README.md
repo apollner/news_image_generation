@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COP28: Big promises on oil but environmentalists wary**
+**GOP tensions run high after House vote to expel George Santos**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67599925).
+You can read more about it [here](https://www.axios.com/2023/12/02/george-santos-expulsion-vote-ethics-committee).
 
 ## Requirements
 - Python 3.8
