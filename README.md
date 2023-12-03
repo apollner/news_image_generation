@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julianna Margulies Apologizes to Black and LGBTQ Palestine Supporters**
+**Las Vegas police: 5 homeless people shot, 2 killed in shooting near Charleston, US-95**
 
-You can read more about it [here](https://variety.com/2023/tv/news/julianna-margulies-apologizes-black-lgbtq-palestine-1235818255/).
+You can read more about it [here](https://www.fox5vegas.com/2023/12/02/las-vegas-police-4-shot-near-charleston-us-95/).
 
 ## Requirements
 - Python 3.8
