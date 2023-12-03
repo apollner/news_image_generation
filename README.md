@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP tensions run high after House vote to expel George Santos**
+**1 dead, 4 injured in Las Vegas shooting of homeless: Police**
 
-You can read more about it [here](https://www.axios.com/2023/12/02/george-santos-expulsion-vote-ethics-committee).
+You can read more about it [here](https://abcnews.go.com/US/2-dead-3-injured-las-vegas-shooting-homeless/story?id=105324593).
 
 ## Requirements
 - Python 3.8
