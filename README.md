@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: Residents of Khan Younis say Israeli strikes heaviest since start of war**
+**'College GameDay' predictions for Iowa-Michigan in Big Ten championship**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67601891).
+You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/football/2023/12/02/iowa-michigan-college-gameday-predictions-hawkeyes-wolverines-big-ten-championship/71770365007/).
 
 ## Requirements
 - Python 3.8
