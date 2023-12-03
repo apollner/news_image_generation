@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/02/inmate-who-stabbed-derek-chauvin-22-times-is-charged-with-attempted-murder-prosecutors-say-00129746).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
