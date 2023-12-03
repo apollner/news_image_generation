@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. George Santos expelled from House**
+**‘The Golden Bachelor’ Finale Sees Largest Franchise Audience In Nearly 3 Years**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/george-santos-expulsion-vote-12-1-23/index.html).
+You can read more about it [here](https://deadline.com/2023/12/the-golden-bachelor-finale-ratings-abc-1235649179/).
 
 ## Requirements
 - Python 3.8
