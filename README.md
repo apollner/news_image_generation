@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
+**Forget the 'tripledemic.' The U.S. is headed for a 'syndemic' this winter—and experts warn we're not prepared**
 
-You can read more about it [here](https://apnews.com/article/derek-chauvin-stabbing-suspect-d458e9c8fba02a98d5dbabb1884dc1cc).
+You can read more about it [here](https://finance.yahoo.com/news/forget-tripledemic-u-headed-syndemic-214915420.html).
 
 ## Requirements
 - Python 3.8
