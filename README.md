@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Traders boost US rate cut bets despite pushback from Fed's Jay Powell**
+**Paramount Global Shares Pop On Possible Bundling Of Paramount+ With Apple TV+**
 
-You can read more about it [here](https://www.ft.com/content/3060dce5-ad19-47ec-93e9-fa83799b1814).
+You can read more about it [here](https://deadline.com/2023/12/paramount-global-streaming-bundle-paramount-appletv-apple-1235648682/).
 
 ## Requirements
 - Python 3.8
