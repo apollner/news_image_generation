@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court rules Donald Trump can be sued for allegedly inciting Capitol riot**
+**World Court orders Venezuela to refrain from action in border dispute with Guyana**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67596702).
+You can read more about it [here](https://www.reuters.com/world/americas/world-court-orders-venezuela-refrain-action-border-dispute-with-guyana-2023-12-01/).
 
 ## Requirements
 - Python 3.8
