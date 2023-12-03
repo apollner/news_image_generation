@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Golden Bachelor’ Finale Sees Largest Franchise Audience In Nearly 3 Years**
+**Israel airstrikes on Gaza resume after truce with Hamas ends**
 
-You can read more about it [here](https://deadline.com/2023/12/the-golden-bachelor-finale-ratings-abc-1235649179/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-1-2023-c944c736efdf8993c7a17cf683d6e364).
 
 ## Requirements
 - Python 3.8
