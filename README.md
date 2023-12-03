@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount Global Shares Pop On Possible Bundling Of Paramount+ With Apple TV+**
+**Chrome's next weapon in the War on Ad Blockers: Slower extension updates**
 
-You can read more about it [here](https://deadline.com/2023/12/paramount-global-streaming-bundle-paramount-appletv-apple-1235648682/).
+You can read more about it [here](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/).
 
 ## Requirements
 - Python 3.8
