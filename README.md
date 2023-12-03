@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron James' Viral Post About Kevin Durant During Nuggets-Suns Game**
+**LAPD asks for help in investigation into killings of 3 homeless people in last week**
 
-You can read more about it [here](https://www.si.com/fannation/nba/fastbreak/news/lebron-james-viral-post-on-x-about-kevin-durant-during-nuggets-suns-game-frida-nba).
+You can read more about it [here](http://www.nbclosangeles.com/investigations/lapd-homeless-people-murders-killings-downtown-la/3281803/).
 
 ## Requirements
 - Python 3.8
