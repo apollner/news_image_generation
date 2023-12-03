@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One homeless person killed, another 4 wounded in Las Vegas shooting**
+**After this year, I finally understand why people buy prebuilt gaming PCs**
 
-You can read more about it [here](https://www.cbsnews.com/news/homeless-people-killed-las-vegas-shooting/).
+You can read more about it [here](https://www.digitaltrends.com/computing/i-finally-understand-why-people-buy-prebuilts/).
 
 ## Requirements
 - Python 3.8
