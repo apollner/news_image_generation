@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Munich flights, long-distance trains cancelled due to snow**
+**Inmate charged with stabbing George Floyd killer Derek Chauvin 22 times**
 
-You can read more about it [here](https://www.reuters.com/world/europe/munich-flights-long-distance-trains-cancelled-due-snow-2023-12-02/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/2/inmate-charged-with-stabbing-george-floyd-killer-derek-chauvin-22-times).
 
 ## Requirements
 - Python 3.8
