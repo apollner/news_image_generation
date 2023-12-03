@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After this year, I finally understand why people buy prebuilt gaming PCs**
+**College football picks, schedule: Predictions against the spread, odds for top 25 games on Championship Week**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/i-finally-understand-why-people-buy-prebuilts/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-top-25-games-on-championship-week/).
 
 ## Requirements
 - Python 3.8
