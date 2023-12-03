@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple releases urgent iOS update due to security exploits**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-releases-urgent-ios-update-due-security-exploits).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
