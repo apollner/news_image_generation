@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington holds off Oregon to win final Pac-12 championship, all but secure College Football Playoff spot**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/sports/washington-holds-off-oregon-win-final-pac-12-championship-secure-college-football-playoff-spot).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
