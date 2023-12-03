@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LAPD asks for help in investigation into killings of 3 homeless people in last week**
+**Washington holds off Oregon to win final Pac-12 championship, all but secure College Football Playoff spot**
 
-You can read more about it [here](http://www.nbclosangeles.com/investigations/lapd-homeless-people-murders-killings-downtown-la/3281803/).
+You can read more about it [here](https://www.foxnews.com/sports/washington-holds-off-oregon-win-final-pac-12-championship-secure-college-football-playoff-spot).
 
 ## Requirements
 - Python 3.8
