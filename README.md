@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP tensions run high after House vote to expel George Santos**
+**LeBron James' Viral Post About Kevin Durant During Nuggets-Suns Game**
 
-You can read more about it [here](https://www.axios.com/2023/12/02/george-santos-expulsion-vote-ethics-committee).
+You can read more about it [here](https://www.si.com/fannation/nba/fastbreak/news/lebron-james-viral-post-on-x-about-kevin-durant-during-nuggets-suns-game-frida-nba).
 
 ## Requirements
 - Python 3.8
