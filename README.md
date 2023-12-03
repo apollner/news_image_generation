@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP tensions run high after House vote to expel George Santos**
+**FULL SEGMENT – Randy Orton officially signs with SmackDown: SmackDown highlights, Dec. 1, 2023**
 
-You can read more about it [here](https://www.axios.com/2023/12/02/george-santos-expulsion-vote-ethics-committee).
+You can read more about it [here](https://www.youtube.com/watch?v=5DOzqUVZIWU).
 
 ## Requirements
 - Python 3.8
