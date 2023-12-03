@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football picks, schedule: Predictions against the spread, odds for top 25 games on Championship Week**
+**Israel-Gaza war: Residents of Khan Younis say Israeli strikes heaviest since start of war**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-top-25-games-on-championship-week/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67601891).
 
 ## Requirements
 - Python 3.8
