@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
+**One homeless person killed, another 4 wounded in Las Vegas shooting**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/02/inmate-who-stabbed-derek-chauvin-22-times-is-charged-with-attempted-murder-prosecutors-say-00129746).
+You can read more about it [here](https://www.cbsnews.com/news/homeless-people-killed-las-vegas-shooting/).
 
 ## Requirements
 - Python 3.8
