@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LAPD asks for help in investigation into killings of 3 homeless people in last week**
+**Ohio pneumonia outbreak is not ‘white lung’ or linked to China, Europe**
 
-You can read more about it [here](http://www.nbclosangeles.com/investigations/lapd-homeless-people-murders-killings-downtown-la/3281803/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/01/pneumonia-ohio-outbreak-white-lung-mycoplasma-china-europe/).
 
 ## Requirements
 - Python 3.8
