@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LAPD asks for help in investigation into killings of 3 homeless people in last week**
+**Munich flights, long-distance trains cancelled due to snow**
 
-You can read more about it [here](http://www.nbclosangeles.com/investigations/lapd-homeless-people-murders-killings-downtown-la/3281803/).
+You can read more about it [here](https://www.reuters.com/world/europe/munich-flights-long-distance-trains-cancelled-due-snow-2023-12-02/).
 
 ## Requirements
 - Python 3.8
