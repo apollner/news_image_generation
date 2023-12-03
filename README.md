@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inmate charged with stabbing George Floyd killer Derek Chauvin 22 times**
+**COP28: Big promises on oil but environmentalists wary**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/2/inmate-charged-with-stabbing-george-floyd-killer-derek-chauvin-22-times).
+You can read more about it [here](https://www.bbc.com/news/science-environment-67599925).
 
 ## Requirements
 - Python 3.8
