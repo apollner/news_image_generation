@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sandra Day O'Connor: Supreme Court's right turn has eroded her impact**
+**New strikes hit Gaza as Israel-Hamas fighting resumes: live updates**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/02/sandra-day-oconnor-supreme-courts-legacy-grutter-casey/71768837007/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-2-23/index.html).
 
 ## Requirements
 - Python 3.8
