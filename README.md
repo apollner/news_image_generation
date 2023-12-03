@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos expelled from Congress in historic House vote**
+**LAPD asks for help in investigation into killings of 3 homeless people in last week**
 
-You can read more about it [here](https://www.cbsnews.com/news/george-santos-expulsion-vote-house-congress-today/).
+You can read more about it [here](http://www.nbclosangeles.com/investigations/lapd-homeless-people-murders-killings-downtown-la/3281803/).
 
 ## Requirements
 - Python 3.8
