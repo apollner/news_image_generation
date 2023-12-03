@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chrome's next weapon in the War on Ad Blockers: Slower extension updates**
+**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
 
-You can read more about it [here](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/).
+You can read more about it [here](https://apnews.com/article/derek-chauvin-stabbing-suspect-d458e9c8fba02a98d5dbabb1884dc1cc).
 
 ## Requirements
 - Python 3.8
