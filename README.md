@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US blames Hamas for end of truce, as rocket barrages fired at central Israel, south**
+**'Home Alone' actor Macaulay Culkin honored with star on Hollywood Walk of Fame**
 
-You can read more about it [here](https://www.timesofisrael.com/us-blames-hamas-for-end-of-ceasefire-as-rocket-barrages-fired-at-central-israel-south/).
+You can read more about it [here](https://abc7.com/macaulay-culkin-home-alone-hollywood-star-walk-of-fame/14129187/).
 
 ## Requirements
 - Python 3.8
