@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bologna's famous leaning tower on 'high alert' over collapse fears**
+**Inmate who stabbed Derek Chauvin 22 times is charged with attempted murder, prosecutors say**
 
-You can read more about it [here](https://www.euronews.com/2023/12/02/bolognas-other-leaning-tower-on-high-alert-over-fears-it-may-collapse).
+You can read more about it [here](https://www.politico.com/news/2023/12/02/inmate-who-stabbed-derek-chauvin-22-times-is-charged-with-attempted-murder-prosecutors-say-00129746).
 
 ## Requirements
 - Python 3.8
