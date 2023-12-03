@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Susan Sarandon Apologizes for Remarks at Pro-Palestine Rally: My ‘Phrasing Was a Terrible Mistake’**
+**Sandra Day O'Connor: Supreme Court's right turn has eroded her impact**
 
-You can read more about it [here](https://variety.com/2023/film/news/susan-sarandon-apologizes-pro-palestine-rally-terrible-mistake-1235818618/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/02/sandra-day-oconnor-supreme-courts-legacy-grutter-casey/71768837007/).
 
 ## Requirements
 - Python 3.8
