@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New strikes hit Gaza as Israel-Hamas fighting resumes: live updates**
+**Apple releases urgent iOS update due to security exploits**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-2-23/index.html).
+You can read more about it [here](https://www.foxbusiness.com/technology/apple-releases-urgent-ios-update-due-security-exploits).
 
 ## Requirements
 - Python 3.8
