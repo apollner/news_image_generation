@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Amazon strikes deal with SpaceX for satellite launch partnership**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.businessinsider.com/amazon-strikes-deal-with-spacex-for-satellite-launch-partnership-2023-12).
 
 ## Requirements
 - Python 3.8
