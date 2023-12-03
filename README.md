@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LAPD asks for help in investigation into killings of 3 homeless people in last week**
+**GOP tensions run high after House vote to expel George Santos**
 
-You can read more about it [here](http://www.nbclosangeles.com/investigations/lapd-homeless-people-murders-killings-downtown-la/3281803/).
+You can read more about it [here](https://www.axios.com/2023/12/02/george-santos-expulsion-vote-ethics-committee).
 
 ## Requirements
 - Python 3.8
