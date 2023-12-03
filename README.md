@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Forget the 'tripledemic.' The U.S. is headed for a 'syndemic' this winter—and experts warn we're not prepared**
+**Julianna Margulies Apologizes to Black and LGBTQ Palestine Supporters**
 
-You can read more about it [here](https://finance.yahoo.com/news/forget-tripledemic-u-headed-syndemic-214915420.html).
+You can read more about it [here](https://variety.com/2023/tv/news/julianna-margulies-apologizes-black-lgbtq-palestine-1235818255/).
 
 ## Requirements
 - Python 3.8
