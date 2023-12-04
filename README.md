@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis hits Iowa campaign milestone but is still far behind Trump, who again mocked his campaign**
+**George Santos Movie In Works At HBO Films From ‘Veep’ EP Frank Rich**
 
-You can read more about it [here](https://apnews.com/article/2024-presidential-election-trump-desantis-iowa-16489ac59dd5e725bafb8096ea152175).
+You can read more about it [here](https://deadline.com/2023/12/george-santos-movie-hbo-films-frank-rich-1235649730/).
 
 ## Requirements
 - Python 3.8
