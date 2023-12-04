@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**St. Louis veterinarian explains mysterious dog illness spreading across the country**
+**Heidi Firkus' fatal shooting captured on her 911 call to report an intruder**
 
-You can read more about it [here](https://www.ksdk.com/article/life/pets/st-louis-veterinarian-mysterious-dog-illness/63-426f2685-4d14-4984-873a-8395ac1369eb).
+You can read more about it [here](https://www.cbsnews.com/news/heidi-firkus-fatal-shooting-nick-firkus-trial-911-call-minnesota-48-hours/).
 
 ## Requirements
 - Python 3.8
