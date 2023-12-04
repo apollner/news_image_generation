@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel recalls negotiators after reaching ‘dead end’ in Qatar talks**
+**Mike Perry Interested in Anthony Pettis After BKFC 56, Revels in 'King of Violence' Title Win**
 
-You can read more about it [here](https://www.cnn.com/2023/12/02/middleeast/israel-hamas-qatar-talks-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Np_j0Kd0Kz8).
 
 ## Requirements
 - Python 3.8
