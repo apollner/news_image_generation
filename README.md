@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida State tops Louisville for first ACC title since 2014**
+**Suspect in fatal shootings of 3 homeless men in LA already behind bars for separate homicide**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39031188/florida-state-tops-louisville-first-acc-title-2014).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/los-angeles-serial-killer-suspected-homeless-shootings/).
 
 ## Requirements
 - Python 3.8
