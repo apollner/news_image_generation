@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GTA 6 TikTok leak "has come from the son of a Rockstar Games employee"**
+**[Removed]**
 
-You can read more about it [here](https://www.eurogamer.net/gta-6-tiktok-leak-has-come-from-the-son-of-a-rockstar-games-employee).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
