@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel recalls negotiators after reaching ‘dead end’ in Qatar talks**
+**Bombing attack on Catholic mass in Philippines kills four**
 
-You can read more about it [here](https://www.cnn.com/2023/12/02/middleeast/israel-hamas-qatar-talks-intl/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/3/explosion-hits-university-in-philippines-three-reported-killed).
 
 ## Requirements
 - Python 3.8
