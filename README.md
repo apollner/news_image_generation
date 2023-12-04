@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis reaches Iowa campaign milestone as Trump turns his focus to Biden**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/desantis-trump-dueling-rallies-iowa-gop-presidential-campaign-99-counties/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
