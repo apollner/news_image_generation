@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**One dead, two injured after man attacks tourists near Paris' Eiffel Tower**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/europe/one-dead-one-injured-after-assailant-attacks-passersby-paris-minister-2023-12-02/).
 
 ## Requirements
 - Python 3.8
