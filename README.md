@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 planets found in synchronized orbit may help solve cosmic puzzle**
+**Nick Cannon Revealed How Much He Spends At Disneyland Every Year, And It's A Mind-Blowing Amount**
 
-You can read more about it [here](https://www.ksl.com/article/50803554/6-planets-found-in-synchronized-orbit-may-help-solve-cosmic-puzzle).
+You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/how-much-nick-cannon-spends-at-disneyland-annually).
 
 ## Requirements
 - Python 3.8
