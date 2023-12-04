@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Plain historical falsehoods': How amicus briefs bolstered Supreme Court conservatives**
+**Venezuela holds referendum on oil-rich Guyana region: Four things to know**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/03/supreme-court-amicus-briefs-leonard-leo-00127497).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/3/venezuela-holds-referendum-on-oil-rich-guyana-region-four-things-to-know).
 
 ## Requirements
 - Python 3.8
