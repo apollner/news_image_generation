@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Michigan vs. Iowa: TV channel, live stream online, Big Ten Championship Game kickoff time, pick**
+**One dead, two injured after man attacks tourists near Paris' Eiffel Tower**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/how-to-watch-michigan-vs-iowa-tv-channel-live-stream-online-big-ten-championship-game-kickoff-time-pick/).
+You can read more about it [here](https://www.reuters.com/world/europe/one-dead-one-injured-after-assailant-attacks-passersby-paris-minister-2023-12-02/).
 
 ## Requirements
 - Python 3.8
