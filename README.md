@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 planets found in synchronized orbit may help solve cosmic puzzle**
+**Cosmonauts dock Russian Progress cargo ship to ISS on remote control after autopilot glitch**
 
-You can read more about it [here](https://www.ksl.com/article/50803554/6-planets-found-in-synchronized-orbit-may-help-solve-cosmic-puzzle).
+You can read more about it [here](https://www.space.com/russian-cosmonauts-dock-progress-86-cargo-ship-at-space-station.).
 
 ## Requirements
 - Python 3.8
