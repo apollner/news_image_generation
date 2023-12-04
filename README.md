@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Outlook for Economy, Stock Market: Solid Jobs, Lower Inflation**
+**'Plain historical falsehoods': How amicus briefs bolstered Supreme Court conservatives**
 
-You can read more about it [here](https://www.businessinsider.com/2024-outlook-us-economy-stock-market-jobs-inflation-interest-rates-2023-11).
+You can read more about it [here](https://www.politico.com/news/2023/12/03/supreme-court-amicus-briefs-leonard-leo-00127497).
 
 ## Requirements
 - Python 3.8
