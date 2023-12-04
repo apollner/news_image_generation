@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Perry Interested in Anthony Pettis After BKFC 56, Revels in 'King of Violence' Title Win**
+**DeSantis reaches Iowa campaign milestone as Trump turns his focus to Biden**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Np_j0Kd0Kz8).
+You can read more about it [here](https://www.cbsnews.com/news/desantis-trump-dueling-rallies-iowa-gop-presidential-campaign-99-counties/).
 
 ## Requirements
 - Python 3.8
