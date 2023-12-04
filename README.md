@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'College GameDay' predictions for Iowa-Michigan in Big Ten championship**
+**US lays out plan at COP 28 to slash greenhouse gas methane from oil and gas**
 
-You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/football/2023/12/02/iowa-michigan-college-gameday-predictions-hawkeyes-wolverines-big-ten-championship/71770365007/).
+You can read more about it [here](https://www.reuters.com/sustainability/climate-energy/us-lays-out-plan-cop-28-slash-climate-super-pollutant-oil-gas-2023-12-02/).
 
 ## Requirements
 - Python 3.8
