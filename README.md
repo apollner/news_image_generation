@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three reasons a strong Black Friday weekend may not mean a blowout holiday season for retailers**
+**'Supernatural' star Mark Sheppard suffered 6 heart attacks**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/03/what-strong-black-friday-retail-sales-mean-for-holiday-spending.html).
+You can read more about it [here](https://ew.com/supernatural-star-mark-sheppard-suffered-6-heart-attacks-8410149).
 
 ## Requirements
 - Python 3.8
