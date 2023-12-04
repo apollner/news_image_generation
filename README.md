@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL early slate: Broncos vs. Texans score, highlights, news, inactives and live updates**
+**The Pentagon says a US warship and multiple commercial ships have come under attack in the Red Sea**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-broncos-vs-texans-score-highlights-news-inactives-and-live-updates-163045196.html).
+You can read more about it [here](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde).
 
 ## Requirements
 - Python 3.8
