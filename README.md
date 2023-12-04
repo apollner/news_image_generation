@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exercise, diet and mood can improve vaccine effectiveness**
+**Venezuela holds referendum on oil-rich Guyana region: Four things to know**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/03/vaccines-diet-exercise-attitude/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/3/venezuela-holds-referendum-on-oil-rich-guyana-region-four-things-to-know).
 
 ## Requirements
 - Python 3.8
