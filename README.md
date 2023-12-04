@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, two injured in Paris knife and hammer attack near Eiffel Tower**
+**Ram Gopal Varma reviews Animal, calls Ranbir machine gun scene 'a cinematic gem’**
 
-You can read more about it [here](https://www.cnn.com/2023/12/03/europe/paris-attack-eiffel-tower-hnk-intl/index.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/bollywood/ram-gopal-varma-reviews-animal-when-ranbir-kapoor-comes-back-with-a-machine-gun-that-moment-is-a-cinematic-gem-101701602184882.html).
 
 ## Requirements
 - Python 3.8
