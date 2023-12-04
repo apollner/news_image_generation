@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heidi Firkus' fatal shooting captured on her 911 call to report an intruder**
+**Israel recalls negotiators after reaching ‘dead end’ in Qatar talks**
 
-You can read more about it [here](https://www.cbsnews.com/news/heidi-firkus-fatal-shooting-nick-firkus-trial-911-call-minnesota-48-hours/).
+You can read more about it [here](https://www.cnn.com/2023/12/02/middleeast/israel-hamas-qatar-talks-intl/index.html).
 
 ## Requirements
 - Python 3.8
