@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 of the 3 Palestinian students shot in Vermont is paralyzed from the shooting, his mother says**
+**6 planets found in synchronized orbit may help solve cosmic puzzle**
 
-You can read more about it [here](https://www.cnn.com/2023/12/03/us/palestinian-student-shooting-vermont-paralyzed/index.html).
+You can read more about it [here](https://www.ksl.com/article/50803554/6-planets-found-in-synchronized-orbit-may-help-solve-cosmic-puzzle).
 
 ## Requirements
 - Python 3.8
