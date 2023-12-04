@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Pentagon says a US warship and multiple commercial ships have come under attack in the Red Sea**
+**1 of the 3 Palestinian students shot in Vermont is paralyzed from the shooting, his mother says**
 
-You can read more about it [here](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde).
+You can read more about it [here](https://www.cnn.com/2023/12/03/us/palestinian-student-shooting-vermont-paralyzed/index.html).
 
 ## Requirements
 - Python 3.8
