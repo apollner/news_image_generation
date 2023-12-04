@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How to watch Michigan vs. Iowa: TV channel, live stream online, Big Ten Championship Game kickoff time, pick**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/college-football/news/how-to-watch-michigan-vs-iowa-tv-channel-live-stream-online-big-ten-championship-game-kickoff-time-pick/).
 
 ## Requirements
 - Python 3.8
