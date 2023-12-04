@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US lays out plan at COP 28 to slash greenhouse gas methane from oil and gas**
+**GTA 6 TikTok leak "has come from the son of a Rockstar Games employee"**
 
-You can read more about it [here](https://www.reuters.com/sustainability/climate-energy/us-lays-out-plan-cop-28-slash-climate-super-pollutant-oil-gas-2023-12-02/).
+You can read more about it [here](https://www.eurogamer.net/gta-6-tiktok-leak-has-come-from-the-son-of-a-rockstar-games-employee).
 
 ## Requirements
 - Python 3.8
