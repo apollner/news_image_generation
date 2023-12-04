@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos Movie In Works At HBO Films From ‘Veep’ EP Frank Rich**
+**St. Louis veterinarian explains mysterious dog illness spreading across the country**
 
-You can read more about it [here](https://deadline.com/2023/12/george-santos-movie-hbo-films-frank-rich-1235649730/).
+You can read more about it [here](https://www.ksdk.com/article/life/pets/st-louis-veterinarian-mysterious-dog-illness/63-426f2685-4d14-4984-873a-8395ac1369eb).
 
 ## Requirements
 - Python 3.8
