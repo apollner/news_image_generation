@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ram Gopal Varma reviews Animal, calls Ranbir machine gun scene 'a cinematic gem’**
+**Three reasons a strong Black Friday weekend may not mean a blowout holiday season for retailers**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/bollywood/ram-gopal-varma-reviews-animal-when-ranbir-kapoor-comes-back-with-a-machine-gun-that-moment-is-a-cinematic-gem-101701602184882.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/03/what-strong-black-friday-retail-sales-mean-for-holiday-spending.html).
 
 ## Requirements
 - Python 3.8
