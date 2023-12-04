@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela holds referendum on oil-rich Guyana region: Four things to know**
+**Ron DeSantis says he will win Iowa - POLITICO**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/3/venezuela-holds-referendum-on-oil-rich-guyana-region-four-things-to-know).
+You can read more about it [here](https://www.politico.com/news/2023/12/03/desantis-projects-confidence-iowa-00129772).
 
 ## Requirements
 - Python 3.8
