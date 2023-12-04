@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, two injured in Paris knife and hammer attack near Eiffel Tower**
+**Florida State tops Louisville for first ACC title since 2014**
 
-You can read more about it [here](https://www.cnn.com/2023/12/03/europe/paris-attack-eiffel-tower-hnk-intl/index.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39031188/florida-state-tops-louisville-first-acc-title-2014).
 
 ## Requirements
 - Python 3.8
