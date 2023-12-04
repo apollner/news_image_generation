@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sandra Day O'Connor, first woman on the Supreme Court, dies at 93**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/sandra-day-oconnor-first-woman-on-the-supreme-court-dies-at-93/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
