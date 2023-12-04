@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Supernatural' star Mark Sheppard suffered 6 heart attacks**
+**NFL early slate: Broncos vs. Texans score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://ew.com/supernatural-star-mark-sheppard-suffered-6-heart-attacks-8410149).
+You can read more about it [here](https://sports.yahoo.com/nfl-early-slate-broncos-vs-texans-score-highlights-news-inactives-and-live-updates-163045196.html).
 
 ## Requirements
 - Python 3.8
