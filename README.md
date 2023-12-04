@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The high cost of subscription binges: How businesses get rich off you forgetting to cancel**
+**One dead, two injured in Paris knife and hammer attack near Eiffel Tower**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/03/forgot-to-cancel-subscription-cost/71755592007/).
+You can read more about it [here](https://www.cnn.com/2023/12/03/europe/paris-attack-eiffel-tower-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
