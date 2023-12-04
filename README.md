@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 14 UofL falls 16-6 to No. 4 Florida State in ACC Championship game**
+**2024 Outlook for Economy, Stock Market: Solid Jobs, Lower Inflation**
 
-You can read more about it [here](https://www.wlky.com/article/louisville-cardinals-lose-acc-championship-florida-state/46018247).
+You can read more about it [here](https://www.businessinsider.com/2024-outlook-us-economy-stock-market-jobs-inflation-interest-rates-2023-11).
 
 ## Requirements
 - Python 3.8
