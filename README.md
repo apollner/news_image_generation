@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron DeSantis says he will win Iowa - POLITICO**
+**Exercise, diet and mood can improve vaccine effectiveness**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/03/desantis-projects-confidence-iowa-00129772).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/03/vaccines-diet-exercise-attitude/).
 
 ## Requirements
 - Python 3.8
