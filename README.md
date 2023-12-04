@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**KISS romps through final concert, then debuts 'new era' of avatars**
+**No. 14 UofL falls 16-6 to No. 4 Florida State in ACC Championship game**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/12/03/kiss-final-concert-new-era-band-avatars/71753863007/).
+You can read more about it [here](https://www.wlky.com/article/louisville-cardinals-lose-acc-championship-florida-state/46018247).
 
 ## Requirements
 - Python 3.8
