@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Heavy bombardments reported in southern Gaza**
+**KISS romps through final concert, then debuts 'new era' of avatars**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-03-2023-1b93089ec82d10ce89df802d51acc108).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2023/12/03/kiss-final-concert-new-era-band-avatars/71753863007/).
 
 ## Requirements
 - Python 3.8
