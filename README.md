@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela holds referendum on oil-rich Guyana region: Four things to know**
+**The high cost of subscription binges: How businesses get rich off you forgetting to cancel**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/3/venezuela-holds-referendum-on-oil-rich-guyana-region-four-things-to-know).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/12/03/forgot-to-cancel-subscription-cost/71755592007/).
 
 ## Requirements
 - Python 3.8
