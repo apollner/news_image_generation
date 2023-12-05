@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“Spectacular!” - Rich Eisen on the 49ers’ 42-19 Dismantling of the Philadelphia Eagles in Week 13**
+**Spotify to Lay Off 17% of Staff, Its Third Round of Job Cuts This Year**
 
-You can read more about it [here](https://www.youtube.com/watch?v=f6w2aA_DfnI).
+You can read more about it [here](https://www.wsj.com/business/media/spotify-to-lay-off-17-of-staff-its-third-round-of-job-cuts-this-year-56207b29).
 
 ## Requirements
 - Python 3.8
