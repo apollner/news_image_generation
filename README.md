@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spot Gold Rises to Record on Dovish Fed Remarks**
+**Israel-Hamas war: Heavy bombardments reported in southern Gaza**
 
-You can read more about it [here](https://finance.yahoo.com/news/spot-gold-rises-record-dovish-231809927.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-03-2023-1b93089ec82d10ce89df802d51acc108).
 
 ## Requirements
 - Python 3.8
