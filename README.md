@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 dead after stabbing at burning home in Queens, suspect shot and killed by police**
+**Spot Gold Rises to Record on Dovish Fed Remarks**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/queens-deadly-stabbing-far-rockaway-police-officers-hurt/).
+You can read more about it [here](https://finance.yahoo.com/news/spot-gold-rises-record-dovish-231809927.html).
 
 ## Requirements
 - Python 3.8
