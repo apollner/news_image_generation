@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11 bodies recovered after volcanic eruption in Indonesia, and 12 climbers are still missing**
+**Treasuries Fall as Gold Pares Gain, Stocks Mixed: Markets Wrap**
 
-You can read more about it [here](https://apnews.com/article/indonesia-marapi-volcano-eruption-climbers-dead-16921eb03471c95069a28d34100dc7c2).
+You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-rise-us-shrugs-220015298.html).
 
 ## Requirements
 - Python 3.8
