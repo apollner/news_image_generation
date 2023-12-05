@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House warns Congress the US is out of money, nearly out of time to avoid 'kneecap' to Ukraine**
+**Oprah Winfrey, Meryl Streep, Selena Gomez and More Stars Walk the Red Carpet at the Academy Museum Gala**
 
-You can read more about it [here](https://apnews.com/article/biden-ukraine-congress-military-assistance-economy-557cbced7f7c1242ea08c52dadefc33b).
+You can read more about it [here](https://www.hollywoodreporter.com/gallery/academy-museum-gala-celebrity-photos-1235709358/).
 
 ## Requirements
 - Python 3.8
