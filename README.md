@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Chiefs vs. Packers score, highlights, news, inactives and live updates**
+**What we learned as 49ers exact revenge in dazzling win over Eagles**
 
-You can read more about it [here](https://sports.yahoo.com/sunday-night-football-chiefs-vs-packers-score-highlights-news-inactives-and-live-updates-234047823.html).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/what-we-learned-as-49ers-enact-revenge-in-dazzling-win-over-eagles/1677898/).
 
 ## Requirements
 - Python 3.8
