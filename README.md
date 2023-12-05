@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gold price hits all-time high as traders bet on interest rate cuts**
+**Mystery solved: the viral 'glitch in the Matrix' iPhone wedding photo explained**
 
-You can read more about it [here](https://www.ft.com/content/73fa09eb-23dc-43fc-976d-04a2016d6672).
+You can read more about it [here](https://www.techradar.com/phones/mystery-solved-the-viral-glitch-in-the-matrix-iphone-wedding-photo-explained).
 
 ## Requirements
 - Python 3.8
