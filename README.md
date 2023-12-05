@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China infectious disease spike: health authorities recommend reducing large gatherings**
+**FSU AD condemns CFP selection decision: 'The committee FAILED college football' | SportsCenter**
 
-You can read more about it [here](https://www.forexlive.com/news/china-infectious-disease-spike-health-authorities-recommendreducing-large-gatherings-20231203/).
+You can read more about it [here](https://www.youtube.com/watch?v=USHSBSsQLVU).
 
 ## Requirements
 - Python 3.8
