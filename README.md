@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billie Eilish says she ‘didn’t realize people didn’t know’ about her sexuality**
+**Doug Burgum announces he’s suspending his 2024 presidential campaign**
 
-You can read more about it [here](https://www.cnn.com/2023/12/04/entertainment/billie-eilish-sexuality-scli-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/04/politics/doug-burgum-suspends-campaign/index.html).
 
 ## Requirements
 - Python 3.8
