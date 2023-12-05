@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vanessa Hudgens Is Married To Cole Tucker**
+**“Spectacular!” - Rich Eisen on the 49ers’ 42-19 Dismantling of the Philadelphia Eagles in Week 13**
 
-You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/vanessa-hudgens-cole-tucker-wedding).
+You can read more about it [here](https://www.youtube.com/watch?v=f6w2aA_DfnI).
 
 ## Requirements
 - Python 3.8
