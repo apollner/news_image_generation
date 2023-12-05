@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we learned as 49ers exact revenge in dazzling win over Eagles**
+**Spot Gold Rises to Record on Dovish Fed Remarks**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/what-we-learned-as-49ers-enact-revenge-in-dazzling-win-over-eagles/1677898/).
+You can read more about it [here](https://finance.yahoo.com/news/spot-gold-rises-record-dovish-231809927.html).
 
 ## Requirements
 - Python 3.8
