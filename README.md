@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify to Lay Off 17% of Staff, Its Third Round of Job Cuts This Year**
+**College football transfer portal 2023: Live updates, news**
 
-You can read more about it [here](https://www.wsj.com/business/media/spotify-to-lay-off-17-of-staff-its-third-round-of-job-cuts-this-year-56207b29).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39033557/2023-ncaa-football-transfer-window-live-news-updates-takeaways).
 
 ## Requirements
 - Python 3.8
