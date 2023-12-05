@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breakout or $40K bull trap? 5 things to know in Bitcoin this week**
+**Beijing Warns U.S. After Warship 'Illegally Enters' South China Sea | 'Not Our Friend...'**
 
-You can read more about it [here](https://cointelegraph.com/news/breakout-or-40k-bull-trap-5-things-bitcoin-this-week).
+You can read more about it [here](https://www.youtube.com/watch?v=y4oxF2jBs3M).
 
 ## Requirements
 - Python 3.8
