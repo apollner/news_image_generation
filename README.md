@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wasabi, beloved on sushi, linked to "really substantial" boost in memory, Japanese study finds**
+**Spotify to Lay Off 17% of Staff, Its Third Round of Job Cuts This Year**
 
-You can read more about it [here](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/).
+You can read more about it [here](https://www.wsj.com/business/media/spotify-to-lay-off-17-of-staff-its-third-round-of-job-cuts-this-year-56207b29).
 
 ## Requirements
 - Python 3.8
