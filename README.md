@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift and Travis Kelce Spotted at Kansas City Christmas Bar With Patrick and Brittany Mahomes**
+**Jauan Jennings Calls 49ers 'Scary Good' Following 42-19 Win Over Eagles**
 
-You can read more about it [here](https://www.eonline.com/news/1390790/taylor-swift-and-travis-kelce-spotted-at-kansas-city-christmas-bar-with-patrick-and-brittany-mahomes).
+You can read more about it [here](https://www.youtube.com/watch?v=sjD1iqgGQPM).
 
 ## Requirements
 - Python 3.8
