@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey, Meryl Streep, Selena Gomez and More Stars Walk the Red Carpet at the Academy Museum Gala**
+**Gold price hits all-time high as traders bet on interest rate cuts**
 
-You can read more about it [here](https://www.hollywoodreporter.com/gallery/academy-museum-gala-celebrity-photos-1235709358/).
+You can read more about it [here](https://www.ft.com/content/73fa09eb-23dc-43fc-976d-04a2016d6672).
 
 ## Requirements
 - Python 3.8
