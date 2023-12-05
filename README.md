@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: US stocks retreat from rally as Fed doubts swirl**
+**Wasabi, beloved on sushi, linked to "really substantial" boost in memory, Japanese study finds**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-us-stocks-retreat-from-rally-as-fed-doubts-swirl-122601896.html).
+You can read more about it [here](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/).
 
 ## Requirements
 - Python 3.8
