@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indonesia’s Marapi volcano erupts with thunderous roar, sends toxic ash nearly 10,000 feet into the air**
+**Sunday Night Football: Chiefs vs. Packers score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.foxweather.com/extreme-weather/marapi-volcano-erupts-indonesia-hikers-stranded).
+You can read more about it [here](https://sports.yahoo.com/sunday-night-football-chiefs-vs-packers-score-highlights-news-inactives-and-live-updates-234047823.html).
 
 ## Requirements
 - Python 3.8
