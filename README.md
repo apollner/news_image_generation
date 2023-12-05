@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: US stocks retreat from rally as Fed doubts swirl**
+**Vanessa Hudgens Is Married To Cole Tucker**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-us-stocks-retreat-from-rally-as-fed-doubts-swirl-122601896.html).
+You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/vanessa-hudgens-cole-tucker-wedding).
 
 ## Requirements
 - Python 3.8
