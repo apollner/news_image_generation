@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vanessa Hudgens wears white gown in Mexico at welcome party ahead of Cole Tucker wedding**
+**Stock market news today: US stocks retreat from rally as Fed doubts swirl**
 
-You can read more about it [here](https://pagesix.com/2023/12/04/style/vanessa-hudgens-wears-white-dress-in-mexico-amid-cole-tucker-wedding-rumors/).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-us-stocks-retreat-from-rally-as-fed-doubts-swirl-122601896.html).
 
 ## Requirements
 - Python 3.8
