@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Surges Past $42,000 Even as Stocks and Bonds Take a Hit**
+**Dog illness mystery might be solved, researchers say**
 
-You can read more about it [here](https://finance.yahoo.com/news/bitcoin-hits-40-000-level-223957913.html).
+You can read more about it [here](https://www.nj.com/healthfit/2023/12/dog-illness-mystery-might-be-solved-researchers-say.html).
 
 ## Requirements
 - Python 3.8
