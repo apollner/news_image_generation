@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Time to say 'the F-words'? A fossil fuel fight takes center stage at the COP28 climate summit**
+**'Renaissance: A Film by Beyoncé' tops box office on opening weekend**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/04/a-fossil-fuel-fight-takes-center-stage-at-the-cop28-climate-summit.html).
+You can read more about it [here](https://ew.com/renaissance-film-beyonce-tops-box-office-8410171).
 
 ## Requirements
 - Python 3.8
