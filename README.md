@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gold price hits all-time high as traders bet on interest rate cuts**
+**Billie Eilish says she ‘didn’t realize people didn’t know’ about her sexuality**
 
-You can read more about it [here](https://www.ft.com/content/73fa09eb-23dc-43fc-976d-04a2016d6672).
+You can read more about it [here](https://www.cnn.com/2023/12/04/entertainment/billie-eilish-sexuality-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
