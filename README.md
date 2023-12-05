@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beijing Warns U.S. After Warship 'Illegally Enters' South China Sea | 'Not Our Friend...'**
+**OxyContin maker bankruptcy deal goes before the Supreme Court on Monday, with billions at stake**
 
-You can read more about it [here](https://www.youtube.com/watch?v=y4oxF2jBs3M).
+You can read more about it [here](https://apnews.com/article/supreme-court-opioid-purdue-pharma-oxycontin-bankruptcy-df2843c77fa46d8a4752d4fe43745f0f).
 
 ## Requirements
 - Python 3.8
