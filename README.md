@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OxyContin maker bankruptcy deal goes before the Supreme Court on Monday, with billions at stake**
+**Large part of U.S. Osprey that crashed in Japan found with 5 more crew members' bodies inside**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-opioid-purdue-pharma-oxycontin-bankruptcy-df2843c77fa46d8a4752d4fe43745f0f).
+You can read more about it [here](https://www.cbsnews.com/news/japan-osprey-crash-us-air-force-5-crew-bodies-found-fuselage-wreckage/).
 
 ## Requirements
 - Python 3.8
