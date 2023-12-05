@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cosmonauts dock Russian Progress cargo ship to ISS on remote control after autopilot glitch**
+**Former US ambassador arrested in Florida, accused of serving as an agent of Cuba, AP source says**
 
-You can read more about it [here](https://www.space.com/russian-cosmonauts-dock-progress-86-cargo-ship-at-space-station.).
+You can read more about it [here](https://apnews.com/article/fbi-cuba-bolivia-former-ambassador-arrested-af9d80a4f268099364dff249dd74b3ec).
 
 ## Requirements
 - Python 3.8
