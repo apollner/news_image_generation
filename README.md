@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doug Burgum announces he’s suspending his 2024 presidential campaign**
+**Julia Roberts Addresses Ex Matthew Perry's Death and Reflects on 'Friends' Cameo (Exclusive)**
 
-You can read more about it [here](https://www.cnn.com/2023/12/04/politics/doug-burgum-suspends-campaign/index.html).
+You can read more about it [here](https://www.etonline.com/julia-roberts-addresses-ex-matthew-perrys-death-and-reflects-on-friends-cameo-exclusive-215870).
 
 ## Requirements
 - Python 3.8
