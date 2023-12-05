@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liz Cheney: I will never vote for Donald Trump again**
+**Vanessa Hudgens wears white gown in Mexico at welcome party ahead of Cole Tucker wedding**
 
-You can read more about it [here](https://www.youtube.com/watch?v=PvaaPJX0ebg).
+You can read more about it [here](https://pagesix.com/2023/12/04/style/vanessa-hudgens-wears-white-dress-in-mexico-amid-cole-tucker-wedding-rumors/).
 
 ## Requirements
 - Python 3.8
