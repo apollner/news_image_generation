@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jauan Jennings Calls 49ers 'Scary Good' Following 42-19 Win Over Eagles**
+**11 bodies recovered after volcanic eruption in Indonesia, and 12 climbers are still missing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=sjD1iqgGQPM).
+You can read more about it [here](https://apnews.com/article/indonesia-marapi-volcano-eruption-climbers-dead-16921eb03471c95069a28d34100dc7c2).
 
 ## Requirements
 - Python 3.8
