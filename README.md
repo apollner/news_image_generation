@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Renaissance: A Film by Beyoncé' tops box office on opening weekend**
+**5 dead after stabbing at burning home in Queens, suspect shot and killed by police**
 
-You can read more about it [here](https://ew.com/renaissance-film-beyonce-tops-box-office-8410171).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/queens-deadly-stabbing-far-rockaway-police-officers-hurt/).
 
 ## Requirements
 - Python 3.8
