@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FSU AD condemns CFP selection decision: 'The committee FAILED college football' | SportsCenter**
+**Breakout or $40K bull trap? 5 things to know in Bitcoin this week**
 
-You can read more about it [here](https://www.youtube.com/watch?v=USHSBSsQLVU).
+You can read more about it [here](https://cointelegraph.com/news/breakout-or-40k-bull-trap-5-things-bitcoin-this-week).
 
 ## Requirements
 - Python 3.8
