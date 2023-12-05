@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says fighting Hamas across Gaza, ships attacked in Red Sea**
+**White House warns Congress the US is out of money, nearly out of time to avoid 'kneecap' to Ukraine**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-says-ground-forces-operating-across-gaza-strip-offensive-builds-2023-12-04/).
+You can read more about it [here](https://apnews.com/article/biden-ukraine-congress-military-assistance-economy-557cbced7f7c1242ea08c52dadefc33b).
 
 ## Requirements
 - Python 3.8
