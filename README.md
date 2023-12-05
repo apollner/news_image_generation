@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spot Gold Rises to Record on Dovish Fed Remarks**
+**Taylor Swift and Travis Kelce Spotted at Kansas City Christmas Bar With Patrick and Brittany Mahomes**
 
-You can read more about it [here](https://finance.yahoo.com/news/spot-gold-rises-record-dovish-231809927.html).
+You can read more about it [here](https://www.eonline.com/news/1390790/taylor-swift-and-travis-kelce-spotted-at-kansas-city-christmas-bar-with-patrick-and-brittany-mahomes).
 
 ## Requirements
 - Python 3.8
