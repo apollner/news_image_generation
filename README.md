@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Roberts Addresses Ex Matthew Perry's Death and Reflects on 'Friends' Cameo (Exclusive)**
+**Liz Cheney: I will never vote for Donald Trump again**
 
-You can read more about it [here](https://www.etonline.com/julia-roberts-addresses-ex-matthew-perrys-death-and-reflects-on-friends-cameo-exclusive-215870).
+You can read more about it [here](https://www.youtube.com/watch?v=PvaaPJX0ebg).
 
 ## Requirements
 - Python 3.8
