@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasuries Fall as Gold Pares Gain, Stocks Mixed: Markets Wrap**
+**China infectious disease spike: health authorities recommend reducing large gatherings**
 
-You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-rise-us-shrugs-220015298.html).
+You can read more about it [here](https://www.forexlive.com/news/china-infectious-disease-spike-health-authorities-recommendreducing-large-gatherings-20231203/).
 
 ## Requirements
 - Python 3.8
