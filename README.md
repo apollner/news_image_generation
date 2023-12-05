@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A look at the new discoveries that make Neanderthals more knowable now than ever**
+**Indonesia’s Marapi volcano erupts with thunderous roar, sends toxic ash nearly 10,000 feet into the air**
 
-You can read more about it [here](https://www.pbs.org/newshour/science/a-look-at-the-new-discoveries-that-make-neanderthals-more-knowable-now-than-ever).
+You can read more about it [here](https://www.foxweather.com/extreme-weather/marapi-volcano-erupts-indonesia-hikers-stranded).
 
 ## Requirements
 - Python 3.8
