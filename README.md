@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify to Lay Off 17% of Staff, Its Third Round of Job Cuts This Year**
+**Dog illness mystery might be solved, researchers say**
 
-You can read more about it [here](https://www.wsj.com/business/media/spotify-to-lay-off-17-of-staff-its-third-round-of-job-cuts-this-year-56207b29).
+You can read more about it [here](https://www.nj.com/healthfit/2023/12/dog-illness-mystery-might-be-solved-researchers-say.html).
 
 ## Requirements
 - Python 3.8
