@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dog illness mystery might be solved, researchers say**
+**Israel Hamas war live updates: UN hears evidence of Oct. 7 rapes**
 
-You can read more about it [here](https://www.nj.com/healthfit/2023/12/dog-illness-mystery-might-be-solved-researchers-say.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/04/israel-hamas-war-gaza-live-updates/71797672007/).
 
 ## Requirements
 - Python 3.8
