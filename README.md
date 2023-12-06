@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Proposed merger of Alaska and Hawaiian airlines a promising fit that should improve air travel for residents of each state, observers say**
+**Outbreaks of Pneumonia Are Now Affecting Children in Multiple Countries**
 
-You can read more about it [here](https://www.adn.com/business-economy/2023/12/04/proposed-merger-of-alaska-and-hawaiian-airlines-a-promising-fit-that-should-improve-air-travel-for-residents-of-each-state-observers-say/).
+You can read more about it [here](https://www.sciencealert.com/outbreaks-of-pneumonia-are-now-affecting-children-in-multiple-countries).
 
 ## Requirements
 - Python 3.8
