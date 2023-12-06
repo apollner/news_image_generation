@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former U.S. Ambassador to Bolivia Manuel Rocha accused of spying for Cuba for decades**
+**Sen. Rick Scott demands answers over FSU snubbing as anger builds over college football pick**
 
-You can read more about it [here](https://www.cbsnews.com/news/former-ambassador-bolivia-manuel-rocha-accused-spying-cuba/).
+You can read more about it [here](https://www.politico.com/news/2023/12/04/fsu-snubbed-college-football-pick-00129917).
 
 ## Requirements
 - Python 3.8
