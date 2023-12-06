@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Home explosion rocks Arlington neighborhood after suspect fires flare gun during police search**
+**Satellite images: Developing ‘Pineapple Express’ hits Pacific Northwest**
 
-You can read more about it [here](https://www.fox5dc.com/news/explosion-at-arlington-home-suspect-fires-flare-gun-at-police-executing-search-warrant-arlington-fire-and-ems-home-explosion).
+You can read more about it [here](https://www.koin.com/weather/satellite-images-developing-pineapple-express-hits-pacific-northwest/).
 
 ## Requirements
 - Python 3.8
