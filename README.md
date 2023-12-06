@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigerian army drone strike accidentally kills 85 in public religious gathering**
+**Antisemitism on college campuses: Harvard, Penn, MIT get grilled by Congress**
 
-You can read more about it [here](https://www.npr.org/2023/12/05/1217317616/nigerian-president-calls-for-investigation-after-army-drone-strike-accident-kill).
+You can read more about it [here](https://www.cnn.com/2023/12/05/politics/harvard-penn-mit-antisemitism-congress/index.html).
 
 ## Requirements
 - Python 3.8
