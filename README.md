@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to make sure your wounds heal faster as you grow older**
+**Rockstar Games Announces Grand Theft Auto VI, Coming 2025**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/04/aging-skin-wound-care-healing/).
+You can read more about it [here](https://www.businesswire.com/news/home/20231204993583/en/Rockstar-Games-Announces-Grand-Theft-Auto-VI-Coming-2025).
 
 ## Requirements
 - Python 3.8
