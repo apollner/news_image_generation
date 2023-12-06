@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel orders evacuations as it widens offensive, but Palestinians are running out of places to go**
+**Proposed merger of Alaska and Hawaiian airlines a promising fit that should improve air travel for residents of each state, observers say**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-04-2023-ece85568ce36cb2315f26b10adda30fa).
+You can read more about it [here](https://www.adn.com/business-economy/2023/12/04/proposed-merger-of-alaska-and-hawaiian-airlines-a-promising-fit-that-should-improve-air-travel-for-residents-of-each-state-observers-say/).
 
 ## Requirements
 - Python 3.8
