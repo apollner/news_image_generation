@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Rick Scott demands answers over FSU snubbing as anger builds over college football pick**
+**Former US ambassador accused of acting as covert agent for Cuba**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/04/fsu-snubbed-college-football-pick-00129917).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/4/former-us-ambassador-accused-of-acting-as-covert-agent-for-cuba).
 
 ## Requirements
 - Python 3.8
