@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani, Blue Jays believed to have met Monday at team’s Florida complex**
+**The pandemic's toll on schooling emerges in terrible exam results**
 
-You can read more about it [here](https://theathletic.com/5113061/2023/12/05/blue-jays-shohei-ohtani-meeting/).
+You can read more about it [here](https://www.economist.com/international/2023/12/05/the-pandemics-toll-on-schooling-emerges-in-terrible-exam-results).
 
 ## Requirements
 - Python 3.8
