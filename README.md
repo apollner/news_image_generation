@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rockstar Games Announces Grand Theft Auto VI, Coming 2025**
+**3 commercial ships attacked in Red Sea; Houthis claim responsibility, citing Israel-Hamas war**
 
-You can read more about it [here](https://www.businesswire.com/news/home/20231204993583/en/Rockstar-Games-Announces-Grand-Theft-Auto-VI-Coming-2025).
+You can read more about it [here](https://abcnews.go.com/International/navy-warship-shoots-drones-red-sea-latest-incursion/story?id=105341414).
 
 ## Requirements
 - Python 3.8
