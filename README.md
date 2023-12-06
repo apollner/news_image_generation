@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How 49ers QB Purdy made NFL history in multiple ways vs. Eagles**
+**Former U.S. Ambassador to Bolivia Manuel Rocha accused of spying for Cuba for decades**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-joins-tom-brady-aaron-rodgers/1678144/).
+You can read more about it [here](https://www.cbsnews.com/news/former-ambassador-bolivia-manuel-rocha-accused-spying-cuba/).
 
 ## Requirements
 - Python 3.8
