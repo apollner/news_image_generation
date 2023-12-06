@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Outbreaks of Pneumonia Are Now Affecting Children in Multiple Countries**
+**Sen. Rick Scott demands answers over FSU snubbing as anger builds over college football pick**
 
-You can read more about it [here](https://www.sciencealert.com/outbreaks-of-pneumonia-are-now-affecting-children-in-multiple-countries).
+You can read more about it [here](https://www.politico.com/news/2023/12/04/fsu-snubbed-college-football-pick-00129917).
 
 ## Requirements
 - Python 3.8
