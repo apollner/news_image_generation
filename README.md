@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Foxx Details "Tough" Medical Journey in Emotional Speech After Health Scare**
+**Amy Robach and T.J. Holmes' exes Andrew Shue and Marilee Fiebig are dating**
 
-You can read more about it [here](https://www.eonline.com/news/1390881/jamie-foxx-details-tough-medical-journey-in-emotional-speech-after-health-scare).
+You can read more about it [here](https://pagesix.com/2023/12/05/gossip/amy-robach-and-t-j-holmes-exes-are-dating/).
 
 ## Requirements
 - Python 3.8
