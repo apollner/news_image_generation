@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals vs. Jaguars Monday Night Football live updates: Score, highlights, injury updates**
+**Rockstar Games Announces Grand Theft Auto VI, Coming 2025**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/12/04/jaguars-bengals-monday-night-football-live-updates/71800295007/).
+You can read more about it [here](https://www.businesswire.com/news/home/20231204993583/en/Rockstar-Games-Announces-Grand-Theft-Auto-VI-Coming-2025).
 
 ## Requirements
 - Python 3.8
