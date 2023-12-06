@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liz Cheney Reveals 'Dangerous And Chilling' Moment She Overheard Trump's True Plan**
+**[Removed]**
 
-You can read more about it [here](https://www.huffpost.com/entry/liz-cheney-trump-phone-call_n_656ecbdfe4b0f3e5f44a9446).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
