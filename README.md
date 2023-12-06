@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tel Aviv bourse says no unusual trading ahead of Oct 7 Hamas attack**
+**Jonathan Majors’ Ex-Girlfriend Tearfully Testifies in Domestic Assault Trial: ‘I Felt Scared of Him’**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/tel-aviv-bourse-says-no-unusual-trading-ahead-oct-7-hamas-attack-2023-12-05/).
+You can read more about it [here](https://variety.com/2023/film/news/jonathan-majors-trial-accuser-ex-girlfriend-testifies-1235821792/).
 
 ## Requirements
 - Python 3.8
