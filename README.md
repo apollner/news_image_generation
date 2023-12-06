@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain announces stricter visa measures to reduce net migration**
+**Supreme Court considers $6bn deal that shields Sacklers**
 
-You can read more about it [here](https://www.reuters.com/world/uk/uk-pm-sunak-committed-bringing-net-migration-down-significantly-spokesman-2023-12-04/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67618641).
 
 ## Requirements
 - Python 3.8
