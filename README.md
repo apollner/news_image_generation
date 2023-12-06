@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heisman Trophy names Daniels, Harrison Jr., Nix as finalists**
+**Statins: Why many eligible adults aren't taking these drugs**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39043397/heisman-trophy-names-daniels-harrison-jr-nix-finalists).
+You can read more about it [here](https://www.medicalnewstoday.com/articles/most-adults-eligible-for-statins-for-prevention-are-not-using-them).
 
 ## Requirements
 - Python 3.8
