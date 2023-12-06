@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who are the Houthis and why are they attacking ships in the Red Sea?**
+**Buildings evacuated as quake rattles Philippine capital**
 
-You can read more about it [here](https://www.npr.org/2023/12/05/1217056536/houthis-explainer-red-sea-yemen-saudi-middle-east-israel-gaza).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/62-magnitude-earthquake-felt-philippine-capital-emsc-2023-12-05/).
 
 ## Requirements
 - Python 3.8
