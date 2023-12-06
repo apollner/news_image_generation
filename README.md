@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas goes green: Leads nation in renewable energy**
+**Hawaiian Airlines' parent surges on $1.9 bln buyout deal with Alaska Air**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/texas-goes-green-how-oil-country-became-the-renewable-energy-leader).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/hawaiian-airlines-parent-surges-19-bln-buyout-deal-with-alaska-air-2023-12-04/).
 
 ## Requirements
 - Python 3.8
