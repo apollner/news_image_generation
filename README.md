@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 commercial ships attacked in Red Sea; Houthis claim responsibility, citing Israel-Hamas war**
+**Texas goes green: Leads nation in renewable energy**
 
-You can read more about it [here](https://abcnews.go.com/International/navy-warship-shoots-drones-red-sea-latest-incursion/story?id=105341414).
+You can read more about it [here](https://www.pbs.org/newshour/show/texas-goes-green-how-oil-country-became-the-renewable-energy-leader).
 
 ## Requirements
 - Python 3.8
