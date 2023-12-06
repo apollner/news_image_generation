@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6-year-old boy killed in Northeast Portland dog mauling incident**
+**Netanyahu says Israel will retain open-ended control of security in Gaza long after war with Hamas**
 
-You can read more about it [here](https://www.koin.com/news/portland/child-killed-in-northeast-portland-dog-mauling-incident/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-05-2023-8f171da297b565e28156b88d1fc250b1).
 
 ## Requirements
 - Python 3.8
