@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GTA 6: Trailer for new game revealed after online leak**
+**Changes to UK visa requirements: Key points at-a-glance**
 
-You can read more about it [here](https://www.bbc.com/news/technology-67588537).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67623131).
 
 ## Requirements
 - Python 3.8
