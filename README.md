@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite images: Developing ‘Pineapple Express’ hits Pacific Northwest**
+**How 49ers QB Purdy made NFL history in multiple ways vs. Eagles**
 
-You can read more about it [here](https://www.koin.com/weather/satellite-images-developing-pineapple-express-hits-pacific-northwest/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-joins-tom-brady-aaron-rodgers/1678144/).
 
 ## Requirements
 - Python 3.8
