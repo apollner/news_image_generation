@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amy Robach and T.J. Holmes' exes Andrew Shue and Marilee Fiebig are dating**
+**Traders earned millions anticipating Oct. 7 Hamas attack, study says**
 
-You can read more about it [here](https://pagesix.com/2023/12/05/gossip/amy-robach-and-t-j-holmes-exes-are-dating/).
+You can read more about it [here](https://www.washingtonpost.com/business/2023/12/05/traders-earned-millions-anticipating-oct-7-hamas-attack-study-says/).
 
 ## Requirements
 - Python 3.8
