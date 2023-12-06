@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BABA, JD, BIDU Fall as Moody's Flags Risks in China - TipRanks.com**
+**Tel Aviv bourse says no unusual trading ahead of Oct 7 Hamas attack**
 
-You can read more about it [here](https://www.tipranks.com/news/alibaba-nysebaba-jd-com-and-baidu-hit-as-moodys-flags-risks-in-chinas-economic-landscape).
+You can read more about it [here](https://www.reuters.com/world/middle-east/tel-aviv-bourse-says-no-unusual-trading-ahead-oct-7-hamas-attack-2023-12-05/).
 
 ## Requirements
 - Python 3.8
