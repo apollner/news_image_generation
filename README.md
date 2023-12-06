@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Changes to UK visa requirements: Key points at-a-glance**
+**Daily Telescope: An ancient galaxy behind a veil of dust**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67623131).
+You can read more about it [here](https://arstechnica.com/space/2023/12/daily-telescope-an-ancient-galaxy-behind-a-veil-of-dust/).
 
 ## Requirements
 - Python 3.8
