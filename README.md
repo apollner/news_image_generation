@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Majors’ Ex-Girlfriend Tearfully Testifies in Domestic Assault Trial: ‘I Felt Scared of Him’**
+**Jamie Foxx Details "Tough" Medical Journey in Emotional Speech After Health Scare**
 
-You can read more about it [here](https://variety.com/2023/film/news/jonathan-majors-trial-accuser-ex-girlfriend-testifies-1235821792/).
+You can read more about it [here](https://www.eonline.com/news/1390881/jamie-foxx-details-tough-medical-journey-in-emotional-speech-after-health-scare).
 
 ## Requirements
 - Python 3.8
