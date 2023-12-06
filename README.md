@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The pandemic's toll on schooling emerges in terrible exam results**
+**Cyclone Michaung: Heavy rains in southern India as storm makes landfall**
 
-You can read more about it [here](https://www.economist.com/international/2023/12/05/the-pandemics-toll-on-schooling-emerges-in-terrible-exam-results).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67617727).
 
 ## Requirements
 - Python 3.8
