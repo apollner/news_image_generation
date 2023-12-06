@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaiian Airlines' parent surges on $1.9 bln buyout deal with Alaska Air**
+**Heisman Trophy names Daniels, Harrison Jr., Nix as finalists**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/hawaiian-airlines-parent-surges-19-bln-buyout-deal-with-alaska-air-2023-12-04/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39043397/heisman-trophy-names-daniels-harrison-jr-nix-finalists).
 
 ## Requirements
 - Python 3.8
