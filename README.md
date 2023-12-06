@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious respiratory illness in China raises concerns as cases reported worldwide**
+**Microsoft upgrades Copilot with OpenAI’s GPT-4 Turbo and DALL-E 3**
 
-You can read more about it [here](https://abcstlouis.com/news/nation-world/mysterious-respiratory-illness-in-china-raises-concerns-as-cases-reported-worldwide-white-lung-pnuemonia-black-air-in-lungs-covid-19-pandemic-ohio-health-nih).
+You can read more about it [here](https://www.engadget.com/microsoft-upgrades-copilot-with-openais-gpt-4-turbo-and-dall-e-3-162558170.html).
 
 ## Requirements
 - Python 3.8
