@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former US ambassador accused of acting as covert agent for Cuba**
+**Britain announces stricter visa measures to reduce net migration**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/4/former-us-ambassador-accused-of-acting-as-covert-agent-for-cuba).
+You can read more about it [here](https://www.reuters.com/world/uk/uk-pm-sunak-committed-bringing-net-migration-down-significantly-spokesman-2023-12-04/).
 
 ## Requirements
 - Python 3.8
