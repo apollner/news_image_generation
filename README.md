@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Traders earned millions anticipating Oct. 7 Hamas attack, study says**
+**Shohei Ohtani’s boring free agency a huge miss for MLB**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2023/12/05/traders-earned-millions-anticipating-oct-7-hamas-attack-study-says/).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtanis-boring-free-agency-a-huge-miss-for-mlb).
 
 ## Requirements
 - Python 3.8
