@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statins: Why many eligible adults aren't taking these drugs**
+**Home explosion rocks Arlington neighborhood after suspect fires flare gun during police search**
 
-You can read more about it [here](https://www.medicalnewstoday.com/articles/most-adults-eligible-for-statins-for-prevention-are-not-using-them).
+You can read more about it [here](https://www.fox5dc.com/news/explosion-at-arlington-home-suspect-fires-flare-gun-at-police-executing-search-warrant-arlington-fire-and-ems-home-explosion).
 
 ## Requirements
 - Python 3.8
