@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antisemitism on college campuses: Harvard, Penn, MIT get grilled by Congress**
+**BABA, JD, BIDU Fall as Moody's Flags Risks in China - TipRanks.com**
 
-You can read more about it [here](https://www.cnn.com/2023/12/05/politics/harvard-penn-mit-antisemitism-congress/index.html).
+You can read more about it [here](https://www.tipranks.com/news/alibaba-nysebaba-jd-com-and-baidu-hit-as-moodys-flags-risks-in-chinas-economic-landscape).
 
 ## Requirements
 - Python 3.8
