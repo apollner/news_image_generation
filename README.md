@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US charges ex-ambassador with spying for Cuba**
+**How to make sure your wounds heal faster as you grow older**
 
-You can read more about it [here](https://www.youtube.com/watch?v=B_i3JbsaQy8).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/04/aging-skin-wound-care-healing/).
 
 ## Requirements
 - Python 3.8
