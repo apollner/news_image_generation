@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft upgrades Copilot with OpenAI’s GPT-4 Turbo and DALL-E 3**
+**Nigerian army drone strike accidentally kills 85 in public religious gathering**
 
-You can read more about it [here](https://www.engadget.com/microsoft-upgrades-copilot-with-openais-gpt-4-turbo-and-dall-e-3-162558170.html).
+You can read more about it [here](https://www.npr.org/2023/12/05/1217317616/nigerian-president-calls-for-investigation-after-army-drone-strike-accident-kill).
 
 ## Requirements
 - Python 3.8
