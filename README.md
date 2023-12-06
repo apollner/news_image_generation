@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyclone Michaung: Heavy rains in southern India as storm makes landfall**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67617727).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
