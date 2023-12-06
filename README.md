@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court considers $6bn deal that shields Sacklers**
+**Israel orders evacuations as it widens offensive, but Palestinians are running out of places to go**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67618641).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-04-2023-ece85568ce36cb2315f26b10adda30fa).
 
 ## Requirements
 - Python 3.8
