@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daily Telescope: An ancient galaxy behind a veil of dust**
+**Mysterious respiratory illness in China raises concerns as cases reported worldwide**
 
-You can read more about it [here](https://arstechnica.com/space/2023/12/daily-telescope-an-ancient-galaxy-behind-a-veil-of-dust/).
+You can read more about it [here](https://abcstlouis.com/news/nation-world/mysterious-respiratory-illness-in-china-raises-concerns-as-cases-reported-worldwide-white-lung-pnuemonia-black-air-in-lungs-covid-19-pandemic-ohio-health-nih).
 
 ## Requirements
 - Python 3.8
