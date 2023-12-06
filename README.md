@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buildings evacuated as quake rattles Philippine capital**
+**Shohei Ohtani, Blue Jays believed to have met Monday at team’s Florida complex**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/62-magnitude-earthquake-felt-philippine-capital-emsc-2023-12-05/).
+You can read more about it [here](https://theathletic.com/5113061/2023/12/05/blue-jays-shohei-ohtani-meeting/).
 
 ## Requirements
 - Python 3.8
