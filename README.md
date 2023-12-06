@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani’s boring free agency a huge miss for MLB**
+**6-year-old boy killed in Northeast Portland dog mauling incident**
 
-You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtanis-boring-free-agency-a-huge-miss-for-mlb).
+You can read more about it [here](https://www.koin.com/news/portland/child-killed-in-northeast-portland-dog-mauling-incident/).
 
 ## Requirements
 - Python 3.8
