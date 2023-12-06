@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Rick Scott demands answers over FSU snubbing as anger builds over college football pick**
+**Who are the Houthis and why are they attacking ships in the Red Sea?**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/04/fsu-snubbed-college-football-pick-00129917).
+You can read more about it [here](https://www.npr.org/2023/12/05/1217056536/houthis-explainer-red-sea-yemen-saudi-middle-east-israel-gaza).
 
 ## Requirements
 - Python 3.8
