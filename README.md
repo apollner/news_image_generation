@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**GTA 6: Trailer for new game revealed after online leak**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/technology-67588537).
 
 ## Requirements
 - Python 3.8
