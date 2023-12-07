@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Module that powered historic moon mission has returned to Earth’s orbit**
+**Classified briefing devolves into shouting as senators fight over border provisions in Ukraine-Israel aid package**
 
-You can read more about it [here](https://www.cnn.com/2023/12/05/world/chandrayaan-3-lunar-lander-propulsion-module-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/05/politics/senate-classified-briefing-devolves/index.html).
 
 ## Requirements
 - Python 3.8
