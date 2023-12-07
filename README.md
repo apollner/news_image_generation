@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Dancing With The Stars’: Xochitl Gomez & Val Chmerkovskiy Discuss Their Season 32 Victory**
+**Europe’s leading tour company could quit the London Stock Exchange**
 
-You can read more about it [here](https://deadline.com/2023/12/dancing-with-the-stars-xochitl-gomez-val-chmerkovskiy-winners-interview-1235654320/).
+You can read more about it [here](https://www.cnn.com/2023/12/06/investing/tui-london-stock-market-listing/index.html).
 
 ## Requirements
 - Python 3.8
