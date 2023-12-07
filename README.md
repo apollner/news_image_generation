@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel previews trial roadmap in federal 2020 election case against Trump**
+**Microsoft's Copilot Is Getting a GPT-4 Turbo Boost**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-special-counsel-jack-smith-trial-roadmap-federal-2020-election-case/).
+You can read more about it [here](https://gizmodo.com/microsoft-copilot-assistant-openai-gpt4-turbo-boost-1851074275).
 
 ## Requirements
 - Python 3.8
