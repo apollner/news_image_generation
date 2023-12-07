@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu says Israel will retain open-ended control of security in Gaza long after war with Hamas**
+**Russia Rejects 'Significant Proposal' to Trade for WSJ's Gershkovich, Whelan, U.S. Says**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-05-2023-8f171da297b565e28156b88d1fc250b1).
+You can read more about it [here](https://www.wsj.com/world/russia/russia-rejects-significant-proposal-for-trade-for-wsjs-gershkovich-whelan-u-s-says-e6522179).
 
 ## Requirements
 - Python 3.8
