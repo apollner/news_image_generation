@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Refs stand by controversial LeBron James timeout call that helped Lakers reach In-Season Tournament semifinals**
+**Taylor Swift caps off massive 2023 by entering her Time Person of the Year era**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/refs-stand-by-controversial-lebron-james-timeout-call-that-helped-lakers-reach-in-season-tournament-semifinals/).
+You can read more about it [here](https://www.courier-journal.com/story/entertainment/2023/12/06/taylor-swift-enters-her-time-person-of-the-year-era-to-cap-off-2023/71823050007/).
 
 ## Requirements
 - Python 3.8
