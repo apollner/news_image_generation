@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Ratifies Contract, Officially Ending Historic Labor Dispute**
+**Where things stand for Cubs on Shohei Ohtani, trade market after wild day at Winter Meetings | Chicago Cubs News**
 
-You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-ratifies-contract-1235822165/).
+You can read more about it [here](https://www.marqueesportsnetwork.com/where-things-stand-for-cubs-on-shohei-ohtani-trade-market-after-wild-day-at-winter-meetings/).
 
 ## Requirements
 - Python 3.8
