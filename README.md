@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's Copilot Is Getting a GPT-4 Turbo Boost**
+**IDF issues rare apology after strike kills Lebanese soldier**
 
-You can read more about it [here](https://gizmodo.com/microsoft-copilot-assistant-openai-gpt4-turbo-boost-1851074275).
+You can read more about it [here](https://www.timesofisrael.com/idf-issues-rare-apology-after-strike-kills-lebanese-soldier/).
 
 ## Requirements
 - Python 3.8
