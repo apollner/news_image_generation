@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden: "It's on all of us" to "condemn the sexual violence of Hamas terrorists"**
+**Putin makes rare visit to the UAE, Saudi Arabia to talk relations**
 
-You can read more about it [here](https://www.axios.com/2023/12/06/biden-hamas-women-hostages).
+You can read more about it [here](https://www.cnbc.com/2023/12/06/putin-makes-rare-visit-to-the-uae-saudi-arabia-to-talk-relations.html).
 
 ## Requirements
 - Python 3.8
