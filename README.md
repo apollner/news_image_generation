@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maduro orders the 'immediate' exploitation of oil, gas and mines in Guyana's Essequibo**
+**SAG-AFTRA Ratifies Contract, Officially Ending Historic Labor Dispute**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/maduro-orders-immediate-exploitation-oil-gas-mines-guyanas-105410639).
+You can read more about it [here](https://variety.com/2023/biz/news/sag-aftra-ratifies-contract-1235822165/).
 
 ## Requirements
 - Python 3.8
