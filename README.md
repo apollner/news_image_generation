@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Clarifies Travis Kelce Romance Timeline: 'No One Knew'**
+**[Removed]**
 
-You can read more about it [here](https://people.com/taylor-swift-clarifies-travis-kelce-romance-timeline-time-person-of-the-year-2023-8411301).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
