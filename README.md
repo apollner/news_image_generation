@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs Accused of ‘Gang Rape’ of 17-Year-Old in New Lawsuit**
+**Do not let Putin win, Biden pleads with Republicans on Ukraine**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/diddy-sued-by-fourth-accuser-1234917410/).
+You can read more about it [here](https://www.reuters.com/world/us/biden-announce-175-mln-ukraine-press-congress-more-2023-12-06/).
 
 ## Requirements
 - Python 3.8
