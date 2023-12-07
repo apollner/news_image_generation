@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG-AFTRA Contract Ending Strike Ratified**
+**Module that powered historic moon mission has returned to Earth’s orbit**
 
-You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/).
+You can read more about it [here](https://www.cnn.com/2023/12/05/world/chandrayaan-3-lunar-lander-propulsion-module-scn/index.html).
 
 ## Requirements
 - Python 3.8
