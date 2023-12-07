@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saudi Arabia urges US restraint as Houthis attack ships in Red Sea**
+**Taylor Swift Clarifies Travis Kelce Romance Timeline: 'No One Knew'**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://people.com/taylor-swift-clarifies-travis-kelce-romance-timeline-time-person-of-the-year-2023-8411301).
 
 ## Requirements
 - Python 3.8
