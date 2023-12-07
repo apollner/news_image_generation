@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosenthal: What I’m hearing at winter meetings about the Dodgers, Reds and Braves**
+**Billionaire Bill Ackman says Harvard, Penn and MIT presidents ‘must all resign in disgrace’**
 
-You can read more about it [here](https://theathletic.com/5116877/2023/12/06/mlb-rumors-dodgers-reds-braves/).
+You can read more about it [here](https://www.cnn.com/2023/12/06/investing/bill-ackman-harvard-penn-antisemitism/index.html).
 
 ## Requirements
 - Python 3.8
