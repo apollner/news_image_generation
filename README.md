@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street bank bosses warn lawmakers of economic toll from tough new rules**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/markets/us/wall-street-bank-bosses-warn-lawmakers-over-new-regulations-2023-12-05/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
