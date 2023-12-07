@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norman Lear, TV Legend, Dies at 101**
+**Refs stand by controversial LeBron James timeout call that helped Lakers reach In-Season Tournament semifinals**
 
-You can read more about it [here](https://variety.com/2023/tv/news/norman-lear-dead-dies-tv-legend-all-in-the-family-1235823995/).
+You can read more about it [here](https://www.cbssports.com/nba/news/refs-stand-by-controversial-lebron-james-timeout-call-that-helped-lakers-reach-in-season-tournament-semifinals/).
 
 ## Requirements
 - Python 3.8
