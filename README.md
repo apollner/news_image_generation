@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Opens Up About Travis Kelce in Time's Person of the Year Story**
+**Israel says it is engaged in the heaviest fighting yet in Gaza**
 
-You can read more about it [here](https://www.today.com/popculture/taylor-swift-travis-kelce-time-magazine-rcna128259).
+You can read more about it [here](https://www.npr.org/2023/12/06/1217508410/israel-hamas-gaza-palestinians-refugees).
 
 ## Requirements
 - Python 3.8
