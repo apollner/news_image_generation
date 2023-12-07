@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Guyana's president says it is preparing to defend itself from Venezuela over disputed area**
+**Sean Combs Accused of ‘Gang Rape’ of 17-Year-Old in New Lawsuit**
 
-You can read more about it [here](https://apnews.com/article/guyana-president-venezuela-essequibo-dispute-3340b813aad91049ac4ff9aa53706471).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/diddy-sued-by-fourth-accuser-1234917410/).
 
 ## Requirements
 - Python 3.8
