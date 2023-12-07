@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Former speaker Kevin McCarthy will retire from Congress at end of year**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/06/kevin-mccarthy-retire/).
 
 ## Requirements
 - Python 3.8
