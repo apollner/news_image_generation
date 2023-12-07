@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former speaker Kevin McCarthy will retire from Congress at end of year**
+**Guyana's president says it is preparing to defend itself from Venezuela over disputed area**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/06/kevin-mccarthy-retire/).
+You can read more about it [here](https://apnews.com/article/guyana-president-venezuela-essequibo-dispute-3340b813aad91049ac4ff9aa53706471).
 
 ## Requirements
 - Python 3.8
