@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia Rejects 'Significant Proposal' to Trade for WSJ's Gershkovich, Whelan, U.S. Says**
+**Special counsel previews trial roadmap in federal 2020 election case against Trump**
 
-You can read more about it [here](https://www.wsj.com/world/russia/russia-rejects-significant-proposal-for-trade-for-wsjs-gershkovich-whelan-u-s-says-e6522179).
+You can read more about it [here](https://www.cbsnews.com/news/trump-special-counsel-jack-smith-trial-roadmap-federal-2020-election-case/).
 
 ## Requirements
 - Python 3.8
