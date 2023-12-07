@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dave Roberts says Dodgers met with Shohei Ohtani**
+**Maduro orders the 'immediate' exploitation of oil, gas and mines in Guyana's Essequibo**
 
-You can read more about it [here](https://www.mlb.com/news/dave-roberts-says-dodgers-met-with-shohei-ohtani).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/maduro-orders-immediate-exploitation-oil-gas-mines-guyanas-105410639).
 
 ## Requirements
 - Python 3.8
