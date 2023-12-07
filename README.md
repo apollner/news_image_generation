@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Russia Punched an $11 Billion Hole in the West's Oil Sanctions**
+**Classified briefing devolves into shouting as senators fight over border provisions in Ukraine-Israel aid package**
 
-You can read more about it [here](https://www.bloomberg.com/news/features/2023-12-06/oil-prices-how-russia-punched-an-11-billion-hole-in-west-s-sanctions-regime).
+You can read more about it [here](https://www.cnn.com/2023/12/05/politics/senate-classified-briefing-devolves/index.html).
 
 ## Requirements
 - Python 3.8
