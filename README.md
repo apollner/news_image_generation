@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin makes rare visit to the UAE, Saudi Arabia to talk relations**
+**Biden says stopping Trump is motivation for second term**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/06/putin-makes-rare-visit-to-the-uae-saudi-arabia-to-talk-relations.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67633706).
 
 ## Requirements
 - Python 3.8
