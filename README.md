@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe’s leading tour company could quit the London Stock Exchange**
+**Putin talks oil, Gaza and Ukraine on Middle East trip, to meet Saudi's MbS**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/investing/tui-london-stock-market-listing/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/putin-talk-oil-uae-saudi-meet-crown-prince-mohammed-bin-salman-2023-12-06/).
 
 ## Requirements
 - Python 3.8
