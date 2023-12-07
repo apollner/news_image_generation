@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Classified briefing devolves into shouting as senators fight over border provisions in Ukraine-Israel aid package**
+**SAG-AFTRA Members Vote to Ratify Strike-Ending Contract**
 
-You can read more about it [here](https://www.cnn.com/2023/12/05/politics/senate-classified-briefing-devolves/index.html).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/).
 
 ## Requirements
 - Python 3.8
