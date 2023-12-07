@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it is engaged in the heaviest fighting yet in Gaza**
+**Norman Lear, TV Legend, Dies at 101**
 
-You can read more about it [here](https://www.npr.org/2023/12/06/1217508410/israel-hamas-gaza-palestinians-refugees).
+You can read more about it [here](https://variety.com/2023/tv/news/norman-lear-dead-dies-tv-legend-all-in-the-family-1235823995/).
 
 ## Requirements
 - Python 3.8
