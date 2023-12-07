@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift caps off massive 2023 by entering her Time Person of the Year era**
+**Saudi Arabia urges US restraint as Houthis attack ships in Red Sea**
 
-You can read more about it [here](https://www.courier-journal.com/story/entertainment/2023/12/06/taylor-swift-enters-her-time-person-of-the-year-era-to-cap-off-2023/71823050007/).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
