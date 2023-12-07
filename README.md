@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF issues rare apology after strike kills Lebanese soldier**
+**SAG-AFTRA Contract Ending Strike Ratified**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-issues-rare-apology-after-strike-kills-lebanese-soldier/).
+You can read more about it [here](https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/).
 
 ## Requirements
 - Python 3.8
