@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says stopping Trump is motivation for second term**
+**‘Dancing With The Stars’: Xochitl Gomez & Val Chmerkovskiy Discuss Their Season 32 Victory**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67633706).
+You can read more about it [here](https://deadline.com/2023/12/dancing-with-the-stars-xochitl-gomez-val-chmerkovskiy-winners-interview-1235654320/).
 
 ## Requirements
 - Python 3.8
