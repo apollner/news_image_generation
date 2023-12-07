@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaire Bill Ackman says Harvard, Penn and MIT presidents ‘must all resign in disgrace’**
+**Wall Street bank bosses warn lawmakers of economic toll from tough new rules**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/investing/bill-ackman-harvard-penn-antisemitism/index.html).
+You can read more about it [here](https://www.reuters.com/markets/us/wall-street-bank-bosses-warn-lawmakers-over-new-regulations-2023-12-05/).
 
 ## Requirements
 - Python 3.8
