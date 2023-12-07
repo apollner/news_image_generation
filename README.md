@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin talks oil, Gaza and Ukraine on Middle East trip, to meet Saudi's MbS**
+**Rosenthal: What I’m hearing at winter meetings about the Dodgers, Reds and Braves**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/putin-talk-oil-uae-saudi-meet-crown-prince-mohammed-bin-salman-2023-12-06/).
+You can read more about it [here](https://theathletic.com/5116877/2023/12/06/mlb-rumors-dodgers-reds-braves/).
 
 ## Requirements
 - Python 3.8
