@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where things stand for Cubs on Shohei Ohtani, trade market after wild day at Winter Meetings | Chicago Cubs News**
+**Biden: "It's on all of us" to "condemn the sexual violence of Hamas terrorists"**
 
-You can read more about it [here](https://www.marqueesportsnetwork.com/where-things-stand-for-cubs-on-shohei-ohtani-trade-market-after-wild-day-at-winter-meetings/).
+You can read more about it [here](https://www.axios.com/2023/12/06/biden-hamas-women-hostages).
 
 ## Requirements
 - Python 3.8
