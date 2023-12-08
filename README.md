@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patriots-Steelers over-under is 30, lowest total in the NFL in decades**
+**UPDATE: Mercer County Sheriff’s Deputy dies during pursuit**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-steelers-over-under-is-30-lowest-total-in-the-nfl-in-decades).
+You can read more about it [here](https://www.kfyrtv.com/2023/12/07/mercer-county-sheriffs-deputy-dies-during-pursuit/).
 
 ## Requirements
 - Python 3.8
