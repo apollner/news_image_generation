@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘She is unapologetically herself’: Taylor Swift reporter discusses the star's Time magazine award**
+**UPDATE: Mercer County Sheriff’s Deputy dies during pursuit**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5o-tU1UW9EE).
+You can read more about it [here](https://www.kfyrtv.com/2023/12/07/mercer-county-sheriffs-deputy-dies-during-pursuit/).
 
 ## Requirements
 - Python 3.8
