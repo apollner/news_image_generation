@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the fourth Republican presidential debate**
+**Sean 'Diddy' Combs accused in gang-rape of teenager in New York**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/sean-diddy-combs-accused-gang-rape-teenager-new-york-2023-12-07/).
 
 ## Requirements
 - Python 3.8
