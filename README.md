@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Democrats join Republicans in voting to strike down Biden's EV mandate**
+**UN chief rings alarm bell on global security threat from Gaza war**
 
-You can read more about it [here](https://www.foxnews.com/politics/democrats-join-republicans-voting-strike-down-bidens-ev-mandate).
+You can read more about it [here](https://www.reuters.com/world/middle-east/un-chief-rings-alarm-bell-global-security-threat-gaza-war-2023-12-06/).
 
 ## Requirements
 - Python 3.8
