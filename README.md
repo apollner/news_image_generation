@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela’s president orders creation of new state and map including land from Guyana**
+**'Buy BTC': Viral Leaked GTA 6 Game Trailer Shills Bitcoin**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/americas/venezuelas-president-orders-creation-of-new-state-and-map-including-land-from-guyana/index.html).
+You can read more about it [here](https://decrypt.co/208899/buy-btc-viral-leaked-gta-6-game-trailer-shills-bitcoin).
 
 ## Requirements
 - Python 3.8
