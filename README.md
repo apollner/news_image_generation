@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC reports "alarming" rise in drug-resistant germs in Ukraine**
+**Google (NASDAQ:GOOGL) Unleashes Its AI Game-Changer Gemini - TipRanks.com**
 
-You can read more about it [here](https://www.cbsnews.com/news/cdc-drug-resistant-bacteria-in-ukraine/).
+You can read more about it [here](https://www.tipranks.com/news/google-nasdaqgoogl-unleashes-the-ai-game-changer-gemini).
 
 ## Requirements
 - Python 3.8
