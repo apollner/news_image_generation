@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Republican presidential debate in Tuscaloosa, Alabama**
+**Venezuela’s president orders creation of new state and map including land from Guyana**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/republican-debate-12-06-23/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/06/americas/venezuelas-president-orders-creation-of-new-state-and-map-including-land-from-guyana/index.html).
 
 ## Requirements
 - Python 3.8
