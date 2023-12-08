@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Democrats join Republicans in voting to strike down Biden's EV mandate**
+**'Buy BTC': Viral Leaked GTA 6 Game Trailer Shills Bitcoin**
 
-You can read more about it [here](https://www.foxnews.com/politics/democrats-join-republicans-voting-strike-down-bidens-ev-mandate).
+You can read more about it [here](https://decrypt.co/208899/buy-btc-viral-leaked-gta-6-game-trailer-shills-bitcoin).
 
 ## Requirements
 - Python 3.8
