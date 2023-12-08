@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPDATE: Mercer County Sheriff’s Deputy dies during pursuit**
+**College Board releases new curriculum for AP African American Studies course**
 
-You can read more about it [here](https://www.kfyrtv.com/2023/12/07/mercer-county-sheriffs-deputy-dies-during-pursuit/).
+You can read more about it [here](https://www.youtube.com/watch?v=n3HINRBVL3Q).
 
 ## Requirements
 - Python 3.8
