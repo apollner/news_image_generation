@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's to open first CosMc's spinoff restaurant this week**
+**Some Democrats join Republicans in voting to strike down Biden's EV mandate**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/06/mcdonalds-to-open-first-cosmcs-spinoff-restaurant-this-week.html).
+You can read more about it [here](https://www.foxnews.com/politics/democrats-join-republicans-voting-strike-down-bidens-ev-mandate).
 
 ## Requirements
 - Python 3.8
