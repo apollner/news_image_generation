@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPDATE: Mercer County Sheriff’s Deputy dies during pursuit**
+**Trump expected to attend New York fraud trial again Thursday as testimony nears an end**
 
-You can read more about it [here](https://www.kfyrtv.com/2023/12/07/mercer-county-sheriffs-deputy-dies-during-pursuit/).
+You can read more about it [here](https://apnews.com/article/donald-trump-fraud-lawsuit-trial-new-york-9713913226e8f65ed966d61ea590eaf5).
 
 ## Requirements
 - Python 3.8
