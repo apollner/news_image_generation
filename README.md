@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crypto is for criminals? JPMorgan has been fined $39B and has its own token**
+**[Removed]**
 
-You can read more about it [here](https://cointelegraph.com/news/jp-morgan-ceo-jamie-dimon-hypocrite-crypto-criminals-shut-down).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
