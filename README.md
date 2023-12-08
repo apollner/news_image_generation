@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump attends his New York fraud trial after skipping GOP debate**
+**Little scoring forecast for Pats-Steelers as low over/under set**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/12/07/trump-ny-trial-appearance/).
+You can read more about it [here](https://www.espn.com/sports-betting/story/_/id/39063848/little-scoring-forecast-pats-steelers-low-set).
 
 ## Requirements
 - Python 3.8
