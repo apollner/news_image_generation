@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNLV shooting: Former college professor kills three on Las Vegas campus**
+**Oprah Winfrey skirts Ozempic rumors as she addresses weight loss in stunning purple gown**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67642512).
+You can read more about it [here](https://pagesix.com/2023/12/07/entertainment/oprah-winfrey-skirts-ozempic-rumors-as-she-stuns-in-another-purple-gown/).
 
 ## Requirements
 - Python 3.8
