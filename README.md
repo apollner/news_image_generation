@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN chief rings alarm bell on global security threat from Gaza war**
+**Trump 'dictator' comment reignites criticism his camp has tried to curb**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/un-chief-rings-alarm-bell-global-security-threat-gaza-war-2023-12-06/).
+You can read more about it [here](https://www.washingtonpost.com/elections/2023/12/06/trump-comments-dictator-campaign-president-2024/).
 
 ## Requirements
 - Python 3.8
