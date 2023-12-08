@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rick Santorum is back — the 'patron saint' of every 2024 long-shot campaign**
+**Jimmy Kimmel Pays Emotional Tribute To Norman Lear On ‘JKL’: “I Hope We Never Forget Him”**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/07/rick-santorum-is-back-the-patron-saint-of-every-2024-longshot-campaign-00130558).
+You can read more about it [here](https://deadline.com/2023/12/jimmy-kimmel-tribute-norman-lear-video-jimmy-kimmel-live-1235656209/).
 
 ## Requirements
 - Python 3.8
