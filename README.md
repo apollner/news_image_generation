@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump 'dictator' comment reignites criticism his camp has tried to curb**
+**Patriots-Steelers over-under is 30, lowest total in the NFL in decades**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2023/12/06/trump-comments-dictator-campaign-president-2024/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-steelers-over-under-is-30-lowest-total-in-the-nfl-in-decades).
 
 ## Requirements
 - Python 3.8
