@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We heard gunshots’: Austin business owner near shooting spree site recalls events**
+**Live updates: Republican presidential debate in Tuscaloosa, Alabama**
 
-You can read more about it [here](https://www.kxan.com/news/texas/we-heard-gunshots-austin-business-owner-near-shooting-spree-site-recalls-events/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/republican-debate-12-06-23/index.html).
 
 ## Requirements
 - Python 3.8
