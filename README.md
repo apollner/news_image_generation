@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey skirts Ozempic rumors as she addresses weight loss in stunning purple gown**
+**Two Russians charged with hacking, trying to meddle in 2019 U.K. election**
 
-You can read more about it [here](https://pagesix.com/2023/12/07/entertainment/oprah-winfrey-skirts-ozempic-rumors-as-she-stuns-in-another-purple-gown/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/12/07/british-election-russian-hack-indicted/).
 
 ## Requirements
 - Python 3.8
