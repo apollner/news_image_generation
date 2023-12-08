@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Buy BTC': Viral Leaked GTA 6 Game Trailer Shills Bitcoin**
+**McDonald's to open first CosMc's spinoff restaurant this week**
 
-You can read more about it [here](https://decrypt.co/208899/buy-btc-viral-leaked-gta-6-game-trailer-shills-bitcoin).
+You can read more about it [here](https://www.cnbc.com/2023/12/06/mcdonalds-to-open-first-cosmcs-spinoff-restaurant-this-week.html).
 
 ## Requirements
 - Python 3.8
