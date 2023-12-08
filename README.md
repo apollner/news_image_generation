@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump expected to attend New York fraud trial again Thursday as testimony nears an end**
+**Russia hacking: 'FSB in years-long cyber attacks on UK', says government**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-fraud-lawsuit-trial-new-york-9713913226e8f65ed966d61ea590eaf5).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67647548).
 
 ## Requirements
 - Python 3.8
