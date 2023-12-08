@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Buy BTC': Viral Leaked GTA 6 Game Trailer Shills Bitcoin**
+**Texas shooting spree: Gunman's parents among 6 dead in attacks, sheriff says**
 
-You can read more about it [here](https://decrypt.co/208899/buy-btc-viral-leaked-gta-6-game-trailer-shills-bitcoin).
+You can read more about it [here](https://apnews.com/article/austin-texas-multiple-shootings-deaths-dd232fca370b38c14db03c39519dcf75).
 
 ## Requirements
 - Python 3.8
