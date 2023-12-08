@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Little scoring forecast for Pats-Steelers as low over/under set**
+**Watch The Game Awards 2023 Right Here**
 
-You can read more about it [here](https://www.espn.com/sports-betting/story/_/id/39063848/little-scoring-forecast-pats-steelers-low-set).
+You can read more about it [here](https://www.gameinformer.com/the-game-awards-2023/2023/12/07/watch-the-game-awards-2023-right-here).
 
 ## Requirements
 - Python 3.8
