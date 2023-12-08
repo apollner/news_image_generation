@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google (NASDAQ:GOOGL) Unleashes Its AI Game-Changer Gemini - TipRanks.com**
+**Donald Trump attends his New York fraud trial after skipping GOP debate**
 
-You can read more about it [here](https://www.tipranks.com/news/google-nasdaqgoogl-unleashes-the-ai-game-changer-gemini).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/12/07/trump-ny-trial-appearance/).
 
 ## Requirements
 - Python 3.8
