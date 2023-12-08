@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Respiratory illness impacting dog industry businesses**
+**‘We heard gunshots’: Austin business owner near shooting spree site recalls events**
 
-You can read more about it [here](https://www.9news.com/article/news/local/9news-mornings/colorado-dog-businesses-respiratory-illness-impacts/73-ecb93d20-1c5d-47a2-a5cd-827a94584cfe).
+You can read more about it [here](https://www.kxan.com/news/texas/we-heard-gunshots-austin-business-owner-near-shooting-spree-site-recalls-events/).
 
 ## Requirements
 - Python 3.8
