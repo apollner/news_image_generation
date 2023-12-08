@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Russians charged with hacking, trying to meddle in 2019 U.K. election**
+**CDC reports "alarming" rise in drug-resistant germs in Ukraine**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/12/07/british-election-russian-hack-indicted/).
+You can read more about it [here](https://www.cbsnews.com/news/cdc-drug-resistant-bacteria-in-ukraine/).
 
 ## Requirements
 - Python 3.8
