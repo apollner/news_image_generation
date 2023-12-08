@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean "Diddy" Combs denies accusations after new gang rape lawsuit**
+**Texas shooting spree: Gunman's parents among 6 dead in attacks, sheriff says**
 
-You can read more about it [here](https://www.cbsnews.com/news/sean-diddy-combs-accused-of-gang-rape-denies-accusation/).
+You can read more about it [here](https://apnews.com/article/austin-texas-multiple-shootings-deaths-dd232fca370b38c14db03c39519dcf75).
 
 ## Requirements
 - Python 3.8
