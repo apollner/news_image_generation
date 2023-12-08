@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to censure Rep. Jamaal Bowman for falsely pulling fire alarm**
+**Amazon's latest Echo Frames are more style than substance**
 
-You can read more about it [here](https://www.foxnews.com/politics/house-votes-censure-rep-jamaal-bowman-falsely-pulling-fire-alarm).
+You can read more about it [here](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses).
 
 ## Requirements
 - Python 3.8
