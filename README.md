@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia stock markets today: Live updates, Australia, China trade, oil prices**
+**PM will fail on Rwanda Bill - Suella Braverman**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/07/asia-markets.html).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67646250).
 
 ## Requirements
 - Python 3.8
