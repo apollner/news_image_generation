@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Kimmel Pays Emotional Tribute To Norman Lear On ‘JKL’: “I Hope We Never Forget Him”**
+**Crypto is for criminals? JPMorgan has been fined $39B and has its own token**
 
-You can read more about it [here](https://deadline.com/2023/12/jimmy-kimmel-tribute-norman-lear-video-jimmy-kimmel-live-1235656209/).
+You can read more about it [here](https://cointelegraph.com/news/jp-morgan-ceo-jamie-dimon-hypocrite-crypto-criminals-shut-down).
 
 ## Requirements
 - Python 3.8
