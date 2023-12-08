@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPDATE: Mercer County Sheriff’s Deputy dies during pursuit**
+**Takeaways from the fourth Republican presidential debate**
 
-You can read more about it [here](https://www.kfyrtv.com/2023/12/07/mercer-county-sheriffs-deputy-dies-during-pursuit/).
+You can read more about it [here](https://www.cnn.com/2023/12/06/politics/takeaways-republican-debate/index.html).
 
 ## Requirements
 - Python 3.8
