@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM will fail on Rwanda Bill - Suella Braverman**
+**Rick Santorum is back — the 'patron saint' of every 2024 long-shot campaign**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67646250).
+You can read more about it [here](https://www.politico.com/news/2023/12/07/rick-santorum-is-back-the-patron-saint-of-every-2024-longshot-campaign-00130558).
 
 ## Requirements
 - Python 3.8
