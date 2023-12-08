@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia hacking: 'FSB in years-long cyber attacks on UK', says government**
+**Asia stock markets today: Live updates, Australia, China trade, oil prices**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67647548).
+You can read more about it [here](https://www.cnbc.com/2023/12/07/asia-markets.html).
 
 ## Requirements
 - Python 3.8
