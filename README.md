@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. poised to approve first gene-editing treatment in breakthrough for sickle cell patients**
+**Taylor Swift Fans Flood Kim Kardashian's Comments Section After Singer’s Quotes About Kanye West Scandal**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/07/crispr-gene-editing-treatment-us-approval.html).
+You can read more about it [here](https://www.etonline.com/taylor-swift-fans-flood-kim-kardashians-comments-section-after-singers-quotes-about-kanye-west).
 
 ## Requirements
 - Python 3.8
