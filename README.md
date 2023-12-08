@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas shooting spree: Gunman's parents among 6 dead in attacks, sheriff says**
+**Joel Klatt reveals his Top 3 transfer portal QBs, potential landing spots**
 
-You can read more about it [here](https://apnews.com/article/austin-texas-multiple-shootings-deaths-dd232fca370b38c14db03c39519dcf75).
+You can read more about it [here](https://www.on3.com/transfer-portal/news/joel-klatt-reveals-his-top-3-transfer-portal-qbs-potential-landing-spots/).
 
 ## Requirements
 - Python 3.8
