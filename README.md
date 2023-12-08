@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon's latest Echo Frames are more style than substance**
+**U.S. poised to approve first gene-editing treatment in breakthrough for sickle cell patients**
 
-You can read more about it [here](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses).
+You can read more about it [here](https://www.cnbc.com/2023/12/07/crispr-gene-editing-treatment-us-approval.html).
 
 ## Requirements
 - Python 3.8
