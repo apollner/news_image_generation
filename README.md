@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Do not let Putin win, Biden pleads with Republicans on Ukraine**
+**Respiratory illness impacting dog industry businesses**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-announce-175-mln-ukraine-press-congress-more-2023-12-06/).
+You can read more about it [here](https://www.9news.com/article/news/local/9news-mornings/colorado-dog-businesses-respiratory-illness-impacts/73-ecb93d20-1c5d-47a2-a5cd-827a94584cfe).
 
 ## Requirements
 - Python 3.8
