@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Klatt reveals his Top 3 transfer portal QBs, potential landing spots**
+**Some Democrats join Republicans in voting to strike down Biden's EV mandate**
 
-You can read more about it [here](https://www.on3.com/transfer-portal/news/joel-klatt-reveals-his-top-3-transfer-portal-qbs-potential-landing-spots/).
+You can read more about it [here](https://www.foxnews.com/politics/democrats-join-republicans-voting-strike-down-bidens-ev-mandate).
 
 ## Requirements
 - Python 3.8
