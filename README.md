@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Facebook and Messenger to automatically encrypt messages**
+**House votes to censure Rep. Jamaal Bowman for falsely pulling fire alarm**
 
-You can read more about it [here](https://www.bbc.com/news/technology-67646047).
+You can read more about it [here](https://www.foxnews.com/politics/house-votes-censure-rep-jamaal-bowman-falsely-pulling-fire-alarm).
 
 ## Requirements
 - Python 3.8
