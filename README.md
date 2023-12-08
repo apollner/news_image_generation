@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the fourth Republican presidential debate**
+**‘She is unapologetically herself’: Taylor Swift reporter discusses the star's Time magazine award**
 
-You can read more about it [here](https://www.cnn.com/2023/12/06/politics/takeaways-republican-debate/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=5o-tU1UW9EE).
 
 ## Requirements
 - Python 3.8
