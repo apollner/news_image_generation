@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war live updates: Putin tells reporters he will run for re-election in March; U.S. aid hangs in balance after failed vote**
+**US raises criticism of Israel ahead of UNSC ceasefire meeting**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/08/russia-ukraine-live-updates.html).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/8/us-raises-criticism-of-israel-ahead-of-unsc-ceasefire-resolution-meeting).
 
 ## Requirements
 - Python 3.8
