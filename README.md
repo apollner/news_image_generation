@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US raises criticism of Israel ahead of UNSC ceasefire meeting**
+**Hunter Biden hit with federal charges for evading tax**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/8/us-raises-criticism-of-israel-ahead-of-unsc-ceasefire-resolution-meeting).
+You can read more about it [here](https://www.reuters.com/legal/doj-files-new-criminal-charges-against-hunter-biden-cnn-2023-12-08/).
 
 ## Requirements
 - Python 3.8
