@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Will Turn Beirut Into Gaza If...": Netanyahu's Warning To Hezbollah**
+**No Man's Sky studio unveils procedural fantasy planet adventure Light No Fire**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-will-turn-beirut-into-gaza-if-netanyahu-stern-warning-to-hezbollah-4644410).
+You can read more about it [here](https://www.eurogamer.net/no-mans-sky-studio-unveils-procedural-fantasy-planet-adventure-light-no-fire).
 
 ## Requirements
 - Python 3.8
