@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State veterinarian warns of respiratory illness affecting WA dogs**
+**Best games of 2023: ‘Starfield,’ ‘Baldur’s Gate 3’ and more**
 
-You can read more about it [here](https://www.seattletimes.com/seattle-news/state-veterinarian-warns-of-respiratory-illness-affecting-wa-dogs/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2023/12/08/best-video-games-2023/).
 
 ## Requirements
 - Python 3.8
