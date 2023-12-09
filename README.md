@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches Falcon 9 rocket from California carrying 22 Starlink satellites – Spaceflight Now**
+**Ukraine war live updates: Putin tells reporters he will run for re-election in March; U.S. aid hangs in balance after failed vote**
 
-You can read more about it [here](https://spaceflightnow.com/2023/12/08/live-coverage-spacex-to-launch-falcon-9-rocket-from-california-carrying-22-starlink-satellites/).
+You can read more about it [here](https://www.cnbc.com/2023/12/08/russia-ukraine-live-updates.html).
 
 ## Requirements
 - Python 3.8
