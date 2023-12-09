@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez confirms she’s in a relationship with Benny Blanco**
+**Stock market news today: Stocks fall after surprise drop in US unemployment**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/entertainment/selena-gomez-relationship-benny-blanco-intl-scli/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-fall-after-surprise-drop-in-us-unemployment-135021470.html).
 
 ## Requirements
 - Python 3.8
