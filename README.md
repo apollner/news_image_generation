@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches its 90th orbital mission of the year (video)**
+**Steelers vs. Patriots odds, line, spread: Thursday Night Football picks, predictions by model on 176-128 roll**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-33).
+You can read more about it [here](https://www.cbssports.com/nfl/news/steelers-vs-patriots-odds-line-spread-thursday-night-football-picks-predictions-by-model-on-176-128-roll/).
 
 ## Requirements
 - Python 3.8
