@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dak wants to 'gift a big W' to McCarthy vs. Eagles**
+**The Game Awards 2023: Everything Announced**
 
-You can read more about it [here](https://www.dallascowboys.com/news/dak-wants-to-gift-a-big-w-to-mccarthy-vs-eagles).
+You can read more about it [here](https://www.ign.com/articles/the-game-awards-2023-everything-announced).
 
 ## Requirements
 - Python 3.8
