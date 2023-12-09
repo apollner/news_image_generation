@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Derek Hough’s Wife Hayley Erbert Undergoes Emergency Craniectomy After Experiencing Symptoms While On Dance Tour**
+**First on CNN: Federal prosecutors file new criminal case against Hunter Biden**
 
-You can read more about it [here](https://deadline.com/2023/12/derek-hough-wife-hayley-emergency-craniectomy-1235657219/).
+You can read more about it [here](https://www.cnn.com/2023/12/07/politics/hunter-biden-criminal-case/index.html).
 
 ## Requirements
 - Python 3.8
