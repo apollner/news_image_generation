@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Jumping Off the Cliff Every Day’: Emma Stone and Bradley Cooper Spent Six Years Each on ‘Poor Things’ and ‘Maestro’**
+**Hunter Biden hit with federal charges for evading tax**
 
-You can read more about it [here](https://variety.com/2023/film/features/emma-stone-bradley-cooper-poor-things-maestro-1235821401/).
+You can read more about it [here](https://www.reuters.com/legal/doj-files-new-criminal-charges-against-hunter-biden-cnn-2023-12-08/).
 
 ## Requirements
 - Python 3.8
