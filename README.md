@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Game Awards 2023: Everything Announced**
+**First on CNN: Federal prosecutors file new criminal case against Hunter Biden**
 
-You can read more about it [here](https://www.ign.com/articles/the-game-awards-2023-everything-announced).
+You can read more about it [here](https://www.cnn.com/2023/12/07/politics/hunter-biden-criminal-case/index.html).
 
 ## Requirements
 - Python 3.8
