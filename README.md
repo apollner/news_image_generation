@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.N. says Gaza aid program in tatters, Israel pushes assault**
+**Shohei Ohtani to the Blue Jays? Projecting how MLB star would fit in Toronto's 2024 lineup, 2025 rotation**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/08/israel-gaza-hamas-aid-un/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-to-the-blue-jays-projecting-how-mlb-star-would-fit-in-torontos-2024-lineup-2025-rotation/).
 
 ## Requirements
 - Python 3.8
