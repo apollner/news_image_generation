@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman arrested for pouring gasoline, trying to burn down Martin Luther King Jr.’s birth home**
+**"Will Turn Beirut Into Gaza If...": Netanyahu's Warning To Hezbollah**
 
-You can read more about it [here](https://www.wsbtv.com/news/local/police-investigating-after-person-tries-vandalize-martin-luther-king-jrs-home-near-king-center/NEBC6LEK4RABJNRYEKTFV6X7AU/).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-will-turn-beirut-into-gaza-if-netanyahu-stern-warning-to-hezbollah-4644410).
 
 ## Requirements
 - Python 3.8
