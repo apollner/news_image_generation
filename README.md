@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poll: A third of Americans approve of Biden's Israel-Hamas response**
+**Rwanda: How the country views the UK's asylum deal**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/08/biden-israel-hamas-response-poll-00130832).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67659440).
 
 ## Requirements
 - Python 3.8
