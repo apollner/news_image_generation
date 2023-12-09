@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers vs. Patriots odds, line, spread: Thursday Night Football picks, predictions by model on 176-128 roll**
+**Bills coach Sean McDermott - Apologized for 9/11 remarks in 2019**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/steelers-vs-patriots-odds-line-spread-thursday-night-football-picks-predictions-by-model-on-176-128-roll/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39065999/bills-coach-sean-mcdermott-regrets-9-11-comments-apologizes).
 
 ## Requirements
 - Python 3.8
