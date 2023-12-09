@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda: How the country views the UK's asylum deal**
+**‘Jumping Off the Cliff Every Day’: Emma Stone and Bradley Cooper Spent Six Years Each on ‘Poor Things’ and ‘Maestro’**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67659440).
+You can read more about it [here](https://variety.com/2023/film/features/emma-stone-bradley-cooper-poor-things-maestro-1235821401/).
 
 ## Requirements
 - Python 3.8
