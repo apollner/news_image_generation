@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is expected to attend New York fraud trial again**
+**New England Patriots vs. Pittsburgh Steelers | 2023 Week 14 Game Highlights**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-fraud-lawsuit-trial-new-york-9713913226e8f65ed966d61ea590eaf5).
+You can read more about it [here](https://www.youtube.com/watch?v=3r_lXz3nQfY).
 
 ## Requirements
 - Python 3.8
