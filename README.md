@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New England Patriots vs. Pittsburgh Steelers | 2023 Week 14 Game Highlights**
+**Dak wants to 'gift a big W' to McCarthy vs. Eagles**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3r_lXz3nQfY).
+You can read more about it [here](https://www.dallascowboys.com/news/dak-wants-to-gift-a-big-w-to-mccarthy-vs-eagles).
 
 ## Requirements
 - Python 3.8
