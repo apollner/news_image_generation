@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vivek Ramaswamy's debate theatrics disgust Fox News hosts**
+**The Game Awards 2023: Everything Announced**
 
-You can read more about it [here](https://www.axios.com/2023/12/08/vivek-ramaswamy-debate-fox-news-reaction-response).
+You can read more about it [here](https://www.ign.com/articles/the-game-awards-2023-everything-announced).
 
 ## Requirements
 - Python 3.8
