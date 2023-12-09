@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norman Lear Exited To Songs From The TV Themes He Made Famous**
+**The UN secretary-general invoked 'Article 99' to push for a Gaza cease-fire. What exactly is it?**
 
-You can read more about it [here](https://deadline.com/2023/12/norman-lear-exited-to-songs-from-the-tv-themes-he-made-famous-1235658128/).
+You can read more about it [here](https://apnews.com/article/un-article-99-gaza-israel-hamas-ceasefire-guterres-334858e6a3eee7a71e050a6ea03de635).
 
 ## Requirements
 - Python 3.8
