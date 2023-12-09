@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NewsNation’s GOP Debate Coverage Draws More Than 4 Million, A Drop From The Last Republican Faceoff But A Record For The Network**
+**MIT, UPenn, Harvard University presidents under fire over testimony on antisemitism, genocide**
 
-You can read more about it [here](https://deadline.com/2023/12/gop-debate-ratings-drop-1235657080/).
+You can read more about it [here](https://www.youtube.com/watch?v=M4IXFtCt8XM).
 
 ## Requirements
 - Python 3.8
