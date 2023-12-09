@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No Man's Sky studio unveils procedural fantasy planet adventure Light No Fire**
+**NBA In-Season Tournament championship bracket set: Lakers will face Pacers for NBA Cup**
 
-You can read more about it [here](https://www.eurogamer.net/no-mans-sky-studio-unveils-procedural-fantasy-planet-adventure-light-no-fire).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-in-season-tournament-championship-bracket-set-lakers-will-face-pacers-for-nba-cup/).
 
 ## Requirements
 - Python 3.8
