@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Big Vision Behind These iOS, WatchOS Updates**
+**Selena Gomez confirms she’s in a relationship with Benny Blanco**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CMriaxV1DEc).
+You can read more about it [here](https://www.cnn.com/2023/12/08/entertainment/selena-gomez-relationship-benny-blanco-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
