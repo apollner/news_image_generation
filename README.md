@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The UN secretary-general invoked 'Article 99' to push for a Gaza cease-fire. What exactly is it?**
+**SpaceX launches Falcon 9 rocket from California carrying 22 Starlink satellites – Spaceflight Now**
 
-You can read more about it [here](https://apnews.com/article/un-article-99-gaza-israel-hamas-ceasefire-guterres-334858e6a3eee7a71e050a6ea03de635).
+You can read more about it [here](https://spaceflightnow.com/2023/12/08/live-coverage-spacex-to-launch-falcon-9-rocket-from-california-carrying-22-starlink-satellites/).
 
 ## Requirements
 - Python 3.8
