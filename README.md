@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNLV shooting suspect Anthony Polito applied for professor job, wasn't hired: Sources**
+**Woman arrested for pouring gasoline, trying to burn down Martin Luther King Jr.’s birth home**
 
-You can read more about it [here](https://abcnews.go.com/US/unlv-suspected-shooter-identified-sources/story?id=105448262).
+You can read more about it [here](https://www.wsbtv.com/news/local/police-investigating-after-person-tries-vandalize-martin-luther-king-jrs-home-near-king-center/NEBC6LEK4RABJNRYEKTFV6X7AU/).
 
 ## Requirements
 - Python 3.8
