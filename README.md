@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best games of 2023: ‘Starfield,’ ‘Baldur’s Gate 3’ and more**
+**Rwanda: How the country views the UK's asylum deal**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2023/12/08/best-video-games-2023/).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67659440).
 
 ## Requirements
 - Python 3.8
