@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch The Game Awards 2023 Right Here**
+**SpaceX launches its 90th orbital mission of the year (video)**
 
-You can read more about it [here](https://www.gameinformer.com/the-game-awards-2023/2023/12/07/watch-the-game-awards-2023-right-here).
+You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-33).
 
 ## Requirements
 - Python 3.8
