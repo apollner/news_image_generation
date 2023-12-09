@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First on CNN: Federal prosecutors file new criminal case against Hunter Biden**
+**UNLV shooting suspect Anthony Polito applied for professor job, wasn't hired: Sources**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/politics/hunter-biden-criminal-case/index.html).
+You can read more about it [here](https://abcnews.go.com/US/unlv-suspected-shooter-identified-sources/story?id=105448262).
 
 ## Requirements
 - Python 3.8
