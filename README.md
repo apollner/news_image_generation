@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda: How the country views the UK's asylum deal**
+**Race without Limits with Rocket Racing in Fortnite! - TrackerFortnite**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67659440).
+You can read more about it [here](https://www.fortnite.com/news/race-without-limits-with-rocket-racing-in-fortnite).
 
 ## Requirements
 - Python 3.8
