@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: Stocks fall after surprise drop in US unemployment**
+**Microsoft's links with OpenAI to be examined by competition watchdog**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-stocks-fall-after-surprise-drop-in-us-unemployment-135021470.html).
+You can read more about it [here](https://www.bbc.com/news/business-67657895).
 
 ## Requirements
 - Python 3.8
