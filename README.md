@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exhausted America: CDC says 3.3 million people suffer chronic fatigue syndrome**
+**Poll: A third of Americans approve of Biden's Israel-Hamas response**
 
-You can read more about it [here](https://www.axios.com/2023/12/08/chronic-fatigue-syndrome-america-cdc).
+You can read more about it [here](https://www.politico.com/news/2023/12/08/biden-israel-hamas-response-poll-00130832).
 
 ## Requirements
 - Python 3.8
