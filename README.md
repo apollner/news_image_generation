@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump returns to court as New York fraud trial nears its end**
+**NewsNation’s GOP Debate Coverage Draws More Than 4 Million, A Drop From The Last Republican Faceoff But A Record For The Network**
 
-You can read more about it [here](https://www.cbsnews.com/news/donald-trump-in-court-today-new-york-fraud-trial-nears-end/).
+You can read more about it [here](https://deadline.com/2023/12/gop-debate-ratings-drop-1235657080/).
 
 ## Requirements
 - Python 3.8
