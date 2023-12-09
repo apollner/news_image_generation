@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MIT, UPenn, Harvard University presidents under fire over testimony on antisemitism, genocide**
+**Trump is expected to attend New York fraud trial again**
 
-You can read more about it [here](https://www.youtube.com/watch?v=M4IXFtCt8XM).
+You can read more about it [here](https://apnews.com/article/donald-trump-fraud-lawsuit-trial-new-york-9713913226e8f65ed966d61ea590eaf5).
 
 ## Requirements
 - Python 3.8
