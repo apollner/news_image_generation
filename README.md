@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA In-Season Tournament championship bracket set: Lakers will face Pacers for NBA Cup**
+**Norman Lear Exited To Songs From The TV Themes He Made Famous**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-in-season-tournament-championship-bracket-set-lakers-will-face-pacers-for-nba-cup/).
+You can read more about it [here](https://deadline.com/2023/12/norman-lear-exited-to-songs-from-the-tv-themes-he-made-famous-1235658128/).
 
 ## Requirements
 - Python 3.8
