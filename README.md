@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Race without Limits with Rocket Racing in Fortnite! - TrackerFortnite**
+**Exhausted America: CDC says 3.3 million people suffer chronic fatigue syndrome**
 
-You can read more about it [here](https://www.fortnite.com/news/race-without-limits-with-rocket-racing-in-fortnite).
+You can read more about it [here](https://www.axios.com/2023/12/08/chronic-fatigue-syndrome-america-cdc).
 
 ## Requirements
 - Python 3.8
