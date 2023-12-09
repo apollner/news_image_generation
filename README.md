@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First on CNN: Federal prosecutors file new criminal case against Hunter Biden**
+**Trump returns to court as New York fraud trial nears its end**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/politics/hunter-biden-criminal-case/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-in-court-today-new-york-fraud-trial-nears-end/).
 
 ## Requirements
 - Python 3.8
