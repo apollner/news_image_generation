@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's links with OpenAI to be examined by competition watchdog**
+**State veterinarian warns of respiratory illness affecting WA dogs**
 
-You can read more about it [here](https://www.bbc.com/news/business-67657895).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/state-veterinarian-warns-of-respiratory-illness-affecting-wa-dogs/).
 
 ## Requirements
 - Python 3.8
