@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Will Turn Beirut Into Gaza If...": Netanyahu's Warning To Hezbollah**
+**Vivek Ramaswamy's debate theatrics disgust Fox News hosts**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-hamas-war-will-turn-beirut-into-gaza-if-netanyahu-stern-warning-to-hezbollah-4644410).
+You can read more about it [here](https://www.axios.com/2023/12/08/vivek-ramaswamy-debate-fox-news-reaction-response).
 
 ## Requirements
 - Python 3.8
