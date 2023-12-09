@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills coach Sean McDermott - Apologized for 9/11 remarks in 2019**
+**Derek Hough’s Wife Hayley Erbert Undergoes Emergency Craniectomy After Experiencing Symptoms While On Dance Tour**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39065999/bills-coach-sean-mcdermott-regrets-9-11-comments-apologizes).
+You can read more about it [here](https://deadline.com/2023/12/derek-hough-wife-hayley-emergency-craniectomy-1235657219/).
 
 ## Requirements
 - Python 3.8
