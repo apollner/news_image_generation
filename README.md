@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Browns won't name Joe Flacco or Dorian Thompson-Robinson as starting QB vs. Jaguars yet**
+**Derek Hough shares update on wife Hayley Erbert after her 'unfathomable' emergency brain surgery**
 
-You can read more about it [here](https://sports.yahoo.com/browns-wont-name-joe-flacco-or-dorian-thompson-robinson-as-starting-qb-vs-jaguars-yet-234849634.html).
+You can read more about it [here](https://pagesix.com/2023/12/08/entertainment/derek-hough-shares-update-on-wife-hayley-after-her-brain-surgery/).
 
 ## Requirements
 - Python 3.8
