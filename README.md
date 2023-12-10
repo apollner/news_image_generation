@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uproar over university presidents' remarks on antisemitism underscores tensions on campuses**
+**Tony Finau Addresses LIV Rumors and Jon Rahm's Signing: 'I'm Happy For Him'**
 
-You can read more about it [here](https://abcnews.go.com/US/uproar-university-presidents-remarks-antisemitism-underscores-tensions-campuses/story?id=105502845).
+You can read more about it [here](https://www.si.com/golf/news/tony-finau-liv-golf-jon-rahm-pga-tour-grant-thornton-invitational).
 
 ## Requirements
 - Python 3.8
