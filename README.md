@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Harvard president apologizes over answers in antisemitism hearing**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2023/12/08/harvard-president-apology-antisemitism-congress).
 
 ## Requirements
 - Python 3.8
