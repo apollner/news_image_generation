@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Terrence Howard sues Creative Artists Agency LLC for fraud over work on Fox show 'Empire'**
+**Completion of Juan Soto trade was slowed down due to one Yankees player's medicals**
 
-You can read more about it [here](https://abc7.com/terrence-howard-lawsuit-creative-artists-agency-los-angeles/14156486/).
+You can read more about it [here](https://sny.tv/articles/juan-soto-trade-slowed-down-yankees-padres-medicals).
 
 ## Requirements
 - Python 3.8
