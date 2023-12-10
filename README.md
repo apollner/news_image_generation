@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US approves CRISPR gene-editing to treat sickle cell disease**
+**Canada's surging cost of living fuels reverse immigration**
 
-You can read more about it [here](https://www.dw.com/en/us-approves-crispr-gene-editing-to-treat-sickle-cell-disease/a-67674885).
+You can read more about it [here](https://www.reuters.com/world/americas/canadas-surging-cost-living-fuels-reverse-immigration-2023-12-09/).
 
 ## Requirements
 - Python 3.8
