@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration approves $8.2 billion for high-speed rail projects**
+**Browns won't name Joe Flacco or Dorian Thompson-Robinson as starting QB vs. Jaguars yet**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vxVQ6kuSxY0).
+You can read more about it [here](https://sports.yahoo.com/browns-wont-name-joe-flacco-or-dorian-thompson-robinson-as-starting-qb-vs-jaguars-yet-234849634.html).
 
 ## Requirements
 - Python 3.8
