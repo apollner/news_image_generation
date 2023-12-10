@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US vetoes UN resolution backed by many nations demanding immediate humanitarian cease-fire in Gaza**
+**US skips congressional review to approve emergency sale of tank shells to Israel**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-un-resolution-ceasefire-humanitarian-6d3bfd31d6c25168e828274d96b85cf8).
+You can read more about it [here](https://www.reuters.com/world/us-oks-potential-sale-tank-cartridges-israel-1065-mln-2023-12-09/).
 
 ## Requirements
 - Python 3.8
