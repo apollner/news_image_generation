@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“Israel will not achieve objective of destroying Hamas”**
+**Philippines accuses China of shooting water cannon at its boats**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4KOc-_rh8vc).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67668930).
 
 ## Requirements
 - Python 3.8
