@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN to host two GOP presidential primary debates in 2024**
+**Stocks notch a sixth straight week of gains after November jobs data**
 
-You can read more about it [here](https://www.cnn.com/2023/12/07/politics/cnn-gop-presidential-primary-debates-2024/index.html).
+You can read more about it [here](https://www.cnn.com/business/live-news/markets-jobs-report-november-120823/index.html).
 
 ## Requirements
 - Python 3.8
