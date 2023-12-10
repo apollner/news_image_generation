@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada's surging cost of living fuels reverse immigration**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/americas/canadas-surging-cost-living-fuels-reverse-immigration-2023-12-09/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
