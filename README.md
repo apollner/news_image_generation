@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US skips congressional review to approve emergency sale of tank shells to Israel**
+**See Prince William, Princess Kate and their kids' Christmas card photo**
 
-You can read more about it [here](https://www.reuters.com/world/us-oks-potential-sale-tank-cartridges-israel-1065-mln-2023-12-09/).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/prince-william-princess-kate-share-familys-christmas-card-105503867).
 
 ## Requirements
 - Python 3.8
