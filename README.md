@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tony Finau Addresses LIV Rumors and Jon Rahm's Signing: 'I'm Happy For Him'**
+**US vetoes UN resolution backed by many nations demanding immediate humanitarian cease-fire in Gaza**
 
-You can read more about it [here](https://www.si.com/golf/news/tony-finau-liv-golf-jon-rahm-pga-tour-grant-thornton-invitational).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-un-resolution-ceasefire-humanitarian-6d3bfd31d6c25168e828274d96b85cf8).
 
 ## Requirements
 - Python 3.8
