@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barbra Streisand pays tribute to her late ex Ryan O’Neal: ‘Funny and charming’**
+**“Israel will not achieve objective of destroying Hamas”**
 
-You can read more about it [here](https://nypost.com/2023/12/08/entertainment/barbra-streisand-pays-tribute-to-her-late-ex-ryan-oneal-funny-and-charming/).
+You can read more about it [here](https://www.youtube.com/watch?v=4KOc-_rh8vc).
 
 ## Requirements
 - Python 3.8
