@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US vetoes UN resolution backed by many nations demanding immediate humanitarian cease-fire in Gaza**
+**Latest Israel-Hamas war news summary and Gaza death toll updates**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-un-resolution-ceasefire-humanitarian-6d3bfd31d6c25168e828274d96b85cf8).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/09/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
