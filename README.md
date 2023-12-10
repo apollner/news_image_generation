@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Help is not on the way': Adams despondent after DC trip**
+**Humanitarian crisis worsens in Gaza as Israel-Hamas war intensifies**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/08/mayor-eric-adams-dc-trip-00130859).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-08-23/index.html).
 
 ## Requirements
 - Python 3.8
