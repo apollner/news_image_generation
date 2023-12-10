@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks notch a sixth straight week of gains after November jobs data**
+**Comer says special counsel indicted Hunter Biden to ‘protect him’ from House GOP investigation**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/markets-jobs-report-november-120823/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/08/politics/james-comer-hunter-biden-reaction/index.html).
 
 ## Requirements
 - Python 3.8
