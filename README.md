@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch and everything you need to know about the 2023 Heisman Trophy finalists**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 14, 2023: Model eyeing Packers, Raiders**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/sport/2023-heisman-trophy-winners-ceremony-spt-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-14-2023-model-eyeing-packers-raiders/).
 
 ## Requirements
 - Python 3.8
