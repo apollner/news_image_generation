@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Derek Hough shares update on wife Hayley Erbert after her 'unfathomable' emergency brain surgery**
+**Ethan Crumbley sentenced to life in prison without parole for killing 4 students in Michigan school shooting**
 
-You can read more about it [here](https://pagesix.com/2023/12/08/entertainment/derek-hough-shares-update-on-wife-hayley-after-her-brain-surgery/).
+You can read more about it [here](https://www.cnn.com/2023/12/08/us/oxford-shooting-ethan-crumbley-sentencing/index.html).
 
 ## Requirements
 - Python 3.8
