@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senators unveil live ticketing reform bill aimed at bots and resellers**
+**Biden administration approves $8.2 billion for high-speed rail projects**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/tech/senators-unveil-live-ticketing-reform-bill-aimed-at-bots-and-resellers/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=vxVQ6kuSxY0).
 
 ## Requirements
 - Python 3.8
