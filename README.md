@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comer says special counsel indicted Hunter Biden to ‘protect him’ from House GOP investigation**
+**Uproar over university presidents' remarks on antisemitism underscores tensions on campuses**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/politics/james-comer-hunter-biden-reaction/index.html).
+You can read more about it [here](https://abcnews.go.com/US/uproar-university-presidents-remarks-antisemitism-underscores-tensions-campuses/story?id=105502845).
 
 ## Requirements
 - Python 3.8
