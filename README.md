@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Chainz Rushed to Hospital After Car Accident in Miami During Art Basel**
+**US vetoes UN resolution backed by many nations demanding immediate humanitarian cease-fire in Gaza**
 
-You can read more about it [here](https://www.tmz.com/2023/12/09/2-chainz-car-accident-hospital-art-basel-miami/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-un-resolution-ceasefire-humanitarian-6d3bfd31d6c25168e828274d96b85cf8).
 
 ## Requirements
 - Python 3.8
