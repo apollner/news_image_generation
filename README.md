@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ethan Crumbley sentenced to life without parole for Oxford, Michigan, school shooting**
+**Terrence Howard sues Creative Artists Agency LLC for fraud over work on Fox show 'Empire'**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/ethan-crumbley-sentencing-oxford-shooting-12-08-23/index.html).
+You can read more about it [here](https://abc7.com/terrence-howard-lawsuit-creative-artists-agency-los-angeles/14156486/).
 
 ## Requirements
 - Python 3.8
