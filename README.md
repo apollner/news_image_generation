@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Nikki Haley polls better against Joe Biden than Donald Trump does**
+**US approves CRISPR gene-editing to treat sickle cell disease**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/09/haley-electability-trump-biden-polls-00130926).
+You can read more about it [here](https://www.dw.com/en/us-approves-crispr-gene-editing-to-treat-sickle-cell-disease/a-67674885).
 
 ## Requirements
 - Python 3.8
