@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chronic fatigue syndrome is more common than past studies suggest**
+**'Help is not on the way': Adams despondent after DC trip**
 
-You can read more about it [here](https://apnews.com/article/chronic-fatigue-syndrome-long-covid-cdc-c7f3dddbe88ec40d70448743fd479b30).
+You can read more about it [here](https://www.politico.com/news/2023/12/08/mayor-eric-adams-dc-trip-00130859).
 
 ## Requirements
 - Python 3.8
