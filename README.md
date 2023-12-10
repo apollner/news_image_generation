@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard president apologizes for her disastrous testimony at antisemitism hearing: ‘Words matter’**
+**Why Nikki Haley polls better against Joe Biden than Donald Trump does**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/business/harvard-president-apologizes/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/09/haley-electability-trump-biden-polls-00130926).
 
 ## Requirements
 - Python 3.8
