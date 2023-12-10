@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Geoff Keighley Agrees Music Was Played "Too Fast" For TGA Winners This Year**
+**Sam Altman Accused of "Psychologically Abusive" Behavior**
 
-You can read more about it [here](https://www.nintendolife.com/news/2023/12/geoff-keighley-agrees-music-was-played-too-fast-for-tga-winners-this-year).
+You can read more about it [here](https://gizmodo.com/sam-altman-ceo-psychologically-abusive-openai-1851082091).
 
 ## Requirements
 - Python 3.8
