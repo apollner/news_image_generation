@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As they prepare to accept her Nobel prize, jailed activist’s children believe they’ll never see her again**
+**2 Chainz Rushed to Hospital After Car Accident in Miami During Art Basel**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/middleeast/narges-mohammadi-nobel-children-intl/index.html).
+You can read more about it [here](https://www.tmz.com/2023/12/09/2-chainz-car-accident-hospital-art-basel-miami/).
 
 ## Requirements
 - Python 3.8
