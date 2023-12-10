@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Israel-Hamas war news summary and Gaza death toll updates**
+**Ethan Crumbley sentenced to life without parole for Oxford, Michigan, school shooting**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/09/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://www.cnn.com/us/live-news/ethan-crumbley-sentencing-oxford-shooting-12-08-23/index.html).
 
 ## Requirements
 - Python 3.8
