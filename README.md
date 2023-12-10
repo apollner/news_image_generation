@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mystery: Thousands of tons of dead fish wash up on Japan's northern coast**
+**Stocks notch a sixth straight week of gains after November jobs data**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/12/08/dead-fish-hakodate-hokkaido-japan/71856139007/).
+You can read more about it [here](https://www.cnn.com/business/live-news/markets-jobs-report-november-120823/index.html).
 
 ## Requirements
 - Python 3.8
