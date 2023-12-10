@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Completion of Juan Soto trade was slowed down due to one Yankees player's medicals**
+**Geoff Keighley Agrees Music Was Played "Too Fast" For TGA Winners This Year**
 
-You can read more about it [here](https://sny.tv/articles/juan-soto-trade-slowed-down-yankees-padres-medicals).
+You can read more about it [here](https://www.nintendolife.com/news/2023/12/geoff-keighley-agrees-music-was-played-too-fast-for-tga-winners-this-year).
 
 ## Requirements
 - Python 3.8
