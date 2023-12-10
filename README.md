@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ethan Crumbley sentenced to life in prison without parole for killing 4 students in Michigan school shooting**
+**CNN to host two GOP presidential primary debates in 2024**
 
-You can read more about it [here](https://www.cnn.com/2023/12/08/us/oxford-shooting-ethan-crumbley-sentencing/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/07/politics/cnn-gop-presidential-primary-debates-2024/index.html).
 
 ## Requirements
 - Python 3.8
