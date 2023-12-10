@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippines accuses China of shooting water cannon at its boats**
+**COP28 clashes over fossil fuel phase-out after OPEC pushback**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67668930).
+You can read more about it [here](https://www.reuters.com/business/environment/opec-members-push-against-including-fossil-fuels-phase-out-cop28-deal-2023-12-09/).
 
 ## Requirements
 - Python 3.8
