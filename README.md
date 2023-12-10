@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions for Week 14, 2023: Model eyeing Packers, Raiders**
+**As they prepare to accept her Nobel prize, jailed activist’s children believe they’ll never see her again**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-14-2023-model-eyeing-packers-raiders/).
+You can read more about it [here](https://www.cnn.com/2023/12/09/middleeast/narges-mohammadi-nobel-children-intl/index.html).
 
 ## Requirements
 - Python 3.8
