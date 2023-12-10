@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard president apologizes over answers in antisemitism hearing**
+**How to watch and everything you need to know about the 2023 Heisman Trophy finalists**
 
-You can read more about it [here](https://www.axios.com/2023/12/08/harvard-president-apology-antisemitism-congress).
+You can read more about it [here](https://www.cnn.com/2023/12/09/sport/2023-heisman-trophy-winners-ceremony-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
