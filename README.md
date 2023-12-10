@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humanitarian crisis worsens in Gaza as Israel-Hamas war intensifies**
+**Senators unveil live ticketing reform bill aimed at bots and resellers**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-08-23/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/08/tech/senators-unveil-live-ticketing-reform-bill-aimed-at-bots-and-resellers/index.html).
 
 ## Requirements
 - Python 3.8
