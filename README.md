@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani to the Blue Jays? Projecting how MLB star would fit in Toronto's 2024 lineup, 2025 rotation**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/shohei-ohtani-to-the-blue-jays-projecting-how-mlb-star-would-fit-in-torontos-2024-lineup-2025-rotation/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
