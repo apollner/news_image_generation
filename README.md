@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani's world about to change on and off the field with Dodgers**
+**Why FDA approval of sickle cell gene therapy is a 'big deal'**
 
-You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtanis-world-about-to-change-on-and-off-the-field-with-dodgers).
+You can read more about it [here](https://www.pbs.org/newshour/show/why-the-fdas-approval-of-revolutionary-sickle-cell-gene-therapy-is-a-big-deal).
 
 ## Requirements
 - Python 3.8
