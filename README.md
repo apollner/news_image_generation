@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Davis, LeBron James lead Lakers to first NBA In-Season Tournament title vs. Pacers**
+**Exclusive: Dem senators, ministers bash OPEC letter rattling COP28 summit**
 
-You can read more about it [here](https://theathletic.com/5125085/2023/12/09/lakers-pacers-nba-ist-final-champion/).
+You can read more about it [here](https://www.axios.com/2023/12/09/senators-ministers-bash-opec-letter-cop28).
 
 ## Requirements
 - Python 3.8
