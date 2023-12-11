@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Photos: Israel bombs Gaza areas it declared safe zones for Palestinians**
+**UN rejects resolution calling for immediate cease-fire in Gaza**
 
-You can read more about it [here](https://www.aljazeera.com/gallery/2023/12/9/photos-israel-bombs-gaza-areas-it-called-safe-zones-for-palestinians).
+You can read more about it [here](https://www.foxnews.com/live-news/december-9-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
