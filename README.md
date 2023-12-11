@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple blocked Beeper Mini's iMessage Android app, but Beeper will keep pushing**
+**Fed meeting next week could slam brakes on year-end stock rally**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beeper-minis-imessage-app-for-android-is-broken-possibly-by-apple/).
+You can read more about it [here](https://www.marketwatch.com/story/fed-meeting-next-week-could-slam-brakes-on-year-end-stock-rally-ea46b01b).
 
 ## Requirements
 - Python 3.8
