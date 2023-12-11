@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple blocked Beeper Mini's iMessage Android app, but Beeper will keep pushing**
+**Joe Manganiello Makes Red Carpet Debut With New GF As Sofia Vergara Divorce Wraps**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beeper-minis-imessage-app-for-android-is-broken-possibly-by-apple/).
+You can read more about it [here](https://www.yahoo.com/entertainment/joe-manganiello-makes-red-carpet-150005508.html).
 
 ## Requirements
 - Python 3.8
