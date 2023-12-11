@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ASU professor discusses Lukeville closure affecting both sides of the border**
+**UPenn Board of Trustees Chair Scott Bok resigns, following departure of President Liz Magill**
 
-You can read more about it [here](https://www.youtube.com/watch?v=u5LHthSWx0Y).
+You can read more about it [here](https://www.foxnews.com/politics/upenn-board-trustees-chair-scott-bok-resigns-following-departure-president-liz-magill).
 
 ## Requirements
 - Python 3.8
