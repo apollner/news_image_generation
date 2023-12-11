@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Egyptians head to polls in election overshadowed by Gaza war**
+**Alert Day: Tornado Watch in effect for much of Alabama until 2 AM Sunday, storms with hail, wind,...**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/egyptians-head-polls-election-overshadowed-by-gaza-war-2023-12-10/).
+You can read more about it [here](https://www.youtube.com/watch?v=IObPA-9Lm4I).
 
 ## Requirements
 - Python 3.8
