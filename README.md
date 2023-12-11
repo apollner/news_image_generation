@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens vs. Rams score: Live updates, game stats, highlights, analysis for Week 14 matchup**
+**Mama June Shannon's Daughter Anna 'Chickadee' Cardwell Dies at 29**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-rams-score-baltimore-defeats-los-angeles-with-punt-return-td-in-overtime-takes-over-first-in-afc/live/).
+You can read more about it [here](https://www.thedailybeast.com/mama-june-shannons-daughter-anna-chickadee-cardwell-dies-at-29).
 
 ## Requirements
 - Python 3.8
