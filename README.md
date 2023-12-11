@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tennessee tornadoes leave at least 6 dead, dozens hurt and more than 40,000 without power**
+**Ravens vs. Rams score: Live updates, game stats, highlights, analysis for Week 14 matchup**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/weather/tennessee-tornado-storm-deaths-sunday/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-rams-score-baltimore-defeats-los-angeles-with-punt-return-td-in-overtime-takes-over-first-in-afc/live/).
 
 ## Requirements
 - Python 3.8
