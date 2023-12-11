@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adam Driver jokes that 'wokeness killed Han Solo' in 'SNL' monologue**
+**Apple blocked Beeper Mini's iMessage Android app, but Beeper will keep pushing**
 
-You can read more about it [here](https://ew.com/adam-driver-snl-monologue-wokeness-killed-han-solo-santa-list-8413953).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beeper-minis-imessage-app-for-android-is-broken-possibly-by-apple/).
 
 ## Requirements
 - Python 3.8
