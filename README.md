@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron James wins IST MVP as Los Angeles Lakers hold off Indiana Pacers for debut NBA Cup title**
+**Rwanda asylum bill is too weak to be a deterrent, says Robert Jenrick**
 
-You can read more about it [here](https://www.cnn.com/2023/12/10/sport/lebron-james-la-lakers-nba-cup-pacers-spt-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67674763).
 
 ## Requirements
 - Python 3.8
