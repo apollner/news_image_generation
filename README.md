@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More Details On "Titanic" 4K Remaster Job**
+**Anthony Davis, LeBron James lead Lakers to first NBA In-Season Tournament title vs. Pacers**
 
-You can read more about it [here](https://www.darkhorizons.com/more-details-on-titanic-4k-remaster-job/).
+You can read more about it [here](https://theathletic.com/5125085/2023/12/09/lakers-pacers-nba-ist-final-champion/).
 
 ## Requirements
 - Python 3.8
