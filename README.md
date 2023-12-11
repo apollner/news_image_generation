@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani signing with Dodgers on record $700 million contract**
+**Egyptians head to polls in election overshadowed by Gaza war**
 
-You can read more about it [here](https://apnews.com/article/ohtani-dodgers-mlb-0462c7dcd08a5afedd92912ba69f8e8a).
+You can read more about it [here](https://www.reuters.com/world/middle-east/egyptians-head-polls-election-overshadowed-by-gaza-war-2023-12-10/).
 
 ## Requirements
 - Python 3.8
