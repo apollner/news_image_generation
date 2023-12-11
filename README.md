@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPenn Board of Trustees Chair Scott Bok resigns, following departure of President Liz Magill**
+**Daily horoscope for December 10, 2023**
 
-You can read more about it [here](https://www.foxnews.com/politics/upenn-board-trustees-chair-scott-bok-resigns-following-departure-president-liz-magill).
+You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-12102023-20231210-eelm3hh5lfhn5cs6zvzqbogwmi-story.html).
 
 ## Requirements
 - Python 3.8
