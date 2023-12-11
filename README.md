@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Dem senators, ministers bash OPEC letter rattling COP28 summit**
+**Democrat John Whitmire wins Houston mayoral runoff over Sheila Jackson Lee**
 
-You can read more about it [here](https://www.axios.com/2023/12/09/senators-ministers-bash-opec-letter-cop28).
+You can read more about it [here](https://www.cbsnews.com/news/john-whitmire-wins-houston-mayors-race-runoff-defeats-sheila-jackson-lee/).
 
 ## Requirements
 - Python 3.8
