@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Prince William, Princess Kate and their kids' Christmas card photo**
+**‘Leave the World Behind’ Ending Explained: Author Rumaan Alam on the Significance of ‘Friends’ and the Accuracy of That Final Theory**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/prince-william-princess-kate-share-familys-christmas-card-105503867).
+You can read more about it [here](https://variety.com/2023/film/news/leave-the-world-behind-ending-explained-1235829444/).
 
 ## Requirements
 - Python 3.8
