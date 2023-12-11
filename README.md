@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippines, China trade accusations over South China Sea collision**
+**Shohei Ohtani's world about to change on and off the field with Dodgers**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippines-says-china-rammed-water-cannoned-resupply-vessels-2023-12-10/).
+You can read more about it [here](https://www.foxsports.com/stories/mlb/shohei-ohtanis-world-about-to-change-on-and-off-the-field-with-dodgers).
 
 ## Requirements
 - Python 3.8
