@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN rejects resolution calling for immediate cease-fire in Gaza**
+**Air Force major convicted of manslaughter blames wife for fight that led to her death**
 
-You can read more about it [here](https://www.foxnews.com/live-news/december-9-israel-hamas-war).
+You can read more about it [here](https://www.cbsnews.com/news/andreen-mcdonald-san-antonio-andre-mcdonald-convicted-manslaughter-48-hours/).
 
 ## Requirements
 - Python 3.8
