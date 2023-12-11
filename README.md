@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alert Day: Tornado Watch in effect for much of Alabama until 2 AM Sunday, storms with hail, wind,...**
+**Photos: Israel bombs Gaza areas it declared safe zones for Palestinians**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IObPA-9Lm4I).
+You can read more about it [here](https://www.aljazeera.com/gallery/2023/12/9/photos-israel-bombs-gaza-areas-it-called-safe-zones-for-palestinians).
 
 ## Requirements
 - Python 3.8
