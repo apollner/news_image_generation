@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed meeting next week could slam brakes on year-end stock rally**
+**Tennessee tornadoes leave at least 6 dead, dozens hurt and more than 40,000 without power**
 
-You can read more about it [here](https://www.marketwatch.com/story/fed-meeting-next-week-could-slam-brakes-on-year-end-stock-rally-ea46b01b).
+You can read more about it [here](https://www.cnn.com/2023/12/09/weather/tennessee-tornado-storm-deaths-sunday/index.html).
 
 ## Requirements
 - Python 3.8
