@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why FDA approval of sickle cell gene therapy is a 'big deal'**
+**LSU QB Jayden Daniels tops field to win Heisman Trophy**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/why-the-fdas-approval-of-revolutionary-sickle-cell-gene-therapy-is-a-big-deal).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39079291/lsu-qb-jayden-daniels-tops-field-win-heisman-trophy).
 
 ## Requirements
 - Python 3.8
