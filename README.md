@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken defends bypassing Congress to sell weapons to Israel and presses lawmakers to help Ukraine**
+**Adam Driver jokes that 'wokeness killed Han Solo' in 'SNL' monologue**
 
-You can read more about it [here](https://news.yahoo.com/blinken-defends-bypassing-congress-sell-155908753.html).
+You can read more about it [here](https://ew.com/adam-driver-snl-monologue-wokeness-killed-han-solo-santa-list-8413953).
 
 ## Requirements
 - Python 3.8
