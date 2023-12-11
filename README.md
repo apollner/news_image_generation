@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Leave the World Behind’ Ending Explained: Author Rumaan Alam on the Significance of ‘Friends’ and the Accuracy of That Final Theory**
+**Selena Gomez joins Taylor Swift for a girls' night out after revealing Benny Blanco romance**
 
-You can read more about it [here](https://variety.com/2023/film/news/leave-the-world-behind-ending-explained-1235829444/).
+You can read more about it [here](https://pagesix.com/2023/12/09/entertainment/selena-gomez-joins-taylor-swift-for-a-girls-night-out-amid-benny-blanco-romance/).
 
 ## Requirements
 - Python 3.8
