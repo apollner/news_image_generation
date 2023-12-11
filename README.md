@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daily horoscope for December 10, 2023**
+**More Details On "Titanic" 4K Remaster Job**
 
-You can read more about it [here](https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-12102023-20231210-eelm3hh5lfhn5cs6zvzqbogwmi-story.html).
+You can read more about it [here](https://www.darkhorizons.com/more-details-on-titanic-4k-remaster-job/).
 
 ## Requirements
 - Python 3.8
