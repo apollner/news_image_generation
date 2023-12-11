@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Manganiello Makes Red Carpet Debut With New GF As Sofia Vergara Divorce Wraps**
+**Blinken defends bypassing Congress to sell weapons to Israel and presses lawmakers to help Ukraine**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/joe-manganiello-makes-red-carpet-150005508.html).
+You can read more about it [here](https://news.yahoo.com/blinken-defends-bypassing-congress-sell-155908753.html).
 
 ## Requirements
 - Python 3.8
