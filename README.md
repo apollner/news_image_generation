@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez joins Taylor Swift for a girls' night out after revealing Benny Blanco romance**
+**Penn President Liz Magill resigns after facing intense controversy; chair of school's board of trustees also steps down**
 
-You can read more about it [here](https://pagesix.com/2023/12/09/entertainment/selena-gomez-joins-taylor-swift-for-a-girls-night-out-amid-benny-blanco-romance/).
+You can read more about it [here](https://www.inquirer.com/education/live/liz-magill-university-pennsylvania-penn-resign-antisemitism-testimony-20231209.html).
 
 ## Requirements
 - Python 3.8
