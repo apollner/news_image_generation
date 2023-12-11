@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens vs. Rams score: Live updates, game stats, highlights, analysis for Week 14 game**
+**Apple blocked Beeper Mini's iMessage Android app, but Beeper will keep pushing**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-rams-score-live-updates-game-stats-highlights-analysis-for-week-14-game/live/).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/beeper-minis-imessage-app-for-android-is-broken-possibly-by-apple/).
 
 ## Requirements
 - Python 3.8
