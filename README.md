@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Penn President Liz Magill resigns after facing intense controversy; chair of school's board of trustees also steps down**
+**Apple responds to the Beeper iMessage saga: 'We took steps to protect our users'**
 
-You can read more about it [here](https://www.inquirer.com/education/live/liz-magill-university-pennsylvania-penn-resign-antisemitism-testimony-20231209.html).
+You can read more about it [here](https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement).
 
 ## Requirements
 - Python 3.8
