@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France says one of its warships was targeted by drones from direction of Yemen. Both were shot down**
+**Smile Direct Club dentistry aligners firm shuts down**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/france-warships-targeted-drones-direction-yemen-shot-105529761).
+You can read more about it [here](https://www.bbc.com/news/business-67675431).
 
 ## Requirements
 - Python 3.8
