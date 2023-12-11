@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LSU QB Jayden Daniels tops field to win Heisman Trophy**
+**Shohei Ohtani signing with Dodgers on record $700 million contract**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39079291/lsu-qb-jayden-daniels-tops-field-win-heisman-trophy).
+You can read more about it [here](https://apnews.com/article/ohtani-dodgers-mlb-0462c7dcd08a5afedd92912ba69f8e8a).
 
 ## Requirements
 - Python 3.8
