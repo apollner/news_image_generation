@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPenn president Liz Magill and Board Chair Scott Bok resign after disastrous hearing on antisemitism**
+**LSU QB Jayden Daniels tops field to win Heisman Trophy**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/business/upenn-board-of-trustees-meeting-liz-magill/index.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39079291/lsu-qb-jayden-daniels-tops-field-win-heisman-trophy).
 
 ## Requirements
 - Python 3.8
