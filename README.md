@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrat John Whitmire wins Houston mayoral runoff over Sheila Jackson Lee**
+**France says one of its warships was targeted by drones from direction of Yemen. Both were shot down**
 
-You can read more about it [here](https://www.cbsnews.com/news/john-whitmire-wins-houston-mayors-race-runoff-defeats-sheila-jackson-lee/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/france-warships-targeted-drones-direction-yemen-shot-105529761).
 
 ## Requirements
 - Python 3.8
