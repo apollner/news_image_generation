@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mama June Shannon's Daughter Anna 'Chickadee' Cardwell Dies at 29**
+**Majority of Americans disapprove of Biden’s handling of Israel-Hamas conflict: poll**
 
-You can read more about it [here](https://www.thedailybeast.com/mama-june-shannons-daughter-anna-chickadee-cardwell-dies-at-29).
+You can read more about it [here](https://thehill.com/homenews/administration/4352640-majority-of-americans-disapprove-of-bidens-handling-of-israel-hamas-conflict-poll/).
 
 ## Requirements
 - Python 3.8
