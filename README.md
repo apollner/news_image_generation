@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France says one of its warships was targeted by drones from direction of Yemen. Both were shot down**
+**LeBron James wins IST MVP as Los Angeles Lakers hold off Indiana Pacers for debut NBA Cup title**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/france-warships-targeted-drones-direction-yemen-shot-105529761).
+You can read more about it [here](https://www.cnn.com/2023/12/10/sport/lebron-james-la-lakers-nba-cup-pacers-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
