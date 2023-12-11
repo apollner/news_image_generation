@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Air Force major convicted of manslaughter blames wife for fight that led to her death**
+**ASU professor discusses Lukeville closure affecting both sides of the border**
 
-You can read more about it [here](https://www.cbsnews.com/news/andreen-mcdonald-san-antonio-andre-mcdonald-convicted-manslaughter-48-hours/).
+You can read more about it [here](https://www.youtube.com/watch?v=u5LHthSWx0Y).
 
 ## Requirements
 - Python 3.8
