@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda asylum bill is too weak to be a deterrent, says Robert Jenrick**
+**Ravens vs. Rams score: Live updates, game stats, highlights, analysis for Week 14 game**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67674763).
+You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-rams-score-live-updates-game-stats-highlights-analysis-for-week-14-game/live/).
 
 ## Requirements
 - Python 3.8
