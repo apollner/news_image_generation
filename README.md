@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two-time AL MVP Shohei Ohtani agrees to historic deal with Los Angeles Dodgers**
+**Philippines, China trade accusations over South China Sea collision**
 
-You can read more about it [here](https://www.cnn.com/2023/12/09/sport/shohei-ohtani-contract-mlb-spt-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippines-says-china-rammed-water-cannoned-resupply-vessels-2023-12-10/).
 
 ## Requirements
 - Python 3.8
