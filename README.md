@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Majority of Americans disapprove of Biden’s handling of Israel-Hamas conflict: poll**
+**SpaceX delays launch of secret Space Force mission**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4352640-majority-of-americans-disapprove-of-bidens-handling-of-israel-hamas-conflict-poll/).
+You can read more about it [here](https://www.foxbusiness.com/markets/spacex-delays-launch-secret-space-force-mission).
 
 ## Requirements
 - Python 3.8
