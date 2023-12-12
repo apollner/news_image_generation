@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US F-16 crashes into Yellow Sea following in-flight emergency; pilot rescued after ejecting safely**
+**Miyazaki's 'The Boy And The Heron' Is No. 1 At The Box Office, A First For The Japanese Anime Master**
 
-You can read more about it [here](https://www.foxnews.com/us/us-f-16-crashes-yellow-sea-in-flight-emergency-pilot-rescued-ejecting-safely).
+You can read more about it [here](https://www.huffpost.com/entry/hayao-miyazaki-boy-and-heron-film-box-office_n_65769733e4b09724b434aca8).
 
 ## Requirements
 - Python 3.8
