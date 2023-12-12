@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed ahead of final Fed meeting of 2023: Live updates**
+**GTA 6 fan reimagines trailer for Switch port using PlayStation 1 graphics**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/10/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.dexerto.com/gta/gta-6-fan-reimagines-trailer-for-switch-port-using-playstation-1-graphics-2424559/).
 
 ## Requirements
 - Python 3.8
