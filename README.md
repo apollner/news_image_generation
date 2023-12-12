@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Downpours, gusty winds, some snow move through New Hampshire into Monday**
+**December 10, 2023 Israel-Hamas war**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-rain-wind-snow-monday-121023/46085438).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-10-23/index.html).
 
 ## Requirements
 - Python 3.8
