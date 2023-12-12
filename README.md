@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Javier Milei: New president tells Argentina 'shock treatment' looms**
+**'Excited' Cardi B confirms Offset breakup as he denies cheating with Chrisean Rock: 'I'm curious for a new life'**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-67678276).
+You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/cardi-b-confirms-offset-breakup-as-he-denies-cheating-with-chrisean-rock/).
 
 ## Requirements
 - Python 3.8
