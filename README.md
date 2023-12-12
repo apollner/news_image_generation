@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the Geminids, the best meteor show of the year**
+**Patrick Mahomes and the Chiefs have a problem (and no, it’s not the refs): Sando’s Pick Six**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
+You can read more about it [here](https://theathletic.com/5124885/2023/12/11/patrick-mahomes-refs-chiefs-bills/).
 
 ## Requirements
 - Python 3.8
