@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s new Journal app is now available with the release of iOS 17.2**
+**Oracle shares slide as revenue misses estimates**
 
-You can read more about it [here](https://techcrunch.com/2023/12/11/apples-new-journal-app-is-now-available-with-the-release-of-ios-17-2/).
+You can read more about it [here](https://www.cnbc.com/2023/12/11/oracle-orcl-q2-earnings-report-2024.html).
 
 ## Requirements
 - Python 3.8
