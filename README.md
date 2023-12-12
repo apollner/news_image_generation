@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Air Force disciplines 15 airmen in investigation of accused leaker Jack Teixeira**
+**Alone in the Dark doubles down on its survival horror legacy, for better and worse**
 
-You can read more about it [here](https://abcnews.go.com/Politics/air-force-disciplines-15-airmen-jack-teixeira-leak/story?id=105548484).
+You can read more about it [here](https://www.eurogamer.net/alone-in-the-dark-doubles-down-on-its-survival-horror-legacy-for-better-and-worse).
 
 ## Requirements
 - Python 3.8
