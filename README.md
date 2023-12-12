@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump cancels plans to testify at civil fraud trial in New York**
+**Donald Trump says he will not testify in civil fraud trial on Monday**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/11/donald-trump-cancels-plans-to-testify-at-civil-fraud-trial-in-new-york).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-will-not-testify-civil-fraud-trial-on-monday/).
 
 ## Requirements
 - Python 3.8
