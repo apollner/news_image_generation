@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Regulators caught Wells Fargo, other banks in probe over mortgage pricing discrimination**
+**The top 10 things to watch in the stock market Monday**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/11/wells-fargo-mortgage-lenders-probed-over-racial-discrimination.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/11/the-top-10-things-to-watch-in-the-stock-market-monday.html).
 
 ## Requirements
 - Python 3.8
