@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Volodymyr Zelenskyy warns US halt in Ukraine aid would bolster dictatorships**
+**Smitten Taylor Swift cozies up to Travis Kelce in sweet photo from post-game hangout**
 
-You can read more about it [here](https://www.ft.com/content/52f38581-18e1-471e-ab74-4eb01f61a27e).
+You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/taylor-swift-cozies-up-to-travis-kelce-in-photo-from-post-game-hangout/).
 
 ## Requirements
 - Python 3.8
