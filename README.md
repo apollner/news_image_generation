@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miyazaki's 'The Boy And The Heron' Is No. 1 At The Box Office, A First For The Japanese Anime Master**
+**TikTok Shop Indonesia to reopen after $1.5bn deal – BBC News**
 
-You can read more about it [here](https://www.huffpost.com/entry/hayao-miyazaki-boy-and-heron-film-box-office_n_65769733e4b09724b434aca8).
+You can read more about it [here](https://www.youtube.com/watch?v=zpe9gqYAU-E).
 
 ## Requirements
 - Python 3.8
