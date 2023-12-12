@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about COVID, RSV and flu vaccines this winter**
+**Cigna pulls out of blockbuster deal to create insurance giant with Humana**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/your-questions-answered-about-staying-safe-from-covid-rsv-and-flu-this-winter).
+You can read more about it [here](https://www.ft.com/content/f60d5334-bb0d-4104-b541-72798192cbe8).
 
 ## Requirements
 - Python 3.8
