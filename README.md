@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX delays launch of secret Space Force mission**
+**‘The Zone of Interest’ Named Best Picture of 2023 by L.A. Film Critics Association**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/spacex-delays-launch-secret-space-force-mission).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/2023-la-film-critics-award-winners-1235732168/).
 
 ## Requirements
 - Python 3.8
