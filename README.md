@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump says he will not testify in civil fraud trial on Monday**
+**US F-16 crashes into Yellow Sea following in-flight emergency; pilot rescued after ejecting safely**
 
-You can read more about it [here](https://www.cbsnews.com/news/donald-trump-will-not-testify-civil-fraud-trial-on-monday/).
+You can read more about it [here](https://www.foxnews.com/us/us-f-16-crashes-yellow-sea-in-flight-emergency-pilot-rescued-ejecting-safely).
 
 ## Requirements
 - Python 3.8
