@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok Shop Indonesia to reopen after $1.5bn deal – BBC News**
+**Javier Milei: New president tells Argentina 'shock treatment' looms**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zpe9gqYAU-E).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-67678276).
 
 ## Requirements
 - Python 3.8
