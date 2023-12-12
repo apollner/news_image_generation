@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok Shop Indonesia to reopen after $1.5bn deal – BBC News**
+**Tennessee tornado outbreak latest: Two tornadoes confirmed, ranked**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zpe9gqYAU-E).
+You can read more about it [here](https://www.tennessean.com/story/news/2023/12/10/updates-fatalities-reported-in-middle-tennessee-after-saturday-tornadoes/71868379007/).
 
 ## Requirements
 - Python 3.8
