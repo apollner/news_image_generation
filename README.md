@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas live updates: Netanyahu says Hamas militants surrendering**
+**Cowboys dominant against Eagles as NFC playoff race heats up**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/10/israel-hamas-gaza-war-live-updates/71871222007/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39087182/philadelphia-eagles-dallas-cowboys-snf-nfc-east-playoffs).
 
 ## Requirements
 - Python 3.8
