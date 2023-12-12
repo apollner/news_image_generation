@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mystery of the Missing ISS Tomato Finally Solved**
+**US F-16 crashes into Yellow Sea following in-flight emergency; pilot rescued after ejecting safely**
 
-You can read more about it [here](https://slashdot.org/story/23/12/10/2041223/mystery-of-the-missing-iss-tomato-finally-solved).
+You can read more about it [here](https://www.foxnews.com/us/us-f-16-crashes-yellow-sea-in-flight-emergency-pilot-rescued-ejecting-safely).
 
 ## Requirements
 - Python 3.8
