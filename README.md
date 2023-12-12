@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys dominant against Eagles as NFC playoff race heats up**
+**Stock futures are little changed ahead of final Fed meeting of 2023: Live updates**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39087182/philadelphia-eagles-dallas-cowboys-snf-nfc-east-playoffs).
+You can read more about it [here](https://www.cnbc.com/2023/12/10/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
