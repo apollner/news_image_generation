@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Excited' Cardi B confirms Offset breakup as he denies cheating with Chrisean Rock: 'I'm curious for a new life'**
+**Air Force disciplines 15 airmen in investigation of accused leaker Jack Teixeira**
 
-You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/cardi-b-confirms-offset-breakup-as-he-denies-cheating-with-chrisean-rock/).
+You can read more about it [here](https://abcnews.go.com/Politics/air-force-disciplines-15-airmen-jack-teixeira-leak/story?id=105548484).
 
 ## Requirements
 - Python 3.8
