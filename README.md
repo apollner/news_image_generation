@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How much trouble is PM in over Rwanda bill?**
+**Volodymyr Zelenskyy warns US halt in Ukraine aid would bolster dictatorships**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67681414).
+You can read more about it [here](https://www.ft.com/content/52f38581-18e1-471e-ab74-4eb01f61a27e).
 
 ## Requirements
 - Python 3.8
