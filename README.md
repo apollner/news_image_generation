@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oracle shares slide as revenue misses estimates**
+**How much trouble is PM in over Rwanda bill?**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/11/oracle-orcl-q2-earnings-report-2024.html).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67681414).
 
 ## Requirements
 - Python 3.8
