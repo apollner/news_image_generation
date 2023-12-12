@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tennessee tornado outbreak latest: Two tornadoes confirmed, ranked**
+**Philadelphia Eagles vs. Dallas Cowboys | 2023 Week 14 Game Highlights**
 
-You can read more about it [here](https://www.tennessean.com/story/news/2023/12/10/updates-fatalities-reported-in-middle-tennessee-after-saturday-tornadoes/71868379007/).
+You can read more about it [here](https://www.youtube.com/watch?v=dThB2onAoko).
 
 ## Requirements
 - Python 3.8
