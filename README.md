@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia Eagles vs. Dallas Cowboys | 2023 Week 14 Game Highlights**
+**Russians banned from travel to hand over passports within five days**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dThB2onAoko).
+You can read more about it [here](https://www.reuters.com/world/europe/russians-banned-travel-hand-over-passports-within-five-days-decree-2023-12-10/).
 
 ## Requirements
 - Python 3.8
