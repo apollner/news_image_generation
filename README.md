@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humanitarian crisis worsens in Gaza as Israel-Hamas war intensifies: Live updates**
+**Apple’s new Journal app is now available with the release of iOS 17.2**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-11-23/index.html).
+You can read more about it [here](https://techcrunch.com/2023/12/11/apples-new-journal-app-is-now-available-with-the-release-of-ios-17-2/).
 
 ## Requirements
 - Python 3.8
