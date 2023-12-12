@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russians banned from travel to hand over passports within five days**
+**Mystery of the Missing ISS Tomato Finally Solved**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russians-banned-travel-hand-over-passports-within-five-days-decree-2023-12-10/).
+You can read more about it [here](https://slashdot.org/story/23/12/10/2041223/mystery-of-the-missing-iss-tomato-finally-solved).
 
 ## Requirements
 - Python 3.8
