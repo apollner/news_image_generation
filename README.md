@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alone in the Dark doubles down on its survival horror legacy, for better and worse**
+**What to know about the Geminids, the best meteor show of the year**
 
-You can read more about it [here](https://www.eurogamer.net/alone-in-the-dark-doubles-down-on-its-survival-horror-legacy-for-better-and-worse).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
 
 ## Requirements
 - Python 3.8
