@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa man arrested in the death of a Nebraska priest**
+**Gaza's health system is 'on its knees' as Israel pushes into Khan Younis**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/catholic-priest-small-nebraska-community-dies-after-attacked-105534629).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/10/gaza-health-israel-khan-younis/).
 
 ## Requirements
 - Python 3.8
