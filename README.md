@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the Geminids, the best meteor show of the year**
+**Regulators caught Wells Fargo, other banks in probe over mortgage pricing discrimination**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
+You can read more about it [here](https://www.cnbc.com/2023/12/11/wells-fargo-mortgage-lenders-probed-over-racial-discrimination.html).
 
 ## Requirements
 - Python 3.8
