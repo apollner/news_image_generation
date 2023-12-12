@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Eagles vs. Cowboys score, highlights, news, inactives and live updates**
+**Iowa man arrested in the death of a Nebraska priest**
 
-You can read more about it [here](https://sports.yahoo.com/sunday-night-football-eagles-vs-cowboys-score-highlights-news-inactives-and-live-updates-233044422.html).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/catholic-priest-small-nebraska-community-dies-after-attacked-105534629).
 
 ## Requirements
 - Python 3.8
