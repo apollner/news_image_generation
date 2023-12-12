@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza's health system is 'on its knees' as Israel pushes into Khan Younis**
+**Donald Trump says he will not testify in civil fraud trial on Monday**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/10/gaza-health-israel-khan-younis/).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-will-not-testify-civil-fraud-trial-on-monday/).
 
 ## Requirements
 - Python 3.8
