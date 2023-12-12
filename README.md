@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US F-16 crashes into Yellow Sea following in-flight emergency; pilot rescued after ejecting safely**
+**Anna Cardwell: Honey Boo Boo pays tribute to sister who dies aged 29**
 
-You can read more about it [here](https://www.foxnews.com/us/us-f-16-crashes-yellow-sea-in-flight-emergency-pilot-rescued-ejecting-safely).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67679885).
 
 ## Requirements
 - Python 3.8
