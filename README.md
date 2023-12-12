@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump says he will not testify in civil fraud trial on Monday**
+**Sunday Night Football: Eagles vs. Cowboys score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.cbsnews.com/news/donald-trump-will-not-testify-civil-fraud-trial-on-monday/).
+You can read more about it [here](https://sports.yahoo.com/sunday-night-football-eagles-vs-cowboys-score-highlights-news-inactives-and-live-updates-233044422.html).
 
 ## Requirements
 - Python 3.8
