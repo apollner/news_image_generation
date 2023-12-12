@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humanitarian crisis worsens in Gaza as Israel-Hamas war intensifies: Live updates**
+**What to know about the Geminids, the best meteor show of the year**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-11-23/index.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
 
 ## Requirements
 - Python 3.8
