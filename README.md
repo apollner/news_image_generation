@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GTA 6 fan reimagines trailer for Switch port using PlayStation 1 graphics**
+**Donald Trump cancels plans to testify at civil fraud trial in New York**
 
-You can read more about it [here](https://www.dexerto.com/gta/gta-6-fan-reimagines-trailer-for-switch-port-using-playstation-1-graphics-2424559/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/11/donald-trump-cancels-plans-to-testify-at-civil-fraud-trial-in-new-york).
 
 ## Requirements
 - Python 3.8
