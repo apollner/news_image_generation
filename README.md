@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The top 10 things to watch in the stock market Monday**
+**What to know about the Geminids, the best meteor show of the year**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/11/the-top-10-things-to-watch-in-the-stock-market-monday.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/).
 
 ## Requirements
 - Python 3.8
