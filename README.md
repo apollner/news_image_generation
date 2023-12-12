@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cigna pulls out of blockbuster deal to create insurance giant with Humana**
+**Sunday Night Football: Eagles vs. Cowboys score, highlights, news, inactives and live updates**
 
-You can read more about it [here](https://www.ft.com/content/f60d5334-bb0d-4104-b541-72798192cbe8).
+You can read more about it [here](https://sports.yahoo.com/sunday-night-football-eagles-vs-cowboys-score-highlights-news-inactives-and-live-updates-233044422.html).
 
 ## Requirements
 - Python 3.8
