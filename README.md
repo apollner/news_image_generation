@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes and the Chiefs have a problem (and no, it’s not the refs): Sando’s Pick Six**
+**US Air Force disciplines 15 people following investigation into accused National Guard leaker Jack Teixeira**
 
-You can read more about it [here](https://theathletic.com/5124885/2023/12/11/patrick-mahomes-refs-chiefs-bills/).
+You can read more about it [here](https://www.cnn.com/2023/12/11/politics/air-force-disciplines-investigation-jack-teixeira/index.html).
 
 ## Requirements
 - Python 3.8
