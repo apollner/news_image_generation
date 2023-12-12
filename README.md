@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Zone of Interest’ Named Best Picture of 2023 by L.A. Film Critics Association**
+**What to know about COVID, RSV and flu vaccines this winter**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/2023-la-film-critics-award-winners-1235732168/).
+You can read more about it [here](https://www.pbs.org/newshour/show/your-questions-answered-about-staying-safe-from-covid-rsv-and-flu-this-winter).
 
 ## Requirements
 - Python 3.8
