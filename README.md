@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Air Force disciplines 15 people following investigation into accused National Guard leaker Jack Teixeira**
+**Humanitarian crisis worsens in Gaza as Israel-Hamas war intensifies: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2023/12/11/politics/air-force-disciplines-investigation-jack-teixeira/index.html).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-11-23/index.html).
 
 ## Requirements
 - Python 3.8
