@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**December 10, 2023 Israel-Hamas war**
+**Israel Hamas live updates: Netanyahu says Hamas militants surrendering**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-10-23/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/10/israel-hamas-gaza-war-live-updates/71871222007/).
 
 ## Requirements
 - Python 3.8
