@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anna Cardwell: Honey Boo Boo pays tribute to sister who dies aged 29**
+**TikTok Shop Indonesia to reopen after $1.5bn deal – BBC News**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67679885).
+You can read more about it [here](https://www.youtube.com/watch?v=zpe9gqYAU-E).
 
 ## Requirements
 - Python 3.8
