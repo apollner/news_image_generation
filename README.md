@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Eagles vs. Cowboys score, highlights, news, inactives and live updates**
+**Downpours, gusty winds, some snow move through New Hampshire into Monday**
 
-You can read more about it [here](https://sports.yahoo.com/sunday-night-football-eagles-vs-cowboys-score-highlights-news-inactives-and-live-updates-233044422.html).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-rain-wind-snow-monday-121023/46085438).
 
 ## Requirements
 - Python 3.8
