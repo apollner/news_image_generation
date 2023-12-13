@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland's new prime minister vows to press the West to continue helping neighboring Ukraine**
+**Yemen's Houthis claim missile attack on Norwegian tanker in tense Middle East**
 
-You can read more about it [here](https://apnews.com/article/poland-new-government-tusk-d4c7cd71e983440b5a71e08236eaf4fc).
+You can read more about it [here](https://www.reuters.com/world/middle-east/cruise-missile-yemen-strikes-tanker-ship-us-officials-2023-12-12/).
 
 ## Requirements
 - Python 3.8
