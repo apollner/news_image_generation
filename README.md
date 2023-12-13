@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Live: Ukrainian President Volodymyr Zelenskyy and President Biden hold press conference**
+**New York’s top court clears way for new congressional map**
 
-You can read more about it [here](https://www.cbsnews.com/news/volodymyr-zelenskyy-ukraine-visit-white-house-2023-12-12/).
+You can read more about it [here](https://www.nbcnews.com/politics/new-york-court-new-congressional-map-democrats-rcna129292).
 
 ## Requirements
 - Python 3.8
