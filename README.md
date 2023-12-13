@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide**
+**Google Loses Antitrust Case Brought by Epic Games**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-house-vote-thursday-formalizing-biden-impeachment-inquiry-lawmaker-2023-12-11/).
+You can read more about it [here](https://www.wsj.com/tech/google-loses-antitrust-case-brought-by-epic-games-651f5987).
 
 ## Requirements
 - Python 3.8
