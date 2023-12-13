@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes regrets angry reaction to officials: 'Not a great example for kids'**
+**Supreme Court: Trump must respond to special counsel's presidential immunity petition before Christmas**
 
-You can read more about it [here](https://sports.yahoo.com/patrick-mahomes-regrets-angry-reaction-to-officials-not-a-great-example-for-kids-023613278.html).
+You can read more about it [here](https://www.foxnews.com/politics/supreme-court-trump-must-respond-special-counsel-presidential-immunity-petition-christmas).
 
 ## Requirements
 - Python 3.8
