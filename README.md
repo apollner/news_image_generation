@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Loses Antitrust Case Brought by Epic Games**
+**Georgia election workers ask court to warn Rudy Giuliani after he repeats claims judge ruled were defamatory**
 
-You can read more about it [here](https://www.wsj.com/tech/google-loses-antitrust-case-brought-by-epic-games-651f5987).
+You can read more about it [here](https://www.cnn.com/2023/12/11/politics/rudy-giuliani-defamation-trial/index.html).
 
 ## Requirements
 - Python 3.8
