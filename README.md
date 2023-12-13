@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bonds Gain and Dollar Drops With CPI Data to Come: Markets Wrap**
+**Sunak faces crunch UK parliamentary showdown over Rwanda asylum plan**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-shares-set-climb-key-224001746.html).
+You can read more about it [here](https://www.reuters.com/world/uk/rishi-sunak-faces-tense-uk-parliamentary-showdown-over-rwanda-asylum-plan-2023-12-12/).
 
 ## Requirements
 - Python 3.8
