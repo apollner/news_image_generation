@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter affects mood, mind, weight and sex drives, research suggests**
+**Harvard President Claudine Gay to stay in office with unanimous support from university board**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/12/winter-mood-sex-concentration-diet/).
+You can read more about it [here](https://www.cbsnews.com/boston/news/harvard-president-claudine-gay-remain-in-office-crimson-report/).
 
 ## Requirements
 - Python 3.8
