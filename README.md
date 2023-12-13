@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Herbert out for remainder of 2023 season after breaking finger in Chargers' latest loss**
+**“Big Bang Theory” star Kate Micucci undergoes surgery for lung cancer**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/justin-herbert-out-for-remainder-of-2023-season-after-breaking-finger-in-chargers-latest-loss/).
+You can read more about it [here](https://ew.com/big-bang-theory-star-kate-micucci-surgery-lung-cancer-diagnosis-8414787).
 
 ## Requirements
 - Python 3.8
