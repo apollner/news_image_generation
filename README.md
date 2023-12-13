@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cruise missile from Yemen strikes tanker ship -US officials**
+**Epic Games wins antitrust lawsuit against Google over barriers to its Android app store**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/cruise-missile-yemen-strikes-tanker-ship-us-officials-2023-12-12/).
+You can read more about it [here](https://apnews.com/article/google-epic-games-antitrust-trial-android-app-store-dd6b26be7447b5ff8cc0d20a4d01b6b4).
 
 ## Requirements
 - Python 3.8
