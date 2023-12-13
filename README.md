@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDNY reports no victims in Bronx partial building collapse**
+**Bonds Gain and Dollar Drops With CPI Data to Come: Markets Wrap**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/bronx-building-partially-collapses/).
+You can read more about it [here](https://finance.yahoo.com/news/asia-shares-set-climb-key-224001746.html).
 
 ## Requirements
 - Python 3.8
