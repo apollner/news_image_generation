@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak faces a revolt in the UK Parliament over his immigration policy**
+**Patrick Mahomes regrets angry reaction to officials: 'Not a great example for kids'**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/rishi-sunak-faces-a-revolt-in-the-uk-parliament-over-his-immigration-policy).
+You can read more about it [here](https://sports.yahoo.com/patrick-mahomes-regrets-angry-reaction-to-officials-not-a-great-example-for-kids-023613278.html).
 
 ## Requirements
 - Python 3.8
