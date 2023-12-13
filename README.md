@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hilary Duff is pregnant with 4th baby, her 3rd with husband Matthew Koma**
+**Far-right lawmaker uses fire extinguisher to douse Hanukkah candles in Polish parliament**
 
-You can read more about it [here](https://pagesix.com/2023/12/12/parents/hilary-duff-pregnant-with-4th-baby-3rd-with-matthew-koma/).
+You can read more about it [here](https://nypost.com/2023/12/12/news/politician-douses-hanukkah-candles-in-polish-parliament/).
 
 ## Requirements
 - Python 3.8
