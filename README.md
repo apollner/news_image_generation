@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire Gov. Sununu to endorse Nikki Haley for president**
+**Dungeons & Dragons Owner Hasbro Laying Off Over 1,000 Staff as Toy Sales Falter**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/12/sununu-nikki-haley-endorsement-00131264).
+You can read more about it [here](https://www.ign.com/articles/dungeons-dragons-owner-hasbro-laying-off-over-1000-staff-as-toy-sales-falter).
 
 ## Requirements
 - Python 3.8
