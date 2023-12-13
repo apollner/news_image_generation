@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury sides with Epic Games in its antitrust lawsuit against Google**
+**SpaceX scrubs Falcon Heavy's X-37B space plane launch due to ground issue**
 
-You can read more about it [here](https://www.engadget.com/jury-sides-with-epic-games-in-its-antitrust-lawsuit-against-google-032341810.html).
+You can read more about it [here](https://www.space.com/spacex-falcon-heavy-x-37b-space-force-launch-scrub).
 
 ## Requirements
 - Python 3.8
