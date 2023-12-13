@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury sides with Epic Games in its antitrust lawsuit against Google**
+**FDNY reports no victims in Bronx partial building collapse**
 
-You can read more about it [here](https://www.engadget.com/jury-sides-with-epic-games-in-its-antitrust-lawsuit-against-google-032341810.html).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/bronx-building-partially-collapses/).
 
 ## Requirements
 - Python 3.8
