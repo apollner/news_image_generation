@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hasbro laying off 1,100 workers as weak toy sales persist into holiday season**
+**Japanese ex-soldiers found guilty in landmark sexual assault case**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/11/hasbro-layoffs-weak-toy-sales.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-court-rule-ex-soldiers-long-battle-sexual-assault-case-2023-12-12/).
 
 ## Requirements
 - Python 3.8
