@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins star Tyreek Hill exits Monday Night Football with injury, return questionable**
+**Cruise missile from Yemen strikes tanker ship -US officials**
 
-You can read more about it [here](https://www.palmbeachpost.com/story/sports/2023/12/11/tyreek-hill-exits-monday-night-football-with-ankle-injury/71886949007/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/cruise-missile-yemen-strikes-tanker-ship-us-officials-2023-12-12/).
 
 ## Requirements
 - Python 3.8
