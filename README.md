@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court: Trump must respond to special counsel's presidential immunity petition before Christmas**
+**FDNY reports no victims in Bronx partial building collapse**
 
-You can read more about it [here](https://www.foxnews.com/politics/supreme-court-trump-must-respond-special-counsel-presidential-immunity-petition-christmas).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/bronx-building-partially-collapses/).
 
 ## Requirements
 - Python 3.8
