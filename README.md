@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen's Houthis claim missile attack on Norwegian tanker in tense Middle East**
+**Hilary Duff is pregnant with 4th baby, her 3rd with husband Matthew Koma**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/cruise-missile-yemen-strikes-tanker-ship-us-officials-2023-12-12/).
+You can read more about it [here](https://pagesix.com/2023/12/12/parents/hilary-duff-pregnant-with-4th-baby-3rd-with-matthew-koma/).
 
 ## Requirements
 - Python 3.8
