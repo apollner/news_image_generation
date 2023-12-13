@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dungeons & Dragons Owner Hasbro Laying Off Over 1,000 Staff as Toy Sales Falter**
+**Winter affects mood, mind, weight and sex drives, research suggests**
 
-You can read more about it [here](https://www.ign.com/articles/dungeons-dragons-owner-hasbro-laying-off-over-1000-staff-as-toy-sales-falter).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/12/winter-mood-sex-concentration-diet/).
 
 ## Requirements
 - Python 3.8
