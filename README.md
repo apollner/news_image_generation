@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Aniston reveals she was texting with Matthew Perry the day he died in first interview since his shocking death**
+**Golden Globes 2024: See the full list of nominees**
 
-You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/jennifer-aniston-details-matthew-perrys-final-days-in-first-interview-after-his-death/).
+You can read more about it [here](https://www.cnn.com/2023/12/11/entertainment/golden-globe-nominations/index.html).
 
 ## Requirements
 - Python 3.8
