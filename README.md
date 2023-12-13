@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japanese ex-soldiers found guilty in landmark sexual assault case**
+**Patrick Mahomes regrets angry reaction to officials: 'Not a great example for kids'**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-court-rule-ex-soldiers-long-battle-sexual-assault-case-2023-12-12/).
+You can read more about it [here](https://sports.yahoo.com/patrick-mahomes-regrets-angry-reaction-to-officials-not-a-great-example-for-kids-023613278.html).
 
 ## Requirements
 - Python 3.8
