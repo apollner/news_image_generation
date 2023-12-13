@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 things to know about Trump's defense in his New York civil fraud trial**
+**Texas Supreme Court rules against woman who sued for an emergency abortion**
 
-You can read more about it [here](https://abcnews.go.com/US/3-things-trumps-defense-new-york-civil-fraud/story?id=105479767).
+You can read more about it [here](https://abcnews.go.com/US/texas-woman-sued-abortion-now-leaving-state-care/story?id=105558777).
 
 ## Requirements
 - Python 3.8
