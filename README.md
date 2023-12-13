@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskiy makes 11th hour plea for Ukraine war funds in Washington**
+**FDNY reports no victims in Bronx partial building collapse**
 
-You can read more about it [here](https://www.reuters.com/world/europe/zelenskiy-makes-11th-hour-plea-ukraine-war-funds-washington-2023-12-12/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/bronx-building-partially-collapses/).
 
 ## Requirements
 - Python 3.8
