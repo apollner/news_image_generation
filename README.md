@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard President Claudine Gay to stay in office with unanimous support from university board**
+**Cannabis use linked to higher risk of poor pregnancy outcomes, study finds**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/harvard-president-claudine-gay-remain-in-office-crimson-report/).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/12/cannabis-use-pregnancy-postpartum-study/).
 
 ## Requirements
 - Python 3.8
