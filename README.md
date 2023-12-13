@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDNY reports no victims in Bronx partial building collapse**
+**US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/bronx-building-partially-collapses/).
+You can read more about it [here](https://www.reuters.com/world/us/us-house-vote-thursday-formalizing-biden-impeachment-inquiry-lawmaker-2023-12-11/).
 
 ## Requirements
 - Python 3.8
