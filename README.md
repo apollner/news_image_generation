@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cannabis use linked to higher risk of poor pregnancy outcomes, study finds**
+**Zara's New Campaign Is Under Fire for Parallels to Gaza**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/12/12/cannabis-use-pregnancy-postpartum-study/).
+You can read more about it [here](http://www.thecut.com/2023/12/zaras-new-campaign-is-under-fire-for-parallels-to-gaza.html).
 
 ## Requirements
 - Python 3.8
