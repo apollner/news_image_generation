@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“Big Bang Theory” star Kate Micucci undergoes surgery for lung cancer**
+**Poland's new prime minister vows to press the West to continue helping neighboring Ukraine**
 
-You can read more about it [here](https://ew.com/big-bang-theory-star-kate-micucci-surgery-lung-cancer-diagnosis-8414787).
+You can read more about it [here](https://apnews.com/article/poland-new-government-tusk-d4c7cd71e983440b5a71e08236eaf4fc).
 
 ## Requirements
 - Python 3.8
