@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Readies For Another War After Hamas; Biden Vs Netanyahu Clash Over Post-War Gaza**
+**Justin Herbert out for remainder of 2023 season after breaking finger in Chargers' latest loss**
 
-You can read more about it [here](https://www.youtube.com/watch?v=AD9NjUsnLm0).
+You can read more about it [here](https://www.cbssports.com/nfl/news/justin-herbert-out-for-remainder-of-2023-season-after-breaking-finger-in-chargers-latest-loss/).
 
 ## Requirements
 - Python 3.8
