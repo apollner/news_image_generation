@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US House expects Wednesday vote on formalizing Biden impeachment inquiry - aide**
+**Jennifer Aniston reveals she was texting with Matthew Perry the day he died in first interview since his shocking death**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-house-vote-thursday-formalizing-biden-impeachment-inquiry-lawmaker-2023-12-11/).
+You can read more about it [here](https://pagesix.com/2023/12/11/entertainment/jennifer-aniston-details-matthew-perrys-final-days-in-first-interview-after-his-death/).
 
 ## Requirements
 - Python 3.8
