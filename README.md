@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Backlash to House testimony shines spotlight on new generation of Ivy League presidents**
+**Zelenskiy makes 11th hour plea for Ukraine war funds in Washington**
 
-You can read more about it [here](https://apnews.com/article/ivy-league-presidents-backlash-women-021ec60af6a5a5279c644376de065738).
+You can read more about it [here](https://www.reuters.com/world/europe/zelenskiy-makes-11th-hour-plea-ukraine-war-funds-washington-2023-12-12/).
 
 ## Requirements
 - Python 3.8
