@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Supreme Court rules against woman who sued for an emergency abortion**
+**Backlash to House testimony shines spotlight on new generation of Ivy League presidents**
 
-You can read more about it [here](https://abcnews.go.com/US/texas-woman-sued-abortion-now-leaving-state-care/story?id=105558777).
+You can read more about it [here](https://apnews.com/article/ivy-league-presidents-backlash-women-021ec60af6a5a5279c644376de065738).
 
 ## Requirements
 - Python 3.8
