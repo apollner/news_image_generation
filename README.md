@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Far-right lawmaker uses fire extinguisher to douse Hanukkah candles in Polish parliament**
+**Watch Live: Ukrainian President Volodymyr Zelenskyy and President Biden hold press conference**
 
-You can read more about it [here](https://nypost.com/2023/12/12/news/politician-douses-hanukkah-candles-in-polish-parliament/).
+You can read more about it [here](https://www.cbsnews.com/news/volodymyr-zelenskyy-ukraine-visit-white-house-2023-12-12/).
 
 ## Requirements
 - Python 3.8
