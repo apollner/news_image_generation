@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunak faces crunch UK parliamentary showdown over Rwanda asylum plan**
+**Winter affects mood, mind, weight and sex drives, research suggests**
 
-You can read more about it [here](https://www.reuters.com/world/uk/rishi-sunak-faces-tense-uk-parliamentary-showdown-over-rwanda-asylum-plan-2023-12-12/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/12/winter-mood-sex-concentration-diet/).
 
 ## Requirements
 - Python 3.8
