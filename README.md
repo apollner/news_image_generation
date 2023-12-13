@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Epic Games wins antitrust lawsuit against Google over barriers to its Android app store**
+**Hasbro laying off 1,100 workers as weak toy sales persist into holiday season**
 
-You can read more about it [here](https://apnews.com/article/google-epic-games-antitrust-trial-android-app-store-dd6b26be7447b5ff8cc0d20a4d01b6b4).
+You can read more about it [here](https://www.cnbc.com/2023/12/11/hasbro-layoffs-weak-toy-sales.html).
 
 ## Requirements
 - Python 3.8
