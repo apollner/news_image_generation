@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter affects mood, mind, weight and sex drives, research suggests**
+**New Hampshire Gov. Sununu to endorse Nikki Haley for president**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/12/winter-mood-sex-concentration-diet/).
+You can read more about it [here](https://www.politico.com/news/2023/12/12/sununu-nikki-haley-endorsement-00131264).
 
 ## Requirements
 - Python 3.8
