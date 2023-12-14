@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina announces a 50% devaluation of its currency as part of shock economic measures**
+**Joe Biden warns Benjamin Netanyahu to change tack or risk losing global support**
 
-You can read more about it [here](https://www.cbsnews.com/news/argentina-announces-a-50-devaluation-currency/).
+You can read more about it [here](https://www.ft.com/content/aa0bffac-d5b7-4221-a715-b7d02fd377d4).
 
 ## Requirements
 - Python 3.8
