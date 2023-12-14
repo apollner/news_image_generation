@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gemini now live for developers with free access via Google AI Studio**
+**The Great Solar Wind Disappearance: Groundbreaking Discovery by NASA's MAVEN Mission**
 
-You can read more about it [here](https://9to5google.com/2023/12/13/gemini-google-ai-studio/).
+You can read more about it [here](https://scitechdaily.com/the-great-solar-wind-disappearance-groundbreaking-discovery-by-nasas-maven-mission/).
 
 ## Requirements
 - Python 3.8
