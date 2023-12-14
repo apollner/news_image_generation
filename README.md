@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Stop the boats': Britain wants to send asylum seekers 4000 miles away to Rwanda**
+**Ukraine faces a daunting winter after Zelensky can’t convince Republicans to move quickly on new aid**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/12/12/britain-rwanda-asylum-seekers-parliament-vote/71850363007/).
+You can read more about it [here](https://www.cnn.com/2023/12/13/politics/what-comes-next-for-ukraine/index.html).
 
 ## Requirements
 - Python 3.8
