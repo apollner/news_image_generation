@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where Are Interest Rates Headed? What to Expect From the Fed Meeting**
+**Harvard graduate Stefanik becomes face of GOP charge against elite universities**
 
-You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-meeting-interest-rate-what-to-expect-eeaedebf).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/12/elise-stefanik-harvard-hearing/).
 
 ## Requirements
 - Python 3.8
