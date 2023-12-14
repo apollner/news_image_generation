@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andre Braugher, ‘Brooklyn Nine-Nine’ actor, dies at 61**
+**Argentina devalues peso, cuts spending to treat fiscal deficit 'addiction'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vFh3GHIcu9c).
+You can read more about it [here](https://www.reuters.com/markets/argentina-braces-economic-shock-package-peso-shackled-2023-12-12/).
 
 ## Requirements
 - Python 3.8
