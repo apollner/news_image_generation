@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine faces a daunting winter after Zelensky can’t convince Republicans to move quickly on new aid**
+**House set to vote on formalizing impeachment inquiry into President Joe Biden with floor vote**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/what-comes-next-for-ukraine/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html).
 
 ## Requirements
 - Python 3.8
