@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall St hits fresh 2023 highs after inflation data; Fed on deck**
+**Where Are Interest Rates Headed? What to Expect From the Fed Meeting**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-higher-with-all-eyes-inflation-data-2023-12-12/).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-meeting-interest-rate-what-to-expect-eeaedebf).
 
 ## Requirements
 - Python 3.8
