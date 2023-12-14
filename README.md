@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta's Ray-Ban Glasses Now Have Thoughts About Your Pants**
+**[Removed]**
 
-You can read more about it [here](https://gizmodo.com/meta-ray-ban-smart-glasses-ai-fashion-zuckerberg-pants-1851095497).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
