@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COP28 climate summit ends with deal to transition away from fossil fuels**
+**China, Vietnam hail upgrade of ties; sign deals on rail links, data**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/13/countries-agree-to-deal-at-cop28-climate-summit.html).
+You can read more about it [here](https://www.reuters.com/world/chinas-xi-meets-vietnam-leaders-second-day-state-visit-hanoi-2023-12-13/).
 
 ## Requirements
 - Python 3.8
