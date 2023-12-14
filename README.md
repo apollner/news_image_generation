@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Great Solar Wind Disappearance: Groundbreaking Discovery by NASA's MAVEN Mission**
+**Wholesale inflation eases more than expected in November**
 
-You can read more about it [here](https://scitechdaily.com/the-great-solar-wind-disappearance-groundbreaking-discovery-by-nasas-maven-mission/).
+You can read more about it [here](https://www.foxbusiness.com/economy/wholesale-inflation-eases-more-expected-november).
 
 ## Requirements
 - Python 3.8
