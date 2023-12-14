@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard graduate Stefanik becomes face of GOP charge against elite universities**
+**Fantasy Football Rankings Week 15: Sleepers, projections, starts, sits | Chris Godwin, Zay Flowers and more**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/12/elise-stefanik-harvard-hearing/).
+You can read more about it [here](https://theathletic.com/5132789/2023/12/13/fantasy-football-rankings-week-15-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
