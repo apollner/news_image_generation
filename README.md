@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sarasota school board calls on Bridget Ziegler to resign. She does not.**
+**The Geminid meteor shower peaks tonight. Here's what weather you can expect in the US**
 
-You can read more about it [here](https://www.tampabay.com/news/education/2023/12/12/sarasota-school-board-calls-bridget-ziegler-resign-she-does-not/).
+You can read more about it [here](https://www.space.com/geminid-meteor-shower-weather-forecast-2023).
 
 ## Requirements
 - Python 3.8
