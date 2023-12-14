@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hilary Duff Is Pregnant With Her Fourth Child**
+**Jamie Spears seen in a wheelchair in first sighting since leg amputation**
 
-You can read more about it [here](http://www.thecut.com/2023/12/hilary-duff-pregnant-with-fourth-child.html).
+You can read more about it [here](https://pagesix.com/2023/12/12/entertainment/jamie-spears-seen-in-a-wheelchair-for-first-time-since-leg-amputation/).
 
 ## Requirements
 - Python 3.8
