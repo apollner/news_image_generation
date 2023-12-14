@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive sea monster skull excavated from UK's 'Jurassic Coast'**
+**New climate summit draft agreement retains mention of fossil fuels, but no call for phase-out**
 
-You can read more about it [here](https://www.foxnews.com/world/massive-sea-monster-skull-excavated-from-uks-jurassic-coast).
+You can read more about it [here](https://www.cnn.com/2023/12/12/climate/cop28-climate-summit-agreement-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
