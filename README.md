@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB rumors: Yoshinobu Yamamoto suitors stack up; Seth Lugo signs with Royals; Cardinals eye extension for star**
+**Giants met Shohei Ohtani’s asking price**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-rumors-yoshinobu-yamamoto-suitors-stack-up-seth-lugo-signs-with-royals-cardinals-eye-extension-for-star/).
+You can read more about it [here](https://www.mccoveychronicles.com/2023/12/12/23999447/giants-dodgers-shohei-ohtani-farhan-zaidi-contract-deferrals).
 
 ## Requirements
 - Python 3.8
