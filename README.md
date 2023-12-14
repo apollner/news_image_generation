@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House set to vote on formalizing impeachment inquiry into President Joe Biden with floor vote**
+**MLB rumors: Yoshinobu Yamamoto suitors stack up; Seth Lugo signs with Royals; Cardinals eye extension for star**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-rumors-yoshinobu-yamamoto-suitors-stack-up-seth-lugo-signs-with-royals-cardinals-eye-extension-for-star/).
 
 ## Requirements
 - Python 3.8
