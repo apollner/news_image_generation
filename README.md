@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York’s top court clears way for new congressional map**
+**Here’s what we know about a Texas woman’s battle for an abortion**
 
-You can read more about it [here](https://www.nbcnews.com/politics/new-york-court-new-congressional-map-democrats-rcna129292).
+You can read more about it [here](https://www.cnn.com/2023/12/11/us/kate-cox-abortion-law-texas-case/index.html).
 
 ## Requirements
 - Python 3.8
