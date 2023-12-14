@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s what we know about a Texas woman’s battle for an abortion**
+**The Ray-Ban Meta smart glasses are getting AI-powered visual search features**
 
-You can read more about it [here](https://www.cnn.com/2023/12/11/us/kate-cox-abortion-law-texas-case/index.html).
+You can read more about it [here](https://www.engadget.com/the-ray-ban-meta-smart-glasses-are-getting-ai-powered-visual-search-features-204556255.html).
 
 ## Requirements
 - Python 3.8
