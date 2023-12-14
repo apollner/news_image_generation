@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s what we know about a Texas woman’s battle for an abortion**
+**Argentina announces a 50% devaluation of its currency as part of shock economic measures**
 
-You can read more about it [here](https://www.cnn.com/2023/12/11/us/kate-cox-abortion-law-texas-case/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/argentina-announces-a-50-devaluation-currency/).
 
 ## Requirements
 - Python 3.8
