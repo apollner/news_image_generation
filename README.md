@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid meteor shower peaks tonight. Here's what weather you can expect in the US**
+**Gemini now live for developers with free access via Google AI Studio**
 
-You can read more about it [here](https://www.space.com/geminid-meteor-shower-weather-forecast-2023).
+You can read more about it [here](https://9to5google.com/2023/12/13/gemini-google-ai-studio/).
 
 ## Requirements
 - Python 3.8
