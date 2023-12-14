@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid meteor shower peaks tonight. Here's what weather you can expect in the US**
+**As respiratory viruses spread everywhere, what should you do if you get sick?**
 
-You can read more about it [here](https://www.space.com/geminid-meteor-shower-weather-forecast-2023).
+You can read more about it [here](https://www.cnn.com/2023/12/13/health/virus-rsv-covid-flu-winter-health-wellness/index.html).
 
 ## Requirements
 - Python 3.8
