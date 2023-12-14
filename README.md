@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keegan-Michael Key on Wonka, Loving the Detroit Lions and He Does Shaq & Hugh Grant Impressions**
+**COP28 climate summit ends with deal to transition away from fossil fuels**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ci97mVzpmoI).
+You can read more about it [here](https://www.cnbc.com/2023/12/13/countries-agree-to-deal-at-cop28-climate-summit.html).
 
 ## Requirements
 - Python 3.8
