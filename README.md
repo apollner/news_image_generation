@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnie Driver on Matt Damon split, emotional video at 1998 Oscars**
+**The Geminid meteor shower peaks tonight. Here's what weather you can expect in the US**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/12/13/minnie-driver-matt-damon-split-emotional-video-1998-oscars/71899132007/).
+You can read more about it [here](https://www.space.com/geminid-meteor-shower-weather-forecast-2023).
 
 ## Requirements
 - Python 3.8
