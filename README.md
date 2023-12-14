@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Spears seen in a wheelchair in first sighting since leg amputation**
+**For the first time, Netflix releases viewership data for nearly all its titles**
 
-You can read more about it [here](https://pagesix.com/2023/12/12/entertainment/jamie-spears-seen-in-a-wheelchair-for-first-time-since-leg-amputation/).
+You can read more about it [here](https://www.marketwatch.com/story/for-the-first-time-netflix-releases-viewership-data-for-nearly-of-all-its-titles-56e6f9da).
 
 ## Requirements
 - Python 3.8
