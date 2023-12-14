@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 students ate gummy bears from a baggie that tested positive for fentanyl and fell sick. Now 2 people have been arrested**
+**Eight years of conservative rule in Poland ends as Donald Tusk becomes prime minister**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/us/virginia-elementary-students-ingest-fentanyl/index.html).
+You can read more about it [here](https://apnews.com/article/poland-prime-minister-tusk-government-warsaw-8fd0ac25be8fee9f51ece920f493dc1f).
 
 ## Requirements
 - Python 3.8
