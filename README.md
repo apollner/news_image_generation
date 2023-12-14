@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China, Vietnam hail upgrade of ties; sign deals on rail links, data**
+**'Stop the boats': Britain wants to send asylum seekers 4000 miles away to Rwanda**
 
-You can read more about it [here](https://www.reuters.com/world/chinas-xi-meets-vietnam-leaders-second-day-state-visit-hanoi-2023-12-13/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/12/12/britain-rwanda-asylum-seekers-parliament-vote/71850363007/).
 
 ## Requirements
 - Python 3.8
