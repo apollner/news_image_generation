@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Ray-Ban Meta smart glasses are getting AI-powered visual search features**
+**Massive sea monster skull excavated from UK's 'Jurassic Coast'**
 
-You can read more about it [here](https://www.engadget.com/the-ray-ban-meta-smart-glasses-are-getting-ai-powered-visual-search-features-204556255.html).
+You can read more about it [here](https://www.foxnews.com/world/massive-sea-monster-skull-excavated-from-uks-jurassic-coast).
 
 ## Requirements
 - Python 3.8
