@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wholesale inflation eases more than expected in November**
+**Minnie Driver on Matt Damon split, emotional video at 1998 Oscars**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/wholesale-inflation-eases-more-expected-november).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2023/12/13/minnie-driver-matt-damon-split-emotional-video-1998-oscars/71899132007/).
 
 ## Requirements
 - Python 3.8
