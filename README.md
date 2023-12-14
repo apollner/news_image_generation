@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dog Respiratory Illness Maps Show Its Spread to 16 States**
+**7 students ate gummy bears from a baggie that tested positive for fentanyl and fell sick. Now 2 people have been arrested**
 
-You can read more about it [here](https://www.newsweek.com/dog-respiratory-illness-map-spread-16-1852084).
+You can read more about it [here](https://www.cnn.com/2023/12/13/us/virginia-elementary-students-ingest-fentanyl/index.html).
 
 ## Requirements
 - Python 3.8
