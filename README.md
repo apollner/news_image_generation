@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eight years of conservative rule in Poland ends as Donald Tusk becomes prime minister**
+**Draymond Green ejection: Warriors star tossed for hitting Suns' Jusuf Nurkic, who says Green 'needs help'**
 
-You can read more about it [here](https://apnews.com/article/poland-prime-minister-tusk-government-warsaw-8fd0ac25be8fee9f51ece920f493dc1f).
+You can read more about it [here](https://www.cbssports.com/nba/news/draymond-green-ejection-warriors-star-tossed-for-hitting-suns-jusuf-nurkic-who-says-green-needs-help/).
 
 ## Requirements
 - Python 3.8
