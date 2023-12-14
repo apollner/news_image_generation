@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perseverance: Nasa's Mars rover celebrates 1,000 days of science**
+**Sarasota school board calls on Bridget Ziegler to resign. She does not.**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67700437).
+You can read more about it [here](https://www.tampabay.com/news/education/2023/12/12/sarasota-school-board-calls-bridget-ziegler-resign-she-does-not/).
 
 ## Requirements
 - Python 3.8
