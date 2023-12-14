@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden warns Benjamin Netanyahu to change tack or risk losing global support**
+**Hilary Duff Is Pregnant With Her Fourth Child**
 
-You can read more about it [here](https://www.ft.com/content/aa0bffac-d5b7-4221-a715-b7d02fd377d4).
+You can read more about it [here](http://www.thecut.com/2023/12/hilary-duff-pregnant-with-fourth-child.html).
 
 ## Requirements
 - Python 3.8
