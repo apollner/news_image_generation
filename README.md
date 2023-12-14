@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Fantasy 2023 Start 'Em, Sit 'Em: Quarterbacks for Week 15**
+**Dog Respiratory Illness Maps Show Its Spread to 16 States**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-quarterbacks-for-week-15).
+You can read more about it [here](https://www.newsweek.com/dog-respiratory-illness-map-spread-16-1852084).
 
 ## Requirements
 - Python 3.8
