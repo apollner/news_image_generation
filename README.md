@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to decide whether to restrict abortion drug nationwide**
+**NFL Fantasy 2023 Start 'Em, Sit 'Em: Quarterbacks for Week 15**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/supreme-court-to-decide-whether-to-restrict-abortion-drug-nationwide/index.html).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-quarterbacks-for-week-15).
 
 ## Requirements
 - Python 3.8
