@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina devalues peso, cuts spending to treat fiscal deficit 'addiction'**
+**Meta's Ray-Ban Glasses Now Have Thoughts About Your Pants**
 
-You can read more about it [here](https://www.reuters.com/markets/argentina-braces-economic-shock-package-peso-shackled-2023-12-12/).
+You can read more about it [here](https://gizmodo.com/meta-ray-ban-smart-glasses-ai-fashion-zuckerberg-pants-1851095497).
 
 ## Requirements
 - Python 3.8
