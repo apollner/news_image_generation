@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New climate summit draft agreement retains mention of fossil fuels, but no call for phase-out**
+**Wall St hits fresh 2023 highs after inflation data; Fed on deck**
 
-You can read more about it [here](https://www.cnn.com/2023/12/12/climate/cop28-climate-summit-agreement-tuesday/index.html).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-edge-higher-with-all-eyes-inflation-data-2023-12-12/).
 
 ## Requirements
 - Python 3.8
