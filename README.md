@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Supreme Court to decide whether to restrict abortion drug nationwide**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/12/13/politics/supreme-court-to-decide-whether-to-restrict-abortion-drug-nationwide/index.html).
 
 ## Requirements
 - Python 3.8
