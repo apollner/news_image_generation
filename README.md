@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For the first time, Netflix releases viewership data for nearly all its titles**
+**Andre Braugher, ‘Brooklyn Nine-Nine’ and ‘Homicide: Life on the Street’ Star, Dies at 61**
 
-You can read more about it [here](https://www.marketwatch.com/story/for-the-first-time-netflix-releases-viewership-data-for-nearly-of-all-its-titles-56e6f9da).
+You can read more about it [here](https://variety.com/2023/tv/news/andre-braugher-dead-brooklyn-nine-nine-1235835771/).
 
 ## Requirements
 - Python 3.8
