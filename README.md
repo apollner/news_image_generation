@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings Week 15: Sleepers, projections, starts, sits | Chris Godwin, Zay Flowers and more**
+**Keegan-Michael Key on Wonka, Loving the Detroit Lions and He Does Shaq & Hugh Grant Impressions**
 
-You can read more about it [here](https://theathletic.com/5132789/2023/12/13/fantasy-football-rankings-week-15-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.youtube.com/watch?v=ci97mVzpmoI).
 
 ## Requirements
 - Python 3.8
