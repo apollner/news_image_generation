@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giants met Shohei Ohtani’s asking price**
+**Perseverance: Nasa's Mars rover celebrates 1,000 days of science**
 
-You can read more about it [here](https://www.mccoveychronicles.com/2023/12/12/23999447/giants-dodgers-shohei-ohtani-farhan-zaidi-contract-deferrals).
+You can read more about it [here](https://www.bbc.com/news/science-environment-67700437).
 
 ## Requirements
 - Python 3.8
