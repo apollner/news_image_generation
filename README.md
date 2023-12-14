@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As respiratory viruses spread everywhere, what should you do if you get sick?**
+**Andre Braugher, ‘Brooklyn Nine-Nine’ actor, dies at 61**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/health/virus-rsv-covid-flu-winter-health-wellness/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=vFh3GHIcu9c).
 
 ## Requirements
 - Python 3.8
