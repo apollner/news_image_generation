@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says goals in Ukraine have 'not changed' and war will continue until Kyiv agrees a deal**
+**Trian nominates Peltz and former Disney exec to media giant's board**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/14/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/14/trian-nominates-peltz-and-former-disney-exec-to-media-giants-board.html).
 
 ## Requirements
 - Python 3.8
