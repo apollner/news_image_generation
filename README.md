@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China condemns Canada's support for Philippines on South China Sea incidents**
+**Best meteor shower of the year will be visible in NC Wednesday night💫**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/china-condemns-canadas-support-philippines-south-china-sea-incidents-2023-12-14/).
+You can read more about it [here](https://www.wral.com/story/best-meteor-shower-of-the-year-will-be-visible-in-nc-wednesday-night/21192275/).
 
 ## Requirements
 - Python 3.8
