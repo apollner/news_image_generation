@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best meteor shower of the year will be visible in NC Wednesday night💫**
+**Voyager 1 Is Returning a Mishmash of 1s And 0s From Space. NASA Is Baffled.**
 
-You can read more about it [here](https://www.wral.com/story/best-meteor-shower-of-the-year-will-be-visible-in-nc-wednesday-night/21192275/).
+You can read more about it [here](https://www.sciencealert.com/voyager-1-is-returning-a-mishmash-of-1s-and-0s-from-space-nasa-is-baffled).
 
 ## Requirements
 - Python 3.8
