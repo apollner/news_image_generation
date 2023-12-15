@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former BP boss Bernard Looney to forfeit up to £32.4mn after 'serious misconduct'**
+**Oprah Winfrey opens up about using weight-loss medication: "Feels like relief"**
 
-You can read more about it [here](https://www.ft.com/content/726fae11-bb59-4595-a5e0-846160bde3d7).
+You can read more about it [here](https://www.cbsnews.com/news/oprah-winfrey-weight-loss-medication-people-interview/).
 
 ## Requirements
 - Python 3.8
