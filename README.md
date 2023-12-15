@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Embattled Harvard president Claudine Gay attends menorah lighting after widespread antisemitism backlash**
+**Supreme Court's abortion pill case creates GOP heartburn**
 
-You can read more about it [here](https://nypost.com/2023/12/13/news/embattled-harvard-president-claudine-gay-attends-menorah-lighting-after-widespread-antisemitism-backlash/).
+You can read more about it [here](https://www.axios.com/2023/12/14/supreme-court-abortion-pill-mifepristone-congress).
 
 ## Requirements
 - Python 3.8
