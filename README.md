@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Troy Vincent: Kickoff has become a "dead, ceremonial play"**
+**NY Times blasted for omitting key word from Hunter Biden quote saying father never 'financially' involved**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-vincent-kickoff-has-become-a-dead-ceremonial-play).
+You can read more about it [here](https://www.foxnews.com/media/ny-times-blasted-omitting-key-word-hunter-biden-quote-saying-father-never-financially-involved).
 
 ## Requirements
 - Python 3.8
