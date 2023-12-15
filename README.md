@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla recalls nearly all vehicles on US roads over lack of Autopilot safeguards**
+**Troy Vincent: Kickoff has become a "dead, ceremonial play"**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-update-software-autopilot-control-issue-2-mln-vehicles-nhtsa-2023-12-13/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-vincent-kickoff-has-become-a-dead-ceremonial-play).
 
 ## Requirements
 - Python 3.8
