@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ban flavoured vapes, WHO says, urging tobacco-style controls**
+**House votes to formalize impeachment inquiry into President Joe Biden with floor vote**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/ban-flavoured-vapes-who-says-urging-tobacco-style-controls-2023-12-14/).
+You can read more about it [here](https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html).
 
 ## Requirements
 - Python 3.8
