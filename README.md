@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Mostly clear night in New Hampshire ideal for viewing Geminid meteor shower**
+**Tesla recalls nearly all vehicles on US roads over lack of Autopilot safeguards**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-video-forecast-121323/46122406).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-update-software-autopilot-control-issue-2-mln-vehicles-nhtsa-2023-12-13/).
 
 ## Requirements
 - Python 3.8
