@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey opens up about using weight-loss medication: "Feels like relief"**
+**Rudy Giuliani Caused $47 Million in Damage to Georgia Workers: Expert**
 
-You can read more about it [here](https://www.cbsnews.com/news/oprah-winfrey-weight-loss-medication-people-interview/).
+You can read more about it [here](https://www.businessinsider.com/rudy-giuliani-caused-47-million-damage-georgia-election-workers-expert-2023-12).
 
 ## Requirements
 - Python 3.8
