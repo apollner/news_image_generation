@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah taking weight loss drug, says she wants to shed shame**
+**Samantha Woll: Man charged in fatal stabbing of Detroit Jewish leader**
 
-You can read more about it [here](https://www.newsnationnow.com/health/oprah-weight-loss-drugs-ozempic-wegovy-mounjaro/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67716291).
 
 ## Requirements
 - Python 3.8
