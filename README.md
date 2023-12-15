@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkish lawmaker who had heart attack after saying Israel 'will suffer the wrath of Allah' dies**
+**Gigi Hadid, Miles Teller and more stars attend Taylor Swift's 34th birthday party**
 
-You can read more about it [here](https://nypost.com/2023/12/14/news/turkish-lawmaker-who-had-heart-attack-slamming-israel-dies/).
+You can read more about it [here](https://pagesix.com/2023/12/14/entertainment/gigi-hadid-more-attend-taylor-swifts-34th-birthday-party/).
 
 ## Requirements
 - Python 3.8
