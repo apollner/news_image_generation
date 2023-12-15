@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supercharged markets surge on interest rate cut signals**
+**SEC football schedule: Conference releases 2024 slate with additions of Texas, Oklahoma**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-14/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/sec-football-schedule-conference-releases-2024-slate-with-additions-of-texas-oklahoma/).
 
 ## Requirements
 - Python 3.8
