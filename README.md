@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Draymond Green ejection: Warriors star tossed for hitting Suns' Jusuf Nurkic, who says Green 'needs help'**
+**Judge hits pause on Trump federal election case over immunity appeal**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/draymond-green-ejection-warriors-star-tossed-for-hitting-suns-jusuf-nurkic-who-says-green-needs-help/).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/judge-hits-pause-trump-federal-election-case-presidential-immunity-app-rcna129603).
 
 ## Requirements
 - Python 3.8
