@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court refuses to block Illinois assault weapons ban**
+**Trian nominates Peltz and former Disney exec to media giant's board**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4360848-supreme-court-refuses-to-block-illinois-assault-weapons-ban/).
+You can read more about it [here](https://www.cnbc.com/2023/12/14/trian-nominates-peltz-and-former-disney-exec-to-media-giants-board.html).
 
 ## Requirements
 - Python 3.8
