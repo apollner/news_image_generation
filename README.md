@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**You can now access Apple's official diagnostics tool online for DIY repairs**
+**Supreme Court's abortion pill case creates GOP heartburn**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/you-can-now-access-apples-official-diagnostics-tool-online-for-diy-repairs/).
+You can read more about it [here](https://www.axios.com/2023/12/14/supreme-court-abortion-pill-mifepristone-congress).
 
 ## Requirements
 - Python 3.8
