@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NY Times blasted for omitting key word from Hunter Biden quote saying father never 'financially' involved**
+**You can now access Apple's official diagnostics tool online for DIY repairs**
 
-You can read more about it [here](https://www.foxnews.com/media/ny-times-blasted-omitting-key-word-hunter-biden-quote-saying-father-never-financially-involved).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/you-can-now-access-apples-official-diagnostics-tool-online-for-diy-repairs/).
 
 ## Requirements
 - Python 3.8
