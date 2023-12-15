@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says goals in Ukraine have 'not changed' and war will continue until Kyiv agrees a deal**
+**Karine Jean-Pierre blows up when pressed on Biden connection to Hunter's business dealings: 'No evidence!'**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/14/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.foxnews.com/politics/karine-jean-pierre-blows-up-pressed-biden-connection-hunter-business-dealings).
 
 ## Requirements
 - Python 3.8
