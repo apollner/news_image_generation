@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU to open membership talks with Ukraine and Moldova**
+**OpenAI thinks superhuman AI is coming — and wants to build tools to control it**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67722252).
+You can read more about it [here](https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/).
 
 ## Requirements
 - Python 3.8
