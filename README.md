@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian woman jailed for 20 years for death of her four children has conviction quashed**
+**University of Wisconsin regents approve deal on diversity, pay raises**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/australian-woman-jailed-20-years-death-her-four-children-has-conviction-quashed-2023-12-14/).
+You can read more about it [here](https://www.jsonline.com/story/news/education/2023/12/13/university-of-wisconsin-regents-approve-deal-on-diversity-pay-raises/71909112007/).
 
 ## Requirements
 - Python 3.8
