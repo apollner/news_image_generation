@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court's abortion pill case creates GOP heartburn**
+**Oprah Winfrey Reveals She's Using a Weight-Loss Medication**
 
-You can read more about it [here](https://www.axios.com/2023/12/14/supreme-court-abortion-pill-mifepristone-congress).
+You can read more about it [here](https://www.eonline.com/news/1391399/oprah-winfrey-reveals-shes-using-a-weight-loss-medication).
 
 ## Requirements
 - Python 3.8
