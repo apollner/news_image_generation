@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voyager 1 Is Returning a Mishmash of 1s And 0s From Space. NASA Is Baffled.**
+**Tesla issues massive recall involving autopilot feature**
 
-You can read more about it [here](https://www.sciencealert.com/voyager-1-is-returning-a-mishmash-of-1s-and-0s-from-space-nasa-is-baffled).
+You can read more about it [here](https://www.youtube.com/watch?v=hzK9zunYL_c).
 
 ## Requirements
 - Python 3.8
