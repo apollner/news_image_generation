@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Study Finds Life-Sparking Energy Source and Molecule at Enceladus**
+**Supreme Court refuses to block Illinois assault weapons ban**
 
-You can read more about it [here](https://www.nasa.gov/missions/cassini/nasa-study-finds-life-sparking-energy-source-and-molecule-at-enceladus/).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4360848-supreme-court-refuses-to-block-illinois-assault-weapons-ban/).
 
 ## Requirements
 - Python 3.8
