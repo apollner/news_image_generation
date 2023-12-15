@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge hits pause on Trump federal election case over immunity appeal**
+**Bridget Ziegler: Florida school board pushes member to resign amid sexual assault scandal**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/judge-hits-pause-trump-federal-election-case-presidential-immunity-app-rcna129603).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67706835).
 
 ## Requirements
 - Python 3.8
