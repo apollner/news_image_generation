@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samantha Woll: Man charged in fatal stabbing of Detroit Jewish leader**
+**EU to open membership talks with Ukraine and Moldova**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67716291).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67722252).
 
 ## Requirements
 - Python 3.8
