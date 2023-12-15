@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supercharged markets surge on interest rate cut signals**
+**Ban flavoured vapes, WHO says, urging tobacco-style controls**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-14/).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/ban-flavoured-vapes-who-says-urging-tobacco-style-controls-2023-12-14/).
 
 ## Requirements
 - Python 3.8
