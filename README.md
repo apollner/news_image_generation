@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**University of Wisconsin regents approve deal on diversity, pay raises**
+**Stock futures rise Thursday after Dow closes at a record high: Live updates**
 
-You can read more about it [here](https://www.jsonline.com/story/news/education/2023/12/13/university-of-wisconsin-regents-approve-deal-on-diversity-pay-raises/71909112007/).
+You can read more about it [here](https://www.cnbc.com/2023/12/13/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
