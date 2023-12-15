@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bridget Ziegler: Florida school board pushes member to resign amid sexual assault scandal**
+**Former BP boss Bernard Looney to forfeit up to £32.4mn after 'serious misconduct'**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67706835).
+You can read more about it [here](https://www.ft.com/content/726fae11-bb59-4595-a5e0-846160bde3d7).
 
 ## Requirements
 - Python 3.8
