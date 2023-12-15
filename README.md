@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani Caused $47 Million in Damage to Georgia Workers: Expert**
+**NFL playoff picture: Postseason probabilities entering Week 15 of 2023 season**
 
-You can read more about it [here](https://www.businessinsider.com/rudy-giuliani-caused-47-million-damage-georgia-election-workers-expert-2023-12).
+You can read more about it [here](https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-entering-week-15-of-2023-season).
 
 ## Requirements
 - Python 3.8
