@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL playoff picture: Postseason probabilities entering Week 15 of 2023 season**
+**Video: Mostly clear night in New Hampshire ideal for viewing Geminid meteor shower**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-entering-week-15-of-2023-season).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-video-forecast-121323/46122406).
 
 ## Requirements
 - Python 3.8
