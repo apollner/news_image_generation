@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gigi Hadid, Miles Teller and more stars attend Taylor Swift's 34th birthday party**
+**Oprah taking weight loss drug, says she wants to shed shame**
 
-You can read more about it [here](https://pagesix.com/2023/12/14/entertainment/gigi-hadid-more-attend-taylor-swifts-34th-birthday-party/).
+You can read more about it [here](https://www.newsnationnow.com/health/oprah-weight-loss-drugs-ozempic-wegovy-mounjaro/).
 
 ## Requirements
 - Python 3.8
