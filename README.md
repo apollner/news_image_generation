@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court's abortion pill case creates GOP heartburn**
+**China condemns Canada's support for Philippines on South China Sea incidents**
 
-You can read more about it [here](https://www.axios.com/2023/12/14/supreme-court-abortion-pill-mifepristone-congress).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/china-condemns-canadas-support-philippines-south-china-sea-incidents-2023-12-14/).
 
 ## Requirements
 - Python 3.8
