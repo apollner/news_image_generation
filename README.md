@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to formalize impeachment inquiry into President Joe Biden with floor vote**
+**Geminid meteor shower to light up night sky**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html).
+You can read more about it [here](https://www.bbc.com/news/science-environment-67658650).
 
 ## Requirements
 - Python 3.8
