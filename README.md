@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla issues massive recall involving autopilot feature**
+**Australian woman jailed for 20 years for death of her four children has conviction quashed**
 
-You can read more about it [here](https://www.youtube.com/watch?v=hzK9zunYL_c).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/australian-woman-jailed-20-years-death-her-four-children-has-conviction-quashed-2023-12-14/).
 
 ## Requirements
 - Python 3.8
