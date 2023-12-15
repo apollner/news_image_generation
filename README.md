@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trian nominates Peltz and former Disney exec to media giant's board**
+**NASA Study Finds Life-Sparking Energy Source and Molecule at Enceladus**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/14/trian-nominates-peltz-and-former-disney-exec-to-media-giants-board.html).
+You can read more about it [here](https://www.nasa.gov/missions/cassini/nasa-study-finds-life-sparking-energy-source-and-molecule-at-enceladus/).
 
 ## Requirements
 - Python 3.8
