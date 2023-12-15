@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to formalize impeachment inquiry into President Joe Biden with floor vote**
+**Samantha Woll: Man charged in fatal stabbing of Detroit Jewish leader**
 
-You can read more about it [here](https://www.cnn.com/2023/12/13/politics/house-impeachment-inquiry-joe-biden/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67716291).
 
 ## Requirements
 - Python 3.8
