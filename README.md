@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan Court of Appeals rules Trump can remain on 2024 GOP primary ballot**
+**Hungary blocks €50bn of EU funding for Ukraine**
 
-You can read more about it [here](https://abcnews.go.com/Politics/michigan-court-appeals-rules-trump-remain-2024-ballot/story?id=105675899).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67724357).
 
 ## Requirements
 - Python 3.8
