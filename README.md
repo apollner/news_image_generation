@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How the trade market is shaping up for Zach LaVine, Lauri Markkanen**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/how-the-trade-market-is-shaping-up-for-zach-lavine-lauri-markkanen-145142833.html).
 
 ## Requirements
 - Python 3.8
