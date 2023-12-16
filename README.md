@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mississippi man charged with vandalizing Satanic Temple's display inside Iowa Capitol building**
+**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
 
-You can read more about it [here](https://www.kcci.com/article/satanic-temple-display-inside-iowa-capitol-building-damaged-beyond-repair/46133104).
+You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
 
 ## Requirements
 - Python 3.8
