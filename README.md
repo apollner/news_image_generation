@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-FBI counterintelligence chief Charles McGonigal sentenced to 50 months in prison for working with Russian oligarch**
+**Drastic border restrictions considered by Biden and the Senate reflect seismic political shift on immigration**
 
-You can read more about it [here](https://abcnews.go.com/US/fbi-counterintelligence-chief-charles-mcgonigal-sentencing-begin/story?id=105642391).
+You can read more about it [here](https://www.cbsnews.com/news/immigration-biden-senate-us-mexico-border-restrictions/).
 
 ## Requirements
 - Python 3.8
