@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the trade market is shaping up for Zach LaVine, Lauri Markkanen**
+**Life on Saturn's moon? New evidence of toxic gas suggests it's more likely than ever**
 
-You can read more about it [here](https://sports.yahoo.com/how-the-trade-market-is-shaping-up-for-zach-lavine-lauri-markkanen-145142833.html).
+You can read more about it [here](https://www.salon.com/2023/12/15/life-on-saturns-moon-new-evidence-of-gas-suggests-its-more-likely-than-ever/).
 
 ## Requirements
 - Python 3.8
