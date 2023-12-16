@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These celebrities have spoken out against college presidents' 'morally bankrupt' testimony on antisemitism**
+**Mississippi man charged with vandalizing Satanic Temple's display inside Iowa Capitol building**
 
-You can read more about it [here](https://www.foxnews.com/media/celebrities-spoken-college-presidents-morally-bankrupt-testimony-antisemitism).
+You can read more about it [here](https://www.kcci.com/article/satanic-temple-display-inside-iowa-capitol-building-damaged-beyond-repair/46133104).
 
 ## Requirements
 - Python 3.8
