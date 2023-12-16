@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These celebrities have spoken out against college presidents' 'morally bankrupt' testimony on antisemitism**
+**Republicans authorize Joe Biden impeachment inquiry. What's next?**
 
-You can read more about it [here](https://www.foxnews.com/media/celebrities-spoken-college-presidents-morally-bankrupt-testimony-antisemitism).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/15/house-gop-projects-confidence-joe-biden-impeachment-inquiry/71923964007/).
 
 ## Requirements
 - Python 3.8
