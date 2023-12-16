@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karine Jean-Pierre blows up when pressed on Biden connection to Hunter's business dealings: 'No evidence!'**
+**Denmark, Germany arrest terror suspects, including alleged Hamas members, authorities say**
 
-You can read more about it [here](https://www.foxnews.com/politics/karine-jean-pierre-blows-up-pressed-biden-connection-hunter-business-dealings).
+You can read more about it [here](https://www.cbsnews.com/news/hamas-germany-denmark-terror-attacks-foiled-against-jewish-targets/).
 
 ## Requirements
 - Python 3.8
