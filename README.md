@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans authorize Joe Biden impeachment inquiry. What's next?**
+**Press Conference: Head Coach Brandon Staley Postgame Press Conference vs. Raiders**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/15/house-gop-projects-confidence-joe-biden-impeachment-inquiry/71923964007/).
+You can read more about it [here](https://www.chargers.com/video/head-coach-brandon-staley-postgame-press-conference-vs-raiders-week-15-2023).
 
 ## Requirements
 - Python 3.8
