@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU leaders fail to agree on a $55 billion aid package for Ukraine**
+**Chargers vs. Raiders highlights: Las Vegas gets overwhelming 63-21 win**
 
-You can read more about it [here](https://apnews.com/article/eu-ukraine-hungary-russsia-war-aid-6a3a5828483121f19193f76b373ca692).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/chargers-vs-raiders-live-updates-top-moments-from-thursday-night-football).
 
 ## Requirements
 - Python 3.8
