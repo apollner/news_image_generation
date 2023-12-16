@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
+**These celebrities have spoken out against college presidents' 'morally bankrupt' testimony on antisemitism**
 
-You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
+You can read more about it [here](https://www.foxnews.com/media/celebrities-spoken-college-presidents-morally-bankrupt-testimony-antisemitism).
 
 ## Requirements
 - Python 3.8
