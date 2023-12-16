@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: Rocket Lab's prepares return-to-flight Electron launch – Spaceflight Now**
+**Michigan Court of Appeals rules Trump can remain on 2024 GOP primary ballot**
 
-You can read more about it [here](https://spaceflightnow.com/2023/12/14/live-coverage-rocket-labs-prepares-return-to-flight-electron-launch/).
+You can read more about it [here](https://abcnews.go.com/Politics/michigan-court-appeals-rules-trump-remain-2024-ballot/story?id=105675899).
 
 ## Requirements
 - Python 3.8
