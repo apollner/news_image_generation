@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PBOC Offers Record $112 Billion of Cash as Economy Struggles**
+**EU leaders fail to agree on a $55 billion aid package for Ukraine**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-15/china-expands-cash-coffers-with-13th-consecutive-loan-injection).
+You can read more about it [here](https://apnews.com/article/eu-ukraine-hungary-russsia-war-aid-6a3a5828483121f19193f76b373ca692).
 
 ## Requirements
 - Python 3.8
