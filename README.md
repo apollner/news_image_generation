@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denmark, Germany arrest terror suspects, including alleged Hamas members, authorities say**
+**US tells Israel to lower intensity of Gaza war 'in near future'**
 
-You can read more about it [here](https://www.cbsnews.com/news/hamas-germany-denmark-terror-attacks-foiled-against-jewish-targets/).
+You can read more about it [here](https://www.ft.com/content/404308f8-493d-4922-bfb9-a3af5032cf8c).
 
 ## Requirements
 - Python 3.8
