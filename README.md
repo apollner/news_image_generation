@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coca-Cola recalls 2,000 Diet Coke, Sprite, Fanta Orange soda packs**
+**PBOC Offers Record $112 Billion of Cash as Economy Struggles**
 
-You can read more about it [here](https://www.cbsnews.com/news/coca-cola-recall-diet-coke-sprite-fanta-orange-2000-cases/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-15/china-expands-cash-coffers-with-13th-consecutive-loan-injection).
 
 ## Requirements
 - Python 3.8
