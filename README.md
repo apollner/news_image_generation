@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football bowl games: Matchups, storylines for Saturday's opening slate**
+**Scientists may have pinpointed morning sickness cause, sparking hope for potential cures**
 
-You can read more about it [here](https://247sports.com/longformarticle/college-football-bowl-games-matchups-storylines-for-saturdays-opening-slate-223141098/).
+You can read more about it [here](https://www.cbsnews.com/news/morning-sickness-cause-pregnancy-hormone-treatment/).
 
 ## Requirements
 - Python 3.8
