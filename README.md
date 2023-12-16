@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 296 Embedded: Vlog Series - Episode 5**
+**Mississippi man charged with vandalizing Satanic Temple's display inside Iowa Capitol building**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CuuHoOP5bxM).
+You can read more about it [here](https://www.kcci.com/article/satanic-temple-display-inside-iowa-capitol-building-damaged-beyond-repair/46133104).
 
 ## Requirements
 - Python 3.8
