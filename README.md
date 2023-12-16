@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drastic border restrictions considered by Biden and the Senate reflect seismic political shift on immigration**
+**College football bowl games: Matchups, storylines for Saturday's opening slate**
 
-You can read more about it [here](https://www.cbsnews.com/news/immigration-biden-senate-us-mexico-border-restrictions/).
+You can read more about it [here](https://247sports.com/longformarticle/college-football-bowl-games-matchups-storylines-for-saturdays-opening-slate-223141098/).
 
 ## Requirements
 - Python 3.8
