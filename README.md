@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hungary blocks €50bn of EU funding for Ukraine**
+**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67724357).
+You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
 
 ## Requirements
 - Python 3.8
