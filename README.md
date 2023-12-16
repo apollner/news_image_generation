@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British boy missing for six years found in France**
+**Warriors' Steve Kerr explains why Draymond Green's indefinite suspension makes sense: 'This is about his life'**
 
-You can read more about it [here](https://www.cnn.com/2023/12/14/europe/alex-batty-british-boy-missing-found-france-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/warriors-steve-kerr-explains-why-draymond-greens-indefinite-suspension-makes-sense-this-is-about-his-life/).
 
 ## Requirements
 - Python 3.8
