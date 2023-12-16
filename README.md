@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious fast radio bursts in space keep getting stranger**
+**Live coverage: Rocket Lab's prepares return-to-flight Electron launch – Spaceflight Now**
 
-You can read more about it [here](https://www.cnn.com/2023/12/14/world/repeating-fast-radio-burst-quirk-scn/index.html).
+You can read more about it [here](https://spaceflightnow.com/2023/12/14/live-coverage-rocket-labs-prepares-return-to-flight-electron-launch/).
 
 ## Requirements
 - Python 3.8
