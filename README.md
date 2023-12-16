@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel Recorder adds cloud-powered 'Transcribe again'**
+**Tara Reid says Tom Brady seems 'cocky,' reflects on their short romance: ‘Nothing serious’**
 
-You can read more about it [here](https://9to5google.com/2023/12/15/pixel-recorder-transcribe-again/).
+You can read more about it [here](https://www.foxnews.com/entertainment/tara-reid-tom-brady-cocky-short-romance).
 
 ## Requirements
 - Python 3.8
