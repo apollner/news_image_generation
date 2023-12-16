@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olive Garden owner Darden beats earnings estimates, hikes guidance as sales climb**
+**Pixel Recorder adds cloud-powered 'Transcribe again'**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/15/darden-restaurants-dri-q2-2024-earnings.html).
+You can read more about it [here](https://9to5google.com/2023/12/15/pixel-recorder-transcribe-again/).
 
 ## Requirements
 - Python 3.8
