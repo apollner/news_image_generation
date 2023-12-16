@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British boy missing for six years found in France**
+**These celebrities have spoken out against college presidents' 'morally bankrupt' testimony on antisemitism**
 
-You can read more about it [here](https://www.cnn.com/2023/12/14/europe/alex-batty-british-boy-missing-found-france-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/media/celebrities-spoken-college-presidents-morally-bankrupt-testimony-antisemitism).
 
 ## Requirements
 - Python 3.8
