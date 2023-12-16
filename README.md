@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
+**Guyana and Venezuela agree to refrain from using force, but fail to resolve territorial dispute**
 
-You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
+You can read more about it [here](https://apnews.com/article/guyana-venezuela-essequibo-meeting-st-vincent-173eef85a1ebe8cfaa9f1656ce3dcbd6).
 
 ## Requirements
 - Python 3.8
