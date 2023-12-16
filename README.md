@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karine Jean-Pierre blows up when pressed on Biden connection to Hunter's business dealings: 'No evidence!'**
+**Ex-FBI counterintelligence chief Charles McGonigal sentenced to 50 months in prison for working with Russian oligarch**
 
-You can read more about it [here](https://www.foxnews.com/politics/karine-jean-pierre-blows-up-pressed-biden-connection-hunter-business-dealings).
+You can read more about it [here](https://abcnews.go.com/US/fbi-counterintelligence-chief-charles-mcgonigal-sentencing-begin/story?id=105642391).
 
 ## Requirements
 - Python 3.8
