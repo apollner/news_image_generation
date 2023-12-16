@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Guyana and Venezuela agree to refrain from using force, but fail to resolve territorial dispute**
+**British boy missing for six years found in France**
 
-You can read more about it [here](https://apnews.com/article/guyana-venezuela-essequibo-meeting-st-vincent-173eef85a1ebe8cfaa9f1656ce3dcbd6).
+You can read more about it [here](https://www.cnn.com/2023/12/14/europe/alex-batty-british-boy-missing-found-france-intl/index.html).
 
 ## Requirements
 - Python 3.8
