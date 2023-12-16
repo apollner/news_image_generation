@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Press Conference: Head Coach Brandon Staley Postgame Press Conference vs. Raiders**
+**New COVID-19 variant JN.1 is spreading fast. How to protect yourself,**
 
-You can read more about it [here](https://www.chargers.com/video/head-coach-brandon-staley-postgame-press-conference-vs-raiders-week-15-2023).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/12/13/new-covid-variant-jn-1-spreading/71891879007/).
 
 ## Requirements
 - Python 3.8
