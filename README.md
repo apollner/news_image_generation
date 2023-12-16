@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mississippi man charged with vandalizing Satanic Temple's display inside Iowa Capitol building**
+**Chargers fire Brandon Staley after 42-point loss to Raiders**
 
-You can read more about it [here](https://www.kcci.com/article/satanic-temple-display-inside-iowa-capitol-building-damaged-beyond-repair/46133104).
+You can read more about it [here](https://sports.yahoo.com/chargers-fire-head-coach-brandon-staley-gm-tom-telesco-after-loss-to-raiders-170810563.html).
 
 ## Requirements
 - Python 3.8
