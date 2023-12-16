@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New details emerge about Alex Batty, U.K. teen found in France after vanishing 6 years ago: "I want to come home"**
+**Mississippi man charged with vandalizing Satanic Temple's display inside Iowa Capitol building**
 
-You can read more about it [here](https://www.cbsnews.com/news/alex-batty-new-details-uk-teen-missing-6-years-found-in-france/).
+You can read more about it [here](https://www.kcci.com/article/satanic-temple-display-inside-iowa-capitol-building-damaged-beyond-repair/46133104).
 
 ## Requirements
 - Python 3.8
