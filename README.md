@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football bowl games: Matchups, storylines for Saturday's opening slate**
+**Karine Jean-Pierre blows up when pressed on Biden connection to Hunter's business dealings: 'No evidence!'**
 
-You can read more about it [here](https://247sports.com/longformarticle/college-football-bowl-games-matchups-storylines-for-saturdays-opening-slate-223141098/).
+You can read more about it [here](https://www.foxnews.com/politics/karine-jean-pierre-blows-up-pressed-biden-connection-hunter-business-dealings).
 
 ## Requirements
 - Python 3.8
