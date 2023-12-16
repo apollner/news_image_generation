@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Shares Personal Photos From Inside Her 34th Birthday Party**
+**[Removed]**
 
-You can read more about it [here](https://www.townandcountrymag.com/leisure/arts-and-culture/a46147122/taylor-swift-personal-34th-birthday-party-photos/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
