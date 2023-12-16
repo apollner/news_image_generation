@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colby Covington vs Leon Edwards Altercation after Bringing up Dead Father**
+**Mysterious fast radio bursts in space keep getting stranger**
 
-You can read more about it [here](https://www.youtube.com/watch?v=YZKHC8bdqy8).
+You can read more about it [here](https://www.cnn.com/2023/12/14/world/repeating-fast-radio-burst-quirk-scn/index.html).
 
 ## Requirements
 - Python 3.8
