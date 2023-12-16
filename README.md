@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tara Reid says Tom Brady seems 'cocky,' reflects on their short romance: ‘Nothing serious’**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/tara-reid-tom-brady-cocky-short-romance).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
