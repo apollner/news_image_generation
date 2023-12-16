@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID-19 variant JN.1 is spreading fast. How to protect yourself,**
+**British boy missing for six years found in France**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/12/13/new-covid-variant-jn-1-spreading/71891879007/).
+You can read more about it [here](https://www.cnn.com/2023/12/14/europe/alex-batty-british-boy-missing-found-france-intl/index.html).
 
 ## Requirements
 - Python 3.8
