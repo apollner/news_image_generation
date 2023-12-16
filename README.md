@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers vs. Raiders highlights: Las Vegas gets overwhelming 63-21 win**
+**Colby Covington vs Leon Edwards Altercation after Bringing up Dead Father**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/chargers-vs-raiders-live-updates-top-moments-from-thursday-night-football).
+You can read more about it [here](https://www.youtube.com/watch?v=YZKHC8bdqy8).
 
 ## Requirements
 - Python 3.8
