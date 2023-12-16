@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is the name of Shohei Ohtani dog? reveals dog's name in Dodgers introduction**
+**There's no comeback for Brandon Staley after this epic bust in Vegas**
 
-You can read more about it [here](https://abc7.com/shohei-ohtani-decoy-dekopin-dog-name/14185558/).
+You can read more about it [here](https://sports.yahoo.com/theres-no-comeback-for-brandon-staley-after-this-epic-bust-in-vegas-053429275.html).
 
 ## Requirements
 - Python 3.8
