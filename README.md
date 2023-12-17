@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayim Bialik will no longer host 'Jeopardy!' show**
+**Cardinal Becciu: Vatican court convicts former Pope adviser of financial crimes**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2023/12/16/jeopardy-host-mayim-bialik/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67738595).
 
 ## Requirements
 - Python 3.8
