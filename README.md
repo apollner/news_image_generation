@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani ordered to pay nearly $150 million to two Georgia election workers he defamed**
+**McCarthy protégé deemed ineligible for Congress bid**
 
-You can read more about it [here](https://www.cnn.com/2023/12/15/politics/rudy-giuliani-verdict-pay-defamed-election-workers/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/15/vince-fong-ineligible-congress-bid-00132138).
 
 ## Requirements
 - Python 3.8
