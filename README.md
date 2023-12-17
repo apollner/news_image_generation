@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona Gov. Katie Hobbs sends National Guard to border, says Biden 'refused to deliver' aid**
+**US SEC says no to new crypto rules; Coinbase asks court to review**
 
-You can read more about it [here](https://www.azcentral.com/story/news/politics/arizona/2023/12/15/governor-katie-hobbs-sends-national-guard-to-southern-border-communities-in-arizona/71936089007/).
+You can read more about it [here](https://www.reuters.com/technology/us-sec-denies-coinbase-petition-crypto-rulemaking-2023-12-15/).
 
 ## Requirements
 - Python 3.8
