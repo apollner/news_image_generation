@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry takes aim at Piers Morgan as judge rules his phone was hacked by The Mirror**
+**Researchers say Bing made up facts about European elections**
 
-You can read more about it [here](https://www.youtube.com/watch?v=hqAxgIxhMho).
+You can read more about it [here](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation).
 
 ## Requirements
 - Python 3.8
