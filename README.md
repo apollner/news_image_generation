@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Classified binder on Russian meddling went missing as Trump left office: Reports**
+**Rudy Giuliani ordered to pay nearly $150 million to two Georgia election workers he defamed**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4362698-classified-binder-russian-meddling-went-missing-as-trump-left-office-reports/).
+You can read more about it [here](https://www.cnn.com/2023/12/15/politics/rudy-giuliani-verdict-pay-defamed-election-workers/index.html).
 
 ## Requirements
 - Python 3.8
