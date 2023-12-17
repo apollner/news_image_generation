@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 and flu levels continue to increase but CDC director believes US has hit peak of RSV**
+**Never-Before-Seen Anomaly Found In Fast Radio Bursts, Say Astronomers**
 
-You can read more about it [here](https://abcnews.go.com/Health/covid-19-flu-levels-continue-increase-cdc-director/story?id=105698145).
+You can read more about it [here](https://www.ndtv.com/science/never-before-seen-anomaly-found-in-fast-radio-bursts-say-astronomers-4683439).
 
 ## Requirements
 - Python 3.8
