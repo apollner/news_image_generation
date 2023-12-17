@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google moves to end geofence warrants, a surveillance problem it largely created**
+**Mark Meadows' bid to move election interference charges to federal court met with skepticism by three-judge panel**
 
-You can read more about it [here](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/).
+You can read more about it [here](https://www.cbsnews.com/news/mark-meadows-move-election-interference-charges-federal-court/).
 
 ## Requirements
 - Python 3.8
