@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers fire Brandon Staley, GM Tom Telesco one day after 42-point blowout loss to Raiders in Week 15**
+**US homelessness hits its highest reported level**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chargers-fire-brandon-staley-gm-tom-telesco-one-day-after-42-point-blowout-loss-to-raiders-in-week-15/).
+You can read more about it [here](https://apnews.com/article/homelessness-increase-rent-hud-covid-60bd88687e1aef1b02d25425798bd3b1).
 
 ## Requirements
 - Python 3.8
