@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy mentee Vince Fong determined ineligible for congressional candidacy**
+**Mortgage interest rates dip below 7%—see how much you'd pay for a house at the current rate**
 
-You can read more about it [here](https://thehill.com/homenews/house/4363558-mccarthy-mentee-vince-fong-ineligible-for-congress/).
+You can read more about it [here](https://www.cnbc.com/2023/12/16/mortgage-rates-dip-below-7-percent-how-much-youd-pay-for-a-house.html).
 
 ## Requirements
 - Python 3.8
