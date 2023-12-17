@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Never-Before-Seen Anomaly Found In Fast Radio Bursts, Say Astronomers**
+**[Removed]**
 
-You can read more about it [here](https://www.ndtv.com/science/never-before-seen-anomaly-found-in-fast-radio-bursts-say-astronomers-4683439).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
