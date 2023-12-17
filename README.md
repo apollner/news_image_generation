@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry Denounced Ketamine in Memoir, Said It 'Was Not For Me'**
+**McCarthy mentee Vince Fong determined ineligible for congressional candidacy**
 
-You can read more about it [here](https://www.thedailybeast.com/matthew-perry-denounced-ketamine-in-memoir-said-it-was-not-for-me).
+You can read more about it [here](https://thehill.com/homenews/house/4363558-mccarthy-mentee-vince-fong-ineligible-for-congress/).
 
 ## Requirements
 - Python 3.8
