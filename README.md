@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Applesauce pouch contamination may have been deliberate: FDA official**
+**Arizona Gov. Katie Hobbs sends National Guard to border, says Biden 'refused to deliver' aid**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4363214-applesauce-pouch-contamination-update-fda/).
+You can read more about it [here](https://www.azcentral.com/story/news/politics/arizona/2023/12/15/governor-katie-hobbs-sends-national-guard-to-southern-border-communities-in-arizona/71936089007/).
 
 ## Requirements
 - Python 3.8
