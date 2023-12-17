@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage interest rates dip below 7%—see how much you'd pay for a house at the current rate**
+**Matthew Perry Denounced Ketamine in Memoir, Said It 'Was Not For Me'**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/16/mortgage-rates-dip-below-7-percent-how-much-youd-pay-for-a-house.html).
+You can read more about it [here](https://www.thedailybeast.com/matthew-perry-denounced-ketamine-in-memoir-said-it-was-not-for-me).
 
 ## Requirements
 - Python 3.8
