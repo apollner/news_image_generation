@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 296 Embedded: Vlog Series - Episode 6**
+**Matthew Perry detailed ketamine use prior to death: 'Has my name written all over it'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vuA7eMjc1QA).
+You can read more about it [here](https://www.foxnews.com/entertainment/matthew-perry-detailed-ketamine-use-prior-death-my-name-written).
 
 ## Requirements
 - Python 3.8
