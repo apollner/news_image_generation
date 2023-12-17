@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah's use of a weight-loss drug comes after years of dieting, exercise**
+**COVID-19 and flu levels continue to increase but CDC director believes US has hit peak of RSV**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/15/oprah-weight-loss-drug-ozempic-mounjaro/).
+You can read more about it [here](https://abcnews.go.com/Health/covid-19-flu-levels-continue-increase-cdc-director/story?id=105698145).
 
 ## Requirements
 - Python 3.8
