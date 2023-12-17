@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deja Taylor, mother of 6-year-old who shot Virginia teacher Abby Zwerner, gets 2 years in prison for child neglect**
+**Formidable storm to slam Florida and then strengthen as it rakes the East Coast this weekend**
 
-You can read more about it [here](https://www.cbsnews.com/news/deja-taylor-sentenced-mother-6-year-old-shot-virginia-teacher-abby-zwerner-child-neglect/).
+You can read more about it [here](https://www.cnn.com/2023/12/15/weather/florida-storm-east-coast-climate/index.html).
 
 ## Requirements
 - Python 3.8
