@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A new COVID variant is spreading fast in the US. These are its most common symptoms**
+**Mötley Crüe Drummer Tommy Lee Accused of Sexually Assaulting Woman in Helicopter**
 
-You can read more about it [here](https://news.yahoo.com/covid-variant-spreading-fast-us-014701360.html).
+You can read more about it [here](https://www.rollingstone.com/music/music-news/tommy-lee-motley-crue-sexual-assault-helicopter-lawsuit-1234931093/).
 
 ## Requirements
 - Python 3.8
