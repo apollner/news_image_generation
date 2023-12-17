@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICYMI: the week's 7 biggest tech stories, from Apple's Journal app to Galaxy Book 4**
+**Mayim Bialik will no longer host 'Jeopardy!' show**
 
-You can read more about it [here](https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-apples-journal-app-to-galaxy-book-4).
+You can read more about it [here](https://www.washingtonpost.com/style/2023/12/16/jeopardy-host-mayim-bialik/).
 
 ## Requirements
 - Python 3.8
