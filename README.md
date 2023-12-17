@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple is settling a class action lawsuit over Family Sharing for $25 million**
+**Applesauce pouch contamination may have been deliberate: FDA official**
 
-You can read more about it [here](https://www.engadget.com/apple-is-settling-a-class-action-lawsuit-over-family-sharing-for-25-million-235208522.html).
+You can read more about it [here](https://thehill.com/policy/healthcare/4363214-applesauce-pouch-contamination-update-fda/).
 
 ## Requirements
 - Python 3.8
