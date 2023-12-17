@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry detailed ketamine use prior to death: 'Has my name written all over it'**
+**Study reveals which style of drinking is the most likely to cause liver disease**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/matthew-perry-detailed-ketamine-use-prior-death-my-name-written).
+You can read more about it [here](https://nypost.com/2023/12/16/lifestyle/study-findings-about-binge-drinking/).
 
 ## Requirements
 - Python 3.8
