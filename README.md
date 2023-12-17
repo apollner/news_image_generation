@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers fire Brandon Staley after 42-point loss to Raiders**
+**Oprah's use of a weight-loss drug comes after years of dieting, exercise**
 
-You can read more about it [here](https://sports.yahoo.com/chargers-fire-head-coach-brandon-staley-gm-tom-telesco-after-loss-to-raiders-170810563.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2023/12/15/oprah-weight-loss-drug-ozempic-mounjaro/).
 
 ## Requirements
 - Python 3.8
