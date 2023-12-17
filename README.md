@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers say Bing made up facts about European elections**
+**Shipping giants Hapag-Lloyd and Maersk pause Red Sea travel amid attacks**
 
-You can read more about it [here](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation).
+You can read more about it [here](https://www.cnbc.com/2023/12/15/shipping-giants-hapag-lloyd-and-maersk-pause-red-sea-travel.html).
 
 ## Requirements
 - Python 3.8
