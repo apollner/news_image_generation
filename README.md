@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US SEC says no to new crypto rules; Coinbase asks court to review**
+**UFC 296: Fight Day Focus | Edwards vs Covington, Pantoja vs Royval & Ferguson vs Pimblett**
 
-You can read more about it [here](https://www.reuters.com/technology/us-sec-denies-coinbase-petition-crypto-rulemaking-2023-12-15/).
+You can read more about it [here](https://www.youtube.com/watch?v=rm3wsgkvreU).
 
 ## Requirements
 - Python 3.8
