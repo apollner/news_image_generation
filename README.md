@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study reveals which style of drinking is the most likely to cause liver disease**
+**Google moves to end geofence warrants, a surveillance problem it largely created**
 
-You can read more about it [here](https://nypost.com/2023/12/16/lifestyle/study-findings-about-binge-drinking/).
+You can read more about it [here](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/).
 
 ## Requirements
 - Python 3.8
