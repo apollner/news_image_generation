@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mötley Crüe Drummer Tommy Lee Accused of Sexually Assaulting Woman in Helicopter**
+**Arizona Gov. Katie Hobbs sends National Guard to border, says Biden 'refused to deliver' aid**
 
-You can read more about it [here](https://www.rollingstone.com/music/music-news/tommy-lee-motley-crue-sexual-assault-helicopter-lawsuit-1234931093/).
+You can read more about it [here](https://www.azcentral.com/story/news/politics/arizona/2023/12/15/governor-katie-hobbs-sends-national-guard-to-southern-border-communities-in-arizona/71936089007/).
 
 ## Requirements
 - Python 3.8
