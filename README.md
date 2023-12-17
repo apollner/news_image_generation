@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Apple is settling a class action lawsuit over Family Sharing for $25 million**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.engadget.com/apple-is-settling-a-class-action-lawsuit-over-family-sharing-for-25-million-235208522.html).
 
 ## Requirements
 - Python 3.8
