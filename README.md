@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shipping giants Hapag-Lloyd and Maersk pause Red Sea travel amid attacks**
+**Classified binder on Russian meddling went missing as Trump left office: Reports**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/15/shipping-giants-hapag-lloyd-and-maersk-pause-red-sea-travel.html).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4362698-classified-binder-russian-meddling-went-missing-as-trump-left-office-reports/).
 
 ## Requirements
 - Python 3.8
