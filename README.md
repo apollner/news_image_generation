@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Wonka’ Banks a $14.4 Million Opening Day**
+**UFC 296 Embedded: Vlog Series - Episode 6**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/wonka-timothee-chalamet-opening-day-1235841791/).
+You can read more about it [here](https://www.youtube.com/watch?v=vuA7eMjc1QA).
 
 ## Requirements
 - Python 3.8
