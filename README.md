@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FLOOD WATCH: Colder, windier, wetter weather arrives in South Florida**
+**Travis Scott cancels Chicago concert hours before showtime, leaves fans fuming**
 
-You can read more about it [here](https://www.local10.com/weather/2023/12/16/flood-watch-colder-windier-wetter-weather-arrives-in-south-florida/).
+You can read more about it [here](https://pagesix.com/2023/12/16/entertainment/travis-scott-cancels-chicago-concert-hours-before-showtime/).
 
 ## Requirements
 - Python 3.8
