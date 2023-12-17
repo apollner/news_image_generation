@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers say Bing made up facts about European elections**
+**COVID-19 and flu levels continue to increase but CDC director believes US has hit peak of RSV**
 
-You can read more about it [here](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation).
+You can read more about it [here](https://abcnews.go.com/Health/covid-19-flu-levels-continue-increase-cdc-director/story?id=105698145).
 
 ## Requirements
 - Python 3.8
