@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cardinal Becciu: Vatican court convicts former Pope adviser of financial crimes**
+**McCarthy mentee Vince Fong determined ineligible for congressional candidacy**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67738595).
+You can read more about it [here](https://thehill.com/homenews/house/4363558-mccarthy-mentee-vince-fong-ineligible-for-congress/).
 
 ## Requirements
 - Python 3.8
