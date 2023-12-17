@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US homelessness hits its highest reported level**
+**Prince Harry takes aim at Piers Morgan as judge rules his phone was hacked by The Mirror**
 
-You can read more about it [here](https://apnews.com/article/homelessness-increase-rent-hud-covid-60bd88687e1aef1b02d25425798bd3b1).
+You can read more about it [here](https://www.youtube.com/watch?v=hqAxgIxhMho).
 
 ## Requirements
 - Python 3.8
