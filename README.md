@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Scott cancels Chicago concert hours before showtime, leaves fans fuming**
+**Box Office: ‘Wonka’ Banks a $14.4 Million Opening Day**
 
-You can read more about it [here](https://pagesix.com/2023/12/16/entertainment/travis-scott-cancels-chicago-concert-hours-before-showtime/).
+You can read more about it [here](https://variety.com/2023/film/box-office/wonka-timothee-chalamet-opening-day-1235841791/).
 
 ## Requirements
 - Python 3.8
