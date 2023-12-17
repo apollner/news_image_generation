@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona Gov. Katie Hobbs sends National Guard to border, says Biden 'refused to deliver' aid**
+**A new COVID variant is spreading fast in the US. These are its most common symptoms**
 
-You can read more about it [here](https://www.azcentral.com/story/news/politics/arizona/2023/12/15/governor-katie-hobbs-sends-national-guard-to-southern-border-communities-in-arizona/71936089007/).
+You can read more about it [here](https://news.yahoo.com/covid-variant-spreading-fast-us-014701360.html).
 
 ## Requirements
 - Python 3.8
