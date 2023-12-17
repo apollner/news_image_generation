@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Never-Before-Seen Anomaly Found In Fast Radio Bursts, Say Astronomers**
+**A new COVID variant is spreading fast in the US. These are its most common symptoms**
 
-You can read more about it [here](https://www.ndtv.com/science/never-before-seen-anomaly-found-in-fast-radio-bursts-say-astronomers-4683439).
+You can read more about it [here](https://news.yahoo.com/covid-variant-spreading-fast-us-014701360.html).
 
 ## Requirements
 - Python 3.8
