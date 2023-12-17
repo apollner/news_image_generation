@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 296: Fight Day Focus | Edwards vs Covington, Pantoja vs Royval & Ferguson vs Pimblett**
+**ICYMI: the week's 7 biggest tech stories, from Apple's Journal app to Galaxy Book 4**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rm3wsgkvreU).
+You can read more about it [here](https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-apples-journal-app-to-galaxy-book-4).
 
 ## Requirements
 - Python 3.8
