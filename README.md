@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: Dow hits record high as stocks cap longest weekly winning streak since 2017**
+**Applesauce pouch contamination may have been deliberate: FDA official**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-dow-hits-record-high-as-stocks-cap-longest-weekly-winning-streak-since-2017-181200723.html).
+You can read more about it [here](https://thehill.com/policy/healthcare/4363214-applesauce-pouch-contamination-update-fda/).
 
 ## Requirements
 - Python 3.8
