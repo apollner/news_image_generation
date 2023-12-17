@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy mentee Vince Fong determined ineligible for congressional candidacy**
+**FLOOD WATCH: Colder, windier, wetter weather arrives in South Florida**
 
-You can read more about it [here](https://thehill.com/homenews/house/4363558-mccarthy-mentee-vince-fong-ineligible-for-congress/).
+You can read more about it [here](https://www.local10.com/weather/2023/12/16/flood-watch-colder-windier-wetter-weather-arrives-in-south-florida/).
 
 ## Requirements
 - Python 3.8
