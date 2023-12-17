@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 and flu levels continue to increase but CDC director believes US has hit peak of RSV**
+**Chargers fire Brandon Staley, GM Tom Telesco one day after 42-point blowout loss to Raiders in Week 15**
 
-You can read more about it [here](https://abcnews.go.com/Health/covid-19-flu-levels-continue-increase-cdc-director/story?id=105698145).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chargers-fire-brandon-staley-gm-tom-telesco-one-day-after-42-point-blowout-loss-to-raiders-in-week-15/).
 
 ## Requirements
 - Python 3.8
