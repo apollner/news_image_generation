@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate aide out of job after purported sex tape apparently filmed in Senate hearing room**
+**American warship downs 14 suspected attack drones in the Red Sea, US military says**
 
-You can read more about it [here](https://www.cnn.com/2023/12/16/politics/senate-aide-sex-tape-hearing-room/index.html).
+You can read more about it [here](https://apnews.com/article/royal-navy-shot-down-drone-red-sea-38940c6d0f653f7a6a53920c47b19097).
 
 ## Requirements
 - Python 3.8
