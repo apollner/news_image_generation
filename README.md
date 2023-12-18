@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study reveals which style of drinking is the most likely to cause liver disease**
+**Arizona's Democratic gov mobilizes National Guard to border, as Washington tries to reach border deal**
 
-You can read more about it [here](https://nypost.com/2023/12/16/lifestyle/study-findings-about-binge-drinking/).
+You can read more about it [here](https://www.foxnews.com/politics/arizonas-democratic-gov-mobilizes-national-guard-border-washington-tries-reach-border-deal).
 
 ## Requirements
 - Python 3.8
