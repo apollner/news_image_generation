@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sisterhood of the Traveling Pants Stars Have a Full Reunion**
+**NSFW: Capitol Hill rocked by sex tape scandal featuring famous Senate hearing room**
 
-You can read more about it [here](https://www.eonline.com/news/1391614/sisterhood-of-the-traveling-pants-stars-have-a-full-cast-reunion-that-will-lift-your-spirits).
+You can read more about it [here](https://www.foxnews.com/politics/capitol-hill-rocked-sex-tape-scandal-featuring-famous-senate-hearing-room).
 
 ## Requirements
 - Python 3.8
