@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
+**Hospitalizations rise in Fresno County, officials urge precaution during holidays**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
+You can read more about it [here](https://abc30.com/flu-season-covid-19-rsv-cases-fresno-county/14193533/).
 
 ## Requirements
 - Python 3.8
