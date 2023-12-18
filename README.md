@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 296: What's next for Leon, Colby, Pantoja and more?**
+**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/39129008/ufc-296-next-leon-edwards-colby-covington-more).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
 
 ## Requirements
 - Python 3.8
