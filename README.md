@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hospitalizations rise in Fresno County, officials urge precaution during holidays**
+**Here’s how much rain Southern California could get over the next 7 days**
 
-You can read more about it [here](https://abc30.com/flu-season-covid-19-rsv-cases-fresno-county/14193533/).
+You can read more about it [here](https://ktla.com/news/california/heres-how-much-rain-southern-california-could-get-next-week/).
 
 ## Requirements
 - Python 3.8
