@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza: Hostages shot by IDF put out 'SOS' sign written with leftover food**
+**Major storm battering Florida expected to slam East Coast, bringing hazardous winds and potential flooding rain**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67745092).
+You can read more about it [here](https://www.nbcnews.com/news/weather/major-storm-battering-florida-expected-slam-east-coast-bringing-hazard-rcna130152).
 
 ## Requirements
 - Python 3.8
