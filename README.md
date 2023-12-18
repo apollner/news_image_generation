@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry's final days were a mix of nicotine lollipops, ketamine and testosterone shots that left him 'angry and mean'**
+**UFC 296: What's next for Leon, Colby, Pantoja and more?**
 
-You can read more about it [here](https://pagesix.com/2023/12/16/entertainment/matthew-perrys-final-days-were-a-mix-of-nicotine-lollipops-ketamine-and-testosterone-shots-that-left-him-angry-and-mean/).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/39129008/ufc-296-next-leon-edwards-colby-covington-more).
 
 ## Requirements
 - Python 3.8
