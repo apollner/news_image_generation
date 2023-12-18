@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Geomagnetic storm could cause Northern Lights to dance across United States**
+**Doctor who treated freed Hamas hostages describes physical, sexual and psychological abuse**
 
-You can read more about it [here](https://nypost.com/2023/12/17/lifestyle/where-to-see-the-northern-lights-this-holiday-season/).
+You can read more about it [here](https://www.cbsnews.com/news/doctor-who-treated-freed-hamas-hostages-describes-physical-sexual-and-psychological-abuse/).
 
 ## Requirements
 - Python 3.8
