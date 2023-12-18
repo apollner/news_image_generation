@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colby Covington rates UFC 296 performance, blames Leon Edwards loss on judges’ bias**
+**NFL Week 15 Saturday grades: Lions earn 'A+' for Broncos beatdown, Bengals 'B+' for overtime win vs. Vikings**
 
-You can read more about it [here](https://www.mmafighting.com/2023/12/17/24004755/colby-covington-rates-ufc-296-performance-blames-leon-edwards-loss-on-judges-bias).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-saturday-grades-lions-earn-a-for-broncos-beatdown-bengals-b-for-overtime-win-vs-vikings/).
 
 ## Requirements
 - Python 3.8
