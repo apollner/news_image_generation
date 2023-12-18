@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Geomagnetic storm could cause Northern Lights to dance across United States**
+**Video reveals 'biggest Hamas tunnel' yet discovered -- and includes eerie footage of terrorists building it**
 
-You can read more about it [here](https://nypost.com/2023/12/17/lifestyle/where-to-see-the-northern-lights-this-holiday-season/).
+You can read more about it [here](https://nypost.com/2023/12/17/news/the-biggest-hamas-tunnel-uncovered-near-israel-gaza-border-idf/).
 
 ## Requirements
 - Python 3.8
