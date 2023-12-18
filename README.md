@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall**
+**Arizona vs. Purdue score: Live game updates, college basketball scores, NCAA top 25 highlights**
 
-You can read more about it [here](https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/arizona-vs-purdue-score-takeaways-no-3-boilermakers-stop-wildcats-for-first-win-vs-no-1-team-since-2000/live/).
 
 ## Requirements
 - Python 3.8
