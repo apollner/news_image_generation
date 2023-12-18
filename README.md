@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colby Covington rates UFC 296 performance, blames Leon Edwards loss on judges’ bias**
+**Geomagnetic storm could cause Northern Lights to dance across United States**
 
-You can read more about it [here](https://www.mmafighting.com/2023/12/17/24004755/colby-covington-rates-ufc-296-performance-blames-leon-edwards-loss-on-judges-bias).
+You can read more about it [here](https://nypost.com/2023/12/17/lifestyle/where-to-see-the-northern-lights-this-holiday-season/).
 
 ## Requirements
 - Python 3.8
