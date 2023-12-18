@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video reveals 'biggest Hamas tunnel' yet discovered -- and includes eerie footage of terrorists building it**
+**3 injured, suspect dead in shooting on Austin's crowded downtown 6th Street**
 
-You can read more about it [here](https://nypost.com/2023/12/17/news/the-biggest-hamas-tunnel-uncovered-near-israel-gaza-border-idf/).
+You can read more about it [here](https://www.cbsnews.com/news/austin-6th-street-shooting-officer-involved/).
 
 ## Requirements
 - Python 3.8
