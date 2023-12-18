@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sisterhood of the Traveling Pants Stars Have a Full Reunion**
+**Purdue beats No. 1 Arizona — one of several undefeated men's college basketball teams that lost Saturday**
 
-You can read more about it [here](https://www.eonline.com/news/1391614/sisterhood-of-the-traveling-pants-stars-have-a-full-cast-reunion-that-will-lift-your-spirits).
+You can read more about it [here](https://www.ncaa.com/news/basketball-men/article/2023-12-16/purdue-beats-no-1-arizona-one-several-undefeated-mens-college-basketball-teams).
 
 ## Requirements
 - Python 3.8
