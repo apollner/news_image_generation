@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Meadows' bid to move election interference charges to federal court met with skepticism by three-judge panel**
+**Study reveals which style of drinking is the most likely to cause liver disease**
 
-You can read more about it [here](https://www.cbsnews.com/news/mark-meadows-move-election-interference-charges-federal-court/).
+You can read more about it [here](https://nypost.com/2023/12/16/lifestyle/study-findings-about-binge-drinking/).
 
 ## Requirements
 - Python 3.8
