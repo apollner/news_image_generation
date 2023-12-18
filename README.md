@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American warship downs 14 suspected attack drones in the Red Sea, US military says**
+**Google’s Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall**
 
-You can read more about it [here](https://apnews.com/article/royal-navy-shot-down-drone-red-sea-38940c6d0f653f7a6a53920c47b19097).
+You can read more about it [here](https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/).
 
 ## Requirements
 - Python 3.8
