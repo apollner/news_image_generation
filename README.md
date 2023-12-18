@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Missouri and Illinois dog owners should know about mystery illness**
+**Matthew Perry's final days were a mix of nicotine lollipops, ketamine and testosterone shots that left him 'angry and mean'**
 
-You can read more about it [here](https://fox2now.com/news/missouri/what-missouri-and-illinois-dog-owners-should-know-about-mystery-illness/).
+You can read more about it [here](https://pagesix.com/2023/12/16/entertainment/matthew-perrys-final-days-were-a-mix-of-nicotine-lollipops-ketamine-and-testosterone-shots-that-left-him-angry-and-mean/).
 
 ## Requirements
 - Python 3.8
