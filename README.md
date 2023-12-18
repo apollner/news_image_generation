@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Strengthening storm batters Florida with heavy rain and winds as it heads up the East Coast**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2023/12/16/weather/storm-florida-east-coast-sunday/index.html).
 
 ## Requirements
 - Python 3.8
