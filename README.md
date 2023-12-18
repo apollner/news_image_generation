@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the 'Gaza metro': Israel displays Hamas tunnel big enough for a car**
+**Colby Covington rates UFC 296 performance, blames Leon Edwards loss on judges’ bias**
 
-You can read more about it [here](https://www.ft.com/content/97fcd9c1-0abe-4307-ab62-d9de149642f3).
+You can read more about it [here](https://www.mmafighting.com/2023/12/17/24004755/colby-covington-rates-ufc-296-performance-blames-leon-edwards-loss-on-judges-bias).
 
 ## Requirements
 - Python 3.8
