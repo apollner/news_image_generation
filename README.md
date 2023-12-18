@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Strengthening storm batters Florida with heavy rain and winds as it heads up the East Coast**
+**Colby Covington rates UFC 296 performance, blames Leon Edwards loss on judges’ bias**
 
-You can read more about it [here](https://www.cnn.com/2023/12/16/weather/storm-florida-east-coast-sunday/index.html).
+You can read more about it [here](https://www.mmafighting.com/2023/12/17/24004755/colby-covington-rates-ufc-296-performance-blames-leon-edwards-loss-on-judges-bias).
 
 ## Requirements
 - Python 3.8
