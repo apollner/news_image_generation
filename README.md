@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fox News Poll: Trump’s lead in GOP primary widens**
+**Israel faces new calls for truce after killing of hostages raises alarm about its conduct in Gaza**
 
-You can read more about it [here](https://www.foxnews.com/official-polls/fox-news-poll-trumps-lead-gop-primary-widens).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-17-2023-22e6e6ac2098dbf29c89c1a49980907b).
 
 ## Requirements
 - Python 3.8
