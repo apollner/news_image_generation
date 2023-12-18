@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major storm battering Florida expected to slam East Coast, bringing hazardous winds and potential flooding rain**
+**Jamie Foxx’s Daughter Corinne Is Engaged To Boyfriend Joseph Hooten**
 
-You can read more about it [here](https://www.nbcnews.com/news/weather/major-storm-battering-florida-expected-slam-east-coast-bringing-hazard-rcna130152).
+You can read more about it [here](https://www.huffpost.com/entry/jamie-foxx-daughter-corinne-engaged_n_657f2eb0e4b0e142c0be2e60).
 
 ## Requirements
 - Python 3.8
