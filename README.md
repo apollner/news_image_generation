@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purdue beats No. 1 Arizona — one of several undefeated men's college basketball teams that lost Saturday**
+**Matthew Perry's final days were a mix of nicotine lollipops, ketamine and testosterone shots that left him 'angry and mean'**
 
-You can read more about it [here](https://www.ncaa.com/news/basketball-men/article/2023-12-16/purdue-beats-no-1-arizona-one-several-undefeated-mens-college-basketball-teams).
+You can read more about it [here](https://pagesix.com/2023/12/16/entertainment/matthew-perrys-final-days-were-a-mix-of-nicotine-lollipops-ketamine-and-testosterone-shots-that-left-him-angry-and-mean/).
 
 ## Requirements
 - Python 3.8
