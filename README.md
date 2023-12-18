@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona vs. Purdue score: Live game updates, college basketball scores, NCAA top 25 highlights**
+**Sisterhood of the Traveling Pants Stars Have a Full Reunion**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/arizona-vs-purdue-score-takeaways-no-3-boilermakers-stop-wildcats-for-first-win-vs-no-1-team-since-2000/live/).
+You can read more about it [here](https://www.eonline.com/news/1391614/sisterhood-of-the-traveling-pants-stars-have-a-full-cast-reunion-that-will-lift-your-spirits).
 
 ## Requirements
 - Python 3.8
