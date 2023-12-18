@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona's Democratic gov mobilizes National Guard to border, as Washington tries to reach border deal**
+**Major shipping companies suspend Red Sea journeys following Houthi attacks**
 
-You can read more about it [here](https://www.foxnews.com/politics/arizonas-democratic-gov-mobilizes-national-guard-border-washington-tries-reach-border-deal).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-world/major-shipping-companies-suspend-red-sea-journeys-following-houthi-attacks).
 
 ## Requirements
 - Python 3.8
