@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
+**Fox News Poll: Trump’s lead in GOP primary widens**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
+You can read more about it [here](https://www.foxnews.com/official-polls/fox-news-poll-trumps-lead-gop-primary-widens).
 
 ## Requirements
 - Python 3.8
