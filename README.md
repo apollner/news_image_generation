@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sisterhood of the Traveling Pants Stars Have a Full Reunion**
+**What Missouri and Illinois dog owners should know about mystery illness**
 
-You can read more about it [here](https://www.eonline.com/news/1391614/sisterhood-of-the-traveling-pants-stars-have-a-full-cast-reunion-that-will-lift-your-spirits).
+You can read more about it [here](https://fox2now.com/news/missouri/what-missouri-and-illinois-dog-owners-should-know-about-mystery-illness/).
 
 ## Requirements
 - Python 3.8
