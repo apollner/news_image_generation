@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major shipping companies suspend Red Sea journeys following Houthi attacks**
+**Senate aide out of job after purported sex tape apparently filmed in Senate hearing room**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-world/major-shipping-companies-suspend-red-sea-journeys-following-houthi-attacks).
+You can read more about it [here](https://www.cnn.com/2023/12/16/politics/senate-aide-sex-tape-hearing-room/index.html).
 
 ## Requirements
 - Python 3.8
