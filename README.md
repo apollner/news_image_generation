@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 15 Saturday grades: Lions earn 'A+' for Broncos beatdown, Bengals 'B+' for overtime win vs. Vikings**
+**Inside the 'Gaza metro': Israel displays Hamas tunnel big enough for a car**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-saturday-grades-lions-earn-a-for-broncos-beatdown-bengals-b-for-overtime-win-vs-vikings/).
+You can read more about it [here](https://www.ft.com/content/97fcd9c1-0abe-4307-ab62-d9de149642f3).
 
 ## Requirements
 - Python 3.8
