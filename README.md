@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 injured, suspect dead in shooting on Austin's crowded downtown 6th Street**
+**Israel Gaza: Hostages shot by IDF put out 'SOS' sign written with leftover food**
 
-You can read more about it [here](https://www.cbsnews.com/news/austin-6th-street-shooting-officer-involved/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67745092).
 
 ## Requirements
 - Python 3.8
