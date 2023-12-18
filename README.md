@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s how much rain Southern California could get over the next 7 days**
+**Nissan to set up joint EV research with China's Tsinghua University**
 
-You can read more about it [here](https://ktla.com/news/california/heres-how-much-rain-southern-california-could-get-next-week/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/nissan-set-up-joint-ev-research-with-chinas-tsinghua-university-2023-12-17/).
 
 ## Requirements
 - Python 3.8
