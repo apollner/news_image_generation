@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nissan to set up joint EV research with China's Tsinghua University**
+**Prisco's Week 15 NFL picks: Bills edge Cowboys in shootout; Packers cover vs. Buccaneers**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/nissan-set-up-joint-ev-research-with-chinas-tsinghua-university-2023-12-17/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-15-nfl-picks-bills-edge-cowboys-in-shootout-packers-cover-vs-buccaneers/).
 
 ## Requirements
 - Python 3.8
