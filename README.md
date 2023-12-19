@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF claims it has discovered ‘biggest Hamas tunnel’ in Gaza**
+**Biden safe after car crashes into parked SUV in his motorcade outside Delaware campaign HQ**
 
-You can read more about it [here](https://www.cnn.com/2023/12/17/middleeast/biggest-hamas-tunnel-discovered-idf-intl/index.html).
+You can read more about it [here](https://www.axios.com/2023/12/18/car-crashes-suv-guarding-biden-motorcade-delaware-campaign-hq).
 
 ## Requirements
 - Python 3.8
