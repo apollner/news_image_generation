@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vatican approves blessings for same-sex couples in landmark ruling**
+**MLB rumors: Yoshinobu Yamamoto latest with Mets, Yankees in pursuit, Astros getting calls on Framber Valdez**
 
-You can read more about it [here](https://www.reuters.com/world/vatican-approves-blessings-same-sex-couples-under-certain-conditions-2023-12-18/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-rumors-yoshinobu-yamamoto-latest-with-mets-yankees-in-pursuit-astros-getting-calls-on-framber-valdez/).
 
 ## Requirements
 - Python 3.8
