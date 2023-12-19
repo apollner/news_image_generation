@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vatican approves blessings for same-sex couples in landmark ruling**
+**See inside the biggest Hamas tunnel Israel's military says it has found in Gaza**
 
-You can read more about it [here](https://www.reuters.com/world/vatican-approves-blessings-same-sex-couples-under-certain-conditions-2023-12-18/).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-tunnels-cbs-news-inside-biggest-underground-gaza-tunnel/).
 
 ## Requirements
 - Python 3.8
