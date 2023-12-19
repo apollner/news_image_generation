@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills vs. Dallas Cowboys Game Highlights | NFL 2023 Week 15**
+**Bears drop winning Hail Mary as Joe Flacco rallies Browns: 'Damn near s*** myself'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qc7PxMEPP5M).
+You can read more about it [here](https://sports.yahoo.com/bears-drop-winning-hail-mary-as-joe-flacco-rallies-browns-damn-near-s-myself-213327027.html).
 
 ## Requirements
 - Python 3.8
