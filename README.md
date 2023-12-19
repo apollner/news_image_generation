@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 400K without power across Northeast after storms sweep through region**
+**Vatican approves blessings for same-sex couples in landmark ruling**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/nearly-400k-without-power-across-northeast-after-storms-sweep-through-region).
+You can read more about it [here](https://www.reuters.com/world/vatican-approves-blessings-same-sex-couples-under-certain-conditions-2023-12-18/).
 
 ## Requirements
 - Python 3.8
