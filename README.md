@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A One Piece anime remake is in the works from Netflix and Wit Studio**
+**NBC News frames Senate sex tape video as 'conservative news outlets' pushing the story**
 
-You can read more about it [here](https://www.engadget.com/a-one-piece-anime-remake-is-in-the-works-from-netflix-and-wit-studio-221411871.html).
+You can read more about it [here](https://www.foxnews.com/media/nbc-news-frames-senate-sex-tape-video-conservative-news-outlets-pushing-story).
 
 ## Requirements
 - Python 3.8
