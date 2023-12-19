@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerful Northeast storm knocks out power to tens of thousands and forces water rescues**
+**Blake Lively looks like a living Barbie as she reunites with America Ferrera and 'Traveling Pants' cast**
 
-You can read more about it [here](https://www.cnn.com/2023/12/17/weather/northeast-storms-flooding-travel-monday/index.html).
+You can read more about it [here](https://pagesix.com/2023/12/18/style/blake-lively-looks-like-a-barbie-as-she-reunites-with-sisterhood-of-the-traveling-pants-cast/).
 
 ## Requirements
 - Python 3.8
