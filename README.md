@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears' offensive problems vs. Browns indicative of larger, non-Justin Fields issue**
+**In Israel's killing of 3 hostages, some see the same excessive force directed at Palestinians**
 
-You can read more about it [here](http://www.nbcsportschicago.com/nfl/chicago-bears/bears-analysis/bears-offensive-problems-vs-browns-indicative-of-larger-non-justin-fields-issue/526218/).
+You can read more about it [here](https://apnews.com/article/israel-hostages-gaza-hamas-war-52fa9628e6284cdad6d7f7db6cc30742).
 
 ## Requirements
 - Python 3.8
