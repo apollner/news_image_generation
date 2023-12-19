@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Houthi attacks on Israel-linked ships in Red Sea to raise prices of Far East imports**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.timesofisrael.com/houthi-attacks-on-israel-linked-ships-in-red-sea-to-raise-prices-of-far-east-imports/).
 
 ## Requirements
 - Python 3.8
