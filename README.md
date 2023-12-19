@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 15 grades: Cowboys hit with an 'F' for blowout loss to Bills, 49ers earn an 'A' for beating Cardinals**
+**North Korea fires long-range ballistic missile into sea in resumption of weapons launches**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-grades-cowboys-hit-with-an-f-for-blowout-loss-to-bills-49ers-earn-an-a-for-beating-cardinals/).
+You can read more about it [here](https://apnews.com/article/north-korea-missile-launch-bc0391e981b2eedce5dc17734e27ee0c).
 
 ## Requirements
 - Python 3.8
