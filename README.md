@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden safe after car crashes into parked SUV in his motorcade outside Delaware campaign HQ**
+**NFL Week 15 grades: Cowboys hit with an 'F' for blowout loss to Bills, 49ers earn an 'A' for beating Cardinals**
 
-You can read more about it [here](https://www.axios.com/2023/12/18/car-crashes-suv-guarding-biden-motorcade-delaware-campaign-hq).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-grades-cowboys-hit-with-an-f-for-blowout-loss-to-bills-49ers-earn-an-a-for-beating-cardinals/).
 
 ## Requirements
 - Python 3.8
