@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 NFL Week 15 winners and losers: Joe Flacco, Christian McCaffrey headline the day; Cowboys fall flat**
+**Powerful Northeast storm knocks out power to tens of thousands and forces water rescues**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2023-nfl-week-15-winners-and-losers-joe-flacco-christian-mccaffrey-headline-the-day-cowboys-fall-flat/).
+You can read more about it [here](https://www.cnn.com/2023/12/17/weather/northeast-storms-flooding-travel-monday/index.html).
 
 ## Requirements
 - Python 3.8
