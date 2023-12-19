@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 15 grades: Cowboys hit with an 'F' for blowout loss to Bills, 49ers earn an 'A' for beating Cardinals**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-grades-cowboys-hit-with-an-f-for-blowout-loss-to-bills-49ers-earn-an-a-for-beating-cardinals/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
