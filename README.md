@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Majors found guilty of one count of reckless assault**
+**Insight: How Swiss authorities bungled Credit Suisse oversight**
 
-You can read more about it [here](https://www.cnn.com/2023/12/18/entertainment/jonathan-majors-trial-verdict/index.html).
+You can read more about it [here](https://www.reuters.com/business/finance/how-swiss-authorities-bungled-credit-suisse-oversight-2023-12-18/).
 
 ## Requirements
 - Python 3.8
