@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Car plows into President Biden's motorcade in Delaware**
+**Christian Ziegler: Republican chairman in Florida suspended amid rape allegation**
 
-You can read more about it [here](https://apnews.com/article/biden-car-wilmington-crash-secret-service-ff47e3d21cc4f3ca5b85be0aa9e2ed79).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67747879).
 
 ## Requirements
 - Python 3.8
