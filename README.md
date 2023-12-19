@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza: Hostages shot by IDF put out 'SOS' sign written with leftover food**
+**Car plows into parked SUV in Biden's motorcade outside Delaware campaign headquarters**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67745092).
+You can read more about it [here](https://www.npr.org/2023/12/17/1219907138/car-hits-biden-motorcade-delaware).
 
 ## Requirements
 - Python 3.8
