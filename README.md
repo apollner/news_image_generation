@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See inside the biggest Hamas tunnel Israel's military says it has found in Gaza**
+**How do ISS tomatoes lost in space for 8 months look? NASA shares photo**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-tunnels-cbs-news-inside-biggest-underground-gaza-tunnel/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/18/how-iss-tomato-looks-eight-months-lost-nasa-space-station/71957382007/).
 
 ## Requirements
 - Python 3.8
