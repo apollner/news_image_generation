@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Israel's killing of 3 hostages, some see the same excessive force directed at Palestinians**
+**IDF claims it has discovered ‘biggest Hamas tunnel’ in Gaza**
 
-You can read more about it [here](https://apnews.com/article/israel-hostages-gaza-hamas-war-52fa9628e6284cdad6d7f7db6cc30742).
+You can read more about it [here](https://www.cnn.com/2023/12/17/middleeast/biggest-hamas-tunnel-discovered-idf-intl/index.html).
 
 ## Requirements
 - Python 3.8
