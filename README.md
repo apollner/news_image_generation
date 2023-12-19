@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea launches possible ballistic missile: Japan's Defense Ministry**
+**Morning Bid: Rally fades, Bank of Japan looms into view**
 
-You can read more about it [here](https://abcnews.go.com/International/north-korea-launches-ballistic-missile-japans-defense-ministry/story?id=105729169).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-view-asia-pix-2023-12-17/).
 
 ## Requirements
 - Python 3.8
