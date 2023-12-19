@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How many times has the sun traveled around the Milky Way?**
+**Bears' offensive problems vs. Browns indicative of larger, non-Justin Fields issue**
 
-You can read more about it [here](https://www.livescience.com/space/cosmology/how-many-times-has-the-sun-traveled-around-the-milky-way).
+You can read more about it [here](http://www.nbcsportschicago.com/nfl/chicago-bears/bears-analysis/bears-offensive-problems-vs-browns-indicative-of-larger-non-justin-fields-issue/526218/).
 
 ## Requirements
 - Python 3.8
