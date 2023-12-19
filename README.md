@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBC News frames Senate sex tape video as 'conservative news outlets' pushing the story**
+**IDF claims it has discovered ‘biggest Hamas tunnel’ in Gaza**
 
-You can read more about it [here](https://www.foxnews.com/media/nbc-news-frames-senate-sex-tape-video-conservative-news-outlets-pushing-story).
+You can read more about it [here](https://www.cnn.com/2023/12/17/middleeast/biggest-hamas-tunnel-discovered-idf-intl/index.html).
 
 ## Requirements
 - Python 3.8
