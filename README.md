@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamar Jackson makes MVP claim with thrilling play in Ravens' win over Jaguars**
+**Anna 'Chickadee' Cardwell's Kids Taking Her Death Hard, Family Considers Therapy**
 
-You can read more about it [here](https://sports.yahoo.com/lamar-jackson-makes-mvp-claim-with-thrilling-play-in-ravens-win-over-jaguars-042544126.html).
+You can read more about it [here](https://www.tmz.com/2023/12/18/mama-june-anna-chickadee-cardwell-daughters-hard-time-death-family-considering-therapy/).
 
 ## Requirements
 - Python 3.8
