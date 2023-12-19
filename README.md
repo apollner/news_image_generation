@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Florida Republican Party suspends chairman and demands his resignation amid rape investigation**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2023/12/17/news/florida-republican-party-suspends-chairman-and-demands-his-resignation-amid-rape-investigation/).
 
 ## Requirements
 - Python 3.8
