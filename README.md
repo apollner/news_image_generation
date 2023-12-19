@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How do ISS tomatoes lost in space for 8 months look? NASA shares photo**
+**Car plows into President Biden's motorcade in Delaware**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/18/how-iss-tomato-looks-eight-months-lost-nasa-space-station/71957382007/).
+You can read more about it [here](https://apnews.com/article/biden-car-wilmington-crash-secret-service-ff47e3d21cc4f3ca5b85be0aa9e2ed79).
 
 ## Requirements
 - Python 3.8
