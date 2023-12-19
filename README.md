@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Car plows into parked SUV in Biden's motorcade outside Delaware campaign headquarters**
+**Winter Weather Advisory in effect for Louisville metro on Monday**
 
-You can read more about it [here](https://www.npr.org/2023/12/17/1219907138/car-hits-biden-motorcade-delaware).
+You can read more about it [here](https://www.wlky.com/article/snow-louisville-monday-dec-18-weather/46156741).
 
 ## Requirements
 - Python 3.8
