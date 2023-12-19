@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina basketball star Eric Montross dies at age 52**
+**2023 NFL Week 15 winners and losers: Joe Flacco, Christian McCaffrey headline the day; Cowboys fall flat**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39139942/north-carolina-basketball-star-eric-montross-dies-age-52).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2023-nfl-week-15-winners-and-losers-joe-flacco-christian-mccaffrey-headline-the-day-cowboys-fall-flat/).
 
 ## Requirements
 - Python 3.8
