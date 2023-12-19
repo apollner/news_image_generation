@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears drop winning Hail Mary as Joe Flacco rallies Browns: 'Damn near s*** myself'**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/bears-drop-winning-hail-mary-as-joe-flacco-rallies-browns-damn-near-s-myself-213327027.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
