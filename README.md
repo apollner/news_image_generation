@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How many times has the sun traveled around the Milky Way?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.livescience.com/space/cosmology/how-many-times-has-the-sun-traveled-around-the-milky-way).
 
 ## Requirements
 - Python 3.8
