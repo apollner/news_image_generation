@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Foxx’s Daughter Corinne Is Engaged To Boyfriend Joseph Hooten**
+**Israel Gaza: Hostages shot by IDF put out 'SOS' sign written with leftover food**
 
-You can read more about it [here](https://www.huffpost.com/entry/jamie-foxx-daughter-corinne-engaged_n_657f2eb0e4b0e142c0be2e60).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67745092).
 
 ## Requirements
 - Python 3.8
