@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB rumors: Yoshinobu Yamamoto latest with Mets, Yankees in pursuit, Astros getting calls on Framber Valdez**
+**Jonathan Majors found guilty of one count of reckless assault**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-rumors-yoshinobu-yamamoto-latest-with-mets-yankees-in-pursuit-astros-getting-calls-on-framber-valdez/).
+You can read more about it [here](https://www.cnn.com/2023/12/18/entertainment/jonathan-majors-trial-verdict/index.html).
 
 ## Requirements
 - Python 3.8
