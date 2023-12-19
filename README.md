@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea fires long-range ballistic missile into sea in resumption of weapons launches**
+**A One Piece anime remake is in the works from Netflix and Wit Studio**
 
-You can read more about it [here](https://apnews.com/article/north-korea-missile-launch-bc0391e981b2eedce5dc17734e27ee0c).
+You can read more about it [here](https://www.engadget.com/a-one-piece-anime-remake-is-in-the-works-from-netflix-and-wit-studio-221411871.html).
 
 ## Requirements
 - Python 3.8
