@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel finds large tunnel adjacent to Gaza border, raising new questions about prewar intelligence**
+**Buffalo Bills vs. Dallas Cowboys Game Highlights | NFL 2023 Week 15**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/17/israel-finds-large-tunnel-adjacent-to-gaza-border-raising-new-questions-about-prewar-intelligence.html).
+You can read more about it [here](https://www.youtube.com/watch?v=qc7PxMEPP5M).
 
 ## Requirements
 - Python 3.8
