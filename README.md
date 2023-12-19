@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anna 'Chickadee' Cardwell's Kids Taking Her Death Hard, Family Considers Therapy**
+**CIA chief to meet Israeli, Qatari officials for new hostage deal talks**
 
-You can read more about it [here](https://www.tmz.com/2023/12/18/mama-june-anna-chickadee-cardwell-daughters-hard-time-death-family-considering-therapy/).
+You can read more about it [here](https://www.axios.com/2023/12/18/israel-hamas-hostages-cia-mossad-negotiations).
 
 ## Requirements
 - Python 3.8
