@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CIA chief to meet Israeli, Qatari officials for new hostage deal talks**
+**Lamar Jackson makes MVP claim with thrilling play in Ravens' win over Jaguars**
 
-You can read more about it [here](https://www.axios.com/2023/12/18/israel-hamas-hostages-cia-mossad-negotiations).
+You can read more about it [here](https://sports.yahoo.com/lamar-jackson-makes-mvp-claim-with-thrilling-play-in-ravens-win-over-jaguars-042544126.html).
 
 ## Requirements
 - Python 3.8
