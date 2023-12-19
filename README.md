@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Ziegler: Republican chairman in Florida suspended amid rape allegation**
+**Nearly 400K without power across Northeast after storms sweep through region**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67747879).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/nearly-400k-without-power-across-northeast-after-storms-sweep-through-region).
 
 ## Requirements
 - Python 3.8
