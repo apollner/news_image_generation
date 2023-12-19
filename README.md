@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See inside the biggest Hamas tunnel Israel's military says it has found in Gaza**
+**Jonathan Majors found guilty of one count of reckless assault**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-tunnels-cbs-news-inside-biggest-underground-gaza-tunnel/).
+You can read more about it [here](https://www.cnn.com/2023/12/18/entertainment/jonathan-majors-trial-verdict/index.html).
 
 ## Requirements
 - Python 3.8
