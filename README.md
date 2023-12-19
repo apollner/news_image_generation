@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter Weather Advisory in effect for Louisville metro on Monday**
+**North Korea launches possible ballistic missile: Japan's Defense Ministry**
 
-You can read more about it [here](https://www.wlky.com/article/snow-louisville-monday-dec-18-weather/46156741).
+You can read more about it [here](https://abcnews.go.com/International/north-korea-launches-ballistic-missile-japans-defense-ministry/story?id=105729169).
 
 ## Requirements
 - Python 3.8
