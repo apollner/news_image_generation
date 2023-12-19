@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morning Bid: Rally fades, Bank of Japan looms into view**
+**Israel finds large tunnel adjacent to Gaza border, raising new questions about prewar intelligence**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-view-asia-pix-2023-12-17/).
+You can read more about it [here](https://www.cnbc.com/2023/12/17/israel-finds-large-tunnel-adjacent-to-gaza-border-raising-new-questions-about-prewar-intelligence.html).
 
 ## Requirements
 - Python 3.8
