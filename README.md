@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Republican Party suspends chairman and demands his resignation amid rape investigation**
+**NFL Week 15 grades: Cowboys hit with an 'F' for blowout loss to Bills, 49ers earn an 'A' for beating Cardinals**
 
-You can read more about it [here](https://nypost.com/2023/12/17/news/florida-republican-party-suspends-chairman-and-demands-his-resignation-amid-rape-investigation/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-grades-cowboys-hit-with-an-f-for-blowout-loss-to-bills-49ers-earn-an-a-for-beating-cardinals/).
 
 ## Requirements
 - Python 3.8
