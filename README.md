@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell invokes his wife’s name to slam Trump’s controversial immigrant remarks**
+**Lilly, Novo's bet on heart disease starts to take shape, and 2024 could be a pivotal year for their GLP-1s**
 
-You can read more about it [here](https://thehill.com/homenews/4368167-mcconnell-invokes-wifes-name-trump-condemnation-of-immigrants/).
+You can read more about it [here](https://endpts.com/lilly-novos-bet-on-heart-disease-starts-to-take-shape-and-2024-could-be-a-pivotal-year-for-their-glp-1s/).
 
 ## Requirements
 - Python 3.8
