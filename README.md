@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Chandler: Colby Covington 'should be fighting on the prelims' after UFC 296 performance**
+**NASA laser-beams adorable cat video to Earth from 19 million miles away (video)**
 
-You can read more about it [here](https://mmajunkie.usatoday.com/2023/12/ufc-296-michael-chandler-colby-covington-should-fight-on-prelims-now).
+You can read more about it [here](https://www.space.com/nasa-laser-taters-cat-video-19-million-miles-away).
 
 ## Requirements
 - Python 3.8
