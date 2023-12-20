@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas to arrest migrants crossing border illegally under new state law**
+**Japan's Nippon Steel to acquire U.S. Steel for $14.9 billion**
 
-You can read more about it [here](https://www.reuters.com/world/us/texas-arrest-migrants-crossing-border-illegally-under-new-state-law-2023-12-18/).
+You can read more about it [here](https://www.reuters.com/markets/deals/japans-nippon-steel-plans-acquire-us-steel-7-bln-nikkei-2023-12-18/).
 
 ## Requirements
 - Python 3.8
