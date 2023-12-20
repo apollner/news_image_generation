@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beeper's next iMessage for Android fix requires access to a Mac**
+**Catholic Church's teaching on marriage 'has not changed' after Vatican document, US bishops say**
 
-You can read more about it [here](https://9to5google.com/2023/12/19/beeper-imessage-android-mac/).
+You can read more about it [here](https://www.foxnews.com/world/catholic-church-teaching-marriage-has-not-changed-vatican-document-us-bishops-say).
 
 ## Requirements
 - Python 3.8
