@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UCLA 77-71 Ohio State (Dec 18, 2023) Game Recap**
+**Texas to arrest migrants crossing border illegally under new state law**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/recap/_/gameId/401606634).
+You can read more about it [here](https://www.reuters.com/world/us/texas-arrest-migrants-crossing-border-illegally-under-new-state-law-2023-12-18/).
 
 ## Requirements
 - Python 3.8
