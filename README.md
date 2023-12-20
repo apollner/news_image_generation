@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen’s Houthis ‘will not stop’ Red Sea attacks until Israel ends Gaza war**
+**Dow Jones Futures Rise On Key Economic Data; Netflix Among 7 Best Stocks To Buy And Watch**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/19/yemens-houthis-will-not-stop-red-sea-attacks-until-israel-stops-gaza-war).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-housing-data-netflix-among-best-stocks-to-buy-and-watch/).
 
 ## Requirements
 - Python 3.8
