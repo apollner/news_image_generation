@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celine Dion Has Lost Control of Muscles Amid Stiff-Person Syndrome Battle**
+**New Samsung Leak Reveals Stunning Galaxy S24 Design Decisions**
 
-You can read more about it [here](https://www.eonline.com/news/1391696/celine-dion-has-lost-control-of-muscles-amid-stiff-person-syndrome-battle).
+You can read more about it [here](https://www.forbes.com/sites/ewanspence/2023/12/18/samsung-galaxy-s24-exynos-2400-specs-memory-new-galaxy-s24-upgrade/).
 
 ## Requirements
 - Python 3.8
