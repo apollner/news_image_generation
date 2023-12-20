@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US-led coalition of 10 nations to counter Houthi attacks on vessels in Red Sea**
+**Respiratory viruses high this holiday season with RSV, flu, COVID hospitalizations all rising nationwide**
 
-You can read more about it [here](https://www.timesofisrael.com/us-led-coalition-of-10-nations-to-counter-houthi-attacks-on-vessels-in-red-sea/).
+You can read more about it [here](https://abc7chicago.com/covid-flu-rsv-respiratory-virus/14199244/).
 
 ## Requirements
 - Python 3.8
