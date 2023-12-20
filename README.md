@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Live: Justice Sandra Day O'Connor honored at funeral service at National Cathedral**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/sandra-day-oconnor-funeral-live-stream-national-cathedral/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
