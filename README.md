@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Putin says Russia is ready to talk on Ukraine**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.yahoo.com/putin-says-russia-ready-talk-123213938.html).
 
 ## Requirements
 - Python 3.8
