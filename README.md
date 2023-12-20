@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Fight Tearing the Game Awards Apart**
+**Apple stops selling latest Apple Watch after losing patent case**
 
-You can read more about it [here](https://www.wired.com/story/the-game-awards-israel-palestine-open-letter-future-class/).
+You can read more about it [here](https://www.npr.org/2023/12/18/1220125508/apple-watch-series-9-ultra-2-masimo-patent).
 
 ## Requirements
 - Python 3.8
