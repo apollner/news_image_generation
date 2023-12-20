@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Respiratory viruses high this holiday season with RSV, flu, COVID hospitalizations all rising nationwide**
+**Polk County Health Department urges vaccine updates before holiday gatherings**
 
-You can read more about it [here](https://abc7chicago.com/covid-flu-rsv-respiratory-virus/14199244/).
+You can read more about it [here](https://www.kcci.com/article/iowa-polk-county-health-department-urges-vaccine-updates-before-holiday-gatherings/46167838).
 
 ## Requirements
 - Python 3.8
