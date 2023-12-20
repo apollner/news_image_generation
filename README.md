@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lilly, Novo's bet on heart disease starts to take shape, and 2024 could be a pivotal year for their GLP-1s**
+**FDX Stock: FedEx Fades After Earnings, Revenue Miss Targets**
 
-You can read more about it [here](https://endpts.com/lilly-novos-bet-on-heart-disease-starts-to-take-shape-and-2024-could-be-a-pivotal-year-for-their-glp-1s/).
+You can read more about it [here](https://www.investors.com/news/fedex-stock-fedex-earnings-q2-2024/).
 
 ## Requirements
 - Python 3.8
