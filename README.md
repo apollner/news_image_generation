@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA laser-beams adorable cat video to Earth from 19 million miles away (video)**
+**How Drew Lock and Julian Love toppled the Eagles to save the Seahawks’ season**
 
-You can read more about it [here](https://www.space.com/nasa-laser-taters-cat-video-19-million-miles-away).
+You can read more about it [here](https://theathletic.com/5148153/2023/12/19/drew-lock-seahawks-eagles-julian-love/).
 
 ## Requirements
 - Python 3.8
