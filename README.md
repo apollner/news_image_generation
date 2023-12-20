@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's Nippon Steel to acquire U.S. Steel for $14.9 billion**
+**US-led coalition of 10 nations to counter Houthi attacks on vessels in Red Sea**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/japans-nippon-steel-plans-acquire-us-steel-7-bln-nikkei-2023-12-18/).
+You can read more about it [here](https://www.timesofisrael.com/us-led-coalition-of-10-nations-to-counter-houthi-attacks-on-vessels-in-red-sea/).
 
 ## Requirements
 - Python 3.8
