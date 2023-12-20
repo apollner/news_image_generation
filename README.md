@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Swiss regulator calls for more powers after Credit Suisse collapse**
+**James Webb Space Telescope snaps stunning new image of Uranus**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/19/swiss-regulator-calls-for-more-powers-after-credit-suisse-collapse.html).
+You can read more about it [here](https://www.salon.com/2023/12/19/james-webb-space-telescope-snaps-stunning-new-image-of-uranus/).
 
 ## Requirements
 - Python 3.8
