@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What happens when a shipwrecks becomes a thriving marine habitat**
+**Texas immigration law known as SB4, allowing state to arrest migrants, signed by Gov. Greg Abbott**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/12/19/plumbing-secrets-how-shipwrecks-transform-into-living-seabeds/).
+You can read more about it [here](https://www.cbsnews.com/news/texas-immigration-law-sb4-signed-greg-abbott/).
 
 ## Requirements
 - Python 3.8
