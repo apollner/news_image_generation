@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says Russia is ready to talk on Ukraine**
+**What happens when a shipwrecks becomes a thriving marine habitat**
 
-You can read more about it [here](https://news.yahoo.com/putin-says-russia-ready-talk-123213938.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/19/plumbing-secrets-how-shipwrecks-transform-into-living-seabeds/).
 
 ## Requirements
 - Python 3.8
