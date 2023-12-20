@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Samsung Leak Reveals Stunning Galaxy S24 Design Decisions**
+**Hornets' Miles Bridges denied entry to Canada, will not play vs. Raptors**
 
-You can read more about it [here](https://www.forbes.com/sites/ewanspence/2023/12/18/samsung-galaxy-s24-exynos-2400-specs-memory-new-galaxy-s24-upgrade/).
+You can read more about it [here](https://www.cbssports.com/nba/news/hornets-miles-bridges-denied-entry-to-canada-unlikely-to-play-vs-raptors-per-report/).
 
 ## Requirements
 - Python 3.8
