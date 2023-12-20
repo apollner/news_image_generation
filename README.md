@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Insight: How Swiss authorities bungled Credit Suisse oversight**
+**The Fight Tearing the Game Awards Apart**
 
-You can read more about it [here](https://www.reuters.com/business/finance/how-swiss-authorities-bungled-credit-suisse-oversight-2023-12-18/).
+You can read more about it [here](https://www.wired.com/story/the-game-awards-israel-palestine-open-letter-future-class/).
 
 ## Requirements
 - Python 3.8
