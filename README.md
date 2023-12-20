@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude 6.2 earthquake kills 118 in China's Gansu, Qinghai**
+**Google to pay $700mn in antitrust settlement over Android app store**
 
-You can read more about it [here](https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/).
+You can read more about it [here](https://www.ft.com/content/e7f7c7d6-79b4-4de4-aa4b-f656546a91ca).
 
 ## Requirements
 - Python 3.8
