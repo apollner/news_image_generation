@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space X Falcon 9 rocket launches 23 Starlink satellites from Cape Canaveral – Spaceflight Now**
+**NFL 2023 playoff picture, standings after Week 15: Seahawks move into tie for final playoff spot, Eagles No. 5**
 
-You can read more about it [here](https://spaceflightnow.com/2023/12/19/live-coverage-space-x-falcon-9-rocket-to-launch-23-starlink-satellites-from-cape-canaveral/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-2023-playoff-picture-standings-after-week-15-seahawks-move-into-tie-for-final-playoff-spot-eagles-no-5/).
 
 ## Requirements
 - Python 3.8
