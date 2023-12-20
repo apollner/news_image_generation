@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Rise On Key Economic Data; Netflix Among 7 Best Stocks To Buy And Watch**
+**Swiss regulator calls for more powers after Credit Suisse collapse**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-housing-data-netflix-among-best-stocks-to-buy-and-watch/).
+You can read more about it [here](https://www.cnbc.com/2023/12/19/swiss-regulator-calls-for-more-powers-after-credit-suisse-collapse.html).
 
 ## Requirements
 - Python 3.8
