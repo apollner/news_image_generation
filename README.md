@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hornets' Miles Bridges denied entry to Canada, will not play vs. Raptors**
+**Japan's Nippon Steel to acquire U.S. Steel for $14.9 billion**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/hornets-miles-bridges-denied-entry-to-canada-unlikely-to-play-vs-raptors-per-report/).
+You can read more about it [here](https://www.reuters.com/markets/deals/japans-nippon-steel-plans-acquire-us-steel-7-bln-nikkei-2023-12-18/).
 
 ## Requirements
 - Python 3.8
