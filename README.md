@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review | 'The Color Purple' mixes tragedy with show tunes**
+**Beeper's next iMessage for Android fix requires access to a Mac**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/movies/2023/12/19/the-color-purple-movie-review/).
+You can read more about it [here](https://9to5google.com/2023/12/19/beeper-imessage-android-mac/).
 
 ## Requirements
 - Python 3.8
