@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 things to know about the Apple Watch fiasco**
+**Watch Live: Justice Sandra Day O'Connor honored at funeral service at National Cathedral**
 
-You can read more about it [here](https://www.cnn.com/2023/12/19/tech/apple-watch-fiasco/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/sandra-day-oconnor-funeral-live-stream-national-cathedral/).
 
 ## Requirements
 - Python 3.8
