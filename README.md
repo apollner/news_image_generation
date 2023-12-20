@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas immigration law known as SB4, allowing state to arrest migrants, signed by Gov. Greg Abbott**
+**4 things to know about the Apple Watch fiasco**
 
-You can read more about it [here](https://www.cbsnews.com/news/texas-immigration-law-sb4-signed-greg-abbott/).
+You can read more about it [here](https://www.cnn.com/2023/12/19/tech/apple-watch-fiasco/index.html).
 
 ## Requirements
 - Python 3.8
