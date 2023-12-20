@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Read Catholic Diocese of Cleveland’s response after Pope Francis’ approves of blessings for same-sex couples**
+**Celine Dion Has Lost Control of Muscles Amid Stiff-Person Syndrome Battle**
 
-You can read more about it [here](https://www.cleveland.com/news/2023/12/read-catholic-diocese-of-clevelands-response-after-pope-francis-approves-of-blessings-for-same-sex-couples.html).
+You can read more about it [here](https://www.eonline.com/news/1391696/celine-dion-has-lost-control-of-muscles-amid-stiff-person-syndrome-battle).
 
 ## Requirements
 - Python 3.8
