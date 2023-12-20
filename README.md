@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polk County Health Department urges vaccine updates before holiday gatherings**
+**[Removed]**
 
-You can read more about it [here](https://www.kcci.com/article/iowa-polk-county-health-department-urges-vaccine-updates-before-holiday-gatherings/46167838).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
