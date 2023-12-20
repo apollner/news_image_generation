@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb Space Telescope snaps stunning new image of Uranus**
+**Texas immigration law known as SB4, allowing state to arrest migrants, signed by Gov. Greg Abbott**
 
-You can read more about it [here](https://www.salon.com/2023/12/19/james-webb-space-telescope-snaps-stunning-new-image-of-uranus/).
+You can read more about it [here](https://www.cbsnews.com/news/texas-immigration-law-sb4-signed-greg-abbott/).
 
 ## Requirements
 - Python 3.8
