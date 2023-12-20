@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Volcano erupts on Iceland’s Reykjanes peninsula**
+**Read Catholic Diocese of Cleveland’s response after Pope Francis’ approves of blessings for same-sex couples**
 
-You can read more about it [here](https://www.cnn.com/2023/12/18/europe/reykjanes-volcano-erupts-iceland/index.html).
+You can read more about it [here](https://www.cleveland.com/news/2023/12/read-catholic-diocese-of-clevelands-response-after-pope-francis-approves-of-blessings-for-same-sex-couples.html).
 
 ## Requirements
 - Python 3.8
