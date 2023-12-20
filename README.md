@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL 2023 playoff picture, standings after Week 15: Seahawks move into tie for final playoff spot, Eagles No. 5**
+**Yemen’s Houthis ‘will not stop’ Red Sea attacks until Israel ends Gaza war**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-2023-playoff-picture-standings-after-week-15-seahawks-move-into-tie-for-final-playoff-spot-eagles-no-5/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/19/yemens-houthis-will-not-stop-red-sea-attacks-until-israel-stops-gaza-war).
 
 ## Requirements
 - Python 3.8
