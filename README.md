@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Catholic Church's teaching on marriage 'has not changed' after Vatican document, US bishops say**
+**Michael Chandler: Colby Covington 'should be fighting on the prelims' after UFC 296 performance**
 
-You can read more about it [here](https://www.foxnews.com/world/catholic-church-teaching-marriage-has-not-changed-vatican-document-us-bishops-say).
+You can read more about it [here](https://mmajunkie.usatoday.com/2023/12/ufc-296-michael-chandler-colby-covington-should-fight-on-prelims-now).
 
 ## Requirements
 - Python 3.8
