@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas immigration law known as SB4, allowing state to arrest migrants, signed by Gov. Greg Abbott**
+**Review | 'The Color Purple' mixes tragedy with show tunes**
 
-You can read more about it [here](https://www.cbsnews.com/news/texas-immigration-law-sb4-signed-greg-abbott/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/movies/2023/12/19/the-color-purple-movie-review/).
 
 ## Requirements
 - Python 3.8
