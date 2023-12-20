@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple stops selling latest Apple Watch after losing patent case**
+**Celine Dion Has Lost Control of Muscles Amid Stiff-Person Syndrome Battle**
 
-You can read more about it [here](https://www.npr.org/2023/12/18/1220125508/apple-watch-series-9-ultra-2-masimo-patent).
+You can read more about it [here](https://www.eonline.com/news/1391696/celine-dion-has-lost-control-of-muscles-amid-stiff-person-syndrome-battle).
 
 ## Requirements
 - Python 3.8
