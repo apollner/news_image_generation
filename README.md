@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celine Dion Has Lost Control of Muscles Amid Stiff-Person Syndrome Battle**
+**NFL Week 15 grades: Seahawks earn 'B' for improbable Monday win over Eagles, Cowboys hit with an 'F'**
 
-You can read more about it [here](https://www.eonline.com/news/1391696/celine-dion-has-lost-control-of-muscles-amid-stiff-person-syndrome-battle).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-grades-seahawks-earn-b-for-improbable-monday-win-over-eagles-cowboys-hit-with-an-f/).
 
 ## Requirements
 - Python 3.8
