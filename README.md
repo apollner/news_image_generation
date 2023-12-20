@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Drew Lock and Julian Love toppled the Eagles to save the Seahawks’ season**
+**McConnell invokes his wife’s name to slam Trump’s controversial immigrant remarks**
 
-You can read more about it [here](https://theathletic.com/5148153/2023/12/19/drew-lock-seahawks-eagles-julian-love/).
+You can read more about it [here](https://thehill.com/homenews/4368167-mcconnell-invokes-wifes-name-trump-condemnation-of-immigrants/).
 
 ## Requirements
 - Python 3.8
