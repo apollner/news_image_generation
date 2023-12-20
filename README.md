@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 15 grades: Seahawks earn 'B' for improbable Monday win over Eagles, Cowboys hit with an 'F'**
+**UCLA 77-71 Ohio State (Dec 18, 2023) Game Recap**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-15-grades-seahawks-earn-b-for-improbable-monday-win-over-eagles-cowboys-hit-with-an-f/).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/recap/_/gameId/401606634).
 
 ## Requirements
 - Python 3.8
