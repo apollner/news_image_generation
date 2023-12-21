@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDX Stock: FedEx Fades After Earnings, Revenue Miss Targets**
+**Some Chick-fil-As could open on Sundays due to new bill in NY**
 
-You can read more about it [here](https://www.investors.com/news/fedex-stock-fedex-earnings-q2-2024/).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/19/chick-fil-a-opening-on-sundays-bill-ny/71972905007/).
 
 ## Requirements
 - Python 3.8
