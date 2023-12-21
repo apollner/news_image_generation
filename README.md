@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adorable Cat Video Reaches Earth After 19-Million-Mile Journey from Deep Space**
+**Financial woes force Kanye West to part ways with rare oceanfront Malibu home -- for a loss**
 
-You can read more about it [here](https://gizmodo.com/nasa-psyche-deep-space-laser-communications-cat-video-1851114080).
+You can read more about it [here](https://nypost.com/2023/12/20/real-estate/kanye-west-lists-malibu-home-amid-financial-woes-for-53m/).
 
 ## Requirements
 - Python 3.8
