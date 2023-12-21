@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boston mayor apologizes to men wrongfully arrested for 1989 murder**
+**Stocks Sell Off, Two Titans Give Up Buy Points; Micron Pops Late**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/20/boston-mayor-wu-apology-murder-00132692).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-sell-off-google-tesla-give-up-buy-points-micron-earnings-strong/).
 
 ## Requirements
 - Python 3.8
