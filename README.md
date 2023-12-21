@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shipping industry in the dark over US-led Red Sea navy force**
+**Ryan Gosling Releases ‘Ken The EP’ With Three New Versions of ‘I’m Just Ken,’ Including a Christmas Cover**
 
-You can read more about it [here](https://www.reuters.com/business/shipping-industry-dark-over-us-led-red-sea-navy-force-2023-12-20/).
+You can read more about it [here](https://variety.com/2023/music/news/ryan-gosling-ken-ep-im-just-ken-christmas-version-1235844314/).
 
 ## Requirements
 - Python 3.8
