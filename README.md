@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Google Gemini is not even as good as GPT-3.5 Turbo, researchers find**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://venturebeat.com/ai/google-gemini-is-not-even-as-good-as-gpt-3-5-turbo-researchers-find/).
 
 ## Requirements
 - Python 3.8
