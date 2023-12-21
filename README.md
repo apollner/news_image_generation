@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biggest questions facing the New York Jets with Aaron Rodgers' season over**
+**Islamic Jihad issues clip of 2 hostages who call on Israel to secure their freedom**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39148240/biggest-question-facing-new-york-jets-aaron-rodgers-season-over).
+You can read more about it [here](https://www.timesofisrael.com/islamic-jihad-issues-clip-of-2-hostages-who-call-on-israel-to-secure-their-freedom/).
 
 ## Requirements
 - Python 3.8
