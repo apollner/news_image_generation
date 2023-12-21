@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano eruption weakening**
+**Russia to seize energy assets from 'unfriendly' European countries**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67770645).
+You can read more about it [here](https://www.politico.eu/article/russia-seize-european-energy-assets-omv-wintershall/).
 
 ## Requirements
 - Python 3.8
