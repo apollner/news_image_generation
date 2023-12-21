@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers’ season is (officially) over, so Jets must turn the page to 2024**
+**"They've left me behind," American Paul Whelan says from Russian prison after failed bid to secure release**
 
-You can read more about it [here](https://theathletic.com/5150462/2023/12/20/aaron-rodgers-jets-2024-roster/).
+You can read more about it [here](https://www.cbsnews.com/news/paul-whelan-russia-prison-left-me-behind-wrongfully-detained-even-gershkovich/).
 
 ## Requirements
 - Python 3.8
