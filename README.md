@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Gosling Releases ‘Ken The EP’ With Three New Versions of ‘I’m Just Ken,’ Including a Christmas Cover**
+**New Covid subvariant, flu and RSV cases are rising. A doctor explains how to stay healthy this holiday**
 
-You can read more about it [here](https://variety.com/2023/music/news/ryan-gosling-ken-ep-im-just-ken-christmas-version-1235844314/).
+You can read more about it [here](https://www.cnn.com/2023/12/20/health/holiday-virus-rsv-covid-flu-winter-wellness/index.html).
 
 ## Requirements
 - Python 3.8
