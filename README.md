@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hold Onto Your Hats: JWST Unveils Unprecedentedly Crisp View of Uranus And Its Rings**
+**Tougher French immigration bill passes, Macron's parliament majority wobbles**
 
-You can read more about it [here](https://www.sciencealert.com/hold-onto-your-hats-jwst-unveils-unprecedentedly-crisp-view-of-uranus-and-its-rings).
+You can read more about it [here](https://www.reuters.com/world/europe/france-lawmakers-seek-deal-tougher-migration-bill-2023-12-19/).
 
 ## Requirements
 - Python 3.8
