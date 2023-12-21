@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's moon landing mission will include a non-American, Harris will announce**
+**Adorable Cat Video Reaches Earth After 19-Million-Mile Journey from Deep Space**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/20/nasas-moon-landing-mission-will-include-a-non-american-harris-will-announce-00132667).
+You can read more about it [here](https://gizmodo.com/nasa-psyche-deep-space-laser-communications-cat-video-1851114080).
 
 ## Requirements
 - Python 3.8
