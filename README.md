@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"They've left me behind," American Paul Whelan says from Russian prison after failed bid to secure release**
+**Kristin Cavallari Says She Cut Her Dad Dennis Out of Her Life After He 'Crossed a Line' With Her Kids**
 
-You can read more about it [here](https://www.cbsnews.com/news/paul-whelan-russia-prison-left-me-behind-wrongfully-detained-even-gershkovich/).
+You can read more about it [here](https://www.etonline.com/kristin-cavallari-says-she-cut-her-dad-dennis-out-of-her-life-after-he-crossed-a-line-with-her-kids).
 
 ## Requirements
 - Python 3.8
