@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FedEx profit misses, cuts full-year revenue forecast; shares sink**
+**Minnesota commission chooses new state flag design to replace old one deemed problematic**
 
-You can read more about it [here](https://www.reuters.com/business/fedex-cuts-full-year-revenue-forecast-2023-12-19/).
+You can read more about it [here](https://www.foxnews.com/lifestyle/minnesota-commission-chooses-new-state-flag-design-replace-old-deemed-problematic).
 
 ## Requirements
 - Python 3.8
