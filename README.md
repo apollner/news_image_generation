@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DR Congo vote marred by protest and delays as opposition alleges fraud**
+**Shipping industry in the dark over US-led Red Sea navy force**
 
-You can read more about it [here](https://www.cnn.com/2023/12/20/africa/dr-congo-election-delays-protests-intl/index.html).
+You can read more about it [here](https://www.reuters.com/business/shipping-industry-dark-over-us-led-red-sea-navy-force-2023-12-20/).
 
 ## Requirements
 - Python 3.8
