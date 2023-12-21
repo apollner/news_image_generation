@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Covid subvariant, flu and RSV cases are rising. A doctor explains how to stay healthy this holiday**
+**Aaron Rodgers’ season is (officially) over, so Jets must turn the page to 2024**
 
-You can read more about it [here](https://www.cnn.com/2023/12/20/health/holiday-virus-rsv-covid-flu-winter-wellness/index.html).
+You can read more about it [here](https://theathletic.com/5150462/2023/12/20/aaron-rodgers-jets-2024-roster/).
 
 ## Requirements
 - Python 3.8
