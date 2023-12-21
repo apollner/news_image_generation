@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge says removal of Confederate statue at Arlington can proceed**
+**Trump defends controversial immigrant remarks at Iowa rally**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/12/19/arlington-confederate-memorial-removal-ruling/).
+You can read more about it [here](https://apnews.com/article/donald-trump-immigration-iowa-dff7f632948fa6511fb7d1955a28610c).
 
 ## Requirements
 - Python 3.8
