@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holly Marie Combs says Alyssa Milano had Shannen Doherty fired from 'Charmed'**
+**Hold Onto Your Hats: JWST Unveils Unprecedentedly Crisp View of Uranus And Its Rings**
 
-You can read more about it [here](https://ew.com/holly-marie-combs-alyssa-milano-shannen-doherty-fired-charmed-8418304).
+You can read more about it [here](https://www.sciencealert.com/hold-onto-your-hats-jwst-unveils-unprecedentedly-crisp-view-of-uranus-and-its-rings).
 
 ## Requirements
 - Python 3.8
