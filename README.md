@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate approves final 11 military nominees after Tuberville backs down from hold**
+**Iceland volcano eruption weakening**
 
-You can read more about it [here](https://www.cnn.com/2023/12/19/politics/tuberville-senate-final-11-military-nominees/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67770645).
 
 ## Requirements
 - Python 3.8
