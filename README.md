@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel battles Hamas on streets of Gaza city as UN delays vote again**
+**Some Muslims around major India temple fearful ahead of opening**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-battles-hamas-streets-gaza-city-un-delays-vote-again-2023-12-20/).
+You can read more about it [here](https://www.reuters.com/world/india/some-muslims-around-major-india-temple-fearful-ahead-opening-2023-12-20/).
 
 ## Requirements
 - Python 3.8
