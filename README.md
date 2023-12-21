@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blue-Chip Buzz: The latest on top prospects as morning of the Early Signing Period hits**
+**Israel battles Hamas on streets of Gaza city as UN delays vote again**
 
-You can read more about it [here](https://247sports.com/Article/blue-chip-buzz-the-latest-on-top-prospects-with-less-than-eight-hours-till-signing-day-begins-223546672).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-battles-hamas-streets-gaza-city-un-delays-vote-again-2023-12-20/).
 
 ## Requirements
 - Python 3.8
