@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano eruption weakening**
+**Judge says removal of Confederate statue at Arlington can proceed**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67770645).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/12/19/arlington-confederate-memorial-removal-ruling/).
 
 ## Requirements
 - Python 3.8
