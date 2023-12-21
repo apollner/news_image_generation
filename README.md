@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Chick-fil-As could open on Sundays due to new bill in NY**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/19/chick-fil-a-opening-on-sundays-bill-ny/71972905007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
