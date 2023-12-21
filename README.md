@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**N.Y. Gov. Kathy Hochul signs controversial legislation to create slavery reparations commission**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/gov-kathy-hochul-signs-controversial-legislation-to-create-slavery-reparations-commission/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
