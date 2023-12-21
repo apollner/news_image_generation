@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota commission chooses new state flag design to replace old one deemed problematic**
+**N.Y. Gov. Kathy Hochul signs controversial legislation to create slavery reparations commission**
 
-You can read more about it [here](https://www.foxnews.com/lifestyle/minnesota-commission-chooses-new-state-flag-design-replace-old-deemed-problematic).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/gov-kathy-hochul-signs-controversial-legislation-to-create-slavery-reparations-commission/).
 
 ## Requirements
 - Python 3.8
