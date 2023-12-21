@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reversing earlier decision, judge allows removal of Confederate memorial at Arlington Cemetery**
+**Who are the Houthi rebels? What to know about the Yemeni militants attacking ships in the Red Sea**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/19/judge-allows-removal-confederate-memorial-arlington-cemetery-00132626).
+You can read more about it [here](https://www.cbsnews.com/news/who-are-houthi-rebels-what-to-know-yemen-militants-attack-ships-red-sea/).
 
 ## Requirements
 - Python 3.8
