@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Islamic Jihad issues clip of 2 hostages who call on Israel to secure their freedom**
+**FedEx profit misses, cuts full-year revenue forecast; shares sink**
 
-You can read more about it [here](https://www.timesofisrael.com/islamic-jihad-issues-clip-of-2-hostages-who-call-on-israel-to-secure-their-freedom/).
+You can read more about it [here](https://www.reuters.com/business/fedex-cuts-full-year-revenue-forecast-2023-12-19/).
 
 ## Requirements
 - Python 3.8
