@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tougher French immigration bill passes, Macron's parliament majority wobbles**
+**Reversing earlier decision, judge allows removal of Confederate memorial at Arlington Cemetery**
 
-You can read more about it [here](https://www.reuters.com/world/europe/france-lawmakers-seek-deal-tougher-migration-bill-2023-12-19/).
+You can read more about it [here](https://www.politico.com/news/2023/12/19/judge-allows-removal-confederate-memorial-arlington-cemetery-00132626).
 
 ## Requirements
 - Python 3.8
