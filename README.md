@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who are the Houthi rebels? What to know about the Yemeni militants attacking ships in the Red Sea**
+**France passes tough immigration bill amid Macron party rebellion**
 
-You can read more about it [here](https://www.cbsnews.com/news/who-are-houthi-rebels-what-to-know-yemen-militants-attack-ships-red-sea/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/20/france-passes-tough-immigration-bill-amid-macron-party-rebellion).
 
 ## Requirements
 - Python 3.8
