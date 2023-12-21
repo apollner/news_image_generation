@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano erupts in country's most populated area**
+**Blue-Chip Buzz: The latest on top prospects as morning of the Early Signing Period hits**
 
-You can read more about it [here](https://www.youtube.com/watch?v=UEoCgSib0hU).
+You can read more about it [here](https://247sports.com/Article/blue-chip-buzz-the-latest-on-top-prospects-with-less-than-eight-hours-till-signing-day-begins-223546672).
 
 ## Requirements
 - Python 3.8
