@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kristin Cavallari Says She Cut Her Dad Dennis Out of Her Life After He 'Crossed a Line' With Her Kids**
+**NASA's moon landing mission will include a non-American, Harris will announce**
 
-You can read more about it [here](https://www.etonline.com/kristin-cavallari-says-she-cut-her-dad-dennis-out-of-her-life-after-he-crossed-a-line-with-her-kids).
+You can read more about it [here](https://www.politico.com/news/2023/12/20/nasas-moon-landing-mission-will-include-a-non-american-harris-will-announce-00132667).
 
 ## Requirements
 - Python 3.8
