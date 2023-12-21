@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FedEx profit misses, cuts full-year revenue forecast; shares sink**
+**Holly Marie Combs says Alyssa Milano had Shannen Doherty fired from 'Charmed'**
 
-You can read more about it [here](https://www.reuters.com/business/fedex-cuts-full-year-revenue-forecast-2023-12-19/).
+You can read more about it [here](https://ew.com/holly-marie-combs-alyssa-milano-shannen-doherty-fired-charmed-8418304).
 
 ## Requirements
 - Python 3.8
