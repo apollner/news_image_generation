@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rainiest day so far this season in Bay Area**
+**Inside Brad Pitt's whirlwind 60th birthday weekend with Ines de Ramon: From romantic Paris trip to festive LA party**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7aiAw9xcQl4).
+You can read more about it [here](https://pagesix.com/2023/12/20/entertainment/inside-brad-pitts-whirlwind-60th-birthday-weekend-with-ines-de-ramon/).
 
 ## Requirements
 - Python 3.8
