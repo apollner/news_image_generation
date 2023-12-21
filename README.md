@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toshiba delisted after 74 years, faces future with new owners**
+**Senate approves final 11 military nominees after Tuberville backs down from hold**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/toshiba-be-delisted-after-74-years-faces-future-with-new-owners-2023-12-19/).
+You can read more about it [here](https://www.cnn.com/2023/12/19/politics/tuberville-senate-final-11-military-nominees/index.html).
 
 ## Requirements
 - Python 3.8
