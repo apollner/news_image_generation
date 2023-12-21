@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas top leader arrives in Cairo for talks on war**
+**Toshiba delisted after 74 years, faces future with new owners**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-20-2023-81b80e4716b53756c8fab96c183089ef).
+You can read more about it [here](https://www.reuters.com/markets/deals/toshiba-be-delisted-after-74-years-faces-future-with-new-owners-2023-12-19/).
 
 ## Requirements
 - Python 3.8
