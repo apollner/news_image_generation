@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Muslims around major India temple fearful ahead of opening**
+**Iceland volcano eruption weakening**
 
-You can read more about it [here](https://www.reuters.com/world/india/some-muslims-around-major-india-temple-fearful-ahead-opening-2023-12-20/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67770645).
 
 ## Requirements
 - Python 3.8
