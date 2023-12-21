@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Brad Pitt's whirlwind 60th birthday weekend with Ines de Ramon: From romantic Paris trip to festive LA party**
+**Boston mayor apologizes to men wrongfully arrested for 1989 murder**
 
-You can read more about it [here](https://pagesix.com/2023/12/20/entertainment/inside-brad-pitts-whirlwind-60th-birthday-weekend-with-ines-de-ramon/).
+You can read more about it [here](https://www.politico.com/news/2023/12/20/boston-mayor-wu-apology-murder-00132692).
 
 ## Requirements
 - Python 3.8
