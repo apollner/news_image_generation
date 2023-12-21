@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adobe explains why it abandoned the Figma deal**
+**DR Congo vote marred by protest and delays as opposition alleges fraud**
 
-You can read more about it [here](https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder).
+You can read more about it [here](https://www.cnn.com/2023/12/20/africa/dr-congo-election-delays-protests-intl/index.html).
 
 ## Requirements
 - Python 3.8
