@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Iceland volcano erupts in country's most populated area**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=UEoCgSib0hU).
 
 ## Requirements
 - Python 3.8
