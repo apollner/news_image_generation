@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: US stocks bounce back from worst day in months**
+**Israel Hamas war live updates: Vast tunnels uncovered under Gaza**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-us-stocks-bounce-back-from-worst-day-in-months-143338469.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/21/israel-hamas-war-gaza-live-updates/71997127007/).
 
 ## Requirements
 - Python 3.8
