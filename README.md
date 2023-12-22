@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire Man Indicted for Threatening to Kill Three Presidential Candidates**
+**Kyle Shanahan Evaluates Ravens Defense Heading into #BALvsSF | 49ers**
 
-You can read more about it [here](https://www.justice.gov/opa/pr/new-hampshire-man-indicted-threatening-kill-three-presidential-candidates).
+You can read more about it [here](https://www.youtube.com/watch?v=IZ-WootL18g).
 
 ## Requirements
 - Python 3.8
