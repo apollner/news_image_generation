@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Several Ravens felt 'disrespected' and had 'hurt feelings' being considered underdogs vs. 49ers**
+**6abc Helicopter Crash: Photographer, pilot killed after Chopper 6 crashes in Wharton State Forest**
 
-You can read more about it [here](https://sports.yahoo.com/several-ravens-felt-disrespected-and-had-hurt-feelings-being-considered-underdogs-vs-49ers-023119410.html).
+You can read more about it [here](https://www.fox29.com/news/photographer-pilot-killed-after-abc-chopper-6-crashes-in-wharton-state-forest-in-south-jersey).
 
 ## Requirements
 - Python 3.8
