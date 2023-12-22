@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Several Ravens felt 'disrespected' and had 'hurt feelings' being considered underdogs vs. 49ers**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/several-ravens-felt-disrespected-and-had-hurt-feelings-being-considered-underdogs-vs-49ers-023119410.html).
 
 ## Requirements
 - Python 3.8
