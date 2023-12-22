@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colon cancer is rising in young Americans. It's not clear why.**
+**Latest Oil Market News and Analysis for Dec. 21**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2023/12/21/colon-cancer-increasing-young-adults/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-21/latest-oil-market-news-and-analysis-for-dec-21).
 
 ## Requirements
 - Python 3.8
