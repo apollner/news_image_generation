@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toyota recalls 1 million Toyota and Lexus vehicles because air bag may not deploy properly**
+**‘The Masked Singer’ Finale Reveals Identities of Cow, Donut, Gazelle and Sea Queen: Here’s Who Won Season 10**
 
-You can read more about it [here](https://www.cbsnews.com/news/toyota-lexus-recall-2020-2022-faulty-air-bag-sensor/).
+You can read more about it [here](https://variety.com/2023/tv/news/the-masked-singer-season-10-finale-recap-winner-runner-ups-ne-yo-john-schneider-1235847017/).
 
 ## Requirements
 - Python 3.8
