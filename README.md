@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple wants AI to run directly on its hardware instead of in the cloud**
+**Stock market news today: US stocks bounce back from worst day in months**
 
-You can read more about it [here](https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-news-today-us-stocks-bounce-back-from-worst-day-in-months-143338469.html).
 
 ## Requirements
 - Python 3.8
