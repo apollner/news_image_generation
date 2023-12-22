@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United States announces plan to land international astronaut on the moon**
+**US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'**
 
-You can read more about it [here](https://www.cnn.com/2023/12/20/world/nasa-astronaut-moon-artemis-international-scn/index.html).
+You can read more about it [here](https://apnews.com/article/venezuela-maduro-saab-detained-americans-biden-d7148a34dd009d5bab3d5f50c28ed93e).
 
 ## Requirements
 - Python 3.8
