@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Sell Off, Two Titans Give Up Buy Points; Micron Pops Late**
+**[Removed]**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-sell-off-google-tesla-give-up-buy-points-micron-earnings-strong/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
