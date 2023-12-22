@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A heavy-hitting Grammy winner was the reigning champion of 'The Masked Singer."**
+**COVID-19 vaccine disparities return as JN.1 variant surges**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/grammy-winning-singer-adds-masked-singer-to-list-of-accolades-062716175.html).
+You can read more about it [here](https://www.bostonglobe.com/2023/12/21/metro/covid-19-vaccine-holiday-surge/).
 
 ## Requirements
 - Python 3.8
