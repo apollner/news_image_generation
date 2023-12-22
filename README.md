@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gazans Are Starting to Blame Hamas for Wartime Suffering**
+**Apple Plans to Launch Mixed-Reality Headset by February**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/gazans-are-starting-to-blame-hamas-for-wartime-suffering-066256b0).
+You can read more about it [here](https://www.pymnts.com/apple/2023/apple-plans-to-launch-vision-pro-mixed-reality-headset-by-february/).
 
 ## Requirements
 - Python 3.8
