@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York bill would force some Chick-fil-A locations to open on Sundays**
+**WPVI news helicopter crashes in New Jersey, 2 killed**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/new-york-bill-force-chick-fil-a-locations-open-sundays).
+You can read more about it [here](https://abcnews.go.com/US/wpvi-helicopter-crashes-southern-new-jersey-2-onboard/story?id=105801366).
 
 ## Requirements
 - Python 3.8
