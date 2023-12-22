@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vin Diesel Sued for Alleged Sexual Battery of Assistant in 2010**
+**Flooding rains in California disrupt travel, with more to come**
 
-You can read more about it [here](https://variety.com/2023/film/news/vin-diesel-sexual-battery-assistant-1235848731/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/21/california-rain-flooding-oxnard-losangeles/).
 
 ## Requirements
 - Python 3.8
