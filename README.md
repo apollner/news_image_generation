@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Develops Breakthrough Method for Running LLMs on iPhones**
+**Apple wants AI to run directly on its hardware instead of in the cloud**
 
-You can read more about it [here](https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/).
+You can read more about it [here](https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027).
 
 ## Requirements
 - Python 3.8
