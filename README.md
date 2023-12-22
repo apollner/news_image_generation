@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US is engaging in high-level diplomacy to avoid vetoing a UN resolution on critical aid for Gaza**
+**Colon cancer is rising in young Americans. It's not clear why.**
 
-You can read more about it [here](https://apnews.com/article/us-gaza-humanitarian-un-resolution-security-council-0a490667ff6ae96a299c9133aa2b054b).
+You can read more about it [here](https://www.washingtonpost.com/health/2023/12/21/colon-cancer-increasing-young-adults/).
 
 ## Requirements
 - Python 3.8
