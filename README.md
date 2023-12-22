@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WPVI news helicopter crashes in New Jersey, 2 killed**
+**Apple Plans to Launch Mixed-Reality Headset by February**
 
-You can read more about it [here](https://abcnews.go.com/US/wpvi-helicopter-crashes-southern-new-jersey-2-onboard/story?id=105801366).
+You can read more about it [here](https://www.pymnts.com/apple/2023/apple-plans-to-launch-vision-pro-mixed-reality-headset-by-february/).
 
 ## Requirements
 - Python 3.8
