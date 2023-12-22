@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Masked Singer’ Finale Reveals Identities of Cow, Donut, Gazelle and Sea Queen: Here’s Who Won Season 10**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2023/tv/news/the-masked-singer-season-10-finale-recap-winner-runner-ups-ne-yo-john-schneider-1235847017/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
