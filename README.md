@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US commits to landing an international astronaut on the Moon**
+**Vin Diesel Sued for Alleged Sexual Battery of Assistant in 2010**
 
-You can read more about it [here](https://arstechnica.com/space/2023/12/us-commits-to-landing-an-international-astronaut-on-the-moon/).
+You can read more about it [here](https://variety.com/2023/film/news/vin-diesel-sexual-battery-assistant-1235848731/).
 
 ## Requirements
 - Python 3.8
