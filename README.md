@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX fires up giant Starship rocket ahead of 3rd test flight (video)**
+**Argentina's Javier Milei unveils sweeping decree to deregulate the economy**
 
-You can read more about it [here](https://www.space.com/spacex-starship-static-fire-december-2023).
+You can read more about it [here](https://www.ft.com/content/854fdb00-e9bc-430a-a067-8f7c6f837fd4).
 
 ## Requirements
 - Python 3.8
