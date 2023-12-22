@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Plans to Launch Mixed-Reality Headset by February**
+**A heavy-hitting Grammy winner was the reigning champion of 'The Masked Singer."**
 
-You can read more about it [here](https://www.pymnts.com/apple/2023/apple-plans-to-launch-vision-pro-mixed-reality-headset-by-february/).
+You can read more about it [here](https://www.yahoo.com/entertainment/grammy-winning-singer-adds-masked-singer-to-list-of-accolades-062716175.html).
 
 ## Requirements
 - Python 3.8
