@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump barred from Colorado primary ballot for role in US Capitol attack**
+**'The Voice' Winner Huntley Receives Congratulations From Departed Contestant Tom Nitti**
 
-You can read more about it [here](https://www.reuters.com/legal/colorado-supreme-court-disqualifies-trump-holding-office-filing-2023-12-19/).
+You can read more about it [here](https://www.etonline.com/the-voice-winner-huntley-receives-congratulations-from-departed-contestant-tom-nitti-216825).
 
 ## Requirements
 - Python 3.8
