@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple fails to delay sales ban on watches. Only Biden can step in.**
+**Farm, rail companies urge reopening of US-Mexico crossings shut over migrants**
 
-You can read more about it [here](https://www.businessinsider.com/apple-watch-us-sales-ban-patent-joe-biden-2023-12).
+You can read more about it [here](https://www.reuters.com/world/migrant-surge-us-mexico-border-slows-trade-washington-seeks-answers-2023-12-20/).
 
 ## Requirements
 - Python 3.8
