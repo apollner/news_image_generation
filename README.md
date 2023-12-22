@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas war live updates: Vast tunnels uncovered under Gaza**
+**Brian Baldinger: 'In a Sport Full of Stars, Lamar Jackson Is the Biggest Star' | Late for Work 12/21**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/21/israel-hamas-war-gaza-live-updates/71997127007/).
+You can read more about it [here](https://www.baltimoreravens.com/news/lamar-jackson-brian-baldinger-biggest-star-football).
 
 ## Requirements
 - Python 3.8
