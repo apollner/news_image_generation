@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Texas Flies 91 Migrants to Chicago on Private Plane, Johnson Says Texas Governor Determined to 'Create Chaos'**
+**New York bill would force some Chick-fil-A locations to open on Sundays**
 
-You can read more about it [here](https://news.wttw.com/2023/12/20/texas-flies-150-migrants-chicago-private-plane-more-buses-expected-police-mayor-s-office).
+You can read more about it [here](https://www.foxbusiness.com/politics/new-york-bill-force-chick-fil-a-locations-open-sundays).
 
 ## Requirements
 - Python 3.8
