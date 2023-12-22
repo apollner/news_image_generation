@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Oil Market News and Analysis for Dec. 21**
+**Sources: Florida State expected to soon start process of leaving ACC**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-21/latest-oil-market-news-and-analysis-for-dec-21).
+You can read more about it [here](https://sports.yahoo.com/sources-florida-state-expected-to-soon-start-process-of-leaving-acc-140050710.html).
 
 ## Requirements
 - Python 3.8
