@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6abc Helicopter Crash: Photographer, pilot killed after Chopper 6 crashes in Wharton State Forest**
+**NASA streams first-ever video from deep space, starring Taters the cat**
 
-You can read more about it [here](https://www.fox29.com/news/photographer-pilot-killed-after-abc-chopper-6-crashes-in-wharton-state-forest-in-south-jersey).
+You can read more about it [here](https://www.axios.com/2023/12/20/nasa-cat-video-deep-space-laser).
 
 ## Requirements
 - Python 3.8
