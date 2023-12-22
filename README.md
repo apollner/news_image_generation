@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Plans to Launch Mixed-Reality Headset by February**
+**SpaceX fires up giant Starship rocket ahead of 3rd test flight (video)**
 
-You can read more about it [here](https://www.pymnts.com/apple/2023/apple-plans-to-launch-vision-pro-mixed-reality-headset-by-february/).
+You can read more about it [here](https://www.space.com/spacex-starship-static-fire-december-2023).
 
 ## Requirements
 - Python 3.8
