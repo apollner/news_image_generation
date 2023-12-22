@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump camp and Colorado GOP talk post court ruling steps**
+**New Hampshire Man Indicted for Threatening to Kill Three Presidential Candidates**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/21/trump-colorado-ballot-2024-campaign-00132900).
+You can read more about it [here](https://www.justice.gov/opa/pr/new-hampshire-man-indicted-threatening-kill-three-presidential-candidates).
 
 ## Requirements
 - Python 3.8
