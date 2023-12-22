@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI investigating after South Carolina couple accused of harassing Black neighbors**
+**New Hampshire Man Indicted for Threatening to Kill Three Presidential Candidates**
 
-You can read more about it [here](https://abcnews.go.com/US/fbi-investigating-south-carolina-couple-accused-harassing-neighbors/story?id=105825286).
+You can read more about it [here](https://www.justice.gov/opa/pr/new-hampshire-man-indicted-threatening-kill-three-presidential-candidates).
 
 ## Requirements
 - Python 3.8
