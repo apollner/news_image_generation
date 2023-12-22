@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brian Baldinger: 'In a Sport Full of Stars, Lamar Jackson Is the Biggest Star' | Late for Work 12/21**
+**US commits to landing an international astronaut on the Moon**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/lamar-jackson-brian-baldinger-biggest-star-football).
+You can read more about it [here](https://arstechnica.com/space/2023/12/us-commits-to-landing-an-international-astronaut-on-the-moon/).
 
 ## Requirements
 - Python 3.8
