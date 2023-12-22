@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump barred from Colorado primary ballot for role in US Capitol attack**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/legal/colorado-supreme-court-disqualifies-trump-holding-office-filing-2023-12-19/).
 
 ## Requirements
 - Python 3.8
