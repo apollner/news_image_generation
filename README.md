@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 vaccine disparities return as JN.1 variant surges**
+**United States announces plan to land international astronaut on the moon**
 
-You can read more about it [here](https://www.bostonglobe.com/2023/12/21/metro/covid-19-vaccine-holiday-surge/).
+You can read more about it [here](https://www.cnn.com/2023/12/20/world/nasa-astronaut-moon-artemis-international-scn/index.html).
 
 ## Requirements
 - Python 3.8
