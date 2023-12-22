@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Farm, rail companies urge reopening of US-Mexico crossings shut over migrants**
+**Gazans Are Starting to Blame Hamas for Wartime Suffering**
 
-You can read more about it [here](https://www.reuters.com/world/migrant-surge-us-mexico-border-slows-trade-washington-seeks-answers-2023-12-20/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/gazans-are-starting-to-blame-hamas-for-wartime-suffering-066256b0).
 
 ## Requirements
 - Python 3.8
