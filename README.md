@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flooding rains in California disrupt travel, with more to come**
+**FBI investigating after South Carolina couple accused of harassing Black neighbors**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/21/california-rain-flooding-oxnard-losangeles/).
+You can read more about it [here](https://abcnews.go.com/US/fbi-investigating-south-carolina-couple-accused-harassing-neighbors/story?id=105825286).
 
 ## Requirements
 - Python 3.8
