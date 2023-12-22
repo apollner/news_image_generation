@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Develops Breakthrough Method for Running LLMs on iPhones**
+**Seth Meyers Breaks Down Trump's Colorado Ballot Nightmare**
 
-You can read more about it [here](https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/).
+You can read more about it [here](https://www.thedailybeast.com/seth-meyers-breaks-down-trumps-colorado-ballot-nightmare).
 
 ## Requirements
 - Python 3.8
