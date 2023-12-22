@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Florida State expected to soon start process of leaving ACC**
+**Apple Develops Breakthrough Method for Running LLMs on iPhones**
 
-You can read more about it [here](https://sports.yahoo.com/sources-florida-state-expected-to-soon-start-process-of-leaving-acc-140050710.html).
+You can read more about it [here](https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/).
 
 ## Requirements
 - Python 3.8
