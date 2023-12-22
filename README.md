@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'**
+**US is engaging in high-level diplomacy to avoid vetoing a UN resolution on critical aid for Gaza**
 
-You can read more about it [here](https://apnews.com/article/venezuela-maduro-saab-detained-americans-biden-d7148a34dd009d5bab3d5f50c28ed93e).
+You can read more about it [here](https://apnews.com/article/us-gaza-humanitarian-un-resolution-security-council-0a490667ff6ae96a299c9133aa2b054b).
 
 ## Requirements
 - Python 3.8
