@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane that France grounded carried over 300 Indians possibly working in UAE**
+**Moderate Democrats fume over Biden hydrogen proposal**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/plane-that-france-grounded-carried-over-300-indians-possibly-working-in-uae-101703263999872.html).
+You can read more about it [here](https://thehill.com/policy/energy-environment/4373787-moderate-democrats-fume-over-biden-hydrogen-proposal/).
 
 ## Requirements
 - Python 3.8
