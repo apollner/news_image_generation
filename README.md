@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado Republican Party threatens to ignore presidential primary after making candidates pay thousands of dollars for access to the ballot**
+**Shootings are ‘spreading like a disease in Europe,’ says survivor of deadly Prague attack**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/colorado-republican-party-threatens-ignore-presidential-primary-candidates-pay-thousands-dollars-access-ballot/).
+You can read more about it [here](https://www.cnn.com/2023/12/22/europe/prague-czech-shooting-survivor-disease-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
