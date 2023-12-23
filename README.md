@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your daily horoscope: December 22, 2023**
+**Oscars 2024 Shortlists: 'Barbie' Leads Pack with Five Nods**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-december-22-2023/).
+You can read more about it [here](http://www.vulture.com/2023/12/oscars-shortlist-2024.html).
 
 ## Requirements
 - Python 3.8
