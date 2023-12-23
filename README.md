@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With a new Covid-19 variant on the rise, here’s how to stay safe this holiday season**
+**Israel-Hamas war: More than 20,000 Palestinians have been killed, Gaza health officials say**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/health/stay-well-holidays-wellness/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-22-2023-7453c6f92d74eb1e12e506489031b91b).
 
 ## Requirements
 - Python 3.8
