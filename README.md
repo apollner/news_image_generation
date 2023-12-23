@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Academic whom Claudine Gay plagiarized calls for Harvard leader's firing: Need to get ‘back towards sanity’**
+**Nike Sinks On Earnings, Plans To 'Streamline' Business**
 
-You can read more about it [here](https://www.foxnews.com/us/academic-claudine-gay-plagiarized-calls-harvard-leaders-firing-back-towards-sanity).
+You can read more about it [here](https://www.investors.com/news/nike-stock-sinks-after-q2-earnings-dow-giant-plans-to-streamline-business/).
 
 ## Requirements
 - Python 3.8
