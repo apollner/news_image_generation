@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden calls for investigation of Nippon Steel's bid for US Steel**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ft.com/content/17a40a68-b068-45a8-9586-4d68575fb86f).
 
 ## Requirements
 - Python 3.8
