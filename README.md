@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosenthal: Thoughts on Yoshinobu Yamamoto’s Dodgers deal and where the market goes now**
+**Prague university shooting: live updates, latest reactions, more**
 
-You can read more about it [here](https://theathletic.com/5156826/2023/12/22/yoshinobu-yamamoto-dodgers-rosenthal/).
+You can read more about it [here](https://nypost.com/2023/12/21/news/prague-university-shooting-live-updates-latest-reactions-more/).
 
 ## Requirements
 - Python 3.8
