@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike Sinks On Earnings, Plans To 'Streamline' Business**
+**Vin Diesel’s Ex-Assistant Sues ‘Fast & Furious’ Star For Sexual Battery & Retaliation; Read Full Complaint**
 
-You can read more about it [here](https://www.investors.com/news/nike-stock-sinks-after-q2-earnings-dow-giant-plans-to-streamline-business/).
+You can read more about it [here](https://deadline.com/2023/12/vin-diesel-sexual-battery-lawsuit-assistant-1235679923/).
 
 ## Requirements
 - Python 3.8
