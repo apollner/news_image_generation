@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 historical mysteries that scientists finally cracked in 2023 — and one they didn’t**
+**Rosenthal: Thoughts on Yoshinobu Yamamoto’s Dodgers deal and where the market goes now**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/world/human-history-mysteries-solved-science-2023-scn/index.html).
+You can read more about it [here](https://theathletic.com/5156826/2023/12/22/yoshinobu-yamamoto-dodgers-rosenthal/).
 
 ## Requirements
 - Python 3.8
