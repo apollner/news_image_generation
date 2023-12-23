@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rams WR Puka Nacua makes his latest case for Offensive Rookie of the Year after erupting vs. Saints on 'TNF'**
+**Japan to Send U.S. Patriot Missiles, Creating Deeper Pool for Ukraine Air Defenses**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/rams-wr-puka-nacua-makes-his-latest-case-for-offensive-rookie-of-the-year-after-erupting-vs-saints-on-tnf/).
+You can read more about it [here](https://www.wsj.com/world/asia/japan-to-send-u-s-patriot-missiles-creating-deeper-pool-for-ukraine-air-defenses-ae8d4316).
 
 ## Requirements
 - Python 3.8
