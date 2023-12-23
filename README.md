@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Shanahan Evaluates Ravens Defense Heading into #BALvsSF | 49ers**
+**Beeper says it’s done trying to bring iMessage to Android after month-long ‘cat and mouse’ game with Apple**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IZ-WootL18g).
+You can read more about it [here](https://techcrunch.com/2023/12/21/beeper-done-trying-bring-imessage-android-after-month-long-cat-mouse-game-apple/).
 
 ## Requirements
 - Python 3.8
