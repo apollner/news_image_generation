@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Octopuses help solve a long-standing mystery of West Antarctica demise**
+**Academic whom Claudine Gay plagiarized calls for Harvard leader's firing: Need to get ‘back towards sanity’**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/12/21/octopus-dna-antarctica-ice/).
+You can read more about it [here](https://www.foxnews.com/us/academic-claudine-gay-plagiarized-calls-harvard-leaders-firing-back-towards-sanity).
 
 ## Requirements
 - Python 3.8
