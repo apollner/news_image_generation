@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden calls for investigation of Nippon Steel's bid for US Steel**
+**Matthew Stafford's second TD pass expands Rams' lead before halftime**
 
-You can read more about it [here](https://www.ft.com/content/17a40a68-b068-45a8-9586-4d68575fb86f).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39162700/rams-strike-first-puka-nacua-touchdown-catch-fourth-gamble).
 
 ## Requirements
 - Python 3.8
