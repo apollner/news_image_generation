@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscars 2024 Shortlists: 'Barbie' Leads Pack with Five Nods**
+**Edwards: Pistons fans deserve better than 25th loss and a chance at dubious history**
 
-You can read more about it [here](http://www.vulture.com/2023/12/oscars-shortlist-2024.html).
+You can read more about it [here](https://theathletic.com/5156416/2023/12/22/detroit-pistons-25th-loss-nba-record/).
 
 ## Requirements
 - Python 3.8
