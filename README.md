@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Stafford's second TD pass expands Rams' lead before halftime**
+**The Dodgers are getting an ANOMALY in Yoshinobu Yamamoto - Jeff Passan | SC with SVP**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39162700/rams-strike-first-puka-nacua-touchdown-catch-fourth-gamble).
+You can read more about it [here](https://www.youtube.com/watch?v=qdmF0CmtuoI).
 
 ## Requirements
 - Python 3.8
