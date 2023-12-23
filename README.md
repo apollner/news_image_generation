@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: More than 20,000 Palestinians have been killed, Gaza health officials say**
+**Japan to send Patriot missiles to US which may aid Ukraine**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-22-2023-7453c6f92d74eb1e12e506489031b91b).
+You can read more about it [here](https://www.bbc.com/news/world-asia-67798740).
 
 ## Requirements
 - Python 3.8
