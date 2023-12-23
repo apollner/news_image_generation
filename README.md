@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Motive sought for mass shooting at Prague university that left more than a dozen dead**
+**Plane that France grounded carried over 300 Indians possibly working in UAE**
 
-You can read more about it [here](https://www.cbsnews.com/news/prague-mass-shooting-motive-sought/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/plane-that-france-grounded-carried-over-300-indians-possibly-working-in-uae-101703263999872.html).
 
 ## Requirements
 - Python 3.8
