@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency podcast: Florida State is attempting to leave the ACC**
+**Jury finds 3 officers not guilty in Manuel Ellis' 2020 death**
 
-You can read more about it [here](https://sports.yahoo.com/emergency-podcast-florida-state-is-attempting-to-leave-the-acc-002546775.html).
+You can read more about it [here](https://abcnews.go.com/US/jury-verdict-trial-3-officers-charged-manuel-ellis-death-washington/story?id=105775530).
 
 ## Requirements
 - Python 3.8
