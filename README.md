@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Octopuses help solve a long-standing mystery of West Antarctica demise**
+**Emergency podcast: Florida State is attempting to leave the ACC**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/12/21/octopus-dna-antarctica-ice/).
+You can read more about it [here](https://sports.yahoo.com/emergency-podcast-florida-state-is-attempting-to-leave-the-acc-002546775.html).
 
 ## Requirements
 - Python 3.8
