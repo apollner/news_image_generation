@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christmas Eve 2023: What stores are opened, closed**
+**Motive sought for mass shooting at Prague university that left more than a dozen dead**
 
-You can read more about it [here](https://apnews.com/article/christmas-eve-2023-store-hours-e7a701f83bd38815c2fd0e80dbc7a54e).
+You can read more about it [here](https://www.cbsnews.com/news/prague-mass-shooting-motive-sought/).
 
 ## Requirements
 - Python 3.8
