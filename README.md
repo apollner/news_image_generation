@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hunts for Hamas Leaders in Gaza's Khan Younis**
+**Christmas Eve 2023: What stores are opened, closed**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787).
+You can read more about it [here](https://apnews.com/article/christmas-eve-2023-store-hours-e7a701f83bd38815c2fd0e80dbc7a54e).
 
 ## Requirements
 - Python 3.8
