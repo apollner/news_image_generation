@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court rejects Jack Smith’s request for justices to quickly hear Trump immunity dispute**
+**Colorado's top court disqualified Trump - will the Supreme Court overrule?**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/politics/supreme-court-trump-immunity-jack-smith/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67752010).
 
 ## Requirements
 - Python 3.8
