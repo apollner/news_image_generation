@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani files for bankruptcy days after being ordered to pay $148 million in defamation case**
+**Octopuses help solve a long-standing mystery of West Antarctica demise**
 
-You can read more about it [here](https://apnews.com/article/giuliani-bankruptcy-filing-defamation-case-trump-4780ebe8e3f39133817f70c063c3c564).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/12/21/octopus-dna-antarctica-ice/).
 
 ## Requirements
 - Python 3.8
