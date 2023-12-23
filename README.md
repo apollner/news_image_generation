@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Trump recording shows he pressured Michigan election officials not to certify 2020 election results**
+**With a new Covid-19 variant on the rise, here’s how to stay safe this holiday season**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/22/new-trump-recording-michigan/72008324007/).
+You can read more about it [here](https://www.cnn.com/2023/12/22/health/stay-well-holidays-wellness/index.html).
 
 ## Requirements
 - Python 3.8
