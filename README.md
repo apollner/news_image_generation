@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Dodgers are getting an ANOMALY in Yoshinobu Yamamoto - Jeff Passan | SC with SVP**
+**Kelly Ripa and Mark Consuelos' Kids Lola and Michael Share Update on Their Post-Grad Lives - E! Online**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qdmF0CmtuoI).
+You can read more about it [here](https://www.eonline.com/news/1391913/kelly-ripa-and-mark-consuelos-kids-lola-and-michael-share-update-on-their-post-grad-lives).
 
 ## Requirements
 - Python 3.8
