@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan to Send U.S. Patriot Missiles, Creating Deeper Pool for Ukraine Air Defenses**
+**Beyond Gaza: How Yemen’s Houthis gain from attacking Red Sea ships**
 
-You can read more about it [here](https://www.wsj.com/world/asia/japan-to-send-u-s-patriot-missiles-creating-deeper-pool-for-ukraine-air-defenses-ae8d4316).
+You can read more about it [here](https://www.aljazeera.com/features/2023/12/22/beyond-gaza-how-yemens-houthis-gain-from-attacking-red-sea-ships).
 
 ## Requirements
 - Python 3.8
