@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shootings are ‘spreading like a disease in Europe,’ says survivor of deadly Prague attack**
+**Rams WR Puka Nacua makes his latest case for Offensive Rookie of the Year after erupting vs. Saints on 'TNF'**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/europe/prague-czech-shooting-survivor-disease-intl-hnk/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/rams-wr-puka-nacua-makes-his-latest-case-for-offensive-rookie-of-the-year-after-erupting-vs-saints-on-tnf/).
 
 ## Requirements
 - Python 3.8
