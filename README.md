@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury finds 3 officers not guilty in Manuel Ellis' 2020 death**
+**Colorado Republican Party threatens to ignore presidential primary after making candidates pay thousands of dollars for access to the ballot**
 
-You can read more about it [here](https://abcnews.go.com/US/jury-verdict-trial-3-officers-charged-manuel-ellis-death-washington/story?id=105775530).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/colorado-republican-party-threatens-ignore-presidential-primary-candidates-pay-thousands-dollars-access-ballot/).
 
 ## Requirements
 - Python 3.8
