@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prague university shooting: live updates, latest reactions, more**
+**Supreme Court rejects Jack Smith’s request for justices to quickly hear Trump immunity dispute**
 
-You can read more about it [here](https://nypost.com/2023/12/21/news/prague-university-shooting-live-updates-latest-reactions-more/).
+You can read more about it [here](https://www.cnn.com/2023/12/22/politics/supreme-court-trump-immunity-jack-smith/index.html).
 
 ## Requirements
 - Python 3.8
