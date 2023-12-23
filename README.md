@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike Sinks On Earnings, Plans To 'Streamline' Business**
+**[Removed]**
 
-You can read more about it [here](https://www.investors.com/news/nike-stock-sinks-after-q2-earnings-dow-giant-plans-to-streamline-business/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
