@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beeper says it’s done trying to bring iMessage to Android after month-long ‘cat and mouse’ game with Apple**
+**Nike Sinks On Earnings, Plans To 'Streamline' Business**
 
-You can read more about it [here](https://techcrunch.com/2023/12/21/beeper-done-trying-bring-imessage-android-after-month-long-cat-mouse-game-apple/).
+You can read more about it [here](https://www.investors.com/news/nike-stock-sinks-after-q2-earnings-dow-giant-plans-to-streamline-business/).
 
 ## Requirements
 - Python 3.8
