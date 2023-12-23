@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Edwards: Pistons fans deserve better than 25th loss and a chance at dubious history**
+**New Trump recording shows he pressured Michigan election officials not to certify 2020 election results**
 
-You can read more about it [here](https://theathletic.com/5156416/2023/12/22/detroit-pistons-25th-loss-nba-record/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2023/12/22/new-trump-recording-michigan/72008324007/).
 
 ## Requirements
 - Python 3.8
