@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyond Gaza: How Yemen’s Houthis gain from attacking Red Sea ships**
+**Your daily horoscope: December 22, 2023**
 
-You can read more about it [here](https://www.aljazeera.com/features/2023/12/22/beyond-gaza-how-yemens-houthis-gain-from-attacking-red-sea-ships).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-december-22-2023/).
 
 ## Requirements
 - Python 3.8
