@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan to Send U.S. Patriot Missiles, Creating Deeper Pool for Ukraine Air Defenses**
+**Israel Hunts for Hamas Leaders in Gaza's Khan Younis**
 
-You can read more about it [here](https://www.wsj.com/world/asia/japan-to-send-u-s-patriot-missiles-creating-deeper-pool-for-ukraine-air-defenses-ae8d4316).
+You can read more about it [here](https://www.wsj.com/world/middle-east/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787).
 
 ## Requirements
 - Python 3.8
