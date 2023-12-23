@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan to send Patriot missiles to US which may aid Ukraine**
+**NFC playoff picture: How Rams’ win impacts Detroit Lions**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-67798740).
+You can read more about it [here](https://www.prideofdetroit.com/2023/12/22/24012078/nfc-playoff-picture-rams-win-impacts-detroit-lions-standings).
 
 ## Requirements
 - Python 3.8
