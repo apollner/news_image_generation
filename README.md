@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New JN.1 COVID-19 strain gaining on Long Island, U.S. as hospitals see cases rise**
+**Octopuses help solve a long-standing mystery of West Antarctica demise**
 
-You can read more about it [here](https://www.newsday.com/news/health/coronavirus/new-covid-strain-triple-nhsip9gp).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2023/12/21/octopus-dna-antarctica-ice/).
 
 ## Requirements
 - Python 3.8
