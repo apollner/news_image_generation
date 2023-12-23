@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelly Ripa and Mark Consuelos' Kids Lola and Michael Share Update on Their Post-Grad Lives - E! Online**
+**New JN.1 COVID-19 strain gaining on Long Island, U.S. as hospitals see cases rise**
 
-You can read more about it [here](https://www.eonline.com/news/1391913/kelly-ripa-and-mark-consuelos-kids-lola-and-michael-share-update-on-their-post-grad-lives).
+You can read more about it [here](https://www.newsday.com/news/health/coronavirus/new-covid-strain-triple-nhsip9gp).
 
 ## Requirements
 - Python 3.8
