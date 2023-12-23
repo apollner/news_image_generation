@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prague university shooting: live updates, latest reactions, more**
+**U.N. pushes for more aid into Gaza, Israel widens offensive**
 
-You can read more about it [here](https://nypost.com/2023/12/21/news/prague-university-shooting-live-updates-latest-reactions-more/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/un-security-council-delays-vote-gaza-aid-until-friday-2023-12-22/).
 
 ## Requirements
 - Python 3.8
