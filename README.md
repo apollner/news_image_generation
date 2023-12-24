@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida State v. ACC, ACC v. FSU and conference realignment's next step**
+**Charlie Sheen “Assaulted In His LA Home By Neighbour Who Forced Her Way In”**
 
-You can read more about it [here](https://www.tampabay.com/sports/2023/12/22/florida-state-acc-conference-realignment-fsu-football-sec-big-ten-expansion/).
+You can read more about it [here](https://deadline.com/2023/12/charlie-sheen-assaulted-in-his-la-home-neighbour-1235681284/).
 
 ## Requirements
 - Python 3.8
