@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kourtney Kardashian and Travis Barker Share First Pics of Son Rocky**
+**Wisconsin Supreme Court rules against GOP-drawn legislative maps**
 
-You can read more about it [here](https://www.etonline.com/kourtney-kardashian-and-travis-barker-share-first-pics-of-son-rocky-216935).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/22/wisconsin-supreme-court-legislative-maps-redistricting/).
 
 ## Requirements
 - Python 3.8
