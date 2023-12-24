@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wayfair CEO Niraj Shah says employees need to work longer hours— and 'blend work and life'**
+**UN approves watered-down resolution on aid to Gaza without call for suspension of hostilities**
 
-You can read more about it [here](https://nypost.com/2023/12/22/business/wayfair-ceo-niraj-shah-says-employees-need-to-work-longer/).
+You can read more about it [here](https://apnews.com/article/un-resolution-gaza-aid-palestinians-israel-a5bb32fb9f071689d231533a26beb838).
 
 ## Requirements
 - Python 3.8
