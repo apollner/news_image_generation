@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico braces for new COVID-19 variant amid holiday gatherings**
+**Tori Spelling admits she's struggling during her first 'single mom Christmas' after Dean McDermott split**
 
-You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-braces-for-new-covid-19-variant-amid-holiday-gatherings/).
+You can read more about it [here](https://pagesix.com/2023/12/22/entertainment/tori-spelling-admits-shes-struggling-amid-her-first-single-mom-christmas-after-dean-mcdermott-split/).
 
 ## Requirements
 - Python 3.8
