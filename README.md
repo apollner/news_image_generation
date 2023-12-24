@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlie Sheen “Assaulted In His LA Home By Neighbour Who Forced Her Way In”**
+**Busiest holiday travel season in years is off to a smooth start**
 
-You can read more about it [here](https://deadline.com/2023/12/charlie-sheen-assaulted-in-his-la-home-neighbour-1235681284/).
+You can read more about it [here](https://www.npr.org/2023/12/23/1221427263/busiest-holiday-travel-season-in-years-is-off-to-a-smooth-start).
 
 ## Requirements
 - Python 3.8
