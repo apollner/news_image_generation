@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlie Sheen “Assaulted In His LA Home By Neighbour Who Forced Her Way In”**
+**RAINFALL TOTALS: How much rain has fallen around the Valley? 12-22-23**
 
-You can read more about it [here](https://deadline.com/2023/12/charlie-sheen-assaulted-in-his-la-home-neighbour-1235681284/).
+You can read more about it [here](https://www.abc15.com/news/local-news/rainfall-totals-how-much-rain-has-fallen-around-the-valley-12-22-23).
 
 ## Requirements
 - Python 3.8
