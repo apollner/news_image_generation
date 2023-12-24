@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan O'Neal's Cause of Death Revealed**
+**Report: Putin privately signals interest in ceasefire in Ukraine**
 
-You can read more about it [here](https://www.etonline.com/ryan-oneals-cause-of-death-revealed-216941).
+You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/12/23/report-putin-privately-signals-interest-in-ceasefire-in-ukraine/72019370007/).
 
 ## Requirements
 - Python 3.8
