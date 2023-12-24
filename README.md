@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court won't weigh in now on Trump's immunity claims in 2020 election case**
+**Pete Thamel: SEC, Big Ten playing 'chess game' while monitoring FSU vs. ACC battle**
 
-You can read more about it [here](https://www.axios.com/2023/12/22/trump-supreme-court-immunity-election).
+You can read more about it [here](https://www.on3.com/news/sec-big-ten-add-florida-state-chess-clemson-acc-leave-schools/).
 
 ## Requirements
 - Python 3.8
