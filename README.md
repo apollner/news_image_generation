@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tori Spelling admits she's struggling during her first 'single mom Christmas' after Dean McDermott split**
+**Cummins pickup truck engines systematically tricked air pollution controls, feds say**
 
-You can read more about it [here](https://pagesix.com/2023/12/22/entertainment/tori-spelling-admits-shes-struggling-amid-her-first-single-mom-christmas-after-dean-mcdermott-split/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/).
 
 ## Requirements
 - Python 3.8
