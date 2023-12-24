@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US accuses Iran of being ‘deeply involved’ in Houthi attacks in Red Sea**
+**Busiest holiday travel season in years is off to a smooth start**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/23/us-accuses-iran-of-being-deeply-involved-in-houthi-attacks-in-red-sea).
+You can read more about it [here](https://www.npr.org/2023/12/23/1221427263/busiest-holiday-travel-season-in-years-is-off-to-a-smooth-start).
 
 ## Requirements
 - Python 3.8
