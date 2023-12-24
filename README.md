@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India drone strike: Cargo ship attacked off Gujarat coast**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-67811929).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
