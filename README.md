@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin Supreme Court overturns GOP-drawn maps**
+**12 James Webb Space Telescope findings that changed our understanding of the universe in 2023**
 
-You can read more about it [here](https://madison.com/news/state-regional/government-politics/wisconsin-redistricting/article_6d7b5446-8ee4-11ee-a18c-872e3cf7877b.html).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-2023-discoveries).
 
 ## Requirements
 - Python 3.8
