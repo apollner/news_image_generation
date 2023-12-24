@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cummins pickup truck engines systematically tricked air pollution controls, feds say**
+**FBI looking into threats against Colorado justices after Trump ballot ruling**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/).
+You can read more about it [here](https://www.nbcnews.com/politics/politics-news/fbi-looking-threats-colorado-justices-trump-ballot-ruling-rcna130988).
 
 ## Requirements
 - Python 3.8
