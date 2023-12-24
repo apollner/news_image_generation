@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Conway slams Trump, RNC chair for reported Michigan call: ‘Sleaziest thing ever’**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4374685-george-conway-slams-trump-mcdaniel-reported-michigan-call/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
