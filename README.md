@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Putin privately signals interest in ceasefire in Ukraine**
+**Bengals vs. Steelers odds, spread, line: NFL Week 16 picks, Saturday predictions, bets by expert who's 63-29**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/ukraine/2023/12/23/report-putin-privately-signals-interest-in-ceasefire-in-ukraine/72019370007/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bengals-vs-steelers-odds-spread-line-nfl-week-16-picks-saturday-predictions-bets-by-expert-whos-63-29/).
 
 ## Requirements
 - Python 3.8
