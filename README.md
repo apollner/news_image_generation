@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin Supreme Court rules against GOP-drawn legislative maps**
+**New Mexico braces for new COVID-19 variant amid holiday gatherings**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/22/wisconsin-supreme-court-legislative-maps-redistricting/).
+You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-braces-for-new-covid-19-variant-amid-holiday-gatherings/).
 
 ## Requirements
 - Python 3.8
