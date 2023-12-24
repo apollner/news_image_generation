@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yoshinobu Yamamoto: How his contract offers from the Dodgers and Yankees compared**
+**Prague in shock and horror after ‘senseless’ shooting attack leaves 14 dead**
 
-You can read more about it [here](https://theathletic.com/5158078/2023/12/22/yoshinobu-yamamoto-yankees-offer/).
+You can read more about it [here](https://www.cnn.com/2023/12/22/europe/prague-shooting-attack-friday-intl/index.html).
 
 ## Requirements
 - Python 3.8
