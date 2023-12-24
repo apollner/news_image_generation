@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France grounds plane over suspected 'human trafficking'**
+**Florida State v. ACC, ACC v. FSU and conference realignment's next step**
 
-You can read more about it [here](https://www.dw.com/en/france-grounds-plane-over-suspected-human-trafficking/a-67809270).
+You can read more about it [here](https://www.tampabay.com/sports/2023/12/22/florida-state-acc-conference-realignment-fsu-football-sec-big-ten-expansion/).
 
 ## Requirements
 - Python 3.8
