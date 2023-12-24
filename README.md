@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falling US inflation boosts stocks and hopes of soft landing for the economy**
+**OpenAI Is in Talks to Raise New Funding at Valuation of $100 Billion or More**
 
-You can read more about it [here](https://www.ft.com/content/43b254ce-9133-4455-81f1-f765f361d4c0).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation).
 
 ## Requirements
 - Python 3.8
