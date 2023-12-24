@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Falling US inflation boosts stocks and hopes of soft landing for the economy**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ft.com/content/43b254ce-9133-4455-81f1-f765f361d4c0).
 
 ## Requirements
 - Python 3.8
