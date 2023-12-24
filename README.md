@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlie Sheen's neighbor arrested after being accused of assaulting actor in Malibu home**
+**India drone strike: Cargo ship attacked off Gujarat coast**
 
-You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/charlie-sheens-neighbor-arrested-after-accused-assaulting-actor-105884354).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-67811929).
 
 ## Requirements
 - Python 3.8
