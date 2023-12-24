@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico braces for new COVID-19 variant amid holiday gatherings**
+**Supreme Court won't weigh in now on Trump's immunity claims in 2020 election case**
 
-You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-braces-for-new-covid-19-variant-amid-holiday-gatherings/).
+You can read more about it [here](https://www.axios.com/2023/12/22/trump-supreme-court-immunity-election).
 
 ## Requirements
 - Python 3.8
