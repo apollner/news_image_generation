@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado's top court disqualified Trump - will the Supreme Court overrule?**
+**New COVID variant JN.1 surges to 44% of cases, CDC estimates — even higher in New York, New Jersey**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67752010).
+You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-jn-1-cases-cdc-new-york-new-jersey/).
 
 ## Requirements
 - Python 3.8
