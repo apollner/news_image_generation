@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI looking into threats against Colorado justices after Trump ballot ruling**
+**Kourtney Kardashian and Travis Barker Share First Pics of Son Rocky**
 
-You can read more about it [here](https://www.nbcnews.com/politics/politics-news/fbi-looking-threats-colorado-justices-trump-ballot-ruling-rcna130988).
+You can read more about it [here](https://www.etonline.com/kourtney-kardashian-and-travis-barker-share-first-pics-of-son-rocky-216935).
 
 ## Requirements
 - Python 3.8
