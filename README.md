@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Does JN.1 variant require additional dose of vaccine? INSACOG chief says…**
+**Galaxy S24 Ultra factory leak appears to confirm the worst suspicion about the phone**
 
-You can read more about it [here](https://www.livemint.com/news/india/covid-news-does-jn-1-variant-require-additional-dose-of-vaccine-heres-what-insacog-chief-said-11703349030810.html).
+You can read more about it [here](https://www.phonearena.com/news/Galaxy-S24-Ultra-factory-leak-appears-to-confirm-the-worst-suspicion-about-the-phone_id153775).
 
 ## Requirements
 - Python 3.8
