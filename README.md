@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN approves watered-down resolution on aid to Gaza without call for suspension of hostilities**
+**Charlie Sheen “Assaulted In His LA Home By Neighbour Who Forced Her Way In”**
 
-You can read more about it [here](https://apnews.com/article/un-resolution-gaza-aid-palestinians-israel-a5bb32fb9f071689d231533a26beb838).
+You can read more about it [here](https://deadline.com/2023/12/charlie-sheen-assaulted-in-his-la-home-neighbour-1235681284/).
 
 ## Requirements
 - Python 3.8
