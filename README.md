@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RAINFALL TOTALS: How much rain has fallen around the Valley? 12-22-23**
+**France grounds plane over suspected 'human trafficking'**
 
-You can read more about it [here](https://www.abc15.com/news/local-news/rainfall-totals-how-much-rain-has-fallen-around-the-valley-12-22-23).
+You can read more about it [here](https://www.dw.com/en/france-grounds-plane-over-suspected-human-trafficking/a-67809270).
 
 ## Requirements
 - Python 3.8
