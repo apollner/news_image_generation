@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlie Sheen “Assaulted In His LA Home By Neighbour Who Forced Her Way In”**
+**Wisconsin Supreme Court overturns GOP-drawn maps**
 
-You can read more about it [here](https://deadline.com/2023/12/charlie-sheen-assaulted-in-his-la-home-neighbour-1235681284/).
+You can read more about it [here](https://madison.com/news/state-regional/government-politics/wisconsin-redistricting/article_6d7b5446-8ee4-11ee-a18c-872e3cf7877b.html).
 
 ## Requirements
 - Python 3.8
