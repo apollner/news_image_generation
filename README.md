@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida State blows up Cal, Stanford in fiery ACC lawsuit**
+**Yoshinobu Yamamoto: How his contract offers from the Dodgers and Yankees compared**
 
-You can read more about it [here](https://www.sfgate.com/collegesports/article/florida-state-stanford-cal-acc-lawsuit-18570971.php).
+You can read more about it [here](https://theathletic.com/5158078/2023/12/22/yoshinobu-yamamoto-yankees-offer/).
 
 ## Requirements
 - Python 3.8
