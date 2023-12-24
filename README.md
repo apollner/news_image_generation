@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Busiest holiday travel season in years is off to a smooth start**
+**Wayfair CEO Niraj Shah says employees need to work longer hours— and 'blend work and life'**
 
-You can read more about it [here](https://www.npr.org/2023/12/23/1221427263/busiest-holiday-travel-season-in-years-is-off-to-a-smooth-start).
+You can read more about it [here](https://nypost.com/2023/12/22/business/wayfair-ceo-niraj-shah-says-employees-need-to-work-longer/).
 
 ## Requirements
 - Python 3.8
