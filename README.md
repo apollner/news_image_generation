@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prague in shock and horror after ‘senseless’ shooting attack leaves 14 dead**
+**New Mexico braces for new COVID-19 variant amid holiday gatherings**
 
-You can read more about it [here](https://www.cnn.com/2023/12/22/europe/prague-shooting-attack-friday-intl/index.html).
+You can read more about it [here](https://www.kob.com/new-mexico/new-mexico-braces-for-new-covid-19-variant-amid-holiday-gatherings/).
 
 ## Requirements
 - Python 3.8
