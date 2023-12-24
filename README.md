@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen who leaked Grand Theft Auto VI sentenced to indefinite stay in "secure hospital," report says**
+**Florida State blows up Cal, Stanford in fiery ACC lawsuit**
 
-You can read more about it [here](https://www.cbsnews.com/news/grand-theft-auto-leak-teen-hacker-hospitalized/).
+You can read more about it [here](https://www.sfgate.com/collegesports/article/florida-state-stanford-cal-acc-lawsuit-18570971.php).
 
 ## Requirements
 - Python 3.8
