@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**12 James Webb Space Telescope findings that changed our understanding of the universe in 2023**
+**Charlie Sheen's neighbor arrested after being accused of assaulting actor in Malibu home**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-2023-discoveries).
+You can read more about it [here](https://abcnews.go.com/Entertainment/wireStory/charlie-sheens-neighbor-arrested-after-accused-assaulting-actor-105884354).
 
 ## Requirements
 - Python 3.8
