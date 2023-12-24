@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID variant JN.1 surges to 44% of cases, CDC estimates — even higher in New York, New Jersey**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-jn-1-cases-cdc-new-york-new-jersey/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
