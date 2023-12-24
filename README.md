@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Thamel: SEC, Big Ten playing 'chess game' while monitoring FSU vs. ACC battle**
+**George Conway slams Trump, RNC chair for reported Michigan call: ‘Sleaziest thing ever’**
 
-You can read more about it [here](https://www.on3.com/news/sec-big-ten-add-florida-state-chess-clemson-acc-leave-schools/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4374685-george-conway-slams-trump-mcdaniel-reported-michigan-call/).
 
 ## Requirements
 - Python 3.8
