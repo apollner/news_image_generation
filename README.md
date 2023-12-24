@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals vs. Steelers odds, spread, line: NFL Week 16 picks, Saturday predictions, bets by expert who's 63-29**
+**'Zombie deer disease' concerns scientists over possible spread to humans**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/bengals-vs-steelers-odds-spread-line-nfl-week-16-picks-saturday-predictions-bets-by-expert-whos-63-29/).
+You can read more about it [here](https://www.foxnews.com/us/zombie-deer-disease-concerns-scientists-possible-spread-humans).
 
 ## Requirements
 - Python 3.8
