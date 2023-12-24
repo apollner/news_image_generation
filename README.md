@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 Ultra factory leak appears to confirm the worst suspicion about the phone**
+**Ryan O'Neal's Cause of Death Revealed**
 
-You can read more about it [here](https://www.phonearena.com/news/Galaxy-S24-Ultra-factory-leak-appears-to-confirm-the-worst-suspicion-about-the-phone_id153775).
+You can read more about it [here](https://www.etonline.com/ryan-oneals-cause-of-death-revealed-216941).
 
 ## Requirements
 - Python 3.8
