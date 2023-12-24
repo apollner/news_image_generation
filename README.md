@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Does JN.1 variant require additional dose of vaccine? INSACOG chief says…**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.livemint.com/news/india/covid-news-does-jn-1-variant-require-additional-dose-of-vaccine-heres-what-insacog-chief-said-11703349030810.html).
 
 ## Requirements
 - Python 3.8
