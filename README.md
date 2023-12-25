@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, multiple injured after house explosion in Rogers, Rogers VFD says**
+**Why seasonal depression is about more than the bleakness of winter**
 
-You can read more about it [here](https://www.kwtx.com/2023/12/24/one-dead-multiple-injured-after-house-explosion-rogers-rogers-vfd-says/).
+You can read more about it [here](https://www.salon.com/2023/12/24/why-seasonal-depression-is-about-more-than-the-bleakness-of-winter/).
 
 ## Requirements
 - Python 3.8
