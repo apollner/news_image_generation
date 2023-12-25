@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills observations: Ed Oliver, Josh Allen lead way as Buffalo survives Chargers in L.A.**
+**Possible measles virus exposure at Center City building, health department says**
 
-You can read more about it [here](https://theathletic.com/5159819/2023/12/24/buffalo-bills-chargers-week-16/).
+You can read more about it [here](http://www.nbcphiladelphia.com/news/local/measles-exposure-possible-philadelphia-health-department/3729258/).
 
 ## Requirements
 - Python 3.8
