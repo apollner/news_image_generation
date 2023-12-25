@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bobbie Jean Carter, sister of Nick and Aaron Carter, dead at 41**
+**Bills observations: Ed Oliver, Josh Allen lead way as Buffalo survives Chargers in L.A.**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bobbie-jean-carter-death-nick-carter-aaron-carter-sister-101703386375744.html).
+You can read more about it [here](https://theathletic.com/5159819/2023/12/24/buffalo-bills-chargers-week-16/).
 
 ## Requirements
 - Python 3.8
