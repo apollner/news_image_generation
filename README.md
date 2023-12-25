@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers score three first-half touchdowns against Bengals**
+**Buffalo Bills vs. Los Angeles Chargers | 2023 Week 16 Game Highlights**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39174355/pittsburgh-steelers-george-pickens-mason-rudolph-highlight).
+You can read more about it [here](https://www.youtube.com/watch?v=vqiGrrmpL34).
 
 ## Requirements
 - Python 3.8
