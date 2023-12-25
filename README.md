@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey conducts air strikes in northern Iraq, Syria after 12 soldiers killed**
+**Jury acquits homeless man accused of beating ex-San Francisco official**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/turkey-says-12-soldiers-killed-clashes-with-kurdish-militants-2023-12-23/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/23/san-francisco-homeless-man-acquitted/).
 
 ## Requirements
 - Python 3.8
