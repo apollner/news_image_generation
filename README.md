@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's open on Christmas Eve? See hours for Walmart, Target, restaurants, stores, more**
+**Bobbie Jean Carter, sister of Nick and Aaron Carter, dead at 41**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/24/stores-restaurants-hours-open-christmas-eve-2023/71983987007/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bobbie-jean-carter-death-nick-carter-aaron-carter-sister-101703386375744.html).
 
 ## Requirements
 - Python 3.8
