@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury acquits homeless man accused of beating ex-San Francisco official**
+**NHL Highlights | Blackhawks vs. Blues - December 23, 2023**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/23/san-francisco-homeless-man-acquitted/).
+You can read more about it [here](https://www.youtube.com/watch?v=S5Gr9hV-L0I).
 
 ## Requirements
 - Python 3.8
