@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 16 NFL picks: 49ers upend Ravens in potential Super Bowl preview, Cowboys-Dolphins fireworks**
+**Possible measles virus exposure at Center City building, health department says**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-16-nfl-picks-49ers-upend-ravens-in-potential-super-bowl-preview-cowboys-dolphins-fireworks/).
+You can read more about it [here](http://www.nbcphiladelphia.com/news/local/measles-exposure-possible-philadelphia-health-department/3729258/).
 
 ## Requirements
 - Python 3.8
