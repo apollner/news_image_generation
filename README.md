@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Insomniac Hacked, Jonathan Majors Verdict, GTA 6 Nintendo Switch Potential & More | IGN Weekly Fix**
+**Pentagon says Iranian drone 'attack' hit chemical tanker near India**
 
-You can read more about it [here](https://www.youtube.com/watch?v=SQGc2jZ_HQc).
+You can read more about it [here](https://www.reuters.com/world/pentagon-says-iranian-drone-attack-hit-chemical-tanker-near-india-2023-12-24/).
 
 ## Requirements
 - Python 3.8
