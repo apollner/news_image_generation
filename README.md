@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Possible measles virus exposure at Center City building, health department says**
+**NFL Week 16 Saturday grades: Steelers earn 'A' for beating down Bengals; Bills get 'C-' for sloppy win**
 
-You can read more about it [here](http://www.nbcphiladelphia.com/news/local/measles-exposure-possible-philadelphia-health-department/3729258/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-saturday-grades-steelers-earn-a-for-beating-down-bengals-bills-get-c-for-sloppy-win/).
 
 ## Requirements
 - Python 3.8
