@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Steelers score three first-half touchdowns against Bengals**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39174355/pittsburgh-steelers-george-pickens-mason-rudolph-highlight).
 
 ## Requirements
 - Python 3.8
