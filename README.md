@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Johnson on Colorado Trump ruling: ‘Radical leftism has infiltrated every institution’ in US**
+**Iran's navy receives cruise missiles and drones as tensions rise**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4375851-ron-johnson-on-colorado-trump-ruling-racial-leftism-has-infiltrated-every-institution-in-us/).
+You can read more about it [here](https://www.businessinsider.com/iran-navy-receives-missiles-drones-helicopters-tensions-israel-gaza-houthi-2023-12).
 
 ## Requirements
 - Python 3.8
