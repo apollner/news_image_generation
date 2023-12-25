@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AI Is Telling Bedtime Stories to Your Kids Now**
+**300 likely human trafficking victims from India being held in French airport —for now**
 
-You can read more about it [here](https://www.wired.com/story/bluey-gpts-bedtime-stories-artificial-intelligence-copyright/).
+You can read more about it [here](https://nypost.com/2023/12/24/news/300-likely-human-trafficking-victims-from-india-being-held-in-french-airport-for-now/).
 
 ## Requirements
 - Python 3.8
