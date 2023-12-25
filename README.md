@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pentagon says Iranian drone 'attack' hit chemical tanker near India**
+**What Tommy Lloyd said after Arizona Wildcats' double-overtime loss to FAU**
 
-You can read more about it [here](https://www.reuters.com/world/pentagon-says-iranian-drone-attack-hit-chemical-tanker-near-india-2023-12-24/).
+You can read more about it [here](https://www.azdesertswarm.com/2023/12/23/24013635/arizona-wildcats-fau-owls-tommy-lloyd-college-basketball-double-overtime-las-vegas-interview-2023).
 
 ## Requirements
 - Python 3.8
