@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Tommy Lloyd said after Arizona Wildcats' double-overtime loss to FAU**
+**Gavin Newsom blasts effort to block Trump from California ballot: 'We defeat candidates at the polls'**
 
-You can read more about it [here](https://www.azdesertswarm.com/2023/12/23/24013635/arizona-wildcats-fau-owls-tommy-lloyd-college-basketball-double-overtime-las-vegas-interview-2023).
+You can read more about it [here](https://www.foxnews.com/politics/gavin-newsom-blasts-effort-block-trump-from-california-ballot-we-defeat-candidates-polls).
 
 ## Requirements
 - Python 3.8
