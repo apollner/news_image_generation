@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane headed for Nicaragua held in France over trafficking concerns**
+**Jim Ratcliffe buys stake in Manchester United, takes over club operations**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2023/12/24/plane-nicaragua-france-human-trafficking-concerns/72024231007/).
+You can read more about it [here](https://nypost.com/2023/12/24/sports/jim-ratcliffe-buys-stake-in-man-united-takes-over-club-operations/).
 
 ## Requirements
 - Python 3.8
