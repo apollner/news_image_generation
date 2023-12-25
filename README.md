@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills vs. Los Angeles Chargers | 2023 Week 16 Game Highlights**
+**Insomniac Hacked, Jonathan Majors Verdict, GTA 6 Nintendo Switch Potential & More | IGN Weekly Fix**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vqiGrrmpL34).
+You can read more about it [here](https://www.youtube.com/watch?v=SQGc2jZ_HQc).
 
 ## Requirements
 - Python 3.8
