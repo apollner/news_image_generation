@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Labriola on the win over the Bengals**
+**What's open on Christmas Eve? See hours for Walmart, Target, restaurants, stores, more**
 
-You can read more about it [here](https://www.steelers.com/news/labriola-on-the-win-over-the-bengals-x6790).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/12/24/stores-restaurants-hours-open-christmas-eve-2023/71983987007/).
 
 ## Requirements
 - Python 3.8
