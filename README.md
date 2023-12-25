@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Aquaman 2’ Laps Up $13.7 Million Opening Day, Leading Holiday Newcomers ‘Migration,’ ‘Iron Claw’ and ‘Anyone but You’**
+**Steelers vs. Bengals score: Live updates, highlights, analysis for Saturday's game between AFC North rivals**
 
-You can read more about it [here](https://variety.com/2023/film/box-office/aquaman-2-opening-day-iron-claw-migration-anyone-but-you-1235849781/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/steelers-vs-bengals-score-mason-rudolph-saves-christmas-in-pittsburgh-throws-two-tds-in-blowout-win/live/).
 
 ## Requirements
 - Python 3.8
