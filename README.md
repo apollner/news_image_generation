@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets owner Woody Johnson says he's keeping Robert Saleh, Joe Douglas for 2024**
+**Detroit Lions vs. Minnesota Vikings first half live open thread**
 
-You can read more about it [here](https://nypost.com/2023/12/24/sports/jets-owner-woody-johnson-im-keeping-robert-saleh-joe-douglas/).
+You can read more about it [here](https://www.prideofdetroit.com/2023/12/24/24013901/detroit-lions-minnesota-vikings-first-half-live-open-thread).
 
 ## Requirements
 - Python 3.8
