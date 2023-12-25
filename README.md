@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's open on Christmas Eve? See hours for Walmart, Target, restaurants, stores, more**
+**Ryan O’Neal Buried Next To Longtime Love Farrah Fawcett**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/24/stores-restaurants-hours-open-christmas-eve-2023/71983987007/).
+You can read more about it [here](https://deadline.com/2023/12/ryan-oneal-buried-next-to-longtime-love-farrah-fawcett-1235681532/).
 
 ## Requirements
 - Python 3.8
