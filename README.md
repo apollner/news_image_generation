@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions vs. Minnesota Vikings first half live open thread**
+**One dead, multiple injured after house explosion in Rogers, Rogers VFD says**
 
-You can read more about it [here](https://www.prideofdetroit.com/2023/12/24/24013901/detroit-lions-minnesota-vikings-first-half-live-open-thread).
+You can read more about it [here](https://www.kwtx.com/2023/12/24/one-dead-multiple-injured-after-house-explosion-rogers-rogers-vfd-says/).
 
 ## Requirements
 - Python 3.8
