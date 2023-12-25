@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills vs. Los Angeles Chargers | 2023 Week 16 Game Highlights**
+**Turkey conducts air strikes in northern Iraq, Syria after 12 soldiers killed**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vqiGrrmpL34).
+You can read more about it [here](https://www.reuters.com/world/middle-east/turkey-says-12-soldiers-killed-clashes-with-kurdish-militants-2023-12-23/).
 
 ## Requirements
 - Python 3.8
