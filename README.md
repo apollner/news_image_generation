@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Ratcliffe buys stake in Manchester United, takes over club operations**
+**Alabama woman with 2 uteruses gives birth ahead of Christmas**
 
-You can read more about it [here](https://nypost.com/2023/12/24/sports/jim-ratcliffe-buys-stake-in-man-united-takes-over-club-operations/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/24/alabama-woman-2-uteruses-christmas/72024812007/).
 
 ## Requirements
 - Python 3.8
