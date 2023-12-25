@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's navy receives cruise missiles and drones as tensions rise**
+**Jets owner Woody Johnson says he's keeping Robert Saleh, Joe Douglas for 2024**
 
-You can read more about it [here](https://www.businessinsider.com/iran-navy-receives-missiles-drones-helicopters-tensions-israel-gaza-houthi-2023-12).
+You can read more about it [here](https://nypost.com/2023/12/24/sports/jets-owner-woody-johnson-im-keeping-robert-saleh-joe-douglas/).
 
 ## Requirements
 - Python 3.8
