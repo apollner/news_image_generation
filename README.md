@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christmas Eve & Day Forecast: The weather outside is frightful!**
+**Jury acquits homeless man accused of beating ex-San Francisco official**
 
-You can read more about it [here](https://www.1011now.com/2023/12/24/christmas-eve-day-forecast-weather-outside-is-frightful/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/23/san-francisco-homeless-man-acquitted/).
 
 ## Requirements
 - Python 3.8
