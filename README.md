@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With war raging in Gaza, Christmas is effectively canceled in Bethlehem**
+**Bobbie Jean Carter, sister of Nick and Aaron Carter, dead at 41**
 
-You can read more about it [here](https://www.cnn.com/2023/12/24/middleeast/bethlehem-christmas-gaza-war-intl/index.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bobbie-jean-carter-death-nick-carter-aaron-carter-sister-101703386375744.html).
 
 ## Requirements
 - Python 3.8
