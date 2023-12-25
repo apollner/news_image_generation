@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bobbie Jean Carter, sister of Nick and Aaron Carter, dead at 41**
+**Labriola on the win over the Bengals**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bobbie-jean-carter-death-nick-carter-aaron-carter-sister-101703386375744.html).
+You can read more about it [here](https://www.steelers.com/news/labriola-on-the-win-over-the-bengals-x6790).
 
 ## Requirements
 - Python 3.8
