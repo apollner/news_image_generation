@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Zombie deer disease' concerns scientists over possible spread to humans**
+**Box Office: ‘Aquaman 2’ Laps Up $13.7 Million Opening Day, Leading Holiday Newcomers ‘Migration,’ ‘Iron Claw’ and ‘Anyone but You’**
 
-You can read more about it [here](https://www.foxnews.com/us/zombie-deer-disease-concerns-scientists-possible-spread-humans).
+You can read more about it [here](https://variety.com/2023/film/box-office/aquaman-2-opening-day-iron-claw-migration-anyone-but-you-1235849781/).
 
 ## Requirements
 - Python 3.8
