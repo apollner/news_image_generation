@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why seasonal depression is about more than the bleakness of winter**
+**Plane headed for Nicaragua held in France over trafficking concerns**
 
-You can read more about it [here](https://www.salon.com/2023/12/24/why-seasonal-depression-is-about-more-than-the-bleakness-of-winter/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2023/12/24/plane-nicaragua-france-human-trafficking-concerns/72024231007/).
 
 ## Requirements
 - Python 3.8
