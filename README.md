@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 dead, 1 injured in shooting at Florida shopping mall, police say**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/12/23/us/florida-ocala-paddock-mall-shooting/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
