@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan O’Neal Buried Next To Longtime Love Farrah Fawcett**
+**With war raging in Gaza, Christmas is effectively canceled in Bethlehem**
 
-You can read more about it [here](https://deadline.com/2023/12/ryan-oneal-buried-next-to-longtime-love-farrah-fawcett-1235681532/).
+You can read more about it [here](https://www.cnn.com/2023/12/24/middleeast/bethlehem-christmas-gaza-war-intl/index.html).
 
 ## Requirements
 - Python 3.8
