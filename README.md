@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 16 Saturday grades: Steelers earn 'A' for beating down Bengals; Bills get 'C-' for sloppy win**
+**'Worse than giving birth': 700 Airbus employees fall sick after Christmas party**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-saturday-grades-steelers-earn-a-for-beating-down-bengals-bills-get-c-for-sloppy-win/).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/europe/worse-than-giving-birth-700-airbus-employees-fall-sick-after-christmas-party/articleshow/106252706.cms).
 
 ## Requirements
 - Python 3.8
