@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gavin Newsom blasts effort to block Trump from California ballot: 'We defeat candidates at the polls'**
+**Prisco's Week 16 NFL picks: 49ers upend Ravens in potential Super Bowl preview, Cowboys-Dolphins fireworks**
 
-You can read more about it [here](https://www.foxnews.com/politics/gavin-newsom-blasts-effort-block-trump-from-california-ballot-we-defeat-candidates-polls).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-16-nfl-picks-49ers-upend-ravens-in-potential-super-bowl-preview-cowboys-dolphins-fireworks/).
 
 ## Requirements
 - Python 3.8
