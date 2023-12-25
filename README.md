@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers vs. Bengals score: Live updates, highlights, analysis for Saturday's game between AFC North rivals**
+**1 dead, 1 injured in shooting at Florida shopping mall, police say**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/steelers-vs-bengals-score-mason-rudolph-saves-christmas-in-pittsburgh-throws-two-tds-in-blowout-win/live/).
+You can read more about it [here](https://www.cnn.com/2023/12/23/us/florida-ocala-paddock-mall-shooting/index.html).
 
 ## Requirements
 - Python 3.8
