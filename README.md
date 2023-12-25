@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NHL Highlights | Blackhawks vs. Blues - December 23, 2023**
+**Buffalo Bills vs. Los Angeles Chargers | 2023 Week 16 Game Highlights**
 
-You can read more about it [here](https://www.youtube.com/watch?v=S5Gr9hV-L0I).
+You can read more about it [here](https://www.youtube.com/watch?v=vqiGrrmpL34).
 
 ## Requirements
 - Python 3.8
