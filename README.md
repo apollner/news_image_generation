@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**300 likely human trafficking victims from India being held in French airport —for now**
+**Ron Johnson on Colorado Trump ruling: ‘Radical leftism has infiltrated every institution’ in US**
 
-You can read more about it [here](https://nypost.com/2023/12/24/news/300-likely-human-trafficking-victims-from-india-being-held-in-french-airport-for-now/).
+You can read more about it [here](https://thehill.com/homenews/senate/4375851-ron-johnson-on-colorado-trump-ruling-racial-leftism-has-infiltrated-every-institution-in-us/).
 
 ## Requirements
 - Python 3.8
