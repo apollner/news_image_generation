@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police in Serbia fire tear gas at election protesters threatening to storm capital's city hall**
+**Travis Barker Pays Tribute to 'Beautiful' Daughter Alabama on Her 18th Birthday: 'My Baby Is All Grown Up'**
 
-You can read more about it [here](https://apnews.com/article/serbia-election-protest-belgrade-35ba9a402516a021989fb1f985533b10).
+You can read more about it [here](https://people.com/travis-barker-tribute-daughter-alabama-18th-birthday-8420020).
 
 ## Requirements
 - Python 3.8
