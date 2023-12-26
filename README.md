@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blizzard expected to blast the US Plains and cause travel delays**
+**Pope renews call for Gaza ceasefire and hostages released during Christmas Speech**
 
-You can read more about it [here](https://www.cnn.com/2023/12/25/travel/blizzard-nebraska-south-dakota-colorado-travel-delays/index.html).
+You can read more about it [here](https://www.foxnews.com/live-news/december-25-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
