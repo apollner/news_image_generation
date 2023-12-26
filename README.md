@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwen Stefani & Blake Shelton Go Skiing, Tubing with Kids in Utah**
+**New England Patriots vs. Denver Broncos | 2023 Week 16 Game Highlights**
 
-You can read more about it [here](https://www.tmz.com/2023/12/24/gwen-stefani-blake-shelton-skiing-tubing-kids-utah-resort/).
+You can read more about it [here](https://www.youtube.com/watch?v=Mcki_LetpUo).
 
 ## Requirements
 - Python 3.8
