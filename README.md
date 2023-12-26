@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado shooting: Gunfire between two groups leaves one dead on Christmas Eve**
+**6-Year-Old Child Who Was Travelling Alone Put On Wrong Spirit Airlines Flight**
 
-You can read more about it [here](https://apnews.com/article/colorado-springs-mall-shooting-citadel-bf60f7f4932a5006892b36a18bec5ad7).
+You can read more about it [here](https://www.ndtv.com/world-news/6-year-old-child-who-was-travelling-alone-put-on-wrong-spirit-airlines-flight-4741720).
 
 ## Requirements
 - Python 3.8
