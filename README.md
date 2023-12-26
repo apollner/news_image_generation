@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli airstrikes kill dozens in one of war's deadliest nights, Gaza officials say**
+**Major winter storm to hit Dakotas, Nebraska and Minnesota**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-dozens-gaza-officials-say-christmas-bloodshed-2023-12-24/).
+You can read more about it [here](https://www.npr.org/2023/12/24/1221495894/storm-christmas-travel-dakotas-nebraska-midwest).
 
 ## Requirements
 - Python 3.8
