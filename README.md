@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Iron Claw' Is Based on the Devastating True Story of the Von Erich Brothers**
+**Republicans Give Trump a Christmas Gift on Colorado Ruling**
 
-You can read more about it [here](https://www.harpersbazaar.com/culture/film-tv/a46216278/the-iron-claw-movie-true-story/).
+You can read more about it [here](https://www.thedailybeast.com/republicans-give-trump-a-christmas-gift-on-colorado-ruling).
 
 ## Requirements
 - Python 3.8
