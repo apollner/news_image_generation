@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**20 most affordable and fastest-growing US cities**
+**[Removed]**
 
-You can read more about it [here](https://www.businessinsider.com/most-affordable-fastest-growing-cities-texas-florida-tennessee-killeen-lubbock-2023-12).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
