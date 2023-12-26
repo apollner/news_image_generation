@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Barker Sends Love to Daughter Alabama in 18th Birthday Tribute**
+**Christmas winter headlines: Storm Center PM Update — Sunday, December 24**
 
-You can read more about it [here](https://www.eonline.com/news/1391992/travis-barker-and-ex-shanna-moakler-honor-beautiful-daughter-alabama-barker-in-18th-birthday-tributes).
+You can read more about it [here](https://www.keloland.com/weather/forecast/christmas-winter-headlines-storm-center-pm-update-sunday-december-24/).
 
 ## Requirements
 - Python 3.8
