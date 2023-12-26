@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rise in seasonal illnesses prompts concern from health officials amid holiday travel**
+**Colorado shooting: Gunfire between two groups leaves one dead on Christmas Eve**
 
-You can read more about it [here](https://komonews.com/news/local/flu-rsv-covid19-covid-coronavirus-cases-respiratory-syncytial-virus-uptick-down-decrease-increase-vaccine-vaccinated-pregnant-women-seattle-washington-department-of-health-transmission-infection-northeast-hospitalization-deaths).
+You can read more about it [here](https://apnews.com/article/colorado-springs-mall-shooting-citadel-bf60f7f4932a5006892b36a18bec5ad7).
 
 ## Requirements
 - Python 3.8
