@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Christmas Day: Bucks vs. Knicks score, highlights, news and live updates**
+**Pope denounces weapons industry as he makes Christmas appeal for peace**
 
-You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-bucks-vs-knicks-score-highlights-news-and-live-updates-154556968.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/25/pope-weapons-industry-christmas-peace-appeal-00133177).
 
 ## Requirements
 - Python 3.8
