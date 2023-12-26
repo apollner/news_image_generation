@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia, Ukraine exchange claims over downed military aircraft**
+**Broncos lead Patriots 7-3 at halftime of an ugly game**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-says-it-downs-four-ukrainian-military-aircraft-2023-12-24/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lead-patriots-7-3-at-halftime-of-an-ugly-game).
 
 ## Requirements
 - Python 3.8
