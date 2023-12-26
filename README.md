@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans Give Trump a Christmas Gift on Colorado Ruling**
+**5 Broncos to blame for atrocious loss to Patriots on Christmas Eve**
 
-You can read more about it [here](https://www.thedailybeast.com/republicans-give-trump-a-christmas-gift-on-colorado-ruling).
+You can read more about it [here](https://predominantlyorange.com/posts/5-broncos-to-blame-for-atrocious-loss-to-patriots-on-christmas-eve).
 
 ## Requirements
 - Python 3.8
