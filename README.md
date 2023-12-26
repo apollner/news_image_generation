@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Barker Pays Tribute to 'Beautiful' Daughter Alabama on Her 18th Birthday: 'My Baby Is All Grown Up'**
+**Russia, Ukraine exchange claims over downed military aircraft**
 
-You can read more about it [here](https://people.com/travis-barker-tribute-daughter-alabama-18th-birthday-8420020).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-says-it-downs-four-ukrainian-military-aircraft-2023-12-24/).
 
 ## Requirements
 - Python 3.8
