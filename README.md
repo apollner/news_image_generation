@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6-Year-Old Child Who Was Travelling Alone Put On Wrong Spirit Airlines Flight**
+**FBI says it’s investigating after reports of violent threats to Colorado judges in Trump case**
 
-You can read more about it [here](https://www.ndtv.com/world-news/6-year-old-child-who-was-travelling-alone-put-on-wrong-spirit-airlines-flight-4741720).
+You can read more about it [here](https://www.cnn.com/2023/12/25/politics/colorado-supreme-court-threats-fbi-trump-ruling/index.html).
 
 ## Requirements
 - Python 3.8
