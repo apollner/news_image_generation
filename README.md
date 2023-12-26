@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Study: Hypochondriacs face heightened risk of dying from illness**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/25/hypochondria-illness-death-study/).
 
 ## Requirements
 - Python 3.8
