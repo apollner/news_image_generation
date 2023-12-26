@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Rise in seasonal illnesses prompts concern from health officials amid holiday travel**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://komonews.com/news/local/flu-rsv-covid19-covid-coronavirus-cases-respiratory-syncytial-virus-uptick-down-decrease-increase-vaccine-vaccinated-pregnant-women-seattle-washington-department-of-health-transmission-infection-northeast-hospitalization-deaths).
 
 ## Requirements
 - Python 3.8
