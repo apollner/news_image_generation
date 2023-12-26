@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where is Santa right now? Use the NORAD live tracker to map his 2023 Christmas flight**
+**Serbia police fire tear gas as opposition backers demand election annulled**
 
-You can read more about it [here](https://www.cbsnews.com/news/where-is-santa-right-now-norad-tracker/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/25/serbia-police-fire-tear-gas-as-opposition-backers-demand-election-annulled).
 
 ## Requirements
 - Python 3.8
