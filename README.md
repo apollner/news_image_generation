@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida police search for Ocala mall shooter; ask public for help finding suspect**
+**Police in Serbia fire tear gas at election protesters threatening to storm capital's city hall**
 
-You can read more about it [here](https://www.cbsnews.com/news/florida-police-search-for-ocala-mall-shooter-suspect-albert-j-shell-jr/).
+You can read more about it [here](https://apnews.com/article/serbia-election-protest-belgrade-35ba9a402516a021989fb1f985533b10).
 
 ## Requirements
 - Python 3.8
