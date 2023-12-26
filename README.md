@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Serbia police fire tear gas as opposition backers demand election annulled**
+**Gwen Stefani & Blake Shelton Go Skiing, Tubing with Kids in Utah**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/25/serbia-police-fire-tear-gas-as-opposition-backers-demand-election-annulled).
+You can read more about it [here](https://www.tmz.com/2023/12/24/gwen-stefani-blake-shelton-skiing-tubing-kids-utah-resort/).
 
 ## Requirements
 - Python 3.8
