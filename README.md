@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major winter storm to hit Dakotas, Nebraska and Minnesota**
+**Ukraine snubs Russia, celebrates Christmas on Dec. 25 for first time**
 
-You can read more about it [here](https://www.npr.org/2023/12/24/1221495894/storm-christmas-travel-dakotas-nebraska-midwest).
+You can read more about it [here](https://www.cbsnews.com/news/ukraine-christmas-december-25-snubs-russia/).
 
 ## Requirements
 - Python 3.8
