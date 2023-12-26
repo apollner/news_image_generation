@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis at Christmas Eve mass: "Tonight, our hearts are in Bethlehem"**
+**Where is Santa right now? Use the NORAD live tracker to map his 2023 Christmas flight**
 
-You can read more about it [here](https://www.axios.com/2023/12/24/pope-christmas-eve-mass-bethlehem-israel-hamas-war).
+You can read more about it [here](https://www.cbsnews.com/news/where-is-santa-right-now-norad-tracker/).
 
 ## Requirements
 - Python 3.8
