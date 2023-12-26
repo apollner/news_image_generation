@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers rookie Anders Carlson misses PAT, hits career-long FG and makes game-winner vs. Panthers**
+**Israeli airstrikes kill dozens in one of war's deadliest nights, Gaza officials say**
 
-You can read more about it [here](https://packerswire.usatoday.com/2023/12/24/packers-rookie-anders-carlson-misses-pat-hits-career-long-fg-and-makes-game-winner-vs-panthers/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-dozens-gaza-officials-say-christmas-bloodshed-2023-12-24/).
 
 ## Requirements
 - Python 3.8
