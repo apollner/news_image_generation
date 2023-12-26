@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maersk to restart Red Sea shipping as U.S.-led force deploys to protect vessels from attacks**
+**Israeli airstrikes kill dozens in one of war's deadliest nights, Gaza officials say**
 
-You can read more about it [here](https://www.axios.com/2023/12/25/maersk-red-sea-shipping-us-led-force-deploys).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-dozens-gaza-officials-say-christmas-bloodshed-2023-12-24/).
 
 ## Requirements
 - Python 3.8
