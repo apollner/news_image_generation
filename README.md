@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study: Hypochondriacs face heightened risk of dying from illness**
+**Inside the Kardashian-Jenner family's festive Christmas party: sledding, stars and caroling**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/25/hypochondria-illness-death-study/).
+You can read more about it [here](https://pagesix.com/2023/12/25/entertainment/inside-the-kardashian-jenner-familys-festive-christmas-party/).
 
 ## Requirements
 - Python 3.8
