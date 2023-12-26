@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI says it’s investigating after reports of violent threats to Colorado judges in Trump case**
+**Pope renews call for Gaza ceasefire and hostages released during Christmas Speech**
 
-You can read more about it [here](https://www.cnn.com/2023/12/25/politics/colorado-supreme-court-threats-fbi-trump-ruling/index.html).
+You can read more about it [here](https://www.foxnews.com/live-news/december-25-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
