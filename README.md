@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 Broncos to blame for atrocious loss to Patriots on Christmas Eve**
+**Early transition to snow, blizzard expected west on Christmas**
 
-You can read more about it [here](https://predominantlyorange.com/posts/5-broncos-to-blame-for-atrocious-loss-to-patriots-on-christmas-eve).
+You can read more about it [here](https://www.klkntv.com/early-transition-to-snow-blizzard-expected-west-on-christmas/).
 
 ## Requirements
 - Python 3.8
