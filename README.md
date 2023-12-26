@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aquaman and the Lost Kingdom Disappoints In Its Debut But Still Wins the Domestic Weekend Box Office**
+**New England Patriots vs. Denver Broncos | 2023 Week 16 Game Highlights**
 
-You can read more about it [here](https://www.ign.com/articles/aquaman-and-the-lost-kingdom-disappoints-in-its-debut-but-still-wins-the-domestic-weekend-box-office).
+You can read more about it [here](https://www.youtube.com/watch?v=Mcki_LetpUo).
 
 ## Requirements
 - Python 3.8
