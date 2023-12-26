@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christmas winter headlines: Storm Center PM Update — Sunday, December 24**
+**Pope Francis at Christmas Eve mass: "Tonight, our hearts are in Bethlehem"**
 
-You can read more about it [here](https://www.keloland.com/weather/forecast/christmas-winter-headlines-storm-center-pm-update-sunday-december-24/).
+You can read more about it [here](https://www.axios.com/2023/12/24/pope-christmas-eve-mass-bethlehem-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
