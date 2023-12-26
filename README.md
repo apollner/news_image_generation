@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grounded Plane With 300 Indians Finally Takes Off From France**
+**Study: Hypochondriacs face heightened risk of dying from illness**
 
-You can read more about it [here](https://www.ndtv.com/world-news/plane-grounded-in-france-indians-on-board-303-passengers-plane-with-303-indians-still-in-france-some-dont-want-to-return-report-4740387).
+You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/25/hypochondria-illness-death-study/).
 
 ## Requirements
 - Python 3.8
