@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the Kardashian-Jenner family's festive Christmas party: sledding, stars and caroling**
+**NBA Christmas Day: Bucks vs. Knicks score, highlights, news and live updates**
 
-You can read more about it [here](https://pagesix.com/2023/12/25/entertainment/inside-the-kardashian-jenner-familys-festive-christmas-party/).
+You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-bucks-vs-knicks-score-highlights-news-and-live-updates-154556968.html).
 
 ## Requirements
 - Python 3.8
