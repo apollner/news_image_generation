@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama woman with 2 uteruses gives birth ahead of Christmas**
+**Florida police search for Ocala mall shooter; ask public for help finding suspect**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/24/alabama-woman-2-uteruses-christmas/72024812007/).
+You can read more about it [here](https://www.cbsnews.com/news/florida-police-search-for-ocala-mall-shooter-suspect-albert-j-shell-jr/).
 
 ## Requirements
 - Python 3.8
