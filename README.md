@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins secure playoff berth with last-second FG vs. Cowboys**
+**Travis Barker Sends Love to Daughter Alabama in 18th Birthday Tribute**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39180240/dolphins-secure-playoff-berth-last-second-fg-vs-cowboys).
+You can read more about it [here](https://www.eonline.com/news/1391992/travis-barker-and-ex-shanna-moakler-honor-beautiful-daughter-alabama-barker-in-18th-birthday-tributes).
 
 ## Requirements
 - Python 3.8
