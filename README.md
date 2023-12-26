@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Early transition to snow, blizzard expected west on Christmas**
+**Grounded Plane With 300 Indians Finally Takes Off From France**
 
-You can read more about it [here](https://www.klkntv.com/early-transition-to-snow-blizzard-expected-west-on-christmas/).
+You can read more about it [here](https://www.ndtv.com/world-news/plane-grounded-in-france-indians-on-board-303-passengers-plane-with-303-indians-still-in-france-some-dont-want-to-return-report-4740387).
 
 ## Requirements
 - Python 3.8
