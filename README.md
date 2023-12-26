@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope denounces weapons industry as he makes Christmas appeal for peace**
+**CNN anchor raises Nixon pardon in questioning Trump immunity defense**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/25/pope-weapons-industry-christmas-peace-appeal-00133177).
+You can read more about it [here](https://thehill.com/homenews/media/4376404-cnn-anchor-raises-nixon-pardon-in-questioning-trump-immunity-defense/).
 
 ## Requirements
 - Python 3.8
