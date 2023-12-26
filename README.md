@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study: Hypochondriacs face heightened risk of dying from illness**
+**20 most affordable and fastest-growing US cities**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2023/12/25/hypochondria-illness-death-study/).
+You can read more about it [here](https://www.businessinsider.com/most-affordable-fastest-growing-cities-texas-florida-tennessee-killeen-lubbock-2023-12).
 
 ## Requirements
 - Python 3.8
