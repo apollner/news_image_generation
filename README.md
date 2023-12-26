@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine snubs Russia, celebrates Christmas on Dec. 25 for first time**
+**'The Iron Claw' Is Based on the Devastating True Story of the Von Erich Brothers**
 
-You can read more about it [here](https://www.cbsnews.com/news/ukraine-christmas-december-25-snubs-russia/).
+You can read more about it [here](https://www.harpersbazaar.com/culture/film-tv/a46216278/the-iron-claw-movie-true-story/).
 
 ## Requirements
 - Python 3.8
