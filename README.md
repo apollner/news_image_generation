@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**People can tell what you want to know when you shake wrapped Christmas gifts**
+**Blizzard expected to blast the US Plains and cause travel delays**
 
-You can read more about it [here](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/).
+You can read more about it [here](https://www.cnn.com/2023/12/25/travel/blizzard-nebraska-south-dakota-colorado-travel-delays/index.html).
 
 ## Requirements
 - Python 3.8
