@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Kardashian Jokingly Fires Back After Being Left Out Of Family Christmas Video**
+**Lamar Jackson authors 'MVP performance' for Baltimore Ravens**
 
-You can read more about it [here](https://www.huffpost.com/entry/kim-kardashian-reacts-to-being-left-out-of-family-christmas-video_n_658a084de4b0fe4ffe3414fd).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39184926/lamar-jackson-authors-mvp-performance-baltimore-ravens).
 
 ## Requirements
 - Python 3.8
