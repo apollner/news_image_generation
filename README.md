@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tax season 2024 explained: Your biggest questions answered**
+**Rapper Kanye West issues 'apology to Jews' on Instagram in Hebrew**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2023/12/26/2024-tax-season-questions/72002518007/).
+You can read more about it [here](https://www.jpost.com/diaspora/antisemitism/article-779590).
 
 ## Requirements
 - Python 3.8
