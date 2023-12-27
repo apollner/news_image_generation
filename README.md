@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli forces bombard central Gaza in apparent move toward expanding ground offensive**
+**October home prices post biggest gain of 2023, despite higher mortgage rates, says S&P Case-Shiller**
 
-You can read more about it [here](https://www.cnbc.com/2023/12/26/israeli-forces-bombard-central-gaza-in-apparent-move-toward-expanding-ground-offensive.html).
+You can read more about it [here](https://www.cnbc.com/2023/12/26/sp-case-shiller-october-home-prices-post-biggest-gain-of-2023.html).
 
 ## Requirements
 - Python 3.8
