@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin opposition leader Alexey Navalny moved to Arctic penal colony but doing well, spokesperson says**
+**NBA Christmas Day: Mavericks vs. Suns; score, highlights, updates, news**
 
-You can read more about it [here](https://www.cbsnews.com/news/alexey-navalny-russia-opposition-leader-arctic-penal-colony/).
+You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-mavericks-vs-suns-score-highlights-updates-news-222037874.html).
 
 ## Requirements
 - Python 3.8
