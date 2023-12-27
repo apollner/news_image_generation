@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ken Jennings On Mayim Bialik’s ‘Jeopardy!’ Exit: “It Took Me Off Guard”**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://deadline.com/2023/12/ken-jennings-mayim-bialiks-jeopardy-exit-1235682027/).
 
 ## Requirements
 - Python 3.8
