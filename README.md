@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine carries out air assault on Crimea's port of Feodosia**
+**Ukraine officially celebrates Christmas on December 25 for the first time**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukraine-carries-out-air-assault-crimeas-port-feodosia-2023-12-26/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/25/ukraine-officially-celebrates-christmas-on-december-25-for-the-first-time).
 
 ## Requirements
 - Python 3.8
