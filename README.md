@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Christmas Day: Mavericks vs. Suns; score, highlights, updates, news**
+**Marjorie Taylor Greene targeted by failed Christmas swatting attempt**
 
-You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-mavericks-vs-suns-score-highlights-updates-news-222037874.html).
+You can read more about it [here](https://apnews.com/article/marjorie-taylor-greene-swatting-georgia-christmas-2081fd3835512cc3180aa1171fc5913d).
 
 ## Requirements
 - Python 3.8
