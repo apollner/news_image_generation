@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tackle these health issues to reduce risk of early dementia, study says**
+**Zombie disease in deer, not humans: Chronic wasting questions answered**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/health/early-dementia-risk-study-wellness/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/26/zombie-disease-deer-not-humans/72029748007/).
 
 ## Requirements
 - Python 3.8
