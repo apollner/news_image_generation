@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rapper Kanye West issues 'apology to Jews' on Instagram in Hebrew**
+**Israeli forces bombard central Gaza in apparent move toward expanding ground offensive**
 
-You can read more about it [here](https://www.jpost.com/diaspora/antisemitism/article-779590).
+You can read more about it [here](https://www.cnbc.com/2023/12/26/israeli-forces-bombard-central-gaza-in-apparent-move-toward-expanding-ground-offensive.html).
 
 ## Requirements
 - Python 3.8
