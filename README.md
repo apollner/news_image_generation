@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giants-Eagles ‘things I think’: DeVito-mania screeches to a halt, Giants narrowly miss Christmas Miracle**
+**Trump's Christmas Message: 'ROT IN HELL'**
 
-You can read more about it [here](https://www.bigblueview.com/2023/12/25/24014793/giants-eagles-things-i-think-devito-mania-screeches-to-a-halt-giants-narrowly-miss-christmas-miracle).
+You can read more about it [here](https://www.thedailybeast.com/trumps-christmas-message-rot-in-hell).
 
 ## Requirements
 - Python 3.8
