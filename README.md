@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin opposition leader Alexey Navalny moved to Arctic penal colony but doing well, spokesperson says**
+**An Israeli airstrike in Syria kills a high-ranking Iranian general**
 
-You can read more about it [here](https://www.cbsnews.com/news/alexey-navalny-russia-opposition-leader-arctic-penal-colony/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/israeli-airstrike-syria-kills-high-ranking-iranian-general-105909828).
 
 ## Requirements
 - Python 3.8
