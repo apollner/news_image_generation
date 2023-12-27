@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zombie disease in deer, not humans: Chronic wasting questions answered**
+**NASA launches mission to intercept ‘God of Chaos’ asteroid before it scratches Earth's orbit**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/26/zombie-disease-deer-not-humans/72029748007/).
+You can read more about it [here](https://www.foxnews.com/media/nasa-launches-mission-intercept-god-chaos-asteroid-scratches-earths-orbit).
 
 ## Requirements
 - Python 3.8
