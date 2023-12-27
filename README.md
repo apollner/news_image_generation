@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 16 grades: Raiders earn 'A-' for shocking Christmas win over Chiefs, Dolphins get 'B+' for big win**
+**The latest front in the Gaetz vs. McCarthy fight: House primaries**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-grades-raiders-earn-a-for-shocking-christmas-win-over-chiefs-dolphins-get-b-for-big-win/).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/the-latest-front-in-the-gaetz-vs-mccarthy-fight-house-primaries-00133131).
 
 ## Requirements
 - Python 3.8
