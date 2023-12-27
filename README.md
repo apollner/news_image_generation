@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Christmas Day: Mavericks vs. Suns; score, highlights, updates, news**
+**Patrick Mahomes Shared Classy Postgame Moment With Maxx Crosby After Chiefs' Ugly Loss to Raiders**
 
-You can read more about it [here](https://sports.yahoo.com/nba-christmas-day-mavericks-vs-suns-score-highlights-updates-news-222037874.html).
+You can read more about it [here](https://www.si.com/nfl/2023/12/25/raiders-chiefs-patrick-mahomes-maxx-crosby-classy-moment).
 
 ## Requirements
 - Python 3.8
