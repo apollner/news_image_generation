@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine officially celebrates Christmas on December 25 for the first time**
+**Powerball results in for $638 million Christmas Day jackpot drawing**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/25/ukraine-officially-celebrates-christmas-on-december-25-for-the-first-time).
+You can read more about it [here](https://abc7.com/powerball-numbers-jackpot-christmas-day-drawing-2023-lottery-winning/14223896/).
 
 ## Requirements
 - Python 3.8
