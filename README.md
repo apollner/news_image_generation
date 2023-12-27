@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sim trays reveal exciting color options for the Galaxy S24 & S24+ - SamMobile**
+**Trump's Christmas Message: 'ROT IN HELL'**
 
-You can read more about it [here](https://www.sammobile.com/news/sim-trays-reveal-exciting-color-options-for-the-galaxy-s24-s24/).
+You can read more about it [here](https://www.thedailybeast.com/trumps-christmas-message-rot-in-hell).
 
 ## Requirements
 - Python 3.8
