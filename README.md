@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope renews call for Gaza ceasefire and hostages released during Christmas Speech**
+**Dan Ryckert's Top 10 Games of 2023**
 
-You can read more about it [here](https://www.foxnews.com/live-news/december-25-israel-hamas-war).
+You can read more about it [here](https://www.giantbomb.com/articles/dan-ryckerts-top-10-games-of-2023/1100-6361/).
 
 ## Requirements
 - Python 3.8
