@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IGN's Biggest Gaming, Entertainment, and Tech News Stories of 2023**
+**Tackle these health issues to reduce risk of early dementia, study says**
 
-You can read more about it [here](https://www.ign.com/articles/igns-biggest-gaming-entertainment-and-tech-news-stories-of-2023).
+You can read more about it [here](https://www.cnn.com/2023/12/26/health/early-dementia-risk-study-wellness/index.html).
 
 ## Requirements
 - Python 3.8
