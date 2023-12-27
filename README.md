@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamar Jackson authors 'MVP performance' for Baltimore Ravens**
+**Trump's Christmas Message: 'ROT IN HELL'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39184926/lamar-jackson-authors-mvp-performance-baltimore-ravens).
+You can read more about it [here](https://www.thedailybeast.com/trumps-christmas-message-rot-in-hell).
 
 ## Requirements
 - Python 3.8
