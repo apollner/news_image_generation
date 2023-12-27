@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israeli forces bombard refugee camps in central Gaza**
+**Microsoft Copilot is now available as a ChatGPT-like app on Android**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-26-2023-698c895797ccb057d13fe4f68690c98b).
+You can read more about it [here](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch).
 
 ## Requirements
 - Python 3.8
