@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA launches mission to intercept ‘God of Chaos’ asteroid before it scratches Earth's orbit**
+**Japan’s ‘Moon Sniper’ is now in lunar orbit ahead of historic landing attempt**
 
-You can read more about it [here](https://www.foxnews.com/media/nasa-launches-mission-intercept-god-chaos-asteroid-scratches-earths-orbit).
+You can read more about it [here](https://www.cnn.com/2023/12/26/world/japan-lunar-lander-moon-orbit-scn/index.html).
 
 ## Requirements
 - Python 3.8
