@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest front in the Gaetz vs. McCarthy fight: House primaries**
+**Purdy admits trait he must change after four-pick game vs. Ravens**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/26/the-latest-front-in-the-gaetz-vs-mccarthy-fight-house-primaries-00133131).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-punt-interceptions-ravens/1684806/).
 
 ## Requirements
 - Python 3.8
