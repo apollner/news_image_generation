@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ken Jennings On Mayim Bialik’s ‘Jeopardy!’ Exit: “It Took Me Off Guard”**
+**Box Office: ‘The Color Purple’ Trounces ‘Aquaman 2’ With Near-Record $18M Christmas Day Opening**
 
-You can read more about it [here](https://deadline.com/2023/12/ken-jennings-mayim-bialiks-jeopardy-exit-1235682027/).
+You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/color-purple-box-office-opening-aquaman-1235769220/).
 
 ## Requirements
 - Python 3.8
