@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman's Painful 2023 Lesson on China Forces Rethink of Emerging Markets**
+**Kremlin opposition leader Alexey Navalny moved to Arctic penal colony but doing well, spokesperson says**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-26/goldman-s-painful-2023-lesson-on-china-forces-rethink-of-emerging-markets).
+You can read more about it [here](https://www.cbsnews.com/news/alexey-navalny-russia-opposition-leader-arctic-penal-colony/).
 
 ## Requirements
 - Python 3.8
