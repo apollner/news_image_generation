@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's Christmas Message: 'ROT IN HELL'**
+**Powerball jackpot rises to estimated $685M after no winner in Christmas Day drawing**
 
-You can read more about it [here](https://www.thedailybeast.com/trumps-christmas-message-rot-in-hell).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-rises-estimated-685-million-no-winner-christmas-day-drawing).
 
 ## Requirements
 - Python 3.8
