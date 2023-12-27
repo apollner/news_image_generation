@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens vs. 49ers score: Baltimore throttles Brock Purdy, San Francisco as Lamar Jackson makes MVP case**
+**Ukraine carries out air assault on Crimea's port of Feodosia**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/ravens-vs-49ers-score-baltimore-throttles-brock-purdy-san-francisco-as-lamar-jackson-makes-mvp-case/live/).
+You can read more about it [here](https://www.reuters.com/world/europe/ukraine-carries-out-air-assault-crimeas-port-feodosia-2023-12-26/).
 
 ## Requirements
 - Python 3.8
