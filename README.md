@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan’s ‘Moon Sniper’ is now in lunar orbit ahead of historic landing attempt**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/world/japan-lunar-lander-moon-orbit-scn/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
