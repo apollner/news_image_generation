@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holiday Travel Stays Mostly Nice Minus Some Naughty Disruptions On Southwest Airlines**
+**Trump's Christmas Message: 'ROT IN HELL'**
 
-You can read more about it [here](https://www.huffpost.com/entry/tsa-air-travel-christmas-2023_l_658a5227e4b03e698a141d92).
+You can read more about it [here](https://www.thedailybeast.com/trumps-christmas-message-rot-in-hell).
 
 ## Requirements
 - Python 3.8
