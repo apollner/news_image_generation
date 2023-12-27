@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 16 grades: Raiders earn 'A-' for shocking Christmas win over Chiefs, Dolphins get 'B+' for big win**
+**Brock Purdy lost on 2 fronts, and is just fine on a 3rd, after worst game of his 49ers career**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-16-grades-raiders-earn-a-for-shocking-christmas-win-over-chiefs-dolphins-get-b-for-big-win/).
+You can read more about it [here](https://sports.yahoo.com/brock-purdy-lost-on-2-fronts-and-is-just-fine-on-a-3rd-after-worst-game-of-his-49ers-career-080919450.html).
 
 ## Requirements
 - Python 3.8
