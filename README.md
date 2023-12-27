@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dan Ryckert's Top 10 Games of 2023**
+**Goldman's Painful 2023 Lesson on China Forces Rethink of Emerging Markets**
 
-You can read more about it [here](https://www.giantbomb.com/articles/dan-ryckerts-top-10-games-of-2023/1100-6361/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2023-12-26/goldman-s-painful-2023-lesson-on-china-forces-rethink-of-emerging-markets).
 
 ## Requirements
 - Python 3.8
