@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's Christmas Message: 'ROT IN HELL'**
+**Kim Kardashian Jokingly Fires Back After Being Left Out Of Family Christmas Video**
 
-You can read more about it [here](https://www.thedailybeast.com/trumps-christmas-message-rot-in-hell).
+You can read more about it [here](https://www.huffpost.com/entry/kim-kardashian-reacts-to-being-left-out-of-family-christmas-video_n_658a084de4b0fe4ffe3414fd).
 
 ## Requirements
 - Python 3.8
