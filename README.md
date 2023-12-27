@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot rises to estimated $685M after no winner in Christmas Day drawing**
+**Sim trays reveal exciting color options for the Galaxy S24 & S24+ - SamMobile**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-rises-estimated-685-million-no-winner-christmas-day-drawing).
+You can read more about it [here](https://www.sammobile.com/news/sim-trays-reveal-exciting-color-options-for-the-galaxy-s24-s24/).
 
 ## Requirements
 - Python 3.8
