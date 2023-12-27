@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes Shared Classy Postgame Moment With Maxx Crosby After Chiefs' Ugly Loss to Raiders**
+**Giants-Eagles ‘things I think’: DeVito-mania screeches to a halt, Giants narrowly miss Christmas Miracle**
 
-You can read more about it [here](https://www.si.com/nfl/2023/12/25/raiders-chiefs-patrick-mahomes-maxx-crosby-classy-moment).
+You can read more about it [here](https://www.bigblueview.com/2023/12/25/24014793/giants-eagles-things-i-think-devito-mania-screeches-to-a-halt-giants-narrowly-miss-christmas-miracle).
 
 ## Requirements
 - Python 3.8
