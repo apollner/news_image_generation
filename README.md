@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brock Purdy lost on 2 fronts, and is just fine on a 3rd, after worst game of his 49ers career**
+**Tax season 2024 explained: Your biggest questions answered**
 
-You can read more about it [here](https://sports.yahoo.com/brock-purdy-lost-on-2-fronts-and-is-just-fine-on-a-3rd-after-worst-game-of-his-49ers-career-080919450.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2023/12/26/2024-tax-season-questions/72002518007/).
 
 ## Requirements
 - Python 3.8
