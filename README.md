@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Schwarzenegger Is Engaged to Model Abby Champion: See the Stunning Ring and Cute Cake!**
+**IGN's Biggest Gaming, Entertainment, and Tech News Stories of 2023**
 
-You can read more about it [here](https://people.com/patrick-schwarzenegger-engaged-model-abby-champion-8420129).
+You can read more about it [here](https://www.ign.com/articles/igns-biggest-gaming-entertainment-and-tech-news-stories-of-2023).
 
 ## Requirements
 - Python 3.8
