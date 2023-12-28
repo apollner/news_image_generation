@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamar Jackson now looks like NFL MVP, mainly because he's not doing anything to lose it**
+**South Korean actor Lee Sun-kyun of Oscar-winning film 'Parasite' is found dead**
 
-You can read more about it [here](https://sports.yahoo.com/lamar-jackson-now-looks-like-nfl-mvp-mainly-because-hes-not-doing-anything-to-lose-it-004840361.html).
+You can read more about it [here](https://apnews.com/article/actor-lee-sun-kyun-parasite-unconscious-south-korea-2faacd7290f5b84b6a996705d8351cdf).
 
 ## Requirements
 - Python 3.8
