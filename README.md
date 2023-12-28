@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flu forces visitation changes at Prisma Health, officials say**
+**NFL Week 17 Power Rankings 2023: How all 32 teams stack up**
 
-You can read more about it [here](https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328).
+You can read more about it [here](https://www.espn.com/nfl/story/_/page/NFLpowerranking122723/nfl-week-17-power-rankings-poll-2023-plus-all-team-rookie-year).
 
 ## Requirements
 - Python 3.8
