@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jailed Russian opposition leader Navalny ‘relieved’ after ‘exhausting’ 20-day prison transfer**
+**Eating a low-carb diet based on meat? You may gain weight later on, study finds**
 
-You can read more about it [here](https://www.cnn.com/2023/12/27/europe/alexey-navalny-russia-prison-message-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/27/health/low-carb-weight-loss-over-time-wellness/index.html).
 
 ## Requirements
 - Python 3.8
