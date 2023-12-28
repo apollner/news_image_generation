@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actor Lee of Oscar-winning 'Parasite' found dead amid drug probe**
+**Israel Hamas war live updates: Iran backs off 'revenge' claim**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/parasite-actor-lee-found-dead-amid-drug-allegations-yonhap-2023-12-27/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2023/12/27/israel-hamas-gaza-war-live-updates/72036670007/).
 
 ## Requirements
 - Python 3.8
