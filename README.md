@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Russian drone and artillery attack kills 6 in Ukraine and knocks out power in a major city**
+**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-drone-bombardment-train-station-91adc994c1284d0c654f7bf4e4685f75).
+You can read more about it [here](https://theathletic.com/5163035/2023/12/27/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
