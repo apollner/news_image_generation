@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers coach Shanahan shares Purdy update after QB's second stinger**
+**Ken Jennings opens up about Mayim Bialik’s ‘Jeopardy!’ exit**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-injury-update-kyle-shanahan/1684875/).
+You can read more about it [here](https://www.cnn.com/2023/12/26/entertainment/ken-jennings-mayim-bialik-jeopardy/index.html).
 
 ## Requirements
 - Python 3.8
