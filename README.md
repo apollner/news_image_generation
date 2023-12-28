@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eating a low-carb diet based on meat? You may gain weight later on, study finds**
+**Jony Ive Poaches Lead iPhone Designer to Work on OpenAI Hardware Device**
 
-You can read more about it [here](https://www.cnn.com/2023/12/27/health/low-carb-weight-loss-over-time-wellness/index.html).
+You can read more about it [here](https://gizmodo.com/jony-ive-poaches-lead-iphone-designer-to-work-on-openai-1851125927).
 
 ## Requirements
 - Python 3.8
