@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
+**Eagles rookies stood out in win over the Giants**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
+You can read more about it [here](https://www.bleedinggreennation.com/2023/12/26/24015372/eagles-rookies-giants-game-nfl-week-16-results-analysis-kelee-ringo-jalen-carter-nolan-smith-sydney).
 
 ## Requirements
 - Python 3.8
