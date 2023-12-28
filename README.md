@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles rookies stood out in win over the Giants**
+**Lamar Jackson now looks like NFL MVP, mainly because he's not doing anything to lose it**
 
-You can read more about it [here](https://www.bleedinggreennation.com/2023/12/26/24015372/eagles-rookies-giants-game-nfl-week-16-results-analysis-kelee-ringo-jalen-carter-nolan-smith-sydney).
+You can read more about it [here](https://sports.yahoo.com/lamar-jackson-now-looks-like-nfl-mvp-mainly-because-hes-not-doing-anything-to-lose-it-004840361.html).
 
 ## Requirements
 - Python 3.8
