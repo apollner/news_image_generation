@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A US delegation to meet with Mexican government for talks on the surge of migrants at border**
+**Israel-Gaza war live updates: Israel expanding fight in refugee camps; Netanyahu adviser meets U.S. officials**
 
-You can read more about it [here](https://apnews.com/article/mexico-us-immigration-meeting-blinken-f39247c4848cb7cf1097fcbaa84edcbd).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/27/israel-hamas-war-gaza-news-palestine/).
 
 ## Requirements
 - Python 3.8
