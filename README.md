@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia confirms Ukraine destroyed its warship in Crimea attack**
+**Appeals court reverses conviction against former Nebraska Rep. Jeff Fortenberry - POLITICO**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/26/ukraine-claims-to-have-destroyed-russian-ship-in-crimea-attack).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/appeals-court-reverses-conviction-against-former-rep-jeff-fortenberry-00133213).
 
 ## Requirements
 - Python 3.8
