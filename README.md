@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. launches retaliatory strikes after drone attack on Iraq military base wounds 3 U.S. service members, Pentagon says**
+**Apple Vision Pro tipped for late Jan/early Feb release**
 
-You can read more about it [here](https://www.cbsnews.com/news/drone-attack-iraq-military-base-3-u-s-service-members-wounded-kataib-hezbollah-retaliatory-strikes/).
+You can read more about it [here](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/).
 
 ## Requirements
 - Python 3.8
