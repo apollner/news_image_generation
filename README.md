@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WILD OVERTIME ENDING Grizzlies vs Pelicans | December 26, 2023**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=FrFiECIXIqs).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
