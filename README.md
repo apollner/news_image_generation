@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flu forces visitation changes at Prisma Health, officials say**
+**A US delegation to meet with Mexican government for talks on the surge of migrants at border**
 
-You can read more about it [here](https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328).
+You can read more about it [here](https://apnews.com/article/mexico-us-immigration-meeting-blinken-f39247c4848cb7cf1097fcbaa84edcbd).
 
 ## Requirements
 - Python 3.8
