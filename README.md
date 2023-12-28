@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors seek to bar Trump from injecting politics into federal election interference trial**
+**4-year campaign backdoored iPhones using possibly the most advanced exploit ever**
 
-You can read more about it [here](https://apnews.com/article/trump-january-6-justice-department-ff81f4ea331cb72fa3f50f74dd8f1fce).
+You can read more about it [here](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/).
 
 ## Requirements
 - Python 3.8
