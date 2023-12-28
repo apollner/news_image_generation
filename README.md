@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's parents spotted mingling with Travis Kelce's dad Ed in private suite before Chiefs game**
+**Flu forces visitation changes at Prisma Health, officials say**
 
-You can read more about it [here](https://pagesix.com/2023/12/26/parents/taylor-swifts-parents-spotted-mingling-with-travis-kelces-dad-ed-before-chiefs-game/).
+You can read more about it [here](https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328).
 
 ## Requirements
 - Python 3.8
