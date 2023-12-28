@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pregnant Texas teen Savanah Nicole Soto and boyfriend found dead, family says**
+**France: Eiffel Tower staff strike on centenary of creator's death**
 
-You can read more about it [here](https://www.cbsnews.com/news/search-pregnant-teen-savanah-nicole-soto-texas/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67827438).
 
 ## Requirements
 - Python 3.8
