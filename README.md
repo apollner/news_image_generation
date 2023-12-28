@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war live updates: Israel expanding fight in refugee camps; Netanyahu adviser meets U.S. officials**
+**How PFF graded Purdy, 49ers in Christmas loss to Ravens**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/27/israel-hamas-war-gaza-news-palestine/).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/pff-grades-brock-purdy-ravens/1685022/).
 
 ## Requirements
 - Python 3.8
