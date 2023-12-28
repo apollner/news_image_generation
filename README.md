@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ken Jennings opens up about Mayim Bialik’s ‘Jeopardy!’ exit**
+**U.S. launches retaliatory strikes after drone attack on Iraq military base wounds 3 U.S. service members, Pentagon says**
 
-You can read more about it [here](https://www.cnn.com/2023/12/26/entertainment/ken-jennings-mayim-bialik-jeopardy/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/drone-attack-iraq-military-base-3-u-s-service-members-wounded-kataib-hezbollah-retaliatory-strikes/).
 
 ## Requirements
 - Python 3.8
