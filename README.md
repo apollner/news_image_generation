@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose, Mommy Dead and Dearest subject, released from prison**
+**Actor Lee of Oscar-winning 'Parasite' found dead amid drug probe**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/27/gypsy-rose-blanchard-release-case-timeline/72038395007/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/parasite-actor-lee-found-dead-amid-drug-allegations-yonhap-2023-12-27/).
 
 ## Requirements
 - Python 3.8
