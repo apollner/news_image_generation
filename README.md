@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France: Eiffel Tower staff strike on centenary of creator's death**
+**Huge Shakira statue unveiled in her hometown of Barranquilla**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67827438).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-67826941).
 
 ## Requirements
 - Python 3.8
