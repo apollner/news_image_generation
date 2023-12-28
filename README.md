@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France: Eiffel Tower staff strike on centenary of creator's death**
+**Gypsy Rose, Mommy Dead and Dearest subject, released from prison**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67827438).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/27/gypsy-rose-blanchard-release-case-timeline/72038395007/).
 
 ## Requirements
 - Python 3.8
