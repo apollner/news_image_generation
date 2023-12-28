@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California Pizza Hut franchises announce layoffs of delivery drivers before new $20 minimum wage: report**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/california-pizza-hut-franchises-announce-layoffs-delivery-drivers-before-new-20-minimum-wage).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
