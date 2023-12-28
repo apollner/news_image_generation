@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘The Color Purple’ Trounces ‘Aquaman 2’ With Near-Record $18M Christmas Day Opening**
+**Sweden moves one step closer to NATO membership**
 
-You can read more about it [here](https://www.hollywoodreporter.com/movies/movie-news/color-purple-box-office-opening-aquaman-1235769220/).
+You can read more about it [here](https://apnews.com/article/sweden-turkey-nato-membership-veto-erdogan-f16-6bdc19e81d84a0ab18ac2d48ca65b507).
 
 ## Requirements
 - Python 3.8
