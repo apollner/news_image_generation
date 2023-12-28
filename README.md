@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How PFF graded Purdy, 49ers in Christmas loss to Ravens**
+**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/pff-grades-brock-purdy-ravens/1685022/).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
 
 ## Requirements
 - Python 3.8
