@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 17 Power Rankings 2023: How all 32 teams stack up**
+**A Russian drone and artillery attack kills 6 in Ukraine and knocks out power in a major city**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/page/NFLpowerranking122723/nfl-week-17-power-rankings-poll-2023-plus-all-team-rookie-year).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-drone-bombardment-train-station-91adc994c1284d0c654f7bf4e4685f75).
 
 ## Requirements
 - Python 3.8
