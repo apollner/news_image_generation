@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4-year campaign backdoored iPhones using possibly the most advanced exploit ever**
+**France: Eiffel Tower staff strike on centenary of creator's death**
 
-You can read more about it [here](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67827438).
 
 ## Requirements
 - Python 3.8
