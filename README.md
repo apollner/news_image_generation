@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Flu forces visitation changes at Prisma Health, officials say**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328).
 
 ## Requirements
 - Python 3.8
