@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
+**WILD OVERTIME ENDING Grizzlies vs Pelicans | December 26, 2023**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
+You can read more about it [here](https://www.youtube.com/watch?v=FrFiECIXIqs).
 
 ## Requirements
 - Python 3.8
