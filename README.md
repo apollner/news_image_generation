@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Vision Pro tipped for late Jan/early Feb release**
+**Police investigating incidents involving Colorado justices after Trump removed from state's ballot**
 
-You can read more about it [here](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/).
+You can read more about it [here](https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222).
 
 ## Requirements
 - Python 3.8
