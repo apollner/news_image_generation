@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Huge Shakira statue unveiled in her hometown of Barranquilla**
+**Prosecutors seek to bar Trump from injecting politics into federal election interference trial**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-67826941).
+You can read more about it [here](https://apnews.com/article/trump-january-6-justice-department-ff81f4ea331cb72fa3f50f74dd8f1fce).
 
 ## Requirements
 - Python 3.8
