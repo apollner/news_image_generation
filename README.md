@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 140 villagers killed by suspected herders in weekend attacks in north-central Nigeria**
+**49ers coach Shanahan shares Purdy update after QB's second stinger**
 
-You can read more about it [here](https://apnews.com/article/nigeria-plateau-herdsmen-farmers-attack-9e9e9cf4615f6e31053881e8d2233bca).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-injury-update-kyle-shanahan/1684875/).
 
 ## Requirements
 - Python 3.8
