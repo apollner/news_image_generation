@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korean actor Lee Sun-kyun of Oscar-winning film 'Parasite' is found dead**
+**Russia confirms Ukraine destroyed its warship in Crimea attack**
 
-You can read more about it [here](https://apnews.com/article/actor-lee-sun-kyun-parasite-unconscious-south-korea-2faacd7290f5b84b6a996705d8351cdf).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/26/ukraine-claims-to-have-destroyed-russian-ship-in-crimea-attack).
 
 ## Requirements
 - Python 3.8
