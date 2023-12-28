@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jony Ive Poaches Lead iPhone Designer to Work on OpenAI Hardware Device**
+**Pregnant Texas teen Savanah Nicole Soto and boyfriend found dead, family says**
 
-You can read more about it [here](https://gizmodo.com/jony-ive-poaches-lead-iphone-designer-to-work-on-openai-1851125927).
+You can read more about it [here](https://www.cbsnews.com/news/search-pregnant-teen-savanah-nicole-soto-texas/).
 
 ## Requirements
 - Python 3.8
