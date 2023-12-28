@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers coach Shanahan shares Purdy update after QB's second stinger**
+**Apple Vision Pro tipped for late Jan/early Feb release**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-injury-update-kyle-shanahan/1684875/).
+You can read more about it [here](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/).
 
 ## Requirements
 - Python 3.8
