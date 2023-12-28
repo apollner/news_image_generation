@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweden moves one step closer to NATO membership**
+**At least 140 villagers killed by suspected herders in weekend attacks in north-central Nigeria**
 
-You can read more about it [here](https://apnews.com/article/sweden-turkey-nato-membership-veto-erdogan-f16-6bdc19e81d84a0ab18ac2d48ca65b507).
+You can read more about it [here](https://apnews.com/article/nigeria-plateau-herdsmen-farmers-attack-9e9e9cf4615f6e31053881e8d2233bca).
 
 ## Requirements
 - Python 3.8
