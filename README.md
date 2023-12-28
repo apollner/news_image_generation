@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Biggest Breakthroughs in Science Happening Right Now**
+**Gypsy Rose, Mommy Dead and Dearest subject, released from prison**
 
-You can read more about it [here](https://www.theringer.com/2023/12/27/24016357/the-biggest-breakthroughs-in-science-happening-right-now).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/27/gypsy-rose-blanchard-release-case-timeline/72038395007/).
 
 ## Requirements
 - Python 3.8
