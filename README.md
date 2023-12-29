@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden Administration Announces Additional U.S. Military Assistance for Ukraine - United States Department of State**
+**Bodies of missing pregnant teen and boyfriend in Texas may have been found in car with gunshot wounds, police say**
 
-You can read more about it [here](https://www.state.gov/biden-administration-announces-additional-u-s-military-assistance-for-ukraine-2/).
+You can read more about it [here](https://www.cnn.com/2023/12/27/us/missing-pregnant-teen-found-dead/index.html).
 
 ## Requirements
 - Python 3.8
