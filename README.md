@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley slammed for not mentioning ‘slavery’ as cause of the Civil War in ‘word salad’ answer during town hall**
+**Russia celebs lose jobs and are jailed in backlash to raunchy party**
 
-You can read more about it [here](https://nypost.com/2023/12/28/news/nikki-haley-slammed-for-not-mentioning-slavery-in-civil-war-word-salad/).
+You can read more about it [here](https://www.businessinsider.com/russia-celebs-lose-jobs-jailed-raunchy-party-backlash-anastasia-ivleeva-2023-12).
 
 ## Requirements
 - Python 3.8
