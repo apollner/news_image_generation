@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos bench Russell Wilson for rest of 2023 to provide offensive 'spark;' can team get out of QB's contract?**
+**Architect of modern EU Jacques Delors dies aged 98**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/broncos-bench-russell-wilson-for-rest-of-2023-to-provide-offensive-spark-can-team-get-out-of-qbs-contract/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67830106).
 
 ## Requirements
 - Python 3.8
