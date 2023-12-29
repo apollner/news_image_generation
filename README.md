@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With funds running out, U.S. sends more weapons to Ukraine**
+**Trapped in his crashed truck, an Indiana man is rescued after 6 days surviving on rainwater**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2023/12/27/biden-ukraine-aid/).
+You can read more about it [here](https://apnews.com/article/indiana-driver-trapped-for-days-rescued-6de2925e48076671b9d9da49c7fe2ef9).
 
 ## Requirements
 - Python 3.8
