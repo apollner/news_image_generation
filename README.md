@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard set to be paroled years after persuading boyfriend to kill her abusive mother**
+**Herb Kohl, former US senator and owner of the NBA's Milwaukee Bucks, has died. He was 88**
 
-You can read more about it [here](https://apnews.com/article/gypsy-rose-blanchard-munchausen-mother-killed-b3a792e32b72eb13feed9a73df2065fd).
+You can read more about it [here](https://apnews.com/article/herb-kohl-died-f2f0a85ca0b84af794f73c22b7d8d420).
 
 ## Requirements
 - Python 3.8
