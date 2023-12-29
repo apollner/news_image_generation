@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump ballot ban appealed to US Supreme Court by Colorado Republican Party**
+**Herb Kohl, former U.S. senator and Milwaukee Bucks owner, dies at 88**
 
-You can read more about it [here](https://apnews.com/article/trump-ballot-insurrection-colorado-supreme-court-c51a09d231a5b29475505b0c402a2d89).
+You can read more about it [here](https://www.jsonline.com/story/news/politics/2023/12/27/herb-kohl-former-u-s-senator-and-milwaukee-bucks-owner-dies-at-88/72043020007/).
 
 ## Requirements
 - Python 3.8
