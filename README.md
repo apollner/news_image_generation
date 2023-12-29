@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vibrating Molecules Eradicate 99% Of Cancer Cells, Scientists Call It Whole New Generation**
+**Mortgage rates drop again, but pending home sales stall**
 
-You can read more about it [here](https://www.giantfreakinrobot.com/sci/vibrating-molecules.html).
+You can read more about it [here](https://www.foxbusiness.com/economy/mortgage-rates-drop-again-but-pending-home-sales-stall).
 
 ## Requirements
 - Python 3.8
