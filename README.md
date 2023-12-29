@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://theathletic.com/5163035/2023/12/28/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
 
 ## Requirements
 - Python 3.8
