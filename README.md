@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minus Williams, Moss shatters Holiday Bowl TD-pass mark in USC win**
+**With funds running out, U.S. sends more weapons to Ukraine**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39195298/minus-williams-moss-shatters-holiday-bowl-td-pass-mark-usc-win).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2023/12/27/biden-ukraine-aid/).
 
 ## Requirements
 - Python 3.8
