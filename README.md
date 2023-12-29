@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID, flu, RSV, cold, strep: What is everyone catching this winter?**
+**Adding a pet may offset a type of cognitive decline if you’re over 50 and live alone, study says**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/12/28/winter-covid-flu-rsv-season-guide/71894396007/).
+You can read more about it [here](https://www.cnn.com/2023/12/28/health/living-alone-pets-wellness/index.html).
 
 ## Requirements
 - Python 3.8
