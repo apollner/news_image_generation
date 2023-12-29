@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asteroid Apophis to flyby Earth in first of its kind encounter in recorded history**
+**Study: Elderly pet owners living alone had slower cognitive declines**
 
-You can read more about it [here](https://www.wionews.com/science/nasa-begins-mission-to-detect-god-of-chaos-asteroid-before-it-hits-earths-orbit-673950).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2023/12/27/study-elderly-pet-owners-cognitive-decline/72041618007/).
 
 ## Requirements
 - Python 3.8
