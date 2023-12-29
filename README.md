@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Architect of modern EU Jacques Delors dies aged 98**
+**Biden Administration Announces Additional U.S. Military Assistance for Ukraine - United States Department of State**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67830106).
+You can read more about it [here](https://www.state.gov/biden-administration-announces-additional-u-s-military-assistance-for-ukraine-2/).
 
 ## Requirements
 - Python 3.8
