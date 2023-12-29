@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 17 NFL picks: Ravens edge Dolphins in game of the week; surging Buccaneers win fifth in a row**
+**Asia shares at five-month highs as rate bets pile up**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-17-nfl-picks-ravens-edge-dolphins-in-game-of-the-week-surging-buccaneers-win-fifth-in-a-row/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-28/).
 
 ## Requirements
 - Python 3.8
