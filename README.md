@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Biden administration officials meet with Mexican president amid record migrant crossings**
+**Actor Lee of Oscar-winning 'Parasite' found dead amid drug probe**
 
-You can read more about it [here](https://www.cbsnews.com/news/blinken-mayorkas-mexico-migrant-crisis/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/parasite-actor-lee-found-dead-amid-drug-allegations-yonhap-2023-12-27/).
 
 ## Requirements
 - Python 3.8
