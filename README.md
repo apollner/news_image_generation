@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Browns once again look to overcome injuries against the Jets**
+**Lauren Boebert switches Colorado districts ahead of 2024 election**
 
-You can read more about it [here](https://www.clevelandbrowns.com/news/browns-questions-ahead-of-their-thursday-night-football-matchup).
+You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/28/lauren-boebert-move-4th-district/).
 
 ## Requirements
 - Python 3.8
