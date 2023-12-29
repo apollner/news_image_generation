@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adding a pet may offset a type of cognitive decline if you’re over 50 and live alone, study says**
+**Browns once again look to overcome injuries against the Jets**
 
-You can read more about it [here](https://www.cnn.com/2023/12/28/health/living-alone-pets-wellness/index.html).
+You can read more about it [here](https://www.clevelandbrowns.com/news/browns-questions-ahead-of-their-thursday-night-football-matchup).
 
 ## Requirements
 - Python 3.8
