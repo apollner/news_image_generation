@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 was the year that GPUs stood still**
+**Adding a pet may offset a type of cognitive decline if you’re over 50 and live alone, study says**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/).
+You can read more about it [here](https://www.cnn.com/2023/12/28/health/living-alone-pets-wellness/index.html).
 
 ## Requirements
 - Python 3.8
