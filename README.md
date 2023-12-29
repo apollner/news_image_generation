@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump denies bullying his way into Home Alone 2**
+**Massive, treacherous waves to hit California coast this week**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67834817).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/28/big-waves-california-storms-surf/).
 
 ## Requirements
 - Python 3.8
