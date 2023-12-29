@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose, Mommy Dead and Dearest subject, released from prison**
+**House GOP probing if Biden was involved in Hunter's 'scheme' to defy subpoena, potential 'impeachable offense'**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/27/gypsy-rose-blanchard-release-case-timeline/72038395007/).
+You can read more about it [here](https://www.foxnews.com/politics/house-gop-probing-biden-was-involved-hunters-scheme-defy-subpoena-impeachable-offense).
 
 ## Requirements
 - Python 3.8
