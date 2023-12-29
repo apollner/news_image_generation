@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard set to be paroled years after persuading boyfriend to kill her abusive mother**
+**Comedian Tom Smothers, one-half of the Smothers Brothers, dies at 86**
 
-You can read more about it [here](https://apnews.com/article/gypsy-rose-blanchard-munchausen-mother-killed-b3a792e32b72eb13feed9a73df2065fd).
+You can read more about it [here](http://www.nbclosangeles.com/entertainment/entertainment-news/comedian-tom-smothers-one-half-of-the-smothers-brothers-dies-at-86/3298763/).
 
 ## Requirements
 - Python 3.8
