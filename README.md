@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert switches Colorado districts ahead of 2024 election**
+**Demolition begins on University of Idaho home where 4 students were murdered**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/28/lauren-boebert-move-4th-district/).
+You can read more about it [here](https://kfoxtv.com/news/nation-world/university-of-idaho-home-where-4-students-were-murdered-will-be-demolished-decemeber-28-2023-ethan-chapin-xana-kernodle-madison-mogen-and-kaylee-goncalves-bryan-kohberger).
 
 ## Requirements
 - Python 3.8
