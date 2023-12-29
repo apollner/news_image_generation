@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates drop again, but pending home sales stall**
+**What now for Russell Wilson? Patriots, Raiders and other NFL team fits for 2024**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/mortgage-rates-drop-again-but-pending-home-sales-stall).
+You can read more about it [here](https://theathletic.com/5164452/2023/12/28/russell-wilson-2024-nfl-teams/).
 
 ## Requirements
 - Python 3.8
