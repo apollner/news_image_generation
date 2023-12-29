@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 prices surface, satellite support not coming**
+**[Removed]**
 
-You can read more about it [here](https://9to5google.com/2023/12/28/samsung-galaxy-s24-price-satellite-leaks/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
