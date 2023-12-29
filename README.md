@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone is still regarded as a status symbol among young people**
+**Gypsy Rose Blanchard set to be paroled years after persuading boyfriend to kill her abusive mother**
 
-You can read more about it [here](https://bgr.com/tech/tiktoker-asks-a-group-of-women-whether-a-guy-can-still-be-a-10-if-he-has-an-android-phone/).
+You can read more about it [here](https://apnews.com/article/gypsy-rose-blanchard-munchausen-mother-killed-b3a792e32b72eb13feed9a73df2065fd).
 
 ## Requirements
 - Python 3.8
