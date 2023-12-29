@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP probing if Biden was involved in Hunter's 'scheme' to defy subpoena, potential 'impeachable offense'**
+**Man charged with hate crimes over stabbing at New York's Grand Central Terminal**
 
-You can read more about it [here](https://www.foxnews.com/politics/house-gop-probing-biden-was-involved-hunters-scheme-defy-subpoena-impeachable-offense).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/man-arrested-stabbing-new-yorks-grand-central-terminal-105945609).
 
 ## Requirements
 - Python 3.8
