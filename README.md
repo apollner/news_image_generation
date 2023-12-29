@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Herb Kohl, former U.S. senator and Milwaukee Bucks owner, dies at 88**
+**Minus Williams, Moss shatters Holiday Bowl TD-pass mark in USC win**
 
-You can read more about it [here](https://www.jsonline.com/story/news/politics/2023/12/27/herb-kohl-former-u-s-senator-and-milwaukee-bucks-owner-dies-at-88/72043020007/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39195298/minus-williams-moss-shatters-holiday-bowl-td-pass-mark-usc-win).
 
 ## Requirements
 - Python 3.8
