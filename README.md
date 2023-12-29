@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia celebs lose jobs and are jailed in backlash to raunchy party**
+**2023 was the year that GPUs stood still**
 
-You can read more about it [here](https://www.businessinsider.com/russia-celebs-lose-jobs-jailed-raunchy-party-backlash-anastasia-ivleeva-2023-12).
+You can read more about it [here](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/).
 
 ## Requirements
 - Python 3.8
