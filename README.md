@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive, treacherous waves to hit California coast this week**
+**Vibrating Molecules Eradicate 99% Of Cancer Cells, Scientists Call It Whole New Generation**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/28/big-waves-california-storms-surf/).
+You can read more about it [here](https://www.giantfreakinrobot.com/sci/vibrating-molecules.html).
 
 ## Requirements
 - Python 3.8
