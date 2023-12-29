@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man charged with hate crimes over stabbing at New York's Grand Central Terminal**
+**Top Biden administration officials meet with Mexican president amid record migrant crossings**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/man-arrested-stabbing-new-yorks-grand-central-terminal-105945609).
+You can read more about it [here](https://www.cbsnews.com/news/blinken-mayorkas-mexico-migrant-crisis/).
 
 ## Requirements
 - Python 3.8
