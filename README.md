@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Android Auto to summarize messages with Google Assistant and AI - GSMArena.com news**
+**Galaxy S24 prices surface, satellite support not coming**
 
-You can read more about it [here](https://www.gsmarena.com/android_auto_google_assistant_message_summary-news-61048.php).
+You can read more about it [here](https://9to5google.com/2023/12/28/samsung-galaxy-s24-price-satellite-leaks/).
 
 ## Requirements
 - Python 3.8
