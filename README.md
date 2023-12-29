@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trapped in his crashed truck, an Indiana man is rescued after 6 days surviving on rainwater**
+**Russell Wilson benched by Broncos, setting up huge questions for important offseason**
 
-You can read more about it [here](https://apnews.com/article/indiana-driver-trapped-for-days-rescued-6de2925e48076671b9d9da49c7fe2ef9).
+You can read more about it [here](https://sports.yahoo.com/russell-wilson-benched-by-broncos-setting-up-huge-questions-for-important-offseason-171057586.html).
 
 ## Requirements
 - Python 3.8
