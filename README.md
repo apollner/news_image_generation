@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Herb Kohl, former US senator and owner of the NBA's Milwaukee Bucks, has died. He was 88**
+**Asteroid Apophis to flyby Earth in first of its kind encounter in recorded history**
 
-You can read more about it [here](https://apnews.com/article/herb-kohl-died-f2f0a85ca0b84af794f73c22b7d8d420).
+You can read more about it [here](https://www.wionews.com/science/nasa-begins-mission-to-detect-god-of-chaos-asteroid-before-it-hits-earths-orbit-673950).
 
 ## Requirements
 - Python 3.8
