@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert switches Colorado districts ahead of 2024 election**
+**Android Auto to summarize messages with Google Assistant and AI - GSMArena.com news**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2023/12/28/lauren-boebert-move-4th-district/).
+You can read more about it [here](https://www.gsmarena.com/android_auto_google_assistant_message_summary-news-61048.php).
 
 ## Requirements
 - Python 3.8
