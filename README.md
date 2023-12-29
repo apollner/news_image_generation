@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actor Lee of Oscar-winning 'Parasite' found dead amid drug probe**
+**Broncos bench Russell Wilson for rest of 2023 to provide offensive 'spark;' can team get out of QB's contract?**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/parasite-actor-lee-found-dead-amid-drug-allegations-yonhap-2023-12-27/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/broncos-bench-russell-wilson-for-rest-of-2023-to-provide-offensive-spark-can-team-get-out-of-qbs-contract/).
 
 ## Requirements
 - Python 3.8
