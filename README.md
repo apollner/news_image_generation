@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia shares at five-month highs as rate bets pile up**
+**Nikki Haley slammed for not mentioning ‘slavery’ as cause of the Civil War in ‘word salad’ answer during town hall**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-28/).
+You can read more about it [here](https://nypost.com/2023/12/28/news/nikki-haley-slammed-for-not-mentioning-slavery-in-civil-war-word-salad/).
 
 ## Requirements
 - Python 3.8
