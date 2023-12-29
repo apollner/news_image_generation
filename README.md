@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study: Elderly pet owners living alone had slower cognitive declines**
+**Prisco's Week 17 NFL picks: Ravens edge Dolphins in game of the week; surging Buccaneers win fifth in a row**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2023/12/27/study-elderly-pet-owners-cognitive-decline/72041618007/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-17-nfl-picks-ravens-edge-dolphins-in-game-of-the-week-surging-buccaneers-win-fifth-in-a-row/).
 
 ## Requirements
 - Python 3.8
