@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Wilson benched by Broncos, setting up huge questions for important offseason**
+**iPhone is still regarded as a status symbol among young people**
 
-You can read more about it [here](https://sports.yahoo.com/russell-wilson-benched-by-broncos-setting-up-huge-questions-for-important-offseason-171057586.html).
+You can read more about it [here](https://bgr.com/tech/tiktoker-asks-a-group-of-women-whether-a-guy-can-still-be-a-10-if-he-has-an-android-phone/).
 
 ## Requirements
 - Python 3.8
