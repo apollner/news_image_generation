@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bodies of missing pregnant teen and boyfriend in Texas may have been found in car with gunshot wounds, police say**
+**Trump ballot ban appealed to US Supreme Court by Colorado Republican Party**
 
-You can read more about it [here](https://www.cnn.com/2023/12/27/us/missing-pregnant-teen-found-dead/index.html).
+You can read more about it [here](https://apnews.com/article/trump-ballot-insurrection-colorado-supreme-court-c51a09d231a5b29475505b0c402a2d89).
 
 ## Requirements
 - Python 3.8
