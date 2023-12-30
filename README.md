@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coronavirus, flu cases rise in D.C. region, worrying health officials**
+**CES 2024: What we expect in Las Vegas this year**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/12/29/coronavirus-dc-maryland-virginia-increase-holidays-flu-rsv/).
+You can read more about it [here](https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html).
 
 ## Requirements
 - Python 3.8
