@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Tens of thousands of Palestinians stream into Rafah**
+**Trump doesn't have immunity from Jan. 6 civil suit brought by U.S. Capitol Police officers, appeals court says**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-29-2023-d36675194a22db54970f38c1c2ed3937).
+You can read more about it [here](https://www.cbsnews.com/news/trump-jan-6-immunity-us-capitol-police-officers-civil-suit-appeals-court/).
 
 ## Requirements
 - Python 3.8
