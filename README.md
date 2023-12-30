@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The seven biggest work trends of 2023**
+**Civil War Gaffe Undercuts Nikki Haley's 2024 Pitch**
 
-You can read more about it [here](https://www.bbc.com/worklife/article/20231219-the-seven-biggest-work-trends-of-2023).
+You can read more about it [here](https://www.wsj.com/politics/elections/civil-war-gaffe-undercuts-nikki-haleys-2024-pitch-f5a37d3e).
 
 ## Requirements
 - Python 3.8
