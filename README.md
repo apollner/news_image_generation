@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New weight loss drugs are out of reach for millions of older Americans because Medicare won't pay**
+**Nikki Haley defends leaving slavery out as cause of Civil War after backlash**
 
-You can read more about it [here](https://apnews.com/article/wegovy-ozempic-zepbound-medicare-obesity-weight-loss-02d4500e737d30d070d70907521a4fe0).
+You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-fails-to-mention-slavery-when-asked-about-cause-of-civil-war-new-hampshire-town-hall/).
 
 ## Requirements
 - Python 3.8
