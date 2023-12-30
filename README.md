@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley defends leaving slavery out as cause of Civil War after backlash**
+**Updates: SpaceX's Thursday launch doubleheader from Cape Canaveral**
 
-You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-fails-to-mention-slavery-when-asked-about-cause-of-civil-war-new-hampshire-town-hall/).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2023/12/28/spacex-launch-tonight-what-to-know-before-liftoff-cape-canaveral-florida/71797968007/).
 
 ## Requirements
 - Python 3.8
