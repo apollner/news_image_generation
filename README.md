@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unidentified object enters Poland from direction of Ukraine, says Polish army**
+**Donald Trump blocked from Maine presidential ballot in 2024**
 
-You can read more about it [here](https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67837639).
 
 ## Requirements
 - Python 3.8
