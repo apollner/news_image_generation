@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pistons blow lead vs. Celtics, lose 28th straight to tie longest streak in NBA history**
+**Joe Flacco leads Browns to just third playoff berth since 1999**
 
-You can read more about it [here](https://theathletic.com/5167092/2023/12/28/pistons-celtics-losing-streak-overtime/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39202879/flacco-browns-clinch-rare-playoff-berth-special-night).
 
 ## Requirements
 - Python 3.8
