@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Colorado secretary of state: Boebert district switch 'blatant self-preservation'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thehill.com/homenews/campaign/4381098-colorado-secretary-state-boebert-district-switch-blatant-self-preservation/).
 
 ## Requirements
 - Python 3.8
