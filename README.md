@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tatum (31 PTS) & Porzingis (35 PTS) Lead Celtics In OT Thriller! 🍀 | December 28, 2023**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JVWcEzsNzyQ).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
