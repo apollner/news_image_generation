@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine’s top election official removes Trump from 2024 primary ballot**
+**Virginia reports first pediatric death of 2023 flu season**
 
-You can read more about it [here](https://www.cnn.com/2023/12/28/politics/trump-maine-14th-amendment-ballot/index.html).
+You can read more about it [here](https://wtop.com/virginia/2023/12/virginia-reports-first-pediatric-death-of-2023-flu-season/).
 
 ## Requirements
 - Python 3.8
