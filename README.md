@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine’s top election official removes Trump from 2024 primary ballot**
+**Nikki Haley defends leaving slavery out as cause of Civil War after backlash**
 
-You can read more about it [here](https://www.cnn.com/2023/12/28/politics/trump-maine-14th-amendment-ballot/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-fails-to-mention-slavery-when-asked-about-cause-of-civil-war-new-hampshire-town-hall/).
 
 ## Requirements
 - Python 3.8
