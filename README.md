@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CES 2024: What we’re expecting**
+**American-Canadian-Israeli woman believed to be held hostage in Gaza pronounced dead**
 
-You can read more about it [here](https://techcrunch.com/2023/12/28/ces-2024-what-were-expecting/).
+You can read more about it [here](https://apnews.com/article/israel-gaza-hamas-hostages-biden-7e8115b6a4fa51495970ec8b7f8172eb).
 
 ## Requirements
 - Python 3.8
