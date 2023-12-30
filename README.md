@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second American hostage dies in Hamas captivity in the Gaza Strip**
+**Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer**
 
-You can read more about it [here](https://www.foxnews.com/live-news/december-28-israel-hamas-war).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/28/wendys-one-cent-jr-bacon-cheeseburger-limits/72051995007/).
 
 ## Requirements
 - Python 3.8
