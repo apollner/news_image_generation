@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard, who pleaded guilty to helping kill her abusive mother, is released from prison**
+**Maine’s top election official removes Trump from 2024 primary ballot**
 
-You can read more about it [here](https://www.cnn.com/2023/12/28/us/gypsy-rose-blanchard-prison-release-cec/index.html).
+You can read more about it [here](https://www.cnn.com/2023/12/28/politics/trump-maine-14th-amendment-ballot/index.html).
 
 ## Requirements
 - Python 3.8
