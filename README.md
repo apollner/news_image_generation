@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump blocked from Maine presidential ballot in 2024**
+**The seven biggest work trends of 2023**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67837639).
+You can read more about it [here](https://www.bbc.com/worklife/article/20231219-the-seven-biggest-work-trends-of-2023).
 
 ## Requirements
 - Python 3.8
