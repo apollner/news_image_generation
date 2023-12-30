@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Flacco leads Browns to just third playoff berth since 1999**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39202879/flacco-browns-clinch-rare-playoff-berth-special-night).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
