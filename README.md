@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley defends leaving slavery out as cause of Civil War after backlash**
+**Gypsy Rose Blanchard, who pleaded guilty to helping kill her abusive mother, is released from prison**
 
-You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-fails-to-mention-slavery-when-asked-about-cause-of-civil-war-new-hampshire-town-hall/).
+You can read more about it [here](https://www.cnn.com/2023/12/28/us/gypsy-rose-blanchard-prison-release-cec/index.html).
 
 ## Requirements
 - Python 3.8
