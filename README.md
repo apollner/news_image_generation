@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NEW VIDEO: SAPD releases footage showing persons of interest in shooting deaths of Savanah Soto, Matthew Guerra**
+**Second American hostage dies in Hamas captivity in the Gaza Strip**
 
-You can read more about it [here](https://www.ksat.com/news/local/2023/12/28/new-video-sapd-releases-video-showing-persons-of-interest-in-shooting-deaths-of-savanah-soto-matthew-guerra/).
+You can read more about it [here](https://www.foxnews.com/live-news/december-28-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
