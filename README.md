@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Shares the Thoughtful Christmas Gift Taylor Swift's Brother Austin Got Him**
+**Stock Market Today Live Updates: Dow Falls as S&P 500 Dips, Retreating From Record High**
 
-You can read more about it [here](https://toofab.com/2023/12/29/travis-kelce-shares-the-thoughtful-christmas-gift-taylor-swifts-brother-austin-got-him/).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-29-2023).
 
 ## Requirements
 - Python 3.8
