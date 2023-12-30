@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates slide to lowest since May - Freddie Mac**
+**Pistons blow lead vs. Celtics, lose 28th straight to tie longest streak in NBA history**
 
-You can read more about it [here](https://www.reuters.com/markets/us/mortgage-rates-slide-lowest-since-may-freddie-mac-2023-12-28/).
+You can read more about it [here](https://theathletic.com/5167092/2023/12/28/pistons-celtics-losing-streak-overtime/).
 
 ## Requirements
 - Python 3.8
