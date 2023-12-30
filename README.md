@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today Live Updates: Dow Falls as S&P 500 Dips, Retreating From Record High**
+**Israel-Hamas war: Tens of thousands of Palestinians stream into Rafah**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-29-2023).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-29-2023-d36675194a22db54970f38c1c2ed3937).
 
 ## Requirements
 - Python 3.8
