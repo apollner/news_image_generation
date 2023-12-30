@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy's: One-cent Jr. Bacon Cheeseburger offer is limited per customer**
+**Russia Retakes Some Land Hard Won by Ukraine During Counteroffensive**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2023/12/28/wendys-one-cent-jr-bacon-cheeseburger-limits/72051995007/).
+You can read more about it [here](https://news.yahoo.com/russia-retakes-land-hard-won-182749411.html).
 
 ## Requirements
 - Python 3.8
