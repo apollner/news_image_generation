@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley defends leaving slavery out as cause of Civil War after backlash**
+**Pierce Brosnan Cited for Alleged Off-Limits Yellowstone Trip**
 
-You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-fails-to-mention-slavery-when-asked-about-cause-of-civil-war-new-hampshire-town-hall/).
+You can read more about it [here](http://www.vulture.com/2023/12/pierce-brosnan-yellowstone-national-park-citations.html).
 
 ## Requirements
 - Python 3.8
