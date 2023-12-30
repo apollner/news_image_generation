@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more**
+**Nikki Haley defends leaving slavery out as cause of Civil War after backlash**
 
-You can read more about it [here](https://theathletic.com/5163035/2023/12/28/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/).
+You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-fails-to-mention-slavery-when-asked-about-cause-of-civil-war-new-hampshire-town-hall/).
 
 ## Requirements
 - Python 3.8
