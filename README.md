@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See the massive rogue wave that crashed into Ventura, California, sending 8 people to the hospital**
+**Barack Obama Names Beyoncé’s ‘America Has a Problem,’ Tyla’s ‘Water’ and More as His Favorite Songs of 2023**
 
-You can read more about it [here](https://www.cbsnews.com/news/rogue-wave-ventura-california-beach/).
+You can read more about it [here](https://variety.com/2023/music/news/barack-obama-beyonce-america-has-a-problem-favorite-songs-1235857613/).
 
 ## Requirements
 - Python 3.8
