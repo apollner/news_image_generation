@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado secretary of state: Boebert district switch 'blatant self-preservation'**
+**Cher Asks Court To Give Her Conservatorship Over Her Adult Son**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4381098-colorado-secretary-state-boebert-district-switch-blatant-self-preservation/).
+You can read more about it [here](https://www.huffpost.com/entry/cher-conservatorship_n_658eb1a5e4b0cd3cf0e50fc6).
 
 ## Requirements
 - Python 3.8
