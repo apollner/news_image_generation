@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Stefanski stakes claim to second coach of the year award**
+**Coronavirus, flu cases rise in D.C. region, worrying health officials**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-stakes-claim-to-second-coach-of-the-year-award).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2023/12/29/coronavirus-dc-maryland-virginia-increase-holidays-flu-rsv/).
 
 ## Requirements
 - Python 3.8
