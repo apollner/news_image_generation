@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cher Asks Court To Give Her Conservatorship Over Her Adult Son**
+**Joe Flacco leads Browns to just third playoff berth since 1999**
 
-You can read more about it [here](https://www.huffpost.com/entry/cher-conservatorship_n_658eb1a5e4b0cd3cf0e50fc6).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39202879/flacco-browns-clinch-rare-playoff-berth-special-night).
 
 ## Requirements
 - Python 3.8
