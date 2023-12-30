@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Walker’s daughter Meadow Walker announces split from husband**
+**Kevin Stefanski stakes claim to second coach of the year award**
 
-You can read more about it [here](https://www.cnn.com/2023/12/29/entertainment/paul-walker-daughter-meadow-split/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-stakes-claim-to-second-coach-of-the-year-award).
 
 ## Requirements
 - Python 3.8
