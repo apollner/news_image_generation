@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pierce Brosnan Cited for Alleged Off-Limits Yellowstone Trip**
+**US military's space plane X-37B blasts off on a secretive mission**
 
-You can read more about it [here](http://www.vulture.com/2023/12/pierce-brosnan-yellowstone-national-park-citations.html).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/us-militarys-space-plane-x-37b-blasts-off-on-a-secretive-mission-101703822041824.html).
 
 ## Requirements
 - Python 3.8
