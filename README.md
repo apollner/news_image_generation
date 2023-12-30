@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Flacco leads Browns to just third playoff berth since 1999**
+**Unidentified object enters Poland from direction of Ukraine, says Polish army**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39202879/flacco-browns-clinch-rare-playoff-berth-special-night).
+You can read more about it [here](https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/).
 
 ## Requirements
 - Python 3.8
