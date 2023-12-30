@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Civil War Gaffe Undercuts Nikki Haley's 2024 Pitch**
+**Unidentified object enters Poland from direction of Ukraine, says Polish army**
 
-You can read more about it [here](https://www.wsj.com/politics/elections/civil-war-gaffe-undercuts-nikki-haleys-2024-pitch-f5a37d3e).
+You can read more about it [here](https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/).
 
 ## Requirements
 - Python 3.8
