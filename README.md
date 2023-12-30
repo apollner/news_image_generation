@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia reports first pediatric death of 2023 flu season**
+**New weight loss drugs are out of reach for millions of older Americans because Medicare won't pay**
 
-You can read more about it [here](https://wtop.com/virginia/2023/12/virginia-reports-first-pediatric-death-of-2023-flu-season/).
+You can read more about it [here](https://apnews.com/article/wegovy-ozempic-zepbound-medicare-obesity-weight-loss-02d4500e737d30d070d70907521a4fe0).
 
 ## Requirements
 - Python 3.8
