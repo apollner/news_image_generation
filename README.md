@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Tens of thousands of Palestinians stream into Rafah**
+**Bishop Says He Has Retained Legal Counsel In AMC Theaters Matter, Says He Has Spoken With CEO: “The Apology Is The Beginning”**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-12-29-2023-d36675194a22db54970f38c1c2ed3937).
+You can read more about it [here](https://deadline.com/2023/12/william-barber-amc-theaters-lawsuit-1235683140/).
 
 ## Requirements
 - Python 3.8
