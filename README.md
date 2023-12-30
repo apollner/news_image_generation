@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US military's space plane X-37B blasts off on a secretive mission**
+**Mortgage rates slide to lowest since May - Freddie Mac**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/us-militarys-space-plane-x-37b-blasts-off-on-a-secretive-mission-101703822041824.html).
+You can read more about it [here](https://www.reuters.com/markets/us/mortgage-rates-slide-lowest-since-may-freddie-mac-2023-12-28/).
 
 ## Requirements
 - Python 3.8
