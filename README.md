@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CES 2024: What we expect in Las Vegas this year**
+**See the massive rogue wave that crashed into Ventura, California, sending 8 people to the hospital**
 
-You can read more about it [here](https://www.engadget.com/ces-2024-what-we-expect-in-las-vegas-this-year-140040145.html).
+You can read more about it [here](https://www.cbsnews.com/news/rogue-wave-ventura-california-beach/).
 
 ## Requirements
 - Python 3.8
