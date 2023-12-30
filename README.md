@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unidentified object enters Poland from direction of Ukraine, says Polish army**
+**Paul Walker’s daughter Meadow Walker announces split from husband**
 
-You can read more about it [here](https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/).
+You can read more about it [here](https://www.cnn.com/2023/12/29/entertainment/paul-walker-daughter-meadow-split/index.html).
 
 ## Requirements
 - Python 3.8
