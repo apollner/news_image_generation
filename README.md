@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia Retakes Some Land Hard Won by Ukraine During Counteroffensive**
+**CES 2024: What we’re expecting**
 
-You can read more about it [here](https://news.yahoo.com/russia-retakes-land-hard-won-182749411.html).
+You can read more about it [here](https://techcrunch.com/2023/12/28/ces-2024-what-were-expecting/).
 
 ## Requirements
 - Python 3.8
