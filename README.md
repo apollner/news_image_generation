@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Wilson ‘disappointed’ Broncos planned to bench him for refusing contract change**
+**Putin's major aerial attack on Ukraine cost Russia $1.2 billion: Report**
 
-You can read more about it [here](https://theathletic.com/5168754/2023/12/29/russell-wilson-sean-payton-broncos-benching/).
+You can read more about it [here](https://www.newsweek.com/putins-major-aerial-attack-ukraine-cost-russia-12-billion-report-1856666).
 
 ## Requirements
 - Python 3.8
