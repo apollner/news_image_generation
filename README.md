@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Authorities beef up security for New Years Eve celebrations across US after FBI warnings**
+**Russia unleashes biggest air attack on Ukraine since start of full-scale invasion**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/29/new-years-eve-security-police/72061182007/).
+You can read more about it [here](https://www.cnn.com/2023/12/29/europe/ukraine-russia-airstrikes-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
