@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump doesn't have immunity from Jan. 6 civil suit brought by U.S. Capitol Police officers, appeals court says**
+**Maine's secretary of state explains her reasons for barring Trump from primary ballot**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-jan-6-immunity-us-capitol-police-officers-civil-suit-appeals-court/).
+You can read more about it [here](https://www.cbsnews.com/news/maine-secretary-of-state-shenna-bellows-explains-barring-trump-primary-ballot/).
 
 ## Requirements
 - Python 3.8
