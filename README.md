@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maurice Hines Dies: Tap Dancing Star Of Stage, TV, Film Was 80**
+**Bobby Marks breaks down the Raptors TRADING Anunoby and Achiuwa to the Knicks 🙌 | NBA on ESPN**
 
-You can read more about it [here](https://deadline.com/2023/12/maurice-hines-dies-tap-dancing-star-stage-tv-film-was-80-obituary-1235683668/).
+You can read more about it [here](https://www.youtube.com/watch?v=kBIE5bqWJ6Y).
 
 ## Requirements
 - Python 3.8
