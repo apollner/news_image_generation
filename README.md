@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin's major aerial attack on Ukraine cost Russia $1.2 billion: Report**
+**Galaxy S24 leak details AI photo editing feature**
 
-You can read more about it [here](https://www.newsweek.com/putins-major-aerial-attack-ukraine-cost-russia-12-billion-report-1856666).
+You can read more about it [here](https://9to5google.com/2023/12/29/galaxy-s24-ai-editing-leaks/).
 
 ## Requirements
 - Python 3.8
