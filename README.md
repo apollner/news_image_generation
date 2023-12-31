@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. stocks score 2023 gains as S&P 500 logs longest weekly winning streak since 2004**
+**US prosecutors opt out of second trial for crypto tycoon Sam Bankman-Fried**
 
-You can read more about it [here](https://www.marketwatch.com/livecoverage/stock-market-today-s-p500-nears-record-high/card/u-s-stocks-score-2023-gains-as-s-p-500-logs-longest-weekly-winning-streak-since-2004-c2jySkxl9UERVK1IyZvN).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/30/us-prosecutors-opt-out-of-second-trial-for-crypto-tycoon-sam-bankman-fried).
 
 ## Requirements
 - Python 3.8
