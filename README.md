@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humanoid robots in space: the next frontier**
+**COVID Map Shows States With Highest Cases as Hospital Mask Mandates Return**
 
-You can read more about it [here](https://www.ksl.com/article/50829167/humanoid-robots-in-space-the-next-frontier).
+You can read more about it [here](https://www.newsweek.com/covid-cases-mask-mandates-highest-rates-1856689).
 
 ## Requirements
 - Python 3.8
