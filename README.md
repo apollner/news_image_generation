@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**University of Wisconsin – La Crosse chancellor says he was sacked over pornographic films made with his wife**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2023/12/29/us/wisconsin-la-crosse-joe-gow-terminated/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
