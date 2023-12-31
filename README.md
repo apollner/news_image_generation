@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 leak details AI photo editing feature**
+**Bollywood celebrates rocking year, riding high on action flicks, unbridled masculinity and misogyny**
 
-You can read more about it [here](https://9to5google.com/2023/12/29/galaxy-s24-ai-editing-leaks/).
+You can read more about it [here](https://apnews.com/article/bollywood-box-office-shah-rukh-khan-masculinity-0611dc57ac808c3ccee9a09b265eb859).
 
 ## Requirements
 - Python 3.8
