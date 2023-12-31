@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio Gov. Mike DeWine vetoes bill banning gender-affirming care for transgender minors**
+**Several Chicago-area health systems reinstate mask requirements as respiratory viruses spread**
 
-You can read more about it [here](https://www.cbsnews.com/news/ohio-gov-mike-dewine-vetoes-bill-banning-gender-affirming-care-for-transgender-minors/).
+You can read more about it [here](http://www.nbcchicago.com/news/local/illinois-mask-mandate-health-care-health-systems/3313742/).
 
 ## Requirements
 - Python 3.8
