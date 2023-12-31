@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey man allegedly motivated by Oct. 7 Hamas attack arrested, accused of seeking to join al-Shabab terrorists**
+**University of Wisconsin – La Crosse chancellor says he was sacked over pornographic films made with his wife**
 
-You can read more about it [here](https://www.nbcnews.com/news/crime-courts/new-jersey-man-allegedly-motivated-oct-7-hamas-attack-arrested-accused-rcna131610).
+You can read more about it [here](https://www.cnn.com/2023/12/29/us/wisconsin-la-crosse-joe-gow-terminated/index.html).
 
 ## Requirements
 - Python 3.8
