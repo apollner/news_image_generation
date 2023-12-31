@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia unleashes biggest air attack on Ukraine since start of full-scale invasion**
+**Poland says Russian missile entered then exited its airspace**
 
-You can read more about it [here](https://www.cnn.com/2023/12/29/europe/ukraine-russia-airstrikes-intl-hnk/index.html).
+You can read more about it [here](https://www.dw.com/en/poland-says-russian-missile-entered-then-exited-its-airspace/a-67853906).
 
 ## Requirements
 - Python 3.8
