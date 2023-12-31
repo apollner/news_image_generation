@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's Copilot app is now available on iOS**
+**Federal judge rules against enforcement of Iowa book ban law**
 
-You can read more about it [here](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai).
+You can read more about it [here](https://www.desmoinesregister.com/story/news/education/2023/12/29/iowa-book-ban-injunction-law-senate-file-496-school-libraries-books-gender-identity-sexuality/72061486007/).
 
 ## Requirements
 - Python 3.8
