@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war live: Gaza death toll and crisis updates - The Washington Post**
+**Flooded UK tunnels force Eurostar to cancel all London trains**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/30/israel-hamas-war-gaza-news-palestine/).
+You can read more about it [here](https://www.reuters.com/world/europe/flooded-tunnel-near-london-disrupts-eurostar-train-services-2023-12-30/).
 
 ## Requirements
 - Python 3.8
