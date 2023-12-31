@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What China's new defense minister tells us about Xi's military purge**
+**Humanoid robots in space: the next frontier**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2023/12/30/china-defense-minister-xi-military/).
+You can read more about it [here](https://www.ksl.com/article/50829167/humanoid-robots-in-space-the-next-frontier).
 
 ## Requirements
 - Python 3.8
