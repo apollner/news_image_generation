@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 leak details AI photo editing feature**
+**Horoscope for Saturday, Dec. 30, 2023**
 
-You can read more about it [here](https://9to5google.com/2023/12/29/galaxy-s24-ai-editing-leaks/).
+You can read more about it [here](https://chicago.suntimes.com/2023/12/30/24015984/horoscopes-today-saturday-dec-30-2023).
 
 ## Requirements
 - Python 3.8
