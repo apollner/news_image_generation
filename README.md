@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Wilkinson: The Full Monty actor dies at 75**
+**Penn State vs. Ole Miss live stream, watch online, TV channel, Peach Bowl odds, spread, prediction, pick**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-65823240).
+You can read more about it [here](https://www.cbssports.com/college-football/news/penn-state-vs-ole-miss-live-stream-watch-online-tv-channel-peach-bowl-odds-spread-prediction-pick/).
 
 ## Requirements
 - Python 3.8
