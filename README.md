@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, another hospitalized, after contracting Legionnaires' disease following stay at New Hampshire resort hotel, officials say**
+**Fighting between Israeli forces and Hamas rages after nearly 200 killed in Gaza**
 
-You can read more about it [here](https://www.wmur.com/article/legionnaires-disease-new-hampshire-resort-122923/46252964).
+You can read more about it [here](https://news.yahoo.com/fighting-between-israeli-forces-hamas-000705622.html).
 
 ## Requirements
 - Python 3.8
