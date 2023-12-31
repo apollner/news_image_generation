@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flooded UK tunnels force Eurostar to cancel all London trains**
+**Tom Wilkinson: The Full Monty actor dies at 75**
 
-You can read more about it [here](https://www.reuters.com/world/europe/flooded-tunnel-near-london-disrupts-eurostar-train-services-2023-12-30/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-65823240).
 
 ## Requirements
 - Python 3.8
