@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Several Chicago-area health systems reinstate mask requirements as respiratory viruses spread**
+**Paula Abdul Sues ‘American Idol’ Producer Nigel Lythgoe Over Sexual Assault Claims**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/illinois-mask-mandate-health-care-health-systems/3313742/).
+You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/paula-abdul-american-idol-nigel-lythgoe-sexual-assault-lawsuit-1235776866/).
 
 ## Requirements
 - Python 3.8
