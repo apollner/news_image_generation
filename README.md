@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bollywood celebrates rocking year, riding high on action flicks, unbridled masculinity and misogyny**
+**Ohio Gov. Mike DeWine vetoes bill banning gender-affirming care for transgender minors**
 
-You can read more about it [here](https://apnews.com/article/bollywood-box-office-shah-rukh-khan-masculinity-0611dc57ac808c3ccee9a09b265eb859).
+You can read more about it [here](https://www.cbsnews.com/news/ohio-gov-mike-dewine-vetoes-bill-banning-gender-affirming-care-for-transgender-minors/).
 
 ## Requirements
 - Python 3.8
