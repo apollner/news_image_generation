@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine's secretary of state explains her reasons for barring Trump from primary ballot**
+**Massive waves slam California, with more expected Saturday**
 
-You can read more about it [here](https://www.cbsnews.com/news/maine-secretary-of-state-shenna-bellows-explains-barring-trump-primary-ballot/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/29/big-waves-california-coast-damage/).
 
 ## Requirements
 - Python 3.8
