@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fighting between Israeli forces and Hamas rages after nearly 200 killed in Gaza**
+**Russell Wilson ‘disappointed’ Broncos planned to bench him for refusing contract change**
 
-You can read more about it [here](https://news.yahoo.com/fighting-between-israeli-forces-hamas-000705622.html).
+You can read more about it [here](https://theathletic.com/5168754/2023/12/29/russell-wilson-sean-payton-broncos-benching/).
 
 ## Requirements
 - Python 3.8
