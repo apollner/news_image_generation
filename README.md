@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s open and closed New Year’s Eve and New Year’s Day 2024**
+**Florida State football's Orange Bowl challenge: Motivation**
 
-You can read more about it [here](https://www.cnn.com/2023/12/30/business/whats-open-and-closed-new-years-eve-and-new-years-day-2023/index.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39205397/college-football-orange-bowl-florida-state-georgia).
 
 ## Requirements
 - Python 3.8
