@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive waves slam California, with more expected Saturday**
+**New Jersey man allegedly motivated by Oct. 7 Hamas attack arrested, accused of seeking to join al-Shabab terrorists**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2023/12/29/big-waves-california-coast-damage/).
+You can read more about it [here](https://www.nbcnews.com/news/crime-courts/new-jersey-man-allegedly-motivated-oct-7-hamas-attack-arrested-accused-rcna131610).
 
 ## Requirements
 - Python 3.8
