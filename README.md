@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Penn State vs. Ole Miss live stream, watch online, TV channel, Peach Bowl odds, spread, prediction, pick**
+**Israel-Hamas war live: Gaza death toll and crisis updates - The Washington Post**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/penn-state-vs-ole-miss-live-stream-watch-online-tv-channel-peach-bowl-odds-spread-prediction-pick/).
+You can read more about it [here](https://www.washingtonpost.com/world/2023/12/30/israel-hamas-war-gaza-news-palestine/).
 
 ## Requirements
 - Python 3.8
