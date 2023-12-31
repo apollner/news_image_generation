@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, Dec. 30, 2023**
+**Chinese spy balloon used US-based internet company to navigate: report**
 
-You can read more about it [here](https://chicago.suntimes.com/2023/12/30/24015984/horoscopes-today-saturday-dec-30-2023).
+You can read more about it [here](https://www.businessinsider.com/chinese-spy-balloon-used-us-internet-company-to-navigate-report-2023-12).
 
 ## Requirements
 - Python 3.8
