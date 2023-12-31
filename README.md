@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paula Abdul Sues ‘American Idol’ Producer Nigel Lythgoe Over Sexual Assault Claims**
+**One dead, another hospitalized, after contracting Legionnaires' disease following stay at New Hampshire resort hotel, officials say**
 
-You can read more about it [here](https://www.hollywoodreporter.com/news/general-news/paula-abdul-american-idol-nigel-lythgoe-sexual-assault-lawsuit-1235776866/).
+You can read more about it [here](https://www.wmur.com/article/legionnaires-disease-new-hampshire-resort-122923/46252964).
 
 ## Requirements
 - Python 3.8
