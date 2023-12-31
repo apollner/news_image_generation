@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland says Russian missile entered then exited its airspace**
+**California Democrat secretary of state to allow Trump on GOP presidential primary ballot: 'I must be better'**
 
-You can read more about it [here](https://www.dw.com/en/poland-says-russian-missile-entered-then-exited-its-airspace/a-67853906).
+You can read more about it [here](https://www.foxnews.com/politics/california-democrat-secretary-state-allow-trump-gop-presidential-primary-ballot).
 
 ## Requirements
 - Python 3.8
