@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida State football's Orange Bowl challenge: Motivation**
+**U.S. stocks score 2023 gains as S&P 500 logs longest weekly winning streak since 2004**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39205397/college-football-orange-bowl-florida-state-georgia).
+You can read more about it [here](https://www.marketwatch.com/livecoverage/stock-market-today-s-p500-nears-record-high/card/u-s-stocks-score-2023-gains-as-s-p-500-logs-longest-weekly-winning-streak-since-2004-c2jySkxl9UERVK1IyZvN).
 
 ## Requirements
 - Python 3.8
