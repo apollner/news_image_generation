@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio State vs. Missouri live stream, watch online, TV channel, prediction, pick, Cotton Bowl odds, spread**
+**Microsoft's Copilot app is now available on iOS**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/ohio-state-vs-missouri-live-stream-watch-online-tv-channel-prediction-pick-cotton-bowl-odds-spread/).
+You can read more about it [here](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai).
 
 ## Requirements
 - Python 3.8
