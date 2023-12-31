@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID Map Shows States With Highest Cases as Hospital Mask Mandates Return**
+**Maurice Hines Dies: Tap Dancing Star Of Stage, TV, Film Was 80**
 
-You can read more about it [here](https://www.newsweek.com/covid-cases-mask-mandates-highest-rates-1856689).
+You can read more about it [here](https://deadline.com/2023/12/maurice-hines-dies-tap-dancing-star-stage-tv-film-was-80-obituary-1235683668/).
 
 ## Requirements
 - Python 3.8
