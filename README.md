@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California Democrat secretary of state to allow Trump on GOP presidential primary ballot: 'I must be better'**
+**Ohio Gov. Mike DeWine vetoes bill banning gender-affirming care for transgender minors**
 
-You can read more about it [here](https://www.foxnews.com/politics/california-democrat-secretary-state-allow-trump-gop-presidential-primary-ballot).
+You can read more about it [here](https://www.cbsnews.com/news/ohio-gov-mike-dewine-vetoes-bill-banning-gender-affirming-care-for-transgender-minors/).
 
 ## Requirements
 - Python 3.8
