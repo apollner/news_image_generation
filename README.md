@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli air raids target Syrian city of Aleppo as regional tensions rise**
+**Huge waves to hit California coast for third day, bringing flooding and life-threatening conditions**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/30/israeli-air-raids-target-syrian-city-of-aleppo-as-regional-tensions-rise).
+You can read more about it [here](https://www.cnn.com/2023/12/30/weather/california-oregon-waves-flooding-saturday/index.html).
 
 ## Requirements
 - Python 3.8
