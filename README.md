@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xi Jinping uses new year message to sound warning to Taiwan**
+**[Removed]**
 
-You can read more about it [here](https://www.ft.com/content/fc1dfe48-a390-48c3-b27c-7e405978c166).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
