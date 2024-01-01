@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Czechs refuse to attend UN security council meeting called by Russia**
+**Humanitarian crisis worsens in Gaza as Israel-Hamas war rages: live updates**
 
-You can read more about it [here](https://thehill.com/policy/international/4383333-czechs-refuse-to-attend-un-security-council-meeting-called-by-russia/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-31-23/index.html).
 
 ## Requirements
 - Python 3.8
