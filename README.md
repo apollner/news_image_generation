@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Jong Un reveals New Year's resolution to make more nukes and launch military satellites**
+**Powerball jackpot: New year kicks off with $810 million prize on the line**
 
-You can read more about it [here](https://www.foxnews.com/world/kim-jong-un-reveals-new-years-resolution-make-more-nukes-launch-military-satellites).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-new-year-kicks-810-million-prize).
 
 ## Requirements
 - Python 3.8
