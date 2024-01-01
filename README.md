@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Removing Trump from the primary ballot would 'rip the country apart,' former top Obama adviser David Axelrod says**
+**North Korea to launch new satellites, build drones, calling war inevitable**
 
-You can read more about it [here](https://nypost.com/2023/12/30/news/removing-trump-from-the-primary-ballot-would-rip-the-country-apart-david-axelrod/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-plans-launch-three-more-reconnaissance-satellites-2024-kcna-reports-2023-12-30/).
 
 ## Requirements
 - Python 3.8
