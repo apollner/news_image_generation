@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 17 picks: Ravens top Dolphins in AFC thriller, Steelers lose in Seattle, Bengals edge Chiefs**
+**Paula Abdul Sues Idol EP Nigel Lythgoe for Sexual Assault**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-17-picks-ravens-top-dolphins-in-afc-thriller-steelers-lose-in-seattle-bengals-edge-chiefs/).
+You can read more about it [here](https://www.eonline.com/news/1392204/paula-abdul-sues-american-idol-ep-nigel-lythgoe-for-sexual-assault).
 
 ## Requirements
 - Python 3.8
