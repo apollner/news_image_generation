@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Wilkinson, Beloved Character Actor, Passes Away at Age 75**
+**German cardinal says Pope Francis’ same-sex blessings declaration ‘never would have happened’ under Benedict**
 
-You can read more about it [here](https://gizmodo.com/obituary-tom-wilkinson-british-actor-1851131934).
+You can read more about it [here](https://www.foxnews.com/world/german-cardinal-says-pope-francis-same-sex-blessings-declaration-never-happened-benedict).
 
 ## Requirements
 - Python 3.8
