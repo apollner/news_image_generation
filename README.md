@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How China talked markets out of a run on the yuan**
+**Shelling kills 21 in Russia's city of Belgorod, including 3 children, following Moscow's aerial attacks across Ukraine**
 
-You can read more about it [here](https://www.reuters.com/markets/currencies/how-china-talked-markets-out-run-yuan-2023-12-30/).
+You can read more about it [here](https://www.cbsnews.com/news/shelling-multiple-fatalities-including-children-belgorod-russian-border-city/).
 
 ## Requirements
 - Python 3.8
