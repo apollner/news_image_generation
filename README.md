@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese military purge exposes weakness, could widen**
+**Jack Smith Warns Donald Trump's Immunity Claim Could 'License Presidents to Commit Crimes'**
 
-You can read more about it [here](https://www.reuters.com/world/china/sweeping-chinese-military-purge-exposes-weakness-could-widen-2023-12-30/).
+You can read more about it [here](https://www.thedailybeast.com/jack-smith-warns-donald-trumps-immunity-claim-could-license-presidents-to-commit-crimes).
 
 ## Requirements
 - Python 3.8
