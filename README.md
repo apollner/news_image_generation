@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard posts ‘first selfie of freedom’ after release from prison**
+**Lions vs. Cowboys live updates: Score, highlights, biggest plays from Saturday NFL game**
 
-You can read more about it [here](https://ktla.com/news/gypsy-rose-blanchard-posts-first-selfie-of-freedom-after-release-from-prison/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/12/30/lions-cowboys-score-live-updates-predictions-odds-watch-stream/72065132007/).
 
 ## Requirements
 - Python 3.8
