@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DR Congo election: President Felix Tshisekedi declared landslide winner**
+**Space photo of the week: Uranus 'rings' in the New Year in stunning James Webb telescope image**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67850563).
+You can read more about it [here](https://www.livescience.com/space/uranus/space-photo-of-the-week-webb-reveals-ice-giant-uranus-in-exquisite-new-detail).
 
 ## Requirements
 - Python 3.8
