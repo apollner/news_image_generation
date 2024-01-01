@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paula Abdul Sues Idol EP Nigel Lythgoe for Sexual Assault**
+**Detroit Lions vs. Dallas Cowboys: Game recap, highlights**
 
-You can read more about it [here](https://www.eonline.com/news/1392204/paula-abdul-sues-american-idol-ep-nigel-lythgoe-for-sexual-assault).
+You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2023/12/30/detroit-lions-dallas-cowboys-score-live-updates-game-highlights/72067985007/).
 
 ## Requirements
 - Python 3.8
