@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tom Wilkinson, Beloved Character Actor, Passes Away at Age 75**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://gizmodo.com/obituary-tom-wilkinson-british-actor-1851131934).
 
 ## Requirements
 - Python 3.8
