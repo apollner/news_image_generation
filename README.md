@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greensboro officer killed, officials looking for 2 suspects**
+**‘Absolutely zero warning’: NC professor credits Apple Watch as lifesaver during heart attack**
 
-You can read more about it [here](https://www.wxii12.com/article/greensboro-watch-commander-officer-killed-officials-looking-2-suspects/46256577).
+You can read more about it [here](https://www.wsoctv.com/news/local/absolutely-zero-warning-nc-professor-credits-apple-watch-lifesaver-during-heart-attack/3A5YUHSALBABDP2NUT3U3A7OEM/).
 
 ## Requirements
 - Python 3.8
