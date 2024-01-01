@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea to launch new satellites, build drones, calling war inevitable**
+**NFL Week 17 picks: Ravens top Dolphins in AFC thriller, Steelers lose in Seattle, Bengals edge Chiefs**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-plans-launch-three-more-reconnaissance-satellites-2024-kcna-reports-2023-12-30/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-17-picks-ravens-top-dolphins-in-afc-thriller-steelers-lose-in-seattle-bengals-edge-chiefs/).
 
 ## Requirements
 - Python 3.8
