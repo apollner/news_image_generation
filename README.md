@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia retaliates against Ukraine after 24 killed in border city**
+**Czechs refuse to attend UN security council meeting called by Russia**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/europe/russia-strikes-kharkiv-after-belgorod-attack/index.html).
+You can read more about it [here](https://thehill.com/policy/international/4383333-czechs-refuse-to-attend-un-security-council-meeting-called-by-russia/).
 
 ## Requirements
 - Python 3.8
