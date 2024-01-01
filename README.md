@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions vs. Dallas Cowboys: Game recap, highlights**
+**How China talked markets out of a run on the yuan**
 
-You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2023/12/30/detroit-lions-dallas-cowboys-score-live-updates-game-highlights/72067985007/).
+You can read more about it [here](https://www.reuters.com/markets/currencies/how-china-talked-markets-out-run-yuan-2023-12-30/).
 
 ## Requirements
 - Python 3.8
