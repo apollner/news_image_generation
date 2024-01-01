@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Shoots Down Houthi Anti-Ship Missiles For Second Time In 3 Days**
+**Health officials: Cases of whooping cough on the rise on Long Island**
 
-You can read more about it [here](https://www.ndtv.com/world-news/us-shoots-down-houthi-anti-ship-missiles-for-second-time-in-3-days-4773240).
+You can read more about it [here](https://longisland.news12.com/health-officials-cases-of-whooping-cough-on-the-rise-on-long-island).
 
 ## Requirements
 - Python 3.8
