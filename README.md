@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Gypsy Rose Blanchard posts ‘first selfie of freedom’ after release from prison**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://ktla.com/news/gypsy-rose-blanchard-posts-first-selfie-of-freedom-after-release-from-prison/).
 
 ## Requirements
 - Python 3.8
