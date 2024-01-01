@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lions vs. Cowboys live updates: Score, highlights, biggest plays from Saturday NFL game**
+**Israeli air raids target Syrian city of Aleppo as regional tensions rise**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2023/12/30/lions-cowboys-score-live-updates-predictions-odds-watch-stream/72065132007/).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/30/israeli-air-raids-target-syrian-city-of-aleppo-as-regional-tensions-rise).
 
 ## Requirements
 - Python 3.8
