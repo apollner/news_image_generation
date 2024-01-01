@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's foreign policy challenges in 2023: China, Russia and war in the Middle East**
+**US forces sink ‘Houthi’ boats in Red Sea after attack on Maersk vessel**
 
-You can read more about it [here](https://www.foxnews.com/world/bidens-foreign-policy-challenges-2023-china-russia-war-in-middle-east).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/31/us-forces-sink-houthi-boats-in-red-sea-after-attack-on-maersk-vessel).
 
 ## Requirements
 - Python 3.8
