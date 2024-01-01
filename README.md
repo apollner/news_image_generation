@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fetterman: I assumed speaking about mental health challenges would end my career**
+**Greensboro off-duty police officer killed at Sheetz, officials looking for 2 suspects**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/31/john-fetterman-mental-health-00133359).
+You can read more about it [here](https://www.wxii12.com/article/greensboro-watch-commander-officer-killed-officials-looking-2-suspects/46256577).
 
 ## Requirements
 - Python 3.8
