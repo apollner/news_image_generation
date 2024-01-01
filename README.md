@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shelling kills 21 in Russia's city of Belgorod, including 3 children, following Moscow's aerial attacks across Ukraine**
+**Detroit Lions vs. Dallas Cowboys | 2023 Week 17 Game Highlights**
 
-You can read more about it [here](https://www.cbsnews.com/news/shelling-multiple-fatalities-including-children-belgorod-russian-border-city/).
+You can read more about it [here](https://www.youtube.com/watch?v=2IE9igiIXtY).
 
 ## Requirements
 - Python 3.8
