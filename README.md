@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US appeals court allows California to bar guns in most public places**
+**Paula Abdul Sues Idol EP Nigel Lythgoe for Sexual Assault**
 
-You can read more about it [here](https://www.reuters.com/legal/us-appeals-court-allows-california-bar-guns-most-public-places-2023-12-30/).
+You can read more about it [here](https://www.eonline.com/news/1392204/paula-abdul-sues-american-idol-ep-nigel-lythgoe-for-sexual-assault).
 
 ## Requirements
 - Python 3.8
