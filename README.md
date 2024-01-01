@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US appeals court allows California to bar guns in most public places**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/legal/us-appeals-court-allows-california-bar-guns-most-public-places-2023-12-30/).
 
 ## Requirements
 - Python 3.8
