@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jack Smith Warns Donald Trump's Immunity Claim Could 'License Presidents to Commit Crimes'**
+**US forces sink ‘Houthi’ boats in Red Sea after attack on Maersk vessel**
 
-You can read more about it [here](https://www.thedailybeast.com/jack-smith-warns-donald-trumps-immunity-claim-could-license-presidents-to-commit-crimes).
+You can read more about it [here](https://www.aljazeera.com/news/2023/12/31/us-forces-sink-houthi-boats-in-red-sea-after-attack-on-maersk-vessel).
 
 ## Requirements
 - Python 3.8
