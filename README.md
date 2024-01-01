@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigel Lythgoe denies abusing Paula Abdul as sexual assault lawsuit looms**
+**Fetterman: I assumed speaking about mental health challenges would end my career**
 
-You can read more about it [here](https://www.bbc.com/news/world-67848608).
+You can read more about it [here](https://www.politico.com/news/2023/12/31/john-fetterman-mental-health-00133359).
 
 ## Requirements
 - Python 3.8
