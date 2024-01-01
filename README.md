@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials: Cases of whooping cough on the rise on Long Island**
+**Removing Trump from the primary ballot would 'rip the country apart,' former top Obama adviser David Axelrod says**
 
-You can read more about it [here](https://longisland.news12.com/health-officials-cases-of-whooping-cough-on-the-rise-on-long-island).
+You can read more about it [here](https://nypost.com/2023/12/30/news/removing-trump-from-the-primary-ballot-would-rip-the-country-apart-david-axelrod/).
 
 ## Requirements
 - Python 3.8
