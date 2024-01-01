@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humanitarian crisis worsens in Gaza as Israel-Hamas war rages: live updates**
+**US Navy helicopters fire at Yemen's Houthi rebels and kill several in latest Red Sea shipping attack**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-31-23/index.html).
+You can read more about it [here](https://apnews.com/article/yemen-houthis-red-sea-shipping-centcom-us-bb70acea5062a9952a5b983ecc047863).
 
 ## Requirements
 - Python 3.8
