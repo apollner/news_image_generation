@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions vs. Dallas Cowboys | 2023 Week 17 Game Highlights**
+**US Shoots Down Houthi Anti-Ship Missiles For Second Time In 3 Days**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2IE9igiIXtY).
+You can read more about it [here](https://www.ndtv.com/world-news/us-shoots-down-houthi-anti-ship-missiles-for-second-time-in-3-days-4773240).
 
 ## Requirements
 - Python 3.8
