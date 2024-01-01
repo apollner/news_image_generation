@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German cardinal says Pope Francis’ same-sex blessings declaration ‘never would have happened’ under Benedict**
+**Russia retaliates against Ukraine after 24 killed in border city**
 
-You can read more about it [here](https://www.foxnews.com/world/german-cardinal-says-pope-francis-same-sex-blessings-declaration-never-happened-benedict).
+You can read more about it [here](https://www.cnn.com/2023/12/31/europe/russia-strikes-kharkiv-after-belgorod-attack/index.html).
 
 ## Requirements
 - Python 3.8
