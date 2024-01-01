@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US forces sink ‘Houthi’ boats in Red Sea after attack on Maersk vessel**
+**Chinese military purge exposes weakness, could widen**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/31/us-forces-sink-houthi-boats-in-red-sea-after-attack-on-maersk-vessel).
+You can read more about it [here](https://www.reuters.com/world/china/sweeping-chinese-military-purge-exposes-weakness-could-widen-2023-12-30/).
 
 ## Requirements
 - Python 3.8
