@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paula Abdul Sues Idol EP Nigel Lythgoe for Sexual Assault**
+**Biden's foreign policy challenges in 2023: China, Russia and war in the Middle East**
 
-You can read more about it [here](https://www.eonline.com/news/1392204/paula-abdul-sues-american-idol-ep-nigel-lythgoe-for-sexual-assault).
+You can read more about it [here](https://www.foxnews.com/world/bidens-foreign-policy-challenges-2023-china-russia-war-in-middle-east).
 
 ## Requirements
 - Python 3.8
