@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greensboro off-duty police officer killed at Sheetz, officials looking for 2 suspects**
+**Kim Jong Un reveals New Year's resolution to make more nukes and launch military satellites**
 
-You can read more about it [here](https://www.wxii12.com/article/greensboro-watch-commander-officer-killed-officials-looking-2-suspects/46256577).
+You can read more about it [here](https://www.foxnews.com/world/kim-jong-un-reveals-new-years-resolution-make-more-nukes-launch-military-satellites).
 
 ## Requirements
 - Python 3.8
