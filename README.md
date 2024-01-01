@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot: New year kicks off with $810 million prize on the line**
+**DR Congo election: President Felix Tshisekedi declared landslide winner**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-new-year-kicks-810-million-prize).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67850563).
 
 ## Requirements
 - Python 3.8
