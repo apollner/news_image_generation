@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mask mandate reinstated at Los Angeles County healthcare facilities**
+**North Korea will launch three more spy satellites in 2024, Kim says**
 
-You can read more about it [here](https://ktla.com/health/mask-mandate-reinstated-la-county-healthcare-facilities/).
+You can read more about it [here](https://apnews.com/article/north-korea-kim-spy-satellites-nuclear-party-meeting-236fcaee8927d8f69359b45aaa88e2c0).
 
 ## Requirements
 - Python 3.8
