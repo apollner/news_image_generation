@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US forces sink ‘Houthi’ boats in Red Sea after attack on Maersk vessel**
+**Nigel Lythgoe denies abusing Paula Abdul as sexual assault lawsuit looms**
 
-You can read more about it [here](https://www.aljazeera.com/news/2023/12/31/us-forces-sink-houthi-boats-in-red-sea-after-attack-on-maersk-vessel).
+You can read more about it [here](https://www.bbc.com/news/world-67848608).
 
 ## Requirements
 - Python 3.8
