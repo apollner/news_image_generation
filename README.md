@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials: Cases of whooping cough on the rise on Long Island**
+**Mask mandate reinstated at Los Angeles County healthcare facilities**
 
-You can read more about it [here](https://longisland.news12.com/health-officials-cases-of-whooping-cough-on-the-rise-on-long-island).
+You can read more about it [here](https://ktla.com/health/mask-mandate-reinstated-la-county-healthcare-facilities/).
 
 ## Requirements
 - Python 3.8
