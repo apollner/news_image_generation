@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea will launch three more spy satellites in 2024, Kim says**
+**Health officials: Cases of whooping cough on the rise on Long Island**
 
-You can read more about it [here](https://apnews.com/article/north-korea-kim-spy-satellites-nuclear-party-meeting-236fcaee8927d8f69359b45aaa88e2c0).
+You can read more about it [here](https://longisland.news12.com/health-officials-cases-of-whooping-cough-on-the-rise-on-long-island).
 
 ## Requirements
 - Python 3.8
