@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space photo of the week: Uranus 'rings' in the New Year in stunning James Webb telescope image**
+**Xi Jinping uses new year message to sound warning to Taiwan**
 
-You can read more about it [here](https://www.livescience.com/space/uranus/space-photo-of-the-week-webb-reveals-ice-giant-uranus-in-exquisite-new-detail).
+You can read more about it [here](https://www.ft.com/content/fc1dfe48-a390-48c3-b27c-7e405978c166).
 
 ## Requirements
 - Python 3.8
