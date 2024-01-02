@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astrologer Susan Miller Reveals 2024 Predictions for Each Zodiac Sign**
+**DH's Most Anticipated Games Of 2024**
 
-You can read more about it [here](https://www.eonline.com/news/1391671/astrologer-susan-miller-reveals-her-2024-predictions-for-each-zodiac-sign).
+You can read more about it [here](https://www.darkhorizons.com/dhs-most-anticipated-games-of-2024/).
 
 ## Requirements
 - Python 3.8
