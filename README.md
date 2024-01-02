@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**OG Anunoby on getting traded to the Knicks: 'It's an iconic place' | SNY**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=lj3sAQ_K0QU).
 
 ## Requirements
 - Python 3.8
