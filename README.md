@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ringing in 2024: New Year's Eve photos from around the world**
+**Expect a surge in Covid and flu after the holidays. Here’s how to prepare**
 
-You can read more about it [here](https://www.cbsnews.com/news/2024-new-years-eve-photos-from-around-the-world/).
+You can read more about it [here](https://www.cnn.com/2024/01/01/health/post-holiday-virus-surge-wellness/index.html).
 
 ## Requirements
 - Python 3.8
