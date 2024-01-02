@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reckitt/Mead Johnson voluntarily recalls specialty infant formula due to possible bacterial infection**
+**NFL 2023 playoff picture, standings in Week 17: Cowboys in control of NFC East, Ravens, 49ers clinch top seeds**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/business/reckitt-mead-johnson-recalls-specialty-infant-formula/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-2023-playoff-picture-standings-in-week-17-cowboys-in-control-of-nfc-east-ravens-49ers-clinch-top-seeds/).
 
 ## Requirements
 - Python 3.8
