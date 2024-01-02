@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California father and 10-year-old son arrested after the child shot and killed another boy, deputies say**
+**Nigel Lythgoe breaks silence on Paula Abduls SA allegations**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/us/sacramento-child-shooting/index.html).
+You can read more about it [here](https://www.geo.tv/latest/525301-nigel-lythgoe-breaks-silence-on-paula-abduls-sa-allegations).
 
 ## Requirements
 - Python 3.8
