@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massachusetts man says his wife died from Legionnaires' disease after stay at White Mountain hotel**
+**Earth Closest To A ‘Super Sun’ As ‘Fireballs’ Fall: The Night Sky This Week**
 
-You can read more about it [here](https://www.wmur.com/article/mass-man-says-wife-dies-legionnaires-disease-new-hampshire/46258638).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2023/12/31/earth-closest-to-a-super-sun-as-fireballs-fall-the-night-sky-this-week/).
 
 ## Requirements
 - Python 3.8
