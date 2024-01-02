@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US sinks 3 ships, kills 10 after Houthi Red Sea attack**
+**Colorado mother Kimberlee Singler, accused of killing 2 kids, arrested**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/maersk-pauses-red-sea-sailings-after-houthi-attack-container-ship-2023-12-31/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/31/colorado-springs-kimberlee-singler-arrested-in-united-kingdom/72075246007/).
 
 ## Requirements
 - Python 3.8
