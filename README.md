@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez and Benny Blanco Embrace in New Photo Amid Blossoming Romance**
+**Colorado mother accused of murdering 2 of her children arrested in the UK**
 
-You can read more about it [here](https://www.eonline.com/news/1392219/selena-gomez-and-benny-blanco-embrace-in-new-photo-amid-blossoming-romance).
+You can read more about it [here](https://abcnews.go.com/International/colorado-mother-accused-murdering-2-children-arrested-uk/story?id=106024239).
 
 ## Requirements
 - Python 3.8
