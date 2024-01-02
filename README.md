@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami Dolphins vs. Baltimore Ravens | 2023 Week 17 Game Highlights**
+**Selena Gomez and Benny Blanco Embrace in New Photo Amid Blossoming Romance**
 
-You can read more about it [here](https://www.youtube.com/watch?v=jL04MQV6RhU).
+You can read more about it [here](https://www.eonline.com/news/1392219/selena-gomez-and-benny-blanco-embrace-in-new-photo-amid-blossoming-romance).
 
 ## Requirements
 - Python 3.8
