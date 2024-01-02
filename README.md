@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Get ready, N.J. These new state laws go into effect in 2024.**
+**Nasa's Parker mission poised for solar 'landing' in 2024**
 
-You can read more about it [here](https://www.nj.com/politics/2024/01/get-ready-nj-these-new-state-laws-go-into-effect-in-2024.html).
+You can read more about it [here](https://www.france24.com/en/technology/20240101-nasa-s-parker-mission-poised-for-solar-landing-in-2024).
 
 ## Requirements
 - Python 3.8
