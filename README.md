@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Live: Crowds gather in Times Square on New Year's Eve to ring in 2024**
+**Reckitt/Mead Johnson voluntarily recalls specialty infant formula due to possible bacterial infection**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/live-new-years-eve-times-square-ball-drop-2024/).
+You can read more about it [here](https://www.cnn.com/2023/12/31/business/reckitt-mead-johnson-recalls-specialty-infant-formula/index.html).
 
 ## Requirements
 - Python 3.8
