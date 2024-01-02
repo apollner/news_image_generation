@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carolina Panthers owner David Tepper appears to toss drink at Jacksonville fans during his team’s loss**
+**Ringing in 2024: New Year's Eve photos from around the world**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/sport/nfl-carolina-panthers-david-tepper-video-drink-toss-spt/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/2024-new-years-eve-photos-from-around-the-world/).
 
 ## Requirements
 - Python 3.8
