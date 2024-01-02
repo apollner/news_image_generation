@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 350 migrants flown from Texas to Rockford before being escorted to Chicago**
+**Buses of migrants boarding trains from NJ to NYC, officials say**
 
-You can read more about it [here](https://www.cnn.com/2023/12/31/us/migrants-arriving-chicago-texas-sending/index.html).
+You can read more about it [here](https://www.politico.com/news/2023/12/31/buses-of-migrants-boarding-trains-from-nj-to-nyc-officials-say-00133371).
 
 ## Requirements
 - Python 3.8
