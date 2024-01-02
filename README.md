@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Respiratory virus activity is high and rising across the United States, CDC data shows**
+**Packers PFF grades: Best, worst players from Week 17 vs. Vikings**
 
-You can read more about it [here](https://www.cnn.com/2024/01/01/health/virus-season-rising-levels-flu-covid-rsv/index.html).
+You can read more about it [here](https://packerswire.usatoday.com/lists/packers-pff-grades-best-worst-players-from-week-17-vs-vikings-2/).
 
 ## Requirements
 - Python 3.8
