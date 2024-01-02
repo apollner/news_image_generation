@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy charged with fellow 10-year-old's murder after taking gun from felon father's car: cops**
+**The iPhone 15 Pro has a killer camera feature you’ll never use**
 
-You can read more about it [here](https://nypost.com/2024/01/01/news/boy-charged-with-fellow-10-year-olds-murder-after-taking-gun-from-felon-fathers-car-cops/).
+You can read more about it [here](https://www.digitaltrends.com/mobile/iphone-15-pro-log-video-amazing-camera-feature-you-wont-use/).
 
 ## Requirements
 - Python 3.8
