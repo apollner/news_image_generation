@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado mother accused of murdering 2 children, arrested in UK: police**
+**Carolina Panthers owner David Tepper appears to toss drink at Jacksonville fans during his team’s loss**
 
-You can read more about it [here](https://www.foxnews.com/us/colorado-mother-accused-murdering-children-arrested-uk-police).
+You can read more about it [here](https://www.cnn.com/2023/12/31/sport/nfl-carolina-panthers-david-tepper-video-drink-toss-spt/index.html).
 
 ## Requirements
 - Python 3.8
