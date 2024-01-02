@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DH's Most Anticipated Games Of 2024**
+**Ringing in 2024: New Year's Eve photos from around the world**
 
-You can read more about it [here](https://www.darkhorizons.com/dhs-most-anticipated-games-of-2024/).
+You can read more about it [here](https://www.cbsnews.com/news/2024-new-years-eve-photos-from-around-the-world/).
 
 ## Requirements
 - Python 3.8
