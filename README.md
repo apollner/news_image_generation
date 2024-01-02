@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023 NFL season, Week 17: What We Learned from Sunday's games**
+**Miami Dolphins vs. Baltimore Ravens | 2023 Week 17 Game Highlights**
 
-You can read more about it [here](https://www.nfl.com/news/2023-nfl-season-week-17-what-we-learned-from-sunday-s-games).
+You can read more about it [here](https://www.youtube.com/watch?v=jL04MQV6RhU).
 
 ## Requirements
 - Python 3.8
