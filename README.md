@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigel Lythgoe breaks silence on Paula Abduls SA allegations**
+**Astrologer Susan Miller Reveals 2024 Predictions for Each Zodiac Sign**
 
-You can read more about it [here](https://www.geo.tv/latest/525301-nigel-lythgoe-breaks-silence-on-paula-abduls-sa-allegations).
+You can read more about it [here](https://www.eonline.com/news/1391671/astrologer-susan-miller-reveals-her-2024-predictions-for-each-zodiac-sign).
 
 ## Requirements
 - Python 3.8
