@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado mother Kimberlee Singler, accused of killing 2 kids, arrested**
+**Watch Live: Crowds gather in Times Square on New Year's Eve to ring in 2024**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/31/colorado-springs-kimberlee-singler-arrested-in-united-kingdom/72075246007/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/live-new-years-eve-times-square-ball-drop-2024/).
 
 ## Requirements
 - Python 3.8
