@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OG Anunoby on getting traded to the Knicks: 'It's an iconic place' | SNY**
+**Times Square looks unrecognizable just hours after 100,000 pounds of confetti was dumped at New Year's: photos**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lj3sAQ_K0QU).
+You can read more about it [here](https://nypost.com/2024/01/01/news/times-square-looks-unrecognizable-just-hours-after-100000-pounds-of-confetti-was-dumped-at-new-years-photos/).
 
 ## Requirements
 - Python 3.8
