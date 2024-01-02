@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Navy sinks Houthi boats after container ship attack**
+**California father and 10-year-old son arrested after the child shot and killed another boy, deputies say**
 
-You can read more about it [here](https://www.axios.com/2023/12/31/houthi-rebels-attack-us-navy-red-sea).
+You can read more about it [here](https://www.cnn.com/2023/12/31/us/sacramento-child-shooting/index.html).
 
 ## Requirements
 - Python 3.8
