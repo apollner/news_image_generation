@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball: Someone could start the new year a millionaire as jackpot surges to $810 million**
+**China Dec factory contraction deepens, more stimulus on the cards**
 
-You can read more about it [here](https://www.cnn.com/2024/01/01/business/powerball-jackpot-monday-drawing/index.html).
+You can read more about it [here](https://www.reuters.com/world/china/china-dec-factory-activity-shrinks-more-than-expected-bodes-ill-recovery-2023-12-31/).
 
 ## Requirements
 - Python 3.8
