@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ringing in 2024: New Year's Eve photos from around the world**
+**US sinks 3 ships, kills 10 after Houthi Red Sea attack**
 
-You can read more about it [here](https://www.cbsnews.com/news/2024-new-years-eve-photos-from-around-the-world/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/maersk-pauses-red-sea-sailings-after-houthi-attack-container-ship-2023-12-31/).
 
 ## Requirements
 - Python 3.8
