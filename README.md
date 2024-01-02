@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel is pulling thousands of troops from Gaza as combat focuses on enclave's main southern city**
+**Get ready, N.J. These new state laws go into effect in 2024.**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-01-2024-0f7812d5eedb9d8a87ba35ffe83acee8).
+You can read more about it [here](https://www.nj.com/politics/2024/01/get-ready-nj-these-new-state-laws-go-into-effect-in-2024.html).
 
 ## Requirements
 - Python 3.8
