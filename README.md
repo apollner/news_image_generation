@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth Closest To A ‘Super Sun’ As ‘Fireballs’ Fall: The Night Sky This Week**
+**Colorado mother Kimberlee Singler, accused of killing 2 kids, arrested**
 
-You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2023/12/31/earth-closest-to-a-super-sun-as-fireballs-fall-the-night-sky-this-week/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2023/12/31/colorado-springs-kimberlee-singler-arrested-in-united-kingdom/72075246007/).
 
 ## Requirements
 - Python 3.8
