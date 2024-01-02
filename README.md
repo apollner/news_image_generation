@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buses of migrants boarding trains from NJ to NYC, officials say**
+**2023 NFL season, Week 17: What We Learned from Sunday's games**
 
-You can read more about it [here](https://www.politico.com/news/2023/12/31/buses-of-migrants-boarding-trains-from-nj-to-nyc-officials-say-00133371).
+You can read more about it [here](https://www.nfl.com/news/2023-nfl-season-week-17-what-we-learned-from-sunday-s-games).
 
 ## Requirements
 - Python 3.8
