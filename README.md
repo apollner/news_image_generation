@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Expect a surge in Covid and flu after the holidays. Here’s how to prepare**
+**4 ways the government funding fight could play out in January**
 
-You can read more about it [here](https://www.cnn.com/2024/01/01/health/post-holiday-virus-surge-wellness/index.html).
+You can read more about it [here](https://thehill.com/homenews/senate/4372512-government-funding-fight-scenarios/).
 
 ## Requirements
 - Python 3.8
