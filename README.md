@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers PFF grades: Best, worst players from Week 17 vs. Vikings**
+**Israel to pull some troops from Gaza as war enters new phase**
 
-You can read more about it [here](https://packerswire.usatoday.com/lists/packers-pff-grades-best-worst-players-from-week-17-vs-vikings-2/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-pull-some-troops-gaza-war-enters-new-phase-2024-01-01/).
 
 ## Requirements
 - Python 3.8
