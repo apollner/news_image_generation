@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 ways the government funding fight could play out in January**
+**NFL 2023 playoff picture, standings after Week 17: Cowboys control NFC East; Ravens, 49ers clinch top seeds**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4372512-government-funding-fight-scenarios/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-2023-playoff-picture-standings-after-week-17-cowboys-control-nfc-east-ravens-49ers-clinch-top-seeds/).
 
 ## Requirements
 - Python 3.8
