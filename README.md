@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPhone 15 Pro has a killer camera feature you’ll never use**
+**[Removed]**
 
-You can read more about it [here](https://www.digitaltrends.com/mobile/iphone-15-pro-log-video-amazing-camera-feature-you-wont-use/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
