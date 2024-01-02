@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Times Square looks unrecognizable just hours after 100,000 pounds of confetti was dumped at New Year's: photos**
+**Respiratory virus activity is high and rising across the United States, CDC data shows**
 
-You can read more about it [here](https://nypost.com/2024/01/01/news/times-square-looks-unrecognizable-just-hours-after-100000-pounds-of-confetti-was-dumped-at-new-years-photos/).
+You can read more about it [here](https://www.cnn.com/2024/01/01/health/virus-season-rising-levels-flu-covid-rsv/index.html).
 
 ## Requirements
 - Python 3.8
