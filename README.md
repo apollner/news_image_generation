@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PBS News Weekend full episode, Dec. 31, 2023**
+**More than 350 migrants flown from Texas to Rockford before being escorted to Chicago**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CDHECX_zCE8).
+You can read more about it [here](https://www.cnn.com/2023/12/31/us/migrants-arriving-chicago-texas-sending/index.html).
 
 ## Requirements
 - Python 3.8
