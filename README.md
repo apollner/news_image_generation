@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iranian warship Alborz enters the Red Sea - Tasnim**
+**NFL Playoff Picture 2023: Updated AFC and NFC Standings, Clinching Scenarios for Week 18**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iranian-warship-alborz-enters-red-sea-tasnim-2024-01-01/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-playoff-picture-2023-updated-afc-and-nfc-standings-clinching-scenarios-for-week-18).
 
 ## Requirements
 - Python 3.8
