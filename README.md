@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Playoff Picture 2023: Updated AFC and NFC Standings, Clinching Scenarios for Week 18**
+**Israel is pulling thousands of troops from Gaza as combat focuses on enclave's main southern city**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-playoff-picture-2023-updated-afc-and-nfc-standings-clinching-scenarios-for-week-18).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-01-2024-0f7812d5eedb9d8a87ba35ffe83acee8).
 
 ## Requirements
 - Python 3.8
