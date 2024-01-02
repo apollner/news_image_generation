@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**10-year-old shoots, kills another 10-year-old with father’s stolen gun, Sacramento sheriff says**
+**Colorado mother accused of murdering 2 children, arrested in UK: police**
 
-You can read more about it [here](https://www.kcra.com/article/sacramento-county-sheriffs-office-investigates-possible-shooting/46256235).
+You can read more about it [here](https://www.foxnews.com/us/colorado-mother-accused-murdering-children-arrested-uk-police).
 
 ## Requirements
 - Python 3.8
