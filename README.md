@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Bachelorette's Bryan Abasolo Files for Divorce From Rachel Lindsay After 4 Years of Marriage**
+**Legionnaires disease New Hampshire: One dead, one hospitalized**
 
-You can read more about it [here](https://www.eonline.com/news/1392273/the-bachelorettes-bryan-abasolo-files-for-divorce-from-rachel-lindsay-after-4-years-of-marriage).
+You can read more about it [here](https://www.bostonglobe.com/2024/01/02/metro/legionnaires-disease-new-hampshire/).
 
 ## Requirements
 - Python 3.8
