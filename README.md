@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Penix Jr. propelled Washington to the CFP. He saved his best for when he got there.**
+**CFP semifinals recap: Michigan stuffs Alabama in OT, Washington outduels Texas**
 
-You can read more about it [here](https://theathletic.com/5174374/2024/01/02/michael-penix-washington-sugar-bowl-texas/).
+You can read more about it [here](https://sports.yahoo.com/cfp-semifinals-recap-michigan-stuffs-alabama-in-ot-washington-outduels-texas-121640059.html).
 
 ## Requirements
 - Python 3.8
