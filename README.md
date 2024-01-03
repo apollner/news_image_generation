@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ian Ziering addresses Hollywood mini-biker brawl, calls it ‘hooliganism’**
+**Driver in deadly Rochester car blast near concert venue identified by police as final days revealed**
 
-You can read more about it [here](https://ktla.com/news/local-news/ian-ziering-posts-details-on-hollywood-attack-calls-it-hooliganism/).
+You can read more about it [here](https://www.foxnews.com/us/rochester-fatal-car-explosion-investigated-possible-terror-attack).
 
 ## Requirements
 - Python 3.8
