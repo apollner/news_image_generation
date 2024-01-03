@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey arrests 33 alleged Mossad agents, as Israel threatens Hamas abroad**
+**Michael Penix Jr. propelled Washington to the CFP. He saved his best for when he got there.**
 
-You can read more about it [here](https://www.timesofisrael.com/turkey-arrests-33-alleged-mossad-agents-as-israel-threatens-hamas-abroad/).
+You can read more about it [here](https://theathletic.com/5174374/2024/01/02/michael-penix-washington-sugar-bowl-texas/).
 
 ## Requirements
 - Python 3.8
