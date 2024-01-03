@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter storm this weekend; how much snow will Massachusetts get?**
+**Israeli Man Poses As Elite Soldier In Gaza, Steals Weapons & Takes Frontline Picture With Netanyahu**
 
-You can read more about it [here](http://www.nbcboston.com/news/local/looking-ahead-to-this-weekends-storm-could-boston-see-its-first-serious-snowfall/3233249/).
+You can read more about it [here](https://www.youtube.com/watch?v=lZBGBM_W_oY).
 
 ## Requirements
 - Python 3.8
