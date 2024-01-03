@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police seek motive in fiery fatal crash in upstate New York; no terror link found**
+**Israel's Supreme Court deals Netanyahu a political blow as Israeli military starts moving troops out of Gaza**
 
-You can read more about it [here](https://toronto.citynews.ca/2024/01/02/police-seek-motive-in-fiery-fatal-crash-in-upstate-new-york-no-terror-link-found/).
+You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-benjamin-netanyahu-supreme-court-judicial-overhaul-ruling/).
 
 ## Requirements
 - Python 3.8
