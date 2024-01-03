@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Witness to deadly downtown shootout says party was a ‘powder keg’**
+**Taylor Swift & Travis Kelce cruise in a Rolls-Royce after New Year's party**
 
-You can read more about it [here](https://ktla.com/news/local-news/witness-to-deadly-downtown-shootout-says-party-was-a-powder-keg/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-travis-kelce-roll-out-in-400k-rolls-royce-after-rocking-brittany-patricks-new-years-101704164911017.html).
 
 ## Requirements
 - Python 3.8
