@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See the EVs that still qualify for a $7,500 federal tax credit**
+**RJ Barrett's Viral Quote After Knicks-Raptors Trade**
 
-You can read more about it [here](https://www.businessinsider.com/list-evs-electric-cars-qualify-for-federal-tax-credit-2024-1).
+You can read more about it [here](https://www.si.com/fannation/nba/fastbreak/news/rj-barrett-viral-quote-after-new-york-knicks-toronto-raptors-trade-nba).
 
 ## Requirements
 - Python 3.8
