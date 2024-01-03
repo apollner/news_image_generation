@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan stops Alabama in OT at Rose Bowl to reach CFP title game**
+**Iowa football shut out by another ranked foe, 35-0 against Tennessee in the Citrus Bowl**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/39225075/michigan-beats-alabama-ot-rose-bowl-reach-cfp-title-game).
+You can read more about it [here](https://www.thegazette.com/iowa-football/iowa-football-shut-out-by-another-ranked-foe-35-0-against-tennessee-in-the-citrus-bowl/).
 
 ## Requirements
 - Python 3.8
