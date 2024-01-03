@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 launch date confirmed in social post**
+**The Bachelorette's Bryan Abasolo Files for Divorce From Rachel Lindsay After 4 Years of Marriage**
 
-You can read more about it [here](https://9to5google.com/2024/01/02/samsung-galaxy-s24-launch-date-post/).
+You can read more about it [here](https://www.eonline.com/news/1392273/the-bachelorettes-bryan-abasolo-files-for-divorce-from-rachel-lindsay-after-4-years-of-marriage).
 
 ## Requirements
 - Python 3.8
