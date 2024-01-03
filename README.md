@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift & Travis Kelce cruise in a Rolls-Royce after New Year's party**
+**Traders Start the Year Cautious on Oil, China Data: Markets Wrap**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/taylor-swift-travis-kelce-roll-out-in-400k-rolls-royce-after-rocking-brittany-patricks-new-years-101704164911017.html).
+You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-may-lack-cheer-224600261.html).
 
 ## Requirements
 - Python 3.8
