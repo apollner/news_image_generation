@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian’s stock falls after 2023 deliveries more than double, but come up shy of forecasts**
+**Turkey arrests 33 alleged Mossad agents, as Israel threatens Hamas abroad**
 
-You can read more about it [here](https://www.marketwatch.com/story/rivians-stock-falls-after-2023-deliveries-more-than-double-but-come-up-shy-of-forecasts-b5c5e987).
+You can read more about it [here](https://www.timesofisrael.com/turkey-arrests-33-alleged-mossad-agents-as-israel-threatens-hamas-abroad/).
 
 ## Requirements
 - Python 3.8
