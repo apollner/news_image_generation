@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Remains of mother who vanished in 2012 found in pond near Disney World, family says**
+**Police seek motive in fiery fatal crash in upstate New York; no terror link found**
 
-You can read more about it [here](https://www.cbsnews.com/news/sandra-lemire-missing-mother-2012-remains-found-pond-disney-world-florida-family/).
+You can read more about it [here](https://toronto.citynews.ca/2024/01/02/police-seek-motive-in-fiery-fatal-crash-in-upstate-new-york-no-terror-link-found/).
 
 ## Requirements
 - Python 3.8
