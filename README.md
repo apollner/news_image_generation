@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maersk halts Red Sea shipping until further notice after Houthi militant attack**
+**Driver in deadly Rochester car blast near concert venue identified by police as final days revealed**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/02/maersk-halts-red-sea-shipping-until-further-notice-after-houthi-militant-attack.html).
+You can read more about it [here](https://www.foxnews.com/us/rochester-fatal-car-explosion-investigated-possible-terror-attack).
 
 ## Requirements
 - Python 3.8
