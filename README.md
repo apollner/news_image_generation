@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kerr doubles down on strong Warriors critique after meeting with team**
+**[Removed]**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/kerr-doubles-down-on-strong-warriors-critique-after-meeting-with-team/1686795/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
