@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BYD is set to beat Tesla for a second straight year after producing more than 3 million cars in 2023**
+**US Navy’s largest aircraft carrier returning to US after extended deployment in Mediterranean**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/02/byd-produced-more-than-3-million-cars-in-2023-set-to-beat-tesla.html).
+You can read more about it [here](https://www.cnn.com/2024/01/01/politics/uss-gerald-ford-return-mediterranean-hnk/index.html).
 
 ## Requirements
 - Python 3.8
