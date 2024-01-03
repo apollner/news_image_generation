@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EV maker Rivian's quarterly deliveries miss expectations, shares tank**
+**Winter storm this weekend; how much snow will Massachusetts get?**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/ev-maker-rivian-misses-quarterly-deliveries-expectations-2024-01-02/).
+You can read more about it [here](http://www.nbcboston.com/news/local/looking-ahead-to-this-weekends-storm-could-boston-see-its-first-serious-snowfall/3233249/).
 
 ## Requirements
 - Python 3.8
