@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RJ Barrett's Viral Quote After Knicks-Raptors Trade**
+**BYD is set to beat Tesla for a second straight year after producing more than 3 million cars in 2023**
 
-You can read more about it [here](https://www.si.com/fannation/nba/fastbreak/news/rj-barrett-viral-quote-after-new-york-knicks-toronto-raptors-trade-nba).
+You can read more about it [here](https://www.cnbc.com/2024/01/02/byd-produced-more-than-3-million-cars-in-2023-set-to-beat-tesla.html).
 
 ## Requirements
 - Python 3.8
