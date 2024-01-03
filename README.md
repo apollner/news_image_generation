@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Playoff-clinching scenarios for Week 18 of 2023 NFL season**
+**Muhammad Yunus: Nobel Peace Prize winner sentenced to 6 months in jail**
 
-You can read more about it [here](https://www.nfl.com/news/playoff-clinching-scenarios-for-week-18-of-2023-nfl-season).
+You can read more about it [here](https://apnews.com/article/bangladesh-yunus-grameen-telecom-bank-hasina-7539ec27dfb568fa1f30e8f44b10e8b4).
 
 ## Requirements
 - Python 3.8
