@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Traders Start the Year Cautious on Oil, China Data: Markets Wrap**
+**Kerr doubles down on strong Warriors critique after meeting with team**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-may-lack-cheer-224600261.html).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/kerr-doubles-down-on-strong-warriors-critique-after-meeting-with-team/1686795/).
 
 ## Requirements
 - Python 3.8
