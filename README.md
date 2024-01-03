@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan quake: Rescuers rush to reach survivors**
+**Rivian’s stock falls after 2023 deliveries more than double, but come up shy of forecasts**
 
-You can read more about it [here](https://www.reuters.com/world/japan/least-six-dead-after-huge-earthquake-rocks-japan-new-years-day-2024-01-01/).
+You can read more about it [here](https://www.marketwatch.com/story/rivians-stock-falls-after-2023-deliveries-more-than-double-but-come-up-shy-of-forecasts-b5c5e987).
 
 ## Requirements
 - Python 3.8
