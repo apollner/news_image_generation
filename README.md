@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BYD inches closer to overtaking Tesla as world’s top electric car company**
+**Japan quake: Rescuers rush to reach survivors**
 
-You can read more about it [here](https://www.cnn.com/2024/01/02/cars/china-byd-ev-sales-increase-tesla-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/world/japan/least-six-dead-after-huge-earthquake-rocks-japan-new-years-day-2024-01-01/).
 
 ## Requirements
 - Python 3.8
