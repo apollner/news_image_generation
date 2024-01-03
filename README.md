@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli Man Poses As Elite Soldier In Gaza, Steals Weapons & Takes Frontline Picture With Netanyahu**
+**Maersk halts Red Sea shipping until further notice after Houthi militant attack**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lZBGBM_W_oY).
+You can read more about it [here](https://www.cnbc.com/2024/01/02/maersk-halts-red-sea-shipping-until-further-notice-after-houthi-militant-attack.html).
 
 ## Requirements
 - Python 3.8
