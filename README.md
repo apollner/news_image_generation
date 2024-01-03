@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Driver in deadly Rochester car blast near concert venue identified by police as final days revealed**
+**The Bachelorette's Bryan Abasolo Files for Divorce From Rachel Lindsay After 4 Years of Marriage**
 
-You can read more about it [here](https://www.foxnews.com/us/rochester-fatal-car-explosion-investigated-possible-terror-attack).
+You can read more about it [here](https://www.eonline.com/news/1392273/the-bachelorettes-bryan-abasolo-files-for-divorce-from-rachel-lindsay-after-4-years-of-marriage).
 
 ## Requirements
 - Python 3.8
