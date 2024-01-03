@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel to pull some troops from Gaza as war enters new phase**
+**Playoff-clinching scenarios for Week 18 of 2023 NFL season**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-pull-some-troops-gaza-war-enters-new-phase-2024-01-01/).
+You can read more about it [here](https://www.nfl.com/news/playoff-clinching-scenarios-for-week-18-of-2023-nfl-season).
 
 ## Requirements
 - Python 3.8
