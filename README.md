@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa football shut out by another ranked foe, 35-0 against Tennessee in the Citrus Bowl**
+**Asia markets start year mixed, China stocks open lower as factory activity slumps further**
 
-You can read more about it [here](https://www.thegazette.com/iowa-football/iowa-football-shut-out-by-another-ranked-foe-35-0-against-tennessee-in-the-citrus-bowl/).
+You can read more about it [here](https://www.cnbc.com/2024/01/02/asia-markets.html).
 
 ## Requirements
 - Python 3.8
