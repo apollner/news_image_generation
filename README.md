@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muhammad Yunus: Nobel Peace Prize winner sentenced to 6 months in jail**
+**South Korean opposition leader stabbed in neck, rushed to hospital**
 
-You can read more about it [here](https://apnews.com/article/bangladesh-yunus-grameen-telecom-bank-hasina-7539ec27dfb568fa1f30e8f44b10e8b4).
+You can read more about it [here](https://www.aljazeera.com/news/2024/1/2/south-korean-opposition-leader-stabbed-in-neck-rushed-to-hospital).
 
 ## Requirements
 - Python 3.8
