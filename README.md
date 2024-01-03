@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korean opposition leader stabbed in neck, rushed to hospital**
+**Michigan stops Alabama in OT at Rose Bowl to reach CFP title game**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/2/south-korean-opposition-leader-stabbed-in-neck-rushed-to-hospital).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/39225075/michigan-beats-alabama-ot-rose-bowl-reach-cfp-title-game).
 
 ## Requirements
 - Python 3.8
