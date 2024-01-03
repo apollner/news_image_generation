@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Bachelorette's Bryan Abasolo Files for Divorce From Rachel Lindsay After 4 Years of Marriage**
+**Gunman breaks into Colorado Supreme Court building; intrusion unrelated to Trump case, police say**
 
-You can read more about it [here](https://www.eonline.com/news/1392273/the-bachelorettes-bryan-abasolo-files-for-divorce-from-rachel-lindsay-after-4-years-of-marriage).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/gunman-breaks-colorado-supreme-court-building-intrusion-unrelated-106047705).
 
 ## Requirements
 - Python 3.8
