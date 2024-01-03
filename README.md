@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Navy’s largest aircraft carrier returning to US after extended deployment in Mediterranean**
+**Witness to deadly downtown shootout says party was a ‘powder keg’**
 
-You can read more about it [here](https://www.cnn.com/2024/01/01/politics/uss-gerald-ford-return-mediterranean-hnk/index.html).
+You can read more about it [here](https://ktla.com/news/local-news/witness-to-deadly-downtown-shootout-says-party-was-a-powder-keg/).
 
 ## Requirements
 - Python 3.8
