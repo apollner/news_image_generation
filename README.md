@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blac Chyna Reduces Her Breast Size in Latest Plastic Surgery Reversal Procedure**
+**Galaxy S24 Ultra leaks via marketing posters in Brazil, reveals Galaxy AI - SamMobile**
 
-You can read more about it [here](https://www.eonline.com/news/1392239/blac-chyna-reduces-her-breast-size-in-latest-plastic-surgery-reversal-procedure).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-s24-ultra-leaks-marketing-posters-brazil/).
 
 ## Requirements
 - Python 3.8
