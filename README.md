@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legionnaires disease New Hampshire: One dead, one hospitalized**
+**Galaxy S24 launch date confirmed in social post**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/01/02/metro/legionnaires-disease-new-hampshire/).
+You can read more about it [here](https://9to5google.com/2024/01/02/samsung-galaxy-s24-launch-date-post/).
 
 ## Requirements
 - Python 3.8
