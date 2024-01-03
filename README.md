@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CFP semifinals recap: Michigan stuffs Alabama in OT, Washington outduels Texas**
+**Remains of mother who vanished in 2012 found in pond near Disney World, family says**
 
-You can read more about it [here](https://sports.yahoo.com/cfp-semifinals-recap-michigan-stuffs-alabama-in-ot-washington-outduels-texas-121640059.html).
+You can read more about it [here](https://www.cbsnews.com/news/sandra-lemire-missing-mother-2012-remains-found-pond-disney-world-florida-family/).
 
 ## Requirements
 - Python 3.8
