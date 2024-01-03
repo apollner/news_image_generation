@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's Supreme Court deals Netanyahu a political blow as Israeli military starts moving troops out of Gaza**
+**Missing Chinese student was victim of 'cyber kidnapping' scam, Utah police say**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-benjamin-netanyahu-supreme-court-judicial-overhaul-ruling/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/01/02/missing-utah-student-kai-zhuang-found-cyber-kidnapping/).
 
 ## Requirements
 - Python 3.8
