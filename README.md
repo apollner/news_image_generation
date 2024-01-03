@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing Chinese student was victim of 'cyber kidnapping' scam, Utah police say**
+**EV maker Rivian's quarterly deliveries miss expectations, shares tank**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/01/02/missing-utah-student-kai-zhuang-found-cyber-kidnapping/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/ev-maker-rivian-misses-quarterly-deliveries-expectations-2024-01-02/).
 
 ## Requirements
 - Python 3.8
