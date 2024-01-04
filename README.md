@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia and other stocks "approaching the trough of disillusionment" over GenAI**
+**Japan quake survivors face freezing rain, threat of landslides**
 
-You can read more about it [here](https://www.marketwatch.com/story/beware-as-nvidia-and-other-stocks-approach-trough-of-disillusionment-over-genai-warns-this-analyst-8176e674).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-quake-survivors-face-freezing-rain-threat-landslides-2024-01-03/).
 
 ## Requirements
 - Python 3.8
