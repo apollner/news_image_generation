@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Roku's 'high-end' Pro Series TVs feature Mini LED screens**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.engadget.com/roku-high-end-pro-series-tvs-feature-mini-led-screens-164354589.html).
 
 ## Requirements
 - Python 3.8
