@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez accused of aiding Qatar in exchange for bribes**
+**Harvard president quits: Claudine Gay resignation highlights new conservative weapon**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/02/menendez-qatar-bribery-indictment/).
+You can read more about it [here](https://apnews.com/article/harvard-president-plagiarism-claudine-gay-3b048da1f2ee17b5edec3680b5828e8f).
 
 ## Requirements
 - Python 3.8
