@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rochester NY Weather: Will snow storm in Northeast impact our area?**
+**Taiwan spots Chinese balloons over island near major air base**
 
-You can read more about it [here](https://www.democratandchronicle.com/story/news/2024/01/03/rochester-ny-weather-forecast-snow-storm-northeast-how-much-snowfall-totals/72093086007/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-says-three-chinese-balloons-flew-across-island-2024-01-03/).
 
 ## Requirements
 - Python 3.8
