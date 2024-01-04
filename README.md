@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US slams ‘irresponsible’ calls by Smotrich and Ben Gvir for emigration of Gazans**
+**China’s BYD is selling more electric cars than Tesla**
 
-You can read more about it [here](https://www.timesofisrael.com/us-slams-irresponsible-calls-by-smotrich-and-ben-gvir-for-emigration-of-gazans/).
+You can read more about it [here](https://www.cnn.com/2024/01/02/cars/china-byd-ev-sales-increase-tesla-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
