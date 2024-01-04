@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a Conservative Activist's Crusade Led to Claudine Gay's Resignation - POLITICO**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2024/01/03/christopher-rufo-claudine-gay-harvard-resignation-00133618).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
