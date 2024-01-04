@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah leader to speak after killing of Hamas official in Lebanon**
+**How a Conservative Activist's Crusade Led to Claudine Gay's Resignation - POLITICO**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/01/03/hezbollah-leader-speak-after-killing-hamas-official-lebanon/).
+You can read more about it [here](https://www.politico.com/news/magazine/2024/01/03/christopher-rufo-claudine-gay-harvard-resignation-00133618).
 
 ## Requirements
 - Python 3.8
