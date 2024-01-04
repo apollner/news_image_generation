@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan Airlines details evacuation as passenger plane caught fire in Tokyo**
+**Space photos show Japan earthquake destruction**
 
-You can read more about it [here](https://abcnews.go.com/International/japan-airlines-flight-crew-acknowledged-repeated-permission-land/story?id=106066266).
+You can read more about it [here](https://www.businessinsider.com/space-photos-show-japan-earthquake-destruction-2024-1).
 
 ## Requirements
 - Python 3.8
