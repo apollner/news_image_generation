@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard professor says Claudine Gay was "brought down by a mob"**
+**Michigan's Rose Bowl win over Alabama is most-watched non-NFL sporting event since 2018**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/harvard-professor-claudine-gay-resignation-ryan-enos/).
+You can read more about it [here](https://sports.yahoo.com/michigans-rose-bowl-win-over-alabama-is-most-watched-non-nfl-sporting-event-since-2018-032148762.html).
 
 ## Requirements
 - Python 3.8
