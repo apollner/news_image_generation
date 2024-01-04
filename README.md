@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
+**Trump appeals Maine secretary of state's decision barring him from primary ballot**
 
-You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-maine-appeal-secretary-of-state-2024-ballot/).
 
 ## Requirements
 - Python 3.8
