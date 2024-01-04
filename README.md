@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Invitation] Galaxy Unpacked 2024: Opening a New Era of Mobile AI**
+**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
 
-You can read more about it [here](https://news.samsung.com/global/invitation-galaxy-unpacked-2024-opening-a-new-era-of-mobile-ai).
+You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
 
 ## Requirements
 - Python 3.8
