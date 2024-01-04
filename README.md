@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
+**NFL officiating crew at center of Cowboys-Lions controversy gets crucial Week 18 game**
 
-You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
+You can read more about it [here](https://www.foxnews.com/sports/nfl-officiating-crew-center-cowboys-lions-controversy-gets-crucial-week-18-game).
 
 ## Requirements
 - Python 3.8
