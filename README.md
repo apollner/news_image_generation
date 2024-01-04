@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How much it could cost to see UW Huskies at the national championship**
+**NFL fines David Tepper $300K after Panthers owner throws drink at fans in Jacksonville**
 
-You can read more about it [here](https://www.seattletimes.com/sports/college-football/how-much-it-could-cost-to-see-uw-huskies-at-the-national-championship/).
+You can read more about it [here](https://theathletic.com/5175685/2024/01/02/david-tepper-panthers-fine/).
 
 ## Requirements
 - Python 3.8
