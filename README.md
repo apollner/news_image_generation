@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia and Ukraine stage major POW exchange after UAE mediation**
+**Mask mandate resumes at all 11 NYC Heath and Hospitals amid rise in flu, COVID and RSV cases**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-ukraine-stage-big-pow-exchange-after-uae-mediation-2024-01-03/).
+You can read more about it [here](https://abc7ny.com/nyc-hospitals-mask-mandates-covid-flu/14265768/).
 
 ## Requirements
 - Python 3.8
