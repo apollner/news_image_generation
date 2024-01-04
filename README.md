@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL fines David Tepper $300K after Panthers owner throws drink at fans in Jacksonville**
+**[Invitation] Galaxy Unpacked 2024: Opening a New Era of Mobile AI**
 
-You can read more about it [here](https://theathletic.com/5175685/2024/01/02/david-tepper-panthers-fine/).
+You can read more about it [here](https://news.samsung.com/global/invitation-galaxy-unpacked-2024-opening-a-new-era-of-mobile-ai).
 
 ## Requirements
 - Python 3.8
