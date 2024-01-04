@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunman breaks into Colorado Supreme Court building; intrusion unrelated to Trump case, police say**
+**Charles Woodson on Michigan as “Cheaters” & a Possible Jim Harbaugh NFL Return | The Rich Eisen Show**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/gunman-breaks-colorado-supreme-court-building-intrusion-unrelated-106047705).
+You can read more about it [here](https://www.youtube.com/watch?v=tkZUXZC1q1M).
 
 ## Requirements
 - Python 3.8
