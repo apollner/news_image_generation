@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan's Rose Bowl win over Alabama is most-watched non-NFL sporting event since 2018**
+**Rochester NY Weather: Will snow storm in Northeast impact our area?**
 
-You can read more about it [here](https://sports.yahoo.com/michigans-rose-bowl-win-over-alabama-is-most-watched-non-nfl-sporting-event-since-2018-032148762.html).
+You can read more about it [here](https://www.democratandchronicle.com/story/news/2024/01/03/rochester-ny-weather-forecast-snow-storm-northeast-how-much-snowfall-totals/72093086007/).
 
 ## Requirements
 - Python 3.8
