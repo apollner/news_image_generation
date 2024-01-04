@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mask mandate resumes at all 11 NYC Heath and Hospitals amid rise in flu, COVID and RSV cases**
+**U.S., Allies Give Houthis Ultimatum: Stop Ship Attacks or Face Consequences**
 
-You can read more about it [here](https://abc7ny.com/nyc-hospitals-mask-mandates-covid-flu/14265768/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/u-s-led-coalition-warns-houthis-to-stop-ship-attacks-cfd490df).
 
 ## Requirements
 - Python 3.8
