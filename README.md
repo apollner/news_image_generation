@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Kimmel Threatens to Sue Aaron Rodgers**
+**Malta-flagged container ship reported seeing 3 explosions towards its port quarter off Yemen -Ambrey**
 
-You can read more about it [here](https://consequence.net/2024/01/jimmy-kimmel-threatens-sue-aaron-rodgers/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/malta-flagged-container-ship-reported-seeing-3-explosions-towards-its-port-2024-01-02/).
 
 ## Requirements
 - Python 3.8
