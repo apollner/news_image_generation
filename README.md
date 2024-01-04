@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of doctors in Britain walk off the job in their longest-ever strike**
+**Hezbollah leader to speak after killing of Hamas official in Lebanon**
 
-You can read more about it [here](https://apnews.com/article/uk-doctors-strike-disruption-nhs-a5c550eaa82d22b91805f5e29da047c6).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/01/03/hezbollah-leader-speak-after-killing-hamas-official-lebanon/).
 
 ## Requirements
 - Python 3.8
