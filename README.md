@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan says Coast Guard plane apparently not cleared for take-off before runway collision**
+**Russia and Ukraine stage major POW exchange after UAE mediation**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-probe-possible-negligence-tokyo-runway-collision-2024-01-03/).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-ukraine-stage-big-pow-exchange-after-uae-mediation-2024-01-03/).
 
 ## Requirements
 - Python 3.8
