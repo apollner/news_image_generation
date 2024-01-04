@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rachel Lindsay Admitted She and Bryan Abasolo Lived "Totally Different Lives" Before Breakup News**
+**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
 
-You can read more about it [here](https://www.eonline.com/news/1392316/rachel-lindsay-admitted-she-and-bryan-abasolo-lived-totally-different-lives-before-breakup-news).
+You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
 
 ## Requirements
 - Python 3.8
