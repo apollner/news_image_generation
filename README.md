@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan spots Chinese balloons over island near major air base**
+**Japan Airlines details evacuation as passenger plane caught fire in Tokyo**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-says-three-chinese-balloons-flew-across-island-2024-01-03/).
+You can read more about it [here](https://abcnews.go.com/International/japan-airlines-flight-crew-acknowledged-repeated-permission-land/story?id=106066266).
 
 ## Requirements
 - Python 3.8
