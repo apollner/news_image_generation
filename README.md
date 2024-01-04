@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump appeals ruling barring him from primary ballot in Maine**
+**Harvard professor says Claudine Gay was "brought down by a mob"**
 
-You can read more about it [here](https://www.axios.com/2024/01/02/trump-appeal-maine-colorado-14th-amendment).
+You can read more about it [here](https://www.cbsnews.com/boston/news/harvard-professor-claudine-gay-resignation-ryan-enos/).
 
 ## Requirements
 - Python 3.8
