@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charles Woodson on Michigan as “Cheaters” & a Possible Jim Harbaugh NFL Return | The Rich Eisen Show**
+**Japan plane crash: Five crewmembers dead, hundreds evacuated safely**
 
-You can read more about it [here](https://www.youtube.com/watch?v=tkZUXZC1q1M).
+You can read more about it [here](https://apnews.com/article/plane-fire-japan-793607548e45a80b8ccc8721fb3c5016).
 
 ## Requirements
 - Python 3.8
