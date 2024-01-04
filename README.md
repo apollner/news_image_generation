@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malta-flagged container ship reported seeing 3 explosions towards its port quarter off Yemen -Ambrey**
+**How much it could cost to see UW Huskies at the national championship**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/malta-flagged-container-ship-reported-seeing-3-explosions-towards-its-port-2024-01-02/).
+You can read more about it [here](https://www.seattletimes.com/sports/college-football/how-much-it-could-cost-to-see-uw-huskies-at-the-national-championship/).
 
 ## Requirements
 - Python 3.8
