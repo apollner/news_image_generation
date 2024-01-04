@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
+**NFL playoffs: What's at stake for spots, seeding and division titles in Week 18?**
 
-You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
+You can read more about it [here](https://sports.yahoo.com/nfl-playoffs-whats-at-stake-for-spots-seeding-and-division-titles-in-week-18-225611501.html).
 
 ## Requirements
 - Python 3.8
