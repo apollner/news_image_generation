@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S., Allies Give Houthis Ultimatum: Stop Ship Attacks or Face Consequences**
+**Fed minutes cite lower inflation risks, concern about 'overly restrictive' policy**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/u-s-led-coalition-warns-houthis-to-stop-ship-attacks-cfd490df).
+You can read more about it [here](https://www.reuters.com/markets/us/fed-minutes-may-elaborate-coming-rate-cut-debate-2024-01-03/).
 
 ## Requirements
 - Python 3.8
