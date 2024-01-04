@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space photos show Japan earthquake destruction**
+**Japan quake survivors face freezing rain, threat of landslides**
 
-You can read more about it [here](https://www.businessinsider.com/space-photos-show-japan-earthquake-destruction-2024-1).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-quake-survivors-face-freezing-rain-threat-landslides-2024-01-03/).
 
 ## Requirements
 - Python 3.8
