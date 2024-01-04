@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump appeals Maine secretary of state's decision barring him from primary ballot**
+**Sen. Bob Menendez accused of aiding Qatar in exchange for bribes**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-maine-appeal-secretary-of-state-2024-ballot/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/02/menendez-qatar-bribery-indictment/).
 
 ## Requirements
 - Python 3.8
