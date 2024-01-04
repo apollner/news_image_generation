@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks Launches Winter Menu with New Iced Hazelnut Oatmilk Shaken Espresso and the Return of Pistachio**
+**Nvidia and other stocks "approaching the trough of disillusionment" over GenAI**
 
-You can read more about it [here](https://stories.starbucks.com/press/2024/starbucks-launches-winter-menu-with-new-iced-hazelnut-oatmilk-shaken-espresso-and-the-return-of-pistachio/).
+You can read more about it [here](https://www.marketwatch.com/story/beware-as-nvidia-and-other-stocks-approach-trough-of-disillusionment-over-genai-warns-this-analyst-8176e674).
 
 ## Requirements
 - Python 3.8
