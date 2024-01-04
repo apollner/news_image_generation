@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan plane crash: Five crewmembers dead, hundreds evacuated safely**
+**Jimmy Kimmel Threatens to Sue Aaron Rodgers**
 
-You can read more about it [here](https://apnews.com/article/plane-fire-japan-793607548e45a80b8ccc8721fb3c5016).
+You can read more about it [here](https://consequence.net/2024/01/jimmy-kimmel-threatens-sue-aaron-rodgers/).
 
 ## Requirements
 - Python 3.8
