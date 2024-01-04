@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Captures Sun's Fury: Strongest Solar Flare Since 2017**
+**US slams ‘irresponsible’ calls by Smotrich and Ben Gvir for emigration of Gazans**
 
-You can read more about it [here](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/).
+You can read more about it [here](https://www.timesofisrael.com/us-slams-irresponsible-calls-by-smotrich-and-ben-gvir-for-emigration-of-gazans/).
 
 ## Requirements
 - Python 3.8
