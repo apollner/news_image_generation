@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed minutes cite lower inflation risks, concern about 'overly restrictive' policy**
+**McAfee apologizes for being ‘part of’ Rodgers’ comment alleging Kimmel has link to Epstein**
 
-You can read more about it [here](https://www.reuters.com/markets/us/fed-minutes-may-elaborate-coming-rate-cut-debate-2024-01-03/).
+You can read more about it [here](https://theathletic.com/5175873/2024/01/03/mcafee-apology-rodgers-kimmel-comments/).
 
 ## Requirements
 - Python 3.8
