@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan quake survivors face freezing rain, threat of landslides**
+**Starbucks Launches Winter Menu with New Iced Hazelnut Oatmilk Shaken Espresso and the Return of Pistachio**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/japan-quake-survivors-face-freezing-rain-threat-landslides-2024-01-03/).
+You can read more about it [here](https://stories.starbucks.com/press/2024/starbucks-launches-winter-menu-with-new-iced-hazelnut-oatmilk-shaken-espresso-and-the-return-of-pistachio/).
 
 ## Requirements
 - Python 3.8
