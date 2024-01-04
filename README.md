@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roku's 'high-end' Pro Series TVs feature Mini LED screens**
+**How a Conservative Activist's Crusade Led to Claudine Gay's Resignation - POLITICO**
 
-You can read more about it [here](https://www.engadget.com/roku-high-end-pro-series-tvs-feature-mini-led-screens-164354589.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2024/01/03/christopher-rufo-claudine-gay-harvard-resignation-00133618).
 
 ## Requirements
 - Python 3.8
