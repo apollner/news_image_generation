@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of doctors in Britain walk off the job in their longest-ever strike**
+**Japan says Coast Guard plane apparently not cleared for take-off before runway collision**
 
-You can read more about it [here](https://apnews.com/article/uk-doctors-strike-disruption-nhs-a5c550eaa82d22b91805f5e29da047c6).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/police-probe-possible-negligence-tokyo-runway-collision-2024-01-03/).
 
 ## Requirements
 - Python 3.8
