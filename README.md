@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard president quits: Claudine Gay resignation highlights new conservative weapon**
+**US slams ‘irresponsible’ calls by Smotrich and Ben Gvir for emigration of Gazans**
 
-You can read more about it [here](https://apnews.com/article/harvard-president-plagiarism-claudine-gay-3b048da1f2ee17b5edec3680b5828e8f).
+You can read more about it [here](https://www.timesofisrael.com/us-slams-irresponsible-calls-by-smotrich-and-ben-gvir-for-emigration-of-gazans/).
 
 ## Requirements
 - Python 3.8
