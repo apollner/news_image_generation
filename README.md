@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China’s BYD is selling more electric cars than Tesla**
+**Rachel Lindsay Admitted She and Bryan Abasolo Lived "Totally Different Lives" Before Breakup News**
 
-You can read more about it [here](https://www.cnn.com/2024/01/02/cars/china-byd-ev-sales-increase-tesla-intl-hnk/index.html).
+You can read more about it [here](https://www.eonline.com/news/1392316/rachel-lindsay-admitted-she-and-bryan-abasolo-lived-totally-different-lives-before-breakup-news).
 
 ## Requirements
 - Python 3.8
