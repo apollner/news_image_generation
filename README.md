@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US to reopen border crossings as illegal immigration drops**
+**SpaceX illegally fired workers critical of Elon Musk, US labor agency says**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-reopen-border-crossings-illegal-immigration-drops-2024-01-03/).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-2024-01-03/).
 
 ## Requirements
 - Python 3.8
