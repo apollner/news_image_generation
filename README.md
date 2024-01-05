@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Trump businesses received $7.8 million in foreign payments during presidency**
+**Mobileye shares plunge after chipmaker warns of order pullback**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/04/report-trump-businesses-received-78-million-foreign-payments-during-presidency/).
+You can read more about it [here](https://www.cnbc.com/2024/01/04/mobileye-shares-plunge-after-chipmaker-warns-of-order-pullback.html).
 
 ## Requirements
 - Python 3.8
