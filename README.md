@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony 2024 TV Exclusive | What To Expect and What Not To Expect**
+**Private payrolls added 164,000 in December, beating expectations, ADP says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9xJLLrQFCdw).
+You can read more about it [here](https://www.cnbc.com/2024/01/04/private-payrolls-added-164000-in-december-beating-expectations-adp-says.html).
 
 ## Requirements
 - Python 3.8
