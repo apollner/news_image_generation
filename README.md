@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah, Israel appear to signal no desire for spread of Gaza war**
+**Al Sharpton blasted for calling Harvard president's resignation an attack on 'every Black woman': 'Go away'**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hezbollah-israel-appear-signal-no-desire-spread-gaza-war-2024-01-03/).
+You can read more about it [here](https://www.foxnews.com/media/al-sharpton-blasted-calling-harvard-president-resignation-attack-black-woman).
 
 ## Requirements
 - Python 3.8
