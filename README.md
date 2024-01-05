@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Possible Ozempic side effects including hair loss and suicidal thoughts probed by FDA**
+**Florida surgeon general calls for halt on mRNA covid vaccines, citing debunked claim**
 
-You can read more about it [here](https://www.cbsnews.com/news/ozempic-possible-side-effects-hair-loss-suicidal-thoughts-fda/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/01/03/florida-surgeon-general-ladapo-covid-vaccine/).
 
 ## Requirements
 - Python 3.8
