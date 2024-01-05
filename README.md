@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu’s bait: Why Israel might have killed Hamas leaders in Beirut now**
+**Snow map: Our first look at potential snow totals in Mass. this weekend**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/4/netanyahus-bait-why-israel-might-have-killed-hamas-leaders-in-beirut-now).
+You can read more about it [here](http://www.nbcboston.com/weather/snow-totals-map-boston-mass-weekend-storm/3235254/).
 
 ## Requirements
 - Python 3.8
