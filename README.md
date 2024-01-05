@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX illegally fired workers critical of Elon Musk, US labor agency says**
+**Father, son charged in connection with deaths of pregnant Texas teen, boyfriend: Police**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-2024-01-03/).
+You can read more about it [here](https://abcnews.go.com/US/father-son-charged-connection-deaths-pregnant-texas-teen/story?id=106093524).
 
 ## Requirements
 - Python 3.8
