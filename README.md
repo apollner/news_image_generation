@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL QB market: Top free agents, trade targets, cut candidates, projected landing spots, contracts, more**
+**Microsoft announces AI key on Windows 11 PCs**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-qb-market-top-free-agents-trade-targets-cut-candidates-projected-landing-spots-contracts-more/).
+You can read more about it [here](https://www.bbc.com/news/technology-67881373).
 
 ## Requirements
 - Python 3.8
