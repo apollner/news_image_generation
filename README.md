@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Execs Knew About “Egregious Conduct” By Ex-Distribution VP & Did Nothing, Sexual Assault Suit Claims**
+**Eighty-four killed in bomb blasts near Iran general Qasem Soleimani's tomb - state TV**
 
-You can read more about it [here](http://deadline.com/2024/01/disney-sexual-assault-lawsuit-1235694889/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67872281).
 
 ## Requirements
 - Python 3.8
