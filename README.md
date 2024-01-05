@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who Is Gypsy Rose Blanchard’s Husband? Everything to Know About Ryan Anderson**
+**Report: Aaron Rodgers-Jimmy Kimmel fight opens "big can of worms" for ESPN**
 
-You can read more about it [here](https://www.eonline.com/news/1392365/who-is-gypsy-rose-blanchards-husband-everything-to-know-about-ryan-anderson).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-rodgers-jimmy-kimmel-fight-opens-big-can-of-worms-for-espn).
 
 ## Requirements
 - Python 3.8
