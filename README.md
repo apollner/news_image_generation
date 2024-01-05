@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Surgeon General Cites Debunked Claims In Calling For Halt Of COVID Shots**
+**Las Vegas judge attacked by felon during sentencing**
 
-You can read more about it [here](https://www.huffpost.com/entry/joseph-ladapo-halt-covid-vaccines_n_6596c6bfe4b0bf73e1788bc6).
+You can read more about it [here](https://www.reuters.com/world/us/las-vegas-judge-attacked-by-felon-during-sentencing-2024-01-04/).
 
 ## Requirements
 - Python 3.8
