@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft announces AI key on Windows 11 PCs**
+**Despite Arouri strike in his backyard, Nasrallah is trying to avoid war with Israel**
 
-You can read more about it [here](https://www.bbc.com/news/technology-67881373).
+You can read more about it [here](https://www.timesofisrael.com/despite-arouri-strike-in-his-backyard-nasrallah-is-trying-to-avoid-war-with-israel/).
 
 ## Requirements
 - Python 3.8
