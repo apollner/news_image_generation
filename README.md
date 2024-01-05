@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak suggests general election in second half of year**
+**Report: Trump businesses received $7.8 million in foreign payments during presidency**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67883242).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/04/report-trump-businesses-received-78-million-foreign-payments-during-presidency/).
 
 ## Requirements
 - Python 3.8
