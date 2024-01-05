@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mask mandates return at some US hospitals as COVID, flu jump**
+**When and where to see the Quadrantids, 2024's first meteor shower**
 
-You can read more about it [here](https://www.reuters.com/world/us/mask-mandates-return-some-us-hospitals-covid-flu-jump-2024-01-04/).
+You can read more about it [here](https://www.cbsnews.com/news/quadrantids-2024-first-meteor-shower-january-peak/).
 
 ## Requirements
 - Python 3.8
