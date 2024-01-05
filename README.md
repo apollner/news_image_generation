@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Despite Arouri strike in his backyard, Nasrallah is trying to avoid war with Israel**
+**Rishi Sunak suggests general election in second half of year**
 
-You can read more about it [here](https://www.timesofisrael.com/despite-arouri-strike-in-his-backyard-nasrallah-is-trying-to-avoid-war-with-israel/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67883242).
 
 ## Requirements
 - Python 3.8
