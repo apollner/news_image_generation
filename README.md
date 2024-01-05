@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA looking into reports of hair loss, suicidal thoughts in people using popular drugs for diabetes and weight loss**
+**PFT's Week 18 2023 NFL picks, Florio vs. Simms**
 
-You can read more about it [here](https://www.wlwt.com/article/hair-loss-suicidal-thoughts-drugs-for-diabetes-weight-loss/46279927).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-18-2023-nfl-picks-florio-vs-simms).
 
 ## Requirements
 - Python 3.8
