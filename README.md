@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Al Sharpton blasted for calling Harvard president's resignation an attack on 'every Black woman': 'Go away'**
+**Live coverage: SpaceX Falcon 9 to launch Ovzon-3 satellite, kicking off launch year at the Cape – Spaceflight Now**
 
-You can read more about it [here](https://www.foxnews.com/media/al-sharpton-blasted-calling-harvard-president-resignation-attack-black-woman).
+You can read more about it [here](https://spaceflightnow.com/2024/01/03/live-coverage-spacex-falcon-9-to-launch-ovzon-3-satellite-from-cape-canaveral/).
 
 ## Requirements
 - Python 3.8
