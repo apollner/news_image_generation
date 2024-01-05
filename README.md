@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father, son charged in connection with deaths of pregnant Texas teen, boyfriend: Police**
+**Nevada judge attacked by airborne defendant during sentencing in Vegas courtroom**
 
-You can read more about it [here](https://abcnews.go.com/US/father-son-charged-connection-deaths-pregnant-texas-teen/story?id=106093524).
+You can read more about it [here](https://www.politico.com/news/2024/01/04/nevada-judge-attacked-by-airborne-defendant-during-sentencing-in-vegas-courtroom-00133776).
 
 ## Requirements
 - Python 3.8
