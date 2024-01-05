@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT's Week 18 2023 NFL picks, Florio vs. Simms**
+**Glynis Johns, most known for role in 'Mary Poppins' and 'The Sundowners,' dies at 100**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-18-2023-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://abc7.com/glynis-johns-actress-dies-mary-poppins/14274026/).
 
 ## Requirements
 - Python 3.8
