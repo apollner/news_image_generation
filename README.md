@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX Falcon 9 to launch Ovzon-3 satellite, kicking off launch year at the Cape – Spaceflight Now**
+**More than 100 people killed in twin blasts near slain Iran commander’s grave**
 
-You can read more about it [here](https://spaceflightnow.com/2024/01/03/live-coverage-spacex-falcon-9-to-launch-ovzon-3-satellite-from-cape-canaveral/).
+You can read more about it [here](https://www.cnn.com/2024/01/03/middleeast/iran-explosions-soleimani-ceremony-intl/index.html).
 
 ## Requirements
 - Python 3.8
