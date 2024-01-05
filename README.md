@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican introduces resolution to impeach Shenna Bellows over Donald Trump decision**
+**Hezbollah, Israel appear to signal no desire for spread of Gaza war**
 
-You can read more about it [here](https://wgme.com/news/local/republican-introduces-resolution-to-impeach-shenna-bellows-over-donald-trump-decision-march-election-us-united-states-2024-joe-biden-insurrection).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hezbollah-israel-appear-signal-no-desire-spread-gaza-war-2024-01-03/).
 
 ## Requirements
 - Python 3.8
