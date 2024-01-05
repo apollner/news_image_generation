@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Aaron Rodgers-Jimmy Kimmel fight opens "big can of worms" for ESPN**
+**Mask mandates return at some US hospitals as COVID, flu jump**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-rodgers-jimmy-kimmel-fight-opens-big-can-of-worms-for-espn).
+You can read more about it [here](https://www.reuters.com/world/us/mask-mandates-return-some-us-hospitals-covid-flu-jump-2024-01-04/).
 
 ## Requirements
 - Python 3.8
