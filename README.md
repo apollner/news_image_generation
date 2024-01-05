@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan Airlines expects massive losses after deadly collision at Tokyo airport**
+**2024 NFL QB market: Top free agents, trade targets, cut candidates, projected landing spots, contracts, more**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/japan-airlines-expects-massive-losses-deadly-collision-tokyo-airport).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-qb-market-top-free-agents-trade-targets-cut-candidates-projected-landing-spots-contracts-more/).
 
 ## Requirements
 - Python 3.8
