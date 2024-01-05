@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft adds new AI Copilot button to Windows keyboards in device’s first change in 30 years**
+**FDA looking into reports of hair loss, suicidal thoughts in people using popular drugs for diabetes and weight loss**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/microsoft-adds-new-ai-copilot-button-windows-keyboards-devices-first-change-30-years).
+You can read more about it [here](https://www.wlwt.com/article/hair-loss-suicidal-thoughts-drugs-for-diabetes-weight-loss/46279927).
 
 ## Requirements
 - Python 3.8
