@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When and where to see the Quadrantids, 2024's first meteor shower**
+**Pro-Palestinian demonstrators halt proceedings at California Assembly**
 
-You can read more about it [here](https://www.cbsnews.com/news/quadrantids-2024-first-meteor-shower-january-peak/).
+You can read more about it [here](https://www.kcra.com/article/pro-palestine-demonstrators-force-california-assembly-into-recess-gaza-cease-fire/46278609).
 
 ## Requirements
 - Python 3.8
