@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who Is Gypsy Rose Blanchard’s Husband? Everything to Know About Ryan Anderson**
+**Possible Ozempic side effects including hair loss and suicidal thoughts probed by FDA**
 
-You can read more about it [here](https://www.eonline.com/news/1392365/who-is-gypsy-rose-blanchards-husband-everything-to-know-about-ryan-anderson).
+You can read more about it [here](https://www.cbsnews.com/news/ozempic-possible-side-effects-hair-loss-suicidal-thoughts-fda/).
 
 ## Requirements
 - Python 3.8
