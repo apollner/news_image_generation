@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan Airlines counts losses from wrecked Tokyo plane**
+**US to reopen border crossings as illegal immigration drops**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/japan-airlines-estimates-loss-about-1048-mln-collision-2024-01-03/).
+You can read more about it [here](https://www.reuters.com/world/us/us-reopen-border-crossings-illegal-immigration-drops-2024-01-03/).
 
 ## Requirements
 - Python 3.8
