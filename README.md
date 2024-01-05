@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mobileye shares plunge after chipmaker warns of order pullback**
+**Florida Surgeon General Cites Debunked Claims In Calling For Halt Of COVID Shots**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/04/mobileye-shares-plunge-after-chipmaker-warns-of-order-pullback.html).
+You can read more about it [here](https://www.huffpost.com/entry/joseph-ladapo-halt-covid-vaccines_n_6596c6bfe4b0bf73e1788bc6).
 
 ## Requirements
 - Python 3.8
