@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Glynis Johns, most known for role in 'Mary Poppins' and 'The Sundowners,' dies at 100**
+**Dalvin Cook agrees to sign with Ravens**
 
-You can read more about it [here](https://abc7.com/glynis-johns-actress-dies-mary-poppins/14274026/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dalvin-cook-agrees-to-sign-with-ravens).
 
 ## Requirements
 - Python 3.8
