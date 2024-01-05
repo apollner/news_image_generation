@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eighty-four killed in bomb blasts near Iran general Qasem Soleimani's tomb - state TV**
+**Samsung Galaxy A35 images leak, revealing punch-hole selfie camera - SamMobile**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67872281).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-a35-images-leak-design/).
 
 ## Requirements
 - Python 3.8
