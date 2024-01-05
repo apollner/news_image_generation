@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX illegally fired workers critical of Elon Musk, US labor agency says**
+**Disney Execs Knew About “Egregious Conduct” By Ex-Distribution VP & Did Nothing, Sexual Assault Suit Claims**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-2024-01-03/).
+You can read more about it [here](http://deadline.com/2024/01/disney-sexual-assault-lawsuit-1235694889/).
 
 ## Requirements
 - Python 3.8
