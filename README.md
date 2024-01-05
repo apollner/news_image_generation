@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McAfee apologizes for being ‘part of’ Rodgers’ comment alleging Kimmel has link to Epstein**
+**Republican introduces resolution to impeach Shenna Bellows over Donald Trump decision**
 
-You can read more about it [here](https://theathletic.com/5175873/2024/01/03/mcafee-apology-rodgers-kimmel-comments/).
+You can read more about it [here](https://wgme.com/news/local/republican-introduces-resolution-to-impeach-shenna-bellows-over-donald-trump-decision-march-election-us-united-states-2024-joe-biden-insurrection).
 
 ## Requirements
 - Python 3.8
