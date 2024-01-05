@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida surgeon general calls for halt on mRNA covid vaccines, citing debunked claim**
+**Who Is Gypsy Rose Blanchard’s Husband? Everything to Know About Ryan Anderson**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/01/03/florida-surgeon-general-ladapo-covid-vaccine/).
+You can read more about it [here](https://www.eonline.com/news/1392365/who-is-gypsy-rose-blanchards-husband-everything-to-know-about-ryan-anderson).
 
 ## Requirements
 - Python 3.8
