@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Private payrolls added 164,000 in December, beating expectations, ADP says**
+**Despite Arouri strike in his backyard, Nasrallah is trying to avoid war with Israel**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/04/private-payrolls-added-164000-in-december-beating-expectations-adp-says.html).
+You can read more about it [here](https://www.timesofisrael.com/despite-arouri-strike-in-his-backyard-nasrallah-is-trying-to-avoid-war-with-israel/).
 
 ## Requirements
 - Python 3.8
