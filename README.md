@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Despite Arouri strike in his backyard, Nasrallah is trying to avoid war with Israel**
+**Sony 2024 TV Exclusive | What To Expect and What Not To Expect**
 
-You can read more about it [here](https://www.timesofisrael.com/despite-arouri-strike-in-his-backyard-nasrallah-is-trying-to-avoid-war-with-israel/).
+You can read more about it [here](https://www.youtube.com/watch?v=9xJLLrQFCdw).
 
 ## Requirements
 - Python 3.8
