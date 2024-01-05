@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian demonstrators halt proceedings at California Assembly**
+**Japan Airlines counts losses from wrecked Tokyo plane**
 
-You can read more about it [here](https://www.kcra.com/article/pro-palestine-demonstrators-force-california-assembly-into-recess-gaza-cease-fire/46278609).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/japan-airlines-estimates-loss-about-1048-mln-collision-2024-01-03/).
 
 ## Requirements
 - Python 3.8
