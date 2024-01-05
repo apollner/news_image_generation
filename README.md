@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snow map: Our first look at potential snow totals in Mass. this weekend**
+**Hedge fund billionaire Bill Ackman takes aim at DEI ‘ideology’ after Harvard president’s resignation, claiming it’s anti-capitalist**
 
-You can read more about it [here](http://www.nbcboston.com/weather/snow-totals-map-boston-mass-weekend-storm/3235254/).
+You can read more about it [here](https://fortune.com/2024/01/03/harvard-bill-ackman-antisemitism-dei-diversity-equity-inclusion-anti-capitalist/).
 
 ## Requirements
 - Python 3.8
