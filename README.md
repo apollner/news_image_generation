@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hedge fund billionaire Bill Ackman takes aim at DEI ‘ideology’ after Harvard president’s resignation, claiming it’s anti-capitalist**
+**Gypsy Rose Blanchard becomes overnight internet star after prison release**
 
-You can read more about it [here](https://fortune.com/2024/01/03/harvard-bill-ackman-antisemitism-dei-diversity-equity-inclusion-anti-capitalist/).
+You can read more about it [here](https://www.foxnews.com/us/gypsy-rose-blanchard-becomes-overnight-internet-star-after-prison-release).
 
 ## Requirements
 - Python 3.8
