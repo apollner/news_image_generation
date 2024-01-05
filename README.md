@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard becomes overnight internet star after prison release**
+**Japan Airlines expects massive losses after deadly collision at Tokyo airport**
 
-You can read more about it [here](https://www.foxnews.com/us/gypsy-rose-blanchard-becomes-overnight-internet-star-after-prison-release).
+You can read more about it [here](https://www.foxbusiness.com/markets/japan-airlines-expects-massive-losses-deadly-collision-tokyo-airport).
 
 ## Requirements
 - Python 3.8
