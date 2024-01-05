@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy A35 images leak, revealing punch-hole selfie camera - SamMobile**
+**Netanyahu’s bait: Why Israel might have killed Hamas leaders in Beirut now**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-a35-images-leak-design/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/1/4/netanyahus-bait-why-israel-might-have-killed-hamas-leaders-in-beirut-now).
 
 ## Requirements
 - Python 3.8
