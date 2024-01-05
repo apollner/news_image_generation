@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Las Vegas judge attacked by felon during sentencing**
+**Sources - Ricky Rubio, Cavaliers agree to contract buyout**
 
-You can read more about it [here](https://www.reuters.com/world/us/las-vegas-judge-attacked-by-felon-during-sentencing-2024-01-04/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39240801/sources-ricky-rubio-cavaliers-agree-contract-buyout).
 
 ## Requirements
 - Python 3.8
