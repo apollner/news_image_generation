@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Ricky Rubio, Cavaliers agree to contract buyout**
+**Microsoft adds new AI Copilot button to Windows keyboards in device’s first change in 30 years**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39240801/sources-ricky-rubio-cavaliers-agree-contract-buyout).
+You can read more about it [here](https://www.foxbusiness.com/technology/microsoft-adds-new-ai-copilot-button-windows-keyboards-devices-first-change-30-years).
 
 ## Requirements
 - Python 3.8
