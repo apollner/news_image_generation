@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 100 people killed in twin blasts near slain Iran commander’s grave**
+**Who Is Gypsy Rose Blanchard’s Husband? Everything to Know About Ryan Anderson**
 
-You can read more about it [here](https://www.cnn.com/2024/01/03/middleeast/iran-explosions-soleimani-ceremony-intl/index.html).
+You can read more about it [here](https://www.eonline.com/news/1392365/who-is-gypsy-rose-blanchards-husband-everything-to-know-about-ryan-anderson).
 
 ## Requirements
 - Python 3.8
