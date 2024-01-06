@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendall Jenner Leaves Little to the Imagination in Tropical Bikini Photos**
+**South Korea orders islanders to seek shelter after North fires artillery nearby**
 
-You can read more about it [here](https://www.eonline.com/news/1392458/kendall-jenner-leaves-little-to-the-imagination-in-tropical-bikini-photos).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/skorea-orders-evacuation-island-near-north-korea-border-2024-01-05/).
 
 ## Requirements
 - Python 3.8
