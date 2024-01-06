@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-rock musician arrested after human remains found in search for his missing girlfriend**
+**Chip Wilson: Lululemon founder, ex-CEO bashed for comments about brand**
 
-You can read more about it [here](https://news.yahoo.com/ex-rock-musician-arrested-human-175229742.html).
+You can read more about it [here](https://www.usatoday.com/story/money/business/2024/01/04/chip-wilson-lululemon-comments/72109070007/).
 
 ## Requirements
 - Python 3.8
