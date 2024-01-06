@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates**
+**Jeffrey Epstein: Recruitment of girls detailed in second document batch**
 
-You can read more about it [here](https://techcrunch.com/2024/01/04/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67879225).
 
 ## Requirements
 - Python 3.8
