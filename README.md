@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AI in 2024: Five trends workers need to know**
+**Iran arrests suspects over bomb blasts, mourners demand revenge - state TV**
 
-You can read more about it [here](https://www.bbc.com/worklife/article/20240104-ai-in-2024-five-trends-workers-need-to-know).
+You can read more about it [here](https://www.reuters.com/world/middle-east/iran-leaders-vow-revenge-funeral-bomb-attack-victims-state-media-2024-01-05/).
 
 ## Requirements
 - Python 3.8
