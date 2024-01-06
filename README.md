@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Job Gains Picked Up in December, Capping Year of Healthy Hiring**
+**Hezbollah leader says Lebanon will be 'exposed' to Israeli attacks if no response to Hamas leader's death**
 
-You can read more about it [here](https://www.wsj.com/economy/jobs/jobs-report-december-today-unemployment-economy-58801a70).
+You can read more about it [here](https://www.foxnews.com/world/hezbollah-leader-lebanon-exposed-israeli-attacks-no-response-hamas-leaders-death).
 
 ## Requirements
 - Python 3.8
