@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida abortion amendment gets enough signatures for 2024 ballot**
+**Job Gains Picked Up in December, Capping Year of Healthy Hiring**
 
-You can read more about it [here](https://www.tampabay.com/news/florida-politics/2024/01/05/abortion-amendment-florida-pregnancy-ban-planned-parenthood/).
+You can read more about it [here](https://www.wsj.com/economy/jobs/jobs-report-december-today-unemployment-economy-58801a70).
 
 ## Requirements
 - Python 3.8
