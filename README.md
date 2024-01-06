@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carrefour pulls Pepsi, Lays, Lipton from shelves because of high prices - The Washington Post**
+**Kendall Jenner Leaves Little to the Imagination in Tropical Bikini Photos**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/01/04/pepsi-lays-carrefour-grocery/).
+You can read more about it [here](https://www.eonline.com/news/1392458/kendall-jenner-leaves-little-to-the-imagination-in-tropical-bikini-photos).
 
 ## Requirements
 - Python 3.8
