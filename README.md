@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeffrey Epstein: Recruitment of girls detailed in second document batch**
+**Robert Downey Jr. Praises ‘Oppenheimer’ Co-Star Cillian Murphy: “Nobody Dislikes This Guy”**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67879225).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-oppenheimer-cillian-murphy-palm-springs-film-awards-tribute-1235779985/).
 
 ## Requirements
 - Python 3.8
