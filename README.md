@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Downey Jr. Praises ‘Oppenheimer’ Co-Star Cillian Murphy: “Nobody Dislikes This Guy”**
+**Google has started disabling third-party cookies for Chrome users**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-oppenheimer-cillian-murphy-palm-springs-film-awards-tribute-1235779985/).
+You can read more about it [here](https://www.engadget.com/google-has-started-disabling-third-party-cookies-for-chrome-users-060955481.html).
 
 ## Requirements
 - Python 3.8
