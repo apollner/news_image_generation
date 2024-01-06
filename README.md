@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Ravens sign RB Dalvin Cook to practice squad**
+**ISRO's Aditya- L1 Satellite Has A Date With The Sun**
 
-You can read more about it [here](https://www.baltimorebeatdown.com/2024/1/4/24025900/report-ravens-sign-rb-dalvin-cook-to-practice-squad-nfl-transaction-news).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
