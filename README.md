@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Everyone Is Obsessed With the Kid Who Beat 'Tetris'**
+**‘Speed Racer’ Actor Christian Oliver and His Two Young Daughters Killed in Caribbean Plane Crash**
 
-You can read more about it [here](https://www.wired.com/story/why-everyone-is-obsessed-with-the-kid-who-beat-tetris/).
+You can read more about it [here](https://variety.com/2024/film/obituaries-people-news/christian-oliver-dead-plane-crash-caribbean-1235862628/).
 
 ## Requirements
 - Python 3.8
