@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**13-year-old Tetris whiz believed to be first person to “beat” the game**
+**Newly unsealed documents reveal Jeffrey Epstein’s relationships with powerful people**
 
-You can read more about it [here](https://www.youtube.com/watch?v=uSJ9uWmRES0).
+You can read more about it [here](https://www.youtube.com/watch?v=4_x7tg5YO5s).
 
 ## Requirements
 - Python 3.8
