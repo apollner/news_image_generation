@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carrefour pulls PepsiCo products over price hikes**
+**Ex-rock musician arrested after human remains found in search for his missing girlfriend**
 
-You can read more about it [here](https://www.reuters.com/markets/us/carrefour-says-it-will-not-sell-pepsico-goods-due-price-hikes-2024-01-04/).
+You can read more about it [here](https://news.yahoo.com/ex-rock-musician-arrested-human-175229742.html).
 
 ## Requirements
 - Python 3.8
