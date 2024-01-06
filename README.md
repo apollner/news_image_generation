@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**12 people, mostly children, killed in Gaza zone declared safe by Israel**
+**Report: Ravens sign RB Dalvin Cook to practice squad**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-03-2024-3b77b0c36bf2cd9922b7a484234bef5f).
+You can read more about it [here](https://www.baltimorebeatdown.com/2024/1/4/24025900/report-ravens-sign-rb-dalvin-cook-to-practice-squad-nfl-transaction-news).
 
 ## Requirements
 - Python 3.8
