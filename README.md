@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**3 years after Jan. 6 Capitol riot, Trump trial takes center stage, and investigators still search for offenders**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/three-years-jan-6-capitol-attack-trumps-trial/).
 
 ## Requirements
 - Python 3.8
