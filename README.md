@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perry, Iowa, school shooting: Sixth grader killed, five wounded**
+**Carrefour pulls PepsiCo products over price hikes**
 
-You can read more about it [here](https://apnews.com/article/perry-high-school-shooting-iowa-1defc6260e074362240a31a7f30cf1b9).
+You can read more about it [here](https://www.reuters.com/markets/us/carrefour-says-it-will-not-sell-pepsico-goods-due-price-hikes-2024-01-04/).
 
 ## Requirements
 - Python 3.8
