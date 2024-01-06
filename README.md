@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Speed Racer’ Actor Christian Oliver and His Two Young Daughters Killed in Caribbean Plane Crash**
+**NFL Week 18 bold predictions: Bill Belichick era with Patriots ends after win over Jets; Titans stun Jaguars**
 
-You can read more about it [here](https://variety.com/2024/film/obituaries-people-news/christian-oliver-dead-plane-crash-caribbean-1235862628/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-18-bold-predictions-bill-belichick-era-with-patriots-ends-after-win-over-jets-titans-stun-jaguars/).
 
 ## Requirements
 - Python 3.8
