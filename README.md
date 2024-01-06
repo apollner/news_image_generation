@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy, 13, becomes first documented player to beat Tetris**
+**Illinois and Massachusetts voters seek to take Trump off 2024 ballot**
 
-You can read more about it [here](https://www.foxnews.com/us/boy-13-becomes-first-documented-player-beat-tetris).
+You can read more about it [here](https://www.cnn.com/2024/01/04/politics/illinois-voters-ask-elections-board-to-take-trump-off-2024-ballot/index.html).
 
 ## Requirements
 - Python 3.8
