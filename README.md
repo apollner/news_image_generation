@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran arrests suspects over bomb blasts, mourners demand revenge - state TV**
+**Israel-Gaza war live updates: Blinken heads to Middle East amid fears of war's spread**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iran-leaders-vow-revenge-funeral-bomb-attack-victims-state-media-2024-01-05/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/01/05/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
