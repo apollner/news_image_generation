@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google has started disabling third-party cookies for Chrome users**
+**13-year-old Tetris whiz believed to be first person to “beat” the game**
 
-You can read more about it [here](https://www.engadget.com/google-has-started-disabling-third-party-cookies-for-chrome-users-060955481.html).
+You can read more about it [here](https://www.youtube.com/watch?v=uSJ9uWmRES0).
 
 ## Requirements
 - Python 3.8
