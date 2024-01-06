@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**INSANE Wembanyama & Giannis Sequence In Final Minutes of Bucks at Spurs UNCUT | January 4, 2024**
+**Houthis launch sea drone to attack ships hours after US, allies issue final warning**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vpsbB5MNfDA).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/houthis-launch-sea-drone-attack-ships-hours-after-106106351).
 
 ## Requirements
 - Python 3.8
