@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter Storm Ember To Bring Snow To Northeast | Weather.com**
+**David Soul: Starsky & Hutch actor dies aged 80**
 
-You can read more about it [here](https://weather.com/storms/winter/news/2024-01-04-winter-storm-ember-forecast-northeast-winter-storm).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-67895679).
 
 ## Requirements
 - Python 3.8
