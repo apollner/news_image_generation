@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois and Massachusetts voters seek to take Trump off 2024 ballot**
+**INSANE Wembanyama & Giannis Sequence In Final Minutes of Bucks at Spurs UNCUT | January 4, 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/01/04/politics/illinois-voters-ask-elections-board-to-take-trump-off-2024-ballot/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=vpsbB5MNfDA).
 
 ## Requirements
 - Python 3.8
