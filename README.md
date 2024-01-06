@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New batch of Jeffrey Epstein court documents released**
+**Why Everyone Is Obsessed With the Kid Who Beat 'Tetris'**
 
-You can read more about it [here](https://abcnews.go.com/US/new-batch-jeffrey-epstein-court-documents-released/story?id=106106004).
+You can read more about it [here](https://www.wired.com/story/why-everyone-is-obsessed-with-the-kid-who-beat-tetris/).
 
 ## Requirements
 - Python 3.8
