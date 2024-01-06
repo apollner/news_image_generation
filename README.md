@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war live updates: Blinken heads to Middle East amid fears of war's spread**
+**Winter Storm Ember To Bring Snow To Northeast | Weather.com**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/01/05/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://weather.com/storms/winter/news/2024-01-04-winter-storm-ember-forecast-northeast-winter-storm).
 
 ## Requirements
 - Python 3.8
