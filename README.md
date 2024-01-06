@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA probing possible weight-loss drug side effects, including suicidal thoughts**
+**Perry, Iowa, school shooting: Sixth grader killed, five wounded**
 
-You can read more about it [here](https://www.axios.com/2024/01/04/ozempic-sucidal-thoughts-weight-loss-drugs).
+You can read more about it [here](https://apnews.com/article/perry-high-school-shooting-iowa-1defc6260e074362240a31a7f30cf1b9).
 
 ## Requirements
 - Python 3.8
