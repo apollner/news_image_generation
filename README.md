@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas live updates: Islamic State behind Iran suicide bombings**
+**Kendall Jenner Leaves Little to the Imagination in Tropical Bikini Photos**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/01/04/israel-hamas-war-gaza-lebanon-live-updates/72104796007/).
+You can read more about it [here](https://www.eonline.com/news/1392458/kendall-jenner-leaves-little-to-the-imagination-in-tropical-bikini-photos).
 
 ## Requirements
 - Python 3.8
