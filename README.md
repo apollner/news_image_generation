@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthis launch sea drone to attack ships hours after US, allies issue final warning**
+**Boy, 13, becomes first documented player to beat Tetris**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/houthis-launch-sea-drone-attack-ships-hours-after-106106351).
+You can read more about it [here](https://www.foxnews.com/us/boy-13-becomes-first-documented-player-beat-tetris).
 
 ## Requirements
 - Python 3.8
