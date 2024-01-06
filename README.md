@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giannis Antetokounmpo (44 PTS) & Victor Wembanyama (27 PTS) Battle It Out In INSTANT CLASSIC!**
+**‘It doesn’t feel real:’ Students recall terror of Iowa school shooting that killed a sixth grader and injured 5 other people**
 
-You can read more about it [here](https://www.youtube.com/watch?v=H2CuxCag0XI).
+You can read more about it [here](https://www.cnn.com/2024/01/05/us/perry-iowa-school-shooting-friday/index.html).
 
 ## Requirements
 - Python 3.8
