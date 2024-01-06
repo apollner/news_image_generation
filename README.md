@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It doesn’t feel real:’ Students recall terror of Iowa school shooting that killed a sixth grader and injured 5 other people**
+**ISRO's Aditya- L1 Satellite Has A Date With The Sun**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/us/perry-iowa-school-shooting-friday/index.html).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
