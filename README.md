@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chip Wilson: Lululemon founder, ex-CEO bashed for comments about brand**
+**Boy, 13, becomes first documented player to beat Tetris**
 
-You can read more about it [here](https://www.usatoday.com/story/money/business/2024/01/04/chip-wilson-lululemon-comments/72109070007/).
+You can read more about it [here](https://www.foxnews.com/us/boy-13-becomes-first-documented-player-beat-tetris).
 
 ## Requirements
 - Python 3.8
