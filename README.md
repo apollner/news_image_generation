@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ISRO's Aditya- L1 Satellite Has A Date With The Sun**
+**AI in 2024: Five trends workers need to know**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](https://www.bbc.com/worklife/article/20240104-ai-in-2024-five-trends-workers-need-to-know).
 
 ## Requirements
 - Python 3.8
