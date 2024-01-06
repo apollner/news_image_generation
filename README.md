@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscar Pistorius released on parole 11 years after killing Reeva Steenkamp**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-67885713).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
