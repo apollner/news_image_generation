@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dalvin Cook agrees to sign with Ravens**
+**FDA probing possible weight-loss drug side effects, including suicidal thoughts**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dalvin-cook-agrees-to-sign-with-ravens).
+You can read more about it [here](https://www.axios.com/2024/01/04/ozempic-sucidal-thoughts-weight-loss-drugs).
 
 ## Requirements
 - Python 3.8
