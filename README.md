@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 18 bold predictions: Bill Belichick era with Patriots ends after win over Jets; Titans stun Jaguars**
+**Florida abortion amendment gets enough signatures for 2024 ballot**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-18-bold-predictions-bill-belichick-era-with-patriots-ends-after-win-over-jets-titans-stun-jaguars/).
+You can read more about it [here](https://www.tampabay.com/news/florida-politics/2024/01/05/abortion-amendment-florida-pregnancy-ban-planned-parenthood/).
 
 ## Requirements
 - Python 3.8
