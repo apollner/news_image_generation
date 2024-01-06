@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea orders islanders to seek shelter after North fires artillery nearby**
+**Israel Hamas live updates: Islamic State behind Iran suicide bombings**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/skorea-orders-evacuation-island-near-north-korea-border-2024-01-05/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/01/04/israel-hamas-war-gaza-lebanon-live-updates/72104796007/).
 
 ## Requirements
 - Python 3.8
