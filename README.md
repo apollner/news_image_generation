@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthis launch sea drone to attack ships hours after US, allies issue final warning**
+**Carrefour pulls Pepsi, Lays, Lipton from shelves because of high prices - The Washington Post**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/houthis-launch-sea-drone-attack-ships-hours-after-106106351).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/01/04/pepsi-lays-carrefour-grocery/).
 
 ## Requirements
 - Python 3.8
