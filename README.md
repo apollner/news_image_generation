@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendall Jenner Leaves Little to the Imagination in Tropical Bikini Photos**
+**12 people, mostly children, killed in Gaza zone declared safe by Israel**
 
-You can read more about it [here](https://www.eonline.com/news/1392458/kendall-jenner-leaves-little-to-the-imagination-in-tropical-bikini-photos).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-03-2024-3b77b0c36bf2cd9922b7a484234bef5f).
 
 ## Requirements
 - Python 3.8
