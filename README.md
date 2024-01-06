@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions WR Amon-Ra St. Brown heated over 2024 Pro Bowl snub**
+**Oscar Pistorius released on parole 11 years after killing Reeva Steenkamp**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/1/5/24025758/2024-pro-bowl-snub-amon-ra-st-brown-pissed-heated-detroit-lions).
+You can read more about it [here](https://www.bbc.com/news/world-africa-67885713).
 
 ## Requirements
 - Python 3.8
