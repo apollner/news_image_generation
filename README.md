@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newly unsealed documents reveal Jeffrey Epstein’s relationships with powerful people**
+**Giannis Antetokounmpo (44 PTS) & Victor Wembanyama (27 PTS) Battle It Out In INSTANT CLASSIC!**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4_x7tg5YO5s).
+You can read more about it [here](https://www.youtube.com/watch?v=H2CuxCag0XI).
 
 ## Requirements
 - Python 3.8
