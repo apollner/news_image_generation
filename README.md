@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New January 6 footage shows tense exchange between GOP congressmen and Capitol rioters**
+**Kanye West Celebrates Bianca Censori’s Birthday on Instagram**
 
-You can read more about it [here](https://www.cnn.com/2024/01/06/politics/new-january-6-video-capitol-riot/index.html).
+You can read more about it [here](http://www.billboard.com/music/music-news/kanye-west-celebrates-bianca-censori-birthday-instagram-1235576899/).
 
 ## Requirements
 - Python 3.8
