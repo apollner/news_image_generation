@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA discusses Moon-bound science as ULA's Vulcan rocket gets go ahead for Jan. 8 launch – Spaceflight Now**
+**In third batch of Epstein documents, a call from Harvey Weinstein, more famous men and disquieting details**
 
-You can read more about it [here](https://spaceflightnow.com/2024/01/05/nasa-discusses-moon-bound-science-as-ulas-vulcan-rocket-gets-go-ahead-for-jan-8-launch/).
+You can read more about it [here](https://www.cnn.com/2024/01/05/business/jeffrey-epstein-documents-unsealed-part-three/index.html).
 
 ## Requirements
 - Python 3.8
