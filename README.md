@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wayne LaPierre announces resignation as leader of the NRA days ahead of civil trial**
+**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/us/wayne-lapierre-nra-resigns/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
 
 ## Requirements
 - Python 3.8
