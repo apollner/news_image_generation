@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defense Secretary Austin hospitalized following surgery complications**
+**Aditya-L1: India's Sun mission set to reach destination in hours**
 
-You can read more about it [here](https://www.foxnews.com/politics/defense-secretary-austin-hospitalized-following-surgery-complications).
+You can read more about it [here](https://www.bbc.co.uk/news/world-asia-india-67871797).
 
 ## Requirements
 - Python 3.8
