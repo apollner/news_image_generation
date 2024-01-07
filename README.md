@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan earthquakes: Survivors found in homes. Dozens still missing**
+**NBA Friday: Celtics move to 17-0 at home, Joel Embiid's streak still alive, Pacers make more offensive history**
 
-You can read more about it [here](https://apnews.com/article/earthquake-rescue-ishikawa-japan-disaster-missing-coastline-7063cef9950f59b9702a6fc8364ff363).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-friday-celtics-move-to-17-0-at-home-joel-embiids-streak-still-alive-pacers-make-more-offensive-history/).
 
 ## Requirements
 - Python 3.8
