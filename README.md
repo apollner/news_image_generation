@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Details on Prince Andrew allegations emerge from new Jeffrey Epstein documents — but no U.K. police investigation**
+**Gypsy-Rose Blanchard new documentary: 'Prison Confessions' bombshells**
 
-You can read more about it [here](https://www.cbsnews.com/news/prince-andrew-allegations-jeffrey-epstein-documents-no-uk-police-investigation/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/01/05/gypsy-rose-blanchard-lifetime-documentary-bombshells/72083380007/).
 
 ## Requirements
 - Python 3.8
