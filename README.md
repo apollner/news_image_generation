@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
+**Tetris, Star Wars and More Of The Week's Biggest Gaming News**
 
-You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
+You can read more about it [here](https://kotaku.com/kotaku-gaming-news-tetris-star-wars-bethesda-1851144900).
 
 ## Requirements
 - Python 3.8
