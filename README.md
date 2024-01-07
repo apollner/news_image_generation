@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experimental antibiotic kills deadly superbug, opens whole new class of drugs**
+**COVID and flu cases rose over Christmas holiday and still rising**
 
-You can read more about it [here](https://arstechnica.com/science/2024/01/experimental-antibiotic-reveals-entirely-new-way-to-kill-drug-resistant-bacteria/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/05/covid-flu-cases-increase-christmas/72125075007/).
 
 ## Requirements
 - Python 3.8
