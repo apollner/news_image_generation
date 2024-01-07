@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ackman Wants Plagiarism Checks on MIT Faculty After Wife Accused**
+**Global shipping delays cast shadow over strong December jobs report**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-05/ackman-wants-plagiarism-checks-on-mit-faculty-after-wife-accused).
+You can read more about it [here](https://www.cnbc.com/2024/01/05/global-shipping-delays-cast-a-shadow-over-strong-december-jobs-report-.html).
 
 ## Requirements
 - Python 3.8
