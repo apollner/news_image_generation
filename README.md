@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI arrests three January 6 defendants in Florida after prolonged search**
+**Wayne LaPierre announces resignation as leader of the NRA days ahead of civil trial**
 
-You can read more about it [here](https://www.cnn.com/2024/01/06/politics/three-floridians-arrested-january-6/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/05/us/wayne-lapierre-nra-resigns/index.html).
 
 ## Requirements
 - Python 3.8
