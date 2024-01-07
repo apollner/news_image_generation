@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy-Rose Blanchard new documentary: 'Prison Confessions' bombshells**
+**Defense Secretary Austin hospitalized following surgery complications**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/01/05/gypsy-rose-blanchard-lifetime-documentary-bombshells/72083380007/).
+You can read more about it [here](https://www.foxnews.com/politics/defense-secretary-austin-hospitalized-following-surgery-complications).
 
 ## Requirements
 - Python 3.8
