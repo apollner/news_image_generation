@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy-Rose Blanchard new documentary: 'Prison Confessions' bombshells**
+**Iowa principal critically injured in school shooting risked himself to protect students, police say**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/01/05/gypsy-rose-blanchard-lifetime-documentary-bombshells/72083380007/).
+You can read more about it [here](https://apnews.com/article/perry-high-school-shooting-iowa-5346218f2646bec796ba28928a00c745).
 
 ## Requirements
 - Python 3.8
