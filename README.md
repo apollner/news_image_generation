@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**10 observations: Connor Bedard injured in Blackhawks' penalty-filled loss to Devils**
+**Japan earthquakes: Survivors found in homes. Dozens still missing**
 
-You can read more about it [here](http://www.nbcsportschicago.com/nhl/chicago-blackhawks/10-observations-connor-bedard-injured-in-blackhawks-penalty-filled-loss-to-devils/530210/).
+You can read more about it [here](https://apnews.com/article/earthquake-rescue-ishikawa-japan-disaster-missing-coastline-7063cef9950f59b9702a6fc8364ff363).
 
 ## Requirements
 - Python 3.8
