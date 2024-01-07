@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A timeline of key moments leading to Japan planes colliding. Human error is seen as a possible cause**
+**How NASA is offering to put you on the moon in just months**
 
-You can read more about it [here](https://apnews.com/article/japan-haneda-runway-collision-jal-airbus-fire-6aff794f9d2eb004db2122928cc873b2).
+You can read more about it [here](https://www.foxnews.com/media/nasa-offering-put-moon-months).
 
 ## Requirements
 - Python 3.8
