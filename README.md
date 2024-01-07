@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills-Dolphins, Texans-Colts, Week 18 playoff scenarios: Our NFL writers discuss**
+**Christian Oliver's 'deeply saddened' wife honors 'beloved' husband, young daughters killed in plane crash**
 
-You can read more about it [here](https://theathletic.com/5182355/2024/01/06/nfl-week-18-playoffs-previews/).
+You can read more about it [here](https://nypost.com/2024/01/06/entertainment/christian-olivers-wife-jessica-klepser-speaks-out-after-tragic-death-of-husband-daughters/).
 
 ## Requirements
 - Python 3.8
