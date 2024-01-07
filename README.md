@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel, Hezbollah trade fire across Lebanon border amid alarm over Gaza war spillover**
+**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/heavy-fire-lebanon-targets-northern-israel-amid-concern-over-gaza-spillover-2024-01-06/).
+You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
 
 ## Requirements
 - Python 3.8
