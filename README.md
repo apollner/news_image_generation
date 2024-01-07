@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tetris, Star Wars and More Of The Week's Biggest Gaming News**
+**FBI arrests three January 6 defendants in Florida after prolonged search**
 
-You can read more about it [here](https://kotaku.com/kotaku-gaming-news-tetris-star-wars-bethesda-1851144900).
+You can read more about it [here](https://www.cnn.com/2024/01/06/politics/three-floridians-arrested-january-6/index.html).
 
 ## Requirements
 - Python 3.8
