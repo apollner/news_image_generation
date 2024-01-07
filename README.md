@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard speaks out after prison release**
+**Alaska Airlines flight makes emergency landing in Portland, Oregon, after window appears to have blown out after takeoff**
 
-You can read more about it [here](https://www.youtube.com/watch?v=FRmtwvREfLA).
+You can read more about it [here](https://www.cnn.com/2024/01/06/us/alaska-airlines-window-landing/index.html).
 
 ## Requirements
 - Python 3.8
