@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kanye West Celebrates Bianca Censori’s Birthday on Instagram**
+**Ahmir Jolliff: Sixth-grader killed in Perry school shooting remembered as a joyful boy**
 
-You can read more about it [here](http://www.billboard.com/music/music-news/kanye-west-celebrates-bianca-censori-birthday-instagram-1235576899/).
+You can read more about it [here](https://www.kcci.com/article/perry-iowa-school-shooting-victim-ahmir-jolliff-remembered/46303036).
 
 ## Requirements
 - Python 3.8
