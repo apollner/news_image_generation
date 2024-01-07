@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Third batch of Epstein documents unsealed in ongoing release of court filings**
+**Keys to the Game: Celtics 126, Jazz 97**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-epstein-documents-list-unsealed-files-whats-new/).
+You can read more about it [here](https://www.nba.com/celtics/news/gamerecap-keys-20250105-utabos).
 
 ## Requirements
 - Python 3.8
