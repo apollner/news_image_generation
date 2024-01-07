@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID and flu cases rose over Christmas holiday and still rising**
+**Third batch of Epstein documents unsealed in ongoing release of court filings**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/05/covid-flu-cases-increase-christmas/72125075007/).
+You can read more about it [here](https://www.cbsnews.com/news/new-epstein-documents-list-unsealed-files-whats-new/).
 
 ## Requirements
 - Python 3.8
