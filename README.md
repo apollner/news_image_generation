@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aditya-L1: India's Sun mission set to reach destination in hours**
+**Husband of deceased Jan. 6 rioter Ashli Babbitt files wrongful death suit against government**
 
-You can read more about it [here](https://www.bbc.co.uk/news/world-asia-india-67871797).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4392515-husband-jan-6-rioter-ashli-babbitt-wrongful-death-suit/).
 
 ## Requirements
 - Python 3.8
