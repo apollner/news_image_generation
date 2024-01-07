@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy-Rose Blanchard new documentary: 'Prison Confessions' bombshells**
+**Supreme Court allows Idaho to enforce its strict abortion ban, even in medical emergencies**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/01/05/gypsy-rose-blanchard-lifetime-documentary-bombshells/72083380007/).
+You can read more about it [here](https://apnews.com/article/supreme-court-abortion-medical-emergencies-idaho-8ca89d7de0c1fa9256dcd27d1847e144).
 
 ## Requirements
 - Python 3.8
