@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Friday: Celtics move to 17-0 at home, Joel Embiid's streak still alive, Pacers make more offensive history**
+**Bill Ackman's Wife Faces New Round of Plagiarism Accusations**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-friday-celtics-move-to-17-0-at-home-joel-embiids-streak-still-alive-pacers-make-more-offensive-history/).
+You can read more about it [here](https://www.thedailybeast.com/bill-ackmans-wife-neri-oxman-faces-new-round-of-plagiarism-accusations).
 
 ## Requirements
 - Python 3.8
