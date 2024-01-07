@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In third batch of Epstein documents, a call from Harvey Weinstein, more famous men and disquieting details**
+**Ackman Wants Plagiarism Checks on MIT Faculty After Wife Accused**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/business/jeffrey-epstein-documents-unsealed-part-three/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-05/ackman-wants-plagiarism-checks-on-mit-faculty-after-wife-accused).
 
 ## Requirements
 - Python 3.8
