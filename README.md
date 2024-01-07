@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In third batch of Epstein documents, a call from Harvey Weinstein, more famous men and disquieting details**
+**Experimental antibiotic kills deadly superbug, opens whole new class of drugs**
 
-You can read more about it [here](https://www.cnn.com/2024/01/05/business/jeffrey-epstein-documents-unsealed-part-three/index.html).
+You can read more about it [here](https://arstechnica.com/science/2024/01/experimental-antibiotic-reveals-entirely-new-way-to-kill-drug-resistant-bacteria/).
 
 ## Requirements
 - Python 3.8
