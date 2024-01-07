@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former US police officer sentenced in killing of Black man Elijah McClain**
+**COVID and flu cases rose over Christmas holiday and still rising**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/6/former-us-police-officer-sentenced-in-killing-of-black-man-elijah-mcclain).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/05/covid-flu-cases-increase-christmas/72125075007/).
 
 ## Requirements
 - Python 3.8
