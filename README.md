@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Details on Prince Andrew allegations emerge from new Jeffrey Epstein documents — but no U.K. police investigation**
+**Aditya-L1: India's Sun mission set to reach destination in hours**
 
-You can read more about it [here](https://www.cbsnews.com/news/prince-andrew-allegations-jeffrey-epstein-documents-no-uk-police-investigation/).
+You can read more about it [here](https://www.bbc.co.uk/news/world-asia-india-67871797).
 
 ## Requirements
 - Python 3.8
