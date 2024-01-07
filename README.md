@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court allows Idaho to enforce its strict abortion ban, even in medical emergencies**
+**4 new batches of documents naming Jeffrey Epstein's associates released**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-abortion-medical-emergencies-idaho-8ca89d7de0c1fa9256dcd27d1847e144).
+You can read more about it [here](https://abcnews.go.com/US/2-new-batches-documents-naming-jeffrey-epsteins-associates/story?id=106140893).
 
 ## Requirements
 - Python 3.8
