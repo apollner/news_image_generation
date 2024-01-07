@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska Airlines flight makes emergency landing in Portland, Oregon, after window appears to have blown out after takeoff**
+**10 observations: Connor Bedard injured in Blackhawks' penalty-filled loss to Devils**
 
-You can read more about it [here](https://www.cnn.com/2024/01/06/us/alaska-airlines-window-landing/index.html).
+You can read more about it [here](http://www.nbcsportschicago.com/nhl/chicago-blackhawks/10-observations-connor-bedard-injured-in-blackhawks-penalty-filled-loss-to-devils/530210/).
 
 ## Requirements
 - Python 3.8
