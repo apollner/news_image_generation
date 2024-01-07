@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Ackman's Wife Faces New Round of Plagiarism Accusations**
+**A timeline of key moments leading to Japan planes colliding. Human error is seen as a possible cause**
 
-You can read more about it [here](https://www.thedailybeast.com/bill-ackmans-wife-neri-oxman-faces-new-round-of-plagiarism-accusations).
+You can read more about it [here](https://apnews.com/article/japan-haneda-runway-collision-jal-airbus-fire-6aff794f9d2eb004db2122928cc873b2).
 
 ## Requirements
 - Python 3.8
