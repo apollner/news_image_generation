@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court agrees to hear Colorado case over Trump's 2024 ballot eligibility**
+**In third batch of Epstein documents, a call from Harvey Weinstein, more famous men and disquieting details**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-colorado-case-2024-ballot-supreme-court/).
+You can read more about it [here](https://www.cnn.com/2024/01/05/business/jeffrey-epstein-documents-unsealed-part-three/index.html).
 
 ## Requirements
 - Python 3.8
