@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ahmir Jolliff: Sixth-grader killed in Perry school shooting remembered as a joyful boy**
+**UK news anchor ripped for telling teenage Tetris record breaker to ‘go outside and get some fresh air’**
 
-You can read more about it [here](https://www.kcci.com/article/perry-iowa-school-shooting-victim-ahmir-jolliff-remembered/46303036).
+You can read more about it [here](https://www.foxnews.com/media/uk-news-anchor-ripped-telling-teenage-tetris-record-breaker-go-outside-get-some-fresh-air).
 
 ## Requirements
 - Python 3.8
