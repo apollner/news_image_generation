@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Friday: Celtics move to 17-0 at home, Joel Embiid's streak still alive, Pacers make more offensive history**
+**Bills-Dolphins, Texans-Colts, Week 18 playoff scenarios: Our NFL writers discuss**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-friday-celtics-move-to-17-0-at-home-joel-embiids-streak-still-alive-pacers-make-more-offensive-history/).
+You can read more about it [here](https://theathletic.com/5182355/2024/01/06/nfl-week-18-playoffs-previews/).
 
 ## Requirements
 - Python 3.8
