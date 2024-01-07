@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 new batches of documents naming Jeffrey Epstein's associates released**
+**Details on Prince Andrew allegations emerge from new Jeffrey Epstein documents — but no U.K. police investigation**
 
-You can read more about it [here](https://abcnews.go.com/US/2-new-batches-documents-naming-jeffrey-epsteins-associates/story?id=106140893).
+You can read more about it [here](https://www.cbsnews.com/news/prince-andrew-allegations-jeffrey-epstein-documents-no-uk-police-investigation/).
 
 ## Requirements
 - Python 3.8
