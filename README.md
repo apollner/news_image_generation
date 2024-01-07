@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Oliver's 'deeply saddened' wife honors 'beloved' husband, young daughters killed in plane crash**
+**NBA Friday: Celtics move to 17-0 at home, Joel Embiid's streak still alive, Pacers make more offensive history**
 
-You can read more about it [here](https://nypost.com/2024/01/06/entertainment/christian-olivers-wife-jessica-klepser-speaks-out-after-tragic-death-of-husband-daughters/).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-friday-celtics-move-to-17-0-at-home-joel-embiids-streak-still-alive-pacers-make-more-offensive-history/).
 
 ## Requirements
 - Python 3.8
