@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How NASA is offering to put you on the moon in just months**
+**Israel, Hezbollah trade fire across Lebanon border amid alarm over Gaza war spillover**
 
-You can read more about it [here](https://www.foxnews.com/media/nasa-offering-put-moon-months).
+You can read more about it [here](https://www.reuters.com/world/middle-east/heavy-fire-lebanon-targets-northern-israel-amid-concern-over-gaza-spillover-2024-01-06/).
 
 ## Requirements
 - Python 3.8
