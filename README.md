@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keys to the Game: Celtics 126, Jazz 97**
+**Gypsy Rose Blanchard speaks out after prison release**
 
-You can read more about it [here](https://www.nba.com/celtics/news/gamerecap-keys-20250105-utabos).
+You can read more about it [here](https://www.youtube.com/watch?v=FRmtwvREfLA).
 
 ## Requirements
 - Python 3.8
