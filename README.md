@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Husband of deceased Jan. 6 rioter Ashli Babbitt files wrongful death suit against government**
+**Details on Prince Andrew allegations emerge from new Jeffrey Epstein documents — but no U.K. police investigation**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4392515-husband-jan-6-rioter-ashli-babbitt-wrongful-death-suit/).
+You can read more about it [here](https://www.cbsnews.com/news/prince-andrew-allegations-jeffrey-epstein-documents-no-uk-police-investigation/).
 
 ## Requirements
 - Python 3.8
