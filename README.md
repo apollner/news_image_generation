@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experimental antibiotic kills deadly superbug, opens whole new class of drugs**
+**NASA discusses Moon-bound science as ULA's Vulcan rocket gets go ahead for Jan. 8 launch – Spaceflight Now**
 
-You can read more about it [here](https://arstechnica.com/science/2024/01/experimental-antibiotic-reveals-entirely-new-way-to-kill-drug-resistant-bacteria/).
+You can read more about it [here](https://spaceflightnow.com/2024/01/05/nasa-discusses-moon-bound-science-as-ulas-vulcan-rocket-gets-go-ahead-for-jan-8-launch/).
 
 ## Requirements
 - Python 3.8
