@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa principal critically injured in school shooting risked himself to protect students, police say**
+**Former US police officer sentenced in killing of Black man Elijah McClain**
 
-You can read more about it [here](https://apnews.com/article/perry-high-school-shooting-iowa-5346218f2646bec796ba28928a00c745).
+You can read more about it [here](https://www.aljazeera.com/news/2024/1/6/former-us-police-officer-sentenced-in-killing-of-black-man-elijah-mcclain).
 
 ## Requirements
 - Python 3.8
