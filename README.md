@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID and flu cases rose over Christmas holiday and still rising**
+**Gypsy-Rose Blanchard new documentary: 'Prison Confessions' bombshells**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/05/covid-flu-cases-increase-christmas/72125075007/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/01/05/gypsy-rose-blanchard-lifetime-documentary-bombshells/72083380007/).
 
 ## Requirements
 - Python 3.8
