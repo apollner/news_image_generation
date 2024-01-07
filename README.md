@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah leader says Lebanon will be 'exposed' to Israeli attacks if no response to Hamas leader's death**
+**Supreme Court agrees to hear Colorado case over Trump's 2024 ballot eligibility**
 
-You can read more about it [here](https://www.foxnews.com/world/hezbollah-leader-lebanon-exposed-israeli-attacks-no-response-hamas-leaders-death).
+You can read more about it [here](https://www.cbsnews.com/news/trump-colorado-case-2024-ballot-supreme-court/).
 
 ## Requirements
 - Python 3.8
