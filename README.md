@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Oliver's wife speaks out after plane crash killed actor and their 2 daughters**
+**New January 6 footage shows tense exchange between GOP congressmen and Capitol rioters**
 
-You can read more about it [here](https://www.cbsnews.com/news/christian-oliver-wife-jessica-klepser-speaks-out-plane-crash-daughters-killed/).
+You can read more about it [here](https://www.cnn.com/2024/01/06/politics/new-january-6-video-capitol-riot/index.html).
 
 ## Requirements
 - Python 3.8
