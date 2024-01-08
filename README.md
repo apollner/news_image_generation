@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Creative Arts Emmys: Full List Of Night 1 Winners**
+**Initial US employment reports overstated by 439,000 jobs in 2023**
 
-You can read more about it [here](http://deadline.com/2024/01/2023-creative-arts-emmys-winners-list-1235696511/).
+You can read more about it [here](https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/).
 
 ## Requirements
 - Python 3.8
