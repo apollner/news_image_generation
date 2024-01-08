@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Most of New Hampshire could see several inches of snow by Sunday evening**
+**NFL PLAYOFF PICTURE & SCENARIOS heading into Sunday Week 18 I CBS Sports**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-snow-forecast-1624/46302255).
+You can read more about it [here](https://www.youtube.com/watch?v=pLpJ1wPUIyg).
 
 ## Requirements
 - Python 3.8
