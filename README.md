@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman rescued five days after Japan quake, as storms complicate relief efforts**
+**2023 Creative Arts Emmys Winners List Night One – The Hollywood Reporter**
 
-You can read more about it [here](https://www.japantimes.co.jp/news/2024/01/07/japan/ishikawa-quake-death-toll-missing/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/2023-creative-arts-emmys-winners-list-night-one-1235780689/).
 
 ## Requirements
 - Python 3.8
