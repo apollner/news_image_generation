@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia launches 28 drones, three missiles at Ukraine - Ukraine's air force**
+**Initial US employment reports overstated by 439,000 jobs in 2023**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-28-drones-three-missiles-ukraine-ukraines-air-force-2024-01-07/).
+You can read more about it [here](https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/).
 
 ## Requirements
 - Python 3.8
