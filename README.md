@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. spot bitcoin ETFs could win approval next week after last-minute application updates**
+**White House wasn't notified of Defense Secretary Lloyd Austin's hospitalization for several days**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-spot-bitcoin-etfs-could-win-approval-next-week-after-last-minute-application-2024-01-06/).
+You can read more about it [here](https://www.youtube.com/watch?v=_K6iP_SL-cU).
 
 ## Requirements
 - Python 3.8
