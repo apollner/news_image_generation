@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push**
+**Woman rescued five days after Japan quake, as storms complicate relief efforts**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e).
+You can read more about it [here](https://www.japantimes.co.jp/news/2024/01/07/japan/ishikawa-quake-death-toll-missing/).
 
 ## Requirements
 - Python 3.8
