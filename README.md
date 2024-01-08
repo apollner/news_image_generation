@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Post Office scandal: Rishi Sunak considers measures to clear all victims**
+**Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push**
 
-You can read more about it [here](https://www.bbc.com/news/business-67905194).
+You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e).
 
 ## Requirements
 - Python 3.8
