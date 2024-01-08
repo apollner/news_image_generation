@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL playoff scenarios: Breaking down which Week 18 games actually matter from Vikings-Lions to Bills-Dolphins**
+**Stefanik pre-emptively declines to commit to accepting 2024 election results**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-playoff-scenarios-breaking-down-which-week-18-games-actually-matter-from-vikings-lions-to-bills-dolphins/).
+You can read more about it [here](https://www.politico.com/news/2024/01/07/stefanik-declines-to-commit-to-certifying-2024-election-results-00134189).
 
 ## Requirements
 - Python 3.8
