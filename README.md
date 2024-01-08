@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Boeing jets to remain grounded as investigators search for part that blew off plane**
+**The Pentagon adds new details about Austin's secretive hospital stay and the delay in telling Biden**
 
-You can read more about it [here](https://www.reuters.com/world/us/ntsb-says-no-passengers-seated-near-boeing-737-max-9-fuselage-that-failed-2024-01-07/).
+You can read more about it [here](https://apnews.com/article/defense-secretary-lloyd-austin-hospitalized-biden-859cc79631d6c96dbdff161faf8e4f96).
 
 ## Requirements
 - Python 3.8
