@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How BYD's Wang Chuanfu beat Elon Musk's Tesla in the EV race**
+**NASA, United Arab Emirates Announce Artemis Lunar Gateway Airlock**
 
-You can read more about it [here](https://www.businessinsider.com/byd-founder-wang-chuanfu-biggest-chinese-global-ev-automaker-2024-1).
+You can read more about it [here](https://www.nasa.gov/news-release/nasa-united-arab-emirates-announce-artemis-lunar-gateway-airlock/).
 
 ## Requirements
 - Python 3.8
