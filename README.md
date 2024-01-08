@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colts RB Tyler Goodson fights back tears after 4th-down pass from Gardner Minshew falls incomplete: 'I know I'm not a failure'**
+**Deputy defense secretary was not told Austin had been hospitalized when she assumed his duties**
 
-You can read more about it [here](https://sports.yahoo.com/colts-rb-tyler-goodson-fights-back-tears-after-4th-down-pass-from-gardner-minshew-falls-incomplete-i-know-im-not-a-failure-183902542.html).
+You can read more about it [here](https://www.cnn.com/2024/01/07/politics/austin-hospitalization-leaders-not-informed/index.html).
 
 ## Requirements
 - Python 3.8
