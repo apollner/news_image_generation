@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pittsburgh Steelers vs. Baltimore Ravens | 2023 Week 18 Game Highlights**
+**2023 Creative Arts Emmy Awards: Winners List (Updating Live)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gjbYxeHxewA).
+You can read more about it [here](https://variety.com/2024/tv/awards/emmy-creative-arts-2023-winners-list-1235863331/).
 
 ## Requirements
 - Python 3.8
