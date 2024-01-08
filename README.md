@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA, United Arab Emirates Announce Artemis Lunar Gateway Airlock**
+**Trial canceled in Haslam family suit vs. Berkshire Hathaway over truck-stop company value**
 
-You can read more about it [here](https://www.nasa.gov/news-release/nasa-united-arab-emirates-announce-artemis-lunar-gateway-airlock/).
+You can read more about it [here](https://www.cnbc.com/2024/01/07/trial-canceled-in-berkshire-hathaway-suit-by-haslam-family.html).
 
 ## Requirements
 - Python 3.8
