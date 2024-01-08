@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF admits Mount Meron air traffic control base damaged in Hezbollah attack**
+**The Last of Us Gathers Multiple Wins at Creative Emmy Awards**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-admits-mount-meron-air-traffic-control-base-damaged-in-hezbollah-attack/).
+You can read more about it [here](https://gizmodo.com/last-of-us-creative-emmy-2024-wins-1851147309).
 
 ## Requirements
 - Python 3.8
