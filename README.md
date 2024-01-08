@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deputy defense secretary was not told Austin had been hospitalized when she assumed his duties**
+**IDF admits Mount Meron air traffic control base damaged in Hezbollah attack**
 
-You can read more about it [here](https://www.cnn.com/2024/01/07/politics/austin-hospitalization-leaders-not-informed/index.html).
+You can read more about it [here](https://www.timesofisrael.com/idf-admits-mount-meron-air-traffic-control-base-damaged-in-hezbollah-attack/).
 
 ## Requirements
 - Python 3.8
