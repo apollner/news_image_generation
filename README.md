@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023-24 NFL Week 18 playoff scenarios: Texans clinch bid, Steelers need help following Saturday wins**
+**Poland reaches deal with farmers to call off blockade of Ukraine border crossing**
 
-You can read more about it [here](https://theathletic.com/5183302/2024/01/07/nfl-playoff-scenarios-week-18-matchups/).
+You can read more about it [here](https://www.politico.eu/article/poland-deal-farmers-blockade-ukraine-border/).
 
 ## Requirements
 - Python 3.8
