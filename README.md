@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push**
+**Trump says he will win US presidency 'for third time' on anniversary of Capitol riot**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e).
+You can read more about it [here](https://www.france24.com/en/americas/20240107-trump-says-he-will-win-us-presidency-for-third-time-on-anniversary-of-capitol-riot).
 
 ## Requirements
 - Python 3.8
