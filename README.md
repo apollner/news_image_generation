@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK news anchor ripped for telling teenage Tetris record breaker to ‘go outside and get some fresh air’**
+**College basketball rankings: No. 1 Purdue shows a new weapon in victory vs. top-10 Illinois**
 
-You can read more about it [here](https://www.foxnews.com/media/uk-news-anchor-ripped-telling-teenage-tetris-record-breaker-go-outside-get-some-fresh-air).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-no-1-purdue-shows-a-new-weapon-in-victory-vs-top-10-illinois/).
 
 ## Requirements
 - Python 3.8
