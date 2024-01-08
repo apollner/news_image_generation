@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College basketball rankings: No. 1 Purdue shows a new weapon in victory vs. top-10 Illinois**
+**Hezbollah fires rockets at Israel in response to killing of top Hamas leader**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-no-1-purdue-shows-a-new-weapon-in-victory-vs-top-10-illinois/).
+You can read more about it [here](https://www.cbsnews.com/news/hezbollah-fires-rockets-at-israel-in-initial-response-to-killing-of-hamas-top-leader-saleh-arouri/).
 
 ## Requirements
 - Python 3.8
