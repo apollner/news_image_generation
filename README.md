@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Halle Bailey Welcomes Baby Boy With Boyfriend DDG**
+**Post Office scandal: Rishi Sunak considers measures to clear all victims**
 
-You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/halle-bailey-boyfriend-ddg-welcome-baby-boy-1235781011/).
+You can read more about it [here](https://www.bbc.com/news/business-67905194).
 
 ## Requirements
 - Python 3.8
