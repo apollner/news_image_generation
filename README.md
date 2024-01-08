@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah fires rockets at Israel in response to killing of top Hamas leader**
+**Pittsburgh Steelers vs. Baltimore Ravens | 2023 Week 18 Game Highlights**
 
-You can read more about it [here](https://www.cbsnews.com/news/hezbollah-fires-rockets-at-israel-in-initial-response-to-killing-of-hamas-top-leader-saleh-arouri/).
+You can read more about it [here](https://www.youtube.com/watch?v=gjbYxeHxewA).
 
 ## Requirements
 - Python 3.8
