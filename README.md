@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk's Drug Use Concerns Tesla, SpaceX Leaders, WSJ Says**
+**How BYD's Wang Chuanfu beat Elon Musk's Tesla in the EV race**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-07/elon-musk-s-drug-use-concerns-tesla-spacex-leaders-wsj-says).
+You can read more about it [here](https://www.businessinsider.com/byd-founder-wang-chuanfu-biggest-chinese-global-ev-automaker-2024-1).
 
 ## Requirements
 - Python 3.8
