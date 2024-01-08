@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Oliver's former wife Jessica Klepser pays tribute to actor, young daughters after fatal plane crash in eastern Caribbean**
+**Creative Arts Emmys: Full List Of Night 1 Winners**
 
-You can read more about it [here](https://abc7chicago.com/christian-oliver-wife-jessica-klepser-plane-crash/14288814/).
+You can read more about it [here](http://deadline.com/2024/01/2023-creative-arts-emmys-winners-list-1235696511/).
 
 ## Requirements
 - Python 3.8
