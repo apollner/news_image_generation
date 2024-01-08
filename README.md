@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Last of Us Gathers Multiple Wins at Creative Emmy Awards**
+**How to watch today's Dallas Cowboys vs. Washington Commanders game on Fox**
 
-You can read more about it [here](https://gizmodo.com/last-of-us-creative-emmy-2024-wins-1851147309).
+You can read more about it [here](https://sports.yahoo.com/how-to-watch-todays-dallas-cowboys-vs-washington-commanders-game-on-fox-143008222.html).
 
 ## Requirements
 - Python 3.8
