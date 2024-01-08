@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stefanik pre-emptively declines to commit to accepting 2024 election results**
+**Colts RB Tyler Goodson fights back tears after 4th-down pass from Gardner Minshew falls incomplete: 'I know I'm not a failure'**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/07/stefanik-declines-to-commit-to-certifying-2024-election-results-00134189).
+You can read more about it [here](https://sports.yahoo.com/colts-rb-tyler-goodson-fights-back-tears-after-4th-down-pass-from-gardner-minshew-falls-incomplete-i-know-im-not-a-failure-183902542.html).
 
 ## Requirements
 - Python 3.8
