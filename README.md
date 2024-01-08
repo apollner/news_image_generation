@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers improve playoff hopes with win vs. Ravens; T.J. Watt exits with knee injury**
+**Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push**
 
-You can read more about it [here](https://theathletic.com/5183283/2024/01/06/steelers-ravens-takeaways-result-week-18/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e).
 
 ## Requirements
 - Python 3.8
