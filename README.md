@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Alert Weather: Red Alert as winter storm clears out Sunday**
+**NFL playoff scenarios: Breaking down which Week 18 games actually matter from Vikings-Lions to Bills-Dolphins**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/first-alert-weather-red-alert-as-winter-storm-clears-out-sunday/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-playoff-scenarios-breaking-down-which-week-18-games-actually-matter-from-vikings-lions-to-bills-dolphins/).
 
 ## Requirements
 - Python 3.8
