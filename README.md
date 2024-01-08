@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden stands by Austin as befuddled White House handles secret hospitalization fallout**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/01/07/biden-stands-by-austin-as-befuddled-white-house-handles-secret-hospitalization-fallout-00134182).
 
 ## Requirements
 - Python 3.8
