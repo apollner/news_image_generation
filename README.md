@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL PLAYOFF PICTURE & SCENARIOS heading into Sunday Week 18 I CBS Sports**
+**Russia launches 28 drones, three missiles at Ukraine - Ukraine's air force**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pLpJ1wPUIyg).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-28-drones-three-missiles-ukraine-ukraines-air-force-2024-01-07/).
 
 ## Requirements
 - Python 3.8
