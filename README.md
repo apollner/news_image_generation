@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch today's Dallas Cowboys vs. Washington Commanders game on Fox**
+**Some Boeing jets to remain grounded as investigators search for part that blew off plane**
 
-You can read more about it [here](https://sports.yahoo.com/how-to-watch-todays-dallas-cowboys-vs-washington-commanders-game-on-fox-143008222.html).
+You can read more about it [here](https://www.reuters.com/world/us/ntsb-says-no-passengers-seated-near-boeing-737-max-9-fuselage-that-failed-2024-01-07/).
 
 ## Requirements
 - Python 3.8
