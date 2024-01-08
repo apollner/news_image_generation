@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump mocks Joe Biden over stutter**
+**U.S. spot bitcoin ETFs could win approval next week after last-minute application updates**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/06/trump-biden-stutter/).
+You can read more about it [here](https://www.reuters.com/markets/us/us-spot-bitcoin-etfs-could-win-approval-next-week-after-last-minute-application-2024-01-06/).
 
 ## Requirements
 - Python 3.8
