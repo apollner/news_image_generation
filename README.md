@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden stands by Austin as befuddled White House handles secret hospitalization fallout**
+**Bitcoin ETFs will solve unit bias psychology, says VanEck adviser**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/07/biden-stands-by-austin-as-befuddled-white-house-handles-secret-hospitalization-fallout-00134182).
+You can read more about it [here](https://cointelegraph.com/news/bitcoin-etf-unit-bias-psychology-vaneck).
 
 ## Requirements
 - Python 3.8
