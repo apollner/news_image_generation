@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Labriola on the win over the Ravens**
+**2023-24 NFL Week 18 playoff scenarios: Texans clinch bid, Steelers need help following Saturday wins**
 
-You can read more about it [here](https://www.steelers.com/news/labriola-on-the-win-over-the-ravens-x4934).
+You can read more about it [here](https://theathletic.com/5183302/2024/01/07/nfl-playoff-scenarios-week-18-matchups/).
 
 ## Requirements
 - Python 3.8
