@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House wasn't notified of Defense Secretary Lloyd Austin's hospitalization for several days**
+**Steelers improve playoff hopes with win vs. Ravens; T.J. Watt exits with knee injury**
 
-You can read more about it [here](https://www.youtube.com/watch?v=_K6iP_SL-cU).
+You can read more about it [here](https://theathletic.com/5183283/2024/01/06/steelers-ravens-takeaways-result-week-18/).
 
 ## Requirements
 - Python 3.8
