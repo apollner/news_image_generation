@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Initial US employment reports overstated by 439,000 jobs in 2023**
+**NFL PLAYOFF PICTURE & SCENARIOS heading into Sunday Week 18 I CBS Sports**
 
-You can read more about it [here](https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/).
+You can read more about it [here](https://www.youtube.com/watch?v=pLpJ1wPUIyg).
 
 ## Requirements
 - Python 3.8
