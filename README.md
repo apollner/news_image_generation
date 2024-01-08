@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Initial US employment reports overstated by 439,000 jobs in 2023**
+**Halle Bailey Welcomes Baby Boy With Boyfriend DDG**
 
-You can read more about it [here](https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/).
+You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/halle-bailey-boyfriend-ddg-welcome-baby-boy-1235781011/).
 
 ## Requirements
 - Python 3.8
