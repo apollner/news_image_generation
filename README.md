@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla, SpaceX leaders concerned over Elon Musk’s drug use: Report**
+**First Alert Weather: Red Alert as winter storm clears out Sunday**
 
-You can read more about it [here](https://fortune.com/2024/01/07/elon-musk-drug-use-worries-tesla-spacex-leaders-report/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/first-alert-weather-red-alert-as-winter-storm-clears-out-sunday/).
 
 ## Requirements
 - Python 3.8
