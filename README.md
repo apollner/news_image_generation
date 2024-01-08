@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trial canceled in Haslam family suit vs. Berkshire Hathaway over truck-stop company value**
+**Tesla, SpaceX leaders concerned over Elon Musk’s drug use: Report**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/07/trial-canceled-in-berkshire-hathaway-suit-by-haslam-family.html).
+You can read more about it [here](https://fortune.com/2024/01/07/elon-musk-drug-use-worries-tesla-spacex-leaders-report/).
 
 ## Requirements
 - Python 3.8
