@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bailey Zappe’s tenure as Patriots QB ends with a whimper**
+**Ocala police make arrest in deadly mall shooting**
 
-You can read more about it [here](https://www.patspulpit.com/2024/1/8/24029571/patriots-jets-what-we-learned-analysis-nfl-week-18).
+You can read more about it [here](https://www.wesh.com/article/ocala-mall-shooting-arrest/46313251).
 
 ## Requirements
 - Python 3.8
