@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lloyd Austin: Scrutiny grows on US defence secretary over hospital secrecy**
+**Israeli strike kills an elite Hezbollah commander in the latest escalation linked to the war in Gaza**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67913855).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-08-2024-18fbc9af50000c94fed59017fe82481e).
 
 ## Requirements
 - Python 3.8
