@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Draymond Green considered retirement, said NBA commissioner Adam Silver talked him out of it**
+**Commanders fire Ron Rivera: Top head coaching candidates, including Bill Belichick, Mike Vrabel**
 
-You can read more about it [here](https://theathletic.com/5187590/2024/01/08/draymond-green-podcast-comments-warriors-retirement/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/commanders-fire-ron-rivera-top-head-coaching-candidates-including-bill-belichick-mike-vrabel/).
 
 ## Requirements
 - Python 3.8
