@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa students to walk out and march to Capitol after school shooting**
+**2024 NFL playoff picture, bracket: Full wild-card schedule after Bills steal AFC East from Dolphins**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/07/iowa-students-walk-out-perry-school-shooting/72144847007/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-picture-bracket-full-wild-card-schedule-after-bills-steal-afc-east-from-dolphins/).
 
 ## Requirements
 - Python 3.8
