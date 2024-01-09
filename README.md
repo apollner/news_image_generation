@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buccaneers clinch NFC South with 9-0 victory over Panthers**
+**Netflix Cuts Over 100 Shows From Programming Slate**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-clinch-nfc-south-with-9-0-victory-over-panthers).
+You can read more about it [here](https://www.bloomberg.com/news/newsletters/2024-01-07/netflix-cuts-over-100-shows-from-programming-slate).
 
 ## Requirements
 - Python 3.8
