@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four killed in combined Russian air strike on Ukraine**
+**Al Jazeera bureau chief's son Hamza al-Dahdouh among journalists killed in Gaza**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-missile-attacks-across-country-say-ukrainian-officials-2024-01-08/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67905566).
 
 ## Requirements
 - Python 3.8
