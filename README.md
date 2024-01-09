@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lily Gladstone Paid Tribute to the Blackfeet Tribe at the Golden Globes**
+**In photos: Winter storm lashes U.S. Northeast with up to a foot of snow**
 
-You can read more about it [here](https://www.instyle.com/lily-gladstone-golden-globes-2024-red-carpet-8416132).
+You can read more about it [here](https://www.axios.com/2024/01/07/us-winter-storm-snow-northeast).
 
 ## Requirements
 - Python 3.8
