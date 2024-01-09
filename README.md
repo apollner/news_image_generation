@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Rivera fired; former GMs to advise on Commanders' overhaul**
+**COVID variant JN.1: 3 most common symptoms and order they appear**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39264819/ron-rivera-fired-former-gms-advise-commanders-overhaul).
+You can read more about it [here](https://www.al.com/news/2024/01/covid-variant-jn1-3-most-common-symptoms-and-order-they-appear.html).
 
 ## Requirements
 - Python 3.8
