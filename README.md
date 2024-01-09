@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike kills an elite Hezbollah commander in the latest escalation linked to the war in Gaza**
+**Downpours, winds could cause flooding, power cuts in D.C. area Tuesday**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-08-2024-18fbc9af50000c94fed59017fe82481e).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/01/08/dc-storm-flooding-winds-outages/).
 
 ## Requirements
 - Python 3.8
