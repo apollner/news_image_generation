@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China accuses foreign consultant of spying for MI6**
+**2024 NFL playoff schedule, bracket: Dates, times and TV for every round of AFC and NFC postseason**
 
-You can read more about it [here](https://www.ft.com/content/1c1f7849-52ad-4b42-9dfa-ea522d9f1e9c).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-schedule-bracket-dates-times-and-tv-for-every-round-of-afc-and-nfc-postseason/).
 
 ## Requirements
 - Python 3.8
