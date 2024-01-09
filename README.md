@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Committed To...": Maldives Foreign Minister Slams Remarks Against India**
+**What time is ULA's 1st Vulcan rocket launch with Astrobotic's private moon lander on Jan. 8?**
 
-You can read more about it [here](https://www.ndtv.com/india-news/maldives-foreign-minister-moosa-zameer-on-remarks-against-pm-modi-unacceptable-4820441).
+You can read more about it [here](https://www.space.com/vulcan-rocket-first-launch-private-moon-lander-what-time).
 
 ## Requirements
 - Python 3.8
