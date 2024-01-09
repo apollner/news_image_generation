@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Door plug that blew off Alaska Airlines plane in-flight found in backyard**
+**Samsung debuts the world's first transparent MicroLED screen at CES 2024**
 
-You can read more about it [here](https://www.cbsnews.com/news/faa-halts-boeing-737-max-9-aircraft-alaska-airlines-door-midflight/).
+You can read more about it [here](https://www.engadget.com/samsung-debuts-the-worlds-first-transparent-microled-screen-at-ces-2024-042634398.html).
 
 ## Requirements
 - Python 3.8
