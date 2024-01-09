@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Downpours, winds could cause flooding, power cuts in D.C. area Tuesday**
+**See iconic looks from the red carpet at the 2024 Golden Globes**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/01/08/dc-storm-flooding-winds-outages/).
+You can read more about it [here](https://www.youtube.com/watch?v=X7risJ4OaQQ).
 
 ## Requirements
 - Python 3.8
