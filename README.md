@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What time is ULA's 1st Vulcan rocket launch with Astrobotic's private moon lander on Jan. 8?**
+**LG’s 2024 OLED TVs Cut Wires, Boost Brightness**
 
-You can read more about it [here](https://www.space.com/vulcan-rocket-first-launch-private-moon-lander-what-time).
+You can read more about it [here](https://www.youtube.com/watch?v=dkYzUG7IZPY).
 
 ## Requirements
 - Python 3.8
