@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Pentagon adds new details about Austin's secretive hospital stay and the delay in telling Biden**
+**Lauren Boebert's Ex Called The Cops After Physical Fight in Public on Saturday Night**
 
-You can read more about it [here](https://apnews.com/article/defense-secretary-lloyd-austin-hospitalized-biden-859cc79631d6c96dbdff161faf8e4f96).
+You can read more about it [here](https://www.thedailybeast.com/lauren-boeberts-ex-husband-jayson-called-the-cops-after-physical-fight-in-public).
 
 ## Requirements
 - Python 3.8
