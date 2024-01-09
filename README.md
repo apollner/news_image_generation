@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ocala police make arrest in deadly mall shooting**
+**Exclusive: Jonathan Majors speaks out for 1st time after conviction in domestic violence trial**
 
-You can read more about it [here](https://www.wesh.com/article/ocala-mall-shooting-arrest/46313251).
+You can read more about it [here](https://abcnews.go.com/Entertainment/exclusive-jonathan-majors-interview/story?id=106140900).
 
 ## Requirements
 - Python 3.8
