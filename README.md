@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LG’s 2024 OLED TVs Cut Wires, Boost Brightness**
+**Iowa students to walk out and march to Capitol after school shooting**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dkYzUG7IZPY).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/07/iowa-students-walk-out-perry-school-shooting/72144847007/).
 
 ## Requirements
 - Python 3.8
