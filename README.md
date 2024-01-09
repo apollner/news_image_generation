@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan vs. Washington prediction, odds, pick, spread for 2024 college football national championship game**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-washington-prediction-odds-pick-spread-for-2024-college-football-national-championship-game/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
