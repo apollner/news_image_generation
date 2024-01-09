@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congressional leaders announce spending deal that would avert next government shutdown**
+**Buccaneers clinch NFC South with 9-0 victory over Panthers**
 
-You can read more about it [here](https://abcnews.go.com/Politics/congressional-leaders-announce-spending-deal-avert-government-shutdown/story?id=106171118).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-clinch-nfc-south-with-9-0-victory-over-panthers).
 
 ## Requirements
 - Python 3.8
