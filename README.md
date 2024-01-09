@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID variant JN.1: 3 most common symptoms and order they appear**
+**Bailey Zappe’s tenure as Patriots QB ends with a whimper**
 
-You can read more about it [here](https://www.al.com/news/2024/01/covid-variant-jn1-3-most-common-symptoms-and-order-they-appear.html).
+You can read more about it [here](https://www.patspulpit.com/2024/1/8/24029571/patriots-jets-what-we-learned-analysis-nfl-week-18).
 
 ## Requirements
 - Python 3.8
