@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In photos: Winter storm lashes U.S. Northeast with up to a foot of snow**
+**"Committed To...": Maldives Foreign Minister Slams Remarks Against India**
 
-You can read more about it [here](https://www.axios.com/2024/01/07/us-winter-storm-snow-northeast).
+You can read more about it [here](https://www.ndtv.com/india-news/maldives-foreign-minister-moosa-zameer-on-remarks-against-pm-modi-unacceptable-4820441).
 
 ## Requirements
 - Python 3.8
