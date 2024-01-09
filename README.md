@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Cuts Over 100 Shows From Programming Slate**
+**Lily Gladstone Paid Tribute to the Blackfeet Tribe at the Golden Globes**
 
-You can read more about it [here](https://www.bloomberg.com/news/newsletters/2024-01-07/netflix-cuts-over-100-shows-from-programming-slate).
+You can read more about it [here](https://www.instyle.com/lily-gladstone-golden-globes-2024-red-carpet-8416132).
 
 ## Requirements
 - Python 3.8
