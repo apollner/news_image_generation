@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US sees largest COVID wave since omicron**
+**Michigan football-Washington channel, time, TV schedule, streaming info**
 
-You can read more about it [here](https://www.semafor.com/article/01/08/2024/us-sees-largest-covid-wave-since-omicron).
+You can read more about it [here](https://www.courier-journal.com/story/sports/2024/01/08/michigan-football-washington-channel-time-tv-schedule-streaming-cfp-championship/72153499007/).
 
 ## Requirements
 - Python 3.8
