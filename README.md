@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL playoff bracket, schedule, times, betting lines: Texans-Browns set to kick off wild-card weekend**
+**Lloyd Austin: Scrutiny grows on US defence secretary over hospital secrecy**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-playoff-bracket-schedule-times-betting-lines-texans-browns-set-to-kick-off-wild-card-weekend-025836783.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67913855).
 
 ## Requirements
 - Python 3.8
