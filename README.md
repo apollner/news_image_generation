@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commanders fire Ron Rivera: Top head coaching candidates, including Bill Belichick, Mike Vrabel**
+**US sees largest COVID wave since omicron**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/commanders-fire-ron-rivera-top-head-coaching-candidates-including-bill-belichick-mike-vrabel/).
+You can read more about it [here](https://www.semafor.com/article/01/08/2024/us-sees-largest-covid-wave-since-omicron).
 
 ## Requirements
 - Python 3.8
