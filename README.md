@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bailey Zappe’s tenure as Patriots QB ends with a whimper**
+**Michigan vs. Washington prediction, odds, pick, spread for 2024 college football national championship game**
 
-You can read more about it [here](https://www.patspulpit.com/2024/1/8/24029571/patriots-jets-what-we-learned-analysis-nfl-week-18).
+You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-washington-prediction-odds-pick-spread-for-2024-college-football-national-championship-game/).
 
 ## Requirements
 - Python 3.8
