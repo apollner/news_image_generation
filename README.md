@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska Airlines flight could have been 'much more tragic,' NTSB says**
+**Congressional leaders announce spending deal that would avert next government shutdown**
 
-You can read more about it [here](https://www.businessinsider.com/alaska-airlines-flight-could-have-been-much-more-tragic-ntsb-2024-1).
+You can read more about it [here](https://abcnews.go.com/Politics/congressional-leaders-announce-spending-deal-avert-government-shutdown/story?id=106171118).
 
 ## Requirements
 - Python 3.8
