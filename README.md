@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Jonathan Majors speaks out for 1st time after conviction in domestic violence trial**
+**Ron Rivera fired; former GMs to advise on Commanders' overhaul**
 
-You can read more about it [here](https://abcnews.go.com/Entertainment/exclusive-jonathan-majors-interview/story?id=106140900).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39264819/ron-rivera-fired-former-gms-advise-commanders-overhaul).
 
 ## Requirements
 - Python 3.8
