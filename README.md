@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung debuts the world's first transparent MicroLED screen at CES 2024**
+**Town-by-town totals: These Massachusetts communities have received the most snow**
 
-You can read more about it [here](https://www.engadget.com/samsung-debuts-the-worlds-first-transparent-microled-screen-at-ces-2024-042634398.html).
+You can read more about it [here](https://www.boston25news.com/news/local/town-by-town-totals-these-massachusetts-communities-have-received-most-snow/TDW2632NZZD47D63O4SRXNFW6A/).
 
 ## Requirements
 - Python 3.8
