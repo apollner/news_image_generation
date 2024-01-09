@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert's Ex Called The Cops After Physical Fight in Public on Saturday Night**
+**Trump aide tells special counsel ex-president 'was just not interested' in putting down Jan. 6 riot: report**
 
-You can read more about it [here](https://www.thedailybeast.com/lauren-boeberts-ex-husband-jayson-called-the-cops-after-physical-fight-in-public).
+You can read more about it [here](https://nypost.com/2024/01/07/news/trumps-deputy-wh-chief-of-staff-dishes-on-jan-6-to-special-counsel-report/).
 
 ## Requirements
 - Python 3.8
