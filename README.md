@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ron Rivera ousted as Commanders boss after four disappointing seasons**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.nbcwashington.com/news/sports/washington-commanders/ron-rivera-ousted-as-commanders-boss-after-four-disappointing-seasons/3509280/).
 
 ## Requirements
 - Python 3.8
