@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four killed in combined Russian air strike on Ukraine**
+**Bailey Zappe’s tenure as Patriots QB ends with a whimper**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-launches-missile-attacks-across-country-say-ukrainian-officials-2024-01-08/).
+You can read more about it [here](https://www.patspulpit.com/2024/1/8/24029571/patriots-jets-what-we-learned-analysis-nfl-week-18).
 
 ## Requirements
 - Python 3.8
