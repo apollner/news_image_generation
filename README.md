@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan football-Washington channel, time, TV schedule, streaming info**
+**JetBlue CEO to Step Down as Airline Awaits Judge's Ruling on Spirit Airlines Merger**
 
-You can read more about it [here](https://www.courier-journal.com/story/sports/2024/01/08/michigan-football-washington-channel-time-tv-schedule-streaming-cfp-championship/72153499007/).
+You can read more about it [here](https://www.wsj.com/business/airlines/jetblue-ceo-to-step-down-as-airline-awaits-judges-ruling-on-spirit-airlines-merger-83f48618).
 
 ## Requirements
 - Python 3.8
