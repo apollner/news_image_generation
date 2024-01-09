@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL playoff picture, bracket: Full wild-card schedule after Bills steal AFC East from Dolphins**
+**China accuses foreign consultant of spying for MI6**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-picture-bracket-full-wild-card-schedule-after-bills-steal-afc-east-from-dolphins/).
+You can read more about it [here](https://www.ft.com/content/1c1f7849-52ad-4b42-9dfa-ea522d9f1e9c).
 
 ## Requirements
 - Python 3.8
