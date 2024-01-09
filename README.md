@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL playoff schedule, bracket: Dates, times and TV for every round of AFC and NFC postseason**
+**Bitcoin, Asian Stocks Drop as Traders Pare March Fed Rate Cut Bets**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-schedule-bracket-dates-times-and-tv-for-every-round-of-afc-and-nfc-postseason/).
+You can read more about it [here](https://www.coindesk.com/markets/2024/01/08/bitcoin-asian-stocks-drop-as-traders-pare-march-fed-rate-cut-bets/).
 
 ## Requirements
 - Python 3.8
