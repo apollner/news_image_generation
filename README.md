@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Rivera ousted as Commanders boss after four disappointing seasons**
+**NFL playoff bracket, schedule, times, betting lines: Texans-Browns set to kick off wild-card weekend**
 
-You can read more about it [here](http://www.nbcwashington.com/news/sports/washington-commanders/ron-rivera-ousted-as-commanders-boss-after-four-disappointing-seasons/3509280/).
+You can read more about it [here](https://sports.yahoo.com/nfl-playoff-bracket-schedule-times-betting-lines-texans-browns-set-to-kick-off-wild-card-weekend-025836783.html).
 
 ## Requirements
 - Python 3.8
