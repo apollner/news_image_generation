@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Town-by-town totals: These Massachusetts communities have received the most snow**
+**BTC Exchange-Traded Fund Approval Odds Improve at Bloomberg, Drop on Polymarket**
 
-You can read more about it [here](https://www.boston25news.com/news/local/town-by-town-totals-these-massachusetts-communities-have-received-most-snow/TDW2632NZZD47D63O4SRXNFW6A/).
+You can read more about it [here](https://www.coindesk.com/markets/2024/01/08/bitcoin-etf-approval-odds-raised-to-over-90-at-bloomberg-drop-on-polymarket/).
 
 ## Requirements
 - Python 3.8
