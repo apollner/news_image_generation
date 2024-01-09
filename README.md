@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See iconic looks from the red carpet at the 2024 Golden Globes**
+**Draymond Green considered retirement, said NBA commissioner Adam Silver talked him out of it**
 
-You can read more about it [here](https://www.youtube.com/watch?v=X7risJ4OaQQ).
+You can read more about it [here](https://theathletic.com/5187590/2024/01/08/draymond-green-podcast-comments-warriors-retirement/).
 
 ## Requirements
 - Python 3.8
