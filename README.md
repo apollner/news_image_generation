@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin, Asian Stocks Drop as Traders Pare March Fed Rate Cut Bets**
+**Door plug that blew off Alaska Airlines plane in-flight found in backyard**
 
-You can read more about it [here](https://www.coindesk.com/markets/2024/01/08/bitcoin-asian-stocks-drop-as-traders-pare-march-fed-rate-cut-bets/).
+You can read more about it [here](https://www.cbsnews.com/news/faa-halts-boeing-737-max-9-aircraft-alaska-airlines-door-midflight/).
 
 ## Requirements
 - Python 3.8
