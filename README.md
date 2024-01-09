@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump aide tells special counsel ex-president 'was just not interested' in putting down Jan. 6 riot: report**
+**Alaska Airlines flight could have been 'much more tragic,' NTSB says**
 
-You can read more about it [here](https://nypost.com/2024/01/07/news/trumps-deputy-wh-chief-of-staff-dishes-on-jan-6-to-special-counsel-report/).
+You can read more about it [here](https://www.businessinsider.com/alaska-airlines-flight-could-have-been-much-more-tragic-ntsb-2024-1).
 
 ## Requirements
 - Python 3.8
