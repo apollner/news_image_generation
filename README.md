@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**21 people injured in explosion at downtown Fort Worth hotel**
+**Blizzard snarling travel across Plains, Midwest as winter storm wallops US with snow, wind**
 
-You can read more about it [here](https://www.dallasnews.com/news/public-safety/2024/01/08/fort-worth-explosion-downtown/).
+You can read more about it [here](https://www.foxweather.com/weather-news/blizzard-plains-midwest-travel-near-impossible).
 
 ## Requirements
 - Python 3.8
