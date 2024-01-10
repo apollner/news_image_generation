@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Co-defendant in Trump's Georgia election case seeks to disqualify DA, alleging romantic relationship with prosecutor**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/defendant-trumps-georgia-election-case-seeks-disqualify-da/story?id=106209092).
 
 ## Requirements
 - Python 3.8
