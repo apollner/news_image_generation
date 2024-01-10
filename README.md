@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan issues air raid alert saying China launched a satellite**
+**D.C.-area forecast: Incoming storm to bring heavy rain, high winds today into the evening**
 
-You can read more about it [here](https://apnews.com/article/taiwan-china-air-raid-alert-satellite-0657f4c4297d69d86eb1917b0b67bbe4).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/01/09/dc-area-forecast-incoming-storm-bring-heavy-rain-high-winds-today-into-evening/).
 
 ## Requirements
 - Python 3.8
