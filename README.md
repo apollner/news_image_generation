@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blizzard snarling travel across Plains, Midwest as winter storm wallops US with snow, wind**
+**Sony Reveals Standalone MR Headset with “4K” OLED Displays and Unique Controllers**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/blizzard-plains-midwest-travel-near-impossible).
+You can read more about it [here](https://www.roadtovr.com/sony-mr-headset-4k-oled-unique-controllers/).
 
 ## Requirements
 - Python 3.8
