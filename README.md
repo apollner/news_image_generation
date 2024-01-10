@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing executives to convene all-hands safety meeting at its 737 Max factory after yet another crisis**
+**NASA's Webb Finds Signs of Possible Aurorae on Isolated Brown Dwarf**
 
-You can read more about it [here](https://www.cnn.com/2024/01/09/business/boeing-safety-meeting-737-max-factory/index.html).
+You can read more about it [here](https://www.nasa.gov/missions/webb/nasas-webb-finds-signs-of-possible-aurorae-on-isolated-brown-dwarf/).
 
 ## Requirements
 - Python 3.8
