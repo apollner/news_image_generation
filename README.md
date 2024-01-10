@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony Reveals Standalone MR Headset with “4K” OLED Displays and Unique Controllers**
+**How much will it snow during Chicago's winter storm?**
 
-You can read more about it [here](https://www.roadtovr.com/sony-mr-headset-4k-oled-unique-controllers/).
+You can read more about it [here](https://www.cbsnews.com/chicago/news/winter-storm-warning-tuesday-heres-how-much-snow-you-can-expect-in-chicago/).
 
 ## Requirements
 - Python 3.8
