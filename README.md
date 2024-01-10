@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan vs. Washington odds: 2024 CFP National Championship game picks, predictions by expert on 98-40 run**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-washington-odds-2024-cfp-national-championship-game-picks-predictions-by-expert-on-98-40-run/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
