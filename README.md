@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Bears trade down, stay with Justin Fields; Patriots, Giants start over with top-10 QBs**
+**Why Lloyd Austin's secrecy about his hospital stay undercuts a top Biden campaign message**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-mock-draft-bears-trade-down-stay-with-justin-fields-patriots-giants-start-over-with-top-10-qbs/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/08/lloyd-austin-biden-campaign-trump/72140657007/).
 
 ## Requirements
 - Python 3.8
