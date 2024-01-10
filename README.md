@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lloyd Austin's illness and medical procedure disclosure. What we know. | USA TODAY**
+**Grizzlies' Ja Morant to have season-ending shoulder surgery**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pd2IjADYvq0).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39269294/grizzlies-ja-morant-season-ending-shoulder-surgery).
 
 ## Requirements
 - Python 3.8
