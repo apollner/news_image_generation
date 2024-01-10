@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The View’s Whoopi Goldberg & Sara Haines Defend Jo Koy Amid Golden Globes Hosting Backlash**
+**Lloyd Austin's illness and medical procedure disclosure. What we know. | USA TODAY**
 
-You can read more about it [here](http://deadline.com/2024/01/the-view-whoopi-goldberg-sara-haines-defend-jo-koy-golden-globes-hosting-backlash-1235699685/).
+You can read more about it [here](https://www.youtube.com/watch?v=pd2IjADYvq0).
 
 ## Requirements
 - Python 3.8
