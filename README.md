@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike kills an elite Hezbollah commander in the latest escalation linked to the war in Gaza**
+**‘The View’s Whoopi Goldberg & Sara Haines Defend Jo Koy Amid Golden Globes Hosting Backlash**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-08-2024-18fbc9af50000c94fed59017fe82481e).
+You can read more about it [here](http://deadline.com/2024/01/the-view-whoopi-goldberg-sara-haines-defend-jo-koy-golden-globes-hosting-backlash-1235699685/).
 
 ## Requirements
 - Python 3.8
