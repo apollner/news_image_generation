@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony Reveals Standalone MR Headset with “4K” OLED Displays and Unique Controllers**
+**South Korea passes bill to ban consumption of dog meat**
 
-You can read more about it [here](https://www.roadtovr.com/sony-mr-headset-4k-oled-unique-controllers/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/south-koreas-parliament-expected-pass-bill-ban-dog-meat-trade-2024-01-09/).
 
 ## Requirements
 - Python 3.8
