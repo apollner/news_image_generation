@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Sickening scenes' in Gaza hospitals as Hezbollah commander killed**
+**Sony Reveals Standalone MR Headset with “4K” OLED Displays and Unique Controllers**
 
-You can read more about it [here](https://www.euronews.com/2024/01/09/sickening-scenes-in-gaza-hospitals-as-hezbollah-commander-killed).
+You can read more about it [here](https://www.roadtovr.com/sony-mr-headset-4k-oled-unique-controllers/).
 
 ## Requirements
 - Python 3.8
