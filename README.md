@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Graham defends Jameis Winston, rips Falcons after controversial late touchdown**
+**Michigan vs. Washington odds: 2024 CFP National Championship game picks, predictions by expert on 98-40 run**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jimmy-graham-defends-jameis-winston-rips-falcons-after-controversial-late-touchdown).
+You can read more about it [here](https://www.cbssports.com/college-football/news/michigan-vs-washington-odds-2024-cfp-national-championship-game-picks-predictions-by-expert-on-98-40-run/).
 
 ## Requirements
 - Python 3.8
