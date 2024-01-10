@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump claims immunity from prosecution in Georgia election case**
+**Israeli strike kills an elite Hezbollah commander in the latest escalation linked to the war in Gaza**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/08/trump-immunity-georgia-election-interference/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-08-2024-18fbc9af50000c94fed59017fe82481e).
 
 ## Requirements
 - Python 3.8
