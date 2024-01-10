@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung showcases 'AI for ALL' vision at CES 2024 - SamMobile**
+**NVIDIA GeForce RTX 4080 and RTX 4070 Ti officially reach End-of-Life**
 
-You can read more about it [here](https://www.sammobile.com/news/samsung-showcases-ai-for-all-vision-at-ces-2024/).
+You can read more about it [here](https://videocardz.com/newz/nvidia-geforce-rtx-4080-and-rtx-4070-ti-officially-reach-end-of-life).
 
 ## Requirements
 - Python 3.8
