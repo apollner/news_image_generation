@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Raptor Lake-HX Refresh analysis - Core i9-14900HX with more single-core performance**
+**Takeaways from the appeals court hearing on Donald Trump’s immunity claims**
 
-You can read more about it [here](https://www.notebookcheck.net/Intel-Raptor-Lake-HX-Refresh-analysis-Core-i9-14900HX-with-more-single-core-performance.790833.0.html).
+You can read more about it [here](https://www.cnn.com/2024/01/09/politics/takeaways-from-the-appeals-court-hearing-on-donald-trumps-immunity-claims/index.html).
 
 ## Requirements
 - Python 3.8
