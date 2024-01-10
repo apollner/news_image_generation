@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea passes bill to ban consumption of dog meat**
+**Intel Raptor Lake-HX Refresh analysis - Core i9-14900HX with more single-core performance**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/south-koreas-parliament-expected-pass-bill-ban-dog-meat-trade-2024-01-09/).
+You can read more about it [here](https://www.notebookcheck.net/Intel-Raptor-Lake-HX-Refresh-analysis-Core-i9-14900HX-with-more-single-core-performance.790833.0.html).
 
 ## Requirements
 - Python 3.8
