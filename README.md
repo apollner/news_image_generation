@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grizzlies' Ja Morant to have season-ending shoulder surgery**
+**21 people injured in explosion at downtown Fort Worth hotel**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39269294/grizzlies-ja-morant-season-ending-shoulder-surgery).
+You can read more about it [here](https://www.dallasnews.com/news/public-safety/2024/01/08/fort-worth-explosion-downtown/).
 
 ## Requirements
 - Python 3.8
