@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse in April will be last visible in U.S. until 2044**
+**Paul Giamatti Dines At In-N-Out To Celebrate Golden Globes Win**
 
-You can read more about it [here](https://www.delawareonline.com/story/news/2024/01/07/total-solar-eclipse-april-2024-last-visible-us-2044/72121904007/).
+You can read more about it [here](https://www.tmz.com/2024/01/08/paul-giamatti-in-n-out-golden-globes-burger-celebrates-win/).
 
 ## Requirements
 - Python 3.8
