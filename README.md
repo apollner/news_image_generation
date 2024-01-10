@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peregrine lander: Time running out for US Moon mission**
+**Samsung showcases 'AI for ALL' vision at CES 2024 - SamMobile**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67915696).
+You can read more about it [here](https://www.sammobile.com/news/samsung-showcases-ai-for-all-vision-at-ces-2024/).
 
 ## Requirements
 - Python 3.8
