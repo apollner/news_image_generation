@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How much will it snow during Chicago's winter storm?**
+**Michigan football runs over Washington, wins national championship**
 
-You can read more about it [here](https://www.cbsnews.com/chicago/news/winter-storm-warning-tuesday-heres-how-much-snow-you-can-expect-in-chicago/).
+You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/wolverines/2024/01/08/michigan-football-wins-national-championship-washington-blake-corum-donovan-edwards/72152377007/).
 
 ## Requirements
 - Python 3.8
