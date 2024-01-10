@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JetBlue CEO to Step Down as Airline Awaits Judge's Ruling on Spirit Airlines Merger**
+**Jimmy Graham defends Jameis Winston, rips Falcons after controversial late touchdown**
 
-You can read more about it [here](https://www.wsj.com/business/airlines/jetblue-ceo-to-step-down-as-airline-awaits-judges-ruling-on-spirit-airlines-merger-83f48618).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jimmy-graham-defends-jameis-winston-rips-falcons-after-controversial-late-touchdown).
 
 ## Requirements
 - Python 3.8
