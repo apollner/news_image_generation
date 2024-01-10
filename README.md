@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan football runs over Washington, wins national championship**
+**South Korea passes bill to ban consumption of dog meat**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/wolverines/2024/01/08/michigan-football-wins-national-championship-washington-blake-corum-donovan-edwards/72152377007/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/south-koreas-parliament-expected-pass-bill-ban-dog-meat-trade-2024-01-09/).
 
 ## Requirements
 - Python 3.8
