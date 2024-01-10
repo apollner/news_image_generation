@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Titans Part Ways With Head Coach Mike Vrabel**
+**Violence rocks Ecuador after drug lord's disappearance from jail**
 
-You can read more about it [here](https://www.tennesseetitans.com/news/titans-part-ways-with-head-coach-mike-vrabel).
+You can read more about it [here](https://www.ft.com/content/b40305cd-099b-42f4-a244-1ac16b8e9dd5).
 
 ## Requirements
 - Python 3.8
