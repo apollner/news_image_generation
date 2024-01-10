@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Webb Finds Signs of Possible Aurorae on Isolated Brown Dwarf**
+**South Korea passes bill to ban consumption of dog meat**
 
-You can read more about it [here](https://www.nasa.gov/missions/webb/nasas-webb-finds-signs-of-possible-aurorae-on-isolated-brown-dwarf/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/south-koreas-parliament-expected-pass-bill-ban-dog-meat-trade-2024-01-09/).
 
 ## Requirements
 - Python 3.8
