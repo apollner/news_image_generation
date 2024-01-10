@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Co-defendant in Trump's Georgia election case seeks to disqualify DA, alleging romantic relationship with prosecutor**
+**Trump claims immunity from prosecution in Georgia election case**
 
-You can read more about it [here](https://abcnews.go.com/US/defendant-trumps-georgia-election-case-seeks-disqualify-da/story?id=106209092).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/08/trump-immunity-georgia-election-interference/).
 
 ## Requirements
 - Python 3.8
