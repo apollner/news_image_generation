@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple tells developers not to call their AR or VR apps AR or VR apps**
+**Driver crashes into White House exterior gate, Secret Service says**
 
-You can read more about it [here](https://www.engadget.com/apple-tells-developers-not-to-call-their-ar-and-vr-apps-ar-or-vr-apps-085136127.html).
+You can read more about it [here](https://www.cbsnews.com/news/white-house-gate-crash-secret-service/).
 
 ## Requirements
 - Python 3.8
