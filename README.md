@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Megyn Kelly slams Taylor Swift for making the 'wrong move' after Golden Globes joke**
+**Post Office scandal: Ministers consider options to speed up justice**
 
-You can read more about it [here](https://nypost.com/2024/01/09/entertainment/megyn-kelly-slams-taylor-swift-for-making-wrong-move-after-golden-globes-joke/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-67918976).
 
 ## Requirements
 - Python 3.8
