@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Post Office scandal: Ministers consider options to speed up justice**
+**2024 NFL Mock Draft: Bears trade down, stay with Justin Fields; Patriots, Giants start over with top-10 QBs**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-67918976).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-mock-draft-bears-trade-down-stay-with-justin-fields-patriots-giants-start-over-with-top-10-qbs/).
 
 ## Requirements
 - Python 3.8
