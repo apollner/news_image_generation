@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Raptor Lake-HX Refresh analysis - Core i9-14900HX with more single-core performance**
+**Titans Part Ways With Head Coach Mike Vrabel**
 
-You can read more about it [here](https://www.notebookcheck.net/Intel-Raptor-Lake-HX-Refresh-analysis-Core-i9-14900HX-with-more-single-core-performance.790833.0.html).
+You can read more about it [here](https://www.tennesseetitans.com/news/titans-part-ways-with-head-coach-mike-vrabel).
 
 ## Requirements
 - Python 3.8
