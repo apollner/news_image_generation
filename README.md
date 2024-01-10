@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Giamatti Dines At In-N-Out To Celebrate Golden Globes Win**
+**Disruptive winter storm to blast Midwest with blizzard conditions and threaten Southeast with tornadoes and floods**
 
-You can read more about it [here](https://www.tmz.com/2024/01/08/paul-giamatti-in-n-out-golden-globes-burger-celebrates-win/).
+You can read more about it [here](https://www.cnn.com/2024/01/09/weather/winter-storm-forecast-blizzard-flooding-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
