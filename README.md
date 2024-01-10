@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan issues air raid alert saying China launched a satellite**
+**Megyn Kelly slams Taylor Swift for making the 'wrong move' after Golden Globes joke**
 
-You can read more about it [here](https://apnews.com/article/taiwan-china-air-raid-alert-satellite-0657f4c4297d69d86eb1917b0b67bbe4).
+You can read more about it [here](https://nypost.com/2024/01/09/entertainment/megyn-kelly-slams-taylor-swift-for-making-wrong-move-after-golden-globes-joke/).
 
 ## Requirements
 - Python 3.8
