@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Lloyd Austin's secrecy about his hospital stay undercuts a top Biden campaign message**
+**Google TVs Are Finally Getting the Updates We Want**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/08/lloyd-austin-biden-campaign-trump/72140657007/).
+You can read more about it [here](https://gizmodo.com/google-tv-androind-updates-quick-share-1851149975).
 
 ## Requirements
 - Python 3.8
