@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second winter storm to bring snow, flash flooding across U.S.**
+**Total solar eclipse in April will be last visible in U.S. until 2044**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gzf8cwjFZfo).
+You can read more about it [here](https://www.delawareonline.com/story/news/2024/01/07/total-solar-eclipse-april-2024-last-visible-us-2044/72121904007/).
 
 ## Requirements
 - Python 3.8
