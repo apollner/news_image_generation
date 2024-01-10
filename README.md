@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Driver crashes into White House exterior gate, Secret Service says**
+**'Sickening scenes' in Gaza hospitals as Hezbollah commander killed**
 
-You can read more about it [here](https://www.cbsnews.com/news/white-house-gate-crash-secret-service/).
+You can read more about it [here](https://www.euronews.com/2024/01/09/sickening-scenes-in-gaza-hospitals-as-hezbollah-commander-killed).
 
 ## Requirements
 - Python 3.8
