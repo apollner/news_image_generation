@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google TVs Are Finally Getting the Updates We Want**
+**Boeing executives to convene all-hands safety meeting at its 737 Max factory after yet another crisis**
 
-You can read more about it [here](https://gizmodo.com/google-tv-androind-updates-quick-share-1851149975).
+You can read more about it [here](https://www.cnn.com/2024/01/09/business/boeing-safety-meeting-737-max-factory/index.html).
 
 ## Requirements
 - Python 3.8
