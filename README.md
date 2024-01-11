@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Republican whip says Congress may need to pass short-term government funding bill into March**
+**Bitcoin swings sharply after false claim that SEC approved ETFs**
 
-You can read more about it [here](https://www.cnn.com/2024/01/09/politics/senate-republican-government-funding-bill/index.html).
+You can read more about it [here](https://www.ft.com/content/60efd3f4-62c9-42e5-8b32-4761eaa19b5a).
 
 ## Requirements
 - Python 3.8
