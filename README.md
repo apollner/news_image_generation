@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How many calories should I burn a day? Your calorie questions, answered by experts.**
+**Alaska Airlines passengers share new details on terrifying mid-air door plug blowout**
 
-You can read more about it [here](https://www.cbsnews.com/news/calories-questions-answered-experts/).
+You can read more about it [here](https://www.youtube.com/watch?v=joEt8zZAqdM).
 
 ## Requirements
 - Python 3.8
