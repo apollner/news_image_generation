@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AI startup CEO Suchana Seth arrested for murder of 4-year-old son after child's remains found inside her luggage: reports**
+**Unranked Nebraska, Iowa State top No. 1 Purdue, No. 2 Houston**
 
-You can read more about it [here](https://nypost.com/2024/01/09/news/ai-startup-ceo-suchana-seth-arrested-for-murder-of-4-year-old-son-after-childs-remains-found-inside-her-luggage-reports/).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39276300/no-1-purdue-no-2-houston-knocked-unranked-teams).
 
 ## Requirements
 - Python 3.8
