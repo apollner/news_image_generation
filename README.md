@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Elevated genetic risk for multiple sclerosis emerged in steppe pastoralist populations**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nature.com/articles/s41586-023-06618-z).
 
 ## Requirements
 - Python 3.8
