@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defense Secretary Lloyd Austin was hospitalized for infection related to surgery for prostate cancer, Pentagon says**
+**Rabbit R1 is an adorable AI-powered assistant co-designed by Teenage Engineering**
 
-You can read more about it [here](https://www.cbsnews.com/news/lloyd-austin-defense-secretary-prostate-cancer-hospitalization/).
+You can read more about it [here](https://www.engadget.com/rabbit-r1-is-an-adorable-ai-powered-assistant-co-designed-by-teenage-engineering-001051537.html).
 
 ## Requirements
 - Python 3.8
