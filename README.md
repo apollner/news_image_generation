@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melania Trump announces passing of 'beloved' mother: 'We will miss her beyond measure'**
+**Defense Secretary Lloyd Austin was hospitalized for infection related to surgery for prostate cancer, Pentagon says**
 
-You can read more about it [here](https://www.foxnews.com/politics/melania-trump-announces-passing-beloved-mother-will-beyond-measure).
+You can read more about it [here](https://www.cbsnews.com/news/lloyd-austin-defense-secretary-prostate-cancer-hospitalization/).
 
 ## Requirements
 - Python 3.8
