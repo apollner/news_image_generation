@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unranked Nebraska, Iowa State top No. 1 Purdue, No. 2 Houston**
+**Amalija Knavs, mother of Melania Trump, dies at 78**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39276300/no-1-purdue-no-2-houston-knocked-unranked-teams).
+You can read more about it [here](https://www.politico.com/news/2024/01/10/amalija-knavs-mother-of-melania-trump-dies-00134713).
 
 ## Requirements
 - Python 3.8
