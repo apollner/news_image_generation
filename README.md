@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter storm slams central and eastern US**
+**Blinken announces deal to launch UN assessment mission in northern Gaza**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/eastern-us-snow-storm-01-09-24/index.html).
+You can read more about it [here](https://abcnews.go.com/International/blinken-announces-deal-launch-assessment-mission-northern-gaza/story?id=106234557).
 
 ## Requirements
 - Python 3.8
