@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken announces deal to launch UN assessment mission in northern Gaza**
+**Melania Trump announces passing of 'beloved' mother: 'We will miss her beyond measure'**
 
-You can read more about it [here](https://abcnews.go.com/International/blinken-announces-deal-launch-assessment-mission-northern-gaza/story?id=106234557).
+You can read more about it [here](https://www.foxnews.com/politics/melania-trump-announces-passing-beloved-mother-will-beyond-measure).
 
 ## Requirements
 - Python 3.8
