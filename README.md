@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the appeals court hearing on Donald Trump’s immunity claims**
+**South Korea dog meat ban passes unanimously**
 
-You can read more about it [here](https://www.cnn.com/2024/01/09/politics/takeaways-from-the-appeals-court-hearing-on-donald-trumps-immunity-claims/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/01/09/south-korea-dog-meat-ban-passes/72159563007/).
 
 ## Requirements
 - Python 3.8
