@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea dog meat ban passes unanimously**
+**Senate Republican whip says Congress may need to pass short-term government funding bill into March**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/01/09/south-korea-dog-meat-ban-passes/72159563007/).
+You can read more about it [here](https://www.cnn.com/2024/01/09/politics/senate-republican-government-funding-bill/index.html).
 
 ## Requirements
 - Python 3.8
