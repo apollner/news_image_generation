@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikkei soars while traders wait to see if US inflation slows**
+**Macron goes all in with high-stakes reshuffle to combat far right**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-01-10/).
+You can read more about it [here](https://www.politico.eu/article/france-emmanuel-macron-reshuffle-gabriel-attal-far-right-election-eu/).
 
 ## Requirements
 - Python 3.8
