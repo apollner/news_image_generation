@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska Airlines passengers share new details on terrifying mid-air door plug blowout**
+**Britain to bring in new law to quash wrongful Post Office convictions**
 
-You can read more about it [here](https://www.youtube.com/watch?v=joEt8zZAqdM).
+You can read more about it [here](https://www.nbcnews.com/news/world/britain-post-office-scandal-mr-bates-wrongful-convictions-quashed-rcna133221).
 
 ## Requirements
 - Python 3.8
