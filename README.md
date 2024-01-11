@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Chang'e-6 probe arrives at spaceport for first-ever lunar far side sample mission**
+**How Ecuador descended into gang violence**
 
-You can read more about it [here](https://spacenews.com/chinas-change-6-probe-arrives-at-spaceport-for-first-ever-lunar-far-side-sample-mission/).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-67912242).
 
 ## Requirements
 - Python 3.8
