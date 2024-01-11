@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin swings sharply after false claim that SEC approved ETFs**
+**Storms hit South with tornadoes, dump heavy snow in Midwest**
 
-You can read more about it [here](https://www.ft.com/content/60efd3f4-62c9-42e5-8b32-4761eaa19b5a).
+You can read more about it [here](https://www.cbsnews.com/news/winter-storm-tornado-snow-florida/).
 
 ## Requirements
 - Python 3.8
