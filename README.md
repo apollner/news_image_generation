@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melania Trump’s mother has died**
+**DOWN GOES NUMBER ONE 🚨 Purdue Boilermakers vs. Nebraska Cornhuskers | Full Game Highlights**
 
-You can read more about it [here](https://www.cnn.com/2024/01/09/politics/melania-trump-mother-dead-amalija-knavs/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=I9_6SOgHOc0).
 
 ## Requirements
 - Python 3.8
