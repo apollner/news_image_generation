@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China launches Einstein probe to hunt for X-ray bursts in space**
+**Blinken warns ‘there will be consequences’ for continued Houthi attacks**
 
-You can read more about it [here](https://www.cnn.com/2024/01/10/world/einstein-probe-launch-china-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/10/politics/us-houthi-attacks-red-sea/index.html).
 
 ## Requirements
 - Python 3.8
