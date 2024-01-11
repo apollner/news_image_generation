@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump 14th Amendment political challenger arrested on federal tax charges**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4400782-trump-14th-amendment-political-challenger-arrested-on-federal-tax-charges/).
 
 ## Requirements
 - Python 3.8
