@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart experiments with AI to enhance customers' shopping experiences**
+**Unranked Nebraska, Iowa State top No. 1 Purdue, No. 2 Houston**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/walmart-experiments-ai-enhance-customers-shopping-experiences-106238917).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39276300/no-1-purdue-no-2-houston-knocked-unranked-teams).
 
 ## Requirements
 - Python 3.8
