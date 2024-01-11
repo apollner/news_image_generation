@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stuck valve may have doomed private Peregrine moon lander mission, Astrobotic says**
+**Gabriel Attal becomes France’s youngest prime minister**
 
-You can read more about it [here](https://www.space.com/astrobotic-peregrine-moon-lander-anomaly-valve).
+You can read more about it [here](https://www.cnn.com/2024/01/09/europe/gabriel-attal-french-prime-minster-intl/index.html).
 
 ## Requirements
 - Python 3.8
