@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greta Gerwig Responds To Jo Koy’s Golden Globes ‘Barbie’ Jibe & Talks “Terror” Over Netflix ‘The Chronicles Of Narnia’ Adaptation**
+**China's Chang'e-6 probe arrives at spaceport for first-ever lunar far side sample mission**
 
-You can read more about it [here](http://deadline.com/2024/01/greta-gerwig-jo-koy-golden-globes-barbie-joke-terror-chronicles-of-narnia-adaptation-1235706059/).
+You can read more about it [here](https://spacenews.com/chinas-change-6-probe-arrives-at-spaceport-for-first-ever-lunar-far-side-sample-mission/).
 
 ## Requirements
 - Python 3.8
