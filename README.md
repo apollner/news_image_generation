@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken warns ‘there will be consequences’ for continued Houthi attacks**
+**Trump can't give closing argument at civil trial, judge says**
 
-You can read more about it [here](https://www.cnn.com/2024/01/10/politics/us-houthi-attacks-red-sea/index.html).
+You can read more about it [here](https://apnews.com/article/trump-fraud-trial-closing-arguments-420997f889922423dbce8a0945f0c348).
 
 ## Requirements
 - Python 3.8
