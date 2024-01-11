@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palisades Tahoe avalanche: search undereway at resort**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dL-rR5FgwBQ).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
