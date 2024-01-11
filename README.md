@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan fans give national champions a hero’s welcome upon return to Ann Arbor**
+**Greta Gerwig Responds To Jo Koy’s Golden Globes ‘Barbie’ Jibe & Talks “Terror” Over Netflix ‘The Chronicles Of Narnia’ Adaptation**
 
-You can read more about it [here](https://www.mlive.com/sports/2024/01/michigan-fans-give-national-champions-a-heros-welcome-upon-return-to-ann-arbor.html).
+You can read more about it [here](http://deadline.com/2024/01/greta-gerwig-jo-koy-golden-globes-barbie-joke-terror-chronicles-of-narnia-adaptation-1235706059/).
 
 ## Requirements
 - Python 3.8
