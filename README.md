@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Horn County youth identified as state's first pediatric flu death**
+**Russell Wilson's future with Broncos in limbo; Sean Payton says, 'He'll be the first to know'**
 
-You can read more about it [here](https://www.ktvq.com/news/montana-news/big-horn-county-youth-identified-as-states-first-pediatric-flu-death).
+You can read more about it [here](https://sports.yahoo.com/russell-wilsons-future-with-broncos-in-limbo-sean-payton-says-hell-be-the-first-to-know-233250680.html).
 
 ## Requirements
 - Python 3.8
