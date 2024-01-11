@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macron goes all in with high-stakes reshuffle to combat far right**
+**Deadly winter storm to unleash more snow, wind and rain in Northeast as power outages spread**
 
-You can read more about it [here](https://www.politico.eu/article/france-emmanuel-macron-reshuffle-gabriel-attal-far-right-election-eu/).
+You can read more about it [here](https://www.cnn.com/2024/01/10/weather/winter-storm-snow-blizzard-forecast-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
