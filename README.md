@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel: “We are bringing the AI PC to the car”**
+**AI startup CEO Suchana Seth arrested for murder of 4-year-old son after child's remains found inside her luggage: reports**
 
-You can read more about it [here](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces).
+You can read more about it [here](https://nypost.com/2024/01/09/news/ai-startup-ceo-suchana-seth-arrested-for-murder-of-4-year-old-son-after-childs-remains-found-inside-her-luggage-reports/).
 
 ## Requirements
 - Python 3.8
