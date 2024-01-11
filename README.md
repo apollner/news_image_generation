@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope's call to ban surrogacy stirs outrage, sadness among advocates**
+**US and UK navies repel largest Houthi attack on Red Sea shipping**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/10/popes-call-to-ban-surrogacy-stirs-outrage-sadness-among-advocates/72164437007/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-67932725).
 
 ## Requirements
 - Python 3.8
