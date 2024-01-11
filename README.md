@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rabbit R1 is an adorable AI-powered assistant co-designed by Teenage Engineering**
+**Big Horn County youth identified as state's first pediatric flu death**
 
-You can read more about it [here](https://www.engadget.com/rabbit-r1-is-an-adorable-ai-powered-assistant-co-designed-by-teenage-engineering-001051537.html).
+You can read more about it [here](https://www.ktvq.com/news/montana-news/big-horn-county-youth-identified-as-states-first-pediatric-flu-death).
 
 ## Requirements
 - Python 3.8
