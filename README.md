@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unranked Nebraska, Iowa State top No. 1 Purdue, No. 2 Houston**
+**Michigan fans give national champions a hero’s welcome upon return to Ann Arbor**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39276300/no-1-purdue-no-2-houston-knocked-unranked-teams).
+You can read more about it [here](https://www.mlive.com/sports/2024/01/michigan-fans-give-national-champions-a-heros-welcome-upon-return-to-ann-arbor.html).
 
 ## Requirements
 - Python 3.8
