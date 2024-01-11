@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storms hit South with tornadoes, dump heavy snow in Midwest**
+**Stuck valve may have doomed private Peregrine moon lander mission, Astrobotic says**
 
-You can read more about it [here](https://www.cbsnews.com/news/winter-storm-tornado-snow-florida/).
+You can read more about it [here](https://www.space.com/astrobotic-peregrine-moon-lander-anomaly-valve).
 
 ## Requirements
 - Python 3.8
