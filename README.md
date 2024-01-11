@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We should be worried’: Israel faces peril at The Hague in Gaza ‘genocide’ case**
+**Pope's call to ban surrogacy stirs outrage, sadness among advocates**
 
-You can read more about it [here](https://www.timesofisrael.com/we-should-be-worried-israel-faces-peril-at-the-hague-in-gaza-genocide-case/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/10/popes-call-to-ban-surrogacy-stirs-outrage-sadness-among-advocates/72164437007/).
 
 ## Requirements
 - Python 3.8
