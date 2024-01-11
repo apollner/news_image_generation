@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amalija Knavs, mother of Melania Trump, dies at 78**
+**Nikkei soars while traders wait to see if US inflation slows**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/10/amalija-knavs-mother-of-melania-trump-dies-00134713).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-01-10/).
 
 ## Requirements
 - Python 3.8
