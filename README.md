@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump can't give closing argument at civil trial, judge says**
+**Palisades Tahoe avalanche: search undereway at resort**
 
-You can read more about it [here](https://apnews.com/article/trump-fraud-trial-closing-arguments-420997f889922423dbce8a0945f0c348).
+You can read more about it [here](https://www.youtube.com/watch?v=dL-rR5FgwBQ).
 
 ## Requirements
 - Python 3.8
