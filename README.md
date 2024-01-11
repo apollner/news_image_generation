@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOWN GOES NUMBER ONE 🚨 Purdue Boilermakers vs. Nebraska Cornhuskers | Full Game Highlights**
+**Intel: “We are bringing the AI PC to the car”**
 
-You can read more about it [here](https://www.youtube.com/watch?v=I9_6SOgHOc0).
+You can read more about it [here](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces).
 
 ## Requirements
 - Python 3.8
