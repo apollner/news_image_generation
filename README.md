@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gabriel Attal becomes France’s youngest prime minister**
+**Winter storm slams central and eastern US**
 
-You can read more about it [here](https://www.cnn.com/2024/01/09/europe/gabriel-attal-french-prime-minster-intl/index.html).
+You can read more about it [here](https://www.cnn.com/us/live-news/eastern-us-snow-storm-01-09-24/index.html).
 
 ## Requirements
 - Python 3.8
