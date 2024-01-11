@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and UK navies repel largest Houthi attack on Red Sea shipping**
+**How many calories should I burn a day? Your calorie questions, answered by experts.**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67932725).
+You can read more about it [here](https://www.cbsnews.com/news/calories-questions-answered-experts/).
 
 ## Requirements
 - Python 3.8
