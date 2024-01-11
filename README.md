@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elevated genetic risk for multiple sclerosis emerged in steppe pastoralist populations**
+**China launches Einstein probe to hunt for X-ray bursts in space**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-023-06618-z).
+You can read more about it [here](https://www.cnn.com/2024/01/10/world/einstein-probe-launch-china-scn/index.html).
 
 ## Requirements
 - Python 3.8
