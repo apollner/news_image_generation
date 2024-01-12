@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel to face Gaza genocide charges at World Court**
+**NYC Judge Engoron says Trump blew chance, can't personally deliver closing arguments at fraud trial**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-face-gaza-genocide-charges-world-court-2024-01-11/).
+You can read more about it [here](http://www.nydailynews.com/2024/01/10/nyc-judge-enegron-bars-trump-closing-arguments-fraud-trial/).
 
 ## Requirements
 - Python 3.8
