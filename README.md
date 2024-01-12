@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rising shelter, healthcare costs lift US consumer inflation in December**
+**Hunter Biden to be arraigned on tax charges in Los Angeles**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-consumer-prices-rise-more-than-expected-december-weekly-jobless-claims-fall-2024-01-11/).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-to-be-arraigned-on-tax-charges-in-los-angeles/).
 
 ## Requirements
 - Python 3.8
