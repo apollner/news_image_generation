@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Hunter Biden showed up at the Capitol**
+**Here's what a bitcoin ETF actually means for investors**
 
-You can read more about it [here](https://www.axios.com/2024/01/11/why-hunter-showed-capitol-house-investigation).
+You can read more about it [here](https://www.cnbc.com/2024/01/11/heres-what-a-bitcoin-etf-actually-means-for-investors.html).
 
 ## Requirements
 - Python 3.8
