@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CES 2024 Day 2 recap: A wild Rabbit gadget appears while Google offers its own take on Apple software tricks**
+**Selena Gomez to Star in Linda Ronstadt Biopic**
 
-You can read more about it [here](https://www.engadget.com/ces-2024-day-2-recap-a-wild-rabbit-gadget-appears-while-google-offers-its-own-take-on-apple-software-tricks-022245111.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/selena-gomez-linda-ronstadt-biopic-movie-1235784783/).
 
 ## Requirements
 - Python 3.8
