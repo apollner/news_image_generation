@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Montgomery County measles exposure: Officials warn of 2 possible sites in Abington area of Montco**
+**In Philadelphia measles outbreak, child sent to daycare despite quarantine instructions**
 
-You can read more about it [here](https://6abc.com/montgomery-county-measles-abington-meadowbrooks-holy-redeemer-pediatric-urgent-care/14310583/).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/philadelphia-measles-outbreak-hospital-day-care-rcna133269).
 
 ## Requirements
 - Python 3.8
