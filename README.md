@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Mean Girls’ Is Queen Bee Of MLK Weekend But Will Be Only Cool Kid In January – Box Office Preview**
+**Amazon laying off hundreds at Prime Video, MGM Studio, Twitch divisions**
 
-You can read more about it [here](http://deadline.com/2024/01/box-office-mean-girl-preview-1235712531/).
+You can read more about it [here](https://www.foxbusiness.com/economy/amazon-laying-off-hundreds-prime-video-mgm-studio-twitch-divisions).
 
 ## Requirements
 - Python 3.8
