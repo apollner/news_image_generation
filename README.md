@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Carroll is out as head coach of Seahawks in shocking move**
+**Column: Saban doesn't go out on top, but he does leave as the greatest of them all**
 
-You can read more about it [here](https://sports.yahoo.com/pete-carroll-out-head-coach-of-seahawks-in-shocking-move-191925662.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2024/01/11/column-saban-doesn-t-go-out-on-top-but-he-does-leave-as-the-greatest-of-them-all/72186539007/).
 
 ## Requirements
 - Python 3.8
