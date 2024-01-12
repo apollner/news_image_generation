@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Mean Girls’ Is Queen Bee Of MLK Weekend But Will Be Only Cool Kid In January – Box Office Preview**
+**Winter storm updates: Power outages, flooding across Northeast**
 
-You can read more about it [here](http://deadline.com/2024/01/box-office-mean-girl-preview-1235712531/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/01/10/winter-storm-snow-floods-power-outages-live-updates/72170001007/).
 
 ## Requirements
 - Python 3.8
