@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what a bitcoin ETF actually means for investors**
+**Alabama prisoners' bodies returned to families with hearts, other organs missing, lawsuit claims**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/11/heres-what-a-bitcoin-etf-actually-means-for-investors.html).
+You can read more about it [here](https://www.cbsnews.com/news/prisoners-bodies-returned-to-families-missing-organs-lawsuit-alleges/).
 
 ## Requirements
 - Python 3.8
