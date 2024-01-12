@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Mean Girls’ Is Queen Bee Of MLK Weekend But Will Be Only Cool Kid In January – Box Office Preview**
+**CES 2024 Day 2 recap: A wild Rabbit gadget appears while Google offers its own take on Apple software tricks**
 
-You can read more about it [here](http://deadline.com/2024/01/box-office-mean-girl-preview-1235712531/).
+You can read more about it [here](https://www.engadget.com/ces-2024-day-2-recap-a-wild-rabbit-gadget-appears-while-google-offers-its-own-take-on-apple-software-tricks-022245111.html).
 
 ## Requirements
 - Python 3.8
