@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Column: Saban doesn't go out on top, but he does leave as the greatest of them all**
+**Why Hunter Biden showed up at the Capitol**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2024/01/11/column-saban-doesn-t-go-out-on-top-but-he-does-leave-as-the-greatest-of-them-all/72186539007/).
+You can read more about it [here](https://www.axios.com/2024/01/11/why-hunter-showed-capitol-house-investigation).
 
 ## Requirements
 - Python 3.8
