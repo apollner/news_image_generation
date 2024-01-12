@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google lays off hundreds in hardware, voice assistant teams**
+**Victor Wembanyama Astounds Again in Spurs Win With Historic, First Career Triple-Double**
 
-You can read more about it [here](https://finance.yahoo.com/news/google-lays-off-hundreds-hardware-041348770.html).
+You can read more about it [here](https://www.si.com/nba/2024/01/11/victor-wembanyama-spurs-historic-first-career-triple-double).
 
 ## Requirements
 - Python 3.8
