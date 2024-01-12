@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN Security Council demands Houthis stop Red Sea attacks**
+**Google lays off hundreds in hardware, voice assistant teams**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/un-security-council-demands-houthis-stop-red-sea-attacks-2024-01-10/).
+You can read more about it [here](https://finance.yahoo.com/news/google-lays-off-hundreds-hardware-041348770.html).
 
 ## Requirements
 - Python 3.8
