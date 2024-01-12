@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your Mac and Apple Vision Pro: What You Can Do (and What You Can't)**
+**Pete Carroll is out as head coach of Seahawks in shocking move**
 
-You can read more about it [here](https://www.macrumors.com/2024/01/11/apple-vision-pro-mac-interoperability/).
+You can read more about it [here](https://sports.yahoo.com/pete-carroll-out-head-coach-of-seahawks-in-shocking-move-191925662.html).
 
 ## Requirements
 - Python 3.8
