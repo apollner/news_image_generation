@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC Judge Engoron says Trump blew chance, can't personally deliver closing arguments at fraud trial**
+**Citigroup at risk of quarterly loss after charges come in far higher than initially disclosed**
 
-You can read more about it [here](http://www.nydailynews.com/2024/01/10/nyc-judge-enegron-bars-trump-closing-arguments-fraud-trial/).
+You can read more about it [here](https://www.cnbc.com/2024/01/10/citigroup-risk-quarterly-loss-after-disclosing-charges.html).
 
 ## Requirements
 - Python 3.8
