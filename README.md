@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump 14th Amendment political challenger arrested on federal tax charges**
+**Starbucks sued for alleged deceptive marketing of its ‘100% ethically’ sourced coffee**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4400782-trump-14th-amendment-political-challenger-arrested-on-federal-tax-charges/).
+You can read more about it [here](https://www.cnn.com/2024/01/10/business/starbucks-lawsuit-deceptive-marketing/index.html).
 
 ## Requirements
 - Python 3.8
