@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter storm updates: Power outages, flooding across Northeast**
+**Bitcoin ETFs Secure Approval Exactly 15 Years After Hal Finney’s Iconic ‘Running Bitcoin’ Tweet**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/01/10/winter-storm-snow-floods-power-outages-live-updates/72170001007/).
+You can read more about it [here](https://www.coindesk.com/markets/2024/01/11/bitcoin-etfs-secure-approval-exactly-15-years-after-hal-finneys-iconic-running-bitcoin-tweet/).
 
 ## Requirements
 - Python 3.8
