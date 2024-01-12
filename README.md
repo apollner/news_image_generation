@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers is off ESPN’s ‘Pat McAfee Show’ for the season after ugly remarks about Jimmy Kimmel, conspiracy theories**
+**Israel to face Gaza genocide charges at World Court**
 
-You can read more about it [here](https://www.cnn.com/2024/01/10/business/aaron-rodgers-pat-mcafee-show/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-face-gaza-genocide-charges-world-court-2024-01-11/).
 
 ## Requirements
 - Python 3.8
