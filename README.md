@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez to Star in Linda Ronstadt Biopic**
+**Diesel engine maker Cummins to pay record $1.675B emissions settlement**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/selena-gomez-linda-ronstadt-biopic-movie-1235784783/).
+You can read more about it [here](https://www.foxbusiness.com/politics/diesel-engine-maker-cummins-pay-record-1-675b-emissions-settlement-doj-california).
 
 ## Requirements
 - Python 3.8
