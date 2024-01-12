@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kristen Stewart says 'Twilight' is 'such a gay movie'**
+**Rising shelter, healthcare costs lift US consumer inflation in December**
 
-You can read more about it [here](https://ew.com/kristen-stewart-says-twilight-is-gay-movie-8425208).
+You can read more about it [here](https://www.reuters.com/markets/us/us-consumer-prices-rise-more-than-expected-december-weekly-jobless-claims-fall-2024-01-11/).
 
 ## Requirements
 - Python 3.8
