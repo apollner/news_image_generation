@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Mean Girls’ Is Queen Bee Of MLK Weekend But Will Be Only Cool Kid In January – Box Office Preview**
+**Aaron Rodgers is off ESPN’s ‘Pat McAfee Show’ for the season after ugly remarks about Jimmy Kimmel, conspiracy theories**
 
-You can read more about it [here](http://deadline.com/2024/01/box-office-mean-girl-preview-1235712531/).
+You can read more about it [here](https://www.cnn.com/2024/01/10/business/aaron-rodgers-pat-mcafee-show/index.html).
 
 ## Requirements
 - Python 3.8
