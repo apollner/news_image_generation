@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Philadelphia measles outbreak, child sent to daycare despite quarantine instructions**
+**LG's OLED Signature T Transparent TV Is Absolutely Incredible**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/philadelphia-measles-outbreak-hospital-day-care-rcna133269).
+You can read more about it [here](https://www.thedailybeast.com/lgs-oled-signature-t-transparent-tv-is-absolutely-incredible).
 
 ## Requirements
 - Python 3.8
