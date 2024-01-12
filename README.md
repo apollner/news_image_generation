@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who could replace Nick Saban at Alabama? Dan Lanning, Steve Sarkisian and other candidates**
+**UN Security Council demands Houthis stop Red Sea attacks**
 
-You can read more about it [here](https://theathletic.com/5193708/2024/01/10/alabama-saban-replacements-dan-lanning-steve-sarkisian/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/un-security-council-demands-houthis-stop-red-sea-attacks-2024-01-10/).
 
 ## Requirements
 - Python 3.8
