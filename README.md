@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Radio signal that took 8 billion years to reach Earth came from seven interacting galaxies**
+**Winter storm updates: Power outages, flooding across Northeast**
 
-You can read more about it [here](https://www.wionews.com/science/source-of-mysterious-radio-signal-that-took-8-billion-years-to-reach-earth-revealed-678566).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/01/10/winter-storm-snow-floods-power-outages-live-updates/72170001007/).
 
 ## Requirements
 - Python 3.8
