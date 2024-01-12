@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LG's OLED Signature T Transparent TV Is Absolutely Incredible**
+**Kristen Stewart says 'Twilight' is 'such a gay movie'**
 
-You can read more about it [here](https://www.thedailybeast.com/lgs-oled-signature-t-transparent-tv-is-absolutely-incredible).
+You can read more about it [here](https://ew.com/kristen-stewart-says-twilight-is-gay-movie-8425208).
 
 ## Requirements
 - Python 3.8
