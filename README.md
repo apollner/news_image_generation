@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter storm updates: Power outages, flooding across Northeast**
+**Who could replace Nick Saban at Alabama? Dan Lanning, Steve Sarkisian and other candidates**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/01/10/winter-storm-snow-floods-power-outages-live-updates/72170001007/).
+You can read more about it [here](https://theathletic.com/5193708/2024/01/10/alabama-saban-replacements-dan-lanning-steve-sarkisian/).
 
 ## Requirements
 - Python 3.8
