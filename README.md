@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks sued for alleged deceptive marketing of its ‘100% ethically’ sourced coffee**
+**Amazon laying off hundreds at Prime Video, MGM Studio, Twitch divisions**
 
-You can read more about it [here](https://www.cnn.com/2024/01/10/business/starbucks-lawsuit-deceptive-marketing/index.html).
+You can read more about it [here](https://www.foxbusiness.com/economy/amazon-laying-off-hundreds-prime-video-mgm-studio-twitch-divisions).
 
 ## Requirements
 - Python 3.8
