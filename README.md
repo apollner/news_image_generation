@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victor Wembanyama Astounds Again in Spurs Win With Historic, First Career Triple-Double**
+**Amy Winehouse Biopic ‘Back to Black’ Trailer: Marisa Abela Transforms Into Iconic Singer in Sam Taylor-Johnson Film**
 
-You can read more about it [here](https://www.si.com/nba/2024/01/11/victor-wembanyama-spurs-historic-first-career-triple-double).
+You can read more about it [here](https://variety.com/2024/film/trailers/amy-winehouse-biopic-trailer-back-to-black-marisa-abela-sam-taylor-johnson-1235866923/).
 
 ## Requirements
 - Python 3.8
