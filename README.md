@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astrobotic gets payloads working on ailing Peregrine lander**
+**Republican debate: Five takeaways as Haley and DeSantis face off**
 
-You can read more about it [here](https://spacenews.com/astrobotic-gets-payloads-working-on-ailing-peregrine-lander/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67942133).
 
 ## Requirements
 - Python 3.8
