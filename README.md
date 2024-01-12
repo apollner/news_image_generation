@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican debate: Five takeaways as Haley and DeSantis face off**
+**Montgomery County measles exposure: Officials warn of 2 possible sites in Abington area of Montco**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67942133).
+You can read more about it [here](https://6abc.com/montgomery-county-measles-abington-meadowbrooks-holy-redeemer-pediatric-urgent-care/14310583/).
 
 ## Requirements
 - Python 3.8
