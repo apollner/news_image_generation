@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A giant tyrannosaur from the Campanian–Maastrichtian of southern North America and the evolution of tyrannosaurid gigantism | Scientific Reports**
+**Astrobotic gets payloads working on ailing Peregrine lander**
 
-You can read more about it [here](https://www.nature.com/articles/s41598-023-47011-0).
+You can read more about it [here](https://spacenews.com/astrobotic-gets-payloads-working-on-ailing-peregrine-lander/).
 
 ## Requirements
 - Python 3.8
