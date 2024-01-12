@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pat McAfee made call to cut Aaron Rodgers' appearances on ESPN show**
+**Radio signal that took 8 billion years to reach Earth came from seven interacting galaxies**
 
-You can read more about it [here](https://nypost.com/2024/01/10/sports/pat-mcafee-made-call-to-cut-aaron-rodgers-from-espn-show/).
+You can read more about it [here](https://www.wionews.com/science/source-of-mysterious-radio-signal-that-took-8-billion-years-to-reach-earth-revealed-678566).
 
 ## Requirements
 - Python 3.8
