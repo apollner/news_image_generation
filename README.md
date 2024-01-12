@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Iowa voter asks Trump about his stance on abortion. Hear his response**
+**Former Cardinal McCarrick Ruled Incompetent to Stand Trial for Sexual Assault**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2024/01/11/abortion-donald-trump-fox-news-town-hall-iowa-caucus-cnntm-ldn-vpx.cnn).
+You can read more about it [here](https://www.wsj.com/us-news/former-cardinal-mccarrick-ruled-incompetent-to-stand-trial-for-sexual-assault-c2dc1c8c).
 
 ## Requirements
 - Python 3.8
