@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama prisoners' bodies returned to families with hearts, other organs missing, lawsuit claims**
+**Former Cardinal McCarrick Ruled Incompetent to Stand Trial for Sexual Assault**
 
-You can read more about it [here](https://www.cbsnews.com/news/prisoners-bodies-returned-to-families-missing-organs-lawsuit-alleges/).
+You can read more about it [here](https://www.wsj.com/us-news/former-cardinal-mccarrick-ruled-incompetent-to-stand-trial-for-sexual-assault-c2dc1c8c).
 
 ## Requirements
 - Python 3.8
