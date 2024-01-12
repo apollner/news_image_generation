@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amy Winehouse Biopic ‘Back to Black’ Trailer: Marisa Abela Transforms Into Iconic Singer in Sam Taylor-Johnson Film**
+**Your Mac and Apple Vision Pro: What You Can Do (and What You Can't)**
 
-You can read more about it [here](https://variety.com/2024/film/trailers/amy-winehouse-biopic-trailer-back-to-black-marisa-abela-sam-taylor-johnson-1235866923/).
+You can read more about it [here](https://www.macrumors.com/2024/01/11/apple-vision-pro-mac-interoperability/).
 
 ## Requirements
 - Python 3.8
