@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Peregrine lunar lander has another 48 hours left in space**
+**Warriors trade deadline targets: Five players who could help Stephen Curry turn around disappointing season**
 
-You can read more about it [here](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads).
+You can read more about it [here](https://www.cbssports.com/nba/news/warriors-trade-deadline-targets-five-players-who-could-help-stephen-curry-turn-around-disappointing-season/).
 
 ## Requirements
 - Python 3.8
