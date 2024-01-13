@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At last! NASA finally frees lid of asteroid Bennu sample capsule after battling stuck fasteners**
+**T. rex's older cousin unearthed in New Mexico**
 
-You can read more about it [here](https://www.space.com/nasa-removes-stuck-fasteners-osiris-rex-asteroid-samples).
+You can read more about it [here](https://www.kob.com/new-mexico/t-rexs-older-cousin-unearthed-in-new-mexico/).
 
 ## Requirements
 - Python 3.8
