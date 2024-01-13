@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin ETF Debut Serves as a Lesson for Ether ETF Speculators**
+**China's annual exports drop for the first time in seven years**
 
-You can read more about it [here](https://www.coindesk.com/markets/2024/01/12/bitcoin-etf-debut-serves-as-a-lesson-for-ether-etf-speculators/).
+You can read more about it [here](https://www.cnbc.com/2024/01/12/china-posts-higher-than-expected-exports-growth-in-december.html).
 
 ## Requirements
 - Python 3.8
