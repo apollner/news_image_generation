@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Screens keep getting faster. Can you even tell?**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/24035804/360hz-480hz-oled-monitors-samsung-lg-display-dell-alienware-msi-asus).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
