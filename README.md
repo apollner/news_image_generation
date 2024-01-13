@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's annual exports drop for the first time in seven years**
+**Warriors trade deadline targets: Five players who could help Stephen Curry turn around disappointing season**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/12/china-posts-higher-than-expected-exports-growth-in-december.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/warriors-trade-deadline-targets-five-players-who-could-help-stephen-curry-turn-around-disappointing-season/).
 
 ## Requirements
 - Python 3.8
