@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A new student loan forgiveness policy is starting sooner than expected**
+**Israel-Hamas war: Houthis targeted in Yemen amid ongoing war in Gaza | LiveNOW**
 
-You can read more about it [here](https://www.npr.org/2024/01/12/1224265472/student-loan-forgiveness-save-plan).
+You can read more about it [here](https://www.youtube.com/watch?v=0UA4RQBvIvw).
 
 ## Requirements
 - Python 3.8
