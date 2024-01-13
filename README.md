@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Kentucky children reported dead from flu and COVID-19**
+**Why this week’s GOP debate has at least one Iowa Republican reconsidering her pick**
 
-You can read more about it [here](https://www.wlky.com/article/2-kentucky-children-reported-dead-flu-covid-19/46355340).
+You can read more about it [here](https://www.cnn.com/2024/01/11/politics/iowa-voters-reaction-cnn-debate/index.html).
 
 ## Requirements
 - Python 3.8
