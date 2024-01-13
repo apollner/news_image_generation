@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors trade deadline targets: Five players who could help Stephen Curry turn around disappointing season**
+**Inside the NBA Debates Celtics Benching Starters for Entire 2nd Half vs. Bucks**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/warriors-trade-deadline-targets-five-players-who-could-help-stephen-curry-turn-around-disappointing-season/).
+You can read more about it [here](https://www.youtube.com/watch?v=WTWE0OR6Q9c).
 
 ## Requirements
 - Python 3.8
