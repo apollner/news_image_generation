@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California ski resort reopens as workers clear debris from deadly avalanche**
+**Iran Seizes Oil Tanker Linked to U.S. Sanctions Dispute**
 
-You can read more about it [here](https://apnews.com/article/california-avalanche-skier-killed-a89eda7365f23c7f47355a0def05d161).
+You can read more about it [here](https://www.wsj.com/world/middle-east/armed-uniformed-men-divert-oil-tanker-to-iranian-waters-d843f9a3).
 
 ## Requirements
 - Python 3.8
