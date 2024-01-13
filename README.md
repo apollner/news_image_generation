@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of America shares fall after company reports lower fourth-quarter profit, hit by regulatory charge**
+**A new student loan forgiveness policy is starting sooner than expected**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/12/bank-of-america-bac-earnings-4q-2023.html).
+You can read more about it [here](https://www.npr.org/2024/01/12/1224265472/student-loan-forgiveness-save-plan).
 
 ## Requirements
 - Python 3.8
