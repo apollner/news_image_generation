@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's Medvedev says any UK troop deployment to Ukraine would be a declaration of war**
+**Screens keep getting faster. Can you even tell?**
 
-You can read more about it [here](https://news.yahoo.com/russias-medvedev-says-uk-troop-125315205.html).
+You can read more about it [here](https://www.theverge.com/24035804/360hz-480hz-oled-monitors-samsung-lg-display-dell-alienware-msi-asus).
 
 ## Requirements
 - Python 3.8
