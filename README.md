@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navy helicopter crashes into California waters with six inside**
+**Harvard sued for violating Jewish students' civil rights, allowing 'antisemitism cancer' to grow on campus**
 
-You can read more about it [here](https://www.youtube.com/watch?v=RbBRmpkyOzg).
+You can read more about it [here](https://www.foxnews.com/media/harvard-sued-violating-jewish-students-civil-rights-allowing-antisemitism-cancer-grow-campus).
 
 ## Requirements
 - Python 3.8
