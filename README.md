@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the NBA Debates Celtics Benching Starters for Entire 2nd Half vs. Bucks**
+**Israel will defend itself at the UN's top court against allegations of genocide against Palestinians**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WTWE0OR6Q9c).
+You can read more about it [here](https://apnews.com/article/world-court-israel-genocide-gaza-south-africa-65b087102893dd06222370b10f0b4e4d).
 
 ## Requirements
 - Python 3.8
