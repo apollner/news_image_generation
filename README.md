@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Seizes Oil Tanker Linked to U.S. Sanctions Dispute**
+**T. rex fossil unearthed decades ago is older, more primitive relative of iconic dinosaur, scientists say**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/armed-uniformed-men-divert-oil-tanker-to-iranian-waters-d843f9a3).
+You can read more about it [here](https://www.cbsnews.com/news/t-rex-fossil-new-species-older-new-mexico-tyrannosaurus-mcraeensis/).
 
 ## Requirements
 - Python 3.8
