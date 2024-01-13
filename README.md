@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**He Dropped 40 Pounds With New Drug. Now What?**
+**At last! NASA finally frees lid of asteroid Bennu sample capsule after battling stuck fasteners**
 
-You can read more about it [here](https://www.newser.com/story/345025/he-quickly-lost-40-pounds-with-new-drug-now-what.html).
+You can read more about it [here](https://www.space.com/nasa-removes-stuck-fasteners-osiris-rex-asteroid-samples).
 
 ## Requirements
 - Python 3.8
