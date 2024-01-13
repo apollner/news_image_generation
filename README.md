@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Here's How Much Nick Saban Earned In His 51-Year Coaching Career**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.forbes.com/sites/justinbirnbaum/2024/01/12/heres-how-much-nick-saban-earned-in-his-51-year-coaching-career/).
 
 ## Requirements
 - Python 3.8
