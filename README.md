@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Kraft: Removing personnel power from Bill Belichick would have created "confusion"**
+**The Peregrine lunar lander has another 48 hours left in space**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-kraft-removing-personnel-power-from-bill-belichick-would-have-created-confusion).
+You can read more about it [here](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads).
 
 ## Requirements
 - Python 3.8
