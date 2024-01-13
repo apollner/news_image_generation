@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's How Much Nick Saban Earned In His 51-Year Coaching Career**
+**Bitcoin ETFs have a key difference from their stock fund counterparts**
 
-You can read more about it [here](https://www.forbes.com/sites/justinbirnbaum/2024/01/12/heres-how-much-nick-saban-earned-in-his-51-year-coaching-career/).
+You can read more about it [here](https://www.cnbc.com/2024/01/12/bitcoin-etfs-have-a-key-difference-from-their-stock-fund-counterparts.html).
 
 ## Requirements
 - Python 3.8
