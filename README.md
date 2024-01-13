@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why this week’s GOP debate has at least one Iowa Republican reconsidering her pick**
+**Bill Belichick era with Patriots ends 'amicably,' team owner Robert Kraft says**
 
-You can read more about it [here](https://www.cnn.com/2024/01/11/politics/iowa-voters-reaction-cnn-debate/index.html).
+You can read more about it [here](https://sports.yahoo.com/bill-belichick-era-with-patriots-ends-amicably-team-owner-robert-kraft-says-172554201.html).
 
 ## Requirements
 - Python 3.8
