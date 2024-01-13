@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S21, S22, and S23 get January 2024 security update in Europe - SamMobile**
+**UK to increase military funding for Ukraine as PM Sunak visits Kyiv**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s21-s22-s23-january-2024-security-update-europe/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/1/12/uk-to-increase-military-funding-for-ukraine-as-pm-sunak-visits-kyiv).
 
 ## Requirements
 - Python 3.8
