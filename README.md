@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard sued for violating Jewish students' civil rights, allowing 'antisemitism cancer' to grow on campus**
+**Robert Kraft: Removing personnel power from Bill Belichick would have created "confusion"**
 
-You can read more about it [here](https://www.foxnews.com/media/harvard-sued-violating-jewish-students-civil-rights-allowing-antisemitism-cancer-grow-campus).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-kraft-removing-personnel-power-from-bill-belichick-would-have-created-confusion).
 
 ## Requirements
 - Python 3.8
