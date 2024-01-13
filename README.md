@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US, Britain carry out strikes against Houthis in Yemen- officials**
+**Not so grown up: Chris Christie's cranky exit**
 
-You can read more about it [here](https://www.reuters.com/world/us-britain-carry-out-strikes-against-houthis-yemen-officials-2024-01-11/).
+You can read more about it [here](https://www.politico.com/news/2024/01/11/not-so-grown-up-chris-christies-cranky-exit-00135227).
 
 ## Requirements
 - Python 3.8
