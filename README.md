@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Isabella Strahan, Michael Strahan's 19-year-old daughter, reveals she's battling brain cancer**
+**Why this week’s GOP debate has at least one Iowa Republican reconsidering her pick**
 
-You can read more about it [here](https://www.cbsnews.com/news/michael-strahan-daughter-isabella-brain-cancer-medulloblastoma-interview/).
+You can read more about it [here](https://www.cnn.com/2024/01/11/politics/iowa-voters-reaction-cnn-debate/index.html).
 
 ## Requirements
 - Python 3.8
