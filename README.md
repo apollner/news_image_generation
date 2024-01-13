@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick era with Patriots ends 'amicably,' team owner Robert Kraft says**
+**Isabella Strahan, Michael Strahan's 19-year-old daughter, reveals she's battling brain cancer**
 
-You can read more about it [here](https://sports.yahoo.com/bill-belichick-era-with-patriots-ends-amicably-team-owner-robert-kraft-says-172554201.html).
+You can read more about it [here](https://www.cbsnews.com/news/michael-strahan-daughter-isabella-brain-cancer-medulloblastoma-interview/).
 
 ## Requirements
 - Python 3.8
