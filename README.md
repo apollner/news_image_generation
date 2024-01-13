@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK to increase military funding for Ukraine as PM Sunak visits Kyiv**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/12/uk-to-increase-military-funding-for-ukraine-as-pm-sunak-visits-kyiv).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
