@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Finally Prizes Lid Off The Largest Haul of Asteroid Dust Ever Obtained**
+**Bank of America shares fall after company reports lower fourth-quarter profit, hit by regulatory charge**
 
-You can read more about it [here](https://www.sciencealert.com/nasa-finally-prizes-lid-off-the-largest-haul-of-asteroid-dust-ever-obtained).
+You can read more about it [here](https://www.cnbc.com/2024/01/12/bank-of-america-bac-earnings-4q-2023.html).
 
 ## Requirements
 - Python 3.8
