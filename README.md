@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Not so grown up: Chris Christie's cranky exit**
+**Iran Seizes Oil Tanker Linked to U.S. Sanctions Dispute**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/11/not-so-grown-up-chris-christies-cranky-exit-00135227).
+You can read more about it [here](https://www.wsj.com/world/middle-east/armed-uniformed-men-divert-oil-tanker-to-iranian-waters-d843f9a3).
 
 ## Requirements
 - Python 3.8
