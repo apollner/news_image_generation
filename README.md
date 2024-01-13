@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Life-threatening’ blizzard will slam Iowa as record-low temps or tornado-spawning storms could hit the South and East Coast**
+**Oppenheimer will stream on Peacock in February**
 
-You can read more about it [here](https://www.cnn.com/2024/01/12/weather/winter-weather-alerts-blizzard-floods/index.html).
+You can read more about it [here](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date).
 
 ## Requirements
 - Python 3.8
