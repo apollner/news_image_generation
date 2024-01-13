@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jo Koy Says Dissing His Golden Globes Writers on Stage ‘Was a Rookie Move,’ Confronts ‘Barbie’ Joke Sexism Backlash: ‘We Can’t Joke With Each Other Anymore’**
+**California ski resort reopens as workers clear debris from deadly avalanche**
 
-You can read more about it [here](https://variety.com/2024/tv/news/jo-koy-reacts-golden-globes-backlash-dissing-writers-1235869317/).
+You can read more about it [here](https://apnews.com/article/california-avalanche-skier-killed-a89eda7365f23c7f47355a0def05d161).
 
 ## Requirements
 - Python 3.8
