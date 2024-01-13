@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why did Nick Saban retire? ‘Age started to become an issue’: Inside his final hours at Alabama**
+**Warriors trade deadline targets: Five players who could help Stephen Curry turn around disappointing season**
 
-You can read more about it [here](https://theathletic.com/5196874/2024/01/11/nick-saban-retirement-alabama-football/).
+You can read more about it [here](https://www.cbssports.com/nba/news/warriors-trade-deadline-targets-five-players-who-could-help-stephen-curry-turn-around-disappointing-season/).
 
 ## Requirements
 - Python 3.8
