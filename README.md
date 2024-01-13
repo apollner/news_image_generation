@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Seizes Oil Tanker Linked to U.S. Sanctions Dispute**
+**2 Kentucky children reported dead from flu and COVID-19**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/armed-uniformed-men-divert-oil-tanker-to-iranian-waters-d843f9a3).
+You can read more about it [here](https://www.wlky.com/article/2-kentucky-children-reported-dead-flu-covid-19/46355340).
 
 ## Requirements
 - Python 3.8
