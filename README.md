@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**T. rex fossil unearthed decades ago is older, more primitive relative of iconic dinosaur, scientists say**
+**The Peregrine lunar lander has another 48 hours left in space**
 
-You can read more about it [here](https://www.cbsnews.com/news/t-rex-fossil-new-species-older-new-mexico-tyrannosaurus-mcraeensis/).
+You can read more about it [here](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads).
 
 ## Requirements
 - Python 3.8
