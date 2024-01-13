@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel will defend itself at the UN's top court against allegations of genocide against Palestinians**
+**Bitcoin ETF Debut Serves as a Lesson for Ether ETF Speculators**
 
-You can read more about it [here](https://apnews.com/article/world-court-israel-genocide-gaza-south-africa-65b087102893dd06222370b10f0b4e4d).
+You can read more about it [here](https://www.coindesk.com/markets/2024/01/12/bitcoin-etf-debut-serves-as-a-lesson-for-ether-etf-speculators/).
 
 ## Requirements
 - Python 3.8
