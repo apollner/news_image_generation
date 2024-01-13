@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**T. rex's older cousin unearthed in New Mexico**
+**US warns ships to stay out of parts of Red Sea as Houthi rebels vow retaliation for US, UK strikes**
 
-You can read more about it [here](https://www.kob.com/new-mexico/t-rexs-older-cousin-unearthed-in-new-mexico/).
+You can read more about it [here](https://apnews.com/article/yemen-houthis-us-ship-attacks-bombing-red-sea-iran-cc06d9186a00d1f22bea6b9c14dda12a).
 
 ## Requirements
 - Python 3.8
