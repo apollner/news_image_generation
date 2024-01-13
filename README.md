@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden to be arraigned on tax charges in Los Angeles**
+**US, Britain carry out strikes against Houthis in Yemen- officials**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-to-be-arraigned-on-tax-charges-in-los-angeles/).
+You can read more about it [here](https://www.reuters.com/world/us-britain-carry-out-strikes-against-houthis-yemen-officials-2024-01-11/).
 
 ## Requirements
 - Python 3.8
