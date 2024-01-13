@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**He Dropped 40 Pounds With New Drug. Now What?**
+**‘Life-threatening’ blizzard will slam Iowa as record-low temps or tornado-spawning storms could hit the South and East Coast**
 
-You can read more about it [here](https://www.newser.com/story/345025/he-quickly-lost-40-pounds-with-new-drug-now-what.html).
+You can read more about it [here](https://www.cnn.com/2024/01/12/weather/winter-weather-alerts-blizzard-floods/index.html).
 
 ## Requirements
 - Python 3.8
