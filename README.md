@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**He Dropped 40 Pounds With New Drug. Now What?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.newser.com/story/345025/he-quickly-lost-40-pounds-with-new-drug-now-what.html).
 
 ## Requirements
 - Python 3.8
