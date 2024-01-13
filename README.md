@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Peregrine lunar lander has another 48 hours left in space**
+**Jo Koy Says Dissing His Golden Globes Writers on Stage ‘Was a Rookie Move,’ Confronts ‘Barbie’ Joke Sexism Backlash: ‘We Can’t Joke With Each Other Anymore’**
 
-You can read more about it [here](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads).
+You can read more about it [here](https://variety.com/2024/tv/news/jo-koy-reacts-golden-globes-backlash-dissing-writers-1235869317/).
 
 ## Requirements
 - Python 3.8
