@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin ETFs have a key difference from their stock fund counterparts**
+**Russia's Medvedev says any UK troop deployment to Ukraine would be a declaration of war**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/12/bitcoin-etfs-have-a-key-difference-from-their-stock-fund-counterparts.html).
+You can read more about it [here](https://news.yahoo.com/russias-medvedev-says-uk-troop-125315205.html).
 
 ## Requirements
 - Python 3.8
