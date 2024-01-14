@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC Comments on Hack of Its X Account and Resulting Fake Bitcoin ETF Approval Announcement**
+**Rep. Jason Crow weighs in on defense secretary hospitalization**
 
-You can read more about it [here](https://www.coindesk.com/policy/2024/01/13/sec-says-other-systems-secure-after-x-account-hack/).
+You can read more about it [here](https://www.youtube.com/watch?v=BOj2gBBxeTQ).
 
 ## Requirements
 - Python 3.8
