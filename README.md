@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Psychedelics provide emotional lift for terminal patients in Canada**
+**What to Expect from Samsung Unpacked 2024**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/13/psychedelics-terminal-illness-cancer/).
+You can read more about it [here](https://www.youtube.com/watch?v=oLItP4duNqA).
 
 ## Requirements
 - Python 3.8
