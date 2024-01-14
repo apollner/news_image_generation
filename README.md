@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State of the Race: Blizzard derails Iowa campaign events; will below zero temps depress caucus turnout**
+**Turkey launches airstrikes against Kurdish militants in Iraq and Syria after 9 soldiers were killed**
 
-You can read more about it [here](https://www.foxnews.com/politics/state-of-race-blizzard-derails-iowa-campaign-events-now-below-zero-temps-may-depress-caucus-turnout).
+You can read more about it [here](https://apnews.com/article/iraq-syria-turkey-airstrikes-soldiers-killed-b745c2f315bee57731df2e861a91603a).
 
 ## Requirements
 - Python 3.8
