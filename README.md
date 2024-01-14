@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to decide Starbucks appeal over fired 'Memphis 7'**
+**Everyone seems to be getting COVID**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/01/12/supreme-court-starbucks-memphis-7-labor-unions/72207144007/).
+You can read more about it [here](https://thehill.com/homenews/4406283-everyone-seems-to-be-getting-covid/).
 
 ## Requirements
 - Python 3.8
