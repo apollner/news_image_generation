@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's at stake for China and U.S. in Taiwan's presidential and parliamentary elections**
+**Bill Hayes, Longtime Star of ‘Days of Our Lives,’ Dies at 98**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rr6QwQag2rU).
+You can read more about it [here](https://variety.com/2024/tv/news/bill-hayes-dead-days-of-our-lives-doug-williams-1235870941/).
 
 ## Requirements
 - Python 3.8
