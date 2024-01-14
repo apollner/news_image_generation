@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jo Koy refers to the famous people who didn't laugh at him as "marshmallows"**
+**Jo Koy slams 'marshmallow' celebs at Golden Globes after Taylor Swift backlash**
 
-You can read more about it [here](https://www.avclub.com/jo-koy-marshmallows-stand-up-gig-1851165284).
+You can read more about it [here](https://pagesix.com/2024/01/13/celebrity-news/jo-koy-slams-marshmallow-celebs-at-golden-globes-after-taylor-swift-backlash/).
 
 ## Requirements
 - Python 3.8
