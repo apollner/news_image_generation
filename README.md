@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa's genocide case against Israel: Both sides play heavy on emotion in ICJ hearing**
+**Biden confronted by hecklers shouting 'go home' during Pennsylvania visit: 'You’re a loser'**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-67962302).
+You can read more about it [here](https://www.foxnews.com/politics/biden-confronted-hecklers-shouting-go-home-pennsylvania-visit-youre-loser).
 
 ## Requirements
 - Python 3.8
