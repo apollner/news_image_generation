@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why spot ETFs may be a game changer for bitcoin**
+**Jo Koy refers to the famous people who didn't laugh at him as "marshmallows"**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/13/why-spot-etfs-may-be-a-game-changer-for-bitcoin-.html).
+You can read more about it [here](https://www.avclub.com/jo-koy-marshmallows-stand-up-gig-1851165284).
 
 ## Requirements
 - Python 3.8
