@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Jason Crow weighs in on defense secretary hospitalization**
+**Polls open as Taiwan voters choose next president, weighing China's threat and island's stability**
 
-You can read more about it [here](https://www.youtube.com/watch?v=BOj2gBBxeTQ).
+You can read more about it [here](https://apnews.com/article/taiwan-china-election-cbf44565b771cddfb60c2a26d2014b0c).
 
 ## Requirements
 - Python 3.8
