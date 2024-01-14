@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bulls Ring of Honor ceremony gets ugly as fans loudly boo Jerry Krause in front of his widow**
+**Who is Crown Prince Frederik, the soon-to-be new King of Denmark?**
 
-You can read more about it [here](https://sports.yahoo.com/bulls-ring-of-honor-ceremony-gets-ugly-as-fans-loudly-boo-jerry-krause-in-front-of-his-widow-034405372.html).
+You can read more about it [here](https://www.cnn.com/2024/01/13/europe/denmark-royals-frederik-profile-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
