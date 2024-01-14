@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL playoff bracket projection: 49ers edge Ravens in Super Bowl LVIII, predictions for every game**
+**Winter storm in US forecast to bring dangerous temperatures, weather**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-bracket-projection-49ers-edge-ravens-in-super-bowl-lviii-predictions-for-every-game/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/01/13/us-winter-storm-forecast-mlk-weekend/72211394007/).
 
 ## Requirements
 - Python 3.8
