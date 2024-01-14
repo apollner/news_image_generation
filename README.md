@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polls open as Taiwan voters choose next president, weighing China's threat and island's stability**
+**What's at stake for China and U.S. in Taiwan's presidential and parliamentary elections**
 
-You can read more about it [here](https://apnews.com/article/taiwan-china-election-cbf44565b771cddfb60c2a26d2014b0c).
+You can read more about it [here](https://www.youtube.com/watch?v=rr6QwQag2rU).
 
 ## Requirements
 - Python 3.8
