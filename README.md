@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden confronted by hecklers shouting 'go home' during Pennsylvania visit: 'You’re a loser'**
+**New COVID variant responsible for latest wave of infections**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-confronted-hecklers-shouting-go-home-pennsylvania-visit-youre-loser).
+You can read more about it [here](https://www.pbs.org/newshour/show/why-experts-are-concerned-about-the-jn-1-variant-responsible-for-latest-covid-wave).
 
 ## Requirements
 - Python 3.8
