@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Hayes, Longtime Star of ‘Days of Our Lives,’ Dies at 98**
+**Alabama hires Washington’s Kalen DeBoer to replace Nick Saban as coach**
 
-You can read more about it [here](https://variety.com/2024/tv/news/bill-hayes-dead-days-of-our-lives-doug-williams-1235870941/).
+You can read more about it [here](https://theathletic.com/5198909/2024/01/12/kalen-deboer-alabama-coach-saban/).
 
 ## Requirements
 - Python 3.8
