@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID variant responsible for latest wave of infections**
+**Supreme Court to decide Starbucks appeal over fired 'Memphis 7'**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/why-experts-are-concerned-about-the-jn-1-variant-responsible-for-latest-covid-wave).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/01/12/supreme-court-starbucks-memphis-7-labor-unions/72207144007/).
 
 ## Requirements
 - Python 3.8
