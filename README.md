@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**CDC reports dips in flu, COVID-19, and RSV—though levels still very high**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://arstechnica.com/science/2024/01/cdc-reports-dips-in-flu-covid-19-and-rsv-though-levels-still-very-high/).
 
 ## Requirements
 - Python 3.8
