@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warns ships to stay out of parts of Red Sea as Houthi rebels vow retaliation for US, UK strikes**
+**Citigroup plans 20,000 job cuts as it reports worst quarter in 14 years**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthis-us-ship-attacks-bombing-red-sea-iran-cc06d9186a00d1f22bea6b9c14dda12a).
+You can read more about it [here](https://www.ft.com/content/8fee7052-3da3-4cfb-9467-0072d08214f9).
 
 ## Requirements
 - Python 3.8
