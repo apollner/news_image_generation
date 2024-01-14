@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We are at the whims of the weather’ | Power expert says inefficient heating puts Texas power grid in danger**
+**Turkey launched airstrikes in Iraq and Syria, destroying bunkers, shelters and oil facilities**
 
-You can read more about it [here](https://www.kvue.com/article/news/investigations/defenders/arctic-blast-texas-ercot-power-grid-danger/269-801a5255-2466-47de-803b-3e7439dda108).
+You can read more about it [here](https://www.foxnews.com/world/turkey-launched-airstrikes-iraq-syria-destroying-bunkers-shelters-oil-facilities).
 
 ## Requirements
 - Python 3.8
