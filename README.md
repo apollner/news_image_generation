@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bulls fans ripped for Jerry Krause booing with widow in attendance: 'Worst thing I've ever seen'**
+**‘We are at the whims of the weather’ | Power expert says inefficient heating puts Texas power grid in danger**
 
-You can read more about it [here](https://nypost.com/2024/01/13/sports/bulls-fans-ripped-for-shameful-jerry-krause-booing-with-wife-in-attendance/).
+You can read more about it [here](https://www.kvue.com/article/news/investigations/defenders/arctic-blast-texas-ercot-power-grid-danger/269-801a5255-2466-47de-803b-3e7439dda108).
 
 ## Requirements
 - Python 3.8
