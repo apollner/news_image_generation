@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wallace Shawn, Cynthia Nixon lead actors backing genocide charges against Israel**
+**NASA’s plans to return to the moon take a hit**
 
-You can read more about it [here](https://www.timesofisrael.com/wallace-shawn-cynthia-nixon-lead-actors-backing-genocide-charges-against-israel/).
+You can read more about it [here](https://www.cnn.com/2024/01/13/world/nasa-moon-peregrine-wt-science-newsletter-scn/index.html).
 
 ## Requirements
 - Python 3.8
