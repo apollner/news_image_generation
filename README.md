@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama hires Washington’s Kalen DeBoer to replace Nick Saban as coach**
+**Who is Crown Prince Frederik, the soon-to-be new King of Denmark?**
 
-You can read more about it [here](https://theathletic.com/5198909/2024/01/12/kalen-deboer-alabama-coach-saban/).
+You can read more about it [here](https://www.cnn.com/2024/01/13/europe/denmark-royals-frederik-profile-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
