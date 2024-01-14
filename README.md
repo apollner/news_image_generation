@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey launched airstrikes in Iraq and Syria, destroying bunkers, shelters and oil facilities**
+**Psychedelics provide emotional lift for terminal patients in Canada**
 
-You can read more about it [here](https://www.foxnews.com/world/turkey-launched-airstrikes-iraq-syria-destroying-bunkers-shelters-oil-facilities).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/13/psychedelics-terminal-illness-cancer/).
 
 ## Requirements
 - Python 3.8
