@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Mean Girls' Opens No. 1 at Box Office, 'Beekeeper' Follows at No. 2 – The Hollywood Reporter**
+**Cold Arctic Blast Early Week, Potential for a Winter Storm**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/mean-girls-opens-box-office-beekeeper-1235787238/).
+You can read more about it [here](https://www.youtube.com/watch?v=V67QZBAu6GU).
 
 ## Requirements
 - Python 3.8
