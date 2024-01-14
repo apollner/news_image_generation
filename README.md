@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Everyone seems to be getting COVID**
+**Lisa Marie Presley's pal recalls 'frail' singer 'trying' but struggling with son's death before her own**
 
-You can read more about it [here](https://thehill.com/homenews/4406283-everyone-seems-to-be-getting-covid/).
+You can read more about it [here](https://pagesix.com/2024/01/12/entertainment/lisa-marie-presleys-pal-recalls-frail-singer-trying-but-struggling-with-sons-death-before-her-own/).
 
 ## Requirements
 - Python 3.8
