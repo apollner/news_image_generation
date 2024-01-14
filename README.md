@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, 01/13/24 by Christopher Renstrom**
+**Who is Crown Prince Frederik, the soon-to-be new King of Denmark?**
 
-You can read more about it [here](https://www.sfgate.com/horoscope/article/horoscope-saturday-01-13-24-christopher-renstrom-18592394.php).
+You can read more about it [here](https://www.cnn.com/2024/01/13/europe/denmark-royals-frederik-profile-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
