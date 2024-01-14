@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SmackDown recap & reactions (Jan. 12, 2023): Treading water**
+**Bulls fans ripped for Jerry Krause booing with widow in attendance: 'Worst thing I've ever seen'**
 
-You can read more about it [here](https://www.cagesideseats.com/wwe/2024/1/13/24036742/smackdown-recap-reactions-jan-12-2023-the-bloodline-randy-orton-aj-styles-la-knight).
+You can read more about it [here](https://nypost.com/2024/01/13/sports/bulls-fans-ripped-for-shameful-jerry-krause-booing-with-wife-in-attendance/).
 
 ## Requirements
 - Python 3.8
