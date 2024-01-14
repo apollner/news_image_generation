@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. does not support Taiwan independence, Biden says**
+**How to watch Browns vs. Texans wild card playoff game on NBC**
 
-You can read more about it [here](https://www.reuters.com/world/biden-us-does-not-support-taiwan-independence-2024-01-13/).
+You can read more about it [here](https://www.9news.com/article/sports/browns-texans-wild-card-playoff-game/73-9a3b6ea7-3e2f-4d8e-bf90-8ee0ca0322ca).
 
 ## Requirements
 - Python 3.8
