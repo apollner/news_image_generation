@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Crown Prince Frederik, the soon-to-be new King of Denmark?**
+**SmackDown recap & reactions (Jan. 12, 2023): Treading water**
 
-You can read more about it [here](https://www.cnn.com/2024/01/13/europe/denmark-royals-frederik-profile-intl-scli/index.html).
+You can read more about it [here](https://www.cagesideseats.com/wwe/2024/1/13/24036742/smackdown-recap-reactions-jan-12-2023-the-bloodline-randy-orton-aj-styles-la-knight).
 
 ## Requirements
 - Python 3.8
