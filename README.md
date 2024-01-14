@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL head-coaching matchmaker: Identifying which candidates fit best for each of league's seven available jobs**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-head-coaching-matchmaker-identifying-which-candidates-fit-best-for-each-of-leagues-seven-available-jobs/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
