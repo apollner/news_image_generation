@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to Expect from Samsung Unpacked 2024**
+**State of the Race: Blizzard derails Iowa campaign events; will below zero temps depress caucus turnout**
 
-You can read more about it [here](https://www.youtube.com/watch?v=oLItP4duNqA).
+You can read more about it [here](https://www.foxnews.com/politics/state-of-race-blizzard-derails-iowa-campaign-events-now-below-zero-temps-may-depress-caucus-turnout).
 
 ## Requirements
 - Python 3.8
