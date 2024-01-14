@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Browns vs. Texans wild card playoff game on NBC**
+**Jo Koy refers to the famous people who didn't laugh at him as "marshmallows"**
 
-You can read more about it [here](https://www.9news.com/article/sports/browns-texans-wild-card-playoff-game/73-9a3b6ea7-3e2f-4d8e-bf90-8ee0ca0322ca).
+You can read more about it [here](https://www.avclub.com/jo-koy-marshmallows-stand-up-gig-1851165284).
 
 ## Requirements
 - Python 3.8
