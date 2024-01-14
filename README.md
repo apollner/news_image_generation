@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter storm in US forecast to bring dangerous temperatures, weather**
+**Wallace Shawn, Cynthia Nixon lead actors backing genocide charges against Israel**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/01/13/us-winter-storm-forecast-mlk-weekend/72211394007/).
+You can read more about it [here](https://www.timesofisrael.com/wallace-shawn-cynthia-nixon-lead-actors-backing-genocide-charges-against-israel/).
 
 ## Requirements
 - Python 3.8
