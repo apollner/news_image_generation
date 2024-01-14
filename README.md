@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citigroup plans 20,000 job cuts as it reports worst quarter in 14 years**
+**Fuel leak on ailing private Peregrine moon lander is slowing, Astrobotic says**
 
-You can read more about it [here](https://www.ft.com/content/8fee7052-3da3-4cfb-9467-0072d08214f9).
+You can read more about it [here](https://www.space.com/astrobotic-peregrine-moon-lander-fuel-leak-slows).
 
 ## Requirements
 - Python 3.8
