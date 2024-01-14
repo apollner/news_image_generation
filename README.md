@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey launches airstrikes against Kurdish militants in Iraq and Syria after 9 soldiers were killed**
+**'Mean Girls' Opens No. 1 at Box Office, 'Beekeeper' Follows at No. 2 – The Hollywood Reporter**
 
-You can read more about it [here](https://apnews.com/article/iraq-syria-turkey-airstrikes-soldiers-killed-b745c2f315bee57731df2e861a91603a).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/mean-girls-opens-box-office-beekeeper-1235787238/).
 
 ## Requirements
 - Python 3.8
