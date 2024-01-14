@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL Super Wild Card Weekend bold predictions: Jordan Love shreds Dallas; Mike Evans cooks Philly**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/nfl-super-wild-card-weekend-bold-predictions-jordan-love-shreds-dallas-mike-evans-cooks-philly).
 
 ## Requirements
 - Python 3.8
