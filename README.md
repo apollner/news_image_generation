@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s plans to return to the moon take a hit**
+**U.S. does not support Taiwan independence, Biden says**
 
-You can read more about it [here](https://www.cnn.com/2024/01/13/world/nasa-moon-peregrine-wt-science-newsletter-scn/index.html).
+You can read more about it [here](https://www.reuters.com/world/biden-us-does-not-support-taiwan-independence-2024-01-13/).
 
 ## Requirements
 - Python 3.8
