@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fuel leak on ailing private Peregrine moon lander is slowing, Astrobotic says**
+**NFL head-coaching matchmaker: Identifying which candidates fit best for each of league's seven available jobs**
 
-You can read more about it [here](https://www.space.com/astrobotic-peregrine-moon-lander-fuel-leak-slows).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-head-coaching-matchmaker-identifying-which-candidates-fit-best-for-each-of-leagues-seven-available-jobs/).
 
 ## Requirements
 - Python 3.8
