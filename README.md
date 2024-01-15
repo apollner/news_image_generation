@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**C.J. Stroud 'special' as Texans get wild-card revenge on Browns**
+**Iceland town ordered to evacuate again after new volcanic fissures open nearby**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39303725/cj-stroud-special-texans-get-wild-card-revenge-browns).
+You can read more about it [here](https://www.cnn.com/2024/01/13/europe/iceland-volcanic-evacuation-grindavik-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
