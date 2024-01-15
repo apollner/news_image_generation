@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa principal dies days after he "put himself in harm's way" to protect Perry High School students, officials say**
+**FedEx is launching a new e-commerce platform as it competes with Amazon**
 
-You can read more about it [here](https://www.cbsnews.com/news/dan-marburger-iowa-principal-dies-perry-high-school-shooting/).
+You can read more about it [here](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner).
 
 ## Requirements
 - Python 3.8
