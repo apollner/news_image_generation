@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Principal hurt in Perry High School shooting dies from injuries**
+**The 5 most interesting PC monitors from CES 2024**
 
-You can read more about it [here](https://www.wowt.com/2024/01/14/principal-hurt-perry-high-school-shooting-dies-injuries/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/01/the-5-most-interesting-pc-monitors-from-ces-2024/).
 
 ## Requirements
 - Python 3.8
