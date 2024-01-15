@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**London police respond after speaker at pro-Palestinian event calls to ‘normalize massacres’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/world/london-police-respond-speaker-pro-palestinian-event-calls-normalize-massacres).
 
 ## Requirements
 - Python 3.8
