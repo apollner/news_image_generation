@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congressional leaders reach agreement to keep government funded into March**
+**Jo Koy slams Hollywood stars in first stand-up set after Golden Globes backlash: 'Lot a marshmallows'**
 
-You can read more about it [here](https://www.cnn.com/2024/01/13/politics/congressional-leaders-reach-agreement-on-short-term-government-funding-bill-into-march/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/jo-koy-slams-hollywood-stars-first-stand-set-golden-globes-backlash-lot-marshmallows).
 
 ## Requirements
 - Python 3.8
