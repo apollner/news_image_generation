@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa Poll shows Nikki Haley leads Ron DeSantis in Iowa Caucuses. Donald Trump far ahead**
+**Congressional leaders reach agreement to keep government funded into March**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/news/politics/iowa-poll/caucus/2024/01/13/iowa-poll-nikki-haley-leads-ron-desantis-ahead-of-republican-caucus-night-big-lead-for-donald-trump/72216523007/).
+You can read more about it [here](https://www.cnn.com/2024/01/13/politics/congressional-leaders-reach-agreement-on-short-term-government-funding-bill-into-march/index.html).
 
 ## Requirements
 - Python 3.8
