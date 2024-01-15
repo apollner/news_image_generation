@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wild Card playoff game postponed: How to watch the rescheduled Pittsburgh Steelers vs. Buffalo Bills game**
+**Frederik X is proclaimed the new king of Denmark after his mother Queen Margrethe II abdicates**
 
-You can read more about it [here](https://sports.yahoo.com/wild-card-playoff-game-postponed-how-to-watch-the-pittsburgh-steelers-vs-buffalo-bills-game-now-on-monday-130014257.html).
+You can read more about it [here](https://apnews.com/article/denmark-queen-king-margrethe-frederik-abdication-22d9356ab4bad4b058b2305fa8730a27).
 
 ## Requirements
 - Python 3.8
