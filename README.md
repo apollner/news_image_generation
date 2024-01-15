@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**95K people still without power as high winds hit snow-covered Michigan**
+**C.J. Stroud 'special' as Texans get wild-card revenge on Browns**
 
-You can read more about it [here](https://www.mlive.com/weather/2024/01/95k-people-still-without-power-as-high-winds-hit-snow-covered-michigan.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39303725/cj-stroud-special-texans-get-wild-card-revenge-browns).
 
 ## Requirements
 - Python 3.8
