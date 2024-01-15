@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protesters chant 'f--k Joe Biden,' damage fence outside White House**
+**95K people still without power as high winds hit snow-covered Michigan**
 
-You can read more about it [here](https://nypost.com/2024/01/13/news/pro-palestinian-protesters-chant-anti-biden-slogans-outside-white-house/).
+You can read more about it [here](https://www.mlive.com/weather/2024/01/95k-people-still-without-power-as-high-winds-hit-snow-covered-michigan.html).
 
 ## Requirements
 - Python 3.8
