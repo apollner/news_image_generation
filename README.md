@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions depth chart: Wild Card playoffs vs. Los Angeles Rams**
+**Foods to eat, and not eat, to prevent cancer, according to a doctor and nutritionist**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/1/14/24034017/detroit-lions-updated-depth-chart-wild-card-playoff-round-los-angeles-rams).
+You can read more about it [here](https://www.foxnews.com/health/food-eat-not-eat-prevent-cancer-according-doctor-nutritionist).
 
 ## Requirements
 - Python 3.8
