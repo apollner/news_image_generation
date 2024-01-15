@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**C.J. Stroud has Texans dreaming big, but maybe not big enough**
+**NFL Sunday schedule: TV channels, how to watch playoff games today**
 
-You can read more about it [here](https://theathletic.com/5200821/2024/01/14/cj-stroud-texans-browns-demeco-ryans/).
+You can read more about it [here](https://www.azcentral.com/story/sports/nfl/2024/01/14/nfl-sunday-schedule-tv-channels-how-to-watch-stream-playoffs/72164932007/).
 
 ## Requirements
 - Python 3.8
