@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. does not support Taiwan independence, Biden says**
+**Deal reached on short-term funding bill to avert government shutdown, sources say**
 
-You can read more about it [here](https://www.reuters.com/world/biden-us-does-not-support-taiwan-independence-2024-01-13/).
+You can read more about it [here](https://www.cbsnews.com/news/congress-deal-continuing-resolution-government-shutdown/).
 
 ## Requirements
 - Python 3.8
