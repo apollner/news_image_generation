@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why did someone want Texas couple Ted and Corey Shaughnessy dead?**
+**Colombia landslide toll rises to 33 including children**
 
-You can read more about it [here](https://www.cbsnews.com/news/ted-corey-shaughnessy-who-wanted-austin-texas-couple-dead-48-hours/).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-67967379).
 
 ## Requirements
 - Python 3.8
