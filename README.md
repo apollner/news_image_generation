@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shah Rukh Khan And His Wife Gauri Attend Aamir Khan's Daughter Ira Khan's Wedding Reception**
+**Why did someone want Texas couple Ted and Corey Shaughnessy dead?**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](https://www.cbsnews.com/news/ted-corey-shaughnessy-who-wanted-austin-texas-couple-dead-48-hours/).
 
 ## Requirements
 - Python 3.8
