@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protesters chant 'f--k Joe Biden,' damage fence outside White House**
+**C.J. Stroud 'special' as Texans get wild-card revenge on Browns**
 
-You can read more about it [here](https://nypost.com/2024/01/13/news/pro-palestinian-protesters-chant-anti-biden-slogans-outside-white-house/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39303725/cj-stroud-special-texans-get-wild-card-revenge-browns).
 
 ## Requirements
 - Python 3.8
