@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frederik X is proclaimed the new king of Denmark after his mother Queen Margrethe II abdicates**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/denmark-queen-king-margrethe-frederik-abdication-22d9356ab4bad4b058b2305fa8730a27).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
