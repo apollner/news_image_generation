@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**C.J. Stroud 'special' as Texans get wild-card revenge on Browns**
+**Shah Rukh Khan And His Wife Gauri Attend Aamir Khan's Daughter Ira Khan's Wedding Reception**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39303725/cj-stroud-special-texans-get-wild-card-revenge-browns).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
