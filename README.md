@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cleveland Browns vs. Houston Texans Game Highlights | NFL 2023 Super Wild Card Weekend**
+**Pro-Palestinian protesters chant 'f--k Joe Biden,' damage fence outside White House**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0pB9o1aLm6M).
+You can read more about it [here](https://nypost.com/2024/01/13/news/pro-palestinian-protesters-chant-anti-biden-slogans-outside-white-house/).
 
 ## Requirements
 - Python 3.8
