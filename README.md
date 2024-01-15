@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA wants you to help track gamma ray bursts**
+**Biotech and pharma companies are betting on a promising class of cancer drugs to drive growth**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/01/14/nasa-wants-you-help-track-gamma-ray-bursts/).
+You can read more about it [here](https://www.cnbc.com/2024/01/14/cancer-drugs-renewed-interest-in-adcs-will-continue-in-2024.html).
 
 ## Requirements
 - Python 3.8
