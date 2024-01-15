@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami Dolphins vs. Kansas City Chiefs Game Highlights | NFL 2023 Super Wild Card Weekend**
+**U.S. does not support Taiwan independence, Biden says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Ul_UFVnFj1k).
+You can read more about it [here](https://www.reuters.com/world/biden-us-does-not-support-taiwan-independence-2024-01-13/).
 
 ## Requirements
 - Python 3.8
