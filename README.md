@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers-Bills playoff matchup pushed back to Monday**
+**DirecTV And Tegna Reach Carriage Deal, Ending 6-Week Blackout**
 
-You can read more about it [here](https://www.wtae.com/article/steelers-bills-playoff-game-postponed-snow/46372799).
+You can read more about it [here](http://deadline.com/2024/01/directv-tegna-reach-carriage-deal-ending-months-long-blackout-1235781661/).
 
 ## Requirements
 - Python 3.8
