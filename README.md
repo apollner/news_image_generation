@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jo Koy slams 'marshmallow' celebs at Golden Globes after Taylor Swift backlash**
+**Steelers-Bills playoff matchup pushed back to Monday**
 
-You can read more about it [here](https://pagesix.com/2024/01/13/celebrity-news/jo-koy-slams-marshmallow-celebs-at-golden-globes-after-taylor-swift-backlash/).
+You can read more about it [here](https://www.wtae.com/article/steelers-bills-playoff-game-postponed-snow/46372799).
 
 ## Requirements
 - Python 3.8
