@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**London police respond after speaker at pro-Palestinian event calls to ‘normalize massacres’**
+**Iowa principal dies days after he "put himself in harm's way" to protect Perry High School students, officials say**
 
-You can read more about it [here](https://www.foxnews.com/world/london-police-respond-speaker-pro-palestinian-event-calls-normalize-massacres).
+You can read more about it [here](https://www.cbsnews.com/news/dan-marburger-iowa-principal-dies-perry-high-school-shooting/).
 
 ## Requirements
 - Python 3.8
