@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, Haley, DeSantis campaign in frigid Iowa in the final days before the Republican caucuses**
+**Live coverage: SpaceX to launch Falcon 9 rocket on Starlink mission from Cape Canaveral – Spaceflight Now**
 
-You can read more about it [here](https://apnews.com/article/desantis-haley-campaign-gop-iowa-caucus-voters-2b5a0a5ae83d74894142d2b20dcc77c0).
+You can read more about it [here](https://spaceflightnow.com/2024/01/13/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-cape-canaveral/).
 
 ## Requirements
 - Python 3.8
