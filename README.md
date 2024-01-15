@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland town ordered to evacuate again after new volcanic fissures open nearby**
+**Pro-Palestinian protesters chant 'f--k Joe Biden,' damage fence outside White House**
 
-You can read more about it [here](https://www.cnn.com/2024/01/13/europe/iceland-volcanic-evacuation-grindavik-intl-hnk/index.html).
+You can read more about it [here](https://nypost.com/2024/01/13/news/pro-palestinian-protesters-chant-anti-biden-slogans-outside-white-house/).
 
 ## Requirements
 - Python 3.8
