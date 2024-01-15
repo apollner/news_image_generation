@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 5 most interesting PC monitors from CES 2024**
+**Foods to eat, and not eat, to prevent cancer, according to a doctor and nutritionist**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/01/the-5-most-interesting-pc-monitors-from-ces-2024/).
+You can read more about it [here](https://www.foxnews.com/health/food-eat-not-eat-prevent-cancer-according-doctor-nutritionist).
 
 ## Requirements
 - Python 3.8
