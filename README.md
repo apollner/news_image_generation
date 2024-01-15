@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DirecTV And Tegna Reach Carriage Deal, Ending 6-Week Blackout**
+**Iowa Poll shows Nikki Haley leads Ron DeSantis in Iowa Caucuses. Donald Trump far ahead**
 
-You can read more about it [here](http://deadline.com/2024/01/directv-tegna-reach-carriage-deal-ending-months-long-blackout-1235781661/).
+You can read more about it [here](https://www.desmoinesregister.com/story/news/politics/iowa-poll/caucus/2024/01/13/iowa-poll-nikki-haley-leads-ron-desantis-ahead-of-republican-caucus-night-big-lead-for-donald-trump/72216523007/).
 
 ## Requirements
 - Python 3.8
