@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande Criticized After Defending Relationship**
+**An Arctic blast pummeling much of the country is setting up impactful snow and ice in the South**
 
-You can read more about it [here](https://www.dailydot.com/news/ariana-grande-defending-relationship/).
+You can read more about it [here](https://www.cnn.com/2024/01/14/weather/south-snow-storm-ice-forecast-climate/index.html).
 
 ## Requirements
 - Python 3.8
