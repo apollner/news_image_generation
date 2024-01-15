@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deal reached on short-term funding bill to avert government shutdown, sources say**
+**Cleveland Browns vs. Houston Texans Game Highlights | NFL 2023 Super Wild Card Weekend**
 
-You can read more about it [here](https://www.cbsnews.com/news/congress-deal-continuing-resolution-government-shutdown/).
+You can read more about it [here](https://www.youtube.com/watch?v=0pB9o1aLm6M).
 
 ## Requirements
 - Python 3.8
