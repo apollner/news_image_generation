@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If you want to demo the Vision Pro at an Apple Store, prepare to be there a while**
+**An arctic blast pummeling much of the country is setting up impactful snow and ice in the South**
 
-You can read more about it [here](https://www.engadget.com/if-you-want-to-demo-the-vision-pro-at-an-apple-store-prepare-to-be-there-a-while-172207401.html).
+You can read more about it [here](https://www.cnn.com/2024/01/14/weather/south-snow-storm-ice-forecast-climate/index.html).
 
 ## Requirements
 - Python 3.8
