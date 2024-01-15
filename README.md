@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FedEx is launching a new e-commerce platform as it competes with Amazon**
+**If you want to demo the Vision Pro at an Apple Store, prepare to be there a while**
 
-You can read more about it [here](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner).
+You can read more about it [here](https://www.engadget.com/if-you-want-to-demo-the-vision-pro-at-an-apple-store-prepare-to-be-there-a-while-172207401.html).
 
 ## Requirements
 - Python 3.8
