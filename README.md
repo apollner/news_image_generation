@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**John Calipari talks Kentucky's overtime loss to Texas A&M**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=w81deXDoALU).
 
 ## Requirements
 - Python 3.8
