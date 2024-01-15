@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Foods to eat, and not eat, to prevent cancer, according to a doctor and nutritionist**
+**Wild Card playoff game postponed: How to watch the rescheduled Pittsburgh Steelers vs. Buffalo Bills game**
 
-You can read more about it [here](https://www.foxnews.com/health/food-eat-not-eat-prevent-cancer-according-doctor-nutritionist).
+You can read more about it [here](https://sports.yahoo.com/wild-card-playoff-game-postponed-how-to-watch-the-pittsburgh-steelers-vs-buffalo-bills-game-now-on-monday-130014257.html).
 
 ## Requirements
 - Python 3.8
