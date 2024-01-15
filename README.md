@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jo Koy slams Hollywood stars in first stand-up set after Golden Globes backlash: 'Lot a marshmallows'**
+**Trump, Haley, DeSantis campaign in frigid Iowa in the final days before the Republican caucuses**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/jo-koy-slams-hollywood-stars-first-stand-set-golden-globes-backlash-lot-marshmallows).
+You can read more about it [here](https://apnews.com/article/desantis-haley-campaign-gop-iowa-caucus-voters-2b5a0a5ae83d74894142d2b20dcc77c0).
 
 ## Requirements
 - Python 3.8
