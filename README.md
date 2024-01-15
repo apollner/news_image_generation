@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An arctic blast pummeling much of the country is setting up impactful snow and ice in the South**
+**Statement from President Joe Biden Regarding the Abdication of Her Majesty Queen Margrethe II of the Kingdom of Denmark and the Succession of King Frederik X**
 
-You can read more about it [here](https://www.cnn.com/2024/01/14/weather/south-snow-storm-ice-forecast-climate/index.html).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/14/statement-from-president-joe-biden-regarding-the-abdication-of-her-majesty-queen-margrethe-ii-of-the-kingdom-of-denmark-and-the-succession-of-king-frederik-x/).
 
 ## Requirements
 - Python 3.8
