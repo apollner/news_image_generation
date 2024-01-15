@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Foods to eat, and not eat, to prevent cancer, according to a doctor and nutritionist**
+**Principal hurt in Perry High School shooting dies from injuries**
 
-You can read more about it [here](https://www.foxnews.com/health/food-eat-not-eat-prevent-cancer-according-doctor-nutritionist).
+You can read more about it [here](https://www.wowt.com/2024/01/14/principal-hurt-perry-high-school-shooting-dies-injuries/).
 
 ## Requirements
 - Python 3.8
