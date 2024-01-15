@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colombia landslide toll rises to 33 including children**
+**NASA wants you to help track gamma ray bursts**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-67967379).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/01/14/nasa-wants-you-help-track-gamma-ray-bursts/).
 
 ## Requirements
 - Python 3.8
