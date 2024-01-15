@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Arctic blast pummeling much of the country is setting up impactful snow and ice in the South**
+**C.J. Stroud has Texans dreaming big, but maybe not big enough**
 
-You can read more about it [here](https://www.cnn.com/2024/01/14/weather/south-snow-storm-ice-forecast-climate/index.html).
+You can read more about it [here](https://theathletic.com/5200821/2024/01/14/cj-stroud-texans-browns-demeco-ryans/).
 
 ## Requirements
 - Python 3.8
