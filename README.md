@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biotech and pharma companies are betting on a promising class of cancer drugs to drive growth**
+**C.J. Stroud has Texans dreaming big, but maybe not big enough**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/14/cancer-drugs-renewed-interest-in-adcs-will-continue-in-2024.html).
+You can read more about it [here](https://theathletic.com/5200821/2024/01/14/cj-stroud-texans-browns-demeco-ryans/).
 
 ## Requirements
 - Python 3.8
