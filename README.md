@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Sunday schedule: TV channels, how to watch playoff games today**
+**Detroit Lions depth chart: Wild Card playoffs vs. Los Angeles Rams**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/nfl/2024/01/14/nfl-sunday-schedule-tv-channels-how-to-watch-stream-playoffs/72164932007/).
+You can read more about it [here](https://www.prideofdetroit.com/2024/1/14/24034017/detroit-lions-updated-depth-chart-wild-card-playoff-round-los-angeles-rams).
 
 ## Requirements
 - Python 3.8
