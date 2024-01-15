@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Calipari talks Kentucky's overtime loss to Texas A&M**
+**Miami Dolphins vs. Kansas City Chiefs Game Highlights | NFL 2023 Super Wild Card Weekend**
 
-You can read more about it [here](https://www.youtube.com/watch?v=w81deXDoALU).
+You can read more about it [here](https://www.youtube.com/watch?v=Ul_UFVnFj1k).
 
 ## Requirements
 - Python 3.8
