@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More CEOs fear their companies won't survive 10 years as AI and climate challenges grow, survey says**
+**Virginia officials warn of potential measles exposure at Dulles, Reagan airports**
 
-You can read more about it [here](https://apnews.com/article/davos-ceo-survey-ai-climate-change-economy-cdf526bec5ce12812b5d2704dc054867).
+You can read more about it [here](http://www.nbcwashington.com/news/local/northern-virginia/virginia-officials-warn-of-potential-measles-exposure-at-dulles-reagan-airports/3516566/).
 
 ## Requirements
 - Python 3.8
