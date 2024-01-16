@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift and Travis Kelce Engagement Not In the Works For Time Being**
+**Brutal arctic blast blanketing much of the US is set to deliver record cold temperatures as the South braces for snow and ice**
 
-You can read more about it [here](https://www.tmz.com/2024/01/15/taylor-swift-travis-kelce-no-engagement-being-planned/).
+You can read more about it [here](https://www.cnn.com/2024/01/14/weather/south-winter-storm-arctic-blast-monday/index.html).
 
 ## Requirements
 - Python 3.8
