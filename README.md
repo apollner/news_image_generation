@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicaragua says it released Bishop Rolando Álvarez and 18 priests from prison, handed them to Vatican**
+**Yemen Houthi rebels fire missile at US warship in Red Sea in first attack after American-led strikes**
 
-You can read more about it [here](https://apnews.com/article/nicaragua-ortega-imprisoned-priests-released-1af8f2311cf8f4e6e8e2e01569036b87).
+You can read more about it [here](https://apnews.com/article/houthis-us-yemen-israel-palestinians-gaza-fa2aefc86ae002e73081e6ac1b772610).
 
 ## Requirements
 - Python 3.8
