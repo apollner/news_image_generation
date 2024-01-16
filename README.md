@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brutal arctic blast blanketing much of the US is set to deliver record cold temperatures as the South braces for snow and ice**
+**Biden raises over $97 million in fourth quarter, enters election year with $117 million war chest**
 
-You can read more about it [here](https://www.cnn.com/2024/01/14/weather/south-winter-storm-arctic-blast-monday/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/01/15/biden-raises-over-97-million-in-fourth-quarter-117-million-on-hand.html).
 
 ## Requirements
 - Python 3.8
