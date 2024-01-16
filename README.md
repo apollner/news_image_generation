@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Terror attack' in Israel leaves 1 dead, more than a dozen injured, police say**
+**Dan Campbell's Locker Room Speech After Lions' First Playoff Win in 32 Years Was So Good**
 
-You can read more about it [here](https://www.foxnews.com/world/terror-attack-israel-dead-injured-police-say).
+You can read more about it [here](https://www.si.com/nfl/2024/01/15/lions-dan-campbell-postgame-locker-room-speech-so-good).
 
 ## Requirements
 - Python 3.8
