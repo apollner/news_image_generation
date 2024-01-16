@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen Houthi rebels fire missile at US warship in Red Sea in first attack after American-led strikes**
+**America Ferrera champions diversity at Critics Choice Awards: 'We are all worthy of being seen'**
 
-You can read more about it [here](https://apnews.com/article/houthis-us-yemen-israel-palestinians-gaza-fa2aefc86ae002e73081e6ac1b772610).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/movies/2024/01/14/critics-choice-awards-best-speeches/72227812007/).
 
 ## Requirements
 - Python 3.8
