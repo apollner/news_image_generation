@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**America Ferrera champions diversity at Critics Choice Awards: 'We are all worthy of being seen'**
+**Chelsea Handler Dings Ex-Boyfriend Jo Koy’s Golden Globes Performance at Critics Choice Awards**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/movies/2024/01/14/critics-choice-awards-best-speeches/72227812007/).
+You can read more about it [here](https://www.youtube.com/watch?v=7smc9LiRW8U).
 
 ## Requirements
 - Python 3.8
