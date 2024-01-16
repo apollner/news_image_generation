@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen airstrikes: U.S. downs Houthi missile fired at Red Sea destroyer**
+**Ukraine says it shot down Russian A-50 spy plane**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/01/15/yemen-houthis-airstrikes-red-sea/72229760007/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-67978739).
 
 ## Requirements
 - Python 3.8
