@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Baidu denies Chinese military link after report sent stock tumbling**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.marketwatch.com/story/baidu-denies-chinese-military-link-after-report-sent-stock-tumbling-5a87bb41).
 
 ## Requirements
 - Python 3.8
