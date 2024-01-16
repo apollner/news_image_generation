@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Jones at a loss for answers as Cowboys' shocking loss to Packers begins offseason of questions**
+**10 years in, GM CEO Mary Barra has built her legacy on change and crisis. 2024 will bring new tests**
 
-You can read more about it [here](https://sports.yahoo.com/jerry-jones-at-a-loss-for-answers-as-cowboys-shocking-loss-to-packers-begins-offseason-of-questions-050527751.html).
+You can read more about it [here](https://www.cnbc.com/2024/01/15/for-10-year-gm-ceo-mary-barra-2024-is-about-change-and-crisis.html).
 
 ## Requirements
 - Python 3.8
