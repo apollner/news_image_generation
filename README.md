@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden raises over $97 million in fourth quarter, enters election year with $117 million war chest**
+**Jerry Jones at a loss for answers as Cowboys' shocking loss to Packers begins offseason of questions**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/15/biden-raises-over-97-million-in-fourth-quarter-117-million-on-hand.html).
+You can read more about it [here](https://sports.yahoo.com/jerry-jones-at-a-loss-for-answers-as-cowboys-shocking-loss-to-packers-begins-offseason-of-questions-050527751.html).
 
 ## Requirements
 - Python 3.8
