@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dan Campbell's Locker Room Speech After Lions' First Playoff Win in 32 Years Was So Good**
+**Apple Vision Pro M2 Chip Said to Have 10 GPU, 8 CPU Cores**
 
-You can read more about it [here](https://www.si.com/nfl/2024/01/15/lions-dan-campbell-postgame-locker-room-speech-so-good).
+You can read more about it [here](https://www.macrumors.com/2024/01/15/vision-pro-m2-chip-10-gpu-8-cpu-cores/).
 
 ## Requirements
 - Python 3.8
