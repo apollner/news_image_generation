@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Honeymooners' actor Joyce Randolph dies at 99**
+**America Ferrera champions diversity at Critics Choice Awards: 'We are all worthy of being seen'**
 
-You can read more about it [here](https://www.npr.org/2024/01/14/1224746833/the-honeymooners-actor-joyce-randolph-dead).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/movies/2024/01/14/critics-choice-awards-best-speeches/72227812007/).
 
 ## Requirements
 - Python 3.8
