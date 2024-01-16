@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump's grip on Republican politics is put to the test in ice-cold Iowa's caucuses**
+**Jerry Jones should fire Mike McCarthy after Cowboys' flop as Bill Belichick speculation grows**
 
-You can read more about it [here](https://apnews.com/article/trump-iowa-caucus-haley-desantis-cold-voting-begins-0af10f1ba21d488af54776b2c8d4028c).
+You can read more about it [here](https://nypost.com/2024/01/14/sports/jerry-jones-needs-to-fire-mike-mccarthy-after-cowboys-flop/).
 
 ## Requirements
 - Python 3.8
