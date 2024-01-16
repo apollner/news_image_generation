@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL playoffs divisional round: Schedule, previews for AFC, NFC**
+**Hamas airs propaganda clip of hostages Noa Argamani, Yossi Sharabi, Itay Svirsky**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39307439/nfl-playoffs-bracket-reset-divisional-round-schedule-afc-nfc).
+You can read more about it [here](https://www.timesofisrael.com/hamas-airs-propaganda-clip-of-hostages-noa-argamani-yossi-sharabi-itay-svirsky/).
 
 ## Requirements
 - Python 3.8
