@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baidu denies Chinese military link after report sent stock tumbling**
+**Arizona candidates to replace Jedd Fisch: Brent Brennan, Jake Dickert, Barry Odom and more**
 
-You can read more about it [here](https://www.marketwatch.com/story/baidu-denies-chinese-military-link-after-report-sent-stock-tumbling-5a87bb41).
+You can read more about it [here](https://theathletic.com/5202289/2024/01/14/arizona-football-coach-candidates-fisch-washington/).
 
 ## Requirements
 - Python 3.8
