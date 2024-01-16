@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Jones should fire Mike McCarthy after Cowboys' flop as Bill Belichick speculation grows**
+**Critics Choice Awards 2024: Fashion—Live From the Red Carpet**
 
-You can read more about it [here](https://nypost.com/2024/01/14/sports/jerry-jones-needs-to-fire-mike-mccarthy-after-cowboys-flop/).
+You can read more about it [here](https://www.vogue.com/slideshow/critics-choice-awards-2024-fashion-live-from-the-red-carpet).
 
 ## Requirements
 - Python 3.8
