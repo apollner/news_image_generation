@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan loses ally Nauru, accuses China of post-election ploy**
+**Taylor Swift and Travis Kelce Engagement Not In the Works For Time Being**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-loses-first-ally-post-election-nauru-goes-over-china-2024-01-15/).
+You can read more about it [here](https://www.tmz.com/2024/01/15/taylor-swift-travis-kelce-no-engagement-being-planned/).
 
 ## Requirements
 - Python 3.8
