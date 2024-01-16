@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia officials warn of potential measles exposure at Dulles, Reagan airports**
+**Ships and aircraft search for 2 Navy SEALs missing after mission to confiscate Iranian missile parts**
 
-You can read more about it [here](http://www.nbcwashington.com/news/local/northern-virginia/virginia-officials-warn-of-potential-measles-exposure-at-dulles-reagan-airports/3516566/).
+You can read more about it [here](https://news.yahoo.com/ships-aircraft-search-2-navy-180156787.html).
 
 ## Requirements
 - Python 3.8
