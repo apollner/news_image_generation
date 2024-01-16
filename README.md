@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DA defends qualifications of a prosecutor hired in Trump's Georgia election case**
+**Nicaragua says it released Bishop Rolando Álvarez and 18 priests from prison, handed them to Vatican**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/14/da-defends-prosecutor-trump-georgia-election-case-00135549).
+You can read more about it [here](https://apnews.com/article/nicaragua-ortega-imprisoned-priests-released-1af8f2311cf8f4e6e8e2e01569036b87).
 
 ## Requirements
 - Python 3.8
