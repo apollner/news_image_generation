@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea says it tested a solid-fuel missile tipped with a hypersonic weapon**
+**What we learned from Super Wild Card weekend, Day 2: Dak Prescott, Cowboys remain frauds**
 
-You can read more about it [here](https://apnews.com/article/north-korea-solidfuel-irbm-hypersonic-missile-8f0d9641b00d117b34707975cfd08242).
+You can read more about it [here](https://www.cbssports.com/nfl/news/what-we-learned-from-super-wild-card-weekend-day-2-dak-prescott-cowboys-remain-frauds/).
 
 ## Requirements
 - Python 3.8
