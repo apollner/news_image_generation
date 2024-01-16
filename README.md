@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen Houthi rebels fire missile at US warship in Red Sea in first attack after American-led strikes**
+**NFL playoffs divisional round: Schedule, previews for AFC, NFC**
 
-You can read more about it [here](https://apnews.com/article/houthis-us-yemen-israel-palestinians-gaza-fa2aefc86ae002e73081e6ac1b772610).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39307439/nfl-playoffs-bracket-reset-divisional-round-schedule-afc-nfc).
 
 ## Requirements
 - Python 3.8
