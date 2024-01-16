@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Va. officials warn of possible measles exposure at Dulles, Reagan**
+**FedEx is launching a new e-commerce platform as it competes with Amazon**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/01/14/possible-measles-exposure-dulles-reagan-airports/).
+You can read more about it [here](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner).
 
 ## Requirements
 - Python 3.8
