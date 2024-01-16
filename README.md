@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Cowboys' Jerry Jones says loss to Packers 'seems like most painful' one, unsure when Mike McCarthy chat occurs**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-jerry-jones-says-loss-to-packers-seems-like-most-painful-one-unsure-when-mike-mccarthy-chat-occurs/).
 
 ## Requirements
 - Python 3.8
