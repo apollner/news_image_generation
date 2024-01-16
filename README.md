@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ships and aircraft search for 2 Navy SEALs missing after mission to confiscate Iranian missile parts**
+**More CEOs fear their companies won't survive 10 years as AI and climate challenges grow, survey says**
 
-You can read more about it [here](https://news.yahoo.com/ships-aircraft-search-2-navy-180156787.html).
+You can read more about it [here](https://apnews.com/article/davos-ceo-survey-ai-climate-change-economy-cdf526bec5ce12812b5d2704dc054867).
 
 ## Requirements
 - Python 3.8
