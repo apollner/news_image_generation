@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says it shot down Russian A-50 spy plane**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-67978739).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
