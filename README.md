@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Critics Choice Awards 2024: Fashion—Live From the Red Carpet**
+**North Korea says it tested a solid-fuel missile tipped with a hypersonic weapon**
 
-You can read more about it [here](https://www.vogue.com/slideshow/critics-choice-awards-2024-fashion-live-from-the-red-carpet).
+You can read more about it [here](https://apnews.com/article/north-korea-solidfuel-irbm-hypersonic-missile-8f0d9641b00d117b34707975cfd08242).
 
 ## Requirements
 - Python 3.8
