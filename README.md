@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Holds Key Rate as Economy Prepares for 'Difficult Year'**
+**Taiwan loses ally Nauru, accuses China of post-election ploy**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-15/china-s-central-bank-holds-key-rate-steady-in-policy-surprise).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/taiwan-loses-first-ally-post-election-nauru-goes-over-china-2024-01-15/).
 
 ## Requirements
 - Python 3.8
