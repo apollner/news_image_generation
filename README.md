@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas airs propaganda clip of hostages Noa Argamani, Yossi Sharabi, Itay Svirsky**
+**'The Honeymooners' actor Joyce Randolph dies at 99**
 
-You can read more about it [here](https://www.timesofisrael.com/hamas-airs-propaganda-clip-of-hostages-noa-argamani-yossi-sharabi-itay-svirsky/).
+You can read more about it [here](https://www.npr.org/2024/01/14/1224746833/the-honeymooners-actor-joyce-randolph-dead).
 
 ## Requirements
 - Python 3.8
