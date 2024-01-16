@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we learned from Super Wild Card weekend, Day 2: Dak Prescott, Cowboys remain frauds**
+**China Holds Key Rate as Economy Prepares for 'Difficult Year'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/what-we-learned-from-super-wild-card-weekend-day-2-dak-prescott-cowboys-remain-frauds/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-15/china-s-central-bank-holds-key-rate-steady-in-policy-surprise).
 
 ## Requirements
 - Python 3.8
