@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**10 years in, GM CEO Mary Barra has built her legacy on change and crisis. 2024 will bring new tests**
+**'Terror attack' in Israel leaves 1 dead, more than a dozen injured, police say**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/15/for-10-year-gm-ceo-mary-barra-2024-is-about-change-and-crisis.html).
+You can read more about it [here](https://www.foxnews.com/world/terror-attack-israel-dead-injured-police-say).
 
 ## Requirements
 - Python 3.8
