@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe’s biggest economy shrank last year. The outlook isn’t much better**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/01/15/economy/germany-gdp-contraction/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
