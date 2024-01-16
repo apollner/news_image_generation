@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Super Wild Card Monday: Bills vs. Steelers expected to go ahead despite winter storm conditions, Bucs host Eagles**
+**Bills' offense makes it look easy, Buffalo takes early lead**
 
-You can read more about it [here](https://www.cnn.com/2024/01/15/sport/nfl-wild-card-monday-bills-steelers-bucs-eagles-preview-spt-intl/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-offense-makes-it-look-early-buffalo-takes-early-lead).
 
 ## Requirements
 - Python 3.8
