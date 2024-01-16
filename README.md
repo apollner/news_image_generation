@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chelsea Handler Dings Ex-Boyfriend Jo Koy’s Golden Globes Performance at Critics Choice Awards**
+**Donald Trump's grip on Republican politics is put to the test in ice-cold Iowa's caucuses**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7smc9LiRW8U).
+You can read more about it [here](https://apnews.com/article/trump-iowa-caucus-haley-desantis-cold-voting-begins-0af10f1ba21d488af54776b2c8d4028c).
 
 ## Requirements
 - Python 3.8
