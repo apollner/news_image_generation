@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Joan Collins, 90, sparkles on the Emmys 2024 red carpet in blue sequined gown**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://pagesix.com/2024/01/15/style/joan-collins-90-sparkles-on-the-emmys-2024-red-carpet-in-blue-sequin-gown/).
 
 ## Requirements
 - Python 3.8
