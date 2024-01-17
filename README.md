@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malta-flagged bulk carrier hit by missile in the Red Sea as Houthi attacks continue**
+**Davos live updates: Ukraine's Zelenskyy meets with Jamie Dimon and other major investors**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-missiles-iran-seizure-us-8112fbadd3b0689c71a92890895a9368).
+You can read more about it [here](https://www.cnbc.com/2024/01/16/davos-live-updates-world-economic-forum-wef-2024.html).
 
 ## Requirements
 - Python 3.8
