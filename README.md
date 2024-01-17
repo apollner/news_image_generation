@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia DA Fani Willis breaks silence about Donald Trump case prosecutor**
+**NFL play-offs: Tampa Bay Buccaneers beat Philadelphia Eagles, Buffalo Bills also progress**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/01/15/fani-willis-donald-trump-prosecutor-controversy/72235662007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvYW1lcmljYW4tZm9vdGJhbGwvNjc5ODkzOTnSAThodHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2FtZXJpY2FuLWZvb3RiYWxsLzY3OTg5Mzk5LmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
