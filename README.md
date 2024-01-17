@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's trial in E. Jean Carroll defamation case begins: Live updates**
+**World's oldest dog? Guinness World Records suspends Bobi the dog's title amid doubts about his age**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-defamation-trial-e-jean-carroll-01-16-24/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/world-oldest-dog-bobi-guinness-world-records-suspends-title/).
 
 ## Requirements
 - Python 3.8
