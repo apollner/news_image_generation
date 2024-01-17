@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Persona 3 Reload: The Final Preview**
+**Malta-flagged bulk carrier hit by missile in the Red Sea as Houthi attacks continue**
 
-You can read more about it [here](https://www.youtube.com/watch?v=J6taUGrJT-w).
+You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-missiles-iran-seizure-us-8112fbadd3b0689c71a92890895a9368).
 
 ## Requirements
 - Python 3.8
