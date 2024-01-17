@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trove of new evidence released in Long Island serial killer case as new murder charge added**
+**Landslide Trump win tests Haley, DeSantis heading into New Hampshire**
 
-You can read more about it [here](https://abcnews.go.com/US/alleged-gilgo-beach-serial-killer-rex-heuermann-charged/story?id=106379516).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/16/trump-iowa-new-hampshire-haley/).
 
 ## Requirements
 - Python 3.8
