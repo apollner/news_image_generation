@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Applegate Teared Up After Receiving A Standing Ovation At The Emmys**
+**Baltimore Sun sold: Sinclair's David Smith buys Sun, Capital Gazette and more**
 
-You can read more about it [here](https://www.buzzfeed.com/josephlongo/christina-applegate-2023-emmys-standing-ovation).
+You can read more about it [here](https://www.thebaltimorebanner.com/economy/the-baltimore-sun-media-group-sold-to-local-media-local-businessman-david-smith-GSYOCRC3PRE5FHNHDGHDBYFGOY/).
 
 ## Requirements
 - Python 3.8
