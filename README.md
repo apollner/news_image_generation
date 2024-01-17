@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Sun sold: Sinclair's David Smith buys Sun, Capital Gazette and more**
+**BREAKING: Ramaswamy drops out: 'The more Republicans saw him, the less they liked him'**
 
-You can read more about it [here](https://www.thebaltimorebanner.com/economy/the-baltimore-sun-media-group-sold-to-local-media-local-businessman-david-smith-GSYOCRC3PRE5FHNHDGHDBYFGOY/).
+You can read more about it [here](https://www.youtube.com/watch?v=H95S5ER83-M).
 
 ## Requirements
 - Python 3.8
