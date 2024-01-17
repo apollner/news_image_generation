@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles center Jason Kelce intends to retire after 13 NFL seasons, AP sources say**
+**Lunar lander: Peregrine lander set to burn up in Earth's atmosphere**
 
-You can read more about it [here](https://apnews.com/article/eagles-jason-kelce-retires-2a5cff3398a6413a52d0bb3fdc2eef22).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/16/peregrine-moon-lander-lunar-burn-atmosphere-nasa/72240169007/).
 
 ## Requirements
 - Python 3.8
