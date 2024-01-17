@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's Guards attack Israel's 'espionage centers' in Iraq, state media says**
+**Christina Applegate gets standing ovation amid MS battle at Emmys, jokes: 'Body not by Ozempic'**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-they-have-attacked-espionage-centers-iraqs-erbil-2024-01-15/).
+You can read more about it [here](https://nypost.com/2024/01/15/entertainment/christina-applegate-gets-standing-ovation-amid-ms-battle-at-emmys-2024/).
 
 ## Requirements
 - Python 3.8
