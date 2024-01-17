@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis takes second place over Haley in Iowa caucuses, vowing to remain in 2024 race**
+**Christina Applegate Teared Up After Receiving A Standing Ovation At The Emmys**
 
-You can read more about it [here](https://www.cbsnews.com/news/iowa-caucus-2024-results-donald-trump/).
+You can read more about it [here](https://www.buzzfeed.com/josephlongo/christina-applegate-2023-emmys-standing-ovation).
 
 ## Requirements
 - Python 3.8
