@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing to add further quality inspections for 737 MAX**
+**If Cowboys owner Jerry Jones has interest in Bill Belichick, time may not be on his side**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-add-further-quality-inspections-737-max-2024-01-15/).
+You can read more about it [here](https://sports.yahoo.com/if-cowboys-owner-jerry-jones-has-interest-in-bill-belichick-time-may-not-be-on-his-side-055507013.html).
 
 ## Requirements
 - Python 3.8
