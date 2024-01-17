@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lunar lander: Peregrine lander set to burn up in Earth's atmosphere**
+**Nikki Haley says she'll only debate Trump or Biden, suggesting she'll skip NH showdown with DeSantis**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/16/peregrine-moon-lander-lunar-burn-atmosphere-nasa/72240169007/).
+You can read more about it [here](https://abcnews.go.com/Politics/nikki-haley-debate-donald-trump-joe-biden/story?id=106409470).
 
 ## Requirements
 - Python 3.8
