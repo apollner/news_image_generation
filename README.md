@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Microsoft brings Copilot AI assistant to small businesses and launches a premium tier for individuals**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/01/15/microsoft-brings-copilot-to-small-businesses-launches-copilot-pro.html).
 
 ## Requirements
 - Python 3.8
