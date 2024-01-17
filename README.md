@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cloned rhesus monkey created to speed medical research**
+**Study finds no link between marijuana use and starting or stopping opioids**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-67987633).
+You can read more about it [here](https://www.upi.com).
 
 ## Requirements
 - Python 3.8
