@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia DA Fani Willis breaks silence about Donald Trump case prosecutor**
+**Ebon Moss-Bachrach and Matty Matheson Make Out Onstage to Celebrate ‘The Bear’ Emmy Win: ‘I Love Restaurants!’**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/01/15/fani-willis-donald-trump-prosecutor-controversy/72235662007/).
+You can read more about it [here](https://variety.com/2024/tv/awards/ebon-moss-bachrach-matty-matheson-kiss-onstage-emmys-the-bear-1235869625/).
 
 ## Requirements
 - Python 3.8
