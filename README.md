@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At 93, he's as fit as a 40-year-old. His body offers lessons on aging.**
+**Persona 3 Reload: The Final Preview**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/).
+You can read more about it [here](https://www.youtube.com/watch?v=J6taUGrJT-w).
 
 ## Requirements
 - Python 3.8
