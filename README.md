@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If Cowboys owner Jerry Jones has interest in Bill Belichick, time may not be on his side**
+**Goldman Sachs Reports 2023 Full Year and Fourth Quarter Earnings Results**
 
-You can read more about it [here](https://sports.yahoo.com/if-cowboys-owner-jerry-jones-has-interest-in-bill-belichick-time-may-not-be-on-his-side-055507013.html).
+You can read more about it [here](https://www.goldmansachs.com/media-relations/press-releases/2024/2024-01-16-q4-results.html).
 
 ## Requirements
 - Python 3.8
