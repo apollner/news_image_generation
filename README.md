@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The First Nominating Contest of the 2024 Presidential Election | Faith Nation - January 15, 2024**
+**DeSantis takes second place over Haley in Iowa caucuses, vowing to remain in 2024 race**
 
-You can read more about it [here](https://www.youtube.com/watch?v=1C5qK509P60).
+You can read more about it [here](https://www.cbsnews.com/news/iowa-caucus-2024-results-donald-trump/).
 
 ## Requirements
 - Python 3.8
