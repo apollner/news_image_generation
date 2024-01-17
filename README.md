@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World's oldest dog? Guinness World Records suspends Bobi the dog's title amid doubts about his age**
+**Cloned rhesus monkey created to speed medical research**
 
-You can read more about it [here](https://www.cbsnews.com/news/world-oldest-dog-bobi-guinness-world-records-suspends-title/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-67987633).
 
 ## Requirements
 - Python 3.8
