@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vivek Ramaswamy suspends his 2024 Republican presidential bid and endorses rival Donald Trump**
+**Trove of new evidence released in Long Island serial killer case as new murder charge added**
 
-You can read more about it [here](https://apnews.com/article/vivek-ramaswamy-ends-2024-presidential-campaign-4b794ed3fbb41cc7f2a6a95d20458843).
+You can read more about it [here](https://abcnews.go.com/US/alleged-gilgo-beach-serial-killer-rex-heuermann-charged/story?id=106379516).
 
 ## Requirements
 - Python 3.8
