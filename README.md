@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to expect from the New Hampshire GOP primary next week**
+**Boeing to add further quality inspections for 737 MAX**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cxu2BzuMK64).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-add-further-quality-inspections-737-max-2024-01-15/).
 
 ## Requirements
 - Python 3.8
