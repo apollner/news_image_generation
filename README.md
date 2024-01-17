@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Tampa Bay Buccaneers vs. Philadelphia Eagles: Live stream, TV channel, start time for Monday's NFL game**
+**Israel says it fears for lives of two hostages after latest Hamas propaganda video**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/tampa-bay-buccaneers-vs-philadelphia-eagles-how-to-watch-nfl-online-tv-channel-live-stream-info-start-time-29325032/).
+You can read more about it [here](https://www.timesofisrael.com/israel-says-it-fears-for-lives-of-two-hostages-after-latest-hamas-propaganda-video/).
 
 ## Requirements
 - Python 3.8
