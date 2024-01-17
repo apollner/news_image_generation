@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley says she'll only debate Trump or Biden, suggesting she'll skip NH showdown with DeSantis**
+**Austin aide asked for ambulance to be ‘a little subtle’ in 911 call**
 
-You can read more about it [here](https://abcnews.go.com/Politics/nikki-haley-debate-donald-trump-joe-biden/story?id=106409470).
+You can read more about it [here](https://thehill.com/policy/defense/4412123-austin-aide-asked-ambulance-be-subtle-911-call/).
 
 ## Requirements
 - Python 3.8
