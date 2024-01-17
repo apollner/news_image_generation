@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Gov. Christopher Waller sees interest-rate cuts in 2024**
+**Eagles center Jason Kelce intends to retire after 13 NFL seasons, AP sources say**
 
-You can read more about it [here](https://www.marketwatch.com/story/feds-waller-sees-rate-cuts-this-year-but-nothing-rushed-06cffcc7).
+You can read more about it [here](https://apnews.com/article/eagles-jason-kelce-retires-2a5cff3398a6413a52d0bb3fdc2eef22).
 
 ## Requirements
 - Python 3.8
