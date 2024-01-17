@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malta-flagged bulk carrier hit by missile in the Red Sea as Houthi attacks continue**
+**Vivek Ramaswamy suspends his 2024 Republican presidential bid and endorses rival Donald Trump**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-missiles-iran-seizure-us-8112fbadd3b0689c71a92890895a9368).
+You can read more about it [here](https://apnews.com/article/vivek-ramaswamy-ends-2024-presidential-campaign-4b794ed3fbb41cc7f2a6a95d20458843).
 
 ## Requirements
 - Python 3.8
