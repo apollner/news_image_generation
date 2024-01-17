@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ebon Moss-Bachrach and Matty Matheson Make Out Onstage to Celebrate ‘The Bear’ Emmy Win: ‘I Love Restaurants!’**
+**Israel accuses Hamas of ‘psychological torment’ of hostages’ families after three videos released**
 
-You can read more about it [here](https://variety.com/2024/tv/awards/ebon-moss-bachrach-matty-matheson-kiss-onstage-emmys-the-bear-1235869625/).
+You can read more about it [here](https://www.cnn.com/2024/01/16/middleeast/israel-hamas-hostages-video-psychological-torment-intl/index.html).
 
 ## Requirements
 - Python 3.8
