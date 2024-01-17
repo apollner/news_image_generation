@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman Sachs Reports 2023 Full Year and Fourth Quarter Earnings Results**
+**At 93, he's as fit as a 40-year-old. His body offers lessons on aging.**
 
-You can read more about it [here](https://www.goldmansachs.com/media-relations/press-releases/2024/2024-01-16-q4-results.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/).
 
 ## Requirements
 - Python 3.8
