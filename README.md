@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study finds no link between marijuana use and starting or stopping opioids**
+**Fed Gov. Christopher Waller sees interest-rate cuts in 2024**
 
-You can read more about it [here](https://www.upi.com).
+You can read more about it [here](https://www.marketwatch.com/story/feds-waller-sees-rate-cuts-this-year-but-nothing-rushed-06cffcc7).
 
 ## Requirements
 - Python 3.8
