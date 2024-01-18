@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MINTROCKET announces top-down team battle action game Wakerunners for PC**
+**Dave the Diver studio unveils sci-fi team battle game Wakerunners**
 
-You can read more about it [here](https://www.gematsu.com/2024/01/mintrocket-announces-top-down-team-battle-action-game-wakerunners-for-pc).
+You can read more about it [here](https://www.eurogamer.net/dave-the-diver-studio-unveils-sci-fi-team-battle-game-wakerunners).
 
 ## Requirements
 - Python 3.8
