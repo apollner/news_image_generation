@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Vivek Ramaswamy Dropped Out Of US Presidential Race And Endorsed Trump**
+**Supreme Court takes on executive branch in broad fight over policymaking power**
 
-You can read more about it [here](https://www.ndtv.com/world-news/explained-why-vivek-ramaswamy-quit-2024-us-presidential-race-4877438).
+You can read more about it [here](https://www.politico.com/news/2024/01/17/supreme-court-biden-agenda-executive-policymaking-power-00135966).
 
 ## Requirements
 - Python 3.8
