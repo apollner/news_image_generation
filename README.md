@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How cold temperatures are affecting Teslas, other electric vehicles**
+**NFL Divisional Round Power Rankings**
 
-You can read more about it [here](https://www.axios.com/2024/01/16/tesla-charge-cold-weather-electric-vehicles).
+You can read more about it [here](https://www.youtube.com/watch?v=3EGJ9bELelQ).
 
 ## Requirements
 - Python 3.8
