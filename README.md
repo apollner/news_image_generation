@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**City of Elyria releases bodycam video of controversial police raid family claims was conducted at wrong house**
+**Iran strike sparks dispute with Iraq as fears of regional upheaval grow**
 
-You can read more about it [here](https://www.wkyc.com/article/news/local/lorain-county/elyria-bodycam-video-controversial-police-raid/95-6c77f15d-ceea-4e7f-9d57-16f6bedfb296).
+You can read more about it [here](https://www.reuters.com/world/middle-east/iran-strike-triggers-row-with-iraq-fears-regional-turmoil-grow-2024-01-16/).
 
 ## Requirements
 - Python 3.8
