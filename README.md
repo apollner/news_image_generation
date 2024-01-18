@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baghdad recalls its ambassador from Tehran in protest over Iranian strikes on Iraq**
+**‘Fargo’ Trump America Set Season 5 Finale: [Spoiler] Gets Their Due, But With Plenty Of Honey In The End**
 
-You can read more about it [here](https://apnews.com/article/iraq-syria-iran-strike-7939f337454578cc20da8ac15fc5b457).
+You can read more about it [here](http://deadline.com/2024/01/fargo-season-5-finale-review-1235794262/).
 
 ## Requirements
 - Python 3.8
