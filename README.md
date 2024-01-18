@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's trial in E. Jean Carroll defamation case begins: Live updates**
+**How cold temperatures are affecting Teslas, other electric vehicles**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-defamation-trial-e-jean-carroll-01-16-24/index.html).
+You can read more about it [here](https://www.axios.com/2024/01/16/tesla-charge-cold-weather-electric-vehicles).
 
 ## Requirements
 - Python 3.8
