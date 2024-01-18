@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's population drops for 2nd year, with record low birth rate**
+**Eagles' Jason Kelce tells teammates he's retiring, sources say**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-population-drops-2nd-year-raises-long-term-growth-concerns-2024-01-17/).
+You can read more about it [here](https://apnews.com/article/eagles-jason-kelce-retires-2a5cff3398a6413a52d0bb3fdc2eef22).
 
 ## Requirements
 - Python 3.8
