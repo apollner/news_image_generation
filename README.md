@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M.S. coroner that buried men without telling families shares notification policy**
+**Pauly Shore to Play Richard Simmons in New Biopic**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/mississippi-hinds-county-coroner-death-notification-policy-rcna132812).
+You can read more about it [here](https://variety.com/2024/film/news/richard-simmons-movie-pauly-shore-1235875359/).
 
 ## Requirements
 - Python 3.8
