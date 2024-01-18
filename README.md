@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pauly Shore to Play Richard Simmons in New Biopic**
+**Detroit Lions fan goes viral with victory tears. ‘That one was for my dad’**
 
-You can read more about it [here](https://variety.com/2024/film/news/richard-simmons-movie-pauly-shore-1235875359/).
+You can read more about it [here](https://www.mlive.com/lions/2024/01/detroit-lions-fan-goes-viral-with-victory-tears-that-one-was-for-my-dad.html).
 
 ## Requirements
 - Python 3.8
