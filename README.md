@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France and Qatar announce a deal to deliver medicine to Israeli hostages in Gaza**
+**City of Elyria releases bodycam video of controversial police raid family claims was conducted at wrong house**
 
-You can read more about it [here](https://www.npr.org/2024/01/16/1225123830/france-and-qatar-announce-a-deal-to-deliver-medicine-to-israeli-hostages-in-gaza).
+You can read more about it [here](https://www.wkyc.com/article/news/local/lorain-county/elyria-bodycam-video-controversial-police-raid/95-6c77f15d-ceea-4e7f-9d57-16f6bedfb296).
 
 ## Requirements
 - Python 3.8
