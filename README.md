@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dr. Sanjay Gupta: What weight tells us about our health**
+**Caitlin Clark passes Brittney Griner for fourth on NCAA all-time scoring leaderboard in 96-50 blowout win**
 
-You can read more about it [here](https://www.cnn.com/2024/01/17/health/weight-drugs-chasing-life-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/17/sport/caitlin-clark-brittney-griner-ncaa-scoring-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
