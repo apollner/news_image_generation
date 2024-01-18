@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ABC News cancels its Republican primary debate due to not having enough participants**
+**Kevin Durant TAKES OVER & Leads UNREAL 22-PT Comeback W! Uncut🔥 | January 15, 2024**
 
-You can read more about it [here](https://www.npr.org/2024/01/17/1225139002/abc-news-republican-debate).
+You can read more about it [here](https://www.youtube.com/watch?v=ah-c6QVpo1A).
 
 ## Requirements
 - Python 3.8
