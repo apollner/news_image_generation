@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Law & Order: SVU' Cast Reacts to Mariska Hargitay Sexual Assault Revelation (Exclusive)**
+**Goggins, Schwarzenegger Join "White Lotus" S3**
 
-You can read more about it [here](https://www.etonline.com/law-order-svu-cast-reacts-to-mariska-hargitay-sexual-assault-revelation-exclusive-218114).
+You can read more about it [here](https://www.darkhorizons.com/goggins-schwarzenegger-join-white-lotus-s3/).
 
 ## Requirements
 - Python 3.8
