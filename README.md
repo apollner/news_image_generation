@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colon cancer is killing more younger men and women, research shows**
+**Supreme Court takes on executive branch in broad fight over policymaking power**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/colon-cancer-deaths-younger-men-women-report-rcna134084).
+You can read more about it [here](https://www.politico.com/news/2024/01/17/supreme-court-biden-agenda-executive-policymaking-power-00135966).
 
 ## Requirements
 - Python 3.8
