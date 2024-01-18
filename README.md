@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colon cancer is killing more younger men and women, research shows**
+**Dr. Sanjay Gupta: What weight tells us about our health**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/colon-cancer-deaths-younger-men-women-report-rcna134084).
+You can read more about it [here](https://www.cnn.com/2024/01/17/health/weight-drugs-chasing-life-wellness/index.html).
 
 ## Requirements
 - Python 3.8
