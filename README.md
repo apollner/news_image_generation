@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken switches planes in Zurich after first Boeing aircraft is grounded over an oxygen leak**
+**Google 'Circle to Search' coming to Pixel 8 & S24 with awkward launch shortcut**
 
-You can read more about it [here](https://www.nbcnews.com/politics/politics-news/blinken-switches-planes-zurich-first-boeing-aircraft-grounded-oxygen-l-rcna134320).
+You can read more about it [here](https://9to5google.com/2024/01/17/circle-to-search-pixel-8/).
 
 ## Requirements
 - Python 3.8
