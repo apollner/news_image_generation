@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dave the Diver studio unveils sci-fi team battle game Wakerunners**
+**France and Qatar announce a deal to deliver medicine to Israeli hostages in Gaza**
 
-You can read more about it [here](https://www.eurogamer.net/dave-the-diver-studio-unveils-sci-fi-team-battle-game-wakerunners).
+You can read more about it [here](https://www.npr.org/2024/01/16/1225123830/france-and-qatar-announce-a-deal-to-deliver-medicine-to-israeli-hostages-in-gaza).
 
 ## Requirements
 - Python 3.8
