@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emmys Producers On the ‘Friends’ Dilemma, Mama Doris and the Show That Really Almost Wasn’t**
+**Trump's trial in E. Jean Carroll defamation case begins: Live updates**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/emmy-producers-interview-reunions-mama-doris-in-memoriam-1235789800/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-defamation-trial-e-jean-carroll-01-16-24/index.html).
 
 ## Requirements
 - Python 3.8
