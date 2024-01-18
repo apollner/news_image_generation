@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan-Iran border tensions: A timeline**
+**UFC 297 Embedded: Vlog Series - Episode 3**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/17/a-recap-of-violence-pak-iran-border).
+You can read more about it [here](https://www.youtube.com/watch?v=OwQQFrv5-0U).
 
 ## Requirements
 - Python 3.8
