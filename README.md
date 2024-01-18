@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Durant TAKES OVER & Leads UNREAL 22-PT Comeback W! Uncut🔥 | January 15, 2024**
+**How to watch Samsung Galaxy Unpacked 2024**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ah-c6QVpo1A).
+You can read more about it [here](https://www.techradar.com/phones/samsung-galaxy-phones/how-to-watch-samsung-galaxy-unpacked-2024).
 
 ## Requirements
 - Python 3.8
