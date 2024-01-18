@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump looks on as E Jean Carroll testifies Trump shattered her reputation**
+**Blinken switches planes in Zurich after first Boeing aircraft is grounded over an oxygen leak**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68009461).
+You can read more about it [here](https://www.nbcnews.com/politics/politics-news/blinken-switches-planes-zurich-first-boeing-aircraft-grounded-oxygen-l-rcna134320).
 
 ## Requirements
 - Python 3.8
