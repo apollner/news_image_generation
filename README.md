@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Watch sales ban restarts Thursday**
+**Alaska Airlines CEO apologizes to passengers over Boeing 737 Max 9 incident**
 
-You can read more about it [here](https://www.theverge.com/2024/1/17/24041945/apple-watch-series-9-ultra-2-blood-oxygen-ban).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/alaska-airlines-ceo-apologizes-passengers-over-boeing-737-max-9-incident).
 
 ## Requirements
 - Python 3.8
