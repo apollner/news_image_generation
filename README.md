@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran strike sparks dispute with Iraq as fears of regional upheaval grow**
+**Bob Iger made $31.6 million as Disney’s CEO last year**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iran-strike-triggers-row-with-iraq-fears-regional-turmoil-grow-2024-01-16/).
+You can read more about it [here](https://www.cnn.com/2024/01/16/business/bob-iger-disney-pay/index.html).
 
 ## Requirements
 - Python 3.8
