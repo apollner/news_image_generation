@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google 'Circle to Search' coming to Pixel 8 & S24 with awkward launch shortcut**
+**Pakistan-Iran border tensions: A timeline**
 
-You can read more about it [here](https://9to5google.com/2024/01/17/circle-to-search-pixel-8/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/1/17/a-recap-of-violence-pak-iran-border).
 
 ## Requirements
 - Python 3.8
