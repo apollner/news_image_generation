@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austin aide asked for ambulance to be ‘a little subtle’ in 911 call**
+**Iran launches missile strikes in northern Iraq and Syria, claims to destroy Israeli spy base**
 
-You can read more about it [here](https://thehill.com/policy/defense/4412123-austin-aide-asked-ambulance-be-subtle-911-call/).
+You can read more about it [here](https://www.cnn.com/2024/01/16/middleeast/iran-missiles-kurdistan-syria-israel-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
