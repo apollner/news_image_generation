@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Samsung Galaxy Unpacked 2024**
+**China's population drops for 2nd year, with record low birth rate**
 
-You can read more about it [here](https://www.techradar.com/phones/samsung-galaxy-phones/how-to-watch-samsung-galaxy-unpacked-2024).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-population-drops-2nd-year-raises-long-term-growth-concerns-2024-01-17/).
 
 ## Requirements
 - Python 3.8
