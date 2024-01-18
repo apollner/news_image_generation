@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles' Jason Kelce tells teammates he's retiring, sources say**
+**Baghdad recalls its ambassador from Tehran in protest over Iranian strikes on Iraq**
 
-You can read more about it [here](https://apnews.com/article/eagles-jason-kelce-retires-2a5cff3398a6413a52d0bb3fdc2eef22).
+You can read more about it [here](https://apnews.com/article/iraq-syria-iran-strike-7939f337454578cc20da8ac15fc5b457).
 
 ## Requirements
 - Python 3.8
