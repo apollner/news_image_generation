@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPDATE 1-Verizon to incur $5.8 bln impairment charge in fourth quarter**
+**Trump looks on as E Jean Carroll testifies Trump shattered her reputation**
 
-You can read more about it [here](https://finance.yahoo.com/news/1-verizon-incur-5-8-134805094.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68009461).
 
 ## Requirements
 - Python 3.8
