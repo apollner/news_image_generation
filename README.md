@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess of Wales has planned abdominal surgery**
+**M.S. coroner that buried men without telling families shares notification policy**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68009259).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/mississippi-hinds-county-coroner-death-notification-policy-rcna132812).
 
 ## Requirements
 - Python 3.8
