@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran launches missile strikes in northern Iraq and Syria, claims to destroy Israeli spy base**
+**Costco testing scanners to keep out non-members**
 
-You can read more about it [here](https://www.cnn.com/2024/01/16/middleeast/iran-missiles-kurdistan-syria-israel-intl-hnk/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/shopping/2024/01/16/costco-testing-scanners-members/72245772007/).
 
 ## Requirements
 - Python 3.8
