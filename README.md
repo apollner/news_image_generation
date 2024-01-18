@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions fan goes viral with victory tears. ‘That one was for my dad’**
+**UPDATE 1-Verizon to incur $5.8 bln impairment charge in fourth quarter**
 
-You can read more about it [here](https://www.mlive.com/lions/2024/01/detroit-lions-fan-goes-viral-with-victory-tears-that-one-was-for-my-dad.html).
+You can read more about it [here](https://finance.yahoo.com/news/1-verizon-incur-5-8-134805094.html).
 
 ## Requirements
 - Python 3.8
