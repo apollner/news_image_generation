@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goggins, Schwarzenegger Join "White Lotus" S3**
+**ABC News cancels its Republican primary debate due to not having enough participants**
 
-You can read more about it [here](https://www.darkhorizons.com/goggins-schwarzenegger-join-white-lotus-s3/).
+You can read more about it [here](https://www.npr.org/2024/01/17/1225139002/abc-news-republican-debate).
 
 ## Requirements
 - Python 3.8
