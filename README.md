@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX delays commercial space station flight to allow more time for pre-launch data review**
+**Apple Watch sales ban restarts Thursday**
 
-You can read more about it [here](https://www.cbsnews.com/news/spacex-delays-commercial-space-station-flight-pre-launch-data-review/).
+You can read more about it [here](https://www.theverge.com/2024/1/17/24041945/apple-watch-series-9-ultra-2-blood-oxygen-ban).
 
 ## Requirements
 - Python 3.8
