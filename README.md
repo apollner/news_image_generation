@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Divisional Round Power Rankings**
+**Gilgo Beach murders suspect Rex Heuermann charged with 4th killing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3EGJ9bELelQ).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/gilgo-beach-murders-suspect-rex-heuermann-due-in-court-to-face-4th-murder-charge-sources-say/).
 
 ## Requirements
 - Python 3.8
