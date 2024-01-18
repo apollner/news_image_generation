@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska Airlines CEO apologizes to passengers over Boeing 737 Max 9 incident**
+**Artemis delay may allow China to reach moon before NASA’s return**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/alaska-airlines-ceo-apologizes-passengers-over-boeing-737-max-9-incident).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/01/17/artemis-china-delay-competition/).
 
 ## Requirements
 - Python 3.8
