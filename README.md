@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 297 Embedded: Vlog Series - Episode 3**
+**SpaceX delays commercial space station flight to allow more time for pre-launch data review**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OwQQFrv5-0U).
+You can read more about it [here](https://www.cbsnews.com/news/spacex-delays-commercial-space-station-flight-pre-launch-data-review/).
 
 ## Requirements
 - Python 3.8
