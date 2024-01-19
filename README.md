@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Alabama star sounds off on portal exodus: ‘It’s no longer about winning’**
+**Everything Announced at Samsung Unpacked 2024, Including The Mysterious Galaxy Ring**
 
-You can read more about it [here](https://www.al.com/alabamafootball/2024/01/former-alabama-star-sounds-off-on-portal-exodus-its-no-longer-about-winning.html).
+You can read more about it [here](https://gizmodo.com/everything-announced-at-samsung-unpacked-2024-includin-1851173979).
 
 ## Requirements
 - Python 3.8
