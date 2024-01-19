@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese scientists experiment with fatal mutant COVID strain**
+**Another New Hampshire poll gives Trump monster lead over Haley, leaves DeSantis in single digits**
 
-You can read more about it [here](https://www.newsnationnow.com/health/coronavirus/chinese-experiment-fatal-mutant-covid-strain/).
+You can read more about it [here](https://nypost.com/2024/01/17/news/second-nh-poll-gives-trump-double-digit-lead-over-haley-desantis-languishing-in-single-digits/).
 
 ## Requirements
 - Python 3.8
