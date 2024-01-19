@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors assistant Dejan Milojević, 46, dies after heart attack at team dinner**
+**Suspect in NYC stabbings eerily smiled at first victim after random attack: 'Turned to look at me'**
 
-You can read more about it [here](https://theathletic.com/5208615/2024/01/17/dejan-milojevic-dies-warriors-assistant/).
+You can read more about it [here](https://nypost.com/2024/01/17/metro/suspect-in-nyc-stabbings-eerily-smiled-at-first-victim-after-random-attack/).
 
 ## Requirements
 - Python 3.8
