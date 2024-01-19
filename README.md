@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Cowboys will bring back Mike McCarthy as head coach despite historic playoff collapse**
+**Nelson Peltz states his case for joining the Disney board**
 
-You can read more about it [here](https://www.nbcnews.com/news/sports/dallas-cowboys-will-bring-back-mike-mccarthy-head-coach-historic-playo-rcna134461).
+You can read more about it [here](https://www.cnbc.com/2024/01/18/disney-proxy-fight-nelson-peltz-states-case-for-board-seats.html).
 
 ## Requirements
 - Python 3.8
