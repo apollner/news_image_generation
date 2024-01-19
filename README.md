@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multivitamins may slow memory loss in older adults**
+**After Pascal Siakam trade, 6 big questions for Raptors, Pacers and more**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/18/multivitamins-benefits-memory-loss-study/).
+You can read more about it [here](https://theathletic.com/5211202/2024/01/18/pascal-siakam-trade-questions-raptors-pacers-pelicans/).
 
 ## Requirements
 - Python 3.8
