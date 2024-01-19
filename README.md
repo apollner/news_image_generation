@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Bill Belichick will have second interview with Falcons**
+**Dallas Cowboys will bring back Mike McCarthy as head coach despite historic playoff collapse**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bill-belichick-will-have-second-interview-with-falcons).
+You can read more about it [here](https://www.nbcnews.com/news/sports/dallas-cowboys-will-bring-back-mike-mccarthy-head-coach-historic-playo-rcna134461).
 
 ## Requirements
 - Python 3.8
