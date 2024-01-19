@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama star DB Caleb Downs enters transfer portal with Georgia favored as potential landing spot**
+**Pascal Siakam trade gives Pacers everything they were looking for**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/alabama-star-db-caleb-downs-enters-transfer-portal-with-georgia-favored-as-potential-landing-spot/).
+You can read more about it [here](https://www.indystar.com/story/sports/nba/pacers/2024/01/17/pascal-siakam-trade-gives-pacers-everything-they-were-looking-for-bruce-brown-first-round-picks/72258241007/).
 
 ## Requirements
 - Python 3.8
