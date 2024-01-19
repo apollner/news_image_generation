@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaire-backed city 'California Forever' to guarantee 15K jobs, $400M in 'down payment assistance'**
+**Alabama star DB Caleb Downs enters transfer portal with Georgia favored as potential landing spot**
 
-You can read more about it [here](https://nypost.com/2024/01/17/business/billionaire-backed-california-forever-city-plan-guarantees-400m-in-down-payment-aid/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/alabama-star-db-caleb-downs-enters-transfer-portal-with-georgia-favored-as-potential-landing-spot/).
 
 ## Requirements
 - Python 3.8
