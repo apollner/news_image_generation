@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wizards Of Waverly Place’ Revival Ordered With Selena Gomez Returning**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/01/wizards-of-waverly-place-revival-disney-selena-gomez-1235795858/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
