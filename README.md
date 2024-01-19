@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Fargo’ Finale Casualty Speaks Out: “Giving Your Life Is the Ultimate Sacrifice”**
+**Wars and Rumors of War in the Middle East | Faith Nation - January 17, 2024**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/fargo-season-5-finale-witt-lamorne-morris-interview-1235790845/).
+You can read more about it [here](https://www.youtube.com/watch?v=s6i8GuoUCgY).
 
 ## Requirements
 - Python 3.8
