@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BAFTA Film Awards Nominations Unveiled (Updating Live)**
+**Samsung's Galaxy S24 is first to be able to upload HDR photos to Instagram**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/bafta-nominations-2024-film-awards-1235789366/).
+You can read more about it [here](https://www.theverge.com/2024/1/18/24042649/samsung-galaxy-s24-instagram-snapchat-super-hdr-nightography-stabilized-video).
 
 ## Requirements
 - Python 3.8
