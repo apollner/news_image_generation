@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's trial in E. Jean Carroll defamation case**
+**Report: Bill Belichick will have second interview with Falcons**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-defamation-trial-e-jean-carroll-01-18-24/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bill-belichick-will-have-second-interview-with-falcons).
 
 ## Requirements
 - Python 3.8
