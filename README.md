@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nelson Peltz states his case for joining the Disney board**
+**Multivitamins may slow memory loss in older adults**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/18/disney-proxy-fight-nelson-peltz-states-case-for-board-seats.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/18/multivitamins-benefits-memory-loss-study/).
 
 ## Requirements
 - Python 3.8
