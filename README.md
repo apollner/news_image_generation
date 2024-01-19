@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistani strikes on Iran killed 4 children and 3 women, local official says**
+**Raptors trade All-Star Pascal Siakam to Pacers for Bruce Brown, multiple 1st-round draft picks**
 
-You can read more about it [here](https://apnews.com/article/pakistan-iran-air-force-strikes-638f2ee4ccfb1a56d26e8f28f7e91699).
+You can read more about it [here](https://sports.yahoo.com/raptors-trade-all-star-pascal-siakam-to-pacers-for-bruce-brown-multiple-1st-round-draft-picks-192334510.html).
 
 ## Requirements
 - Python 3.8
