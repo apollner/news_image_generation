@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Power line falls on car during Oregon ice storm, killing 3 and hurting a baby, authorities say**
+**Middle East security declining amid strikes | Power & Politics**
 
-You can read more about it [here](https://www.seattletimes.com/nation-world/nation/power-line-falls-on-car-during-oregon-ice-storm-killing-3-and-hurting-a-baby/).
+You can read more about it [here](https://www.youtube.com/watch?v=PZx_qv94ois).
 
 ## Requirements
 - Python 3.8
