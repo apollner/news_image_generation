@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Another New Hampshire poll gives Trump monster lead over Haley, leaves DeSantis in single digits**
+**Schumer optimistic leaders will reach agreement on border, Ukraine funding following Biden meeting**
 
-You can read more about it [here](https://nypost.com/2024/01/17/news/second-nh-poll-gives-trump-double-digit-lead-over-haley-desantis-languishing-in-single-digits/).
+You can read more about it [here](https://www.cnn.com/2024/01/17/politics/biden-ukraine-white-house-meeting/index.html).
 
 ## Requirements
 - Python 3.8
