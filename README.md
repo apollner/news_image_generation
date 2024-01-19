@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in NYC stabbings eerily smiled at first victim after random attack: 'Turned to look at me'**
+**Rishi Sunak sees off Conservative rebels as MPs back Rwanda bill**
 
-You can read more about it [here](https://nypost.com/2024/01/17/metro/suspect-in-nyc-stabbings-eerily-smiled-at-first-victim-after-random-attack/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68009249).
 
 ## Requirements
 - Python 3.8
