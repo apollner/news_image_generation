@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raptors trade All-Star Pascal Siakam to Pacers for Bruce Brown, multiple 1st-round draft picks**
+**Power line falls on car during Oregon ice storm, killing 3 and hurting a baby, authorities say**
 
-You can read more about it [here](https://sports.yahoo.com/raptors-trade-all-star-pascal-siakam-to-pacers-for-bruce-brown-multiple-1st-round-draft-picks-192334510.html).
+You can read more about it [here](https://www.seattletimes.com/nation-world/nation/power-line-falls-on-car-during-oregon-ice-storm-killing-3-and-hurting-a-baby/).
 
 ## Requirements
 - Python 3.8
