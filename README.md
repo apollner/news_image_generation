@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**14,000-Year-Old Tusk Shows Mammoth's Path to an Ice Age Campsite**
+**Meta's Sheryl Sandberg to exit board after 12 years**
 
-You can read more about it [here](https://gizmodo.com/mammoth-tusk-alaska-ice-age-camp-site-isotopes-1851173855).
+You can read more about it [here](https://www.reuters.com/technology/metas-sheryl-sandberg-exit-board-after-12-years-2024-01-18/).
 
 ## Requirements
 - Python 3.8
