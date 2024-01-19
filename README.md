@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Artemis delay may allow China to reach moon before NASA’s return**
+**‘Fargo’ Finale Casualty Speaks Out: “Giving Your Life Is the Ultimate Sacrifice”**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/01/17/artemis-china-delay-competition/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/fargo-season-5-finale-witt-lamorne-morris-interview-1235790845/).
 
 ## Requirements
 - Python 3.8
