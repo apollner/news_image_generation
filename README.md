@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pascal Siakam trade gives Pacers everything they were looking for**
+**14,000-Year-Old Tusk Shows Mammoth's Path to an Ice Age Campsite**
 
-You can read more about it [here](https://www.indystar.com/story/sports/nba/pacers/2024/01/17/pascal-siakam-trade-gives-pacers-everything-they-were-looking-for-bruce-brown-first-round-picks/72258241007/).
+You can read more about it [here](https://gizmodo.com/mammoth-tusk-alaska-ice-age-camp-site-isotopes-1851173855).
 
 ## Requirements
 - Python 3.8
