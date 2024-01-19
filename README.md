@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nelson Peltz outlines plans for Disney proxy battle**
+**NN Divisional Round Prediction Contest: 49ers face Jordan Love, Packers**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/18/nelson-peltz-outlines-plans-for-disney-proxy-battle.html).
+You can read more about it [here](https://www.ninersnation.com/2024/1/18/24041674/divisional-round-prediction-contest-49ers-face-jordan-love-packers).
 
 ## Requirements
 - Python 3.8
