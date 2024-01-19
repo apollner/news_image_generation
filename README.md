@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Vision Pro: EyeSight, comfort, and more impressions from my latest demo**
+**Singapore minister resigns after being charged with corruption in a first for the city state**
 
-You can read more about it [here](https://9to5mac.com/2024/01/17/apple-vision-pro-demo-eyesight-comfort-more/).
+You can read more about it [here](https://www.cnn.com/2024/01/18/asia/singapore-first-minister-corruption-charges-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
