@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak sees off Conservative rebels as MPs back Rwanda bill**
+**Apple Vision Pro: EyeSight, comfort, and more impressions from my latest demo**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68009249).
+You can read more about it [here](https://9to5mac.com/2024/01/17/apple-vision-pro-demo-eyesight-comfort-more/).
 
 ## Requirements
 - Python 3.8
