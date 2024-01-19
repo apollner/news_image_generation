@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Pascal Siakam trade, 6 big questions for Raptors, Pacers and more**
+**McCarthy on returning to Cowboys: 'Buy into us'**
 
-You can read more about it [here](https://theathletic.com/5211202/2024/01/18/pascal-siakam-trade-questions-raptors-pacers-pelicans/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39336984/mike-mccarthy-returning-cowboys-buy-us).
 
 ## Requirements
 - Python 3.8
