@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCarthy on returning to Cowboys: 'Buy into us'**
+**‘Wizards Of Waverly Place’ Revival Ordered With Selena Gomez Returning**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39336984/mike-mccarthy-returning-cowboys-buy-us).
+You can read more about it [here](http://deadline.com/2024/01/wizards-of-waverly-place-revival-disney-selena-gomez-1235795858/).
 
 ## Requirements
 - Python 3.8
