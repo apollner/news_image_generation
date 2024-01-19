@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘American Nightmare’ Team on Digging Into the Brutal ‘Gone Girl’ Case and Police Refusing to Participate: ‘They Turned Their Backs on Us’**
+**Billionaire-backed city 'California Forever' to guarantee 15K jobs, $400M in 'down payment assistance'**
 
-You can read more about it [here](https://variety.com/2024/tv/features/american-nightmare-police-denise-huskins-matthew-muller-1235875542/).
+You can read more about it [here](https://nypost.com/2024/01/17/business/billionaire-backed-california-forever-city-plan-guarantees-400m-in-down-payment-aid/).
 
 ## Requirements
 - Python 3.8
