@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta's Sheryl Sandberg to exit board after 12 years**
+**Former Alabama star sounds off on portal exodus: ‘It’s no longer about winning’**
 
-You can read more about it [here](https://www.reuters.com/technology/metas-sheryl-sandberg-exit-board-after-12-years-2024-01-18/).
+You can read more about it [here](https://www.al.com/alabamafootball/2024/01/former-alabama-star-sounds-off-on-portal-exodus-its-no-longer-about-winning.html).
 
 ## Requirements
 - Python 3.8
