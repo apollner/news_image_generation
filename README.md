@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore minister resigns after being charged with corruption in a first for the city state**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/01/18/asia/singapore-first-minister-corruption-charges-intl-hnk/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
