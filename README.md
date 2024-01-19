@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wars and Rumors of War in the Middle East | Faith Nation - January 17, 2024**
+**I spent the morning with the Apple Vision Pro**
 
-You can read more about it [here](https://www.youtube.com/watch?v=s6i8GuoUCgY).
+You can read more about it [here](https://techcrunch.com/2024/01/17/i-spent-the-morning-with-the-apple-vision-pro/).
 
 ## Requirements
 - Python 3.8
