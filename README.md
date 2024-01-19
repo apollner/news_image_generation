@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Everything Announced at Samsung Unpacked 2024, Including The Mysterious Galaxy Ring**
+**Pascal Siakam trade: Pacers finalize deal to acquire All-Star forward from Raptors**
 
-You can read more about it [here](https://gizmodo.com/everything-announced-at-samsung-unpacked-2024-includin-1851173979).
+You can read more about it [here](https://www.cbssports.com/nba/news/pascal-siakam-trade-pacers-finalize-deal-to-acquire-all-star-forward-from-raptors/).
 
 ## Requirements
 - Python 3.8
