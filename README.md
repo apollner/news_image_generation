@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schumer optimistic leaders will reach agreement on border, Ukraine funding following Biden meeting**
+**Warriors assistant Dejan Milojević, 46, dies after heart attack at team dinner**
 
-You can read more about it [here](https://www.cnn.com/2024/01/17/politics/biden-ukraine-white-house-meeting/index.html).
+You can read more about it [here](https://theathletic.com/5208615/2024/01/17/dejan-milojevic-dies-warriors-assistant/).
 
 ## Requirements
 - Python 3.8
