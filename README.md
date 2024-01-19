@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung's Galaxy S24 is first to be able to upload HDR photos to Instagram**
+**Trump's trial in E. Jean Carroll defamation case**
 
-You can read more about it [here](https://www.theverge.com/2024/1/18/24042649/samsung-galaxy-s24-instagram-snapchat-super-hdr-nightography-stabilized-video).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-defamation-trial-e-jean-carroll-01-18-24/index.html).
 
 ## Requirements
 - Python 3.8
