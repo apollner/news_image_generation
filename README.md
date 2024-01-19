@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2023-24 San Antonio Spurs Season | Victor Wembanyama's Post-Game Interview 1.17.2024**
+**Chinese scientists experiment with fatal mutant COVID strain**
 
-You can read more about it [here](https://www.youtube.com/watch?v=P__IF3BbV4s).
+You can read more about it [here](https://www.newsnationnow.com/health/coronavirus/chinese-experiment-fatal-mutant-covid-strain/).
 
 ## Requirements
 - Python 3.8
