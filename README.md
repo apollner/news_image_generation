@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East security declining amid strikes | Power & Politics**
+**2023-24 San Antonio Spurs Season | Victor Wembanyama's Post-Game Interview 1.17.2024**
 
-You can read more about it [here](https://www.youtube.com/watch?v=PZx_qv94ois).
+You can read more about it [here](https://www.youtube.com/watch?v=P__IF3BbV4s).
 
 ## Requirements
 - Python 3.8
