@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live war updates: Israel claims 'US is next' for Hamas**
+**After Pascal Siakam trade, 6 big questions for Raptors, Pacers and more**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/01/18/live-war-updates-israel-hamas/72266097007/).
+You can read more about it [here](https://theathletic.com/5211202/2024/01/18/pascal-siakam-trade-questions-raptors-pacers-pelicans/).
 
 ## Requirements
 - Python 3.8
