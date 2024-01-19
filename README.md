@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**BAFTA Film Awards Nominations Unveiled (Updating Live)**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/bafta-nominations-2024-film-awards-1235789366/).
 
 ## Requirements
 - Python 3.8
