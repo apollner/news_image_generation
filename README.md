@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I spent the morning with the Apple Vision Pro**
+**‘American Nightmare’ Team on Digging Into the Brutal ‘Gone Girl’ Case and Police Refusing to Participate: ‘They Turned Their Backs on Us’**
 
-You can read more about it [here](https://techcrunch.com/2024/01/17/i-spent-the-morning-with-the-apple-vision-pro/).
+You can read more about it [here](https://variety.com/2024/tv/features/american-nightmare-police-denise-huskins-matthew-muller-1235875542/).
 
 ## Requirements
 - Python 3.8
