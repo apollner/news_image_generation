@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy S24 Ultra First Look: Circle to Search, Live Translate, More AI**
+**Nelson Peltz outlines plans for Disney proxy battle**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-first-look-circle-to-search-live-translate-more-ai/).
+You can read more about it [here](https://www.cnbc.com/2024/01/18/nelson-peltz-outlines-plans-for-disney-proxy-battle.html).
 
 ## Requirements
 - Python 3.8
