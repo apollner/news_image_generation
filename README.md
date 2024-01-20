@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sundance Film Festival 2024: Opening Night Gala, Film Premieres, Panels & Parties Photo Gallery**
+**Why are Iran and Pakistan striking each other’s territory – and what does it have to do with the Middle East?**
 
-You can read more about it [here](https://deadline.com/gallery/2024-sundance-film-festival-premieres-photos/).
+You can read more about it [here](https://www.cnn.com/2024/01/18/world/iran-pakistan-attacks-tensions-explainer-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
