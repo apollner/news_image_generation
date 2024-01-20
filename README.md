@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marvel Directors Head Back to Sundance — and Their Indie Roots**
+**2 weeks of winter storms kill dozens and cause cold chaos in parts of the US but a thaw is coming**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-features/marvel-directors-sundance-pedro-pascal-freaky-tales-1235790938/).
+You can read more about it [here](https://apnews.com/article/us-winter-weather-snow-freezing-low-temperatures-026778c69b3f7ac4086c2109754ff781).
 
 ## Requirements
 - Python 3.8
