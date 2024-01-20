@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NVIDIA RTX 4070 Super review: A 1,440p powerhouse for $599**
+**Madonna sued by fans in New York over late concert start time | BBC News**
 
-You can read more about it [here](https://www.engadget.com/nvidia-rtx-4070-super-review-a-1440p-powerhouse-for-599-160025855.html).
+You can read more about it [here](https://www.youtube.com/watch?v=yu6FA5rSFow).
 
 ## Requirements
 - Python 3.8
