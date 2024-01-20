@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis hired Trump 2020 election case prosecutor — with whom she's accused of having affair — after 2 others said no**
+**Israel Intensifies Raids Against Palestinians in West Bank**
 
-You can read more about it [here](https://www.cbsnews.com/news/fani-willis-trump-2020-election-case-prosecutor-nathan-wade/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/israel-intensifies-raids-against-palestinians-in-west-bank-424cb246).
 
 ## Requirements
 - Python 3.8
