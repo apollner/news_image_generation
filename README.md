@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Costco charcuterie meats linked to salmonella outbreak that has sickened dozens**
+**Trump's Lawyers Keep Getting Shut Down in Rape Defamation Trial**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/costco-charcuterie-meats-linked-salmonella-outbreak-sickened-dozens-rcna134644).
+You can read more about it [here](https://www.thedailybeast.com/trumps-lawyers-keep-getting-shut-down-in-rape-defamation-trial).
 
 ## Requirements
 - Python 3.8
