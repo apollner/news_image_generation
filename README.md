@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boebert blasts spending deal as ‘Pelosi-Esque’**
+**Anthony Edwards Says Kyle Anderson Told Him He's Playing 'Like a Scrub' at Half | Inside the NBA**
 
-You can read more about it [here](https://thehill.com/homenews/house/4417104-boebert-blasts-spending-deal-as-pelosi-esque/).
+You can read more about it [here](https://www.youtube.com/watch?v=jtOu0PTjPKQ).
 
 ## Requirements
 - Python 3.8
