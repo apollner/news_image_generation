@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches 4 people for a private mission to the International Space Station**
+**Judge in Trump Georgia case orders hearing on Fani Willis misconduct claims**
 
-You can read more about it [here](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/18/judge-orders-hearing-fani-willis-misconduct-georgia-case/).
 
 ## Requirements
 - Python 3.8
