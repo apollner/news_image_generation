@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Intensifies Raids Against Palestinians in West Bank**
+**Galaxy S24 Ultra: One Day With Samsung's New Phone**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/israel-intensifies-raids-against-palestinians-in-west-bank-424cb246).
+You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-s24-ultra-one-day-with-samsungs-new-phone/).
 
 ## Requirements
 - Python 3.8
