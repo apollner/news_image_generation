@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NN Divisional Round Prediction Contest: 49ers face Jordan Love, Packers**
+**Dementia onset and brain aging slowed with daily multivitamin, study finds: 'Exciting'**
 
-You can read more about it [here](https://www.ninersnation.com/2024/1/18/24041674/divisional-round-prediction-contest-49ers-face-jordan-love-packers).
+You can read more about it [here](https://nypost.com/2024/01/18/lifestyle/dementia-onset-and-brain-aging-slowed-with-daily-multivitamin-study-finds/).
 
 ## Requirements
 - Python 3.8
