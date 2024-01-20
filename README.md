@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ranking NFL's open head-coaching jobs: Coaches, execs pick league's gigs from least to most attractive**
+**Congress approves short-term funding bill to avoid shutdown, sending measure to Biden**
 
-You can read more about it [here](https://sports.yahoo.com/ranking-nfls-open-head-coaching-jobs-coaches-execs-pick-leagues-gigs-from-least-to-most-attractive-212448332.html).
+You can read more about it [here](https://www.cbsnews.com/news/senate-government-shutdown-stopgap-bill/).
 
 ## Requirements
 - Python 3.8
