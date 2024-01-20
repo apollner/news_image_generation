@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toni Atkins launches campaign for California governor**
+**NVIDIA RTX 4070 Super review: A 1,440p powerhouse for $599**
 
-You can read more about it [here](https://www.kcra.com/article/toni-atkins-launches-campaign-for-california-governor/46457860).
+You can read more about it [here](https://www.engadget.com/nvidia-rtx-4070-super-review-a-1440p-powerhouse-for-599-160025855.html).
 
 ## Requirements
 - Python 3.8
