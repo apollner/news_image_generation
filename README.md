@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's Lawyers Keep Getting Shut Down in Rape Defamation Trial**
+**Boebert blasts spending deal as ‘Pelosi-Esque’**
 
-You can read more about it [here](https://www.thedailybeast.com/trumps-lawyers-keep-getting-shut-down-in-rape-defamation-trial).
+You can read more about it [here](https://thehill.com/homenews/house/4417104-boebert-blasts-spending-deal-as-pelosi-esque/).
 
 ## Requirements
 - Python 3.8
