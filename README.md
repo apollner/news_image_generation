@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No Labels alleges criminal conspiracy against 2024 presidential effort**
+**[Removed]**
 
-You can read more about it [here](https://www.axios.com/2024/01/18/no-labels-criminal-conspiracy-2024-president).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
