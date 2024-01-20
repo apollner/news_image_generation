@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Ohio State to hire Bill O'Brien as offensive coordinator**
+**Madonna sued by fans in New York over late concert start time**
 
-You can read more about it [here](https://sports.yahoo.com/ohio-state-to-hire-bill-obrien-as-offensive-coordinator-023923096.html).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68027965).
 
 ## Requirements
 - Python 3.8
