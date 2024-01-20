@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 weeks of winter storms kill dozens and cause cold chaos in parts of the US but a thaw is coming**
+**Sources: Raiders working to finalize deal with Antonio Pierce**
 
-You can read more about it [here](https://apnews.com/article/us-winter-weather-snow-freezing-low-temperatures-026778c69b3f7ac4086c2109754ff781).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39344707/raiders-working-finalize-deal-antonio-pierce).
 
 ## Requirements
 - Python 3.8
