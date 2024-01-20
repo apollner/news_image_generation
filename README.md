@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles: Why are cases rising and what are the symptoms?**
+**Fani Willis hired Trump 2020 election case prosecutor — with whom she's accused of having affair — after 2 others said no**
 
-You can read more about it [here](https://www.bbc.com/news/uk-england-birmingham-68007804).
+You can read more about it [here](https://www.cbsnews.com/news/fani-willis-trump-2020-election-case-prosecutor-nathan-wade/).
 
 ## Requirements
 - Python 3.8
