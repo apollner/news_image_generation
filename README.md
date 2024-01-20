@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defense Secretary Lloyd Austin asked to testify before lawmakers about his failure to notify leaders of his hospitalization**
+**Milky Way: Manchester astronomers find mysterious object**
 
-You can read more about it [here](https://www.cnn.com/2024/01/19/politics/lloyd-austin-testify-lawmakers-hospitalization/index.html).
+You can read more about it [here](https://www.bbc.com/news/uk-england-manchester-68028464).
 
 ## Requirements
 - Python 3.8
