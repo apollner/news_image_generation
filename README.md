@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden concedes Houthis haven’t been deterred from carrying out attacks as US launches further strikes**
+**Ranking NFL's open head-coaching jobs: Coaches, execs pick league's gigs from least to most attractive**
 
-You can read more about it [here](https://www.cnn.com/2024/01/18/politics/biden-houthi-strikes/index.html).
+You can read more about it [here](https://sports.yahoo.com/ranking-nfls-open-head-coaching-jobs-coaches-execs-pick-leagues-gigs-from-least-to-most-attractive-212448332.html).
 
 ## Requirements
 - Python 3.8
