@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump urges Supreme Court to reject efforts to keep him off ballot, warning of "chaos" in new filing**
+**SpaceX launches 4 people for a private mission to the International Space Station**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-supreme-court-ballot-eligibility-colorado-case/).
+You can read more about it [here](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss).
 
 ## Requirements
 - Python 3.8
