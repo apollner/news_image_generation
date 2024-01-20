@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11 Rules for Hiring an NFL Head Coach**
+**2024 NFL playoff bracket: Divisional round picks, predictions, best bets for AFC, NFC schedule by top model**
 
-You can read more about it [here](https://www.theringer.com/nfl/2024/1/19/24043867/11-rules-for-hiring-an-nfl-head-coach-bill-belichick-mike-tomlin-david-tepper-mark-davis).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-bracket-divisional-round-picks-predictions-best-bets-for-afc-nfc-schedule-by-top-model/).
 
 ## Requirements
 - Python 3.8
