@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why are Iran and Pakistan striking each other’s territory – and what does it have to do with the Middle East?**
+**Red Sea shipping attacks pressure China's exporters as delays, costs mount**
 
-You can read more about it [here](https://www.cnn.com/2024/01/18/world/iran-pakistan-attacks-tensions-explainer-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/world/red-sea-crisis-pressures-chinas-exporters-shipping-delays-costs-mount-2024-01-19/).
 
 ## Requirements
 - Python 3.8
