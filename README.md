@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Madonna sued by fans in New York over late concert start time | BBC News**
+**Marvel Directors Head Back to Sundance — and Their Indie Roots**
 
-You can read more about it [here](https://www.youtube.com/watch?v=yu6FA5rSFow).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-features/marvel-directors-sundance-pedro-pascal-freaky-tales-1235790938/).
 
 ## Requirements
 - Python 3.8
