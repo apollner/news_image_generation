@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL playoff bracket: Divisional round picks, predictions, best bets for AFC, NFC schedule by top model**
+**Maine's top election official seeks state Supreme Court review of decision to remove Trump from ballot**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-bracket-divisional-round-picks-predictions-best-bets-for-afc-nfc-schedule-by-top-model/).
+You can read more about it [here](https://www.politico.com/news/2024/01/19/donald-trump-ballot-maine-supreme-court-00136601).
 
 ## Requirements
 - Python 3.8
