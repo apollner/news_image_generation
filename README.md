@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Madonna sued by fans in New York over late concert start time**
+**Milky Way: Manchester astronomers find mysterious object**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68027965).
+You can read more about it [here](https://www.bbc.com/news/uk-england-manchester-68028464).
 
 ## Requirements
 - Python 3.8
