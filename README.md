@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple (AAPL) Vision Pro Chiefs Sees Potential Use in Surgery, Teaching**
+**[Removed]**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-18/apple-vision-pro-chief-sees-surgery-training-as-future-vision-pro-growth-areas).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
