@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress approves short-term funding bill to avoid shutdown, sending measure to Biden**
+**Sundance Film Festival 2024: All Of Deadline’s Movie Reviews**
 
-You can read more about it [here](https://www.cbsnews.com/news/senate-government-shutdown-stopgap-bill/).
+You can read more about it [here](http://deadline.com/2024/01/cannes-2024-movie-reviews-1235795799/).
 
 ## Requirements
 - Python 3.8
