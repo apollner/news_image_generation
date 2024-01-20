@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A change of tone? Nikki Haley ramps up Trump attacks ahead of New Hampshire primaries**
+**Trump lawyers warn Supreme Court of ‘chaos and bedlam’ if states are allowed to bar him from 2024 ballot**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/18/nikki-haley-tone-trump-desantis/72270169007/).
+You can read more about it [here](https://www.cnn.com/2024/01/18/politics/14th-amendment-supreme-court-trump-colorado/index.html).
 
 ## Requirements
 - Python 3.8
