@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red Sea shipping attacks pressure China's exporters as delays, costs mount**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/red-sea-crisis-pressures-chinas-exporters-shipping-delays-costs-mount-2024-01-19/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
