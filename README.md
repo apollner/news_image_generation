@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine's top election official seeks state Supreme Court review of decision to remove Trump from ballot**
+**NVIDIA RTX 4070 Super review: A 1,440p powerhouse for $599**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/19/donald-trump-ballot-maine-supreme-court-00136601).
+You can read more about it [here](https://www.engadget.com/nvidia-rtx-4070-super-review-a-1440p-powerhouse-for-599-160025855.html).
 
 ## Requirements
 - Python 3.8
