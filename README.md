@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump lawyers warn Supreme Court of ‘chaos and bedlam’ if states are allowed to bar him from 2024 ballot**
+**Biden concedes Houthis haven’t been deterred from carrying out attacks as US launches further strikes**
 
-You can read more about it [here](https://www.cnn.com/2024/01/18/politics/14th-amendment-supreme-court-trump-colorado/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/18/politics/biden-houthi-strikes/index.html).
 
 ## Requirements
 - Python 3.8
