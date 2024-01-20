@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**A change of tone? Nikki Haley ramps up Trump attacks ahead of New Hampshire primaries**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/18/nikki-haley-tone-trump-desantis/72270169007/).
 
 ## Requirements
 - Python 3.8
