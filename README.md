@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's SLIM spacecraft reaches lunar surface in historic moon mission**
+**11 Rules for Hiring an NFL Head Coach**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/19/japan-slim-lunar-lander-touches-down-on-moon.html).
+You can read more about it [here](https://www.theringer.com/nfl/2024/1/19/24043867/11-rules-for-hiring-an-nfl-head-coach-bill-belichick-mike-tomlin-david-tepper-mark-davis).
 
 ## Requirements
 - Python 3.8
