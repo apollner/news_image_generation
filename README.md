@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sundance Film Festival 2024: All Of Deadline’s Movie Reviews**
+**No Labels alleges criminal conspiracy against 2024 presidential effort**
 
-You can read more about it [here](http://deadline.com/2024/01/cannes-2024-movie-reviews-1235795799/).
+You can read more about it [here](https://www.axios.com/2024/01/18/no-labels-criminal-conspiracy-2024-president).
 
 ## Requirements
 - Python 3.8
