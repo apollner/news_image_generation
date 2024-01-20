@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dementia onset and brain aging slowed with daily multivitamin, study finds: 'Exciting'**
+**US strikes Houthi anti-ship missiles, shipping disruptions grow**
 
-You can read more about it [here](https://nypost.com/2024/01/18/lifestyle/dementia-onset-and-brain-aging-slowed-with-daily-multivitamin-study-finds/).
+You can read more about it [here](https://www.reuters.com/business/indian-navy-rescues-crew-after-attack-ship-off-coast-yemen-2024-01-18/).
 
 ## Requirements
 - Python 3.8
