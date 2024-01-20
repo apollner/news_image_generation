@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Edwards Says Kyle Anderson Told Him He's Playing 'Like a Scrub' at Half | Inside the NBA**
+**Report: Ohio State to hire Bill O'Brien as offensive coordinator**
 
-You can read more about it [here](https://www.youtube.com/watch?v=jtOu0PTjPKQ).
+You can read more about it [here](https://sports.yahoo.com/ohio-state-to-hire-bill-obrien-as-offensive-coordinator-023923096.html).
 
 ## Requirements
 - Python 3.8
