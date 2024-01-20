@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Sundance Film Festival 2024: Opening Night Gala, Film Premieres, Panels & Parties Photo Gallery**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://deadline.com/gallery/2024-sundance-film-festival-premieres-photos/).
 
 ## Requirements
 - Python 3.8
