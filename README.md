@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Milky Way: Manchester astronomers find mysterious object**
+**Measles: Why are cases rising and what are the symptoms?**
 
-You can read more about it [here](https://www.bbc.com/news/uk-england-manchester-68028464).
+You can read more about it [here](https://www.bbc.com/news/uk-england-birmingham-68007804).
 
 ## Requirements
 - Python 3.8
