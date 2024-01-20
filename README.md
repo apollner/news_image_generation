@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US strikes Houthi anti-ship missiles, shipping disruptions grow**
+**Trump urges Supreme Court to reject efforts to keep him off ballot, warning of "chaos" in new filing**
 
-You can read more about it [here](https://www.reuters.com/business/indian-navy-rescues-crew-after-attack-ship-off-coast-yemen-2024-01-18/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-supreme-court-ballot-eligibility-colorado-case/).
 
 ## Requirements
 - Python 3.8
