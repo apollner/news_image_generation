@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge in Trump Georgia case orders hearing on Fani Willis misconduct claims**
+**Apple (AAPL) Vision Pro Chiefs Sees Potential Use in Surgery, Teaching**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/18/judge-orders-hearing-fani-willis-misconduct-georgia-case/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-18/apple-vision-pro-chief-sees-surgery-training-as-future-vision-pro-growth-areas).
 
 ## Requirements
 - Python 3.8
