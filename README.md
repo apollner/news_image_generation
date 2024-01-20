@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S24 Ultra: One Day With Samsung's New Phone**
+**Japan's SLIM spacecraft reaches lunar surface in historic moon mission**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/galaxy-s24-ultra-one-day-with-samsungs-new-phone/).
+You can read more about it [here](https://www.cnbc.com/2024/01/19/japan-slim-lunar-lander-touches-down-on-moon.html).
 
 ## Requirements
 - Python 3.8
