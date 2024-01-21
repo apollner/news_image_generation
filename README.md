@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Pauly Shore Become Richard Simmons in Short Film ‘The Court Jester’**
+**‘Doctor Who’ Star Millie Gibson to Be Replaced by Varada Sethu After One Season**
 
-You can read more about it [here](https://variety.com/2024/film/news/pauly-shore-richard-simmons-short-film-the-court-jester-1235879965/).
+You can read more about it [here](https://variety.com/2024/tv/global/doctor-who-millie-gibson-varada-sethu-1235880343/).
 
 ## Requirements
 - Python 3.8
