@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys' Mike McCarthy not expected to get extension, sources say**
+**Trump maintains massive lead in New Hampshire days ahead of first primary: poll**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39349369/cowboys-mike-mccarthy-not-expected-get-extension-sources-say).
+You can read more about it [here](https://www.foxnews.com/politics/trump-maintains-massive-lead-new-hampshire-days-ahead-first-primary-poll).
 
 ## Requirements
 - Python 3.8
