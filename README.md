@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Vision Pro pre-orders are live, Apple releases a 10-minute "guided tour" video for it - GSMArena.com news**
+**Amazon, iRobot deal may get blocked by EU regulators: WSJ**
 
-You can read more about it [here](https://www.gsmarena.com/apple_vision_pro_preorders_are_live_you_wont_believe_whats_in_the_box-news-61300.php).
+You can read more about it [here](https://finance.yahoo.com/video/amazon-irobot-deal-may-blocked-182508929.html).
 
 ## Requirements
 - Python 3.8
