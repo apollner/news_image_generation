@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As crippled Peregrine moon lander burns up in Earth's atmosphere, Astrobotic 'excited for the next adventure'**
+**Microsoft executive emails hacked by Russian intelligence group, company says**
 
-You can read more about it [here](https://www.space.com/astrobotic-peregrine-moon-lander-mission-conclusion).
+You can read more about it [here](https://www.cnbc.com/2024/01/19/microsoft-executive-emails-hacked-by-russian-intelligence-group-company-says.html).
 
 ## Requirements
 - Python 3.8
