@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. teen fatally shot in West Bank by Israeli forces, Palestinian officials say**
+**Japanese moon lander touches down, but crippled by mission-ending power glitch**
 
-You can read more about it [here](https://www.cbsnews.com/news/us-teen-fatally-shot-west-bank/).
+You can read more about it [here](https://www.cbsnews.com/news/japanese-moon-lander-reaches-surface-but-fate-uncertain/).
 
 ## Requirements
 - Python 3.8
