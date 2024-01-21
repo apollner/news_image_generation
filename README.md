@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Pauly Shore Become Richard Simmons in Short Film ‘The Court Jester’**
+**Cowboys' Mike McCarthy not expected to get extension, sources say**
 
-You can read more about it [here](https://variety.com/2024/film/news/pauly-shore-richard-simmons-short-film-the-court-jester-1235879965/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39349369/cowboys-mike-mccarthy-not-expected-get-extension-sources-say).
 
 ## Requirements
 - Python 3.8
