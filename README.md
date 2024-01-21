@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Strickland, Dricus Du Plessis Have Bizarre Final Faceoff | UFC 297 | MMA Fighting**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KFdajbYC9xo).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
