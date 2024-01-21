@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Strickland Skips Scale For Final Dricus Du Plessis Faceoff Before Title Bout | UFC 297**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Kb5gurIURGc).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
