@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jokic, Murray help Nuggets end Celtics' unbeaten home run**
+**Trump lobs racially charged attacks against Haley ahead of N.H. primary**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39346418/jokic-murray-help-nuggets-end-celtics-unbeaten-home-run).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/19/trump-haley-race/).
 
 ## Requirements
 - Python 3.8
