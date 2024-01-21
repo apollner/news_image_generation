@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon, iRobot deal may get blocked by EU regulators: WSJ**
+**Eisenkot: Key Israeli war leader challenges Netanyahu over Gaza strategy**
 
-You can read more about it [here](https://finance.yahoo.com/video/amazon-irobot-deal-may-blocked-182508929.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68035744).
 
 ## Requirements
 - Python 3.8
