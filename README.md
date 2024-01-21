@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FULL MATCH – Randy Orton vs. Solo Sikoa: SmackDown highlights, Jan. 19, 2024**
+**Prince Harry Remembers Diana’s White House Dance As He Accepts ‘Living Legend’ Award From John Travolta**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Q4AAt-6k7wQ).
+You can read more about it [here](http://deadline.com/2024/01/prince-harry-diana-white-house-dance-john-travolta-living-legend-aviation-award-1235798840/).
 
 ## Requirements
 - Python 3.8
