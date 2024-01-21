@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump lobs racially charged attacks against Haley ahead of N.H. primary**
+**Senior Iran Revolutionary Guard officials killed in strike blamed on Israel**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/19/trump-haley-race/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68040493).
 
 ## Requirements
 - Python 3.8
