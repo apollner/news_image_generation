@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ram Mandir: Humiliating Shock for Narendra Modi's Mega-Hyped Vanity Project**
+**FULL MATCH – Randy Orton vs. Solo Sikoa: SmackDown highlights, Jan. 19, 2024**
 
-You can read more about it [here](https://www.thedailybeast.com/ram-mandir-humiliating-shock-for-narendra-modis-mega-hyped-vanity-project).
+You can read more about it [here](https://www.youtube.com/watch?v=Q4AAt-6k7wQ).
 
 ## Requirements
 - Python 3.8
