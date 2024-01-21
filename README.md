@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump maintains massive lead in New Hampshire days ahead of first primary: poll**
+**Seoul police chief indicted over Halloween crush**
 
-You can read more about it [here](https://www.foxnews.com/politics/trump-maintains-massive-lead-new-hampshire-days-ahead-first-primary-poll).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/seoul-police-chief-indicted-over-halloween-crush-2024-01-20/).
 
 ## Requirements
 - Python 3.8
