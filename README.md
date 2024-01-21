@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 297 Embedded: Vlog Series - Episode 6**
+**U.S. teen fatally shot in West Bank by Israeli forces, Palestinian officials say**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.cbsnews.com/news/us-teen-fatally-shot-west-bank/).
 
 ## Requirements
 - Python 3.8
