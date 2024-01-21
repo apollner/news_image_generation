@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taking a daily multivitamin may improve memory in older adults: Study**
+**Apple Vision Pro pre-orders are live, Apple releases a 10-minute "guided tour" video for it - GSMArena.com news**
 
-You can read more about it [here](https://abcnews.go.com/Health/taking-daily-multivitamin-improve-memory-older-adults-study/story?id=106508868).
+You can read more about it [here](https://www.gsmarena.com/apple_vision_pro_preorders_are_live_you_wont_believe_whats_in_the_box-news-61300.php).
 
 ## Requirements
 - Python 3.8
