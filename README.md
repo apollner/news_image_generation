@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry Remembers Diana’s White House Dance As He Accepts ‘Living Legend’ Award From John Travolta**
+**NCAA investigating Florida football regarding recruitment of Jaden Rashada in 2022: Sources**
 
-You can read more about it [here](http://deadline.com/2024/01/prince-harry-diana-white-house-dance-john-travolta-living-legend-aviation-award-1235798840/).
+You can read more about it [here](https://theathletic.com/5215118/2024/01/19/ncaa-florida-investigation-recruiting-jaden-rashada/).
 
 ## Requirements
 - Python 3.8
