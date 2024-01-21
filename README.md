@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane makes emergency landing on Virginia highway after leaving Dulles**
+**Sean Strickland, Dricus Du Plessis Have Bizarre Final Faceoff | UFC 297 | MMA Fighting**
 
-You can read more about it [here](https://www.usatoday.com/story/travel/2024/01/19/dulles-plane-emergency-virginia-highway/72286189007/).
+You can read more about it [here](https://www.youtube.com/watch?v=KFdajbYC9xo).
 
 ## Requirements
 - Python 3.8
