@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden finally admits border isn't secure, believes 'massive changes' needed: 'I'm ready to act'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2024/01/19/news/biden-admits-border-isnt-secure-says-massive-changes-needed/).
 
 ## Requirements
 - Python 3.8
