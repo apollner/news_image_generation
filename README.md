@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones, S&P 500 Hit Record Highs As Leading Stocks Run; Tesla, Netflix Earnings Due**
+**Jokic, Murray help Nuggets end Celtics' unbeaten home run**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp-500-hit-record-highs-leading-stocks-run-tesla-netflix-earnings-due/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39346418/jokic-murray-help-nuggets-end-celtics-unbeaten-home-run).
 
 ## Requirements
 - Python 3.8
