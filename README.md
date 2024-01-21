@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed to Begin Rate Cut Discussions But Avoid Teeing First One Up**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/news/fed-begin-rate-cut-discussions-133000845.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
