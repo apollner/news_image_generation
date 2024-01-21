@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA investigating Florida football regarding recruitment of Jaden Rashada in 2022: Sources**
+**NFL divisional round odds, how to watch, streaming: Expert selections, best bets, survivor picks and more**
 
-You can read more about it [here](https://theathletic.com/5215118/2024/01/19/ncaa-florida-investigation-recruiting-jaden-rashada/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-divisional-round-odds-how-to-watch-streaming-expert-selections-best-bets-survivor-picks-and-more/).
 
 ## Requirements
 - Python 3.8
