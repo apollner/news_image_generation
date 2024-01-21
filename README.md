@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**As crippled Peregrine moon lander burns up in Earth's atmosphere, Astrobotic 'excited for the next adventure'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.space.com/astrobotic-peregrine-moon-lander-mission-conclusion).
 
 ## Requirements
 - Python 3.8
