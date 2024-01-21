@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Watch Pauly Shore Become Richard Simmons in Short Film ‘The Court Jester’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2024/film/news/pauly-shore-richard-simmons-short-film-the-court-jester-1235879965/).
 
 ## Requirements
 - Python 3.8
