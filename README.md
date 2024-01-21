@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Netanyahu have finally talked, but their visions still clash for ending Israel-Hamas war**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/biden-netanyahu-relationship-israel-hamas-war-96b178189e2124adfefd0971758b0491).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
