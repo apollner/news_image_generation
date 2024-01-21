@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is happening between Iran and Pakistan?**
+**FULL MATCH – Randy Orton vs. Solo Sikoa: SmackDown highlights, Jan. 19, 2024**
 
-You can read more about it [here](https://abcnews.go.com/International/iran-pakistan-airstrikes-middle-east-tensions-explained/story?id=106509031).
+You can read more about it [here](https://www.youtube.com/watch?v=Q4AAt-6k7wQ).
 
 ## Requirements
 - Python 3.8
