@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eisenkot: Key Israeli war leader challenges Netanyahu over Gaza strategy**
+**Plane makes emergency landing on Virginia highway after leaving Dulles**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68035744).
+You can read more about it [here](https://www.usatoday.com/story/travel/2024/01/19/dulles-plane-emergency-virginia-highway/72286189007/).
 
 ## Requirements
 - Python 3.8
