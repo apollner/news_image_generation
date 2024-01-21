@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis, accused of affair with Trump prosecutor, vowed to not date staff in 2020: 'Certainly inappropriate'**
+**Popcorn and curfews: India gets ready for Ram temple with frenzy and fear**
 
-You can read more about it [here](https://nypost.com/2024/01/19/news/fani-willis-accused-of-affair-with-trump-prosecutor-vowed-to-not-date-staff-in-2020/).
+You can read more about it [here](https://www.aljazeera.com/features/2024/1/20/popcorn-and-curfew-india-gets-ready-for-ram-temple-with-frenzy-and-fear).
 
 ## Requirements
 - Python 3.8
