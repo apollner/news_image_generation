@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL divisional round odds, how to watch, streaming: Expert selections, best bets, survivor picks and more**
+**Today’s daily horoscope for Jan. 20, 2024**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-divisional-round-odds-how-to-watch-streaming-expert-selections-best-bets-survivor-picks-and-more/).
+You can read more about it [here](https://www.nj.com/advice/2024/01/todays-daily-horoscope-for-jan-20-2024.html).
 
 ## Requirements
 - Python 3.8
