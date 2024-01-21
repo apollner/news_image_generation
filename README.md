@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jokic, Murray help Nuggets end Celtics' unbeaten home run**
+**Fani Willis, accused of affair with Trump prosecutor, vowed to not date staff in 2020: 'Certainly inappropriate'**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39346418/jokic-murray-help-nuggets-end-celtics-unbeaten-home-run).
+You can read more about it [here](https://nypost.com/2024/01/19/news/fani-willis-accused-of-affair-with-trump-prosecutor-vowed-to-not-date-staff-in-2020/).
 
 ## Requirements
 - Python 3.8
