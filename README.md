@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Raiders working to finalize deal with Antonio Pierce**
+**Taking a daily multivitamin may improve memory in older adults: Study**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39344707/raiders-working-finalize-deal-antonio-pierce).
+You can read more about it [here](https://abcnews.go.com/Health/taking-daily-multivitamin-improve-memory-older-adults-study/story?id=106508868).
 
 ## Requirements
 - Python 3.8
