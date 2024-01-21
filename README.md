@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senior Iran Revolutionary Guard officials killed in strike blamed on Israel**
+**What is happening between Iran and Pakistan?**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68040493).
+You can read more about it [here](https://abcnews.go.com/International/iran-pakistan-airstrikes-middle-east-tensions-explained/story?id=106509031).
 
 ## Requirements
 - Python 3.8
