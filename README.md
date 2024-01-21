@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Popcorn and curfews: India gets ready for Ram temple with frenzy and fear**
+**Jokic, Murray help Nuggets end Celtics' unbeaten home run**
 
-You can read more about it [here](https://www.aljazeera.com/features/2024/1/20/popcorn-and-curfew-india-gets-ready-for-ram-temple-with-frenzy-and-fear).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39346418/jokic-murray-help-nuggets-end-celtics-unbeaten-home-run).
 
 ## Requirements
 - Python 3.8
