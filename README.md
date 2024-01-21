@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft executive emails hacked by Russian intelligence group, company says**
+**Sean Strickland Skips Scale For Final Dricus Du Plessis Faceoff Before Title Bout | UFC 297**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/19/microsoft-executive-emails-hacked-by-russian-intelligence-group-company-says.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Kb5gurIURGc).
 
 ## Requirements
 - Python 3.8
