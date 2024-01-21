@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seoul police chief indicted over Halloween crush**
+**Final Oscar Predictions in 23 Categories Led by 'Oppenheimer' – IndieWire**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/seoul-police-chief-indicted-over-halloween-crush-2024-01-20/).
+You can read more about it [here](https://www.indiewire.com/awards/predictions/final-oscar-predictions-23-categories-1234945975/).
 
 ## Requirements
 - Python 3.8
