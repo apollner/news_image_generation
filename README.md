@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Doctor Who’ Star Millie Gibson to Be Replaced by Varada Sethu After One Season**
+**Fed to Begin Rate Cut Discussions But Avoid Teeing First One Up**
 
-You can read more about it [here](https://variety.com/2024/tv/global/doctor-who-millie-gibson-varada-sethu-1235880343/).
+You can read more about it [here](https://finance.yahoo.com/news/fed-begin-rate-cut-discussions-133000845.html).
 
 ## Requirements
 - Python 3.8
