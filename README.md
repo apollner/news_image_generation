@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Brock Purdy's clutch comeback moment vs. Packers, what are his doubters going to say now?**
+**Israel-Gaza: Netanyahu defies Biden over Palestinian state**
 
-You can read more about it [here](https://sports.yahoo.com/after-brock-purdys-clutch-comeback-moment-vs-packers-what-are-his-doubters-going-to-say-now-075723944.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68045247).
 
 ## Requirements
 - Python 3.8
