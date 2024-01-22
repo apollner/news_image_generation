@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mary Weiss, style-setting lead singer of the Shangri-Las, dies at 75**
+**Saoirse Ronan Reveals Axed ‘Barbie’ Cameo, Says She Helped Deliver Seven Lambs While Filming Sundance Drama ‘The Outrun’**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/01/20/mary-weiss-shangri-las-dies/).
+You can read more about it [here](https://variety.com/2024/film/features/saoirse-ronan-barbie-cameo-sundance-the-outrun-delivered-lambs-1235880398/).
 
 ## Requirements
 - Python 3.8
