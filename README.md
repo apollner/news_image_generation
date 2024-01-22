@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, Haley duel ahead of N.H. primary; DeSantis stumps in S.C.**
+**Ravens head coach John Harbaugh recites Bible verse to open press conference after playoff win**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/20/election-2024-campaign-updates/).
+You can read more about it [here](https://www.foxnews.com/sports/ravens-head-coach-john-harbaugh-recites-bible-verse-press-conference-playoff-win).
 
 ## Requirements
 - Python 3.8
