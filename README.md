@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens head coach John Harbaugh recites Bible verse to open press conference after playoff win**
+**Texas man pleads guilty to kidnapping teen whose ‘Help Me' sign led to California rescue**
 
-You can read more about it [here](https://www.foxnews.com/sports/ravens-head-coach-john-harbaugh-recites-bible-verse-press-conference-playoff-win).
+You can read more about it [here](https://www.foxnews.com/us/texas-man-pleads-guilty-kidnapping-teen-whose-help-me-sign-led-california-rescue).
 
 ## Requirements
 - Python 3.8
