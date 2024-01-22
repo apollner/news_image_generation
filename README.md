@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US strikes another Houthi anti-ship missile**
+**Mary Weiss, style-setting lead singer of the Shangri-Las, dies at 75**
 
-You can read more about it [here](https://www.reuters.com/world/us-strikes-another-houthi-anti-ship-missile-2024-01-20/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/01/20/mary-weiss-shangri-las-dies/).
 
 ## Requirements
 - Python 3.8
