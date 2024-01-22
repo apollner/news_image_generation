@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza: Netanyahu defies Biden over Palestinian state**
+**Germany’s right-wing party met with massive protests after report says AfD discussed deporting millions**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68045247).
+You can read more about it [here](https://www.foxnews.com/world/germanys-right-wing-party-massive-protests-after-report-discussed-deporting-millions).
 
 ## Requirements
 - Python 3.8
