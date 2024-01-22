@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Green Bay Packers vs. San Francisco 49ers Game Highlights | NFL 2023 Divisional Round**
+**How to stay healthy during cold, flu and COVID-19 season**
 
-You can read more about it [here](https://www.youtube.com/watch?v=XdfRD0ZsMbQ).
+You can read more about it [here](https://www.ksl.com/article/50850407/how-to-stay-healthy-during-cold-flu-and-covid-19-season).
 
 ## Requirements
 - Python 3.8
