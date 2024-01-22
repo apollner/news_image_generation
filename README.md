@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston Texans vs. Baltimore Ravens Game Highlights | NFL 2023 Divisional Round**
+**Trump, Haley duel ahead of N.H. primary; DeSantis stumps in S.C.**
 
-You can read more about it [here](https://www.youtube.com/watch?v=MLk6OFtWJaU).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/01/20/election-2024-campaign-updates/).
 
 ## Requirements
 - Python 3.8
