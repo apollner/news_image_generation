@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sundance: Jesse Eisenberg and Kieran Culkin Movie ‘A Real Pain’ Sells to Searchlight Pictures**
+**[Removed]**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-a-real-pain-sells-to-searchlight-pictures-1235794316/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
