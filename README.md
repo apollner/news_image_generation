@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa's Caitlin Clark: Colliding with Buckeyes fan 'kind of scary'**
+**Stock-market investors face another ugly election. Does history offer comfort?**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39356881/iowa-caitlin-clark-colliding-buckeyes-fan-kind-scary).
+You can read more about it [here](https://www.marketwatch.com/story/stock-market-investors-face-an-ugly-election-season-can-bulls-take-comfort-in-history-0fc39286).
 
 ## Requirements
 - Python 3.8
