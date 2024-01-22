@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Incredible Disappearing TV**
+**Israel-Hamas war: Palestinian death toll soars past 25,000 in Gaza**
 
-You can read more about it [here](https://www.wired.com/story/the-incredible-disappearing-tv/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-21-2024-02caafa092668ecc7ff122229c166807).
 
 ## Requirements
 - Python 3.8
