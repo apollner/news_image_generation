@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did DeSantis run 'the worst presidential campaign in American history?'**
+**More than 25,000 now killed in Gaza, Hamas-run health ministry says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zsur2bU0BjY).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68050172).
 
 ## Requirements
 - Python 3.8
