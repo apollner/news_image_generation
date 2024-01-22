@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli soldiers uncover Gaza tunnel that once held hostages, army says**
+**Green Bay Packers vs. San Francisco 49ers Game Highlights | NFL 2023 Divisional Round**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-soldiers-uncover-gaza-tunnel-that-once-held-hostages-army-2024-01-20/).
+You can read more about it [here](https://www.youtube.com/watch?v=XdfRD0ZsMbQ).
 
 ## Requirements
 - Python 3.8
