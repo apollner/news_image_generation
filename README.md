@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we learned on NFL playoffs divisional round weekend, Day 1: 49ers tough but vulnerable, Packers promising**
+**At least 18 dead in a shelling of a market in Russian-occupied Ukraine, officials report**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/what-we-learned-on-nfl-playoffs-divisional-round-weekend-day-1-49ers-tough-but-vulnerable-packers-promising/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-0725abea3e507a8112931660617a745c).
 
 ## Requirements
 - Python 3.8
