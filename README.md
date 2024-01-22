@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis using race defense probably 'concession' some allegations are true, former US attorney says**
+**Israeli soldiers uncover Gaza tunnel that once held hostages, army says**
 
-You can read more about it [here](https://www.foxnews.com/media/fani-willis-using-race-defense-probably-concession-some-allegations-true-former-us-attorney).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-soldiers-uncover-gaza-tunnel-that-once-held-hostages-army-2024-01-20/).
 
 ## Requirements
 - Python 3.8
