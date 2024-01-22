@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Iowa's Caitlin Clark: Colliding with Buckeyes fan 'kind of scary'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39356881/iowa-caitlin-clark-colliding-buckeyes-fan-kind-scary).
 
 ## Requirements
 - Python 3.8
