@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian charter flight with 6 people disappears over Afghanistan; crash reported**
+**Trump advisers talk VP choices as they assemble 'short list' in anticipation of New Hampshire win**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/report-plane-crash-northern-afghanistans-badakhshan-province-police-2024-01-21/).
+You can read more about it [here](https://www.foxbusiness.com/politics/trump-advisers-talk-vp-choices-assemble-short-list-anticipation-new-hampshire-win).
 
 ## Requirements
 - Python 3.8
