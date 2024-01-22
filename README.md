@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamar Jackson motivated Ravens with 'inappropriate' halftime speech**
+**49ers news: 3 Winners and 3 losers from the chaotic Packers playoff win**
 
-You can read more about it [here](https://nypost.com/2024/01/21/sports/lamar-jackson-motivated-ravens-with-inappropriate-halftime-speech/).
+You can read more about it [here](https://www.ninersnation.com/2024/1/21/24045894/dre-greenlaw-brock-purdy-matt-lafleur-arik-armstead-kisean-nixon-ambry-thomas-49ers-packers).
 
 ## Requirements
 - Python 3.8
