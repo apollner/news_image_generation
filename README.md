@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saoirse Ronan Reveals Axed ‘Barbie’ Cameo, Says She Helped Deliver Seven Lambs While Filming Sundance Drama ‘The Outrun’**
+**Fani Willis using race defense probably 'concession' some allegations are true, former US attorney says**
 
-You can read more about it [here](https://variety.com/2024/film/features/saoirse-ronan-barbie-cameo-sundance-the-outrun-delivered-lambs-1235880398/).
+You can read more about it [here](https://www.foxnews.com/media/fani-willis-using-race-defense-probably-concession-some-allegations-true-former-us-attorney).
 
 ## Requirements
 - Python 3.8
