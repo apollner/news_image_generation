@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamar Jackson, Ravens run away from Texans in second half to advance to AFC Championship Game**
+**Marlena Shaw Dies: Jazz/R&B Singer For Sampling Staple ‘California Soul’ Was 81**
 
-You can read more about it [here](https://theathletic.com/5214866/2024/01/20/ravens-texans-afc-divisional-result/).
+You can read more about it [here](http://deadline.com/2024/01/marlena-shaw-dead-jazz-singer-for-california-soul-was-81-obituary-1235799183/).
 
 ## Requirements
 - Python 3.8
