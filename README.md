@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump advisers talk VP choices as they assemble 'short list' in anticipation of New Hampshire win**
+**Horoscope for Sunday, Jan 21, 2024**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/trump-advisers-talk-vp-choices-assemble-short-list-anticipation-new-hampshire-win).
+You can read more about it [here](https://chicago.suntimes.com/2024/1/21/24035093/horoscopes-today-sunday-jan-21-2024).
 
 ## Requirements
 - Python 3.8
