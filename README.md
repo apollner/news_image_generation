@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to stay healthy during cold, flu and COVID-19 season**
+**Lamar Jackson, Ravens run away from Texans in second half to advance to AFC Championship Game**
 
-You can read more about it [here](https://www.ksl.com/article/50850407/how-to-stay-healthy-during-cold-flu-and-covid-19-season).
+You can read more about it [here](https://theathletic.com/5214866/2024/01/20/ravens-texans-afc-divisional-result/).
 
 ## Requirements
 - Python 3.8
