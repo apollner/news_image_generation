@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamar Jackson, Ravens run away from Texans in second half to advance to AFC Championship Game**
+**US personnel injured in attack on Al-Asad Air Base in Iraq, US official says**
 
-You can read more about it [here](https://theathletic.com/5214866/2024/01/20/ravens-texans-afc-divisional-result/).
+You can read more about it [here](https://www.cnn.com/2024/01/20/politics/al-asad-air-base-iraq-us-personnel-injured/index.html).
 
 ## Requirements
 - Python 3.8
