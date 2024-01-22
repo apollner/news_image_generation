@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, Jan 21, 2024**
+**After Brock Purdy's clutch comeback moment vs. Packers, what are his doubters going to say now?**
 
-You can read more about it [here](https://chicago.suntimes.com/2024/1/21/24035093/horoscopes-today-sunday-jan-21-2024).
+You can read more about it [here](https://sports.yahoo.com/after-brock-purdys-clutch-comeback-moment-vs-packers-what-are-his-doubters-going-to-say-now-075723944.html).
 
 ## Requirements
 - Python 3.8
