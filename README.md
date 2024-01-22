@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Spirit Airlines' uncertain future could add cost and stress to travel across America**
+**Nikki Haley says Trump tried to "buddy up with dictators" while in office**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/21/how-spirit-airlines-shaky-future-could-make-american-travel-worse.html).
+You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-donald-trump-buddy-up-with-dictators-new-hampshire-primary-face-the-nation/).
 
 ## Requirements
 - Python 3.8
