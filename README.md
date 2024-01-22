@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis ally pushes for election interference case prosecutor to step aside**
+**Criminal Behavior, or Bad Parenting? School Shooting Spurs Charges Against Mom and Dad**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4420019-fani-willis-ally-pushes-election-interference-case-prosecutor-step-aside/).
+You can read more about it [here](https://www.wsj.com/us-news/criminal-behavior-or-bad-parenting-school-shooting-spurs-charges-against-mom-and-dad-6e747912).
 
 ## Requirements
 - Python 3.8
