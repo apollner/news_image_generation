@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas man pleads guilty to kidnapping teen whose ‘Help Me' sign led to California rescue**
+**Russian charter flight with 6 people disappears over Afghanistan; crash reported**
 
-You can read more about it [here](https://www.foxnews.com/us/texas-man-pleads-guilty-kidnapping-teen-whose-help-me-sign-led-california-rescue).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/report-plane-crash-northern-afghanistans-badakhshan-province-police-2024-01-21/).
 
 ## Requirements
 - Python 3.8
