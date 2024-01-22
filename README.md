@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US personnel injured in attack on Al-Asad Air Base in Iraq, US official says**
+**Houston Texans vs. Baltimore Ravens Game Highlights | NFL 2023 Divisional Round**
 
-You can read more about it [here](https://www.cnn.com/2024/01/20/politics/al-asad-air-base-iraq-us-personnel-injured/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=MLk6OFtWJaU).
 
 ## Requirements
 - Python 3.8
