@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 25,000 now killed in Gaza, Hamas-run health ministry says**
+**Lamar Jackson motivated Ravens with 'inappropriate' halftime speech**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68050172).
+You can read more about it [here](https://nypost.com/2024/01/21/sports/lamar-jackson-motivated-ravens-with-inappropriate-halftime-speech/).
 
 ## Requirements
 - Python 3.8
