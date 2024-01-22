@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haberman suggests Trump wanted to use Caroll trial for fundraising blitz**
+**US strikes another Houthi anti-ship missile**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4419585-haberman-trump-caroll-trial-fundraising-blitz/).
+You can read more about it [here](https://www.reuters.com/world/us-strikes-another-houthi-anti-ship-missile-2024-01-20/).
 
 ## Requirements
 - Python 3.8
