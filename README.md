@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley says Trump tried to "buddy up with dictators" while in office**
+**Did DeSantis run 'the worst presidential campaign in American history?'**
 
-You can read more about it [here](https://www.cbsnews.com/news/nikki-haley-donald-trump-buddy-up-with-dictators-new-hampshire-primary-face-the-nation/).
+You can read more about it [here](https://www.youtube.com/watch?v=zsur2bU0BjY).
 
 ## Requirements
 - Python 3.8
