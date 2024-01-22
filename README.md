@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Criminal Behavior, or Bad Parenting? School Shooting Spurs Charges Against Mom and Dad**
+**What we learned on NFL playoffs divisional round weekend, Day 1: 49ers tough but vulnerable, Packers promising**
 
-You can read more about it [here](https://www.wsj.com/us-news/criminal-behavior-or-bad-parenting-school-shooting-spurs-charges-against-mom-and-dad-6e747912).
+You can read more about it [here](https://www.cbssports.com/nfl/news/what-we-learned-on-nfl-playoffs-divisional-round-weekend-day-1-49ers-tough-but-vulnerable-packers-promising/).
 
 ## Requirements
 - Python 3.8
