@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final Oscar Predictions in 23 Categories Led by 'Oppenheimer' – IndieWire**
+**Haberman suggests Trump wanted to use Caroll trial for fundraising blitz**
 
-You can read more about it [here](https://www.indiewire.com/awards/predictions/final-oscar-predictions-23-categories-1234945975/).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4419585-haberman-trump-caroll-trial-fundraising-blitz/).
 
 ## Requirements
 - Python 3.8
