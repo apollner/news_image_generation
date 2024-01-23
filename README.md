@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoCal residents prep for more rain, dangerous driving conditions**
+**Chiefs Lineman Claims Bills Shut Off Hot Water in Kansas City's Locker Room After Playoff Clash**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Lz1fk-x-Zgc).
+You can read more about it [here](https://www.si.com/nfl/2024/01/22/chiefs-lineman-claims-bills-shut-off-hot-water-locker-room-after-playoff-clash).
 
 ## Requirements
 - Python 3.8
