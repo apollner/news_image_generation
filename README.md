@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exxon files lawsuit against investors' climate proposal**
+**AMATEUR'S HOUR: Nick Dunlap becomes first amateur winner on PGA Tour in 33 years at American Express**
 
-You can read more about it [here](https://www.reuters.com/legal/exxon-files-lawsuit-against-investors-climate-proposal-2024-01-21/).
+You can read more about it [here](https://www.desertsun.com/story/sports/golf/american-express-pga/2024/01/21/nick-dunlap-becomes-first-amateur-to-win-pga-tour-event-in-33-years-at-american-express/72301086007/).
 
 ## Requirements
 - Python 3.8
