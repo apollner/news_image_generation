@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rooney Mara, Isabelle Huppert, Gael Garcia Bernal Films Set for 2024 Berlinale**
+**Japan hopes sunlight can save stricken Slim Moon lander**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/berlinale-2024-full-lineup-1235794083/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68055186).
 
 ## Requirements
 - Python 3.8
