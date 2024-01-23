@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giant geomagnetic storm set to slam into Earth Monday, fueling auroras across northern US**
+**Stock Market Today: Dow Touches 38000 for First Time, S&P 500 Clinches Record Close**
 
-You can read more about it [here](https://www.livescience.com/space/the-sun/giant-geomagnetic-storm-set-to-slam-into-earth-monday-fueling-auroras-across-northern-us).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-01-22-2024).
 
 ## Requirements
 - Python 3.8
