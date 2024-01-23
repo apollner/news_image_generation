@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tampa Bay Buccaneers vs. Detroit Lions Game Highlights | NFL 2023 Divisional Round**
+**Trump 'very honored' by DeSantis endorsement after Florida governor suspends presidential run**
 
-You can read more about it [here](https://www.youtube.com/watch?v=iatLmdIyvcg).
+You can read more about it [here](https://www.foxnews.com/politics/trump-very-honored-desantis-endorsement-florida-governor-suspends-presidential-run).
 
 ## Requirements
 - Python 3.8
