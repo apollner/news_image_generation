@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**E. Jean Carroll trial paused over Trump lawyer’s COVID exposure**
+**EU pushes for Palestinian statehood, rejecting Israeli leader's insistence it's off the table**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4421484-e-jean-carroll-trial-trump-lawyers-covid/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-eu-europe-statehood-ee6db2a05e31038278ab5d702aaca8b9).
 
 ## Requirements
 - Python 3.8
