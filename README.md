@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Ackman’s Pershing Square back in ranks of world’s 20 top hedge funds**
+**India's Modi opens a controversial Hindu temple in Ayodhya in a grand event ahead of national polls**
 
-You can read more about it [here](https://www.marketwatch.com/story/bill-ackmans-pershing-square-re-enters-ranks-of-worlds-20-top-performing-hedge-funds-72347df2).
+You can read more about it [here](https://apnews.com/article/india-modi-temple-hindu-muslims-ayodhya-election-12102e8dd13a677b15d8760b4252aa7a).
 
 ## Requirements
 - Python 3.8
