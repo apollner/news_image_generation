@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan hopes sunlight can save stricken Slim Moon lander**
+**Ryan Clark & Dan Orlovsky GET HEATED debating Josh Allen’s loss to the Chiefs | Get Up**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68055186).
+You can read more about it [here](https://www.youtube.com/watch?v=s05Dg5-aZng).
 
 ## Requirements
 - Python 3.8
