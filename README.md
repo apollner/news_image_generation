@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brittany Mahomes squeezes Taylor Swift after Travis Kelce's pivotal 3rd quarter TD**
+**E. Jean Carroll trial paused over Trump lawyer’s COVID exposure**
 
-You can read more about it [here](https://www.foxnews.com/sports/brittany-mahomes-squeezes-taylor-swift-travis-kelces-pivotal-3rd-quarter-td).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4421484-e-jean-carroll-trial-trump-lawyers-covid/).
 
 ## Requirements
 - Python 3.8
