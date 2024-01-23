@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Clark & Dan Orlovsky GET HEATED debating Josh Allen’s loss to the Chiefs | Get Up**
+**Ford's new 48-inch 'dashboard' will debut in 2024 Lincoln Nautilus**
 
-You can read more about it [here](https://www.youtube.com/watch?v=s05Dg5-aZng).
+You can read more about it [here](https://www.freep.com/story/money/cars/mark-phelan/2024/01/22/fords-new-48-inch-dashboard-will-debut-in-2024-lincoln-nautilus/72285554007/).
 
 ## Requirements
 - Python 3.8
