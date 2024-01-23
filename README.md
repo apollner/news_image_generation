@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**STD cases are rising among older adults. Should you get screened?**
+**Chiefs-Bills score, takeaways: Patrick Mahomes, K.C. in AFC title game after Buffalo FG try sails wide right**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/22/older-adults-sex-stds-rising/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-bills-score-takeaways-patrick-mahomes-k-c-in-afc-title-game-after-buffalo-fg-try-sails-wide-right/live/).
 
 ## Requirements
 - Python 3.8
