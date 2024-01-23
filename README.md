@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures climb as Wall Street looks for S&P 500 to build on fresh all-time high: Live updates**
+**Exxon files lawsuit against investors' climate proposal**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/21/stock-futures-tk-wall-street-looks-to-extend-bull-market-run.html).
+You can read more about it [here](https://www.reuters.com/legal/exxon-files-lawsuit-against-investors-climate-proposal-2024-01-21/).
 
 ## Requirements
 - Python 3.8
