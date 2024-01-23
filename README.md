@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs Lineman Claims Bills Shut Off Hot Water in Kansas City's Locker Room After Playoff Clash**
+**How Ron DeSantis' promising GOP candidacy went up in flames**
 
-You can read more about it [here](https://www.si.com/nfl/2024/01/22/chiefs-lineman-claims-bills-shut-off-hot-water-locker-room-after-playoff-clash).
+You can read more about it [here](https://www.axios.com/2024/01/21/desantis-campaign-failures-trump).
 
 ## Requirements
 - Python 3.8
