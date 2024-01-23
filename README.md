@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump 'very honored' by DeSantis endorsement after Florida governor suspends presidential run**
+**With the Galaxy S24, Samsung is set to disappoint the Android Police podcast (again)**
 
-You can read more about it [here](https://www.foxnews.com/politics/trump-very-honored-desantis-endorsement-florida-governor-suspends-presidential-run).
+You can read more about it [here](https://www.androidpolice.com/galaxy-s24-first-take-android-police-podcast/).
 
 ## Requirements
 - Python 3.8
