@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two US Navy SEALs missing off the coast of Somalia are dead, officials say**
+**Tampa Bay Buccaneers vs. Detroit Lions Game Highlights | NFL 2023 Divisional Round**
 
-You can read more about it [here](https://www.cnn.com/2024/01/21/politics/navy-seals-dead-somalia/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=iatLmdIyvcg).
 
 ## Requirements
 - Python 3.8
