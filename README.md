@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Military ends search for Navy SEALs lost in maritime raid on ship with Iranian arms**
+**Lions turn attention to 49ers after ousting Bucs in playoffs**
 
-You can read more about it [here](https://www.timesofisrael.com/military-ends-search-for-navy-seals-lost-in-maritime-raid-on-ship-with-iranian-arms/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39359616/lions-turn-attention-niners-playoffs-outlasting-bucs).
 
 ## Requirements
 - Python 3.8
