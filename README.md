@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With the Galaxy S24, Samsung is set to disappoint the Android Police podcast (again)**
+**Jason Kelce touchdown celebration: Travis Kelce brother goes viral**
 
-You can read more about it [here](https://www.androidpolice.com/galaxy-s24-first-take-android-police-podcast/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2024/01/21/jason-kelce-touchdown-celebration-travis-kelce-brother-goes-viral/72307134007/).
 
 ## Requirements
 - Python 3.8
