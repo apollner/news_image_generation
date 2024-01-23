@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU pushes for Palestinian statehood, rejecting Israeli leader's insistence it's off the table**
+**Over 1 million Germans demonstrate against AfD across country**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-eu-europe-statehood-ee6db2a05e31038278ab5d702aaca8b9).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/01/22/germany-rally-afd-berlin/).
 
 ## Requirements
 - Python 3.8
