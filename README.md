@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cardell Hayes set to begin trial today**
+**Sacramento woman accused of stealing $2,500 in Stanley cups**
 
-You can read more about it [here](https://www.youtube.com/watch?v=t81Cd7REdGk).
+You can read more about it [here](https://www.youtube.com/watch?v=murKIxcfjZU).
 
 ## Requirements
 - Python 3.8
