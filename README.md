@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 1 million Germans demonstrate against AfD across country**
+**Cardell Hayes set to begin trial today**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/01/22/germany-rally-afd-berlin/).
+You can read more about it [here](https://www.youtube.com/watch?v=t81Cd7REdGk).
 
 ## Requirements
 - Python 3.8
