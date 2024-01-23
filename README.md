@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tara VanDerveer sets record for most wins in NCAA hoops history**
+**Two US Navy SEALs missing off the coast of Somalia are dead, officials say**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39358510/tara-vanderveer-sets-record-most-wins-ncaa-hoops-history).
+You can read more about it [here](https://www.cnn.com/2024/01/21/politics/navy-seals-dead-somalia/index.html).
 
 ## Requirements
 - Python 3.8
