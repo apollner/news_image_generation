@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Ron DeSantis' promising GOP candidacy went up in flames**
+**Gorgeous images show Axiom-3 space crew over Himalayas**
 
-You can read more about it [here](https://www.axios.com/2024/01/21/desantis-campaign-failures-trump).
+You can read more about it [here](https://www.digitaltrends.com/space/gorgeous-images-show-axiom-3-space-crew-over-himalayas/).
 
 ## Requirements
 - Python 3.8
