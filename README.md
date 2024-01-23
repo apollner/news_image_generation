@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New 'Jurassic World' Movie in the Works at Universal – The Hollywood Reporter**
+**Sacramento woman accused of stealing $2,500 in Stanley cups**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/new-jurassic-world-movie-in-the-works-1235792506/).
+You can read more about it [here](https://www.youtube.com/watch?v=murKIxcfjZU).
 
 ## Requirements
 - Python 3.8
