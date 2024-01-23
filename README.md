@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's Modi opens a controversial Hindu temple in Ayodhya in a grand event ahead of national polls**
+**Navy Seals presumed dead after anti-Houthi mission**
 
-You can read more about it [here](https://apnews.com/article/india-modi-temple-hindu-muslims-ayodhya-election-12102e8dd13a677b15d8760b4252aa7a).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68053528).
 
 ## Requirements
 - Python 3.8
