@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gorgeous images show Axiom-3 space crew over Himalayas**
+**Bill Ackman’s Pershing Square back in ranks of world’s 20 top hedge funds**
 
-You can read more about it [here](https://www.digitaltrends.com/space/gorgeous-images-show-axiom-3-space-crew-over-himalayas/).
+You can read more about it [here](https://www.marketwatch.com/story/bill-ackmans-pershing-square-re-enters-ranks-of-worlds-20-top-performing-hedge-funds-72347df2).
 
 ## Requirements
 - Python 3.8
