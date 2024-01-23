@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With the Galaxy S24, Samsung is set to disappoint the Android Police podcast (again)**
+**Tinley Park shooting today: Wife, 3 daughters shot to death by father at home in 7400 block of 173rd Street, officials say**
 
-You can read more about it [here](https://www.androidpolice.com/galaxy-s24-first-take-android-police-podcast/).
+You can read more about it [here](https://abc7chicago.com/tinley-park-shooting-today-news/14347041/).
 
 ## Requirements
 - Python 3.8
