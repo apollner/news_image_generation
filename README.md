@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navy Seals presumed dead after anti-Houthi mission**
+**STD cases are rising among older adults. Should you get screened?**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68053528).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/01/22/older-adults-sex-stds-rising/).
 
 ## Requirements
 - Python 3.8
