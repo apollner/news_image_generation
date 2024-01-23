@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The gulf between winners and losers could mean problems for the S&P 500**
+**New blood test that screens for Alzheimer’s may be a step closer to reality, study suggests**
 
-You can read more about it [here](https://www.marketwatch.com/story/widening-gulf-between-markets-winners-and-losers-could-create-problems-for-s-p-500-as-it-marches-toward-5-000-analyst-warns-9a4630bd).
+You can read more about it [here](https://www.cnn.com/2024/01/22/health/alzheimers-blood-test-screening-study/index.html).
 
 ## Requirements
 - Python 3.8
