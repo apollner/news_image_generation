@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lions turn attention to 49ers after ousting Bucs in playoffs**
+**SoCal residents prep for more rain, dangerous driving conditions**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39359616/lions-turn-attention-niners-playoffs-outlasting-bucs).
+You can read more about it [here](https://www.youtube.com/watch?v=Lz1fk-x-Zgc).
 
 ## Requirements
 - Python 3.8
