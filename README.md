@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMATEUR'S HOUR: Nick Dunlap becomes first amateur winner on PGA Tour in 33 years at American Express**
+**Military ends search for Navy SEALs lost in maritime raid on ship with Iranian arms**
 
-You can read more about it [here](https://www.desertsun.com/story/sports/golf/american-express-pga/2024/01/21/nick-dunlap-becomes-first-amateur-to-win-pga-tour-event-in-33-years-at-american-express/72301086007/).
+You can read more about it [here](https://www.timesofisrael.com/military-ends-search-for-navy-seals-lost-in-maritime-raid-on-ship-with-iranian-arms/).
 
 ## Requirements
 - Python 3.8
