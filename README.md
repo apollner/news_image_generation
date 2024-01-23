@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tinley Park shooting today: Wife, 3 daughters shot to death by father at home in 7400 block of 173rd Street, officials say**
+**Stock futures climb as Wall Street looks for S&P 500 to build on fresh all-time high: Live updates**
 
-You can read more about it [here](https://abc7chicago.com/tinley-park-shooting-today-news/14347041/).
+You can read more about it [here](https://www.cnbc.com/2024/01/21/stock-futures-tk-wall-street-looks-to-extend-bull-market-run.html).
 
 ## Requirements
 - Python 3.8
