@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Brittany Mahomes squeezes Taylor Swift after Travis Kelce's pivotal 3rd quarter TD**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/sports/brittany-mahomes-squeezes-taylor-swift-travis-kelces-pivotal-3rd-quarter-td).
 
 ## Requirements
 - Python 3.8
