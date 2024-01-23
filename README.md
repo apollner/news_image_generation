@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs-Bills score, takeaways: Patrick Mahomes, K.C. in AFC title game after Buffalo FG try sails wide right**
+**Points and Payouts: Nick Dunlap wins The American Express, runner-up Christiaan Bezuidenhout earns $1.5M - PGA TOUR**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-bills-score-takeaways-patrick-mahomes-k-c-in-afc-title-game-after-buffalo-fg-try-sails-wide-right/live/).
+You can read more about it [here](https://www.pgatour.com/article/news/betting-dfs/2024/01/21/points-and-payouts-nick-dunlap-the-american-express).
 
 ## Requirements
 - Python 3.8
