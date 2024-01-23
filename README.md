@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sacramento woman accused of stealing $2,500 in Stanley cups**
+**Fierce battles in Gaza as troops push deeper into Khan Younis; 3 IDF officers killed**
 
-You can read more about it [here](https://www.youtube.com/watch?v=murKIxcfjZU).
+You can read more about it [here](https://www.timesofisrael.com/fierce-battles-in-gaza-as-troops-push-deeper-into-khan-younis-3-idf-officers-killed/).
 
 ## Requirements
 - Python 3.8
