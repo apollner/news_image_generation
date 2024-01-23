@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This could be the design of the new 12.9-inch iPad Air for 2024**
+**Tara VanDerveer sets record for most wins in NCAA hoops history**
 
-You can read more about it [here](https://www.techradar.com/tablets/ipad-air/this-could-be-the-design-of-the-new-129-inch-ipad-air-for-2024).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39358510/tara-vanderveer-sets-record-most-wins-ncaa-hoops-history).
 
 ## Requirements
 - Python 3.8
