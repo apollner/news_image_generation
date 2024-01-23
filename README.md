@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Points and Payouts: Nick Dunlap wins The American Express, runner-up Christiaan Bezuidenhout earns $1.5M - PGA TOUR**
+**Rooney Mara, Isabelle Huppert, Gael Garcia Bernal Films Set for 2024 Berlinale**
 
-You can read more about it [here](https://www.pgatour.com/article/news/betting-dfs/2024/01/21/points-and-payouts-nick-dunlap-the-american-express).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/berlinale-2024-full-lineup-1235794083/).
 
 ## Requirements
 - Python 3.8
