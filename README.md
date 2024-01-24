@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and UK launch fresh strikes on Houthis in Yemen**
+**Blood test could revolutionise diagnosis of Alzheimer’s, experts say**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68064422).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjQvamFuLzIzL2Jsb29kLXRlc3QtY291bGQtcmV2b2x1dGlvbmlzZS1kaWFnbm9zaXMtb2YtYWx6aGVpbWVycy1leHBlcnRzLXNhedIBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjQvamFuLzIzL2Jsb29kLXRlc3QtY291bGQtcmV2b2x1dGlvbmlzZS1kaWFnbm9zaXMtb2YtYWx6aGVpbWVycy1leHBlcnRzLXNheQ?oc=5).
 
 ## Requirements
 - Python 3.8
