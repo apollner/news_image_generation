@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid drops 70 points as 76ers defeat Spurs: What led to the record-setting performance?**
+**New blood test that screens for Alzheimer’s may be a step closer to reality, study suggests**
 
-You can read more about it [here](https://theathletic.com/5220586/2024/01/22/joel-embiid-70-points/).
+You can read more about it [here](https://www.cnn.com/2024/01/22/health/alzheimers-blood-test-screening-study/index.html).
 
 ## Requirements
 - Python 3.8
