@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Raw-Netflix deal, Tim Tebow wrestling & more with WWE president Nick Khan | The Pat McAfee Show**
+**Netflix Stock Surges On Big Subscriber Beat In Fourth Quarter**
 
-You can read more about it [here](https://www.youtube.com/watch?v=xmZkzItqTe8).
+You can read more about it [here](https://www.investors.com/news/technology/netflix-stock-surges-on-big-subscriber-beat-in-fourth-quarter/).
 
 ## Requirements
 - Python 3.8
