@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll rises to 25 after landslide buries dozens in southwest China in freezing winter temperatures**
+**Sixers’ Joel Embiid breaks Wilt Chamberlain’s franchise record in masterful performance vs Spurs**
 
-You can read more about it [here](https://www.cnn.com/2024/01/22/china/china-yunnan-landslide-intl-hnk/index.html).
+You can read more about it [here](https://www.foxnews.com/sports/sixers-joel-embiid-breaks-wilt-chamberlains-franchise-record-masterful-performance-vs-spurs).
 
 ## Requirements
 - Python 3.8
