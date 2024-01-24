@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Details of Fani Willis’ ‘improper’ relationship with prosecutor go public as bombshell divorce docs unsealed**
+**Nikki Haley sweeps Dixville Notch's primary, winning all 6 votes**
 
-You can read more about it [here](https://nypost.com/2024/01/22/news/divorce-file-at-center-of-fani-willis-relationship-claims-released/).
+You can read more about it [here](https://apnews.com/article/dixville-notch-primary-voting-new-hampshire-tuesday-0f7f420054403510364469ad52255270).
 
 ## Requirements
 - Python 3.8
