@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**P&G's beauty sales hurt by an unlikely headwind: A wastewater release in Japan**
+**NASA finally opens OSIRIS-REx asteroid sample canister after stuck lid issue**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/23/procter-gamble-sk-ii-beauty-sales-hurt-by-japan-wastewater-release.html).
+You can read more about it [here](https://www.space.com/nasa-osiris-rex-asteroid-sample-canister-open).
 
 ## Requirements
 - Python 3.8
