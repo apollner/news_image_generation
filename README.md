@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on Israel's war in Gaza: Live updates**
+**Successful failure: Sierra Space’s inflatable habitat blows up as planned**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-01-22-24/index.html).
+You can read more about it [here](https://techcrunch.com/2024/01/22/successful-failure-sierra-spaces-inflatable-habitat-blows-up-as-planned/).
 
 ## Requirements
 - Python 3.8
