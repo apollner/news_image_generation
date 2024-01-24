@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA finally opens OSIRIS-REx asteroid sample canister after stuck lid issue**
+**8 killed in Joliet, Illinois, shootings; suspect dead in Texas after manhunt**
 
-You can read more about it [here](https://www.space.com/nasa-osiris-rex-asteroid-sample-canister-open).
+You can read more about it [here](https://abcnews.go.com/US/police-joliet-searching-man-after-multiple-deceased-people/story?id=106579185).
 
 ## Requirements
 - Python 3.8
