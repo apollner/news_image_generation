@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Joe Biden isn't on the 2024 New Hampshire primary ballot—and what it means for the election**
+**Philadelphia 76ers star Joel Embiid drops 70 on Spurs in win**
 
-You can read more about it [here](https://www.cbsnews.com/news/joe-biden-not-on-new-hampshire-primary-ballot-2024/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39366170/philadelphia-76ers-star-joel-embiid-drops-70-spurs-win).
 
 ## Requirements
 - Python 3.8
