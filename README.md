@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**8 killed in Joliet, Illinois, shootings; suspect dead in Texas after manhunt**
+**P&G's beauty sales hurt by an unlikely headwind: A wastewater release in Japan**
 
-You can read more about it [here](https://abcnews.go.com/US/police-joliet-searching-man-after-multiple-deceased-people/story?id=106579185).
+You can read more about it [here](https://www.cnbc.com/2024/01/23/procter-gamble-sk-ii-beauty-sales-hurt-by-japan-wastewater-release.html).
 
 ## Requirements
 - Python 3.8
