@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fierce battles in Gaza as troops push deeper into Khan Younis; 3 IDF officers killed**
+**The latest on Israel's war in Gaza: Live updates**
 
-You can read more about it [here](https://www.timesofisrael.com/fierce-battles-in-gaza-as-troops-push-deeper-into-khan-younis-3-idf-officers-killed/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-01-22-24/index.html).
 
 ## Requirements
 - Python 3.8
