@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7.1-magnitude earthquake rattles part of western China, injuring 6 people and collapsing 47 homes**
+**Joel Embiid drops 70 points as 76ers defeat Spurs: What led to the record-setting performance?**
 
-You can read more about it [here](https://apnews.com/article/china-quake-xinjiang-kyrgyzstan-kazakhstan-48338716e604279d088a807f9770878e).
+You can read more about it [here](https://theathletic.com/5220586/2024/01/22/joel-embiid-70-points/).
 
 ## Requirements
 - Python 3.8
