@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is Dixville Notch? Why a small New Hampshire town holds its primary voting at midnight**
+**Details of Fani Willis’ ‘improper’ relationship with prosecutor go public as bombshell divorce docs unsealed**
 
-You can read more about it [here](https://www.cbsnews.com/news/dixville-notch-new-hampshire-voting-primary/).
+You can read more about it [here](https://nypost.com/2024/01/22/news/divorce-file-at-center-of-fani-willis-relationship-claims-released/).
 
 ## Requirements
 - Python 3.8
