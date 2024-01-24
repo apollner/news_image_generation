@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez Shares Body Positive Message With Swimsuit Photos**
+**Watch Live: Doomsday clock time announcement of how close we are to global catastrophe in 2024**
 
-You can read more about it [here](https://www.eonline.com/news/1393654/selena-gomez-shares-body-positive-message-with-swimsuit-photos).
+You can read more about it [here](https://www.cbsnews.com/news/watch-live-doomsday-clock-time-announcement-how-close-global-catastrophe-2024/).
 
 ## Requirements
 - Python 3.8
