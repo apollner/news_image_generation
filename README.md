@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China races to find landslide survivors in sub-zero temperatures**
+**7.1-magnitude earthquake rattles part of western China, injuring 6 people and collapsing 47 homes**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/1/23/china-races-to-find-landslide-survivors-in-sub-zero-temperatures).
+You can read more about it [here](https://apnews.com/article/china-quake-xinjiang-kyrgyzstan-kazakhstan-48338716e604279d088a807f9770878e).
 
 ## Requirements
 - Python 3.8
