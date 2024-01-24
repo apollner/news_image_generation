@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire primary: Donald Trump and Nikki Haley to go head-to-head**
+**Eagles' Brian Johnson out as offensive coordinator, but Nick Sirianni set to return in 2024, per reports**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68064703).
+You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-brian-johnson-out-as-offensive-coordinator-but-nick-sirianni-set-to-return-in-2024-per-reports/).
 
 ## Requirements
 - Python 3.8
