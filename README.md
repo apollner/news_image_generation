@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Riot Games Lays Off 530 or 11% of Staff, Axes Riot Forge Label**
+**Joel Embiid bullies Victor Wembanyama, breaks Wilt Chamberlain's 76ers record with historic 70-point night**
 
-You can read more about it [here](https://www.ign.com/articles/riot-games-lays-off-530-or-11-of-staff-axes-riot-forge-label).
+You can read more about it [here](https://sports.yahoo.com/joel-embiid-bullies-victor-wembanyama-breaks-wilt-chamberlains-76ers-record-with-historic-70-point-night-023113813.html).
 
 ## Requirements
 - Python 3.8
