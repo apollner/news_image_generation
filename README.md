@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7.1-magnitude earthquake rattles part of western China, injuring 6 people and collapsing 47 homes**
+**Why Joe Biden isn't on the 2024 New Hampshire primary ballot—and what it means for the election**
 
-You can read more about it [here](https://apnews.com/article/china-quake-xinjiang-kyrgyzstan-kazakhstan-48338716e604279d088a807f9770878e).
+You can read more about it [here](https://www.cbsnews.com/news/joe-biden-not-on-new-hampshire-primary-ballot-2024/).
 
 ## Requirements
 - Python 3.8
