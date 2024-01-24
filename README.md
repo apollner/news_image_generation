@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron DeSantis uses fake Winston Churchill quote at end of presidential campaign**
+**Riot Games Lays Off 530 or 11% of Staff, Axes Riot Forge Label**
 
-You can read more about it [here](https://www.washingtonpost.com/history/2024/01/22/ron-desantis-winston-churchill/).
+You can read more about it [here](https://www.ign.com/articles/riot-games-lays-off-530-or-11-of-staff-axes-riot-forge-label).
 
 ## Requirements
 - Python 3.8
