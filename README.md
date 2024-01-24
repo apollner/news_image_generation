@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley sweeps Dixville Notch's primary, winning all 6 votes**
+**7.1-magnitude earthquake rattles part of western China, injuring 6 people and collapsing 47 homes**
 
-You can read more about it [here](https://apnews.com/article/dixville-notch-primary-voting-new-hampshire-tuesday-0f7f420054403510364469ad52255270).
+You can read more about it [here](https://apnews.com/article/china-quake-xinjiang-kyrgyzstan-kazakhstan-48338716e604279d088a807f9770878e).
 
 ## Requirements
 - Python 3.8
