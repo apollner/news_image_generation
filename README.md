@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix to stream WWE's Raw starting next year in its biggest jump into live entertainment**
+**New Hampshire primary: Donald Trump and Nikki Haley to go head-to-head**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/23/netflix-to-stream-wwes-raw-starting-next-year.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68064703).
 
 ## Requirements
 - Python 3.8
