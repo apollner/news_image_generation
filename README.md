@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixers’ Joel Embiid breaks Wilt Chamberlain’s franchise record in masterful performance vs Spurs**
+**Powerball winning numbers for 1/22/24 drawing: Jackpot at $145 million**
 
-You can read more about it [here](https://www.foxnews.com/sports/sixers-joel-embiid-breaks-wilt-chamberlains-franchise-record-masterful-performance-vs-spurs).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/01/22/powerball-winning-numbers/72318488007/).
 
 ## Requirements
 - Python 3.8
