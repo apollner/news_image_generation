@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United CEO casts doubt on 737 Max 10 order after Boeing's recent problems**
+**Selena Gomez Shares Body Positive Message With Swimsuit Photos**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/23/united-ceo-casts-doubt-on-boeing-737-max-10-order.html).
+You can read more about it [here](https://www.eonline.com/news/1393654/selena-gomez-shares-body-positive-message-with-swimsuit-photos).
 
 ## Requirements
 - Python 3.8
