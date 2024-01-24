@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix will stream WWE Raw in $5 billion deal**
+**P&G's beauty sales hurt by an unlikely headwind: A wastewater release in Japan**
 
-You can read more about it [here](https://www.ft.com/content/6ae38ad3-39e4-4203-83f1-8b12b7170e08).
+You can read more about it [here](https://www.cnbc.com/2024/01/23/procter-gamble-sk-ii-beauty-sales-hurt-by-japan-wastewater-release.html).
 
 ## Requirements
 - Python 3.8
