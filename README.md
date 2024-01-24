@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sierra Space Built an Inflatable Space Module the Size of a House, Then Blew It Up**
+**WWE Raw-Netflix deal, Tim Tebow wrestling & more with WWE president Nick Khan | The Pat McAfee Show**
 
-You can read more about it [here](https://gizmodo.com/sierra-space-burst-test-life-space-station-module-1851188371).
+You can read more about it [here](https://www.youtube.com/watch?v=xmZkzItqTe8).
 
 ## Requirements
 - Python 3.8
