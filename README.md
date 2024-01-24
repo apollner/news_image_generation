@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid bullies Victor Wembanyama, breaks Wilt Chamberlain's 76ers record with historic 70-point night**
+**Taylor Swift's alleged stalker caught outside her NYC apartment days after being arrested**
 
-You can read more about it [here](https://sports.yahoo.com/joel-embiid-bullies-victor-wembanyama-breaks-wilt-chamberlains-76ers-record-with-historic-70-point-night-023113813.html).
+You can read more about it [here](https://pagesix.com/2024/01/22/entertainment/taylor-swifts-alleged-stalker-caught-outside-her-nyc-apartment-days-after-being-arrested/).
 
 ## Requirements
 - Python 3.8
