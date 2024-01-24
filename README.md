@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cameroon starts world's first malaria vaccine program for children**
+**Sierra Space Built an Inflatable Space Module the Size of a House, Then Blew It Up**
 
-You can read more about it [here](http://thegrio.com/2024/01/23/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/).
+You can read more about it [here](https://gizmodo.com/sierra-space-burst-test-life-space-station-module-1851188371).
 
 ## Requirements
 - Python 3.8
