@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**8 killed in Joliet, Illinois, shootings; suspect dead in Texas after manhunt**
+**New Hampshire primary live updates: Can Haley pull off upset on Trump?**
 
-You can read more about it [here](https://abcnews.go.com/US/police-joliet-searching-man-after-multiple-deceased-people/story?id=106579185).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/23/new-hampshire-primary-2024-election-live-updates/72312175007/).
 
 ## Requirements
 - Python 3.8
