@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid bullies Victor Wembanyama, breaks Wilt Chamberlain's 76ers record with historic 70-point night**
+**Why Joe Biden isn't on the 2024 New Hampshire primary ballot—and what it means for the election**
 
-You can read more about it [here](https://sports.yahoo.com/joel-embiid-bullies-victor-wembanyama-breaks-wilt-chamberlains-76ers-record-with-historic-70-point-night-023113813.html).
+You can read more about it [here](https://www.cbsnews.com/news/joe-biden-not-on-new-hampshire-primary-ballot-2024/).
 
 ## Requirements
 - Python 3.8
