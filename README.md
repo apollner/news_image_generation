@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Monday Night Raw is ditching cable for Netflix**
+**Netflix to stream WWE's Raw starting next year in its biggest jump into live entertainment**
 
-You can read more about it [here](https://www.theverge.com/2024/1/23/24047785/netflix-monday-night-raw-exclusive-live-streaming-leaving-cable).
+You can read more about it [here](https://www.cnbc.com/2024/01/23/netflix-to-stream-wwes-raw-starting-next-year.html).
 
 ## Requirements
 - Python 3.8
