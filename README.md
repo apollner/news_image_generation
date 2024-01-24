@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7.1-magnitude earthquake rattles part of western China, injuring 6 people and collapsing 47 homes**
+**Morgan Stanley's new top software pick is a familiar winner**
 
-You can read more about it [here](https://apnews.com/article/china-quake-xinjiang-kyrgyzstan-kazakhstan-48338716e604279d088a807f9770878e).
+You can read more about it [here](https://www.marketwatch.com/story/morgan-stanleys-new-top-software-pick-is-a-familiar-winner-ecf7e0a9).
 
 ## Requirements
 - Python 3.8
