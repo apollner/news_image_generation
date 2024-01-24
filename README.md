@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Stanley's new top software pick is a familiar winner**
+**What is Dixville Notch? Why a small New Hampshire town holds its primary voting at midnight**
 
-You can read more about it [here](https://www.marketwatch.com/story/morgan-stanleys-new-top-software-pick-is-a-familiar-winner-ecf7e0a9).
+You can read more about it [here](https://www.cbsnews.com/news/dixville-notch-new-hampshire-voting-primary/).
 
 ## Requirements
 - Python 3.8
