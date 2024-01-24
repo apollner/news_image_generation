@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Successful failure: Sierra Space’s inflatable habitat blows up as planned**
+**Ron DeSantis uses fake Winston Churchill quote at end of presidential campaign**
 
-You can read more about it [here](https://techcrunch.com/2024/01/22/successful-failure-sierra-spaces-inflatable-habitat-blows-up-as-planned/).
+You can read more about it [here](https://www.washingtonpost.com/history/2024/01/22/ron-desantis-winston-churchill/).
 
 ## Requirements
 - Python 3.8
