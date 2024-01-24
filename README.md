@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles' Brian Johnson out as offensive coordinator, but Nick Sirianni set to return in 2024, per reports**
+**United CEO casts doubt on 737 Max 10 order after Boeing's recent problems**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-brian-johnson-out-as-offensive-coordinator-but-nick-sirianni-set-to-return-in-2024-per-reports/).
+You can read more about it [here](https://www.cnbc.com/2024/01/23/united-ceo-casts-doubt-on-boeing-737-max-10-order.html).
 
 ## Requirements
 - Python 3.8
