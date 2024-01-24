@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New blood test that screens for Alzheimer’s may be a step closer to reality, study suggests**
+**Death toll rises to 25 after landslide buries dozens in southwest China in freezing winter temperatures**
 
-You can read more about it [here](https://www.cnn.com/2024/01/22/health/alzheimers-blood-test-screening-study/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/22/china/china-yunnan-landslide-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
