@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire primary live updates: Can Haley pull off upset on Trump?**
+**Cameroon starts world's first malaria vaccine program for children**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/23/new-hampshire-primary-2024-election-live-updates/72312175007/).
+You can read more about it [here](http://thegrio.com/2024/01/23/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/).
 
 ## Requirements
 - Python 3.8
