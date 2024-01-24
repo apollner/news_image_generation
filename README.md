@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Fani Willis allegations could affect Trump's Georgia election case**
+**WWE Monday Night Raw is ditching cable for Netflix**
 
-You can read more about it [here](https://www.axios.com/2024/01/23/trump-georgia-case-fani-willis-allegations).
+You can read more about it [here](https://www.theverge.com/2024/1/23/24047785/netflix-monday-night-raw-exclusive-live-streaming-leaving-cable).
 
 ## Requirements
 - Python 3.8
