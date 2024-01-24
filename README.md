@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Live: Doomsday clock time announcement of how close we are to global catastrophe in 2024**
+**Netflix will stream WWE Raw in $5 billion deal**
 
-You can read more about it [here](https://www.cbsnews.com/news/watch-live-doomsday-clock-time-announcement-how-close-global-catastrophe-2024/).
+You can read more about it [here](https://www.ft.com/content/6ae38ad3-39e4-4203-83f1-8b12b7170e08).
 
 ## Requirements
 - Python 3.8
