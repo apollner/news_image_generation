@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**eBay will lay off 1000 employees — 9 percent of the company**
+**First Pixel 9 leak eliminates the camera bar's awkward wraparound**
 
-You can read more about it [here](https://www.theverge.com/24048636/ebay-layoffs-1000-employees-january-2024).
+You can read more about it [here](https://www.androidpolice.com/google-pixel-9-pro-renders/).
 
 ## Requirements
 - Python 3.8
