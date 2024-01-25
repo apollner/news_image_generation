@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing CEO meeting with senators to discuss latest plane incidents**
+**Jon Stewart to return to ‘The Daily Show’ as a host and executive producer**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2-1MBeuJQ4c).
+You can read more about it [here](https://www.cnn.com/2024/01/24/entertainment/jon-stewart-daily-show/index.html).
 
 ## Requirements
 - Python 3.8
