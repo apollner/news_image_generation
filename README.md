@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haley camp mocks Trump ‘meltdown,’ pitches return to ‘normalcy’**
+**David Bakhtiari and more on social media reacting to Joe Barry being fired as Green Bay Packers defensive coordinator**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4426264-haley-camp-mocks-trump-meltdown-new-hampshire/).
+You can read more about it [here](https://www.jsonline.com/story/sports/nfl/packers/2024/01/24/joe-barry-fired-as-green-bay-packers-defensive-coordinator-david-bakhtiari-react-social-media/72337178007/).
 
 ## Requirements
 - Python 3.8
