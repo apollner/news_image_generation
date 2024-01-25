@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doc Rivers accepts Milwaukee Bucks head coaching position, source says**
+**eBay is laying off 9 percent of its workforce**
 
-You can read more about it [here](https://www.cnn.com/2024/01/23/sport/doc-rivers-milwaukee-bucks-head-coach-position/index.html).
+You can read more about it [here](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html).
 
 ## Requirements
 - Python 3.8
