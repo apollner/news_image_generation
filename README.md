@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's central bank announces policy easing as it seeks to boost growth**
+**Expert Picks: Farmers Insurance Open - PGA TOUR**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/24/china-to-cut-banks-reserve-ratio-by-50-basis-points-from-feb-5.html).
+You can read more about it [here](https://www.pgatour.com/article/news/expert-picks/2024/01/23/fantasy-golf-advice-tips-picks-farmers-insurance-open).
 
 ## Requirements
 - Python 3.8
