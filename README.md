@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The IRS announces plans to simplify and redesign tax notices**
+**Red Sea Maps Show Houthi Attacks Hitting Global Economy**
 
-You can read more about it [here](https://abcnews.go.com/Business/irs-announces-plans-simplify-redesign-tax-notices/story?id=106607137).
+You can read more about it [here](https://www.bloomberg.com/news/features/2024-01-24/red-sea-maps-show-houthi-attacks-hitting-global-economy).
 
 ## Requirements
 - Python 3.8
