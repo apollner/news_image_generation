@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Want to Look Cooler While Skiing? Try This Covert Protective Gear**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/tech/personal-tech/protective-ski-gear-covert-119aebb5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
