@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Diegans cry, hug outside damaged homes after stunning flash floods in normally balmy city**
+**DeSantis unloads on Trump right after endorsing him**
 
-You can read more about it [here](https://apnews.com/article/san-diego-flash-floods-rescues-record-rain-bd573dd4b66dac908a4c0be5e9ab1bee).
+You can read more about it [here](https://www.axios.com/2024/01/23/desantis-criticizes-trump-after-endorsement).
 
 ## Requirements
 - Python 3.8
