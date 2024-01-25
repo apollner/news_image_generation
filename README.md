@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**eBay will lay off 1000 employees — 9 percent of the company**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.theverge.com/24048636/ebay-layoffs-1000-employees-january-2024).
 
 ## Requirements
 - Python 3.8
