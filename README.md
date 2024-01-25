@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United, Alaska Airlines CEOS slam Boeing after 737 Max 9 issues**
+**Doc Rivers accepts Milwaukee Bucks head coaching position, source says**
 
-You can read more about it [here](https://www.axios.com/2024/01/23/boeing-united-alaska-airlines-737-max-9).
+You can read more about it [here](https://www.cnn.com/2024/01/23/sport/doc-rivers-milwaukee-bucks-head-coach-position/index.html).
 
 ## Requirements
 - Python 3.8
