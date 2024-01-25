@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blood test may revolutionise treatment of Alzheimers disease | BBC News**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=PlGvuKvBv5c).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
