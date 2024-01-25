@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adrián Beltré, Joe Mauer and Todd Helton elected to Baseball Hall of Fame**
+**Blood test may revolutionise treatment of Alzheimers disease | BBC News**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/01/23/adrian-beltre-joe-mauer-todd-helton-baseball-hall-fame/).
+You can read more about it [here](https://www.youtube.com/watch?v=PlGvuKvBv5c).
 
 ## Requirements
 - Python 3.8
