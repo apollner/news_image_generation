@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CIA continues online campaign to recruit Russian spies, citing successes**
+**Bucks fire Adrian Griffin, in talks with Doc Rivers to coach**
 
-You can read more about it [here](https://www.cbsnews.com/news/cia-online-campaign-recruit-russian-spies-cites-successes/).
+You can read more about it [here](https://www.wisn.com/article/espn-sources-adrian-griffin-dismissed/46507832).
 
 ## Requirements
 - Python 3.8
