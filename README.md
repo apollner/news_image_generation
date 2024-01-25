@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David Bakhtiari and more on social media reacting to Joe Barry being fired as Green Bay Packers defensive coordinator**
+**4 senators ask Biden what legal authority he has to strike Houthis**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/nfl/packers/2024/01/24/joe-barry-fired-as-green-bay-packers-defensive-coordinator-david-bakhtiari-react-social-media/72337178007/).
+You can read more about it [here](https://thehill.com/policy/defense/4426233-four-senators-ask-biden-what-legal-authority-he-has-to-strike-houthis/).
 
 ## Requirements
 - Python 3.8
