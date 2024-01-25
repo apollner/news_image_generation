@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red Sea Maps Show Houthi Attacks Hitting Global Economy**
+**Adrián Beltré, Joe Mauer and Todd Helton elected to Baseball Hall of Fame**
 
-You can read more about it [here](https://www.bloomberg.com/news/features/2024-01-24/red-sea-maps-show-houthi-attacks-hitting-global-economy).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/01/23/adrian-beltre-joe-mauer-todd-helton-baseball-hall-fame/).
 
 ## Requirements
 - Python 3.8
