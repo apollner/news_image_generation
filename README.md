@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers Fire Defensive Coordinator Joe Barry**
+**Jon Stewart to return to ‘The Daily Show’ as a host and executive producer**
 
-You can read more about it [here](https://www.si.com/nfl/packers/news/report-packers-fire-defensive-coordinator-joe-barry).
+You can read more about it [here](https://www.cnn.com/2024/01/24/entertainment/jon-stewart-daily-show/index.html).
 
 ## Requirements
 - Python 3.8
