@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Expert Picks: Farmers Insurance Open - PGA TOUR**
+**United, Alaska Airlines CEOS slam Boeing after 737 Max 9 issues**
 
-You can read more about it [here](https://www.pgatour.com/article/news/expert-picks/2024/01/23/fantasy-golf-advice-tips-picks-farmers-insurance-open).
+You can read more about it [here](https://www.axios.com/2024/01/23/boeing-united-alaska-airlines-737-max-9).
 
 ## Requirements
 - Python 3.8
