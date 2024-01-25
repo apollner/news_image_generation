@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why hiring Doc Rivers would be a mistake for the Milwaukee Bucks**
+**Israel-Hamas war: Heavy fighting leaves hundreds stranded in Khan Younis**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/why-hiring-doc-rivers-would-be-a-mistake-for-the-milwaukee-bucks/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1oYW1hcy13YXItbmV3cy0wMS0yNC0yMDI0LTU5ZmZhNDZlY2ExNTA0OWJkN2YzYzc3ZmRlNmQ0ZmM30gEA?oc=5).
 
 ## Requirements
 - Python 3.8
