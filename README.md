@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Stock Surges On Big Subscriber Beat In Fourth Quarter**
+**'Reign of terror': Motive remains a mystery in 8 Joliet, Illinois, killings; suspect dead after manhunt in Texas**
 
-You can read more about it [here](https://www.investors.com/news/technology/netflix-stock-surges-on-big-subscriber-beat-in-fourth-quarter/).
+You can read more about it [here](https://abcnews.go.com/US/police-joliet-searching-man-after-multiple-deceased-people/story?id=106579185).
 
 ## Requirements
 - Python 3.8
