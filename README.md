@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian jet crashes carrying Ukrainian PoWs - Moscow**
+**AI may open a pathway to early detection of pancreatic cancer**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68080529).
+You can read more about it [here](https://www.bostonglobe.com/2024/01/24/metro/ai-predict-pancreatic-cancer/).
 
 ## Requirements
 - Python 3.8
