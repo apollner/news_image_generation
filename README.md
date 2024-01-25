@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Gosling, Oscar nominated for "Barbie" role, speaks out after Academy snubs Margot Robbie, Greta Gerwig**
+**CIA continues online campaign to recruit Russian spies, citing successes**
 
-You can read more about it [here](https://www.cbsnews.com/news/ryan-gosling-america-ferrera-barbie-margot-robbie-greta-gerwig-oscar-snubs/).
+You can read more about it [here](https://www.cbsnews.com/news/cia-online-campaign-recruit-russian-spies-cites-successes/).
 
 ## Requirements
 - Python 3.8
