@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Pixel 9 leak eliminates the camera bar's awkward wraparound**
+**The IRS announces plans to simplify and redesign tax notices**
 
-You can read more about it [here](https://www.androidpolice.com/google-pixel-9-pro-renders/).
+You can read more about it [here](https://abcnews.go.com/Business/irs-announces-plans-simplify-redesign-tax-notices/story?id=106607137).
 
 ## Requirements
 - Python 3.8
