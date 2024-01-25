@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucks fire Adrian Griffin, in talks with Doc Rivers to coach**
+**Harry & Meghan Make Surprise Appearance at 'Bob Marley' Premiere**
 
-You can read more about it [here](https://www.wisn.com/article/espn-sources-adrian-griffin-dismissed/46507832).
+You can read more about it [here](https://www.etonline.com/meghan-markle-and-prince-harry-make-surprise-appearance-at-bob-marley-one-love-premiere-218493).
 
 ## Requirements
 - Python 3.8
