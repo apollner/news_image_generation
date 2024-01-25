@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Reign of terror': Motive remains a mystery in 8 Joliet, Illinois, killings; suspect dead after manhunt in Texas**
+**San Diegans cry, hug outside damaged homes after stunning flash floods in normally balmy city**
 
-You can read more about it [here](https://abcnews.go.com/US/police-joliet-searching-man-after-multiple-deceased-people/story?id=106579185).
+You can read more about it [here](https://apnews.com/article/san-diego-flash-floods-rescues-record-rain-bd573dd4b66dac908a4c0be5e9ab1bee).
 
 ## Requirements
 - Python 3.8
