@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harry & Meghan Make Surprise Appearance at 'Bob Marley' Premiere**
+**China's central bank announces policy easing as it seeks to boost growth**
 
-You can read more about it [here](https://www.etonline.com/meghan-markle-and-prince-harry-make-surprise-appearance-at-bob-marley-one-love-premiere-218493).
+You can read more about it [here](https://www.cnbc.com/2024/01/24/china-to-cut-banks-reserve-ratio-by-50-basis-points-from-feb-5.html).
 
 ## Requirements
 - Python 3.8
