@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire GOP primary electorate split between registered Republicans and undeclared voters in early CNN exit poll**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/01/23/politics/exit-poll-new-hampshire-primary/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
