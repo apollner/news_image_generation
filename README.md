@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 senators ask Biden what legal authority he has to strike Houthis**
+**Video shows Russian military plane crash near Ukrainian border**
 
-You can read more about it [here](https://thehill.com/policy/defense/4426233-four-senators-ask-biden-what-legal-authority-he-has-to-strike-houthis/).
+You can read more about it [here](https://www.youtube.com/watch?v=juV3cDotn8M).
 
 ## Requirements
 - Python 3.8
