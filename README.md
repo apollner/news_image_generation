@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doc Rivers agrees to deal to be Bucks' coach, sources say**
+**Haley camp mocks Trump ‘meltdown,’ pitches return to ‘normalcy’**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39378013/doc-rivers-finalizing-deal-bucks-coach-sources-say).
+You can read more about it [here](https://thehill.com/homenews/campaign/4426264-haley-camp-mocks-trump-meltdown-new-hampshire/).
 
 ## Requirements
 - Python 3.8
