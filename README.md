@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis unloads on Trump right after endorsing him**
+**New Hampshire GOP primary electorate split between registered Republicans and undeclared voters in early CNN exit poll**
 
-You can read more about it [here](https://www.axios.com/2024/01/23/desantis-criticizes-trump-after-endorsement).
+You can read more about it [here](https://www.cnn.com/2024/01/23/politics/exit-poll-new-hampshire-primary/index.html).
 
 ## Requirements
 - Python 3.8
