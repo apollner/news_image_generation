@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Galactic Genesis: Webb Space Telescope Reveals Massive Star-Forming Complex**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://scitechdaily.com/galactic-genesis-webb-space-telescope-reveals-massive-star-forming-complex/).
 
 ## Requirements
 - Python 3.8
