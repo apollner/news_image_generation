@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Stewart to return to ‘The Daily Show’ as a host and executive producer**
+**Tesla stock drops on Q4 earnings miss, warns production growth rate will be 'notably lower' than 2023**
 
-You can read more about it [here](https://www.cnn.com/2024/01/24/entertainment/jon-stewart-daily-show/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-drops-on-q4-earnings-miss-warns-production-growth-rate-will-be-notably-lower-than-2023-212357382.html).
 
 ## Requirements
 - Python 3.8
