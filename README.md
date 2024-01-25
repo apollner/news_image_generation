@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft briefly crosses $3 trillion in market cap**
+**Russian jet crashes carrying Ukrainian PoWs - Moscow**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/24/microsoft-3-trillion-market-cap.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68080529).
 
 ## Requirements
 - Python 3.8
