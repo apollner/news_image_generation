@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**eBay is laying off 9 percent of its workforce**
+**Claire McCaskill: A really bad night for Donald Trump**
 
-You can read more about it [here](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html).
+You can read more about it [here](https://www.youtube.com/watch?v=nIrOwq8AROQ).
 
 ## Requirements
 - Python 3.8
