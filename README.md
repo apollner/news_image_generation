@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Packers Fire Defensive Coordinator Joe Barry**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.si.com/nfl/packers/news/report-packers-fire-defensive-coordinator-joe-barry).
 
 ## Requirements
 - Python 3.8
