@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AI may open a pathway to early detection of pancreatic cancer**
+**Doc Rivers agrees to deal to be Bucks' coach, sources say**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/01/24/metro/ai-predict-pancreatic-cancer/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39378013/doc-rivers-finalizing-deal-bucks-coach-sources-say).
 
 ## Requirements
 - Python 3.8
