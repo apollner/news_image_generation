@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla stock drops on Q4 earnings miss, warns production growth rate will be 'notably lower' than 2023**
+**Boeing CEO meeting with senators to discuss latest plane incidents**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-drops-on-q4-earnings-miss-warns-production-growth-rate-will-be-notably-lower-than-2023-212357382.html).
+You can read more about it [here](https://www.youtube.com/watch?v=2-1MBeuJQ4c).
 
 ## Requirements
 - Python 3.8
