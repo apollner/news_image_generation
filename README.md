@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See the colors of the world through an animals eyes | January 25, 2024**
+**Space Salad Dilemma: Study Raises Health Concerns for Astronauts**
 
-You can read more about it [here](https://www.youtube.com/watch?v=siA_pP4PhtY).
+You can read more about it [here](https://scitechdaily.com/space-salad-dilemma-study-raises-health-concerns-for-astronauts/).
 
 ## Requirements
 - Python 3.8
