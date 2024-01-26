@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel denies attack on UN refuge in Gaza that drew rebuke from Washington**
+**11 Houston restaurants named James Beard Award semifinalists**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/plan-one-month-gaza-truce-makes-progress-israel-hits-khan-younis-2024-01-24/).
+You can read more about it [here](https://www.houstonchronicle.com/food-culture/restaurants-bars/article/james-beard-semifinalist-houston-18620995.php).
 
 ## Requirements
 - Python 3.8
