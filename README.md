@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures are little changed as investors prepare for GDP report: Live updates**
+**OnePlus 12 vs Pixel 8 Pro: Tough Call, Clear Winner!**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/24/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.youtube.com/watch?v=Lmf26fKY_TU).
 
 ## Requirements
 - Python 3.8
