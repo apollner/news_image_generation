@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Navy intercepts missiles in Red Sea while escorting Maersk ships**
+**See the colors of the world through an animals eyes | January 25, 2024**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/us-navy-intercepts-missiles-red-sea-while-escorting-maersk-ships-maersk-2024-01-24/).
+You can read more about it [here](https://www.youtube.com/watch?v=siA_pP4PhtY).
 
 ## Requirements
 - Python 3.8
