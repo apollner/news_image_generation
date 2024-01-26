@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First image reveals spacecraft’s unexpected landing position on the moon**
+**Sources: Panthers to hire Buccaneers' Dave Canales as coach**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/asia/japan-moon-sniper-lunar-mission-scn/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39386316/panthers-hire-buccaneers-dave-canales-coach).
 
 ## Requirements
 - Python 3.8
