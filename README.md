@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump v. Haley is about to get even uglier in South Carolina**
+**Kenneth Eugene Smith execution to use nitrogen hypoxia: Here's why**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/25/trump-haley-feud-politics-south-carolina/72335380007/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/25/kenneth-eugene-smith-execution-follows-many-capital-punishment-botches/72328311007/).
 
 ## Requirements
 - Python 3.8
