@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11 Houston restaurants named James Beard Award semifinalists**
+**Nneka Ogwumike notifies Sparks she's leaving for free agency**
 
-You can read more about it [here](https://www.houstonchronicle.com/food-culture/restaurants-bars/article/james-beard-semifinalist-houston-18620995.php).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/39379599/nneka-ogwumike-notifies-sparks-leaving-free-agency).
 
 ## Requirements
 - Python 3.8
