@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft lays off 1900 Activision Blizzard and Xbox employees**
+**After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends**
 
-You can read more about it [here](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs).
+You can read more about it [here](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/).
 
 ## Requirements
 - Python 3.8
