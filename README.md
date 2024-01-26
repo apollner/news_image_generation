@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers hire Jim Harbaugh: Perfect match for both sides?**
+**Greg Abbott declares Texas' right to self-defense 'supersedes federal statutes' as he battles Biden admin over razor wire at border**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39380294/chargers-hire-jim-harbaugh-nfl-coach-michigan-perfect-match-next).
+You can read more about it [here](https://nypost.com/2024/01/24/news/greg-abbott-declares-texas-right-to-self-defense-supersedes-any-federal-statutes/).
 
 ## Requirements
 - Python 3.8
