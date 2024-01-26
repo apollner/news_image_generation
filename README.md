@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton’s planned surgery was not shared with royal insiders ahead of hospitalization, experts say**
+**Maine's supreme court declines to hear Trump ballot eligibility case**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/kate-middletons-planned-surgery-not-shared-royal-insiders-ahead-hospitalization-experts).
+You can read more about it [here](https://www.cbsnews.com/news/maine-supreme-court-declines-to-hear-trump-ballot-eligibility-case/).
 
 ## Requirements
 - Python 3.8
