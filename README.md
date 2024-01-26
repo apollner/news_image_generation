@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minn. trooper charged with murder in shooting of driver Ricky Cobb**
+**Michigan football coaching job pluses, minuses and candidates after Jim Harbaugh**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/01/24/minnesota-trooper-charged-ricky-cobb-shooting/).
+You can read more about it [here](https://theathletic.com/5224024/2024/01/24/michigan-football-coaching-job-profile-candidates/).
 
 ## Requirements
 - Python 3.8
