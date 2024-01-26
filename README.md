@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chet Holmgren & Victor Wembanyama Battle In The 4th! 😲 UNCUT | January 24, 2024**
+**Elle King Postpones Friday Show In What Would Have Been Her First Appearance Since Sloppy Grand Ol’ Opry Gig**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CTKCnNeIh-A).
+You can read more about it [here](http://deadline.com/2024/01/elle-king-postpones-friday-show-her-first-since-sloppy-grand-ol-opry-gig-1235804382/).
 
 ## Requirements
 - Python 3.8
