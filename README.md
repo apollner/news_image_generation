@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden is ready to turn the page toward a face-off with Trump. His path to reelection won’t be an easy one.**
+**Minn. trooper charged with murder in shooting of driver Ricky Cobb**
 
-You can read more about it [here](https://www.cnn.com/2024/01/24/politics/joe-biden-campaign-donald-trump/index.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/01/24/minnesota-trooper-charged-ricky-cobb-shooting/).
 
 ## Requirements
 - Python 3.8
