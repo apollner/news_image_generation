@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan football coaching job pluses, minuses and candidates after Jim Harbaugh**
+**FAA approves a path for Boeing 737 Max 9s to return to operations**
 
-You can read more about it [here](https://theathletic.com/5224024/2024/01/24/michigan-football-coaching-job-profile-candidates/).
+You can read more about it [here](https://www.cnn.com/2024/01/24/business/boeing-ceo-washington/index.html).
 
 ## Requirements
 - Python 3.8
