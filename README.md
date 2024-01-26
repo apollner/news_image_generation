@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry Talks Emotional Night Honoring Dejan Milojević**
+**Chet Holmgren & Victor Wembanyama Battle In The 4th! 😲 UNCUT | January 24, 2024**
 
-You can read more about it [here](https://www.youtube.com/watch?v=r10_Jrp0adY).
+You can read more about it [here](https://www.youtube.com/watch?v=CTKCnNeIh-A).
 
 ## Requirements
 - Python 3.8
