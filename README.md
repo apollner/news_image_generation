@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Apple update includes 'Stolen Device Protection'**
+**Kate Middleton’s planned surgery was not shared with royal insiders ahead of hospitalization, experts say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6MyBURyjY9c).
+You can read more about it [here](https://www.foxnews.com/entertainment/kate-middletons-planned-surgery-not-shared-royal-insiders-ahead-hospitalization-experts).
 
 ## Requirements
 - Python 3.8
