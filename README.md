@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greg Abbott declares Texas' right to self-defense 'supersedes federal statutes' as he battles Biden admin over razor wire at border**
+**New Apple update includes 'Stolen Device Protection'**
 
-You can read more about it [here](https://nypost.com/2024/01/24/news/greg-abbott-declares-texas-right-to-self-defense-supersedes-any-federal-statutes/).
+You can read more about it [here](https://www.youtube.com/watch?v=6MyBURyjY9c).
 
 ## Requirements
 - Python 3.8
