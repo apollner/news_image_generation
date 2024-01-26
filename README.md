@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio lawmakers ban gender-affirming care for minors, overriding governor's veto**
+**FAA halts Boeing 737 Max production expansion, but clears path to return Max 9 to service**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/01/24/transcare-veto-override/).
+You can read more about it [here](https://www.cnbc.com/2024/01/24/boeing-737-max-faa-halts-production-expansion-oks-inspection-instructions.html).
 
 ## Requirements
 - Python 3.8
