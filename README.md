@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Lays Off 1,900 Staff From Its Video Game Workforce**
+**EXCLUSIVE: Willis, Wade and others expected to be subpoenaed for hearing on Fulton County DA affair allegations**
 
-You can read more about it [here](https://www.ign.com/articles/microsoft-lays-off-1900-staff-from-its-video-game-workforce).
+You can read more about it [here](https://www.cnn.com/2024/01/25/politics/fulton-county-subpoenas-willis-wade-election-subversion/index.html).
 
 ## Requirements
 - Python 3.8
