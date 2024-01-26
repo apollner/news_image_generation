@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nneka Ogwumike notifies Sparks she's leaving for free agency**
+**US Navy intercepts missiles in Red Sea while escorting Maersk ships**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/39379599/nneka-ogwumike-notifies-sparks-leaving-free-agency).
+You can read more about it [here](https://www.reuters.com/world/middle-east/us-navy-intercepts-missiles-red-sea-while-escorting-maersk-ships-maersk-2024-01-24/).
 
 ## Requirements
 - Python 3.8
