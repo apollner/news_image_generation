@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Mass casualties’ as UN shelter struck amid intense fighting in Khan Younis**
+**Russia risked lives in downed plane, Volodymyr Zelensky says**
 
-You can read more about it [here](https://www.cnn.com/2024/01/24/middleeast/khan-younis-gaza-un-shelter-strike-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68083739).
 
 ## Requirements
 - Python 3.8
