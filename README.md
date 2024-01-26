@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia risked lives in downed plane, Volodymyr Zelensky says**
+**Steph Curry Talks Emotional Night Honoring Dejan Milojević**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68083739).
+You can read more about it [here](https://www.youtube.com/watch?v=r10_Jrp0adY).
 
 ## Requirements
 - Python 3.8
