@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenneth Eugene Smith execution to use nitrogen hypoxia: Here's why**
+**Shane Pryor search: Escaped teenage murder suspect being sought in University City section of Philadelphia**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/25/kenneth-eugene-smith-execution-follows-many-capital-punishment-botches/72328311007/).
+You can read more about it [here](https://6abc.com/shane-pryor-philadelphia-chop-escaped-inmate-search/14356209/).
 
 ## Requirements
 - Python 3.8
