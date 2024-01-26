@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EXCLUSIVE: Willis, Wade and others expected to be subpoenaed for hearing on Fulton County DA affair allegations**
+**Trials of Michigan school shooter’s parents set to test limits of who’s responsible for a mass shooting**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/politics/fulton-county-subpoenas-willis-wade-election-subversion/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/25/us/james-jennifer-crumbley-school-shooting-trial/index.html).
 
 ## Requirements
 - Python 3.8
