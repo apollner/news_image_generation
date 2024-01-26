@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA halts Boeing 737 Max production expansion, but clears path to return Max 9 to service**
+**Ariel Helwani: Kayla Harrison’s UFC Move A ‘Blow’ To PFL | The MMA Hour**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/24/boeing-737-max-faa-halts-production-expansion-oks-inspection-instructions.html).
+You can read more about it [here](https://www.youtube.com/watch?v=IROGH9B_5kc).
 
 ## Requirements
 - Python 3.8
