@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Khan Younis: UN says 12 killed at Gaza shelter as fighting rages**
+**Tesla Dives As Analysts Slam Guidance, 'Train Wreck' Earnings Call**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68078580).
+You can read more about it [here](https://www.investors.com/news/tesla-stock-dives-as-analysts-slam-opaque-guidance-train-wreck-earnings-call/).
 
 ## Requirements
 - Python 3.8
