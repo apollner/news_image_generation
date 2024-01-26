@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Dives As Analysts Slam Guidance, 'Train Wreck' Earnings Call**
+**Trump warns he will blacklist Nikki Haley campaign donors**
 
-You can read more about it [here](https://www.investors.com/news/tesla-stock-dives-as-analysts-slam-opaque-guidance-train-wreck-earnings-call/).
+You can read more about it [here](https://www.cnbc.com/2024/01/25/trump-warns-he-will-blacklist-nikki-haley-campaign-donors.html).
 
 ## Requirements
 - Python 3.8
