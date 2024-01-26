@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine's supreme court declines to hear Trump ballot eligibility case**
+**Kenneth Eugene Smith: US inmate faces first nitrogen execution after losing last-minute appeals**
 
-You can read more about it [here](https://www.cbsnews.com/news/maine-supreme-court-declines-to-hear-trump-ballot-eligibility-case/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68089279).
 
 ## Requirements
 - Python 3.8
