@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell Casts Doubt on Border Deal, Saying Trump Opposition May Sink It**
+**First image reveals spacecraft’s unexpected landing position on the moon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjUvdXMvcG9saXRpY3MvbWNjb25uZWxsLWJvcmRlci1kZWFsLXRydW1wLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/01/25/asia/japan-moon-sniper-lunar-mission-scn/index.html).
 
 ## Requirements
 - Python 3.8
