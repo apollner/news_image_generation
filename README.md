@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US GDP Grew at a 3.3% Rate in Fourth Quarter, Capping Solid 2023**
+**Humana warns that rising care costs will persist through 2024, surprises Wall Street with forecast**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-01-25/us-gdp-grew-at-a-3-3-rate-in-fourth-quarter-capping-solid-year).
+You can read more about it [here](https://finance.yahoo.com/news/humana-warns-rising-care-costs-133208840.html).
 
 ## Requirements
 - Python 3.8
