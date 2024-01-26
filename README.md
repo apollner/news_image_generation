@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Barbie’ Oscars Snubs For Greta Gerwig & Margot Robbie Generate Hollywood Reactions**
+**Ohio lawmakers ban gender-affirming care for minors, overriding governor's veto**
 
-You can read more about it [here](http://deadline.com/2024/01/barbie-oscars-snubs-greta-gerwig-margot-robbie-hollywood-reactions-1235803695/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/01/24/transcare-veto-override/).
 
 ## Requirements
 - Python 3.8
