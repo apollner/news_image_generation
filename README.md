@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OnePlus 12 vs Pixel 8 Pro: Tough Call, Clear Winner!**
+**Humana warns that rising care costs will persist through 2024, surprises Wall Street with forecast**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Lmf26fKY_TU).
+You can read more about it [here](https://finance.yahoo.com/news/humana-warns-rising-care-costs-133208840.html).
 
 ## Requirements
 - Python 3.8
