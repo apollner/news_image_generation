@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shane Pryor search: Escaped teenage murder suspect being sought in University City section of Philadelphia**
+**S&P 500 futures are little changed as investors prepare for GDP report: Live updates**
 
-You can read more about it [here](https://6abc.com/shane-pryor-philadelphia-chop-escaped-inmate-search/14356209/).
+You can read more about it [here](https://www.cnbc.com/2024/01/24/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
