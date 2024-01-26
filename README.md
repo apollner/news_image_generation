@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elle King Postpones Friday Show In What Would Have Been Her First Appearance Since Sloppy Grand Ol’ Opry Gig**
+**Khan Younis: UN says 12 killed at Gaza shelter as fighting rages**
 
-You can read more about it [here](http://deadline.com/2024/01/elle-king-postpones-friday-show-her-first-since-sloppy-grand-ol-opry-gig-1235804382/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68078580).
 
 ## Requirements
 - Python 3.8
