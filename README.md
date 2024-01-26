@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends**
+**Microsoft Lays Off 1,900 Staff From Its Video Game Workforce**
 
-You can read more about it [here](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/).
+You can read more about it [here](https://www.ign.com/articles/microsoft-lays-off-1900-staff-from-its-video-game-workforce).
 
 ## Requirements
 - Python 3.8
