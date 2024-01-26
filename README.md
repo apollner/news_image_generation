@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenneth Eugene Smith: US inmate faces first nitrogen execution after losing last-minute appeals**
+**Biden is ready to turn the page toward a face-off with Trump. His path to reelection won’t be an easy one.**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68089279).
+You can read more about it [here](https://www.cnn.com/2024/01/24/politics/joe-biden-campaign-donald-trump/index.html).
 
 ## Requirements
 - Python 3.8
