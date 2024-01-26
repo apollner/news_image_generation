@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trials of Michigan school shooter’s parents set to test limits of who’s responsible for a mass shooting**
+**Japan's SLIM lunar spacecraft landed upside down on the moon**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/us/james-jennifer-crumbley-school-shooting-trial/index.html).
+You can read more about it [here](https://www.engadget.com/japans-slim-lunar-spacecraft-landed-upside-down-on-the-moon-202819728.html).
 
 ## Requirements
 - Python 3.8
