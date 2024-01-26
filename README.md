@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Salad Dilemma: Study Raises Health Concerns for Astronauts**
+**Chargers hire Jim Harbaugh: Perfect match for both sides?**
 
-You can read more about it [here](https://scitechdaily.com/space-salad-dilemma-study-raises-health-concerns-for-astronauts/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39380294/chargers-hire-jim-harbaugh-nfl-coach-michigan-perfect-match-next).
 
 ## Requirements
 - Python 3.8
