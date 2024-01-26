@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Panthers to hire Buccaneers' Dave Canales as coach**
+**Microsoft lays off 1900 Activision Blizzard and Xbox employees**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39386316/panthers-hire-buccaneers-dave-canales-coach).
+You can read more about it [here](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs).
 
 ## Requirements
 - Python 3.8
