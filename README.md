@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump warns he will blacklist Nikki Haley campaign donors**
+**Trump v. Haley is about to get even uglier in South Carolina**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/25/trump-warns-he-will-blacklist-nikki-haley-campaign-donors.html).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/01/25/trump-haley-feud-politics-south-carolina/72335380007/).
 
 ## Requirements
 - Python 3.8
