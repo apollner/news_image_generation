@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump ally drops plan to declare him presumptive presidential nominee**
+**Defiant Trump takes legal risk on stand in New York defamation trial**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-ally-wants-party-declare-him-presumptive-presidential-nominee-2024-01-25/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68071744).
 
 ## Requirements
 - Python 3.8
