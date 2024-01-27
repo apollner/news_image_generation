@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla shares plunge to wipe out $73 billion in market value, after dour earnings call**
+**California woman gets probation for fatally stabbing man she dated, causing 108 'sharp-force injuries'**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/investing/tesla-stock-drop-china-sales/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/california-woman-gets-probation-fatally-stabbing-man-dated-causing-108-rcna135778).
 
 ## Requirements
 - Python 3.8
