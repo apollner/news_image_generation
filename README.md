@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Court to rule on measures against Israel in Gaza genocide case**
+**Trump Really Could Come Back. Activism Against Him Might Not.**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/world-court-rule-urgent-measures-gaza-genocide-case-2024-01-26/).
+You can read more about it [here](https://www.politico.com/news/magazine/2024/01/26/trump-win-activism-philanthropists-00137965).
 
 ## Requirements
 - Python 3.8
