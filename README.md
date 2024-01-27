@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Report: Microsoft Cancels Blizzard's Survival Game Amid Layoffs**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://kotaku.com/xbox-activision-blizzard-odyssey-survival-game-cancel-1851200488).
 
 ## Requirements
 - Python 3.8
