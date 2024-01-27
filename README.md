@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE’s Vince McMahon accused of sex trafficking, physical abuse in lawsuit**
+**World Court to rule on measures against Israel in Gaza genocide case**
 
-You can read more about it [here](https://theathletic.com/5228509/2024/01/25/wwe-vince-mcmahon-lawsuit/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/world-court-rule-urgent-measures-gaza-genocide-case-2024-01-26/).
 
 ## Requirements
 - Python 3.8
