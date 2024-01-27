@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cruise "deeply remorseful" after scathing report on robotaxi pedestrian incident**
+**Samsung's new phones replace Google AI with Baidu in China**
 
-You can read more about it [here](https://www.axios.com/2024/01/25/cruise-report-investigation).
+You can read more about it [here](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai).
 
 ## Requirements
 - Python 3.8
