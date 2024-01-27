@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austin Butler Says He Needed A Dialect Coach To Get Rid Of His Viral 'Elvis' Voice**
+**Grades for 2024 NFL head coaching hires: Chargers get 'A' for Jim Harbaugh swing, Panthers bank on upside**
 
-You can read more about it [here](https://www.huffpost.com/entry/austin-butler-needed-dialect-coach-to-remove-elvis-voice_n_65b29695e4b0166fc7712947).
+You can read more about it [here](https://www.cbssports.com/nfl/news/grades-for-2024-nfl-head-coaching-hires-chargers-get-a-for-jim-harbaugh-swing-panthers-bank-on-upside/).
 
 ## Requirements
 - Python 3.8
