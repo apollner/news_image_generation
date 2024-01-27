@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA All-Star starters announced: LeBron James, Tyrese Haliburton highlight lineups**
+**Scalise aide to Senate GOP: Border deal is dead on arrival in House**
 
-You can read more about it [here](https://theathletic.com/5228523/2024/01/25/nba-all-star-starting-lineups-captains/).
+You can read more about it [here](https://thehill.com/homenews/senate/4430149-scalise-aide-to-senate-gop-border-deal-is-dead-on-arrival-in-house/).
 
 ## Requirements
 - Python 3.8
