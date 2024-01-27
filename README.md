@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**University of California hits pause on plan to hire undocumented students**
+**Daniel Jeremiah Talks Charger’ Jim Harbaugh Hire, AFC/NFC Title Games w/ Rich Eisen | Full Interview**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/25/university-of-california-undocumented-students-hiring-plan-paused-00137967).
+You can read more about it [here](https://www.youtube.com/watch?v=k2HEDVWw31g).
 
 ## Requirements
 - Python 3.8
