@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian plane crash: Only five bodies delivered to Belgorod morgue, Ukrainian intelligence suggests**
+**Austin Butler Says He Needed A Dialect Coach To Get Rid Of His Viral 'Elvis' Voice**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/europe/russian-plane-crash-belgorod-ukraine-intl/index.html).
+You can read more about it [here](https://www.huffpost.com/entry/austin-butler-needed-dialect-coach-to-remove-elvis-voice_n_65b29695e4b0166fc7712947).
 
 ## Requirements
 - Python 3.8
