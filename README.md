@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EXCLUSIVE: Willis, Wade and others expected to be subpoenaed for hearing on Fulton County DA affair allegations**
+**JPMorgan Chase shuffles top leaders as race to succeed Jamie Dimon drags on**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/politics/fulton-county-subpoenas-willis-wade-election-subversion/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/01/25/jpmorgan-chase-shuffles-top-leaders-under-jamie-dimon.html).
 
 ## Requirements
 - Python 3.8
