@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung's new phones replace Google AI with Baidu in China**
+**Alabama nitrogen gas execution reignites US capital punishment debate**
 
-You can read more about it [here](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai).
+You can read more about it [here](https://apnews.com/article/nitrogen-execution-death-penalty-alabama-6d66344d3199f8c58f2408baa3df0738).
 
 ## Requirements
 - Python 3.8
