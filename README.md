@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures: Stock Market Rises As Tesla Triggers Bearish Signals; Intel Tumbles Late**
+**Tesla shares plunge to wipe out $73 billion in market value, after dour earnings call**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rises-tesla-bearish-signals-intel-tumbles/).
+You can read more about it [here](https://www.cnn.com/2024/01/25/investing/tesla-stock-drop-china-sales/index.html).
 
 ## Requirements
 - Python 3.8
