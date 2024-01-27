@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Does it matter if you flush with toilet lid up or down? Not really.**
+**Dow Jones Falls As Intel Plunges On Earnings; Cathie Wood Loads Up As Tesla Dives**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/25/does-it-matter-if-you-flush-with-toilet-lid-up-or-down-not-really/72321820007/).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-intel-plunges-on-earnings-cathie-wood-loads-up-as-tesla-dives/).
 
 ## Requirements
 - Python 3.8
