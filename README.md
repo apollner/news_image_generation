@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scalise aide to Senate GOP: Border deal is dead on arrival in House**
+**Republican Party backs Greg Abbott’s border standoff**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4430149-scalise-aide-to-senate-gop-border-deal-is-dead-on-arrival-in-house/).
+You can read more about it [here](https://www.texastribune.org/2024/01/25/greg-abbott-border-republicans-joe-biden/).
 
 ## Requirements
 - Python 3.8
