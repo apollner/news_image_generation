@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick landing spots: Legendary coach running out of options as Falcons reach deal with Raheem Morris**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/bill-belichick-landing-spots-legendary-coach-running-out-of-options-as-falcons-reach-deal-with-raheem-morris/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
