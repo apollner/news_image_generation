@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**EXCLUSIVE: Willis, Wade and others expected to be subpoenaed for hearing on Fulton County DA affair allegations**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/01/25/politics/fulton-county-subpoenas-willis-wade-election-subversion/index.html).
 
 ## Requirements
 - Python 3.8
