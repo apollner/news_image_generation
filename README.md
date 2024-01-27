@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Microsoft Cancels Blizzard's Survival Game Amid Layoffs**
+**Kenyan court says police deployment to Haiti is unconstitutional**
 
-You can read more about it [here](https://kotaku.com/xbox-activision-blizzard-odyssey-survival-game-cancel-1851200488).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/01/26/kenya-haiti-police-deployment-unconstitutional/).
 
 ## Requirements
 - Python 3.8
