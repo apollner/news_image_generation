@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Jeremiah Talks Charger’ Jim Harbaugh Hire, AFC/NFC Title Games w/ Rich Eisen | Full Interview**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=k2HEDVWw31g).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
