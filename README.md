@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas attack: US pauses UNRWA funding over claims of staff involvement**
+**Bill Belichick landing spots: Legendary coach running out of options as Falcons reach deal with Raheem Morris**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68104203).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bill-belichick-landing-spots-legendary-coach-running-out-of-options-as-falcons-reach-deal-with-raheem-morris/).
 
 ## Requirements
 - Python 3.8
