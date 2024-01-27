@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenyan court says police deployment to Haiti is unconstitutional**
+**Apple lifts restrictions on Game Pass, GeForce Now streaming on iOS**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/01/26/kenya-haiti-police-deployment-unconstitutional/).
+You can read more about it [here](https://www.polygon.com/24051821/xbox-game-pass-ultimate-ios-app-geforce-now).
 
 ## Requirements
 - Python 3.8
