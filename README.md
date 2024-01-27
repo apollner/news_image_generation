@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan Chase shuffles top leaders as race to succeed Jamie Dimon drags on**
+**Jennifer Crumbley, Michigan school shooter's mother, to testify in manslaughter trial**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/25/jpmorgan-chase-shuffles-top-leaders-under-jamie-dimon.html).
+You can read more about it [here](https://abcnews.go.com/US/jennifer-crumbley-michigan-school-shooters-mother-testify-manslaughter/story?id=106668948).
 
 ## Requirements
 - Python 3.8
