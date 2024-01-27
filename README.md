@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S.C. pulls out tight win over LSU in 'game of runs'**
+**Trump ally drops plan to declare him presumptive presidential nominee**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39390630/gamecocks-rally-late-tight-win-lsu-game-runs).
+You can read more about it [here](https://www.reuters.com/world/us/trump-ally-wants-party-declare-him-presumptive-presidential-nominee-2024-01-25/).
 
 ## Requirements
 - Python 3.8
