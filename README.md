@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jordan Willis’ father defends him as mystery swirls around deaths of three Kansas City Chiefs fans: 'Didn’t do anything wrong'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2024/01/25/news/jordan-willis-father-defends-him-after-three-friends-found-dead/).
 
 ## Requirements
 - Python 3.8
