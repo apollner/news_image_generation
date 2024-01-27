@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican Party backs Greg Abbott’s border standoff**
+**Daniel Jeremiah Talks Charger’ Jim Harbaugh Hire, AFC/NFC Title Games w/ Rich Eisen | Full Interview**
 
-You can read more about it [here](https://www.texastribune.org/2024/01/25/greg-abbott-border-republicans-joe-biden/).
+You can read more about it [here](https://www.youtube.com/watch?v=k2HEDVWw31g).
 
 ## Requirements
 - Python 3.8
