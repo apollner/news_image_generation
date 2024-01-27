@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Poised for 550% Gain, Says Fund Manager Unfazed by Wipeout**
+**Hubble finds water vapor in small exoplanet’s atmosphere**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-poised-550-gain-says-140000054.html).
+You can read more about it [here](https://www.cnn.com/2024/01/26/world/exoplanet-water-vapor-hubble-scn/index.html).
 
 ## Requirements
 - Python 3.8
