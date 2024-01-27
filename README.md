@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Crumbley, Michigan school shooter's mother, to testify in manslaughter trial**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/jennifer-crumbley-michigan-school-shooters-mother-testify-manslaughter/story?id=106668948).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
