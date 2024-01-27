@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hubble finds water vapor in small exoplanet’s atmosphere**
+**Hamas attack: US pauses UNRWA funding over claims of staff involvement**
 
-You can read more about it [here](https://www.cnn.com/2024/01/26/world/exoplanet-water-vapor-hubble-scn/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68104203).
 
 ## Requirements
 - Python 3.8
