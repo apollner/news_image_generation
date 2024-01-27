@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California woman gets probation for fatally stabbing man she dated, causing 108 'sharp-force injuries'**
+**S.C. pulls out tight win over LSU in 'game of runs'**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/california-woman-gets-probation-fatally-stabbing-man-dated-causing-108-rcna135778).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39390630/gamecocks-rally-late-tight-win-lsu-game-runs).
 
 ## Requirements
 - Python 3.8
