@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trials of Michigan school shooter’s parents set to test limits of who’s responsible for a mass shooting**
+**Sofia Richie Is PREGNANT: Expecting Baby Girl With Husband Elliot Grainge! | E! News**
 
-You can read more about it [here](https://www.cnn.com/2024/01/25/us/james-jennifer-crumbley-school-shooting-trial/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=-knFYOdoJfQ).
 
 ## Requirements
 - Python 3.8
