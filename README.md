@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenyan court says police deployment to Haiti is unconstitutional**
+**Jury Sees Luxury Yachts Wayne LaPierre Used on Vendor's Dime**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/01/26/kenya-haiti-police-deployment-unconstitutional/).
+You can read more about it [here](https://www.businessinsider.com/jury-luxury-yachts-wayne-lapierre-used-on-vendors-dime-2024-1).
 
 ## Requirements
 - Python 3.8
