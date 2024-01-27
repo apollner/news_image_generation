@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump ally drops plan to declare him presumptive presidential nominee**
+**Dow Jones Futures: Stock Market Rises As Tesla Triggers Bearish Signals; Intel Tumbles Late**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-ally-wants-party-declare-him-presumptive-presidential-nominee-2024-01-25/).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rises-tesla-bearish-signals-intel-tumbles/).
 
 ## Requirements
 - Python 3.8
