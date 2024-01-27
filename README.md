@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury Sees Luxury Yachts Wayne LaPierre Used on Vendor's Dime**
+**Justin Timberlake & Britney Spears In ‘Selfish’ Chart Battle; Timberlake To Hit The Road**
 
-You can read more about it [here](https://www.businessinsider.com/jury-luxury-yachts-wayne-lapierre-used-on-vendors-dime-2024-1).
+You can read more about it [here](http://deadline.com/2024/01/justin-timberlake-britney-spears-1235805768/).
 
 ## Requirements
 - Python 3.8
