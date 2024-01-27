@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Falls As Intel Plunges On Earnings; Cathie Wood Loads Up As Tesla Dives**
+**Netanyahu must be removed, say top former Israeli national security officials**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-intel-plunges-on-earnings-cathie-wood-loads-up-as-tesla-dives/).
+You can read more about it [here](https://www.cnn.com/2024/01/26/middleeast/netanyahu-letter-israel-national-security-intl/index.html).
 
 ## Requirements
 - Python 3.8
