@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grades for 2024 NFL head coaching hires: Chargers get 'A' for Jim Harbaugh swing, Panthers bank on upside**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/grades-for-2024-nfl-head-coaching-hires-chargers-get-a-for-jim-harbaugh-swing-panthers-bank-on-upside/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
