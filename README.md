@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu must be removed, say top former Israeli national security officials**
+**Cruise "deeply remorseful" after scathing report on robotaxi pedestrian incident**
 
-You can read more about it [here](https://www.cnn.com/2024/01/26/middleeast/netanyahu-letter-israel-national-security-intl/index.html).
+You can read more about it [here](https://www.axios.com/2024/01/25/cruise-report-investigation).
 
 ## Requirements
 - Python 3.8
