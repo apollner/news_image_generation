@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sofia Richie Is PREGNANT: Expecting Baby Girl With Husband Elliot Grainge! | E! News**
+**Russian plane crash: Only five bodies delivered to Belgorod morgue, Ukrainian intelligence suggests**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-knFYOdoJfQ).
+You can read more about it [here](https://www.cnn.com/2024/01/25/europe/russian-plane-crash-belgorod-ukraine-intl/index.html).
 
 ## Requirements
 - Python 3.8
