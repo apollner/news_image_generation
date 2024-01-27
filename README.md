@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama nitrogen gas execution reignites US capital punishment debate**
+**Tesla Poised for 550% Gain, Says Fund Manager Unfazed by Wipeout**
 
-You can read more about it [here](https://apnews.com/article/nitrogen-execution-death-penalty-alabama-6d66344d3199f8c58f2408baa3df0738).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-poised-550-gain-says-140000054.html).
 
 ## Requirements
 - Python 3.8
