@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift deepfakes spread online, sparking outrage**
+**One More Thing the Houthis Could Do to Win Red Sea Rumble**
 
-You can read more about it [here](https://www.cbsnews.com/video/taylor-swift-deepfakes-spread-online-sparking-outrage/).
+You can read more about it [here](https://www.thedailybeast.com/theres-one-more-thing-the-houthis-can-do-to-escalate-red-sea-rumble).
 
 ## Requirements
 - Python 3.8
