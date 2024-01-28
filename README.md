@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFC/AFC Championship: Expert picks, predictions, moneyline, spread, over/under**
+**Russian Flight Il-76 Crash: What We Now Know About Ukrainian POW Disaster**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/1/27/24051835/nfl-nfc-afc-championship-playoffs-expert-picks-predictions-moneyline-spread-over-under-betting-line).
+You can read more about it [here](https://www.newsweek.com/russia-ukraine-plane-crash-ilyushin-1864525).
 
 ## Requirements
 - Python 3.8
