@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nitrogen gas execution was "textbook" and will be used again, Alabama attorney general says**
+**NASA orbiter spies Japan's struggling SLIM moon lander on lunar surface (photo)**
 
-You can read more about it [here](https://www.cbsnews.com/news/nitrogen-gas-execution-alabama-kenneth-eugene-smith-attorney-general/).
+You can read more about it [here](https://www.space.com/nasa-lunar-reconnaissance-orbiter-jaxa-slim-lander-image).
 
 ## Requirements
 - Python 3.8
