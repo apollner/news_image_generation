@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Readout of National Security Advisor Jake Sullivan’s Meeting with Chinese Communist Party Politburo Member, Director of the Office of the Foreign Affairs Commission, and Foreign Minister Wang Yi**
+**Animals including camels and zebras rescued from truck fire on Indiana interstate**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/27/readout-of-national-security-advisor-jake-sullivans-meeting-with-chinese-communist-party-politburo-member-director-of-the-office-of-the-foreign-affairs-commission-and-foreign-minister-wang-2/).
+You can read more about it [here](https://www.cnn.com/2024/01/27/us/camels-zebras-truck-fire-indiana-trnd/index.html).
 
 ## Requirements
 - Python 3.8
