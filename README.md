@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luka Dončić scores 73 points vs. Hawks, tied for fourth-most in NBA history**
+**Mars rover data confirms ancient lake sediments on red planet**
 
-You can read more about it [here](https://sports.yahoo.com/luka-doncic-scores-73-points-vs-hawks-tied-for-fourth-most-in-nba-history-023607554.html).
+You can read more about it [here](https://www.cnbc.com/2024/01/27/mars-rover-data-confirms-ancient-lake-sediments-on-red-planet.html).
 
 ## Requirements
 - Python 3.8
