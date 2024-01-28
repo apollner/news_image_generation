@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key quotes from Sherrone Moore's first press conference as head coach of Michigan football**
+**Readout of National Security Advisor Jake Sullivan’s Meeting with Chinese Communist Party Politburo Member, Director of the Office of the Foreign Affairs Commission, and Foreign Minister Wang Yi**
 
-You can read more about it [here](https://www.maizenbrew.com/2024/1/27/24052700/sherrone-moore-quotes-first-press-conference-head-coach-michigan-wolverines-college-football).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/27/readout-of-national-security-advisor-jake-sullivans-meeting-with-chinese-communist-party-politburo-member-director-of-the-office-of-the-foreign-affairs-commission-and-foreign-minister-wang-2/).
 
 ## Requirements
 - Python 3.8
