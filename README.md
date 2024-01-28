@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fuel tanker on fire after Houthi missile attack in Gulf of Aden**
+**UK measles outbreak reveals need to boost child vaccine uptake**
 
-You can read more about it [here](https://www.ft.com/content/74eca55a-2185-44c8-b367-effbcc00d265).
+You can read more about it [here](https://www.ft.com/content/0de3f6c2-b62b-4f4e-8db6-72a389ab4d78).
 
 ## Requirements
 - Python 3.8
