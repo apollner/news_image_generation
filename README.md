@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First nitrogen gas execution in US has happened, but did it go as expected?**
+**NFL Conference Championship Game Picks**
 
-You can read more about it [here](https://abcnews.go.com/US/alabama-attorney-general-believes-nitrogen-gas-executions-place/story?id=106704615).
+You can read more about it [here](https://www.youtube.com/watch?v=g76Pi0wFWoY).
 
 ## Requirements
 - Python 3.8
