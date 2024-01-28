@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, Jan. 27, 2024**
+**Alabama Nitrogen Gas Execution Smith US UN React Call It Deeply Troubled Cruel Inhuman**
 
-You can read more about it [here](https://chicago.suntimes.com/2024/1/27/24043492/horoscopes-today-saturday-jan-27-2024).
+You can read more about it [here](https://www.ndtv.com/world-news/alabama-nitrogen-gas-execution-smith-us-un-react-call-it-deeply-troubled-cruel-inhuman-4939767).
 
 ## Requirements
 - Python 3.8
