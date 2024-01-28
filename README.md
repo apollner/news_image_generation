@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Ayodhya Express reaches the Ram Temple**
+**Luka Dončić scores 73 points vs. Hawks, tied for fourth-most in NBA history**
 
-You can read more about it [here](https://www.youtube.com/watch?v=eJveA7M34ww).
+You can read more about it [here](https://sports.yahoo.com/luka-doncic-scores-73-points-vs-hawks-tied-for-fourth-most-in-nba-history-023607554.html).
 
 ## Requirements
 - Python 3.8
