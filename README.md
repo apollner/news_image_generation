@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles is “growing global threat,” CDC tells doctors in alert message**
+**Prisco's AFC, NFC title game picks: Patrick Mahomes, Chiefs take road to Super Bowl; Lions-49ers tight**
 
-You can read more about it [here](https://arstechnica.com/science/2024/01/cdc-puts-us-doctors-on-alert-for-measles-outbreaks-amid-global-surge/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-afc-nfc-title-game-picks-patrick-mahomes-chiefs-take-road-to-super-bowl-lions-49ers-tight/).
 
 ## Requirements
 - Python 3.8
