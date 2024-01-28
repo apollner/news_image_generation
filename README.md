@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars rover data confirms ancient lake sediments on red planet**
+**Adam Schiff Talks ‘Barbie’ Oscar Noms Snubs & Patriarchy With Bill Maher, Celebrates “True Justice” Of Today’s $83M Jury Verdict Against Trump**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/27/mars-rover-data-confirms-ancient-lake-sediments-on-red-planet.html).
+You can read more about it [here](http://deadline.com/2024/01/bill-maher-adam-schiff-interview-barbie-election-senate-1235806570/).
 
 ## Requirements
 - Python 3.8
