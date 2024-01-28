@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Taylor Swift deepfakes spread online, sparking outrage**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/video/taylor-swift-deepfakes-spread-online-sparking-outrage/).
 
 ## Requirements
 - Python 3.8
