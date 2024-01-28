@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump is on the hook for $88.3 million in defamation damages. What happens next?**
+**Rolex 24 At Daytona pre-race news and notes**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-e-jean-carroll-defamation-trial-6a869676243b99640002912470b62309).
+You can read more about it [here](https://racer.com/2024/01/27/rolex-24-at-daytona-pre-race-news-and-notes/).
 
 ## Requirements
 - Python 3.8
