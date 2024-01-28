@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sherrone Moore introduced as Michigan football coach: What we learned**
+**Netanyahu is defiant after UN court ruling as deaths in Gaza offensive continue**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/wolverines/2024/01/27/sherrone-moore-michigan-wolverines-football-coach-news-conference/72380056007/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-27-2024-8883a8bc0aa3552e880fb9e9b7e140b4).
 
 ## Requirements
 - Python 3.8
