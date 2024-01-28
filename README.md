@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What you should know about the moon area where Japan’s lander touched down**
+**NFC/AFC Championship: Expert picks, predictions, moneyline, spread, over/under**
 
-You can read more about it [here](https://www.cnn.com/2024/01/27/world/japan-lunar-lander-sea-of-nectar-scn/index.html).
+You can read more about it [here](https://www.prideofdetroit.com/2024/1/27/24051835/nfl-nfc-afc-championship-playoffs-expert-picks-predictions-moneyline-spread-over-under-betting-line).
 
 ## Requirements
 - Python 3.8
