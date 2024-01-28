@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain's King Charles III admitted to hospital for scheduled enlarged prostate treatment**
+**Travis Kelce reveals how he, Taylor Swift deal with relationship scrutiny: We don't listen to 'outside noise'**
 
-You can read more about it [here](https://www.cbsnews.com/news/king-charles-iii-admitted-hospital-enlarged-prostate-treatment-today/).
+You can read more about it [here](https://pagesix.com/2024/01/26/entertainment/travis-kelce-reveals-how-he-taylor-swift-deal-with-relationship-scrutiny/).
 
 ## Requirements
 - Python 3.8
