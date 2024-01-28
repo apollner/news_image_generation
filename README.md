@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's up with the 'toxicity' around Cities: Skylines II?**
+**Fuel tanker on fire after Houthi missile attack in Gulf of Aden**
 
-You can read more about it [here](https://www.engadget.com/whats-up-with-the-toxicity-around-cities-skylines-ii-213034938.html).
+You can read more about it [here](https://www.ft.com/content/74eca55a-2185-44c8-b367-effbcc00d265).
 
 ## Requirements
 - Python 3.8
