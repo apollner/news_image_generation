@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake & Britney Spears In ‘Selfish’ Chart Battle; Timberlake To Hit The Road**
+**Nitrogen gas execution was "textbook" and will be used again, Alabama attorney general says**
 
-You can read more about it [here](http://deadline.com/2024/01/justin-timberlake-britney-spears-1235805768/).
+You can read more about it [here](https://www.cbsnews.com/news/nitrogen-gas-execution-alabama-kenneth-eugene-smith-attorney-general/).
 
 ## Requirements
 - Python 3.8
