@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce reveals how he, Taylor Swift deal with relationship scrutiny: We don't listen to 'outside noise'**
+**Fuel tanker on fire after Houthi missile attack in Gulf of Aden**
 
-You can read more about it [here](https://pagesix.com/2024/01/26/entertainment/travis-kelce-reveals-how-he-taylor-swift-deal-with-relationship-scrutiny/).
+You can read more about it [here](https://www.ft.com/content/74eca55a-2185-44c8-b367-effbcc00d265).
 
 ## Requirements
 - Python 3.8
