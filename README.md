@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Jim Harbaugh leaving Michigan means for NCAA investigations as Sherrone Moore takes over as coach**
+**What's up with the 'toxicity' around Cities: Skylines II?**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/what-jim-harbaugh-leaving-michigan-means-for-ncaa-investigations-as-sherrone-moore-takes-over-as-coach/).
+You can read more about it [here](https://www.engadget.com/whats-up-with-the-toxicity-around-cities-skylines-ii-213034938.html).
 
 ## Requirements
 - Python 3.8
