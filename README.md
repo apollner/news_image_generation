@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian Flight Il-76 Crash: What We Now Know About Ukrainian POW Disaster**
+**Multi-vehicle crash prompts lane closures and major delays on US-50 Bay Bridge**
 
-You can read more about it [here](https://www.newsweek.com/russia-ukraine-plane-crash-ilyushin-1864525).
+You can read more about it [here](https://www.cbsnews.com/baltimore/news/multi-vehicle-crash-prompts-lane-closures-and-major-delays-on-the-bay-bridge/).
 
 ## Requirements
 - Python 3.8
