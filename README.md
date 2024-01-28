@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama Nitrogen Gas Execution Smith US UN React Call It Deeply Troubled Cruel Inhuman**
+**Fake explicit Taylor Swift images: White House is 'alarmed'**
 
-You can read more about it [here](https://www.ndtv.com/world-news/alabama-nitrogen-gas-execution-smith-us-un-react-call-it-deeply-troubled-cruel-inhuman-4939767).
+You can read more about it [here](https://abcnews.go.com/US/white-house-calls-legislation-regulate-ai-amid-explicit/story?id=106718520).
 
 ## Requirements
 - Python 3.8
