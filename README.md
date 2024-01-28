@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rolex 24 At Daytona pre-race news and notes**
+**Animals including camels and zebras rescued from truck fire on Indiana interstate**
 
-You can read more about it [here](https://racer.com/2024/01/27/rolex-24-at-daytona-pre-race-news-and-notes/).
+You can read more about it [here](https://www.cnn.com/2024/01/27/us/camels-zebras-truck-fire-indiana-trnd/index.html).
 
 ## Requirements
 - Python 3.8
