@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Before its demise, NASA's Mars helicopter captured a glorious aerial view**
+**Key quotes from Sherrone Moore's first press conference as head coach of Michigan football**
 
-You can read more about it [here](https://mashable.com/article/nasa-ingenuity-helicopter-last-mars-image).
+You can read more about it [here](https://www.maizenbrew.com/2024/1/27/24052700/sherrone-moore-quotes-first-press-conference-head-coach-michigan-wolverines-college-football).
 
 ## Requirements
 - Python 3.8
