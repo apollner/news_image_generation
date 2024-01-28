@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Animals including camels and zebras rescued from truck fire on Indiana interstate**
+**Sherrone Moore introduced as Michigan football coach: What we learned**
 
-You can read more about it [here](https://www.cnn.com/2024/01/27/us/camels-zebras-truck-fire-indiana-trnd/index.html).
+You can read more about it [here](https://www.freep.com/story/sports/college/university-michigan/wolverines/2024/01/27/sherrone-moore-michigan-wolverines-football-coach-news-conference/72380056007/).
 
 ## Requirements
 - Python 3.8
