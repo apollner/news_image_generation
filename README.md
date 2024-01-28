@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Conference Championship Game Picks**
+**‘The View’ co-hosts slam Georgia DA Fani Willis for alleged affair with Trump prosecutor**
 
-You can read more about it [here](https://www.youtube.com/watch?v=g76Pi0wFWoY).
+You can read more about it [here](https://www.foxnews.com/media/view-co-hosts-slam-georgia-da-fani-willis-alleged-affair-trump-prosecutor).
 
 ## Requirements
 - Python 3.8
