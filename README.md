@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil tanker on fire in Gulf of Aden after Houthi missile attack**
+**First nitrogen gas execution in US has happened, but did it go as expected?**
 
-You can read more about it [here](https://www.cnn.com/2024/01/26/middleeast/oil-tanker-fire-houthi-missile-attack-gulf-aden-intl/index.html).
+You can read more about it [here](https://abcnews.go.com/US/alabama-attorney-general-believes-nitrogen-gas-executions-place/story?id=106704615).
 
 ## Requirements
 - Python 3.8
