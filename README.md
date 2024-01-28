@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Avian flu is devastating farms in California's 'Egg Basket' as outbreaks roil poultry industry**
+**Horoscope for Saturday, Jan. 27, 2024**
 
-You can read more about it [here](https://apnews.com/article/avian-flu-chicken-outbreak-california-poultry-eggs-976f0f82843bf716dbad64f459b4b8be).
+You can read more about it [here](https://chicago.suntimes.com/2024/1/27/24043492/horoscopes-today-saturday-jan-27-2024).
 
 ## Requirements
 - Python 3.8
