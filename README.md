@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adam Schiff Talks ‘Barbie’ Oscar Noms Snubs & Patriarchy With Bill Maher, Celebrates “True Justice” Of Today’s $83M Jury Verdict Against Trump**
+**World reacts to ICJ interim ruling in Gaza genocide case against Israel**
 
-You can read more about it [here](http://deadline.com/2024/01/bill-maher-adam-schiff-interview-barbie-election-senate-1235806570/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/1/26/world-reacts-to-icj-ruling-on-south-africas-genocide-case-against-israel).
 
 ## Requirements
 - Python 3.8
