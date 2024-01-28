@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's AFC, NFC title game picks: Patrick Mahomes, Chiefs take road to Super Bowl; Lions-49ers tight**
+**Britain's King Charles III admitted to hospital for scheduled enlarged prostate treatment**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-afc-nfc-title-game-picks-patrick-mahomes-chiefs-take-road-to-super-bowl-lions-49ers-tight/).
+You can read more about it [here](https://www.cbsnews.com/news/king-charles-iii-admitted-hospital-enlarged-prostate-treatment-today/).
 
 ## Requirements
 - Python 3.8
