@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multi-vehicle crash prompts lane closures and major delays on US-50 Bay Bridge**
+**Before its demise, NASA's Mars helicopter captured a glorious aerial view**
 
-You can read more about it [here](https://www.cbsnews.com/baltimore/news/multi-vehicle-crash-prompts-lane-closures-and-major-delays-on-the-bay-bridge/).
+You can read more about it [here](https://mashable.com/article/nasa-ingenuity-helicopter-last-mars-image).
 
 ## Requirements
 - Python 3.8
