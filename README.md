@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fuel tanker on fire after Houthi missile attack in Gulf of Aden**
+**Oil tanker on fire in Gulf of Aden after Houthi missile attack**
 
-You can read more about it [here](https://www.ft.com/content/74eca55a-2185-44c8-b367-effbcc00d265).
+You can read more about it [here](https://www.cnn.com/2024/01/26/middleeast/oil-tanker-fire-houthi-missile-attack-gulf-aden-intl/index.html).
 
 ## Requirements
 - Python 3.8
