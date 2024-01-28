@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haitians are desperate after Kenyan court blocks police force deployment**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/01/27/1227382379/haitians-are-desperate-after-kenyan-court-blocks-police-force-deployment).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
