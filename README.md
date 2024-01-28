@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA orbiter spies Japan's struggling SLIM moon lander on lunar surface (photo)**
+**Measles is “growing global threat,” CDC tells doctors in alert message**
 
-You can read more about it [here](https://www.space.com/nasa-lunar-reconnaissance-orbiter-jaxa-slim-lander-image).
+You can read more about it [here](https://arstechnica.com/science/2024/01/cdc-puts-us-doctors-on-alert-for-measles-outbreaks-amid-global-surge/).
 
 ## Requirements
 - Python 3.8
