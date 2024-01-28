@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fuel tanker on fire after Houthi missile attack in Gulf of Aden**
+**What Jim Harbaugh leaving Michigan means for NCAA investigations as Sherrone Moore takes over as coach**
 
-You can read more about it [here](https://www.ft.com/content/74eca55a-2185-44c8-b367-effbcc00d265).
+You can read more about it [here](https://www.cbssports.com/college-football/news/what-jim-harbaugh-leaving-michigan-means-for-ncaa-investigations-as-sherrone-moore-takes-over-as-coach/).
 
 ## Requirements
 - Python 3.8
