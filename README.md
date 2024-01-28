@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Animals including camels and zebras rescued from truck fire on Indiana interstate**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/01/27/us/camels-zebras-truck-fire-indiana-trnd/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
