@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One More Thing the Houthis Could Do to Win Red Sea Rumble**
+**What you should know about the moon area where Japan’s lander touched down**
 
-You can read more about it [here](https://www.thedailybeast.com/theres-one-more-thing-the-houthis-can-do-to-escalate-red-sea-rumble).
+You can read more about it [here](https://www.cnn.com/2024/01/27/world/japan-lunar-lander-sea-of-nectar-scn/index.html).
 
 ## Requirements
 - Python 3.8
