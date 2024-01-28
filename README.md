@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The View’ co-hosts slam Georgia DA Fani Willis for alleged affair with Trump prosecutor**
+**Avian flu is devastating farms in California's 'Egg Basket' as outbreaks roil poultry industry**
 
-You can read more about it [here](https://www.foxnews.com/media/view-co-hosts-slam-georgia-da-fani-willis-alleged-affair-trump-prosecutor).
+You can read more about it [here](https://apnews.com/article/avian-flu-chicken-outbreak-california-poultry-eggs-976f0f82843bf716dbad64f459b4b8be).
 
 ## Requirements
 - Python 3.8
