@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X blocks searches for Taylor Swift after explicit AI images of her go viral**
+**E. Jean Carroll says she'll 'do something good' with $83.3m from Trump**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68123671).
+You can read more about it [here](https://www.businessinsider.com/trump-e-jean-carroll-defamation-damages-trial-2024-1).
 
 ## Requirements
 - Python 3.8
