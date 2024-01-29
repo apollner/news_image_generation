@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about Israel’s allegations against UN staffers in Gaza**
+**Texas-bound 'Take Our Border Back' convoy to 'shed light' on migrant crisis, 'send a message' to leaders**
 
-You can read more about it [here](https://www.cnn.com/2024/01/27/middleeast/unrwa-israel-hamas-october-7-allegations-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/us/texas-bound-take-border-back-convoy-shed-light-migrant-crisis-send-message-leaders).
 
 ## Requirements
 - Python 3.8
