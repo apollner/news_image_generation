@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**15 million Americans under flood watch as rain drenches Northeast**
+**Woman says she lost her voice screaming after she was stuck overnight on ski resort gondola**
 
-You can read more about it [here](https://abcnews.go.com/US/15-million-americans-flood-watch-rain-drenches-northeast/story?id=106747756).
+You can read more about it [here](https://www.cnn.com/2024/01/28/travel/lake-tahoe-ski-resort-gondola-trnd/index.html).
 
 ## Requirements
 - Python 3.8
