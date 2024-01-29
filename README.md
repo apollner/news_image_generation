@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump poses dilemma for Senate GOP leaders after years of battling with McConnell**
+**Icon of the Seas: World's largest cruise ship sets sail from Miami**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/politics/trump-republican-senate-leadership/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68118822).
 
 ## Requirements
 - Python 3.8
