@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fake explicit Taylor Swift images: White House is 'alarmed'**
+**Mona Lisa: Protesters throw soup at da Vinci painting**
 
-You can read more about it [here](https://abcnews.go.com/US/white-house-calls-legislation-regulate-ai-amid-explicit/story?id=106718520).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68121654).
 
 ## Requirements
 - Python 3.8
