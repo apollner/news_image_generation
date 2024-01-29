@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what the ICJ's Gaza order means for Israel-Hamas war**
+**US sees signs of progress on deal to release hostages, temporarily pause Hamas war**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/01/27/icj-ruling-gaza-genocide-what-it-means/72365162007/).
+You can read more about it [here](https://www.timesofisrael.com/us-sees-signs-of-progress-on-deal-to-release-hostages-temporarily-pause-hamas-war/).
 
 ## Requirements
 - Python 3.8
