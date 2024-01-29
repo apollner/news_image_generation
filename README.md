@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles outbreaks a wake-up call for the unvaccinated**
+**UNRWA chief 'shocked' after countries pause funding**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4432414-measles-outbreaks-unvaccinated/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/unrwa-chief-shocked-after-countries-pause-funding-2024-01-27/).
 
 ## Requirements
 - Python 3.8
