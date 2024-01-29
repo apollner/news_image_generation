@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Netanyahu is defiant after UN court ruling as deaths in Gaza offensive continue**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-27-2024-8883a8bc0aa3552e880fb9e9b7e140b4).
 
 ## Requirements
 - Python 3.8
