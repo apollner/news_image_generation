@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL championship round bold predictions: Patrick Mahomes, Brock Purdy struggle, with different results**
+**Trump-endorsed candidate Gina Swoboda wins election as Arizona Republican Party chair**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-championship-round-bold-predictions-patrick-mahomes-brock-purdy-struggle-with-different-results/).
+You can read more about it [here](https://www.azcentral.com/story/news/politics/arizona/2024/01/27/new-arizona-republican-party-chair-is-gina-swoboda-endorsed-by-trump/72373449007/).
 
 ## Requirements
 - Python 3.8
