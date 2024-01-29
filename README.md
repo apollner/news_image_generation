@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu is defiant after UN court ruling as deaths in Gaza offensive continue**
+**Avian flu is devastating farms in California's 'Egg Basket' as outbreaks roil poultry industry**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-27-2024-8883a8bc0aa3552e880fb9e9b7e140b4).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/avian-flu-devastating-farms-californias-egg-basket-outbreaks-106729653).
 
 ## Requirements
 - Python 3.8
