@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Majority Whip: Biden only interested in border because it’s a ‘political liability’**
+**2024 NFL championship round bold predictions: Patrick Mahomes, Brock Purdy struggle, with different results**
 
-You can read more about it [here](https://thehill.com/homenews/house/4433491-emmer-biden-only-interested-border-political-liability/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-championship-round-bold-predictions-patrick-mahomes-brock-purdy-struggle-with-different-results/).
 
 ## Requirements
 - Python 3.8
