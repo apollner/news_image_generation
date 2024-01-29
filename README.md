@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman says she lost her voice screaming after she was stuck overnight on ski resort gondola**
+**Tigers sign infield prospect Colt Keith to 6-year, $28.6M deal**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/travel/lake-tahoe-ski-resort-gondola-trnd/index.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/39409250/tigers-sign-infield-prospect-colt-keith-6-year-286m-deal).
 
 ## Requirements
 - Python 3.8
