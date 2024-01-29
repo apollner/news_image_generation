@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French farmers aim to put Paris 'under siege' in tractor protest. Activists hurl soup at 'Mona Lisa'**
+**SpaceX to launch 2 rockets 3 hours apart today in Starlink doubleheader**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/french-farmers-aim-put-paris-siege-tractor-protest-106746513).
+You can read more about it [here](https://www.space.com/spacex-starlink-launch-doubleheader-january-2024).
 
 ## Requirements
 - Python 3.8
