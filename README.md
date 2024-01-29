@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Koch officials tell donors Nikki Haley was the right candidate to back, despite early losses to Trump**
+**Biden admin slams 'political targeting' of Venezuela opposition leader banned from running for president**
 
-You can read more about it [here](https://www.cnn.com/2024/01/27/politics/koch-donors-nikki-haley-donald-trump-south-carolina/index.html).
+You can read more about it [here](https://www.foxnews.com/world/biden-admin-slams-political-targeting-venezuela-opposition-leader-banned-running-president).
 
 ## Requirements
 - Python 3.8
