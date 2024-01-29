@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**These 5 maps show how much snow to expect from Sunday's storm in Mass.**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.masslive.com/weather/2024/01/massachusetts-weather-these-5-maps-show-how-much-snow-to-expect-sunday.html).
 
 ## Requirements
 - Python 3.8
