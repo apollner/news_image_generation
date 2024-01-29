@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launch 2 rockets 3 hours apart today in Starlink doubleheader**
+**Woman says she lost her voice screaming after she was stuck overnight on ski resort gondola**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-doubleheader-january-2024).
+You can read more about it [here](https://www.cnn.com/2024/01/28/travel/lake-tahoe-ski-resort-gondola-trnd/index.html).
 
 ## Requirements
 - Python 3.8
