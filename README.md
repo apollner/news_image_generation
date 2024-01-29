@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Saturday Night Live’: Jimmy Fallon and Justin Timberlake Crash Dakota Johnson’s Monologue**
+**WWE Royal Rumble 2024 Results: Winners And Grades On January 27**
 
-You can read more about it [here](https://variety.com/2024/tv/news/snl-jimmy-fallon-justin-timberlake-dakota-johnson-trump-swift-1235889719/).
+You can read more about it [here](https://www.forbes.com/sites/alfredkonuwa/2024/01/28/wwe-royal-rumble-2024-results-winners-and-grades-on-january-27/).
 
 ## Requirements
 - Python 3.8
