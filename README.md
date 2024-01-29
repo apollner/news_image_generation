@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas-bound 'Take Our Border Back' convoy to 'shed light' on migrant crisis, 'send a message' to leaders**
+**Texas defies White House demands to allow federal agents into border park**
 
-You can read more about it [here](https://www.foxnews.com/us/texas-bound-take-border-back-convoy-shed-light-migrant-crisis-send-message-leaders).
+You can read more about it [here](https://www.cbsnews.com/video/texas-defies-white-house-demands-to-allow-federal-agents-into-border-park/).
 
 ## Requirements
 - Python 3.8
