@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US sees signs of progress on deal to release hostages, temporarily pause Hamas war**
+**‘Saturday Night Live’: Jimmy Fallon and Justin Timberlake Crash Dakota Johnson’s Monologue**
 
-You can read more about it [here](https://www.timesofisrael.com/us-sees-signs-of-progress-on-deal-to-release-hostages-temporarily-pause-hamas-war/).
+You can read more about it [here](https://variety.com/2024/tv/news/snl-jimmy-fallon-justin-timberlake-dakota-johnson-trump-swift-1235889719/).
 
 ## Requirements
 - Python 3.8
