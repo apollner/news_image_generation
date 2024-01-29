@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden seizes on tougher border measures as he tries to fend off Trump attacks**
+**Koch officials tell donors Nikki Haley was the right candidate to back, despite early losses to Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/01/27/politics/biden-border-shut-down-us-mexico-immigration/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/27/politics/koch-donors-nikki-haley-donald-trump-south-carolina/index.html).
 
 ## Requirements
 - Python 3.8
