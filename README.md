@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Royal Rumble 2024 Results: Winners And Grades On January 27**
+**Icon of the Seas: World's largest cruise ship sets sail from Miami**
 
-You can read more about it [here](https://www.forbes.com/sites/alfredkonuwa/2024/01/28/wwe-royal-rumble-2024-results-winners-and-grades-on-january-27/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68118822).
 
 ## Requirements
 - Python 3.8
