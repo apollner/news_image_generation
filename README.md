@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump-endorsed candidate Gina Swoboda wins election as Arizona Republican Party chair**
+**Biden seizes on tougher border measures as he tries to fend off Trump attacks**
 
-You can read more about it [here](https://www.azcentral.com/story/news/politics/arizona/2024/01/27/new-arizona-republican-party-chair-is-gina-swoboda-endorsed-by-trump/72373449007/).
+You can read more about it [here](https://www.cnn.com/2024/01/27/politics/biden-border-shut-down-us-mexico-immigration/index.html).
 
 ## Requirements
 - Python 3.8
