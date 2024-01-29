@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Avian flu is devastating farms in California's 'Egg Basket' as outbreaks roil poultry industry**
+**Trump can delay paying full E. Jean Carroll damages until after appeal: report**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/avian-flu-devastating-farms-californias-egg-basket-outbreaks-106729653).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4433642-trump-can-delay-paying-full-e-jean-carroll-damages-until-after-appeal-report/).
 
 ## Requirements
 - Python 3.8
