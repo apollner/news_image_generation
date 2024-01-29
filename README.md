@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman says she lost her voice screaming after she was stuck overnight on ski resort gondola**
+**Lake uses GOP chief battle to bolster ‘outsider’ case**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/travel/lake-tahoe-ski-resort-gondola-trnd/index.html).
+You can read more about it [here](https://thehill.com/homenews/campaign/4434115-lake-uses-gop-chief-battle-to-bolster-outsider-case/).
 
 ## Requirements
 - Python 3.8
