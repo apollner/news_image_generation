@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: UN chief calls for countries to resume funding to UNRWA**
+**Measles outbreaks a wake-up call for the unvaccinated**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-28-2024-d5428ea92fd54213497c34b8f2c78182).
+You can read more about it [here](https://www.woodtv.com/hill-politics/measles-outbreaks-a-wake-up-call-for-the-unvaccinated/).
 
 ## Requirements
 - Python 3.8
