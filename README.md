@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Fed meeting, big tech earnings and the January jobs report: What to know this week**
+**15 million Americans under flood watch as rain drenches Northeast**
 
-You can read more about it [here](https://finance.yahoo.com/news/a-fed-meeting-big-tech-earnings-and-the-january-jobs-report-what-to-know-this-week-181304626.html).
+You can read more about it [here](https://abcnews.go.com/US/15-million-americans-flood-watch-rain-drenches-northeast/story?id=106747756).
 
 ## Requirements
 - Python 3.8
