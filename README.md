@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL championship round bold predictions: Patrick Mahomes, Brock Purdy struggle, with different results**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-championship-round-bold-predictions-patrick-mahomes-brock-purdy-struggle-with-different-results/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
