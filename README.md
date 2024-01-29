@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden admin slams 'political targeting' of Venezuela opposition leader banned from running for president**
+**What we know about Israel’s allegations against UN staffers in Gaza**
 
-You can read more about it [here](https://www.foxnews.com/world/biden-admin-slams-political-targeting-venezuela-opposition-leader-banned-running-president).
+You can read more about it [here](https://www.cnn.com/2024/01/27/middleeast/unrwa-israel-hamas-october-7-allegations-intl/index.html).
 
 ## Requirements
 - Python 3.8
