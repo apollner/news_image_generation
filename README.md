@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNRWA chief 'shocked' after countries pause funding**
+**House Majority Whip: Biden only interested in border because it’s a ‘political liability’**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/unrwa-chief-shocked-after-countries-pause-funding-2024-01-27/).
+You can read more about it [here](https://thehill.com/homenews/house/4433491-emmer-biden-only-interested-border-political-liability/).
 
 ## Requirements
 - Python 3.8
