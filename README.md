@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles outbreaks a wake-up call for the unvaccinated**
+**Climate activists throw soup at the glass protecting the Mona Lisa as farmers' protests continue**
 
-You can read more about it [here](https://www.woodtv.com/hill-politics/measles-outbreaks-a-wake-up-call-for-the-unvaccinated/).
+You can read more about it [here](https://apnews.com/article/france-farmers-protests-louvre-mona-lisa-activists-b5bb8a4c37ba0cc0b04be57c42161a57).
 
 ## Requirements
 - Python 3.8
