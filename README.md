@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump can delay paying full E. Jean Carroll damages until after appeal: report**
+**2024 NFL championship round bold predictions: Patrick Mahomes, Brock Purdy struggle, with different results**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4433642-trump-can-delay-paying-full-e-jean-carroll-damages-until-after-appeal-report/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-championship-round-bold-predictions-patrick-mahomes-brock-purdy-struggle-with-different-results/).
 
 ## Requirements
 - Python 3.8
