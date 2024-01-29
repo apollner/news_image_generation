@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**E. Jean Carroll says she'll 'do something good' with $83.3m from Trump**
+**A Fed meeting, big tech earnings and the January jobs report: What to know this week**
 
-You can read more about it [here](https://www.businessinsider.com/trump-e-jean-carroll-defamation-damages-trial-2024-1).
+You can read more about it [here](https://finance.yahoo.com/news/a-fed-meeting-big-tech-earnings-and-the-january-jobs-report-what-to-know-this-week-181304626.html).
 
 ## Requirements
 - Python 3.8
