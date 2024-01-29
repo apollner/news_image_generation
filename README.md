@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas defies White House demands to allow federal agents into border park**
+**Notre Dame vs. UConn Game Highlights | 2023-24 ACC Women's Basketball**
 
-You can read more about it [here](https://www.cbsnews.com/video/texas-defies-white-house-demands-to-allow-federal-agents-into-border-park/).
+You can read more about it [here](https://www.youtube.com/watch?v=VJHjNwjkPAw).
 
 ## Requirements
 - Python 3.8
