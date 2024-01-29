@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Climate activists throw soup at the glass protecting the Mona Lisa as farmers' protests continue**
+**Trump poses dilemma for Senate GOP leaders after years of battling with McConnell**
 
-You can read more about it [here](https://apnews.com/article/france-farmers-protests-louvre-mona-lisa-activists-b5bb8a4c37ba0cc0b04be57c42161a57).
+You can read more about it [here](https://www.cnn.com/2024/01/28/politics/trump-republican-senate-leadership/index.html).
 
 ## Requirements
 - Python 3.8
