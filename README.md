@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Icon of the Seas: World's largest cruise ship sets sail from Miami**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68118822).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
