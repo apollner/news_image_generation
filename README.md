@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These 5 maps show how much snow to expect from Sunday's storm in Mass.**
+**French farmers aim to put Paris 'under siege' in tractor protest. Activists hurl soup at 'Mona Lisa'**
 
-You can read more about it [here](https://www.masslive.com/weather/2024/01/massachusetts-weather-these-5-maps-show-how-much-snow-to-expect-sunday.html).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/french-farmers-aim-put-paris-siege-tractor-protest-106746513).
 
 ## Requirements
 - Python 3.8
