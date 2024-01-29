@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Icon of the Seas: World's largest cruise ship sets sail from Miami**
+**Mona Lisa: Protesters throw soup at da Vinci painting**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68118822).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68121654).
 
 ## Requirements
 - Python 3.8
