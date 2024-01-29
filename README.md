@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tigers sign infield prospect Colt Keith to 6-year, $28.6M deal**
+**X blocks searches for Taylor Swift after explicit AI images of her go viral**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39409250/tigers-sign-infield-prospect-colt-keith-6-year-286m-deal).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68123671).
 
 ## Requirements
 - Python 3.8
