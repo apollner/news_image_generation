@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea fired several cruise missiles, South Korea says**
+**Video: Nancy Pelosi suggests some pro-Palestinian protesters are connected to Russia**
 
-You can read more about it [here](https://www.politico.com/news/2024/01/28/north-korea-fires-cruise-missiles-00138273).
+You can read more about it [here](https://www.cnn.com/videos/politics/2024/01/29/nancy-pelosi-israel-palestinian-gaza-protestors-sotu-sot-vpx.cnn).
 
 ## Requirements
 - Python 3.8
