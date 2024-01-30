@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears appears to apologise to Justin Timberlake over book allegations**
+**1st gravitational wave detector in space 'LISA' will hunt for ripples in spacetime**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68127879).
+You can read more about it [here](https://www.space.com/gravitational-wave-detector-space-lisa-ripples-spacetime-esa-nasa).
 
 ## Requirements
 - Python 3.8
