@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers come back from 17 points down to beat Lions, will face Chiefs in Super Bowl LVIII**
+**Arc Search: a new iPhone app combining browser, search, and AI**
 
-You can read more about it [here](https://sports.yahoo.com/49ers-come-back-from-17-points-down-to-beat-lions-will-face-chiefs-in-super-bowl-lviii-025044394.html).
+You can read more about it [here](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios).
 
 ## Requirements
 - Python 3.8
