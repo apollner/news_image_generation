@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple measles outbreaks prompt CDC alert**
+**Nicki Minaj Escalates Megan Thee Stallion Feud With New Song "Big Foot": Listen**
 
-You can read more about it [here](https://fox8.com/news/multiple-measles-outbreaks-prompt-cdc-alert/).
+You can read more about it [here](https://www.stereogum.com/2249541/nicki-minaj-escalates-megan-thee-stallion-feud-with-new-song-bigfoot/music/).
 
 ## Requirements
 - Python 3.8
