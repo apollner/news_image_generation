@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alzheimer's was passed between humans in now-banned procedure, study finds**
+**Enemy drone that killed US troops in Jordan was mistaken for a US drone, preliminary report suggests**
 
-You can read more about it [here](https://www.ft.com/content/745aa1e2-54fb-483b-9527-4c132f9a6aef).
+You can read more about it [here](https://apnews.com/article/jordan-drone-attack-attack-confusion-f175962e058b9b6f668303faf248d8e6).
 
 ## Requirements
 - Python 3.8
