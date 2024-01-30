@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hubble Spots Water Vapor in Small Exoplanet's Atmosphere**
+**North Korea fired several cruise missiles, South Korea says**
 
-You can read more about it [here](https://scitechdaily.com/hubble-spots-water-vapor-in-small-exoplanets-atmosphere/).
+You can read more about it [here](https://www.politico.com/news/2024/01/28/north-korea-fires-cruise-missiles-00138273).
 
 ## Requirements
 - Python 3.8
