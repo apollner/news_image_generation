@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple measles outbreaks prompt CDC alert**
+**Britney Spears appears to apologise to Justin Timberlake over book allegations**
 
-You can read more about it [here](https://fox8.com/news/multiple-measles-outbreaks-prompt-cdc-alert/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68127879).
 
 ## Requirements
 - Python 3.8
