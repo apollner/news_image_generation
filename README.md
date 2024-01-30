@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicki Minaj Escalates Megan Thee Stallion Feud With New Song "Big Foot": Listen**
+**Fossil smartwatches made up just 2% of the market**
 
-You can read more about it [here](https://www.stereogum.com/2249541/nicki-minaj-escalates-megan-thee-stallion-feud-with-new-song-bigfoot/music/).
+You can read more about it [here](https://9to5google.com/2024/01/29/fossil-smartwatches-market-report/).
 
 ## Requirements
 - Python 3.8
