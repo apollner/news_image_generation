@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X blocks searches of Taylor Swift to combat explicit deepfakes**
+**Three US troops killed in drone attack in Jordan, more than 30 injured**
 
-You can read more about it [here](https://thehill.com/policy/technology/4434813-x-blocks-searches-of-taylor-swift-to-combat-explicit-deepfakes/).
+You can read more about it [here](https://www.cnn.com/2024/01/28/politics/us-troops-drone-attack-jordan/index.html).
 
 ## Requirements
 - Python 3.8
