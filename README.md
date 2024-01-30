@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures fall ahead of big tech earnings and Fed meeting decision: Live updates**
+**Hubble Spots Water Vapor in Small Exoplanet's Atmosphere**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html).
+You can read more about it [here](https://scitechdaily.com/hubble-spots-water-vapor-in-small-exoplanets-atmosphere/).
 
 ## Requirements
 - Python 3.8
