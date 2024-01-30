@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three US troops killed in drone attack in Jordan, more than 30 injured**
+**Protesters hurl soup at the ‘Mona Lisa’ in Paris**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/politics/us-troops-drone-attack-jordan/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html).
 
 ## Requirements
 - Python 3.8
