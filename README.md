@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dying 'Wizard of Oz' ruby slippers thief gets no jail time**
+**Alzheimer's was passed between humans in now-banned procedure, study finds**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/dying-wizard-oz-ruby-slippers-thief-gets-no-jail-time).
+You can read more about it [here](https://www.ft.com/content/745aa1e2-54fb-483b-9527-4c132f9a6aef).
 
 ## Requirements
 - Python 3.8
