@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens QB Lamar Jackson can't hide his disappointment after stumbling against Chiefs**
+**iOS 18 could be the 'biggest' software update in iPhone history – here's why**
 
-You can read more about it [here](https://www.courier-journal.com/story/sports/nfl/super-bowl/2024/01/29/lamar-jackson-disappointment-struggling-ravens-loss-chiefs/72393230007/).
+You can read more about it [here](https://www.techradar.com/phones/ios/ios-18-could-be-the-biggest-software-update-in-iphone-history-heres-why).
 
 ## Requirements
 - Python 3.8
