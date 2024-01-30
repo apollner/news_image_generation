@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Apologizes to Justin Timberlake, Praises New Music**
+**Stocks rise slightly as traders await big tech earnings and Fed meeting decision: Live updates**
 
-You can read more about it [here](https://www.tmz.com/2024/01/29/britney-spears-apologizes-justin-timberlake-memoir-praises-new-music/).
+You can read more about it [here](https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html).
 
 ## Requirements
 - Python 3.8
