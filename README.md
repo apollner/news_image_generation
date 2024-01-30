@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**E. Jean Carroll says she plans to use $83 million on 'something Donald Trump hates'**
+**Britney Spears Apologizes to Justin Timberlake, Praises New Music**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/jean-carroll-plans-83-million-donald-trump-hates/story?id=106751516).
+You can read more about it [here](https://www.tmz.com/2024/01/29/britney-spears-apologizes-justin-timberlake-memoir-praises-new-music/).
 
 ## Requirements
 - Python 3.8
