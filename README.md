@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Alzheimer's drugs bring hope. But not equally for all patients.**
+**Protesters hurl soup at the ‘Mona Lisa’ in Paris**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/01/29/alzheimers-new-drugs-black-patients-leqembi/).
+You can read more about it [here](https://www.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html).
 
 ## Requirements
 - Python 3.8
