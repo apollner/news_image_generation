@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters hurl soup at the ‘Mona Lisa’ in Paris**
+**49ers come back from 17 points down to beat Lions, will face Chiefs in Super Bowl LVIII**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html).
+You can read more about it [here](https://sports.yahoo.com/49ers-come-back-from-17-points-down-to-beat-lions-will-face-chiefs-in-super-bowl-lviii-025044394.html).
 
 ## Requirements
 - Python 3.8
