@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evergrande Faces Imminent Liquidation After Talks With Top Creditors Break Down**
+**2 dead, including suspect, and 2 police officers wounded in Florida shootout**
 
-You can read more about it [here](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657).
+You can read more about it [here](https://www.cnn.com/2024/01/28/us/florida-palm-bay-police-shooting/index.html).
 
 ## Requirements
 - Python 3.8
