@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Releases New Stolen Device Protection**
+**Stock futures fall ahead of big tech earnings and Fed meeting decision: Live updates**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/apple-releases-new-stolen-device-protection/7457482.html).
+You can read more about it [here](https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html).
 
 ## Requirements
 - Python 3.8
