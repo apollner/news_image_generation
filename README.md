@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope Today: Astrological prediction for January 30, 2024**
+**Bettor nets $70,000 thanks to Dan Campbell's odd Lions call**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-january-30-2024-101706541911292.html).
+You can read more about it [here](https://nypost.com/2024/01/29/sports/bettor-nets-70000-thanks-to-dan-campbells-odd-lions-call/).
 
 ## Requirements
 - Python 3.8
