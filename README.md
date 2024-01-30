@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead, including suspect, and 2 police officers wounded in Florida shootout**
+**Singapore's central bank leaves policy unchanged in first quarterly meeting of 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/us/florida-palm-bay-police-shooting/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/01/29/singapores-central-bank-leaves-policy-unchanged-in-first-quarterly-meeting-of-2024.html).
 
 ## Requirements
 - Python 3.8
