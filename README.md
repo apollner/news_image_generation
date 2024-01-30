@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs make Super Bowl LVIII: Patrick Mahomes, Andy Reid and Kansas City all make history after beating Ravens**
+**Stock futures fall ahead of big tech earnings and Fed meeting decision: Live updates**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-make-super-bowl-lviii-patrick-mahomes-andy-reid-and-kansas-city-all-make-history-after-beating-ravens/).
+You can read more about it [here](https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html).
 
 ## Requirements
 - Python 3.8
