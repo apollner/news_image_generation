@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Great white sighting may reveal a ‘holy grail’ of shark science**
+**Horoscope Today: Astrological prediction for January 30, 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/01/29/americas/first-sighting-of-newborn-great-white-shark-scn/index.html).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-january-30-2024-101706541911292.html).
 
 ## Requirements
 - Python 3.8
