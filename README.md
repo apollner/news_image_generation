@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals quarterback Joe Burrow chimes in on AFC Championship game**
+**X blocks searches of Taylor Swift to combat explicit deepfakes**
 
-You can read more about it [here](https://www.wlwt.com/article/bengals-quarterback-joe-burrow-chimes-afc-championship-game/46563373).
+You can read more about it [here](https://thehill.com/policy/technology/4434813-x-blocks-searches-of-taylor-swift-to-combat-explicit-deepfakes/).
 
 ## Requirements
 - Python 3.8
