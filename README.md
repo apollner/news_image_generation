@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X blocks Taylor Swift searches after fake AI videos go viral**
+**Chiefs make Super Bowl LVIII: Patrick Mahomes, Andy Reid and Kansas City all make history after beating Ravens**
 
-You can read more about it [here](https://www.ft.com/content/0636eb58-eaa3-4d2c-ba22-e1a24c85da3f).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-make-super-bowl-lviii-patrick-mahomes-andy-reid-and-kansas-city-all-make-history-after-beating-ravens/).
 
 ## Requirements
 - Python 3.8
