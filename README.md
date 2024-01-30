@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters hurl soup at the ‘Mona Lisa’ in Paris**
+**Ravens QB Lamar Jackson can't hide his disappointment after stumbling against Chiefs**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html).
+You can read more about it [here](https://www.courier-journal.com/story/sports/nfl/super-bowl/2024/01/29/lamar-jackson-disappointment-struggling-ravens-loss-chiefs/72393230007/).
 
 ## Requirements
 - Python 3.8
