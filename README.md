@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Nancy Pelosi suggests some pro-Palestinian protesters are connected to Russia**
+**Apple Releases New Stolen Device Protection**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2024/01/29/nancy-pelosi-israel-palestinian-gaza-protestors-sotu-sot-vpx.cnn).
+You can read more about it [here](https://learningenglish.voanews.com/a/apple-releases-new-stolen-device-protection/7457482.html).
 
 ## Requirements
 - Python 3.8
