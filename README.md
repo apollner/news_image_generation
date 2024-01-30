@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fossil smartwatches made up just 2% of the market**
+**Multiple measles outbreaks prompt CDC alert**
 
-You can read more about it [here](https://9to5google.com/2024/01/29/fossil-smartwatches-market-report/).
+You can read more about it [here](https://fox8.com/news/multiple-measles-outbreaks-prompt-cdc-alert/).
 
 ## Requirements
 - Python 3.8
