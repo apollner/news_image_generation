@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid Recall Crisis, Philips Agrees to Stop Selling Sleep Apnea Machines in the United States**
+**Dying 'Wizard of Oz' ruby slippers thief gets no jail time**
 
-You can read more about it [here](https://www.propublica.org/article/philips-agrees-to-stop-selling-sleep-apnea-machines-in-us).
+You can read more about it [here](https://www.foxnews.com/entertainment/dying-wizard-oz-ruby-slippers-thief-gets-no-jail-time).
 
 ## Requirements
 - Python 3.8
