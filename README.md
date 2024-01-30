@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who Done It? Breaking Down ‘True Detective: Night Country’ Episode 3**
+**5 asteroids, including one the size of a sports stadium, expected to pass near Earth**
 
-You can read more about it [here](https://www.theringer.com/2024/1/28/24054006/true-detective-night-country-season-4-episode-3-recap-theories).
+You can read more about it [here](https://nypost.com/2024/01/28/news/5-asteroids-including-one-the-size-of-a-sports-stadium-to-pass-near-earth-this-week/).
 
 ## Requirements
 - Python 3.8
