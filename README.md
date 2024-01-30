@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures fall ahead of big tech earnings and Fed meeting decision: Live updates**
+**Evergrande Faces Imminent Liquidation After Talks With Top Creditors Break Down**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html).
+You can read more about it [here](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657).
 
 ## Requirements
 - Python 3.8
