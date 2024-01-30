@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perspective | Don't feel bad about your laundry chair**
+**E. Jean Carroll says she plans to use $83 million on 'something Donald Trump hates'**
 
-You can read more about it [here](https://www.washingtonpost.com/home/2024/01/29/laundry-chair/).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/jean-carroll-plans-83-million-donald-trump-hates/story?id=106751516).
 
 ## Requirements
 - Python 3.8
