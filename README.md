@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1st gravitational wave detector in space 'LISA' will hunt for ripples in spacetime**
+**Amid Recall Crisis, Philips Agrees to Stop Selling Sleep Apnea Machines in the United States**
 
-You can read more about it [here](https://www.space.com/gravitational-wave-detector-space-lisa-ripples-spacetime-esa-nasa).
+You can read more about it [here](https://www.propublica.org/article/philips-agrees-to-stop-selling-sleep-apnea-machines-in-us).
 
 ## Requirements
 - Python 3.8
