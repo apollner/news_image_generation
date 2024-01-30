@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks rise slightly as traders await big tech earnings and Fed meeting decision: Live updates**
+**Princess Kate returns home after abdominal surgery, 'is making good progress,' palace says**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/01/29/princess-kate-home-recovery-after-abdominal-surgery/72393279007/).
 
 ## Requirements
 - Python 3.8
