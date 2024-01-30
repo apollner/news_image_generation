@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore's central bank leaves policy unchanged in first quarterly meeting of 2024**
+**Who Done It? Breaking Down ‘True Detective: Night Country’ Episode 3**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/29/singapores-central-bank-leaves-policy-unchanged-in-first-quarterly-meeting-of-2024.html).
+You can read more about it [here](https://www.theringer.com/2024/1/28/24054006/true-detective-night-country-season-4-episode-3-recap-theories).
 
 ## Requirements
 - Python 3.8
