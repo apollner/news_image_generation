@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ROCKET LAUNCH SpaceX Falcon 9 CRS-29**
+**Great white sighting may reveal a ‘holy grail’ of shark science**
 
-You can read more about it [here](https://www.kennedyspacecenter.com/launches-and-events/events-calendar/2024/january/rocket-launch-spacex-falcon-9-crs-ng-20).
+You can read more about it [here](https://www.cnn.com/2024/01/29/americas/first-sighting-of-newborn-great-white-shark-scn/index.html).
 
 ## Requirements
 - Python 3.8
