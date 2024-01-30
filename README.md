@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Enemy drone that killed US troops in Jordan was mistaken for a US drone, preliminary report suggests**
+**ROCKET LAUNCH SpaceX Falcon 9 CRS-29**
 
-You can read more about it [here](https://apnews.com/article/jordan-drone-attack-attack-confusion-f175962e058b9b6f668303faf248d8e6).
+You can read more about it [here](https://www.kennedyspacecenter.com/launches-and-events/events-calendar/2024/january/rocket-launch-spacex-falcon-9-crs-ng-20).
 
 ## Requirements
 - Python 3.8
