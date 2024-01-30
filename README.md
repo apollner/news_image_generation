@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arc Search: a new iPhone app combining browser, search, and AI**
+**'The Beekeeper' battles 'Mean Girls' for No. 1 at weekend box office**
 
-You can read more about it [here](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios).
+You can read more about it [here](https://ew.com/the-beekeeper-battles-mean-girls-for-no-1-at-box-office-8551112).
 
 ## Requirements
 - Python 3.8
