@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Beekeeper' battles 'Mean Girls' for No. 1 at weekend box office**
+**Bengals quarterback Joe Burrow chimes in on AFC Championship game**
 
-You can read more about it [here](https://ew.com/the-beekeeper-battles-mean-girls-for-no-1-at-box-office-8551112).
+You can read more about it [here](https://www.wlwt.com/article/bengals-quarterback-joe-burrow-chimes-afc-championship-game/46563373).
 
 ## Requirements
 - Python 3.8
