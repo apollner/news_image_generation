@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lake uses GOP chief battle to bolster ‘outsider’ case**
+**X blocks Taylor Swift searches after fake AI videos go viral**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4434115-lake-uses-gop-chief-battle-to-bolster-outsider-case/).
+You can read more about it [here](https://www.ft.com/content/0636eb58-eaa3-4d2c-ba22-e1a24c85da3f).
 
 ## Requirements
 - Python 3.8
