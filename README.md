@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three US troops killed in drone attack in Jordan, more than 30 injured**
+**New Alzheimer's drugs bring hope. But not equally for all patients.**
 
-You can read more about it [here](https://www.cnn.com/2024/01/28/politics/us-troops-drone-attack-jordan/index.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/01/29/alzheimers-new-drugs-black-patients-leqembi/).
 
 ## Requirements
 - Python 3.8
