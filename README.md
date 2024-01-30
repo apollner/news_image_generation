@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Kate returns home after abdominal surgery, 'is making good progress,' palace says**
+**Multiple measles outbreaks prompt CDC alert**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/01/29/princess-kate-home-recovery-after-abdominal-surgery/72393279007/).
+You can read more about it [here](https://fox8.com/news/multiple-measles-outbreaks-prompt-cdc-alert/).
 
 ## Requirements
 - Python 3.8
