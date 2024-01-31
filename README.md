@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Future doctors often unprepared to work with suicidal patients**
+**US figure skaters awarded Olympic gold after Russian skater disqualified**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/01/30/suicide-doctor-training/).
+You can read more about it [here](https://www.cnn.com/2024/01/30/sport/us-figure-skaters-olympics-kamila-valieva-intl-hnk-spt/index.html).
 
 ## Requirements
 - Python 3.8
