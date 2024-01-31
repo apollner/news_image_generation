@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM reports Q4 sales and profit beat, issues improved profit outlook but admits EV pace has slowed**
+**Israeli undercover forces dressed as women and medics storm West Bank hospital, killing 3 militants**
 
-You can read more about it [here](https://finance.yahoo.com/news/gm-reports-q4-sales-and-profit-beat-issues-improved-profit-outlook-but-admits-ev-pace-has-slowed-181450943.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-30-2024-b1ba33c7c0c5c62f85932a20c2a0bc92).
 
 ## Requirements
 - Python 3.8
