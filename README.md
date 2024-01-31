@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli forces kill three Palestinian fighters in West Bank hospital raid**
+**GOP’s Mayorkas impeachment articles come under microscope**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1taWRkbGUtZWFzdC02ODEzNzA1MNIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1taWRkbGUtZWFzdC02ODEzNzA1MC5hbXA?oc=5).
+You can read more about it [here](https://thehill.com/homenews/house/4436304-gops-mayorkas-impeachment-articles-come-under-microscope/).
 
 ## Requirements
 - Python 3.8
