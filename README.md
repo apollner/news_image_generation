@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Micro surges as sales projection fuels AI rally**
+**Toyota urges owners of old Corolla, Matrix and RAV4 models to park them until air bags are replaced**
 
-You can read more about it [here](https://finance.yahoo.com/news/super-micro-surges-sales-projection-223448411.html).
+You can read more about it [here](https://apnews.com/article/toyota-takata-air-bag-explode-shrapnel-3c03be0d9454856cf52e48aaa6bda711).
 
 ## Requirements
 - Python 3.8
