@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Pakistan Prime Minister Imran Khan gets 10-year jail term**
+**GM reports Q4 sales and profit beat, issues improved profit outlook but admits EV pace has slowed**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/30/former-pakistan-prime-minister-imran-khan-gets-10-year-jail-term.html).
+You can read more about it [here](https://finance.yahoo.com/news/gm-reports-q4-sales-and-profit-beat-issues-improved-profit-outlook-but-admits-ev-pace-has-slowed-181450943.html).
 
 ## Requirements
 - Python 3.8
