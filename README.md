@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Excitement Builds for Finding Life on Mars After Perseverance Rover's Ground-Penetrating Radar Discovery**
+**U.N. workers played a direct role in Oct. 7 Hamas attack, Israeli intelligence says**
 
-You can read more about it [here](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/).
+You can read more about it [here](https://www.nbcnews.com/news/un-workers-played-direct-role-oct-7-hamas-attack-israeli-intelligence-rcna136201).
 
 ## Requirements
 - Python 3.8
