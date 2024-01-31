@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's Apple's new ad for the Vision Pro headset - GSMArena.com news**
+**‘Attracted by the siren call of celebrity’: What an Alex Murdaugh judge said about the clerk accused of jury tampering**
 
-You can read more about it [here](https://www.gsmarena.com/heres_apples_new_ad_for_the_vision_pro_headset-news-61391.php).
+You can read more about it [here](https://www.cnn.com/2024/01/29/us/judge-jean-toal-murdaugh-jury-tampering-clerk-rebecca-hill/index.html).
 
 ## Requirements
 - Python 3.8
