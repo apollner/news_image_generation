@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump can stay on Illinois 2024 ballot after 14th Amendment challenge, officials say**
+**Walmart announces 3-for-1 stock split as shares hover below all-time high**
 
-You can read more about it [here](https://abcnews.go.com/Politics/trump-remain-illinois-2024-ballot-after-14th-amendment/story?id=106765313).
+You can read more about it [here](https://www.cnbc.com/2024/01/30/walmart-announces-3-for-1-stock-split-as-shares-hover-below-all-time-high.html).
 
 ## Requirements
 - Python 3.8
