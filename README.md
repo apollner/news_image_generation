@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing 5-year-old Kentucky girl found safe after mother fatally shot**
+**Horoscope Today, January 30, 2024: Read your daily astrological predictions for Aries; You may plan to in**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/amber-alert-issued-missing-5-year-old-kentucky-girl-mother-found-dead-rcna136196).
+You can read more about it [here](https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-january-30-2024-read-your-daily-astrological-predictions/articleshow/107244092.cms).
 
 ## Requirements
 - Python 3.8
