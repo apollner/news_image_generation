@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu: Israel won’t free ‘thousands of terrorists’ or withdraw IDF for hostage deal**
+**Universal Orlando Resort Unveils Epic Universe Celestial Park, Teases ‘Harry Potter,’ ‘How to Train Your Dragon’ Lands**
 
-You can read more about it [here](https://www.timesofisrael.com/netanyahu-israel-wont-free-thousands-of-terrorists-or-withdraw-idf-for-hostage-deal/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/epic-universe-harry-potter-how-to-train-your-dragon-lands-1235810113/).
 
 ## Requirements
 - Python 3.8
