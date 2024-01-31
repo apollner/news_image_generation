@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel claims a tunnel ran through this Gaza cemetery it destroyed. A visit to the site raised more questions than answers**
+**Super Micro surges as sales projection fuels AI rally**
 
-You can read more about it [here](https://www.cnn.com/2024/01/29/world/israel-cemetery-bani-suheila-intl/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/super-micro-surges-sales-projection-223448411.html).
 
 ## Requirements
 - Python 3.8
