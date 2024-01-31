@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans hold hearing on impeaching Homeland Security Secretary Mayorkas**
+**Universal Orlando Resort Unveils Epic Universe Celestial Park, Teases ‘Harry Potter,’ ‘How to Train Your Dragon’ Lands**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/house-republicans-hearing-impeach-homeland-security-mayorkas-border-rcna136200).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/epic-universe-harry-potter-how-to-train-your-dragon-lands-1235810113/).
 
 ## Requirements
 - Python 3.8
