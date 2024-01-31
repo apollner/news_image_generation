@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Toyota warns about thousands of vehicles in the U.S. over Takata air bag risk**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2024/01/30/1227923226/toyota-warning-advisory-takata-airbag-concerns).
 
 ## Requirements
 - Python 3.8
