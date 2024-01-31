@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Taylor Swift be at 2024 Super Bowl to see Chiefs' Travis Kelce? How Japan tour dates align with big game**
+**Imran Khan: Former Pakistan prime minister sentenced to 10 years in prison**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/will-taylor-swift-be-at-2024-super-bowl-to-see-chiefs-travis-kelce-how-japan-tour-dates-align-with-big-game/).
+You can read more about it [here](https://apnews.com/article/pakistan-imran-khan-sentenced-e2305d25c8b81f031a47507063e3b745).
 
 ## Requirements
 - Python 3.8
