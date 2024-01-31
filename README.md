@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bettor nets $70,000 thanks to Dan Campbell's odd Lions call**
+**Career Horoscope Today for Jan 30, 2024: Astro Tips for new projects and ideas**
 
-You can read more about it [here](https://nypost.com/2024/01/29/sports/bettor-nets-70000-thanks-to-dan-campbells-odd-lions-call/).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-jan-30-2024-astro-tips-for-new-projects-and-ideas-101706559563629.html).
 
 ## Requirements
 - Python 3.8
