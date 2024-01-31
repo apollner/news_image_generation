@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'One of the holy grails of shark science': Watch 1st ever footage of a pure white newborn great white shark**
+**House Republicans hold hearing on impeaching Homeland Security Secretary Mayorkas**
 
-You can read more about it [here](https://www.livescience.com/animals/sharks/one-of-the-holy-grails-of-shark-science-watch-1st-ever-footage-of-a-pure-white-newborn-great-white-shark).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/house-republicans-hearing-impeach-homeland-security-mayorkas-border-rcna136200).
 
 ## Requirements
 - Python 3.8
