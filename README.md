@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Career Horoscope Today for Jan 30, 2024: Astro Tips for new projects and ideas**
+**Israel claims a tunnel ran through this Gaza cemetery it destroyed. A visit to the site raised more questions than answers**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-jan-30-2024-astro-tips-for-new-projects-and-ideas-101706559563629.html).
+You can read more about it [here](https://www.cnn.com/2024/01/29/world/israel-cemetery-bani-suheila-intl/index.html).
 
 ## Requirements
 - Python 3.8
