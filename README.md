@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrat Cori Bush under DOJ investigation**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/01/30/1227955574/cori-bush-investigation-security).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
