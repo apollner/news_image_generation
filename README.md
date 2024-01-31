@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toyota recall: Toyota, GM urge owners of old Corolla, Matrix and RAV4 models to park them until airbags are replaced**
+**Here's Apple's new ad for the Vision Pro headset - GSMArena.com news**
 
-You can read more about it [here](https://abc7chicago.com/toyota-recall-airbag-takata-2024/14370817/).
+You can read more about it [here](https://www.gsmarena.com/heres_apples_new_ad_for_the_vision_pro_headset-news-61391.php).
 
 ## Requirements
 - Python 3.8
