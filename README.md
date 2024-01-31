@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Attracted by the siren call of celebrity’: What an Alex Murdaugh judge said about the clerk accused of jury tampering**
+**Hamas appears to pull out of hostage deal that could have ended war in Gaza within months: report**
 
-You can read more about it [here](https://www.cnn.com/2024/01/29/us/judge-jean-toal-murdaugh-jury-tampering-clerk-rebecca-hill/index.html).
+You can read more about it [here](https://nypost.com/2024/01/29/news/hamas-pulls-out-of-hostage-deal-that-could-have-ended-war-in-gaza-within-months/).
 
 ## Requirements
 - Python 3.8
