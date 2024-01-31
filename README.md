@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Universal Orlando Resort Unveils Epic Universe Celestial Park, Teases ‘Harry Potter,’ ‘How to Train Your Dragon’ Lands**
+**The Loser Lineup, Pt. 2: What must Ravens, Lions do to return to conference championships in 2024?**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/epic-universe-harry-potter-how-to-train-your-dragon-lands-1235810113/).
+You can read more about it [here](https://sports.yahoo.com/the-loser-lineup-pt-2-what-must-ravens-lions-do-to-return-to-conference-championships-in-2024-185125446.html).
 
 ## Requirements
 - Python 3.8
