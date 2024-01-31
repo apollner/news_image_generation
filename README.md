@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli undercover forces dressed as women and medics storm West Bank hospital, killing 3 militants**
+**Former Pakistan Prime Minister Imran Khan gets 10-year jail term**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-01-30-2024-b1ba33c7c0c5c62f85932a20c2a0bc92).
+You can read more about it [here](https://www.cnbc.com/2024/01/30/former-pakistan-prime-minister-imran-khan-gets-10-year-jail-term.html).
 
 ## Requirements
 - Python 3.8
