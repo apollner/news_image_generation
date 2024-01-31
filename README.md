@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM reports Q4 sales and profit beat, issues improved profit outlook but admits EV pace has slowed**
+**Future doctors often unprepared to work with suicidal patients**
 
-You can read more about it [here](https://finance.yahoo.com/news/gm-reports-q4-sales-and-profit-beat-issues-improved-profit-outlook-but-admits-ev-pace-has-slowed-181450943.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/01/30/suicide-doctor-training/).
 
 ## Requirements
 - Python 3.8
