@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Nicki Minaj and Megan Thee Stallion feud, explained**
+**Toyota recall: Toyota, GM urge owners of old Corolla, Matrix and RAV4 models to park them until airbags are replaced**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/music/2024/01/29/nicki-minaj-megan-thee-stallion-hiss/).
+You can read more about it [here](https://abc7chicago.com/toyota-recall-airbag-takata-2024/14370817/).
 
 ## Requirements
 - Python 3.8
