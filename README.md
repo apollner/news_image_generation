@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alzheimer's Disease Likely Transmitted To 5 Patients Via Banned Medical Procedure**
+**Hong Kong, China markets slide in the wake of Evergrande liquidation order**
 
-You can read more about it [here](https://www.iflscience.com/alzheimers-disease-likely-transmitted-to-5-patients-via-banned-medical-procedure-72668).
+You can read more about it [here](https://www.cnbc.com/2024/01/30/asia-markets.html).
 
 ## Requirements
 - Python 3.8
