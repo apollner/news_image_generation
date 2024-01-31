@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.N. workers played a direct role in Oct. 7 Hamas attack, Israeli intelligence says**
+**Zoom Shows Off Immersive New Vision Pro App With Personas, 3D Object Sharing and More**
 
-You can read more about it [here](https://www.nbcnews.com/news/un-workers-played-direct-role-oct-7-hamas-attack-israeli-intelligence-rcna136201).
+You can read more about it [here](https://www.macrumors.com/2024/01/29/zoom-vision-pro-app/).
 
 ## Requirements
 - Python 3.8
