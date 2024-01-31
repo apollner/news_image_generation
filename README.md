@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Ireland power-sharing could resume within days, after two-year hiatus**
+**'One of the holy grails of shark science': Watch 1st ever footage of a pure white newborn great white shark**
 
-You can read more about it [here](https://www.cnn.com/2024/01/30/uk/dup-northern-ireland-power-sharing-intl/index.html).
+You can read more about it [here](https://www.livescience.com/animals/sharks/one-of-the-holy-grails-of-shark-science-watch-1st-ever-footage-of-a-pure-white-newborn-great-white-shark).
 
 ## Requirements
 - Python 3.8
