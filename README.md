@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five early 2024 Super Bowl predictions as Chiefs and 49ers set to square off in Las Vegas**
+**The Nicki Minaj and Megan Thee Stallion feud, explained**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/five-early-2024-super-bowl-predictions-as-chiefs-and-49ers-set-to-square-off-in-las-vegas/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/music/2024/01/29/nicki-minaj-megan-thee-stallion-hiss/).
 
 ## Requirements
 - Python 3.8
