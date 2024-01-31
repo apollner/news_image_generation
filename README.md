@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel claims a tunnel ran through this Gaza cemetery it destroyed. A visit to the site raised more questions than answers**
+**Missing 5-year-old Kentucky girl found safe after mother fatally shot**
 
-You can read more about it [here](https://www.cnn.com/2024/01/29/world/israel-cemetery-bani-suheila-intl/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/amber-alert-issued-missing-5-year-old-kentucky-girl-mother-found-dead-rcna136196).
 
 ## Requirements
 - Python 3.8
