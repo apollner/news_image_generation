@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Photos: Webb telescope captures 19 spiral galaxies**
+**[Removed]**
 
-You can read more about it [here](https://www.axios.com/2024/01/30/james-webb-space-telescope-spiral-galaxies-photos).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
