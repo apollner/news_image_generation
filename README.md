@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope Today, January 30, 2024: Read your daily astrological predictions for Aries; You may plan to in**
+**Five early 2024 Super Bowl predictions as Chiefs and 49ers set to square off in Las Vegas**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-january-30-2024-read-your-daily-astrological-predictions/articleshow/107244092.cms).
+You can read more about it [here](https://www.cbssports.com/nfl/news/five-early-2024-super-bowl-predictions-as-chiefs-and-49ers-set-to-square-off-in-las-vegas/).
 
 ## Requirements
 - Python 3.8
