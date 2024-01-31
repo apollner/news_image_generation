@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP’s Mayorkas impeachment articles come under microscope**
+**Netanyahu: Israel won’t free ‘thousands of terrorists’ or withdraw IDF for hostage deal**
 
-You can read more about it [here](https://thehill.com/homenews/house/4436304-gops-mayorkas-impeachment-articles-come-under-microscope/).
+You can read more about it [here](https://www.timesofisrael.com/netanyahu-israel-wont-free-thousands-of-terrorists-or-withdraw-idf-for-hostage-deal/).
 
 ## Requirements
 - Python 3.8
