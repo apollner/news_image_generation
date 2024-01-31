@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas appears to pull out of hostage deal that could have ended war in Gaza within months: report**
+**Israel claims a tunnel ran through this Gaza cemetery it destroyed. A visit to the site raised more questions than answers**
 
-You can read more about it [here](https://nypost.com/2024/01/29/news/hamas-pulls-out-of-hostage-deal-that-could-have-ended-war-in-gaza-within-months/).
+You can read more about it [here](https://www.cnn.com/2024/01/29/world/israel-cemetery-bani-suheila-intl/index.html).
 
 ## Requirements
 - Python 3.8
