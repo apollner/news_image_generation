@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toyota urges owners of old Corolla, Matrix and RAV4 models to park them until air bags are replaced**
+**Excitement Builds for Finding Life on Mars After Perseverance Rover's Ground-Penetrating Radar Discovery**
 
-You can read more about it [here](https://apnews.com/article/toyota-takata-air-bag-explode-shrapnel-3c03be0d9454856cf52e48aaa6bda711).
+You can read more about it [here](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/).
 
 ## Requirements
 - Python 3.8
