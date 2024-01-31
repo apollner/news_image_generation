@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US figure skaters awarded Olympic gold after Russian skater disqualified**
+**Shock, grief and mourning for 3 Georgia-based US soldiers killed in Middle East drone strike**
 
-You can read more about it [here](https://www.cnn.com/2024/01/30/sport/us-figure-skaters-olympics-kamila-valieva-intl-hnk-spt/index.html).
+You can read more about it [here](https://apnews.com/article/drone-attack-soldier-killed-jordan-sanders-georgia-947c5c440e149154b06bc1bc29d84a19).
 
 ## Requirements
 - Python 3.8
