@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Universal Orlando Resort Unveils Epic Universe Celestial Park, Teases ‘Harry Potter,’ ‘How to Train Your Dragon’ Lands**
+**Northern Ireland power-sharing could resume within days, after two-year hiatus**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/epic-universe-harry-potter-how-to-train-your-dragon-lands-1235810113/).
+You can read more about it [here](https://www.cnn.com/2024/01/30/uk/dup-northern-ireland-power-sharing-intl/index.html).
 
 ## Requirements
 - Python 3.8
