@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zoom Shows Off Immersive New Vision Pro App With Personas, 3D Object Sharing and More**
+**Photos: Webb telescope captures 19 spiral galaxies**
 
-You can read more about it [here](https://www.macrumors.com/2024/01/29/zoom-vision-pro-app/).
+You can read more about it [here](https://www.axios.com/2024/01/30/james-webb-space-telescope-spiral-galaxies-photos).
 
 ## Requirements
 - Python 3.8
