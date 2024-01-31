@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imran Khan: Former Pakistan prime minister sentenced to 10 years in prison**
+**Samsung sheds some light on the possibility of paid Galaxy AI tools - SamMobile**
 
-You can read more about it [here](https://apnews.com/article/pakistan-imran-khan-sentenced-e2305d25c8b81f031a47507063e3b745).
+You can read more about it [here](https://www.sammobile.com/news/samsung-sheds-light-on-paid-galaxy-ai-tools/).
 
 ## Requirements
 - Python 3.8
