@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toyota warns about thousands of vehicles in the U.S. over Takata air bag risk**
+**The U.S. hasn’t seen syphilis numbers this high since 1950. Other STD rates are down or flat**
 
-You can read more about it [here](https://www.npr.org/2024/01/30/1227923226/toyota-warning-advisory-takata-airbag-concerns).
+You can read more about it [here](https://www.nbcnews.com/nbc-out/out-health-and-wellness/us-hasnt-seen-syphilis-numbers-high-1950-std-rates-are-flat-rcna136432).
 
 ## Requirements
 - Python 3.8
