@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Never incorporate in Delaware’: Elon Musk sees his record-breaking $56 billion Tesla pay package voided by judge—and is now polling his followers over a possible Texas move**
+**Daily Telescope: Webb telescope reveals breathtaking structure of galaxies**
 
-You can read more about it [here](https://fortune.com/2024/01/31/elon-musk-tesla-pay-package-delaware-court/).
+You can read more about it [here](https://arstechnica.com/space/2024/01/daily-telescope-webb-telescope-reveals-breathtaking-structure-of-galaxies/).
 
 ## Requirements
 - Python 3.8
