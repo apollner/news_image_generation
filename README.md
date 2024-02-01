@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says he's decided on response to killing of 3 US troops, plans to attend dignified transfer**
+**Syphilis cases rise sharply in women as CDC reports an "alarming" resurgence nationwide**
 
-You can read more about it [here](https://apnews.com/article/biden-jordan-dignified-transfer-dover-140000aa392fee8175616d8af813c0eb).
+You can read more about it [here](https://www.cbsnews.com/news/syphilis-cases-women-cdc-alarming-resurgence/).
 
 ## Requirements
 - Python 3.8
