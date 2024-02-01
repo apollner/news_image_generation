@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syphilis cases rise sharply in women as CDC reports an "alarming" resurgence nationwide**
+**Angelos Family Reportedly Selling Orioles**
 
-You can read more about it [here](https://www.cbsnews.com/news/syphilis-cases-women-cdc-alarming-resurgence/).
+You can read more about it [here](https://www.mlbtraderumors.com/2024/01/angelos-family-reportedly-selling-orioles.html).
 
 ## Requirements
 - Python 3.8
