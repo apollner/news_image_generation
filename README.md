@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SLB reaffirms full-year financial outlook, sees 'significant growth' in Saudi Arabia**
+**Eminem retracts threat of Ben Johnson diss track**
 
-You can read more about it [here](https://seekingalpha.com/news/4060407-slb-reaffirms-full-year-financial-outlook-sees-significant-growth-in-saudi-arabia).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/lions/2024/01/30/eminem-retracts-threat-ben-johnson-diss-track/72414023007/).
 
 ## Requirements
 - Python 3.8
