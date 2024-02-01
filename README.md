@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California braces for flooding and feet of snow in mountains**
+**[Removed]**
 
-You can read more about it [here](https://www.nbcnews.com/news/weather/california-braces-flooding-feet-snow-mountains-rcna136487).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
