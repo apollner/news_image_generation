@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans debate on impeaching Homeland Security Secretary Mayorkas**
+**Tennessee under NCAA investigation for NIL violations; UT chancellor fires back on ‘failing’ process**
 
-You can read more about it [here](https://apnews.com/article/mayorkas-homeland-security-impeachment-congress-f369f4b6270e59cb7b7003bc9d7ce448).
+You can read more about it [here](https://theathletic.com/5238752/2024/01/30/tennessee-ncaa-investigation-nil/).
 
 ## Requirements
 - Python 3.8
