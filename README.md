@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France's government announces new measures to calm farmers' protests, as barricades squeeze Paris**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/france-farmers-protests-food-69a50bc7dca974bc01950e41e21177e1).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
