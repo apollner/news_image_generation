@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why are syphilis cases in the US on the rise? CDC report cites COVID**
+**SLB reaffirms full-year financial outlook, sees 'significant growth' in Saudi Arabia**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/30/syphilis-cases-on-the-rise-us/72413452007/).
+You can read more about it [here](https://seekingalpha.com/news/4060407-slb-reaffirms-full-year-financial-outlook-sees-significant-growth-in-saudi-arabia).
 
 ## Requirements
 - Python 3.8
