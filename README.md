@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**El Mirage homicide case: Arrests made after 6 bodies found in desert**
+**Thousands of protesting farmers have France’s government in a bind**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/29/southern-california-el-mirage-bodies-homicide-investigation/72401976007/).
+You can read more about it [here](https://www.aljazeera.com/gallery/2024/1/31/thousands-of-protesting-farmers-have-frances-government-in-a-bind).
 
 ## Requirements
 - Python 3.8
