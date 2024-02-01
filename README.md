@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's label UMG to pull music from TikTok, accusing the social media app of bullying**
+**Breathtaking JWST Images of 19 Spiral Galaxies Reveal Incredible Diversity**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/31/universal-music-group-taylor-swifts-label-to-pull-music-from-tiktok.html).
+You can read more about it [here](https://www.sciencealert.com/breathtaking-jwst-images-of-19-spiral-galaxies-reveal-incredible-diversity).
 
 ## Requirements
 - Python 3.8
