@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syphilis cases soar to highest level in 70 years — CDC sounds alarm over 'unacceptable' crisis**
+**Islamic Resistance in Iraq group is to blame for Jordan drone strike that killed 3 troops, US says**
 
-You can read more about it [here](https://nypost.com/2024/01/31/lifestyle/syphilis-cases-soar-to-highest-level-in-70-years-cdc-sounds-alarm/).
+You can read more about it [here](https://apnews.com/article/yemen-houthi-us-navy-mideast-tensions-israel-hamas-red-sea-6d5662d09aad8aed0875025b75928ef5).
 
 ## Requirements
 - Python 3.8
