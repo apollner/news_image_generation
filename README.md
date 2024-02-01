@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tennessee under NCAA investigation for NIL violations; UT chancellor fires back on ‘failing’ process**
+**Israel flooding tunnels in Gaza to drive out Hamas terrorists: IDF**
 
-You can read more about it [here](https://theathletic.com/5238752/2024/01/30/tennessee-ncaa-investigation-nil/).
+You can read more about it [here](https://www.foxnews.com/world/israel-flooding-tunnels-gaza-drive-out-hamas-terrorists-idf).
 
 ## Requirements
 - Python 3.8
