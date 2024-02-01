@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's label UMG to pull music from TikTok, accusing the social media app of bullying**
+**Fani Willis will not have to testify Wednesday in special prosecutor's divorce case**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/31/universal-music-group-taylor-swifts-label-to-pull-music-from-tiktok.html).
+You can read more about it [here](https://www.cbsnews.com/news/fani-willis-trump-2020-election-case-special-prosecutor-nathan-wade-divorce-case-no-testimony/).
 
 ## Requirements
 - Python 3.8
