@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commanders news: Ben Johnson, Dan Quinn, spurned advances and high demands**
+**Nasdaq falls as Alphabet shares drop following earnings: Live updates**
 
-You can read more about it [here](https://riggosrag.com/posts/commanders-news-ben-johnson-dan-quinn-spurned-advances-high-demands).
+You can read more about it [here](https://www.cnbc.com/2024/01/30/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
