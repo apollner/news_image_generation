@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eminem retracts threat of Ben Johnson diss track**
+**Mega Millions winning numbers for 1/30/24 drawing; $311 million jackpot**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/lions/2024/01/30/eminem-retracts-threat-ben-johnson-diss-track/72414023007/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/01/30/mega-millions-winning-numbers/72415131007/).
 
 ## Requirements
 - Python 3.8
