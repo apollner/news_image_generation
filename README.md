@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demi Moore talks new series, 'Feud: Capote vs. The Swans'**
+**NASA's Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3N3FisxPbnU).
+You can read more about it [here](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-depicts-staggering-structure-in-19-nearby-spiral-galaxies/).
 
 ## Requirements
 - Python 3.8
