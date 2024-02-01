@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breathtaking JWST Images of 19 Spiral Galaxies Reveal Incredible Diversity**
+**El Mirage homicide case: Arrests made after 6 bodies found in desert**
 
-You can read more about it [here](https://www.sciencealert.com/breathtaking-jwst-images-of-19-spiral-galaxies-reveal-incredible-diversity).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/01/29/southern-california-el-mirage-bodies-homicide-investigation/72401976007/).
 
 ## Requirements
 - Python 3.8
