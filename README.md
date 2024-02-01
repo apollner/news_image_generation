@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA Tour announces new $3 billion investment and player equity offer**
+**Syphilis cases soar to highest level in 70 years — CDC sounds alarm over 'unacceptable' crisis**
 
-You can read more about it [here](https://www.cnn.com/2024/01/31/sport/pga-tour-enterprises-player-equity-spt-intl/index.html).
+You can read more about it [here](https://nypost.com/2024/01/31/lifestyle/syphilis-cases-soar-to-highest-level-in-70-years-cdc-sounds-alarm/).
 
 ## Requirements
 - Python 3.8
