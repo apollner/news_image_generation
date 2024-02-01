@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel flooding tunnels in Gaza to drive out Hamas terrorists: IDF**
+**California braces for flooding and feet of snow in mountains**
 
-You can read more about it [here](https://www.foxnews.com/world/israel-flooding-tunnels-gaza-drive-out-hamas-terrorists-idf).
+You can read more about it [here](https://www.nbcnews.com/news/weather/california-braces-flooding-feet-snow-mountains-rcna136487).
 
 ## Requirements
 - Python 3.8
