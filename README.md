@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelos Family Reportedly Selling Orioles**
+**Disguised Israeli forces kill 3 Palestinian militants in raid on West Bank hospital**
 
-You can read more about it [here](https://www.mlbtraderumors.com/2024/01/angelos-family-reportedly-selling-orioles.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-forces-kill-3-gunmen-west-bank-hospital-army-says-2024-01-30/).
 
 ## Requirements
 - Python 3.8
