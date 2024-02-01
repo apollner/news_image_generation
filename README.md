@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden says he's decided on response to killing of 3 US troops, plans to attend dignified transfer**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/biden-jordan-dignified-transfer-dover-140000aa392fee8175616d8af813c0eb).
 
 ## Requirements
 - Python 3.8
