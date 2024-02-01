@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon leaders declare 90-day state of emergency in downtown Portland to address fentanyl crisis**
+**House GOP on track to impeach Mayorkas over the border: What's next?**
 
-You can read more about it [here](https://www.cnn.com/2024/01/31/us/fentanyl-crisis-portland-state-of-emergency/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/01/31/house-republicans-impeach-alejandro-mayorkas/72411889007/).
 
 ## Requirements
 - Python 3.8
