@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Ireland power-sharing could resume within days, after two-year hiatus**
+**House Republicans debate on impeaching Homeland Security Secretary Mayorkas**
 
-You can read more about it [here](https://www.cnn.com/2024/01/30/uk/dup-northern-ireland-power-sharing-intl/index.html).
+You can read more about it [here](https://apnews.com/article/mayorkas-homeland-security-impeachment-congress-f369f4b6270e59cb7b7003bc9d7ce448).
 
 ## Requirements
 - Python 3.8
