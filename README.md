@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP on track to impeach Mayorkas over the border: What's next?**
+**TikTok to lose Taylor Swift music amid tiff with label Universal Music Group**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/01/31/house-republicans-impeach-alejandro-mayorkas/72411889007/).
+You can read more about it [here](https://www.foxbusiness.com/media/tiktok-loses-tracks-taylor-swift-others-tiff-universal-music-group).
 
 ## Requirements
 - Python 3.8
