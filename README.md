@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok to lose Taylor Swift music amid tiff with label Universal Music Group**
+**Demi Moore talks new series, 'Feud: Capote vs. The Swans'**
 
-You can read more about it [here](https://www.foxbusiness.com/media/tiktok-loses-tracks-taylor-swift-others-tiff-universal-music-group).
+You can read more about it [here](https://www.youtube.com/watch?v=3N3FisxPbnU).
 
 ## Requirements
 - Python 3.8
