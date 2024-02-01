@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of protesting farmers have France’s government in a bind**
+**Commanders news: Ben Johnson, Dan Quinn, spurned advances and high demands**
 
-You can read more about it [here](https://www.aljazeera.com/gallery/2024/1/31/thousands-of-protesting-farmers-have-frances-government-in-a-bind).
+You can read more about it [here](https://riggosrag.com/posts/commanders-news-ben-johnson-dan-quinn-spurned-advances-high-demands).
 
 ## Requirements
 - Python 3.8
