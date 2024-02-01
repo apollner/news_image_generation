@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**We oppose axing UNRWA mid-war, senior Israeli official says amid global funding halt**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.timesofisrael.com/we-oppose-axing-unrwa-mid-war-senior-israeli-official-says-amid-global-funding-halt/).
 
 ## Requirements
 - Python 3.8
