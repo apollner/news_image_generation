@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies**
+**PGA Tour announces new $3 billion investment and player equity offer**
 
-You can read more about it [here](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-depicts-staggering-structure-in-19-nearby-spiral-galaxies/).
+You can read more about it [here](https://www.cnn.com/2024/01/31/sport/pga-tour-enterprises-player-equity-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
