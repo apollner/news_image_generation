@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel flooding tunnels in Gaza to drive out Hamas terrorists: IDF**
+**Justin Mohn charged after father found decapitated inside home on Upper Orchard Drive in Bucks County, Pennsylvania**
 
-You can read more about it [here](https://www.foxnews.com/world/israel-flooding-tunnels-gaza-drive-out-hamas-terrorists-idf).
+You can read more about it [here](https://6abc.com/justin-mohn-levitttown-middletown-township-pa-father-killed/14373700/).
 
 ## Requirements
 - Python 3.8
