@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daily Telescope: Webb telescope reveals breathtaking structure of galaxies**
+**Syphilis cases soar to highest level in 70 years — CDC sounds alarm over 'unacceptable' crisis**
 
-You can read more about it [here](https://arstechnica.com/space/2024/01/daily-telescope-webb-telescope-reveals-breathtaking-structure-of-galaxies/).
+You can read more about it [here](https://nypost.com/2024/01/31/lifestyle/syphilis-cases-soar-to-highest-level-in-70-years-cdc-sounds-alarm/).
 
 ## Requirements
 - Python 3.8
