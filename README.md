@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The U.S. hasn’t seen syphilis numbers this high since 1950. Other STD rates are down or flat**
+**Northern Ireland power-sharing could resume within days, after two-year hiatus**
 
-You can read more about it [here](https://www.nbcnews.com/nbc-out/out-health-and-wellness/us-hasnt-seen-syphilis-numbers-high-1950-std-rates-are-flat-rcna136432).
+You can read more about it [here](https://www.cnn.com/2024/01/30/uk/dup-northern-ireland-power-sharing-intl/index.html).
 
 ## Requirements
 - Python 3.8
