@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasdaq falls as Alphabet shares drop following earnings: Live updates**
+**‘Never incorporate in Delaware’: Elon Musk sees his record-breaking $56 billion Tesla pay package voided by judge—and is now polling his followers over a possible Texas move**
 
-You can read more about it [here](https://www.cnbc.com/2024/01/30/stock-market-today-live-updates.html).
+You can read more about it [here](https://fortune.com/2024/01/31/elon-musk-tesla-pay-package-delaware-court/).
 
 ## Requirements
 - Python 3.8
