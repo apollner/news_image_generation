@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk pay package: Judge voids Tesla CEO's $56 billion compensation**
+**Why are syphilis cases in the US on the rise? CDC report cites COVID**
 
-You can read more about it [here](https://www.axios.com/2024/01/30/elon-musk-pay-package-tesla-judge-voids).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/01/30/syphilis-cases-on-the-rise-us/72413452007/).
 
 ## Requirements
 - Python 3.8
