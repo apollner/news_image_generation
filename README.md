@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Says He’s Interviewing Attorneys For E. Jean Carroll Appeal—After Lawyer Alina Habba Gets Threatened With Sanctions**
+**Nasdaq falls as Alphabet shares drop following earnings: Live updates**
 
-You can read more about it [here](https://www.forbes.com/sites/alisondurkee/2024/01/31/trump-says-hes-interviewing-attorneys-for-e-jean-carroll-appeal-after-lawyer-alina-habba-gets-threatened-with-sanctions/).
+You can read more about it [here](https://www.cnbc.com/2024/01/30/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
