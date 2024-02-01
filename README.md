@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**We oppose axing UNRWA mid-war, senior Israeli official says amid global funding halt**
+**Musk pay package: Judge voids Tesla CEO's $56 billion compensation**
 
-You can read more about it [here](https://www.timesofisrael.com/we-oppose-axing-unrwa-mid-war-senior-israeli-official-says-amid-global-funding-halt/).
+You can read more about it [here](https://www.axios.com/2024/01/30/elon-musk-pay-package-tesla-judge-voids).
 
 ## Requirements
 - Python 3.8
