@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Islamic Resistance in Iraq group is to blame for Jordan drone strike that killed 3 troops, US says**
+**Zelensky set to announce dismissal of Ukraine’s top commander within days as rift grows over war, source says**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-us-navy-mideast-tensions-israel-hamas-red-sea-6d5662d09aad8aed0875025b75928ef5).
+You can read more about it [here](https://www.cnn.com/2024/01/31/europe/zaluzhny-oust-ukraine-army-zelensky-intl/index.html).
 
 ## Requirements
 - Python 3.8
