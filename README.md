@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Islamic Resistance in Iraq group is to blame for Jordan drone strike that killed 3 troops, US says**
+**NY Community Bancorp Flashes a $560 Billion Real Estate Warning for Banks**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-us-navy-mideast-tensions-israel-hamas-red-sea-6d5662d09aad8aed0875025b75928ef5).
+You can read more about it [here](https://finance.yahoo.com/news/ny-community-bancorp-flashes-560-005309222.html).
 
 ## Requirements
 - Python 3.8
