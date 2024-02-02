@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US warship used last resort gun to stop Houthi missile that came close**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.businessinsider.com/houthi-missile-close-us-warship-close-in-weapon-system-2024-1).
 
 ## Requirements
 - Python 3.8
