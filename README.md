@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Says He Won’t Be At The Grammys With Taylor Swift: “I Wish I Could”**
+**Zuckerberg apologizes to families of kids harmed online as Senate grills tech CEOs**
 
-You can read more about it [here](http://deadline.com/2024/01/travis-kelce-grammys-taylor-swift-1235810326/).
+You can read more about it [here](https://abcnews.go.com/Politics/social-media-ceos-face-grilling-senators-child-safety/story?id=106825984).
 
 ## Requirements
 - Python 3.8
