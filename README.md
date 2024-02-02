@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peloton posts mixed holiday results, dismal quarterly guidance**
+**Microsoft Will Help ‘Palworld’ Scale Up As One Of Its All-Time Biggest Game Pass Launches**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/01/peloton-pton-earnings-q2-2024.html).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/02/01/microsoft-will-help-palworld-scale-up-as-one-of-its-all-time-biggest-game-pass-launches/).
 
 ## Requirements
 - Python 3.8
