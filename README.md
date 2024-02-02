@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Oregon high court says 10 GOP state senators who staged long walkout can't run for reelection**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/oregon-republican-walkout-reelection-f1d270db9e9a72935c13b973d79a4bb7).
 
 ## Requirements
 - Python 3.8
