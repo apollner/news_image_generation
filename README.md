@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CPS student killed, 2 others wounded in Edgewater shooting: 'No parent should have to bury their chi**
+**Pennsylvania beheading: Neighbors say Justin Mohn, Bucks County man accused of killing father, was acting 'strange'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=UOr0303vRjc).
+You can read more about it [here](https://6abc.com/man-accused-of-beheading-father-justin-mohn-michael-middletown-township-pennsylvania/14377336/).
 
 ## Requirements
 - Python 3.8
