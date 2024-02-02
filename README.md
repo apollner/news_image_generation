@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**H&M CEO quits as fashion group fails to keep up with rivals**
+**Margot Robbie Breaks Silence on Oscars Snub for Barbie Role**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/hm-ceo-quits-fashion-group-fails-keep-up-rivals).
+You can read more about it [here](https://www.eonline.com/news/1394245/margot-robbie-breaks-silence-on-oscars-nomination-snub-for-barbie-role).
 
 ## Requirements
 - Python 3.8
