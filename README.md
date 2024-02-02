@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake Declares He'll Be Apologizing to 'Absolutely F**king Nobody' at NYC Concert**
+**Peloton posts mixed holiday results, dismal quarterly guidance**
 
-You can read more about it [here](https://www.etonline.com/justin-timberlake-declares-hell-be-apologizing-to-absolutely-fking-nobody-at-nyc-concert-218982).
+You can read more about it [here](https://www.cnbc.com/2024/02/01/peloton-pton-earnings-q2-2024.html).
 
 ## Requirements
 - Python 3.8
