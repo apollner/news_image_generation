@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House passes bipartisan tax bill that expands child tax credit**
+**H&M CEO quits as fashion group fails to keep up with rivals**
 
-You can read more about it [here](https://www.cnn.com/2024/01/31/politics/house-vote-tax-bill-child-tax-credit/index.html).
+You can read more about it [here](https://www.foxbusiness.com/markets/hm-ceo-quits-fashion-group-fails-keep-up-rivals).
 
 ## Requirements
 - Python 3.8
