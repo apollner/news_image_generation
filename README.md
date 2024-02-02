@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zuckerberg apologizes to families of kids harmed online as Senate grills tech CEOs**
+**Musk Says Tesla Will Hold Shareholder Vote ‘Immediately’ To Move Company’s Incorporation To Texas**
 
-You can read more about it [here](https://abcnews.go.com/Politics/social-media-ceos-face-grilling-senators-child-safety/story?id=106825984).
+You can read more about it [here](https://www.forbes.com/sites/siladityaray/2024/02/01/musk-says-tesla-will-hold-shareholder-vote-immediately-to-move-companys-incorporation-to-texas/).
 
 ## Requirements
 - Python 3.8
