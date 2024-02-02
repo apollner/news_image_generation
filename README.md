@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's $55 billion pay package voided. What will Tesla do next?**
+**House passes bipartisan tax bill that expands child tax credit**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/01/31/why-musk-tesla-pay-package-struck-down/72429357007/).
+You can read more about it [here](https://www.cnn.com/2024/01/31/politics/house-vote-tax-bill-child-tax-credit/index.html).
 
 ## Requirements
 - Python 3.8
