@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed keeps interest rates steady, hints cuts are ahead when confident inflation war is won**
+**U.K. judge dismisses Donald Trump's lawsuit over "Steele dossier"**
 
-You can read more about it [here](https://www.axios.com/2024/01/31/federal-reserve-hold-interest-rates-central-bank).
+You can read more about it [here](https://www.cbsnews.com/news/donald-trump-steele-dossier-uk-judge-dismisses-lawsuit-vs-orbis-business/).
 
 ## Requirements
 - Python 3.8
