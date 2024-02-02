@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Margot Robbie Breaks Silence on Oscars Snub for Barbie Role**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1394245/margot-robbie-breaks-silence-on-oscars-nomination-snub-for-barbie-role).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
