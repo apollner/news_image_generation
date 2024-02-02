@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House passes bill to enhance child tax credit, revive key tax breaks for businesses**
+**Experts Confirm: US Is Dealing With an 'Out-of-Control' STI Epidemic**
 
-You can read more about it [here](https://apnews.com/article/child-tax-credit-house-republicans-speaker-johnson-4da25a4188ad27693e9d8755e7481b76).
+You can read more about it [here](https://www.sciencealert.com/experts-confirm-us-is-dealing-with-an-out-of-control-sti-epidemic).
 
 ## Requirements
 - Python 3.8
