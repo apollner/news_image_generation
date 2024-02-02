@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What will it take for Patrick Mahomes to unseat Tom Brady as NFL's GOAT? The question is harder than you think**
+**Elon Musk says Tesla will hold a shareholder vote to incorporate in Texas after Delaware pay snub**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/what-will-it-take-for-patrick-mahomes-to-unseat-tom-brady-as-nfls-goat-the-question-is-harder-than-you-think/).
+You can read more about it [here](https://www.cnbc.com/2024/02/01/elon-musk-tesla-will-hold-a-shareholder-vote-to-incorporate-in-texas.html).
 
 ## Requirements
 - Python 3.8
