@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK judge dismisses Trump's lawsuit over dossier containing 'shocking and scandalous claims'**
+**Justin Timberlake shades Britney Spears with apology to 'absolutely f--king nobody' before performing 'Cry Me a River'**
 
-You can read more about it [here](https://nypost.com/2024/02/01/news/uk-judge-dismisses-trumps-lawsuit-over-dossier-containing-shocking-and-scandalous-claims/).
+You can read more about it [here](https://pagesix.com/2024/02/01/entertainment/justin-timberlake-shades-britney-spears-before-cry-me-a-river/).
 
 ## Requirements
 - Python 3.8
