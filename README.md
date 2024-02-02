@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woj: Joel Embiid's MVP chances in JEOPARDY after latest injury | SportsCenter**
+**CPS student killed, 2 others wounded in Edgewater shooting: 'No parent should have to bury their chi**
 
-You can read more about it [here](https://www.youtube.com/watch?v=10_qw2u-3Ys).
+You can read more about it [here](https://www.youtube.com/watch?v=UOr0303vRjc).
 
 ## Requirements
 - Python 3.8
