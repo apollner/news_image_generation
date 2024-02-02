@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This fund is shorting Apple — and just bet against another popular AI stock**
+**UK judge dismisses Trump's lawsuit over dossier containing 'shocking and scandalous claims'**
 
-You can read more about it [here](https://www.marketwatch.com/story/this-fund-is-shorting-apple-and-just-bet-against-another-popular-ai-stock-a6967b20).
+You can read more about it [here](https://nypost.com/2024/02/01/news/uk-judge-dismisses-trumps-lawsuit-over-dossier-containing-shocking-and-scandalous-claims/).
 
 ## Requirements
 - Python 3.8
