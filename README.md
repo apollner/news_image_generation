@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake shades Britney Spears with apology to 'absolutely f--king nobody' before performing 'Cry Me a River'**
+**Some Republicans have bad blood with Taylor Swift. Here's why.**
 
-You can read more about it [here](https://pagesix.com/2024/02/01/entertainment/justin-timberlake-shades-britney-spears-before-cry-me-a-river/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/02/01/why-republicans-worry-about-taylor-swift/72422975007/).
 
 ## Requirements
 - Python 3.8
