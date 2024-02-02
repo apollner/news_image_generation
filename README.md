@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky set to announce dismissal of Ukraine’s top commander within days as rift grows over war, source says**
+**Alec Baldwin pleads not guilty to involuntary manslaughter in 'Rust' shooting**
 
-You can read more about it [here](https://www.cnn.com/2024/01/31/europe/zaluzhny-oust-ukraine-army-zelensky-intl/index.html).
+You can read more about it [here](https://abcnews.go.com/US/alec-baldwin-pleads-not-guilty-involuntary-manslaughter-rust-shooting/story?id=106797584).
 
 ## Requirements
 - Python 3.8
