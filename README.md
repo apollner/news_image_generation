@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Will Help ‘Palworld’ Scale Up As One Of Its All-Time Biggest Game Pass Launches**
+**Travis Kelce Reveals When He and Taylor Swift's Romance First Began**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/02/01/microsoft-will-help-palworld-scale-up-as-one-of-its-all-time-biggest-game-pass-launches/).
+You can read more about it [here](https://people.com/travis-kelce-reveals-when-he-taylor-swift-romance-first-began-8557241).
 
 ## Requirements
 - Python 3.8
