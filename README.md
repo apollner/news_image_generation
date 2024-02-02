@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin pleads not guilty to involuntary manslaughter in 'Rust' shooting**
+**Zuckerberg apologizes to families of kids harmed online as Senate grills tech CEOs**
 
-You can read more about it [here](https://abcnews.go.com/US/alec-baldwin-pleads-not-guilty-involuntary-manslaughter-rust-shooting/story?id=106797584).
+You can read more about it [here](https://abcnews.go.com/Politics/social-media-ceos-face-grilling-senators-child-safety/story?id=106825984).
 
 ## Requirements
 - Python 3.8
