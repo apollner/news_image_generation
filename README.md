@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Iran's leaders and citizens are saying as the U.S. plans strikes on Iranian targets in Iraq and Syria**
+**Commanders hiring Dan Quinn as head coach, also interviewed Bill Belichick for 2024 opening, per report**
 
-You can read more about it [here](https://www.cbsnews.com/news/iran-us-strikes-planned-iraq-syria-after-jordan-drone-attack-view-from-tehran/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/commanders-hiring-dan-quinn-as-head-coach-former-cowboys-defensive-coordinator-remaining-in-nfc-east/).
 
 ## Requirements
 - Python 3.8
