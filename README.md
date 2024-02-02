@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Republicans have bad blood with Taylor Swift. Here's why.**
+**Justin Timberlake Declares He'll Be Apologizing to 'Absolutely F**king Nobody' at NYC Concert**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/02/01/why-republicans-worry-about-taylor-swift/72422975007/).
+You can read more about it [here](https://www.etonline.com/justin-timberlake-declares-hell-be-apologizing-to-absolutely-fking-nobody-at-nyc-concert-218982).
 
 ## Requirements
 - Python 3.8
