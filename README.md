@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania beheading: Neighbors say Justin Mohn, Bucks County man accused of killing father, was acting 'strange'**
+**No Taylor Swift, Olivia Rodrigo Or Other Universal Music Group Artists On TikTok After Licensing Dispute**
 
-You can read more about it [here](https://6abc.com/man-accused-of-beheading-father-justin-mohn-michael-middletown-township-pennsylvania/14377336/).
+You can read more about it [here](http://deadline.com/2024/01/no-taylor-swift-olivia-rodrigo-universal-music-group-artists-on-tiktok-1235810644/).
 
 ## Requirements
 - Python 3.8
