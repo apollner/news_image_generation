@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No Taylor Swift, Olivia Rodrigo Or Other Universal Music Group Artists On TikTok After Licensing Dispute**
+**House passes bill to enhance child tax credit, revive key tax breaks for businesses**
 
-You can read more about it [here](http://deadline.com/2024/01/no-taylor-swift-olivia-rodrigo-universal-music-group-artists-on-tiktok-1235810644/).
+You can read more about it [here](https://apnews.com/article/child-tax-credit-house-republicans-speaker-johnson-4da25a4188ad27693e9d8755e7481b76).
 
 ## Requirements
 - Python 3.8
