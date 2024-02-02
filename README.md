@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.K. judge dismisses Donald Trump's lawsuit over "Steele dossier"**
+**3 people killed and 9 injured in hangar collapse on grounds of Boise, Idaho, airport**
 
-You can read more about it [here](https://www.cbsnews.com/news/donald-trump-steele-dossier-uk-judge-dismisses-lawsuit-vs-orbis-business/).
+You can read more about it [here](https://apnews.com/article/boise-idaho-building-collapse-2e4c92c1d37afa2525d6524430730957).
 
 ## Requirements
 - Python 3.8
