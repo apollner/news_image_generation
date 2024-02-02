@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 people killed and 9 injured in hangar collapse on grounds of Boise, Idaho, airport**
+**This fund is shorting Apple — and just bet against another popular AI stock**
 
-You can read more about it [here](https://apnews.com/article/boise-idaho-building-collapse-2e4c92c1d37afa2525d6524430730957).
+You can read more about it [here](https://www.marketwatch.com/story/this-fund-is-shorting-apple-and-just-bet-against-another-popular-ai-stock-a6967b20).
 
 ## Requirements
 - Python 3.8
