@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk Says Tesla Will Hold Shareholder Vote ‘Immediately’ To Move Company’s Incorporation To Texas**
+**Fani Willis subpoenaed for hearing on misconduct allegations in Trump Georgia case**
 
-You can read more about it [here](https://www.forbes.com/sites/siladityaray/2024/02/01/musk-says-tesla-will-hold-shareholder-vote-immediately-to-move-companys-incorporation-to-texas/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/31/fani-willis-subpoena-hearing/).
 
 ## Requirements
 - Python 3.8
