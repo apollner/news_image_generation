@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angry farmers descend on Brussels to take protest to EU summit**
+**What will it take for Patrick Mahomes to unseat Tom Brady as NFL's GOAT? The question is harder than you think**
 
-You can read more about it [here](https://www.reuters.com/world/europe/angry-farmers-descend-brussels-take-protest-eu-summit-2024-02-01/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/what-will-it-take-for-patrick-mahomes-to-unseat-tom-brady-as-nfls-goat-the-question-is-harder-than-you-think/).
 
 ## Requirements
 - Python 3.8
