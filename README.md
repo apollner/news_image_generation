@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NY Community Bancorp Flashes a $560 Billion Real Estate Warning for Banks**
+**Margot Robbie says she doesn’t ‘feel sad’ about being omitted from best actress Oscar race**
 
-You can read more about it [here](https://finance.yahoo.com/news/ny-community-bancorp-flashes-560-005309222.html).
+You can read more about it [here](https://www.cnn.com/2024/01/31/entertainment/margot-robbie-barbie-oscar-omission/index.html).
 
 ## Requirements
 - Python 3.8
