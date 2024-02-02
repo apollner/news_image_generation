@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experts Confirm: US Is Dealing With an 'Out-of-Control' STI Epidemic**
+**Angry farmers descend on Brussels to take protest to EU summit**
 
-You can read more about it [here](https://www.sciencealert.com/experts-confirm-us-is-dealing-with-an-out-of-control-sti-epidemic).
+You can read more about it [here](https://www.reuters.com/world/europe/angry-farmers-descend-brussels-take-protest-eu-summit-2024-02-01/).
 
 ## Requirements
 - Python 3.8
