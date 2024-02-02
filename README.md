@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses Disney’s lawsuit against Florida Gov. Ron DeSantis and his allies**
+**Islamic Resistance in Iraq group is to blame for Jordan drone strike that killed 3 troops, US says**
 
-You can read more about it [here](https://www.cnn.com/2024/01/31/business/judge-dismisses-disneys-lawsuit-against-desantis/index.html).
+You can read more about it [here](https://apnews.com/article/yemen-houthi-us-navy-mideast-tensions-israel-hamas-red-sea-6d5662d09aad8aed0875025b75928ef5).
 
 ## Requirements
 - Python 3.8
