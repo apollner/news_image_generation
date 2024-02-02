@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zuckerberg apologizes to families of kids harmed online as Senate grills tech CEOs**
+**Judge dismisses Disney’s lawsuit against Florida Gov. Ron DeSantis and his allies**
 
-You can read more about it [here](https://abcnews.go.com/Politics/social-media-ceos-face-grilling-senators-child-safety/story?id=106825984).
+You can read more about it [here](https://www.cnn.com/2024/01/31/business/judge-dismisses-disneys-lawsuit-against-desantis/index.html).
 
 ## Requirements
 - Python 3.8
