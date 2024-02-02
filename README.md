@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Reveals When He and Taylor Swift's Romance First Began**
+**[Removed]**
 
-You can read more about it [here](https://people.com/travis-kelce-reveals-when-he-taylor-swift-romance-first-began-8557241).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
