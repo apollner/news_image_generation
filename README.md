@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Travis Kelce Says He Won’t Be At The Grammys With Taylor Swift: “I Wish I Could”**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://deadline.com/2024/01/travis-kelce-grammys-taylor-swift-1235810326/).
 
 ## Requirements
 - Python 3.8
