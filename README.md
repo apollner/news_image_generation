@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis subpoenaed for hearing on misconduct allegations in Trump Georgia case**
+**Woj: Joel Embiid's MVP chances in JEOPARDY after latest injury | SportsCenter**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/01/31/fani-willis-subpoena-hearing/).
+You can read more about it [here](https://www.youtube.com/watch?v=10_qw2u-3Ys).
 
 ## Requirements
 - Python 3.8
