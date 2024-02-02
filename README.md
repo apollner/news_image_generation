@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Margot Robbie says she doesn’t ‘feel sad’ about being omitted from best actress Oscar race**
+**Zelensky set to announce dismissal of Ukraine’s top commander within days as rift grows over war, source says**
 
-You can read more about it [here](https://www.cnn.com/2024/01/31/entertainment/margot-robbie-barbie-oscar-omission/index.html).
+You can read more about it [here](https://www.cnn.com/2024/01/31/europe/zaluzhny-oust-ukraine-army-zelensky-intl/index.html).
 
 ## Requirements
 - Python 3.8
