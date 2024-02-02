@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warship used last resort gun to stop Houthi missile that came close**
+**Elon Musk's $55 billion pay package voided. What will Tesla do next?**
 
-You can read more about it [here](https://www.businessinsider.com/houthi-missile-close-us-warship-close-in-weapon-system-2024-1).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/01/31/why-musk-tesla-pay-package-struck-down/72429357007/).
 
 ## Requirements
 - Python 3.8
