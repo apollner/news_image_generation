@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**﻿National 'Wear Red Day' is here and this is how you can support women fighting heart disease**
+**Corbin Burnes trade grades: Brewers' pain is the Orioles' gain**
 
-You can read more about it [here](https://www.wxii12.com/article/national-wear-red-day-support-women-fighting-heart-disease-american-heart-association/46617182).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/02/02/corbin-burnes-trade-grades-orioles-brewers/72444537007/).
 
 ## Requirements
 - Python 3.8
