@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quotes: Regional bank selloff continues as New York Community Bancorp slumps**
+**A Pod Of Ukraine's Drone Boats Chased Down A Russian Missile-Corvette**
 
-You can read more about it [here](https://finance.yahoo.com/news/quotes-regional-bank-selloff-continues-195341300.html).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/02/01/a-pod-of-ukraines-explosive-drone-boats-just-chased-down-and-blew-up-a-russian-missile-corvette/).
 
 ## Requirements
 - Python 3.8
