@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seattle Reports Outbreak Of Rare, Drug-Resistant Fungal Infection: Here’s What To Know**
+**Progressive US lawmaker Omar faces censure over mistranslated speech**
 
-You can read more about it [here](https://www.forbes.com/sites/ariannajohnson/2024/02/01/seattle-reports-outbreak-of-rare-drug-resistant-fungal-infection-heres-what-to-know/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/1/progressive-us-lawmaker-omar-faces-censure-over-mistranslated-speech).
 
 ## Requirements
 - Python 3.8
