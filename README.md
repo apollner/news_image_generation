@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red Sea: Explosion strikes near vessel as Yemen’s Houthi rebel attacks continue**
+**Stormont: Assembly to sit on Saturday as DUP boycott ends**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-ship-attacks-israel-hamas-war-1020fe149d82a32f0160037ea7eef7f5).
+You can read more about it [here](https://www.bbc.com/news/uk-northern-ireland-68155422).
 
 ## Requirements
 - Python 3.8
