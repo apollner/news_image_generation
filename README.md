@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toxicology report back for Kansas City Chiefs fans found frozen to death**
+**Read The 2024 GRAMMYs Program Book Front To Back: All The Inspired Nominees, Trustees Awardees & More**
 
-You can read more about it [here](https://news.yahoo.com/toxicology-report-back-kansas-city-005345815.html).
+You can read more about it [here](https://grammy.com/news/2024-program-book-read-digitally).
 
 ## Requirements
 - Python 3.8
