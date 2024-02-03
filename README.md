@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta’s Quest headsets add spatial video and pinch controls to compete with Vision Pro**
+**Total solar eclipse 2024: What will Colorado see? Do I need glasses?**
 
-You can read more about it [here](https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro).
+You can read more about it [here](https://www.9news.com/article/tech/science/total-solar-eclipse-denver-colorado-path/73-3698b088-f7c6-421e-9a0b-958f74ae3c0f).
 
 ## Requirements
 - Python 3.8
