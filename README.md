@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta Stock: Q4 Earnings Top Expectations As Company Initiates Dividend**
+**Red Sea: Explosion strikes near vessel as Yemen’s Houthi rebel attacks continue**
 
-You can read more about it [here](https://www.investors.com/news/technology/meta-stock-surges-as-company-beats-earnings-expectations-initiates-dividend/).
+You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-ship-attacks-israel-hamas-war-1020fe149d82a32f0160037ea7eef7f5).
 
 ## Requirements
 - Python 3.8
