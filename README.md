@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Pod Of Ukraine's Drone Boats Chased Down A Russian Missile-Corvette**
+**[Removed]**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/02/01/a-pod-of-ukraines-explosive-drone-boats-just-chased-down-and-blew-up-a-russian-missile-corvette/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
