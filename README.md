@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orioles Acquire Corbin Burnes**
+**Atmospheric rivers bring heavy rains and flooding to Southern California**
 
-You can read more about it [here](https://www.mlbtraderumors.com/2024/02/orioles-nearing-deal-for-corbin-burnes.html).
+You can read more about it [here](https://apnews.com/article/california-west-coast-storms-atmospheric-rivers-164f0e0b6faa189bc09f5326fd6270e9).
 
 ## Requirements
 - Python 3.8
