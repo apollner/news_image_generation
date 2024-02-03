@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atmospheric rivers bring heavy rains and flooding to Southern California**
+**Alarming surge: Congenital Syphilis cases skyrocket by double digits annually since 2018**
 
-You can read more about it [here](https://apnews.com/article/california-west-coast-storms-atmospheric-rivers-164f0e0b6faa189bc09f5326fd6270e9).
+You can read more about it [here](https://www.wral.com/story/alarming-surge-congenital-syphilis-cases-skyrocket-by-double-digits-annually-since-2018/21264197/).
 
 ## Requirements
 - Python 3.8
