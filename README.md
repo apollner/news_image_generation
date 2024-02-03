@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare ancient tree discovery has scientists ‘gobsmacked’**
+**How to improve heart health at any age, according to a doctor**
 
-You can read more about it [here](https://www.cnn.com/2024/02/02/world/sanfordiacaulis-ancient-tree-fossils-discovery-scn/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/02/health/improve-heart-health-wellness/index.html).
 
 ## Requirements
 - Python 3.8
