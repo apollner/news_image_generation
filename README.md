@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy Williams Seen for First Time in a Year in Devastating Lifetime Documentary Trailer**
+**Hamas seems to rule out key points of truce offer, wants release of Marwan Barghouti**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/wendy-williams-lifetime-documentary-trailer-1235813556/).
+You can read more about it [here](https://www.timesofisrael.com/hamas-seems-to-rule-out-key-points-of-truce-offer-wants-release-of-marwan-barghouti/).
 
 ## Requirements
 - Python 3.8
