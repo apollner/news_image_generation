@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid suffered meniscus injury in left knee, 76ers say**
+**Lakers stun Celtics with 3rd home defeat as LeBron James, Anthony Davis watch from bench**
 
-You can read more about it [here](https://theathletic.com/5245779/2024/02/01/joel-embiid-meniscus-injury-76ers/).
+You can read more about it [here](https://sports.yahoo.com/lakers-stun-celtics-with-3rd-home-defeat-as-lebron-james-anthony-davis-watch-from-bench-030013744.html).
 
 ## Requirements
 - Python 3.8
