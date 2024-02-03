@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Corbin Burnes trade grades: Brewers' pain is the Orioles' gain**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/02/02/corbin-burnes-trade-grades-orioles-brewers/72444537007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
