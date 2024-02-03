@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarming surge: Congenital Syphilis cases skyrocket by double digits annually since 2018**
+**At least 7 arrested, accused of attacking police officers outside New York City migrant shelter**
 
-You can read more about it [here](https://www.wral.com/story/alarming-surge-congenital-syphilis-cases-skyrocket-by-double-digits-annually-since-2018/21264197/).
+You can read more about it [here](https://www.cnn.com/2024/02/01/us/police-attacked-new-york-outside-shelter/index.html).
 
 ## Requirements
 - Python 3.8
