@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers stun Celtics with 3rd home defeat as LeBron James, Anthony Davis watch from bench**
+**Jennifer Crumbley tells jury: 'I wish he would have killed us instead'**
 
-You can read more about it [here](https://sports.yahoo.com/lakers-stun-celtics-with-3rd-home-defeat-as-lebron-james-anthony-davis-watch-from-bench-030013744.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/01/jennifer-crumbley-testimony-humanize-son-school-shooter/72444809007/).
 
 ## Requirements
 - Python 3.8
