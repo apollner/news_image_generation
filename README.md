@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Western officials in protest over Israel Gaza policy**
+**Tesla recalls almost all its vehicles sold in the US over warning light problems**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68177357).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5LzIwMjQvZmViLzAyL3Rlc2xhLXJlY2FsbC13YXJuaW5nLWxpZ2h0LWZvbnQtc2l6ZdIBV2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5LzIwMjQvZmViLzAyL3Rlc2xhLXJlY2FsbC13YXJuaW5nLWxpZ2h0LWZvbnQtc2l6ZQ?oc=5).
 
 ## Requirements
 - Python 3.8
