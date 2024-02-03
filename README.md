@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta earnings top estimates as forecast, buyback, and new dividend send shares soaring**
+**A Year Ago, a Star Banker Was Detained in China. He Has Just Resigned.**
 
-You can read more about it [here](https://finance.yahoo.com/news/meta-earnings-top-estimates-as-forecast-buyback-and-new-dividend-send-shares-soaring-114614186.html).
+You can read more about it [here](https://www.wsj.com/business/a-top-chinese-banker-who-was-detained-last-year-has-resigned-62b88ac3).
 
 ## Requirements
 - Python 3.8
