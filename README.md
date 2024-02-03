@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Year Ago, a Star Banker Was Detained in China. He Has Just Resigned.**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/business/a-top-chinese-banker-who-was-detained-last-year-has-resigned-62b88ac3).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
