@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commanders hiring Dan Quinn as head coach, also interviewed Bill Belichick for 2024 opening, per report**
+**Ferrari stock surges on upbeat 2024 profit forecast, as luxury demand remains strong**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/commanders-hiring-dan-quinn-as-head-coach-former-cowboys-defensive-coordinator-remaining-in-nfc-east/).
+You can read more about it [here](https://finance.yahoo.com/news/ferrari-stock-surges-on-upbeat-2024-profit-forecast-as-luxury-demand-remains-strong-184640097.html).
 
 ## Requirements
 - Python 3.8
