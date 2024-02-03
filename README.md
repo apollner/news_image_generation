@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exxon beats earnings expectations even as lower oil prices weigh on profits**
+**Grades for Austin Reaves, D’Angelo Russell in Lakers win vs. Celtics**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/02/exxon-xom-q4-earnings-report-2023.html).
+You can read more about it [here](https://www.silverscreenandroll.com/2024/2/1/24058868/player-grades-lakers-vs-celtics-box-score-stats-austin-reaves-dangelo-russell-rui-hachimura).
 
 ## Requirements
 - Python 3.8
