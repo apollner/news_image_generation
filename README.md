@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grades for Austin Reaves, D’Angelo Russell in Lakers win vs. Celtics**
+**﻿National 'Wear Red Day' is here and this is how you can support women fighting heart disease**
 
-You can read more about it [here](https://www.silverscreenandroll.com/2024/2/1/24058868/player-grades-lakers-vs-celtics-box-score-stats-austin-reaves-dangelo-russell-rui-hachimura).
+You can read more about it [here](https://www.wxii12.com/article/national-wear-red-day-support-women-fighting-heart-disease-american-heart-association/46617182).
 
 ## Requirements
 - Python 3.8
