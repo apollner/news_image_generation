@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 7 arrested, accused of attacking police officers outside New York City migrant shelter**
+**Joel Embiid suffered meniscus injury in left knee, 76ers say**
 
-You can read more about it [here](https://www.cnn.com/2024/02/01/us/police-attacked-new-york-outside-shelter/index.html).
+You can read more about it [here](https://theathletic.com/5245779/2024/02/01/joel-embiid-meniscus-injury-76ers/).
 
 ## Requirements
 - Python 3.8
