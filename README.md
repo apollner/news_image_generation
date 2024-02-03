@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse 2024: What will Colorado see? Do I need glasses?**
+**List of 2024 Pro Bowl events Detroit Lions will participate in**
 
-You can read more about it [here](https://www.9news.com/article/tech/science/total-solar-eclipse-denver-colorado-path/73-3698b088-f7c6-421e-9a0b-958f74ae3c0f).
+You can read more about it [here](https://www.prideofdetroit.com/2024/2/1/24058158/list-2024-pro-bowl-events-detroit-lions-participating-schedule-tv).
 
 ## Requirements
 - Python 3.8
