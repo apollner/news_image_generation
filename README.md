@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to improve heart health at any age, according to a doctor**
+**Fulton County DA acknowledges personal relationship with lead prosecutor on Trump case, but says it doesn’t disqualify her**
 
-You can read more about it [here](https://www.cnn.com/2024/02/02/health/improve-heart-health-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/02/politics/fani-willis-response/index.html).
 
 ## Requirements
 - Python 3.8
