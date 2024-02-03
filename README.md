@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Italian mafia boss who escaped maximum security prison using bed sheets last year is captured on French island**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/marco-raduano-mafia-boss-escaped-prison-bed-sheets-last-year-captured-corsica/).
 
 ## Requirements
 - Python 3.8
