@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla recalls almost all its vehicles sold in the US over warning light problems**
+**Wendy Williams Seen for First Time in a Year in Devastating Lifetime Documentary Trailer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5LzIwMjQvZmViLzAyL3Rlc2xhLXJlY2FsbC13YXJuaW5nLWxpZ2h0LWZvbnQtc2l6ZdIBV2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5LzIwMjQvZmViLzAyL3Rlc2xhLXJlY2FsbC13YXJuaW5nLWxpZ2h0LWZvbnQtc2l6ZQ?oc=5).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/wendy-williams-lifetime-documentary-trailer-1235813556/).
 
 ## Requirements
 - Python 3.8
