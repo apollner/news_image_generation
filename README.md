@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU overcomes Orban's veto on €50 billion Ukraine aid deal**
+**Meta earnings top estimates as forecast, buyback, and new dividend send shares soaring**
 
-You can read more about it [here](https://www.dw.com/en/eu-overcomes-orbans-veto-on-50-billion-ukraine-aid-deal/a-68147741).
+You can read more about it [here](https://finance.yahoo.com/news/meta-earnings-top-estimates-as-forecast-buyback-and-new-dividend-send-shares-soaring-114614186.html).
 
 ## Requirements
 - Python 3.8
