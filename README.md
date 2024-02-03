@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How red is used to raise awareness of women’s number-one killer**
+**Meta’s Quest headsets add spatial video and pinch controls to compete with Vision Pro**
 
-You can read more about it [here](https://www.wkbn.com/news/local-news/youngstown-news/how-red-is-used-to-raise-awareness-of-womens-number-one-killer/).
+You can read more about it [here](https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro).
 
 ## Requirements
 - Python 3.8
