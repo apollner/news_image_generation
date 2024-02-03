@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stormont: Assembly to sit on Saturday as DUP boycott ends**
+**Kevin Costner welcomes 'newest addition' to family: 'Already in love'**
 
-You can read more about it [here](https://www.bbc.com/news/uk-northern-ireland-68155422).
+You can read more about it [here](https://www.foxnews.com/entertainment/kevin-costner-welcomes-newest-addition-family-already-in-love).
 
 ## Requirements
 - Python 3.8
