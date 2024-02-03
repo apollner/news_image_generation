@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County DA acknowledges personal relationship with lead prosecutor on Trump case, but says it doesn’t disqualify her**
+**Rare ancient tree discovery has scientists ‘gobsmacked’**
 
-You can read more about it [here](https://www.cnn.com/2024/02/02/politics/fani-willis-response/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/02/world/sanfordiacaulis-ancient-tree-fossils-discovery-scn/index.html).
 
 ## Requirements
 - Python 3.8
