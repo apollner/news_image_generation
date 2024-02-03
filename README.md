@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Exxon beats earnings expectations even as lower oil prices weigh on profits**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/02/02/exxon-xom-q4-earnings-report-2023.html).
 
 ## Requirements
 - Python 3.8
