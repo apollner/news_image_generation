@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**List of 2024 Pro Bowl events Detroit Lions will participate in**
+**Seattle Reports Outbreak Of Rare, Drug-Resistant Fungal Infection: Here’s What To Know**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/2/1/24058158/list-2024-pro-bowl-events-detroit-lions-participating-schedule-tv).
+You can read more about it [here](https://www.forbes.com/sites/ariannajohnson/2024/02/01/seattle-reports-outbreak-of-rare-drug-resistant-fungal-infection-heres-what-to-know/).
 
 ## Requirements
 - Python 3.8
