@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas seems to rule out key points of truce offer, wants release of Marwan Barghouti**
+**How to improve heart health at any age, according to a doctor**
 
-You can read more about it [here](https://www.timesofisrael.com/hamas-seems-to-rule-out-key-points-of-truce-offer-wants-release-of-marwan-barghouti/).
+You can read more about it [here](https://www.cnn.com/2024/02/02/health/improve-heart-health-wellness/index.html).
 
 ## Requirements
 - Python 3.8
