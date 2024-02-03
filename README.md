@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner welcomes 'newest addition' to family: 'Already in love'**
+**How red is used to raise awareness of women’s number-one killer**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/kevin-costner-welcomes-newest-addition-family-already-in-love).
+You can read more about it [here](https://www.wkbn.com/news/local-news/youngstown-news/how-red-is-used-to-raise-awareness-of-womens-number-one-killer/).
 
 ## Requirements
 - Python 3.8
