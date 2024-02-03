@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Crumbley tells jury: 'I wish he would have killed us instead'**
+**Toxicology report back for Kansas City Chiefs fans found frozen to death**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/01/jennifer-crumbley-testimony-humanize-son-school-shooter/72444809007/).
+You can read more about it [here](https://news.yahoo.com/toxicology-report-back-kansas-city-005345815.html).
 
 ## Requirements
 - Python 3.8
