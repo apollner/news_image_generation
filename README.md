@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ferrari stock surges on upbeat 2024 profit forecast, as luxury demand remains strong**
+**Meta Stock: Q4 Earnings Top Expectations As Company Initiates Dividend**
 
-You can read more about it [here](https://finance.yahoo.com/news/ferrari-stock-surges-on-upbeat-2024-profit-forecast-as-luxury-demand-remains-strong-184640097.html).
+You can read more about it [here](https://www.investors.com/news/technology/meta-stock-surges-as-company-beats-earnings-expectations-initiates-dividend/).
 
 ## Requirements
 - Python 3.8
