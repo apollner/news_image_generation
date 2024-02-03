@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Progressive US lawmaker Omar faces censure over mistranslated speech**
+**Quotes: Regional bank selloff continues as New York Community Bancorp slumps**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/1/progressive-us-lawmaker-omar-faces-censure-over-mistranslated-speech).
+You can read more about it [here](https://finance.yahoo.com/news/quotes-regional-bank-selloff-continues-195341300.html).
 
 ## Requirements
 - Python 3.8
