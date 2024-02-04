@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When is the 2024 NBA trade deadline? Everything to know**
+**Google will no longer back up the Internet: Cached webpages are dead**
 
-You can read more about it [here](https://www.nba.com/news/everything-to-know-about-2024-nba-trade-deadline).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages/).
 
 ## Requirements
 - Python 3.8
