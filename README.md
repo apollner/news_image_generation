@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bissell recalls over 140,000 vacuum cleaners due to potential fire hazard**
+**Far-right convoy protesting migrant crisis nears southern border**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Living/bissell-recalls-140000-vacuum-cleaners-due-potential-fire/story?id=106910149).
+You can read more about it [here](https://www.cbsnews.com/news/far-right-convoy-nears-texas-mexico-border-eagle-pass-migrant-crisis/).
 
 ## Requirements
 - Python 3.8
