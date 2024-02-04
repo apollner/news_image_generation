@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College basketball rankings: Duke vs. UNC, Kentucky vs. Tennessee, Kansas vs. Houston to impact Top 25 And 1**
+**Can Trump be on the ballot? It's the Supreme Court's biggest election test since Bush v. Gore**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-duke-vs-unc-kentucky-vs-tennessee-kansas-vs-houston-to-impact-top-25-and-1/).
+You can read more about it [here](https://apnews.com/article/supreme-court-trump-insurrection-2024-election-45728c8a2f1e863ed94e14891aea5d47).
 
 ## Requirements
 - Python 3.8
