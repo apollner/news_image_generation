@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sinn Fein’s Michelle O’Neill to be first minister of Northern Ireland**
+**College basketball rankings: Duke vs. UNC, Kentucky vs. Tennessee, Kansas vs. Houston to impact Top 25 And 1**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/02/03/northern-ireland-sinn-fein-michelle-oneill/).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-duke-vs-unc-kentucky-vs-tennessee-kansas-vs-houston-to-impact-top-25-and-1/).
 
 ## Requirements
 - Python 3.8
