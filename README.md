@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black voters stood with Biden in 2020. Four years later, he needs their help again**
+**Watch Ax-3 astronauts leave ISS in SpaceX Dragon capsule Feb. 5 after delay**
 
-You can read more about it [here](https://www.cnn.com/2024/02/03/politics/black-voters-biden-south-carolina/index.html).
+You can read more about it [here](https://www.space.com/spacex-ax-3-mission-international-space-station-departure).
 
 ## Requirements
 - Python 3.8
