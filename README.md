@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Far-right convoy protesting migrant crisis nears southern border**
+**Gina Carano Says Carl Weathers Called Her After ‘Mandalorian’ Firing: “Didn’t Want Me To Give Up”**
 
-You can read more about it [here](https://www.cbsnews.com/news/far-right-convoy-nears-texas-mexico-border-eagle-pass-migrant-crisis/).
+You can read more about it [here](http://deadline.com/2024/02/carl-weathers-gina-carano-mandalorian-firing-1235813442/).
 
 ## Requirements
 - Python 3.8
