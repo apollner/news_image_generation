@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bissell recalls over 140,000 vacuum cleaners due to potential fire hazard**
+**Israel says it will expand operations in Rafah, Gaza's last refuge**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Living/bissell-recalls-140000-vacuum-cleaners-due-potential-fire/story?id=106910149).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/02/02/israel-rafah-military-operation-maps-photos/).
 
 ## Requirements
 - Python 3.8
