@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miley Cyrus Set to Perform ‘Flowers’ at Grammy Awards (EXCLUSIVE)**
+**Protests erupt in Argentina over proposed economic bill**
 
-You can read more about it [here](https://variety.com/2024/music/news/miley-cyrus-flowers-grammy-awards-1235896166/).
+You can read more about it [here](https://www.youtube.com/watch?v=eQoK1tTd9CQ).
 
 ## Requirements
 - Python 3.8
