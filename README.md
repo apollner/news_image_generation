@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hand over heart, Biden joins grieving families of US troops killed in Jordan as remains arrive home**
+**Wendy Williams' Son Gives Rare Interview About Concern for Mother**
 
-You can read more about it [here](https://apnews.com/article/joe-biden-dignified-transfer-jordan-israel-hamas-war-c4b923a6a5178ecd3d3957d7aba7ff6f).
+You can read more about it [here](https://www.youtube.com/watch?v=9VA6h2akxIw).
 
 ## Requirements
 - Python 3.8
