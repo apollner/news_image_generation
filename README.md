@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hand over heart, Biden joins grieving families of US troops killed in Jordan as remains arrive home**
+**Northern Ireland to elect Irish nationalist First Minister in historic shift**
 
-You can read more about it [here](https://apnews.com/article/joe-biden-dignified-transfer-jordan-israel-hamas-war-c4b923a6a5178ecd3d3957d7aba7ff6f).
+You can read more about it [here](https://www.reuters.com/world/uk/northern-ireland-elect-irish-nationalist-first-minister-historic-shift-2024-02-02/).
 
 ## Requirements
 - Python 3.8
