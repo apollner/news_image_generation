@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US launches strikes in Iraq and Syria as Israel-Hamas war rages: Live updates**
+**Black voters stood with Biden in 2020. Four years later, he needs their help again**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-03-24/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/03/politics/black-voters-biden-south-carolina/index.html).
 
 ## Requirements
 - Python 3.8
