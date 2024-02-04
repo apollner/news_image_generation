@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kliff Kingsbury leading candidate to be Commanders OC after withdrawing himself from Raiders job, per reports**
+**Sony WF-1000XM5 Earbuds Long-Term Review: Refined Excellence**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/raiders-oc-search-options-after-kliff-kingsbury-withdraws-himself-from-consideration-per-report/).
+You can read more about it [here](https://www.forbes.com/sites/prakharkhanna/2024/02/03/sony-wf-1000xm5-earbuds-long-term-review-refined-excellence/).
 
 ## Requirements
 - Python 3.8
