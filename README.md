@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Waterston Leaving 'Law & Order' After More Than 400 Episodes -- Find Out His Famous Replacement**
+**SEC, Big Ten 'advisory group' stands as coded threat to NCAA: Figure it out, or we'll go off ourselves**
 
-You can read more about it [here](https://www.etonline.com/sam-waterston-leaving-law-order-after-more-than-400-episodes-find-out-his-famous-replacement-219095).
+You can read more about it [here](https://www.cbssports.com/college-football/news/sec-big-ten-advisory-group-stands-as-coded-threat-to-ncaa-figure-it-out-or-well-go-off-ourselves/).
 
 ## Requirements
 - Python 3.8
