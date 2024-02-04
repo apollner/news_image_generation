@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it will expand operations in Rafah, Gaza's last refuge**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/02/02/israel-rafah-military-operation-maps-photos/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
