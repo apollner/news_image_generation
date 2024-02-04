@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can Trump be on the ballot? It's the Supreme Court's biggest election test since Bush v. Gore**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-trump-insurrection-2024-election-45728c8a2f1e863ed94e14891aea5d47).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
