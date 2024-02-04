@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg made more than $28 billion this morning after Meta stock makes record surge**
+**When is the 2024 NBA trade deadline? Everything to know**
 
-You can read more about it [here](https://www.cnn.com/2024/02/02/business/meta-stock-surge-mark-zuckerberg/index.html).
+You can read more about it [here](https://www.nba.com/news/everything-to-know-about-2024-nba-trade-deadline).
 
 ## Requirements
 - Python 3.8
