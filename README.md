@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google will no longer back up the Internet: Cached webpages are dead**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
