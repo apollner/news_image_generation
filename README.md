@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony WF-1000XM5 Earbuds Long-Term Review: Refined Excellence**
+**A year on, a small Ohio town is recovering from a fiery train derailment but health fears persist**
 
-You can read more about it [here](https://www.forbes.com/sites/prakharkhanna/2024/02/03/sony-wf-1000xm5-earbuds-long-term-review-refined-excellence/).
+You can read more about it [here](https://www.politico.com/news/2024/02/03/a-year-on-a-small-ohio-town-is-recovering-from-a-fiery-train-derailment-but-health-fears-persist-00139463).
 
 ## Requirements
 - Python 3.8
