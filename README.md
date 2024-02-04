@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NHL announces return to Olympics, will participate in Milan in 2026**
+**Hand over heart, Biden joins grieving families of US troops killed in Jordan as remains arrive home**
 
-You can read more about it [here](https://www.nhl.com/news/nhl-announces-return-to-olympics-will-participate-in-milan-in-2026).
+You can read more about it [here](https://apnews.com/article/joe-biden-dignified-transfer-jordan-israel-hamas-war-c4b923a6a5178ecd3d3957d7aba7ff6f).
 
 ## Requirements
 - Python 3.8
