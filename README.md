@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gina Carano Says Carl Weathers Called Her After ‘Mandalorian’ Firing: “Didn’t Want Me To Give Up”**
+**Miley Cyrus Set to Perform ‘Flowers’ at Grammy Awards (EXCLUSIVE)**
 
-You can read more about it [here](http://deadline.com/2024/02/carl-weathers-gina-carano-mandalorian-firing-1235813442/).
+You can read more about it [here](https://variety.com/2024/music/news/miley-cyrus-flowers-grammy-awards-1235896166/).
 
 ## Requirements
 - Python 3.8
