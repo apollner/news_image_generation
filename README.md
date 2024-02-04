@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fate of 6-year-old girl in Gaza unknown after ambulance team sent to rescue her vanishes, aid group says**
+**Hand over heart, Biden joins grieving families of US troops killed in Jordan as remains arrive home**
 
-You can read more about it [here](https://www.cbsnews.com/news/hind-rajab-gaza-palestinian-red-crescent/).
+You can read more about it [here](https://apnews.com/article/joe-biden-dignified-transfer-jordan-israel-hamas-war-c4b923a6a5178ecd3d3957d7aba7ff6f).
 
 ## Requirements
 - Python 3.8
