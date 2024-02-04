@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A year on, a small Ohio town is recovering from a fiery train derailment but health fears persist**
+**Earthquake in Dallas-Fort Worth? Not quite. But Oklahoma had one.**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/03/a-year-on-a-small-ohio-town-is-recovering-from-a-fiery-train-derailment-but-health-fears-persist-00139463).
+You can read more about it [here](https://www.wfaa.com/article/news/local/dallas-fort-worth-texas-earthquake/287-6d1e0726-b2d6-45f8-804c-9a913447e0f2).
 
 ## Requirements
 - Python 3.8
