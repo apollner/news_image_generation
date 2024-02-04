@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC, Big Ten 'advisory group' stands as coded threat to NCAA: Figure it out, or we'll go off ourselves**
+**Mother of Michigan school shooter admits she and husband gifted their son the gun used in the attack**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/sec-big-ten-advisory-group-stands-as-coded-threat-to-ncaa-figure-it-out-or-well-go-off-ourselves/).
+You can read more about it [here](https://www.cnn.com/2024/02/02/us/jennifer-crumbley-michigan-school-shooter-trial/index.html).
 
 ## Requirements
 - Python 3.8
