@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Trump and Biden changed election rules and boxed out their challengers - POLITICO**
+**Connor McDavid wins $1M revamped NHL All-Star skills challenge**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/03/trump-biden-rematch-election-rules-00139453).
+You can read more about it [here](https://www.espn.com/nhl/story/_/id/39447296/oilers-connor-mcdavid-wins-revamped-nhl-all-star-skills-challenge).
 
 ## Requirements
 - Python 3.8
