@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Bissell recalls over 140,000 vacuum cleaners due to potential fire hazard**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/GMA/Living/bissell-recalls-140000-vacuum-cleaners-due-potential-fire/story?id=106910149).
 
 ## Requirements
 - Python 3.8
