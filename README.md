@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mother of Michigan school shooter admits she and husband gifted their son the gun used in the attack**
+**Who has the most at stake in Super Bowl LVIII? Kyle Shanahan, Patrick Mahomes, Brock Purdy top list**
 
-You can read more about it [here](https://www.cnn.com/2024/02/02/us/jennifer-crumbley-michigan-school-shooter-trial/index.html).
+You can read more about it [here](https://www.nfl.com/news/who-has-the-most-at-stake-in-super-bowl-lviii-kyle-shanahan-patrick-mahomes-brock-purdy-top-list).
 
 ## Requirements
 - Python 3.8
