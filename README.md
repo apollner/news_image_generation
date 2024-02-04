@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US launches strikes in Iraq and Syria as Israel-Hamas war rages: Live updates**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-03-24/index.html).
 
 ## Requirements
 - Python 3.8
