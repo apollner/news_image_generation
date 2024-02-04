@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mother of Michigan school shooter admits she and husband gifted their son the gun used in the attack**
+**Fate of 6-year-old girl in Gaza unknown after ambulance team sent to rescue her vanishes, aid group says**
 
-You can read more about it [here](https://www.cnn.com/2024/02/02/us/jennifer-crumbley-michigan-school-shooter-trial/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/hind-rajab-gaza-palestinian-red-crescent/).
 
 ## Requirements
 - Python 3.8
