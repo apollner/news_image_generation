@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Ireland to elect Irish nationalist First Minister in historic shift**
+**NHL announces return to Olympics, will participate in Milan in 2026**
 
-You can read more about it [here](https://www.reuters.com/world/uk/northern-ireland-elect-irish-nationalist-first-minister-historic-shift-2024-02-02/).
+You can read more about it [here](https://www.nhl.com/news/nhl-announces-return-to-olympics-will-participate-in-milan-in-2026).
 
 ## Requirements
 - Python 3.8
