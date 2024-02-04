@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Connor McDavid wins $1M revamped NHL All-Star skills challenge**
+**California braces for ‘life-threatening’ rain storm**
 
-You can read more about it [here](https://www.espn.com/nhl/story/_/id/39447296/oilers-connor-mcdavid-wins-revamped-nhl-all-star-skills-challenge).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4446160-california-braces-life-threatening-rain-storm/).
 
 ## Requirements
 - Python 3.8
