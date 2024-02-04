@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Ax-3 astronauts leave ISS in SpaceX Dragon capsule Feb. 5 after delay**
+**Kliff Kingsbury leading candidate to be Commanders OC after withdrawing himself from Raiders job, per reports**
 
-You can read more about it [here](https://www.space.com/spacex-ax-3-mission-international-space-station-departure).
+You can read more about it [here](https://www.cbssports.com/nfl/news/raiders-oc-search-options-after-kliff-kingsbury-withdraws-himself-from-consideration-per-report/).
 
 ## Requirements
 - Python 3.8
