@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Ax-3 astronauts leave ISS in SpaceX Dragon capsule Feb. 5 after delay**
+**Bon Jovi On Band's Future, 'Thank You, Goodnight' Doc & More | MusiCares Person of the Year 2024**
 
-You can read more about it [here](https://www.space.com/spacex-ax-3-mission-international-space-station-departure).
+You can read more about it [here](https://www.youtube.com/watch?v=Hasgku09WpE).
 
 ## Requirements
 - Python 3.8
