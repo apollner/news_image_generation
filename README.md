@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy Williams' Son Gives Rare Interview About Concern for Mother**
+**Mark Zuckerberg made more than $28 billion this morning after Meta stock makes record surge**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9VA6h2akxIw).
+You can read more about it [here](https://www.cnn.com/2024/02/02/business/meta-stock-surge-mark-zuckerberg/index.html).
 
 ## Requirements
 - Python 3.8
