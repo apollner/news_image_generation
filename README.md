@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evaluating every NFL coaching hire of the 2024 cycle**
+**Sinn Fein’s Michelle O’Neill to be first minister of Northern Ireland**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/02/03/sports/new-nfl-head-coaches-2024/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/02/03/northern-ireland-sinn-fein-michelle-oneill/).
 
 ## Requirements
 - Python 3.8
