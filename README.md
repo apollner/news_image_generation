@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California braces for ‘life-threatening’ rain storm**
+**Bon Jovi On Band's Future, 'Thank You, Goodnight' Doc & More | MusiCares Person of the Year 2024**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4446160-california-braces-life-threatening-rain-storm/).
+You can read more about it [here](https://www.youtube.com/watch?v=Hasgku09WpE).
 
 ## Requirements
 - Python 3.8
