@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protests erupt in Argentina over proposed economic bill**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=eQoK1tTd9CQ).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
