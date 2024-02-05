@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commanders coordinator tracker: Kliff Kingsbury in play as next OC**
+**Carl Weathers’ Super Bowl Ad Being Adjusted Following Death**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/02/03/commanders-defensive-offensive-coordinator-search/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/carl-weathers-super-bowl-ad-being-adjusted-1235814294/).
 
 ## Requirements
 - Python 3.8
