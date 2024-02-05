@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina 2024 Democratic primary results: Biden projected to win**
+**5.1 magnitude earthquake in Oklahoma rattles parts of Kansas**
 
-You can read more about it [here](https://abcnews.go.com/Politics/south-carolina-2024-democratic-primary-results/story?id=106642404).
+You can read more about it [here](https://www.kwch.com/2024/02/03/51-magnitude-earthquake-oklahoma-rattles-parts-kansas/).
 
 ## Requirements
 - Python 3.8
