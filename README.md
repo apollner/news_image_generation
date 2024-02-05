@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WrestleMania 40: WWE Fans Roast The Rock For Taking Cody Rhodes' Spot In Philly**
+**At least 46 dead in Chile as forest fires ravage densely populated areas**
 
-You can read more about it [here](https://www.si.com/fannation/mma/news/the-rock-wwe-wrestlemania-cody-rhodes).
+You can read more about it [here](https://www.cbsnews.com/news/chile-19-dead-forest-fires-ravage-densely-populated-areas/).
 
 ## Requirements
 - Python 3.8
