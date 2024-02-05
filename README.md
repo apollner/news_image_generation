@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Solar power in Kansas: How one couple's land lease became a fight**
+**Will rain, wind scuttle NASA PACE spacecraft launch Tuesday morning?**
 
-You can read more about it [here](https://www.usatoday.com/story/news/investigations/2024/02/04/solar-power-in-kansas/71920670007/).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/02/03/will-rain-wind-scuttle-nasa-pace-spacecraft-launch-tuesday-morning-at-cape-canaveral-florida/72449585007/).
 
 ## Requirements
 - Python 3.8
