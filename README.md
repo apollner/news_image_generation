@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clive Hosts Star-Studded Pre-Grammys Party With Meg, Mariah and Meryl**
+**Jeffries swipes at House GOP's new Israel aid bill**
 
-You can read more about it [here](https://www.tmz.com/2024/02/04/clive-hosts-annual-pre-grammys-party-beverly-hills/).
+You can read more about it [here](https://www.axios.com/2024/02/04/house-israel-aid-hakeem-jeffries).
 
 ## Requirements
 - Python 3.8
