@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump reveals criteria for running mate, name drops two top Republicans**
+**Hage Geingob death: Namibia's new President Mbumba sworn-in hours after predecessor dies**
 
-You can read more about it [here](https://www.foxnews.com/politics/trump-reveals-criteria-running-mate-name-drops-two-top-republicans).
+You can read more about it [here](https://www.bbc.com/news/world-africa-68196412).
 
 ## Requirements
 - Python 3.8
