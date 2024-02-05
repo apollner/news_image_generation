@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘SNL’: Ayo Edebiri Seemingly Addresses Her Controversial Comments About Jennifer Lopez: ‘It’s Wrong to Run Your Mouth on a Podcast’**
+**El Salvador election: Salvadorans head to vote as Bukele eyes second term**
 
-You can read more about it [here](http://deadline.com/2024/02/snl-ayo-edebiri-seemingly-addresses-controversial-comments-about-jennifer-lopez-1235813828/).
+You can read more about it [here](https://apnews.com/article/el-salvador-election-bukele-gang-violence-democracy-dc9f65f450875c5841f937753cd3101a).
 
 ## Requirements
 - Python 3.8
