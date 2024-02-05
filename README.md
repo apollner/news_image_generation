@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Larry Ellison invited Elon Musk to Hawaii to 'dry out' from drugs: WSJ**
+**As Facebook turns 20, I have something to confess**
 
-You can read more about it [here](https://www.businessinsider.com/larry-ellison-elon-musk-hawaii-dry-out-drugs-report-2024-2).
+You can read more about it [here](https://www.cnn.com/2024/02/04/world/facebook-family-friends-connections-essay-cec/index.html).
 
 ## Requirements
 - Python 3.8
