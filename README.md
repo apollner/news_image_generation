@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘SNL’: Ayo Edebiri Apologizes for ‘Stupid’ Jennifer Lopez Comments During Monologue**
+**The New Jobs Report Showed Employees Are Entering a so-so Era**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/snl-ayo-edebiri-jennifer-lopez-apology-monologue-instagram-comments-1234960324/).
+You can read more about it [here](https://www.businessinsider.com/january-jobs-report-labor-market-good-economy-inflation-wages-2024-2).
 
 ## Requirements
 - Python 3.8
