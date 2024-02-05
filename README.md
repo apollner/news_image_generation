@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will rain, wind scuttle NASA PACE spacecraft launch Tuesday morning?**
+**Clive Hosts Star-Studded Pre-Grammys Party With Meg, Mariah and Meryl**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/02/03/will-rain-wind-scuttle-nasa-pace-spacecraft-launch-tuesday-morning-at-cape-canaveral-florida/72449585007/).
+You can read more about it [here](https://www.tmz.com/2024/02/04/clive-hosts-annual-pre-grammys-party-beverly-hills/).
 
 ## Requirements
 - Python 3.8
