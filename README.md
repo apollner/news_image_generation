@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chile wildfires: 51 dead as wildfire tears through Valparaiso region**
+**Grant Shapps says UK and US strikes on Yemen Houthis 'not an escalation'**
 
-You can read more about it [here](https://www.bbc.com/news/av/world-latin-america-68197170).
+You can read more about it [here](https://www.bbc.com/news/uk-68196192).
 
 ## Requirements
 - Python 3.8
