@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The EU is worried that Israel might extend the war in Gaza to a 'pressure cooker' town near Egypt**
+**Commanders coordinator tracker: Kliff Kingsbury in play as next OC**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-eu-gaza-rafah-62d7272225a016fd51122fd57cfcd04f).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/02/03/commanders-defensive-offensive-coordinator-search/).
 
 ## Requirements
 - Python 3.8
