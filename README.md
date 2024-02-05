@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg Becomes 4th Richest After Wealth Soars By $28.1 Billion**
+**Japan's moon lander took this eerie photo before being enveloped by lunar night**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](https://www.engadget.com/japans-moon-lander-took-this-eerie-photo-before-being-enveloped-by-lunar-night-221438290.html).
 
 ## Requirements
 - Python 3.8
