@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gina Carano offers moving tribute to late Carl Weathers, says he called after her firing from 'Star Wars'**
+**Total solar eclipse: Where to find eclipse glasses in central Ohio**
 
-You can read more about it [here](https://www.foxnews.com/media/gina-carano-offers-moving-tribute-late-carl-weathers-says-he-called-after-her-firing-star-wars).
+You can read more about it [here](https://www.10tv.com/article/news/world/solar-eclipse/2024-total-solar-eclipse-glasses-central-ohio-april-8/530-b2614d09-e4d9-4c7d-ae64-8aa9defbe563).
 
 ## Requirements
 - Python 3.8
