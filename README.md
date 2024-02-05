@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 46 dead in Chile as forest fires ravage densely populated areas**
+**Gina Carano offers moving tribute to late Carl Weathers, says he called after her firing from 'Star Wars'**
 
-You can read more about it [here](https://www.cbsnews.com/news/chile-19-dead-forest-fires-ravage-densely-populated-areas/).
+You can read more about it [here](https://www.foxnews.com/media/gina-carano-offers-moving-tribute-late-carl-weathers-says-he-called-after-her-firing-star-wars).
 
 ## Requirements
 - Python 3.8
