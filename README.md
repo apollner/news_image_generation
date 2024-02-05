@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse: Where to find eclipse glasses in central Ohio**
+**5 shocking moments in Grammy history: Jennifer Lopez's green dress and more**
 
-You can read more about it [here](https://www.10tv.com/article/news/world/solar-eclipse/2024-total-solar-eclipse-glasses-central-ohio-april-8/530-b2614d09-e4d9-4c7d-ae64-8aa9defbe563).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/grammys-2024-five-most-shocking-controversial-moments-in-grammy-history-101706971216965.html).
 
 ## Requirements
 - Python 3.8
