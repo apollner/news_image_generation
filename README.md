@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 shocking moments in Grammy history: Jennifer Lopez's green dress and more**
+**Chile wildfires: 51 dead as wildfire tears through Valparaiso region**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/grammys-2024-five-most-shocking-controversial-moments-in-grammy-history-101706971216965.html).
+You can read more about it [here](https://www.bbc.com/news/av/world-latin-america-68197170).
 
 ## Requirements
 - Python 3.8
