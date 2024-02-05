@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York jury verdict against Trump not valid, J.D. Vance says**
+**‘SNL’: Ayo Edebiri Seemingly Addresses Her Controversial Comments About Jennifer Lopez: ‘It’s Wrong to Run Your Mouth on a Podcast’**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/04/new-york-trump-jd-vance-00139504).
+You can read more about it [here](http://deadline.com/2024/02/snl-ayo-edebiri-seemingly-addresses-controversial-comments-about-jennifer-lopez-1235813828/).
 
 ## Requirements
 - Python 3.8
