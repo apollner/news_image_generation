@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeffries swipes at House GOP's new Israel aid bill**
+**2024 Super Bowl odds, pick prediction: Patrick Mahomes, Chiefs get past 49ers for hard-fought repeat title**
 
-You can read more about it [here](https://www.axios.com/2024/02/04/house-israel-aid-hakeem-jeffries).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-super-bowl-odds-pick-prediction-patrick-mahomes-chiefs-get-past-49ers-for-hard-fought-repeat-title/).
 
 ## Requirements
 - Python 3.8
