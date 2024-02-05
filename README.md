@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Trump administration official dies after being shot in carjacking**
+**Moths to a Flame: Millennia-Old Mystery About Insects and Light at Night Solved at Last**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/04/trump-mike-gill-obit-00139509).
+You can read more about it [here](https://scitechdaily.com/moths-to-a-flame-millennia-old-mystery-about-insects-and-light-at-night-solved-at-last/).
 
 ## Requirements
 - Python 3.8
