@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grant Shapps says UK and US strikes on Yemen Houthis 'not an escalation'**
+**Knicks fall to Lakers, LeBron James as nine-game win streak snapped**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68196192).
+You can read more about it [here](https://nypost.com/2024/02/03/sports/knicks-fall-to-lakers-lebron-as-nine-game-win-streak-snapped/).
 
 ## Requirements
 - Python 3.8
