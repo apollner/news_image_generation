@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iFixit Shares Apple Vision Pro Teardown**
+**Mark Zuckerberg Becomes 4th Richest After Wealth Soars By $28.1 Billion**
 
-You can read more about it [here](https://www.macrumors.com/2024/02/03/ifixit-apple-vision-pro-teardown/).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
