@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 64 killed as wildfires rage in Chile with fears toll could rise further**
+**Former Trump administration official dies after being shot in carjacking**
 
-You can read more about it [here](https://www.cnn.com/2024/02/03/climate/chile-wildfires-state-of-emergency-intl-hnk/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/02/04/trump-mike-gill-obit-00139509).
 
 ## Requirements
 - Python 3.8
