@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**IDF brass was caught off guard by dissemination of UNRWA allegations — report**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.timesofisrael.com/idf-brass-was-caught-off-guard-by-dissemination-of-unrwa-allegations-report/).
 
 ## Requirements
 - Python 3.8
