@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hage Geingob death: Namibia's new President Mbumba sworn-in hours after predecessor dies**
+**Namibia president and anti-apartheid activist Hage Geingob dies. He pushed for Africa on world stage**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-68196412).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/namibian-president-hage-geingob-dies-hospital-receiving-treatment-106929859).
 
 ## Requirements
 - Python 3.8
