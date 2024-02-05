@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carl Weathers’ Super Bowl Ad Being Adjusted Following Death**
+**WrestleMania 40: WWE Fans Roast The Rock For Taking Cody Rhodes' Spot In Philly**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/carl-weathers-super-bowl-ad-being-adjusted-1235814294/).
+You can read more about it [here](https://www.si.com/fannation/mma/news/the-rock-wwe-wrestlemania-cody-rhodes).
 
 ## Requirements
 - Python 3.8
