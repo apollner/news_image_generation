@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Facebook turns 20, I have something to confess**
+**Total solar eclipse: Where to find eclipse glasses in central Ohio**
 
-You can read more about it [here](https://www.cnn.com/2024/02/04/world/facebook-family-friends-connections-essay-cec/index.html).
+You can read more about it [here](https://www.10tv.com/article/news/world/solar-eclipse/2024-total-solar-eclipse-glasses-central-ohio-april-8/530-b2614d09-e4d9-4c7d-ae64-8aa9defbe563).
 
 ## Requirements
 - Python 3.8
