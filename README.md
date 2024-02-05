@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**El Salvador election: Salvadorans head to vote as Bukele eyes second term**
+**Trump reveals criteria for running mate, name drops two top Republicans**
 
-You can read more about it [here](https://apnews.com/article/el-salvador-election-bukele-gang-violence-democracy-dc9f65f450875c5841f937753cd3101a).
+You can read more about it [here](https://www.foxnews.com/politics/trump-reveals-criteria-running-mate-name-drops-two-top-republicans).
 
 ## Requirements
 - Python 3.8
