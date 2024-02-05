@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police chief promises ‘appropriate measures’ will be in place as suspects in NYPD officer attack head to California**
+**The EU is worried that Israel might extend the war in Gaza to a 'pressure cooker' town near Egypt**
 
-You can read more about it [here](https://www.cnn.com/2024/02/03/us/migrant-nypd-attack-california/index.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-eu-gaza-rafah-62d7272225a016fd51122fd57cfcd04f).
 
 ## Requirements
 - Python 3.8
