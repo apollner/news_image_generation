@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse: Where to find eclipse glasses in central Ohio**
+**Larry Ellison invited Elon Musk to Hawaii to 'dry out' from drugs: WSJ**
 
-You can read more about it [here](https://www.10tv.com/article/news/world/solar-eclipse/2024-total-solar-eclipse-glasses-central-ohio-april-8/530-b2614d09-e4d9-4c7d-ae64-8aa9defbe563).
+You can read more about it [here](https://www.businessinsider.com/larry-ellison-elon-musk-hawaii-dry-out-drugs-report-2024-2).
 
 ## Requirements
 - Python 3.8
