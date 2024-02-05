@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez Rips Out Hair Mid-'SNL' Performance [VIDEO]**
+**New York jury verdict against Trump not valid, J.D. Vance says**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/jennifer-lopez-rips-hair-mid-180005650.html).
+You can read more about it [here](https://www.politico.com/news/2024/02/04/new-york-trump-jd-vance-00139504).
 
 ## Requirements
 - Python 3.8
