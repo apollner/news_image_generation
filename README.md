@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Super Bowl odds, pick prediction: Patrick Mahomes, Chiefs get past 49ers for hard-fought repeat title**
+**Jennifer Lopez Rips Out Hair Mid-'SNL' Performance [VIDEO]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-super-bowl-odds-pick-prediction-patrick-mahomes-chiefs-get-past-49ers-for-hard-fought-repeat-title/).
+You can read more about it [here](https://www.yahoo.com/entertainment/jennifer-lopez-rips-hair-mid-180005650.html).
 
 ## Requirements
 - Python 3.8
