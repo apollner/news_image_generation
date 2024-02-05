@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earthquake in Dallas-Fort Worth? Not quite. But Oklahoma had one.**
+**Police chief promises ‘appropriate measures’ will be in place as suspects in NYPD officer attack head to California**
 
-You can read more about it [here](https://www.wfaa.com/article/news/local/dallas-fort-worth-texas-earthquake/287-6d1e0726-b2d6-45f8-804c-9a913447e0f2).
+You can read more about it [here](https://www.cnn.com/2024/02/03/us/migrant-nypd-attack-california/index.html).
 
 ## Requirements
 - Python 3.8
