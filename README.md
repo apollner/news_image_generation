@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5.1 magnitude earthquake in Oklahoma rattles parts of Kansas**
+**iFixit Shares Apple Vision Pro Teardown**
 
-You can read more about it [here](https://www.kwch.com/2024/02/03/51-magnitude-earthquake-oklahoma-rattles-parts-kansas/).
+You can read more about it [here](https://www.macrumors.com/2024/02/03/ifixit-apple-vision-pro-teardown/).
 
 ## Requirements
 - Python 3.8
