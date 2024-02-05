@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The New Jobs Report Showed Employees Are Entering a so-so Era**
+**Solar power in Kansas: How one couple's land lease became a fight**
 
-You can read more about it [here](https://www.businessinsider.com/january-jobs-report-labor-market-good-economy-inflation-wages-2024-2).
+You can read more about it [here](https://www.usatoday.com/story/news/investigations/2024/02/04/solar-power-in-kansas/71920670007/).
 
 ## Requirements
 - Python 3.8
