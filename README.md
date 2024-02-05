@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's moon lander took this eerie photo before being enveloped by lunar night**
+**At least 46 dead in Chile as forest fires ravage densely populated areas**
 
-You can read more about it [here](https://www.engadget.com/japans-moon-lander-took-this-eerie-photo-before-being-enveloped-by-lunar-night-221438290.html).
+You can read more about it [here](https://www.cbsnews.com/news/chile-19-dead-forest-fires-ravage-densely-populated-areas/).
 
 ## Requirements
 - Python 3.8
