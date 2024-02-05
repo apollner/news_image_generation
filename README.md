@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**South Carolina 2024 Democratic primary results: Biden projected to win**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/Politics/south-carolina-2024-democratic-primary-results/story?id=106642404).
 
 ## Requirements
 - Python 3.8
