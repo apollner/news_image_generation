@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Namibia president and anti-apartheid activist Hage Geingob dies. He pushed for Africa on world stage**
+**Facebook Turns 20: From Mark Zuckerberg's Harvard Dorm Room to the Metaverse**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/namibian-president-hage-geingob-dies-hospital-receiving-treatment-106929859).
+You can read more about it [here](https://www.wsj.com/tech/facebook-turns-20-from-mark-zuckerbergs-harvard-dorm-room-to-the-metaverse-817a73da).
 
 ## Requirements
 - Python 3.8
