@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chutkan contemplates Trump trial extending deep into 2024, as case remains in limbo**
+**NASA Ingenuity Mars helicopter, broken and alone, spotted by Perseverance rover on Martian dune (photo, video)**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/05/chutkan-trump-trial-date-2024-00139665).
+You can read more about it [here](https://www.space.com/mars-ingenuity-helicopter-perseverance-rover-photo-red-planet-surface).
 
 ## Requirements
 - Python 3.8
