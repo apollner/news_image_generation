@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**2026 World Cup schedule: Everything we know about locations, dates, times, teams, tickets and more**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/2026-world-cup-schedule-start-date-stadiums-cities-tickets-024548234.html).
 
 ## Requirements
 - Python 3.8
