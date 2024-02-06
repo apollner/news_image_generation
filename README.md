@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vaccine Effectiveness: Which COVID-19 Shots Offer the Most Protection?**
+**McDonald's is about to report earnings. Here's what to expect**
 
-You can read more about it [here](https://scitechdaily.com/vaccine-effectiveness-which-covid-19-shots-offer-the-most-protection/).
+You can read more about it [here](https://www.cnbc.com/2024/02/05/mcdonalds-mcd-q4-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
