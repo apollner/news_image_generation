@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New problem found on Boeing 737 Max planes**
+**ASUS Zenfone 11 Ultra specs and renders have leaked**
 
-You can read more about it [here](https://www.cnn.com/2024/02/04/business/boeing-737-max-holes-hnk-intl/index.html).
+You can read more about it [here](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-renders-3410677/).
 
 ## Requirements
 - Python 3.8
