@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy says he's thinking of dismissing Ukraine’s top military officer**
+**Sources - Bobby Witt Jr. agrees to 11-year, $288.8M deal with Royals**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-528cc86dc13bfae79fea8dda3e819f40).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/39464757/sources-bobby-witt-jr-agrees-11-year-2888m-deal-royals).
 
 ## Requirements
 - Python 3.8
