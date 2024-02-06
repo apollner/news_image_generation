@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moths to a Flame: Millennia-Old Mystery About Insects and Light at Night Solved at Last**
+**Russian cosmonaut sets record for most time in space — more than 878 days**
 
-You can read more about it [here](https://scitechdaily.com/moths-to-a-flame-millennia-old-mystery-about-insects-and-light-at-night-solved-at-last/).
+You can read more about it [here](https://www.ksl.com/article/50866170/russian-cosmonaut-sets-record-for-most-time-in-space--more-than-878-days).
 
 ## Requirements
 - Python 3.8
