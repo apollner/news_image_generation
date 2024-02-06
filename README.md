@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vaccine Effectiveness: Which COVID-19 Shots Offer the Most Protection?**
+**Senators unveil $118.28 billion bipartisan bill to overhaul immigration system along with Israel, Ukraine aid**
 
-You can read more about it [here](https://scitechdaily.com/vaccine-effectiveness-which-covid-19-shots-offer-the-most-protection/).
+You can read more about it [here](https://abcnews.go.com/Politics/senators-unveil-bipartisan-bill-overhaul-immigration-system-israel/story?id=106934667).
 
 ## Requirements
 - Python 3.8
