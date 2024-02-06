@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Bowl 2024: San Francisco 49ers v Kansas City Chiefs - start time, date, half-time show, how to follow on BBC, will Taylor Swift be there?**
+**Boeing finds 'non-conformance' in some undelivered 737 fuselages, company says**
 
-You can read more about it [here](https://www.bbc.com/sport/american-football/68201059).
+You can read more about it [here](https://abcnews.go.com/US/boeing-finds-conformance-undelivered-737-fuselages-company/story?id=106949166).
 
 ## Requirements
 - Python 3.8
