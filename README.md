@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Forest fires kill 112 in Chile's worst disaster since 2010 earthquake**
+**New problem found on Boeing 737 Max planes**
 
-You can read more about it [here](https://www.reuters.com/business/environment/chile-president-says-wildfires-death-toll-jumps-64-likely-rise-2024-02-04/).
+You can read more about it [here](https://www.cnn.com/2024/02/04/business/boeing-737-max-holes-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
