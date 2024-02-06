@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Dakota tribe bans Gov. Kristi Noem from reservation over US-Mexico border remark**
+**Vision Pro launch: all the news about Apple's pricey new headset**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4447555-south-dakota-tribe-bans-gov-kristi-noem-from-reservation-over-us-mexico-border-remark/).
+You can read more about it [here](https://www.theverge.com/24059284/apple-vision-pro-launch-day-news).
 
 ## Requirements
 - Python 3.8
