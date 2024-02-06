@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Idiots are already driving on Tesla Autopilot with Apple Vision Pro on their faces**
+**Super Bowl 2024: San Francisco 49ers v Kansas City Chiefs - start time, date, half-time show, how to follow on BBC, will Taylor Swift be there?**
 
-You can read more about it [here](https://electrek.co/2024/02/05/idiots-driving-tesla-autopilot-apple-vision-pro/).
+You can read more about it [here](https://www.bbc.com/sport/american-football/68201059).
 
 ## Requirements
 - Python 3.8
