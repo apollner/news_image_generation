@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Last Total Solar Eclipse for Decades Expected to be Even More Jaw-Dropping**
+**New problem found on Boeing 737 Max planes**
 
-You can read more about it [here](https://www.newsweek.com/last-total-solar-eclipse-decades-expected-even-more-jaw-dropping-1866751).
+You can read more about it [here](https://www.cnn.com/2024/02/04/business/boeing-737-max-holes-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
