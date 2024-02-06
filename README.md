@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2026 World Cup schedule: Everything we know about locations, dates, times, teams, tickets and more**
+**Vaccine Effectiveness: Which COVID-19 Shots Offer the Most Protection?**
 
-You can read more about it [here](https://sports.yahoo.com/2026-world-cup-schedule-start-date-stadiums-cities-tickets-024548234.html).
+You can read more about it [here](https://scitechdaily.com/vaccine-effectiveness-which-covid-19-shots-offer-the-most-protection/).
 
 ## Requirements
 - Python 3.8
