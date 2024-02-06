@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why ‘Curb Your Enthusiasm’ Is Ending and the Story Behind Season 12’s Premiere Kicker**
+**'Wow!': NBC's Kristen Welker Shocked By New 'Truly Stunning' Biden-Trump Poll**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/curb-your-enthusiasm-ending-season-12-premiere-mugshot-1235813863/).
+You can read more about it [here](https://www.huffpost.com/entry/kristen-welker-trump-biden-poll_n_65c08c54e4b05c8779fa442b).
 
 ## Requirements
 - Python 3.8
