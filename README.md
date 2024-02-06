@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Bobby Witt Jr. agrees to 11-year, $288.8M deal with Royals**
+**Chutkan contemplates Trump trial extending deep into 2024, as case remains in limbo**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39464757/sources-bobby-witt-jr-agrees-11-year-2888m-deal-royals).
+You can read more about it [here](https://www.politico.com/news/2024/02/05/chutkan-trump-trial-date-2024-00139665).
 
 ## Requirements
 - Python 3.8
