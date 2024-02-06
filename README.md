@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's is about to report earnings. Here's what to expect**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/05/mcdonalds-mcd-q4-2023-earnings.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
