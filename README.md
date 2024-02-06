@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian cosmonaut sets record for most time in space — more than 878 days**
+**Vision Pro launch: all the news about Apple's pricey new headset**
 
-You can read more about it [here](https://www.ksl.com/article/50866170/russian-cosmonaut-sets-record-for-most-time-in-space--more-than-878-days).
+You can read more about it [here](https://www.theverge.com/24059284/apple-vision-pro-launch-day-news).
 
 ## Requirements
 - Python 3.8
