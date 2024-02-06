@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heads up for Federal Reserve Chair Powell speaking soon, during the Asian day session**
+**South Dakota tribe bans Gov. Kristi Noem from reservation over US-Mexico border remark**
 
-You can read more about it [here](https://www.forexlive.com/centralbank/heads-up-for-federal-reserve-chair-powell-speaking-soon-during-the-asian-day-session-20240204/).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4447555-south-dakota-tribe-bans-gov-kristi-noem-from-reservation-over-us-mexico-border-remark/).
 
 ## Requirements
 - Python 3.8
