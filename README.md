@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's is about to report earnings. Here's what to expect**
+**Yang Hengjun: Australian writer given suspended death sentence in China**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/05/mcdonalds-mcd-q4-2023-earnings.html).
+You can read more about it [here](https://www.bbc.com/news/world-australia-68201475).
 
 ## Requirements
 - Python 3.8
