@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA Tour cancels final round of AT&T Pebble Beach; Wyndham Clark declared winner**
+**Vaccine Effectiveness: Which COVID-19 Shots Offer the Most Protection?**
 
-You can read more about it [here](https://www.nbcsports.com/golf/news/pga-tour-cancels-final-round-of-at-t-pebble-beach-wyndham-clark-declared-winner).
+You can read more about it [here](https://scitechdaily.com/vaccine-effectiveness-which-covid-19-shots-offer-the-most-protection/).
 
 ## Requirements
 - Python 3.8
