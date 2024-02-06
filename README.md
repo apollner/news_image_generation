@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It's very disheartening': Iowa immigration rights advocate reacts to Gov. Reynolds' trip to Texas**
+**Idiots are already driving on Tesla Autopilot with Apple Vision Pro on their faces**
 
-You can read more about it [here](https://www.kcci.com/article/its-very-disheartening-iowa-immigration-rights-advocate-reacts-to-gov-reynolds-trip-to-texas/46638735).
+You can read more about it [here](https://electrek.co/2024/02/05/idiots-driving-tesla-autopilot-apple-vision-pro/).
 
 ## Requirements
 - Python 3.8
