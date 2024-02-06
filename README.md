@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel claims most Hamas fighters taken out, as Netanyahu vows victory within months**
+**Behind the Pac-2's attempt to leverage the College Football Playoff amid final expansion negotiations**
 
-You can read more about it [here](https://www.timesofisrael.com/israel-says-most-hamas-fighters-taken-out-as-netanyahu-vows-victory-within-months/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/behind-the-pac-2s-attempt-to-leverage-the-college-football-playoff-amid-final-expansion-negotiations/).
 
 ## Requirements
 - Python 3.8
