@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea**
+**Forest fires kill 112 in Chile's worst disaster since 2010 earthquake**
 
-You can read more about it [here](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea).
+You can read more about it [here](https://www.reuters.com/business/environment/chile-president-says-wildfires-death-toll-jumps-64-likely-rise-2024-02-04/).
 
 ## Requirements
 - Python 3.8
