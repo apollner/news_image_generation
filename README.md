@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senators unveil $118.28 billion bipartisan bill to overhaul immigration system along with Israel, Ukraine aid**
+**McDonald's is about to report earnings. Here's what to expect**
 
-You can read more about it [here](https://abcnews.go.com/Politics/senators-unveil-bipartisan-bill-overhaul-immigration-system-israel/story?id=106934667).
+You can read more about it [here](https://www.cnbc.com/2024/02/05/mcdonalds-mcd-q4-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
