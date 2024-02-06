@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Johnson faces internal GOP dissent on Israel bill**
+**[Removed]**
 
-You can read more about it [here](https://www.axios.com/2024/02/04/mike-johnson-gop-israel-bill-dissent).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
