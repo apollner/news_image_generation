@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chile’s wildfires kill at least 112, as Boric warns death toll to rise**
+**Mike Johnson faces internal GOP dissent on Israel bill**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/5/chiles-wildfires-kill-at-least-99-as-boric-warns-death-toll-to-rise).
+You can read more about it [here](https://www.axios.com/2024/02/04/mike-johnson-gop-israel-bill-dissent).
 
 ## Requirements
 - Python 3.8
