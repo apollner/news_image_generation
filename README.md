@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Wow!': NBC's Kristen Welker Shocked By New 'Truly Stunning' Biden-Trump Poll**
+**Columbus health officials warn of syphilis outbreak: where to get tested**
 
-You can read more about it [here](https://www.huffpost.com/entry/kristen-welker-trump-biden-poll_n_65c08c54e4b05c8779fa442b).
+You can read more about it [here](https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-health-officials-warn-of-syphilis-outbreak-where-to-get-tested/).
 
 ## Requirements
 - Python 3.8
