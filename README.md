@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vision Pro launch: all the news about Apple's pricey new headset**
+**Chile’s wildfires kill at least 112, as Boric warns death toll to rise**
 
-You can read more about it [here](https://www.theverge.com/24059284/apple-vision-pro-launch-day-news).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/5/chiles-wildfires-kill-at-least-99-as-boric-warns-death-toll-to-rise).
 
 ## Requirements
 - Python 3.8
