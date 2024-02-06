@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-DOJ Official Says He's 'Now At The Freakout Stage' Over 1 Donald Trump Case**
+**Zelenskyy confirms he's thinking of dismissing Ukraine's military chief**
 
-You can read more about it [here](https://www.huffpost.com/entry/neal-katyal-donald-trump-freakout_n_65c0a343e4b05c8779fa5a7c).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-528cc86dc13bfae79fea8dda3e819f40).
 
 ## Requirements
 - Python 3.8
