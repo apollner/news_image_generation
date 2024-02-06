@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Ingenuity Mars helicopter, broken and alone, spotted by Perseverance rover on Martian dune (photo, video)**
+**'Who the hell does he think he is?': Biden goes after Trump's rhetoric in Nevada**
 
-You can read more about it [here](https://www.space.com/mars-ingenuity-helicopter-perseverance-rover-photo-red-planet-surface).
+You can read more about it [here](https://abcnews.go.com/Politics/biden-after-trumps-rhetoric-nevada/story?id=106967547).
 
 ## Requirements
 - Python 3.8
