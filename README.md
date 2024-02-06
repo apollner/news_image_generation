@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy confirms he's thinking of dismissing Ukraine's military chief**
+**'It's very disheartening': Iowa immigration rights advocate reacts to Gov. Reynolds' trip to Texas**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-528cc86dc13bfae79fea8dda3e819f40).
+You can read more about it [here](https://www.kcci.com/article/its-very-disheartening-iowa-immigration-rights-advocate-reacts-to-gov-reynolds-trip-to-texas/46638735).
 
 ## Requirements
 - Python 3.8
