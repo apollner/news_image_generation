@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbus health officials warn of syphilis outbreak: where to get tested**
+**Ex-DOJ Official Says He's 'Now At The Freakout Stage' Over 1 Donald Trump Case**
 
-You can read more about it [here](https://www.nbc4i.com/news/local-news/central-ohio-news/columbus-health-officials-warn-of-syphilis-outbreak-where-to-get-tested/).
+You can read more about it [here](https://www.huffpost.com/entry/neal-katyal-donald-trump-freakout_n_65c0a343e4b05c8779fa5a7c).
 
 ## Requirements
 - Python 3.8
