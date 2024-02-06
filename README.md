@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Behind the Pac-2's attempt to leverage the College Football Playoff amid final expansion negotiations**
+**Taylor Swift's new album, 'The Tortured Poets Department,' comes out in April**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/behind-the-pac-2s-attempt-to-leverage-the-college-football-playoff-amid-final-expansion-negotiations/).
+You can read more about it [here](https://apnews.com/article/taylor-swift-new-album-5e219107982b1498a3656caeea85e0eb).
 
 ## Requirements
 - Python 3.8
