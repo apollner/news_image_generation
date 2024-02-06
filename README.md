@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ASUS Zenfone 11 Ultra specs and renders have leaked**
+**Why ‘Curb Your Enthusiasm’ Is Ending and the Story Behind Season 12’s Premiere Kicker**
 
-You can read more about it [here](https://www.androidauthority.com/asus-zenfone-11-ultra-leaked-renders-3410677/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/curb-your-enthusiasm-ending-season-12-premiere-mugshot-1235813863/).
 
 ## Requirements
 - Python 3.8
