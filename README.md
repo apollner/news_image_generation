@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atmospheric river parks over Southern California, posing potentially deadly flood threat for millions**
+**Israel claims most Hamas fighters taken out, as Netanyahu vows victory within months**
 
-You can read more about it [here](https://www.cnn.com/2024/02/04/us/pineapple-express-storm-california-weather-monday/index.html).
+You can read more about it [here](https://www.timesofisrael.com/israel-says-most-hamas-fighters-taken-out-as-netanyahu-vows-victory-within-months/).
 
 ## Requirements
 - Python 3.8
