@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yang Hengjun: Australian writer given suspended death sentence in China**
+**US forces launch self-defense strike on Houthis, accuse group of presenting 'an imminent threat' in Red Sea**
 
-You can read more about it [here](https://www.bbc.com/news/world-australia-68201475).
+You can read more about it [here](https://www.foxnews.com/world/us-forces-launch-self-defense-strike-houthis-accuse-group-presenting-imminent-threat-red-sea).
 
 ## Requirements
 - Python 3.8
