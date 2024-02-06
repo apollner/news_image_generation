@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing finds 'non-conformance' in some undelivered 737 fuselages, company says**
+**Zelenskyy says he's thinking of dismissing Ukraine’s top military officer**
 
-You can read more about it [here](https://abcnews.go.com/US/boeing-finds-conformance-undelivered-737-fuselages-company/story?id=106949166).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-528cc86dc13bfae79fea8dda3e819f40).
 
 ## Requirements
 - Python 3.8
