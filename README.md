@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vision Pro launch: all the news about Apple's pricey new headset**
+**Heads up for Federal Reserve Chair Powell speaking soon, during the Asian day session**
 
-You can read more about it [here](https://www.theverge.com/24059284/apple-vision-pro-launch-day-news).
+You can read more about it [here](https://www.forexlive.com/centralbank/heads-up-for-federal-reserve-chair-powell-speaking-soon-during-the-asian-day-session-20240204/).
 
 ## Requirements
 - Python 3.8
