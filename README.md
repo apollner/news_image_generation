@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's new album, 'The Tortured Poets Department,' comes out in April**
+**NASA announces new 'super-Earth': Exoplanet orbits in 'habitable zone,' is only 137 light-years away**
 
-You can read more about it [here](https://apnews.com/article/taylor-swift-new-album-5e219107982b1498a3656caeea85e0eb).
+You can read more about it [here](https://abcnews.go.com/US/nasa-super-earth-habitable-zone-exoplanet/story?id=106961506).
 
 ## Requirements
 - Python 3.8
