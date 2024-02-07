@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chip Roy: Border package authors ‘don’t know what they’re talking about’**
+**What’s next for California atmospheric river storms after record rain**
 
-You can read more about it [here](https://thehill.com/homenews/house/4450622-chip-roy-border-package-authors-dont-know-what-theyre-talking-about/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/06/california-atmospheric-river-forecast-rainfall-totals/).
 
 ## Requirements
 - Python 3.8
