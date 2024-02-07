@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Apple CEO compares this 'extraordinary' new product to the invention of the iPhone**
+**Atmospheric river lashes California with heavy rain and wind: Live updates**
 
-You can read more about it [here](https://www.foxbusiness.com/media/former-apple-ceo-compares-extraordinary-new-product-invention-iphone).
+You can read more about it [here](https://www.cnn.com/us/live-news/california-atmospheric-river-flooding-rain-02-05-24/index.html).
 
 ## Requirements
 - Python 3.8
