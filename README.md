@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atmospheric river lashes California with heavy rain and wind: Live updates**
+**Hundreds of people are missing as the death toll from Chile's wildfires reaches 122**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/california-atmospheric-river-flooding-rain-02-05-24/index.html).
+You can read more about it [here](https://apnews.com/article/chile-deadly-fires-vina-del-mar-4707856a7f7404a02c913ed08eddbb80).
 
 ## Requirements
 - Python 3.8
