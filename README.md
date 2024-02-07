@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Survey: Americans expected to bet $23.1B on Super Bowl 2024**
+**Nikki Haley requests Secret Service protection**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39469575/americans-expected-bet-231b-super-bowl-lviii).
+You can read more about it [here](https://abcnews.go.com/Politics/nikki-haley-requests-secret-service-protection-sources/story?id=106972938).
 
 ## Requirements
 - Python 3.8
