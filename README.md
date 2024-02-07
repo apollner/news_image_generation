@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans call to remove NYC's Sanctuary City laws after an assault on cops**
+**Nikki Haley Asks for Secret Service Protection After Increase in Threats**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/05/republicans-new-york-sanctuary-city-laws-nypd-00139754).
+You can read more about it [here](https://www.wsj.com/politics/elections/nikki-haley-asks-for-secret-service-protection-after-increase-in-threats-05b67a22).
 
 ## Requirements
 - Python 3.8
