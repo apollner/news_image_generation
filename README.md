@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on Israel-Hamas war: Live updates**
+**Houthis say they fired at two ships in Red Sea, damaging both**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-06-24/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/minor-damage-ship-hit-by-projectile-off-yemens-hodeidah-coast-ukmto-ambrey-2024-02-06/).
 
 ## Requirements
 - Python 3.8
