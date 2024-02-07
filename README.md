@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA announces new 'super-Earth': Exoplanet orbits in 'habitable zone,' is only 137 light-years away**
+**Former Apple CEO compares this 'extraordinary' new product to the invention of the iPhone**
 
-You can read more about it [here](https://abcnews.go.com/US/nasa-super-earth-habitable-zone-exoplanet/story?id=106961506).
+You can read more about it [here](https://www.foxbusiness.com/media/former-apple-ceo-compares-extraordinary-new-product-invention-iphone).
 
 ## Requirements
 - Python 3.8
