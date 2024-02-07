@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship targeted in suspected Yemen Houthi rebel drone attack in southern Red Sea as tensions high**
+**Chiefs and 49ers Preview | Super Bowl LVIII Opening Night**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-ship-attack-iran-us-e1c74b063a59fa4417d47feb5ab369cc).
+You can read more about it [here](https://www.youtube.com/watch?v=h2lpOQgS40M).
 
 ## Requirements
 - Python 3.8
