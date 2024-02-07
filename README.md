@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla owners told not to wear Apple virtual reality headsets while driving**
+**Catastrophic wildfires are likely deadliest on record in Chile, UN agency says**
 
-You can read more about it [here](https://www.bbc.com/news/technology-68215614).
+You can read more about it [here](https://www.cnn.com/2024/02/06/climate/chile-wildfires-deadliest-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
