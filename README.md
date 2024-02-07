@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge in Trump fraud trial asks about possible perjury plea deal for Allen Weisselberg**
+**Travis Kelce Adds Music Critic To Resume, Calls Taylor Swift’s Upcoming Album “Unbelievable”**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-fraud-trial-allen-weisselberg-plea-deal-judge/).
+You can read more about it [here](http://deadline.com/2024/02/travis-kelce-taylor-swift-1235816541/).
 
 ## Requirements
 - Python 3.8
