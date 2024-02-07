@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Nevada's holding a GOP caucus and primary for 2024—and why Trump and Haley will both claim victory**
+**The latest on Israel-Hamas war: Live updates**
 
-You can read more about it [here](https://www.cbsnews.com/news/nevadas-2024-primaries-republicans-democrats/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-06-24/index.html).
 
 ## Requirements
 - Python 3.8
