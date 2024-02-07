@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher bringing nationwide 'Past, Present, Future' tour to Baltimore**
+**Russian court orders arrest of novelist Boris Akunin**
 
-You can read more about it [here](https://www.wbaltv.com/article/usher-past-present-future-tour-baltimore-cfg-bank-arena/46659731).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/6/russian-court-orders-arrest-of-novelist-boris-akunin).
 
 ## Requirements
 - Python 3.8
