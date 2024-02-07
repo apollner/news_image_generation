@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woj's Joel Embiid injury update, impact on 76ers' moves & Giannis' comments on the Bucks | NBA Today**
+**Former Apple CEO compares this 'extraordinary' new product to the invention of the iPhone**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qRs_h9Qy5ng).
+You can read more about it [here](https://www.foxbusiness.com/media/former-apple-ceo-compares-extraordinary-new-product-invention-iphone).
 
 ## Requirements
 - Python 3.8
