@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Catastrophic wildfires are likely deadliest on record in Chile, UN agency says**
+**Survey: Americans expected to bet $23.1B on Super Bowl 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/02/06/climate/chile-wildfires-deadliest-climate-intl/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39469575/americans-expected-bet-231b-super-bowl-lviii).
 
 ## Requirements
 - Python 3.8
