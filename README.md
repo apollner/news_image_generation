@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship targeted in suspected Yemen Houthi rebel drone attack in southern Red Sea as tensions high**
+**Taylor Swift's new album, 'The Tortured Poets Department,' comes out in April**
 
-You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-ship-attack-iran-us-e1c74b063a59fa4417d47feb5ab369cc).
+You can read more about it [here](https://apnews.com/article/taylor-swift-new-album-5e219107982b1498a3656caeea85e0eb).
 
 ## Requirements
 - Python 3.8
