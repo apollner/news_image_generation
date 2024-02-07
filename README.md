@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chip Roy: Border package authors ‘don’t know what they’re talking about’**
+**The latest on Israel-Hamas war: Live updates**
 
-You can read more about it [here](https://thehill.com/homenews/house/4450622-chip-roy-border-package-authors-dont-know-what-theyre-talking-about/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-06-24/index.html).
 
 ## Requirements
 - Python 3.8
