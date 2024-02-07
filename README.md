@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley requests Secret Service protection**
+**Why Nevada's holding a GOP caucus and primary for 2024—and why Trump and Haley will both claim victory**
 
-You can read more about it [here](https://abcnews.go.com/Politics/nikki-haley-requests-secret-service-protection-sources/story?id=106972938).
+You can read more about it [here](https://www.cbsnews.com/news/nevadas-2024-primaries-republicans-democrats/).
 
 ## Requirements
 - Python 3.8
