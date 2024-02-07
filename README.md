@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eli Lilly results blow past estimates on strong Zepbound launch, surging Mounjaro revenue**
+**Mayorkas impeachment articles sent to House floor by Rules Committee**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/06/eli-lilly-lly-earnings-q4-2023.html).
+You can read more about it [here](https://nypost.com/2024/02/05/news/mayorkas-impeachment-articles-sent-to-house-floor-by-rules-committee/).
 
 ## Requirements
 - Python 3.8
