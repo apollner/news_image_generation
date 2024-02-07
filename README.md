@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sailor missing more than 2 weeks arrives in Hawaii, Coast Guard says**
+**Eli Lilly results blow past estimates on strong Zepbound launch, surging Mounjaro revenue**
 
-You can read more about it [here](https://www.cbsnews.com/news/missing-sailor-noel-rubio-arrives-hawaii-missing-more-than-two-weeks/).
+You can read more about it [here](https://www.cnbc.com/2024/02/06/eli-lilly-lly-earnings-q4-2023.html).
 
 ## Requirements
 - Python 3.8
