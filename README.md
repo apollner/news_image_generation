@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of residents, including children, displaced after debris flow damages homes in Beverly Crest**
+**Videos Show Tesla Drivers, On Autopilot, Wearing VR Headsets On Road**
 
-You can read more about it [here](https://abc7.com/beverly-glen-mudslide-los-angeles-storm-damage-rain-in-la/14388359/).
+You can read more about it [here](https://www.ndtv.com/world-news/videos-show-tesla-drivers-on-autopilot-wearing-vr-headsets-on-road-5002281).
 
 ## Requirements
 - Python 3.8
