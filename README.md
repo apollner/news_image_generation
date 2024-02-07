@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rhodes and Zayn battle McIntyre and Nakamura after Raw goes off the air: Raw Exclusive, Feb. 5, 2024**
+**NLRB ruling says Dartmouth men’s basketball players can unionize**
 
-You can read more about it [here](https://www.youtube.com/watch?v=F6SeukugG4Y).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/02/05/dartmouth-basketball-union/).
 
 ## Requirements
 - Python 3.8
