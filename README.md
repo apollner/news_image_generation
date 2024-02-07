@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio health officials warn of potential measles exposure at CVG**
+**First Intuitive Machines lunar lander mission set for Feb. 14 launch**
 
-You can read more about it [here](https://www.wlwt.com/article/ohio-measles-cincinnati-exposure-cvg-montgomery-county/46648780).
+You can read more about it [here](https://spacenews.com/first-intuitive-machines-lunar-lander-mission-set-for-feb-14-launch/).
 
 ## Requirements
 - Python 3.8
