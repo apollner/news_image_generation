@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of people are missing as the death toll from Chile's wildfires reaches 122**
+**Woj's Joel Embiid injury update, impact on 76ers' moves & Giannis' comments on the Bucks | NBA Today**
 
-You can read more about it [here](https://apnews.com/article/chile-deadly-fires-vina-del-mar-4707856a7f7404a02c913ed08eddbb80).
+You can read more about it [here](https://www.youtube.com/watch?v=qRs_h9Qy5ng).
 
 ## Requirements
 - Python 3.8
