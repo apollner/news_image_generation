@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s next for California atmospheric river storms after record rain**
+**Chair Cardin Statement on Senegalese Pre...**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/06/california-atmospheric-river-forecast-rainfall-totals/).
+You can read more about it [here](https://www.foreign.senate.gov/press/dem/release/chair-cardin-statement-on-senegalese-president-postponing-national-elections).
 
 ## Requirements
 - Python 3.8
