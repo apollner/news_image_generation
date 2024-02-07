@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NLRB ruling says Dartmouth men’s basketball players can unionize**
+**Ship targeted in suspected Yemen Houthi rebel drone attack in southern Red Sea as tensions high**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/02/05/dartmouth-basketball-union/).
+You can read more about it [here](https://apnews.com/article/yemen-houthi-rebels-ship-attack-iran-us-e1c74b063a59fa4417d47feb5ab369cc).
 
 ## Requirements
 - Python 3.8
