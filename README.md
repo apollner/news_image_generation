@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixers Notes: Embiid, Maxey, Harris, Drummond, Deadline Approach**
+**Tesla owners told not to wear Apple virtual reality headsets while driving**
 
-You can read more about it [here](https://www.hoopsrumors.com/2024/02/sixers-notes-embiid-maxey-harris-drummond-deadline-approach.html).
+You can read more about it [here](https://www.bbc.com/news/technology-68215614).
 
 ## Requirements
 - Python 3.8
