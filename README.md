@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chair Cardin Statement on Senegalese Pre...**
+**Country music star Toby Keith dies at 62**
 
-You can read more about it [here](https://www.foreign.senate.gov/press/dem/release/chair-cardin-statement-on-senegalese-president-postponing-national-elections).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/singer-toby-keith-dead-62/story?id=106980019).
 
 ## Requirements
 - Python 3.8
