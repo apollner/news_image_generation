@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs and 49ers Preview | Super Bowl LVIII Opening Night**
+**Sailor missing more than 2 weeks arrives in Hawaii, Coast Guard says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=h2lpOQgS40M).
+You can read more about it [here](https://www.cbsnews.com/news/missing-sailor-noel-rubio-arrives-hawaii-missing-more-than-two-weeks/).
 
 ## Requirements
 - Python 3.8
