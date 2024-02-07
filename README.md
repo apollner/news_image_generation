@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country music star Toby Keith dies at 62**
+**What’s next for California atmospheric river storms after record rain**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/singer-toby-keith-dead-62/story?id=106980019).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/06/california-atmospheric-river-forecast-rainfall-totals/).
 
 ## Requirements
 - Python 3.8
