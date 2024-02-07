@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian court orders arrest of novelist Boris Akunin**
+**Chip Roy: Border package authors ‘don’t know what they’re talking about’**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/6/russian-court-orders-arrest-of-novelist-boris-akunin).
+You can read more about it [here](https://thehill.com/homenews/house/4450622-chip-roy-border-package-authors-dont-know-what-theyre-talking-about/).
 
 ## Requirements
 - Python 3.8
