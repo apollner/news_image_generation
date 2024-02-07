@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge in Trump fraud trial asks about possible perjury plea deal for Allen Weisselberg**
+**Former Chilean President Sebastian Pinera dies in helicopter crash**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-fraud-trial-allen-weisselberg-plea-deal-judge/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/02/06/sebastian-pinera-former-chile-president-dead/).
 
 ## Requirements
 - Python 3.8
