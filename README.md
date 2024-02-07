@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley Asks for Secret Service Protection After Increase in Threats**
+**Ohio health officials warn of potential measles exposure at CVG**
 
-You can read more about it [here](https://www.wsj.com/politics/elections/nikki-haley-asks-for-secret-service-protection-after-increase-in-threats-05b67a22).
+You can read more about it [here](https://www.wlwt.com/article/ohio-measles-cincinnati-exposure-cvg-montgomery-county/46648780).
 
 ## Requirements
 - Python 3.8
