@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s next for California atmospheric river storms after record rain**
+**Judge in Trump fraud trial asks about possible perjury plea deal for Allen Weisselberg**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/06/california-atmospheric-river-forecast-rainfall-totals/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-fraud-trial-allen-weisselberg-plea-deal-judge/).
 
 ## Requirements
 - Python 3.8
