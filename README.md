@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rapper Killer Mike Breaks His Silence on Arrest at 2024 Grammy Awards**
+**Rhodes and Zayn battle McIntyre and Nakamura after Raw goes off the air: Raw Exclusive, Feb. 5, 2024**
 
-You can read more about it [here](https://www.eonline.com/news/1394604/rapper-killer-mike-breaks-his-silence-on-arrest-at-2024-grammy-awards).
+You can read more about it [here](https://www.youtube.com/watch?v=F6SeukugG4Y).
 
 ## Requirements
 - Python 3.8
