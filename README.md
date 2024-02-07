@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Intuitive Machines lunar lander mission set for Feb. 14 launch**
+**Rapper Killer Mike Breaks His Silence on Arrest at 2024 Grammy Awards**
 
-You can read more about it [here](https://spacenews.com/first-intuitive-machines-lunar-lander-mission-set-for-feb-14-launch/).
+You can read more about it [here](https://www.eonline.com/news/1394604/rapper-killer-mike-breaks-his-silence-on-arrest-at-2024-grammy-awards).
 
 ## Requirements
 - Python 3.8
