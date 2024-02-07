@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayorkas impeachment articles sent to House floor by Rules Committee**
+**Sixers Notes: Embiid, Maxey, Harris, Drummond, Deadline Approach**
 
-You can read more about it [here](https://nypost.com/2024/02/05/news/mayorkas-impeachment-articles-sent-to-house-floor-by-rules-committee/).
+You can read more about it [here](https://www.hoopsrumors.com/2024/02/sixers-notes-embiid-maxey-harris-drummond-deadline-approach.html).
 
 ## Requirements
 - Python 3.8
