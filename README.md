@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Apple CEO compares this 'extraordinary' new product to the invention of the iPhone**
+**Republicans call to remove NYC's Sanctuary City laws after an assault on cops**
 
-You can read more about it [here](https://www.foxbusiness.com/media/former-apple-ceo-compares-extraordinary-new-product-invention-iphone).
+You can read more about it [here](https://www.politico.com/news/2024/02/05/republicans-new-york-sanctuary-city-laws-nypd-00139754).
 
 ## Requirements
 - Python 3.8
