@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Videos Show Tesla Drivers, On Autopilot, Wearing VR Headsets On Road**
+**Woj's Joel Embiid injury update, impact on 76ers' moves & Giannis' comments on the Bucks | NBA Today**
 
-You can read more about it [here](https://www.ndtv.com/world-news/videos-show-tesla-drivers-on-autopilot-wearing-vr-headsets-on-road-5002281).
+You can read more about it [here](https://www.youtube.com/watch?v=qRs_h9Qy5ng).
 
 ## Requirements
 - Python 3.8
