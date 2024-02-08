@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM to spend $19 billion through 2035 to source EV battery materials from LG Chem**
+**First real Galaxy A35 photo leaks and confirms Key Island design - SamMobile**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/07/gm-lg-chem-ev-battery-materials-deal.html).
+You can read more about it [here](https://www.sammobile.com/news/first-real-galaxy-a35-photo-leaks-confirms-key-island-design/).
 
 ## Requirements
 - Python 3.8
