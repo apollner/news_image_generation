@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jose Altuve signs contract extension with Astros**
+**Horoscope for Wednesday, Feb. 7, 2024**
 
-You can read more about it [here](https://www.mlb.com/news/jose-altuve-signs-contract-extension-with-astros).
+You can read more about it [here](https://chicago.suntimes.com/2024/2/7/24062663/horoscopes-today-wednesday-feb-7-2024).
 
 ## Requirements
 - Python 3.8
