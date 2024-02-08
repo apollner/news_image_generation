@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base – Spaceflight Now**
+**Houthis say they fired at two ships in Red Sea, damaging both**
 
-You can read more about it [here](https://spaceflightnow.com/2024/02/07/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/minor-damage-ship-hit-by-projectile-off-yemens-hodeidah-coast-ukmto-ambrey-2024-02-06/).
 
 ## Requirements
 - Python 3.8
