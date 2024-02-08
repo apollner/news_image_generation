@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First real Galaxy A35 photo leaks and confirms Key Island design - SamMobile**
+**Travis Kelce Addressed Taylor Swift Engagement Rumors**
 
-You can read more about it [here](https://www.sammobile.com/news/first-real-galaxy-a35-photo-leaks-confirms-key-island-design/).
+You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/travis-kelce-addressed-taylor-swift-engagement-rumors).
 
 ## Requirements
 - Python 3.8
