@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell dealt blow by Trump on border bill**
+**Al Green leaves hospital to cast vote against Alejandro Mayorkas impeachment**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4451977-mcconnell-dealt-blow-by-trump-on-border-bill/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68228938).
 
 ## Requirements
 - Python 3.8
