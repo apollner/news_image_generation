@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RNC Chair Ronna McDaniel discussed stepping down with Trump, sources say**
+**Jamie Dimon wants employees back at the office. That should become even easier with JPMorgan adding 500 branches over the next 3 years**
 
-You can read more about it [here](https://abcnews.go.com/Politics/rnc-chair-ronna-mcdaniel-discussed-stepping-down-donald-trump-sources/story?id=107009390).
+You can read more about it [here](https://fortune.com/2024/02/06/jamie-dimon-jpmorgan-500-new-branches-expansion/).
 
 ## Requirements
 - Python 3.8
