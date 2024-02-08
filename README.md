@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing jetliner bolts missing before midflight blow out**
+**Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base – Spaceflight Now**
 
-You can read more about it [here](https://apnews.com/article/boeing-emergency-landing-report-alaska-airlines-8543c90b68b4d932a700cf57ff8f1b8e).
+You can read more about it [here](https://spaceflightnow.com/2024/02/07/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/).
 
 ## Requirements
 - Python 3.8
