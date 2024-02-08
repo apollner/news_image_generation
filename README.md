@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak faces calls to apologise over trans jibe to Starmer at PMQs**
+**Missing military helicopter found, search continues for 5 Marines on board**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68229785).
+You can read more about it [here](https://abcnews.go.com/US/military-helicopter-5-marines-board-missing-en-route/story?id=107021601).
 
 ## Requirements
 - Python 3.8
