@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthis say they fired at two ships in Red Sea, damaging both**
+**Jose Altuve signs contract extension with Astros**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/minor-damage-ship-hit-by-projectile-off-yemens-hodeidah-coast-ukmto-ambrey-2024-02-06/).
+You can read more about it [here](https://www.mlb.com/news/jose-altuve-signs-contract-extension-with-astros).
 
 ## Requirements
 - Python 3.8
