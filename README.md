@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Troubled lender NYCB seeks to reassure investors after 60% stock slide, Moody's credit downgrade**
+**First real Galaxy A35 photo leaks and confirms Key Island design - SamMobile**
 
-You can read more about it [here](https://finance.yahoo.com/news/troubled-lender-nycb-seeks-to-reassure-investors-after-60-stock-slide-moodys-credit-downgrade-125240216.html).
+You can read more about it [here](https://www.sammobile.com/news/first-real-galaxy-a35-photo-leaks-confirms-key-island-design/).
 
 ## Requirements
 - Python 3.8
