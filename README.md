@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Dimon wants employees back at the office. That should become even easier with JPMorgan adding 500 branches over the next 3 years**
+**NASA Jet Propulsion Laboratory in California to lay off 530 workers because of lack of funding**
 
-You can read more about it [here](https://fortune.com/2024/02/06/jamie-dimon-jpmorgan-500-new-branches-expansion/).
+You can read more about it [here](https://www.foxnews.com/us/nasa-jet-propulsion-laboratory-california-lay-off-five-hundred-thirty-workers-lack-funding).
 
 ## Requirements
 - Python 3.8
