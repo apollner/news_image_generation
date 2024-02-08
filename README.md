@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia unleashes 'massive' airstrike on Ukraine, Zelenskyy says**
+**Blasts near Pakistan candidates' offices kill 24 on eve of election**
 
-You can read more about it [here](https://abcnews.go.com/International/russia-unleashes-massive-airstrike-ukraine-zelenskyy/story?id=107016443).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/jail-pakistans-imran-khan-asks-supporters-wait-by-poll-stations-after-vote-2024-02-07/).
 
 ## Requirements
 - Python 3.8
