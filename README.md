@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden tells Congress to 'show some spine' as border deal derails**
+**Boeing jetliner bolts missing before midflight blow out**
 
-You can read more about it [here](https://apnews.com/article/congress-border-security-bill-ukraine-b386eae0c4947497da931870dbcb28a0).
+You can read more about it [here](https://apnews.com/article/boeing-emergency-landing-report-alaska-airlines-8543c90b68b4d932a700cf57ff8f1b8e).
 
 ## Requirements
 - Python 3.8
