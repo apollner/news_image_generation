@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final Fantasy VII Rebirth Demo Launches On PS5**
+**New York Community Bancorp Shares Plunge to Lowest Level Since 1997**
 
-You can read more about it [here](https://kotaku.com/final-fantasy-7-rebirth-demo-cloud-sephiroth-1851232144).
+You can read more about it [here](https://www.wsj.com/finance/banking/new-york-community-bancorp-stock-dropping-again-fb7b948c).
 
 ## Requirements
 - Python 3.8
