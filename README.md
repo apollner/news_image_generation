@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Critical vulnerability affecting most Linux distros allows for bootkits**
+**RNC Chair Ronna McDaniel discussed stepping down with Trump, sources say**
 
-You can read more about it [here](https://arstechnica.com/security/2024/02/critical-vulnerability-affecting-most-linux-distros-allows-for-bootkits/).
+You can read more about it [here](https://abcnews.go.com/Politics/rnc-chair-ronna-mcdaniel-discussed-stepping-down-donald-trump-sources/story?id=107009390).
 
 ## Requirements
 - Python 3.8
