@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP fails to pass Israel package as congressional impasse continues**
+**Critical vulnerability affecting most Linux distros allows for bootkits**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/02/06/house-israel-aid-bill-fails/).
+You can read more about it [here](https://arstechnica.com/security/2024/02/critical-vulnerability-affecting-most-linux-distros-allows-for-bootkits/).
 
 ## Requirements
 - Python 3.8
