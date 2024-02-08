@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snap Reports Disappointing Revenue During Ad Slump; Shares Plunge**
+**Toby Keith was ‘misunderstood’ because he was ‘painted in a certain way,’ rep says after his death**
 
-You can read more about it [here](https://finance.yahoo.com/news/snap-reports-disappointing-revenue-during-214317242.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/toby-keith-misunderstood-painted-certain-way-rep-says-his-death).
 
 ## Requirements
 - Python 3.8
