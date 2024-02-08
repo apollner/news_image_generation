@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tucker Carlson faces media fury over Putin interview**
+**Troubled lender NYCB seeks to reassure investors after 60% stock slide, Moody's credit downgrade**
 
-You can read more about it [here](https://www.politico.eu/article/journalists-fume-tucker-carlson-vladmir-putin-interview-russia/).
+You can read more about it [here](https://finance.yahoo.com/news/troubled-lender-nycb-seeks-to-reassure-investors-after-60-stock-slide-moodys-credit-downgrade-125240216.html).
 
 ## Requirements
 - Python 3.8
