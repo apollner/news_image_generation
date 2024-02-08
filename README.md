@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First real Galaxy A35 photo leaks and confirms Key Island design - SamMobile**
+**Kelly Rowland Weighs in on Jay-Z Calling Out the Grammys for Not Giving Beyoncé AOTY**
 
-You can read more about it [here](https://www.sammobile.com/news/first-real-galaxy-a35-photo-leaks-confirms-key-island-design/).
+You can read more about it [here](https://www.cosmopolitan.com/entertainment/celebs/a46669945/kelly-rowland-reaction-jay-z-grammys/).
 
 ## Requirements
 - Python 3.8
