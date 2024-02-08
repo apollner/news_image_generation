@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft brings new design-focused features to Copilot**
+**'Everywhere chemicals' in plastic food containers and more linked to preterm births, doctors warn**
 
-You can read more about it [here](https://techcrunch.com/2024/02/07/microsoft-brings-new-design-focused-features-to-copilot/).
+You can read more about it [here](https://nypost.com/2024/02/07/lifestyle/everywhere-chemicals-in-plastic-food-containers-and-more-linked-to-preterm-births-doctors-warn/).
 
 ## Requirements
 - Python 3.8
