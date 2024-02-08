@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York Community Bancorp Shares Plunge to Lowest Level Since 1997**
+**Snap Reports Disappointing Revenue During Ad Slump; Shares Plunge**
 
-You can read more about it [here](https://www.wsj.com/finance/banking/new-york-community-bancorp-stock-dropping-again-fb7b948c).
+You can read more about it [here](https://finance.yahoo.com/news/snap-reports-disappointing-revenue-during-214317242.html).
 
 ## Requirements
 - Python 3.8
