@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelly Rowland Weighs in on Jay-Z Calling Out the Grammys for Not Giving Beyoncé AOTY**
+**Rishi Sunak faces calls to apologise over trans jibe to Starmer at PMQs**
 
-You can read more about it [here](https://www.cosmopolitan.com/entertainment/celebs/a46669945/kelly-rowland-reaction-jay-z-grammys/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68229785).
 
 ## Requirements
 - Python 3.8
