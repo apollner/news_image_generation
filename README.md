@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yum Brands disappoints as KFC, Taco Bell and Pizza Hut fall short of same-store sales expectations**
+**McConnell dealt blow by Trump on border bill**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/07/yum-brands-yum-q4-2023-earnings.html).
+You can read more about it [here](https://thehill.com/homenews/senate/4451977-mcconnell-dealt-blow-by-trump-on-border-bill/).
 
 ## Requirements
 - Python 3.8
