@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snap shares drop 35% after company's revenue miss and weak guidance**
+**GM to spend $19 billion through 2035 to source EV battery materials from LG Chem**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/07/snap-stock-drops-30percent-after-revenue-miss-and-weak-guidance.html).
+You can read more about it [here](https://www.cnbc.com/2024/02/07/gm-lg-chem-ev-battery-materials-deal.html).
 
 ## Requirements
 - Python 3.8
