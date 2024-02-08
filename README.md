@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California flooding: Storm-soaked neighbourhoods brace for mudslides**
+**More than 10 killer whales appear to be trapped by sea ice in Japan**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68206819).
+You can read more about it [here](https://abcnews.go.com/International/10-killer-whales-trapped-sea-ice-japan/story?id=106997902).
 
 ## Requirements
 - Python 3.8
