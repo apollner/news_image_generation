@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clemson takes down No. 3 UNC on road to boost NCAA résumé**
+**Yum Brands disappoints as KFC, Taco Bell and Pizza Hut fall short of same-store sales expectations**
 
-You can read more about it [here](https://www.espn.ph/mens-college-basketball/story/_/id/39474129/clemson-tigers-basketball-takes-no-3-unc-tar-heels-road).
+You can read more about it [here](https://www.cnbc.com/2024/02/07/yum-brands-yum-q4-2023-earnings.html).
 
 ## Requirements
 - Python 3.8
