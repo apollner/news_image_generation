@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Al Green leaves hospital to cast vote against Alejandro Mayorkas impeachment**
+**Russia unleashes 'massive' airstrike on Ukraine, Zelenskyy says**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68228938).
+You can read more about it [here](https://abcnews.go.com/International/russia-unleashes-massive-airstrike-ukraine-zelenskyy/story?id=107016443).
 
 ## Requirements
 - Python 3.8
