@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers, Warriors Among Teams Most Desperate to Make a Move**
+**Michigan school shooter’s mother found guilty of manslaughter**
 
-You can read more about it [here](https://www.si.com/nba/2024/02/06/nba-trade-deadline-lakers-warriors-among-most-desperate-to-make-move).
+You can read more about it [here](https://apnews.com/article/oxford-high-school-mother-charged-01f336607a496c5f9ff0cb3a7434d073).
 
 ## Requirements
 - Python 3.8
