@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Alex Morgan re-join USWNT for Olympics?: 'Nobody is out of the mix'**
+**Tish Cyrus stayed with Billy Ray Cyrus 'out of fear': I had a 'psychological breakdown'**
 
-You can read more about it [here](https://www.foxsports.com/stories/soccer/uswnt-legend-alex-morgan-left-off-of-gold-cup-roster-mallory-swanson-returns).
+You can read more about it [here](https://nypost.com/2024/02/07/entertainment/tish-cyrus-stayed-with-billy-ray-cyrus-out-of-fear-i-had-a-psychological-breakdown/).
 
 ## Requirements
 - Python 3.8
