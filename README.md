@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Jet Propulsion Laboratory in California to lay off 530 workers because of lack of funding**
+**Biden tells Congress to 'show some spine' as border deal derails**
 
-You can read more about it [here](https://www.foxnews.com/us/nasa-jet-propulsion-laboratory-california-lay-off-five-hundred-thirty-workers-lack-funding).
+You can read more about it [here](https://apnews.com/article/congress-border-security-bill-ukraine-b386eae0c4947497da931870dbcb28a0).
 
 ## Requirements
 - Python 3.8
