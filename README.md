@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Netanyahu rejects cease-fire demands from Hamas**
+**Will Alex Morgan re-join USWNT for Olympics?: 'Nobody is out of the mix'**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-07-2024-6ceffca2970243cd039e90268c32c617).
+You can read more about it [here](https://www.foxsports.com/stories/soccer/uswnt-legend-alex-morgan-left-off-of-gold-cup-roster-mallory-swanson-returns).
 
 ## Requirements
 - Python 3.8
