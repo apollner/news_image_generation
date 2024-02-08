@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan school shooter’s mother found guilty of manslaughter**
+**New York Community Bancorp Shares Plunge to Lowest Level Since 1997**
 
-You can read more about it [here](https://apnews.com/article/oxford-high-school-mother-charged-01f336607a496c5f9ff0cb3a7434d073).
+You can read more about it [here](https://www.wsj.com/finance/banking/new-york-community-bancorp-stock-dropping-again-fb7b948c).
 
 ## Requirements
 - Python 3.8
