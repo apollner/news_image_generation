@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pod of orcas seen trapped by thick sea ice off northern Japan believed to be free**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/orcas-trapped-drift-ice-hokkaido-japan-drone-footage/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
