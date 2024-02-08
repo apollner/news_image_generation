@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Final Fantasy VII Rebirth Demo Launches On PS5**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://kotaku.com/final-fantasy-7-rebirth-demo-cloud-sephiroth-1851232144).
 
 ## Requirements
 - Python 3.8
