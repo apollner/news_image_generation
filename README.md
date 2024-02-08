@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Addressed Taylor Swift Engagement Rumors**
+**Microsoft brings new design-focused features to Copilot**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/ellendurney/travis-kelce-addressed-taylor-swift-engagement-rumors).
+You can read more about it [here](https://techcrunch.com/2024/02/07/microsoft-brings-new-design-focused-features-to-copilot/).
 
 ## Requirements
 - Python 3.8
