@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blasts near Pakistan candidates' offices kill 24 on eve of election**
+**Tucker Carlson faces media fury over Putin interview**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/jail-pakistans-imran-khan-asks-supporters-wait-by-poll-stations-after-vote-2024-02-07/).
+You can read more about it [here](https://www.politico.eu/article/journalists-fume-tucker-carlson-vladmir-putin-interview-russia/).
 
 ## Requirements
 - Python 3.8
