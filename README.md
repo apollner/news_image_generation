@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing military helicopter found, search continues for 5 Marines on board**
+**Snap shares drop 35% after company's revenue miss and weak guidance**
 
-You can read more about it [here](https://abcnews.go.com/US/military-helicopter-5-marines-board-missing-en-route/story?id=107021601).
+You can read more about it [here](https://www.cnbc.com/2024/02/07/snap-stock-drops-30percent-after-revenue-miss-and-weak-guidance.html).
 
 ## Requirements
 - Python 3.8
