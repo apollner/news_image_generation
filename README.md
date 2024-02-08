@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 10 killer whales appear to be trapped by sea ice in Japan**
+**Watch 11 minutes of Final Fantasy VII Rebirth gameplay features — and the final trailer**
 
-You can read more about it [here](https://abcnews.go.com/International/10-killer-whales-trapped-sea-ice-japan/story?id=106997902).
+You can read more about it [here](https://www.theverge.com/2024/2/6/24064121/final-fantasy-vii-rebirth-final-trailer-gameplay-video).
 
 ## Requirements
 - Python 3.8
