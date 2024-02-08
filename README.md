@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Clemson takes down No. 3 UNC on road to boost NCAA résumé**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.ph/mens-college-basketball/story/_/id/39474129/clemson-tigers-basketball-takes-no-3-unc-tar-heels-road).
 
 ## Requirements
 - Python 3.8
