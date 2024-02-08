@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Everywhere chemicals' in plastic food containers and more linked to preterm births, doctors warn**
+**Israel-Hamas war: Netanyahu rejects cease-fire demands from Hamas**
 
-You can read more about it [here](https://nypost.com/2024/02/07/lifestyle/everywhere-chemicals-in-plastic-food-containers-and-more-linked-to-preterm-births-doctors-warn/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-07-2024-6ceffca2970243cd039e90268c32c617).
 
 ## Requirements
 - Python 3.8
