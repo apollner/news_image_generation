@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tish Cyrus stayed with Billy Ray Cyrus 'out of fear': I had a 'psychological breakdown'**
+**US drone strike kills Iran-backed militia leader in Baghdad**
 
-You can read more about it [here](https://nypost.com/2024/02/07/entertainment/tish-cyrus-stayed-with-billy-ray-cyrus-out-of-fear-i-had-a-psychological-breakdown/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68235311).
 
 ## Requirements
 - Python 3.8
