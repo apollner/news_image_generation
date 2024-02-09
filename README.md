@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Double Plumes Spotted on Jupiter's Cantankerous Volcanic Moon**
+**US Initial Jobless Claims Drop for the First Time in Three Weeks**
 
-You can read more about it [here](https://gizmodo.com/nasa-juno-io-volcanic-moon-double-plumes-jupiter-1851236078).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-08/us-initial-jobless-claims-drop-for-the-first-time-in-three-weeks).
 
 ## Requirements
 - Python 3.8
