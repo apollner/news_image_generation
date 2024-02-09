@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US drone strike kills Iran-backed militia leader in Baghdad**
+**Nikki Haley vows to stay in race after stinging Nevada loss**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68235311).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68225999).
 
 ## Requirements
 - Python 3.8
