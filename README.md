@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snoop Dogg and Master P sue Walmart over cereal sabotage claim**
+**Men on Viagra may reduce their Alzheimer's risk - study**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68229529).
+You can read more about it [here](https://www.bbc.com/news/health-68232649).
 
 ## Requirements
 - Python 3.8
