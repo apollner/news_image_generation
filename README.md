@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julio Iglesias and Netflix Strike Deal for Series About Iconic Singer’s Life**
+**Feds Say Activision Layoffs Violate Promises Microsoft Made in Merger Deal**
 
-You can read more about it [here](https://variety.com/2024/tv/global/julio-iglesias-netflix-series-1235902052/).
+You can read more about it [here](https://gizmodo.com/ftc-microsoft-letter-activision-blizzard-layoffs-1851238343).
 
 ## Requirements
 - Python 3.8
