@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PayPal (PYPL) Q4 2023 Earnings Call Transcript**
+**Nikki Haley vows to stay in race after stinging Nevada loss**
 
-You can read more about it [here](https://www.fool.com/earnings/call-transcripts/2024/02/07/paypal-pypl-q4-2023-earnings-call-transcript/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68225999).
 
 ## Requirements
 - Python 3.8
