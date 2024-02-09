@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Men on Viagra may reduce their Alzheimer's risk - study**
+**Biden determined to use stunning Trump-backed collapse of border deal as a weapon in 2024 campaign**
 
-You can read more about it [here](https://www.bbc.com/news/health-68232649).
+You can read more about it [here](https://apnews.com/article/biden-border-trump-immigration-9fd40a8ba7096362ca3ff4d810c01b21).
 
 ## Requirements
 - Python 3.8
