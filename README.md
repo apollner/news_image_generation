@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bolsonaro named target in Brazil coup probe, ordered to surrender passport**
+**Wall Street Love Sends Disney Stock Soaring; Activist Investor Calls It “Déjà Vu All Over Again”**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/02/08/bolsonaro-named-target-brazil-coup-probe-ordered-surrender-passport/).
+You can read more about it [here](http://deadline.com/2024/02/disney-stock-pops-earnings-deals-bob-iger-turnaround-nelson-peltz-1235819114/).
 
 ## Requirements
 - Python 3.8
