@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple: Vision Pro Headset Enables ‘Spatial Computing’**
+**US drone strike kills Iran-backed militia leader in Baghdad**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/apple-says-its-new-vision-pro-headset-enables-spatial-computing-/7472103.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68235311).
 
 ## Requirements
 - Python 3.8
