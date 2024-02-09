@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study: Chemicals used in plastics could be linked to a rise in premature births**
+**Sources - Bucks acquire Patrick Beverley in trade with 76ers**
 
-You can read more about it [here](https://www.deseret.com/2024/2/8/24066105/chemicals-plastics-linked-rise-premature-births-study-pregnancy).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39485387/sources-bucks-acquire-patrick-beverley-trade-76ers).
 
 ## Requirements
 - Python 3.8
