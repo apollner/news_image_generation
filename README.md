@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India: Uttarakhand passes uniform marriage law**
+**Marianne Williamson drops out of Democratic presidential race**
 
-You can read more about it [here](https://apnews.com/article/india-marriage-code-muslims-new-law-religion-f335cc642e2c63c92dcbb83650181151).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/02/07/marianne-williamson-drops-out-democratic-presidential-race/).
 
 ## Requirements
 - Python 3.8
