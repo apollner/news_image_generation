@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rio declares dengue emergency as Brazil gears up for carnival**
+**Israel-Hamas war: Blinken says cease-fire and hostage-release agreement is still possible**
 
-You can read more about it [here](https://www.cnn.com/2024/02/07/americas/rio-dengue-emergency-carnival-intl/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-07-2024-6ceffca2970243cd039e90268c32c617).
 
 ## Requirements
 - Python 3.8
