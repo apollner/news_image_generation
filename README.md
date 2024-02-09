@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William Breaks Silence on King Charles III's Cancer Diagnosis**
+**Apple: Vision Pro Headset Enables ‘Spatial Computing’**
 
-You can read more about it [here](https://www.eonline.com/news/1394580/prince-william-breaks-silence-on-king-charles-iiis-cancer-diagnosis).
+You can read more about it [here](https://learningenglish.voanews.com/a/apple-says-its-new-vision-pro-headset-enables-spatial-computing-/7472103.html).
 
 ## Requirements
 - Python 3.8
