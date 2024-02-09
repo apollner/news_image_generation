@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US drone strike kills Iran-backed militia leader in Baghdad**
+**Senate Republicans block bipartisan border deal**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68235311).
+You can read more about it [here](https://apnews.com/article/congress-ukraine-aid-border-security-386dcc54b29a5491f8bd87b727a284f8).
 
 ## Requirements
 - Python 3.8
