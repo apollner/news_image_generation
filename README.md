@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marianne Williamson drops out of Democratic presidential race**
+**Snoop Dogg and Master P sue Walmart over cereal sabotage claim**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/02/07/marianne-williamson-drops-out-democratic-presidential-race/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68229529).
 
 ## Requirements
 - Python 3.8
