@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US drone strike kills Iran-backed militia leader in Baghdad**
+**Prince William Breaks Silence on King Charles III's Cancer Diagnosis**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68235311).
+You can read more about it [here](https://www.eonline.com/news/1394580/prince-william-breaks-silence-on-king-charles-iiis-cancer-diagnosis).
 
 ## Requirements
 - Python 3.8
