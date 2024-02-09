@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Blinken says cease-fire and hostage-release agreement is still possible**
+**New intelligence report warns China has been in U.S. critical infrastructure for "at least five years"**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-07-2024-6ceffca2970243cd039e90268c32c617).
+You can read more about it [here](https://www.axios.com/2024/02/07/china-volt-typhoon-critical-cyberattacks).
 
 ## Requirements
 - Python 3.8
