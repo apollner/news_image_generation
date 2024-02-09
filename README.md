@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Call of Duty Zombies Fans Fear the Worst After Treyarch Says Not to Expect New Perks or Enemy Types**
+**Double Plumes Spotted on Jupiter's Cantankerous Volcanic Moon**
 
-You can read more about it [here](https://www.ign.com/articles/call-of-duty-zombies-fans-fear-the-worst-after-treyarch-says-not-to-expect-new-perks-or-enemy-types).
+You can read more about it [here](https://gizmodo.com/nasa-juno-io-volcanic-moon-double-plumes-jupiter-1851236078).
 
 ## Requirements
 - Python 3.8
