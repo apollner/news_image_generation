@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan prepares for pivotal election as one of the leading candidate serves jail time**
+**The Biden admin is weighing executive action to deter illegal migration at the border**
 
-You can read more about it [here](https://www.foxnews.com/world/pakistan-prepares-pivotal-election-one-of-the-leading-candidate-serves-jail-time).
+You can read more about it [here](https://www.nbcnews.com/politics/immigration/biden-administration-weighs-executive-action-border-migrants-rcna137804).
 
 ## Requirements
 - Python 3.8
