@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Sixers acquire guard Hield from Pacers**
+**Julio Iglesias and Netflix Strike Deal for Series About Iconic Singer’s Life**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39484405/sources-sixers-acquire-guard-buddy-hield-pacers).
+You can read more about it [here](https://variety.com/2024/tv/global/julio-iglesias-netflix-series-1235902052/).
 
 ## Requirements
 - Python 3.8
