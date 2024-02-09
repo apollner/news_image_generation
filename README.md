@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoftBank Returns to Health With an AI Bump**
+**The Supreme Court seems poised to reject efforts to kick Trump off the ballot over the Capitol riot**
 
-You can read more about it [here](https://www.wsj.com/business/earnings/softbank-group-reports-net-profit-on-improvement-in-tech-investments-661d0aab).
+You can read more about it [here](https://apnews.com/article/supreme-court-insurrection-trump-2024-election-397a481d2886b64bba06b24ff3d03f37).
 
 ## Requirements
 - Python 3.8
