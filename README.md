@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan prepares for pivotal election as one of the leading candidate serves jail time**
+**Feud: Capote vs. the Swans: Fact vs. fiction in Episodes 1 through 3.**
 
-You can read more about it [here](https://www.foxnews.com/world/pakistan-prepares-pivotal-election-one-of-the-leading-candidate-serves-jail-time).
+You can read more about it [here](https://slate.com/culture/2024/02/feud-capote-swans-black-white-ball-true-story.html).
 
 ## Requirements
 - Python 3.8
