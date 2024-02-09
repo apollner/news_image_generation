@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher proud to be first independent artist to headline Super Bowl halftime show**
+**2024 NBA trade deadline tracker: Buddy Hield, Gordon Hayward, P.J. Washington moved, see every deal**
 
-You can read more about it [here](https://www.cnn.com/2024/02/08/entertainment/usher-super-bowl-halftime-show/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-trade-deadline-tracker-buddy-hield-gordon-hayward-p-j-washington-moved-see-every-deal/).
 
 ## Requirements
 - Python 3.8
