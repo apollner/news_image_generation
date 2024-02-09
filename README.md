@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Supreme Court seems poised to reject efforts to kick Trump off the ballot over the Capitol riot**
+**Detroit Pistons fans confused about lack of return in Knicks trade**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-insurrection-trump-2024-election-397a481d2886b64bba06b24ff3d03f37).
+You can read more about it [here](https://www.freep.com/story/sports/nba/pistons/2024/02/08/detroit-pistons-fans-confused-about-trade-new-york-knicks/72522985007/).
 
 ## Requirements
 - Python 3.8
