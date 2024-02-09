@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street Love Sends Disney Stock Soaring; Activist Investor Calls It “Déjà Vu All Over Again”**
+**Sources: Sixers acquire guard Hield from Pacers**
 
-You can read more about it [here](http://deadline.com/2024/02/disney-stock-pops-earnings-deals-bob-iger-turnaround-nelson-peltz-1235819114/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39484405/sources-sixers-acquire-guard-buddy-hield-pacers).
 
 ## Requirements
 - Python 3.8
