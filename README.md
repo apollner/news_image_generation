@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Initial Jobless Claims Drop for the First Time in Three Weeks**
+**Bolsonaro named target in Brazil coup probe, ordered to surrender passport**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-08/us-initial-jobless-claims-drop-for-the-first-time-in-three-weeks).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/02/08/bolsonaro-named-target-brazil-coup-probe-ordered-surrender-passport/).
 
 ## Requirements
 - Python 3.8
