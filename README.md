@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Pistons fans confused about lack of return in Knicks trade**
+**5 Marines confirmed dead after their helicopter crashed in Southern California**
 
-You can read more about it [here](https://www.freep.com/story/sports/nba/pistons/2024/02/08/detroit-pistons-fans-confused-about-trade-new-york-knicks/72522985007/).
+You can read more about it [here](https://www.cnn.com/2024/02/08/us/missing-military-helicopter-california-thursday/index.html).
 
 ## Requirements
 - Python 3.8
