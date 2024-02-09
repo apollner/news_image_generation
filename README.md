@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feds Say Activision Layoffs Violate Promises Microsoft Made in Merger Deal**
+**SoftBank Returns to Health With an AI Bump**
 
-You can read more about it [here](https://gizmodo.com/ftc-microsoft-letter-activision-blizzard-layoffs-1851238343).
+You can read more about it [here](https://www.wsj.com/business/earnings/softbank-group-reports-net-profit-on-improvement-in-tech-investments-661d0aab).
 
 ## Requirements
 - Python 3.8
