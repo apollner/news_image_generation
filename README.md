@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five US Marines missing after helicopter goes down in California mountains**
+**Rishi Sunak says Keir Starmer sad and wrong to link trans jibe to Brianna Ghey case**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68231699).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68237826).
 
 ## Requirements
 - Python 3.8
