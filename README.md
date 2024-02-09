@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New intelligence report warns China has been in U.S. critical infrastructure for "at least five years"**
+**The Biden admin is weighing executive action to deter illegal migration at the border**
 
-You can read more about it [here](https://www.axios.com/2024/02/07/china-volt-typhoon-critical-cyberattacks).
+You can read more about it [here](https://www.nbcnews.com/politics/immigration/biden-administration-weighs-executive-action-border-migrants-rcna137804).
 
 ## Requirements
 - Python 3.8
