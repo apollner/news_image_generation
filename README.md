@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 Marines confirmed dead after their helicopter crashed in Southern California**
+**Study: Chemicals used in plastics could be linked to a rise in premature births**
 
-You can read more about it [here](https://www.cnn.com/2024/02/08/us/missing-military-helicopter-california-thursday/index.html).
+You can read more about it [here](https://www.deseret.com/2024/2/8/24066105/chemicals-plastics-linked-rise-premature-births-study-pregnancy).
 
 ## Requirements
 - Python 3.8
