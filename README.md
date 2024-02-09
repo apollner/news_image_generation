@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak says Keir Starmer sad and wrong to link trans jibe to Brianna Ghey case**
+**Call of Duty Zombies Fans Fear the Worst After Treyarch Says Not to Expect New Perks or Enemy Types**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68237826).
+You can read more about it [here](https://www.ign.com/articles/call-of-duty-zombies-fans-fear-the-worst-after-treyarch-says-not-to-expect-new-perks-or-enemy-types).
 
 ## Requirements
 - Python 3.8
