@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Bucks acquire Patrick Beverley in trade with 76ers**
+**Usher proud to be first independent artist to headline Super Bowl halftime show**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39485387/sources-bucks-acquire-patrick-beverley-trade-76ers).
+You can read more about it [here](https://www.cnn.com/2024/02/08/entertainment/usher-super-bowl-halftime-show/index.html).
 
 ## Requirements
 - Python 3.8
