@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley vows to stay in race after stinging Nevada loss**
+**Pakistan prepares for pivotal election as one of the leading candidate serves jail time**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68225999).
+You can read more about it [here](https://www.foxnews.com/world/pakistan-prepares-pivotal-election-one-of-the-leading-candidate-serves-jail-time).
 
 ## Requirements
 - Python 3.8
