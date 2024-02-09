@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feud: Capote vs. the Swans: Fact vs. fiction in Episodes 1 through 3.**
+**Rio declares dengue emergency as Brazil gears up for carnival**
 
-You can read more about it [here](https://slate.com/culture/2024/02/feud-capote-swans-black-white-ball-true-story.html).
+You can read more about it [here](https://www.cnn.com/2024/02/07/americas/rio-dengue-emergency-carnival-intl/index.html).
 
 ## Requirements
 - Python 3.8
