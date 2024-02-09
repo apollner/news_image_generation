@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's next for Jennifer and James Crumbley, the parents of the Michigan school shooter?**
+**Tish Cyrus stayed with Billy Ray Cyrus 'out of fear': I had a 'psychological breakdown'**
 
-You can read more about it [here](https://apnews.com/article/oxford-high-school-shooting-parents-charged-47cdcdca2fbe801fb521d77caafcae45).
+You can read more about it [here](https://nypost.com/2024/02/07/entertainment/tish-cyrus-stayed-with-billy-ray-cyrus-out-of-fear-i-had-a-psychological-breakdown/).
 
 ## Requirements
 - Python 3.8
