@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spirit Airlines narrows loss to $184 million, says it's on the path back to profitability**
+**Five US Marines missing after helicopter goes down in California mountains**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/08/spirit-airlines-save-q4-2023-earnings.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68231699).
 
 ## Requirements
 - Python 3.8
