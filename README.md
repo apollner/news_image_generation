@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Biden admin is weighing executive action to deter illegal migration at the border**
+**India: Uttarakhand passes uniform marriage law**
 
-You can read more about it [here](https://www.nbcnews.com/politics/immigration/biden-administration-weighs-executive-action-border-migrants-rcna137804).
+You can read more about it [here](https://apnews.com/article/india-marriage-code-muslims-new-law-religion-f335cc642e2c63c92dcbb83650181151).
 
 ## Requirements
 - Python 3.8
