@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah Launches Fiery Response to Israel After Drone Strike in Lebanon**
+**Prince Harry leaves players starstruck at NFL Honors after quick dash to see cancer-stricken King Charles**
 
-You can read more about it [here](https://www.newsweek.com/hezbollah-response-israel-drone-strike-lebanon-1868380).
+You can read more about it [here](https://nypost.com/2024/02/09/entertainment/prince-harry-leaves-players-starstruck-at-nfl-awards-after-visiting-cancer-stricken-king-charles/).
 
 ## Requirements
 - Python 3.8
