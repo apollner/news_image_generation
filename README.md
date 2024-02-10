@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winners, losers from 2024 NBA trade deadline**
+**'My memory is fine' - Biden hits back at special counsel**
 
-You can read more about it [here](https://www.nbcsports.com/nba/news/winners-losers-from-2024-nba-trade-deadline).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68244352).
 
 ## Requirements
 - Python 3.8
