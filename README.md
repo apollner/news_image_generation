@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin challenger Boris Nadezhdin barred from Russia's election**
+**Hezbollah Launches Fiery Response to Israel After Drone Strike in Lebanon**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68237791).
+You can read more about it [here](https://www.newsweek.com/hezbollah-response-israel-drone-strike-lebanon-1868380).
 
 ## Requirements
 - Python 3.8
