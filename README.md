@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin tells Tucker Carlson deal can be reached to free jailed US reporter Evan Gershkovich**
+**Analysts unveil new Disney stock price targets after earnings**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68247956).
+You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-unveil-new-disney-price-targets-as-shares-soar-on-earnings).
 
 ## Requirements
 - Python 3.8
