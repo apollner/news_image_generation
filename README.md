@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nevada GOP caucuses results: Donald Trump wins**
+**Winners, losers from 2024 NBA trade deadline**
 
-You can read more about it [here](https://apnews.com/article/nevada-republican-presidential-caucus-trump-haley-0fe1ce819c38b6e70f4e4ddc899a5b84).
+You can read more about it [here](https://www.nbcsports.com/nba/news/winners-losers-from-2024-nba-trade-deadline).
 
 ## Requirements
 - Python 3.8
