@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry Makes Surprise Appearance at NFL Honors in Las Vegas After Visiting King Charles in UK**
+**Joe Biden: A political hand grenade disguised as a report**
 
-You can read more about it [here](https://www.etonline.com/prince-harry-makes-surprise-appearance-at-nfl-honors-in-las-vegas-after-visiting-king-charles-in-uk).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68248059).
 
 ## Requirements
 - Python 3.8
