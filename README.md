@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pinterest’s stock takes a hit after revenue miss, middling guidance**
+**Drop that burger — how pregnant women can harm their baby by eating fast food**
 
-You can read more about it [here](https://www.marketwatch.com/story/pinterests-stock-takes-a-hit-after-revenue-miss-99d88759).
+You can read more about it [here](https://nypost.com/2024/02/08/lifestyle/how-pregnant-women-can-harm-their-baby-by-eating-fast-food/).
 
 ## Requirements
 - Python 3.8
