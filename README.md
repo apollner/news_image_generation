@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drop that burger — how pregnant women can harm their baby by eating fast food**
+**An Oscar for Best Casting Is Set for 2026 — Will Stunt Workers and Voice Actors Be Next?**
 
-You can read more about it [here](https://nypost.com/2024/02/08/lifestyle/how-pregnant-women-can-harm-their-baby-by-eating-fast-food/).
+You can read more about it [here](https://variety.com/2024/film/awards/casting-oscars-stunts-voice-acting-1235902449/).
 
 ## Requirements
 - Python 3.8
