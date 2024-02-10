@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Analysts unveil new Disney stock price targets after earnings**
+**Prince Harry Makes Surprise Appearance at NFL Honors in Las Vegas After Visiting King Charles in UK**
 
-You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-unveil-new-disney-price-targets-as-shares-soar-on-earnings).
+You can read more about it [here](https://www.etonline.com/prince-harry-makes-surprise-appearance-at-nfl-honors-in-las-vegas-after-visiting-king-charles-in-uk).
 
 ## Requirements
 - Python 3.8
