@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drop that burger — how pregnant women can harm their baby by eating fast food**
+**Brazil police seize Jair Bolsonaro’s passport amid ‘coup’ probe**
 
-You can read more about it [here](https://nypost.com/2024/02/08/lifestyle/how-pregnant-women-can-harm-their-baby-by-eating-fast-food/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/8/brazil-police-seize-bolsonaros-passport-amid-coup-probe).
 
 ## Requirements
 - Python 3.8
