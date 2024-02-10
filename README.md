@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA trade deadline grades for all 30 teams: Knicks, Thunder earn top marks; Bulls, Mavericks come up short**
+**Can a $3500 headset replace your TV? We tried Vision Pro to find out**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-trade-deadline-grades-for-all-30-teams-knicks-thunder-earn-top-marks-bulls-mavericks-come-up-short/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/02/can-a-3500-headset-replace-your-tv-we-tried-vision-pro-to-find-out/).
 
 ## Requirements
 - Python 3.8
