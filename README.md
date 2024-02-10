@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Oscar for Best Casting Is Set for 2026 — Will Stunt Workers and Voice Actors Be Next?**
+**Kaskade Will Replace Tiësto as the First In-Game Super Bowl DJ**
 
-You can read more about it [here](https://variety.com/2024/film/awards/casting-oscars-stunts-voice-acting-1235902449/).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/kaskade-replaces-tiesto-super-bowl-dj-1234964971/).
 
 ## Requirements
 - Python 3.8
