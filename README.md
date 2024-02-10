@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iTunes for Windows nears EOL with launch of Apple Music, TV 'standalone experiences'**
+**Pinterest’s stock takes a hit after revenue miss, middling guidance**
 
-You can read more about it [here](https://www.macworld.com/article/2230075/itunes-windows-end-of-life-music-tv-devices-apps.html).
+You can read more about it [here](https://www.marketwatch.com/story/pinterests-stock-takes-a-hit-after-revenue-miss-99d88759).
 
 ## Requirements
 - Python 3.8
