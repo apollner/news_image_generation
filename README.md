@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 suspects indicted in assault on police officers in Times Square**
+**Special counsel: No charges for Biden over handling of classified documents**
 
-You can read more about it [here](https://abcnews.go.com/US/7-indicted-assault-police-officers-times-square/story?id=107072136).
+You can read more about it [here](https://apnews.com/article/biden-hur-garland-classified-documents-836b99fe9cbef9ba7d32602f4928efec).
 
 ## Requirements
 - Python 3.8
