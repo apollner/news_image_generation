@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil police seize Jair Bolsonaro’s passport amid ‘coup’ probe**
+**Microsoft integrates Notepad with Copilot on Windows 11**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/8/brazil-police-seize-bolsonaros-passport-amid-coup-probe).
+You can read more about it [here](https://www.windowscentral.com/software-apps/windows-11/microsoft-integrates-notepad-with-copilot-on-windows-11).
 
 ## Requirements
 - Python 3.8
