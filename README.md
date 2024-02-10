@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry leaves players starstruck at NFL Honors after quick dash to see cancer-stricken King Charles**
+**Nevada GOP caucuses results: Donald Trump wins**
 
-You can read more about it [here](https://nypost.com/2024/02/09/entertainment/prince-harry-leaves-players-starstruck-at-nfl-awards-after-visiting-cancer-stricken-king-charles/).
+You can read more about it [here](https://apnews.com/article/nevada-republican-presidential-caucus-trump-haley-0fe1ce819c38b6e70f4e4ddc899a5b84).
 
 ## Requirements
 - Python 3.8
