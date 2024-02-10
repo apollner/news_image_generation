@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A password manager LastPass calls “fraudulent” booted from App Store**
+**Putin challenger Boris Nadezhdin barred from Russia's election**
 
-You can read more about it [here](https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68237791).
 
 ## Requirements
 - Python 3.8
