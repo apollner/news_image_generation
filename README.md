@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kaskade Will Replace Tiësto as the First In-Game Super Bowl DJ**
+**Putin tells Tucker Carlson deal can be reached to free jailed US reporter Evan Gershkovich**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/kaskade-replaces-tiesto-super-bowl-dj-1234964971/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68247956).
 
 ## Requirements
 - Python 3.8
