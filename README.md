@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden: A political hand grenade disguised as a report**
+**A password manager LastPass calls “fraudulent” booted from App Store**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68248059).
+You can read more about it [here](https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/).
 
 ## Requirements
 - Python 3.8
