@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's easy to enter the Asian market during Lunar New Year. It's hard to get it right.**
+**Vote counting in Pakistan hit by unexpected delays after millions cast their ballot in controversial general election**
 
-You can read more about it [here](https://www.bbc.com/worklife/article/20240208-lunar-new-year-advertising-in-asian-markets).
+You can read more about it [here](https://www.cnn.com/2024/02/08/asia/pakistan-election-day-voting-polls-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
