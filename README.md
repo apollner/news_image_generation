@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Costco, Trader Joe's pull some products with cheese in expanded recall for listeria risk**
+**iTunes for Windows nears EOL with launch of Apple Music, TV 'standalone experiences'**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2024/02/08/cheese-recall-costco-trader-joes-listeria/72528560007/).
+You can read more about it [here](https://www.macworld.com/article/2230075/itunes-windows-end-of-life-music-tv-devices-apps.html).
 
 ## Requirements
 - Python 3.8
