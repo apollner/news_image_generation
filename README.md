@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA trade deadline tracker: Buddy Hield, Gordon Hayward, P.J. Washington moved, see every deal**
+**Analysts unveil new Disney stock price targets after earnings**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-trade-deadline-tracker-buddy-hield-gordon-hayward-p-j-washington-moved-see-every-deal/).
+You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-unveil-new-disney-price-targets-as-shares-soar-on-earnings).
 
 ## Requirements
 - Python 3.8
