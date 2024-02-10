@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'My memory is fine' - Biden hits back at special counsel**
+**It's easy to enter the Asian market during Lunar New Year. It's hard to get it right.**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68244352).
+You can read more about it [here](https://www.bbc.com/worklife/article/20240208-lunar-new-year-advertising-in-asian-markets).
 
 ## Requirements
 - Python 3.8
