@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft integrates Notepad with Copilot on Windows 11**
+**7 suspects indicted in assault on police officers in Times Square**
 
-You can read more about it [here](https://www.windowscentral.com/software-apps/windows-11/microsoft-integrates-notepad-with-copilot-on-windows-11).
+You can read more about it [here](https://abcnews.go.com/US/7-indicted-assault-police-officers-times-square/story?id=107072136).
 
 ## Requirements
 - Python 3.8
