@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu directs Israeli military to draw up plan to evacuate more than one million people from Rafah as offensive looms**
+**Patrick Mahomes makes promise if Chiefs keep Super Bowl a Vegas 'business trip,' but it could get pricey**
 
-You can read more about it [here](https://www.cnn.com/2024/02/09/middleeast/israel-rafah-evacuation-gaza-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/patrick-mahomes-makes-promise-if-chiefs-keep-super-bowl-a-vegas-business-trip-but-it-could-get-pricey/).
 
 ## Requirements
 - Python 3.8
