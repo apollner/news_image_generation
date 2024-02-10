@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel: No charges for Biden over handling of classified documents**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/biden-hur-garland-classified-documents-836b99fe9cbef9ba7d32602f4928efec).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
