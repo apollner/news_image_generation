@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can a $3500 headset replace your TV? We tried Vision Pro to find out**
+**Netanyahu directs Israeli military to draw up plan to evacuate more than one million people from Rafah as offensive looms**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/02/can-a-3500-headset-replace-your-tv-we-tried-vision-pro-to-find-out/).
+You can read more about it [here](https://www.cnn.com/2024/02/09/middleeast/israel-rafah-evacuation-gaza-intl/index.html).
 
 ## Requirements
 - Python 3.8
