@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes makes promise if Chiefs keep Super Bowl a Vegas 'business trip,' but it could get pricey**
+**Acclaimed Japanese conductor Seiji Ozawa who led Boston Symphony Orchestra dies at 88**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/patrick-mahomes-makes-promise-if-chiefs-keep-super-bowl-a-vegas-business-trip-but-it-could-get-pricey/).
+You can read more about it [here](https://www.wcvb.com/article/acclaimed-japanese-conductor-seiji-ozawa-boston-symphony-orchestra-dies/46693765).
 
 ## Requirements
 - Python 3.8
