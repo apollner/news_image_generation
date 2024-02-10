@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Invasion of Gaza Border City Looms as Biden Calls Israel's Offensive 'Over the Top'**
+**Ukraine war: Zaluzhnyi sacking will not instantly solve battlefield woes**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/threat-of-israeli-offensive-hangs-over-packed-gaza-border-city-as-u-s-warns-of-disaster-53c801b4).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68241349).
 
 ## Requirements
 - Python 3.8
