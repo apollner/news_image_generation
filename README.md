@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FX Boss John Landgraf on Lack of Long-Running TV Series: ‘Attention Spans Have Declined Radically’**
+**As Imran Khan Backed Candidates Lead In Pak, Nawaz Sharif's Backup Plan**
 
-You can read more about it [here](https://variety.com/2024/tv/news/fx-john-landgraf-lack-long-running-tv-series-attention-spans-have-declined-radically-1235906052/).
+You can read more about it [here](https://www.ndtv.com/world-news/pakistan-elections-nawaz-sharif-bilawal-bhutto-zardari-imran-khan-nawaz-sharif-party-to-hold-talks-with-rival-as-pak-heads-for-hung-house-5029389).
 
 ## Requirements
 - Python 3.8
