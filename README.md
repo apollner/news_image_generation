@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The End of Peak TV: 516 Original Scripted Series Aired in 2023, a 14% Dip, FX’s John Landgraf Says**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2024/tv/news/peak-tv-tally-original-scripted-series-aired-2023-1235902886/).
 
 ## Requirements
 - Python 3.8
