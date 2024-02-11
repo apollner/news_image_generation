@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Rocky' star Carl Weathers' Super Bowl ad being changed following death**
+**Box Office: 'Lisa Frankenstein' Lands Quiet Opening Day Behind 'Argylle'**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/rocky-star-carl-weathers-super-bowl-ad-changed-following-death).
+You can read more about it [here](https://variety.com/2024/film/box-office/lisa-frankenstein-opening-day-argylle-drops-1235906434/).
 
 ## Requirements
 - Python 3.8
