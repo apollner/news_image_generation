@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers start to find clues on the trail of long Covid**
+**All eyes on Super Bowl Sunday as Taylor Swift wraps up four-night run in Tokyo**
 
-You can read more about it [here](https://news.yahoo.com/researchers-start-clues-trail-long-091547913.html).
+You can read more about it [here](https://www.cnn.com/2024/02/10/entertainment/taylor-swift-travis-kelce-tokyo-super-bowl-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
