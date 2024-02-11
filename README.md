@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado Sec of State says SCOTUS not 'friendly' to democracy, voting rights ahead of Trump ballot ruling**
+**At least 2 dead after small plane crashes onto Florida highway: Authorities**
 
-You can read more about it [here](https://www.foxnews.com/media/colorado-sec-state-says-scotus-not-friendly-democracy-ahead-trump-ballot-ruling).
+You can read more about it [here](https://abcnews.go.com/US/florida-highway-plane-crash/story?id=107112814).
 
 ## Requirements
 - Python 3.8
