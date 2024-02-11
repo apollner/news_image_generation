@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude-4.6 Malibu earthquake shakes Southern California from coast to inland areas**
+**Super bowl staples recalled over listeria outbreak in taco kits, bean dips, dairy products: CDC**
 
-You can read more about it [here](http://www.nbclosangeles.com/news/earthquakes/earthquake-shaking-los-angeles-malibu/3335663/).
+You can read more about it [here](https://www.foxnews.com/health/super-bowl-staples-recalled-over-listeria-outbreak-taco-kits-bean-dips-dairy-products-cdc).
 
 ## Requirements
 - Python 3.8
