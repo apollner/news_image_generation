@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Senate is pushing past far-right objections to aiding Ukraine. But next steps are uncertain**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/senate-ukraine-israel-aid-biden-trump-fa472c17b2061a29a279c45b71e00cb6).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
