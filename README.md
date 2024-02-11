@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Wealth disparities by race grew during the pandemic despite income gains**
+**Pakistan’s Khan, Sharif both claim election win, despite no clear majority**
 
-You can read more about it [here](https://finance.yahoo.com/news/wealth-disparities-race-grew-during-150830365.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/10/pakistans-khan-sharif-claim-election-win-despite-no-clear-majority).
 
 ## Requirements
 - Python 3.8
