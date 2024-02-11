@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: 'Lisa Frankenstein' Lands Quiet Opening Day Behind 'Argylle'**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/lisa-frankenstein-opening-day-argylle-drops-1235906434/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
