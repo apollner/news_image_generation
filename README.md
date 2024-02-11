@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon reports first human case of Bubonic plague in over 8 years; likely transmitted from pet cat**
+**Pakistan’s Khan, Sharif both claim election win, despite no clear majority**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/us/oregon-reports-first-human-case-of-bubonic-plague-in-over-8-years-likely-transmitted-from-pet-cat/articleshow/107588201.cms).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/10/pakistans-khan-sharif-claim-election-win-despite-no-clear-majority).
 
 ## Requirements
 - Python 3.8
