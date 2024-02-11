@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuenssberg: Are the politics of climate change going out of fashion?**
+**'Rocky' star Carl Weathers' Super Bowl ad being changed following death**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68261445).
+You can read more about it [here](https://www.foxnews.com/entertainment/rocky-star-carl-weathers-super-bowl-ad-changed-following-death).
 
 ## Requirements
 - Python 3.8
