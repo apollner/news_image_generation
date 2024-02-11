@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead after plane crashes on I-75 near Naples, Florida**
+**Super bowl staples recalled over listeria outbreak in taco kits, bean dips, dairy products: CDC**
 
-You can read more about it [here](https://www.cnn.com/2024/02/09/us/naples-florida-plane-crash/index.html).
+You can read more about it [here](https://www.foxnews.com/health/super-bowl-staples-recalled-over-listeria-outbreak-taco-kits-bean-dips-dairy-products-cdc).
 
 ## Requirements
 - Python 3.8
