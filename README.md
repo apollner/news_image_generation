@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'No survivors' after helicopter crashes in Mojave Desert: Sheriff**
+**Kuenssberg: Are the politics of climate change going out of fashion?**
 
-You can read more about it [here](https://abcnews.go.com/US/survivors-helicopter-crash-mojave-desert-sheriff/story?id=107125291).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68261445).
 
 ## Requirements
 - Python 3.8
