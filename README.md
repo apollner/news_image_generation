@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DNC accuses RFK Jr. campaign and super PAC of colluding on ballot access effort**
+**Magnitude-4.6 Malibu earthquake shakes Southern California from coast to inland areas**
 
-You can read more about it [here](https://www.cbsnews.com/news/rfk-jr-super-pac-american-values-collusion-accusations-ballot-access-effort-dnc/).
+You can read more about it [here](http://www.nbclosangeles.com/news/earthquakes/earthquake-shaking-los-angeles-malibu/3335663/).
 
 ## Requirements
 - Python 3.8
