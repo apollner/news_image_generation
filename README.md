@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**31 Palestinians killed in Israeli strikes in Rafah after Netanyahu says invasion there is inevitable**
+**Researchers start to find clues on the trail of long Covid**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-10-2024-2d80dc890a5030757e2ae76684fa75da).
+You can read more about it [here](https://news.yahoo.com/researchers-start-clues-trail-long-091547913.html).
 
 ## Requirements
 - Python 3.8
