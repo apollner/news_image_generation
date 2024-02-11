@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight loss drugs are still hard to find — but Novo Nordisk and Eli Lilly are trying to change that**
+**31 Palestinians killed in Israeli strikes in Rafah after Netanyahu says invasion there is inevitable**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/10/weight-loss-drugs-novo-nordisk-eli-lilly-are-tackling-supply-issues.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-10-2024-2d80dc890a5030757e2ae76684fa75da).
 
 ## Requirements
 - Python 3.8
