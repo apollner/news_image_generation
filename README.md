@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Trade Deadline Winners and Losers: Knicks Make Best Moves, but No Help on the Way for LeBron James and Stephen Curry**
+**East Lansdowne house fire, shooting: Lewis Ave. search news, updates**
 
-You can read more about it [here](https://www.si.com/nba/2024/02/09/nba-trade-deadline-winners-and-losers-knicks-lebron-james-stephen-curry).
+You can read more about it [here](https://www.inquirer.com/news/live/east-lansdowne-fire-shooting-victims-updates-news-20240209.html).
 
 ## Requirements
 - Python 3.8
