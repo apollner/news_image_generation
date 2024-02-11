@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Queen Camilla Gives Update on King Charles After His Cancer Diagnosis**
+**2 dead after plane crashes on I-75 near Naples, Florida**
 
-You can read more about it [here](https://www.eonline.com/news/1394942/queen-camilla-gives-update-on-king-charles-iii-after-his-cancer-diagnosis).
+You can read more about it [here](https://www.cnn.com/2024/02/09/us/naples-florida-plane-crash/index.html).
 
 ## Requirements
 - Python 3.8
