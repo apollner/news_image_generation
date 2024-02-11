@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the Long Island special election tells us about the battle over the suburbs**
+**'No survivors' after helicopter crashes in Mojave Desert: Sheriff**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/10/new-york-special-election-suburbs-00140796).
+You can read more about it [here](https://abcnews.go.com/US/survivors-helicopter-crash-mojave-desert-sheriff/story?id=107125291).
 
 ## Requirements
 - Python 3.8
