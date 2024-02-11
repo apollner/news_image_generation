@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parental Controls on Apps Don't Work. Here's a Better Way.**
+**Weight loss drugs are still hard to find — but Novo Nordisk and Eli Lilly are trying to change that**
 
-You can read more about it [here](https://www.wsj.com/tech/personal-tech/parental-controls-on-apps-dont-work-heres-a-better-way-cc4d49bc).
+You can read more about it [here](https://www.cnbc.com/2024/02/10/weight-loss-drugs-novo-nordisk-eli-lilly-are-tackling-supply-issues.html).
 
 ## Requirements
 - Python 3.8
