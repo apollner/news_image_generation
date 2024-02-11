@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon reports first human case of Bubonic plague in over 8 years; likely transmitted from pet cat**
+**Prelim Results**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/us/oregon-reports-first-human-case-of-bubonic-plague-in-over-8-years-likely-transmitted-from-pet-cat/articleshow/107588201.cms).
+You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-interviews-ufc-fight-night-hermansson-vs-pyfer).
 
 ## Requirements
 - Python 3.8
