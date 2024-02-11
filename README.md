@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Using the Gemini app automatically disables Google Assistant on Android**
+**Colorado Sec of State says SCOTUS not 'friendly' to democracy, voting rights ahead of Trump ballot ruling**
 
-You can read more about it [here](https://www.androidpolice.com/gemini-disables-google-assistant/).
+You can read more about it [here](https://www.foxnews.com/media/colorado-sec-state-says-scotus-not-friendly-democracy-ahead-trump-ballot-ruling).
 
 ## Requirements
 - Python 3.8
