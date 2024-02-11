@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Kuenssberg: Are the politics of climate change going out of fashion?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68261445).
 
 ## Requirements
 - Python 3.8
