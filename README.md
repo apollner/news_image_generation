@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flu hangs on in US, fading in some areas and intensifying in others**
+**Using the Gemini app automatically disables Google Assistant on Android**
 
-You can read more about it [here](https://news.yahoo.com/flu-hangs-us-fading-areas-163150358.html).
+You can read more about it [here](https://www.androidpolice.com/gemini-disables-google-assistant/).
 
 ## Requirements
 - Python 3.8
