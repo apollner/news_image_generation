@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All eyes on Super Bowl Sunday as Taylor Swift wraps up four-night run in Tokyo**
+**What the Long Island special election tells us about the battle over the suburbs**
 
-You can read more about it [here](https://www.cnn.com/2024/02/10/entertainment/taylor-swift-travis-kelce-tokyo-super-bowl-hnk-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/02/10/new-york-special-election-suburbs-00140796).
 
 ## Requirements
 - Python 3.8
