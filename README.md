@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuenssberg: Are the politics of climate change going out of fashion?**
+**Oregon reports first human case of Bubonic plague in over 8 years; likely transmitted from pet cat**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68261445).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/us/oregon-reports-first-human-case-of-bubonic-plague-in-over-8-years-likely-transmitted-from-pet-cat/articleshow/107588201.cms).
 
 ## Requirements
 - Python 3.8
