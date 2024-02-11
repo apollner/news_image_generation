@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude-4.6 Malibu earthquake shakes Southern California from coast to inland areas**
+**Stock Market News, Feb. 9, 2024: S&P 500 Closes Above 5000 for First Time**
 
-You can read more about it [here](http://www.nbclosangeles.com/news/earthquakes/earthquake-shaking-los-angeles-malibu/3335663/).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-09-2024).
 
 ## Requirements
 - Python 3.8
