@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market News, Feb. 9, 2024: S&P 500 Closes Above 5000 for First Time**
+**DNC accuses RFK Jr. campaign and super PAC of colluding on ballot access effort**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-09-2024).
+You can read more about it [here](https://www.cbsnews.com/news/rfk-jr-super-pac-american-values-collusion-accusations-ballot-access-effort-dnc/).
 
 ## Requirements
 - Python 3.8
