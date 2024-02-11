@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Acclaimed Japanese conductor Seiji Ozawa who led Boston Symphony Orchestra dies at 88**
+**Flu hangs on in US, fading in some areas and intensifying in others**
 
-You can read more about it [here](https://www.wcvb.com/article/acclaimed-japanese-conductor-seiji-ozawa-boston-symphony-orchestra-dies/46693765).
+You can read more about it [here](https://news.yahoo.com/flu-hangs-us-fading-areas-163150358.html).
 
 ## Requirements
 - Python 3.8
