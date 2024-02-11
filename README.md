@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super bowl staples recalled over listeria outbreak in taco kits, bean dips, dairy products: CDC**
+**31 Palestinians killed in Israeli strikes in Rafah after Netanyahu says invasion there is inevitable**
 
-You can read more about it [here](https://www.foxnews.com/health/super-bowl-staples-recalled-over-listeria-outbreak-taco-kits-bean-dips-dairy-products-cdc).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-10-2024-2d80dc890a5030757e2ae76684fa75da).
 
 ## Requirements
 - Python 3.8
