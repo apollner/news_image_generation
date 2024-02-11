@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Imran Khan Backed Candidates Lead In Pak, Nawaz Sharif's Backup Plan**
+**The Senate is pushing past far-right objections to aiding Ukraine. But next steps are uncertain**
 
-You can read more about it [here](https://www.ndtv.com/world-news/pakistan-elections-nawaz-sharif-bilawal-bhutto-zardari-imran-khan-nawaz-sharif-party-to-hold-talks-with-rival-as-pak-heads-for-hung-house-5029389).
+You can read more about it [here](https://apnews.com/article/senate-ukraine-israel-aid-biden-trump-fa472c17b2061a29a279c45b71e00cb6).
 
 ## Requirements
 - Python 3.8
