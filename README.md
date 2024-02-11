@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**31 Palestinians killed in Israeli strikes in Rafah after Netanyahu says invasion there is inevitable**
+**Parental Controls on Apps Don't Work. Here's a Better Way.**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-10-2024-2d80dc890a5030757e2ae76684fa75da).
+You can read more about it [here](https://www.wsj.com/tech/personal-tech/parental-controls-on-apps-dont-work-heres-a-better-way-cc4d49bc).
 
 ## Requirements
 - Python 3.8
