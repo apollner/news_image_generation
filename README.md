@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amie Harwick's killer was making a statement with post-Valentine's murder, says prosecutor**
+**Turf battle erupts in SC after Trump questions Haley's husband's military service**
 
-You can read more about it [here](https://www.cbsnews.com/news/amie-harwick-murder-gareth-pursehouse-trial-valentines-day-48-hours/).
+You can read more about it [here](https://www.politico.com/news/2024/02/10/turf-battle-erupts-in-sc-after-trump-questions-haleys-husbands-military-service-00140836).
 
 ## Requirements
 - Python 3.8
