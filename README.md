@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel unveils tunnels underneath Gaza City headquarters of UN agency for Palestinian refugees**
+**Hungary President Resigns Over Pardon To Man Convicted In Sex Abuse Case**
 
-You can read more about it [here](https://news.yahoo.com/israel-unveils-tunnels-underneath-gaza-180342137.html).
+You can read more about it [here](https://www.ndtv.com/world-news/hungarian-president-katalin-novak-resigns-after-row-over-granting-pardon-to-child-abuser-5034858).
 
 ## Requirements
 - Python 3.8
