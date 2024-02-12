@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court forces Elon Musk to testify in SEC Twitter probe again after his refusal, and now the agency has ‘thousands of new documents’**
+**No. 1 South Carolina women's basketball dominates No. 11 UConn 83-65**
 
-You can read more about it [here](https://fortune.com/2024/02/11/elon-musk-must-testify-sec-twitter-probe-court-ruling/).
+You can read more about it [here](https://www.ncaa.com/live-updates/basketball-women/d1/no-1-south-carolina-womens-basketball-dominates-no-11-uconn-83-65).
 
 ## Requirements
 - Python 3.8
