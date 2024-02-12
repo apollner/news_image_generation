@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turf battle erupts in SC after Trump questions Haley's husband's military service**
+**WM Phoenix Open fans take to social media over pause on entry and stoppage of alcohol sales**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/10/turf-battle-erupts-in-sc-after-trump-questions-haleys-husbands-military-service-00140836).
+You can read more about it [here](https://www.fox10phoenix.com/news/wm-phoenix-open-fans-take-to-social-media-over-pause-on-entry-and-stoppage-of-alcohol-sales).
 
 ## Requirements
 - Python 3.8
