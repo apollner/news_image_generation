@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William 'Still Digesting Shock' of King Charles' Cancer Diagnosis**
+**NH forecast: Up to 10 inches of snow possible in some areas**
 
-You can read more about it [here](https://www.thedailybeast.com/prince-william-still-digesting-shock-of-king-charles-cancer-diagnosis).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-snow-forecast-storm-21124/46718667).
 
 ## Requirements
 - Python 3.8
