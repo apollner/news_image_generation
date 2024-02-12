@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Disaster Proves Americans Businesses Greedy Mentality Is Broken**
+**Gingrich on Biden report: 'Can't have a Commander-in-Chief who doesn't know what he's doing'**
 
-You can read more about it [here](https://www.businessinsider.com/boeing-disaster-american-businesses-greedy-broken-stock-market-wall-street-2024-2).
+You can read more about it [here](https://thehill.com/homenews/administration/4460706-gingrich-on-biden-report-cant-have-a-commander-in-chief-who-doesnt-know-what-hes-doing/).
 
 ## Requirements
 - Python 3.8
