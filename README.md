@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift lands in US ahead of Travis Kelce’s Super Bowl showing**
+**Netanyahu ahead of Rafah ground invasion: 'Victory is within reach'**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/11/taylor-swift-lands-in-us-ahead-of-travis-kelces-super-bowl-showing).
+You can read more about it [here](https://abcnews.go.com/International/netanyahu-this-week-interview/story?id=107130717).
 
 ## Requirements
 - Python 3.8
