@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 1 South Carolina women's basketball dominates No. 11 UConn 83-65**
+**WM Phoenix Open updates: Golfers yell at unruly fans in third round**
 
-You can read more about it [here](https://www.ncaa.com/live-updates/basketball-women/d1/no-1-south-carolina-womens-basketball-dominates-no-11-uconn-83-65).
+You can read more about it [here](https://www.azcentral.com/story/sports/golf/phoenix-open/2024/02/11/wm-phoenix-open-news-updates-sunday-pga-tour-tpc-scottsdale/72428457007/).
 
 ## Requirements
 - Python 3.8
