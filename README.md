@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**King Charles III breaks silence after cancer diagnosis**
+**Taylor Swift lands in US ahead of Travis Kelce’s Super Bowl showing**
 
-You can read more about it [here](http://www.nbcnewyork.com/entertainment/entertainment-news/king-charles-iii-breaks-silence-after-cancer-diagnosis/5124862/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/11/taylor-swift-lands-in-us-ahead-of-travis-kelces-super-bowl-showing).
 
 ## Requirements
 - Python 3.8
