@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hungary President Resigns Over Pardon To Man Convicted In Sex Abuse Case**
+**Travis Kelce covering pricey Super Bowl suite tab for his, Taylor Swift's families to sit together**
 
-You can read more about it [here](https://www.ndtv.com/world-news/hungarian-president-katalin-novak-resigns-after-row-over-granting-pardon-to-child-abuser-5034858).
+You can read more about it [here](https://pagesix.com/2024/02/10/entertainment/taylor-swift-and-travis-kelces-families-to-sit-in-super-bowl-suite-together/).
 
 ## Requirements
 - Python 3.8
