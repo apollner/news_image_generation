@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher’s path to the Super Bowl: How the ‘hearthrob of R&B’ evolved over a 30-year career**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/02/10/entertainment/usher-career-super-bowl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
