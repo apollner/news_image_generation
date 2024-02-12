@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"You Don't Deserve... ": Nikki Haley Hits Back As Trump Mocks Her Husband**
+**Pakistan Election Turmoil Deepens as Party of Imran Khan Calls for Protests**
 
-You can read more about it [here](https://www.ndtv.com/world-news/oh-hes-away-donald-trump-mocks-nikki-haley-over-absence-of-husband-in-miltary-5035432).
+You can read more about it [here](https://www.wsj.com/world/asia/pakistan-election-turmoil-deepens-as-party-of-imran-khan-calls-for-protests-aa27be7c).
 
 ## Requirements
 - Python 3.8
