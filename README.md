@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce covering pricey Super Bowl suite tab for his, Taylor Swift's families to sit together**
+**Israel unveils tunnels underneath Gaza City headquarters of UN agency for Palestinian refugees**
 
-You can read more about it [here](https://pagesix.com/2024/02/10/entertainment/taylor-swift-and-travis-kelces-families-to-sit-in-super-bowl-suite-together/).
+You can read more about it [here](https://news.yahoo.com/israel-unveils-tunnels-underneath-gaza-180342137.html).
 
 ## Requirements
 - Python 3.8
