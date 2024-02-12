@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slower US Inflation Is Set to Fuel Fed Cut Optimism**
+**Judd Apatow Roasts Biden and Trump in DGA Awards Monologue: ‘A Guy Old Enough to Have Met Hitler and A Guy Who Wishes He Had’**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-10/world-economy-latest-slower-us-inflation-is-set-to-fuel-fed-cut-optimism).
+You can read more about it [here](https://variety.com/2024/awards/entertainment-industry/judd-apatow-dga-awards-monologue-1235907044/).
 
 ## Requirements
 - Python 3.8
