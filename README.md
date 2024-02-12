@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigerian bank CEO and family among 6 people killed in California helicopter crash, trade official says**
+**Elon Musk is ordered to testify in the SEC's Twitter investigation**
 
-You can read more about it [here](https://www.cnn.com/2024/02/10/us/mojave-helicopter-crash/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/02/11/elon-musk-is-ordered-to-testify-in-the-secs-twitter-investigation.html).
 
 ## Requirements
 - Python 3.8
