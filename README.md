@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu insists on Rafah offensive as warnings mount**
+**Court forces Elon Musk to testify in SEC Twitter probe again after his refusal, and now the agency has ‘thousands of new documents’**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68266335).
+You can read more about it [here](https://fortune.com/2024/02/11/elon-musk-must-testify-sec-twitter-probe-court-ruling/).
 
 ## Requirements
 - Python 3.8
