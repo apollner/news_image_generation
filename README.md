@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prelim Results**
+**Slower US Inflation Is Set to Fuel Fed Cut Optimism**
 
-You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-interviews-ufc-fight-night-hermansson-vs-pyfer).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-10/world-economy-latest-slower-us-inflation-is-set-to-fuel-fed-cut-optimism).
 
 ## Requirements
 - Python 3.8
