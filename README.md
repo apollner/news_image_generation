@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All about Brock Purdy, 49ers quarterback leading San Francisco in Super Bowl LVIII**
+**Ukraine aid package approval gains momentum after key US Senate vote**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/brock-purdy-49ers-quaterback-super-bowl-lviii-las-vegas-2024/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/11/ukraine-aid-package-approval-gains-momentum-after-key-us-senate-vote).
 
 ## Requirements
 - Python 3.8
