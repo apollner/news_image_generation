@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judd Apatow Roasts Biden and Trump in DGA Awards Monologue: ‘A Guy Old Enough to Have Met Hitler and A Guy Who Wishes He Had’**
+**Massachusetts winter storm watch: ‘Significant snowfall’ likely Monday into Tuesday**
 
-You can read more about it [here](https://variety.com/2024/awards/entertainment-industry/judd-apatow-dga-awards-monologue-1235907044/).
+You can read more about it [here](https://www.bostonherald.com/2024/02/10/massachusetts-winter-storm-watch-significant-snowfall-likely-monday-into-tuesday/).
 
 ## Requirements
 - Python 3.8
