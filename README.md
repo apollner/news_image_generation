@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce covering pricey Super Bowl suite tab for his, Taylor Swift's families to sit together**
+**Knicks won the NBA trade deadline according to most analysts**
 
-You can read more about it [here](https://pagesix.com/2024/02/10/entertainment/taylor-swift-and-travis-kelces-families-to-sit-in-super-bowl-suite-together/).
+You can read more about it [here](https://www.postingandtoasting.com/2024/2/10/24067304/knicks-won-the-nba-trade-deadline-according-to-most-analysts).
 
 ## Requirements
 - Python 3.8
