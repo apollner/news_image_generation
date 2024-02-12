@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pakistan Election Turmoil Deepens as Party of Imran Khan Calls for Protests**
+**King Charles in first public outing since cancer diagnosis revealed**
 
-You can read more about it [here](https://www.wsj.com/world/asia/pakistan-election-turmoil-deepens-as-party-of-imran-khan-calls-for-protests-aa27be7c).
+You can read more about it [here](https://www.bbc.com/news/uk-68264821).
 
 ## Requirements
 - Python 3.8
