@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon health officials confirm first human bubonic plague case since 2015**
+**Netanyahu insists on Rafah offensive as warnings mount**
 
-You can read more about it [here](https://www.foxnews.com/health/oregon-health-officials-confirm-first-human-bubonic-plague-case-since-2015).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68266335).
 
 ## Requirements
 - Python 3.8
