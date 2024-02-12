@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu ahead of Rafah ground invasion: 'Victory is within reach'**
+**Amie Harwick's killer was making a statement with post-Valentine's murder, says prosecutor**
 
-You can read more about it [here](https://abcnews.go.com/International/netanyahu-this-week-interview/story?id=107130717).
+You can read more about it [here](https://www.cbsnews.com/news/amie-harwick-murder-gareth-pursehouse-trial-valentines-day-48-hours/).
 
 ## Requirements
 - Python 3.8
