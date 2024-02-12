@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Vision Pro Could Take Four Generations to Reach 'Ideal Form'**
+**Did Man United turn a corner under Ten Hag at Villa Park?**
 
-You can read more about it [here](https://www.macrumors.com/2024/02/11/apple-vision-pro-fourth-generation-ideal/).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/39505604/did-manchester-united-turn-corner-erik-ten-hag-villa-park).
 
 ## Requirements
 - Python 3.8
