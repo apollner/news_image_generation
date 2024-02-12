@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks won the NBA trade deadline according to most analysts**
+**Usher’s path to the Super Bowl: How the ‘hearthrob of R&B’ evolved over a 30-year career**
 
-You can read more about it [here](https://www.postingandtoasting.com/2024/2/10/24067304/knicks-won-the-nba-trade-deadline-according-to-most-analysts).
+You can read more about it [here](https://www.cnn.com/2024/02/10/entertainment/usher-career-super-bowl/index.html).
 
 ## Requirements
 - Python 3.8
