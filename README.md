@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Follow These 9 Tips to Lower Your Risk of Heart Disease**
+**Prelim Results**
 
-You can read more about it [here](https://www.cnet.com/health/tips-to-lower-your-risk-of-heart-disease/).
+You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-interviews-ufc-fight-night-hermansson-vs-pyfer).
 
 ## Requirements
 - Python 3.8
