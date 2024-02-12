@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WM Phoenix Open updates: Golfers yell at unruly fans in third round**
+**All about Brock Purdy, 49ers quarterback leading San Francisco in Super Bowl LVIII**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/golf/phoenix-open/2024/02/11/wm-phoenix-open-news-updates-sunday-pga-tour-tpc-scottsdale/72428457007/).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/brock-purdy-49ers-quaterback-super-bowl-lviii-las-vegas-2024/).
 
 ## Requirements
 - Python 3.8
