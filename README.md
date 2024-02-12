@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did Man United turn a corner under Ten Hag at Villa Park?**
+**Oregon health officials confirm first human bubonic plague case since 2015**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/39505604/did-manchester-united-turn-corner-erik-ten-hag-villa-park).
+You can read more about it [here](https://www.foxnews.com/health/oregon-health-officials-confirm-first-human-bubonic-plague-case-since-2015).
 
 ## Requirements
 - Python 3.8
