@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slower US Inflation Is Set to Fuel Fed Rate-Cut Optimism**
+**"You Don't Deserve... ": Nikki Haley Hits Back As Trump Mocks Her Husband**
 
-You can read more about it [here](https://finance.yahoo.com/news/slower-us-inflation-set-fuel-210000302.html).
+You can read more about it [here](https://www.ndtv.com/world-news/oh-hes-away-donald-trump-mocks-nikki-haley-over-absence-of-husband-in-miltary-5035432).
 
 ## Requirements
 - Python 3.8
