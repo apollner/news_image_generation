@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toby Keith's family announces private funeral service, memorial service**
+**King Charles III breaks his silence after cancer diagnosis: 'Your kind thoughts are the greatest comfort'**
 
-You can read more about it [here](https://www.koco.com/article/toby-keith-funeral-memorial-service/46710207).
+You can read more about it [here](https://pagesix.com/2024/02/10/royal-family/king-charles-iii-breaks-his-silence-after-cancer-diagnosis-your-kind-thoughts-are-the-greatest-comfort/).
 
 ## Requirements
 - Python 3.8
