@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**King Charles III breaks his silence after cancer diagnosis: 'Your kind thoughts are the greatest comfort'**
+**Slower US Inflation Is Set to Fuel Fed Rate-Cut Optimism**
 
-You can read more about it [here](https://pagesix.com/2024/02/10/royal-family/king-charles-iii-breaks-his-silence-after-cancer-diagnosis-your-kind-thoughts-are-the-greatest-comfort/).
+You can read more about it [here](https://finance.yahoo.com/news/slower-us-inflation-set-fuel-210000302.html).
 
 ## Requirements
 - Python 3.8
