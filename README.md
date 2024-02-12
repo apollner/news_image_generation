@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massachusetts winter storm watch: ‘Significant snowfall’ likely Monday into Tuesday**
+**King Charles III breaks silence after cancer diagnosis**
 
-You can read more about it [here](https://www.bostonherald.com/2024/02/10/massachusetts-winter-storm-watch-significant-snowfall-likely-monday-into-tuesday/).
+You can read more about it [here](http://www.nbcnewyork.com/entertainment/entertainment-news/king-charles-iii-breaks-silence-after-cancer-diagnosis/5124862/).
 
 ## Requirements
 - Python 3.8
