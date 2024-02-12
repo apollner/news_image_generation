@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prelim Results**
+**Travis Kelce covering pricey Super Bowl suite tab for his, Taylor Swift's families to sit together**
 
-You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-interviews-ufc-fight-night-hermansson-vs-pyfer).
+You can read more about it [here](https://pagesix.com/2024/02/10/entertainment/taylor-swift-and-travis-kelces-families-to-sit-in-super-bowl-suite-together/).
 
 ## Requirements
 - Python 3.8
