@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon health officials confirm first human bubonic plague case since 2015**
+**Ocean currents moving heat are growing closer to collapse, study says**
 
-You can read more about it [here](https://www.foxnews.com/health/oregon-health-officials-confirm-first-human-bubonic-plague-case-since-2015).
+You can read more about it [here](https://www.ynetnews.com/health_science/article/sk55zs8st).
 
 ## Requirements
 - Python 3.8
