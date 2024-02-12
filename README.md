@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WM Phoenix Open fans take to social media over pause on entry and stoppage of alcohol sales**
+**Toby Keith's family announces private funeral service, memorial service**
 
-You can read more about it [here](https://www.fox10phoenix.com/news/wm-phoenix-open-fans-take-to-social-media-over-pause-on-entry-and-stoppage-of-alcohol-sales).
+You can read more about it [here](https://www.koco.com/article/toby-keith-funeral-memorial-service/46710207).
 
 ## Requirements
 - Python 3.8
