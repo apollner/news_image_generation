@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gingrich on Biden report: 'Can't have a Commander-in-Chief who doesn't know what he's doing'**
+**Nigerian bank CEO and family among 6 people killed in California helicopter crash, trade official says**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4460706-gingrich-on-biden-report-cant-have-a-commander-in-chief-who-doesnt-know-what-hes-doing/).
+You can read more about it [here](https://www.cnn.com/2024/02/10/us/mojave-helicopter-crash/index.html).
 
 ## Requirements
 - Python 3.8
