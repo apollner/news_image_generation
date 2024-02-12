@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine aid package approval gains momentum after key US Senate vote**
+**MPD on city-wide manhunt for shooting spree suspect | News**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/11/ukraine-aid-package-approval-gains-momentum-after-key-us-senate-vote).
+You can read more about it [here](https://www.fox13memphis.com/news/suspect-in-custody-after-shooting-spree-across-memphis-left-man-dead-others-injured-police-say/article_e3f125fe-c8fc-11ee-8983-0fd5dd4f44a8.html).
 
 ## Requirements
 - Python 3.8
