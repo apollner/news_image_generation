@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk is ordered to testify in the SEC's Twitter investigation**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/11/elon-musk-is-ordered-to-testify-in-the-secs-twitter-investigation.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
