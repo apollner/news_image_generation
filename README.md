@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ocean currents moving heat are growing closer to collapse, study says**
+**Prince William 'Still Digesting Shock' of King Charles' Cancer Diagnosis**
 
-You can read more about it [here](https://www.ynetnews.com/health_science/article/sk55zs8st).
+You can read more about it [here](https://www.thedailybeast.com/prince-william-still-digesting-shock-of-king-charles-cancer-diagnosis).
 
 ## Requirements
 - Python 3.8
