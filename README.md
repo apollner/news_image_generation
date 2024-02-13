@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya: Marathon world record holder Kelvin Kiptum dies in road accident | BBC News**
+**NATO chief says Trump’s comments on abandoning alliance endangers US and European troops**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IV4XNE_zVNA).
+You can read more about it [here](https://www.cnn.com/2024/02/12/europe/trump-comments-reaction-nato-stoltenberg-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
