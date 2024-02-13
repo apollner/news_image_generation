@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs win Super Bowl: How Travis Kelce inspired the team night before big game, bringing teammates to tears**
+**Super Bowl: The NFL’s overtime rules left Chiefs WR Mecole Hardman confused even after his game-winning touchdown**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-win-super-bowl-how-travis-kelce-inspired-the-team-night-before-big-game-bringing-teammates-to-tears/).
+You can read more about it [here](https://sports.yahoo.com/super-bowl-the-nfls-overtime-rules-left-chiefs-wr-mecole-hardman-confused-even-after-his-game-winning-touchdown-032534035.html).
 
 ## Requirements
 - Python 3.8
