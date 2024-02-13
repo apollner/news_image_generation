@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16: Everything We Know So Far**
+**What is ketamine? How the drug involved in Matthew Perry death works**
 
-You can read more about it [here](https://gizmodo.com/apple-iphone-16-1851244717).
+You can read more about it [here](https://www.usatoday.com/story/life/health-wellness/2024/02/12/what-is-ketamine/72499723007/).
 
 ## Requirements
 - Python 3.8
