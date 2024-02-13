@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco vandals destroy robotaxi, set it ablaze with fireworks on the street**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/02/11/news/san-francisco-vandals-destroy-robotaxi-set-it-ablaze-with-fireworks/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
