@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Bitcoin Breaks $50K for First Time Since Hitting All-Time High in 2021**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://decrypt.co/217033/bitcoin-breaks-50k-first-time-since-2021).
 
 ## Requirements
 - Python 3.8
