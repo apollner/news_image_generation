@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syphilis in the U.S was once nearly eradicated. Here’s why it’s surging again**
+**What Happened In Pakistan's Disputed Election And What's Next**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dnVGtocXbCc).
+You can read more about it [here](https://www.ndtv.com/world-news/pakistan-election-results-2024-what-happened-in-pakistans-disputed-election-and-whats-next-5040690).
 
 ## Requirements
 - Python 3.8
