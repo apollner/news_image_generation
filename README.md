@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondback sets $26 billion deal for shale oil rival Endeavor Energy**
+**Super Bowl 2024 ads recap: DoorDash, DunKings, Beyoncé and the most-talked about commercials**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/diamondback-energy-buy-endeavor-energy-26-billion-deal-2024-02-12/).
+You can read more about it [here](https://www.cnbc.com/2024/02/11/super-bowl-ads-2024-live-updates.html).
 
 ## Requirements
 - Python 3.8
