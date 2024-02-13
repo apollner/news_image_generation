@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk finds new excuse for cutting prices of Tesla’s vital Model Y: ‘Most people don’t love to buy cars in the middle of winter’**
+**iPhone 16: Everything We Know So Far**
 
-You can read more about it [here](https://fortune.com/2024/02/12/elon-musk-tesla-demand-price-cut-winter-cold-season/).
+You can read more about it [here](https://gizmodo.com/apple-iphone-16-1851244717).
 
 ## Requirements
 - Python 3.8
