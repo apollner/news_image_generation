@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wicked’ Trailer Starring Ariana Grande Debuts During Super Bowl**
+**Super Bowl LVIII Black national anthem performance causes stir on social media**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/wicked-trailer-ariana-grande-super-bowl-cynthia-erivo-wizard-of-oz-1234966355/).
+You can read more about it [here](https://www.foxnews.com/sports/super-bowl-lviii-black-national-anthem-performances-causes-stir-social-media).
 
 ## Requirements
 - Python 3.8
