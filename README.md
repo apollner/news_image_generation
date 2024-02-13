@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MPD on city-wide manhunt for shooting spree suspect | News**
+**Nebraska steals Caitlin Clark's thunder with 82-79 victory over No. 2 Iowa**
 
-You can read more about it [here](https://www.fox13memphis.com/news/suspect-in-custody-after-shooting-spree-across-memphis-left-man-dead-others-injured-police-say/article_e3f125fe-c8fc-11ee-8983-0fd5dd4f44a8.html).
+You can read more about it [here](https://apnews.com/article/basketball-score-iowa-nebraska-0c1860db366a14284fbfbb5fc3d9d689).
 
 ## Requirements
 - Python 3.8
