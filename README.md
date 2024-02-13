@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen's Houthi rebels target carrier ship bound for Iran, their main supporter**
+**Bronx subway shooting: 1 dead, 5 people wounded after shooting on platform at Mount Eden station**
 
-You can read more about it [here](https://www.cbsnews.com/news/yemen-houthi-rebels-target-carrier-ship-star-iris-bound-for-iran/).
+You can read more about it [here](https://abc7ny.com/bronx-subway-station-shooting-mount-eden/14415950/).
 
 ## Requirements
 - Python 3.8
