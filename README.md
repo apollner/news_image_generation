@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Bowl LVIII Black national anthem performance causes stir on social media**
+**49ers' Dre Greenlaw knocked out of Super Bowl with Achilles injury after going back onto field**
 
-You can read more about it [here](https://www.foxnews.com/sports/super-bowl-lviii-black-national-anthem-performances-causes-stir-social-media).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/super-bowl/2024/02/11/dre-greenlaw-injury-achilles-super-bowl-2024-49ers-linebacker/72565177007/).
 
 ## Requirements
 - Python 3.8
