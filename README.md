@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conservative ex-PM Alexander Stubb elected Finland president**
+**Russia-Ukraine war: List of key events, day 719**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68270804).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/12/russia-ukraine-war-list-of-key-events-day-719).
 
 ## Requirements
 - Python 3.8
