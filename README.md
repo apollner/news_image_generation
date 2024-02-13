@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Bowl 2024 ads recap: DoorDash, DunKings, Beyoncé and the most-talked about commercials**
+**Man arrested in Canada after bodies of 3 children found burned in car, 2 women found dead in different locations**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/11/super-bowl-ads-2024-live-updates.html).
+You can read more about it [here](https://www.cbsnews.com/news/deaths-3-children-2-women-manitoba-canada-man-arrested/).
 
 ## Requirements
 - Python 3.8
