@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs defeat 49ers in OT of Super Bowl to cement dynasty status; Patrick Mahomes earns third MVP**
+**Northern lights could reach parts of US amid geomagnetic storm watches: What to know**
 
-You can read more about it [here](https://theathletic.com/5268544/2024/02/11/chiefs-49ers-super-bowl-win-result/).
+You can read more about it [here](https://thehill.com/homenews/nexstar_media_wire/4463092-northern-lights-could-reach-parts-of-us-amid-geomagnetic-storm-watches-what-to-know/).
 
 ## Requirements
 - Python 3.8
