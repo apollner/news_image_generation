@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel frees two hostages in Rafah under cover of air strikes, Gaza health officials say 67 killed**
+**Angry mob trashes and sets fire to Waymo self-driving car**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-strikes-rafah-refugee-camp-22-killed-local-health-officials-say-2024-02-12/).
+You can read more about it [here](https://www.theregister.com/2024/02/12/waymo_destroyed_san_francisco/).
 
 ## Requirements
 - Python 3.8
