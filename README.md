@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda plan is fundamentally flawed, parliamentary report warns**
+**Syphilis in the U.S was once nearly eradicated. Here’s why it’s surging again**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68270451).
+You can read more about it [here](https://www.youtube.com/watch?v=dnVGtocXbCc).
 
 ## Requirements
 - Python 3.8
