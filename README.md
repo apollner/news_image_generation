@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Kenya: Marathon world record holder Kelvin Kiptum dies in road accident | BBC News**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=IV4XNE_zVNA).
 
 ## Requirements
 - Python 3.8
