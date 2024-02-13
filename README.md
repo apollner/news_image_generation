@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wegovy, the 'Viagra' of weight-loss drugs flying off the shelves**
+**2 injured, including child, after shooting at pastor Joel Osteen’s Lakewood Church, Houston police say. Shooter is also down**
 
-You can read more about it [here](https://www.bbc.com/news/business-68226369).
+You can read more about it [here](https://www.cnn.com/2024/02/11/us/joel-osteens-lakewood-church-shooting/index.html).
 
 ## Requirements
 - Python 3.8
