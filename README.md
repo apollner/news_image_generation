@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man arrested in Canada after bodies of 3 children found burned in car, 2 women found dead in different locations**
+**Elon Musk finds new excuse for cutting prices of Tesla’s vital Model Y: ‘Most people don’t love to buy cars in the middle of winter’**
 
-You can read more about it [here](https://www.cbsnews.com/news/deaths-3-children-2-women-manitoba-canada-man-arrested/).
+You can read more about it [here](https://fortune.com/2024/02/12/elon-musk-tesla-demand-price-cut-winter-cold-season/).
 
 ## Requirements
 - Python 3.8
