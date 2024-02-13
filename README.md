@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Happened In Pakistan's Disputed Election And What's Next**
+**Rare Human Case of Bubonic Plague in Oregon Confirmed by Authorities**
 
-You can read more about it [here](https://www.ndtv.com/world-news/pakistan-election-results-2024-what-happened-in-pakistans-disputed-election-and-whats-next-5040690).
+You can read more about it [here](https://www.sciencealert.com/rare-human-case-of-bubonic-plague-in-oregon-confirmed-by-authorities).
 
 ## Requirements
 - Python 3.8
