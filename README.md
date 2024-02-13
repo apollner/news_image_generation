@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Breaks $50K for First Time Since Hitting All-Time High in 2021**
+**Yemen's Houthi rebels target carrier ship bound for Iran, their main supporter**
 
-You can read more about it [here](https://decrypt.co/217033/bitcoin-breaks-50k-first-time-since-2021).
+You can read more about it [here](https://www.cbsnews.com/news/yemen-houthi-rebels-target-carrier-ship-star-iris-bound-for-iran/).
 
 ## Requirements
 - Python 3.8
