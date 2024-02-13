@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is ketamine? How the drug involved in Matthew Perry death works**
+**Chiefs defeat 49ers in OT of Super Bowl to cement dynasty status; Patrick Mahomes earns third MVP**
 
-You can read more about it [here](https://www.usatoday.com/story/life/health-wellness/2024/02/12/what-is-ketamine/72499723007/).
+You can read more about it [here](https://theathletic.com/5268544/2024/02/11/chiefs-49ers-super-bowl-win-result/).
 
 ## Requirements
 - Python 3.8
