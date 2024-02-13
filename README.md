@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Egypt is threatening to void its decades-old peace treaty with Israel. What does that mean?**
+**Conservative ex-PM Alexander Stubb elected Finland president**
 
-You can read more about it [here](https://apnews.com/article/israel-egypt-peace-treaty-hamas-war-rafah-46df917a975ed4c4f88d5de01a8508e0).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68270804).
 
 ## Requirements
 - Python 3.8
