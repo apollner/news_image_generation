@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO chief says Trump’s comments on abandoning alliance endangers US and European troops**
+**Diamondback sets $26 billion deal for shale oil rival Endeavor Energy**
 
-You can read more about it [here](https://www.cnn.com/2024/02/12/europe/trump-comments-reaction-nato-stoltenberg-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/markets/deals/diamondback-energy-buy-endeavor-energy-26-billion-deal-2024-02-12/).
 
 ## Requirements
 - Python 3.8
