@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angry mob trashes and sets fire to Waymo self-driving car**
+**Chiefs win Super Bowl: How Travis Kelce inspired the team night before big game, bringing teammates to tears**
 
-You can read more about it [here](https://www.theregister.com/2024/02/12/waymo_destroyed_san_francisco/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-win-super-bowl-how-travis-kelce-inspired-the-team-night-before-big-game-bringing-teammates-to-tears/).
 
 ## Requirements
 - Python 3.8
