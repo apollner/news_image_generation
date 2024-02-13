@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers' Dre Greenlaw knocked out of Super Bowl with Achilles injury after going back onto field**
+**Rwanda plan is fundamentally flawed, parliamentary report warns**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/super-bowl/2024/02/11/dre-greenlaw-injury-achilles-super-bowl-2024-49ers-linebacker/72565177007/).
+You can read more about it [here](https://www.bbc.com/news/uk-68270451).
 
 ## Requirements
 - Python 3.8
