@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher’s Halftime Show Is a Guest-Packed Frenzy of Sexy Shirtless Jams, Roller Skating and Breathless Dance Moves**
+**First case: Man dies of Alaskapox**
 
-You can read more about it [here](https://variety.com/2024/music/news/usher-2024-super-bowl-halftime-show-1235907412/).
+You can read more about it [here](https://www.newsnationnow.com/health/alaskapox/).
 
 ## Requirements
 - Python 3.8
