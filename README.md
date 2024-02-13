@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Bowl live updates: Beyoncé, Affleck and Walken lead the best commercials so far**
+**Egypt is threatening to void its decades-old peace treaty with Israel. What does that mean?**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/11/super-bowl-ads-2024-live-updates.html).
+You can read more about it [here](https://apnews.com/article/israel-egypt-peace-treaty-hamas-war-rafah-46df917a975ed4c4f88d5de01a8508e0).
 
 ## Requirements
 - Python 3.8
