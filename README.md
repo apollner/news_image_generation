@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronx subway shooting: 1 dead, 5 people wounded after shooting on platform at Mount Eden station**
+**Trump’s NATO threats split GOP**
 
-You can read more about it [here](https://abc7ny.com/bronx-subway-station-shooting-mount-eden/14415950/).
+You can read more about it [here](https://thehill.com/homenews/senate/4463649-trumps-nato-threats-split-gop/).
 
 ## Requirements
 - Python 3.8
