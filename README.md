@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya: Marathon world record holder Kelvin Kiptum dies in road accident | BBC News**
+**NFL mock draft 2024: Chiefs get Patrick Mahomes a major weapon at wide receiver**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IV4XNE_zVNA).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/draft/2024/02/12/nfl-mock-draft-2024-kansas-city-chiefs-receiver/72566758007/).
 
 ## Requirements
 - Python 3.8
