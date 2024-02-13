@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First case: Man dies of Alaskapox**
+**‘Wicked’ Trailer Starring Ariana Grande Debuts During Super Bowl**
 
-You can read more about it [here](https://www.newsnationnow.com/health/alaskapox/).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/wicked-trailer-ariana-grande-super-bowl-cynthia-erivo-wizard-of-oz-1234966355/).
 
 ## Requirements
 - Python 3.8
