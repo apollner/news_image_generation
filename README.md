@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern lights could reach parts of US amid geomagnetic storm watches: What to know**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/homenews/nexstar_media_wire/4463092-northern-lights-could-reach-parts-of-us-amid-geomagnetic-storm-watches-what-to-know/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
