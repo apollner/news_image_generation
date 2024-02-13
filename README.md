@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nebraska steals Caitlin Clark's thunder with 82-79 victory over No. 2 Iowa**
+**Wegovy, the 'Viagra' of weight-loss drugs flying off the shelves**
 
-You can read more about it [here](https://apnews.com/article/basketball-score-iowa-nebraska-0c1860db366a14284fbfbb5fc3d9d689).
+You can read more about it [here](https://www.bbc.com/news/business-68226369).
 
 ## Requirements
 - Python 3.8
