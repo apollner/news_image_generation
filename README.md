@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 719**
+**Israel frees two hostages in Rafah under cover of air strikes, Gaza health officials say 67 killed**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/12/russia-ukraine-war-list-of-key-events-day-719).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-strikes-rafah-refugee-camp-22-killed-local-health-officials-say-2024-02-12/).
 
 ## Requirements
 - Python 3.8
