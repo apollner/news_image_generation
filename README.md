@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL mock draft 2024: Chiefs get Patrick Mahomes a major weapon at wide receiver**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/draft/2024/02/12/nfl-mock-draft-2024-kansas-city-chiefs-receiver/72566758007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
