@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s NATO threats split GOP**
+**“Very sick” pet cat gave Oregon resident case of bubonic plague**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4463649-trumps-nato-threats-split-gop/).
+You can read more about it [here](https://arstechnica.com/science/2024/02/rare-bubonic-plague-case-in-oregon-spread-from-very-sick-pet-cat/).
 
 ## Requirements
 - Python 3.8
