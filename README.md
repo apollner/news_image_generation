@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher and Jennifer Goicoechea Wed in Post-Super Bowl Ceremony**
+**Nomad launches super slim Magnetic Leather Back for iPhone 15 Pro and Pro Max**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/usher-jennifer-goicoechea-super-bowl-wedding-1235823662/).
+You can read more about it [here](https://9to5mac.com/2024/02/13/nomad-launches-magnetic-leather-back-iphone-15-pro/).
 
 ## Requirements
 - Python 3.8
