@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bubonic plague case in Oregon tied to pet cat, health officials say**
+**[Removed]**
 
-You can read more about it [here](https://www.oregonlive.com/news/2024/02/bubonic-plague-case-in-oregon-tied-to-pet-cat-health-officials-say.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
