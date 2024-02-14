@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Wicked Teaser Trailer And Poster Have Arrived**
+**Lakewood Church shooting: AR-15 had 'Palestine' sticker, antisemitic writings recovered, police say**
 
-You can read more about it [here](https://www.buzzfeed.com/josephlongo/wicked-movie-teaser-trailer-poster).
+You can read more about it [here](https://abcnews.go.com/US/lakewood-church-shooting-motive-unknown-pro-palestinian-message/story?id=107158963).
 
 ## Requirements
 - Python 3.8
