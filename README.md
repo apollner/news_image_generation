@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift got just 54 seconds of air time at Super Bowl 2024**
+**Bubonic plague case in Oregon tied to pet cat, health officials say**
 
-You can read more about it [here](https://nypost.com/2024/02/12/sports/taylor-swift-got-just-54-seconds-of-air-time-at-super-bowl-2024/).
+You can read more about it [here](https://www.oregonlive.com/news/2024/02/bubonic-plague-case-in-oregon-tied-to-pet-cat-health-officials-say.html).
 
 ## Requirements
 - Python 3.8
