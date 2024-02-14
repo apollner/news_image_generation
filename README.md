@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rochdale by-election: Starmer insists he was decisive over Azhar Ali**
+**Russia preparing for military confrontation with West, says Estonia**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68284227).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-preparing-military-confrontation-with-west-says-estonia-2024-02-13/).
 
 ## Requirements
 - Python 3.8
