@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondback sets $26 billion deal for shale oil rival Endeavor Energy**
+**Biden welcomes King of Jordan on back of ongoing hostage deal discussions**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/diamondback-energy-buy-endeavor-energy-26-billion-deal-2024-02-12/).
+You can read more about it [here](https://apnews.com/article/biden-gaza-israel-jordan-hamas-993c8109fca1c77383e7c27a8136927f).
 
 ## Requirements
 - Python 3.8
