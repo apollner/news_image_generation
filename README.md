@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katy Perry to leave American Idol after seven seasons**
+**Nvidia's Chat with RTX is a promising AI chatbot that runs locally on your PC**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68282815).
+You can read more about it [here](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on).
 
 ## Requirements
 - Python 3.8
