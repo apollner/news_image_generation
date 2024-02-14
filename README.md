@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount to Lay Off 800 Staffers as CEO Unveils Broad “Streamlining Costs” Effort**
+**Dow drops 400 points as hot inflation report sends Wall Street reeling: Live updates**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/paramount-layoffs-memo-staff-cuts-1235823470/).
+You can read more about it [here](https://www.cnbc.com/2024/02/12/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
