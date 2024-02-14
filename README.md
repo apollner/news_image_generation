@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Travis Kelce said these three words to Taylor Swift after winning the Super Bowl**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/02/12/entertainment/travis-kelce-words-taylor-swift-superbowl/index.html).
 
 ## Requirements
 - Python 3.8
