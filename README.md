@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez Snuggles Up With ‘Bes Fwend’ Benny Blanco in New Photos**
+**SpaceX rolls giant Starship rocket to launch pad ahead of 3rd test flight (photos)**
 
-You can read more about it [here](http://www.billboard.com/music/music-news/selena-gomez-benny-blanco-new-photos-1235606098/).
+You can read more about it [here](https://www.space.com/spacex-rolls-starship-pad-third-test-flight-photos).
 
 ## Requirements
 - Python 3.8
