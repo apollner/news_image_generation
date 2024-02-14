@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow drops 400 points as hot inflation report sends Wall Street reeling: Live updates**
+**What to know about Alaskapox after officials report first known fatal case**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/12/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2024/02/13/health/alaskapox-virus-xpn/index.html).
 
 ## Requirements
 - Python 3.8
