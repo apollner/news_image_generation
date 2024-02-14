@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX rolls giant Starship rocket to launch pad ahead of 3rd test flight (photos)**
+**Uber, Lyft and DoorDash drivers set to walk off the job on Valentine's Day**
 
-You can read more about it [here](https://www.space.com/spacex-rolls-starship-pad-third-test-flight-photos).
+You can read more about it [here](https://www.cbsnews.com/news/valentines-day-2024-uber-lyft-doordash-drivers-strike/).
 
 ## Requirements
 - Python 3.8
