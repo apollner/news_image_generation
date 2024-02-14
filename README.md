@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden welcomes King of Jordan on back of ongoing hostage deal discussions**
+**49ers players admit they didn't know NFL's new playoff OT rules**
 
-You can read more about it [here](https://apnews.com/article/biden-gaza-israel-jordan-hamas-993c8109fca1c77383e7c27a8136927f).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/arik-armstead-kyle-juszczyk-playoff-rules/1702398/).
 
 ## Requirements
 - Python 3.8
