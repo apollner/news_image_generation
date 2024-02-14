@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare case of plague is confirmed in Oregon. Here's what to know about symptoms and how it spreads.**
+**Diamondback sets $26 billion deal for shale oil rival Endeavor Energy**
 
-You can read more about it [here](https://www.cbsnews.com/news/plague-what-to-know-symptoms-transmission/).
+You can read more about it [here](https://www.reuters.com/markets/deals/diamondback-energy-buy-endeavor-energy-26-billion-deal-2024-02-12/).
 
 ## Requirements
 - Python 3.8
