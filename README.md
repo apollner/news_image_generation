@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump loved RNC Chair Ronna McDaniel — until he didn't**
+**Mass. doctor explains why CDC is rethinking COVID-19 isolation**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/13/trump-ronna-mcdaniel-rnc-00141209).
+You can read more about it [here](https://www.wcvb.com/article/cdc-rethinking-covid-19-isolation-guidelines/46774158).
 
 ## Requirements
 - Python 3.8
