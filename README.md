@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia preparing for military confrontation with West, says Estonia**
+**Usher and Jennifer Goicoechea Wed in Post-Super Bowl Ceremony**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-preparing-military-confrontation-with-west-says-estonia-2024-02-13/).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/usher-jennifer-goicoechea-super-bowl-wedding-1235823662/).
 
 ## Requirements
 - Python 3.8
