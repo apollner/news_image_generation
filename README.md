@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers players admit they didn't know NFL's new playoff OT rules**
+**Selena Gomez Snuggles Up With ‘Bes Fwend’ Benny Blanco in New Photos**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/arik-armstead-kyle-juszczyk-playoff-rules/1702398/).
+You can read more about it [here](http://www.billboard.com/music/music-news/selena-gomez-benny-blanco-new-photos-1235606098/).
 
 ## Requirements
 - Python 3.8
