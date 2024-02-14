@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska man dies from novel animal-borne virus, likely contracted from stray cat**
+**All NATO countries’ defense spending by GDP**
 
-You can read more about it [here](https://www.foxnews.com/health/alaska-man-dies-novel-animal-borne-virus-likely-contracted-stray-cat).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/02/12/nato-countries-defense-spending-gdp-trump/).
 
 ## Requirements
 - Python 3.8
