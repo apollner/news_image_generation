@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden forcefully condemns Trump's NATO comments as 'un-American'**
+**Trump loved RNC Chair Ronna McDaniel — until he didn't**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/02/13/biden-trump-nato-unamerican/).
+You can read more about it [here](https://www.politico.com/news/2024/02/13/trump-ronna-mcdaniel-rnc-00141209).
 
 ## Requirements
 - Python 3.8
