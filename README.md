@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani impresses in first batting practice with Dodgers**
+**Intuitive Machines Odyssey lunar lander to be launched early Wednesday**
 
-You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-batting-practice-home-runs-dodgers).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/02/13/intuitive-machines-lunar-lander-launch/).
 
 ## Requirements
 - Python 3.8
