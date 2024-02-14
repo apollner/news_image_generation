@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JetBlue, reeling from kiboshed Spirit merger, has a new suitor in corporate raider Carl Icahn who’s looking to get his mojo back**
+**Jordan's King Abdullah meeting with Biden highlights US ally's dilemma in Israel-Hamas war**
 
-You can read more about it [here](https://fortune.com/2024/02/12/jetblue-carl-icahn-9-9-percent-stake-undervalued-activist/).
+You can read more about it [here](https://www.foxnews.com/world/jordans-king-abdullah-meeting-biden-highlights-us-allys-dilemma-israel-hamas-war).
 
 ## Requirements
 - Python 3.8
