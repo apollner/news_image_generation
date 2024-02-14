@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber, Lyft and DoorDash drivers set to walk off the job on Valentine's Day**
+**Taylor Swift got just 54 seconds of air time at Super Bowl 2024**
 
-You can read more about it [here](https://www.cbsnews.com/news/valentines-day-2024-uber-lyft-doordash-drivers-strike/).
+You can read more about it [here](https://nypost.com/2024/02/12/sports/taylor-swift-got-just-54-seconds-of-air-time-at-super-bowl-2024/).
 
 ## Requirements
 - Python 3.8
