@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan's King Abdullah meeting with Biden highlights US ally's dilemma in Israel-Hamas war**
+**Trump endorses triumvirate of loyalists to take over RNC**
 
-You can read more about it [here](https://www.foxnews.com/world/jordans-king-abdullah-meeting-biden-highlights-us-allys-dilemma-israel-hamas-war).
+You can read more about it [here](https://www.axios.com/2024/02/13/trump-rnc-chair-ronna-mcdaniel-2024).
 
 ## Requirements
 - Python 3.8
