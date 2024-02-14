@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Alaskapox after officials report first known fatal case**
+**Katy Perry to leave American Idol after seven seasons**
 
-You can read more about it [here](https://www.cnn.com/2024/02/13/health/alaskapox-virus-xpn/index.html).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68282815).
 
 ## Requirements
 - Python 3.8
