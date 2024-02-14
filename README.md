@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez Says Ayo Edebiri ‘Apologized With Tears in Her Eyes’ Over Resurfaced Comments Slamming Lopez: ‘She Was Mortified’**
+**Dow drops 400 points as hot inflation report sends Wall Street reeling: Live updates**
 
-You can read more about it [here](https://variety.com/2024/tv/news/jennifer-lopez-ayo-edebiri-apologized-snl-podcast-comments-1235908800/).
+You can read more about it [here](https://www.cnbc.com/2024/02/12/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
