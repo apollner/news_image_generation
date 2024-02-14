@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher and Jennifer Goicoechea Wed in Post-Super Bowl Ceremony**
+**SpaceX to launch Starship again 'in about 3 weeks,' Elon Musk says**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/usher-jennifer-goicoechea-super-bowl-wedding-1235823662/).
+You can read more about it [here](https://www.space.com/space-starship-third-test-flight-three-weeks-elon-musk).
 
 ## Requirements
 - Python 3.8
