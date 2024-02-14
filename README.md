@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intuitive Machines Odyssey lunar lander to be launched early Wednesday**
+**San Francisco 49ers players admit they didn’t know new Super Bowl overtime rules following loss to Chiefs**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/02/13/intuitive-machines-lunar-lander-launch/).
+You can read more about it [here](https://www.cnn.com/2024/02/13/sport/49ers-players-overtime-rules-super-bowl-lviii-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
