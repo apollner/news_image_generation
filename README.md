@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate-passed foreign aid bill entangled in Johnson's messy House GOP fight**
+**Usher and Jennifer Goicoechea Wed in Post-Super Bowl Ceremony**
 
-You can read more about it [here](https://www.politico.com/live-updates/2024/02/13/congress/johnsons-next-move-on-foreign-aid-00141158).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/usher-jennifer-goicoechea-super-bowl-wedding-1235823662/).
 
 ## Requirements
 - Python 3.8
