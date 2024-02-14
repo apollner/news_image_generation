@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow drops 400 points as hot inflation report sends Wall Street reeling: Live updates**
+**Rochdale by-election: Starmer insists he was decisive over Azhar Ali**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/12/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68284227).
 
 ## Requirements
 - Python 3.8
