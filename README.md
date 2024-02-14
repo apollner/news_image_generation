@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs, NFL world react to 49ers' ‘crazy' SB58 OT decision**
+**Rare case of plague is confirmed in Oregon. Here's what to know about symptoms and how it spreads.**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/chiefs-nfl-react-super-bowl-overtime-decision/1702433/).
+You can read more about it [here](https://www.cbsnews.com/news/plague-what-to-know-symptoms-transmission/).
 
 ## Requirements
 - Python 3.8
