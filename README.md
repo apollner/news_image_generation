@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers players admit they didn’t know new Super Bowl overtime rules following loss to Chiefs**
+**Jennifer Lopez Says Ayo Edebiri ‘Apologized With Tears in Her Eyes’ Over Resurfaced Comments Slamming Lopez: ‘She Was Mortified’**
 
-You can read more about it [here](https://www.cnn.com/2024/02/13/sport/49ers-players-overtime-rules-super-bowl-lviii-spt-intl/index.html).
+You can read more about it [here](https://variety.com/2024/tv/news/jennifer-lopez-ayo-edebiri-apologized-snl-podcast-comments-1235908800/).
 
 ## Requirements
 - Python 3.8
