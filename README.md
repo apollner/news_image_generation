@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's Chat with RTX is a promising AI chatbot that runs locally on your PC**
+**San Francisco 49ers players admit they didn’t know new Super Bowl overtime rules following loss to Chiefs**
 
-You can read more about it [here](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on).
+You can read more about it [here](https://www.cnn.com/2024/02/13/sport/49ers-players-overtime-rules-super-bowl-lviii-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
