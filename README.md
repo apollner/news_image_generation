@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers players admit they didn’t know new Super Bowl overtime rules following loss to Chiefs**
+**Paramount to Lay Off 800 Staffers as CEO Unveils Broad “Streamlining Costs” Effort**
 
-You can read more about it [here](https://www.cnn.com/2024/02/13/sport/49ers-players-overtime-rules-super-bowl-lviii-spt-intl/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/paramount-layoffs-memo-staff-cuts-1235823470/).
 
 ## Requirements
 - Python 3.8
