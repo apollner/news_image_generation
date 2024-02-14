@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Deadpool & Wolverine' Most Watched Movie Trailer of All Time With 365M Views**
+**Biden forcefully condemns Trump's NATO comments as 'un-American'**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/deadpool-wolverine-most-watched-movie-trailer-1235823882/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/02/13/biden-trump-nato-unamerican/).
 
 ## Requirements
 - Python 3.8
