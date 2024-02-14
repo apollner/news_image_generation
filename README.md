@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakewood Church shooting: AR-15 had 'Palestine' sticker, antisemitic writings recovered, police say**
+**Chiefs, NFL world react to 49ers' ‘crazy' SB58 OT decision**
 
-You can read more about it [here](https://abcnews.go.com/US/lakewood-church-shooting-motive-unknown-pro-palestinian-message/story?id=107158963).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/chiefs-nfl-react-super-bowl-overtime-decision/1702433/).
 
 ## Requirements
 - Python 3.8
