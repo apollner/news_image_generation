@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“Very sick” pet cat gave Oregon resident case of bubonic plague**
+**The Wicked Teaser Trailer And Poster Have Arrived**
 
-You can read more about it [here](https://arstechnica.com/science/2024/02/rare-bubonic-plague-case-in-oregon-spread-from-very-sick-pet-cat/).
+You can read more about it [here](https://www.buzzfeed.com/josephlongo/wicked-movie-teaser-trailer-poster).
 
 ## Requirements
 - Python 3.8
