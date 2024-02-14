@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Stewart Rips Trump AND Biden in ‘Daily Show’ Return: “Similarly Challenged”**
+**Uber, Lyft and DoorDash drivers set to walk off the job on Valentine's Day**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/jon-stewart-daily-show-monologue-1235822972/).
+You can read more about it [here](https://www.cbsnews.com/news/valentines-day-2024-uber-lyft-doordash-drivers-strike/).
 
 ## Requirements
 - Python 3.8
