@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asteroid, The Size Of A Skyscraper, To Pass By Earth Today**
+**[Removed]**
 
-You can read more about it [here](https://www.ndtv.com/science/asteroid-the-size-of-a-skyscraper-to-pass-by-earth-today-5053965).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
