@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch SpaceX launch the private Intuitive Machines moon lander IM-1 on Feb. 15 live online**
+**One killed, 8 injured as rocket barrage from Lebanon hits Safed**
 
-You can read more about it [here](https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-livestreams).
+You can read more about it [here](https://www.timesofisrael.com/one-killed-8-injured-as-rocket-barrage-from-lebanon-hits-safed/).
 
 ## Requirements
 - Python 3.8
