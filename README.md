@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nerd goggle wars intensify as Mark Zuckerberg rips Apple's Vision Pro**
+**Chiefs News: Nick Allegretti tore UCL in elbow during Super Bowl**
 
-You can read more about it [here](https://www.businessinsider.com/mark-zuckerberg-rips-apple-vision-pro-2024-2).
+You can read more about it [here](https://www.arrowheadpride.com/2024/2/13/24072497/report-nick-allegretti-tore-ucl-in-elbow-during-super-bowl).
 
 ## Requirements
 - Python 3.8
