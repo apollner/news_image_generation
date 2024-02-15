@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel launches 'extensive' strikes in Lebanon after rockets hit army base**
+**L.A.’s Graffiti Tower Sparks Broadside From Rick Caruso As Mayor’s Office Scrambles**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68292471).
+You can read more about it [here](http://www.hollywoodreporter.com/news/local-news/l-a-s-graffiti-tower-caruso-bass-1235824655/).
 
 ## Requirements
 - Python 3.8
