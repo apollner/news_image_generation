@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nerd goggle wars intensify as Mark Zuckerberg rips Apple's Vision Pro**
+**Indonesia election: What the maps don't show about this Asian nation**
 
-You can read more about it [here](https://www.businessinsider.com/mark-zuckerberg-rips-apple-vision-pro-2024-2).
+You can read more about it [here](https://www.bbc.com/news/av/world-asia-68281092).
 
 ## Requirements
 - Python 3.8
