@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 officers shot in Washington while attempting to make an animal cruelty arrest**
+**Samsung's first Galaxy S24 update can make everything a bit brighter**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/14/washington-dc-officers-shot-00141415).
+You can read more about it [here](https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation).
 
 ## Requirements
 - Python 3.8
