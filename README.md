@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeff Bezos sells over $4 billion in Amazon shares in past week**
+**[Removed]**
 
-You can read more about it [here](https://www.axios.com/2024/02/14/jeff-bezos-sells-amazon-shares-4-billion).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
