@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Shanahan disagrees with perception that he can't win a big game**
+**CDC's COVID isolation guidance may change soon : Shots - Health News**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-disagrees-with-perception-that-he-cant-win-a-big-game).
+You can read more about it [here](https://www.npr.org/sections/health-shots/2024/02/14/1231249566/cdc-may-be-reconsidering-covid-isolation-guidance).
 
 ## Requirements
 - Python 3.8
