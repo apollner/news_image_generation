@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Futures Reclaim Solid Ground After CPI Miss: Markets Wrap**
+**Travis Kelce says push on Chiefs head coach Andy Reid was ‘definitely unacceptable’**
 
-You can read more about it [here](https://finance.yahoo.com/news/asia-stocks-us-rout-inflation-224301759.html).
+You can read more about it [here](https://www.cnn.com/2024/02/14/sport/travis-kelce-push-andy-reid-explain-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
