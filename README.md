@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 officers shot in Washington while attempting to make an animal cruelty arrest**
+**L.A.’s Graffiti Tower Sparks Broadside From Rick Caruso As Mayor’s Office Scrambles**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/14/washington-dc-officers-shot-00141415).
+You can read more about it [here](http://www.hollywoodreporter.com/news/local-news/l-a-s-graffiti-tower-caruso-bass-1235824655/).
 
 ## Requirements
 - Python 3.8
