@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indonesia election: What the maps don't show about this Asian nation**
+**NFL releases audio of Taylor Swift and Travis Kelce after Super Bowl win**
 
-You can read more about it [here](https://www.bbc.com/news/av/world-asia-68281092).
+You can read more about it [here](https://ew.com/nfl-releases-audio-taylor-swift-travis-kelce-super-bowl-win-8580260).
 
 ## Requirements
 - Python 3.8
