@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC's COVID isolation guidance may change soon : Shots - Health News**
+**New Notre Dame spire and golden rooster revealed after 2019 fire**
 
-You can read more about it [here](https://www.npr.org/sections/health-shots/2024/02/14/1231249566/cdc-may-be-reconsidering-covid-isolation-guidance).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/2024/02/14/notre-dame-new-spire-golden-rooster/).
 
 ## Requirements
 - Python 3.8
