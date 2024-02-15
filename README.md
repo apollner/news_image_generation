@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**New Orleans Bourbon Street sweep officially ends Mardi Gras**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wdsu.com/article/new-orleans-bourbon-street-sweep/46772044).
 
 ## Requirements
 - Python 3.8
