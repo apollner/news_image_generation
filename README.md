@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Orleans Bourbon Street sweep officially ends Mardi Gras**
+**McConnell urges Mike Johnson to allow vote on Ukraine aid**
 
-You can read more about it [here](https://www.wdsu.com/article/new-orleans-bourbon-street-sweep/46772044).
+You can read more about it [here](https://www.axios.com/2024/02/13/mcconnell-mike-johnson-ukraine-aid-vote).
 
 ## Requirements
 - Python 3.8
