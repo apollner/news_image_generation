@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Damon welcomes Stephen Colbert to the DunKings**
+**Biden administration examining role of supply chain middlemen in generic drug shortages**
 
-You can read more about it [here](https://ew.com/watch-matt-damon-crown-stephen-colbert-dunking-super-bowl-ad-8580427).
+You can read more about it [here](https://www.cnbc.com/2024/02/14/ftc-hhs-examining-cause-of-generic-drug-shortages.html).
 
 ## Requirements
 - Python 3.8
