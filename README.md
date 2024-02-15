@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony misses PS5 sales target as console enters 'latter stage of its life cycle'**
+**Kyle Shanahan disagrees with perception that he can't win a big game**
 
-You can read more about it [here](https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-disagrees-with-perception-that-he-cant-win-a-big-game).
 
 ## Requirements
 - Python 3.8
