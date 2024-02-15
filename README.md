@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce says push on Chiefs head coach Andy Reid was ‘definitely unacceptable’**
+**Live updates: New York holds special election to replace George Santos**
 
-You can read more about it [here](https://www.cnn.com/2024/02/14/sport/travis-kelce-push-andy-reid-explain-spt-intl/index.html).
+You can read more about it [here](https://www.cnn.com/politics/live-news/ny-special-election-santos-02-13-24/index.html).
 
 ## Requirements
 - Python 3.8
