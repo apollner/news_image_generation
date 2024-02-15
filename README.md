@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL releases audio of Taylor Swift and Travis Kelce after Super Bowl win**
+**GOP-led House impeaches Secretary Mayorkas**
 
-You can read more about it [here](https://ew.com/nfl-releases-audio-taylor-swift-travis-kelce-super-bowl-win-8580260).
+You can read more about it [here](https://apnews.com/article/house-mayorkas-impeachment-vote-border-security-80cbd5bbb8f512c6814f155f825a1214).
 
 ## Requirements
 - Python 3.8
