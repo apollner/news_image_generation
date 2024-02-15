@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nerd goggle wars intensify as Mark Zuckerberg rips Apple's Vision Pro**
+**1 dead, 5 injured after vehicle crashes into ER at Austin hospital: Officials**
 
-You can read more about it [here](https://www.businessinsider.com/mark-zuckerberg-rips-apple-vision-pro-2024-2).
+You can read more about it [here](https://abcnews.go.com/US/austin-hospital-vehicle-crash/story?id=107211894).
 
 ## Requirements
 - Python 3.8
