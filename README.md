@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mass. doctor explains why CDC is rethinking COVID-19 isolation**
+**Jon Stewart’s Return To ‘The Daily Show’ Scores Big Ratings For Comedy Central**
 
-You can read more about it [here](https://www.wcvb.com/article/cdc-rethinking-covid-19-isolation-guidelines/46774158).
+You can read more about it [here](http://deadline.com/2024/02/jon-stewart-the-daily-show-big-ratings-comedy-central-1235824802/).
 
 ## Requirements
 - Python 3.8
