@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Stewart’s Return To ‘The Daily Show’ Scores Big Ratings For Comedy Central**
+**NFL releases audio of Taylor Swift and Travis Kelce after Super Bowl win**
 
-You can read more about it [here](http://deadline.com/2024/02/jon-stewart-the-daily-show-big-ratings-comedy-central-1235824802/).
+You can read more about it [here](https://ew.com/nfl-releases-audio-taylor-swift-travis-kelce-super-bowl-win-8580260).
 
 ## Requirements
 - Python 3.8
