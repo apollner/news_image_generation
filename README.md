@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**L.A.’s Graffiti Tower Sparks Broadside From Rick Caruso As Mayor’s Office Scrambles**
+**Jeff Bezos reaps Florida tax benefit with $4 billion Amazon share sale**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/local-news/l-a-s-graffiti-tower-caruso-bass-1235824655/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-14/jeff-bezos-reaps-florida-tax-benefit-with-4-billion-amazon-sale).
 
 ## Requirements
 - Python 3.8
