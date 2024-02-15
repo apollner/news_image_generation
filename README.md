@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Passes $95.3 Billion Ukraine, Israel Aid Package**
+**Mass. doctor explains why CDC is rethinking COVID-19 isolation**
 
-You can read more about it [here](https://www.wsj.com/politics/policy/senate-on-verge-of-passing-95-3-billion-ukraine-israel-aid-package-55d07d5a).
+You can read more about it [here](https://www.wcvb.com/article/cdc-rethinking-covid-19-isolation-guidelines/46774158).
 
 ## Requirements
 - Python 3.8
