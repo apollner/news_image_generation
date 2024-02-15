@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP-led House impeaches Secretary Mayorkas**
+**Nerd goggle wars intensify as Mark Zuckerberg rips Apple's Vision Pro**
 
-You can read more about it [here](https://apnews.com/article/house-mayorkas-impeachment-vote-border-security-80cbd5bbb8f512c6814f155f825a1214).
+You can read more about it [here](https://www.businessinsider.com/mark-zuckerberg-rips-apple-vision-pro-2024-2).
 
 ## Requirements
 - Python 3.8
