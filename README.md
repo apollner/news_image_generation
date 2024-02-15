@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeff Bezos reaps Florida tax benefit with $4 billion Amazon share sale**
+**3 officers shot in Washington while attempting to make an animal cruelty arrest**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-14/jeff-bezos-reaps-florida-tax-benefit-with-4-billion-amazon-sale).
+You can read more about it [here](https://www.politico.com/news/2024/02/14/washington-dc-officers-shot-00141415).
 
 ## Requirements
 - Python 3.8
