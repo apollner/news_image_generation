@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: New York holds special election to replace George Santos**
+**Jeff Bezos sells over $4 billion in Amazon shares in past week**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/ny-special-election-santos-02-13-24/index.html).
+You can read more about it [here](https://www.axios.com/2024/02/14/jeff-bezos-sells-amazon-shares-4-billion).
 
 ## Requirements
 - Python 3.8
