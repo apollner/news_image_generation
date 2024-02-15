@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration examining role of supply chain middlemen in generic drug shortages**
+**Hamas recruiter tells CBS News that Israel's actions in Gaza are fueling a West Bank recruiting boom**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/14/ftc-hhs-examining-cause-of-generic-drug-shortages.html).
+You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-recruiter-in-west-bank-tells-cbs-news-of-recruiting-boom/).
 
 ## Requirements
 - Python 3.8
