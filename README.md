@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**L.A.’s Graffiti Tower Sparks Broadside From Rick Caruso As Mayor’s Office Scrambles**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.hollywoodreporter.com/news/local-news/l-a-s-graffiti-tower-caruso-bass-1235824655/).
 
 ## Requirements
 - Python 3.8
