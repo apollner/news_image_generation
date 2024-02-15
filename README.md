@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell urges Mike Johnson to allow vote on Ukraine aid**
+**How to watch SpaceX launch the private Intuitive Machines moon lander IM-1 on Feb. 15 live online**
 
-You can read more about it [here](https://www.axios.com/2024/02/13/mcconnell-mike-johnson-ukraine-aid-vote).
+You can read more about it [here](https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-livestreams).
 
 ## Requirements
 - Python 3.8
