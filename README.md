@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber, Lyft drivers to strike in Chicago, shutting off apps and turning down rides to and from O'Hare**
+**Israel launches 'extensive' strikes in Lebanon after rockets hit army base**
 
-You can read more about it [here](http://www.nbcchicago.com/news/local/uber-lyft-drivers-go-on-strike-in-chicago-shutting-off-apps-and-turning-down-rides-to-and-from-ohare/3355892/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68292471).
 
 ## Requirements
 - Python 3.8
