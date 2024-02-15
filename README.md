@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung's first Galaxy S24 update can make everything a bit brighter**
+**Uber, Lyft drivers to strike in Chicago, shutting off apps and turning down rides to and from O'Hare**
 
-You can read more about it [here](https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation).
+You can read more about it [here](http://www.nbcchicago.com/news/local/uber-lyft-drivers-go-on-strike-in-chicago-shutting-off-apps-and-turning-down-rides-to-and-from-ohare/3355892/).
 
 ## Requirements
 - Python 3.8
