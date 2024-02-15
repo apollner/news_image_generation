@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL releases audio of Taylor Swift and Travis Kelce after Super Bowl win**
+**Nerd goggle wars intensify as Mark Zuckerberg rips Apple's Vision Pro**
 
-You can read more about it [here](https://ew.com/nfl-releases-audio-taylor-swift-travis-kelce-super-bowl-win-8580260).
+You can read more about it [here](https://www.businessinsider.com/mark-zuckerberg-rips-apple-vision-pro-2024-2).
 
 ## Requirements
 - Python 3.8
