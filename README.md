@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Twin Cities, much of southern Minnesota digging out from first major snowfall of the winter**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.mprnews.org/story/2024/02/15/twin-cities-southern-minnesota-first-major-snowfall-winter).
 
 ## Requirements
 - Python 3.8
