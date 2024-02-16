@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 DC police officers shot trying to serve warrant, alleged gunman surrenders: Source**
+**4 students shot in Benjamin Mays High School parking lot in SW Atlanta**
 
-You can read more about it [here](https://abcnews.go.com/US/3-police-officers-shot-washington-dc/story?id=107222882).
+You can read more about it [here](https://www.fox5atlanta.com/news/shooting-benjamin-mays-high-school-atlanta).
 
 ## Requirements
 - Python 3.8
