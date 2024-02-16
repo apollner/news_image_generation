@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift praised by boyfriend Travis Kelce for chugging drink during the Super Bowl: 'She's a pro'**
+**PSA: Friday's the Last Day to Return Your Apple Vision Pro**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-praised-by-boyfriend-travis-kelce-for-chugging-drink-during-super-bowl-shes-pro).
+You can read more about it [here](https://gizmodo.com/how-long-do-you-have-to-return-apple-vision-pro-1851258249).
 
 ## Requirements
 - Python 3.8
