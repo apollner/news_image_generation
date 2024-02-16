@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Buy Alphabet Stock,' Says Top Analyst as It Ramps Up the AI Stakes - TipRanks.com**
+**1 dead, more than 20 wounded in shooting following Super Bowl parade**
 
-You can read more about it [here](https://www.tipranks.com/news/buy-alphabet-stock-says-analyst-as-it-ramps-up-the-ai-stakes).
+You can read more about it [here](https://www.cnn.com/us/live-news/kansas-city-chiefs-parade-shooting-02-14-24/index.html).
 
 ## Requirements
 - Python 3.8
