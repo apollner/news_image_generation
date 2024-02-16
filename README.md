@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel launches deadly air strikes in Lebanon after rockets hit army base**
+**Special counsel urges Supreme Court to deny Trump’s request for delay in immunity case**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68292471).
+You can read more about it [here](https://www.cnn.com/2024/02/14/politics/special-counsel-supreme-court-trump-response/index.html).
 
 ## Requirements
 - Python 3.8
