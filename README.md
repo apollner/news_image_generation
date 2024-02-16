@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Co-Chairs for the 2024 Met Gala Have Been Revealed: All the Details**
+**Caitlin Clark, Hawkeyes fans expecting record Thursday night**
 
-You can read more about it [here](https://people.com/2024-met-gala-co-hosts-dress-code-revealed-details-8583020).
+You can read more about it [here](https://www.kcci.com/article/iowa-basketball-caitlin-clark-ncaa-scoring-record-michigan-tickets-watch/46800516).
 
 ## Requirements
 - Python 3.8
