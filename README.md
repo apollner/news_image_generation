@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twin Cities, much of southern Minnesota digging out from first major snowfall of the winter**
+**Behind the scenes of CBS News' interview with a Hamas commander in the West Bank**
 
-You can read more about it [here](https://www.mprnews.org/story/2024/02/15/twin-cities-southern-minnesota-first-major-snowfall-winter).
+You can read more about it [here](https://www.cbsnews.com/news/cbs-news-interview-hamas-commander-west-bank-jenin-behind-the-scenes/).
 
 ## Requirements
 - Python 3.8
