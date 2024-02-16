@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notes from the Field: Long COVID Prevalence Among ...**
+**Google's Gemini 1.5 Pro is a new, more efficient AI model**
 
-You can read more about it [here](https://www.cdc.gov/mmwr/volumes/73/wr/mm7306a4.htm).
+You can read more about it [here](https://www.engadget.com/googles-gemini-15-pro-is-a-new-more-efficient-ai-model-181909354.html).
 
 ## Requirements
 - Python 3.8
