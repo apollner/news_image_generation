@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump defends his NATO remarks after backlash**
+**Japan Slips Into Recession, Clouding Central Bank Rate Path**
 
-You can read more about it [here](https://apnews.com/article/trump-backlash-nato-funding-russia-ukraine-796f245e06d1a0f314e3b4bfdb793cc0).
+You can read more about it [here](https://www.youtube.com/watch?v=pGEXB7Y_QRs).
 
 ## Requirements
 - Python 3.8
