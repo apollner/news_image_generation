@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, 21 wounded in shooting near Kansas City Super Bowl parade**
+**Lamont Paris, Sean Miller and other Ohio State coaching candidates**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/14/multiple-people-hit-in-shooting-during-kansas-city-superbowl-celebrations).
+You can read more about it [here](https://www.dispatch.com/story/sports/college/basketball/2024/02/14/chris-holtmann-ohio-state-basketball-coaching-candidates/72599207007/).
 
 ## Requirements
 - Python 3.8
