@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel urges Supreme Court to deny Trump’s request for delay in immunity case**
+**Trump NATO comments spark Europe nuclear debate | DW News**
 
-You can read more about it [here](https://www.cnn.com/2024/02/14/politics/special-counsel-supreme-court-trump-response/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=5SbNC3fK7Ig).
 
 ## Requirements
 - Python 3.8
