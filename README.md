@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PSA: Friday's the Last Day to Return Your Apple Vision Pro**
+**NATO: Donald Trump addresses Vladimir Putin comments on Joe Biden**
 
-You can read more about it [here](https://gizmodo.com/how-long-do-you-have-to-return-apple-vision-pro-1851258249).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/02/14/nato-donald-trump-vladimir-putin-joe-biden/72602969007/).
 
 ## Requirements
 - Python 3.8
