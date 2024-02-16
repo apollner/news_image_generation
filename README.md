@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sinking of Russian Warship Sparks Wave of Valentine's Day Memes**
+**Japan Slips Into Recession, Clouding Central Bank Rate Path**
 
-You can read more about it [here](https://www.newsweek.com/sinking-russian-warship-sparks-wave-valentines-day-memes-1870111).
+You can read more about it [here](https://www.youtube.com/watch?v=pGEXB7Y_QRs).
 
 ## Requirements
 - Python 3.8
