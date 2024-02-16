@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 DC police officers shot trying to serve warrant, alleged gunman surrenders: Source**
+**Sinking of Russian Warship Sparks Wave of Valentine's Day Memes**
 
-You can read more about it [here](https://abcnews.go.com/US/3-police-officers-shot-washington-dc/story?id=107222882).
+You can read more about it [here](https://www.newsweek.com/sinking-russian-warship-sparks-wave-valentines-day-memes-1870111).
 
 ## Requirements
 - Python 3.8
