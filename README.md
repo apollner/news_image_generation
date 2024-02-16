@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pistons’ Isaiah Stewart arrested after punching Suns’ Drew Eubanks**
+**Israeli special forces raid largest functioning hospital in Gaza**
 
-You can read more about it [here](https://theathletic.com/5276718/2024/02/14/isaiah-stewart-drew-eubanks-punch-pistons-suns/).
+You can read more about it [here](https://www.cnn.com/2024/02/15/middleeast/nasser-hospital-israeli-snipers-khan-younis-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
