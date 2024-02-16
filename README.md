@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Bob Marley’s ‘One Love’ Soars to Record $14M on Valentine’s Day, ‘Madame Web’ Ekes Out $6M**
+**Notes from the Field: Long COVID Prevalence Among ...**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/box-office-bob-marleys-one-love-madame-web-1235826073/).
+You can read more about it [here](https://www.cdc.gov/mmwr/volumes/73/wr/mm7306a4.htm).
 
 ## Requirements
 - Python 3.8
