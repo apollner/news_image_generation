@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli special forces raid largest functioning hospital in Gaza**
+**Shooting after Kansas City Chiefs Super Bowl parade kills 1 near Union Station; at least 21 wounded**
 
-You can read more about it [here](https://www.cnn.com/2024/02/15/middleeast/nasser-hospital-israeli-snipers-khan-younis-intl-hnk/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/kansas-city-chiefs-parade-shooting-union-station/).
 
 ## Requirements
 - Python 3.8
