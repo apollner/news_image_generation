@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Intel Chairman announces ‘serious national security threat,’ sources say it is related to Russia**
+**What the CDC’s new COVID guidelines could mean for you**
 
-You can read more about it [here](https://www.cnn.com/2024/02/14/politics/house-intel-chairman-serious-national-security-threat/index.html).
+You can read more about it [here](https://www.vox.com/2024/2/14/24073306/isolation-covid-guidelines-cdc-change).
 
 ## Requirements
 - Python 3.8
