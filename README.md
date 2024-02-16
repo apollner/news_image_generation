@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Movie Piracy App Surpassed Netflix and Disney+ on App Store Before Apple Killed It**
+**Retail sales fall 0.8% in January from December as shoppers pause after strong holiday season**
 
-You can read more about it [here](https://gizmodo.com/kimi-piracy-apple-app-store-tv-movies-netflix-disney-1851260634).
+You can read more about it [here](https://apnews.com/article/retail-sales-inflation-economy-a77beb05045e35d68deda35f8ec62fc2).
 
 ## Requirements
 - Python 3.8
