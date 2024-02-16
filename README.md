@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three people detained and firearms recovered in Kansas City Chiefs’ Super Bowl parade shooting**
+**Co-Chairs for the 2024 Met Gala Have Been Revealed: All the Details**
 
-You can read more about it [here](https://apnews.com/article/chiefs-super-bowl-parade-shooting-kansas-city-62e69a17b469b854afd7bcc3f548d1fc).
+You can read more about it [here](https://people.com/2024-met-gala-co-hosts-dress-code-revealed-details-8583020).
 
 ## Requirements
 - Python 3.8
