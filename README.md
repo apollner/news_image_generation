@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan Slips Into Recession, Clouding Central Bank Rate Path**
+**'Buy Alphabet Stock,' Says Top Analyst as It Ramps Up the AI Stakes - TipRanks.com**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pGEXB7Y_QRs).
+You can read more about it [here](https://www.tipranks.com/news/buy-alphabet-stock-says-analyst-as-it-ramps-up-the-ai-stakes).
 
 ## Requirements
 - Python 3.8
