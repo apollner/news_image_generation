@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Pistons player arrested and cited after punching opponent before game**
+**Airbus plans special dividend, takes new space charge**
 
-You can read more about it [here](https://www.cnn.com/2024/02/15/sport/detroit-pistons-isaiah-stewart-arrested-spt-intl/index.html).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/airbus-plans-special-dividend-takes-new-space-charge-2024-02-15/).
 
 ## Requirements
 - Python 3.8
