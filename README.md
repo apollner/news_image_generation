@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas recruiter tells CBS News that Israel's actions in Gaza are fueling a West Bank recruiting boom**
+**Cisco says it's cutting 5% of global workforce, amounting to over 4,000 jobs**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-war-hamas-recruiter-in-west-bank-tells-cbs-news-of-recruiting-boom/).
+You can read more about it [here](https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html).
 
 ## Requirements
 - Python 3.8
