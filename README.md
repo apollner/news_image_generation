@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas City shooting at Chiefs rally by Union Station**
+**Israel launches deadly air strikes in Lebanon after rockets hit army base**
 
-You can read more about it [here](https://www.kansascity.com/news/local/article285484737.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68292471).
 
 ## Requirements
 - Python 3.8
