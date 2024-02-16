@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO: Donald Trump addresses Vladimir Putin comments on Joe Biden**
+**One dead, 21 wounded in shooting near Kansas City Super Bowl parade**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/02/14/nato-donald-trump-vladimir-putin-joe-biden/72602969007/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/14/multiple-people-hit-in-shooting-during-kansas-city-superbowl-celebrations).
 
 ## Requirements
 - Python 3.8
