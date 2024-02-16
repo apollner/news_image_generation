@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Retail sales fall 0.8% in January from December as shoppers pause after strong holiday season**
+**Box Office: Bob Marley’s ‘One Love’ Soars to Record $14M on Valentine’s Day, ‘Madame Web’ Ekes Out $6M**
 
-You can read more about it [here](https://apnews.com/article/retail-sales-inflation-economy-a77beb05045e35d68deda35f8ec62fc2).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/box-office-bob-marleys-one-love-madame-web-1235826073/).
 
 ## Requirements
 - Python 3.8
