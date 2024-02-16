@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cisco says it's cutting 5% of global workforce, amounting to over 4,000 jobs**
+**Kansas City shooting at Chiefs rally by Union Station**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html).
+You can read more about it [here](https://www.kansascity.com/news/local/article285484737.html).
 
 ## Requirements
 - Python 3.8
