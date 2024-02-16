@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 dead, at least 21 others injured by gunfire at Chiefs Super Bowl parade in Kansas City: 'Tragedy'**
+**House Intel Chairman announces ‘serious national security threat,’ sources say it is related to Russia**
 
-You can read more about it [here](https://abcnews.go.com/US/shooting-reported-kansas-city-after-chiefs-super-bowl/story?id=107238682).
+You can read more about it [here](https://www.cnn.com/2024/02/14/politics/house-intel-chairman-serious-national-security-threat/index.html).
 
 ## Requirements
 - Python 3.8
