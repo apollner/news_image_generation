@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark, Hawkeyes fans expecting record Thursday night**
+**Movie Piracy App Surpassed Netflix and Disney+ on App Store Before Apple Killed It**
 
-You can read more about it [here](https://www.kcci.com/article/iowa-basketball-caitlin-clark-ncaa-scoring-record-michigan-tickets-watch/46800516).
+You can read more about it [here](https://gizmodo.com/kimi-piracy-apple-app-store-tv-movies-netflix-disney-1851260634).
 
 ## Requirements
 - Python 3.8
