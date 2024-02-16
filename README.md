@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PS5 Is Entering the 'Latter Half of Its Life Cycle', Says Sony**
+**US: Volkswagen cars stuck in ports over banned part — report**
 
-You can read more about it [here](https://www.pushsquare.com/news/2024/02/ps5-is-entering-the-latter-half-of-its-life-cycle-says-sony).
+You can read more about it [here](https://www.dw.com/en/us-volkswagen-cars-stuck-in-ports-over-banned-part-report/a-68261148).
 
 ## Requirements
 - Python 3.8
