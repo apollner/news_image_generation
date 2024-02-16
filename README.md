@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are scenarios for Thursday's winter snowstorm in Metro Detroit**
+**PS5 Is Entering the 'Latter Half of Its Life Cycle', Says Sony**
 
-You can read more about it [here](https://www.clickondetroit.com/weather/2024/02/15/here-are-scenarios-for-thursdays-winter-snowstorm-in-metro-detroit/).
+You can read more about it [here](https://www.pushsquare.com/news/2024/02/ps5-is-entering-the-latter-half-of-its-life-cycle-says-sony).
 
 ## Requirements
 - Python 3.8
