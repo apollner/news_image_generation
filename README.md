@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US: Volkswagen cars stuck in ports over banned part — report**
+**[Removed]**
 
-You can read more about it [here](https://www.dw.com/en/us-volkswagen-cars-stuck-in-ports-over-banned-part-report/a-68261148).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
