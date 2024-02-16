@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shooting after Kansas City Chiefs Super Bowl parade kills 1 near Union Station; at least 21 wounded**
+**Apple Vision Pro users return $3.5K headsets, say they cause extreme headaches, motion sickness: 'Like a torture session'**
 
-You can read more about it [here](https://www.cbsnews.com/news/kansas-city-chiefs-parade-shooting-union-station/).
+You can read more about it [here](https://nypost.com/2024/02/15/tech/apple-vision-pro-users-return-3-5k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session/).
 
 ## Requirements
 - Python 3.8
