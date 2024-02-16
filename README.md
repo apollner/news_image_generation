@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Is Alaskapox? Mysterious Virus Killed a Man From the Kenai Peninsula**
+**Three people detained and firearms recovered in Kansas City Chiefs’ Super Bowl parade shooting**
 
-You can read more about it [here](https://www.popularmechanics.com/science/a46770218/alaskapox-mysterious-virus/).
+You can read more about it [here](https://apnews.com/article/chiefs-super-bowl-parade-shooting-kansas-city-62e69a17b469b854afd7bcc3f548d1fc).
 
 ## Requirements
 - Python 3.8
