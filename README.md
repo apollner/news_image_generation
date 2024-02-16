@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamont Paris, Sean Miller and other Ohio State coaching candidates**
+**NETS at CELTICS | FULL GAME HIGHLIGHTS | February 14, 2024**
 
-You can read more about it [here](https://www.dispatch.com/story/sports/college/basketball/2024/02/14/chris-holtmann-ohio-state-basketball-coaching-candidates/72599207007/).
+You can read more about it [here](https://www.youtube.com/watch?v=_j0nsXUNzBE).
 
 ## Requirements
 - Python 3.8
