@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 students shot in Benjamin Mays High School parking lot in SW Atlanta**
+**Taylor Swift praised by boyfriend Travis Kelce for chugging drink during the Super Bowl: 'She's a pro'**
 
-You can read more about it [here](https://www.fox5atlanta.com/news/shooting-benjamin-mays-high-school-atlanta).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-praised-by-boyfriend-travis-kelce-for-chugging-drink-during-super-bowl-shes-pro).
 
 ## Requirements
 - Python 3.8
