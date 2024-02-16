@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Airbus plans special dividend, takes new space charge**
+**Here are scenarios for Thursday's winter snowstorm in Metro Detroit**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/airbus-plans-special-dividend-takes-new-space-charge-2024-02-15/).
+You can read more about it [here](https://www.clickondetroit.com/weather/2024/02/15/here-are-scenarios-for-thursdays-winter-snowstorm-in-metro-detroit/).
 
 ## Requirements
 - Python 3.8
