@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Vision Pro users return $3.5K headsets, say they cause extreme headaches, motion sickness: 'Like a torture session'**
+**What Is Alaskapox? Mysterious Virus Killed a Man From the Kenai Peninsula**
 
-You can read more about it [here](https://nypost.com/2024/02/15/tech/apple-vision-pro-users-return-3-5k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session/).
+You can read more about it [here](https://www.popularmechanics.com/science/a46770218/alaskapox-mysterious-virus/).
 
 ## Requirements
 - Python 3.8
