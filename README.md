@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 dead, more than 20 wounded in shooting following Super Bowl parade**
+**Detroit Pistons player arrested and cited after punching opponent before game**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/kansas-city-chiefs-parade-shooting-02-14-24/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/15/sport/detroit-pistons-isaiah-stewart-arrested-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
