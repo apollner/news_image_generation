@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the CDC’s new COVID guidelines could mean for you**
+**3 DC police officers shot trying to serve warrant, alleged gunman surrenders: Source**
 
-You can read more about it [here](https://www.vox.com/2024/2/14/24073306/isolation-covid-guidelines-cdc-change).
+You can read more about it [here](https://abcnews.go.com/US/3-police-officers-shot-washington-dc/story?id=107222882).
 
 ## Requirements
 - Python 3.8
