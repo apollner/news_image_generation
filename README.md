@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xbox Business Update Confirms Four Exclusives Going Multi-Platform, Reveals Diablo 4 Game Pass Date**
+**Takeaways from Fani Willis’ stunning testimony in Georgia**
 
-You can read more about it [here](https://www.ign.com/articles/xbox-vision-of-the-future).
+You can read more about it [here](https://www.cnn.com/2024/02/15/politics/takeaways-fani-willis-testimony-georgia/index.html).
 
 ## Requirements
 - Python 3.8
