@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman Replies To CRED's Kunal Shah, Creates Video For Him Using New Tool**
+**FBI informant charged with lying about Joe and Hunter Biden's ties to Ukrainian energy company**
 
-You can read more about it [here](https://www.ndtv.com/world-news/sam-altman-replies-to-creds-kunal-shah-creates-video-for-him-using-new-tool-5069903).
+You can read more about it [here](https://apnews.com/article/hunter-biden-burisma-fbi-informant-lying-6969656f6012780a23a4b8841ce2689b).
 
 ## Requirements
 - Python 3.8
