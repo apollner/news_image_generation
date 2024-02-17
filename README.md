@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from Fani Willis’ stunning testimony in Georgia**
+**Rachel Dolezal, the White woman infamous for claiming to be Black, fired over OnlyFans account**
 
-You can read more about it [here](https://www.cnn.com/2024/02/15/politics/takeaways-fani-willis-testimony-georgia/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/15/us/rachel-dolezal-onlyfans-arizona-teacher-cec/index.html).
 
 ## Requirements
 - Python 3.8
