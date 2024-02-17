@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside McConnell and Schumer's remarkable new partnership**
+**What The CDC's Potential New COVID Isolation Rules Mean For You**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/16/mcconnell-schumer-ukraine-aid-partnership-00141757).
+You can read more about it [here](https://www.huffpost.com/entry/cdc-covid-isolation-infectious-disease-experts_l_65cd298ae4b0dd11b911a831).
 
 ## Requirements
 - Python 3.8
