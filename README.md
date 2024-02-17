@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zendaya Wears Vintage Mugler Couture Robotic Bodysuit at ‘Dune: Part 2’ Premiere in London**
+**What to know about Kansas City's homicide rate, Missouri gun laws after Chiefs' parade shooting**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/zendaya-vintage-mugler-couture-robotic-bodysuit-dune-part-2-premiere-1235826794/).
+You can read more about it [here](https://abcnews.go.com/US/kansas-citys-homicide-rate-missouri-gun-laws-after/story?id=107271175).
 
 ## Requirements
 - Python 3.8
