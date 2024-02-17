@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump cites US Supreme Court obstruction case as reason to delay criminal trial**
+**Seven-time makes it in on last lap after intense Duel 1 at Daytona | Extended Highlights**
 
-You can read more about it [here](https://news.yahoo.com/trump-cites-us-supreme-court-001138437.html).
+You can read more about it [here](https://www.youtube.com/watch?v=RQLGdHX1yNE).
 
 ## Requirements
 - Python 3.8
