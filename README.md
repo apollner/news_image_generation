@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House clashed with DOJ over special counsel report before its release, sources confirm**
+**Investors will have to wait awhile for interest-rate cuts, Fed’s Bostic says**
 
-You can read more about it [here](https://abcnews.go.com/Politics/white-house-clashed-doj-special-counsel-report-release/story?id=107278194).
+You can read more about it [here](https://www.marketwatch.com/story/investors-will-have-to-wait-awhile-for-interest-rate-cuts-feds-bostic-says-4dd56bd9).
 
 ## Requirements
 - Python 3.8
