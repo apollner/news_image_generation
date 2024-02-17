@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Kansas City's homicide rate, Missouri gun laws after Chiefs' parade shooting**
+**White House clashed with DOJ over special counsel report before its release, sources confirm**
 
-You can read more about it [here](https://abcnews.go.com/US/kansas-citys-homicide-rate-missouri-gun-laws-after/story?id=107271175).
+You can read more about it [here](https://abcnews.go.com/Politics/white-house-clashed-doj-special-counsel-report-release/story?id=107278194).
 
 ## Requirements
 - Python 3.8
