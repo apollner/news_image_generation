@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft: four Xbox-exclusive games are coming to PS5 and Nintendo Switch**
+**DoorDash’s stock drops despite reporting increase in revenue, orders**
 
-You can read more about it [here](https://www.theverge.com/2024/2/15/24073691/microsoft-xbox-games-ps5-nintendo-switch-exclusivity).
+You can read more about it [here](https://www.marketwatch.com/story/doordashs-stock-dips-despite-increase-in-revenue-orders-5db8e72a).
 
 ## Requirements
 - Python 3.8
