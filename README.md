@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates shoot to 2-month high after new report shows inflation is still hot**
+**Manchin says he won't launch independent presidential bid**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/16/mortgage-rates-shoot-to-2-month-high-after-hot-inflation-report.html).
+You can read more about it [here](https://www.politico.com/live-updates/2024/02/16/congress/manchin-wont-run-for-president-00141935).
 
 ## Requirements
 - Python 3.8
