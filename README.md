@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark joins Lynette Woodard, Pearl Moore as scoring champion**
+**2 juveniles charged in Kansas City Chiefs Super Bowl parade shooting**
 
-You can read more about it [here](https://www.npr.org/2024/02/16/1231817283/caitlin-clark-scoring-record-lynette-woodard-pearl-moore).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/2-juveniles-charged-kansas-city-chiefs-parade-shooting-rcna139233).
 
 ## Requirements
 - Python 3.8
