@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Trump Georgia case hearing on motion to disqualify Fani Willis continues**
+**Problems mount for UK PM Rishi Sunak as his party suffers heavy defeat in two parliamentary elections**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/georgia-trump-fani-willis-hearing-02-16-24/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/16/uk/sunak-conservatives-by-election-losses-intl/index.html).
 
 ## Requirements
 - Python 3.8
