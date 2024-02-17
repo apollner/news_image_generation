@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis disputes allegations against her in misconduct case**
+**Putin critic Alexei Navalny dies in Arctic Circle jail**
 
-You can read more about it [here](https://www.axios.com/2024/02/15/trump-georgia-fani-willis-relationship-hearing).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68315943).
 
 ## Requirements
 - Python 3.8
