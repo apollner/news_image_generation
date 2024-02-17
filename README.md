@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin critic Alexei Navalny dies in Arctic Circle jail**
+**Inside McConnell and Schumer's remarkable new partnership**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68315943).
+You can read more about it [here](https://www.politico.com/news/2024/02/16/mcconnell-schumer-ukraine-aid-partnership-00141757).
 
 ## Requirements
 - Python 3.8
