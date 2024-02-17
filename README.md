@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosendale drops Montana Senate bid - POLITICO**
+**Alexander Smirnov: Former FBI informant charged with lying about the Bidens’ role in Ukraine business**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/15/rosendale-drops-montana-senate-bid-00141812).
+You can read more about it [here](https://www.cnn.com/2024/02/15/politics/former-fbi-informant-charged-biden-burisma/index.html).
 
 ## Requirements
 - Python 3.8
