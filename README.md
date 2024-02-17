@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What The CDC's Potential New COVID Isolation Rules Mean For You**
+**5 patients die as oxygen runs out in Gaza hospital seized by Israeli forces, health officials say**
 
-You can read more about it [here](https://www.huffpost.com/entry/cdc-covid-isolation-infectious-disease-experts_l_65cd298ae4b0dd11b911a831).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-16-2024-21e09d731eb09f95bfea8e0ce3c0500c).
 
 ## Requirements
 - Python 3.8
