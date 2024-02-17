@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Klay Thompson 'Embraced' Coming Off the Bench for the Warriors**
+**Zendaya Wears Vintage Mugler Couture Robotic Bodysuit at ‘Dune: Part 2’ Premiere in London**
 
-You can read more about it [here](https://www.youtube.com/watch?v=KFujgqpsI6E).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/zendaya-vintage-mugler-couture-robotic-bodysuit-dune-part-2-premiere-1235826794/).
 
 ## Requirements
 - Python 3.8
