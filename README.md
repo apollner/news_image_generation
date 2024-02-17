@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investors will have to wait awhile for interest-rate cuts, Fed’s Bostic says**
+**Greece legalises same sex marriage in landmark change**
 
-You can read more about it [here](https://www.marketwatch.com/story/investors-will-have-to-wait-awhile-for-interest-rate-cuts-feds-bostic-says-4dd56bd9).
+You can read more about it [here](https://www.reuters.com/world/europe/yes-equality-says-greek-pm-ahead-same-sex-marriage-vote-2024-02-15/).
 
 ## Requirements
 - Python 3.8
