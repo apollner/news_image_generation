@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Increasing Clouds with Light Snow this Evening**
+**Xbox Business Update Confirms Four Exclusives Going Multi-Platform, Reveals Diablo 4 Game Pass Date**
 
-You can read more about it [here](https://www.wtnh.com/weather/dry-today-with-light-snow-this-evening/).
+You can read more about it [here](https://www.ign.com/articles/xbox-vision-of-the-future).
 
 ## Requirements
 - Python 3.8
