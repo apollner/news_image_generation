@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark of Iowa breaks NCAA women's career scoring record with 35-foot 3-pointer**
+**Toast will lay off 10% of its workforce, about 550 employees, as growth slows**
 
-You can read more about it [here](https://apnews.com/article/caitlin-clark-iowa-12e078352a92fe2effb307888775cdb0).
+You can read more about it [here](https://www.cnbc.com/2024/02/15/toast-will-reduce-workforce-by-10percent-as-growth-slows.html).
 
 ## Requirements
 - Python 3.8
