@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Garoppolo reportedly suspended 2 games for violating NFL's Performance Enhancing Substances policy**
+**OpenAI collapses media reality with Sora, a photorealistic AI video generator**
 
-You can read more about it [here](https://sports.yahoo.com/jimmy-garoppolo-reportedly-suspended-2-games-for-violating-nfls-performance-enhancing-substances-policy-170640203.html).
+You can read more about it [here](https://arstechnica.com/information-technology/2024/02/openai-collapses-media-reality-with-sora-a-photorealistic-ai-video-generator/).
 
 ## Requirements
 - Python 3.8
