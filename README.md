@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greece legalises same sex marriage in landmark change**
+**SpaceX's 300th Falcon 9 rocket launches Starlink satellites from California – Spaceflight Now**
 
-You can read more about it [here](https://www.reuters.com/world/europe/yes-equality-says-greek-pm-ahead-same-sex-marriage-vote-2024-02-15/).
+You can read more about it [here](https://spaceflightnow.com/2024/02/15/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/).
 
 ## Requirements
 - Python 3.8
