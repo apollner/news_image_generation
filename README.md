@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI collapses media reality with Sora, a photorealistic AI video generator**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2024/02/openai-collapses-media-reality-with-sora-a-photorealistic-ai-video-generator/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
