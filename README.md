@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greece legalises same sex marriage in landmark change**
+**Klay Thompson 'Embraced' Coming Off the Bench for the Warriors**
 
-You can read more about it [here](https://www.reuters.com/world/europe/yes-equality-says-greek-pm-ahead-same-sex-marriage-vote-2024-02-15/).
+You can read more about it [here](https://www.youtube.com/watch?v=KFujgqpsI6E).
 
 ## Requirements
 - Python 3.8
