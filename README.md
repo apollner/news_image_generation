@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alexander Smirnov: Former FBI informant charged with lying about the Bidens’ role in Ukraine business**
+**Trump cites US Supreme Court obstruction case as reason to delay criminal trial**
 
-You can read more about it [here](https://www.cnn.com/2024/02/15/politics/former-fbi-informant-charged-biden-burisma/index.html).
+You can read more about it [here](https://news.yahoo.com/trump-cites-us-supreme-court-001138437.html).
 
 ## Requirements
 - Python 3.8
