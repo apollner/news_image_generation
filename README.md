@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manchin says he won't launch independent presidential bid**
+**Caitlin Clark joins Lynette Woodard, Pearl Moore as scoring champion**
 
-You can read more about it [here](https://www.politico.com/live-updates/2024/02/16/congress/manchin-wont-run-for-president-00141935).
+You can read more about it [here](https://www.npr.org/2024/02/16/1231817283/caitlin-clark-scoring-record-lynette-woodard-pearl-moore).
 
 ## Requirements
 - Python 3.8
