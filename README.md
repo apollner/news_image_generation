@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosendale drops Montana Senate bid - POLITICO**
+**Microsoft: four Xbox-exclusive games are coming to PS5 and Nintendo Switch**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/15/rosendale-drops-montana-senate-bid-00141812).
+You can read more about it [here](https://www.theverge.com/2024/2/15/24073691/microsoft-xbox-games-ps5-nintendo-switch-exclusivity).
 
 ## Requirements
 - Python 3.8
