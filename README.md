@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI informant charged with lying about Joe and Hunter Biden's ties to Ukrainian energy company**
+**Caitlin Clark of Iowa breaks NCAA women's career scoring record with 35-foot 3-pointer**
 
-You can read more about it [here](https://apnews.com/article/hunter-biden-burisma-fbi-informant-lying-6969656f6012780a23a4b8841ce2689b).
+You can read more about it [here](https://apnews.com/article/caitlin-clark-iowa-12e078352a92fe2effb307888775cdb0).
 
 ## Requirements
 - Python 3.8
