@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Problems mount for UK PM Rishi Sunak as his party suffers heavy defeat in two parliamentary elections**
+**Mortgage rates shoot to 2-month high after new report shows inflation is still hot**
 
-You can read more about it [here](https://www.cnn.com/2024/02/16/uk/sunak-conservatives-by-election-losses-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/02/16/mortgage-rates-shoot-to-2-month-high-after-hot-inflation-report.html).
 
 ## Requirements
 - Python 3.8
