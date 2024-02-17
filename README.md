@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rachel Dolezal, the White woman infamous for claiming to be Black, fired over OnlyFans account**
+**Rosendale drops Montana Senate bid - POLITICO**
 
-You can read more about it [here](https://www.cnn.com/2024/02/15/us/rachel-dolezal-onlyfans-arizona-teacher-cec/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/02/15/rosendale-drops-montana-senate-bid-00141812).
 
 ## Requirements
 - Python 3.8
