@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 patients die as oxygen runs out in Gaza hospital seized by Israeli forces, health officials say**
+**Sam Altman Replies To CRED's Kunal Shah, Creates Video For Him Using New Tool**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-16-2024-21e09d731eb09f95bfea8e0ce3c0500c).
+You can read more about it [here](https://www.ndtv.com/world-news/sam-altman-replies-to-creds-kunal-shah-creates-video-for-him-using-new-tool-5069903).
 
 ## Requirements
 - Python 3.8
