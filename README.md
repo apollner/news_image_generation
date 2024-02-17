@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DoorDash’s stock drops despite reporting increase in revenue, orders**
+**FBI informant charged with lying about Joe and Hunter Biden's ties to Ukrainian energy company**
 
-You can read more about it [here](https://www.marketwatch.com/story/doordashs-stock-dips-despite-increase-in-revenue-orders-5db8e72a).
+You can read more about it [here](https://apnews.com/article/hunter-biden-burisma-fbi-informant-lying-6969656f6012780a23a4b8841ce2689b).
 
 ## Requirements
 - Python 3.8
