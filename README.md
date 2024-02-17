@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 juveniles charged in Kansas City Chiefs Super Bowl parade shooting**
+**Jimmy Garoppolo reportedly suspended 2 games for violating NFL's Performance Enhancing Substances policy**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/2-juveniles-charged-kansas-city-chiefs-parade-shooting-rcna139233).
+You can read more about it [here](https://sports.yahoo.com/jimmy-garoppolo-reportedly-suspended-2-games-for-violating-nfls-performance-enhancing-substances-policy-170640203.html).
 
 ## Requirements
 - Python 3.8
