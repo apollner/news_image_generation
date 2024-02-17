@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can Brits save the Fantastic Four from another flop?**
+**Jimmy Garoppolo reportedly suspended 2 games for violating NFL's Performance Enhancing Substances policy**
 
-You can read more about it [here](https://www.bbc.com/culture/article/20240216-can-brits-save-the-fantastic-four-from-another-flop).
+You can read more about it [here](https://sports.yahoo.com/jimmy-garoppolo-reportedly-suspended-2-games-for-violating-nfls-performance-enhancing-substances-policy-170640203.html).
 
 ## Requirements
 - Python 3.8
