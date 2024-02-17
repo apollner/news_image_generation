@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from Fani Willis’ stunning testimony in Georgia**
+**FBI informant charged with lying about Joe and Hunter Biden's ties to Ukrainian energy company**
 
-You can read more about it [here](https://www.cnn.com/2024/02/15/politics/takeaways-fani-willis-testimony-georgia/index.html).
+You can read more about it [here](https://apnews.com/article/hunter-biden-burisma-fbi-informant-lying-6969656f6012780a23a4b8841ce2689b).
 
 ## Requirements
 - Python 3.8
