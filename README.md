@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI informant charged with lying about Joe and Hunter Biden's ties to Ukrainian energy company**
+**5 patients die as oxygen runs out in Gaza hospital seized by Israeli forces, health officials say**
 
-You can read more about it [here](https://apnews.com/article/hunter-biden-burisma-fbi-informant-lying-6969656f6012780a23a4b8841ce2689b).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-16-2024-21e09d731eb09f95bfea8e0ce3c0500c).
 
 ## Requirements
 - Python 3.8
