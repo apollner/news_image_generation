@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza war: Satellite images show construction on Egypt's border**
+**Biden drinks the water in Ohio and praises 'Herculean' cleanup after train derailment**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68317541).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/02/16/east-palestine-ohio-biden-drinks-water-praises-herculean-cleanup/72636587007/).
 
 ## Requirements
 - Python 3.8
