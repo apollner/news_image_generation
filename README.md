@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Micah Parsons Wins MVP & Calls Out Stephen A. Smith | 2024 NBA All-Star Celebrity Game**
+**Virginia home explodes with fire crews inside, leaving firefighter dead and 11 others injured, officials say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=G93nw9UFDDI).
+You can read more about it [here](https://www.cnn.com/2024/02/16/us/sterling-virginia-house-explosion-firefighters/index.html).
 
 ## Requirements
 - Python 3.8
