@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia home explodes with fire crews inside, leaving firefighter dead and 13 injured, officials say**
+**Beyond the Mission Goals: How NASA Surpassed Expectations With Asteroid Bennu**
 
-You can read more about it [here](https://www.cnn.com/2024/02/16/us/sterling-virginia-house-explosion-firefighters/index.html).
+You can read more about it [here](https://scitechdaily.com/beyond-the-mission-goals-how-nasa-surpassed-expectations-with-asteroid-bennu/).
 
 ## Requirements
 - Python 3.8
