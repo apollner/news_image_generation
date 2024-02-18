@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelsey Plum reacts to Caitlin Clark breaking her NCAAW scoring record | ESPN College Basketball**
+**Israel Gaza war: Satellite images show construction on Egypt's border**
 
-You can read more about it [here](https://www.youtube.com/watch?v=2Das6YoPy8Y).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68317541).
 
 ## Requirements
 - Python 3.8
