@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTC warns of scammers after NY Mag finance columnist lost $50K in voice phishing hoax**
+**Patrick Mahomes, Brittany Mahomes visit kids shot at Chiefs parade**
 
-You can read more about it [here](https://nypost.com/2024/02/16/business/ftc-warns-of-scammers-after-ny-mag-finance-columnist-lost-50k-in-vishing-hoax/).
+You can read more about it [here](https://abcnews.go.com/US/patrick-mahomes-brittany-mahomes-visit-kids-shot-chiefs/story?id=107304603).
 
 ## Requirements
 - Python 3.8
