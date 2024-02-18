@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia home explodes with fire crews inside, leaving firefighter dead and 13 injured, officials say**
+**Northern California forecast: Rounds of rain, snow for Feb. 17-19**
 
-You can read more about it [here](https://www.cnn.com/2024/02/16/us/sterling-virginia-house-explosion-firefighters/index.html).
+You can read more about it [here](https://www.kcra.com/article/northern-california-atmospheric-river-rain-snow-february-17-to-19-forecast-and-impacts/46830518).
 
 ## Requirements
 - Python 3.8
