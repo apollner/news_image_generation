@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Long COVID cases are highest in these US states, Census data shows**
+**Amazon joins SpaceX, Trader Joe's in fight to declare government labor board unconstitutional**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/02/16/long-covid-cases-by-state/72618103007/).
+You can read more about it [here](https://www.foxbusiness.com/politics/amazon-spacex-trader-joes-fight-declare-government-labor-board-unconstitutional).
 
 ## Requirements
 - Python 3.8
