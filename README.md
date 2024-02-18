@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon joins SpaceX, Trader Joe's in fight to declare government labor board unconstitutional**
+**Amy Schumer shuts down critics commenting that her face is 'puffier than normal'**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/amazon-spacex-trader-joes-fight-declare-government-labor-board-unconstitutional).
+You can read more about it [here](https://www.foxnews.com/entertainment/amy-schumer-shuts-down-critics-commenting-face-puffier-than-normal).
 
 ## Requirements
 - Python 3.8
