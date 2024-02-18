@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthi Missile Hits India-Bound Ship Carrying Crude Oil From Russia: USA | Red Sea | Gaza | Israel**
+**Fani Willis' father testifies in hearing on dismissing her from Trump's Georgia case**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3jVQdbY2O9E).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68321522).
 
 ## Requirements
 - Python 3.8
