@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry “Willing To Take Up Royal Role” Following King Charles's Cancer Diagnosis – Report**
+**Long COVID cases are highest in these US states, Census data shows**
 
-You can read more about it [here](http://deadline.com/2024/02/prince-harry-willing-to-take-up-royal-role-following-king-charles-cancer-diagnosis-1235829219/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/02/16/long-covid-cases-by-state/72618103007/).
 
 ## Requirements
 - Python 3.8
