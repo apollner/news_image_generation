@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Death From Alaskapox Reported in January**
+**Only part of rare 280 million-year-old fossil is real — the rest is mostly paint**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ZZszb73keDY).
+You can read more about it [here](https://www.livescience.com/animals/extinct-species/only-part-of-rare-280-million-year-old-fossil-is-real-the-rest-is-mostly-paint).
 
 ## Requirements
 - Python 3.8
