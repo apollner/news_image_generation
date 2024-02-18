@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amy Schumer shuts down critics commenting that her face is 'puffier than normal'**
+**Trump avoids 'corporate death penalty' in civil fraud case, but his business will still get slammed**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/amy-schumer-shuts-down-critics-commenting-face-puffier-than-normal).
+You can read more about it [here](https://apnews.com/article/trump-new-york-business-fraud-lawsuit-1acac26e66862f497782350f172cf970).
 
 ## Requirements
 - Python 3.8
