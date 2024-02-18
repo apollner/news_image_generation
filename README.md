@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What happened to Floridalma Roque? She went to Guatemala for plastic surgery and never returned.**
+**Beyond the Mission Goals: How NASA Surpassed Expectations With Asteroid Bennu**
 
-You can read more about it [here](https://www.cbsnews.com/news/floridalma-roque-guatemala-plastic-surgery-never-returned-to-united-states/).
+You can read more about it [here](https://scitechdaily.com/beyond-the-mission-goals-how-nasa-surpassed-expectations-with-asteroid-bennu/).
 
 ## Requirements
 - Python 3.8
