@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Felon arrested for allegedly pocketing gun after Kansas City Chiefs parade shooting was 'just trying to help,' friend insists**
+**Virginia home explodes with fire crews inside, leaving firefighter dead and 13 injured, officials say**
 
-You can read more about it [here](https://nypost.com/2024/02/17/us-news/felon-arrested-with-gun-after-kansas-city-chiefs-parade-shooting-just-trying-to-help-friend/).
+You can read more about it [here](https://www.cnn.com/2024/02/16/us/sterling-virginia-house-explosion-firefighters/index.html).
 
 ## Requirements
 - Python 3.8
