@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Time running out fast,’ Hamas warns hostages in Gaza ‘struggling to survive’ | World DNA**
+**'Fire Country' star Max Thieriot reacts to those season 2 premiere bombshells**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6HdBmnHXZmA).
+You can read more about it [here](https://ew.com/fire-country-star-max-thieriot-season-2-premiere-bombshells-8583155).
 
 ## Requirements
 - Python 3.8
