@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blastoff! Japan's new H3 rocket returns to flight after first test failure**
+**Micah Parsons Wins MVP & Calls Out Stephen A. Smith | 2024 NBA All-Star Celebrity Game**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9McmZVMNHXU).
+You can read more about it [here](https://www.youtube.com/watch?v=G93nw9UFDDI).
 
 ## Requirements
 - Python 3.8
