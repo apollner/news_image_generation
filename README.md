@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyond the Mission Goals: How NASA Surpassed Expectations With Asteroid Bennu**
+**Amy Schumer shuts down critics commenting that her face is 'puffier than normal'**
 
-You can read more about it [here](https://scitechdaily.com/beyond-the-mission-goals-how-nasa-surpassed-expectations-with-asteroid-bennu/).
+You can read more about it [here](https://www.foxnews.com/entertainment/amy-schumer-shuts-down-critics-commenting-face-puffier-than-normal).
 
 ## Requirements
 - Python 3.8
