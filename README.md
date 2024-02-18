@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Great-grandmother, 80, with Alzheimer's raped at Bahamas resort: family**
+**What happened to Floridalma Roque? She went to Guatemala for plastic surgery and never returned.**
 
-You can read more about it [here](https://www.foxnews.com/us/great-grandmother-80-alzheimers-raped-bahamas-resort-family).
+You can read more about it [here](https://www.cbsnews.com/news/floridalma-roque-guatemala-plastic-surgery-never-returned-to-united-states/).
 
 ## Requirements
 - Python 3.8
