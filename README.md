@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden drinks the water in Ohio and praises 'Herculean' cleanup after train derailment**
+**Micah Parsons Wins 2024 NBA Celebrity Game MVP, Team Shannon Beats Team Stephen A.**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/02/16/east-palestine-ohio-biden-drinks-water-praises-herculean-cleanup/72636587007/).
+You can read more about it [here](https://bleacherreport.com/articles/10109706-micah-parsons-wins-2024-nba-celebrity-game-mvp-team-shannon-beats-team-stephen-a).
 
 ## Requirements
 - Python 3.8
