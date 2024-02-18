@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Ethic Committee issues subpoena for testimony of Matt Gaetz's ex-girlfriend in ongoing investigation**
+**‘Bob Marley: One Love’ Jammin’ To $44M; ‘Madame Web’ Eyes $22M+ Over 6-Day Holiday Frame – Friday Box Office Update**
 
-You can read more about it [here](https://abcnews.go.com/Politics/house-ethic-committee-issues-subpoena-testimony-matt-gaetzs/story?id=107305490).
+You can read more about it [here](http://deadline.com/2024/02/box-office-bob-marley-one-love-madame-web-1235828289/).
 
 ## Requirements
 - Python 3.8
