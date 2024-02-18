@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry Previews 3PT Challenge vs. Sabrina Ionescu: 'There's only one outcome...I win'**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OD8KKuEo6yc).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
