@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern California forecast: Rounds of rain, snow for Feb. 17-19**
+**Steph Curry Previews 3PT Challenge vs. Sabrina Ionescu: 'There's only one outcome...I win'**
 
-You can read more about it [here](https://www.kcra.com/article/northern-california-atmospheric-river-rain-snow-february-17-to-19-forecast-and-impacts/46830518).
+You can read more about it [here](https://www.youtube.com/watch?v=OD8KKuEo6yc).
 
 ## Requirements
 - Python 3.8
