@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Only part of rare 280 million-year-old fossil is real — the rest is mostly paint**
+**House GOP hits Penny Pritzker and 2 others with subpoenas in Harvard antisemitism probe**
 
-You can read more about it [here](https://www.livescience.com/animals/extinct-species/only-part-of-rare-280-million-year-old-fossil-is-real-the-rest-is-mostly-paint).
+You can read more about it [here](https://www.politico.com/news/2024/02/16/harvard-subpoena-house-education-committee-00141858).
 
 ## Requirements
 - Python 3.8
