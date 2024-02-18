@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Micah Parsons Wins 2024 NBA Celebrity Game MVP, Team Shannon Beats Team Stephen A.**
+**‘Time running out fast,’ Hamas warns hostages in Gaza ‘struggling to survive’ | World DNA**
 
-You can read more about it [here](https://bleacherreport.com/articles/10109706-micah-parsons-wins-2024-nba-celebrity-game-mvp-team-shannon-beats-team-stephen-a).
+You can read more about it [here](https://www.youtube.com/watch?v=6HdBmnHXZmA).
 
 ## Requirements
 - Python 3.8
