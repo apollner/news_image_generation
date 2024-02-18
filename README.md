@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Steph Curry Confidently Predicts How Challenge vs. Sabrina Ionescu Will Go**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.si.com/nba/2024/02/17/steph-curry-confidently-predicts-challenge-sabrina-ionescu).
 
 ## Requirements
 - Python 3.8
