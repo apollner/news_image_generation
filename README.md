@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP hits Penny Pritzker and 2 others with subpoenas in Harvard antisemitism probe**
+**House Ethic Committee issues subpoena for testimony of Matt Gaetz's ex-girlfriend in ongoing investigation**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/16/harvard-subpoena-house-education-committee-00141858).
+You can read more about it [here](https://abcnews.go.com/Politics/house-ethic-committee-issues-subpoena-testimony-matt-gaetzs/story?id=107305490).
 
 ## Requirements
 - Python 3.8
