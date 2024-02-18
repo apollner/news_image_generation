@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis' father testifies in hearing on dismissing her from Trump's Georgia case**
+**Israel Hamas war live updates: Patients dead amid Nasser Hospital raid**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68321522).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/02/16/israel-hamas-war-live-updates/72625527007/).
 
 ## Requirements
 - Python 3.8
