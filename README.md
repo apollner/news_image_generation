@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump avoids 'corporate death penalty' in civil fraud case, but his business will still get slammed**
+**Beyond the Mission Goals: How NASA Surpassed Expectations With Asteroid Bennu**
 
-You can read more about it [here](https://apnews.com/article/trump-new-york-business-fraud-lawsuit-1acac26e66862f497782350f172cf970).
+You can read more about it [here](https://scitechdaily.com/beyond-the-mission-goals-how-nasa-surpassed-expectations-with-asteroid-bennu/).
 
 ## Requirements
 - Python 3.8
