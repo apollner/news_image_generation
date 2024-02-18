@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Fire Country' star Max Thieriot reacts to those season 2 premiere bombshells**
+**Strong services price increases lift US producer inflation in January**
 
-You can read more about it [here](https://ew.com/fire-country-star-max-thieriot-season-2-premiere-bombshells-8583155).
+You can read more about it [here](https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/).
 
 ## Requirements
 - Python 3.8
