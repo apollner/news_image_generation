@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amy Schumer shuts down critics commenting that her face is 'puffier than normal'**
+**Great-grandmother, 80, with Alzheimer's raped at Bahamas resort: family**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/amy-schumer-shuts-down-critics-commenting-face-puffier-than-normal).
+You can read more about it [here](https://www.foxnews.com/us/great-grandmother-80-alzheimers-raped-bahamas-resort-family).
 
 ## Requirements
 - Python 3.8
