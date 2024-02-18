@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyond the Mission Goals: How NASA Surpassed Expectations With Asteroid Bennu**
+**Great-grandmother, 80, with Alzheimer's raped at Bahamas resort: family**
 
-You can read more about it [here](https://scitechdaily.com/beyond-the-mission-goals-how-nasa-surpassed-expectations-with-asteroid-bennu/).
+You can read more about it [here](https://www.foxnews.com/us/great-grandmother-80-alzheimers-raped-bahamas-resort-family).
 
 ## Requirements
 - Python 3.8
