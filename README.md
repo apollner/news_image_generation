@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Strong services price increases lift US producer inflation in January**
+**Prince Harry “Willing To Take Up Royal Role” Following King Charles's Cancer Diagnosis – Report**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/).
+You can read more about it [here](http://deadline.com/2024/02/prince-harry-willing-to-take-up-royal-role-following-king-charles-cancer-diagnosis-1235829219/).
 
 ## Requirements
 - Python 3.8
