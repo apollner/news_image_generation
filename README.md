@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis case ensnared in legal arguments during testimony about romantic relationship timeline**
+**House Ethic Committee issues subpoena for testimony of Matt Gaetz's ex-girlfriend in ongoing investigation**
 
-You can read more about it [here](https://apnews.com/article/georgia-fani-willis-nathan-wade-fulton-county-f03734cfd3d27ba34fba4cbbba621355).
+You can read more about it [here](https://abcnews.go.com/Politics/house-ethic-committee-issues-subpoena-testimony-matt-gaetzs/story?id=107305490).
 
 ## Requirements
 - Python 3.8
