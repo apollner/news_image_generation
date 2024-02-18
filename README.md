@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Garoppolo reportedly suspended 2 games for violating NFL's Performance Enhancing Substances policy**
+**First Death From Alaskapox Reported in January**
 
-You can read more about it [here](https://sports.yahoo.com/jimmy-garoppolo-reportedly-suspended-2-games-for-violating-nfls-performance-enhancing-substances-policy-170640203.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ZZszb73keDY).
 
 ## Requirements
 - Python 3.8
