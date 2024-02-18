@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas war live updates: Patients dead amid Nasser Hospital raid**
+**Kelsey Plum reacts to Caitlin Clark breaking her NCAAW scoring record | ESPN College Basketball**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/02/16/israel-hamas-war-live-updates/72625527007/).
+You can read more about it [here](https://www.youtube.com/watch?v=2Das6YoPy8Y).
 
 ## Requirements
 - Python 3.8
