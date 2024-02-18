@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes, Brittany Mahomes visit kids shot at Chiefs parade**
+**Blastoff! Japan's new H3 rocket returns to flight after first test failure**
 
-You can read more about it [here](https://abcnews.go.com/US/patrick-mahomes-brittany-mahomes-visit-kids-shot-chiefs/story?id=107304603).
+You can read more about it [here](https://www.youtube.com/watch?v=9McmZVMNHXU).
 
 ## Requirements
 - Python 3.8
