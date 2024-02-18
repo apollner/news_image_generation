@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Great-grandmother, 80, with Alzheimer's raped at Bahamas resort: family**
+**Felon arrested for allegedly pocketing gun after Kansas City Chiefs parade shooting was 'just trying to help,' friend insists**
 
-You can read more about it [here](https://www.foxnews.com/us/great-grandmother-80-alzheimers-raped-bahamas-resort-family).
+You can read more about it [here](https://nypost.com/2024/02/17/us-news/felon-arrested-with-gun-after-kansas-city-chiefs-parade-shooting-just-trying-to-help-friend/).
 
 ## Requirements
 - Python 3.8
