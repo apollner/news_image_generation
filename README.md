@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy, 5, died from sepsis inside Chicago migrant center: autopsy**
+**Navalny’s spokesperson demands return of his body as she accuses Russian officials of ‘lying’**
 
-You can read more about it [here](https://nypost.com/2024/02/17/us-news/boy-5-died-from-sepsis-after-developing-multiple-infections-inside-chicago-migrant-center-autopsy/).
+You can read more about it [here](https://www.cnn.com/2024/02/17/europe/alexey-navalny-body-family-russia-intl/index.html).
 
 ## Requirements
 - Python 3.8
