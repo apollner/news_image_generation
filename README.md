@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Long COVID is highest in these states, says new CDC report**
+**Boy, 5, died from sepsis inside Chicago migrant center: autopsy**
 
-You can read more about it [here](https://www.foxnews.com/health/long-covid-highest-these-states-new-cdc-report).
+You can read more about it [here](https://nypost.com/2024/02/17/us-news/boy-5-died-from-sepsis-after-developing-multiple-infections-inside-chicago-migrant-center-autopsy/).
 
 ## Requirements
 - Python 3.8
