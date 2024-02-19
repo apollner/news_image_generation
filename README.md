@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navalny’s spokesperson demands return of his body as she accuses Russian officials of ‘lying’**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/02/17/europe/alexey-navalny-body-family-russia-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
