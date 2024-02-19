@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's travel spending during Lunar New Year holidays beats pre-COVID levels**
+**Trump's high-top sneakers sell out hours after launch**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/chinas-travel-spending-during-lunar-new-year-holidays-beats-pre-covid-levels-2024-02-18/).
+You can read more about it [here](https://www.axios.com/2024/02/18/trump-sneakers-never-surrender-launch).
 
 ## Requirements
 - Python 3.8
