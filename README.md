@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Already soggy California braces for next round of rain with flood watches and evacuations**
+**Truckers refuse to accept loads from NYC after Trump's civil fraud trial outcome**
 
-You can read more about it [here](https://www.cnn.com/2024/02/18/weather/california-storm-rain-flooding-sunday/index.html).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/truckers-refuse-to-accept-loads-from-nyc-after-donald-trump-slapped-with-a-355m-fine-in-fraud-case-101708236297585.html).
 
 ## Requirements
 - Python 3.8
