@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA All-Star Saturday winners and losers: Curry and Ionescu steal the show in otherwise lackluster night**
+**US signals veto in Security Council Gaza vote as Egypt braces for IDF Rafah operation**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-all-star-saturday-winners-and-losers-curry-and-ionescu-steal-the-show-in-otherwise-lackluster-night/).
+You can read more about it [here](https://www.timesofisrael.com/us-signals-veto-in-security-council-gaza-vote-as-egypt-braces-for-idf-rafah-operation/).
 
 ## Requirements
 - Python 3.8
