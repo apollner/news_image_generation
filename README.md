@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Team Pacers Win in Indy #KiaSkills 🏆| 2024 #NBAAllStar**
+**Tiger Woods on the mend but 'disappointed' he had to withdraw from Genesis Invitational**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7fzJBTiDrFU).
+You can read more about it [here](https://nypost.com/2024/02/17/sports/tiger-woods-disappointed-he-had-to-withdraw-from-genesis-invitational/).
 
 ## Requirements
 - Python 3.8
