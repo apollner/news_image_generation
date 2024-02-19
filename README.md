@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy, 5, died from sepsis inside Chicago migrant center: autopsy**
+**Team Pacers Win in Indy #KiaSkills 🏆| 2024 #NBAAllStar**
 
-You can read more about it [here](https://nypost.com/2024/02/17/us-news/boy-5-died-from-sepsis-after-developing-multiple-infections-inside-chicago-migrant-center-autopsy/).
+You can read more about it [here](https://www.youtube.com/watch?v=7fzJBTiDrFU).
 
 ## Requirements
 - Python 3.8
