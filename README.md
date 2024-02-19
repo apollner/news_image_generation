@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: 'Artificial shortage' of weapons helps Putin, says Zelensky**
+**Nvidia and Jensen Huang will rock markets this week**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68325022).
+You can read more about it [here](https://www.thestreet.com/technology/nvidia-and-jensen-huang-will-rock-markets-this-week).
 
 ## Requirements
 - Python 3.8
