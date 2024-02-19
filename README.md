@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space surgery experiment could provide pathway for medical care in Earth's most remote regions**
+**2024 Daytona 500: Rain pushes race to Monday; TV channels, streaming, news, odds and more**
 
-You can read more about it [here](https://www.foxnews.com/science/space-surgery-experiment-provide-pathway-medical-care-earths-remote-regions).
+You can read more about it [here](https://sports.yahoo.com/2024-daytona-500-rain-pushes-race-to-monday-tv-channels-streaming-news-odds-and-more-153534250.html).
 
 ## Requirements
 - Python 3.8
