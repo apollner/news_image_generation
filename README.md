@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Purdue vs. Ohio State live stream, TV channel, watch online, prediction, pick, spread, basketball game odds**
+**Trump Lashes Out About Legal Woes In Michigan Speech—Blasts ‘Crooked Judge,’ Swipes Again At Carroll**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/purdue-vs-ohio-state-live-stream-tv-channel-watch-online-prediction-pick-spread-basketball-game-odds/).
+You can read more about it [here](https://www.forbes.com/sites/caileygleeson/2024/02/18/trump-lashes-out-about-legal-woes-in-michigan-speech-blasts-crooked-judge-swipes-again-at-carroll/).
 
 ## Requirements
 - Python 3.8
