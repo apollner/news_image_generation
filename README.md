@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**City identifies 2 officers, 1 paramedic killed in Burnsville, Minnesota; suspect also dead**
+**Box Office: ‘Bob Marley’ Biopic Beats Expectations With $51 Million Holiday Debut, ‘Madame Web’ Collapses**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/burnsville-incident-with-weapons-law-enforcement-responds/).
+You can read more about it [here](https://variety.com/2024/film/box-office/box-office-bob-marley-biopic-beats-madame-web-holiday-weekend-1235915397/).
 
 ## Requirements
 - Python 3.8
