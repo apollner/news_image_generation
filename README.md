@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia raises its flag in Avdiivka, then presses the advantage on a vulnerable Ukraine**
+**Purdue vs. Ohio State live stream, TV channel, watch online, prediction, pick, spread, basketball game odds**
 
-You can read more about it [here](https://www.cnn.com/2024/02/18/europe/russia-flag-avdiivka-pressures-ukraine-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/purdue-vs-ohio-state-live-stream-tv-channel-watch-online-prediction-pick-spread-basketball-game-odds/).
 
 ## Requirements
 - Python 3.8
