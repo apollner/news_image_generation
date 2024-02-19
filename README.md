@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Medicines for hostages found in Gaza hospital sent privately by families – report**
+**Horoscope for Sunday, Feb. 18, 2024**
 
-You can read more about it [here](https://www.timesofisrael.com/medicines-for-hostages-found-in-gaza-hospital-sent-privately-by-families-report/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/02/17/horoscopes-today-sunday-feb-18-2024).
 
 ## Requirements
 - Python 3.8
