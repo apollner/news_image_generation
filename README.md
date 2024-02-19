@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thailand’s ex-PM Thaksin leaves hospital after six months in detention**
+**SoCal storm: Evacuation warnings issued for parts of Santa Barbara County due to flash flood concerns**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/17/thailands-jailed-ex-pm-thaksin-leaves-police-hospital-witnesses-say).
+You can read more about it [here](https://abc7.com/rain-in-southern-california-this-weekend-santa-barbara-weather-evacuation-orders-and-warnings-storm/14438408/).
 
 ## Requirements
 - Python 3.8
