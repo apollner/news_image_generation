@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Paris Hilton's Son Give Her the "Best Birthday Morning Greeting"**
+**How slain Las Vegas journalist Jeff German may have helped capture his own killer**
 
-You can read more about it [here](https://www.eonline.com/news/1395441/watch-paris-hiltons-son-phoenix-adorably-give-her-the-best-birthday-morning-greeting-ever).
+You can read more about it [here](https://www.cbsnews.com/news/jeff-german-slain-las-vegas-journalist-robert-telles-arrest-dna-evidence/).
 
 ## Requirements
 - Python 3.8
