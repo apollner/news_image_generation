@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA, Japan to launch world's 1st wooden satellite soon**
+**South Carolina wins record 43rd straight SEC regular-season game**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/us/nasa-and-japan-to-launch-worlds-first-wooden-satellite/articleshow/107801480.cms).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39553966/south-carolina-record-43rd-straight-sec-regular-season-win).
 
 ## Requirements
 - Python 3.8
