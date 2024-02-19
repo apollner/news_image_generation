@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pedro Pascal Shares “Psychotic” Way He Learns His Lines**
+**Nvidia and Jensen Huang will rock markets this week**
 
-You can read more about it [here](http://deadline.com/2024/02/pedro-pascal-psychotic-way-learns-lines-1235829578/).
+You can read more about it [here](https://www.thestreet.com/technology/nvidia-and-jensen-huang-will-rock-markets-this-week).
 
 ## Requirements
 - Python 3.8
