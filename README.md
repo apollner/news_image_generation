@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Rock asks if you "Can smell what The Bloodline is cooking?": SmackDown highlights, Feb. 16, 2024**
+**City identifies 2 officers, 1 paramedic killed in Burnsville, Minnesota; suspect also dead**
 
-You can read more about it [here](https://www.youtube.com/watch?v=8070y68V8UI).
+You can read more about it [here](https://www.cbsnews.com/minnesota/news/burnsville-incident-with-weapons-law-enforcement-responds/).
 
 ## Requirements
 - Python 3.8
