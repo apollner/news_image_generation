@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry Confidently Predicts How Challenge vs. Sabrina Ionescu Will Go**
+**Israeli troops arrest over 100 Hamas terrorists in major Gaza hospital raid: IDF**
 
-You can read more about it [here](https://www.si.com/nba/2024/02/17/steph-curry-confidently-predicts-challenge-sabrina-ionescu).
+You can read more about it [here](https://nypost.com/2024/02/17/world-news/israeli-troops-arrest-over-100-hamas-terrorists-in-hospital-raid/).
 
 ## Requirements
 - Python 3.8
