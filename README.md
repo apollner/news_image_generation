@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Lashes Out About Legal Woes In Michigan Speech—Blasts ‘Crooked Judge,’ Swipes Again At Carroll**
+**Charlamagne tha God on Trump-Biden rematch: A 'threat to democracy' vs. 'uninspiring candidate'**
 
-You can read more about it [here](https://www.forbes.com/sites/caileygleeson/2024/02/18/trump-lashes-out-about-legal-woes-in-michigan-speech-blasts-crooked-judge-swipes-again-at-carroll/).
+You can read more about it [here](https://abcnews.go.com/Politics/charlamagne-tha-god-trump-biden-rematch-threat-democracy/story?id=107320336).
 
 ## Requirements
 - Python 3.8
