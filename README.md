@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Daytona 500: Rain pushes race to Monday; TV channels, streaming, news, odds and more**
+**Rocket Lab Electron rocket to launch space debris removal mission – Spaceflight Now**
 
-You can read more about it [here](https://sports.yahoo.com/2024-daytona-500-rain-pushes-race-to-monday-tv-channels-streaming-news-odds-and-more-153534250.html).
+You can read more about it [here](https://spaceflightnow.com/2024/02/18/rocket-lab-electron-rocket-to-launch-space-debris-removal-mission/).
 
 ## Requirements
 - Python 3.8
