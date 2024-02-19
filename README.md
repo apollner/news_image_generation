@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's high-top sneakers sell out hours after launch**
+**Russia raises its flag in Avdiivka, then presses the advantage on a vulnerable Ukraine**
 
-You can read more about it [here](https://www.axios.com/2024/02/18/trump-sneakers-never-surrender-launch).
+You can read more about it [here](https://www.cnn.com/2024/02/18/europe/russia-flag-avdiivka-pressures-ukraine-intl/index.html).
 
 ## Requirements
 - Python 3.8
