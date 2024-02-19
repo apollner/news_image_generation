@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia and Jensen Huang will rock markets this week**
+**Watch Paris Hilton's Son Give Her the "Best Birthday Morning Greeting"**
 
-You can read more about it [here](https://www.thestreet.com/technology/nvidia-and-jensen-huang-will-rock-markets-this-week).
+You can read more about it [here](https://www.eonline.com/news/1395441/watch-paris-hiltons-son-phoenix-adorably-give-her-the-best-birthday-morning-greeting-ever).
 
 ## Requirements
 - Python 3.8
