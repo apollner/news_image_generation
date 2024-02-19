@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors’ Stephen Curry edges WNBA star Sabrina Ionescu in 3-point contest**
+**Pedro Pascal Shares “Psychotic” Way He Learns His Lines**
 
-You can read more about it [here](https://theathletic.com/5283143/2024/02/17/stephen-curry-sabrina-ionescu-3-point-contest/).
+You can read more about it [here](http://deadline.com/2024/02/pedro-pascal-psychotic-way-learns-lines-1235829578/).
 
 ## Requirements
 - Python 3.8
