@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, Feb. 18, 2024**
+**Texas Gov. Abbott builds new base at Eagle Pass amid fight with Biden**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/02/17/horoscopes-today-sunday-feb-18-2024).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/02/17/texas-abbott-new-base-border/).
 
 ## Requirements
 - Python 3.8
