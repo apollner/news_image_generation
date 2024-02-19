@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rocket Lab Electron rocket to launch space debris removal mission – Spaceflight Now**
+**Space surgery experiment could provide pathway for medical care in Earth's most remote regions**
 
-You can read more about it [here](https://spaceflightnow.com/2024/02/18/rocket-lab-electron-rocket-to-launch-space-debris-removal-mission/).
+You can read more about it [here](https://www.foxnews.com/science/space-surgery-experiment-provide-pathway-medical-care-earths-remote-regions).
 
 ## Requirements
 - Python 3.8
