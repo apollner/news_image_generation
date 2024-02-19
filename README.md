@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoCal storm: Evacuation warnings issued for parts of Santa Barbara County due to flash flood concerns**
+**Medicines for hostages found in Gaza hospital sent privately by families – report**
 
-You can read more about it [here](https://abc7.com/rain-in-southern-california-this-weekend-santa-barbara-weather-evacuation-orders-and-warnings-storm/14438408/).
+You can read more about it [here](https://www.timesofisrael.com/medicines-for-hostages-found-in-gaza-hospital-sent-privately-by-families-report/).
 
 ## Requirements
 - Python 3.8
