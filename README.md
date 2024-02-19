@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Gov. Abbott builds new base at Eagle Pass amid fight with Biden**
+**Warriors’ Stephen Curry edges WNBA star Sabrina Ionescu in 3-point contest**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/02/17/texas-abbott-new-base-border/).
+You can read more about it [here](https://theathletic.com/5283143/2024/02/17/stephen-curry-sabrina-ionescu-3-point-contest/).
 
 ## Requirements
 - Python 3.8
