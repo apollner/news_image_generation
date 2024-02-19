@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ukraine war: 'Artificial shortage' of weapons helps Putin, says Zelensky**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68325022).
 
 ## Requirements
 - Python 3.8
