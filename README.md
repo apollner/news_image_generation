@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia and Jensen Huang will rock markets this week**
+**NBA All-Star Saturday winners and losers: Curry and Ionescu steal the show in otherwise lackluster night**
 
-You can read more about it [here](https://www.thestreet.com/technology/nvidia-and-jensen-huang-will-rock-markets-this-week).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-all-star-saturday-winners-and-losers-curry-and-ionescu-steal-the-show-in-otherwise-lackluster-night/).
 
 ## Requirements
 - Python 3.8
