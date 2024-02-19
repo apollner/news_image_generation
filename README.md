@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sacked Twitter staff in Ghana finally get pay-off**
+**China's travel spending during Lunar New Year holidays beats pre-COVID levels**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-68330701).
+You can read more about it [here](https://www.reuters.com/markets/asia/chinas-travel-spending-during-lunar-new-year-holidays-beats-pre-covid-levels-2024-02-18/).
 
 ## Requirements
 - Python 3.8
