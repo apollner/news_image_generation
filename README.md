@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Bob Marley’ Biopic Beats Expectations With $51 Million Holiday Debut, ‘Madame Web’ Collapses**
+**US launches 5 airstrikes against Houthi anti-ship missiles, destroys underwater drone**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/box-office-bob-marley-biopic-beats-madame-web-holiday-weekend-1235915397/).
+You can read more about it [here](https://www.foxnews.com/world/us-launches-5-airstrikes-houthi-anti-ship-missiles-destroys-underwater-drone).
 
 ## Requirements
 - Python 3.8
