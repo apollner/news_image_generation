@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli troops arrest over 100 Hamas terrorists in major Gaza hospital raid: IDF**
+**Long COVID is highest in these states, says new CDC report**
 
-You can read more about it [here](https://nypost.com/2024/02/17/world-news/israeli-troops-arrest-over-100-hamas-terrorists-in-hospital-raid/).
+You can read more about it [here](https://www.foxnews.com/health/long-covid-highest-these-states-new-cdc-report).
 
 ## Requirements
 - Python 3.8
