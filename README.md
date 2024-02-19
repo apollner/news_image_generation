@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlamagne tha God on Trump-Biden rematch: A 'threat to democracy' vs. 'uninspiring candidate'**
+**The Rock asks if you "Can smell what The Bloodline is cooking?": SmackDown highlights, Feb. 16, 2024**
 
-You can read more about it [here](https://abcnews.go.com/Politics/charlamagne-tha-god-trump-biden-rematch-threat-democracy/story?id=107320336).
+You can read more about it [here](https://www.youtube.com/watch?v=8070y68V8UI).
 
 ## Requirements
 - Python 3.8
