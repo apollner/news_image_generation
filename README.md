@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Kamala Harris’ quiet effort to break through the Biden campaign’s information bubble**
+**Israel 'outright rejects' foreign efforts to create Palestinian state after Hamas war, Netanyahu declares**
 
-You can read more about it [here](https://www.cnn.com/2024/02/18/politics/kamala-harris-biden-reelection-effort/index.html).
+You can read more about it [here](https://www.foxnews.com/politics/israel-outright-rejects-foreign-efforts-create-palestinian-state-hamas-war-netanyahu-declares).
 
 ## Requirements
 - Python 3.8
