@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Daytona 500: Rain pushes race to Monday; TV channels, streaming, news, odds and more**
+**Sacked Twitter staff in Ghana finally get pay-off**
 
-You can read more about it [here](https://sports.yahoo.com/2024-daytona-500-rain-pushes-race-to-monday-tv-channels-streaming-news-odds-and-more-153534250.html).
+You can read more about it [here](https://www.bbc.com/news/world-africa-68330701).
 
 ## Requirements
 - Python 3.8
