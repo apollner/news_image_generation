@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US launches 5 airstrikes against Houthi anti-ship missiles, destroys underwater drone**
+**NASA, Japan to launch world's 1st wooden satellite soon**
 
-You can read more about it [here](https://www.foxnews.com/world/us-launches-5-airstrikes-houthi-anti-ship-missiles-destroys-underwater-drone).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/us/nasa-and-japan-to-launch-worlds-first-wooden-satellite/articleshow/107801480.cms).
 
 ## Requirements
 - Python 3.8
