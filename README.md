@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiger Woods on the mend but 'disappointed' he had to withdraw from Genesis Invitational**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/02/17/sports/tiger-woods-disappointed-he-had-to-withdraw-from-genesis-invitational/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
