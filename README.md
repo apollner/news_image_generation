@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How slain Las Vegas journalist Jeff German may have helped capture his own killer**
+**Thailand’s ex-PM Thaksin leaves hospital after six months in detention**
 
-You can read more about it [here](https://www.cbsnews.com/news/jeff-german-slain-las-vegas-journalist-robert-telles-arrest-dna-evidence/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/17/thailands-jailed-ex-pm-thaksin-leaves-police-hospital-witnesses-say).
 
 ## Requirements
 - Python 3.8
