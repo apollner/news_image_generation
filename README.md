@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study discovers link between high levels of niacin and heart disease**
+**No. 1 South Carolina WBB makes SEC history in home win over Georgia**
 
-You can read more about it [here](https://medicalxpress.com/news/2024-02-link-high-niacin-heart-disease.html).
+You can read more about it [here](https://www.thestate.com/sports/college/university-of-south-carolina/usc-womens-basketball/article285633067.html).
 
 ## Requirements
 - Python 3.8
