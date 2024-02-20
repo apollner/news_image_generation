@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big, doomed satellite seen from space as it tumbles towards a fiery reentry on Feb. 21 (photos)**
+**Don't put a wet iPhone into rice, says new Apple support document**
 
-You can read more about it [here](https://www.space.com/satelitte-ers-2-esa-heo-robotics-commercial-imaging-photos).
+You can read more about it [here](https://9to5mac.com/2024/02/19/dont-put-a-wet-iphone-into-rice/).
 
 ## Requirements
 - Python 3.8
