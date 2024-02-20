@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BAFTA Film Awards: ‘Oppenheimer’ Wins Seven Honors, ‘Poor Things’ Gets Five**
+**The latest on the Israel-Hamas war: Live updates**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/bafta-film-awards-winners-list-2024-1235824589/).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-18-24/index.html).
 
 ## Requirements
 - Python 3.8
