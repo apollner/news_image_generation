@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds gather for vigil after 2 police officers, paramedic killed in Burnsville**
+**2024 Daytona 500 postponed to Monday due to heavy rain**
 
-You can read more about it [here](https://www.mprnews.org/story/2024/02/19/hundreds-gather-vigil-police-officers-paramedic-killed-burnsville).
+You can read more about it [here](https://www.motorsport.com/nascar-cup/news/2024-daytona-500-postponed-monday-rain/10577113/).
 
 ## Requirements
 - Python 3.8
