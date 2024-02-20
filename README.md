@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 officers, 1 first responder killed at the scene of a domestic call in Minnesota; suspect dead**
+**In unusual move, China offers to back Hungary in security matters**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/2-officers-1-responder-shot-killed-scene-domestic-107328894).
+You can read more about it [here](https://www.euractiv.com/section/china/news/in-unusual-move-china-offers-to-back-hungary-in-security-matters/).
 
 ## Requirements
 - Python 3.8
