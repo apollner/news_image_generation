@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P Live Updates for Feb. 19, 2024**
+**Houthis claim 'catastrophic' attack in Red Sea that prompted crew to abandon ship**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-18/china-to-rally-on-reopen-other-stocks-seen-mixed-markets-wrap).
+You can read more about it [here](https://www.cnbc.com/2024/02/19/houthis-claim-catastrophic-attack-in-red-sea-as-crew-abandons-ship.html).
 
 ## Requirements
 - Python 3.8
