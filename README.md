@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron says he hopes to end career with Lakers**
+**BAFTA Awards 2024: See who won**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39554499/lebron-james-says-hopes-end-career-member-lakers).
+You can read more about it [here](https://www.cnn.com/2024/02/18/entertainment/bafta-award-winners-nominations-live/index.html).
 
 ## Requirements
 - Python 3.8
