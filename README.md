@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Daytona 500 postponed to Monday due to heavy rain**
+**Rick Pitino unleashes on St. John’s facilities, players following loss vs. Seton Hall**
 
-You can read more about it [here](https://www.motorsport.com/nascar-cup/news/2024-daytona-500-postponed-monday-rain/10577113/).
+You can read more about it [here](https://theathletic.com/5284673/2024/02/18/rick-pitino-st-johns-facilities-players/).
 
 ## Requirements
 - Python 3.8
