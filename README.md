@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly the entire population of California is under flood alerts as rain drenches the state**
+**At World Court, Palestinians seek end to Israeli occupation**
 
-You can read more about it [here](https://www.cnn.com/2024/02/19/weather/california-storm-rain-flooding-monday/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/world-court-hear-arguments-israeli-occupation-palestinian-territories-2024-02-19/).
 
 ## Requirements
 - Python 3.8
