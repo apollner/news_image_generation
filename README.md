@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 1 South Carolina WBB makes SEC history in home win over Georgia**
+**Trump's reaction to Navalny death: Haley blasts absent Putin critique**
 
-You can read more about it [here](https://www.thestate.com/sports/college/university-of-south-carolina/usc-womens-basketball/article285633067.html).
+You can read more about it [here](https://www.axios.com/2024/02/19/trump-alexei-navalny-comment).
 
 ## Requirements
 - Python 3.8
