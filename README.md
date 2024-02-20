@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU accuses TikTok of failing to stop kids pretending to be adults**
+**Odysseus lunar lander sends back first photos after SpaceX launch**
 
-You can read more about it [here](https://arstechnica.com/tech-policy/2024/02/eu-accuses-tiktok-of-failing-to-stop-kids-pretending-to-be-adults/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/19/odysseus-lunar-lander-photos-nasa-spacex-launch/72658140007/).
 
 ## Requirements
 - Python 3.8
