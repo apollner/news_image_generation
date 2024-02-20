@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lunar New Year: China tourism spending tops pre-Covid level**
+**'Maestro', 'Saltburn' & 'Barbie' Win Film Prizes At Make-Up Artists & Hair Stylists Guild Awards – Full List**
 
-You can read more about it [here](https://www.bbc.com/news/business-68334683).
+You can read more about it [here](http://deadline.com/2024/02/makeup-artists-hairstylists-guild-awards-2024-winners-1235827851/).
 
 ## Requirements
 - Python 3.8
