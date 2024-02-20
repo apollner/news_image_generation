@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Maestro', 'Saltburn' & 'Barbie' Win Film Prizes At Make-Up Artists & Hair Stylists Guild Awards – Full List**
+**'No place too big' for Hideki Matsuyama after Genesis Invitational win | Golf Central | Golf Channel**
 
-You can read more about it [here](http://deadline.com/2024/02/makeup-artists-hairstylists-guild-awards-2024-winners-1235827851/).
+You can read more about it [here](https://www.youtube.com/watch?v=luNvD2QuaWk).
 
 ## Requirements
 - Python 3.8
