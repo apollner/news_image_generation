@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Loom: Nvidia Earnings Are Huge Test For AI-Led Market Rally**
+**BAFTA Film Awards: ‘Oppenheimer’ Wins Seven Honors, ‘Poor Things’ Gets Five**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-are-huge-test-for-ai-led-market-rally/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/bafta-film-awards-winners-list-2024-1235824589/).
 
 ## Requirements
 - Python 3.8
