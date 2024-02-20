@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel indicates March deadline for Gaza ground offensive in Rafah**
+**2 officers, 1 first responder killed at the scene of a domestic call in Minnesota; suspect dead**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68334510).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/2-officers-1-responder-shot-killed-scene-domestic-107328894).
 
 ## Requirements
 - Python 3.8
