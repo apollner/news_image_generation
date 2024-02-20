@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Capital One nears deal to buy Discover Financial**
+**Nearly the entire population of California is under flood alerts as rain drenches the state**
 
-You can read more about it [here](https://www.ft.com/content/cf009c4d-e893-410f-b8c8-a893e73061ed).
+You can read more about it [here](https://www.cnn.com/2024/02/19/weather/california-storm-rain-flooding-monday/index.html).
 
 ## Requirements
 - Python 3.8
