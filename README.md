@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration considering delaying switch to electric vehicles: Report**
+**At least 64 killed in ‘largest’ tribal clashes in Papua New Guinea**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4476123-biden-administration-considering-delaying-switch-to-electric-vehicles-report/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/19/dozens-killed-in-largest-tribal-clashes-in-papua-new-guinea).
 
 ## Requirements
 - Python 3.8
