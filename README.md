@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Odysseus lunar lander sends back first photos after SpaceX launch**
+**Capital One nears deal to buy Discover Financial**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/19/odysseus-lunar-lander-photos-nasa-spacex-launch/72658140007/).
+You can read more about it [here](https://www.ft.com/content/cf009c4d-e893-410f-b8c8-a893e73061ed).
 
 ## Requirements
 - Python 3.8
