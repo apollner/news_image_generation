@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 64 killed in ‘largest’ tribal clashes in Papua New Guinea**
+**'True Detective' boss answers burning finale questions**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/19/dozens-killed-in-largest-tribal-clashes-in-papua-new-guinea).
+You can read more about it [here](https://ew.com/true-detective-night-country-finale-burning-questions-8581686).
 
 ## Requirements
 - Python 3.8
