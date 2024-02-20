@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Model Corinna Kopf's Los Angeles Home Burglarized**
+**Stock Market Today: Dow, S&P Live Updates for Feb. 19, 2024**
 
-You can read more about it [here](https://www.tmz.com/2024/02/19/corinna-kopf-burglary-los-angeles-home-burglarized/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-18/china-to-rally-on-reopen-other-stocks-seen-mixed-markets-wrap).
 
 ## Requirements
 - Python 3.8
