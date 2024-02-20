@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift and Travis Kelce Both Win at 2024 People’s Choice Awards: Full Winners List**
+**Model Corinna Kopf's Los Angeles Home Burglarized**
 
-You can read more about it [here](http://www.billboard.com/music/awards/2024-peoples-choice-awards-full-winners-list-taylor-swift-barbie-1235610446/).
+You can read more about it [here](https://www.tmz.com/2024/02/19/corinna-kopf-burglary-los-angeles-home-burglarized/).
 
 ## Requirements
 - Python 3.8
