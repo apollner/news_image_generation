@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the Israel-Hamas war: Live updates**
+**Cougar attacks mountain bikers on Washington trail**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-18-24/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/18/us/cougar-attack-washington-bikers/index.html).
 
 ## Requirements
 - Python 3.8
