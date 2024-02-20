@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burnsville shooting suspect identified as Shannon Gooden**
+**Israel sets Ramadan deadline for feared Rafah invasion**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/burnsville-shooting-suspect-identified-as-shannon-gooden/).
+You can read more about it [here](https://thehill.com/policy/defense/4476894-israel-deadline-rafah-invasion/).
 
 ## Requirements
 - Python 3.8
