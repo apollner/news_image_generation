@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burnsville, Minnesota shooting: 2 police officers, first responder die**
+**Lunar New Year: China tourism spending tops pre-Covid level**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/18/burnsville-minnesota-shooting-officers-killed/72651293007/).
+You can read more about it [here](https://www.bbc.com/news/business-68334683).
 
 ## Requirements
 - Python 3.8
