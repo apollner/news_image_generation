@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navy counters Houthi Red Sea attacks in its first major battle at sea of the 21st century**
+**LeBron says he hopes to end career with Lakers**
 
-You can read more about it [here](https://www.cbsnews.com/news/navy-counters-houthi-red-sea-attacks-in-its-first-major-battle-at-sea-of-21st-century-60-minutes-transcript/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39554499/lebron-james-says-hopes-end-career-member-lakers).
 
 ## Requirements
 - Python 3.8
