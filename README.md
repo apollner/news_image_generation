@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BAFTA Film Awards: ‘Oppenheimer’ Wins Seven Honors, ‘Poor Things’ Gets Five**
+**Who won the NBA All-Star Game 2024? Highlights, best moments, more**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/bafta-film-awards-winners-list-2024-1235824589/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nba/2024/02/18/nba-all-star-game-live-updates/72628964007/).
 
 ## Requirements
 - Python 3.8
