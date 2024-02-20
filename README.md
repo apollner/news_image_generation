@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthis claim 'catastrophic' attack in Red Sea that prompted crew to abandon ship**
+**Nearly the entire population of California remains under flood alerts as people are urged to stay off the roads**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/19/houthis-claim-catastrophic-attack-in-red-sea-as-crew-abandons-ship.html).
+You can read more about it [here](https://www.cnn.com/2024/02/19/weather/california-storm-rain-flooding-monday/index.html).
 
 ## Requirements
 - Python 3.8
