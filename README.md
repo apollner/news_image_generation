@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'True Detective' boss answers burning finale questions**
+**Navy counters Houthi Red Sea attacks in its first major battle at sea of the 21st century**
 
-You can read more about it [here](https://ew.com/true-detective-night-country-finale-burning-questions-8581686).
+You can read more about it [here](https://www.cbsnews.com/news/navy-counters-houthi-red-sea-attacks-in-its-first-major-battle-at-sea-of-21st-century-60-minutes-transcript/).
 
 ## Requirements
 - Python 3.8
