@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's reaction to Navalny death: Haley blasts absent Putin critique**
+**EU accuses TikTok of failing to stop kids pretending to be adults**
 
-You can read more about it [here](https://www.axios.com/2024/02/19/trump-alexei-navalny-comment).
+You can read more about it [here](https://arstechnica.com/tech-policy/2024/02/eu-accuses-tiktok-of-failing-to-stop-kids-pretending-to-be-adults/).
 
 ## Requirements
 - Python 3.8
