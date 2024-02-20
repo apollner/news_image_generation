@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BAFTA Awards 2024: See who won**
+**Israel-Hamas war updates: Brazil's Lula says conflict like Holocaust**
 
-You can read more about it [here](https://www.cnn.com/2024/02/18/entertainment/bafta-award-winners-nominations-live/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/02/18/israel-hamas-war-gaza-live-updates/72651919007/).
 
 ## Requirements
 - Python 3.8
