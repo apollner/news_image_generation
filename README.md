@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war updates: Brazil's Lula says conflict like Holocaust**
+**5 shot, 1 critical at Waffle House on Indy’s west side**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/02/18/israel-hamas-war-gaza-live-updates/72651919007/).
+You can read more about it [here](https://fox59.com/news/5-shot-1-critical-at-waffle-house-on-indys-southwest-side/).
 
 ## Requirements
 - Python 3.8
