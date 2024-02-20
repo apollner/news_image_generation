@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel sets Ramadan deadline for feared Rafah invasion**
+**'Boy Meets World' stars discuss former friendship with convicted child abuser**
 
-You can read more about it [here](https://thehill.com/policy/defense/4476894-israel-deadline-rafah-invasion/).
+You can read more about it [here](https://ew.com/boy-meets-world-stars-discuss-former-friendship-convicted-child-abuser-brian-peck-8585002).
 
 ## Requirements
 - Python 3.8
