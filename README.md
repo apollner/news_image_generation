@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don't put a wet iPhone into rice, says new Apple support document**
+**Study discovers link between high levels of niacin and heart disease**
 
-You can read more about it [here](https://9to5mac.com/2024/02/19/dont-put-a-wet-iphone-into-rice/).
+You can read more about it [here](https://medicalxpress.com/news/2024-02-link-high-niacin-heart-disease.html).
 
 ## Requirements
 - Python 3.8
