@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oppenheimer's Cillian Murphy and Robert Downey Jr scoop Bafta Film Awards**
+**Hundreds gather for vigil after 2 police officers, paramedic killed in Burnsville**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68332541).
+You can read more about it [here](https://www.mprnews.org/story/2024/02/19/hundreds-gather-vigil-police-officers-paramedic-killed-burnsville).
 
 ## Requirements
 - Python 3.8
