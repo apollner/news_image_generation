@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rick Pitino unleashes on St. John’s facilities, players following loss vs. Seton Hall**
+**Big, doomed satellite seen from space as it tumbles towards a fiery reentry on Feb. 21 (photos)**
 
-You can read more about it [here](https://theathletic.com/5284673/2024/02/18/rick-pitino-st-johns-facilities-players/).
+You can read more about it [here](https://www.space.com/satelitte-ers-2-esa-heo-robotics-commercial-imaging-photos).
 
 ## Requirements
 - Python 3.8
