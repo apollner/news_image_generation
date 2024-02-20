@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly the entire population of California remains under flood alerts as people are urged to stay off the roads**
+**Oppenheimer's Cillian Murphy and Robert Downey Jr scoop Bafta Film Awards**
 
-You can read more about it [here](https://www.cnn.com/2024/02/19/weather/california-storm-rain-flooding-monday/index.html).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68332541).
 
 ## Requirements
 - Python 3.8
