@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 shot, 1 critical at Waffle House on Indy’s west side**
+**Burnsville, Minnesota shooting: 2 police officers, first responder die**
 
-You can read more about it [here](https://fox59.com/news/5-shot-1-critical-at-waffle-house-on-indys-southwest-side/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/18/burnsville-minnesota-shooting-officers-killed/72651293007/).
 
 ## Requirements
 - Python 3.8
