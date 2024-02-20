@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In unusual move, China offers to back Hungary in security matters**
+**Taylor Swift and Travis Kelce Both Win at 2024 People’s Choice Awards: Full Winners List**
 
-You can read more about it [here](https://www.euractiv.com/section/china/news/in-unusual-move-china-offers-to-back-hungary-in-security-matters/).
+You can read more about it [here](http://www.billboard.com/music/awards/2024-peoples-choice-awards-full-winners-list-taylor-swift-barbie-1235610446/).
 
 ## Requirements
 - Python 3.8
