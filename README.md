@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina wins record 43rd straight SEC regular-season game**
+**Dow Jones Futures Loom: Nvidia Earnings Are Huge Test For AI-Led Market Rally**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39553966/south-carolina-record-43rd-straight-sec-regular-season-win).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-are-huge-test-for-ai-led-market-rally/).
 
 ## Requirements
 - Python 3.8
