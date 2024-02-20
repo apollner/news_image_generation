@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who won the NBA All-Star Game 2024? Highlights, best moments, more**
+**Biden administration considering delaying switch to electric vehicles: Report**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nba/2024/02/18/nba-all-star-game-live-updates/72628964007/).
+You can read more about it [here](https://thehill.com/homenews/administration/4476123-biden-administration-considering-delaying-switch-to-electric-vehicles-report/).
 
 ## Requirements
 - Python 3.8
