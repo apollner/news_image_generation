@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'No place too big' for Hideki Matsuyama after Genesis Invitational win | Golf Central | Golf Channel**
+**Israel indicates March deadline for Gaza ground offensive in Rafah**
 
-You can read more about it [here](https://www.youtube.com/watch?v=luNvD2QuaWk).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68334510).
 
 ## Requirements
 - Python 3.8
