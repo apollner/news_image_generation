@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Boy Meets World' stars discuss former friendship with convicted child abuser**
+**Largest-ever COVID vaccine study links shot to small increase in heart and brain conditions**
 
-You can read more about it [here](https://ew.com/boy-meets-world-stars-discuss-former-friendship-convicted-child-abuser-brian-peck-8585002).
+You can read more about it [here](https://news.yahoo.com/largest-ever-covid-vaccine-study-203626142.html).
 
 ## Requirements
 - Python 3.8
