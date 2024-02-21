@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court leaves sanctions in place against Sidney Powell and others over 2020 election suit in Michigan**
+**Burnsville shooting: Minnesota suspect wasn't allowed to have guns**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-trump-sanctions-lawyers-sidney-powell-2020-election-michigan/).
+You can read more about it [here](https://apnews.com/article/officers-firefighter-killed-burnsville-minnesota-shooter-gooden-c6e27aa84e577c27d5e44f5f2c9c4004).
 
 ## Requirements
 - Python 3.8
