@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Russia detains US-Russian woman on treason charge**
+**Office of Public Affairs | U.S. and U.K. Disrupt LockBit Ransomware Variant | United States Department of Justice**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68345526).
+You can read more about it [here](https://www.justice.gov/opa/pr/us-and-uk-disrupt-lockbit-ransomware-variant).
 
 ## Requirements
 - Python 3.8
