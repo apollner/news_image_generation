@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Jeremiah 2024 NFL mock draft 2.0: Four quarterbacks selected in first eight picks**
+**5th case of measles linked to Florida elementary school outbreak**
 
-You can read more about it [here](https://www.nfl.com/news/daniel-jeremiah-2024-nfl-mock-draft-2-0-four-quarterbacks-selected-in-first-eight-picks).
+You can read more about it [here](https://abcnews.go.com/Health/5th-case-measles-linked-florida-elementary-school-outbreak/story?id=107361315).
 
 ## Requirements
 - Python 3.8
