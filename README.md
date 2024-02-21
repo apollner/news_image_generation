@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martin Scorsese to Play Dante Alighieri’s Mentor in Julian Schnabel’s Upcoming ‘In the Hand of Dante’ (EXCLUSIVE)**
+**Warning: High Levels of Niacin (Vitamin B3) Linked to Heart Disease**
 
-You can read more about it [here](https://variety.com/2024/film/global/martin-scorsese-acting-role-julian-schnabel-in-the-hand-of-dante-1235916565/).
+You can read more about it [here](https://scitechdaily.com/warning-high-levels-of-niacin-vitamin-b3-linked-to-heart-disease/).
 
 ## Requirements
 - Python 3.8
