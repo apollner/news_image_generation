@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Universe's brightest object reportedly discovered, featuring black hole the size of 17 billion suns**
+**China slashes mortgage reference rates to revive property market**
 
-You can read more about it [here](https://nypost.com/2024/02/19/world-news/universes-brightest-object-reportedly-discovered-featuring-black-hole-the-size-of-17-billion-suns/).
+You can read more about it [here](https://www.reuters.com/markets/asia/china-lowers-mortgage-reference-rate-by-25-basis-points-2024-02-20/).
 
 ## Requirements
 - Python 3.8
