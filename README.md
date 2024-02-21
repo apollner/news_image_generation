@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration considering EV switch delay due to weak demand**
+**Alexey Navalny's widow says Russia "hiding his body, refusing to give it to his mother"**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/biden-administration-considering-ev-switch-delay-weak-demand).
+You can read more about it [here](https://www.cbsnews.com/news/alexey-navalny-wife-russia-putin-regime-hiding-body-from-mother/).
 
 ## Requirements
 - Python 3.8
