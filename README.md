@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US vetoes UN resolution calling for immediate ceasefire in Gaza after proposing a temporary halt in fighting**
+**Science Lab: Cowboys' tag is likely a no-go in 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/02/20/politics/un-gaza-ceasefire-algeria-resolution-vote-intl/index.html).
+You can read more about it [here](https://www.dallascowboys.com/news/science-lab-cowboys-tag-is-likely-a-no-go-in-2024).
 
 ## Requirements
 - Python 3.8
