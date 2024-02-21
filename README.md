@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In A First, Crew Abandons Ship In Red Sea After Houthi Missile Strikes**
+**Presidents Day survey: Trump ranked last by historians, Biden 14th**
 
-You can read more about it [here](https://www.ndtv.com/world-news/in-a-first-crew-abandons-ship-in-red-sea-after-houthi-missile-strikes-5090850).
+You can read more about it [here](https://www.axios.com/2024/02/19/presidents-survey-trump-ranks-last-biden-14th).
 
 ## Requirements
 - Python 3.8
