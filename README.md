@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burnsville shooting: Minnesota suspect wasn't allowed to have guns**
+**Nvidia’s stock heads for worst day since 2022, biggest market-cap loss ever**
 
-You can read more about it [here](https://apnews.com/article/officers-firefighter-killed-burnsville-minnesota-shooter-gooden-c6e27aa84e577c27d5e44f5f2c9c4004).
+You can read more about it [here](https://www.marketwatch.com/story/nvidias-stock-heads-for-biggest-drop-in-over-a-year-and-biggest-market-cap-loss-ever-6c617e9c).
 
 ## Requirements
 - Python 3.8
