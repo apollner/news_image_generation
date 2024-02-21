@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US circulates rival UN resolution for temporary Gaza cease-fire**
+**Los Angeles woman arrested on treason charge in Russia's Yekaterinburg**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/19/un-resolution-cease-fire-gaza-00142140).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/02/20/woman-arrested-treason-russia-los-angeles/).
 
 ## Requirements
 - Python 3.8
