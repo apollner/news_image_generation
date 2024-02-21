@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine’s defeat at Avdiivka darkens the mood in the West**
+**In A First, Crew Abandons Ship In Red Sea After Houthi Missile Strikes**
 
-You can read more about it [here](https://www.cnn.com/2024/02/19/europe/ukraine-russia-war-avdiivka-defeat-intl/index.html).
+You can read more about it [here](https://www.ndtv.com/world-news/in-a-first-crew-abandons-ship-in-red-sea-after-houthi-missile-strikes-5090850).
 
 ## Requirements
 - Python 3.8
