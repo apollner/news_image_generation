@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Science Lab: Cowboys' tag is likely a no-go in 2024**
+**5th case of measles linked to Florida elementary school outbreak**
 
-You can read more about it [here](https://www.dallascowboys.com/news/science-lab-cowboys-tag-is-likely-a-no-go-in-2024).
+You can read more about it [here](https://abcnews.go.com/Health/5th-case-measles-linked-florida-elementary-school-outbreak/story?id=107361315).
 
 ## Requirements
 - Python 3.8
