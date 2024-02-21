@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Russia detains US-Russian woman on treason charge**
+**COVID vaccines linked to slight increases in heart, brain, blood disorders: study**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68345526).
+You can read more about it [here](https://nypost.com/2024/02/20/us-news/covid-vaccines-linked-to-slight-increases-in-heart-brain-blood-disorders/).
 
 ## Requirements
 - Python 3.8
