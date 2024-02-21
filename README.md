@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia’s stock heads for worst day since 2022, biggest market-cap loss ever**
+**Lockbit cybercrime gang faces global takedown with indictments and arrests**
 
-You can read more about it [here](https://www.marketwatch.com/story/nvidias-stock-heads-for-biggest-drop-in-over-a-year-and-biggest-market-cap-loss-ever-6c617e9c).
+You can read more about it [here](https://www.reuters.com/technology/cybersecurity/us-indicts-two-russian-nationals-lockbit-cybercrime-gang-bust-2024-02-20/).
 
 ## Requirements
 - Python 3.8
