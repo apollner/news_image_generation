@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5th case of measles linked to Florida elementary school outbreak**
+**Nikki Haley hasn't yet won a GOP contest. But she's vowing to keep fighting Donald Trump**
 
-You can read more about it [here](https://abcnews.go.com/Health/5th-case-measles-linked-florida-elementary-school-outbreak/story?id=107361315).
+You can read more about it [here](https://apnews.com/article/nikki-haley-donald-trump-election-2024-b1582a35c3617eee49b36288523a1ea6).
 
 ## Requirements
 - Python 3.8
