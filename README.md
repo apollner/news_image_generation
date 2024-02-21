@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA seeks participants for second year-long Mars mission simulation**
+**Burnsville shooting: Minnesota suspect wasn't allowed to have guns**
 
-You can read more about it [here](https://www.foxnews.com/science/nasa-seeks-participants-second-year-long-mars-mission-simulation).
+You can read more about it [here](https://apnews.com/article/officers-firefighter-killed-burnsville-minnesota-shooter-gooden-c6e27aa84e577c27d5e44f5f2c9c4004).
 
 ## Requirements
 - Python 3.8
