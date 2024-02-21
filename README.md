@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenny Smith Says Controversy Over His Comments on Sabrina Ionescu 'Much Ado About Nothing'**
+**Martin Scorsese to Play Dante Alighieri’s Mentor in Julian Schnabel’s Upcoming ‘In the Hand of Dante’ (EXCLUSIVE)**
 
-You can read more about it [here](https://www.si.com/nba/2024/02/20/kenny-smith-sabrina-ionescu-comments-stephen-a-smith-much-ado-about-nothing).
+You can read more about it [here](https://variety.com/2024/film/global/martin-scorsese-acting-role-julian-schnabel-in-the-hand-of-dante-1235916565/).
 
 ## Requirements
 - Python 3.8
