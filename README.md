@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burnsville shooting: Minnesota suspect wasn't allowed to have guns**
+**Daytona 500 recap: William Byron claims Daytona 500 victory**
 
-You can read more about it [here](https://apnews.com/article/officers-firefighter-killed-burnsville-minnesota-shooter-gooden-c6e27aa84e577c27d5e44f5f2c9c4004).
+You can read more about it [here](https://www.news-journalonline.com/story/sports/nascar/2024/02/19/daytona-500-updates-nascar-race-analysis-daytona-international-speedway-xfinity-series/72651665007/).
 
 ## Requirements
 - Python 3.8
