@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Capital One Is Buying Discover Financial - WSJ**
+**US circulates rival UN resolution for temporary Gaza cease-fire**
 
-You can read more about it [here](https://www.wsj.com/finance/capital-one-is-buying-discover-financial-sources-say-a7c43dd2).
+You can read more about it [here](https://www.politico.com/news/2024/02/19/un-resolution-cease-fire-gaza-00142140).
 
 ## Requirements
 - Python 3.8
