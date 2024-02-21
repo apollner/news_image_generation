@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warning: High Levels of Niacin (Vitamin B3) Linked to Heart Disease**
+**What drivers said after William Byron won Daytona 500**
 
-You can read more about it [here](https://scitechdaily.com/warning-high-levels-of-niacin-vitamin-b3-linked-to-heart-disease/).
+You can read more about it [here](https://www.nbcsports.com/nascar/news/what-drivers-said-after-william-byron-won-daytona-500).
 
 ## Requirements
 - Python 3.8
