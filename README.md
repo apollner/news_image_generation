@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles woman arrested on treason charge in Russia's Yekaterinburg**
+**Universe's brightest object reportedly discovered, featuring black hole the size of 17 billion suns**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/02/20/woman-arrested-treason-russia-los-angeles/).
+You can read more about it [here](https://nypost.com/2024/02/19/world-news/universes-brightest-object-reportedly-discovered-featuring-black-hole-the-size-of-17-billion-suns/).
 
 ## Requirements
 - Python 3.8
