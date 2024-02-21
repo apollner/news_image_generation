@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI's Sora brings movie-making magic, directed by AI**
+**Ukraine war: Russia detains US-Russian woman on treason charge**
 
-You can read more about it [here](https://www.axios.com/2024/02/20/openai-movies-sora-chatgpt-hollywood).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68345526).
 
 ## Requirements
 - Python 3.8
