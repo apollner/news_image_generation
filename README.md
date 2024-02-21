@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China boosts property funding with first cut in key loan rate since June**
+**Capital One Is Buying Discover Financial - WSJ**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/20/china-cuts-benchmark-5-year-lending-rate-for-the-first-time-since-june.html).
+You can read more about it [here](https://www.wsj.com/finance/capital-one-is-buying-discover-financial-sources-say-a7c43dd2).
 
 ## Requirements
 - Python 3.8
