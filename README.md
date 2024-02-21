@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's reaction to Navalny death: Haley blasts absent Putin critique**
+**NASA seeks participants for second year-long Mars mission simulation**
 
-You can read more about it [here](https://www.axios.com/2024/02/19/trump-alexei-navalny-comment).
+You can read more about it [here](https://www.foxnews.com/science/nasa-seeks-participants-second-year-long-mars-mission-simulation).
 
 ## Requirements
 - Python 3.8
