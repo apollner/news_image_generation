@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intuitive Machines lunar lander captures amazing views of Earth after SpaceX launch**
+**Supreme Court leaves sanctions in place against Sidney Powell and others over 2020 election suit in Michigan**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WNHKtA2Kjx8).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-trump-sanctions-lawyers-sidney-powell-2020-election-michigan/).
 
 ## Requirements
 - Python 3.8
