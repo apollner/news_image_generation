@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley hasn't yet won a GOP contest. But she's vowing to keep fighting Donald Trump**
+**Intuitive Machines lunar lander captures amazing views of Earth after SpaceX launch**
 
-You can read more about it [here](https://apnews.com/article/nikki-haley-donald-trump-election-2024-b1582a35c3617eee49b36288523a1ea6).
+You can read more about it [here](https://www.youtube.com/watch?v=WNHKtA2Kjx8).
 
 ## Requirements
 - Python 3.8
