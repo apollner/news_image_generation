@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lockbit cybercrime gang faces global takedown with indictments and arrests**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/technology/cybersecurity/us-indicts-two-russian-nationals-lockbit-cybercrime-gang-bust-2024-02-20/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
