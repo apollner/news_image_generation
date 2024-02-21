@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wild's Kaprizov Hits Empty Net From Mid-Ice To Complete Hat-Trick In Six-Point Game**
+**Biden administration considering EV switch delay due to weak demand**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lcFN1SYxtmA).
+You can read more about it [here](https://www.foxbusiness.com/politics/biden-administration-considering-ev-switch-delay-weak-demand).
 
 ## Requirements
 - Python 3.8
