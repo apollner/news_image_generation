@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID vaccines linked to slight increases in heart, brain, blood disorders: study**
+**Bears, Lions among 10 NFL teams poised to make big offseason moves**
 
-You can read more about it [here](https://nypost.com/2024/02/20/us-news/covid-vaccines-linked-to-slight-increases-in-heart-brain-blood-disorders/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2024/02/20/bears-packers-among-10-nfl-teams-poised-to-make-big-offseason-moves/72624578007/).
 
 ## Requirements
 - Python 3.8
