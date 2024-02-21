@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears, Lions among 10 NFL teams poised to make big offseason moves**
+**Video: Deputy saves mother, 2 kids from crash in Englewood, Florida**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2024/02/20/bears-packers-among-10-nfl-teams-poised-to-make-big-offseason-moves/72624578007/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/20/video-car-crash-rescue-florida/72659036007/).
 
 ## Requirements
 - Python 3.8
