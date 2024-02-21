@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alexei Navalny: Mother demands Putin return son's body**
+**OpenAI's Sora brings movie-making magic, directed by AI**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68346871).
+You can read more about it [here](https://www.axios.com/2024/02/20/openai-movies-sora-chatgpt-hollywood).
 
 ## Requirements
 - Python 3.8
