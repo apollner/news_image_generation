@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Largest-ever COVID vaccine study links shot to small increase in heart and brain conditions**
+**Wild's Kaprizov Hits Empty Net From Mid-Ice To Complete Hat-Trick In Six-Point Game**
 
-You can read more about it [here](https://news.yahoo.com/largest-ever-covid-vaccine-study-203626142.html).
+You can read more about it [here](https://www.youtube.com/watch?v=lcFN1SYxtmA).
 
 ## Requirements
 - Python 3.8
