@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Deputy saves mother, 2 kids from crash in Englewood, Florida**
+**American Airlines raising checked bag fees**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/20/video-car-crash-rescue-florida/72659036007/).
+You can read more about it [here](https://thehill.com/regulation/transportation/4478220-american-airlines-raising-checked-bag-fees/).
 
 ## Requirements
 - Python 3.8
