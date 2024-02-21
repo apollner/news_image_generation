@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alexey Navalny's widow says Russia "hiding his body, refusing to give it to his mother"**
+**Ukraine’s defeat at Avdiivka darkens the mood in the West**
 
-You can read more about it [here](https://www.cbsnews.com/news/alexey-navalny-wife-russia-putin-regime-hiding-body-from-mother/).
+You can read more about it [here](https://www.cnn.com/2024/02/19/europe/ukraine-russia-war-avdiivka-defeat-intl/index.html).
 
 ## Requirements
 - Python 3.8
