@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines raising checked bag fees**
+**Daniel Jeremiah 2024 NFL mock draft 2.0: Four quarterbacks selected in first eight picks**
 
-You can read more about it [here](https://thehill.com/regulation/transportation/4478220-american-airlines-raising-checked-bag-fees/).
+You can read more about it [here](https://www.nfl.com/news/daniel-jeremiah-2024-nfl-mock-draft-2-0-four-quarterbacks-selected-in-first-eight-picks).
 
 ## Requirements
 - Python 3.8
