@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What drivers said after William Byron won Daytona 500**
+**Trump's reaction to Navalny death: Haley blasts absent Putin critique**
 
-You can read more about it [here](https://www.nbcsports.com/nascar/news/what-drivers-said-after-william-byron-won-daytona-500).
+You can read more about it [here](https://www.axios.com/2024/02/19/trump-alexei-navalny-comment).
 
 ## Requirements
 - Python 3.8
