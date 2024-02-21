@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China slashes mortgage reference rates to revive property market**
+**Kenny Smith Says Controversy Over His Comments on Sabrina Ionescu 'Much Ado About Nothing'**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/china-lowers-mortgage-reference-rate-by-25-basis-points-2024-02-20/).
+You can read more about it [here](https://www.si.com/nba/2024/02/20/kenny-smith-sabrina-ionescu-comments-stephen-a-smith-much-ado-about-nothing).
 
 ## Requirements
 - Python 3.8
