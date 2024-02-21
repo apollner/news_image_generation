@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5th case of measles linked to Florida elementary school outbreak**
+**US vetoes UN resolution calling for immediate ceasefire in Gaza after proposing a temporary halt in fighting**
 
-You can read more about it [here](https://abcnews.go.com/Health/5th-case-measles-linked-florida-elementary-school-outbreak/story?id=107361315).
+You can read more about it [here](https://www.cnn.com/2024/02/20/politics/un-gaza-ceasefire-algeria-resolution-vote-intl/index.html).
 
 ## Requirements
 - Python 3.8
