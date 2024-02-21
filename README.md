@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Presidents Day survey: Trump ranked last by historians, Biden 14th**
+**Trump's reaction to Navalny death: Haley blasts absent Putin critique**
 
-You can read more about it [here](https://www.axios.com/2024/02/19/presidents-survey-trump-ranks-last-biden-14th).
+You can read more about it [here](https://www.axios.com/2024/02/19/trump-alexei-navalny-comment).
 
 ## Requirements
 - Python 3.8
