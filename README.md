@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's exports perk up but souring factory mood darkens outlook**
+**What to know about Yulia Navalnaya, widow of Alexei Navalny**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/japans-exports-grow-more-than-expected-manufacturers-mood-sours-2024-02-21/).
+You can read more about it [here](https://www.axios.com/2024/02/20/yulia-navalnaya-alexei-navalny-russia-opposition-leader).
 
 ## Requirements
 - Python 3.8
