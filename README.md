@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Yulia Navalnaya, widow of Alexei Navalny**
+**Jayson Tatum opens up on quest to become next face of NBA: ‘It’s mine to take’**
 
-You can read more about it [here](https://www.axios.com/2024/02/20/yulia-navalnaya-alexei-navalny-russia-opposition-leader).
+You can read more about it [here](https://theathletic.com/5286773/2024/02/21/jayson-tatum-interview-celtics-nba/).
 
 ## Requirements
 - Python 3.8
