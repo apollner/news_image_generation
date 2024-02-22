@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Free Agency & Getting to Know 2024 Draft Class**
+**Malia Obama Is Now Going by This Stage Name**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JsMVSMSeeTM).
+You can read more about it [here](https://www.eonline.com/news/1395570/malia-obama-is-now-going-by-this-stage-name).
 
 ## Requirements
 - Python 3.8
