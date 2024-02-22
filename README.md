@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schiff blasts Porter's 'purity tests' in Senate debate**
+**Israel Gaza: China condemns US veto of call for immediate ceasefire at UN**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/21/schiff-blasts-porters-purity-tests-in-testy-senate-debate-exchange-00142384).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68355436).
 
 ## Requirements
 - Python 3.8
