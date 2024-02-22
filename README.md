@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space debris: 'Grandfather satellite' due to fall to Earth**
+**Ruby Franke: Parenting advice YouTuber given maximum sentence for child abuse**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68318273).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68353302).
 
 ## Requirements
 - Python 3.8
