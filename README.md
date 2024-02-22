@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeff Bezos unloads around $2.4 billion in Amazon stock, bringing recent sales to 50 million shares**
+**Ruby Franke: Parenting advice YouTuber given maximum sentence for child abuse**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/20/jeff-bezos-unloads-2point1-billion-in-amazon-stock.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68353302).
 
 ## Requirements
 - Python 3.8
