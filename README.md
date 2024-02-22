@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top 100 NFL free agents: Kirk Cousins, Chris Jones headline 2024 free agency list front-loaded with defenders**
+**Nvidia's Hotly Anticipated Earnings May 'Trigger' Bitcoin and Crypto Correction, Analyst Says**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/top-100-nfl-free-agents-kirk-cousins-chris-jones-headline-2024-free-agency-list-front-loaded-with-defenders/).
+You can read more about it [here](https://www.coindesk.com/markets/2024/02/21/nvidias-hotly-anticipated-earnings-may-trigger-bitcoin-and-crypto-correction-analyst-says/).
 
 ## Requirements
 - Python 3.8
