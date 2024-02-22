@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump compares legal woes to Navalny's plight at Fox News town hall**
+**Travis Kelce spotted back in Las Vegas as fans speculate whether he'll join Taylor Swift in Australia**
 
-You can read more about it [here](https://www.axios.com/2024/02/21/trump-navalny-fox-news-town-hall-indictments-ny-fine).
+You can read more about it [here](https://pagesix.com/2024/02/20/entertainment/travis-kelce-spotted-back-in-las-vegas-as-fans-speculate-whether-hell-join-taylor-swift-in-australia/).
 
 ## Requirements
 - Python 3.8
