@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schiff blasts Porter's 'purity tests' in Senate debate**
+**Trump compares legal woes to Navalny's plight at Fox News town hall**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/21/schiff-blasts-porters-purity-tests-in-testy-senate-debate-exchange-00142384).
+You can read more about it [here](https://www.axios.com/2024/02/21/trump-navalny-fox-news-town-hall-indictments-ny-fine).
 
 ## Requirements
 - Python 3.8
