@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elden Ring Shadow of the Erdtree Official Gameplay Reveal Trailer (Japanese Subtitles)**
+**Amazon addition helps Dow stay 'relevant'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=vqhSQCciRBE).
+You can read more about it [here](https://finance.yahoo.com/news/amazon-addition-helps-dow-stay-relevant-170415376.html).
 
 ## Requirements
 - Python 3.8
