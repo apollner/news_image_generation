@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid Backlash to Antisemitic Post, Harvard Professor Resigns as PSC Faculty Adviser, FSJP Member | News**
+**Schiff blasts Porter's 'purity tests' in Senate debate**
 
-You can read more about it [here](https://www.thecrimson.com/article/2024/2/21/walter-johnson-resigns-psc/).
+You can read more about it [here](https://www.politico.com/news/2024/02/21/schiff-blasts-porters-purity-tests-in-testy-senate-debate-exchange-00142384).
 
 ## Requirements
 - Python 3.8
