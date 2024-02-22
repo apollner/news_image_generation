@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks fall for a third day as Wall Street braces for Nvidia's major earnings report: Live updates**
+**Elden Ring Shadow of the Erdtree Official Gameplay Reveal Trailer (Japanese Subtitles)**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.youtube.com/watch?v=vqhSQCciRBE).
 
 ## Requirements
 - Python 3.8
