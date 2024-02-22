@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to hear arguments over Biden ‘good neighbor’ smog rule**
+**Letitia James says she's prepared to seize Trump's buildings if he can't pay his $354M civil fraud fine**
 
-You can read more about it [here](https://www.cnn.com/2024/02/21/politics/good-neighbor-smog-rule-supreme-court/index.html).
+You can read more about it [here](https://abcnews.go.com/US/letitia-james-shes-prepared-seize-trumps-assets-pay/story?id=107381482).
 
 ## Requirements
 - Python 3.8
