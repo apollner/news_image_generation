@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JJ Redick goes scorched earth on Doc Rivers as NBA drama erupts**
+**Space debris: 'Grandfather satellite' due to fall to Earth**
 
-You can read more about it [here](https://nypost.com/2024/02/20/sports/patrick-beverley-defends-doc-rivers-after-jj-redick-rip-job/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68318273).
 
 ## Requirements
 - Python 3.8
