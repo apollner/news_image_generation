@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza: China condemns US veto of call for immediate ceasefire at UN**
+**Amid Backlash to Antisemitic Post, Harvard Professor Resigns as PSC Faculty Adviser, FSJP Member | News**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68355436).
+You can read more about it [here](https://www.thecrimson.com/article/2024/2/21/walter-johnson-resigns-psc/).
 
 ## Requirements
 - Python 3.8
