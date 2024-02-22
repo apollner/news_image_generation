@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lockbit crackdown heats up as US offers reward for info on hackers**
+**Top 100 NFL free agents: Kirk Cousins, Chris Jones headline 2024 free agency list front-loaded with defenders**
 
-You can read more about it [here](https://www.reuters.com/technology/cybersecurity/us-offers-up-15-mln-information-lockbit-leaders-state-dept-says-2024-02-21/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/top-100-nfl-free-agents-kirk-cousins-chris-jones-headline-2024-free-agency-list-front-loaded-with-defenders/).
 
 ## Requirements
 - Python 3.8
