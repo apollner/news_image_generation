@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza: China condemns US veto of call for immediate ceasefire at UN**
+**Trump compares legal woes to Navalny's plight at Fox News town hall**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68355436).
+You can read more about it [here](https://www.axios.com/2024/02/21/trump-navalny-fox-news-town-hall-indictments-ny-fine).
 
 ## Requirements
 - Python 3.8
