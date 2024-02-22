@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Brown’s daughters explain how they forgave him for abusing wife Deidre Jenkins: 'Time to show grace'**
+**Amid Backlash to Antisemitic Post, Harvard Professor Resigns as PSC Faculty Adviser, FSJP Member | News**
 
-You can read more about it [here](https://pagesix.com/2024/02/20/entertainment/james-browns-daughters-explain-how-they-forgave-him-for-abusing-wife-deidre-jenkins/).
+You can read more about it [here](https://www.thecrimson.com/article/2024/2/21/walter-johnson-resigns-psc/).
 
 ## Requirements
 - Python 3.8
