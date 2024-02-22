@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Letitia James says she's prepared to seize Trump's buildings if he can't pay his $354M civil fraud fine**
+**Israel Gaza: China condemns US veto of call for immediate ceasefire at UN**
 
-You can read more about it [here](https://abcnews.go.com/US/letitia-james-shes-prepared-seize-trumps-assets-pay/story?id=107381482).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68355436).
 
 ## Requirements
 - Python 3.8
