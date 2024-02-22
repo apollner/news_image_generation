@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK parliament speaker gives Labour leadership Gaza ceasefire vote reprieve**
+**Boeing removes head of 737 Max program in wake of safety incidents**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/uk-parliament-speaker-gives-labour-leadership-gaza-ceasefire-vote-reprieve).
+You can read more about it [here](https://www.cnn.com/2024/02/21/business/boeing-removes-head-of-737-max-program-in-wake-of-safety-incidents/index.html).
 
 ## Requirements
 - Python 3.8
