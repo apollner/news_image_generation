@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce spotted back in Las Vegas as fans speculate whether he'll join Taylor Swift in Australia**
+**Supreme Court to hear arguments over Biden ‘good neighbor’ smog rule**
 
-You can read more about it [here](https://pagesix.com/2024/02/20/entertainment/travis-kelce-spotted-back-in-las-vegas-as-fans-speculate-whether-hell-join-taylor-swift-in-australia/).
+You can read more about it [here](https://www.cnn.com/2024/02/21/politics/good-neighbor-smog-rule-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
