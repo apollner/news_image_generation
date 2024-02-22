@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayson Tatum opens up on quest to become next face of NBA: ‘It’s mine to take’**
+**Stocks fall for a third day as Wall Street braces for Nvidia's major earnings report: Live updates**
 
-You can read more about it [here](https://theathletic.com/5286773/2024/02/21/jayson-tatum-interview-celtics-nba/).
+You can read more about it [here](https://www.cnbc.com/2024/02/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
