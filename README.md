@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's Hotly Anticipated Earnings May 'Trigger' Bitcoin and Crypto Correction, Analyst Says**
+**James Biden behind closed doors in critical interview with Republicans as GOP looks for lifeline in impeachment probe**
 
-You can read more about it [here](https://www.coindesk.com/markets/2024/02/21/nvidias-hotly-anticipated-earnings-may-trigger-bitcoin-and-crypto-correction-analyst-says/).
+You can read more about it [here](https://www.cnn.com/2024/02/21/politics/james-biden-republican-deposition/index.html).
 
 ## Requirements
 - Python 3.8
