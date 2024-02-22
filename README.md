@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American admits to attacking 2 US women in Germany, killing 1 of them**
+**Ahead of South Carolina primary, Nikki Haley vows to stay in the race until ‘the last person votes’**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/02/20/americans-germany-neuschwanstein-attack-women/72674831007/).
+You can read more about it [here](https://www.cnn.com/2024/02/20/politics/nikki-haley-2024-campaign/index.html).
 
 ## Requirements
 - Python 3.8
