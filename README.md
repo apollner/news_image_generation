@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing removes head of 737 Max program in wake of safety incidents**
+**Prevalence of persistent SARS-CoV-2 in a large community surveillance study**
 
-You can read more about it [here](https://www.cnn.com/2024/02/21/business/boeing-removes-head-of-737-max-program-in-wake-of-safety-incidents/index.html).
+You can read more about it [here](https://www.nature.com/articles/s41586-024-07029-4).
 
 ## Requirements
 - Python 3.8
