@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid Backlash to Antisemitic Post, Harvard Professor Resigns as PSC Faculty Adviser, FSJP Member | News**
+**[Removed]**
 
-You can read more about it [here](https://www.thecrimson.com/article/2024/2/21/walter-johnson-resigns-psc/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
