@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon addition helps Dow stay 'relevant'**
+**US tells ICJ Israel should not be ordered to immediately end occupation**
 
-You can read more about it [here](https://finance.yahoo.com/news/amazon-addition-helps-dow-stay-relevant-170415376.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/us-tells-icj-israel-should-not-be-ordered-to-immediately-end-occupation).
 
 ## Requirements
 - Python 3.8
