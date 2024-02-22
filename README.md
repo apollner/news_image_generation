@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space debris: 'Grandfather satellite' due to fall to Earth**
+**James Brown’s daughters explain how they forgave him for abusing wife Deidre Jenkins: 'Time to show grace'**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68318273).
+You can read more about it [here](https://pagesix.com/2024/02/20/entertainment/james-browns-daughters-explain-how-they-forgave-him-for-abusing-wife-deidre-jenkins/).
 
 ## Requirements
 - Python 3.8
