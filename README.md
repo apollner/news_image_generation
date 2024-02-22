@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space debris: 'Grandfather satellite' due to fall to Earth**
+**Amazon founder Jeff Bezos completes $8.5bn share sale plan**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68318273).
+You can read more about it [here](https://www.bbc.com/news/business-68355811).
 
 ## Requirements
 - Python 3.8
