@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US tells ICJ Israel should not be ordered to immediately end occupation**
+**Lockbit crackdown heats up as US offers reward for info on hackers**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/us-tells-icj-israel-should-not-be-ordered-to-immediately-end-occupation).
+You can read more about it [here](https://www.reuters.com/technology/cybersecurity/us-offers-up-15-mln-information-lockbit-leaders-state-dept-says-2024-02-21/).
 
 ## Requirements
 - Python 3.8
