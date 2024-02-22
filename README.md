@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ahead of South Carolina primary, Nikki Haley vows to stay in the race until ‘the last person votes’**
+**JJ Redick goes scorched earth on Doc Rivers as NBA drama erupts**
 
-You can read more about it [here](https://www.cnn.com/2024/02/20/politics/nikki-haley-2024-campaign/index.html).
+You can read more about it [here](https://nypost.com/2024/02/20/sports/patrick-beverley-defends-doc-rivers-after-jj-redick-rip-job/).
 
 ## Requirements
 - Python 3.8
