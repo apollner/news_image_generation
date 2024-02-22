@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malia Obama Is Now Going by This Stage Name**
+**Schiff blasts Porter's 'purity tests' in Senate debate**
 
-You can read more about it [here](https://www.eonline.com/news/1395570/malia-obama-is-now-going-by-this-stage-name).
+You can read more about it [here](https://www.politico.com/news/2024/02/21/schiff-blasts-porters-purity-tests-in-testy-senate-debate-exchange-00142384).
 
 ## Requirements
 - Python 3.8
