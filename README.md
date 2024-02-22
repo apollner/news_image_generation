@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks fall for a third day as Wall Street braces for Nvidia's major earnings report: Live updates**
+**US tells ICJ Israel should not be ordered to immediately end occupation**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/us-tells-icj-israel-should-not-be-ordered-to-immediately-end-occupation).
 
 ## Requirements
 - Python 3.8
