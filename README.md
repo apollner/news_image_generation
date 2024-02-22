@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon founder Jeff Bezos completes $8.5bn share sale plan**
+**Free Agency & Getting to Know 2024 Draft Class**
 
-You can read more about it [here](https://www.bbc.com/news/business-68355811).
+You can read more about it [here](https://www.youtube.com/watch?v=JsMVSMSeeTM).
 
 ## Requirements
 - Python 3.8
