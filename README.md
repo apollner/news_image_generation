@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump compares legal woes to Navalny's plight at Fox News town hall**
+**Japan's exports perk up but souring factory mood darkens outlook**
 
-You can read more about it [here](https://www.axios.com/2024/02/21/trump-navalny-fox-news-town-hall-indictments-ny-fine).
+You can read more about it [here](https://www.reuters.com/markets/asia/japans-exports-grow-more-than-expected-manufacturers-mood-sours-2024-02-21/).
 
 ## Requirements
 - Python 3.8
