@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Signal now lets you keep your phone number private with the launch of usernames**
+**American admits to attacking 2 US women in Germany, killing 1 of them**
 
-You can read more about it [here](https://techcrunch.com/2024/02/20/signal-now-lets-you-keep-your-phone-number-private-with-the-launch-of-usernames/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/02/20/americans-germany-neuschwanstein-attack-women/72674831007/).
 
 ## Requirements
 - Python 3.8
