@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AT&T, other cell service providers having outages, customers report**
+**"It's alarming:" Here's why syphilis, a disease once almost eradicated, has come roaring back**
 
-You can read more about it [here](https://www.cbsnews.com/news/numerous-us-cellphone-providers-experiencing-outages-downdector/).
+You can read more about it [here](https://www.salon.com/2024/02/22/its-alarming-why-syphilis-cant-be-contained-in-the-us/).
 
 ## Requirements
 - Python 3.8
