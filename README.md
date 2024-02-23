@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google pauses 'absurdly woke' Gemini AI chatbot's image tool after backlash over historically inaccurate pictures**
+**Kremlin says Biden calling Putin a 'crazy SOB' debases the US**
 
-You can read more about it [here](https://nypost.com/2024/02/22/business/google-pauses-absurdly-woke-gemini-ai-chatbots-image-tool-after-backlash-over-historically-inaccurate-pictures/).
+You can read more about it [here](https://www.reuters.com/world/kremlin-says-biden-remarks-about-putin-debase-united-states-2024-02-22/).
 
 ## Requirements
 - Python 3.8
