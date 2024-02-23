@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Today's Savannah Guthrie Admits Dressing Rooms Need a 'Remodel' After Kelly Rowland Incident (Exclusive)**
+**Agent's Take: Dak Prescott, Jordan Love and other NFL quarterbacks who can sign a lucrative deal in 2024**
 
-You can read more about it [here](https://www.etonline.com/interview-todays-savannah-guthrie-admits-dressing-rooms-need-a-remodel-after-kelly-rowland-incident-exclusive).
+You can read more about it [here](https://www.cbssports.com/nfl/news/agents-take-dak-prescott-jordan-love-and-other-nfl-quarterbacks-who-can-sign-a-lucrative-deal-in-2024/).
 
 ## Requirements
 - Python 3.8
