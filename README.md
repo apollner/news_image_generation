@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden considers borrowing a page from Trump on border security**
+**College Football Playoff exploring expansion to 14 teams, multiple automatic qualifiers for conferences**
 
-You can read more about it [here](https://www.axios.com/2024/02/22/biden-border-executive-action-asylum).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-exploring-expansion-to-14-teams-multiple-automatic-qualifiers-for-conferences/).
 
 ## Requirements
 - Python 3.8
