@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Gaza ceasefire vote: Commons debate descends into chaos**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68362405).
 
 ## Requirements
 - Python 3.8
