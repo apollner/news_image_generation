@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay Williams doubles down on Caitlin Clark not being an all-time great**
+**Rubio warns Chinese cyberattack 'will be 100 times worse' than AT&T outage: 'Your power, your water'**
 
-You can read more about it [here](https://nypost.com/2024/02/22/sports/jay-williams-doubles-down-on-caitlin-clark-not-being-all-time-great/).
+You can read more about it [here](https://www.foxnews.com/politics/rubio-warns-chinese-cyberattack-will-be-100-times-worse-than-att-outage-power-water).
 
 ## Requirements
 - Python 3.8
