@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AI boom drove Nvidia profits up 580% last year**
+**Rivian says it is laying off 10 percent of its workforce as EV woes deepen**
 
-You can read more about it [here](https://www.cnn.com/2024/02/21/tech/nvidia-ai-sales-boom/index.html).
+You can read more about it [here](https://www.theverge.com/2024/2/21/24079572/rivian-layoff-ev-production-q4-earnings).
 
 ## Requirements
 - Python 3.8
