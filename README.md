@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff exploring expansion to 14 teams, multiple automatic qualifiers for conferences**
+**Major Alabama hospital pauses IVF after court rules frozen embryos are children**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-exploring-expansion-to-14-teams-multiple-automatic-qualifiers-for-conferences/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68366337).
 
 ## Requirements
 - Python 3.8
