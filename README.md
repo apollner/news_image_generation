@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rubio warns Chinese cyberattack 'will be 100 times worse' than AT&T outage: 'Your power, your water'**
+**Google pauses 'absurdly woke' Gemini AI chatbot's image tool after backlash over historically inaccurate pictures**
 
-You can read more about it [here](https://www.foxnews.com/politics/rubio-warns-chinese-cyberattack-will-be-100-times-worse-than-att-outage-power-water).
+You can read more about it [here](https://nypost.com/2024/02/22/business/google-pauses-absurdly-woke-gemini-ai-chatbots-image-tool-after-backlash-over-historically-inaccurate-pictures/).
 
 ## Requirements
 - Python 3.8
