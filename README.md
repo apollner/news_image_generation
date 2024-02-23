@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israeli strikes in Gaza kill 48**
+**Jay Williams doubles down on Caitlin Clark not being an all-time great**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-22-2024-e8687b7235d0ac066170f3e5a72ce544).
+You can read more about it [here](https://nypost.com/2024/02/22/sports/jay-williams-doubles-down-on-caitlin-clark-not-being-all-time-great/).
 
 ## Requirements
 - Python 3.8
