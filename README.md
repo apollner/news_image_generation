@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chaos erupts as UK parliament votes on Gaza ceasefire**
+**'Today's Savannah Guthrie Admits Dressing Rooms Need a 'Remodel' After Kelly Rowland Incident (Exclusive)**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/uk-parliament-speaker-gives-labour-leadership-gaza-ceasefire-vote-reprieve).
+You can read more about it [here](https://www.etonline.com/interview-todays-savannah-guthrie-admits-dressing-rooms-need-a-remodel-after-kelly-rowland-incident-exclusive).
 
 ## Requirements
 - Python 3.8
