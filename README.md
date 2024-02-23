@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPSET AT THE BUZZER 🔥 Kentucky Wildcats vs. LSU Tigers | Full Game Highlights**
+**Apple targeting sports fans with new app**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7kN7e9anneo).
+You can read more about it [here](https://www.foxbusiness.com/technology/apple-targeting-sports-fans-new-app).
 
 ## Requirements
 - Python 3.8
