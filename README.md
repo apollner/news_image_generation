@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major Alabama hospital pauses IVF after court rules frozen embryos are children**
+**Josh Brolin’s hilarious ‘Dune: Part Two’ movie summary, decoded**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68366337).
+You can read more about it [here](https://www.cnn.com/2024/02/21/entertainment/josh-brolin-dune-part-two-movie-summary/index.html).
 
 ## Requirements
 - Python 3.8
