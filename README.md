@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prominent AIDS Activist Born With HIV Dies at 39**
+**Speech by Vice Chair Jefferson on the U.S. economic outlook and monetary policy**
 
-You can read more about it [here](https://www.thedailybeast.com/hydeia-broadbent-aids-activist-born-with-hiv-dies-at-39).
+You can read more about it [here](https://www.federalreserve.gov/newsevents/speech/jefferson20240222a.htm).
 
 ## Requirements
 - Python 3.8
