@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian says it is laying off 10 percent of its workforce as EV woes deepen**
+**Unvaccinated Florida kids exposed to measles can skip quarantine, officials say**
 
-You can read more about it [here](https://www.theverge.com/2024/2/21/24079572/rivian-layoff-ev-production-q4-earnings).
+You can read more about it [here](https://arstechnica.com/science/2024/02/unvaccinated-florida-kids-exposed-to-measles-can-skip-quarantine-officials-say/).
 
 ## Requirements
 - Python 3.8
