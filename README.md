@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Brolin’s hilarious ‘Dune: Part Two’ movie summary, decoded**
+**Google Pixel Fold 2 leaks in CAD-based renders, the camera visor is gone - GSMArena.com news**
 
-You can read more about it [here](https://www.cnn.com/2024/02/21/entertainment/josh-brolin-dune-part-two-movie-summary/index.html).
+You can read more about it [here](https://www.gsmarena.com/google_pixel_fold_2_leaks_in_cadbased_renders_the_camera_visor_is_gone-news-61702.php).
 
 ## Requirements
 - Python 3.8
