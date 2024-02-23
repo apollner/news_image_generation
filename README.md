@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unvaccinated Florida kids exposed to measles can skip quarantine, officials say**
+**Biden considering new executive action to restrict asylum at the border, sources say**
 
-You can read more about it [here](https://arstechnica.com/science/2024/02/unvaccinated-florida-kids-exposed-to-measles-can-skip-quarantine-officials-say/).
+You can read more about it [here](https://www.cnn.com/2024/02/21/politics/biden-considering-executive-action-to-close-southern-border-sources-say/index.html).
 
 ## Requirements
 - Python 3.8
