@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Brolin’s hilarious ‘Dune: Part Two’ movie summary, decoded**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/02/21/entertainment/josh-brolin-dune-part-two-movie-summary/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
