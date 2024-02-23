@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inter Miami MLS opener live updates: Live stream Messi match today**
+**UK parliament speaker gives Labour leadership Gaza ceasefire vote reprieve**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2024/02/21/messi-match-today-inter-miami-vs-real-salt-lake-live-updates-highlights/72689722007/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/uk-parliament-speaker-gives-labour-leadership-gaza-ceasefire-vote-reprieve).
 
 ## Requirements
 - Python 3.8
