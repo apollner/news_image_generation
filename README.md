@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Speech by Vice Chair Jefferson on the U.S. economic outlook and monetary policy**
+**Israel-Hamas war: Israeli strikes in Gaza kill 48**
 
-You can read more about it [here](https://www.federalreserve.gov/newsevents/speech/jefferson20240222a.htm).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-22-2024-e8687b7235d0ac066170f3e5a72ce544).
 
 ## Requirements
 - Python 3.8
