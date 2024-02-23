@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AT&T outage impacting phone service for US customers**
+**Japan's Nikkei stock index breaks its 1989 record and surges to an all-time high**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html).
+You can read more about it [here](https://apnews.com/article/japan-nikkei-shares-record-economy-93003abeedbc99cf8f3dab78de78c298).
 
 ## Requirements
 - Python 3.8
