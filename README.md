@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple targeting sports fans with new app**
+**Chaos erupts as UK parliament votes on Gaza ceasefire**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-targeting-sports-fans-new-app).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/uk-parliament-speaker-gives-labour-leadership-gaza-ceasefire-vote-reprieve).
 
 ## Requirements
 - Python 3.8
