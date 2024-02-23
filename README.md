@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major Alabama hospital pauses IVF after court rules frozen embryos are children**
+**Biden considers borrowing a page from Trump on border security**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68366337).
+You can read more about it [here](https://www.axios.com/2024/02/22/biden-border-executive-action-asylum).
 
 ## Requirements
 - Python 3.8
