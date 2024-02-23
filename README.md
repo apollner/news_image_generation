@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Major Alabama hospital pauses IVF after court rules frozen embryos are children**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68366337).
 
 ## Requirements
 - Python 3.8
