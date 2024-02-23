@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Agent's Take: Dak Prescott, Jordan Love and other NFL quarterbacks who can sign a lucrative deal in 2024**
+**Google pauses Gemini's ability to generate AI images of people after diversity errors**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/agents-take-dak-prescott-jordan-love-and-other-nfl-quarterbacks-who-can-sign-a-lucrative-deal-in-2024/).
+You can read more about it [here](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause).
 
 ## Requirements
 - Python 3.8
