@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novavax resolves Gavi dispute over COVID-19 vaccines**
+**New York AG says she’ll seize Donald Trump’s property if he can’t pay $454 million civil fraud debt**
 
-You can read more about it [here](https://finance.yahoo.com/news/novavax-resolves-gavi-dispute-over-covid-19-vaccines-113038472.html).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/new-york-ag-shell-seize-donald-trumps-property-107437402).
 
 ## Requirements
 - Python 3.8
