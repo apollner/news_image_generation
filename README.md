@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"It's alarming:" Here's why syphilis, a disease once almost eradicated, has come roaring back**
+**AT&T outage impacting phone service for US customers**
 
-You can read more about it [here](https://www.salon.com/2024/02/22/its-alarming-why-syphilis-cant-be-contained-in-the-us/).
+You can read more about it [here](https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html).
 
 ## Requirements
 - Python 3.8
