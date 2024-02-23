@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York AG says she’ll seize Donald Trump’s property if he can’t pay $454 million civil fraud debt**
+**Taylor Swift and Travis Kelce Enjoy Day Out at Sydney Zoo After He Arrives in Australia for Eras Tour**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/new-york-ag-shell-seize-donald-trumps-property-107437402).
+You can read more about it [here](https://www.etonline.com/taylor-swift-and-travis-kelce-enjoy-day-out-at-sydney-zoo-after-he-arrives-in-australia-for-eras).
 
 ## Requirements
 - Python 3.8
