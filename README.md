@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky falls to LSU at the buzzer: 3 things to know and postgame banter**
+**Biden considers borrowing a page from Trump on border security**
 
-You can read more about it [here](https://www.aseaofblue.com/2024/2/21/24079744/kentucky-basketball-lsu-tigers-buzzer-beater-score-wildcats-tyrell-ward).
+You can read more about it [here](https://www.axios.com/2024/02/22/biden-border-executive-action-asylum).
 
 ## Requirements
 - Python 3.8
