@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I tried to jump back into JRPGs with FFVII Rebirth, and that was a big mistake**
+**Kirk Cousins’s Top NFL Free-Agency Landing Spots: 49ers, Steelers Have Plenty to Offer**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/02/i-tried-to-jump-back-into-jrpgs-with-ffvii-rebirth-and-that-was-a-big-mistake/).
+You can read more about it [here](https://www.si.com/nfl/2024/02/22/kirk-cousins-free-agency-landing-spots-49ers-steelers).
 
 ## Requirements
 - Python 3.8
