@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Capital One's acquisition of Discover could impact consumers**
+**AI boom drove Nvidia profits up 580% last year**
 
-You can read more about it [here](https://www.foxbusiness.com/personal-finance/how-capital-ones-acquisition-discover-impact-consumers).
+You can read more about it [here](https://www.cnn.com/2024/02/21/tech/nvidia-ai-sales-boom/index.html).
 
 ## Requirements
 - Python 3.8
