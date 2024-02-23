@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Capital One's acquisition of Discover could impact consumers**
+**Inter Miami MLS opener live updates: Live stream Messi match today**
 
-You can read more about it [here](https://www.foxbusiness.com/personal-finance/how-capital-ones-acquisition-discover-impact-consumers).
+You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2024/02/21/messi-match-today-inter-miami-vs-real-salt-lake-live-updates-highlights/72689722007/).
 
 ## Requirements
 - Python 3.8
