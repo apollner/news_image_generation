@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden considering new executive action to restrict asylum at the border, sources say**
+**How Capital One's acquisition of Discover could impact consumers**
 
-You can read more about it [here](https://www.cnn.com/2024/02/21/politics/biden-considering-executive-action-to-close-southern-border-sources-say/index.html).
+You can read more about it [here](https://www.foxbusiness.com/personal-finance/how-capital-ones-acquisition-discover-impact-consumers).
 
 ## Requirements
 - Python 3.8
