@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel Fold 2 leaks in CAD-based renders, the camera visor is gone - GSMArena.com news**
+**UPSET AT THE BUZZER 🔥 Kentucky Wildcats vs. LSU Tigers | Full Game Highlights**
 
-You can read more about it [here](https://www.gsmarena.com/google_pixel_fold_2_leaks_in_cadbased_renders_the_camera_visor_is_gone-news-61702.php).
+You can read more about it [here](https://www.youtube.com/watch?v=7kN7e9anneo).
 
 ## Requirements
 - Python 3.8
