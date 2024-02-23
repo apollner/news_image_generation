@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's Nikkei stock index breaks its 1989 record and surges to an all-time high**
+**Novavax resolves Gavi dispute over COVID-19 vaccines**
 
-You can read more about it [here](https://apnews.com/article/japan-nikkei-shares-record-economy-93003abeedbc99cf8f3dab78de78c298).
+You can read more about it [here](https://finance.yahoo.com/news/novavax-resolves-gavi-dispute-over-covid-19-vaccines-113038472.html).
 
 ## Requirements
 - Python 3.8
