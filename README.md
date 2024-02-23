@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift and Travis Kelce Enjoy Day Out at Sydney Zoo After He Arrives in Australia for Eras Tour**
+**I tried to jump back into JRPGs with FFVII Rebirth, and that was a big mistake**
 
-You can read more about it [here](https://www.etonline.com/taylor-swift-and-travis-kelce-enjoy-day-out-at-sydney-zoo-after-he-arrives-in-australia-for-eras).
+You can read more about it [here](https://arstechnica.com/gaming/2024/02/i-tried-to-jump-back-into-jrpgs-with-ffvii-rebirth-and-that-was-a-big-mistake/).
 
 ## Requirements
 - Python 3.8
