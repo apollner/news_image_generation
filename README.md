@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin says Biden calling Putin a 'crazy SOB' debases the US**
+**MLB players add see-through pants to concerns with new uniforms**
 
-You can read more about it [here](https://www.reuters.com/world/kremlin-says-biden-remarks-about-putin-debase-united-states-2024-02-22/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/39577625/mlb-players-add-see-pants-concerns-new-uniforms).
 
 ## Requirements
 - Python 3.8
