@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google pauses Gemini's ability to generate AI images of people after diversity errors**
+**AT&T, other cell service providers having outages, customers report**
 
-You can read more about it [here](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause).
+You can read more about it [here](https://www.cbsnews.com/news/numerous-us-cellphone-providers-experiencing-outages-downdector/).
 
 ## Requirements
 - Python 3.8
