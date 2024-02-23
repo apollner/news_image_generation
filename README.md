@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK parliament speaker gives Labour leadership Gaza ceasefire vote reprieve**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/21/uk-parliament-speaker-gives-labour-leadership-gaza-ceasefire-vote-reprieve).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
