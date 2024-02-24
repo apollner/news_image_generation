@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration will impose sanctions on more than 500 targets in response to Navalny death**
+**Nike's MLB uniform rollout reaches new stage of frustration — a pants shortage**
 
-You can read more about it [here](https://www.cnn.com/2024/02/22/politics/sanctions-russia-navalny-death/index.html).
+You can read more about it [here](https://theathletic.com/5293760/2024/02/22/mlb-uniforms-pants-shortage-nike-fanatics/).
 
 ## Requirements
 - Python 3.8
