@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweeping chronic fatigue study brings clues but not clarity to mysterious syndrome**
+**Biden administration will impose sanctions on more than 500 targets in response to Navalny death**
 
-You can read more about it [here](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome).
+You can read more about it [here](https://www.cnn.com/2024/02/22/politics/sanctions-russia-navalny-death/index.html).
 
 ## Requirements
 - Python 3.8
