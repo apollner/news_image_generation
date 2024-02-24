@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed interest rate cut may be delayed long enough to set off recession**
+**The blueprint to beat Iowa has been exposed. Can Hawkeyes overcome it?**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/02/23/fed-interest-rate-cut-delay-cause-recession/72698385007/).
+You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2024/02/23/iowa-womens-basketball-caitlin-clark-lisa-bluder-indiana-assembly-hall-hawkeyes/72698902007/).
 
 ## Requirements
 - Python 3.8
