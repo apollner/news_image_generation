@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb telescope may have solved lingering mystery of 1987 supernova**
+**Sweeping chronic fatigue study brings clues but not clarity to mysterious syndrome**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/02/22/supernova-1987a-webb-telescope-neutron-star/).
+You can read more about it [here](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome).
 
 ## Requirements
 - Python 3.8
