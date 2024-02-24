@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The blueprint to beat Iowa has been exposed. Can Hawkeyes overcome it?**
+**Israel's PM Netanyahu lays out Gaza plan for after the war**
 
-You can read more about it [here](https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2024/02/23/iowa-womens-basketball-caitlin-clark-lisa-bluder-indiana-assembly-hall-hawkeyes/72698902007/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68379646).
 
 ## Requirements
 - Python 3.8
