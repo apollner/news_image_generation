@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'RHOA' star Porsha Williams files for divorce from husband Simon Guobadia after just 1 year of marriage**
+**Political violence adviser urges new police powers to protect MPs**
 
-You can read more about it [here](https://pagesix.com/2024/02/23/entertainment/porsha-williams-files-for-divorce-from-husband-simon-guobadia/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68377243).
 
 ## Requirements
 - Python 3.8
