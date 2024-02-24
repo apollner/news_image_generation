@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy Williams diagnosed with primary progressive aphasia and frontotemporal dementia**
+**NFL salary cap rises $30.6 million to record $255.4 million per team**
 
-You can read more about it [here](https://www.cbsnews.com/news/wendy-williams-diagnosed-with-primary-progressive-aphasia-frontotemporal-dementia/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39584679/nfl-salary-cap-rises-306-million-record-2554-million-per-team).
 
 ## Requirements
 - Python 3.8
