@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB players add see-through pants to concerns with new uniforms**
+**How to get iMessage quantum security**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39577625/mlb-players-add-see-pants-concerns-new-uniforms).
+You can read more about it [here](https://9to5mac.com/2024/02/22/how-to-get-imessage-quantum-security/).
 
 ## Requirements
 - Python 3.8
