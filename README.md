@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Windows-as-a-nuisance: How I clean up a “clean install” of Windows 11 and Edge**
+**Deadly fire in Spain's southern city of Valencia has grim echoes of London Grenfell Tower disaster**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/).
+You can read more about it [here](https://www.cbsnews.com/news/spain-fire-valencia-apartment-building-deaths-echoes-london-grenfell-tower/).
 
 ## Requirements
 - Python 3.8
