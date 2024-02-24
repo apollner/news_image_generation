@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New anaconda species said to be largest ever found during filming of Will Smith docuseries**
+**How Sam Waterston’s Jack McCoy Exited ‘Law & Order’**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/02/22/new-giant-anaconda-species-found-amazon/72701331007/).
+You can read more about it [here](https://variety.com/2024/tv/news/what-happened-jack-mccoy-law-and-order-sam-waterston-1235918482/).
 
 ## Requirements
 - Python 3.8
