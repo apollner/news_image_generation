@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best Fits for Mike Evans, Tee Higgins in 2024 NFL Free Agency**
+**Fed interest rate cut may be delayed long enough to set off recession**
 
-You can read more about it [here](https://www.si.com/nfl/2024/02/23/best-fits-tee-higgins-mike-evans-free-agents).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/02/23/fed-interest-rate-cut-delay-cause-recession/72698385007/).
 
 ## Requirements
 - Python 3.8
