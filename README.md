@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike's MLB uniform rollout reaches new stage of frustration — a pants shortage**
+**Florida surgeon general defies science amid measles outbreak**
 
-You can read more about it [here](https://theathletic.com/5293760/2024/02/22/mlb-uniforms-pants-shortage-nike-fanatics/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/02/22/florida-measles-outbreak-ladapo/).
 
 ## Requirements
 - Python 3.8
