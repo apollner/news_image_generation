@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI informant accused of lying about $10M Biden bribery allegation rearrested under ‘bizarre circumstances’**
+**Charlie Woods competes in first PGA TOUR pre-qualifier**
 
-You can read more about it [here](https://nypost.com/2024/02/22/us-news/fbi-informant-accused-of-lying-about-biden-bribery-allegation-rearrested/).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/02/22/updates-charlie-woods-underway-at-the-cognizant-classic-pre-qualifier-palm-beaches-tiger-monday-five-and-ties-spots-scores).
 
 ## Requirements
 - Python 3.8
