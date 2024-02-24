@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New sickle cell gene therapies are a breakthrough, but solving how to pay their high prices is a struggle**
+**Lander 'alive and well' after company scores first US moon landing since Apollo era**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/23/sickle-cell-disease-gene-therapies-casgevy-lyfgenia-insurance-cost-issues.html).
+You can read more about it [here](https://apnews.com/article/moon-landing-private-odysseus-nasa-14dfdc76176f9f7a6a68a099c98bbbb9).
 
 ## Requirements
 - Python 3.8
