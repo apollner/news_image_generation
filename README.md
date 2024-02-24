@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama IVF ruling a political gift for Democrats, headache for Republicans**
+**‘Norovirus’ slams Northeast US hardest in recent weeks: CDC**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68377136).
+You can read more about it [here](https://thehill.com/policy/healthcare/4484460-norovirus-slams-northeast-us-hardest-in-recent-weeks-cdc/).
 
 ## Requirements
 - Python 3.8
