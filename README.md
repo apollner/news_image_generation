@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Political violence adviser urges new police powers to protect MPs**
+**Windows-as-a-nuisance: How I clean up a “clean install” of Windows 11 and Edge**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68377243).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/).
 
 ## Requirements
 - Python 3.8
