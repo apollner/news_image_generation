@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The sun just launched three huge solar flares in 24 hours. What it means.**
+**Putin flexes power with Navalny death, also highlights regime's weakness**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/22/solar-flares-cycle-xclass-radio-att/).
+You can read more about it [here](https://www.businessinsider.com/putin-flexes-power-navalny-death-also-highlights-regime-weakness-2024-2).
 
 ## Requirements
 - Python 3.8
