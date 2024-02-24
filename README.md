@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Norovirus’ slams Northeast US hardest in recent weeks: CDC**
+**SpaceX launch lights up the Southern California skies as Falcon 9 delivers more Starlink satellites to network**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4484460-norovirus-slams-northeast-us-hardest-in-recent-weeks-cdc/).
+You can read more about it [here](https://abc7.com/spacex-launch-falcon-9-rocket-starlink-satellite-vandenberg-air-force-base/14459281/).
 
 ## Requirements
 - Python 3.8
