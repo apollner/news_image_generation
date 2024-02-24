@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly fire in Spain's southern city of Valencia has grim echoes of London Grenfell Tower disaster**
+**New sickle cell gene therapies are a breakthrough, but solving how to pay their high prices is a struggle**
 
-You can read more about it [here](https://www.cbsnews.com/news/spain-fire-valencia-apartment-building-deaths-echoes-london-grenfell-tower/).
+You can read more about it [here](https://www.cnbc.com/2024/02/23/sickle-cell-disease-gene-therapies-casgevy-lyfgenia-insurance-cost-issues.html).
 
 ## Requirements
 - Python 3.8
