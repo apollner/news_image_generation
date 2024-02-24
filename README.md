@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin flexes power with Navalny death, also highlights regime's weakness**
+**So Long, Sam Waterston: How ‘Law & Order’ Bid Farewell To His Character Jack McCoy**
 
-You can read more about it [here](https://www.businessinsider.com/putin-flexes-power-navalny-death-also-highlights-regime-weakness-2024-2).
+You can read more about it [here](http://deadline.com/2024/02/sam-waterston-exit-law-and-order-jack-mccoy-1235833209/).
 
 ## Requirements
 - Python 3.8
