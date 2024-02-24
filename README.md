@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Citing presidential immunity, Trump’s lawyers urge dismissal of classified documents case**
+**Want to understand OpenAI’s Sora? Take a look at Midjourney and DALL-E 2.**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trumps-lawyers-call-for-dismissal-of-classified-documents-case-citing-presidential-immunity).
+You can read more about it [here](https://www.vox.com/future-perfect/24080195/sora-openai-sam-altman-ai-generated-videos-disinformation-midjourney-dalle).
 
 ## Requirements
 - Python 3.8
