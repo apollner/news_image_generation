@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Want to understand OpenAI’s Sora? Take a look at Midjourney and DALL-E 2.**
+**Police ID person of interest in death of Augusta University student found dead on UGA campus**
 
-You can read more about it [here](https://www.vox.com/future-perfect/24080195/sora-openai-sam-altman-ai-generated-videos-disinformation-midjourney-dalle).
+You can read more about it [here](https://www.cnn.com/2024/02/23/us/uga-augusta-university-student-death/index.html).
 
 ## Requirements
 - Python 3.8
