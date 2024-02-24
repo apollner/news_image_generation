@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**So Long, Sam Waterston: How ‘Law & Order’ Bid Farewell To His Character Jack McCoy**
+**The sun just launched three huge solar flares in 24 hours. What it means.**
 
-You can read more about it [here](http://deadline.com/2024/02/sam-waterston-exit-law-and-order-jack-mccoy-1235833209/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/22/solar-flares-cycle-xclass-radio-att/).
 
 ## Requirements
 - Python 3.8
