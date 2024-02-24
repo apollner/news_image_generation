@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After recent cellphone outage, it's clear landlines are now rare**
+**Wendy Williams diagnosed with primary progressive aphasia and frontotemporal dementia**
 
-You can read more about it [here](https://apnews.com/article/landlines-cellular-phones-outage-a23b296d420917f7835e3cd9860c7bd5).
+You can read more about it [here](https://www.cbsnews.com/news/wendy-williams-diagnosed-with-primary-progressive-aphasia-frontotemporal-dementia/).
 
 ## Requirements
 - Python 3.8
