@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Sam Waterston’s Jack McCoy Exited ‘Law & Order’**
+**Webb telescope may have solved lingering mystery of 1987 supernova**
 
-You can read more about it [here](https://variety.com/2024/tv/news/what-happened-jack-mccoy-law-and-order-sam-waterston-1235918482/).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/02/22/supernova-1987a-webb-telescope-neutron-star/).
 
 ## Requirements
 - Python 3.8
