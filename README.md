@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL trade rumors: Geno Smith, Stefon Diggs among seven surprise big names who could be dealt**
+**Oklahoma teenager's death brings term 'gender expansive' to the light**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-trade-rumors-geno-smith-stefon-diggs-among-seven-surprise-big-names-who-could-be-dealt/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/22/gender-expansive-nex-benedict-oklahoma/72700938007/).
 
 ## Requirements
 - Python 3.8
