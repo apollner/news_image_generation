@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police ID person of interest in death of Augusta University student found dead on UGA campus**
+**After recent cellphone outage, it's clear landlines are now rare**
 
-You can read more about it [here](https://www.cnn.com/2024/02/23/us/uga-augusta-university-student-death/index.html).
+You can read more about it [here](https://apnews.com/article/landlines-cellular-phones-outage-a23b296d420917f7835e3cd9860c7bd5).
 
 ## Requirements
 - Python 3.8
