@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlie Woods competes in first PGA TOUR pre-qualifier**
+**Nike's MLB uniform rollout reaches new stage of frustration — a pants shortage**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/02/22/updates-charlie-woods-underway-at-the-cognizant-classic-pre-qualifier-palm-beaches-tiger-monday-five-and-ties-spots-scores).
+You can read more about it [here](https://theathletic.com/5293760/2024/02/22/mlb-uniforms-pants-shortage-nike-fanatics/).
 
 ## Requirements
 - Python 3.8
