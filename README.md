@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HIV/AIDS activist Hydeia Broadbent, known for her inspirational talks as a young child, dies at 39**
+**How Sam Waterston’s Jack McCoy Exited ‘Law & Order’**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/hivaids-activist-hydeia-broadbent-inspirational-talks-young-child-107454446).
+You can read more about it [here](https://variety.com/2024/tv/news/what-happened-jack-mccoy-law-and-order-sam-waterston-1235918482/).
 
 ## Requirements
 - Python 3.8
