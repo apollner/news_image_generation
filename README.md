@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to get iMessage quantum security**
+**Projecting Miami's ten fastest players in EA Sports College Football 25**
 
-You can read more about it [here](https://9to5mac.com/2024/02/22/how-to-get-imessage-quantum-security/).
+You can read more about it [here](https://247sports.com/college/miami/longformarticle/projecting-miami-hurricanes-football-fastest-players-in-ea-sports-college-football-25-more-227568892/).
 
 ## Requirements
 - Python 3.8
