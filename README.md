@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlie Woods, Tiger's son, shoots 86 in 1st attempt to qualify for PGA Tour event, with fan behavior an issue**
+**The sun just launched three huge solar flares in 24 hours. What it means.**
 
-You can read more about it [here](https://sports.yahoo.com/charlie-woods-tigers-son-shoots-86-in-1st-attempt-to-qualify-for-pga-tour-event-with-fan-behavior-an-issue-171702683.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/02/22/solar-flares-cycle-xclass-radio-att/).
 
 ## Requirements
 - Python 3.8
