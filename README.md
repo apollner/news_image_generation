@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida surgeon general defies science amid measles outbreak**
+**Alabama IVF ruling a political gift for Democrats, headache for Republicans**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/02/22/florida-measles-outbreak-ladapo/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68377136).
 
 ## Requirements
 - Python 3.8
