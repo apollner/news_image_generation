@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oklahoma teenager's death brings term 'gender expansive' to the light**
+**‘Norovirus’ slams Northeast US hardest in recent weeks: CDC**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/22/gender-expansive-nex-benedict-oklahoma/72700938007/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4484460-norovirus-slams-northeast-us-hardest-in-recent-weeks-cdc/).
 
 ## Requirements
 - Python 3.8
