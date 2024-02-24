@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Audrii Cunningham murder: Texas 11-year-old cause of death revealed 2 days after body found in Trinity River**
+**HIV/AIDS activist Hydeia Broadbent, known for her inspirational talks as a young child, dies at 39**
 
-You can read more about it [here](https://abc7.com/audrii-cunningham-death-livingston-texas-girl-murdered-amber-alert-don-steven-mcdougal-crimes/14457903/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/hivaids-activist-hydeia-broadbent-inspirational-talks-young-child-107454446).
 
 ## Requirements
 - Python 3.8
