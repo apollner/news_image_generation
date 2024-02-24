@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike's MLB uniform rollout reaches new stage of frustration — a pants shortage**
+**2024 NFL trade rumors: Geno Smith, Stefon Diggs among seven surprise big names who could be dealt**
 
-You can read more about it [here](https://theathletic.com/5293760/2024/02/22/mlb-uniforms-pants-shortage-nike-fanatics/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-trade-rumors-geno-smith-stefon-diggs-among-seven-surprise-big-names-who-could-be-dealt/).
 
 ## Requirements
 - Python 3.8
