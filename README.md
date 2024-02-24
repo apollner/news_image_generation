@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lander 'alive and well' after company scores first US moon landing since Apollo era**
+**Citing presidential immunity, Trump’s lawyers urge dismissal of classified documents case**
 
-You can read more about it [here](https://apnews.com/article/moon-landing-private-odysseus-nasa-14dfdc76176f9f7a6a68a099c98bbbb9).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trumps-lawyers-call-for-dismissal-of-classified-documents-case-citing-presidential-immunity).
 
 ## Requirements
 - Python 3.8
