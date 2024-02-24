@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Projecting Miami's ten fastest players in EA Sports College Football 25**
+**Audrii Cunningham murder: Texas 11-year-old cause of death revealed 2 days after body found in Trinity River**
 
-You can read more about it [here](https://247sports.com/college/miami/longformarticle/projecting-miami-hurricanes-football-fastest-players-in-ea-sports-college-football-25-more-227568892/).
+You can read more about it [here](https://abc7.com/audrii-cunningham-death-livingston-texas-girl-murdered-amber-alert-don-steven-mcdougal-crimes/14457903/).
 
 ## Requirements
 - Python 3.8
