@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge formally says Trump owes $454 million in civil fraud case, countdown starts for him to put up the money for appeal**
+**Trump says he supports IVF following Alabama embryo ruling**
 
-You can read more about it [here](https://www.cnn.com/2024/02/23/politics/trump-judgment-civil-fraud-ruling/index.html).
+You can read more about it [here](https://apnews.com/article/trump-ivf-abortion-alabama-republicans-8215336740a5963b57bbd970b47bb3a7).
 
 ## Requirements
 - Python 3.8
