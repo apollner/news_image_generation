@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu Outlines Postwar Gaza Plan That Palestinians Say Means Occupation**
+**Bengals inform Tee Higgins that he'll receive franchise tag**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/netanyahu-presents-blueprint-for-postwar-gaza-with-free-rein-for-israeli-military-36b1d53c).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-inform-tee-higgins-that-hell-receive-franchise-tag).
 
 ## Requirements
 - Python 3.8
