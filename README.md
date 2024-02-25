@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It took the rug right out from under my life': Milestone ME/CFS study begins to explain disease, but will it lead to treatments?**
+**Stock market today: Live updates**
 
-You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/it-took-the-rug-right-out-from-under-my-life-milestone-mecfs-study-begins-to-explain-disease-but-will-it-lead-to-treatments).
+You can read more about it [here](https://www.cnbc.com/2024/02/22/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
