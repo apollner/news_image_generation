@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**On 2024 South Carolina GOP primary election day, does former Gov. Nikki Haley have the pull to beat Trump?**
+**As US Congress stalls on aid, Ukrainian soldiers head to the frontlines knowing they don’t have enough ammunition**
 
-You can read more about it [here](https://www.cbsnews.com/news/2024-south-carolina-republican-primary/).
+You can read more about it [here](https://www.cnn.com/2024/02/24/europe/ukraine-ammunition-shortage-us-congress-russia-intl/index.html).
 
 ## Requirements
 - Python 3.8
