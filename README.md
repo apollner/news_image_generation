@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Elimination Chamber 2024 Results: Winners, Live Grades, Reaction and Highlights**
+**Trump claims Black Americans relate to his criminal prosecutions**
 
-You can read more about it [here](https://bleacherreport.com/articles/10110477-wwe-elimination-chamber-2024-results-winners-live-grades-reaction-and-highlights).
+You can read more about it [here](https://abcnews.go.com/US/trump-claims-black-americans-relate-criminal-prosecutions/story?id=107509919).
 
 ## Requirements
 - Python 3.8
