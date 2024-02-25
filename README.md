@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Live updates**
+**Nvidia Hits $2 Trillion Valuation on Insatiable AI Chip Demand**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/22/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.wsj.com/tech/ai/nvidia-stock-market-cap-2-trillion-b1c839c8).
 
 ## Requirements
 - Python 3.8
