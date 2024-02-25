@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health department issues warning after Metro Detroit child comes down with highly contagious virus**
+**Olympian Gabby Douglas 'crushed' her gymnastics return was put on hold after positive COVID test**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2024/02/24/health-department-issues-warning-after-metro-detroit-child-comes-down-with-highly-contagious-virus/).
+You can read more about it [here](https://www.foxnews.com/sports/olympian-gabby-douglas-return-to-gymnastics-delayed-due-to-covid-19).
 
 ## Requirements
 - Python 3.8
