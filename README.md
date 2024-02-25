@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google explains why Gemini's image generation feature overcorrected for diversity**
+**Patriots Rumors: Potential Wide Receiver Target Franchise Tagged By Bengals**
 
-You can read more about it [here](https://www.engadget.com/google-explains-why-geminis-image-generation-feature-overcorrected-for-diversity-121532787.html).
+You can read more about it [here](https://nesn.com/2024/02/patriots-rumors-potential-wide-receiver-target-franchise-tagged-by-bengals/).
 
 ## Requirements
 - Python 3.8
