@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defeat to Donald Trump looms over Nikki Haley. So why stay in the race?**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68387546).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
