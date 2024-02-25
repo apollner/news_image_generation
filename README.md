@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defeat to Donald Trump looms over Nikki Haley. So why stay in the race?**
+**“I felt incredibly unsafe during those three days” students react as suspected UCCS shooter makes court appearance**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68387546).
+You can read more about it [here](https://www.kktv.com/2024/02/24/i-felt-incredibly-unsafe-during-those-three-days-students-react-suspected-uccs-shooter-makes-court-appearance/).
 
 ## Requirements
 - Python 3.8
