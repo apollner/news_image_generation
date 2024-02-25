@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Hits $2 Trillion Valuation on Insatiable AI Chip Demand**
+**Federal judge blocks NCAA from enforcing NIL rules**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/nvidia-stock-market-cap-2-trillion-b1c839c8).
+You can read more about it [here](https://theathletic.com/5295907/2024/02/23/tennessee-ncaa-nil-lawsuit-injunction/).
 
 ## Requirements
 - Python 3.8
