@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olympian Gabby Douglas 'crushed' her gymnastics return was put on hold after positive COVID test**
+**Judge formally says Trump owes $454 million in civil fraud case, countdown starts for him to put up the money for appeal**
 
-You can read more about it [here](https://www.foxnews.com/sports/olympian-gabby-douglas-return-to-gymnastics-delayed-due-to-covid-19).
+You can read more about it [here](https://www.cnn.com/2024/02/23/politics/trump-judgment-civil-fraud-ruling/index.html).
 
 ## Requirements
 - Python 3.8
