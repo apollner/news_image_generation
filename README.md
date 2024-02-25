@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Xiaomi 14 Ultra's camera grip works with rival phones too**
+**Google explains why Gemini's image generation feature overcorrected for diversity**
 
-You can read more about it [here](https://www.androidauthority.com/xiaomi-14-ultra-camera-grip-support-other-phones-3418857/).
+You can read more about it [here](https://www.engadget.com/google-explains-why-geminis-image-generation-feature-overcorrected-for-diversity-121532787.html).
 
 ## Requirements
 - Python 3.8
