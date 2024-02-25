@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge blocks NCAA from enforcing NIL rules**
+**Netanyahu Outlines Postwar Gaza Plan That Palestinians Say Means Occupation**
 
-You can read more about it [here](https://theathletic.com/5295907/2024/02/23/tennessee-ncaa-nil-lawsuit-injunction/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/netanyahu-presents-blueprint-for-postwar-gaza-with-free-rein-for-israeli-military-36b1d53c).
 
 ## Requirements
 - Python 3.8
