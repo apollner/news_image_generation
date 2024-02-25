@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As US Congress stalls on aid, Ukrainian soldiers head to the frontlines knowing they don’t have enough ammunition**
+**Warren Buffett calls out stock-market gamblers in his annual letter**
 
-You can read more about it [here](https://www.cnn.com/2024/02/24/europe/ukraine-ammunition-shortage-us-congress-russia-intl/index.html).
+You can read more about it [here](https://www.businessinsider.com/warren-buffett-letter-munger-berkshire-annual-shareholder-stock-speculation-ai-2024-2).
 
 ## Requirements
 - Python 3.8
