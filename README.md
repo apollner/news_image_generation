@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why College Football Playoff needs modified system to evaluate contenders amid expansion into 12-team era**
+**US warns of ‘disaster’ amid oil slick in Red Sea from ship hit by Houthis**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/why-college-football-playoff-needs-modified-system-to-evaluate-contenders-amid-expansion-into-12-team-era/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/24/us-warns-of-disaster-amid-oil-slick-in-red-sea-from-ship-hit-by-houthis).
 
 ## Requirements
 - Python 3.8
