@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warns of ‘disaster’ amid oil slick in Red Sea from ship hit by Houthis**
+**Defeat to Donald Trump looms over Nikki Haley. So why stay in the race?**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/24/us-warns-of-disaster-amid-oil-slick-in-red-sea-from-ship-hit-by-houthis).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68387546).
 
 ## Requirements
 - Python 3.8
