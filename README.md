@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope cancels audiences due to mild flu - Vatican News**
+**The Xiaomi 14 Ultra's camera grip works with rival phones too**
 
-You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-02/pope-cancels-audiences-due-to-mild-flu.html).
+You can read more about it [here](https://www.androidauthority.com/xiaomi-14-ultra-camera-grip-support-other-phones-3418857/).
 
 ## Requirements
 - Python 3.8
