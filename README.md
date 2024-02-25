@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Visual analysis: Ukraine's war of survival enters third year**
+**WWE Elimination Chamber 2024 Results: Winners, Live Grades, Reaction and Highlights**
 
-You can read more about it [here](https://www.ft.com/content/39656a7f-fcf8-4ceb-b162-041863dc7a55).
+You can read more about it [here](https://bleacherreport.com/articles/10110477-wwe-elimination-chamber-2024-results-winners-live-grades-reaction-and-highlights).
 
 ## Requirements
 - Python 3.8
