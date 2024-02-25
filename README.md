@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 2/23/24, $525 million jackpot**
+**Health department issues warning after Metro Detroit child comes down with highly contagious virus**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/02/23/mega-millions-winning-numbers/72715581007/).
+You can read more about it [here](https://www.clickondetroit.com/news/local/2024/02/24/health-department-issues-warning-after-metro-detroit-child-comes-down-with-highly-contagious-virus/).
 
 ## Requirements
 - Python 3.8
