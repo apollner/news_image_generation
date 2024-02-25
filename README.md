@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**February's Full Snow Moon rises tonight, the smallest full moon of 2024**
+**Man WFH made $1.8M on BP shares after eavesdropping wife's business calls**
 
-You can read more about it [here](https://www.space.com/full-moon-rises-tonight-february-2024).
+You can read more about it [here](https://www.businessinsider.com/man-made-1-8m-bp-shares-listening-wifes-calls-sec-2024-2).
 
 ## Requirements
 - Python 3.8
