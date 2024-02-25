@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett calls out stock-market gamblers in his annual letter**
+**February's Full Snow Moon rises tonight, the smallest full moon of 2024**
 
-You can read more about it [here](https://www.businessinsider.com/warren-buffett-letter-munger-berkshire-annual-shareholder-stock-speculation-ai-2024-2).
+You can read more about it [here](https://www.space.com/full-moon-rises-tonight-february-2024).
 
 ## Requirements
 - Python 3.8
