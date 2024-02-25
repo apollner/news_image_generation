@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce departing from Australia after Taylor Swift concert for Vegas trip with Patrick Mahomes**
+**Visual analysis: Ukraine's war of survival enters third year**
 
-You can read more about it [here](https://nypost.com/2024/02/23/sports/travis-kelce-departing-from-australia-after-taylor-swift-concert-for-vegas-trip-with-patrick-mahomes/).
+You can read more about it [here](https://www.ft.com/content/39656a7f-fcf8-4ceb-b162-041863dc7a55).
 
 ## Requirements
 - Python 3.8
