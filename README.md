@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“I felt incredibly unsafe during those three days” students react as suspected UCCS shooter makes court appearance**
+**Travis Kelce departing from Australia after Taylor Swift concert for Vegas trip with Patrick Mahomes**
 
-You can read more about it [here](https://www.kktv.com/2024/02/24/i-felt-incredibly-unsafe-during-those-three-days-students-react-suspected-uccs-shooter-makes-court-appearance/).
+You can read more about it [here](https://nypost.com/2024/02/23/sports/travis-kelce-departing-from-australia-after-taylor-swift-concert-for-vegas-trip-with-patrick-mahomes/).
 
 ## Requirements
 - Python 3.8
