@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he supports IVF following Alabama embryo ruling**
+**Mega Millions winning numbers for 2/23/24, $525 million jackpot**
 
-You can read more about it [here](https://apnews.com/article/trump-ivf-abortion-alabama-republicans-8215336740a5963b57bbd970b47bb3a7).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/02/23/mega-millions-winning-numbers/72715581007/).
 
 ## Requirements
 - Python 3.8
