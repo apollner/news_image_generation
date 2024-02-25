@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu’s post-war plan for Gaza Strip draws cool US reception**
+**Why College Football Playoff needs modified system to evaluate contenders amid expansion into 12-team era**
 
-You can read more about it [here](https://www.timesofisrael.com/netanyahus-post-war-plan-for-gaza-strip-draws-cool-us-reception/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/why-college-football-playoff-needs-modified-system-to-evaluate-contenders-amid-expansion-into-12-team-era/).
 
 ## Requirements
 - Python 3.8
