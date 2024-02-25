@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olympian Gabby Douglas 'crushed' her gymnastics return was put on hold after positive COVID test**
+**Two years of Russia's war in Ukraine: Live updates**
 
-You can read more about it [here](https://www.foxnews.com/sports/olympian-gabby-douglas-return-to-gymnastics-delayed-due-to-covid-19).
+You can read more about it [here](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-02-24-24/index.html).
 
 ## Requirements
 - Python 3.8
