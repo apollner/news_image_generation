@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patriots Rumors: Potential Wide Receiver Target Franchise Tagged By Bengals**
+**On 2024 South Carolina GOP primary election day, does former Gov. Nikki Haley have the pull to beat Trump?**
 
-You can read more about it [here](https://nesn.com/2024/02/patriots-rumors-potential-wide-receiver-target-franchise-tagged-by-bengals/).
+You can read more about it [here](https://www.cbsnews.com/news/2024-south-carolina-republican-primary/).
 
 ## Requirements
 - Python 3.8
