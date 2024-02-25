@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two years of Russia's war in Ukraine: Live updates**
+**Mega Millions winning numbers for 2/23/24, $525 million jackpot**
 
-You can read more about it [here](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-02-24-24/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/02/23/mega-millions-winning-numbers/72715581007/).
 
 ## Requirements
 - Python 3.8
