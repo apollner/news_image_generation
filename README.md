@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL salary cap rises $30.6 million to record $255.4 million per team**
+**'It took the rug right out from under my life': Milestone ME/CFS study begins to explain disease, but will it lead to treatments?**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39584679/nfl-salary-cap-rises-306-million-record-2554-million-per-team).
+You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/it-took-the-rug-right-out-from-under-my-life-milestone-mecfs-study-begins-to-explain-disease-but-will-it-lead-to-treatments).
 
 ## Requirements
 - Python 3.8
