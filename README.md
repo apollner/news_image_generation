@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flaco the owl dies after colliding with a New York building**
+**US warns of ‘disaster’ amid oil slick in Red Sea from ship hit by Houthis**
 
-You can read more about it [here](https://apnews.com/article/flaco-owl-dies-central-park-zoo-escape-e44939489c422379723d9fdec1b8c9db).
+You can read more about it [here](https://www.aljazeera.com/news/2024/2/24/us-warns-of-disaster-amid-oil-slick-in-red-sea-from-ship-hit-by-houthis).
 
 ## Requirements
 - Python 3.8
