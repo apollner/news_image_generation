@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge blocks NCAA from enforcing NIL rules**
+**Olympian Gabby Douglas 'crushed' her gymnastics return was put on hold after positive COVID test**
 
-You can read more about it [here](https://theathletic.com/5295907/2024/02/23/tennessee-ncaa-nil-lawsuit-injunction/).
+You can read more about it [here](https://www.foxnews.com/sports/olympian-gabby-douglas-return-to-gymnastics-delayed-due-to-covid-19).
 
 ## Requirements
 - Python 3.8
