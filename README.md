@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 2/23/24, $525 million jackpot**
+**Netanyahu’s post-war plan for Gaza Strip draws cool US reception**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/02/23/mega-millions-winning-numbers/72715581007/).
+You can read more about it [here](https://www.timesofisrael.com/netanyahus-post-war-plan-for-gaza-strip-draws-cool-us-reception/).
 
 ## Requirements
 - Python 3.8
