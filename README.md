@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce departing from Australia after Taylor Swift concert for Vegas trip with Patrick Mahomes**
+**Flaco the owl dies after colliding with a New York building**
 
-You can read more about it [here](https://nypost.com/2024/02/23/sports/travis-kelce-departing-from-australia-after-taylor-swift-concert-for-vegas-trip-with-patrick-mahomes/).
+You can read more about it [here](https://apnews.com/article/flaco-owl-dies-central-park-zoo-escape-e44939489c422379723d9fdec1b8c9db).
 
 ## Requirements
 - Python 3.8
