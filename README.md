@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump claims Black Americans relate to his criminal prosecutions**
+**Pope cancels audiences due to mild flu - Vatican News**
 
-You can read more about it [here](https://abcnews.go.com/US/trump-claims-black-americans-relate-criminal-prosecutions/story?id=107509919).
+You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-02/pope-cancels-audiences-due-to-mild-flu.html).
 
 ## Requirements
 - Python 3.8
