@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals inform Tee Higgins that he'll receive franchise tag**
+**Suspect in death of Augusta University student found on UGA campus taken into custody**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-inform-tee-higgins-that-hell-receive-franchise-tag).
+You can read more about it [here](https://www.cnn.com/2024/02/23/us/uga-augusta-university-student-death/index.html).
 
 ## Requirements
 - Python 3.8
