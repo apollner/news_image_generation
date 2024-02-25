@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warns of ‘disaster’ amid oil slick in Red Sea from ship hit by Houthis**
+**The West tried to crush Russia's economy. Why hasn't it worked?**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/2/24/us-warns-of-disaster-amid-oil-slick-in-red-sea-from-ship-hit-by-houthis).
+You can read more about it [here](https://www.politico.com/news/2024/02/24/russia-economy-west-sanctions-00142713).
 
 ## Requirements
 - Python 3.8
