@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in death of Augusta University student found on UGA campus taken into custody**
+**Netanyahu’s post-war plan for Gaza Strip draws cool US reception**
 
-You can read more about it [here](https://www.cnn.com/2024/02/23/us/uga-augusta-university-student-death/index.html).
+You can read more about it [here](https://www.timesofisrael.com/netanyahus-post-war-plan-for-gaza-strip-draws-cool-us-reception/).
 
 ## Requirements
 - Python 3.8
