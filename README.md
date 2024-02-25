@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami Dolphins will be challenged to replace Xavien Howard, who was Chris Grier's top draft pick during his tenure as General Manager**
+**Russia-Ukraine war anniversary: Western leaders in Kyiv as Russian drone hits Odesa**
 
-You can read more about it [here](https://www.si.com/nfl/dolphins/news/miami-dolphins-must-replace-xavien-howard).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-second-anniversary-65088ba9eb9bd729cf8c677e2115cb35).
 
 ## Requirements
 - Python 3.8
