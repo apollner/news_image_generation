@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gavin Newsom launches red-state abortion ads over 'war on travel'**
+**Shane Gillis addresses his 'SNL' firing in monologue**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/25/gavin-newsom-abortion-ads-00143173).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/02/25/shane-gillis-saturday-night-live-snl-monologue/72736483007/).
 
 ## Requirements
 - Python 3.8
