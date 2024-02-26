@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RNC Member Trying to Stop Party from Paying Trump’s Legal Bills**
+**Barbie's hot pink flip phone is coming to the real world this summer**
 
-You can read more about it [here](http://www.rollingstone.com/politics/politics-news/rnc-member-stop-party-paying-trump-legal-bills-1234975239/).
+You can read more about it [here](https://www.engadget.com/barbies-hot-pink-flip-phone-is-coming-to-the-real-world-this-summer-170805284.html).
 
 ## Requirements
 - Python 3.8
