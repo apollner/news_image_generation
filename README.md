@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball numbers 2/24/24: Did anyone win Powerball last night?**
+**Scrub! SpaceX postpones Starlink Falcon 9 launch to Sunday from Cape Canaveral, Florida**
 
-You can read more about it [here](https://www.indystar.com/story/news/2024/02/24/powerball-numbers-feb-24-lottery-drawing-jackpot-anyone-win-power-ball-tonight-2-24-24-megamillions/72728078007/).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/02/24/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/72686837007/).
 
 ## Requirements
 - Python 3.8
