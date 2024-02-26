@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israeli media report progress on Gaza cease-fire**
+**Laken Riley murder suspect Jose Ibarra lived within 5-minute walk of UGA crime scene**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-25-2024-f3e4ea708548689cf8d9d404c3ee94ee).
+You can read more about it [here](https://www.foxnews.com/us/laken-riley-murder-suspect-jose-ibarra-lived-within-5-minute-walk-uga-crime-scene).
 
 ## Requirements
 - Python 3.8
