@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin’s ‘greatest hits’: Russian dissidents continue disappearing in pattern of bizarre deaths**
+**Vigils held nationwide for nonbinary Oklahoma teenager who died following school bathroom fight**
 
-You can read more about it [here](https://www.foxnews.com/world/putins-greatest-hits-russian-dissidents-continue-disappearing-pattern-bizarre-deaths).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/vigils-held-nationwide-nonbinary-oklahoma-teenager-died-school-107526157).
 
 ## Requirements
 - Python 3.8
