@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG Awards 2024: Full Recap**
+**Wendy Williams thanks fans for support after dementia and aphasia diagnosis**
 
-You can read more about it [here](https://people.com/sag-awards-2024-full-recap-8597987).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68391330).
 
 ## Requirements
 - Python 3.8
