@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the South Carolina GOP primary and 2024 campaign**
+**One of the world’s biggest cities may be just months away from running out of water**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/south-carolina-primary-02-24-24/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
