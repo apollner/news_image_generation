@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball winning numbers for Feb. 24: Jackpot rises to $376 million**
+**Georgia Gov. Brian Kemp demands answers from Biden on Laken Riley suspected killer's immigration status**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/02/24/powerball-winning-numbers/72729248007/).
+You can read more about it [here](https://www.foxnews.com/politics/georgia-governor-brian-kemp-demands-answers-from-president-biden-laken-riley-killers-immigration-status).
 
 ## Requirements
 - Python 3.8
