@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SAG Awards 2024: Oppenheimer dominates ahead of Oscars**
+**RNC Member Trying to Stop Party from Paying Trump’s Legal Bills**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68395355).
+You can read more about it [here](http://www.rollingstone.com/politics/politics-news/rnc-member-stop-party-paying-trump-legal-bills-1234975239/).
 
 ## Requirements
 - Python 3.8
