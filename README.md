@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli media report progress on reaching a temporary truce in Gaza and a hostage-prisoner exchange**
+**Why the Cubs should believe in Cody Bellinger's resurgence as former MVP inks three-year deal, per report**
 
-You can read more about it [here](https://news.yahoo.com/israeli-media-report-progress-reaching-083106943.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/why-the-cubs-should-believe-in-cody-bellingers-resurgence-as-former-mvp-inks-three-year-deal-per-report/).
 
 ## Requirements
 - Python 3.8
