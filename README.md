@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An RNC member is trying to stop the party from paying Donald Trump's legal bills**
+**Google says Microsoft offered to sell Bing to Apple in 2018, but search-quality issues got in the way**
 
-You can read more about it [here](https://apnews.com/article/trump-republican-national-committee-stop-legal-bills-ff51a7ae8b5d872344e64a9a18851350).
+You can read more about it [here](https://www.cnbc.com/2024/02/24/google-says-microsoft-offered-to-sell-bing-to-apple-in-2018.html).
 
 ## Requirements
 - Python 3.8
