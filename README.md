@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Fat Missiles To Take Down Big Fat Russian Planes. How Ukraine Brought Back Its Massive S-200s.**
+**Powerball numbers 2/24/24: Did anyone win Powerball last night?**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/02/24/big-fat-missiles-to-take-down-big-fat-russian-planes-how-ukraine-brought-back-its-massive-s-200s/).
+You can read more about it [here](https://www.indystar.com/story/news/2024/02/24/powerball-numbers-feb-24-lottery-drawing-jackpot-anyone-win-power-ball-tonight-2-24-24-megamillions/72728078007/).
 
 ## Requirements
 - Python 3.8
