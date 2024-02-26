@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Embattled DA Fani Willis claims new cellphone data putting Nathan Wade near her home before pair say affair began is 'not relevant'**
+**House China committee demands Elon Musk open SpaceX Starshield internet to U.S. troops in Taiwan**
 
-You can read more about it [here](https://nypost.com/2024/02/24/us-news/embattled-da-fani-willis-claims-new-cellphone-data-on-nathan-wade-is-not-relevant/).
+You can read more about it [here](https://www.cnbc.com/2024/02/24/house-china-committee-elon-musk-spacex-starshield-taiwan.html).
 
 ## Requirements
 - Python 3.8
