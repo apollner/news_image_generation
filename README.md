@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arrest made after Kentucky student found dead in dorm room, police say**
+**Kenneth Mitchell, 'Star Trek' actor, dead at 49**
 
-You can read more about it [here](https://abcnews.go.com/US/arrest-campbellsville-university-kentucky-student-dead-dorm/story?id=107529245).
+You can read more about it [here](https://www.foxnews.com/entertainment/kenneth-mitchell-star-trek-actor-dead-49).
 
 ## Requirements
 - Python 3.8
