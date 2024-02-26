@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenneth Mitchell, 'Star Trek' actor, dead at 49**
+**Florida measles outbreak: Cases spread as state defies CDC guidance**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/kenneth-mitchell-star-trek-actor-dead-49).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/02/25/florida-measles-outbreak-surgeon-general-cdc/72729310007/).
 
 ## Requirements
 - Python 3.8
