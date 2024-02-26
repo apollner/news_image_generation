@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One of the world’s biggest cities may be just months away from running out of water**
+**Risk Models Behind World's Best Hedge Fund Strategy Are Getting a Lot Harder to Crack**
 
-You can read more about it [here](https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/risk-models-behind-world-best-120000056.html).
 
 ## Requirements
 - Python 3.8
