@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war anniversary: Western leaders in Kyiv as Russian drone hits Odesa**
+**An RNC member is trying to stop the party from paying Donald Trump's legal bills**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-second-anniversary-65088ba9eb9bd729cf8c677e2115cb35).
+You can read more about it [here](https://apnews.com/article/trump-republican-national-committee-stop-legal-bills-ff51a7ae8b5d872344e64a9a18851350).
 
 ## Requirements
 - Python 3.8
