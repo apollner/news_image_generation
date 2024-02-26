@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan to see micromoon: What to know**
+**Embattled DA Fani Willis claims new cellphone data putting Nathan Wade near her home before pair say affair began is 'not relevant'**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/2024/02/24/michigan-to-see-micromoon-what-to-know/72727660007/).
+You can read more about it [here](https://nypost.com/2024/02/24/us-news/embattled-da-fani-willis-claims-new-cellphone-data-on-nathan-wade-is-not-relevant/).
 
 ## Requirements
 - Python 3.8
