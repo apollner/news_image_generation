@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scrub! SpaceX postpones Starlink Falcon 9 launch to Sunday from Cape Canaveral, Florida**
+**U.S. and U.K. conduct fourth round of joint airstrikes on Houthi targets in Yemen**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/02/24/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/72686837007/).
+You can read more about it [here](https://www.cbsnews.com/news/u-s-u-k-fourth-round-joint-airstrikes-houthi-targets-yemen/).
 
 ## Requirements
 - Python 3.8
