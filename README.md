@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barbie's hot pink flip phone is coming to the real world this summer**
+**Arrest made after Kentucky student found dead in dorm room, police say**
 
-You can read more about it [here](https://www.engadget.com/barbies-hot-pink-flip-phone-is-coming-to-the-real-world-this-summer-170805284.html).
+You can read more about it [here](https://abcnews.go.com/US/arrest-campbellsville-university-kentucky-student-dead-dorm/story?id=107529245).
 
 ## Requirements
 - Python 3.8
