@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. and U.K. conduct fourth round of joint airstrikes on Houthi targets in Yemen**
+**Israeli media report progress on reaching a temporary truce in Gaza and a hostage-prisoner exchange**
 
-You can read more about it [here](https://www.cbsnews.com/news/u-s-u-k-fourth-round-joint-airstrikes-houthi-targets-yemen/).
+You can read more about it [here](https://news.yahoo.com/israeli-media-report-progress-reaching-083106943.html).
 
 ## Requirements
 - Python 3.8
