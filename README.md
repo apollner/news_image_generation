@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google says Microsoft offered to sell Bing to Apple in 2018, but search-quality issues got in the way**
+**Embattled DA Fani Willis claims new cellphone data putting Nathan Wade near her home before pair say affair began is 'not relevant'**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/24/google-says-microsoft-offered-to-sell-bing-to-apple-in-2018.html).
+You can read more about it [here](https://nypost.com/2024/02/24/us-news/embattled-da-fani-willis-claims-new-cellphone-data-on-nathan-wade-is-not-relevant/).
 
 ## Requirements
 - Python 3.8
