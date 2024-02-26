@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumers are increasingly pushing back against price increases — and winning**
+**SAG Awards 2024: Full Recap**
 
-You can read more about it [here](https://apnews.com/article/inflation-consumers-price-gouging-spending-economy-999e81e2f869a0151e2ee6bbb63370af).
+You can read more about it [here](https://people.com/sag-awards-2024-full-recap-8597987).
 
 ## Requirements
 - Python 3.8
