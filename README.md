@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laken Riley murder suspect Jose Ibarra lived within 5-minute walk of UGA crime scene**
+**Consumers are tired of inflation. But some retailers fear falling prices**
 
-You can read more about it [here](https://www.foxnews.com/us/laken-riley-murder-suspect-jose-ibarra-lived-within-5-minute-walk-uga-crime-scene).
+You can read more about it [here](https://www.cnbc.com/2024/02/25/inflation-vs-deflation-retailers-fear-falling-prices.html).
 
 ## Requirements
 - Python 3.8
