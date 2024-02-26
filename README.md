@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy Williams thanks fans for support after dementia and aphasia diagnosis**
+**Your lookahead horoscope for the week: February 25, 2024**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68391330).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-for-the-week-february-25-2024/).
 
 ## Requirements
 - Python 3.8
