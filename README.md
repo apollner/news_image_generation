@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House China committee demands Elon Musk open SpaceX Starshield internet to U.S. troops in Taiwan**
+**Warren Buffett pays tribute to friend, Charlie Munger as 'architect' of Berkshire Hathaway**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/24/house-china-committee-elon-musk-spacex-starshield-taiwan.html).
+You can read more about it [here](https://www.foxbusiness.com/business-leaders/warren-buffett-pays-tribute-friend-charlie-munger-architect-of-berkshire-hathaway).
 
 ## Requirements
 - Python 3.8
