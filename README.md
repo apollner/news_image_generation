@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your lookahead horoscope for the week: February 25, 2024**
+**Ukraine war: Zelensky insists country will win on second anniversary**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-for-the-week-february-25-2024/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68393854).
 
 ## Requirements
 - Python 3.8
