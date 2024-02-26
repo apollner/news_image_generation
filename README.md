@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. and U.K. conduct fourth round of joint airstrikes on Houthi targets in Yemen**
+**Wendy Williams thanks fans for support after dementia and aphasia diagnosis**
 
-You can read more about it [here](https://www.cbsnews.com/news/u-s-u-k-fourth-round-joint-airstrikes-houthi-targets-yemen/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68391330).
 
 ## Requirements
 - Python 3.8
