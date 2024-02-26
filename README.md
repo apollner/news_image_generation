@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumers are tired of inflation. But some retailers fear falling prices**
+**Gavin Newsom launches red-state abortion ads over 'war on travel'**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/25/inflation-vs-deflation-retailers-fear-falling-prices.html).
+You can read more about it [here](https://www.politico.com/news/2024/02/25/gavin-newsom-abortion-ads-00143173).
 
 ## Requirements
 - Python 3.8
