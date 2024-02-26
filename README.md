@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Zelensky insists country will win on second anniversary**
+**Putin’s ‘greatest hits’: Russian dissidents continue disappearing in pattern of bizarre deaths**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68393854).
+You can read more about it [here](https://www.foxnews.com/world/putins-greatest-hits-russian-dissidents-continue-disappearing-pattern-bizarre-deaths).
 
 ## Requirements
 - Python 3.8
