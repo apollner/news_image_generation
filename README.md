@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and UK carry out fresh strikes on Houthi targets in Yemen**
+**Powerball winning numbers for Feb. 24: Jackpot rises to $376 million**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68395173).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/02/24/powerball-winning-numbers/72729248007/).
 
 ## Requirements
 - Python 3.8
