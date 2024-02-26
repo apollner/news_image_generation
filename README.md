@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shane Gillis addresses his 'SNL' firing in monologue**
+**Liverpool 1-0 Chelsea (Feb 25, 2024) Game Analysis**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/02/25/shane-gillis-saturday-night-live-snl-monologue/72736483007/).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/697787).
 
 ## Requirements
 - Python 3.8
