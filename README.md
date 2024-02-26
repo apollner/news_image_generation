@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vigils held nationwide for nonbinary Oklahoma teenager who died following school bathroom fight**
+**Ukraine war: Zelensky says 31,000 troops killed**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/vigils-held-nationwide-nonbinary-oklahoma-teenager-died-school-107526157).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68397525).
 
 ## Requirements
 - Python 3.8
