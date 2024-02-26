@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett pays tribute to friend, Charlie Munger as 'architect' of Berkshire Hathaway**
+**Norovirus cases continue to climb in the US, especially in the Northeast, CDC data shows**
 
-You can read more about it [here](https://www.foxbusiness.com/business-leaders/warren-buffett-pays-tribute-friend-charlie-munger-architect-of-berkshire-hathaway).
+You can read more about it [here](https://www.cnn.com/2024/02/24/health/norovirus-cases-increase-northeast/index.html).
 
 ## Requirements
 - Python 3.8
