@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liverpool 1-0 Chelsea (Feb 25, 2024) Game Analysis**
+**SAG Awards 2024: Oppenheimer dominates ahead of Oscars**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/697787).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68395355).
 
 ## Requirements
 - Python 3.8
