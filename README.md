@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norovirus cases continue to climb in the US, especially in the Northeast, CDC data shows**
+**US and UK carry out fresh strikes on Houthi targets in Yemen**
 
-You can read more about it [here](https://www.cnn.com/2024/02/24/health/norovirus-cases-increase-northeast/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68395173).
 
 ## Requirements
 - Python 3.8
