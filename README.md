@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smartphone giants like Samsung are going to talk up 'AI phones' this year — here's what that means**
+**Trump wins South Carolina, easily beating Haley in her home state and closing in on GOP nomination**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/25/what-is-an-ai-smartphone-samsung-major-players-talk-up-tech.html).
+You can read more about it [here](https://apnews.com/article/donald-trump-nikki-haley-south-carolina-primary-republicans-13237d287ce770e0a45e9bccee78e8ee).
 
 ## Requirements
 - Python 3.8
