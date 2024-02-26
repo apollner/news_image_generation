@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Zelensky says 31,000 troops killed**
+**Israel-Hamas war: Israeli media report progress on Gaza cease-fire**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68397525).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-25-2024-f3e4ea708548689cf8d9d404c3ee94ee).
 
 ## Requirements
 - Python 3.8
