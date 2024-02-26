@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Risk Models Behind World's Best Hedge Fund Strategy Are Getting a Lot Harder to Crack**
+**Ukraine war: Zelensky says 31,000 troops killed**
 
-You can read more about it [here](https://finance.yahoo.com/news/risk-models-behind-world-best-120000056.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68397525).
 
 ## Requirements
 - Python 3.8
