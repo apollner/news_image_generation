@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles outbreak grows in Florida with seventh case reported**
+**Smartphone giants like Samsung are going to talk up 'AI phones' this year — here's what that means**
 
-You can read more about it [here](https://www.youtube.com/watch?v=IySqhu5tmmY).
+You can read more about it [here](https://www.cnbc.com/2024/02/25/what-is-an-ai-smartphone-samsung-major-players-talk-up-tech.html).
 
 ## Requirements
 - Python 3.8
