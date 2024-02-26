@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why the Cubs should believe in Cody Bellinger's resurgence as former MVP inks three-year deal, per report**
+**U.S. and U.K. conduct fourth round of joint airstrikes on Houthi targets in Yemen**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/why-the-cubs-should-believe-in-cody-bellingers-resurgence-as-former-mvp-inks-three-year-deal-per-report/).
+You can read more about it [here](https://www.cbsnews.com/news/u-s-u-k-fourth-round-joint-airstrikes-houthi-targets-yemen/).
 
 ## Requirements
 - Python 3.8
