@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Zelensky says 31,000 troops killed**
+**The latest on the South Carolina GOP primary and 2024 campaign**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68397525).
+You can read more about it [here](https://www.cnn.com/politics/live-news/south-carolina-primary-02-24-24/index.html).
 
 ## Requirements
 - Python 3.8
