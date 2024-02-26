@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia Gov. Brian Kemp demands answers from Biden on Laken Riley suspected killer's immigration status**
+**Measles outbreak grows in Florida with seventh case reported**
 
-You can read more about it [here](https://www.foxnews.com/politics/georgia-governor-brian-kemp-demands-answers-from-president-biden-laken-riley-killers-immigration-status).
+You can read more about it [here](https://www.youtube.com/watch?v=IySqhu5tmmY).
 
 ## Requirements
 - Python 3.8
