@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump wins South Carolina, easily beating Haley in her home state and closing in on GOP nomination**
+**Big Fat Missiles To Take Down Big Fat Russian Planes. How Ukraine Brought Back Its Massive S-200s.**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-nikki-haley-south-carolina-primary-republicans-13237d287ce770e0a45e9bccee78e8ee).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/02/24/big-fat-missiles-to-take-down-big-fat-russian-planes-how-ukraine-brought-back-its-massive-s-200s/).
 
 ## Requirements
 - Python 3.8
