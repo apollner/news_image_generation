@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy Williams thanks fans for support after dementia and aphasia diagnosis**
+**Consumers are increasingly pushing back against price increases — and winning**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68391330).
+You can read more about it [here](https://apnews.com/article/inflation-consumers-price-gouging-spending-economy-999e81e2f869a0151e2ee6bbb63370af).
 
 ## Requirements
 - Python 3.8
