@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA Awards: ‘Oppenheimer’ Takes Top Film Prize**
+**Israeli military presents plan for evacuating Gaza’s population from ‘fighting areas’**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/2024-producers-guild-awards-winners-list-1235833336/).
+You can read more about it [here](https://www.cnn.com/2024/02/26/middleeast/idf-gaza-evacuation-plan-israel-intl/index.html).
 
 ## Requirements
 - Python 3.8
