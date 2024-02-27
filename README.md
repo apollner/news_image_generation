@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian PM resigns as pressure grows over post-war Gaza plans**
+**Missing American Sailing Couple in Caribbean Is 'Presumed' Dead: Police**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/palestinian-prime-minister-shtayyeh-resigns-2024-02-26/).
+You can read more about it [here](https://people.com/missing-american-couple-caribbean-presumed-dead-8600306).
 
 ## Requirements
 - Python 3.8
