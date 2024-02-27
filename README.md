@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WTO in 'damage control' mode as Abu Dhabi agenda unravels**
+**Shane Gillis bombs 'SNL' monologue as he addresses 2019 firing: Thought I'd 'get a bigger laugh'**
 
-You can read more about it [here](https://www.politico.com/news/2024/02/25/world-trade-cooperation-will-be-put-to-the-test-in-abu-dhabi-00143019).
+You can read more about it [here](https://pagesix.com/2024/02/25/entertainment/shane-gillis-bombs-snl-monologue-as-he-addresses-2019-firing/).
 
 ## Requirements
 - Python 3.8
