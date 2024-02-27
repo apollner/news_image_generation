@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P Live Updates for Feb. 26**
+**Sweden clears final hurdle in bid to join NATO after Hungary approves accession**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-25/asia-stocks-eye-mixed-open-after-us-rally-stalls-markets-wrap).
+You can read more about it [here](https://www.cnn.com/2024/02/26/europe/sweden-nato-accession-hungary-intl/index.html).
 
 ## Requirements
 - Python 3.8
