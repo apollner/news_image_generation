@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky: 31000 Ukrainian troops killed since start of Russia's invasion**
+**South Korea doctors on mass walkout say they are overworked and unheard**
 
-You can read more about it [here](https://www.axios.com/2024/02/25/ukraine-russia-war-volodymyr-zelensky-military-deaths).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/overworked-unheard-south-korean-doctors-mass-walkout-say-2024-02-26/).
 
 ## Requirements
 - Python 3.8
