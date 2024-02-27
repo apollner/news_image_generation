@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space telescope spies neutron star in the debris of famous supernova**
+**Coroner identifies cause of death for Campbellsville University student found unresponsive in dorm**
 
-You can read more about it [here](https://www.ksl.com/article/50886574/space-telescope-spies-neutron-star-in-the-debris-of-famous-supernova).
+You can read more about it [here](https://www.wlky.com/article/taylor-county-coroner-death-campbellsville-university-student-unresponsive-dorm/46963691).
 
 ## Requirements
 - Python 3.8
