@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskiy says 31000 Ukrainian soldiers killed since Russia invaded**
+**NFL MVP Cam Newton appears to get into fight at 7-on-7 football game**
 
-You can read more about it [here](https://www.reuters.com/world/zelenskiy-says-31000-ukrainian-soldiers-killed-during-russias-invasion-2024-02-25/).
+You can read more about it [here](https://www.foxnews.com/sports/nfl-mvp-cam-newton-appears-get-into-fight-7-on-7-football-game).
 
 ## Requirements
 - Python 3.8
