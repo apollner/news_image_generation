@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ‘Doomsday Glacier’ is rapidly melting. Scientists now have evidence for when it started and why**
+**Augusta University student killed while jogging at UGA honored at vigil as the suspect’s immigration status fuels debate**
 
-You can read more about it [here](https://www.cnn.com/2024/02/26/climate/doomsday-glacier-antarctic-ice-melt-climate-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/25/us/uga-augusta-university-student-killing-monday/index.html).
 
 ## Requirements
 - Python 3.8
