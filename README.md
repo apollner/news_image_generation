@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final images of Ingenuity reveal an entire blade broke off the helicopter**
+**Berkshire shares jump after big profit gain as Buffett’s conglomerate nears $1 trillion valuation**
 
-You can read more about it [here](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/).
+You can read more about it [here](https://www.cnbc.com/2024/02/26/berkshire-shares-jump-after-big-profit-gain-as-buffetts-conglomerate-nears-1-trillion-valuation.html).
 
 ## Requirements
 - Python 3.8
