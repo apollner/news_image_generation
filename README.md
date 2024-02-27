@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cause of death revealed for Campbellsville University student**
+**Zelensky: 31000 Ukrainian troops killed since start of Russia's invasion**
 
-You can read more about it [here](https://www.wave3.com/2024/02/26/cause-death-revealed-campbellsville-university-student/).
+You can read more about it [here](https://www.axios.com/2024/02/25/ukraine-russia-war-volodymyr-zelensky-military-deaths).
 
 ## Requirements
 - Python 3.8
