@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Questions remain in investigation of death of Augusta University student found on UGA campus**
+**NFL could adopt XFL's current kickoff model for 2024 season, per report**
 
-You can read more about it [here](https://www.cnn.com/2024/02/25/us/uga-augusta-university-student-death-sunday/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-could-adopt-xfls-current-kickoff-model-for-2024-season-per-report/).
 
 ## Requirements
 - Python 3.8
