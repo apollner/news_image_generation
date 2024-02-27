@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Questions remain in investigation of death of Augusta University student found on UGA campus**
+**The crowded race back to the moon | February 26, 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/02/25/us/uga-augusta-university-student-death-sunday/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=h26usciZl6o).
 
 ## Requirements
 - Python 3.8
