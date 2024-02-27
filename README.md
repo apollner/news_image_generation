@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Berkshire shares jump after big profit gain as Buffett’s conglomerate nears $1 trillion valuation**
+**Stock Market Today: Dow, S&P Live Updates for Feb. 26**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/26/berkshire-shares-jump-after-big-profit-gain-as-buffetts-conglomerate-nears-1-trillion-valuation.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-25/asia-stocks-eye-mixed-open-after-us-rally-stalls-markets-wrap).
 
 ## Requirements
 - Python 3.8
