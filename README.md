@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthis nearly strike oil tanker in Gulf of Aden; US, coalition forces take out more one-way attack drones**
+**The crowded race back to the moon | February 26, 2024**
 
-You can read more about it [here](https://www.foxnews.com/world/houthis-nearly-strike-oil-tanker-gulf-aden-us-coalition-forces-take-out-way-attack-drones).
+You can read more about it [here](https://www.youtube.com/watch?v=h26usciZl6o).
 
 ## Requirements
 - Python 3.8
