@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweden clears final hurdle in bid to join NATO after Hungary approves accession**
+**Report: Marvin Harrison Jr. skipping NFL combine**
 
-You can read more about it [here](https://www.cnn.com/2024/02/26/europe/sweden-nato-accession-hungary-intl/index.html).
+You can read more about it [here](https://arizonasports.com/story/3543512/report-marvin-harrison-jr-skipping-nfl-combine-draft/).
 
 ## Requirements
 - Python 3.8
