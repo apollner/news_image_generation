@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nex Benedict death: Police video shows non-binary teen describe fight in high school bathroom**
+**Questions remain in investigation of death of Augusta University student found on UGA campus**
 
-You can read more about it [here](https://www.cnn.com/2024/02/25/us/oklahoma-nex-benedict-death-police-video/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/25/us/uga-augusta-university-student-death-sunday/index.html).
 
 ## Requirements
 - Python 3.8
