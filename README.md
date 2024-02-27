@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBC's Peter King announces retirement after 44 years covering NFL**
+**Hungary's parliament set to ratify Sweden's NATO accession**
 
-You can read more about it [here](https://nypost.com/2024/02/26/sports/nbcs-peter-king-announces-retirement-after-44-years-covering-nfl/).
+You can read more about it [here](https://apnews.com/article/hungary-ratify-sweden-nato-membership-efc791c0d2e4da9fdcb247a2d6624cab).
 
 ## Requirements
 - Python 3.8
