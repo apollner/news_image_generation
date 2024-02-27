@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The crowded race back to the moon | February 26, 2024**
+**Network founded by Koch brothers says it will stop spending on Nikki Haley's presidential campaign**
 
-You can read more about it [here](https://www.youtube.com/watch?v=h26usciZl6o).
+You can read more about it [here](https://www.cbsnews.com/news/network-founded-by-koch-brothers-says-it-will-stop-spending-on-nikki-haleys-presidential-campaign/).
 
 ## Requirements
 - Python 3.8
