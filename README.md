@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man Sets Himself on Fire in Front of Israeli Embassy in D.C.**
+**Lenovo debuts Core Ultra-powered laptops and hybrids with dedicated Copilot key**
 
-You can read more about it [here](https://www.thedailybeast.com/man-sets-himself-on-fire-in-front-of-israeli-embassy-in-washington-dc).
+You can read more about it [here](https://www.engadget.com/lenovo-debuts-core-ultra-powered-laptops-and-hybrids-with-dedicated-copilot-key-230016023.html).
 
 ## Requirements
 - Python 3.8
