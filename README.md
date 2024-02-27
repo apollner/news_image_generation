@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL MVP Cam Newton appears to get into fight at 7-on-7 football game**
+**Space telescope spies neutron star in the debris of famous supernova**
 
-You can read more about it [here](https://www.foxnews.com/sports/nfl-mvp-cam-newton-appears-get-into-fight-7-on-7-football-game).
+You can read more about it [here](https://www.ksl.com/article/50886574/space-telescope-spies-neutron-star-in-the-debris-of-famous-supernova).
 
 ## Requirements
 - Python 3.8
