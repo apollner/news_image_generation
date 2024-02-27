@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing American Sailing Couple in Caribbean Is 'Presumed' Dead: Police**
+**The ‘Doomsday Glacier’ is rapidly melting. Scientists now have evidence for when it started and why**
 
-You can read more about it [here](https://people.com/missing-american-couple-caribbean-presumed-dead-8600306).
+You can read more about it [here](https://www.cnn.com/2024/02/26/climate/doomsday-glacier-antarctic-ice-melt-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
