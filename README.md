@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shane Gillis bombs 'SNL' monologue as he addresses 2019 firing: Thought I'd 'get a bigger laugh'**
+**Cause of death revealed for Campbellsville University student**
 
-You can read more about it [here](https://pagesix.com/2024/02/25/entertainment/shane-gillis-bombs-snl-monologue-as-he-addresses-2019-firing/).
+You can read more about it [here](https://www.wave3.com/2024/02/26/cause-death-revealed-campbellsville-university-student/).
 
 ## Requirements
 - Python 3.8
