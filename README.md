@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The crowded race back to the moon | February 26, 2024**
+**WTO in 'damage control' mode as Abu Dhabi agenda unravels**
 
-You can read more about it [here](https://www.youtube.com/watch?v=h26usciZl6o).
+You can read more about it [here](https://www.politico.com/news/2024/02/25/world-trade-cooperation-will-be-put-to-the-test-in-abu-dhabi-00143019).
 
 ## Requirements
 - Python 3.8
