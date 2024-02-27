@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea doctors on mass walkout say they are overworked and unheard**
+**Investment advice from Warren Buffett's 2024 letter to shareholders**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/overworked-unheard-south-korean-doctors-mass-walkout-say-2024-02-26/).
+You can read more about it [here](https://www.businessinsider.com/investment-advice-warren-buffett-letter-berkshire-hathaway-shareholders-2024-2).
 
 ## Requirements
 - Python 3.8
