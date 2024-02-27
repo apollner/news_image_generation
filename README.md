@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL could adopt XFL's current kickoff model for 2024 season, per report**
+**Video appears to show Cam Newton in scuffle at youth football event**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-could-adopt-xfls-current-kickoff-model-for-2024-season-per-report/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39601186/video-appears-show-cam-newton-involved-scuffle-youth-football-tournament-atlanta).
 
 ## Requirements
 - Python 3.8
