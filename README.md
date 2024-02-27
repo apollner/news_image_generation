@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video appears to show Cam Newton in scuffle at youth football event**
+**Nex Benedict death: Police video shows non-binary teen describe fight in high school bathroom**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39601186/video-appears-show-cam-newton-involved-scuffle-youth-football-tournament-atlanta).
+You can read more about it [here](https://www.cnn.com/2024/02/25/us/oklahoma-nex-benedict-death-police-video/index.html).
 
 ## Requirements
 - Python 3.8
