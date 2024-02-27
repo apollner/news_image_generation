@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hungary's parliament set to ratify Sweden's NATO accession**
+**Final images of Ingenuity reveal an entire blade broke off the helicopter**
 
-You can read more about it [here](https://apnews.com/article/hungary-ratify-sweden-nato-membership-efc791c0d2e4da9fdcb247a2d6624cab).
+You can read more about it [here](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/).
 
 ## Requirements
 - Python 3.8
