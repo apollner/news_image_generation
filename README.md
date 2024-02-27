@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investment advice from Warren Buffett's 2024 letter to shareholders**
+**UGA murder suspect unlawfully entered US in 2022, ICE says**
 
-You can read more about it [here](https://www.businessinsider.com/investment-advice-warren-buffett-letter-berkshire-hathaway-shareholders-2024-2).
+You can read more about it [here](https://www.ajc.com/news/breaking-uga-murder-suspect-unlawfully-entered-us-in-2022-ice-says/JMOMNSJULJHZBJ6KWWL6XDW53M/).
 
 ## Requirements
 - Python 3.8
