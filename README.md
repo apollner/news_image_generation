@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Eiffel Tower reopens to visitors after a 6-day closure due to an employee strike**
+**Zelenskiy says 31000 Ukrainian soldiers killed since Russia invaded**
 
-You can read more about it [here](https://apnews.com/article/france-paris-eiffel-tower-reopens-strike-24650a7b8bc70a27a500060b2a22ade9).
+You can read more about it [here](https://www.reuters.com/world/zelenskiy-says-31000-ukrainian-soldiers-killed-during-russias-invasion-2024-02-25/).
 
 ## Requirements
 - Python 3.8
