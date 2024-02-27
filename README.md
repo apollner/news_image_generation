@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida measles outbreak: Cases spread as state defies CDC guidance**
+**Man Sets Himself on Fire in Front of Israeli Embassy in D.C.**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/02/25/florida-measles-outbreak-surgeon-general-cdc/72729310007/).
+You can read more about it [here](https://www.thedailybeast.com/man-sets-himself-on-fire-in-front-of-israeli-embassy-in-washington-dc).
 
 ## Requirements
 - Python 3.8
