@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UGA murder suspect unlawfully entered US in 2022, ICE says**
+**Air Force man sets himself on fire outside Israeli embassy in Washington DC**
 
-You can read more about it [here](https://www.ajc.com/news/breaking-uga-murder-suspect-unlawfully-entered-us-in-2022-ice-says/JMOMNSJULJHZBJ6KWWL6XDW53M/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68398479).
 
 ## Requirements
 - Python 3.8
