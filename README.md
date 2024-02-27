@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video appears to show Cam Newton in scuffle at youth football event**
+**Houthis nearly strike oil tanker in Gulf of Aden; US, coalition forces take out more one-way attack drones**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39601186/video-appears-show-cam-newton-involved-scuffle-youth-football-tournament-atlanta).
+You can read more about it [here](https://www.foxnews.com/world/houthis-nearly-strike-oil-tanker-gulf-aden-us-coalition-forces-take-out-way-attack-drones).
 
 ## Requirements
 - Python 3.8
