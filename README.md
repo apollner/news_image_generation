@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian Prime Minister Shtayyeh resigns**
+**NBC's Peter King announces retirement after 44 years covering NFL**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/palestinian-prime-minister-shtayyeh-resigns-2024-02-26/).
+You can read more about it [here](https://nypost.com/2024/02/26/sports/nbcs-peter-king-announces-retirement-after-44-years-covering-nfl/).
 
 ## Requirements
 - Python 3.8
