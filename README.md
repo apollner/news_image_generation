@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's alive! JAXA's SLIM moon lander sends home new photos after surviving frigid lunar night**
+**US couple whose catamaran was hijacked were likely thrown overboard and died, Grenada police say**
 
-You can read more about it [here](https://www.space.com/japan-slim-moon-lander-wakeup-lunar-night).
+You can read more about it [here](https://news.yahoo.com/grenada-police-us-couple-whose-155250299.html).
 
 ## Requirements
 - Python 3.8
