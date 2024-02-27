@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Marvin Harrison Jr. skipping NFL combine**
+**[Removed]**
 
-You can read more about it [here](https://arizonasports.com/story/3543512/report-marvin-harrison-jr-skipping-nfl-combine-draft/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
