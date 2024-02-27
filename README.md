@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Air Force man sets himself on fire outside Israeli embassy in Washington DC**
+**LA Galaxy 1-1 Inter Miami CF (Feb 25, 2024) Game Analysis**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68398479).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/692618).
 
 ## Requirements
 - Python 3.8
