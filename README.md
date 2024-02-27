@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coroner identifies cause of death for Campbellsville University student found unresponsive in dorm**
+**Questions remain in investigation of death of Augusta University student found on UGA campus**
 
-You can read more about it [here](https://www.wlky.com/article/taylor-county-coroner-death-campbellsville-university-student-unresponsive-dorm/46963691).
+You can read more about it [here](https://www.cnn.com/2024/02/25/us/uga-augusta-university-student-death-sunday/index.html).
 
 ## Requirements
 - Python 3.8
