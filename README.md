@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Network founded by Koch brothers says it will stop spending on Nikki Haley's presidential campaign**
+**Video appears to show Cam Newton in scuffle at youth football event**
 
-You can read more about it [here](https://www.cbsnews.com/news/network-founded-by-koch-brothers-says-it-will-stop-spending-on-nikki-haleys-presidential-campaign/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39601186/video-appears-show-cam-newton-involved-scuffle-youth-football-tournament-atlanta).
 
 ## Requirements
 - Python 3.8
