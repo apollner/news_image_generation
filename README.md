@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's father Scott Swift accused of assaulting Australian photographer - The Washington Post**
+**Odysseus moon lander likely has 10 to 20 hours of battery life left, company says**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2024/02/27/taylor-swift-father-australia-assault-accusations/).
+You can read more about it [here](https://www.reuters.com/technology/space/odysseus-moon-lander-likely-has-10-20-hours-battery-life-left-company-says-2024-02-27/).
 
 ## Requirements
 - Python 3.8
