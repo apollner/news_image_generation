@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moon lander Odysseus mission to be cut short after sideways touchdown**
+**2024 NFL 2-Round Mock Draft: Former NFL GM has J.J. McCarthy land in AFC, Michael Penix Jr., Bo Nix go Round 2**
 
-You can read more about it [here](https://www.reuters.com/technology/space/moon-lander-odysseus-mission-expected-end-tuesday-morning-5-days-after-touchdown-2024-02-26/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-2-round-mock-draft-former-nfl-gm-has-j-j-mccarthy-land-in-afc-michael-penix-jr-bo-nix-go-round-2/).
 
 ## Requirements
 - Python 3.8
