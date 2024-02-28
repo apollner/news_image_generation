@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweden clears final hurdle in bid to join NATO after Hungary approves accession**
+**COVID pandemic triggered spike in antidepressant use among young females, study finds**
 
-You can read more about it [here](https://www.cnn.com/2024/02/26/europe/sweden-nato-accession-hungary-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/health/covid-pandemic-triggered-spike-antidepressant-use-young-females-study).
 
 ## Requirements
 - Python 3.8
