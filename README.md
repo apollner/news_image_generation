@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nex Benedict: What we know about death of Oklahoma teenager**
+**House GOP worries about conservatives embracing full government shutdown**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68405972).
+You can read more about it [here](https://www.axios.com/2024/02/27/republicans-government-shutdown-fears-build).
 
 ## Requirements
 - Python 3.8
