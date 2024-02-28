@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's father Scott Swift accused of assaulting Australian photographer - The Washington Post**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2024/02/27/taylor-swift-father-australia-assault-accusations/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
