@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft announces deal with Mistral, expanding AI portfolio**
+**Moon lander Odysseus mission to be cut short after sideways touchdown**
 
-You can read more about it [here](https://finance.yahoo.com/video/microsoft-announces-deal-mistral-expanding-230414637.html).
+You can read more about it [here](https://www.reuters.com/technology/space/moon-lander-odysseus-mission-expected-end-tuesday-morning-5-days-after-touchdown-2024-02-26/).
 
 ## Requirements
 - Python 3.8
