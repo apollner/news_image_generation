@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Appealing Fraud Trial Ruling: Here’s What Happens Next With Case—And His $454 Million Fine**
+**Taylor Swift's father Scott Swift accused of assaulting Australian photographer - The Washington Post**
 
-You can read more about it [here](https://www.forbes.com/sites/alisondurkee/2024/02/27/trump-appealing-fraud-trial-ruling-heres-what-happens-next-with-case-and-his-454-million-fine/).
+You can read more about it [here](https://www.washingtonpost.com/style/2024/02/27/taylor-swift-father-australia-assault-accusations/).
 
 ## Requirements
 - Python 3.8
