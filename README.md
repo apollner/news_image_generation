@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macron doesn't rule out sending Western troops to Ukraine**
+**Taylor Swift's Rep Speaks Out After Dad Allegedly Assaults Paparazzo**
 
-You can read more about it [here](https://www.politico.eu/article/emmanuel-macron-doesnt-rule-out-sending-troops-to-ukraine-ammo/).
+You can read more about it [here](https://www.eonline.com/news/1395955/taylor-swifts-rep-speaks-out-after-dad-scott-swift-allegedly-assaults-paparazzo).
 
 ## Requirements
 - Python 3.8
