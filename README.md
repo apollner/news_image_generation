@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID pandemic triggered spike in antidepressant use among young females, study finds**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/health/covid-pandemic-triggered-spike-antidepressant-use-young-females-study).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
