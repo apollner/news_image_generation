@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian prime minister resigns amid calls to reform Palestinian Authority**
+**Taylor Swift's dad, Scott, accused of assaulting paparazzi in Australia**
 
-You can read more about it [here](https://www.axios.com/2024/02/26/palestinian-authority-shtayyeh-resignation-abbas-gaza).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swifts-dad-scott-accused-assaulting-paparazzi-australia).
 
 ## Requirements
 - Python 3.8
