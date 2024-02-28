@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: US stocks mixed as Wall Street watches and waits**
+**Live updates: Michigan presidential primary election**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-dow-falls-as-wall-street-awaits-inflation-data-bitcoin-surges-174523920.html).
+You can read more about it [here](https://www.cnn.com/politics/live-news/michigan-primary-02-27-24/index.html).
 
 ## Requirements
 - Python 3.8
