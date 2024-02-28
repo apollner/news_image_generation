@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucky Brooks 2024 NFL mock draft 2.0: Washington takes Jayden Daniels over Drake Maye; QB to Denver**
+**Apple Cancels Work on Electric Car, Ending Decadelong Effort**
 
-You can read more about it [here](https://www.nfl.com/news/bucky-brooks-2024-nfl-mock-draft-2-0-washington-takes-jayden-daniels-over-drake-maye-qb-to-denver).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai).
 
 ## Requirements
 - Python 3.8
