@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe t-storm timeline very distinct now**
+**Macy’s is closing 150 stores as part of a major turnaround effort**
 
-You can read more about it [here](https://www.mlive.com/weather/2024/02/severe-t-storm-timeline-very-distinct-now.html).
+You can read more about it [here](https://www.cnn.com/2024/02/27/investing/macys-closing-150-stores/index.html).
 
 ## Requirements
 - Python 3.8
