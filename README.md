@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's Rep Speaks Out After Dad Allegedly Assaults Paparazzo**
+**Manhattan DA Alvin Bragg asks judge to impose limited gag order on Trump in hush money case**
 
-You can read more about it [here](https://www.eonline.com/news/1395955/taylor-swifts-rep-speaks-out-after-dad-scott-swift-allegedly-assaults-paparazzo).
+You can read more about it [here](https://abcnews.go.com/US/manhattan-da-alvin-bragg-asks-judge-impose-gag/story?id=107554385).
 
 ## Requirements
 - Python 3.8
