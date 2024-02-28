@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia couple missing in Grenada and feared killed after yacht allegedly stolen by escaped criminals**
+**Air Force member Aaron Bushnell dies after setting himself on fire near Israeli Embassy**
 
-You can read more about it [here](https://www.cbsnews.com/news/couple-missing-in-grenada-from-virginia-feared-dead-yacht-stolen-escaped-criminals/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/26/aaron-bushnell-air-force-immolation-dies-palestine/72743565007/).
 
 ## Requirements
 - Python 3.8
