@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gills Aloud? Tiny fish found making very big noise**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68402386).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
