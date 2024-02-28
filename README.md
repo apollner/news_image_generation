@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manhattan DA Alvin Bragg asks judge to impose limited gag order on Trump in hush money case**
+**Wendy Williams Doc Producers Say They Wouldn’t Have Filmed If They Knew of Her Dementia Diagnosis**
 
-You can read more about it [here](https://abcnews.go.com/US/manhattan-da-alvin-bragg-asks-judge-impose-gag/story?id=107554385).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/wendy-williams-doc-producers-dementia-diagnosis-1234976132/).
 
 ## Requirements
 - Python 3.8
