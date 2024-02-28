@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Ukraine, Russia Is Inching Forward Death by Death**
+**[Removed]**
 
-You can read more about it [here](https://nytlicensing.com/stories/BOTwooaV).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
