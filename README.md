@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macron doesn't rule out sending Western troops to Ukraine**
+**Gills Aloud? Tiny fish found making very big noise**
 
-You can read more about it [here](https://www.politico.eu/article/emmanuel-macron-doesnt-rule-out-sending-troops-to-ukraine-ammo/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68402386).
 
 ## Requirements
 - Python 3.8
