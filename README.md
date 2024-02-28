@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy Williams Doc Producers Say They Wouldn’t Have Filmed If They Knew of Her Dementia Diagnosis**
+**Severe t-storm timeline very distinct now**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/wendy-williams-doc-producers-dementia-diagnosis-1234976132/).
+You can read more about it [here](https://www.mlive.com/weather/2024/02/severe-t-storm-timeline-very-distinct-now.html).
 
 ## Requirements
 - Python 3.8
