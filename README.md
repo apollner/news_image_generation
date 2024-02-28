@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Michigan presidential primary election**
+**Bucky Brooks 2024 NFL mock draft 2.0: Washington takes Jayden Daniels over Drake Maye; QB to Denver**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/michigan-primary-02-27-24/index.html).
+You can read more about it [here](https://www.nfl.com/news/bucky-brooks-2024-nfl-mock-draft-2-0-washington-takes-jayden-daniels-over-drake-maye-qb-to-denver).
 
 ## Requirements
 - Python 3.8
