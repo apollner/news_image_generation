@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jesse Baird: Human remains found in search for missing Sydney couple**
+**Virginia couple missing in Grenada and feared killed after yacht allegedly stolen by escaped criminals**
 
-You can read more about it [here](https://www.bbc.com/news/world-australia-68410026).
+You can read more about it [here](https://www.cbsnews.com/news/couple-missing-in-grenada-from-virginia-feared-dead-yacht-stolen-escaped-criminals/).
 
 ## Requirements
 - Python 3.8
