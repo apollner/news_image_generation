@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ex-FBI informant accused of lying to feds about the Bidens ordered detained pending trial**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/alexander-smirnov-former-fbi-informant-hunter-biden-joe-biden/).
 
 ## Requirements
 - Python 3.8
