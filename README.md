@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift's father allegedly punched photographer in face after Australian leg of her Eras Tour ended**
+**Samsung confirms Galaxy Ring battery life ahead of launch**
 
-You can read more about it [here](https://www.cbsnews.com/news/taylor-swifts-father-punch-photographer-face-australia-eras-tour/).
+You can read more about it [here](http://9to5google.com/2024/02/27/samsung-galaxy-ring-battery-life/).
 
 ## Requirements
 - Python 3.8
