@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College coaches, leaders call for court-storming regulations**
+**Sweden clears final hurdle in bid to join NATO after Hungary approves accession**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39605709/college-coaches-leaders-call-court-storming-regulations).
+You can read more about it [here](https://www.cnn.com/2024/02/26/europe/sweden-nato-accession-hungary-intl/index.html).
 
 ## Requirements
 - Python 3.8
