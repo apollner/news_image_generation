@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung confirms Galaxy Ring battery life ahead of launch**
+**Jennifer Lopez and Ben Affleck Reveal Real Reason Behind 2003 Breakup**
 
-You can read more about it [here](http://9to5google.com/2024/02/27/samsung-galaxy-ring-battery-life/).
+You can read more about it [here](https://www.eonline.com/news/1395960/jennifer-lopez-and-ben-affleck-reveal-real-reason-behind-2003-breakup).
 
 ## Requirements
 - Python 3.8
