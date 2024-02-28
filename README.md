@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Palestinian prime minister resigns amid calls to reform Palestinian Authority**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2024/02/26/palestinian-authority-shtayyeh-resignation-abbas-gaza).
 
 ## Requirements
 - Python 3.8
