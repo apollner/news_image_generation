@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Air Force member Aaron Bushnell dies after setting himself on fire near Israeli Embassy**
+**Nex Benedict: What we know about death of Oklahoma teenager**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/26/aaron-bushnell-air-force-immolation-dies-palestine/72743565007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68405972).
 
 ## Requirements
 - Python 3.8
