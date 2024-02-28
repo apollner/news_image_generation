@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House GOP worries about conservatives embracing full government shutdown**
+**Macron doesn't rule out sending Western troops to Ukraine**
 
-You can read more about it [here](https://www.axios.com/2024/02/27/republicans-government-shutdown-fears-build).
+You can read more about it [here](https://www.politico.eu/article/emmanuel-macron-doesnt-rule-out-sending-troops-to-ukraine-ammo/).
 
 ## Requirements
 - Python 3.8
