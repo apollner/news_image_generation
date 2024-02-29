@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baseball-size hail possible in Chicago area as severe weather approaches**
+**Tracking severe threat: Storms bring threat for tornadoes, damaging winds late Tuesday**
 
-You can read more about it [here](http://www.nbcchicago.com/weather/baseball-size-hail-possible-in-chicago-area-as-severe-weather-approaches/3367503/).
+You can read more about it [here](https://www.wlwt.com/article/cincinnati-weather-threat-storms-damaging-winds-tornados/46983459).
 
 ## Requirements
 - Python 3.8
