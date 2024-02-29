@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado confirmed near Marshall early Wednesday**
+**After backlash, Wendy’s now says it will not roll out ‘surge pricing’**
 
-You can read more about it [here](https://wwmt.com/news/local/tornado-confirmed-near-marshall-battle-creek-wednesday-warning-kalamazoo-county).
+You can read more about it [here](https://ktla.com/news/money-business/wendys-now-says-surge-pricing-wont-happen/).
 
 ## Requirements
 - Python 3.8
