@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Odysseus moon lander likely has 10 to 20 hours of battery life left, company says**
+**Prince William pulls out of godfather’s memorial service due to personal matter**
 
-You can read more about it [here](https://www.reuters.com/technology/space/odysseus-moon-lander-likely-has-10-20-hours-battery-life-left-company-says-2024-02-27/).
+You can read more about it [here](https://www.cnn.com/2024/02/27/uk/prince-william-constantine-ii-memorial-service-intl/index.html).
 
 ## Requirements
 - Python 3.8
