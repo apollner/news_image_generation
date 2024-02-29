@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bianca Censori shows off her Yeezy-bum in see-through leggings after leaving a dinner night with Kanye West**
+**Election 2024: Michigan Primary results Joe Biden and Donald Trump win Michigan presidential primaries**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bianca-censori-shows-off-her-yeezy-bum-in-see-through-leggings-after-leaving-a-dinner-night-with-kanye-west-101709097257100.html).
+You can read more about it [here](https://apnews.com/article/joe-biden-donald-trump-election-michigan-2024-6e0b9fc18773e975fdfd23f7287ed615).
 
 ## Requirements
 - Python 3.8
