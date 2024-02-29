@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nato allies reject Emmanuel Macron idea of troops to Ukraine**
+**Apple to Wind Down Electric Car Effort After Decadelong Odyssey**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68417223).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai).
 
 ## Requirements
 - Python 3.8
