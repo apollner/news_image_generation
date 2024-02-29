@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Rust' armorer becomes distressed when shown autopsy photos of Halyna Hutchins during shooting trial**
+**Court affirms removal of Kristina Karamo as Michigan GOP chair**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/rust-armorer-becomes-distressed-when-shown-autopsy-photos-halyna-hutchins-during-shooting-trial).
+You can read more about it [here](https://www.cnn.com/2024/02/27/politics/kristina-karamo-michigan-gop/index.html).
 
 ## Requirements
 - Python 3.8
