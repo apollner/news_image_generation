@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The leap year is February 29, not December 32 due to a Roman calendar quirk – and fastidious medieval monks**
+**Out-of-control wildfires scorch Texas Panhandle and prompt shutdown of nuclear weapons facility**
 
-You can read more about it [here](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433).
+You can read more about it [here](https://apnews.com/article/texas-panhandle-fire-evacuations-2cad37f14581bac74a3691969aaaf956).
 
 ## Requirements
 - Python 3.8
