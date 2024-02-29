@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election 2024: Michigan Primary results Joe Biden and Donald Trump win Michigan presidential primaries**
+**'Rust' armorer becomes distressed when shown autopsy photos of Halyna Hutchins during shooting trial**
 
-You can read more about it [here](https://apnews.com/article/joe-biden-donald-trump-election-michigan-2024-6e0b9fc18773e975fdfd23f7287ed615).
+You can read more about it [here](https://www.foxnews.com/entertainment/rust-armorer-becomes-distressed-when-shown-autopsy-photos-halyna-hutchins-during-shooting-trial).
 
 ## Requirements
 - Python 3.8
