@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden aims for clear rebuke of House GOP impeachment inquiry**
+**Ben Affleck Reveals Compromise He Made With Jennifer Lopez After Reconciliation - E! Online**
 
-You can read more about it [here](https://www.politico.com/live-updates/2024/02/28/congress/hunter-speaks-house-testimony-biden-00143833).
+You can read more about it [here](https://www.eonline.com/news/1396082/ben-affleck-reveals-compromise-he-made-with-jennifer-lopez-after-reconciliation).
 
 ## Requirements
 - Python 3.8
