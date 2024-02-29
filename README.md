@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Students at Albert Einstein College of Medicine see 'beacon of hope' in free tuition**
+**British lawmakers fear for their safety after threats and abuse over Gaza**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68421015).
+You can read more about it [here](https://www.reuters.com/world/uk/after-threats-abuse-british-lawmakers-question-their-safety-over-gaza-2024-02-28/).
 
 ## Requirements
 - Python 3.8
