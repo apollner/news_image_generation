@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the rapidly growing Smokehouse Creek Fire in Texas**
+**Apple cancels work on electric car, source says**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/texas-smokehouse-creek-fire-02-27-24/index.html).
+You can read more about it [here](https://www.reuters.com/technology/apple-cancels-work-ev-moves-staff-ai-project-bloomberg-reports-2024-02-27/).
 
 ## Requirements
 - Python 3.8
