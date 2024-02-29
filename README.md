@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX fires up rocket ahead of March 1 astronaut launch (photos)**
+**Lauren Boebert's son Tyler arrested, facing 22 charges: Police**
 
-You can read more about it [here](https://www.space.com/spacex-falcon-9-crew-8-static-fire-photos).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/28/lauren-boebert-son-arrested-tyler/72770666007/).
 
 ## Requirements
 - Python 3.8
