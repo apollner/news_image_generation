@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert's son Tyler arrested, facing 22 charges: Police**
+**Philly renames its concert hall - Slippedisc**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/28/lauren-boebert-son-arrested-tyler/72770666007/).
+You can read more about it [here](https://slippedisc.com/2024/02/philly-renames-its-concert-hall/).
 
 ## Requirements
 - Python 3.8
