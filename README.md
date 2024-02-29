@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC vaccine advisers say older adults should get 2nd coronavirus shot**
+**On the genetic basis of tail-loss evolution in humans and apes**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/02/28/covid-vaccine-booster/).
+You can read more about it [here](https://www.nature.com/articles/s41586-024-07095-8).
 
 ## Requirements
 - Python 3.8
