@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William pulls out of godfather’s memorial service due to personal matter**
+**UGA killing: New details of student death revealed in court docs**
 
-You can read more about it [here](https://www.cnn.com/2024/02/27/uk/prince-william-constantine-ii-memorial-service-intl/index.html).
+You can read more about it [here](https://apnews.com/article/georgia-laken-riley-augusta-nursing-student-fc0a38515fc71c55aeab856f639a0dde).
 
 ## Requirements
 - Python 3.8
