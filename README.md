@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court affirms removal of Kristina Karamo as Michigan GOP chair**
+**Extreme weather hits U.S.: Tornadoes, hail hit Chicago, Illinois**
 
-You can read more about it [here](https://www.cnn.com/2024/02/27/politics/kristina-karamo-michigan-gop/index.html).
+You can read more about it [here](https://www.axios.com/2024/02/28/extreme-weather-us-snow-tornadoes-heat-fires).
 
 ## Requirements
 - Python 3.8
