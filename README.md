@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sydney murder case: Tributes flood in for Jesse Baird and Luke Davies**
+**Shohei Ohtani lives up to hype with homer in Los Angeles Dodgers debut**
 
-You can read more about it [here](https://www.bbc.com/news/world-australia-68420791).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/02/27/shohei-ohtani-home-run-dodgers-debut-spring-training/72764732007/).
 
 ## Requirements
 - Python 3.8
