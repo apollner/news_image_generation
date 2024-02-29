@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Out-of-control wildfires scorch Texas Panhandle and prompt shutdown of nuclear weapons facility**
+**Horoscope for Wednesday, Feb. 28, 2024**
 
-You can read more about it [here](https://apnews.com/article/texas-panhandle-fire-evacuations-2cad37f14581bac74a3691969aaaf956).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/02/27/horoscopes-today-wednesday-feb-28-2024).
 
 ## Requirements
 - Python 3.8
