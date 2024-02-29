@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the Michigan primaries**
+**CDC vaccine advisers say older adults should get 2nd coronavirus shot**
 
-You can read more about it [here](https://www.cnn.com/2024/02/27/politics/takeaways-michigan-democratic-republican-primaries/index.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/02/28/covid-vaccine-booster/).
 
 ## Requirements
 - Python 3.8
