@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Sets Its Sights On Switch Emulator Yuzu In New Lawsuit**
+**Students at Albert Einstein College of Medicine see 'beacon of hope' in free tuition**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/02/nintendo-sets-its-sights-on-switch-emulator-yuzu-in-new-lawsuit).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68421015).
 
 ## Requirements
 - Python 3.8
