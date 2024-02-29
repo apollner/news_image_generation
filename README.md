@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Fiction: The Oscar nominee wading into the US culture wars**
+**Supreme Court hears challenge to Trump-era ban on bump stocks in a major gun control case**
 
-You can read more about it [here](https://www.bbc.com/culture/article/20240227-american-fiction-the-oscar-nominee-wading-into-the-us-culture-wars).
+You can read more about it [here](https://www.cnn.com/2024/02/28/politics/supreme-court-trump-era-ban-bump-stocks/index.html).
 
 ## Requirements
 - Python 3.8
