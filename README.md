@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani lives up to hype with homer in Los Angeles Dodgers debut**
+**Prince Harry loses High Court challenge over UK security levels**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/02/27/shohei-ohtani-home-run-dodgers-debut-spring-training/72764732007/).
+You can read more about it [here](https://www.bbc.com/news/uk-68421992).
 
 ## Requirements
 - Python 3.8
