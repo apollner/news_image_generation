@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert's son Tyler arrested, facing 22 charges: Police**
+**Hunter Biden aims for clear rebuke of House GOP impeachment inquiry**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/28/lauren-boebert-son-arrested-tyler/72770666007/).
+You can read more about it [here](https://www.politico.com/live-updates/2024/02/28/congress/hunter-speaks-house-testimony-biden-00143833).
 
 ## Requirements
 - Python 3.8
