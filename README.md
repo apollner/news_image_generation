@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Wednesday, Feb. 28, 2024**
+**American Fiction: The Oscar nominee wading into the US culture wars**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/02/27/horoscopes-today-wednesday-feb-28-2024).
+You can read more about it [here](https://www.bbc.com/culture/article/20240227-american-fiction-the-oscar-nominee-wading-into-the-us-culture-wars).
 
 ## Requirements
 - Python 3.8
