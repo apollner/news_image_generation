@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Rust' armorer becomes distressed when shown autopsy photos of Halyna Hutchins during shooting trial**
+**The latest on the rapidly growing Smokehouse Creek Fire in Texas**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/rust-armorer-becomes-distressed-when-shown-autopsy-photos-halyna-hutchins-during-shooting-trial).
+You can read more about it [here](https://www.cnn.com/us/live-news/texas-smokehouse-creek-fire-02-27-24/index.html).
 
 ## Requirements
 - Python 3.8
