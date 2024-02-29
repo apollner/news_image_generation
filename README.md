@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado confirmed near Marshall early Wednesday**
+**The leap year is February 29, not December 32 due to a Roman calendar quirk – and fastidious medieval monks**
 
-You can read more about it [here](https://wwmt.com/news/local/tornado-confirmed-near-marshall-battle-creek-wednesday-warning-kalamazoo-county).
+You can read more about it [here](https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433).
 
 ## Requirements
 - Python 3.8
