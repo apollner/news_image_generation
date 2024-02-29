@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UGA killing: New details of student death revealed in court docs**
+**Baseball-size hail possible in Chicago area as severe weather approaches**
 
-You can read more about it [here](https://apnews.com/article/georgia-laken-riley-augusta-nursing-student-fc0a38515fc71c55aeab856f639a0dde).
+You can read more about it [here](http://www.nbcchicago.com/weather/baseball-size-hail-possible-in-chicago-area-as-severe-weather-approaches/3367503/).
 
 ## Requirements
 - Python 3.8
