@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme weather hits U.S.: Tornadoes, hail hit Chicago, Illinois**
+**Macy's closing 150 stores nationwide, including San Francisco's flagship Union Square store**
 
-You can read more about it [here](https://www.axios.com/2024/02/28/extreme-weather-us-snow-tornadoes-heat-fires).
+You can read more about it [here](https://www.ktvu.com/news/macys-closing-150-stores-nationwide-including-san-franciscos-flagship-union-square-store).
 
 ## Requirements
 - Python 3.8
