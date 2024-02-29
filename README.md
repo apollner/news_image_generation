@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry loses High Court challenge over UK security levels**
+**Tornado confirmed near Marshall early Wednesday**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68421992).
+You can read more about it [here](https://wwmt.com/news/local/tornado-confirmed-near-marshall-battle-creek-wednesday-warning-kalamazoo-county).
 
 ## Requirements
 - Python 3.8
