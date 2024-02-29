@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple cancels work on electric car, source says**
+**Sydney murder case: Tributes flood in for Jesse Baird and Luke Davies**
 
-You can read more about it [here](https://www.reuters.com/technology/apple-cancels-work-ev-moves-staff-ai-project-bloomberg-reports-2024-02-27/).
+You can read more about it [here](https://www.bbc.com/news/world-australia-68420791).
 
 ## Requirements
 - Python 3.8
