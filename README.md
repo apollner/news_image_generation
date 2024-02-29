@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After backlash, Wendy’s now says it will not roll out ‘surge pricing’**
+**SpaceX fires up rocket ahead of March 1 astronaut launch (photos)**
 
-You can read more about it [here](https://ktla.com/news/money-business/wendys-now-says-surge-pricing-wont-happen/).
+You can read more about it [here](https://www.space.com/spacex-falcon-9-crew-8-static-fire-photos).
 
 ## Requirements
 - Python 3.8
