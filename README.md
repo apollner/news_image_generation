@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck Reveals Compromise He Made With Jennifer Lopez After Reconciliation - E! Online**
+**Lauren Boebert's son Tyler arrested, facing 22 charges: Police**
 
-You can read more about it [here](https://www.eonline.com/news/1396082/ben-affleck-reveals-compromise-he-made-with-jennifer-lopez-after-reconciliation).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/02/28/lauren-boebert-son-arrested-tyler/72770666007/).
 
 ## Requirements
 - Python 3.8
