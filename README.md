@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British lawmakers fear for their safety after threats and abuse over Gaza**
+**Apple cancels work on electric car, source says**
 
-You can read more about it [here](https://www.reuters.com/world/uk/after-threats-abuse-british-lawmakers-question-their-safety-over-gaza-2024-02-28/).
+You can read more about it [here](https://www.reuters.com/technology/apple-cancels-work-ev-moves-staff-ai-project-bloomberg-reports-2024-02-27/).
 
 ## Requirements
 - Python 3.8
