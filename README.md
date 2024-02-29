@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**On the genetic basis of tail-loss evolution in humans and apes**
+**Reports: Judge throws out woman's $820K insurance claim after photo shows her throwing tree**
 
-You can read more about it [here](https://www.nature.com/articles/s41586-024-07095-8).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/02/28/irish-woman-disability-claim-photo-shows-throwing-tree/72771246007/).
 
 ## Requirements
 - Python 3.8
