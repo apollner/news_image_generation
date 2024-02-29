@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tracking severe threat: Storms bring threat for tornadoes, damaging winds late Tuesday**
+**Bianca Censori shows off her Yeezy-bum in see-through leggings after leaving a dinner night with Kanye West**
 
-You can read more about it [here](https://www.wlwt.com/article/cincinnati-weather-threat-storms-damaging-winds-tornados/46983459).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/bianca-censori-shows-off-her-yeezy-bum-in-see-through-leggings-after-leaving-a-dinner-night-with-kanye-west-101709097257100.html).
 
 ## Requirements
 - Python 3.8
