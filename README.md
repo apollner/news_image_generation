@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philly renames its concert hall - Slippedisc**
+**Takeaways from the Michigan primaries**
 
-You can read more about it [here](https://slippedisc.com/2024/02/philly-renames-its-concert-hall/).
+You can read more about it [here](https://www.cnn.com/2024/02/27/politics/takeaways-michigan-democratic-republican-primaries/index.html).
 
 ## Requirements
 - Python 3.8
