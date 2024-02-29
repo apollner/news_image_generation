@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump plans to post $100 million bond, asks for stay of 'punitive' $464M judgment in civil fraud case**
+**Hunter Biden aims for clear rebuke of House GOP impeachment inquiry**
 
-You can read more about it [here](https://abcnews.go.com/US/trump-plans-post-100-million-bond-asks-stay/story?id=107634579).
+You can read more about it [here](https://www.politico.com/live-updates/2024/02/28/congress/hunter-speaks-house-testimony-biden-00143833).
 
 ## Requirements
 - Python 3.8
