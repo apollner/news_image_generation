@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani lives up to hype with homer in Los Angeles Dodgers debut**
+**'Rust' armorer becomes distressed when shown autopsy photos of Halyna Hutchins during shooting trial**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/02/27/shohei-ohtani-home-run-dodgers-debut-spring-training/72764732007/).
+You can read more about it [here](https://www.foxnews.com/entertainment/rust-armorer-becomes-distressed-when-shown-autopsy-photos-halyna-hutchins-during-shooting-trial).
 
 ## Requirements
 - Python 3.8
