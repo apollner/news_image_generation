@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois judge says 14th Amendment bars Trump from 2024 primary ballot**
+**Stock futures fall as Wall Street awaits the Fed's preferred inflation gauge: Live updates**
 
-You can read more about it [here](https://abcnews.go.com/Politics/illinois-judge-14th-amendment-bars-trump-2024-primary/story?id=107657552).
+You can read more about it [here](https://www.cnbc.com/2024/02/28/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
