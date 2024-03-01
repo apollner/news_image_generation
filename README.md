@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congressional leadership cuts bipartisan deal to avert partial government shutdown**
+**Report: Some Jets believe Mecole Hardman leaked game plans to Chiefs, Eagles**
 
-You can read more about it [here](https://nypost.com/2024/02/28/us-news/congressional-leadership-cuts-bipartisan-deal-to-avert-partial-government-shutdown/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-some-jets-believe-mecole-hardman-leaked-game-plans-to-chiefs-eagles).
 
 ## Requirements
 - Python 3.8
