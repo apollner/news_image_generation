@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert's ex-husband defends son following arrest**
+**Report: Some Jets believe Mecole Hardman leaked game plans to Chiefs, Eagles**
 
-You can read more about it [here](https://www.businessinsider.com/lauren-boebert-ex-husband-defends-son-following-arrest-2024-2).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-some-jets-believe-mecole-hardman-leaked-game-plans-to-chiefs-eagles).
 
 ## Requirements
 - Python 3.8
