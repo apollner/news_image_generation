@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump must come up with the full bond amount to cover the $454 million civil fraud trial judgment, appeals court judge rules**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/02/28/politics/donald-trump-appeals-court-new-york/index.html).
 
 ## Requirements
 - Python 3.8
