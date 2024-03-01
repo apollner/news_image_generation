@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge Cannon rejects Trump's evidence request in classified docs case**
+**Ryan Gosling to perform 'I'm Just Ken' at the Oscars**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/02/28/trump-cannon-classified-documents-ruling/).
+You can read more about it [here](https://www.washingtonpost.com/style/2024/02/28/oscars-2024-ryan-gosling-ken-barbie/).
 
 ## Requirements
 - Python 3.8
