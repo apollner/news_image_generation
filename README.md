@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump must come up with the full bond amount to cover the $454 million civil fraud trial judgment, appeals court judge rules**
+**Judge Cannon rejects Trump's evidence request in classified docs case**
 
-You can read more about it [here](https://www.cnn.com/2024/02/28/politics/donald-trump-appeals-court-new-york/index.html).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/02/28/trump-cannon-classified-documents-ruling/).
 
 ## Requirements
 - Python 3.8
