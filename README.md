@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FF7 Rebirth Walkthrough - Final Fantasy 7 Rebirth Guide**
+**Israel-Hamas war: Gaza Health Ministry says over 30,000 Palestinians killed**
 
-You can read more about it [here](https://www.ign.com/wikis/final-fantasy-7-rebirth/FF7_Rebirth_Walkthrough).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-29-2024-f9b5a62a80d8b83eac4946d3c85af58b).
 
 ## Requirements
 - Python 3.8
