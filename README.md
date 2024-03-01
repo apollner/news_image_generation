@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Mitch McConnell's Season of Losses - POLITICO**
+**FF7 Rebirth Walkthrough - Final Fantasy 7 Rebirth Guide**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2024/02/29/mitch-mcconnell-season-of-losses-00144027).
+You can read more about it [here](https://www.ign.com/wikis/final-fantasy-7-rebirth/FF7_Rebirth_Walkthrough).
 
 ## Requirements
 - Python 3.8
