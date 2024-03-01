@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures fall as Wall Street awaits the Fed's preferred inflation gauge: Live updates**
+**Inside Mitch McConnell's Season of Losses - POLITICO**
 
-You can read more about it [here](https://www.cnbc.com/2024/02/28/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.politico.com/news/magazine/2024/02/29/mitch-mcconnell-season-of-losses-00144027).
 
 ## Requirements
 - Python 3.8
