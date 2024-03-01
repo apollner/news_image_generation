@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Some Jets believe Mecole Hardman leaked game plans to Chiefs, Eagles**
+**Crew-8 mission: Preparation for Florida launch moves forward**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-some-jets-believe-mecole-hardman-leaked-game-plans-to-chiefs-eagles).
+You can read more about it [here](https://www.wesh.com/article/crew-8-launch-florida-prep/60014283).
 
 ## Requirements
 - Python 3.8
