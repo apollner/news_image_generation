@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Dune 2’ Dashes to Early $7.6M Overseas**
+**2024 NFL Mock Draft: Steelers sign Kirk Cousins and Raiders add Russell Wilson, creating fascinating Round 1**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/dune-part-two-box-office-overseas-1235839638/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-mock-draft-steelers-sign-kirk-cousins-and-raiders-add-russell-wilson-creating-fascinating-round-1/).
 
 ## Requirements
 - Python 3.8
