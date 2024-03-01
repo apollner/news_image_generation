@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress reaches deal to punt government shutdown**
+**Iran elections: First polls held since 2022 nationwide protests**
 
-You can read more about it [here](https://www.axios.com/2024/02/28/congress-deal-to-punt-government-shutdown).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68422071).
 
 ## Requirements
 - Python 3.8
