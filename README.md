@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congressional leadership cuts bipartisan deal to avert partial government shutdown**
+**Mitch McConnell to step down from GOP leadership position in the Senate**
 
-You can read more about it [here](https://nypost.com/2024/02/28/us-news/congressional-leadership-cuts-bipartisan-deal-to-avert-partial-government-shutdown/).
+You can read more about it [here](https://www.cnn.com/2024/02/28/politics/mitch-mcconnell-stepping-down-leadership-senate-gop/index.html).
 
 ## Requirements
 - Python 3.8
