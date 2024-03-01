@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealth hackers say they stole 'millions' of records, then delete statement**
+**Curb Your Enthusiasm star Richard Lewis dies aged 76**
 
-You can read more about it [here](https://www.reuters.com/technology/cybersecurity/unitedhealth-hackers-say-they-stole-millions-records-then-delete-statement-2024-02-28/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68431621).
 
 ## Requirements
 - Python 3.8
