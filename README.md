@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey to Exit WeightWatchers Board After She Announced Use of Weight-Loss Drug**
+**More than 30,000 killed in Gaza, Hamas-run health ministry says**
 
-You can read more about it [here](https://variety.com/2024/biz/news/oprah-winfrey-leaves-weightwatchers-board-weight-loss-drug-1235926484/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68430925).
 
 ## Requirements
 - Python 3.8
