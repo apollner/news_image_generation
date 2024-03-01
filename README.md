@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France again floats idea of sending non-combat troops to Ukraine**
+**Illinois judge says 14th Amendment bars Trump from 2024 primary ballot**
 
-You can read more about it [here](https://abcnews.go.com/International/france-floats-idea-sending-combat-troops-ukraine/story?id=107669159).
+You can read more about it [here](https://abcnews.go.com/Politics/illinois-judge-14th-amendment-bars-trump-2024-primary/story?id=107657552).
 
 ## Requirements
 - Python 3.8
