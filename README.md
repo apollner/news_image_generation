@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Gosling to perform 'I'm Just Ken' at the Oscars**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2024/02/28/oscars-2024-ryan-gosling-ken-barbie/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
