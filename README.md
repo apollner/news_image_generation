@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Electronic Arts Cancels Upcoming ‘Star Wars’ Game, Plans to Cut More Than 650 Jobs**
+**New images share unprecedented view of how Odysseus spacecraft landed on the moon**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/digital/video-game-giant-ea-layoffs-1235839026/).
+You can read more about it [here](https://www.cnn.com/2024/02/28/world/odysseus-spacecraft-first-images-moon-surface-scn/index.html).
 
 ## Requirements
 - Python 3.8
