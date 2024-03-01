@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winklevoss Twins' Start-Up Will Pay Burned Customers $1B**
+**Congressional leadership cuts bipartisan deal to avert partial government shutdown**
 
-You can read more about it [here](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion).
+You can read more about it [here](https://nypost.com/2024/02/28/us-news/congressional-leadership-cuts-bipartisan-deal-to-avert-partial-government-shutdown/).
 
 ## Requirements
 - Python 3.8
