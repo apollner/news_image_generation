@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly Texas wildfire torches 1 million acres – the largest blaze in state history – as more infernos rage**
+**Blockbuster California storm to deliver crushing blow of 10 feet of snow and blizzard conditions**
 
-You can read more about it [here](https://www.cnn.com/2024/02/29/us/texas-panhandle-smokehouse-creek-fire-thursday/index.html).
+You can read more about it [here](https://www.cnn.com/2024/02/29/weather/california-storm-snow-blizzard-climate/index.html).
 
 ## Requirements
 - Python 3.8
