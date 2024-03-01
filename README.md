@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Ricciardo tops Bahrain Grand Prix first practice**
+**Box Office: ‘Dune 2’ Dashes to Early $7.6M Overseas**
 
-You can read more about it [here](https://www.bbc.com/sport/formula1/68436910).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/dune-part-two-box-office-overseas-1235839638/).
 
 ## Requirements
 - Python 3.8
