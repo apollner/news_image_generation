@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 30,000 killed in Gaza, Hamas-run health ministry says**
+**Deadly Texas wildfire torches 1 million acres – the largest blaze in state history – as more infernos rage**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68430925).
+You can read more about it [here](https://www.cnn.com/2024/02/29/us/texas-panhandle-smokehouse-creek-fire-thursday/index.html).
 
 ## Requirements
 - Python 3.8
