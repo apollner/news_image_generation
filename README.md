@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Zealand lists Hamas as terrorists, sanctions 'extremist' settlers**
+**Shohei Ohtani: Baseball superstar announces marriage to Japanese woman**
 
-You can read more about it [here](https://www.ynetnews.com/article/skpzl9pha).
+You can read more about it [here](https://www.bbc.com/news/68432928).
 
 ## Requirements
 - Python 3.8
