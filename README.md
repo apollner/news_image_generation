@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chrysler recalling more than 330000 Jeep Grand Cherokees due to steering wheel issue**
+**Electronic Arts Cancels Upcoming ‘Star Wars’ Game, Plans to Cut More Than 650 Jobs**
 
-You can read more about it [here](https://apnews.com/article/chrysler-recall-jeep-grand-cherokee-b26f8e4b968fbca82b3b59585b05b0b0).
+You can read more about it [here](http://www.hollywoodreporter.com/business/digital/video-game-giant-ea-layoffs-1235839026/).
 
 ## Requirements
 - Python 3.8
