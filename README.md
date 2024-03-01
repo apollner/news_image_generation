@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why fast-food fans flipped out over Wendy's pricing**
+**Daniel Ricciardo tops Bahrain Grand Prix first practice**
 
-You can read more about it [here](https://www.axios.com/2024/02/29/wendys-surge-pricing-ai-backlash-internet).
+You can read more about it [here](https://www.bbc.com/sport/formula1/68436910).
 
 ## Requirements
 - Python 3.8
