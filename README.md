@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa’s Caitlin Clark breaks Lynette Woodard’s record for most career points in major women’s college basketball**
+**Dueling Biden, Trump visits to besieged border come amid fresh slew of violent crimes by illegal immigrants**
 
-You can read more about it [here](https://www.cnn.com/2024/02/29/sport/caitlin-clark-lynette-woodard-record-spt/index.html).
+You can read more about it [here](https://www.foxnews.com/politics/dueling-biden-trump-visits-besieged-border-come-amid-fresh-slew-violent-crimes-illegal-immigrants).
 
 ## Requirements
 - Python 3.8
