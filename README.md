@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Curb Your Enthusiasm star Richard Lewis dies aged 76**
+**Congressional leadership cuts bipartisan deal to avert partial government shutdown**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68431621).
+You can read more about it [here](https://nypost.com/2024/02/28/us-news/congressional-leadership-cuts-bipartisan-deal-to-avert-partial-government-shutdown/).
 
 ## Requirements
 - Python 3.8
