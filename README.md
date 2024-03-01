@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toobin: SCOTUS ruling is a ‘gift to Trump’ regardless of outcome**
+**Judge Cannon rejects Trump's evidence request in classified docs case**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4496245-toobin-scotus-ruling-gift-trump-regardless-outcome/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/02/28/trump-cannon-classified-documents-ruling/).
 
 ## Requirements
 - Python 3.8
