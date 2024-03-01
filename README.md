@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reports: Judge throws out woman's $820K insurance claim after photo shows her throwing tree**
+**2024 NFL Scouting Combine: What We Learned during Wednesday's activities in Indianapolis**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/02/28/irish-woman-disability-claim-photo-shows-throwing-tree/72771246007/).
+You can read more about it [here](https://www.nfl.com/news/2024-nfl-scouting-combine-what-we-learned-during-wednesday-s-activities-in-indianapolis).
 
 ## Requirements
 - Python 3.8
