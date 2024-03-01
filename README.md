@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitch McConnell to step down from GOP leadership position in the Senate**
+**Winklevoss Twins' Start-Up Will Pay Burned Customers $1B**
 
-You can read more about it [here](https://www.cnn.com/2024/02/28/politics/mitch-mcconnell-stepping-down-leadership-senate-gop/index.html).
+You can read more about it [here](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion).
 
 ## Requirements
 - Python 3.8
