@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Scouting Combine: What We Learned during Wednesday's activities in Indianapolis**
+**Chrysler recalling more than 330000 Jeep Grand Cherokees due to steering wheel issue**
 
-You can read more about it [here](https://www.nfl.com/news/2024-nfl-scouting-combine-what-we-learned-during-wednesday-s-activities-in-indianapolis).
+You can read more about it [here](https://apnews.com/article/chrysler-recall-jeep-grand-cherokee-b26f8e4b968fbca82b3b59585b05b0b0).
 
 ## Requirements
 - Python 3.8
