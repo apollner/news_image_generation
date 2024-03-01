@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Gaza Health Ministry says over 30,000 Palestinians killed**
+**Why fast-food fans flipped out over Wendy's pricing**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-02-29-2024-f9b5a62a80d8b83eac4946d3c85af58b).
+You can read more about it [here](https://www.axios.com/2024/02/29/wendys-surge-pricing-ai-backlash-internet).
 
 ## Requirements
 - Python 3.8
