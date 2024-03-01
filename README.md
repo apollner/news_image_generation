@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blockbuster California storm to deliver crushing blow of 10 feet of snow and blizzard conditions**
+**'Business as Usual' for Prince William, as Sources Dismiss 'Toxic' Kate Speculation**
 
-You can read more about it [here](https://www.cnn.com/2024/02/29/weather/california-storm-snow-blizzard-climate/index.html).
+You can read more about it [here](https://www.thedailybeast.com/business-as-usual-for-prince-william-as-sources-dismiss-toxic-kate-speculation).
 
 ## Requirements
 - Python 3.8
