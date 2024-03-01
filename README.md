@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crew-8 mission: Preparation for Florida launch moves forward**
+**Lauren Boebert's ex-husband defends son following arrest**
 
-You can read more about it [here](https://www.wesh.com/article/crew-8-launch-florida-prep/60014283).
+You can read more about it [here](https://www.businessinsider.com/lauren-boebert-ex-husband-defends-son-following-arrest-2024-2).
 
 ## Requirements
 - Python 3.8
