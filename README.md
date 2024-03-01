@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran elections: First polls held since 2022 nationwide protests**
+**New Zealand lists Hamas as terrorists, sanctions 'extremist' settlers**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68422071).
+You can read more about it [here](https://www.ynetnews.com/article/skpzl9pha).
 
 ## Requirements
 - Python 3.8
