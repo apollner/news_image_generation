@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Some Jets believe Mecole Hardman leaked game plans to Chiefs, Eagles**
+**Iowa’s Caitlin Clark breaks Lynette Woodard’s record for most career points in major women’s college basketball**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-some-jets-believe-mecole-hardman-leaked-game-plans-to-chiefs-eagles).
+You can read more about it [here](https://www.cnn.com/2024/02/29/sport/caitlin-clark-lynette-woodard-record-spt/index.html).
 
 ## Requirements
 - Python 3.8
