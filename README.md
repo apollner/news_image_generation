@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani: Baseball superstar announces marriage to Japanese woman**
+**Oprah Winfrey to exit WeightWatchers board, a blow as weight-loss drugs surge**
 
-You can read more about it [here](https://www.bbc.com/news/68432928).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/02/29/oprah-winfrey-weightwatchers-board/).
 
 ## Requirements
 - Python 3.8
