@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Steelers sign Kirk Cousins and Raiders add Russell Wilson, creating fascinating Round 1**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-mock-draft-steelers-sign-kirk-cousins-and-raiders-add-russell-wilson-creating-fascinating-round-1/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
