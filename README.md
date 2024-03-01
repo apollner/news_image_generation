@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Electronic Arts announces layoffs and cancels Star Wars game**
+**Congress reaches deal to punt government shutdown**
 
-You can read more about it [here](https://mashable.com/article/ea-electronic-arts-layoffs-star-wars-fps-cancelled).
+You can read more about it [here](https://www.axios.com/2024/02/28/congress-deal-to-punt-government-shutdown).
 
 ## Requirements
 - Python 3.8
