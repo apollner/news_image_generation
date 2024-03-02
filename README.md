@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Local hospitals preparing for Total Solar Eclipse**
+**Dodgers star Shohei Ohtani announces marriage on social media**
 
-You can read more about it [here](https://www.whec.com/top-news/local-hospitals-preparing-for-total-solar-eclipse/).
+You can read more about it [here](https://www.latimes.com/sports/story/2024-02-29/shohei-ohtani-announces-married-dodgers).
 
 ## Requirements
 - Python 3.8
