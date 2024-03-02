@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from Hunter Biden's combative deposition with Republican lawmakers**
+**Euro zone inflation February 2024**
 
-You can read more about it [here](https://apnews.com/article/hunter-biden-impeachment-joe-biden-transcript-congress-50acadad1afc1efc1426828edb1b3ad9).
+You can read more about it [here](https://www.cnbc.com/2024/03/01/euro-zone-inflation-q1-2024.html).
 
 ## Requirements
 - Python 3.8
