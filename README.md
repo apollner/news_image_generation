@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texts show prosecutor's ex-law partner gave info for effort to remove Fani Willis from election case**
+**2024 NFL Scouting Combine: Top Draft Takeaways from DL & LB On-Field Workouts**
 
-You can read more about it [here](https://apnews.com/article/willis-wade-trump-bradley-text-messages-b10041b3446df0426ca8e3192a042162).
+You can read more about it [here](https://bleacherreport.com/articles/10111234-2024-nfl-scouting-combine-top-draft-takeaways-from-dl-lb-on-field-workouts).
 
 ## Requirements
 - Python 3.8
