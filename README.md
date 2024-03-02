@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden calls climate change deniers 'Neanderthals' during border speech in Texas**
+**Spring is in the air — and in the night sky if you look closely**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-calls-climate-change-deniers-neanderthals-during-border-speech-texas).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/01/astronomy-vernal-equinox-mercury-march/).
 
 ## Requirements
 - Python 3.8
