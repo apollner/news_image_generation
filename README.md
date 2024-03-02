@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Bachelor's Joey Graziadei Reveals Gilbert Syndrome Diagnosis Amid Concern About His 'Yellow Eyes'**
+**Putin says West sending troops to Ukraine could lead to nuclear war**
 
-You can read more about it [here](https://www.etonline.com/the-bachelors-joey-graziadei-reveals-gilbert-syndrome-diagnosis-amid-concern-about-his-yellow-eyes).
+You can read more about it [here](https://www.cnn.com/2024/02/29/europe/putin-nuclear-war-state-of-nation-russia-ukraine-intl/index.html).
 
 ## Requirements
 - Python 3.8
