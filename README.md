@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC COVID vaccine recommendations: Seniors should get another shot, experts say**
+**Jax Taylor and Brittany Cartwright seen living separately days before announcing breakup**
 
-You can read more about it [here](https://abc7chicago.com/cdc-covid-vaccine-recommendations-guidelines-2024-latest-new/14479970/).
+You can read more about it [here](https://pagesix.com/2024/02/29/entertainment/jax-taylor-and-brittany-cartwright-seen-living-separately-days-before-announcing-breakup/).
 
 ## Requirements
 - Python 3.8
