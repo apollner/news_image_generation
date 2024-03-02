@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alexei Navalny funeral: He is buried in Moscow as crowd chants anti-Putin slogans**
+**NYCB Stock Plummets After Bank Finds ‘Material Weaknesses, Changes CEO**
 
-You can read more about it [here](https://www.bbc.co.uk/news/live/world-68427413).
+You can read more about it [here](https://www.barrons.com/articles/new-york-community-bank-nycb-stock-price-ceo-news-c092c637).
 
 ## Requirements
 - Python 3.8
