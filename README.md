@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than a billion people worldwide are obese, WHO study finds**
+**WATCH LIVE: Closing statements in hearing to possibly remove Fani Willis from Trump Georgia election case**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/more-than-billion-people-worldwide-are-obese-who-study-finds-2024-02-29/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/watch-live-closing-statements-in-hearing-to-possibly-remove-fani-willis-from-trump-georgia-election-case).
 
 ## Requirements
 - Python 3.8
