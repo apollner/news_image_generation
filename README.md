@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers star Shohei Ohtani announces marriage on social media**
+**Live updates: Biden, Trump visit US-Mexico border in reelection effort**
 
-You can read more about it [here](https://www.latimes.com/sports/story/2024-02-29/shohei-ohtani-announces-married-dodgers).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-biden-border-election-news-02-29-24/index.html).
 
 ## Requirements
 - Python 3.8
