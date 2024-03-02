@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jax Taylor and Brittany Cartwright seen living separately days before announcing breakup**
+**Poison seller tied to suicide forum tracked down by BBC**
 
-You can read more about it [here](https://pagesix.com/2024/02/29/entertainment/jax-taylor-and-brittany-cartwright-seen-living-separately-days-before-announcing-breakup/).
+You can read more about it [here](https://www.bbc.com/news/uk-68347415).
 
 ## Requirements
 - Python 3.8
