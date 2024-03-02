@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: More than 100 reported killed in crowd near Gaza aid convoy**
+**Senate approves House-passed stopgap bill to prevent partial government shutdown**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68434443).
+You can read more about it [here](https://nypost.com/2024/02/29/us-news/senate-approves-house-passed-stopgap-bill-to-prevent-partial-government-shutdown/).
 
 ## Requirements
 - Python 3.8
