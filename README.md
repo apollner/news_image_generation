@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Euro zone inflation February 2024**
+**Biden calls climate change deniers 'Neanderthals' during border speech in Texas**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/01/euro-zone-inflation-q1-2024.html).
+You can read more about it [here](https://www.foxnews.com/politics/biden-calls-climate-change-deniers-neanderthals-during-border-speech-texas).
 
 ## Requirements
 - Python 3.8
