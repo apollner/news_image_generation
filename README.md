@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest tech gadgets: Smart rings, robot dogs, bendable phones**
+**Israel-Gaza war: More than 100 reported killed in crowd near Gaza aid convoy**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/01/latest-tech-gadgets-smart-rings-robot-dogs-bendable-phones.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68434443).
 
 ## Requirements
 - Python 3.8
