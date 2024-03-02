@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA mock draft: Clark a lock at No. 1, but who comes next?**
+**Biden announces US airdrops of humanitarian assistance into Gaza**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/39631450/wnba-mock-draft-2024-clark-iowa-indiana-fever-brink).
+You can read more about it [here](https://www.cnn.com/2024/03/01/politics/biden-airdrops-assistance-gaza/index.html).
 
 ## Requirements
 - Python 3.8
