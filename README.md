@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH LIVE: Closing statements in hearing to possibly remove Fani Willis from Trump Georgia election case**
+**NYCB stock plummets as bank replaces CEO, cites 'material weakness'**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/watch-live-closing-statements-in-hearing-to-possibly-remove-fani-willis-from-trump-georgia-election-case).
+You can read more about it [here](https://www.foxbusiness.com/markets/nycb-stock-bank-replaces-ceo-cites-material-weakness).
 
 ## Requirements
 - Python 3.8
