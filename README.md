@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC recommends additional COVID vaccine for adults 65 and over**
+**Recession worries rise if Americans save less, spend more.**
 
-You can read more about it [here](https://www.foxnews.com/health/cdc-recommends-additional-covid-vaccine-adults-65-over).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/02/29/economy-saving-rate-recession-risk/72790561007/).
 
 ## Requirements
 - Python 3.8
