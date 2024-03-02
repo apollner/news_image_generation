@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recession worries rise if Americans save less, spend more.**
+**Caitlin Clark declares for 2024 WNBA Draft ahead of final postseason run with Iowa**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/02/29/economy-saving-rate-recession-risk/72790561007/).
+You can read more about it [here](https://theathletic.com/5308822/2024/02/29/caitlin-clark-wnba-draft-announcement/).
 
 ## Requirements
 - Python 3.8
