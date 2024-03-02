@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYCB stock plummets as bank replaces CEO, cites 'material weakness'**
+**Spring is in the air — and in the night sky if you look closely**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/nycb-stock-bank-replaces-ceo-cites-material-weakness).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/01/astronomy-vernal-equinox-mercury-march/).
 
 ## Requirements
 - Python 3.8
