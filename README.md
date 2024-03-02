@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Scouting Combine: Top Draft Takeaways from DL & LB On-Field Workouts**
+**Alexei Navalny: 'No hearse for body' as family prepares funeral**
 
-You can read more about it [here](https://bleacherreport.com/articles/10111234-2024-nfl-scouting-combine-top-draft-takeaways-from-dl-lb-on-field-workouts).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68435167).
 
 ## Requirements
 - Python 3.8
