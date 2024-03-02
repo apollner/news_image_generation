@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US forces carry out more strikes against anti-ship cruise missiles, drone in Red Sea**
+**Texts show prosecutor's ex-law partner gave info for effort to remove Fani Willis from election case**
 
-You can read more about it [here](https://www.foxnews.com/world/us-forces-carry-out-more-strikes-against-anti-ship-cruise-missiles-drone-red-sea).
+You can read more about it [here](https://apnews.com/article/willis-wade-trump-bradley-text-messages-b10041b3446df0426ca8e3192a042162).
 
 ## Requirements
 - Python 3.8
