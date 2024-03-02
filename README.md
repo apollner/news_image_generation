@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin's bluffing on nukes (for now), says top NATO official**
+**More than a billion people worldwide are obese, WHO study finds**
 
-You can read more about it [here](https://www.politico.eu/article/putins-bluffing-on-nukes-says-top-nato-official/).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/more-than-billion-people-worldwide-are-obese-who-study-finds-2024-02-29/).
 
 ## Requirements
 - Python 3.8
