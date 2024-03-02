@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate approves House-passed stopgap bill to prevent partial government shutdown**
+**Takeaways from Hunter Biden's combative deposition with Republican lawmakers**
 
-You can read more about it [here](https://nypost.com/2024/02/29/us-news/senate-approves-house-passed-stopgap-bill-to-prevent-partial-government-shutdown/).
+You can read more about it [here](https://apnews.com/article/hunter-biden-impeachment-joe-biden-transcript-congress-50acadad1afc1efc1426828edb1b3ad9).
 
 ## Requirements
 - Python 3.8
