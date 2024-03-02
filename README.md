@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spring is in the air — and in the night sky if you look closely**
+**BBC visits Iran polling station as voting begins**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/01/astronomy-vernal-equinox-mercury-march/).
+You can read more about it [here](https://www.bbc.com/news/av/world-middle-east-68445596).
 
 ## Requirements
 - Python 3.8
