@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fewer marriages, babies push Japan birth rate to lowest since 1899**
+**Inflation remains sticky in Europe, with core prices cooling less than expected**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/03/01/birth-rate-in-japan-record-low/72779326007/).
+You can read more about it [here](https://www.cnbc.com/2024/03/01/euro-zone-inflation-q1-2024.html).
 
 ## Requirements
 - Python 3.8
