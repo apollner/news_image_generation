@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark declares for 2024 WNBA Draft ahead of final postseason run with Iowa**
+**'The Bachelor's Joey Graziadei Reveals Gilbert Syndrome Diagnosis Amid Concern About His 'Yellow Eyes'**
 
-You can read more about it [here](https://theathletic.com/5308822/2024/02/29/caitlin-clark-wnba-draft-announcement/).
+You can read more about it [here](https://www.etonline.com/the-bachelors-joey-graziadei-reveals-gilbert-syndrome-diagnosis-amid-concern-about-his-yellow-eyes).
 
 ## Requirements
 - Python 3.8
