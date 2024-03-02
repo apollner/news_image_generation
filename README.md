@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BBC visits Iran polling station as voting begins**
+**Yosemite National Park: Weather forces closure; evacuations urged**
 
-You can read more about it [here](https://www.bbc.com/news/av/world-middle-east-68445596).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/01/yosemite-national-park-closes-snow-weather/72801953007/).
 
 ## Requirements
 - Python 3.8
