@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poison seller tied to suicide forum tracked down by BBC**
+**CDC recommends additional COVID vaccine for adults 65 and over**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68347415).
+You can read more about it [here](https://www.foxnews.com/health/cdc-recommends-additional-covid-vaccine-adults-65-over).
 
 ## Requirements
 - Python 3.8
