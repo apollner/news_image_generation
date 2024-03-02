@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Kate rumors denied by Kensington Palace amid 2-month absence**
+**Israel-Gaza war: More than 100 reported killed in crowd near Gaza aid convoy**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/02/29/where-is-kate-middleton-kensington-palace-responds/72795665007/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68434443).
 
 ## Requirements
 - Python 3.8
