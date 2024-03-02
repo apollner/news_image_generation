@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYCB Stock Plummets After Bank Finds ‘Material Weaknesses, Changes CEO**
+**Putin's bluffing on nukes (for now), says top NATO official**
 
-You can read more about it [here](https://www.barrons.com/articles/new-york-community-bank-nycb-stock-price-ceo-news-c092c637).
+You can read more about it [here](https://www.politico.eu/article/putins-bluffing-on-nukes-says-top-nato-official/).
 
 ## Requirements
 - Python 3.8
