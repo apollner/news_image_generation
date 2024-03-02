@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alexei Navalny: 'No hearse for body' as family prepares funeral**
+**Congress passes stopgap bill to avert government shutdown**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68435167).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
