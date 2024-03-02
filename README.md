@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says West sending troops to Ukraine could lead to nuclear war**
+**US forces carry out more strikes against anti-ship cruise missiles, drone in Red Sea**
 
-You can read more about it [here](https://www.cnn.com/2024/02/29/europe/putin-nuclear-war-state-of-nation-russia-ukraine-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/world/us-forces-carry-out-more-strikes-against-anti-ship-cruise-missiles-drone-red-sea).
 
 ## Requirements
 - Python 3.8
