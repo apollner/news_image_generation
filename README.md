@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spring is in the air — and in the night sky if you look closely**
+**Fewer marriages, babies push Japan birth rate to lowest since 1899**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/01/astronomy-vernal-equinox-mercury-march/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/03/01/birth-rate-in-japan-record-low/72779326007/).
 
 ## Requirements
 - Python 3.8
