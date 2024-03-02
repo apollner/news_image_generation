@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BBC visits Iran polling station as voting begins**
+**An officer and a process server were killed and 2 officers shot as eviction notice served in Missouri**
 
-You can read more about it [here](https://www.bbc.com/news/av/world-middle-east-68445596).
+You can read more about it [here](https://www.cnn.com/2024/03/01/us/missouri-shooting-officer-killed/index.html).
 
 ## Requirements
 - Python 3.8
