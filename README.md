@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inflation remains sticky in Europe, with core prices cooling less than expected**
+**Spring is in the air — and in the night sky if you look closely**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/01/euro-zone-inflation-q1-2024.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/01/astronomy-vernal-equinox-mercury-march/).
 
 ## Requirements
 - Python 3.8
