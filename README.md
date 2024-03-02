@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ori Dev's Action RPG No Rest for the Wicked Gets a Huge Update, Gameplay Looks Amazing**
+**Caleb Williams Full Combine Press Conference**
 
-You can read more about it [here](https://www.pushsquare.com/news/2024/03/ori-devs-action-rpg-no-rest-for-the-wicked-gets-a-huge-update-gameplay-looks-amazing).
+You can read more about it [here](https://www.youtube.com/watch?v=yDJN2bCvT5U).
 
 ## Requirements
 - Python 3.8
