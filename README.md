@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Body of missing Florida teen Madeline Soto found, sheriff says**
+**Germany's Scholz vows probe into 'very serious' leak of army talks on Ukraine war**
 
-You can read more about it [here](https://www.cbsnews.com/news/madeline-soto-body-found-missing-florida-teen/).
+You can read more about it [here](https://www.france24.com/en/europe/20240302-germany-s-scholz-vows-probe-into-apparent-leak-of-ukraine-war-talks).
 
 ## Requirements
 - Python 3.8
