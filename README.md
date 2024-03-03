@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk Just Threw Down the Gauntlet at Sam Altman**
+**A New COVID Vaccine Dose Is Now Available for People Age 65 and Older. Where Can You Find a Shot Near You?**
 
-You can read more about it [here](https://www.businessinsider.com/elon-musk-throws-down-gauntlet-sam-altman-openai-lawsuit-2024-3).
+You can read more about it [here](https://www.kqed.org/news/11977786/a-new-covid-vaccine-dose-is-now-available-for-people-age-65-and-older-where-can-you-find-a-shot-near-you).
 
 ## Requirements
 - Python 3.8
