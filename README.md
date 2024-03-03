@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biggest snowstorm of the season to hit California mountains**
+**CDC ditches 5-day COVID isolation, argues COVID is becoming flu-like**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68455345).
+You can read more about it [here](https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/).
 
 ## Requirements
 - Python 3.8
