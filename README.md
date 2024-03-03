@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A lone orca slayed a great white in less than two minutes. Scientists say it could signal an ecological shift**
+**Mecole Hardman denies leaking game plans to opposing teams**
 
-You can read more about it [here](https://www.cnn.com/2024/03/01/africa/orca-kills-great-white-shark-south-africa-scn/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mecole-hardman-denies-leaking-game-plans-to-opposing-teams).
 
 ## Requirements
 - Python 3.8
