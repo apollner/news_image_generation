@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California gives Waymo the green light to expand robotaxi operations**
+**Financial stress peaks in the populations of these 10 American cities**
 
-You can read more about it [here](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/03/02/top-10-financial-stress-cities/72788536007/).
 
 ## Requirements
 - Python 3.8
