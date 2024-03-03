@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I Saw ‘Dune 2’ at 3:15 a.m.: Inside the Nearly Sold-Out, All-Night Screening in 70mm Imax**
+**Excessive drinking caused nearly 500 deaths per day during pandemic, CDC says**
 
-You can read more about it [here](https://variety.com/2024/film/news/dune-2-imax-70mm-3-am-1235927960/).
+You can read more about it [here](https://ktla.com/news/local-news/excessive-drinking-caused-nearly-500-deaths-per-day-during-pandemic-cdc-says/).
 
 ## Requirements
 - Python 3.8
