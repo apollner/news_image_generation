@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 3/01/24: $607 million jackpot**
+**Paramedic gets 5 years in prison for Elijah McClain's death in rare case against medical responders**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/03/01/mega-millions-winning-numbers/72809091007/).
+You can read more about it [here](https://apnews.com/article/elijah-mcclain-paramedics-ketamine-social-justice-2583a1039ed5a6c3cd5adc986efbe1d2).
 
 ## Requirements
 - Python 3.8
