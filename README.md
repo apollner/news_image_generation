@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rubymar cargo ship attacked by Houthis has sunk, Yemeni government says**
+**US and Jordanian forces airdrop aid into Gaza**
 
-You can read more about it [here](https://www.reuters.com/world/freighter-rubymar-has-sunk-red-sea-yemen-internationally-recognised-government-2024-03-02/).
+You can read more about it [here](https://www.cnn.com/2024/03/02/politics/us-airdrops-aid-gaza/index.html).
 
 ## Requirements
 - Python 3.8
