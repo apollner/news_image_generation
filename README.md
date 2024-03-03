@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Excessive drinking caused nearly 500 deaths per day during pandemic, CDC says**
+**Mega Millions winning numbers for 3/01/24: $607 million jackpot**
 
-You can read more about it [here](https://ktla.com/news/local-news/excessive-drinking-caused-nearly-500-deaths-per-day-during-pandemic-cdc-says/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/03/01/mega-millions-winning-numbers/72809091007/).
 
 ## Requirements
 - Python 3.8
