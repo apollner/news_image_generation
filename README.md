@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramedic gets 5 years in prison for Elijah McClain's death in rare case against medical responders**
+**'Worrisome' study shows long COVID sufferers could lose up to six IQ points**
 
-You can read more about it [here](https://apnews.com/article/elijah-mcclain-paramedics-ketamine-social-justice-2583a1039ed5a6c3cd5adc986efbe1d2).
+You can read more about it [here](https://nypost.com/2024/03/01/lifestyle/long-covid-may-lower-a-persons-iq-by-up-to-six-points-study/).
 
 ## Requirements
 - Python 3.8
