@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ajay Devgn, Saif Ali Khan, MS Dhoni, Mark Zuckerberg, Ivanka Trump: Celebs dazzle at Anant Ambani and Rad**
+**2024 NFL Combine takeaways, grades for top DB prospects, plus other winners and losers**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-saif-ali-khan-ms-dhoni-mark-zuckerberg-ivanka-trump-celebs-dazzle-at-anant-ambani-and-radhika-merchants-pre-wedding-bash/articleshow/108148037.cms).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-combine-takeaways-grades-for-top-db-prospects-plus-other-winners-and-losers/).
 
 ## Requirements
 - Python 3.8
