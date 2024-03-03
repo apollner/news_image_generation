@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA considers new rule allowing in-helmet communications**
+**Box Office: ‘Dune: Part Two’ Rides to Impressive $32 Million Opening Day**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ncaa-considers-new-rule-allowing-in-helmet-communications).
+You can read more about it [here](https://variety.com/2024/film/box-office/dune-2-opening-day-box-office-1235927316/).
 
 ## Requirements
 - Python 3.8
