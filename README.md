@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nepo Baby of the Week: Prayers Up for Hailey Bieber**
+**Fisker stock climbs back on possible Nissan investment**
 
-You can read more about it [here](https://www.thedailybeast.com/obsessed/nepo-baby-of-the-week-prayers-up-for-hailey-and-justin-bieber).
+You can read more about it [here](https://finance.yahoo.com/video/fisker-climbs-back-possible-nissan-223858573.html).
 
 ## Requirements
 - Python 3.8
