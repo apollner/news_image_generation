@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid anti-Israel protests, Sunak says extremists deliberately undermining UK democracy**
+**COVID-19 no longer means five days in isolation, CDC says**
 
-You can read more about it [here](https://www.timesofisrael.com/amid-anti-israel-protests-sunak-says-extremists-deliberately-undermining-uk-democracy/).
+You can read more about it [here](https://apnews.com/article/covid19-isolation-guidelines-cdc-5354fe4ef002458c4c0174292e982af9).
 
 ## Requirements
 - Python 3.8
