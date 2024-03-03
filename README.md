@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Team Makes Final Push to Get Fani Willis Tossed**
+**Nepo Baby of the Week: Prayers Up for Hailey Bieber**
 
-You can read more about it [here](https://www.thedailybeast.com/trump-team-makes-final-push-to-get-fani-willis-tossed-from-georgia-case).
+You can read more about it [here](https://www.thedailybeast.com/obsessed/nepo-baby-of-the-week-prayers-up-for-hailey-and-justin-bieber).
 
 ## Requirements
 - Python 3.8
