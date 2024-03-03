@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. measles cases rise to 41, as CDC tallies infections now in 16 states**
+**Amid anti-Israel protests, Sunak says extremists deliberately undermining UK democracy**
 
-You can read more about it [here](https://www.cbsnews.com/news/what-we-know-about-the-measles-cases-reported-in-2024/).
+You can read more about it [here](https://www.timesofisrael.com/amid-anti-israel-protests-sunak-says-extremists-deliberately-undermining-uk-democracy/).
 
 ## Requirements
 - Python 3.8
