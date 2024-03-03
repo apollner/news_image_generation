@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Killer whale vs shark: solo orca eats great white**
+**Rochdale by-election: Keir Starmer apologises to voters after George Galloway win**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68446657).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68446423).
 
 ## Requirements
 - Python 3.8
