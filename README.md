@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Financial stress peaks in the populations of these 10 American cities**
+**Tony Pauline: Bears And Falcons 'Close To Finalizing' Trade For Justin Fields**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/03/02/top-10-financial-stress-cities/72788536007/).
+You can read more about it [here](https://steelersdepot.com/2024/03/tony-pauline-bears-and-falcons-close-to-finalizing-trade-for-justin-fields/).
 
 ## Requirements
 - Python 3.8
