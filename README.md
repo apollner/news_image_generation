@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ivanka Trump wears shiny sari to Ambani pre-wedding event**
+**Trump Team Makes Final Push to Get Fani Willis Tossed**
 
-You can read more about it [here](https://www.businessinsider.com/photos-ivanka-trump-wears-shiny-sari-to-ambani-wedding-event-2024-3).
+You can read more about it [here](https://www.thedailybeast.com/trump-team-makes-final-push-to-get-fani-willis-tossed-from-georgia-case).
 
 ## Requirements
 - Python 3.8
