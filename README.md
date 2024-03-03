@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB's new uniforms: Fanatics founder Michael Rubin reacts to backlash as MLBPA still concerned**
+**Excessive drinking caused nearly 500 deaths per day during pandemic, CDC says**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlbs-new-uniforms-fanatics-founder-michael-rubin-reacts-to-backlash-as-mlbpa-still-concerned/).
+You can read more about it [here](https://ktla.com/news/local-news/excessive-drinking-caused-nearly-500-deaths-per-day-during-pandemic-cdc-says/).
 
 ## Requirements
 - Python 3.8
