@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Worrisome' study shows long COVID sufferers could lose up to six IQ points**
+**Killer whale vs shark: solo orca eats great white**
 
-You can read more about it [here](https://nypost.com/2024/03/01/lifestyle/long-covid-may-lower-a-persons-iq-by-up-to-six-points-study/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68446657).
 
 ## Requirements
 - Python 3.8
