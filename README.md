@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Dune: Part Two’ Rides to Impressive $32 Million Opening Day**
+**US and Jordanian forces airdrop aid into Gaza**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/dune-2-opening-day-box-office-1235927316/).
+You can read more about it [here](https://www.cnn.com/2024/03/02/politics/us-airdrops-aid-gaza/index.html).
 
 ## Requirements
 - Python 3.8
