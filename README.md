@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza: Large number of gunshot wounds among those injured in aid convoy rush - UN**
+**Putin rehashes nuclear threats in an effort to sway American voters**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68454348).
+You can read more about it [here](https://www.businessinsider.com/putin-rehashes-nuclear-threats-effort-sway-american-voters-2024-3).
 
 ## Requirements
 - Python 3.8
