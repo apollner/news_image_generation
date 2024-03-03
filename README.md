@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York man who fatally shot woman who was mistakenly driven up his driveway sentenced to 25 years to life in prison**
+**U.S. measles cases rise to 41, as CDC tallies infections now in 16 states**
 
-You can read more about it [here](https://www.cbsnews.com/news/kevin-monahan-sentenced-kaylin-gillis-killed-pulling-into-driveway/).
+You can read more about it [here](https://www.cbsnews.com/news/what-we-know-about-the-measles-cases-reported-in-2024/).
 
 ## Requirements
 - Python 3.8
