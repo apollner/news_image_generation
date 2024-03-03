@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tony Pauline: Bears And Falcons 'Close To Finalizing' Trade For Justin Fields**
+**Big Biden bummer: 65% of voters agree U.S. heading in the wrong direction**
 
-You can read more about it [here](https://steelersdepot.com/2024/03/tony-pauline-bears-and-falcons-close-to-finalizing-trade-for-justin-fields/).
+You can read more about it [here](https://www.axios.com/2024/03/02/biden-trump-siena-poll-nyt).
 
 ## Requirements
 - Python 3.8
