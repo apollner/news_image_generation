@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany's Scholz vows probe into 'very serious' leak of army talks on Ukraine war**
+**Dangerous blizzard continues pounding California with 10-plus feet of snow, 190 mph wind gust**
 
-You can read more about it [here](https://www.france24.com/en/europe/20240302-germany-s-scholz-vows-probe-into-apparent-leak-of-ukraine-war-talks).
+You can read more about it [here](https://www.foxweather.com/weather-news/blizzard-california-sierra-nevada-10-feet-snow-winter-storm).
 
 ## Requirements
 - Python 3.8
