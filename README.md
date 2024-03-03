@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden announces US airdrops of humanitarian assistance into Gaza**
+**New York man who fatally shot woman who was mistakenly driven up his driveway sentenced to 25 years to life in prison**
 
-You can read more about it [here](https://www.cnn.com/2024/03/01/politics/biden-airdrops-assistance-gaza/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/kevin-monahan-sentenced-kaylin-gillis-killed-pulling-into-driveway/).
 
 ## Requirements
 - Python 3.8
