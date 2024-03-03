@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspected drunk driver charged with killing bride on wedding night released on bail**
+**Elon Musk Just Threw Down the Gauntlet at Sam Altman**
 
-You can read more about it [here](https://www.cbsnews.com/news/alleged-drunk-driver-charged-killing-bride-wedding-night-released-bail-south-carolina-samantha-miller/).
+You can read more about it [here](https://www.businessinsider.com/elon-musk-throws-down-gauntlet-sam-altman-openai-lawsuit-2024-3).
 
 ## Requirements
 - Python 3.8
