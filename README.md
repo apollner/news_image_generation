@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fisker stock climbs back on possible Nissan investment**
+**Biggest snowstorm of the season to hit California mountains**
 
-You can read more about it [here](https://finance.yahoo.com/video/fisker-climbs-back-possible-nissan-223858573.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68455345).
 
 ## Requirements
 - Python 3.8
