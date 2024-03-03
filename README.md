@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and Jordanian forces airdrop aid into Gaza**
+**California gives Waymo the green light to expand robotaxi operations**
 
-You can read more about it [here](https://www.cnn.com/2024/03/02/politics/us-airdrops-aid-gaza/index.html).
+You can read more about it [here](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area).
 
 ## Requirements
 - Python 3.8
