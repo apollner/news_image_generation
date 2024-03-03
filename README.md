@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clippers guard Russell Westbrook out indefinitely after breaking left hand in win over Wizards**
+**Ivanka Trump wears shiny sari to Ambani pre-wedding event**
 
-You can read more about it [here](https://sports.yahoo.com/clippers-guard-russell-westbrook-out-indefinitely-after-breaking-left-hand-in-win-over-wizards-050529998.html).
+You can read more about it [here](https://www.businessinsider.com/photos-ivanka-trump-wears-shiny-sari-to-ambani-wedding-event-2024-3).
 
 ## Requirements
 - Python 3.8
