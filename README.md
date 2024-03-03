@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 no longer means five days in isolation, CDC says**
+**A lone orca slayed a great white in less than two minutes. Scientists say it could signal an ecological shift**
 
-You can read more about it [here](https://apnews.com/article/covid19-isolation-guidelines-cdc-5354fe4ef002458c4c0174292e982af9).
+You can read more about it [here](https://www.cnn.com/2024/03/01/africa/orca-kills-great-white-shark-south-africa-scn/index.html).
 
 ## Requirements
 - Python 3.8
