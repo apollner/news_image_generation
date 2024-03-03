@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC ditches 5-day COVID isolation, argues COVID is becoming flu-like**
+**Israel Gaza: Large number of gunshot wounds among those injured in aid convoy rush - UN**
 
-You can read more about it [here](https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68454348).
 
 ## Requirements
 - Python 3.8
