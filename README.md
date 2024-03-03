@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Biden bummer: 65% of voters agree U.S. heading in the wrong direction**
+**Sam Asghari Made His First Public Comments On Divorcing Britney Spears Since The Split Was Announced**
 
-You can read more about it [here](https://www.axios.com/2024/03/02/biden-trump-siena-poll-nyt).
+You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/sam-asghari-breaks-silence-britney-spears-divorce).
 
 ## Requirements
 - Python 3.8
