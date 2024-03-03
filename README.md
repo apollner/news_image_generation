@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin rehashes nuclear threats in an effort to sway American voters**
+**Suspected drunk driver charged with killing bride on wedding night released on bail**
 
-You can read more about it [here](https://www.businessinsider.com/putin-rehashes-nuclear-threats-effort-sway-american-voters-2024-3).
+You can read more about it [here](https://www.cbsnews.com/news/alleged-drunk-driver-charged-killing-bride-wedding-night-released-bail-south-carolina-samantha-miller/).
 
 ## Requirements
 - Python 3.8
