@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mecole Hardman denies leaking game plans to opposing teams**
+**I Saw ‘Dune 2’ at 3:15 a.m.: Inside the Nearly Sold-Out, All-Night Screening in 70mm Imax**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mecole-hardman-denies-leaking-game-plans-to-opposing-teams).
+You can read more about it [here](https://variety.com/2024/film/news/dune-2-imax-70mm-3-am-1235927960/).
 
 ## Requirements
 - Python 3.8
