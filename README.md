@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dangerous blizzard continues pounding California with 10-plus feet of snow, 190 mph wind gust**
+**A New COVID Vaccine Dose Is Now Available for People Age 65 and Older. Where Can You Find a Shot Near You?**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/blizzard-california-sierra-nevada-10-feet-snow-winter-storm).
+You can read more about it [here](https://www.kqed.org/news/11977786/a-new-covid-vaccine-dose-is-now-available-for-people-age-65-and-older-where-can-you-find-a-shot-near-you).
 
 ## Requirements
 - Python 3.8
