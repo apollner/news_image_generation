@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Biden bummer: 65% of voters agree U.S. heading in the wrong direction**
+**Ukraine updates: Zelenskyy pleads to West after Odesa attack – DW – 03/03/2024**
 
-You can read more about it [here](https://www.axios.com/2024/03/02/biden-trump-siena-poll-nyt).
+You can read more about it [here](https://www.dw.com/en/ukraine-updates-zelenskyy-pleads-to-west-after-odesa-attack/live-68426334).
 
 ## Requirements
 - Python 3.8
