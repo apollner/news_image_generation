@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Asghari Made His First Public Comments On Divorcing Britney Spears Since The Split Was Announced**
+**What Sorensen, Staley bring to 49ers after reported hires**
 
-You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/sam-asghari-breaks-silence-britney-spears-divorce).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/what-nick-sorensen-brandon-staley-bring-49ers/1708619/).
 
 ## Requirements
 - Python 3.8
