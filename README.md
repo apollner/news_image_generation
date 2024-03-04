@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abbott leads effort to purge opponents in Texas Republican Party**
+**OneDrive is ruining my PC gaming setups**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4501752-texas-republicans-abbott-patrick-paxton-primary/).
+You can read more about it [here](https://www.digitaltrends.com/computing/onedrive-pc-gaming-conflicts/).
 
 ## Requirements
 - Python 3.8
