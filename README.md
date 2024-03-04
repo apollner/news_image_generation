@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Combine takeaways: Grades for top WR prospects, plus winners and losers from on-field workouts**
+**Texas' Xavier Worthy breaks 40-yard dash record at NFL Combine**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-combine-takeaways-grades-for-top-wr-prospects-plus-winners-and-losers-from-on-field-workouts/).
+You can read more about it [here](https://www.foxnews.com/sports/texas-xavier-worthy-breaks-40-yard-dash-record-nfl-combine).
 
 ## Requirements
 - Python 3.8
