@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jill Biden puts Donald Trump on notice as her campaign role comes into focus**
+**Cannabis and Heart Health: A Troubling Connection Uncovered**
 
-You can read more about it [here](https://www.cnn.com/2024/03/02/politics/jill-biden-2024-campaign/index.html).
+You can read more about it [here](https://scitechdaily.com/cannabis-and-heart-health-a-troubling-connection-uncovered/).
 
 ## Requirements
 - Python 3.8
