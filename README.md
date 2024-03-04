@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hotshot Wharton professor sees $34 trillion debt triggering 2025 meltdown as mortgage rates spike above 7%: ‘It could derail the next administration’**
+**Ship sunk by Houthis threatens Red Sea environment, Yemen government and US military say**
 
-You can read more about it [here](https://fortune.com/2024/03/03/what-is-current-national-debt-how-can-us-get-out/).
+You can read more about it [here](https://www.reuters.com/world/freighter-rubymar-has-sunk-red-sea-yemen-internationally-recognised-government-2024-03-02/).
 
 ## Requirements
 - Python 3.8
