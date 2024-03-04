@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark is poised to celebrate Iowa senior day by breaking Pete Maravich's NCAA scoring record**
+**NFL draft scouting combine takeaways: Xavier Worthy's 40 builds buzz**
 
-You can read more about it [here](https://www.yahoo.com/news/caitlin-clark-poised-celebrate-iowa-051024531.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2024/03/03/nfl-draft-scouting-combine-takeaways-xavier-worthy-time/72829126007/).
 
 ## Requirements
 - Python 3.8
