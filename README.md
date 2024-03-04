@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's SpaceX Crew-8 launch postponed to Sunday night because of poor weather conditions**
+**Here's where a $1M winning Powerball ticket was sold in Michigan**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/03/02/crew-8-launch-tonight-what-to-know-about-the-cape-canaveral-mission-from-florida-space-coast/72804253007/).
+You can read more about it [here](https://www.clickondetroit.com/news/local/2024/03/03/heres-where-a-1m-winning-powerball-ticket-was-sold-in-michigan/).
 
 ## Requirements
 - Python 3.8
