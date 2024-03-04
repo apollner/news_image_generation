@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Paul stops Bourland via first-round TKO**
+**Jamal Shead lifts No. 1 Houston past Oklahoma with last-second bucket to grab 87-85 win**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/39642986/jake-paul-stops-ryan-bourland-via-first-round-tko).
+You can read more about it [here](https://sports.yahoo.com/jamal-shead-lifts-no-1-houston-past-oklahoma-with-last-second-bucket-to-grab-87-85-win-043721278.html).
 
 ## Requirements
 - Python 3.8
