@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas' Xavier Worthy breaks 40-yard dash record at NFL Combine**
+**Big Biden bummer: 65% of voters agree U.S. heading in the wrong direction**
 
-You can read more about it [here](https://www.foxnews.com/sports/texas-xavier-worthy-breaks-40-yard-dash-record-nfl-combine).
+You can read more about it [here](https://www.axios.com/2024/03/02/biden-trump-siena-poll-nyt).
 
 ## Requirements
 - Python 3.8
