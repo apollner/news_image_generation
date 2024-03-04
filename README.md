@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamal Shead lifts No. 1 Houston past Oklahoma with last-second bucket to grab 87-85 win**
+**Hotshot Wharton professor sees $34 trillion debt triggering 2025 meltdown as mortgage rates spike above 7%: ‘It could derail the next administration’**
 
-You can read more about it [here](https://sports.yahoo.com/jamal-shead-lifts-no-1-houston-past-oklahoma-with-last-second-bucket-to-grab-87-85-win-043721278.html).
+You can read more about it [here](https://fortune.com/2024/03/03/what-is-current-national-debt-how-can-us-get-out/).
 
 ## Requirements
 - Python 3.8
