@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Get Your Hands on MWC 2024's Coolest Tech Now**
+**Caitlin Clark is poised to celebrate Iowa senior day by breaking Pete Maravich's NCAA scoring record**
 
-You can read more about it [here](https://www.cnet.com/deals/get-your-hands-on-mwc-2024s-coolest-tech-now/).
+You can read more about it [here](https://www.yahoo.com/news/caitlin-clark-poised-celebrate-iowa-051024531.html).
 
 ## Requirements
 - Python 3.8
