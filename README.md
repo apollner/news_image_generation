@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL draft scouting combine takeaways: Xavier Worthy's 40 builds buzz**
+**After 10 years of trying, a Palestinian woman had twins. An Israeli strike killed them both**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2024/03/03/nfl-draft-scouting-combine-takeaways-xavier-worthy-time/72829126007/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-children-twins-killed-gaza-25282b273b92aec7fc75c3212f8d8e3f).
 
 ## Requirements
 - Python 3.8
