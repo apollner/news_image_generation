@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jos Verstappen: Red Bull F1 team risks being “torn apart” if Horner stays**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.motorsport.com/f1/news/horner-jos-verstappen-red-bull-f1-team-risks-torn-apart/10582527/).
 
 ## Requirements
 - Python 3.8
