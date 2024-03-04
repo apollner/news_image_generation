@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Sorensen, Staley bring to 49ers after reported hires**
+**Why some are planning to leave Ohio to witness April's total solar eclipse**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/what-nick-sorensen-brandon-staley-bring-49ers/1708619/).
+You can read more about it [here](https://fox8.com/news/why-some-are-planning-to-leave-ohio-to-witness-aprils-total-solar-eclipse/).
 
 ## Requirements
 - Python 3.8
