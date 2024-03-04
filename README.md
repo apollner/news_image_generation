@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark is 1 of 1: 'We've never seen a woman play like this'**
+**'We don't have a king here': Raskin slams SCOTUS decision to take up Trump immunity claim**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39633779/caitlin-clark-iowa-scoring-record-pistol-pete-maravich).
+You can read more about it [here](https://www.politico.com/news/2024/03/03/jamie-raskin-slams-scotus-trump-immunity-case-00144595).
 
 ## Requirements
 - Python 3.8
