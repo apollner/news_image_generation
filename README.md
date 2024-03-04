@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After 10 years of trying, a Palestinian woman had twins. An Israeli strike killed them both**
+**Abbott leads effort to purge opponents in Texas Republican Party**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-children-twins-killed-gaza-25282b273b92aec7fc75c3212f8d8e3f).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4501752-texas-republicans-abbott-patrick-paxton-primary/).
 
 ## Requirements
 - Python 3.8
