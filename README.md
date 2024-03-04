@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's where a $1M winning Powerball ticket was sold in Michigan**
+**[Removed]**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2024/03/03/heres-where-a-1m-winning-powerball-ticket-was-sold-in-michigan/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
