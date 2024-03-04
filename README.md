@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's where a $1M winning Powerball ticket was sold in Michigan**
+**Get Your Hands on MWC 2024's Coolest Tech Now**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2024/03/03/heres-where-a-1m-winning-powerball-ticket-was-sold-in-michigan/).
+You can read more about it [here](https://www.cnet.com/deals/get-your-hands-on-mwc-2024s-coolest-tech-now/).
 
 ## Requirements
 - Python 3.8
