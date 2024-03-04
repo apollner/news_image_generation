@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine updates: Zelenskyy pleads to West after Odesa attack – DW – 03/03/2024**
+**Israel-Gaza war: US carries out its first aid airdrop in strip**
 
-You can read more about it [here](https://www.dw.com/en/ukraine-updates-zelenskyy-pleads-to-west-after-odesa-attack/live-68426334).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68457937).
 
 ## Requirements
 - Python 3.8
