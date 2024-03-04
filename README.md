@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OneDrive is ruining my PC gaming setups**
+**OPEC+ members extend production cuts in bid to boost oil price**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/onedrive-pc-gaming-conflicts/).
+You can read more about it [here](https://www.ft.com/content/d6236674-75e5-4893-889a-b412501891fa).
 
 ## Requirements
 - Python 3.8
