@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why some are planning to leave Ohio to witness April's total solar eclipse**
+**Jill Biden puts Donald Trump on notice as her campaign role comes into focus**
 
-You can read more about it [here](https://fox8.com/news/why-some-are-planning-to-leave-ohio-to-witness-aprils-total-solar-eclipse/).
+You can read more about it [here](https://www.cnn.com/2024/03/02/politics/jill-biden-2024-campaign/index.html).
 
 ## Requirements
 - Python 3.8
