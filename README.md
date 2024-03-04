@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's SpaceX Crew-8 launch postponed to Sunday night because of poor weather conditions**
+**Caitlin Clark is 1 of 1: 'We've never seen a woman play like this'**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/03/02/crew-8-launch-tonight-what-to-know-about-the-cape-canaveral-mission-from-florida-space-coast/72804253007/).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39633779/caitlin-clark-iowa-scoring-record-pistol-pete-maravich).
 
 ## Requirements
 - Python 3.8
