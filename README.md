@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: US carries out its first aid airdrop in strip**
+**Jake Paul stops Bourland via first-round TKO**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68457937).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/39642986/jake-paul-stops-ryan-bourland-via-first-round-tko).
 
 ## Requirements
 - Python 3.8
