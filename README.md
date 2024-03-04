@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship sunk by Houthis threatens Red Sea environment, Yemen government and US military say**
+**Yemen's Houthis say they will continue sinking British ships**
 
-You can read more about it [here](https://www.reuters.com/world/freighter-rubymar-has-sunk-red-sea-yemen-internationally-recognised-government-2024-03-02/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-will-continue-sinking-british-ships-2024-03-03/).
 
 ## Requirements
 - Python 3.8
