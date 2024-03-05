@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Mortensen tributes pour in from Peyton Manning, others in NFL world: 'Heartbroken'**
+**California blizzard: Powerful California blizzard shuts down roads and ski resorts as heavy snow and winds slam mountains**
 
-You can read more about it [here](https://www.foxnews.com/sports/chris-mortensen-tributes-pour-in-peyton-manning-others-nfl-world-heartbroken).
+You can read more about it [here](https://www.cnn.com/2024/03/03/weather/california-blizzard-snow-sunday/index.html).
 
 ## Requirements
 - Python 3.8
