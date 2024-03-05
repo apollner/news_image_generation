@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Two sessions’: China scraps a decades-long political tradition as Xi tightens control amid economic woes**
+**Crew-8 launch tonight: What to know about NASA-SpaceX liftoff from Cape**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/china/china-two-sessions-xi-jinping-economic-challenges-intl-hnk/index.html).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/03/03/spacex-nasa-crew-8-launch-day-heres-information-on-todays-launch-from-cape-canaveral-florida/72825894007/).
 
 ## Requirements
 - Python 3.8
