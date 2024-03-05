@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton spotted for first time since January hospitalization**
+**Health officials confirm 5 possible measles exposure locations in Wayne, Washtenaw counties**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/kate-middleton-spotted-for-first-time-since-january-hospitalization).
+You can read more about it [here](https://www.mlive.com/news/2024/03/health-officials-confirm-5-possible-measles-exposure-locations-in-wayne-washtenaw-counties.html).
 
 ## Requirements
 - Python 3.8
