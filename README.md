@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**JetBlue, Spirit Airlines call off $3.8 billion merger on antitrust hurdle**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/jetblue-terminates-3-8-billion-133729135.html).
 
 ## Requirements
 - Python 3.8
