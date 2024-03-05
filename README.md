@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California blizzard: Powerful California blizzard shuts down roads and ski resorts as heavy snow and winds slam mountains**
+**2024 NFL Combine takeaways: Joe Alt meets expectations, Amarius Mims injured during workouts**
 
-You can read more about it [here](https://www.cnn.com/2024/03/03/weather/california-blizzard-snow-sunday/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-combine-takeaways-joe-alt-meets-expectations-amarius-mims-injured-during-workouts/live/).
 
 ## Requirements
 - Python 3.8
