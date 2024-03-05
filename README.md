@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian police arrest 3 in rape of Brazilian tourist on motorcycle trip**
+**Blue Origin is getting serious about developing a human spacecraft**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/03/04/india-rape-brazilian-tourist-jharkhand/).
+You can read more about it [here](https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/).
 
 ## Requirements
 - Python 3.8
