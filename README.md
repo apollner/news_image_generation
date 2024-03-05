@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung's Galaxy S24 phones are up to $150 off at Amazon and Best Buy**
+**Texas-based company claims to have new evidence in search for missing Malaysia Airlines Flight MH370**
 
-You can read more about it [here](https://www.engadget.com/samsungs-galaxy-s24-phones-are-up-to-150-off-at-amazon-and-best-buy-164520013.html).
+You can read more about it [here](https://abc7.com/malaysia-airlines-flight-mh370-missing-plane-ocean-infinity-370/14490516/).
 
 ## Requirements
 - Python 3.8
