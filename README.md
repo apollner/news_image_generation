@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT 3 Colombia 0: U.S. wins grueling match to advance to Gold Cup semifinal**
+**Chris Mortensen tributes pour in from Peyton Manning, others in NFL world: 'Heartbroken'**
 
-You can read more about it [here](https://theathletic.com/5314106/2024/03/03/uswnt-colombia-gold-cup/).
+You can read more about it [here](https://www.foxnews.com/sports/chris-mortensen-tributes-pour-in-peyton-manning-others-nfl-world-heartbroken).
 
 ## Requirements
 - Python 3.8
