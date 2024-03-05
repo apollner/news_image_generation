@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obesity is ‘exploding,’ with more than 12% of people classified as obese worldwide, study finds: ‘Big trouble’**
+**Arkhouse, Brigade raise Macy's buyout bid to $6.6 billion**
 
-You can read more about it [here](https://nypost.com/2024/03/03/world-news/obesity-is-exploding-with-more-than-12-of-people-classified-as-obese-worldwide-study-finds-big-trouble/).
+You can read more about it [here](https://www.cnbc.com/2024/03/04/arkhouse-brigade-raise-macys-buyout-bid-to-6point6-billion.html).
 
 ## Requirements
 - Python 3.8
