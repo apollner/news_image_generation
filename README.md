@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX live updates: NASA's Crew-8 launch from Kennedy Space Center**
+**3,500 prisoners escape Haiti’s main penitentiary amid wave of violence in Port-au-Prince**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/03/03/spacex-live-updates-nasa-crew-8-astronaut-launch-from-kennedy-space-center-florida/72833859007/).
+You can read more about it [here](https://www.cnn.com/2024/03/02/americas/prisoners-escape-port-au-prince-prison-haiti-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
