@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu allies lash out at Gantz over Washington trip**
+**Chinese leaders to hold annual 'Two Sessions' meeting as debate about bazooka-like stimulus swirls**
 
-You can read more about it [here](https://www.ft.com/content/1068b774-6ce2-4b41-8552-df64d12c7be1).
+You can read more about it [here](https://www.cnbc.com/2024/03/04/china-to-hold-two-sessions-meeting-amid-bazooka-like-stimulus-debate.html).
 
 ## Requirements
 - Python 3.8
