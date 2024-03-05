@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL combine: Winners (WRs class, CB Quinyon Mitchell) and losers (Spencer Rattler, combine itself)**
+**Rihanna, Mark Zuckerberg and Ivanka Trump among bevy of stars at Indian billionaire heir’s pre-wedding bash**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-combine-winners-wrs-class-cb-quinyon-mitchell-and-losers-spencer-rattler-combine-itself-025222845.html).
+You can read more about it [here](https://www.cnn.com/2024/03/04/style/india-ambani-merchant-wedding-party/index.html).
 
 ## Requirements
 - Python 3.8
