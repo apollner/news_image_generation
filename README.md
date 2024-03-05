@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucs, Mike Evans agree to 2-year, $52M contract, agent says**
+**Kremlin says German recording shows intent to strike Russia, asks whether Scholz in charge**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39651873/bucs-mike-evans-agree-2-year-52m-contract-agent-says).
+You can read more about it [here](https://www.reuters.com/world/europe/kremlin-says-german-army-discussing-strikes-russia-asks-if-scholz-is-control-2024-03-04/).
 
 ## Requirements
 - Python 3.8
