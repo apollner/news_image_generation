@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Monday’s Supreme Court decision could be Trump Colorado case**
+**NFL combine: Winners (WRs class, CB Quinyon Mitchell) and losers (Spencer Rattler, combine itself)**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/03/trump-colorado-ballot-supreme-court-decision/).
+You can read more about it [here](https://sports.yahoo.com/nfl-combine-winners-wrs-class-cb-quinyon-mitchell-and-losers-spencer-rattler-combine-itself-025222845.html).
 
 ## Requirements
 - Python 3.8
