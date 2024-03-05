@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JetBlue, Spirit Airlines call off $3.8 billion merger on antitrust hurdle**
+**Indian police arrest 3 in rape of Brazilian tourist on motorcycle trip**
 
-You can read more about it [here](https://finance.yahoo.com/news/jetblue-terminates-3-8-billion-133729135.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/03/04/india-rape-brazilian-tourist-jharkhand/).
 
 ## Requirements
 - Python 3.8
