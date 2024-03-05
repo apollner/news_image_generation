@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials confirm 5 possible measles exposure locations in Wayne, Washtenaw counties**
+**Star dunes: Ancient find helps scientists unravel secrets of mysterious sand structures**
 
-You can read more about it [here](https://www.mlive.com/news/2024/03/health-officials-confirm-5-possible-measles-exposure-locations-in-wayne-washtenaw-counties.html).
+You can read more about it [here](https://www.cnn.com/2024/03/04/world/star-sand-dune-ancient-mystery-erg-chebbi-scn/index.html).
 
 ## Requirements
 - Python 3.8
