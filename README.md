@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas-based company claims to have new evidence in search for missing Malaysia Airlines Flight MH370**
+**Today's Horoscope – March 05, 2024: Check horoscope for all sun signs**
 
-You can read more about it [here](https://abc7.com/malaysia-airlines-flight-mh370-missing-plane-ocean-infinity-370/14490516/).
+You can read more about it [here](https://www.deccanherald.com/specials/todays-horoscope-march-05-2024-check-horoscope-for-all-sun-signs-2921704).
 
 ## Requirements
 - Python 3.8
