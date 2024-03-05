@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy S24 Ultra gets $150 off on Best Buy with extra freebie**
+**I'm A Colorectal Cancer Doctor. Here Are 5 Things I'd Never Do.**
 
-You can read more about it [here](https://www.dexerto.com/tech/samsung-galaxy-s24-ultra-gets-150-off-on-best-buy-with-extra-freebie-2568582/).
+You can read more about it [here](https://www.huffpost.com/entry/colorectal-cancer-prevention_l_65e1e971e4b013678e14fae7).
 
 ## Requirements
 - Python 3.8
