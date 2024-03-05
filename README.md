@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese leaders to hold annual 'Two Sessions' meeting as debate about bazooka-like stimulus swirls**
+**California blizzard: Powerful California blizzard shuts down roads and ski resorts as heavy snow and winds slam mountains**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/04/china-to-hold-two-sessions-meeting-amid-bazooka-like-stimulus-debate.html).
+You can read more about it [here](https://www.cnn.com/2024/03/03/weather/california-blizzard-snow-sunday/index.html).
 
 ## Requirements
 - Python 3.8
