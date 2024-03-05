@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkhouse, Brigade raise Macy's buyout bid to $6.6 billion**
+**USWNT 3 Colombia 0: U.S. wins grueling match to advance to Gold Cup semifinal**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/04/arkhouse-brigade-raise-macys-buyout-bid-to-6point6-billion.html).
+You can read more about it [here](https://theathletic.com/5314106/2024/03/03/uswnt-colombia-gold-cup/).
 
 ## Requirements
 - Python 3.8
