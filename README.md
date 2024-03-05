@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3,500 prisoners escape Haiti’s main penitentiary amid wave of violence in Port-au-Prince**
+**Anant Ambani says his mom worked 18 hours a day for the 4 months leading up to his pre-wedding bash, which drew A-list names from around the world**
 
-You can read more about it [here](https://www.cnn.com/2024/03/02/americas/prisoners-escape-port-au-prince-prison-haiti-intl-hnk/index.html).
+You can read more about it [here](https://www.businessinsider.com/anant-ambani-mom-nita-worked-hours-months-pre-wedding-reliance-2024-3).
 
 ## Requirements
 - Python 3.8
