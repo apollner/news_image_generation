@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blue Origin is getting serious about developing a human spacecraft**
+**Caitlin Clark saluted by LeBron James for breaking college basketball record**
 
-You can read more about it [here](https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68468912).
 
 ## Requirements
 - Python 3.8
