@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rihanna, Mark Zuckerberg and Ivanka Trump among bevy of stars at Indian billionaire heir’s pre-wedding bash**
+**Star dune: Scientists solve mystery behind Earth's largest desert sands**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/style/india-ambani-merchant-wedding-party/index.html).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68450147).
 
 ## Requirements
 - Python 3.8
