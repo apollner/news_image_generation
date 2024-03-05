@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Children starve to death in Gaza, Palestinian officials say, as Israel-Hamas ceasefire deal sticking points remain**
+**Kremlin says German recording shows intent to strike Russia, asks whether Scholz in charge**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/middleeast/gaza-children-dying-malnutrition-israel-ceasefire-talks-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/kremlin-says-german-army-discussing-strikes-russia-asks-if-scholz-is-control-2024-03-04/).
 
 ## Requirements
 - Python 3.8
