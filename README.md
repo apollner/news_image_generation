@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin says German recording shows intent to strike Russia, asks whether Scholz in charge**
+**Did the last Budget deliver growth and cheap beer?**
 
-You can read more about it [here](https://www.reuters.com/world/europe/kremlin-says-german-army-discussing-strikes-russia-asks-if-scholz-is-control-2024-03-04/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68370060).
 
 ## Requirements
 - Python 3.8
