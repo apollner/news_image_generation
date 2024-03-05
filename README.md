@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anant Ambani says his mom worked 18 hours a day for the 4 months leading up to his pre-wedding bash, which drew A-list names from around the world**
+**Congress unveils roadmap to averting partial government shutdown**
 
-You can read more about it [here](https://www.businessinsider.com/anant-ambani-mom-nita-worked-hours-months-pre-wedding-reliance-2024-3).
+You can read more about it [here](https://www.axios.com/2024/03/03/congress-government-funding-johnson-schumer).
 
 ## Requirements
 - Python 3.8
