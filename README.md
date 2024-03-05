@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Dodson, Gremlins and Star Wars Voice Actor, Has Died at Age 64**
+**Netanyahu allies lash out at Gantz over Washington trip**
 
-You can read more about it [here](https://gizmodo.com/obituary-mark-dodson-gremlins-passed-away-1851304189).
+You can read more about it [here](https://www.ft.com/content/1068b774-6ce2-4b41-8552-df64d12c7be1).
 
 ## Requirements
 - Python 3.8
