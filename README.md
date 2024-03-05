@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did the last Budget deliver growth and cheap beer?**
+**Haley wins DC GOP primary**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68370060).
+You can read more about it [here](https://www.cnn.com/2024/03/03/politics/nikki-haley-dc-primary/index.html).
 
 ## Requirements
 - Python 3.8
