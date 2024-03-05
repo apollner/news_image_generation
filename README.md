@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France becomes world’s first country to enshrine abortion rights in constitution**
+**Kate Middleton spotted for first time since January hospitalization**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/europe/france-abortion-constitution-intl/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/kate-middleton-spotted-for-first-time-since-january-hospitalization).
 
 ## Requirements
 - Python 3.8
