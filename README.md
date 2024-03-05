@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA space photo shows sky holes near Florida**
+**Mark Dodson, Gremlins and Star Wars Voice Actor, Has Died at Age 64**
 
-You can read more about it [here](https://www.businessinsider.com/nasa-space-photo-shows-sky-holes-near-florida-2024-3).
+You can read more about it [here](https://gizmodo.com/obituary-mark-dodson-gremlins-passed-away-1851304189).
 
 ## Requirements
 - Python 3.8
