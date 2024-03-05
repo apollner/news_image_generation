@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today's Horoscope – March 05, 2024: Check horoscope for all sun signs**
+**France becomes world’s first country to enshrine abortion rights in constitution**
 
-You can read more about it [here](https://www.deccanherald.com/specials/todays-horoscope-march-05-2024-check-horoscope-for-all-sun-signs-2921704).
+You can read more about it [here](https://www.cnn.com/2024/03/04/europe/france-abortion-constitution-intl/index.html).
 
 ## Requirements
 - Python 3.8
