@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Dune 2’ Box Office: 5 Takeaways From the Sequel’s Heroic Opening Weekend**
+**Samsung's Galaxy S24 phones are up to $150 off at Amazon and Best Buy**
 
-You can read more about it [here](https://variety.com/2024/film/news/dune-2-box-office-analysis-opening-weekend-timothee-chalamet-1235928762/).
+You can read more about it [here](https://www.engadget.com/samsungs-galaxy-s24-phones-are-up-to-150-off-at-amazon-and-best-buy-164520013.html).
 
 ## Requirements
 - Python 3.8
