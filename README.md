@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Combine takeaways: Joe Alt meets expectations, Amarius Mims injured during workouts**
+**SpaceX live updates: NASA's Crew-8 launch from Kennedy Space Center**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-combine-takeaways-joe-alt-meets-expectations-amarius-mims-injured-during-workouts/live/).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/03/03/spacex-live-updates-nasa-crew-8-astronaut-launch-from-kennedy-space-center-florida/72833859007/).
 
 ## Requirements
 - Python 3.8
