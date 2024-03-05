@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin says German recording shows intent to strike Russia, asks whether Scholz in charge**
+**Samsung Galaxy S24 Ultra gets $150 off on Best Buy with extra freebie**
 
-You can read more about it [here](https://www.reuters.com/world/europe/kremlin-says-german-army-discussing-strikes-russia-asks-if-scholz-is-control-2024-03-04/).
+You can read more about it [here](https://www.dexerto.com/tech/samsung-galaxy-s24-ultra-gets-150-off-on-best-buy-with-extra-freebie-2568582/).
 
 ## Requirements
 - Python 3.8
