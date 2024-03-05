@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California blizzard: Powerful California blizzard shuts down roads and ski resorts as heavy snow and winds slam mountains**
+**Monday’s Supreme Court decision could be Trump Colorado case**
 
-You can read more about it [here](https://www.cnn.com/2024/03/03/weather/california-blizzard-snow-sunday/index.html).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/03/trump-colorado-ballot-supreme-court-decision/).
 
 ## Requirements
 - Python 3.8
