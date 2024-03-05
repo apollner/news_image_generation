@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress unveils roadmap to averting partial government shutdown**
+**Obesity is ‘exploding,’ with more than 12% of people classified as obese worldwide, study finds: ‘Big trouble’**
 
-You can read more about it [here](https://www.axios.com/2024/03/03/congress-government-funding-johnson-schumer).
+You can read more about it [here](https://nypost.com/2024/03/03/world-news/obesity-is-exploding-with-more-than-12-of-people-classified-as-obese-worldwide-study-finds-big-trouble/).
 
 ## Requirements
 - Python 3.8
