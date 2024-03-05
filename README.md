@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haley wins DC GOP primary**
+**I worked exclusively in Vision Pro for a week—here's how it went**
 
-You can read more about it [here](https://www.cnn.com/2024/03/03/politics/nikki-haley-dc-primary/index.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/03/i-worked-exclusively-in-vision-pro-for-a-week-heres-how-it-went/).
 
 ## Requirements
 - Python 3.8
