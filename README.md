@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Star dune: Scientists solve mystery behind Earth's largest desert sands**
+**‘Two sessions’: China scraps a decades-long political tradition as Xi tightens control amid economic woes**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68450147).
+You can read more about it [here](https://www.cnn.com/2024/03/04/china/china-two-sessions-xi-jinping-economic-challenges-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
