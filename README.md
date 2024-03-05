@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crew-8 launch tonight: What to know about NASA-SpaceX liftoff from Cape**
+**Children starve to death in Gaza, Palestinian officials say, as Israel-Hamas ceasefire deal sticking points remain**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/03/03/spacex-nasa-crew-8-launch-day-heres-information-on-todays-launch-from-cape-canaveral-florida/72825894007/).
+You can read more about it [here](https://www.cnn.com/2024/03/04/middleeast/gaza-children-dying-malnutrition-israel-ceasefire-talks-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
