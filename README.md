@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark saluted by LeBron James for breaking college basketball record**
+**‘Dune 2’ Box Office: 5 Takeaways From the Sequel’s Heroic Opening Weekend**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68468912).
+You can read more about it [here](https://variety.com/2024/film/news/dune-2-box-office-analysis-opening-weekend-timothee-chalamet-1235928762/).
 
 ## Requirements
 - Python 3.8
