@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Renck: Russell Wilson went from “Let’s Ride” to “Last Ride” with Broncos, revealing dangers of desperation**
+**Gangs in Haiti try to seize control of main airport in newest attack on key government sites**
 
-You can read more about it [here](https://www.denverpost.com/2024/03/04/russell-wilson-broncos-lets-ride-desperation-dangers/).
+You can read more about it [here](https://apnews.com/article/haiti-violence-prison-break-curfew-105ca137aa337b9e6681cf87add9a5c1).
 
 ## Requirements
 - Python 3.8
