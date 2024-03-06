@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target Stock Spikes To 11-Month High On Earnings**
+**2024 NFL franchise tag tracker: Latest tag news on deadline day**
 
-You can read more about it [here](https://www.investors.com/news/target-stock-spikes-to-11-month-high-on-earnings-beat/).
+You can read more about it [here](https://www.nfl.com/news/2024-nfl-franchise-tag-tracker-latest-tag-news-on-deadline-day).
 
 ## Requirements
 - Python 3.8
