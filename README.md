@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are the 4 Pa. counties where you can see the total solar eclipse**
+**Fiery crash of small plane along Nashville’s I-40 kills all 5 people on board**
 
-You can read more about it [here](https://www.wgal.com/article/where-you-can-see-total-solar-eclipse-pennsylvania/60093101).
+You can read more about it [here](https://www.cnn.com/2024/03/04/us/i-40-nashville-plane-crash/index.html).
 
 ## Requirements
 - Python 3.8
