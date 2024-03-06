@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow tumbles more than 400 points as tech woes rattle Wall Street**
+**Ukraine claims it has sunk another Russian warship in the Black Sea using high-tech sea drones**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/investing/stocks-apple-tech/index.html).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/ukraine-claims-sunk-russian-warship-black-sea-high-107799793).
 
 ## Requirements
 - Python 3.8
