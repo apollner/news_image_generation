@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California Democratic primary: Live results**
+**NFL franchise tag deadline: Josh Allen, Michael Pittman Jr. among players placed on it**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4507628-california-democratic-primary-live-results/).
+You can read more about it [here](https://sports.yahoo.com/nfl-franchise-tag-deadline-josh-allen-michael-pittman-jr-among-players-placed-on-it-210148815.html).
 
 ## Requirements
 - Python 3.8
