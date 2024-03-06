@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Several dead after single-engine plane crashes near I-40 in Nashville**
+**Target shares pop as retailer boosts profits, despite lackluster sales forecast**
 
-You can read more about it [here](https://abcnews.go.com/US/dead-after-single-engine-plane-crashes-40-nashville/story?id=107796017).
+You can read more about it [here](https://www.cnbc.com/2024/03/05/target-tgt-earnings-q4-2023.html).
 
 ## Requirements
 - Python 3.8
