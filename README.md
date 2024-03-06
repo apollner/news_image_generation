@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Trump CFO Allen Weisselberg pleads guilty to perjury in deal that doesn't require cooperation**
+**Cause of long COVID pinpointed as iron deficiency, scientists say**
 
-You can read more about it [here](https://apnews.com/article/trump-fraud-weisselberg-perjury-0101a9972cefd1e1fb4ba6d36e69fecb).
+You can read more about it [here](https://www.washingtontimes.com/news/2024/mar/4/cause-long-covid-pinpointed-iron-deficiency-scient/).
 
 ## Requirements
 - Python 3.8
