@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gangs in Haiti try to seize control of main airport in newest attack on government sites**
+**Blizzard slams California's Sierra Nevada mountains, more snow on the way**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/04/gangs-in-haiti-try-to-seize-control-of-main-airport-in-newest-attack-on-government-sites-00144796).
+You can read more about it [here](https://abcnews.go.com/US/california-snowstorm-blizzard-forecast/story?id=107766855).
 
 ## Requirements
 - Python 3.8
