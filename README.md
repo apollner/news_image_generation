@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Monster' Jonathan Van Ness' 'rage issues' caused 'fear' on 'Queer Eye' set, tension among Fab 5: exposé**
+**[Removed]**
 
-You can read more about it [here](https://pagesix.com/2024/03/05/entertainment/jonathan-van-ness-rage-issues-caused-fear-on-queer-eye-set-tension-among-fab-5-expose/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
