@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target launches paid membership program as it chases new revenue streams**
+**Haiti crisis: Is a gang-led coup next?**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/05/target-launches-paid-membership-target-circle-360.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/5/haiti-crisis-is-a-gang-led-coup-next).
 
 ## Requirements
 - Python 3.8
