@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blizzard slams California's Sierra Nevada mountains, more snow on the way**
+**Oklahoma Gears Up For Solar Eclipse Traffic Surge**
 
-You can read more about it [here](https://abcnews.go.com/US/california-snowstorm-blizzard-forecast/story?id=107766855).
+You can read more about it [here](https://www.newson6.com/story/65e635126de140064f2dfc0a/oklahoma-gears-up-for-solar-eclipse-traffic-surge).
 
 ## Requirements
 - Python 3.8
