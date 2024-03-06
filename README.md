@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Crumbley, father of Michigan school shooter, to begin trial**
+**Several dead after single-engine plane crashes near I-40 in Nashville**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/05/jajames-crumbley-trial-oxford-school-shooting/).
+You can read more about it [here](https://abcnews.go.com/US/dead-after-single-engine-plane-crashes-40-nashville/story?id=107796017).
 
 ## Requirements
 - Python 3.8
