@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cause of long COVID pinpointed as iron deficiency, scientists say**
+**Apple Launches M3-Based MacBook Air 13 and 15: 3nm CPU for the Masses**
 
-You can read more about it [here](https://www.washingtontimes.com/news/2024/mar/4/cause-long-covid-pinpointed-iron-deficiency-scient/).
+You can read more about it [here](https://www.anandtech.com/show/21285/apple-launches-m3based-macbook-air-13-and-15-3nm-cpu-for-the-masses).
 
 ## Requirements
 - Python 3.8
