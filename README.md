@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL franchise tag deadline: Josh Allen, Michael Pittman Jr. among players placed on it**
+**Ukraine claims to use drone to sink another Russian warship in the Black Sea**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-franchise-tag-deadline-josh-allen-michael-pittman-jr-among-players-placed-on-it-210148815.html).
+You can read more about it [here](https://www.politico.com/news/2024/03/05/ukraine-warship-russia-black-sea-00145037).
 
 ## Requirements
 - Python 3.8
