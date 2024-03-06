@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Philadelphia Eagles center Jason Kelce announces he is retiring from the NFL**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/03/04/sport/jason-kelce-retires-nfl-eagles-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
