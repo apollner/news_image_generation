@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target shares pop as retailer boosts profits, despite lackluster sales forecast**
+**Here are the 4 Pa. counties where you can see the total solar eclipse**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/05/target-tgt-earnings-q4-2023.html).
+You can read more about it [here](https://www.wgal.com/article/where-you-can-see-total-solar-eclipse-pennsylvania/60093101).
 
 ## Requirements
 - Python 3.8
