@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton seen for 1st time since abdominal surgery**
+**'Monster' Jonathan Van Ness' 'rage issues' caused 'fear' on 'Queer Eye' set, tension among Fab 5: exposé**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/princess-kate-1st-time-abdominal-surgery-hospitalization-107802565).
+You can read more about it [here](https://pagesix.com/2024/03/05/entertainment/jonathan-van-ness-rage-issues-caused-fear-on-queer-eye-set-tension-among-fab-5-expose/).
 
 ## Requirements
 - Python 3.8
