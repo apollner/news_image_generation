@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gangs in Haiti try to seize control of main airport in newest attack on key government sites**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/haiti-violence-prison-break-curfew-105ca137aa337b9e6681cf87add9a5c1).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
