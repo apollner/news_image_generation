@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia Eagles center Jason Kelce announces he is retiring from the NFL**
+**Twitter's former CEO and other execs are suing Elon Musk and X for $128 million in unpaid severance**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/sport/jason-kelce-retires-nfl-eagles-spt-intl/index.html).
+You can read more about it [here](https://www.engadget.com/twitters-former-ceo-and-other-execs-are-suing-elon-musk-and-x-for-128-million-in-unpaid-severance-231428042.html).
 
 ## Requirements
 - Python 3.8
