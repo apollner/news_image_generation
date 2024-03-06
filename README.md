@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti crisis: Is a gang-led coup next?**
+**Dow tumbles more than 400 points as tech woes rattle Wall Street**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/5/haiti-crisis-is-a-gang-led-coup-next).
+You can read more about it [here](https://www.cnn.com/2024/03/05/investing/stocks-apple-tech/index.html).
 
 ## Requirements
 - Python 3.8
