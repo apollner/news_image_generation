@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oklahoma Gears Up For Solar Eclipse Traffic Surge**
+**Scientists Struggle to Explain Why Their Tall, Top-Heavy Moon Lander Fell Over**
 
-You can read more about it [here](https://www.newson6.com/story/65e635126de140064f2dfc0a/oklahoma-gears-up-for-solar-eclipse-traffic-surge).
+You can read more about it [here](https://futurism.com/the-byte/why-tall-moon-lander-fell-over).
 
 ## Requirements
 - Python 3.8
