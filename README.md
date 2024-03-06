@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diet drinks boost risk of dangerous heart condition by 20%, study says**
+**Target Stock Spikes To 11-Month High On Earnings**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/health/diet-and-sugary-drinks-atrial-fibrillation-wellness/index.html).
+You can read more about it [here](https://www.investors.com/news/target-stock-spikes-to-11-month-high-on-earnings-beat/).
 
 ## Requirements
 - Python 3.8
