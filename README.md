@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL franchise tag tracker: Latest tag news on deadline day**
+**The New White Dial Omega Speedmaster**
 
-You can read more about it [here](https://www.nfl.com/news/2024-nfl-franchise-tag-tracker-latest-tag-news-on-deadline-day).
+You can read more about it [here](https://www.hodinkee.com/articles/intro-omega-white-dial-steel-speedmaster).
 
 ## Requirements
 - Python 3.8
