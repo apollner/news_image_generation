@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fiery crash of small plane along Nashville’s I-40 kills all 5 people on board**
+**Diet drinks boost risk of dangerous heart condition by 20%, study says**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/us/i-40-nashville-plane-crash/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/05/health/diet-and-sugary-drinks-atrial-fibrillation-wellness/index.html).
 
 ## Requirements
 - Python 3.8
