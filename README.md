@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**5-time Iditarod champ Dallas Seavey kills and guts moose after it injured his dog: "It was ugly"**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/iditarod-champ-dallas-seavey-kills-moose-injured-dog-it-was-ugly/).
 
 ## Requirements
 - Python 3.8
