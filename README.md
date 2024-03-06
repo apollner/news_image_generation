@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diet drinks boost risk of dangerous heart condition by 20%, study says**
+**James Crumbley, father of Michigan school shooter, to begin trial**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/health/diet-and-sugary-drinks-atrial-fibrillation-wellness/index.html).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/05/jajames-crumbley-trial-oxford-school-shooting/).
 
 ## Requirements
 - Python 3.8
