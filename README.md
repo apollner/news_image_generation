@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Twitter's ex-CEO, CFO, and managers sue Elon Musk for $128M**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.theregister.com/2024/03/05/twitter_management_sue_musk/).
 
 ## Requirements
 - Python 3.8
