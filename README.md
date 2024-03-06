@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Star dunes: Ancient find helps scientists unravel secrets of mysterious sand structures**
+**Kamala Harris meets Netanyahu rival in push for cease-fire deal**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/world/star-sand-dune-ancient-mystery-erg-chebbi-scn/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-kamala-harris-white-house-e86e6f95a0707e290384fcc86367e4fd).
 
 ## Requirements
 - Python 3.8
