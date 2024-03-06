@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court temporarily freezes implementation of Texas immigration law**
+**Gangs in Haiti try to seize control of main airport in newest attack on government sites**
 
-You can read more about it [here](https://www.cnn.com/2024/03/04/politics/texas-immigration-law-supreme-court-appeal/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/03/04/gangs-in-haiti-try-to-seize-control-of-main-airport-in-newest-attack-on-government-sites-00144796).
 
 ## Requirements
 - Python 3.8
