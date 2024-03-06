@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris meets Netanyahu rival in push for cease-fire deal**
+**Miami Beach business owners share mixed feelings over spring break restrictions**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-kamala-harris-white-house-e86e6f95a0707e290384fcc86367e4fd).
+You can read more about it [here](http://www.nbcmiami.com/news/local/miami-beach-business-owners-mixed-feelings-spring-break-restrictions/3249524/).
 
 ## Requirements
 - Python 3.8
