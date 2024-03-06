@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYCB Ballooned Despite Real Estate Warnings in Years Before Fall**
+**Cause of long COVID pinpointed as iron deficiency, scientists say**
 
-You can read more about it [here](https://finance.yahoo.com/news/nycb-ballooned-despite-real-estate-000026856.html).
+You can read more about it [here](https://www.washingtontimes.com/news/2024/mar/4/cause-long-covid-pinpointed-iron-deficiency-scient/).
 
 ## Requirements
 - Python 3.8
