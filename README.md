@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine claims it has sunk another Russian warship in the Black Sea using high-tech sea drones**
+**California Democratic primary: Live results**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/ukraine-claims-sunk-russian-warship-black-sea-high-107799793).
+You can read more about it [here](https://thehill.com/homenews/campaign/4507628-california-democratic-primary-live-results/).
 
 ## Requirements
 - Python 3.8
