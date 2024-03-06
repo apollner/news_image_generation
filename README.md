@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Launches M3-Based MacBook Air 13 and 15: 3nm CPU for the Masses**
+**Former Trump CFO Allen Weisselberg pleads guilty to perjury in deal that doesn't require cooperation**
 
-You can read more about it [here](https://www.anandtech.com/show/21285/apple-launches-m3based-macbook-air-13-and-15-3nm-cpu-for-the-masses).
+You can read more about it [here](https://apnews.com/article/trump-fraud-weisselberg-perjury-0101a9972cefd1e1fb4ba6d36e69fecb).
 
 ## Requirements
 - Python 3.8
