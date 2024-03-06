@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twitter's former CEO and other execs are suing Elon Musk and X for $128 million in unpaid severance**
+**Supreme Court temporarily freezes implementation of Texas immigration law**
 
-You can read more about it [here](https://www.engadget.com/twitters-former-ceo-and-other-execs-are-suing-elon-musk-and-x-for-128-million-in-unpaid-severance-231428042.html).
+You can read more about it [here](https://www.cnn.com/2024/03/04/politics/texas-immigration-law-supreme-court-appeal/index.html).
 
 ## Requirements
 - Python 3.8
