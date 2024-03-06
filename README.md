@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China stocks hit over three-month highs as Beijing targets 5% GDP growth; Hong Kong slides 2.5%**
+**Putin's masterful spy op leaves Scholz in the cold**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/05/asia-markets-live-updates.html).
+You can read more about it [here](https://www.politico.eu/article/vladimir-putin-olaf-scholz-russia-germany-taurus-missile-ukraine-war/).
 
 ## Requirements
 - Python 3.8
