@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cause of long COVID pinpointed as iron deficiency, scientists say**
+**Scientists Struggle to Explain Why Their Tall, Top-Heavy Moon Lander Fell Over**
 
-You can read more about it [here](https://www.washingtontimes.com/news/2024/mar/4/cause-long-covid-pinpointed-iron-deficiency-scient/).
+You can read more about it [here](https://futurism.com/the-byte/why-tall-moon-lander-fell-over).
 
 ## Requirements
 - Python 3.8
