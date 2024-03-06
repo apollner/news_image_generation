@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The New White Dial Omega Speedmaster**
+**Kate Middleton seen for 1st time since abdominal surgery**
 
-You can read more about it [here](https://www.hodinkee.com/articles/intro-omega-white-dial-steel-speedmaster).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/princess-kate-1st-time-abdominal-surgery-hospitalization-107802565).
 
 ## Requirements
 - Python 3.8
