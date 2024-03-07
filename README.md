@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitch McConnell endorses Donald Trump for president after years of frosty ties**
+**Arctic to Lose All its Ice Within Next Decade: Study | Vantage with Palki Sharma**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/politics/mitch-mcconnell-endorses-trump/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=n_ZVtWvV0t8).
 
 ## Requirements
 - Python 3.8
