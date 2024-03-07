@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crypto Funding Rates Reset After Bitcoin's Sharp Pullback From $69K**
+**Who is Jason Palmer, the Democrat who delivered Biden his first primary defeat?**
 
-You can read more about it [here](https://www.coindesk.com/markets/2024/03/06/crypto-funding-rates-reset-after-bitcoins-sharp-pullback-from-69k/).
+You can read more about it [here](https://www.cnn.com/2024/03/05/politics/jason-palmer-democrat-biden-primary-american-samoa/index.html).
 
 ## Requirements
 - Python 3.8
