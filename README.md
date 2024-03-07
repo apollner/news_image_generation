@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 3/05/24: $650 million jackpot**
+**Who is Jason Palmer? A previously unknown Democrat beats Biden in American Samoa's Democratic caucus**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/03/05/mega-millions-winning-numbers/72856416007/).
+You can read more about it [here](https://apnews.com/article/who-is-jason-palmer-american-samoa-primary-c4bc109a16c7ee7b083f6216b44ba0c4).
 
 ## Requirements
 - Python 3.8
