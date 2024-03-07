@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target launching new paid membership program, Target Circle 360, with same-day delivery and other perks**
+**Explosion in Detroit suburb to blame for 19-year-old's death**
 
-You can read more about it [here](https://abc7.com/target-circle-360-paid-membership-program-retail-sales-corp/14494438/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/05/clinton-township-michigan-fire-explosion/72848495007/).
 
 ## Requirements
 - Python 3.8
