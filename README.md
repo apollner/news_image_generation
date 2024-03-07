@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Jason Palmer, the Democrat who delivered Biden his first primary defeat?**
+**Election 2024: Huntington Beach voter ID measure now ahead in early results**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/politics/jason-palmer-democrat-biden-primary-american-samoa/index.html).
+You can read more about it [here](https://www.ocregister.com/2024/03/05/election-2024-huntington-beach-voter-id-measure-falls-behind-in-early-returns/).
 
 ## Requirements
 - Python 3.8
