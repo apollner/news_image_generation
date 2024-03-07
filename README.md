@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Jason Palmer? A previously unknown Democrat beats Biden in American Samoa's Democratic caucus**
+**Apple: iPhone China sales slide as Huawei soars, report says**
 
-You can read more about it [here](https://apnews.com/article/who-is-jason-palmer-american-samoa-primary-c4bc109a16c7ee7b083f6216b44ba0c4).
+You can read more about it [here](https://www.bbc.com/news/business-68486928).
 
 ## Requirements
 - Python 3.8
