@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez and wife face new obstruction charges in bribery case**
+**A man deliberately got 217 Covid shots. Here’s what happened**
 
-You can read more about it [here](https://abcnews.go.com/US/sen-bob-menendez-wife-face-new-obstruction-charges/story?id=107822403).
+You can read more about it [here](https://www.cnn.com/2024/03/06/health/covid-217-shots-hypervaccination-lancet/index.html).
 
 ## Requirements
 - Python 3.8
