@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine’s drones sink another Russian warship, Kyiv says**
+**Election 2024: Huntington Beach voter ID measure now ahead in early results**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/europe/russian-warship-destroyed-ukraine-intl-hnk-ml/index.html).
+You can read more about it [here](https://www.ocregister.com/2024/03/05/election-2024-huntington-beach-voter-id-measure-falls-behind-in-early-returns/).
 
 ## Requirements
 - Python 3.8
