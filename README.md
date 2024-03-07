@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple terminates Epic Games developer account calling it a ‘threat’ to the iOS ecosystem**
+**Crew members killed for first time in Houthi attack on commercial ship near Yemen, US officials say**
 
-You can read more about it [here](https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/).
+You can read more about it [here](https://www.cnn.com/2024/03/06/politics/crew-members-killed-houthi-attack/index.html).
 
 ## Requirements
 - Python 3.8
