@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target launching new paid membership program, Target Circle 360, with same-day delivery and other perks**
+**Haiti’s prime minister lands in Puerto Rico, official says, as gangs rampage at home**
 
-You can read more about it [here](https://abc7.com/target-circle-360-paid-membership-program-retail-sales-corp/14494438/).
+You can read more about it [here](https://www.cnn.com/2024/03/05/americas/haiti-violence-prime-minister-henry-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
