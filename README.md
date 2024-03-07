@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump legal team files motion for new trial in E. Jean Carroll case**
+**How the 2024 total solar eclipse will differ from 2017**
 
-You can read more about it [here](https://www.foxnews.com/politics/trump-legal-team-files-new-trial-in-e-jean-carroll-case).
+You can read more about it [here](https://www.cnn.com/2024/03/05/world/total-solar-eclipse-differences-scn/index.html).
 
 ## Requirements
 - Python 3.8
