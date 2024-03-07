@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicholas Hoult Talks Preparations to Play Lex Luthor in James Gunn’s ‘Superman’**
+**NASA's SpaceX Crew-8 Launches to International Space Station**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/superman-nicholas-hoult-lex-luthor-preparations-1235843953/).
+You can read more about it [here](https://www.nasa.gov/news-release/nasas-spacex-crew-8-launches-to-international-space-station/).
 
 ## Requirements
 - Python 3.8
