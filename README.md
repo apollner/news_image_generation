@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's SpaceX Crew-8 Launches to International Space Station**
+**Juno's Groundbreaking Discovery: Surprising Oxygen Insights From Europa's Close Flyby**
 
-You can read more about it [here](https://www.nasa.gov/news-release/nasas-spacex-crew-8-launches-to-international-space-station/).
+You can read more about it [here](https://scitechdaily.com/junos-groundbreaking-discovery-surprising-oxygen-insights-from-europas-close-flyby/).
 
 ## Requirements
 - Python 3.8
