@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's SpaceX Crew-8 Launches to International Space Station**
+**Sen. Bob Menendez and wife face new obstruction charges in bribery case**
 
-You can read more about it [here](https://www.nasa.gov/news-release/nasas-spacex-crew-8-launches-to-international-space-station/).
+You can read more about it [here](https://abcnews.go.com/US/sen-bob-menendez-wife-face-new-obstruction-charges/story?id=107822403).
 
 ## Requirements
 - Python 3.8
