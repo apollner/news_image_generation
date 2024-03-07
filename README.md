@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Philippines says it won't let China remove a Filipino military outpost on a disputed shoal**
+**Mitch McConnell endorses Donald Trump for president after years of frosty ties**
 
-You can read more about it [here](https://apnews.com/article/south-china-sea-philippines-tension-clash-thomas-5024df819b8ae87b99c24e179f9da774).
+You can read more about it [here](https://www.cnn.com/2024/03/06/politics/mitch-mcconnell-endorses-trump/index.html).
 
 ## Requirements
 - Python 3.8
