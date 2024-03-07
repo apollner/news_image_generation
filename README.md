@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diet drinks may boost risk of dangerous heart condition by 20%, study says**
+**Mega Millions winning numbers for 3/05/24: $650 million jackpot**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/health/diet-and-sugary-drinks-atrial-fibrillation-wellness/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/03/05/mega-millions-winning-numbers/72856416007/).
 
 ## Requirements
 - Python 3.8
