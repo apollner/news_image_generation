@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German man received 217 coronavirus vaccine shots over a 29-month period, study says**
+**'It's over': Donald Trump trounces Nikki Haley and turns to contest against Joe Biden**
 
-You can read more about it [here](https://www.foxnews.com/world/german-man-received-217-coronavirus-vaccine-shots-over-29-month-period-study-says).
+You can read more about it [here](https://www.ft.com/content/3802e73f-29a9-411f-8410-c67eaeafbf7c).
 
 ## Requirements
 - Python 3.8
