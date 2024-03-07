@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It's over': Donald Trump trounces Nikki Haley and turns to contest against Joe Biden**
+**'Sister Wives' star Meri Brown speaks out on death of Kody and Janelle's son Garrison at 25**
 
-You can read more about it [here](https://www.ft.com/content/3802e73f-29a9-411f-8410-c67eaeafbf7c).
+You can read more about it [here](https://nypost.com/2024/03/06/entertainment/sister-wives-meri-brown-speaks-out-death-of-garrison-at-25/).
 
 ## Requirements
 - Python 3.8
