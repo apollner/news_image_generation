@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine claims to use drone to sink another Russian warship in the Black Sea**
+**Target Aims for Turnaround After First Sales Decline Since 2016**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/05/ukraine-warship-russia-black-sea-00145037).
+You can read more about it [here](https://www.wsj.com/business/retail/target-tgt-q4-earnings-report-2023-49933894).
 
 ## Requirements
 - Python 3.8
