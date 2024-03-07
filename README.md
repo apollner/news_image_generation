@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crew members killed for first time in Houthi attack on commercial ship near Yemen, US officials say**
+**Xbox Partner Preview March 2024: Everything Announced**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/politics/crew-members-killed-houthi-attack/index.html).
+You can read more about it [here](https://www.ign.com/articles/xbox-partner-preview-march-2024-everything-announced).
 
 ## Requirements
 - Python 3.8
