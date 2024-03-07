@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dragon's Dogma 2 Gameplay Preview - MAGICK ARCHER AND MYSTIC SPEARHAND WEAPON SKILLS DEEP DIVE**
+**Trump legal team files motion for new trial in E. Jean Carroll case**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rrWvcFUU0IA).
+You can read more about it [here](https://www.foxnews.com/politics/trump-legal-team-files-new-trial-in-e-jean-carroll-case).
 
 ## Requirements
 - Python 3.8
