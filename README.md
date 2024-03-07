@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arctic to Lose All its Ice Within Next Decade: Study | Vantage with Palki Sharma**
+**Apple terminates Epic Games developer account calling it a ‘threat’ to the iOS ecosystem**
 
-You can read more about it [here](https://www.youtube.com/watch?v=n_ZVtWvV0t8).
+You can read more about it [here](https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/).
 
 ## Requirements
 - Python 3.8
