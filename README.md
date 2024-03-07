@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists say they're a step closer to reviving mammoths. What could go wrong?**
+**The Philippines says it won't let China remove a Filipino military outpost on a disputed shoal**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/03/06/scientists-say-theyre-step-closer-reviving-mammoths-what-could-go-wrong/).
+You can read more about it [here](https://apnews.com/article/south-china-sea-philippines-tension-clash-thomas-5024df819b8ae87b99c24e179f9da774).
 
 ## Requirements
 - Python 3.8
