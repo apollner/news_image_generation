@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple: iPhone China sales slide as Huawei soars, report says**
+**Target launching new paid membership program, Target Circle 360, with same-day delivery and other perks**
 
-You can read more about it [here](https://www.bbc.com/news/business-68486928).
+You can read more about it [here](https://abc7.com/target-circle-360-paid-membership-program-retail-sales-corp/14494438/).
 
 ## Requirements
 - Python 3.8
