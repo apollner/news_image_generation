@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ADP jobs report February 2024**
+**Nikki Haley will suspend her campaign, sources say**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/06/adp-jobs-report-february-2024.html).
+You can read more about it [here](https://apnews.com/article/nikki-haley-republican-trump-super-tuesday-losses-95ab56b68a8eefbbf04ef90f2f00ef29).
 
 ## Requirements
 - Python 3.8
