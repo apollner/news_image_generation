@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley will suspend her campaign, sources say**
+**Scientists say they're a step closer to reviving mammoths. What could go wrong?**
 
-You can read more about it [here](https://apnews.com/article/nikki-haley-republican-trump-super-tuesday-losses-95ab56b68a8eefbbf04ef90f2f00ef29).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/03/06/scientists-say-theyre-step-closer-reviving-mammoths-what-could-go-wrong/).
 
 ## Requirements
 - Python 3.8
