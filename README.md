@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti’s prime minister lands in Puerto Rico, official says, as gangs rampage at home**
+**Crypto Funding Rates Reset After Bitcoin's Sharp Pullback From $69K**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/americas/haiti-violence-prime-minister-henry-intl-latam/index.html).
+You can read more about it [here](https://www.coindesk.com/markets/2024/03/06/crypto-funding-rates-reset-after-bitcoins-sharp-pullback-from-69k/).
 
 ## Requirements
 - Python 3.8
