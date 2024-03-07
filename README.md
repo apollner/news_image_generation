@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Sister Wives' star Meri Brown speaks out on death of Kody and Janelle's son Garrison at 25**
+**The Philippines says it won't let China remove a Filipino military outpost on a disputed shoal**
 
-You can read more about it [here](https://nypost.com/2024/03/06/entertainment/sister-wives-meri-brown-speaks-out-death-of-garrison-at-25/).
+You can read more about it [here](https://apnews.com/article/south-china-sea-philippines-tension-clash-thomas-5024df819b8ae87b99c24e179f9da774).
 
 ## Requirements
 - Python 3.8
