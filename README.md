@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Garrison Brown, son of 'Sister Wives' stars Janelle and Kody Brown, dead at 25**
+**Nicholas Hoult Talks Preparations to Play Lex Luthor in James Gunn’s ‘Superman’**
 
-You can read more about it [here](https://www.yahoo.com/news/garrison-brown-son-sister-wives-031137347.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/superman-nicholas-hoult-lex-luthor-preparations-1235843953/).
 
 ## Requirements
 - Python 3.8
