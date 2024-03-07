@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft engineer who raised concerns about Copilot image creator pens letter to the FTC**
+**[Removed]**
 
-You can read more about it [here](https://www.engadget.com/microsoft-engineer-who-raised-concerns-about-copilot-image-creator-pens-letter-to-the-ftc-165414095.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
