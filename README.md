@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A man deliberately got 217 Covid shots. Here’s what happened**
+**NASA's SpaceX Crew-8 Launches to International Space Station**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/health/covid-217-shots-hypervaccination-lancet/index.html).
+You can read more about it [here](https://www.nasa.gov/news-release/nasas-spacex-crew-8-launches-to-international-space-station/).
 
 ## Requirements
 - Python 3.8
