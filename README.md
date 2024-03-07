@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target Aims for Turnaround After First Sales Decline Since 2016**
+**Drake Bell Alleges He Was Sexually Abused as a Child Actor by Nickelodeon Dialogue Coach Brian Peck**
 
-You can read more about it [here](https://www.wsj.com/business/retail/target-tgt-q4-earnings-report-2023-49933894).
+You can read more about it [here](https://variety.com/2024/film/news/drake-bell-sexual-abuse-brian-peck-nickelodeon-1235930926/).
 
 ## Requirements
 - Python 3.8
