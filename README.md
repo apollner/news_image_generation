@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosion in Detroit suburb to blame for 19-year-old's death**
+**Ukraine’s drones sink another Russian warship, Kyiv says**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/05/clinton-township-michigan-fire-explosion/72848495007/).
+You can read more about it [here](https://www.cnn.com/2024/03/05/europe/russian-warship-destroyed-ukraine-intl-hnk-ml/index.html).
 
 ## Requirements
 - Python 3.8
