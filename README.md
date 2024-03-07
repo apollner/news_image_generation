@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rate cuts likely at 'some point' this year: Fed's Powell**
+**German man received 217 coronavirus vaccine shots over a 29-month period, study says**
 
-You can read more about it [here](https://finance.yahoo.com/news/rate-cuts-likely-at-some-point-this-year-feds-powell-133004964.html).
+You can read more about it [here](https://www.foxnews.com/world/german-man-received-217-coronavirus-vaccine-shots-over-29-month-period-study-says).
 
 ## Requirements
 - Python 3.8
