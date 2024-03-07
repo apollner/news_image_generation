@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitch McConnell endorses Donald Trump for president after years of frosty ties**
+**Microsoft engineer who raised concerns about Copilot image creator pens letter to the FTC**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/politics/mitch-mcconnell-endorses-trump/index.html).
+You can read more about it [here](https://www.engadget.com/microsoft-engineer-who-raised-concerns-about-copilot-image-creator-pens-letter-to-the-ftc-165414095.html).
 
 ## Requirements
 - Python 3.8
