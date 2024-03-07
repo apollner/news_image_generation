@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election 2024: Huntington Beach voter ID measure now ahead in early results**
+**Saquon Barkley, Tee Higgins among franchise tag winners; Baker Mayfield, Josh Jacobs headline losers**
 
-You can read more about it [here](https://www.ocregister.com/2024/03/05/election-2024-huntington-beach-voter-id-measure-falls-behind-in-early-returns/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/saquon-barkley-tee-higgins-among-franchise-tag-winners-baker-mayfield-josh-jacobs-headline-losers/).
 
 ## Requirements
 - Python 3.8
