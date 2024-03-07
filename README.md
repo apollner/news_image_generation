@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven men arrested in India for alleged gang-rape of tourist**
+**Diet drinks may boost risk of dangerous heart condition by 20%, study says**
 
-You can read more about it [here](https://www.cnn.com/2024/03/05/asia/india-gang-rape-arrest-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/05/health/diet-and-sugary-drinks-atrial-fibrillation-wellness/index.html).
 
 ## Requirements
 - Python 3.8
