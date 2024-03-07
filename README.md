@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saquon Barkley, Tee Higgins among franchise tag winners; Baker Mayfield, Josh Jacobs headline losers**
+**Garrison Brown, son of 'Sister Wives' stars Janelle and Kody Brown, dead at 25**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/saquon-barkley-tee-higgins-among-franchise-tag-winners-baker-mayfield-josh-jacobs-headline-losers/).
+You can read more about it [here](https://www.yahoo.com/news/garrison-brown-son-sister-wives-031137347.html).
 
 ## Requirements
 - Python 3.8
