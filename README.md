@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos, S Justin Simmons to part ways after eight seasons**
+**Biden will try to use State of the Union address to convince voters he deserves a second term**
 
-You can read more about it [here](https://www.denverbroncos.com/news/broncos-s-justin-simmons-to-part-ways-after-eight-seasons).
+You can read more about it [here](https://apnews.com/article/state-of-union-biden-gaza-ukraine-israel-1a42ff9d4ef3e0f2753e43ac8d39fc18).
 
 ## Requirements
 - Python 3.8
