@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton DA Fani Willis calls Senate investigation into her a ‘political quest’**
+**Solar eclipse 2024 path: Best places see the daytime sky turn dark**
 
-You can read more about it [here](https://www.wsbtv.com/unavailable-location/).
+You can read more about it [here](https://www.nj.com/news/2024/03/solar-eclipse-2024-path-best-places-see-the-daytime-sky-turn-dark.html).
 
 ## Requirements
 - Python 3.8
