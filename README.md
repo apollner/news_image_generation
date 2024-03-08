@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Tyson to Return to Boxing for Live Match Against Jake Paul**
+**Broncos releasing star safety Justin Simmons after 8 seasons**
 
-You can read more about it [here](https://people.com/mike-tyson-live-match-against-jake-paul-8605604).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39674946/sources-broncos-releasing-all-pro-safety-justin-simmons).
 
 ## Requirements
 - Python 3.8
