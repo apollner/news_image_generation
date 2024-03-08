@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The incredible reason why Kelce's ankles were taped for retirement speech**
+**Budget 2024: Jeremy Hunt cuts National Insurance again as election looms**
 
-You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/the-incredible-reason-why-kelces-ankles-were-taped-for-retirement-speech/569258/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1wb2xpdGljcy02ODQ4ODQ2N9IBMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1wb2xpdGljcy02ODQ4ODQ2Ny5hbXA).
 
 ## Requirements
 - Python 3.8
