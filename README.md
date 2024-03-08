@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Hochul to deploy National Guard, state police, other state resources to combat NYC subway crime**
+**Microsoft accused of selling AI tool that spews violent, sexual images to kids**
 
-You can read more about it [here](https://abc7ny.com/nyc-subway-crime-nypd-governor-hochul/14495270/).
+You can read more about it [here](https://arstechnica.com/tech-policy/2024/03/microsoft-accused-of-selling-ai-tool-that-spews-violent-sexual-images-to-kids/).
 
 ## Requirements
 - Python 3.8
