@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Crushes Epic's App Store Dreams Over the CEO's Petty Tweets**
+**Gov. Hochul to deploy National Guard, state police, other state resources to combat NYC subway crime**
 
-You can read more about it [here](https://gizmodo.com/apple-crushes-epics-app-store-dreams-ceo-s-petty-tweets-1851312958).
+You can read more about it [here](https://abc7ny.com/nyc-subway-crime-nypd-governor-hochul/14495270/).
 
 ## Requirements
 - Python 3.8
