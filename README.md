@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's next-generation rocket is a decade old and still flying dummy payloads**
+**SEC approves weakened climate disclosure rule after pushback**
 
-You can read more about it [here](https://arstechnica.com/space/2024/03/russias-next-generation-rocket-is-a-decade-old-and-still-flying-dummy-payloads/).
+You can read more about it [here](https://apnews.com/article/climate-change-sec-disclosure-companies-emissions-risks-b5bb510f9167ef396ee2fbc5a02ba1cf).
 
 ## Requirements
 - Python 3.8
