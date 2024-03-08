@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spanish tennis player Rafael Nadal withdraws from BNP Paribas Open at Indian Wells a day before first round**
+**Hamas envoys leave Cairo, with deadlocked hostage deal talks to resume next week**
 
-You can read more about it [here](https://www.cnn.com/2024/03/07/sport/rafael-nadal-indian-wells-withdrawal/index.html).
+You can read more about it [here](https://www.timesofisrael.com/hamas-envoys-leave-cairo-with-deadlocked-hostage-deal-talks-to-resume-next-week/).
 
 ## Requirements
 - Python 3.8
