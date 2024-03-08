@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas envoys leave Cairo, with deadlocked hostage deal talks to resume next week**
+**Fulton DA Fani Willis calls Senate investigation into her a ‘political quest’**
 
-You can read more about it [here](https://www.timesofisrael.com/hamas-envoys-leave-cairo-with-deadlocked-hostage-deal-talks-to-resume-next-week/).
+You can read more about it [here](https://www.wsbtv.com/unavailable-location/).
 
 ## Requirements
 - Python 3.8
