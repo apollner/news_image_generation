@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Solar eclipse 2024 path: Best places see the daytime sky turn dark**
+**Mike Tyson to Return to Boxing for Live Match Against Jake Paul**
 
-You can read more about it [here](https://www.nj.com/news/2024/03/solar-eclipse-2024-path-best-places-see-the-daytime-sky-turn-dark.html).
+You can read more about it [here](https://people.com/mike-tyson-live-match-against-jake-paul-8605604).
 
 ## Requirements
 - Python 3.8
