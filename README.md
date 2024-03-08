@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft accused of selling AI tool that spews violent, sexual images to kids**
+**Russia's next-generation rocket is a decade old and still flying dummy payloads**
 
-You can read more about it [here](https://arstechnica.com/tech-policy/2024/03/microsoft-accused-of-selling-ai-tool-that-spews-violent-sexual-images-to-kids/).
+You can read more about it [here](https://arstechnica.com/space/2024/03/russias-next-generation-rocket-is-a-decade-old-and-still-flying-dummy-payloads/).
 
 ## Requirements
 - Python 3.8
