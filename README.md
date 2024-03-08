@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Budget 2024: Jeremy Hunt cuts National Insurance again as election looms**
+**Russia's next-generation rocket is a decade old and still flying dummy payloads**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1wb2xpdGljcy02ODQ4ODQ2N9IBMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1wb2xpdGljcy02ODQ4ODQ2Ny5hbXA).
+You can read more about it [here](https://arstechnica.com/space/2024/03/russias-next-generation-rocket-is-a-decade-old-and-still-flying-dummy-payloads/).
 
 ## Requirements
 - Python 3.8
