@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama governor signs IVF protection bill into law**
+**Budget 2024: Jeremy Hunt cuts National Insurance again as election looms**
 
-You can read more about it [here](https://www.axios.com/2024/03/07/alabama-ivf-fertility-protection-bill).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68488467).
 
 ## Requirements
 - Python 3.8
