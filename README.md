@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Budget 2024: Jeremy Hunt cuts National Insurance again as election looms**
+**JPMorgan pursued Discover deal before Capital One's $35bn offer**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68488467).
+You can read more about it [here](https://www.ft.com/content/ff0fe1aa-52da-4c8f-ba9a-60ef83618db5).
 
 ## Requirements
 - Python 3.8
