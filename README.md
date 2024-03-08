@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Google AI engineer charged with stealing trade secrets for China firm**
+**Ming-Na Wen Joins Sony’s New ‘Karate Kid’ Film (EXCLUSIVE)**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/03/06/google-ai-doj-arrest/).
+You can read more about it [here](https://variety.com/2024/film/news/ming-na-wen-new-karate-kid-film-sony-1235931666/).
 
 ## Requirements
 - Python 3.8
