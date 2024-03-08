@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea’s Kim Jong Un orders heightened war preparations**
+**Naomi Watts on Babe Paley’s ‘Feud’ Story Arc and If She and Capote Ever Rekindled**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/7/north-koreas-kim-jong-un-orders-heightened-war-preparations).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/feud-capote-vs-the-swans-naomi-watts-babe-paley-death-capote-1235845097/).
 
 ## Requirements
 - Python 3.8
