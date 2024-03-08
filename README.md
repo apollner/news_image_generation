@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No Gaza cease-fire agreement likely before Ramadan as latest negotiations end**
+**Stocks gain for a second day on easing inflation hopes, Nvidia leads Nasdaq higher: Live updates**
 
-You can read more about it [here](https://abcnews.go.com/International/gaza-cease-fire-agreement-ramadan-latest-negotiations-end/story?id=107877902).
+You can read more about it [here](https://www.cnbc.com/2024/03/06/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
