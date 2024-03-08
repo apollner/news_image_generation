@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles outbreak raises concerns about drop in vaccinations**
+**Bear attack in Butler Township, Butler County**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/measles-outbreak-raises-concerns-about-drop-in-vaccinations).
+You can read more about it [here](https://www.wtae.com/article/bear-attack-butler-county/60105590).
 
 ## Requirements
 - Python 3.8
