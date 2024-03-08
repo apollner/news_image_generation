@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC approves weakened climate disclosure rule after pushback**
+**Former Google AI engineer charged with stealing trade secrets for China firm**
 
-You can read more about it [here](https://apnews.com/article/climate-change-sec-disclosure-companies-emissions-risks-b5bb510f9167ef396ee2fbc5a02ba1cf).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/03/06/google-ai-doj-arrest/).
 
 ## Requirements
 - Python 3.8
