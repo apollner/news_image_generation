@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Naomi Watts on Babe Paley’s ‘Feud’ Story Arc and If She and Capote Ever Rekindled**
+**Google engineer ran secret startup in China while stealing AI tech: DOJ**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/feud-capote-vs-the-swans-naomi-watts-babe-paley-death-capote-1235845097/).
+You can read more about it [here](https://www.businessinsider.com/google-engineer-ran-secret-startup-china-stealing-ai-tech-doj-2024-3).
 
 ## Requirements
 - Python 3.8
