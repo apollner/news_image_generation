@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ming-Na Wen Joins Sony’s New ‘Karate Kid’ Film (EXCLUSIVE)**
+**Israel Hamas war live updates: Three killed in Houthi attack on ship**
 
-You can read more about it [here](https://variety.com/2024/film/news/ming-na-wen-new-karate-kid-film-sony-1235931666/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/03/06/israel-hamas-war-gaza-live-updates/72863837007/).
 
 ## Requirements
 - Python 3.8
