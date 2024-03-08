@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks gain for a second day on easing inflation hopes, Nvidia leads Nasdaq higher: Live updates**
+**Broncos, S Justin Simmons to part ways after eight seasons**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/06/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.denverbroncos.com/news/broncos-s-justin-simmons-to-part-ways-after-eight-seasons).
 
 ## Requirements
 - Python 3.8
