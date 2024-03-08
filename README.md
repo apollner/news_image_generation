@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan pursued Discover deal before Capital One's $35bn offer**
+**Fulton DA Fani Willis calls Senate investigation into her a 'political quest'**
 
-You can read more about it [here](https://www.ft.com/content/ff0fe1aa-52da-4c8f-ba9a-60ef83618db5).
+You can read more about it [here](https://www.wsbtv.com/unavailable-location/).
 
 ## Requirements
 - Python 3.8
