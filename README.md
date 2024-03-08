@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Google Suddenly Adds Nest And Fitbit To Google One Subscription**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.forbes.com/sites/jaymcgregor/2024/03/06/google-suddenly-adds-nest-and-fitbit-to-google-one-subscription/).
 
 ## Requirements
 - Python 3.8
