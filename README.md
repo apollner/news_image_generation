@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama governor signs IVF protection bill into law, but experts say it will take more work to protect fertility services**
+**Spanish tennis player Rafael Nadal withdraws from BNP Paribas Open at Indian Wells a day before first round**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/us/alabama-ivf-fertility-protection/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/07/sport/rafael-nadal-indian-wells-withdrawal/index.html).
 
 ## Requirements
 - Python 3.8
