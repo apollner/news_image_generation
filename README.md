@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Katie Britt, the Republican giving State of the Union rebuttal?**
+**8 teens hurt in mass shooting at Philadelphia SEPTA bus stop, police searching for 3 gunmen**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68484784).
+You can read more about it [here](https://abcnews.go.com/US/7-hurt-mass-shooting-septa-bus-stop-philadelphia/story?id=107859180).
 
 ## Requirements
 - Python 3.8
