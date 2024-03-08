@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos releasing star safety Justin Simmons after 8 seasons**
+**Who is Katie Britt, the Republican giving State of the Union rebuttal?**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39674946/sources-broncos-releasing-all-pro-safety-justin-simmons).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68484784).
 
 ## Requirements
 - Python 3.8
