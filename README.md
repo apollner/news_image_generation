@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU looking into Apple’s decision to kill Epic Games’ developer account**
+**No Gaza cease-fire deal is likely by Ramadan, Hamas leader says**
 
-You can read more about it [here](https://techcrunch.com/2024/03/07/apple-epic-dev-account-dma/).
+You can read more about it [here](https://abcnews.go.com/International/gaza-cease-fire-agreement-ramadan-latest-negotiations-end/story?id=107877902).
 
 ## Requirements
 - Python 3.8
