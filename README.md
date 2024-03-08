@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian surprises with R3 and R3X electric SUVs**
+**EU looking into Apple’s decision to kill Epic Games’ developer account**
 
-You can read more about it [here](https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs).
+You can read more about it [here](https://techcrunch.com/2024/03/07/apple-epic-dev-account-dma/).
 
 ## Requirements
 - Python 3.8
