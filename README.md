@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama governor signs IVF protection bill into law, but experts say it will take more work to protect fertility services**
+**Naomi Watts on Babe Paley’s ‘Feud’ Story Arc and If She and Capote Ever Rekindled**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/us/alabama-ivf-fertility-protection/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/feud-capote-vs-the-swans-naomi-watts-babe-paley-death-capote-1235845097/).
 
 ## Requirements
 - Python 3.8
