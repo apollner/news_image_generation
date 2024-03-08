@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Hamas war live updates: Three killed in Houthi attack on ship**
+**Measles outbreak raises concerns about drop in vaccinations**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/03/06/israel-hamas-war-gaza-live-updates/72863837007/).
+You can read more about it [here](https://www.pbs.org/newshour/show/measles-outbreak-raises-concerns-about-drop-in-vaccinations).
 
 ## Requirements
 - Python 3.8
