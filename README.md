@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's next-generation rocket is a decade old and still flying dummy payloads**
+**The incredible reason why Kelce's ankles were taped for retirement speech**
 
-You can read more about it [here](https://arstechnica.com/space/2024/03/russias-next-generation-rocket-is-a-decade-old-and-still-flying-dummy-payloads/).
+You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/the-incredible-reason-why-kelces-ankles-were-taped-for-retirement-speech/569258/).
 
 ## Requirements
 - Python 3.8
