@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google engineer ran secret startup in China while stealing AI tech: DOJ**
+**North Korea’s Kim Jong Un orders heightened war preparations**
 
-You can read more about it [here](https://www.businessinsider.com/google-engineer-ran-secret-startup-china-stealing-ai-tech-doj-2024-3).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/7/north-koreas-kim-jong-un-orders-heightened-war-preparations).
 
 ## Requirements
 - Python 3.8
