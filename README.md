@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nanoplastics linked to heart attack, stroke and early death, study finds**
+**No Gaza cease-fire agreement likely before Ramadan as latest negotiations end**
 
-You can read more about it [here](https://www.cnn.com/2024/03/06/health/nanoplastics-heart-attack-study-wellness/index.html).
+You can read more about it [here](https://abcnews.go.com/International/gaza-cease-fire-agreement-ramadan-latest-negotiations-end/story?id=107877902).
 
 ## Requirements
 - Python 3.8
