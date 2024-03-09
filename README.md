@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Doubt' and 'The Hunt' review: Two plays about allegedly horrible men - The Washington Post**
+**‘Sister Wives’ star Garrison Brown ‘wonderful’ but depressed, having relationship issues before tragic death, roommate says**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/03/07/doubt-broadway-review-the-hunt/).
+You can read more about it [here](https://nypost.com/2024/03/07/entertainment/sister-wives-star-garrison-brown-wonderful-but-depressed-having-relationship-issues-before-tragic-death-roommate-says/).
 
 ## Requirements
 - Python 3.8
