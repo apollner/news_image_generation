@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US military lifts 3-month grounding of V-22 Osprey fleet after deadly crash**
+**Former UK PM Theresa May, brought down by Brexit, to quit as lawmaker**
 
-You can read more about it [here](https://www.cnn.com/2024/03/08/politics/v-22-osprey/index.html).
+You can read more about it [here](https://www.reuters.com/world/uk/former-british-pm-theresa-may-stand-down-next-election-2024-03-08/).
 
 ## Requirements
 - Python 3.8
