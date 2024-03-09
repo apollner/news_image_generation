@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL free agency: How the Cowboys, Chiefs and other teams with little salary-cap space can have success**
+**The Rivian R2 SUV racks up 68,000 reservations a day after reveal**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-free-agency-how-the-cowboys-chiefs-and-other-teams-with-little-salary-cap-space-can-have-success/).
+You can read more about it [here](https://techcrunch.com/2024/03/08/the-rivian-r2-suv-racks-up-68000-reservations-a-day-after-reveal/).
 
 ## Requirements
 - Python 3.8
