@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian delays $5B Georgia EV plant to accelerate R2 launch, resulting in $2.25B in savings**
+**‘Sister Wives’ star Garrison Brown ‘wonderful’ but depressed, having relationship issues before tragic death, roommate says**
 
-You can read more about it [here](http://electrek.co/2024/03/07/rivian-delays-georgia-ev-plant-accelerate-r2-launch/).
+You can read more about it [here](https://nypost.com/2024/03/07/entertainment/sister-wives-star-garrison-brown-wonderful-but-depressed-having-relationship-issues-before-tragic-death-roommate-says/).
 
 ## Requirements
 - Python 3.8
