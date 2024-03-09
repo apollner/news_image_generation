@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fortnite's new season is delayed due to tech issues**
+**Alabama Sen. Katie Britt says ‘the American dream has turned into a nightmare’ in GOP rebuttal to Biden’s State of the Union**
 
-You can read more about it [here](https://www.engadget.com/fortnites-new-season-is-delayed-due-to-tech-issues-161538098.html).
+You can read more about it [here](https://www.cnn.com/2024/03/07/politics/katie-britt-republican-response-sotu/index.html).
 
 ## Requirements
 - Python 3.8
