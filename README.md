@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US House to vote next week on TikTok crackdown bill**
+**Extreme Case of Man Who Had 217 COVID Vaccines Surprises Scientists**
 
-You can read more about it [here](https://www.reuters.com/technology/new-push-congress-ban-tiktok-or-force-chinese-divestiture-gains-steam-2024-03-07/).
+You can read more about it [here](https://www.sciencealert.com/extreme-case-of-man-who-had-217-covid-vaccines-surprises-scientists).
 
 ## Requirements
 - Python 3.8
