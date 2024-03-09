@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Rivian R2 SUV racks up 68,000 reservations a day after reveal**
+**Janelle Brown Shares Last Family Photo Taken Before Son Garrison Died**
 
-You can read more about it [here](https://techcrunch.com/2024/03/08/the-rivian-r2-suv-racks-up-68000-reservations-a-day-after-reveal/).
+You can read more about it [here](https://people.com/sister-wives-janelle-brown-shares-family-photo-taken-before-son-garrison-brown-death-8606379).
 
 ## Requirements
 - Python 3.8
