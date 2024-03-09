@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Biden to announce aid port on Gaza's coast**
+**As gangs attack a critical port, 'Haiti will go hungry soon'**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-03-07-24-5657eedc005040694a9ab935ce3e39e5).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/03/07/haiti-gangs-port/).
 
 ## Requirements
 - Python 3.8
