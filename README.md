@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Yorkers lukewarm on National Guard deployment to deter subway crime**
+**US port plan to step up aid delivery to Gaza criticised as ‘distraction’**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68508331).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/8/us-port-plan-to-step-up-aid-delivery-to-gaza-criticised-as-distraction).
 
 ## Requirements
 - Python 3.8
