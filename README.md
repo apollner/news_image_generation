@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow Jones Rises On Today's Jobs Report; Nvidia, Super Micro Surge**
+**Trump posts $91 million bond to appeal E. Jean Carroll defamation verdict**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-jobs-report-nvidia-stock-super-micro-stock/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-posts-bond-e-jean-carroll-case-91-million/).
 
 ## Requirements
 - Python 3.8
