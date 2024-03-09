@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No Gaza cease-fire deal is likely by Ramadan, Hamas leader says**
+**Biden to highlight rebounding economy during SOTU, renew tax proposals for large corporations**
 
-You can read more about it [here](https://abcnews.go.com/International/gaza-cease-fire-agreement-ramadan-latest-negotiations-end/story?id=107877902).
+You can read more about it [here](https://abcnews.go.com/Politics/biden-highlight-rebounding-economy-sotu-renew-tax-proposals/story?id=107878293).
 
 ## Requirements
 - Python 3.8
