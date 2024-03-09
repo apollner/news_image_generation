@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme Case of Man Who Had 217 COVID Vaccines Surprises Scientists**
+**'Sister Wives' star Christine Brown remembers Janelle's son Garrison after apparent suicide: 'A wonderful, caring brother'**
 
-You can read more about it [here](https://www.sciencealert.com/extreme-case-of-man-who-had-217-covid-vaccines-surprises-scientists).
+You can read more about it [here](https://pagesix.com/2024/03/07/entertainment/sister-wives-star-christine-brown-remembers-janelles-son-garrison-after-apparent-suicide/).
 
 ## Requirements
 - Python 3.8
