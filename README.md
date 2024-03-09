@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Janelle Brown Shares Last Family Photo Taken Before Son Garrison Died**
+**NASA Unveils Design for Message Heading to Jupiter's Moon Europa**
 
-You can read more about it [here](https://people.com/sister-wives-janelle-brown-shares-family-photo-taken-before-son-garrison-brown-death-8606379).
+You can read more about it [here](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa).
 
 ## Requirements
 - Python 3.8
