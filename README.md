@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos files to run for House again during State of the Union**
+**Fortnite's new season is delayed due to tech issues**
 
-You can read more about it [here](https://www.axios.com/2024/03/07/george-santos-state-of-the-union).
+You can read more about it [here](https://www.engadget.com/fortnites-new-season-is-delayed-due-to-tech-issues-161538098.html).
 
 ## Requirements
 - Python 3.8
