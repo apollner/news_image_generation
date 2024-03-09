@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump posts $91 million bond to appeal E. Jean Carroll defamation verdict**
+**George Santos files to run for House again during State of the Union**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-posts-bond-e-jean-carroll-case-91-million/).
+You can read more about it [here](https://www.axios.com/2024/03/07/george-santos-state-of-the-union).
 
 ## Requirements
 - Python 3.8
