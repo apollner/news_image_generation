@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dragon Ball: Japan manga creator Akira Toriyama dies**
+**New Yorkers lukewarm on National Guard deployment to deter subway crime**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-68444060).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68508331).
 
 ## Requirements
 - Python 3.8
