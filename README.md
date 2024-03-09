@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cinnamon products sold at Dollar Tree, Family Dollar have elevated lead levels, FDA says**
+**Israel-Hamas war: Biden to announce aid port on Gaza's coast**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/cinnamon-products-sold-dollar-tree-family-dollar-have-elevated-lead-levels-fda-says).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-03-07-24-5657eedc005040694a9ab935ce3e39e5).
 
 ## Requirements
 - Python 3.8
