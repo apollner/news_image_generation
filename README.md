@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Unveils Design for Message Heading to Jupiter's Moon Europa**
+**NFL free agency: Best players for bargain-hunting teams at every position group**
 
-You can read more about it [here](https://www.jpl.nasa.gov/news/nasa-unveils-design-for-message-heading-to-jupiters-moon-europa).
+You can read more about it [here](https://sports.yahoo.com/nfl-free-agency-best-players-for-bargain-hunting-teams-at-every-position-group-041226176.html).
 
 ## Requirements
 - Python 3.8
