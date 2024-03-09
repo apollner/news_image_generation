@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme Case of Man Who Had 217 COVID Vaccines Surprises Scientists**
+**'Doubt' and 'The Hunt' review: Two plays about allegedly horrible men - The Washington Post**
 
-You can read more about it [here](https://www.sciencealert.com/extreme-case-of-man-who-had-217-covid-vaccines-surprises-scientists).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/03/07/doubt-broadway-review-the-hunt/).
 
 ## Requirements
 - Python 3.8
