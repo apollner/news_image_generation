@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's fiery State of the Union address issues contrast with Trump**
+**Messi scores goal, but Inter Miami trails Nashville 2-1 in Champions Cup: Live updates**
 
-You can read more about it [here](https://apnews.com/article/state-of-union-biden-gaza-ukraine-israel-1a42ff9d4ef3e0f2753e43ac8d39fc18).
+You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2024/03/07/inter-miami-nashville-concacaf-champions-cup-score-updates/72886715007/).
 
 ## Requirements
 - Python 3.8
