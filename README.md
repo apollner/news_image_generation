@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN Poll: More than 6 in 10 SOTU viewers had a positive reaction to Biden’s speech**
+**Biden's fiery State of the Union address issues contrast with Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/03/08/politics/cnn-poll-biden-sotu-speech-reaction/index.html).
+You can read more about it [here](https://apnews.com/article/state-of-union-biden-gaza-ukraine-israel-1a42ff9d4ef3e0f2753e43ac8d39fc18).
 
 ## Requirements
 - Python 3.8
