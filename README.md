@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rupert Murdoch's new Russian fiancée ties him to a web of mad money**
+**Dragon Ball: Japan manga creator Akira Toriyama dies**
 
-You can read more about it [here](https://www.businessinsider.com/rupert-murdoch-new-russian-fiancee-web-of-money-2024-3).
+You can read more about it [here](https://www.bbc.com/news/world-asia-68444060).
 
 ## Requirements
 - Python 3.8
