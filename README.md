@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US port plan to step up aid delivery to Gaza criticised as ‘distraction’**
+**US military lifts 3-month grounding of V-22 Osprey fleet after deadly crash**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/8/us-port-plan-to-step-up-aid-delivery-to-gaza-criticised-as-distraction).
+You can read more about it [here](https://www.cnn.com/2024/03/08/politics/v-22-osprey/index.html).
 
 ## Requirements
 - Python 3.8
