@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katie Britt, youngest ever GOP woman elected to the US Senate, to deliver party’s response to Biden’s State of the Union**
+**POST-COMBINE NFL MOCK DRAFT: Malik Nabers off the board BEFORE Marvin Harrison Jr. | CBS Sports**
 
-You can read more about it [here](https://www.cnn.com/2024/03/07/politics/katie-britt-republican-response-sotu/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=EfFVPFZflss).
 
 ## Requirements
 - Python 3.8
