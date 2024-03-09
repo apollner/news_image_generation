@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why the 15-inch M3 MacBook Air is the best MacBook Air**
+**Stock Market Today: Dow Jones Rises On Today's Jobs Report; Nvidia, Super Micro Surge**
 
-You can read more about it [here](https://www.engadget.com/why-the-15-inch-m3-macbook-air-is-the-best-macbook-air-150020238.html).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-jobs-report-nvidia-stock-super-micro-stock/).
 
 ## Requirements
 - Python 3.8
