@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Messi scores goal, but Inter Miami trails Nashville 2-1 in Champions Cup: Live updates**
+**Rupert Murdoch's new Russian fiancée ties him to a web of mad money**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2024/03/07/inter-miami-nashville-concacaf-champions-cup-score-updates/72886715007/).
+You can read more about it [here](https://www.businessinsider.com/rupert-murdoch-new-russian-fiancee-web-of-money-2024-3).
 
 ## Requirements
 - Python 3.8
