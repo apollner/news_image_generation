@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists Studied Man Who Claimed To Have Had 217 COVID Shots. Here’s What They Found.**
+**Cinnamon products sold at Dollar Tree, Family Dollar have elevated lead levels, FDA says**
 
-You can read more about it [here](https://www.huffpost.com/entry/hypervaccinated-man-studied-germany-after-hundreds-covid-shots_n_65ea0676e4b0c77c7415ac4e).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/cinnamon-products-sold-dollar-tree-family-dollar-have-elevated-lead-levels-fda-says).
 
 ## Requirements
 - Python 3.8
