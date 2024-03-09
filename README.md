@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Sister Wives' star Christine Brown remembers Janelle's son Garrison after apparent suicide: 'A wonderful, caring brother'**
+**CNN Poll: More than 6 in 10 SOTU viewers had a positive reaction to Biden’s speech**
 
-You can read more about it [here](https://pagesix.com/2024/03/07/entertainment/sister-wives-star-christine-brown-remembers-janelles-son-garrison-after-apparent-suicide/).
+You can read more about it [here](https://www.cnn.com/2024/03/08/politics/cnn-poll-biden-sotu-speech-reaction/index.html).
 
 ## Requirements
 - Python 3.8
