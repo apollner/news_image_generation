@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to highlight rebounding economy during SOTU, renew tax proposals for large corporations**
+**Scientists Studied Man Who Claimed To Have Had 217 COVID Shots. Here’s What They Found.**
 
-You can read more about it [here](https://abcnews.go.com/Politics/biden-highlight-rebounding-economy-sotu-renew-tax-proposals/story?id=107878293).
+You can read more about it [here](https://www.huffpost.com/entry/hypervaccinated-man-studied-germany-after-hundreds-covid-shots_n_65ea0676e4b0c77c7415ac4e).
 
 ## Requirements
 - Python 3.8
