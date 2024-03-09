@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks pull back after February jobs report**
+**2024 NFL free agency: How the Cowboys, Chiefs and other teams with little salary-cap space can have success**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-stocks-pull-back-after-february-jobs-report-134312105.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-free-agency-how-the-cowboys-chiefs-and-other-teams-with-little-salary-cap-space-can-have-success/).
 
 ## Requirements
 - Python 3.8
