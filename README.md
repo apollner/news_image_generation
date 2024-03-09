@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Yorkers lukewarm on National Guard deployment to deter subway crime**
+**Biden's fiery State of the Union address issues contrast with Trump**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68508331).
+You can read more about it [here](https://apnews.com/article/state-of-union-biden-gaza-ukraine-israel-1a42ff9d4ef3e0f2753e43ac8d39fc18).
 
 ## Requirements
 - Python 3.8
