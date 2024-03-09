@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's fiery State of the Union address issues contrast with Trump**
+**Nuggets hold off Celtics in potential NBA Finals preview**
 
-You can read more about it [here](https://apnews.com/article/state-of-union-biden-gaza-ukraine-israel-1a42ff9d4ef3e0f2753e43ac8d39fc18).
+You can read more about it [here](https://sports.yahoo.com/nuggets-hold-off-celtics-in-potential-nba-finals-preview-053031922.html).
 
 ## Requirements
 - Python 3.8
