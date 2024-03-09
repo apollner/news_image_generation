@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sister Wives’ star Garrison Brown ‘wonderful’ but depressed, having relationship issues before tragic death, roommate says**
+**Tire falls off United Airlines Boeing 777 plane departing San Francisco International Airport to Osaka, crushing cars**
 
-You can read more about it [here](https://nypost.com/2024/03/07/entertainment/sister-wives-star-garrison-brown-wonderful-but-depressed-having-relationship-issues-before-tragic-death-roommate-says/).
+You can read more about it [here](https://abc7news.com/flight-emergency-sfo-tire-falls-from-united-airlines-to-osaka-35/14500843/).
 
 ## Requirements
 - Python 3.8
