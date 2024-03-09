@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Furious Congress plows forward with TikTok bill after user revolt**
+**'Sister Wives' star Christine Brown remembers Janelle's son Garrison after apparent suicide: 'A wonderful, caring brother'**
 
-You can read more about it [here](https://www.axios.com/2024/03/07/tiktok-ban-congress-phone-calls).
+You can read more about it [here](https://pagesix.com/2024/03/07/entertainment/sister-wives-star-christine-brown-remembers-janelles-son-garrison-after-apparent-suicide/).
 
 ## Requirements
 - Python 3.8
