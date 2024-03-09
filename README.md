@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sister Wives’ star Garrison Brown ‘wonderful’ but depressed, having relationship issues before tragic death, roommate says**
+**New Yorkers lukewarm on National Guard deployment to deter subway crime**
 
-You can read more about it [here](https://nypost.com/2024/03/07/entertainment/sister-wives-star-garrison-brown-wonderful-but-depressed-having-relationship-issues-before-tragic-death-roommate-says/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68508331).
 
 ## Requirements
 - Python 3.8
