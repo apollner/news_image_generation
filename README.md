@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**POST-COMBINE NFL MOCK DRAFT: Malik Nabers off the board BEFORE Marvin Harrison Jr. | CBS Sports**
+**Rivian delays $5B Georgia EV plant to accelerate R2 launch, resulting in $2.25B in savings**
 
-You can read more about it [here](https://www.youtube.com/watch?v=EfFVPFZflss).
+You can read more about it [here](http://electrek.co/2024/03/07/rivian-delays-georgia-ev-plant-accelerate-r2-launch/).
 
 ## Requirements
 - Python 3.8
