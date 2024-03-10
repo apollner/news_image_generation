@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump allies defend Katie Britt's widely mocked State of the Union response**
+**Senate passes key government funding bills hours ahead of shutdown deadline**
 
-You can read more about it [here](https://www.axios.com/2024/03/08/katie-britt-sotu-response-trump).
+You can read more about it [here](https://www.cnn.com/2024/03/08/politics/senate-vote-funding-bills-shutdown-deadline/index.html).
 
 ## Requirements
 - Python 3.8
