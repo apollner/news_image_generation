@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Monumental' experiment suggests how life on Earth may have started**
+**Biden and Trump will hold dueling events in Georgia**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/03/09/origin-of-life-rna-world/).
+You can read more about it [here](https://apnews.com/article/georgia-election-biden-trump-rallies-voters-5ae87db6c20f95eae55d7f3c603144e8).
 
 ## Requirements
 - Python 3.8
