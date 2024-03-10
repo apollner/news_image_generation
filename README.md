@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anecdote from Sen. Katie Britt’s criticism of Biden’s border policies appears to be from before he was president**
+**'Monumental' experiment suggests how life on Earth may have started**
 
-You can read more about it [here](https://www.cnn.com/2024/03/09/politics/katie-britt-biden-border-policies-anecdote/index.html).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/03/09/origin-of-life-rna-world/).
 
 ## Requirements
 - Python 3.8
