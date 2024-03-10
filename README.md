@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Base Model M3 MacBook Air Has Faster SSD Speeds After Controversy With Previous Model**
+**U.S. forces, allies shoot down more than 2 dozen Houthi drones in Red Sea**
 
-You can read more about it [here](https://www.macrumors.com/2024/03/09/base-model-m3-macbook-air-faster-ssd/).
+You can read more about it [here](https://www.cbsnews.com/news/u-s-forces-allies-shoot-down-several-dozen-houthi-drones-red-sea/).
 
 ## Requirements
 - Python 3.8
