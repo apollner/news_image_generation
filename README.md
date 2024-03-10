@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meghan Markle calls out 'cruel' bullying she experienced while pregnant with Archie and Lilibet**
+**Biden said he would sign the bipartisan bill banning China-based app TikTok**
 
-You can read more about it [here](https://nypost.com/2024/03/08/entertainment/meghan-markle-calls-out-cruel-bullying-she-experienced-while-pregnant-with-archie-and-lilibet/).
+You can read more about it [here](https://www.foxbusiness.com/politics/biden-sign-bipartisan-bill-banning-china-based-app-tiktok).
 
 ## Requirements
 - Python 3.8
