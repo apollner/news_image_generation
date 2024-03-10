@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maritime corridor for aid to Gaza will take two months to build and 1,000 U.S. forces, Pentagon says**
+**Trump allies defend Katie Britt's widely mocked State of the Union response**
 
-You can read more about it [here](https://www.cbsnews.com/news/maritime-corridor-construction-gaza-aid-us-military/).
+You can read more about it [here](https://www.axios.com/2024/03/08/katie-britt-sotu-response-trump).
 
 ## Requirements
 - Python 3.8
