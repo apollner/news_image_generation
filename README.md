@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Joshua vs Francis Ngannou winner: Joshua knocks out Ngannou**
+**The other Oppenheimer story that won't win Oscars**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/boxing/2024/03/08/anthony-joshua-vs-francis-ngannou-heavyweight-fight-how-to-watch/72893737007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515779).
 
 ## Requirements
 - Python 3.8
