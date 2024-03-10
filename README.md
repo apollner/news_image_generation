@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL free agency: Best players for bargain-hunting teams at every position group**
+**Rivian’s new ‘treehouse’ rooftop tent comes with a movie projector**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-free-agency-best-players-for-bargain-hunting-teams-at-every-position-group-041226176.html).
+You can read more about it [here](https://techcrunch.com/2024/03/08/rivians-new-treehouse-rooftop-tent-comes-with-a-movie-projector/).
 
 ## Requirements
 - Python 3.8
