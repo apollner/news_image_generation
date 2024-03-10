@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump backs TikTok as Congress considers bill to ban Chinese-owned social media app**
+**Caitlin Clark sets 3-point record as Iowa wins in Big Ten tourney**
 
-You can read more about it [here](https://nypost.com/2024/03/08/us-news/trump-backs-tiktok-as-congress-mulls-bill-to-ban-chinese-owned-app/).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39688843/caitlin-clark-sets-3-point-record-iowa-wins-big-ten-tourney).
 
 ## Requirements
 - Python 3.8
