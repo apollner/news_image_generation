@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the US military is scrambling to build a floating dock for urgently needed aid to Gaza**
+**The other Oppenheimer story that won't win Oscars**
 
-You can read more about it [here](https://apnews.com/article/gaza-peir-plan-aid-world-central-kitchen-97e53ccaa9b54b436b2e6ede7dd9aa2d).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515779).
 
 ## Requirements
 - Python 3.8
