@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower Than MacBook Pro With Same Chip Due To Lack Of A Fan**
+**US jobless rate hits highest in two years**
 
-You can read more about it [here](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/).
+You can read more about it [here](https://www.bbc.com/news/business-68514528).
 
 ## Requirements
 - Python 3.8
