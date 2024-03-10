@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-loss drug Wegovy can be marketed for heart benefits after FDA label update**
+**Dozens of Indian nationals duped into joining Russia's war against Ukraine, government says**
 
-You can read more about it [here](https://www.cnn.com/2024/03/08/health/wegovy-heart-benefits/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/russia-ukraine-war-india-duped-army/).
 
 ## Requirements
 - Python 3.8
