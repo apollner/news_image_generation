@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Verstappen seals assured victory in Saudi Arabian Grand Prix as Bearman scores points on debut**
+**Anecdote from Sen. Katie Britt’s criticism of Biden’s border policies appears to be from before he was president**
 
-You can read more about it [here](https://www.formula1.com/en/latest/article.verstappen-seals-assured-victory-in-saudi-arabian-grand-prix-as-bearman.688391Oy9JabLrEGIXLTkr.html).
+You can read more about it [here](https://www.cnn.com/2024/03/09/politics/katie-britt-biden-border-policies-anecdote/index.html).
 
 ## Requirements
 - Python 3.8
