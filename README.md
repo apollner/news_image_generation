@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meghan Markle calls out 'cruel' bullying she experienced while pregnant with Archie and Lilibet**
+**Rivian’s new ‘treehouse’ rooftop tent comes with a movie projector**
 
-You can read more about it [here](https://nypost.com/2024/03/08/entertainment/meghan-markle-calls-out-cruel-bullying-she-experienced-while-pregnant-with-archie-and-lilibet/).
+You can read more about it [here](https://techcrunch.com/2024/03/08/rivians-new-treehouse-rooftop-tent-comes-with-a-movie-projector/).
 
 ## Requirements
 - Python 3.8
