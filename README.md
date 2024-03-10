@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump praises ‘fantastic’ Viktor Orbán while hosting Hungarian autocrat at Mar-a-Lago for meeting and concert**
+**US senators make new push to make Daylight Savings permanent**
 
-You can read more about it [here](https://www.cnn.com/2024/03/08/politics/trump-orban-mar-a-lago/index.html).
+You can read more about it [here](https://www.foxnews.com/politics/us-senators-make-new-push-make-daylight-savings-permanent).
 
 ## Requirements
 - Python 3.8
