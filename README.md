@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did State of the Union change how voters see Biden?**
+**Meghan Markle calls out 'cruel' bullying she experienced while pregnant with Archie and Lilibet**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515082).
+You can read more about it [here](https://nypost.com/2024/03/08/entertainment/meghan-markle-calls-out-cruel-bullying-she-experienced-while-pregnant-with-archie-and-lilibet/).
 
 ## Requirements
 - Python 3.8
