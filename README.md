@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The other Oppenheimer story that won't win Oscars**
+**Gangs attack Haiti's Presidential Palace in Port-au-Prince: Source**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515779).
+You can read more about it [here](https://abcnews.go.com/International/gangs-attack-haitis-presidential-palace-port-au-prince/story?id=107945093).
 
 ## Requirements
 - Python 3.8
