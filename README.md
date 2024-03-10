@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meghan: 'Social media bullying is not catty, it's cruel'**
+**Ireland rejects controversial constitutional amendments changing language on family, women**
 
-You can read more about it [here](https://www.bbc.com/news/av/entertainment-arts-68518927).
+You can read more about it [here](https://nypost.com/2024/03/09/world-news/irish-constitution-still-says-women-belong-in-the-kitchen/).
 
 ## Requirements
 - Python 3.8
