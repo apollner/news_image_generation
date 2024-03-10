@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Wilson Leaves Pittsburgh Steelers Without Deal**
+**Trump praises ‘fantastic’ Viktor Orbán while hosting Hungarian autocrat at Mar-a-Lago for meeting and concert**
 
-You can read more about it [here](https://www.si.com/nfl/steelers/news/russell-wilson-leaves-pittsburgh-steelers-without-deal).
+You can read more about it [here](https://www.cnn.com/2024/03/08/politics/trump-orban-mar-a-lago/index.html).
 
 ## Requirements
 - Python 3.8
