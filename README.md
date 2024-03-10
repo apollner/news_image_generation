@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL free agency: Sorting all 32 teams by chances of 'winning' offseason via draft, signings, trades**
+**More than 32 million people watched Biden's State of the Union address**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-free-agency-sorting-all-32-teams-by-chances-of-winning-offseason-via-draft-signings-trades/).
+You can read more about it [here](https://www.washingtonpost.com/style/media/2024/03/08/biden-sotu-ratings-2024/).
 
 ## Requirements
 - Python 3.8
