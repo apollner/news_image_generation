@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gangs attack Haiti's Presidential Palace in Port-au-Prince: Source**
+**Details emerge on victims in Canada mass killing**
 
-You can read more about it [here](https://abcnews.go.com/International/gangs-attack-haitis-presidential-palace-port-au-prince/story?id=107945093).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68516821).
 
 ## Requirements
 - Python 3.8
