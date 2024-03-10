@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 32 million people watched Biden's State of the Union address**
+**Anthony Joshua vs Francis Ngannou winner: Joshua knocks out Ngannou**
 
-You can read more about it [here](https://www.washingtonpost.com/style/media/2024/03/08/biden-sotu-ratings-2024/).
+You can read more about it [here](https://www.usatoday.com/story/sports/boxing/2024/03/08/anthony-joshua-vs-francis-ngannou-heavyweight-fight-how-to-watch/72893737007/).
 
 ## Requirements
 - Python 3.8
