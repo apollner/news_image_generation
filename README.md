@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Details emerge on victims in Canada mass killing**
+**Trump backs TikTok as Congress considers bill to ban Chinese-owned social media app**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68516821).
+You can read more about it [here](https://nypost.com/2024/03/08/us-news/trump-backs-tiktok-as-congress-mulls-bill-to-ban-chinese-owned-app/).
 
 ## Requirements
 - Python 3.8
