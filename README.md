@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US jobless rate hits highest in two years**
+**Russell Wilson Leaves Pittsburgh Steelers Without Deal**
 
-You can read more about it [here](https://www.bbc.com/news/business-68514528).
+You can read more about it [here](https://www.si.com/nfl/steelers/news/russell-wilson-leaves-pittsburgh-steelers-without-deal).
 
 ## Requirements
 - Python 3.8
