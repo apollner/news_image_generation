@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian’s new ‘treehouse’ rooftop tent comes with a movie projector**
+**Did State of the Union change how voters see Biden?**
 
-You can read more about it [here](https://techcrunch.com/2024/03/08/rivians-new-treehouse-rooftop-tent-comes-with-a-movie-projector/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515082).
 
 ## Requirements
 - Python 3.8
