@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump posts $91.6 million bond for E. Jean Carroll's defamation verdict**
+**Maritime corridor for aid to Gaza will take two months to build and 1,000 U.S. forces, Pentagon says**
 
-You can read more about it [here](https://www.reuters.com/legal/donald-trump-appeals-e-jean-carrolls-833-million-defamation-verdict-2024-03-08/).
+You can read more about it [here](https://www.cbsnews.com/news/maritime-corridor-construction-gaza-aid-us-military/).
 
 ## Requirements
 - Python 3.8
