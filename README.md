@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Trump will hold dueling events in Georgia**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/georgia-election-biden-trump-rallies-voters-5ae87db6c20f95eae55d7f3c603144e8).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
