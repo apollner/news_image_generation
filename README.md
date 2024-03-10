@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ireland rejects controversial constitutional amendments changing language on family, women**
+**Anecdote from Sen. Katie Britt’s criticism of Biden’s border policies appears to be from before he was president**
 
-You can read more about it [here](https://nypost.com/2024/03/09/world-news/irish-constitution-still-says-women-belong-in-the-kitchen/).
+You can read more about it [here](https://www.cnn.com/2024/03/09/politics/katie-britt-biden-border-policies-anecdote/index.html).
 
 ## Requirements
 - Python 3.8
