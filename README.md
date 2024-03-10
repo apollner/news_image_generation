@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate passes key government funding bills hours ahead of shutdown deadline**
+**2024 NFL free agency: Sorting all 32 teams by chances of 'winning' offseason via draft, signings, trades**
 
-You can read more about it [here](https://www.cnn.com/2024/03/08/politics/senate-vote-funding-bills-shutdown-deadline/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-free-agency-sorting-all-32-teams-by-chances-of-winning-offseason-via-draft-signings-trades/).
 
 ## Requirements
 - Python 3.8
