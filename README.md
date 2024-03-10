@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump backs TikTok as Congress considers bill to ban Chinese-owned social media app**
+**Horoscope for Saturday, March 9, 2024**
 
-You can read more about it [here](https://nypost.com/2024/03/08/us-news/trump-backs-tiktok-as-congress-mulls-bill-to-ban-chinese-owned-app/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/03/09/horoscopes-today-saturday-march-9-2024).
 
 ## Requirements
 - Python 3.8
