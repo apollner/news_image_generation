@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark sets 3-point record as Iowa wins in Big Ten tourney**
+**Irish voters reject constitutional amendment about women's role in home**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39688843/caitlin-clark-sets-3-point-record-iowa-wins-big-ten-tourney).
+You can read more about it [here](https://apnews.com/article/ireland-women-constitution-referendum-8eead7fd4ee13e76d77e8322bf348d0d).
 
 ## Requirements
 - Python 3.8
