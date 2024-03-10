@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. forces, allies shoot down more than 2 dozen Houthi drones in Red Sea**
+**Verstappen seals assured victory in Saudi Arabian Grand Prix as Bearman scores points on debut**
 
-You can read more about it [here](https://www.cbsnews.com/news/u-s-forces-allies-shoot-down-several-dozen-houthi-drones-red-sea/).
+You can read more about it [here](https://www.formula1.com/en/latest/article.verstappen-seals-assured-victory-in-saudi-arabian-grand-prix-as-bearman.688391Oy9JabLrEGIXLTkr.html).
 
 ## Requirements
 - Python 3.8
