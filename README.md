@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of Indian nationals duped into joining Russia's war against Ukraine, government says**
+**Donald Trump posts $91.6 million bond for E. Jean Carroll's defamation verdict**
 
-You can read more about it [here](https://www.cbsnews.com/news/russia-ukraine-war-india-duped-army/).
+You can read more about it [here](https://www.reuters.com/legal/donald-trump-appeals-e-jean-carrolls-833-million-defamation-verdict-2024-03-08/).
 
 ## Requirements
 - Python 3.8
