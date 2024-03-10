@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did State of the Union change how voters see Biden?**
+**Weight-loss drug Wegovy can be marketed for heart benefits after FDA label update**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515082).
+You can read more about it [here](https://www.cnn.com/2024/03/08/health/wegovy-heart-benefits/index.html).
 
 ## Requirements
 - Python 3.8
