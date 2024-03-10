@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, March 9, 2024**
+**M3 MacBook Air Peak CPU Temperature Can Reach 114 Degrees Celcius, 33% Slower Than MacBook Pro With Same Chip Due To Lack Of A Fan**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/03/09/horoscopes-today-saturday-march-9-2024).
+You can read more about it [here](https://wccftech.com/m3-macbook-air-severely-throttles-under-load/).
 
 ## Requirements
 - Python 3.8
