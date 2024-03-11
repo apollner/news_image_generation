@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US military ship heading to Gaza to build port**
+**Nigeria school abductions: More pupils snatched as army hunts for missing**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68526503).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/10/nigeria-school-abductions-more-pupils-snatched-as-army-hunts-for-missing).
 
 ## Requirements
 - Python 3.8
