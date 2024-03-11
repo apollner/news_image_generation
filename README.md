@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scoop: Trump's team hires lawyer to "watch the money" at RNC**
+**Scarlett Johansson plays Sen. Katie Britt in a satire of her SOTU rebuttal on ‘SNL’**
 
-You can read more about it [here](https://www.axios.com/2024/03/10/trump-republicans-rnc-money).
+You can read more about it [here](https://www.cnn.com/2024/03/10/entertainment/scarlett-johansson-katie-britt-saturday-night-live/index.html).
 
 ## Requirements
 - Python 3.8
