@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunmen kidnap 15 children while they slept in Nigeria school abduction**
+**South Carolina women's basketball remains unbeaten after miracle buzzer beater**
 
-You can read more about it [here](https://nypost.com/2024/03/09/world-news/gunmen-kidnap-15-children-while-they-slept-in-nigeria-school-abduction/).
+You can read more about it [here](https://www.ncaa.com/news/basketball-women/article/2024-03-09/south-carolina-womens-basketball-remains-unbeaten-after-miracle-buzzer-beater).
 
 ## Requirements
 - Python 3.8
