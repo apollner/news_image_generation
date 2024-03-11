@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Last-minute NFL free agency buzz: What we're hearing on how signings, trades and cuts could shake out**
+**Live coverage: SpaceX to launch Starlink mission, prepares to undock a Crew Dragon from ISS Monday – Spaceflight Now**
 
-You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/39691968/2024-nfl-free-agency-latest-buzz-news-rumors-signings-contracts-trades).
+You can read more about it [here](https://spaceflightnow.com/2024/03/10/live-coverage-spacex-to-launch-falcon-9-rocket-with-starlink-satellites-from-cape-canaveral-2/).
 
 ## Requirements
 - Python 3.8
