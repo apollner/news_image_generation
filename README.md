@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scarlett Johansson plays Sen. Katie Britt in a satire of her SOTU rebuttal on ‘SNL’**
+**Chris Jones, Chiefs reach record-setting five-year deal worth nearly $160M with $95M guaranteed, per report**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/entertainment/scarlett-johansson-katie-britt-saturday-night-live/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chris-jones-chiefs-reach-record-setting-five-year-deal-worth-nearly-160m-with-95m-guaranteed-per-report/).
 
 ## Requirements
 - Python 3.8
