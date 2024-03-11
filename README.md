@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Base M3 MacBook Air offers significantly faster SSD speeds than before**
+**Colorado Bureau of Investigation finds DNA scientist manipulated data in hundreds of cases over decades**
 
-You can read more about it [here](https://9to5mac.com/2024/03/09/macbook-air-m3-storage-speeds/).
+You can read more about it [here](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html).
 
 ## Requirements
 - Python 3.8
