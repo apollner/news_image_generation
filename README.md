@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State of the Union: Biden somewhat exceeded expectations, but approval ratings unchanged**
+**Pope Francis says Ukraine should have "courage of the white flag" against Russia**
 
-You can read more about it [here](https://www.ipsos.com/en-us/state-union-biden-somewhat-exceeded-expectations-approval-ratings-unchanged).
+You can read more about it [here](https://www.cbsnews.com/news/pope-francis-ukraine-courage-of-the-white-flag/).
 
 ## Requirements
 - Python 3.8
