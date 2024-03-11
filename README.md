@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit's Planned IPO to Seek Up to $748 Million**
+**Margot Robbie Reveals Post-Oscars Plans: “I Am Going to Switch My Phone Off”**
 
-You can read more about it [here](https://finance.yahoo.com/news/reddit-planned-ipo-seek-748-191215835.html).
+You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/margot-robbie-oscars-plans-after-awards-season-whats-next-1235847791/).
 
 ## Requirements
 - Python 3.8
