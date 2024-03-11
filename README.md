@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's our first look at Motorola's next flagship Android phone**
+**College basketball takeaways: Classic UNC-Duke rivalry game turns into ugly scene as taunts, drinks lobbed**
 
-You can read more about it [here](https://www.androidcentral.com/phones/motorola-edge-50-pro-design-leak).
+You can read more about it [here](https://sports.yahoo.com/college-basketball-takeaways-classic-unc-duke-rivalry-game-turns-into-ugly-scene-as-taunts-drinks-lobbed-030427301.html).
 
 ## Requirements
 - Python 3.8
