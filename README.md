@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Luca' writer accuses Alexander Payne's 'The Holdovers' of plagiarism**
+**South Carolina women's basketball remains unbeaten after miracle buzzer beater**
 
-You can read more about it [here](https://ew.com/the-holdovers-accused-of-plagiarism-by-luca-writer-8606869).
+You can read more about it [here](https://www.ncaa.com/news/basketball-women/article/2024-03-09/south-carolina-womens-basketball-remains-unbeaten-after-miracle-buzzer-beater).
 
 ## Requirements
 - Python 3.8
