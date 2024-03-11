@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis says Ukraine should have "courage of the white flag" against Russia**
+**Scoop: Trump's team hires lawyer to "watch the money" at RNC**
 
-You can read more about it [here](https://www.cbsnews.com/news/pope-francis-ukraine-courage-of-the-white-flag/).
+You can read more about it [here](https://www.axios.com/2024/03/10/trump-republicans-rnc-money).
 
 ## Requirements
 - Python 3.8
