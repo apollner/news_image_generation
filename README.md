@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, March 10, 2024**
+**US military ship heading to Gaza to build port**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/03/10/horoscopes-today/sunday-march-10-2024).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68526503).
 
 ## Requirements
 - Python 3.8
