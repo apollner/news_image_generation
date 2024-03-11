@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscars 2024: How to watch and who is nominated**
+**Oscar-nominated film 'The Holdovers’ accused of plagiarism by screenwriter in bombshell allegations day before event: 'Genuinely overwhelming'**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68401220).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
