@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Jones, Chiefs reach record-setting five-year deal worth nearly $160M with $95M guaranteed, per report**
+**State of the Union: Biden somewhat exceeded expectations, but approval ratings unchanged**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chris-jones-chiefs-reach-record-setting-five-year-deal-worth-nearly-160m-with-95m-guaranteed-per-report/).
+You can read more about it [here](https://www.ipsos.com/en-us/state-union-biden-somewhat-exceeded-expectations-approval-ratings-unchanged).
 
 ## Requirements
 - Python 3.8
