@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis says Ukraine should have "courage of the white flag" against Russia**
+**Ariana Grande Asks Fans to Stop Sending “Hateful Messages” Following Album Release**
 
-You can read more about it [here](https://www.cbsnews.com/news/pope-francis-ukraine-courage-of-the-white-flag/).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/ariana-grande-stop-sending-hateful-messages-1235847674/).
 
 ## Requirements
 - Python 3.8
