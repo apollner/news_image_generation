@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College basketball takeaways: Classic UNC-Duke rivalry game turns into ugly scene as taunts, drinks lobbed**
+**South Carolina women's basketball remains unbeaten after miracle buzzer beater**
 
-You can read more about it [here](https://sports.yahoo.com/college-basketball-takeaways-classic-unc-duke-rivalry-game-turns-into-ugly-scene-as-taunts-drinks-lobbed-030427301.html).
+You can read more about it [here](https://www.ncaa.com/news/basketball-women/article/2024-03-09/south-carolina-womens-basketball-remains-unbeaten-after-miracle-buzzer-beater).
 
 ## Requirements
 - Python 3.8
