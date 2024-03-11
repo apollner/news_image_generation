@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US military ship heading to Gaza to build port**
+**Here's our first look at Motorola's next flagship Android phone**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68526503).
+You can read more about it [here](https://www.androidcentral.com/phones/motorola-edge-50-pro-design-leak).
 
 ## Requirements
 - Python 3.8
