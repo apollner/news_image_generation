@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado Bureau of Investigation finds DNA scientist manipulated data in hundreds of cases over decades**
+**India's intervention made Putin abandon use of nuclear weapon in Ukraine: Report**
 
-You can read more about it [here](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html).
+You can read more about it [here](https://www.wionews.com/world/putin-abandoned-use-of-nuclear-weapon-in-ukraine-after-intervention-from-india-china-report-698455).
 
 ## Requirements
 - Python 3.8
