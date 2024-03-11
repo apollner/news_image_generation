@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande Asks Fans to Stop Sending “Hateful Messages” Following Album Release**
+**Officials identify 2 National Guard soldiers, Border Patrol agent killed in helicopter crash near southern border**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/ariana-grande-stop-sending-hateful-messages-1235847674/).
+You can read more about it [here](https://abcnews.go.com/US/texas-rio-grande-city-national-guard-helicopter-crash-victims-identified/story?id=107974387).
 
 ## Requirements
 - Python 3.8
