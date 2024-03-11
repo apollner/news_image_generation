@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigeria school abductions: More pupils snatched as army hunts for missing**
+**Pope Francis says Ukraine should have "courage of the white flag" against Russia**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/10/nigeria-school-abductions-more-pupils-snatched-as-army-hunts-for-missing).
+You can read more about it [here](https://www.cbsnews.com/news/pope-francis-ukraine-courage-of-the-white-flag/).
 
 ## Requirements
 - Python 3.8
