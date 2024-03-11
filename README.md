@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India's intervention made Putin abandon use of nuclear weapon in Ukraine: Report**
+**See photos from South Beach as spring break begins during city’s police crackdown**
 
-You can read more about it [here](https://www.wionews.com/world/putin-abandoned-use-of-nuclear-weapon-in-ukraine-after-intervention-from-india-china-report-698455).
+You can read more about it [here](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article286397865.html).
 
 ## Requirements
 - Python 3.8
