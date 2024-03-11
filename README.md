@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina women's basketball remains unbeaten after miracle buzzer beater**
+**Justice Department launches criminal probe into Boeing 737 MAX Alaska Airlines incident**
 
-You can read more about it [here](https://www.ncaa.com/news/basketball-women/article/2024-03-09/south-carolina-womens-basketball-remains-unbeaten-after-miracle-buzzer-beater).
+You can read more about it [here](https://thehill.com/policy/transportation/4521878-justice-department-launches-criminal-probe-into-boeing-737-max-alaska-airlines-incident/).
 
 ## Requirements
 - Python 3.8
