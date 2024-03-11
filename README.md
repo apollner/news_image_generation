@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after Dow's worst week since October: Live updates**
+**Reddit's Planned IPO to Seek Up to $748 Million**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/10/stock-market-today-live-updates.html).
+You can read more about it [here](https://finance.yahoo.com/news/reddit-planned-ipo-seek-748-191215835.html).
 
 ## Requirements
 - Python 3.8
