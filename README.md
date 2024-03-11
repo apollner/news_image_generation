@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department launches criminal probe into Boeing 737 MAX Alaska Airlines incident**
+**US military ship heading to Gaza to build port**
 
-You can read more about it [here](https://thehill.com/policy/transportation/4521878-justice-department-launches-criminal-probe-into-boeing-737-max-alaska-airlines-incident/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68526503).
 
 ## Requirements
 - Python 3.8
