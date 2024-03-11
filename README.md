@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina women's basketball remains unbeaten after miracle buzzer beater**
+**Donald Trump meets with Viktor Orban, Hungary’s autocratic leader**
 
-You can read more about it [here](https://www.ncaa.com/news/basketball-women/article/2024-03-09/south-carolina-womens-basketball-remains-unbeaten-after-miracle-buzzer-beater).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/09/trump-viktor-orban-autocrat/).
 
 ## Requirements
 - Python 3.8
