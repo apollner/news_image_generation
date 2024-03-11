@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina women's basketball remains unbeaten after miracle buzzer beater**
+**Colorado Bureau of Investigation finds DNA scientist manipulated data in hundreds of cases over decades**
 
-You can read more about it [here](https://www.ncaa.com/news/basketball-women/article/2024-03-09/south-carolina-womens-basketball-remains-unbeaten-after-miracle-buzzer-beater).
+You can read more about it [here](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html).
 
 ## Requirements
 - Python 3.8
