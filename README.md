@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scarlett Johansson plays Sen. Katie Britt in a satire of her SOTU rebuttal on ‘SNL’**
+**Daylight saving time 2024 just started. But when is it set to end?**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/entertainment/scarlett-johansson-katie-britt-saturday-night-live/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/10/daylight-saving-time-2024/72912838007/).
 
 ## Requirements
 - Python 3.8
