@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Jones’s Record-Breaking Contract Signals Chiefs’ Quest for a Three-Peat**
+**Stock futures are little changed after Dow's worst week since October: Live updates**
 
-You can read more about it [here](https://www.si.com/nfl/2024/03/10/chris-jones-chiefs-contract-three-peat-quest).
+You can read more about it [here](https://www.cnbc.com/2024/03/10/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
