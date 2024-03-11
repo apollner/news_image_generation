@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump meets with Viktor Orban, Hungary’s autocratic leader**
+**Oscars 2024: How to watch and who is nominated**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/09/trump-viktor-orban-autocrat/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68401220).
 
 ## Requirements
 - Python 3.8
