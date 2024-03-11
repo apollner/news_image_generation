@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked iPhone 16 Pro schematics show the Capture Button - GSMArena.com news**
+**‘SNL’ Cold Open: Scarlett Johansson Spoofs Katie Britt’s Weird SOTU Rebuttal**
 
-You can read more about it [here](https://www.gsmarena.com/leaked_iphone_16_pro_schematics_show_the_capture_button-news-61942.php).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-scarlett-johansson-spoofs-katie-britts-weird-gop-rebuttal-state-of-union-1234984437/).
 
 ## Requirements
 - Python 3.8
