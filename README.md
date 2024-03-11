@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX to launch Starlink mission, prepares to undock a Crew Dragon from ISS Monday – Spaceflight Now**
+**Chris Jones’s Record-Breaking Contract Signals Chiefs’ Quest for a Three-Peat**
 
-You can read more about it [here](https://spaceflightnow.com/2024/03/10/live-coverage-spacex-to-launch-falcon-9-rocket-with-starlink-satellites-from-cape-canaveral-2/).
+You can read more about it [here](https://www.si.com/nfl/2024/03/10/chris-jones-chiefs-contract-three-peat-quest).
 
 ## Requirements
 - Python 3.8
