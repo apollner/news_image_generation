@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado Bureau of Investigation finds DNA scientist manipulated data in hundreds of cases over decades**
+**'Luca' writer accuses Alexander Payne's 'The Holdovers' of plagiarism**
 
-You can read more about it [here](https://www.cnn.com/2024/03/09/us/colorado-bureau-of-investigation-data-scientist-manipulation-case/index.html).
+You can read more about it [here](https://ew.com/the-holdovers-accused-of-plagiarism-by-luca-writer-8606869).
 
 ## Requirements
 - Python 3.8
