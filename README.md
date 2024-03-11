@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse 2024 | Buffalo prepares for April 8**
+**Gunmen kidnap 15 children while they slept in Nigeria school abduction**
 
-You can read more about it [here](https://www.wgrz.com/article/news/world/solar-eclipse/total-solar-eclipse-april8-buffalo-preparation/71-35430b8f-3ad1-48a9-ab49-2f7e1cfc07d1).
+You can read more about it [here](https://nypost.com/2024/03/09/world-news/gunmen-kidnap-15-children-while-they-slept-in-nigeria-school-abduction/).
 
 ## Requirements
 - Python 3.8
