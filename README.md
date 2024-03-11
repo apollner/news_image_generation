@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande Asks Fans to Stop Sending “Hateful Messages” Following Album Release**
+**Last-minute NFL free agency buzz: What we're hearing on how signings, trades and cuts could shake out**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/ariana-grande-stop-sending-hateful-messages-1235847674/).
+You can read more about it [here](https://www.espn.com/nfl/insider/insider/story/_/id/39691968/2024-nfl-free-agency-latest-buzz-news-rumors-signings-contracts-trades).
 
 ## Requirements
 - Python 3.8
