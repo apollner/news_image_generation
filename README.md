@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See photos from South Beach as spring break begins during city’s police crackdown**
+**College basketball takeaways: Classic UNC-Duke rivalry game turns into ugly scene as taunts, drinks lobbed**
 
-You can read more about it [here](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article286397865.html).
+You can read more about it [here](https://sports.yahoo.com/college-basketball-takeaways-classic-unc-duke-rivalry-game-turns-into-ugly-scene-as-taunts-drinks-lobbed-030427301.html).
 
 ## Requirements
 - Python 3.8
