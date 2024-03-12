@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Not on my watch' — Biden blasts Trump over suggested cuts to Social Security, Medicare**
+**Kate’s photo should have quelled the rumors. Editing it has done exactly the opposite**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/11/biden-blasts-trump-over-social-security-medicare-cut-ideas.html).
+You can read more about it [here](https://www.cnn.com/2024/03/11/uk/kate-royal-photograph-edited-intl-gbr/index.html).
 
 ## Requirements
 - Python 3.8
