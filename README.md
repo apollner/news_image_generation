@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Margot Robbie Reveals Post-Oscars Plans: “I Am Going to Switch My Phone Off”**
+**Sen. Bernie Sanders: "No more money to Netanyahu's war machine to kill Palestinian children"**
 
-You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/margot-robbie-oscars-plans-after-awards-season-whats-next-1235847791/).
+You can read more about it [here](https://www.cbsnews.com/news/bernie-sanders-benjamin-netanyahu-humanitarian-aid-to-gaza/).
 
 ## Requirements
 - Python 3.8
