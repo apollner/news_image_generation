@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Centre-right projected to win Portugal election**
+**[Removed]**
 
-You can read more about it [here](https://www.ft.com/content/5ebcc75d-e5ba-4f78-9729-881b9b8bfd0d).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
