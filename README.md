@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan averts technical recession as revised fourth-quarter data shows economy grew 0.4%**
+**Ukraine rebuffs Pope Francis calling for talks with Russia**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/11/japan-revised-final-4q-gdp-2023.html).
+You can read more about it [here](https://www.reuters.com/world/europe/ukraine-minister-responding-pope-francis-says-kyiv-will-never-raise-white-flag-2024-03-10/).
 
 ## Requirements
 - Python 3.8
