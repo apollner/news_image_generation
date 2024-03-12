@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine rebuffs Pope Francis calling for talks with Russia**
+**Stock futures are little changed after Dow's worst week since October: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukraine-minister-responding-pope-francis-says-kyiv-will-never-raise-white-flag-2024-03-10/).
+You can read more about it [here](https://www.cnbc.com/2024/03/10/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
