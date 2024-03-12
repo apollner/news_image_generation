@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Russia producing three times more artillery shells than US and Europe for Ukraine**
+**Boeing Stock Falls Amid Justice Department's Criminal Inquiry Into Door Blowout**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/politics/russia-artillery-shell-production-us-europe-ukraine/index.html).
+You can read more about it [here](https://www.barrons.com/articles/boeing-stock-door-blowout-criminal-investigation-10aafb12).
 
 ## Requirements
 - Python 3.8
