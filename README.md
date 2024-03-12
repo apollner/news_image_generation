@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest 2024 election news: Biden heading to N.H. in latest trip to battleground state**
+**'Not on my watch' — Biden blasts Trump over suggested cuts to Social Security, Medicare**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2024/03/11/live-2024-election-campaign/).
+You can read more about it [here](https://www.cnbc.com/2024/03/11/biden-blasts-trump-over-social-security-medicare-cut-ideas.html).
 
 ## Requirements
 - Python 3.8
