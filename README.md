@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bernie Sanders: "No more money to Netanyahu's war machine to kill Palestinian children"**
+**Vanessa Hudgens Announces Pregnancy While Hosting 2024 Oscars Red Carpet**
 
-You can read more about it [here](https://www.cbsnews.com/news/bernie-sanders-benjamin-netanyahu-humanitarian-aid-to-gaza/).
+You can read more about it [here](https://variety.com/2024/film/news/vanessa-hudgens-announces-pregnancy-1235936759/).
 
 ## Requirements
 - Python 3.8
