@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angel Reese defends not coming to teammate's aid in LSU-South Carolina fight: 'Person at my status"**
+**Galaxy A35 and Galaxy A55 come with Gorilla Glass Victus+ protection! - SamMobile**
 
-You can read more about it [here](https://nypost.com/2024/03/11/sports/angel-reese-defends-not-coming-to-teammates-aid-in-lsu-south-carolina-fight-person-at-my-status/).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-a35-galaxy-a55-gorilla-glass-victus-plus-protection/).
 
 ## Requirements
 - Python 3.8
