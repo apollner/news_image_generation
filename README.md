@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brother of LSU guard Flau'jae Johnson arrested after SEC Tournament championship fight**
+**Exclusive: ‘Trump Employee 5,’ who unknowingly helped move classified documents, speaks out**
 
-You can read more about it [here](https://apnews.com/article/lsu-johnson-brother-arrest-3ed0b550373820e9cb415457626749c0).
+You can read more about it [here](https://www.cnn.com/2024/03/11/politics/trump-employee-5-classified-documents-mar-a-lago/index.html).
 
 ## Requirements
 - Python 3.8
