@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vanessa Hudgens Announces Pregnancy While Hosting 2024 Oscars Red Carpet**
+**Live coverage: SpaceX to launch Starlink mission, prepares to undock a Crew Dragon from ISS Monday – Spaceflight Now**
 
-You can read more about it [here](https://variety.com/2024/film/news/vanessa-hudgens-announces-pregnancy-1235936759/).
+You can read more about it [here](https://spaceflightnow.com/2024/03/10/live-coverage-spacex-to-launch-falcon-9-rocket-with-starlink-satellites-from-cape-canaveral-2/).
 
 ## Requirements
 - Python 3.8
