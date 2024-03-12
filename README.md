@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Unveils Design for Humanity's Message Heading to Jupiter's Moon Europa**
+**Plane veered off flight path after both pilots fell asleep, Indonesian authorities say**
 
-You can read more about it [here](https://scitechdaily.com/nasa-unveils-design-for-humanitys-message-heading-to-jupiters-moon-europa/).
+You can read more about it [here](https://www.cnn.com/2024/03/10/asia/batik-air-pilots-asleep-indonesia-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
