@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy A35 and Galaxy A55 come with Gorilla Glass Victus+ protection! - SamMobile**
+**Oscars 2024: gravity-defying gowns, archival looks — and 'heavage'**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-a35-galaxy-a55-gorilla-glass-victus-plus-protection/).
+You can read more about it [here](https://www.ft.com/content/c415a6b2-425d-4c1c-9007-c3fa8635b42d).
 
 ## Requirements
 - Python 3.8
