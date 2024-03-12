@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says a TikTok ban would empower Meta, slams Facebook as 'enemy of the people'**
+**Gwyneth Paltrow Posts Video Rejoicing Over Robert Downey Jr.’s Oscar Win; She Cheered on Her ‘Iron Man’ Co-Star From Home**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/11/trump-says-a-tiktok-ban-would-empower-meta-slams-facebook-as-enemy-of-the-people.html).
+You can read more about it [here](https://variety.com/2024/film/news/gwyneth-paltrow-celebrates-robert-downey-jr-oscar-win-laptop-1235938010/).
 
 ## Requirements
 - Python 3.8
