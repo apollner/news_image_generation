@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump will not give a penny to Ukraine - Hungary PM Orban**
+**Brother of LSU guard Flau'jae Johnson arrested after SEC Tournament championship fight**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68533351).
+You can read more about it [here](https://apnews.com/article/lsu-johnson-brother-arrest-3ed0b550373820e9cb415457626749c0).
 
 ## Requirements
 - Python 3.8
