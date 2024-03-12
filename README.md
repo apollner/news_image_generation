@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Applegate lives 'kind of in hell' following multiple sclerosis diagnosis**
+**Trump will not give a penny to Ukraine - Hungary PM Orban**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/christina-applegate-lives-kind-of-hell-following-multiple-sclerosis-diagnosis).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68533351).
 
 ## Requirements
 - Python 3.8
