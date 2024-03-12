@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane veered off flight path after both pilots fell asleep, Indonesian authorities say**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/asia/batik-air-pilots-asleep-indonesia-intl-hnk/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
