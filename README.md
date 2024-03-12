@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX to launch Starlink mission, prepares to undock a Crew Dragon from ISS Monday – Spaceflight Now**
+**Centre-right projected to win Portugal election**
 
-You can read more about it [here](https://spaceflightnow.com/2024/03/10/live-coverage-spacex-to-launch-falcon-9-rocket-with-starlink-satellites-from-cape-canaveral-2/).
+You can read more about it [here](https://www.ft.com/content/5ebcc75d-e5ba-4f78-9729-881b9b8bfd0d).
 
 ## Requirements
 - Python 3.8
