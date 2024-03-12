@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Jumps Over $71K; FCA Lets Institutional Investors Create Crypto ETNs**
+**Some lawmakers undecided on their support for bill targeting TikTok**
 
-You can read more about it [here](https://www.coindesk.com/business/2024/03/11/bitcoin-vaults-over-70k-hits-new-highs/).
+You can read more about it [here](https://www.axios.com/2024/03/10/lawmakers-bill-targeting-tiktok).
 
 ## Requirements
 - Python 3.8
