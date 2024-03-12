@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 dead, including child, after private jet that left Fort Lauderdale crashes in Virginia**
+**Latest 2024 election news: Biden heading to N.H. in latest trip to battleground state**
 
-You can read more about it [here](http://www.nbcmiami.com/news/local/5-dead-including-child-after-private-jet-that-left-fort-lauderdale-crashes-in-virginia/3255502/).
+You can read more about it [here](https://www.washingtonpost.com/elections/2024/03/11/live-2024-election-campaign/).
 
 ## Requirements
 - Python 3.8
