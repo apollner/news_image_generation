@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Contra: Operation Galuga Review**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ign.com/articles/contra-operation-galuga-review).
 
 ## Requirements
 - Python 3.8
