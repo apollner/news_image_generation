@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscars 2024: gravity-defying gowns, archival looks — and 'heavage'**
+**Exclusive: Russia producing three times more artillery shells than US and Europe for Ukraine**
 
-You can read more about it [here](https://www.ft.com/content/c415a6b2-425d-4c1c-9007-c3fa8635b42d).
+You can read more about it [here](https://www.cnn.com/2024/03/10/politics/russia-artillery-shell-production-us-europe-ukraine/index.html).
 
 ## Requirements
 - Python 3.8
