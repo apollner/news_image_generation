@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sex trafficking victim says Sen. Katie Britt telling her story during SOTU rebuttal is ‘not fair’**
+**Saquon Barkley signing with Eagles for $38 million in NFL free agency stunner**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/politics/katie-britt-sex-trafficking-victim-interview/index.html).
+You can read more about it [here](https://nypost.com/2024/03/11/sports/saquon-barkley-signing-with-eagles-in-nfl-free-agency-stunner/).
 
 ## Requirements
 - Python 3.8
