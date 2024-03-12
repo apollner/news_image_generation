@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles outbreak Chicago: CPS student at Pilsen migrant shelter diagnosed in city's 3rd case; CDC to send response team, CDPH says**
+**Oscar highlights: ‘Oppenheimer’ wins big, while Ryan Gosling and past winner cameos stole the show**
 
-You can read more about it [here](https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/).
+You can read more about it [here](https://www.cnn.com/2024/03/10/entertainment/review-oscars-hits-misses-performances/index.html).
 
 ## Requirements
 - Python 3.8
