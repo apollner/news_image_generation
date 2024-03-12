@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Kimmel was told not to read Donald Trump message at Oscars**
+**5 dead, including child, after private jet that left Fort Lauderdale crashes in Virginia**
 
-You can read more about it [here](https://ew.com/oscars-jimmy-kimmel-told-not-to-read-donald-trump-social-media-post-8607213).
+You can read more about it [here](http://www.nbcmiami.com/news/local/5-dead-including-child-after-private-jet-that-left-fort-lauderdale-crashes-in-virginia/3255502/).
 
 ## Requirements
 - Python 3.8
