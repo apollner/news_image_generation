@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Do you know top 5 potential warning signs of colon cancer?**
+**Bloodbath at RNC: Trump team slashes staff at committee**
 
-You can read more about it [here](https://www.cleveland.com/metro/2024/03/do-you-know-top-5-potential-warning-signs-of-colon-cancer.html).
+You can read more about it [here](https://www.politico.com/news/2024/03/11/bloodbath-at-rnc-trump-team-slashes-staff-at-committee-00146368).
 
 ## Requirements
 - Python 3.8
