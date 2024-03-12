@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden draws ire for using term "illegal" to describe Laken Riley murder suspect**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2024/03/11/biden-trump-laken-riley-immigration).
 
 ## Requirements
 - Python 3.8
