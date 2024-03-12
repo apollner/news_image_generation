@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate’s photo should have quelled the rumors. Editing it has done exactly the opposite**
+**Christina Applegate lives 'kind of in hell' following multiple sclerosis diagnosis**
 
-You can read more about it [here](https://www.cnn.com/2024/03/11/uk/kate-royal-photograph-edited-intl-gbr/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/christina-applegate-lives-kind-of-hell-following-multiple-sclerosis-diagnosis).
 
 ## Requirements
 - Python 3.8
