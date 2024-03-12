@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump seeks delay of New York "hush money" trial as Supreme Court weighs presidential immunity**
+**Sex trafficking victim says Sen. Katie Britt telling her story during SOTU rebuttal is ‘not fair’**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-new-york-trial-delay-presidential-immunity/).
+You can read more about it [here](https://www.cnn.com/2024/03/10/politics/katie-britt-sex-trafficking-victim-interview/index.html).
 
 ## Requirements
 - Python 3.8
