@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden draws ire for using term "illegal" to describe Laken Riley murder suspect**
+**Japan averts technical recession as revised fourth-quarter data shows economy grew 0.4%**
 
-You can read more about it [here](https://www.axios.com/2024/03/11/biden-trump-laken-riley-immigration).
+You can read more about it [here](https://www.cnbc.com/2024/03/11/japan-revised-final-4q-gdp-2023.html).
 
 ## Requirements
 - Python 3.8
