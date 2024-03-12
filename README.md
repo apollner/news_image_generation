@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Stock Falls Amid Justice Department's Criminal Inquiry Into Door Blowout**
+**Trump says a TikTok ban would empower Meta, slams Facebook as 'enemy of the people'**
 
-You can read more about it [here](https://www.barrons.com/articles/boeing-stock-door-blowout-criminal-investigation-10aafb12).
+You can read more about it [here](https://www.cnbc.com/2024/03/11/trump-says-a-tiktok-ban-would-empower-meta-slams-facebook-as-enemy-of-the-people.html).
 
 ## Requirements
 - Python 3.8
