@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwyneth Paltrow Posts Video Rejoicing Over Robert Downey Jr.’s Oscar Win; She Cheered on Her ‘Iron Man’ Co-Star From Home**
+**Jimmy Kimmel was told not to read Donald Trump message at Oscars**
 
-You can read more about it [here](https://variety.com/2024/film/news/gwyneth-paltrow-celebrates-robert-downey-jr-oscar-win-laptop-1235938010/).
+You can read more about it [here](https://ew.com/oscars-jimmy-kimmel-told-not-to-read-donald-trump-social-media-post-8607213).
 
 ## Requirements
 - Python 3.8
