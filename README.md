@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscar highlights: ‘Oppenheimer’ wins big, while Ryan Gosling and past winner cameos stole the show**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/entertainment/review-oscars-hits-misses-performances/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
