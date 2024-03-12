@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some lawmakers undecided on their support for bill targeting TikTok**
+**Measles outbreak Chicago: CPS student at Pilsen migrant shelter diagnosed in city's 3rd case; CDC to send response team, CDPH says**
 
-You can read more about it [here](https://www.axios.com/2024/03/10/lawmakers-bill-targeting-tiktok).
+You can read more about it [here](https://abc7chicago.com/measles-chicago-outbreak-pilsen-migrant-shelter/14510818/).
 
 ## Requirements
 - Python 3.8
