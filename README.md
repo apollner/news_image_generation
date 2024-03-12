@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after Dow's worst week since October: Live updates**
+**NASA Unveils Design for Humanity's Message Heading to Jupiter's Moon Europa**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/10/stock-market-today-live-updates.html).
+You can read more about it [here](https://scitechdaily.com/nasa-unveils-design-for-humanitys-message-heading-to-jupiters-moon-europa/).
 
 ## Requirements
 - Python 3.8
