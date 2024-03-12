@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sex trafficking victim says Sen. Katie Britt telling her story during SOTU rebuttal is ‘not fair’**
+**SpaceX launches back-to-back Starlink missions**
 
-You can read more about it [here](https://www.cnn.com/2024/03/10/politics/katie-britt-sex-trafficking-victim-interview/index.html).
+You can read more about it [here](https://www.teslarati.com/spacex-launches-back-to-back-starlink-missions/).
 
 ## Requirements
 - Python 3.8
