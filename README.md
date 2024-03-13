@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kimmel Audience Erupts Over Filthy John Cena-Inspired Joke About Donald Trump**
+**Trump-backed RNC leadership fires dozens of staffers — reports**
 
-You can read more about it [here](https://www.huffpost.com/entry/jimmy-kimmel-donald-trump-john-cena_n_65f014abe4b032e17a8365d8).
+You can read more about it [here](https://www.axios.com/2024/03/12/rnc-trump-team-fires-staff-reports).
 
 ## Requirements
 - Python 3.8
