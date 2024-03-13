@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P Live Updates for March 12**
+**Arkansans can view SpaceX's Dragon Endurance spacecraft overnight**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-11/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://www.thv11.com/article/tech/science/arkansans-view-spacex-dragon-spacecraft-overnight/91-c59a168f-ee10-4648-9cc3-ac26d50510c4).
 
 ## Requirements
 - Python 3.8
