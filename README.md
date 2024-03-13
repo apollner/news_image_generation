@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: ‘Trump Employee 5,’ who unknowingly helped move classified documents, speaks out**
+**Florida settles lawsuit over LGBT education bill**
 
-You can read more about it [here](https://www.cnn.com/2024/03/11/politics/trump-employee-5-classified-documents-mar-a-lago/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68541059).
 
 ## Requirements
 - Python 3.8
