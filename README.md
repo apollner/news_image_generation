@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Kimmel's wife Molly McNearney urged him not to name-drop Trump at Oscars: 'Not proud'**
+**Uvalde police chief announces his resignation in wake of independent investigation**
 
-You can read more about it [here](https://nypost.com/2024/03/12/entertainment/jimmy-kimmel-wife-said-no-to-trump-message-at-oscars-2024/).
+You can read more about it [here](https://abcnews.go.com/US/uvalde-police-chief-announces-resignation-after-independent-investigation/story?id=108054609).
 
 ## Requirements
 - Python 3.8
