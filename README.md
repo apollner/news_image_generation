@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kirk Cousins' Falcons deal will ripple across NFL, from Justin Fields to Jared Goff and the draft**
+**Timberwolves' Karl-Anthony Towns has surgery for meniscus tear**
 
-You can read more about it [here](https://sports.yahoo.com/kirk-cousins-falcons-deal-will-ripple-across-nfl-from-justin-fields-to-jared-goff-and-the-draft-025615226.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39717356/timberwolves-karl-anthony-towns-surgery-repair-meniscus-tear-left-knee).
 
 ## Requirements
 - Python 3.8
