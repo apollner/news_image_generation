@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Xiaomi to start deliveries of its first EV model, shares soar**
+**Kimmel Audience Erupts Over Filthy John Cena-Inspired Joke About Donald Trump**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/chinas-xiaomi-says-it-will-start-deliveries-its-first-ev-model-march-28-2024-03-12/).
+You can read more about it [here](https://www.huffpost.com/entry/jimmy-kimmel-donald-trump-john-cena_n_65f014abe4b032e17a8365d8).
 
 ## Requirements
 - Python 3.8
