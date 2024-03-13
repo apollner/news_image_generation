@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: US preparing new weapons package for Ukraine, officials say**
+**Most subscription mobile apps don’t make money, new report shows**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/us-preparing-new-weapons-package-ukraine-officials-2024-03-12/).
+You can read more about it [here](https://techcrunch.com/2024/03/12/most-subscription-mobile-apps-dont-make-money-new-report-shows/).
 
 ## Requirements
 - Python 3.8
