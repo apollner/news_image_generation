@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: First aid ship sets off from Cyprus**
+**Kirk Cousins' Falcons deal will ripple across NFL, from Justin Fields to Jared Goff and the draft**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68541981).
+You can read more about it [here](https://sports.yahoo.com/kirk-cousins-falcons-deal-will-ripple-across-nfl-from-justin-fields-to-jared-goff-and-the-draft-025615226.html).
 
 ## Requirements
 - Python 3.8
