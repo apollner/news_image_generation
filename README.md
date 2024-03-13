@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Jones free agency rumors: Packers' division rivals interested in star RB after his release**
+**Trump suggests Medicare and Social Security benefit cuts on CNBC**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/aaron-jones-free-agency-rumors-packers-division-rivals-interested-in-star-rb-after-his-release/).
+You can read more about it [here](https://www.businessinsider.com/trump-cutting-medicare-social-security-benefits-2024-3).
 
 ## Requirements
 - Python 3.8
