@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michelle Yeoh explains the sweet reason she gave Emma Stone’s Oscar to Jennifer Lawrence**
+**Splashdown! NASA's SpaceX Crew-7 Finishes Mission, Returns to Earth**
 
-You can read more about it [here](https://www.cnn.com/2024/03/12/entertainment/emma-stone-michelle-yeoh-jennifer-lawrence/index.html).
+You can read more about it [here](https://www.nasa.gov/news-release/splashdown-nasas-spacex-crew-7-finishes-mission-returns-to-earth/).
 
 ## Requirements
 - Python 3.8
