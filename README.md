@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Star Wars: Jedi Director Announces New Studio to Make a AAA Narrative-Driven Single-Player Action-Adventure Game**
+**Motorola's newest budget phones look surprisingly good**
 
-You can read more about it [here](https://www.ign.com/articles/star-wars-jedi-director-announces-new-studio-to-make-a-aaa-narrative-driven-single-player-action-adventure-game).
+You can read more about it [here](https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery).
 
 ## Requirements
 - Python 3.8
