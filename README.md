@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CPI report: Data release shows Inflation stayed high**
+**Michelle Yeoh explains the sweet reason she gave Emma Stone’s Oscar to Jennifer Lawrence**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/03/12/cpi-report-march-2024-inflation-data/72934243007/).
+You can read more about it [here](https://www.cnn.com/2024/03/12/entertainment/emma-stone-michelle-yeoh-jennifer-lawrence/index.html).
 
 ## Requirements
 - Python 3.8
