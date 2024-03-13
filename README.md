@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri student Riley Strain missing in Nashville: What to know**
+**Stock market today: US stocks march higher after CPI surprise**
 
-You can read more about it [here](https://www.tennessean.com/story/news/local/2024/03/12/missouri-student-riley-strain-missing-in-nashville-what-to-know/72941128007/).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-us-stocks-march-higher-after-cpi-surprise-133436610.html).
 
 ## Requirements
 - Python 3.8
