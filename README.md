@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breaking down the Kirk Cousins contract for the Falcons**
+**CPI report: Data release shows Inflation stayed high**
 
-You can read more about it [here](https://www.thefalcoholic.com/2024/3/12/24098375/breaking-down-the-kirk-cousins-contract-for-the-falcons-four-year-deal-terry-fontenot-arthur-blank).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/03/12/cpi-report-march-2024-inflation-data/72934243007/).
 
 ## Requirements
 - Python 3.8
