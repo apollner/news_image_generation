@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti's Prime Minister Ariel Henry resigns as law and order collapse**
+**Kate Middleton ‘humiliated’ but ‘quite happy’ to accept blame in photo edit scandal: royal expert**
 
-You can read more about it [here](https://www.bbc.com/news/world-latin-america-68541349).
+You can read more about it [here](https://www.foxnews.com/entertainment/kate-middleton-humiliated-quite-happy-accept-blame-photo-edit-scandal-royal-expert).
 
 ## Requirements
 - Python 3.8
