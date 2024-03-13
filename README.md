@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Most subscription mobile apps don’t make money, new report shows**
+**Jimmy Kimmel's wife Molly McNearney urged him not to name-drop Trump at Oscars: 'Not proud'**
 
-You can read more about it [here](https://techcrunch.com/2024/03/12/most-subscription-mobile-apps-dont-make-money-new-report-shows/).
+You can read more about it [here](https://nypost.com/2024/03/12/entertainment/jimmy-kimmel-wife-said-no-to-trump-message-at-oscars-2024/).
 
 ## Requirements
 - Python 3.8
