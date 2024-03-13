@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida settles lawsuit over LGBT education bill**
+**Watch SpaceX's Crew-7 astronaut mission for NASA return to Earth March 12 in this free livestream**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68541059).
+You can read more about it [here](https://www.space.com/nasa-spacex-crew-7-astronauts-return-to-earth).
 
 ## Requirements
 - Python 3.8
