@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia Eagles RB Saquon Barkley fires back at Tiki Barber after "dead to me" comments**
+**Apple to allow iOS app downloads direct from websites in the EU**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/eagles-saquon-barkley-tiki-barber-nfl-free-agency/).
+You can read more about it [here](https://www.theverge.com/2024/3/12/24098334/apple-ios-web-distribution-eu-app-store-changes).
 
 ## Requirements
 - Python 3.8
