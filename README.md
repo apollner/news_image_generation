@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscars 2024: Al Pacino explains awkward best picture announcement**
+**Star Wars: Jedi Director Announces New Studio to Make a AAA Narrative-Driven Single-Player Action-Adventure Game**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68542562).
+You can read more about it [here](https://www.ign.com/articles/star-wars-jedi-director-announces-new-studio-to-make-a-aaa-narrative-driven-single-player-action-adventure-game).
 
 ## Requirements
 - Python 3.8
