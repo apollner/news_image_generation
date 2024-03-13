@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: US stocks march higher after CPI surprise**
+**Southwest Airlines cuts capacity, pauses hiring due to Boeing 'challenges'**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-us-stocks-march-higher-after-cpi-surprise-133436610.html).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/southwest-airlines-cuts-capacity-pauses-hiring-boeing-challenges).
 
 ## Requirements
 - Python 3.8
