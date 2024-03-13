@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Vikings agree to deal with QB Darnold**
+**China's Xiaomi to start deliveries of its first EV model, shares soar**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39712987/vikings-agree-1-year-deal-qb-sam-darnold).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/chinas-xiaomi-says-it-will-start-deliveries-its-first-ev-model-march-28-2024-03-12/).
 
 ## Requirements
 - Python 3.8
