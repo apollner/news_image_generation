@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX's Crew-7 astronaut mission for NASA return to Earth March 12 in this free livestream**
+**Airbnb bans indoor security cameras in rental properties**
 
-You can read more about it [here](https://www.space.com/nasa-spacex-crew-7-astronauts-return-to-earth).
+You can read more about it [here](https://www.bbc.com/news/business-68541161).
 
 ## Requirements
 - Python 3.8
