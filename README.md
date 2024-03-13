@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines cuts capacity, pauses hiring due to Boeing 'challenges'**
+**Breaking down the Kirk Cousins contract for the Falcons**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/southwest-airlines-cuts-capacity-pauses-hiring-boeing-challenges).
+You can read more about it [here](https://www.thefalcoholic.com/2024/3/12/24098375/breaking-down-the-kirk-cousins-contract-for-the-falcons-four-year-deal-terry-fontenot-arthur-blank).
 
 ## Requirements
 - Python 3.8
