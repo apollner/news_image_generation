@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump suggests Medicare and Social Security benefit cuts on CNBC**
+**US CPI Won't Inspire Fed to Cut Rates, Bloomberg Economics Says**
 
-You can read more about it [here](https://www.businessinsider.com/trump-cutting-medicare-social-security-benefits-2024-3).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-12/us-cpi-won-t-inspire-fed-to-cut-rates-bloomberg-economics-says).
 
 ## Requirements
 - Python 3.8
