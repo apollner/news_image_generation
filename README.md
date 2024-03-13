@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Choreographer Mandy Moore Harnessed the Kenergy of Ryan Gosling and 62 Kens for “I’m Just Ken” Oscars Performance**
+**Exclusive: ‘Trump Employee 5,’ who unknowingly helped move classified documents, speaks out**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/ryan-gosling-62-kens-im-just-ken-oscar-performance-1235849758/).
+You can read more about it [here](https://www.cnn.com/2024/03/11/politics/trump-employee-5-classified-documents-mar-a-lago/index.html).
 
 ## Requirements
 - Python 3.8
