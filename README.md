@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bloodbath at RNC: Trump team slashes staff at committee**
+**Sources: Giants trading for Panthers pass-rusher Brian Burns**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/11/bloodbath-at-rnc-trump-team-slashes-staff-at-committee-00146368).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39710804/giants-trading-panthers-pass-rusher-brian-burns).
 
 ## Requirements
 - Python 3.8
