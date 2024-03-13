@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Autopilot, similar automated driving systems rated 'poor' by safety group**
+**Video: Missing Mizzou student seen crossing Nashville road**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/tesla-autopilot-similar-automated-driving-systems-rated-poor-by-safety-group).
+You can read more about it [here](https://www.ksdk.com/article/news/local/missing-mizzou-on-video-in-nashville/63-69606e5a-d7b9-40b7-999c-df5194ecb4f7).
 
 ## Requirements
 - Python 3.8
