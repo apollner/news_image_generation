@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkansans can view SpaceX's Dragon Endurance spacecraft overnight**
+**Powerball jackpot rises to $559M after no tickets matched winning numbers**
 
-You can read more about it [here](https://www.thv11.com/article/tech/science/arkansans-view-spacex-dragon-spacecraft-overnight/91-c59a168f-ee10-4648-9cc3-ac26d50510c4).
+You can read more about it [here](https://www.foxbusiness.com/economy/powerball-jackpot-rises-559-million-no-tickets-matched-winning-numbers).
 
 ## Requirements
 - Python 3.8
