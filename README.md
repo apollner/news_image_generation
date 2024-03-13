@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple to allow iOS app downloads direct from websites in the EU**
+**Missouri student Riley Strain missing in Nashville: What to know**
 
-You can read more about it [here](https://www.theverge.com/2024/3/12/24098334/apple-ios-web-distribution-eu-app-store-changes).
+You can read more about it [here](https://www.tennessean.com/story/news/local/2024/03/12/missouri-student-riley-strain-missing-in-nashville-what-to-know/72941128007/).
 
 ## Requirements
 - Python 3.8
