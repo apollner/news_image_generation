@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US CPI Won't Inspire Fed to Cut Rates, Bloomberg Economics Says**
+**Robert Hur testimony gives Republicans their Mueller moment**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-12/us-cpi-won-t-inspire-fed-to-cut-rates-bloomberg-economics-says).
+You can read more about it [here](https://www.axios.com/2024/03/11/robert-hur-hearing-republicans-mueller).
 
 ## Requirements
 - Python 3.8
