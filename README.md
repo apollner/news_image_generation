@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC team to help Chicago officials with response to measles outbreak**
+**Stock Market Today: Dow, S&P Live Updates for March 12**
 
-You can read more about it [here](https://www.cnn.com/2024/03/11/health/cdc-chicago-measles/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-11/stock-market-today-dow-s-p-live-updates).
 
 ## Requirements
 - Python 3.8
