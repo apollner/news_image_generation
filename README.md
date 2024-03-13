@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Motorola's newest budget phones look surprisingly good**
+**Philadelphia Eagles RB Saquon Barkley fires back at Tiki Barber after "dead to me" comments**
 
-You can read more about it [here](https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/eagles-saquon-barkley-tiki-barber-nfl-free-agency/).
 
 ## Requirements
 - Python 3.8
