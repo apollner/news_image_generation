@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde police chief announces his resignation in wake of independent investigation**
+**Gaza war: First aid ship sets off from Cyprus**
 
-You can read more about it [here](https://abcnews.go.com/US/uvalde-police-chief-announces-resignation-after-independent-investigation/story?id=108054609).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68541981).
 
 ## Requirements
 - Python 3.8
