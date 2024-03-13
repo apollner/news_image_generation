@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. curbs on China to rise as 'decoupling is really in full force,' expert warns, amid possible TikTok ban**
+**Midjourney debuts feature for generating consistent characters across multiple gen AI images**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/12/-us-curbs-on-china-to-rise-with-decoupling-in-full-force-expert-warns.html).
+You can read more about it [here](https://venturebeat.com/ai/midjourney-debuts-feature-for-generating-consistent-characters-across-multiple-gen-ai-images/).
 
 ## Requirements
 - Python 3.8
