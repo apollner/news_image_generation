@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Hur testimony gives Republicans their Mueller moment**
+**Johnny Depp Sends Warm Instagram Message To Robert Downey Jr. For His First Oscar Win**
 
-You can read more about it [here](https://www.axios.com/2024/03/11/robert-hur-hearing-republicans-mueller).
+You can read more about it [here](http://deadline.com/2024/03/johnny-depp-sends-warm-instagram-message-robert-downey-jr-1235855638/).
 
 ## Requirements
 - Python 3.8
