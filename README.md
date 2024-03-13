@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warden ousted as FBI again searches California federal women's prison plagued by sexual abuse**
+**U.S. curbs on China to rise as 'decoupling is really in full force,' expert warns, amid possible TikTok ban**
 
-You can read more about it [here](https://apnews.com/article/federal-prisons-dublin-sexual-abuse-fbi-d59870c859d58e1ab2b158392adaee57).
+You can read more about it [here](https://www.cnbc.com/2024/03/12/-us-curbs-on-china-to-rise-with-decoupling-in-full-force-expert-warns.html).
 
 ## Requirements
 - Python 3.8
