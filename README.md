@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Midjourney debuts feature for generating consistent characters across multiple gen AI images**
+**Haiti's Prime Minister Ariel Henry resigns as law and order collapse**
 
-You can read more about it [here](https://venturebeat.com/ai/midjourney-debuts-feature-for-generating-consistent-characters-across-multiple-gen-ai-images/).
+You can read more about it [here](https://www.bbc.com/news/world-latin-america-68541349).
 
 ## Requirements
 - Python 3.8
