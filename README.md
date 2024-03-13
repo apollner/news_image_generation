@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Vatican envoy called in over Pope 'white flag' remarks**
+**How Choreographer Mandy Moore Harnessed the Kenergy of Ryan Gosling and 62 Kens for “I’m Just Ken” Oscars Performance**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68538267).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/ryan-gosling-62-kens-im-just-ken-oscar-performance-1235849758/).
 
 ## Requirements
 - Python 3.8
