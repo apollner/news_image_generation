@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnny Depp Sends Warm Instagram Message To Robert Downey Jr. For His First Oscar Win**
+**Sources: Vikings agree to deal with QB Darnold**
 
-You can read more about it [here](http://deadline.com/2024/03/johnny-depp-sends-warm-instagram-message-robert-downey-jr-1235855638/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39712987/vikings-agree-1-year-deal-qb-sam-darnold).
 
 ## Requirements
 - Python 3.8
