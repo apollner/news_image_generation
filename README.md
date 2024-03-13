@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Splashdown! NASA's SpaceX Crew-7 Finishes Mission, Returns to Earth**
+**Tesla Autopilot, similar automated driving systems rated 'poor' by safety group**
 
-You can read more about it [here](https://www.nasa.gov/news-release/splashdown-nasas-spacex-crew-7-finishes-mission-returns-to-earth/).
+You can read more about it [here](https://www.foxbusiness.com/technology/tesla-autopilot-similar-automated-driving-systems-rated-poor-by-safety-group).
 
 ## Requirements
 - Python 3.8
