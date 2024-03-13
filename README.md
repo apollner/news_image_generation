@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Airbnb bans indoor security cameras in rental properties**
+**Warden ousted as FBI again searches California federal women's prison plagued by sexual abuse**
 
-You can read more about it [here](https://www.bbc.com/news/business-68541161).
+You can read more about it [here](https://apnews.com/article/federal-prisons-dublin-sexual-abuse-fbi-d59870c859d58e1ab2b158392adaee57).
 
 ## Requirements
 - Python 3.8
