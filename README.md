@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot rises to $559M after no tickets matched winning numbers**
+**Aaron Jones free agency rumors: Packers' division rivals interested in star RB after his release**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/powerball-jackpot-rises-559-million-no-tickets-matched-winning-numbers).
+You can read more about it [here](https://www.cbssports.com/nfl/news/aaron-jones-free-agency-rumors-packers-division-rivals-interested-in-star-rb-after-his-release/).
 
 ## Requirements
 - Python 3.8
