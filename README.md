@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton ‘humiliated’ but ‘quite happy’ to accept blame in photo edit scandal: royal expert**
+**CDC team to help Chicago officials with response to measles outbreak**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/kate-middleton-humiliated-quite-happy-accept-blame-photo-edit-scandal-royal-expert).
+You can read more about it [here](https://www.cnn.com/2024/03/11/health/cdc-chicago-measles/index.html).
 
 ## Requirements
 - Python 3.8
