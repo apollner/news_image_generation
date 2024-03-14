@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Petco CEO Ron Coughlin is out, former Best Buy exec to step in as interim chief executive**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/13/petco-ceo-ron-coughlin-steps-down.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
