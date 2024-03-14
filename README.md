@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global dividends hit record $1.66 trillion in 2023**
+**Splashdown! NASA's SpaceX Crew-7 Returns to Earth After 199 Days in Orbit**
 
-You can read more about it [here](https://www.marketwatch.com/story/global-dividends-hit-record-1-66-trillion-in-2023-as-microsoft-reclaims-top-spot-c017c2b7).
+You can read more about it [here](https://scitechdaily.com/splashdown-nasas-spacex-crew-7-returns-to-earth-after-199-days-in-orbit/).
 
 ## Requirements
 - Python 3.8
