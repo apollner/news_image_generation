@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde police chief to resign after report defended officers' shooting response**
+**Steelers to trade Diontae Johnson to Panthers, sources say**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/12/uvalde-police-chief-resigning/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39718424/steelers-trading-wr-diontae-johnson-panthers-sources-say).
 
 ## Requirements
 - Python 3.8
