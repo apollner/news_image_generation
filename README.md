@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Summer Game Fest 2024 Date and Livestream Details Officially Announced**
+**Louisiana man captures video of SpaceX crew returning to earth**
 
-You can read more about it [here](https://www.ign.com/articles/summer-game-fest-2024-date-and-livestream-details-officially-announced).
+You can read more about it [here](https://www.wdsu.com/article/space-x-crew-returns-earth-video/60172746).
 
 ## Requirements
 - Python 3.8
