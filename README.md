@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Glazer’s Oscars speech against Israel prompts fierce Jewish reactions**
+**U.S. courts require random judge assignments to avoid 'judge shopping'**
 
-You can read more about it [here](https://www.timesofisrael.com/jonathan-glazers-oscars-speech-against-israel-prompts-fierce-jewish-reactions/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/12/judge-shopping-random-federal-courts/).
 
 ## Requirements
 - Python 3.8
