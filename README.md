@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Y’all this is scary’: Luke Bryan calls for help in search of missing Mizzou student in Nashville**
+**The Finals: Season 2 First Look**
 
-You can read more about it [here](https://www.wsmv.com/2024/03/13/yall-this-is-scary-luke-bryan-calls-help-search-missing-mizzou-student-nashville/).
+You can read more about it [here](https://www.ign.com/articles/the-finals-season-2-first-look).
 
 ## Requirements
 - Python 3.8
