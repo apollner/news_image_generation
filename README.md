@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Finals: Season 2 First Look**
+**WATCH REPLAY: Latest on the upcoming snowstorm in Colorado with a winter storm warning**
 
-You can read more about it [here](https://www.ign.com/articles/the-finals-season-2-first-look).
+You can read more about it [here](https://www.kktv.com/2024/03/13/watch-live-latest-upcoming-snowstorm-colorado-with-winter-storm-warning/).
 
 ## Requirements
 - Python 3.8
