@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Judge dismisses some Trump Georgia election subversion charges but leaves most of the case intact**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/03/13/politics/georgia-trump-mcafee-election-interference-case/index.html).
 
 ## Requirements
 - Python 3.8
