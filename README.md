@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orange County leads Southern California in cancer rates among 18 to 49 year olds: report**
+**Breaking down Saquon Barkley's 3-year contract with Eagles**
 
-You can read more about it [here](https://ktla.com/news/local-news/orange-county-leads-southern-california-in-cancer-rates-among-18-to-49-year-olds-report/).
+You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/breaking-down-saquon-barkleys-3-year-contract-with-eagles/570978/).
 
 ## Requirements
 - Python 3.8
