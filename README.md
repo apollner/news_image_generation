@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orange County leads Southern California in cancer rates among 18 to 49 year olds: report**
+**Uvalde police chief to resign after report defended officers' shooting response**
 
-You can read more about it [here](https://ktla.com/news/local-news/orange-county-leads-southern-california-in-cancer-rates-among-18-to-49-year-olds-report/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/12/uvalde-police-chief-resigning/).
 
 ## Requirements
 - Python 3.8
