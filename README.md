@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancient statue unearthed during parking lot construction: "A complete mystery"**
+**Petco CEO Ron Coughlin is out, former Best Buy exec to step in as interim chief executive**
 
-You can read more about it [here](https://www.cbsnews.com/news/ancient-statue-unearthed-during-parking-lot-construction-a-complete-mystery/).
+You can read more about it [here](https://www.cnbc.com/2024/03/13/petco-ceo-ron-coughlin-steps-down.html).
 
 ## Requirements
 - Python 3.8
