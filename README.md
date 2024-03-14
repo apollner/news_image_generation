@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giant redwoods: World’s largest trees 'thriving in UK'**
+**Boeing whistleblower death compounds bad news for the company**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68518623).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/03/12/boeing-whistleblower-death-plane-issues/).
 
 ## Requirements
 - Python 3.8
