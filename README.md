@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Finals: Season 2 First Look**
+**Donald Trump's Georgia judge dismisses some criminal charges**
 
-You can read more about it [here](https://www.ign.com/articles/the-finals-season-2-first-look).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68557486).
 
 ## Requirements
 - Python 3.8
