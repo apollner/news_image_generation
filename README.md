@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I tried Belkin’s ridiculous new iPhone accessory — and I love it**
+**‘Y’all this is scary’: Luke Bryan calls for help in search of missing Mizzou student in Nashville**
 
-You can read more about it [here](https://www.digitaltrends.com/mobile/i-tried-belkin-auto-tracking-stand-pro-iphone-accessory-love-it-why/).
+You can read more about it [here](https://www.wsmv.com/2024/03/13/yall-this-is-scary-luke-bryan-calls-help-search-missing-mizzou-student-nashville/).
 
 ## Requirements
 - Python 3.8
