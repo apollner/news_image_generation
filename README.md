@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timberwolves' Karl-Anthony Towns has surgery for meniscus tear**
+**Aaron Rodgers and Jesse Ventura on RFK Jr vice-presidential shortlist**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39717356/timberwolves-karl-anthony-towns-surgery-repair-meniscus-tear-left-knee).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68515517).
 
 ## Requirements
 - Python 3.8
