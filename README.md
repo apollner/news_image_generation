@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Pi Day 2024: Pie and pizza deals at Taco Bell, more**
+**Paul Alexander: 'Man in the iron lung' dies at the age of 78**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2024/03/13/national-pi-day-deals/72898764007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68555051).
 
 ## Requirements
 - Python 3.8
