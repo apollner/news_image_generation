@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breaking down Saquon Barkley's 3-year contract with Eagles**
+**Big Ten Basketball tournament bracket: Full TV schedule, scores, results for 2024 championship**
 
-You can read more about it [here](http://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/breaking-down-saquon-barkleys-3-year-contract-with-eagles/570978/).
+You can read more about it [here](https://www.freep.com/story/sports/college/2024/03/13/big-ten-basketball-tournament-bracket-full-tv-schedule-scores-results/72935062007/).
 
 ## Requirements
 - Python 3.8
