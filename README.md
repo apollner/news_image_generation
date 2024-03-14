@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the US military plans to construct a pier and get food into Gaza**
+**Navalny’s former chief of staff Leonid Volkov attacked with hammer in Lithuania**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68534370).
+You can read more about it [here](https://www.cnn.com/2024/03/12/europe/leonid-volkov-hammer-attack-lithuania-intl/index.html).
 
 ## Requirements
 - Python 3.8
