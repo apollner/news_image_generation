@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing whistleblower death compounds bad news for the company**
+**What the February CPI Report Means for the Fed**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/03/12/boeing-whistleblower-death-plane-issues/).
+You can read more about it [here](https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-03-12-2024).
 
 ## Requirements
 - Python 3.8
