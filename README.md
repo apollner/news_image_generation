@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Alexander: 'Man in the iron lung' dies at the age of 78**
+**Summer Game Fest 2024 Date and Livestream Details Officially Announced**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68555051).
+You can read more about it [here](https://www.ign.com/articles/summer-game-fest-2024-date-and-livestream-details-officially-announced).
 
 ## Requirements
 - Python 3.8
