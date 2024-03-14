@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denver, Colorado snow forecast says over a foot possible**
+**How the US military plans to construct a pier and get food into Gaza**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/03/12/denver-colorado-snow-forecast-says-up-to-a-foot-in-mid-march/72943026007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68534370).
 
 ## Requirements
 - Python 3.8
