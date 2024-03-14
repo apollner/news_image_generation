@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navalny’s former chief of staff Leonid Volkov attacked with hammer in Lithuania**
+**Orange County leads Southern California in cancer rates among 18 to 49 year olds: report**
 
-You can read more about it [here](https://www.cnn.com/2024/03/12/europe/leonid-volkov-hammer-attack-lithuania-intl/index.html).
+You can read more about it [here](https://ktla.com/news/local-news/orange-county-leads-southern-california-in-cancer-rates-among-18-to-49-year-olds-report/).
 
 ## Requirements
 - Python 3.8
