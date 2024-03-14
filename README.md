@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde police chief to resign after report defended officers' shooting response**
+**Giant redwoods: World’s largest trees 'thriving in UK'**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/12/uvalde-police-chief-resigning/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68518623).
 
 ## Requirements
 - Python 3.8
