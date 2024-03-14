@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers to trade Diontae Johnson to Panthers, sources say**
+**Influencer Andrew Tate can be extradited to the UK after Romanian trial**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39718424/steelers-trading-wr-diontae-johnson-panthers-sources-say).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/13/influencer-andrew-tate-can-be-extradited-to-the-uk-after-romanian-trial).
 
 ## Requirements
 - Python 3.8
