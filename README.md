@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the February CPI Report Means for the Fed**
+**Jonathan Glazer’s Oscars speech against Israel prompts fierce Jewish reactions**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-03-12-2024).
+You can read more about it [here](https://www.timesofisrael.com/jonathan-glazers-oscars-speech-against-israel-prompts-fierce-jewish-reactions/).
 
 ## Requirements
 - Python 3.8
