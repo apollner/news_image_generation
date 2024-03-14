@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the February CPI Report Means for the Fed**
+**Uvalde police chief to resign after report defended officers' shooting response**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-03-12-2024).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/12/uvalde-police-chief-resigning/).
 
 ## Requirements
 - Python 3.8
