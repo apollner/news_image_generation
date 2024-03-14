@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses some Trump Georgia election subversion charges but leaves most of the case intact**
+**Contract details for Saquon Barkley's 3-year, $37.7M deal with Eagles**
 
-You can read more about it [here](https://www.cnn.com/2024/03/13/politics/georgia-trump-mcafee-election-interference-case/index.html).
+You can read more about it [here](https://theeagleswire.usatoday.com/lists/saquon-barkley-eagles-nfl-free-agency-contract-details/).
 
 ## Requirements
 - Python 3.8
