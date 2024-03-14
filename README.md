@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Gosling and ‘The Fall Guy’ Director David Leitch Premiere Their “Love Letter” to Stunts at SXSW**
+**Denver, Colorado snow forecast says over a foot possible**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-the-fall-guy-sxsw-premiere-1235848360/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/03/12/denver-colorado-snow-forecast-says-up-to-a-foot-in-mid-march/72943026007/).
 
 ## Requirements
 - Python 3.8
