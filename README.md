@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL free agency 2024: Top 10 free agents available for Day 3 include Calvin Ridley, Tyron Smith**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-free-agency-2024-top-10-free-agents-available-for-day-3-include-calvin-ridley-tyron-smith/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
