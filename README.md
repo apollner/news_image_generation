@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leonid Volkov: Navalny ally blames Putin henchmen for attack in Lithuania**
+**Global dividends hit record $1.66 trillion in 2023**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68549966).
+You can read more about it [here](https://www.marketwatch.com/story/global-dividends-hit-record-1-66-trillion-in-2023-as-microsoft-reclaims-top-spot-c017c2b7).
 
 ## Requirements
 - Python 3.8
