@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Splashdown! NASA's SpaceX Crew-7 Returns to Earth After 199 Days in Orbit**
+**Ryan Gosling and ‘The Fall Guy’ Director David Leitch Premiere Their “Love Letter” to Stunts at SXSW**
 
-You can read more about it [here](https://scitechdaily.com/splashdown-nasas-spacex-crew-7-returns-to-earth-after-199-days-in-orbit/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-the-fall-guy-sxsw-premiere-1235848360/).
 
 ## Requirements
 - Python 3.8
