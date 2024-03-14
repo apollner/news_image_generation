@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Contract details for Saquon Barkley's 3-year, $37.7M deal with Eagles**
+**Ancient statue unearthed during parking lot construction: "A complete mystery"**
 
-You can read more about it [here](https://theeagleswire.usatoday.com/lists/saquon-barkley-eagles-nfl-free-agency-contract-details/).
+You can read more about it [here](https://www.cbsnews.com/news/ancient-statue-unearthed-during-parking-lot-construction-a-complete-mystery/).
 
 ## Requirements
 - Python 3.8
