@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisiana man captures video of SpaceX crew returning to earth**
+**Judge dismisses some Trump Georgia election subversion charges but leaves most of the case intact**
 
-You can read more about it [here](https://www.wdsu.com/article/space-x-crew-returns-earth-video/60172746).
+You can read more about it [here](https://www.cnn.com/2024/03/13/politics/georgia-trump-mcafee-election-interference-case/index.html).
 
 ## Requirements
 - Python 3.8
