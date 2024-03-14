@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde police chief to resign after report defended officers' shooting response**
+**Sharon Stone Says ‘Sliver’ Producer Robert Evans Told Her to Have Sex With Co-Star Because ‘Then We’d Have Chemistry’ and ‘That Would Save the Movie’**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/12/uvalde-police-chief-resigning/).
+You can read more about it [here](https://variety.com/2024/film/news/sharon-stone-robert-evans-pressured-sex-sliver-1235939834/).
 
 ## Requirements
 - Python 3.8
