@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Ten Basketball tournament bracket: Full TV schedule, scores, results for 2024 championship**
+**National Pi Day 2024: Pie and pizza deals at Taco Bell, more**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/2024/03/13/big-ten-basketball-tournament-bracket-full-tv-schedule-scores-results/72935062007/).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2024/03/13/national-pi-day-deals/72898764007/).
 
 ## Requirements
 - Python 3.8
