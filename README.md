@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sharon Stone Says ‘Sliver’ Producer Robert Evans Told Her to Have Sex With Co-Star Because ‘Then We’d Have Chemistry’ and ‘That Would Save the Movie’**
+**What the February CPI Report Means for the Fed**
 
-You can read more about it [here](https://variety.com/2024/film/news/sharon-stone-robert-evans-pressured-sex-sliver-1235939834/).
+You can read more about it [here](https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-03-12-2024).
 
 ## Requirements
 - Python 3.8
