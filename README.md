@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. courts require random judge assignments to avoid 'judge shopping'**
+**California lawmaker introduces bill to ban artificial dyes in school cafeterias -- with some kids' favorites making list**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/12/judge-shopping-random-federal-courts/).
+You can read more about it [here](https://nypost.com/2024/03/12/us-news/california-lawmaker-introduces-bill-to-ban-artificial-dyes-in-school-cafeterias/).
 
 ## Requirements
 - Python 3.8
