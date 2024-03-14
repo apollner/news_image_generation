@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California lawmaker introduces bill to ban artificial dyes in school cafeterias -- with some kids' favorites making list**
+**Orange County leads Southern California in cancer rates among 18 to 49 year olds: report**
 
-You can read more about it [here](https://nypost.com/2024/03/12/us-news/california-lawmaker-introduces-bill-to-ban-artificial-dyes-in-school-cafeterias/).
+You can read more about it [here](https://ktla.com/news/local-news/orange-county-leads-southern-california-in-cancer-rates-among-18-to-49-year-olds-report/).
 
 ## Requirements
 - Python 3.8
