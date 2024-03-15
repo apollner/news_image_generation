@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches giant Starship rocket into space on epic 3rd test flight (video)**
+**NFL free agency 2024: Top 10 free agents available for Day 4 include Tyron Smith, Chase Young**
 
-You can read more about it [here](https://www.space.com/spacex-starship-third-test-flight-launch).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-free-agency-2024-top-10-free-agents-available-for-day-4-include-tyron-smith-chase-young/).
 
 ## Requirements
 - Python 3.8
