@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why do some people develop kidney stones**
+**Cincinnati stuns Kansas with blowout in second round of Big 12 tournament, marking latest skid for Jayhawks**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/why-do-some-people-develop-kidney-stones/articleshow/108483205.cms).
+You can read more about it [here](https://sports.yahoo.com/cincinnati-stuns-kansas-blowout-in-second-round-of-big-12-tournament-marking-latest-skid-for-jayhawks-034810782.html).
 
 ## Requirements
 - Python 3.8
