@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How many nuclear weapons does Russia have and who controls them?**
+**Denver metro area school delays, closures for March 14, 2024**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russias-nuclear-arsenal-how-big-is-it-who-controls-it-2024-03-13/).
+You can read more about it [here](https://www.denverpost.com/2024/03/13/denver-school-delays-closures-snow-thursday-march-14/).
 
 ## Requirements
 - Python 3.8
