@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia election: Stage-managed vote will give Putin another term**
+**Eric Kendricks changes mind, will sign with Cowboys instead of 49ers, sources say**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68543919).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39726340/eric-kendricks-changes-mind-sign-cowboys-49ers-sources-say).
 
 ## Requirements
 - Python 3.8
