@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chicago moving forward with migrant shelter evictions amid measles outbreak at Pilsen site**
+**‘Polio Paul,’ who spent most of the past 70 years in an iron lung, dies at 78**
 
-You can read more about it [here](https://wgntv.com/news/chicago-news/chicago-moving-forward-with-migrant-shelter-evictions-amid-measles-outbreak-at-pilsen-site/).
+You can read more about it [here](https://www.cnn.com/2024/03/13/health/paul-alexander-polio-iron-lung/index.html).
 
 ## Requirements
 - Python 3.8
