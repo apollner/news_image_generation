@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dutch anti-Islam populist Geert Wilders abandons PM bid**
+**Russia election: Stage-managed vote will give Putin another term**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68557036).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68543919).
 
 ## Requirements
 - Python 3.8
