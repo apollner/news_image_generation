@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nex Benedict: Oklahoma teenager died by suicide, autopsy says**
+**Dutch anti-Islam populist Geert Wilders abandons PM bid**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68561120).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68557036).
 
 ## Requirements
 - Python 3.8
