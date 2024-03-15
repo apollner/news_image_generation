@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot grows after no big winners Wednesday**
+**Nex Benedict: Oklahoma teenager died by suicide, autopsy says**
 
-You can read more about it [here](https://www.wtae.com/article/winning-numbers-powerball-jackpot-march-13-2024/60193819).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68561120).
 
 ## Requirements
 - Python 3.8
