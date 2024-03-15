@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Love is Blind' reunion drops on Netflix: Follow along live**
+**Mars Unmasked: Giant Volcano and Hidden Ice Challenge Old Theories**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/03/13/love-is-blind-season-6-reunion-live-updates/72951899007/).
+You can read more about it [here](https://scitechdaily.com/mars-unmasked-giant-volcano-and-hidden-ice-challenge-old-theories/).
 
 ## Requirements
 - Python 3.8
