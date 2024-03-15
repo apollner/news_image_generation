@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I-70, Colorado 119 close as snow hits the mountains**
+**Why do some people develop kidney stones**
 
-You can read more about it [here](https://kdvr.com/news/local/colorado-road-closures-march-13-14-snowstorm/).
+You can read more about it [here](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/why-do-some-people-develop-kidney-stones/articleshow/108483205.cms).
 
 ## Requirements
 - Python 3.8
