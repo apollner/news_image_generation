@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL free agency 2024: Top 10 free agents available for Day 4 include Tyron Smith, Chase Young**
+**Stock Market Today: Dow Jones Rises Ahead Of Key Inflation Data; Nvidia, Tesla Extend Losses**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-free-agency-2024-top-10-free-agents-available-for-day-4-include-tyron-smith-chase-young/).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ppi-nvidia-nvda-stock-tesla-tsla-stock/).
 
 ## Requirements
 - Python 3.8
