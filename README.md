@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study says U.S. maternal death rate crisis is really a case of bad data**
+**Warren picks up Biden's call to crack down on 'shrinkflation'**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/03/13/maternal-mortality-study/).
+You can read more about it [here](https://abcnews.go.com/Politics/warren-picks-bidens-call-crack-shrinkflation/story?id=108093054).
 
 ## Requirements
 - Python 3.8
