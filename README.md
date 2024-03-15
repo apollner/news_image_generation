@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marlboro firm sells $2.2bn stake in Bud Light owner**
+**House passes bill that could ban TikTok despite resistance from Trump**
 
-You can read more about it [here](https://www.bbc.com/news/business-68561614).
+You can read more about it [here](https://www.cnn.com/2024/03/13/politics/house-vote-tiktok-ban-bill/index.html).
 
 ## Requirements
 - Python 3.8
