@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Announces Core i9-14900KS: Raptor Lake-R Hits Up To 6.2 GHz**
+**Uber and Lyft in Minneapolis: Ride-hailing apps say May 1 will be final day**
 
-You can read more about it [here](https://www.anandtech.com/show/21298/intel-announces-core-i9-14900ks-raptor-lake-r-hits-up-to-6-2-ghz).
+You can read more about it [here](https://www.fox9.com/news/uber-and-lyft-to-leave-minneapolis).
 
 ## Requirements
 - Python 3.8
