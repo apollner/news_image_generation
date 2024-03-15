@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia election: Stage-managed vote will give Putin another term**
+**'Love is Blind' reunion drops on Netflix: Follow along live**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68543919).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/03/13/love-is-blind-season-6-reunion-live-updates/72951899007/).
 
 ## Requirements
 - Python 3.8
