@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Bowl victory parade shooting: 3 men charged with federal counts**
+**SpaceX launches giant Starship rocket into space on epic 3rd test flight (video)**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/14/kansas-city-chiefs-super-bowl-victory-parade-shooting-federal-counts/72964485007/).
+You can read more about it [here](https://www.space.com/spacex-starship-third-test-flight-launch).
 
 ## Requirements
 - Python 3.8
