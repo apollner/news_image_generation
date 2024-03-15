@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Democrat Schumer calls for new elections in Israel, saying Netanyahu is an obstacle to peace**
+**Intel Announces Core i9-14900KS: Raptor Lake-R Hits Up To 6.2 GHz**
 
-You can read more about it [here](https://apnews.com/article/schumer-netanyahu-israel-palestinians-elections-1ebf21e4c9c0f6f42478bb26e1db7a9b).
+You can read more about it [here](https://www.anandtech.com/show/21298/intel-announces-core-i9-14900ks-raptor-lake-r-hits-up-to-6-2-ghz).
 
 ## Requirements
 - Python 3.8
