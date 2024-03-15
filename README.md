@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia election: Stage-managed vote will give Putin another term**
+**Chicago moving forward with migrant shelter evictions amid measles outbreak at Pilsen site**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68543919).
+You can read more about it [here](https://wgntv.com/news/chicago-news/chicago-moving-forward-with-migrant-shelter-evictions-amid-measles-outbreak-at-pilsen-site/).
 
 ## Requirements
 - Python 3.8
