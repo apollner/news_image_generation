@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William Affair Rumor Hits Mainstream Media**
+**Kourtney Kardashian Praised Over Breast Pumping Photo**
 
-You can read more about it [here](https://www.newsweek.com/prince-william-affair-rumor-stephen-colbert-1879128).
+You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/kourtney-kardashian-praised-over-breast-pumping-photo).
 
 ## Requirements
 - Python 3.8
