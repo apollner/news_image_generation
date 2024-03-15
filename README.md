@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Polio Paul,’ who spent most of the past 70 years in an iron lung, dies at 78**
+**Russia election: Stage-managed vote will give Putin another term**
 
-You can read more about it [here](https://www.cnn.com/2024/03/13/health/paul-alexander-polio-iron-lung/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68543919).
 
 ## Requirements
 - Python 3.8
