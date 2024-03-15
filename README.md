@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump's Georgia judge dismisses some criminal charges**
+**Christie Brinkley reveals skin cancer diagnosis: 'Stitched me up to perfection'**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68557486).
+You can read more about it [here](https://www.foxnews.com/entertainment/christie-brinkley-reveals-skin-cancer-diagnosis-stitched-me-up-perfection).
 
 ## Requirements
 - Python 3.8
