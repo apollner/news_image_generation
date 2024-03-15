@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clinton County Office of Emergency Services advises extra preparations for April's Total Solar Eclipse**
+**Russia election: Stage-managed vote will give Putin another term**
 
-You can read more about it [here](https://www.mynbc5.com/article/clinton-county-office-of-emergency-services-advises-extra-preparations-for-aprils-total-solar-eclipse/60193041).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68543919).
 
 ## Requirements
 - Python 3.8
