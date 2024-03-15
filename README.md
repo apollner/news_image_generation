@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Portions of I-70 closed in Colorado mountains as winter storm expected to bring feet of snow**
+**Elon Musk says he's 'leaning away from Biden'**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/portions-i-70-closed-colorado-mountains-winter-storm-expected-bring-feet-snow/).
+You can read more about it [here](https://nypost.com/2024/03/13/us-news/elon-musk-says-hes-leaning-away-from-biden/).
 
 ## Requirements
 - Python 3.8
