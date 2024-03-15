@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eric Kendricks changes mind, will sign with Cowboys instead of 49ers, sources say**
+**Chicago moving forward with migrant shelter evictions amid measles outbreak at Pilsen site**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39726340/eric-kendricks-changes-mind-sign-cowboys-49ers-sources-say).
+You can read more about it [here](https://wgntv.com/news/chicago-news/chicago-moving-forward-with-migrant-shelter-evictions-amid-measles-outbreak-at-pilsen-site/).
 
 ## Requirements
 - Python 3.8
