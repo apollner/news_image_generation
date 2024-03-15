@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christie Brinkley reveals skin cancer diagnosis: 'Stitched me up to perfection'**
+**RFK Jr. to announce vice presidential pick at the end of March**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/christie-brinkley-reveals-skin-cancer-diagnosis-stitched-me-up-perfection).
+You can read more about it [here](https://www.politico.com/news/2024/03/13/rfk-jr-vice-presidential-pick-00146821).
 
 ## Requirements
 - Python 3.8
