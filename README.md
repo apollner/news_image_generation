@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Flacco agrees with Colts on one-year deal, sources say**
+**Study says U.S. maternal death rate crisis is really a case of bad data**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39726219/joe-flacco-agrees-colts-one-year-deal).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/03/13/maternal-mortality-study/).
 
 ## Requirements
 - Python 3.8
