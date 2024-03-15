@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Valve COO on Epic's Tim Sweeney "you mad bro?" when launching the Epic Store**
+**Prince William Affair Rumor Hits Mainstream Media**
 
-You can read more about it [here](https://www.gamingonlinux.com/2024/03/valve-coo-on-epics-tim-sweeney-you-mad-bro-when-launching-the-epic-store/.).
+You can read more about it [here](https://www.newsweek.com/prince-william-affair-rumor-stephen-colbert-1879128).
 
 ## Requirements
 - Python 3.8
