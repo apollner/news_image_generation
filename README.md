@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denver metro area school delays, closures for March 14, 2024**
+**Joe Flacco agrees with Colts on one-year deal, sources say**
 
-You can read more about it [here](https://www.denverpost.com/2024/03/13/denver-school-delays-closures-snow-thursday-march-14/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39726219/joe-flacco-agrees-colts-one-year-deal).
 
 ## Requirements
 - Python 3.8
