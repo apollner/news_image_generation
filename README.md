@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cincinnati stuns Kansas with blowout in second round of Big 12 tournament, marking latest skid for Jayhawks**
+**Super Bowl victory parade shooting: 3 men charged with federal counts**
 
-You can read more about it [here](https://sports.yahoo.com/cincinnati-stuns-kansas-blowout-in-second-round-of-big-12-tournament-marking-latest-skid-for-jayhawks-034810782.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/14/kansas-city-chiefs-super-bowl-victory-parade-shooting-federal-counts/72964485007/).
 
 ## Requirements
 - Python 3.8
