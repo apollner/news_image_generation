@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars Unmasked: Giant Volcano and Hidden Ice Challenge Old Theories**
+**I-70, Colorado 119 close as snow hits the mountains**
 
-You can read more about it [here](https://scitechdaily.com/mars-unmasked-giant-volcano-and-hidden-ice-challenge-old-theories/).
+You can read more about it [here](https://kdvr.com/news/local/colorado-road-closures-march-13-14-snowstorm/).
 
 ## Requirements
 - Python 3.8
