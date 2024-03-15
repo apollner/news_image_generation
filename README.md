@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says he's 'leaning away from Biden'**
+**Powerball jackpot grows after no big winners Wednesday**
 
-You can read more about it [here](https://nypost.com/2024/03/13/us-news/elon-musk-says-hes-leaning-away-from-biden/).
+You can read more about it [here](https://www.wtae.com/article/winning-numbers-powerball-jackpot-march-13-2024/60193819).
 
 ## Requirements
 - Python 3.8
