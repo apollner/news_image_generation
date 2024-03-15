@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow Jones Rises Ahead Of Key Inflation Data; Nvidia, Tesla Extend Losses**
+**Retail sales rebound in February in sign of consumer spending resilience**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ppi-nvidia-nvda-stock-tesla-tsla-stock/).
+You can read more about it [here](https://finance.yahoo.com/news/retail-sales-rebound-in-february-in-sign-of-consumer-spending-resilience-124309447.html).
 
 ## Requirements
 - Python 3.8
