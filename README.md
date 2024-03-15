@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Seahawks trading for Commanders QB Sam Howell, sources say**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39732640/seahawks-trading-commanders-qb-sam-howell-sources-say).
 
 ## Requirements
 - Python 3.8
