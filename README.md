@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chicago moving forward with migrant shelter evictions amid measles outbreak at Pilsen site**
+**Marlboro firm sells $2.2bn stake in Bud Light owner**
 
-You can read more about it [here](https://wgntv.com/news/chicago-news/chicago-moving-forward-with-migrant-shelter-evictions-amid-measles-outbreak-at-pilsen-site/).
+You can read more about it [here](https://www.bbc.com/news/business-68561614).
 
 ## Requirements
 - Python 3.8
