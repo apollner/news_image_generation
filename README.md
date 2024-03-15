@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seahawks trading for Commanders QB Sam Howell, sources say**
+**Shohei Ohtani posts first photo with wife ahead of Dodgers' trip to South Korea**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39732640/seahawks-trading-commanders-qb-sam-howell-sources-say).
+You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-posts-first-photo-with-wife-ahead-of-dodgers-trip-to-south-korea-175821892.html).
 
 ## Requirements
 - Python 3.8
