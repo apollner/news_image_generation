@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani posts first photo with wife ahead of Dodgers' trip to South Korea**
+**Top Democrat Schumer calls for new elections in Israel, saying Netanyahu is an obstacle to peace**
 
-You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-posts-first-photo-with-wife-ahead-of-dodgers-trip-to-south-korea-175821892.html).
+You can read more about it [here](https://apnews.com/article/schumer-netanyahu-israel-palestinians-elections-1ebf21e4c9c0f6f42478bb26e1db7a9b).
 
 ## Requirements
 - Python 3.8
