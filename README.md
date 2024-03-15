@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is the new extremism definition and which groups might be on the list?**
+**Lions extend HC Dan Campbell, GM Brad Holmes through 2027**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68564429).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39730362/lions-extend-hc-dan-campbell-gm-brad-holmes-2027).
 
 ## Requirements
 - Python 3.8
