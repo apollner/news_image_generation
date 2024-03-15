@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Retail sales rebound in February in sign of consumer spending resilience**
+**What is the new extremism definition and which groups might be on the list?**
 
-You can read more about it [here](https://finance.yahoo.com/news/retail-sales-rebound-in-february-in-sign-of-consumer-spending-resilience-124309447.html).
+You can read more about it [here](https://www.bbc.com/news/uk-68564429).
 
 ## Requirements
 - Python 3.8
