@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. to announce vice presidential pick at the end of March**
+**How many nuclear weapons does Russia have and who controls them?**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/13/rfk-jr-vice-presidential-pick-00146821).
+You can read more about it [here](https://www.reuters.com/world/europe/russias-nuclear-arsenal-how-big-is-it-who-controls-it-2024-03-13/).
 
 ## Requirements
 - Python 3.8
