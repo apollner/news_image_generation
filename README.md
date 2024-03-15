@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren picks up Biden's call to crack down on 'shrinkflation'**
+**Clinton County Office of Emergency Services advises extra preparations for April's Total Solar Eclipse**
 
-You can read more about it [here](https://abcnews.go.com/Politics/warren-picks-bidens-call-crack-shrinkflation/story?id=108093054).
+You can read more about it [here](https://www.mynbc5.com/article/clinton-county-office-of-emergency-services-advises-extra-preparations-for-aprils-total-solar-eclipse/60193041).
 
 ## Requirements
 - Python 3.8
