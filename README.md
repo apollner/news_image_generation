@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Players Championship: ‘Adamant’ Rory McIlroy says his conscience is clear after lengthy rules dispute with Jordan Spieth**
+**James Crumbley: Father of Michigan school gunman convicted of manslaughter**
 
-You can read more about it [here](https://www.cnn.com/2024/03/14/sport/mcilroy-spieth-rules-drop-players-championship-spt-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68572112).
 
 ## Requirements
 - Python 3.8
