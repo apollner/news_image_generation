@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Donald retires: Is the Rams legend the best DT ever?**
+**FAA to oversee investigation of SpaceX Starship's 3rd test flight**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39738657/aaron-donald-retires-rams-legend-best-defensive-tackle-ever-contract-cap-space).
+You can read more about it [here](https://www.space.com/spacex-starship-third-test-flight-faa-investigation).
 
 ## Requirements
 - Python 3.8
