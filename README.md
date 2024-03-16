@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Crumbley: Father of Michigan school gunman convicted of manslaughter**
+**ByteDance's US investors weigh options as bill to ban TikTok advances**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68572112).
+You can read more about it [here](https://www.ft.com/content/d61bf63a-6c05-43c5-b718-3b645b80b021).
 
 ## Requirements
 - Python 3.8
