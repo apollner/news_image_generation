@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pornhub disabled in Texas over age-verification requirements**
+**Biden opposes Japanese takeover of US Steel, touts ‘American steelworkers’**
 
-You can read more about it [here](https://www.texastribune.org/2024/03/14/texas-pornhub-5th-circuit-age-verification-paxton/).
+You can read more about it [here](https://www.aljazeera.com/economy/2024/3/15/biden-opposes-japanese-takeover-of-us-steel-touts-american-steel-workers).
 
 ## Requirements
 - Python 3.8
