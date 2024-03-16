@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No such thing as 'long COVID,' health agency says in shock claim: 'Unnecessary fear'**
+**Rishi Sunak rules out general election on 2 May**
 
-You can read more about it [here](https://nypost.com/2024/03/14/lifestyle/no-such-thing-as-long-covid-health-agency-says-in-shock-claim-unnecessary-fear/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68568448).
 
 ## Requirements
 - Python 3.8
