@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father of Michigan school shooter found guilty of manslaughter weeks after mother’s conviction**
+**Players Championship: ‘Adamant’ Rory McIlroy says his conscience is clear after lengthy rules dispute with Jordan Spieth**
 
-You can read more about it [here](https://www.cnn.com/2024/03/14/us/james-crumbley-manslaughter-trial-thursday/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/14/sport/mcilroy-spieth-rules-drop-players-championship-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
