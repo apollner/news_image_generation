@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF probe: Palestinian gunmen killed Gazans waiting for aid, army did not fire**
+**[Removed]**
 
-You can read more about it [here](https://www.timesofisrael.com/idf-probe-palestinian-gunmen-killed-gazans-waiting-for-aid-army-did-not-fire/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
