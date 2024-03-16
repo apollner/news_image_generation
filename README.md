@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong leads losses in Asia after hot U.S. inflation report; first estimates from Japan's wage negotiations expected**
+**Israel downplays truce prospects after Hamas response**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/15/asia-markets.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68573551).
 
 ## Requirements
 - Python 3.8
