@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency disaster declaration issued in 2 Colorado counties due to snowstorm**
+**St. John's earns huge win over Seton Hall in Big East quarterfinals to likely punch March Madness ticket**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/emergency-disaster-declaration-issued-2-colorado-counties-snowstorm/).
+You can read more about it [here](https://nypost.com/2024/03/14/sports/st-johns-beats-seton-hall-to-likely-punch-march-madness-ticket/).
 
 ## Requirements
 - Python 3.8
