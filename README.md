@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vodafone Wraps Up Overhaul With €8 Billion Italy Deal, Buyback**
+**Fed Seen Sticking With Three 2024 Cuts Despite Higher Inflation**
 
-You can read more about it [here](https://finance.yahoo.com/news/vodafone-sells-italian-business-swisscom-075628581.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-15/fed-seen-sticking-with-three-2024-cuts-despite-higher-inflation).
 
 ## Requirements
 - Python 3.8
