@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks slump after hot inflation print**
+**US Steel Deal Latest: Cleveland Weighs Low Bid With Union Support**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-slump-after-hot-inflation-print-160639297.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-14/cliffs-ceo-weighs-lowball-bid-for-us-steel-with-union-backing).
 
 ## Requirements
 - Python 3.8
