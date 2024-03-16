@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**St. John's earns huge win over Seton Hall in Big East quarterfinals to likely punch March Madness ticket**
+**Bears acquire Pro Bowl WR Keenan Allen from Chargers in exchange for fourth-round pick**
 
-You can read more about it [here](https://nypost.com/2024/03/14/sports/st-johns-beats-seton-hall-to-likely-punch-march-madness-ticket/).
+You can read more about it [here](https://www.nfl.com/news/bears-acquire-pro-bowl-wr-keenan-allen-from-chargers-in-exchange-for-fourth-round-pick).
 
 ## Requirements
 - Python 3.8
