@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald’s stores hit by global IT failure**
+**Hamas presents ceasefire proposal detailing exchange of hostages, prisoners**
 
-You can read more about it [here](https://www.cnn.com/2024/03/15/business/mcdonalds-systems-failure/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-issues-ceasefire-proposal-mediators-which-includes-exchanging-2024-03-15/).
 
 ## Requirements
 - Python 3.8
