@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber and Lyft in Minneapolis: Ride-hailing apps say May 1 will be final day**
+**Biden's Nippon Steel Fiasco - WSJ**
 
-You can read more about it [here](https://www.fox9.com/news/uber-and-lyft-to-leave-minneapolis).
+You can read more about it [here](https://www.wsj.com/articles/joe-biden-nippon-steel-japan-u-s-steel-cleveland-cliffs-b12a5e6c).
 
 ## Requirements
 - Python 3.8
