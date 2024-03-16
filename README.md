@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber and Lyft in Minneapolis: Ride-hailing apps say May 1 will be final day**
+**New Details Emerge About Kate Middleton's Doctored Pic: Report**
 
-You can read more about it [here](https://www.fox9.com/news/uber-and-lyft-to-leave-minneapolis).
+You can read more about it [here](https://www.thedailybeast.com/new-details-emerge-about-kate-middletons-photoshopped-pic-report-says).
 
 ## Requirements
 - Python 3.8
