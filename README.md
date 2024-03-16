@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas presents ceasefire proposal detailing exchange of hostages, prisoners**
+**Grading the good, bad and ugly of every major NFL free agency 2024 deal**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-issues-ceasefire-proposal-mediators-which-includes-exchanging-2024-03-15/).
+You can read more about it [here](https://theathletic.com/5332081/2024/03/14/nfl-2024-free-agency-grades/).
 
 ## Requirements
 - Python 3.8
