@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macron doubles down on possible NATO deployment in Ukraine ahead of talks to bridge rift with Germany**
+**IDF probe: Palestinian gunmen killed Gazans waiting for aid, army did not fire**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/15/macron-doubles-down-on-nato-deployment-in-ukraine.html).
+You can read more about it [here](https://www.timesofisrael.com/idf-probe-palestinian-gunmen-killed-gazans-waiting-for-aid-army-did-not-fire/).
 
 ## Requirements
 - Python 3.8
