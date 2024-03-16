@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak rules out general election on 2 May**
+**Father of Michigan school shooter found guilty of manslaughter weeks after mother’s conviction**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68568448).
+You can read more about it [here](https://www.cnn.com/2024/03/14/us/james-crumbley-manslaughter-trial-thursday/index.html).
 
 ## Requirements
 - Python 3.8
