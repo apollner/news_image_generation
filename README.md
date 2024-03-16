@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe storms – with reports of strong tornadoes – destroy buildings and knock out power in Indiana and Ohio**
+**Pornhub disabled in Texas over age-verification requirements**
 
-You can read more about it [here](https://www.cnn.com/2024/03/15/weather/indiana-ohio-storm-tornado-damage-friday/index.html).
+You can read more about it [here](https://www.texastribune.org/2024/03/14/texas-pornhub-5th-circuit-age-verification-paxton/).
 
 ## Requirements
 - Python 3.8
