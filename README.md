@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's Nippon Steel Fiasco - WSJ**
+**Emergency disaster declaration issued in 2 Colorado counties due to snowstorm**
 
-You can read more about it [here](https://www.wsj.com/articles/joe-biden-nippon-steel-japan-u-s-steel-cleveland-cliffs-b12a5e6c).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/emergency-disaster-declaration-issued-2-colorado-counties-snowstorm/).
 
 ## Requirements
 - Python 3.8
