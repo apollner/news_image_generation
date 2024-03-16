@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 giant inflatable colons help Intermountain Health cancer experts raise colon cancer awareness**
+**Apple reaches $490 million settlement over Tim Cook's China sales comments**
 
-You can read more about it [here](https://www.ksl.com/article/50943032/2-giant-inflatable-colons-help-intermountain-health-cancer-experts-raise-colon-cancer-awareness).
+You can read more about it [here](https://www.cnbc.com/2024/03/15/apple-reaches-490-million-settlement-over-tim-cooks-china-sales-comments-.html).
 
 ## Requirements
 - Python 3.8
