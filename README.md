@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia election: Arrests for vandalism as ballot boxes targeted in Putin vote**
+**Aaron Donald retires: Is the Rams legend the best DT ever?**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68576817).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39738657/aaron-donald-retires-rams-legend-best-defensive-tackle-ever-contract-cap-space).
 
 ## Requirements
 - Python 3.8
