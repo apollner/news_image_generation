@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gerrit Cole will go with rest and rehab rather than Tommy John surgery, reportedly facing 10-12 week timetable**
+**Jurors found a teen school shooter’s father and mother guilty of manslaughter. Here’s what the verdicts mean for parents**
 
-You can read more about it [here](https://sports.yahoo.com/gerrit-cole-will-go-with-rest-and-rehab-rather-than-tommy-john-surgery-reportedly-facing-10-12-week-timetable-025211460.html).
+You can read more about it [here](https://www.cnn.com/2024/03/15/us/james-jennifer-crumbley-verdict-parents/index.html).
 
 ## Requirements
 - Python 3.8
