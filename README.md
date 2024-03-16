@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia election: Arrests for vandalism as ballot boxes targeted in Putin vote**
+**Biden backs Schumer after senator calls for new elections in Israel**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68576817).
+You can read more about it [here](https://apnews.com/article/joe-biden-netanyahu-israel-gaza-schumer-de9cc522cdce548469578a4be48c7349).
 
 ## Requirements
 - Python 3.8
