@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Starship disintegrates after completing most of third test flight**
+**Hong Kong leads losses in Asia after hot U.S. inflation report; first estimates from Japan's wage negotiations expected**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-hoping-launch-starship-farther-third-test-flight-2024-03-14/).
+You can read more about it [here](https://www.cnbc.com/2024/03/15/asia-markets.html).
 
 ## Requirements
 - Python 3.8
