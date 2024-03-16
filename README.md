@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL free agent rankings: Top 50 players available include Justin Simmons, Xavien Howard and more**
+**No such thing as 'long COVID,' health agency says in shock claim: 'Unnecessary fear'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-free-agent-rankings-top-50-players-available-include-justin-simmons-xavien-howard-and-more/).
+You can read more about it [here](https://nypost.com/2024/03/14/lifestyle/no-such-thing-as-long-covid-health-agency-says-in-shock-claim-unnecessary-fear/).
 
 ## Requirements
 - Python 3.8
