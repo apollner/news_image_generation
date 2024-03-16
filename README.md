@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Details Emerge About Kate Middleton's Doctored Pic: Report**
+**Stock market today: Stocks slump after hot inflation print**
 
-You can read more about it [here](https://www.thedailybeast.com/new-details-emerge-about-kate-middletons-photoshopped-pic-report-says).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-slump-after-hot-inflation-print-160639297.html).
 
 ## Requirements
 - Python 3.8
