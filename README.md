@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian President Abbas appoints Mohammed Mustafa as prime minister**
+**Uber and Lyft in Minneapolis: Ride-hailing apps say May 1 will be final day**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/14/palestinian-authority-president-abbas-appoints-mohammed-mustafa-prime-minister).
+You can read more about it [here](https://www.fox9.com/news/uber-and-lyft-to-leave-minneapolis).
 
 ## Requirements
 - Python 3.8
