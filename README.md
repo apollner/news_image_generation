@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears acquire Pro Bowl WR Keenan Allen from Chargers in exchange for fourth-round pick**
+**2024 NFL free agent rankings: Top 50 players available include Justin Simmons, Xavien Howard and more**
 
-You can read more about it [here](https://www.nfl.com/news/bears-acquire-pro-bowl-wr-keenan-allen-from-chargers-in-exchange-for-fourth-round-pick).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-free-agent-rankings-top-50-players-available-include-justin-simmons-xavien-howard-and-more/).
 
 ## Requirements
 - Python 3.8
