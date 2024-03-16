@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**In shadow of Trump tweets, Supreme Court outlines when officials can be sued for social media use**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcnews.com/politics/supreme-court/supreme-court-outlines-officials-can-sued-blocking-people-social-media-rcna135128).
 
 ## Requirements
 - Python 3.8
