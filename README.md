@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jurors found a teen school shooter’s father and mother guilty of manslaughter. Here’s what the verdicts mean for parents**
+**2 giant inflatable colons help Intermountain Health cancer experts raise colon cancer awareness**
 
-You can read more about it [here](https://www.cnn.com/2024/03/15/us/james-jennifer-crumbley-verdict-parents/index.html).
+You can read more about it [here](https://www.ksl.com/article/50943032/2-giant-inflatable-colons-help-intermountain-health-cancer-experts-raise-colon-cancer-awareness).
 
 ## Requirements
 - Python 3.8
