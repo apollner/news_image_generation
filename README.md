@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In shadow of Trump tweets, Supreme Court outlines when officials can be sued for social media use**
+**Gerrit Cole will go with rest and rehab rather than Tommy John surgery, reportedly facing 10-12 week timetable**
 
-You can read more about it [here](https://www.nbcnews.com/politics/supreme-court/supreme-court-outlines-officials-can-sued-blocking-people-social-media-rcna135128).
+You can read more about it [here](https://sports.yahoo.com/gerrit-cole-will-go-with-rest-and-rehab-rather-than-tommy-john-surgery-reportedly-facing-10-12-week-timetable-025211460.html).
 
 ## Requirements
 - Python 3.8
