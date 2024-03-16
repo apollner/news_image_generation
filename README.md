@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Steel Deal Latest: Cleveland Weighs Low Bid With Union Support**
+**Palestinian President Abbas appoints Mohammed Mustafa as prime minister**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-14/cliffs-ceo-weighs-lowball-bid-for-us-steel-with-union-backing).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/14/palestinian-authority-president-abbas-appoints-mohammed-mustafa-prime-minister).
 
 ## Requirements
 - Python 3.8
