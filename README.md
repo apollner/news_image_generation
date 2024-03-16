@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breakthrough Therapy Obliterates Deadly Brain Tumor in Days**
+**SpaceX Starship disintegrates after completing most of third test flight**
 
-You can read more about it [here](https://www.sciencealert.com/breakthrough-therapy-obliterates-deadly-brain-tumor-in-days).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-hoping-launch-starship-farther-third-test-flight-2024-03-14/).
 
 ## Requirements
 - Python 3.8
