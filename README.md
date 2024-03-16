@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reaches $490 million settlement over Tim Cook's China sales comments**
+**Russia election: Arrests for vandalism as ballot boxes targeted in Putin vote**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/15/apple-reaches-490-million-settlement-over-tim-cooks-china-sales-comments-.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68576817).
 
 ## Requirements
 - Python 3.8
