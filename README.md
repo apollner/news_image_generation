@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grading the good, bad and ugly of every major NFL free agency 2024 deal**
+**Schumer's rebuke of Netanyahu shows the long, fragile line the US and allies walk on interference**
 
-You can read more about it [here](https://theathletic.com/5332081/2024/03/16/nfl-2024-free-agency-grades/).
+You can read more about it [here](https://apnews.com/article/schumer-netanyahu-israel-poland-hamas-3c86e541396fda36b0ef05b2d36c28e5).
 
 ## Requirements
 - Python 3.8
