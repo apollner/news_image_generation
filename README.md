@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers Outfielder on Shohei Ohtani: 'He's Like Elvis'**
+**What to know about judge's ruling allowing Fani Willis to stay on Trump's Georgia election case**
 
-You can read more about it [here](https://www.si.com/mlb/dodgers/news/dodgers-outfielder-on-shohei-ohtani-hes-like-elvis-eg2001).
+You can read more about it [here](https://apnews.com/article/fani-willis-wade-trump-georgia-election-takeaways-150a46abe71ee76da2c0050798a5d93e).
 
 ## Requirements
 - Python 3.8
