@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to hear free speech case over government pressure on social media sites to remove content**
+**Blind 750-pound alligator seized from New York home, setting up showdown as owner vows to "fight them to get him back"**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-social-media-sites-government-content-misinformation-censorship/).
+You can read more about it [here](https://www.cbsnews.com/news/hamburg-alligator-seized-albert-blind-new-york-home/).
 
 ## Requirements
 - Python 3.8
