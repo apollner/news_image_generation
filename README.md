@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles acquire Kenny Pickett in a trade with the Steelers**
+**Grading the good, bad and ugly of every major NFL free agency 2024 deal**
 
-You can read more about it [here](https://www.philadelphiaeagles.com/news/eagles-kenny-pickett-trade-steelers).
+You can read more about it [here](https://theathletic.com/5332081/2024/03/16/nfl-2024-free-agency-grades/).
 
 ## Requirements
 - Python 3.8
