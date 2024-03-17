@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colon cancer growing danger for particular age group, San Antonio doctor says**
+**Winner of Powerball's second-largest jackpot worth $1.765B revealed**
 
-You can read more about it [here](https://www.ksat.com/news/local/2024/03/15/colon-cancer-growing-danger-for-particular-age-group-san-antonio-doctor-says/).
+You can read more about it [here](https://nypost.com/2024/03/16/us-news/powerball-1-765-billion-jackpot-winner-theodorus-struyck-revealed-in-california/).
 
 ## Requirements
 - Python 3.8
