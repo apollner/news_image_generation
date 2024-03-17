@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Photos: Miami Beach curfew clears out Ocean Drive during peak spring break weekend**
+**The PS5 Pro is reportedly coming this holiday season**
 
-You can read more about it [here](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article286689160.html).
+You can read more about it [here](https://www.engadget.com/the-ps5-pro-is-reportedly-coming-this-holiday-season-084404542.html).
 
 ## Requirements
 - Python 3.8
