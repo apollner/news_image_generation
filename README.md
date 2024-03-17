@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Israel-Hamas war news and Gaza conflict updates**
+**On four year anniversary of covid, families remember flags on Mall**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/03/16/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/17/covid-families-flags-pandemic-grief/).
 
 ## Requirements
 - Python 3.8
