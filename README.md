@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia election: Russians cast ballots on Day 2**
+**Cease-fire talks with Israel and Hamas are expected to resume on Sunday in Qatar**
 
-You can read more about it [here](https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-03-16-2024-53a0fff49d9196fc38f75ad1b37a64bf).
 
 ## Requirements
 - Python 3.8
