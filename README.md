@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden backs top Democrat Chuck Schumer after call for Israeli election**
+**Eclipse 2024 events near me: A list of public festivities on April 8**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68580016).
+You can read more about it [here](https://www.usatoday.com/story/travel/news/2024/03/15/solar-eclipse-2024-events-near-me/72949281007/).
 
 ## Requirements
 - Python 3.8
