@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delays in Trump's criminal cases are increasing. Which trials are delayed and why?**
+**Gaza aid reaches shore in first sea delivery**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-hush-money-new-york-trials-delays-f0457777333405498fe7d106756b712a).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68581090).
 
 ## Requirements
 - Python 3.8
