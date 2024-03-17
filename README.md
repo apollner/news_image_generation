@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing 737 loses external panel mid-flight, lands safely in Oregon in latest plane incident**
+**Dodgers Outfielder on Shohei Ohtani: 'He's Like Elvis'**
 
-You can read more about it [here](https://nypost.com/2024/03/15/us-news/boeing-737-loses-external-panel-mid-flight/).
+You can read more about it [here](https://www.si.com/mlb/dodgers/news/dodgers-outfielder-on-shohei-ohtani-hes-like-elvis-eg2001).
 
 ## Requirements
 - Python 3.8
