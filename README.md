@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cease-fire talks with Israel and Hamas are expected to resume on Sunday in Qatar**
+**Live updates: Suspect in custody after deadly Pennsylvania shootings, police say**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-03-16-2024-53a0fff49d9196fc38f75ad1b37a64bf).
+You can read more about it [here](https://www.cnn.com/us/live-news/falls-township-shootings-pennsylvania-03-16-24/index.html).
 
 ## Requirements
 - Python 3.8
