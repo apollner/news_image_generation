@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Does trade for Kenny Pickett signify a shift in Eagles' offense?**
+**Why does Biden keep mentioning January 6? Because Trump won’t stop talking about it**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/does-trade-for-kenny-pickett-signify-a-shift-in-eagles-offense).
+You can read more about it [here](https://www.cnn.com/2024/03/16/politics/biden-trump-january-6/index.html).
 
 ## Requirements
 - Python 3.8
