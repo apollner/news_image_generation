@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hertz (HTZ) Replaces CEO Stephen Scherr After EV Bet Fizzles**
+**Kate Middleton 'may never' release a photo again after scandal: expert**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-15/hertz-replaces-ceo-with-former-gm-cruise-executive-after-ev-bet-fizzles).
+You can read more about it [here](https://nypost.com/2024/03/15/entertainment/kate-middleton-may-never-release-a-photo-again-after-scandal-expert/).
 
 ## Requirements
 - Python 3.8
