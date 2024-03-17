@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eclipse 2024 events near me: A list of public festivities on April 8**
+**Photos: Miami Beach curfew clears out Ocean Drive during peak spring break weekend**
 
-You can read more about it [here](https://www.usatoday.com/story/travel/news/2024/03/15/solar-eclipse-2024-events-near-me/72949281007/).
+You can read more about it [here](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article286689160.html).
 
 ## Requirements
 - Python 3.8
