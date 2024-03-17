@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA to oversee investigation of SpaceX Starship's 3rd test flight**
+**At least 20 killed awaiting aid in Gaza as new cease-fire offer debated**
 
-You can read more about it [here](https://www.space.com/spacex-starship-third-test-flight-faa-investigation).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/03/15/israel-gaza-aid-hamas-shooting/).
 
 ## Requirements
 - Python 3.8
