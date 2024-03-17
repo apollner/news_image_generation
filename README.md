@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jupiter Unveiled: Hubble Captures the Giant's Roaring Storms and Volcanic Moon Io**
+**Gaza aid reaches shore in first sea delivery**
 
-You can read more about it [here](https://scitechdaily.com/jupiter-unveiled-hubble-captures-the-giants-roaring-storms-and-volcanic-moon-io/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68581090).
 
 ## Requirements
 - Python 3.8
