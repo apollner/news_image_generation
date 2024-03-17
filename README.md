@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 20 killed awaiting aid in Gaza as new cease-fire offer debated**
+**Hertz (HTZ) Replaces CEO Stephen Scherr After EV Bet Fizzles**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/03/15/israel-gaza-aid-hamas-shooting/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-15/hertz-replaces-ceo-with-former-gm-cruise-executive-after-ev-bet-fizzles).
 
 ## Requirements
 - Python 3.8
