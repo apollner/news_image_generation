@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Solar eclipse 2024 weather prospects: Q&A with an expert**
+**Both James and Jennifer Crumbley were found guilty. But they took different paths to get there**
 
-You can read more about it [here](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a).
+You can read more about it [here](https://www.cnn.com/2024/03/16/us/james-jennifer-crumbley-trials-differences/index.html).
 
 ## Requirements
 - Python 3.8
