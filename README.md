@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton 'may never' release a photo again after scandal: expert**
+**Boeing 737 loses external panel mid-flight, lands safely in Oregon in latest plane incident**
 
-You can read more about it [here](https://nypost.com/2024/03/15/entertainment/kate-middleton-may-never-release-a-photo-again-after-scandal-expert/).
+You can read more about it [here](https://nypost.com/2024/03/15/us-news/boeing-737-loses-external-panel-mid-flight/).
 
 ## Requirements
 - Python 3.8
