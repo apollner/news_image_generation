@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza aid reaches shore in first sea delivery**
+**Tornadoes kill 3 and leave trails of destruction in the central US**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68581090).
+You can read more about it [here](https://apnews.com/article/tornado-indiana-ohio-severe-weather-731ed36b02cd521590ac8f5dbc4509f5).
 
 ## Requirements
 - Python 3.8
