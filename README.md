@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wisconsin beats No. 3 Purdue in overtime to advance to Big Ten tournament title game**
+**Russia election: Russians cast ballots on Day 2**
 
-You can read more about it [here](https://sports.yahoo.com/wisconsin-beats-no-3-purdue-in-overtime-to-advance-to-big-ten-tournament-title-game-194431341.html).
+You can read more about it [here](https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147).
 
 ## Requirements
 - Python 3.8
