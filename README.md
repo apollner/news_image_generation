@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winner of Powerball's second-largest jackpot worth $1.765B revealed**
+**U.S. stocks end lower as tech weighs on S&P 500 ahead of Fed meeting**
 
-You can read more about it [here](https://nypost.com/2024/03/16/us-news/powerball-1-765-billion-jackpot-winner-theodorus-struyck-revealed-in-california/).
+You can read more about it [here](https://www.marketwatch.com/story/dow-futures-inch-higher-as-inflation-jitters-cap-gains-c377d4a3).
 
 ## Requirements
 - Python 3.8
