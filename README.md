@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Airlines Boeing plane lands without external panel**
+**Biden backs top Democrat Chuck Schumer after call for Israeli election**
 
-You can read more about it [here](https://thehill.com/homenews/4535836-united-airlines-boeing-plane-lands-without-external-panel/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68580016).
 
 ## Requirements
 - Python 3.8
