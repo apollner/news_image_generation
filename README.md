@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Both James and Jennifer Crumbley were found guilty. But they took different paths to get there**
+**Supreme Court to hear free speech case over government pressure on social media sites to remove content**
 
-You can read more about it [here](https://www.cnn.com/2024/03/16/us/james-jennifer-crumbley-trials-differences/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-social-media-sites-government-content-misinformation-censorship/).
 
 ## Requirements
 - Python 3.8
