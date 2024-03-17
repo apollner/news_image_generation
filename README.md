@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Overthrow the system’: Haiti gang leader Cherizier seeks revolution**
+**Supreme Court to hear free speech case over government pressure on social media sites to remove content**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/16/overthrow-the-system-haiti-gang-leader-cherizier-seeks-revolution).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-social-media-sites-government-content-misinformation-censorship/).
 
 ## Requirements
 - Python 3.8
