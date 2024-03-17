@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about judge's ruling allowing Fani Willis to stay on Trump's Georgia election case**
+**Commission: Sheriff had cause to take Lewiston gunman into custody 6 weeks before shootings**
 
-You can read more about it [here](https://apnews.com/article/fani-willis-wade-trump-georgia-election-takeaways-150a46abe71ee76da2c0050798a5d93e).
+You can read more about it [here](https://www.mainepublic.org/maine/2024-03-15/commission-sheriff-had-cause-to-take-lewiston-gunman-into-custody-6-weeks-before-shootings).
 
 ## Requirements
 - Python 3.8
