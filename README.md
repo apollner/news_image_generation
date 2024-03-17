@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chuck Schumer's Israel criticism on Gaza war draws mild AIPAC response - POLITICO**
+**Colon cancer growing danger for particular age group, San Antonio doctor says**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/15/schumer-israel-rebuke-aipac-00147430).
+You can read more about it [here](https://www.ksat.com/news/local/2024/03/15/colon-cancer-growing-danger-for-particular-age-group-san-antonio-doctor-says/).
 
 ## Requirements
 - Python 3.8
