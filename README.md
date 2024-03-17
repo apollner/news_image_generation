@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA to oversee investigation of SpaceX Starship's 3rd test flight**
+**Takeaways from the scathing ruling that allows DA Fani Willis to remain on the Trump election subversion case**
 
-You can read more about it [here](https://www.space.com/spacex-starship-third-test-flight-faa-investigation).
+You can read more about it [here](https://www.cnn.com/2024/03/15/politics/takeaways-mcafee-willis-wade-trump/index.html).
 
 ## Requirements
 - Python 3.8
