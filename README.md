@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. stocks end lower as tech weighs on S&P 500 ahead of Fed meeting**
+**Russia elections: Voting begins in polls that Putin is all but certain to win**
 
-You can read more about it [here](https://www.marketwatch.com/story/dow-futures-inch-higher-as-inflation-jitters-cap-gains-c377d4a3).
+You can read more about it [here](https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884).
 
 ## Requirements
 - Python 3.8
