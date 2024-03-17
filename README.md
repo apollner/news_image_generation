@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to hear free speech case over government pressure on social media sites to remove content**
+**Solar eclipse 2024 weather prospects: Q&A with an expert**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-social-media-sites-government-content-misinformation-censorship/).
+You can read more about it [here](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a).
 
 ## Requirements
 - Python 3.8
