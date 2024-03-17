@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commission: Sheriff had cause to take Lewiston gunman into custody 6 weeks before shootings**
+**Stocks Fall As Nvidia's AI Event, Fed Meeting Loom; Nasdaq Hasn't Done This Since October**
 
-You can read more about it [here](https://www.mainepublic.org/maine/2024-03-15/commission-sheriff-had-cause-to-take-lewiston-gunman-into-custody-6-weeks-before-shootings).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-tesla-adobe/).
 
 ## Requirements
 - Python 3.8
