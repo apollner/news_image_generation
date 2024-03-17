@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blind 750-pound alligator seized from New York home, setting up showdown as owner vows to "fight them to get him back"**
+**Eagles acquire Kenny Pickett in a trade with the Steelers**
 
-You can read more about it [here](https://www.cbsnews.com/news/hamburg-alligator-seized-albert-blind-new-york-home/).
+You can read more about it [here](https://www.philadelphiaeagles.com/news/eagles-kenny-pickett-trade-steelers).
 
 ## Requirements
 - Python 3.8
