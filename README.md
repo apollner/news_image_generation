@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cara Delevingne's Parents Reveal Cause of Her Devastating House Fire**
+**Chuck Schumer's Israel criticism on Gaza war draws mild AIPAC response - POLITICO**
 
-You can read more about it [here](https://www.eonline.com/news/1397446/cara-delevingnes-parents-reveal-cause-of-her-devastating-los-angeles-house-fire).
+You can read more about it [here](https://www.politico.com/news/2024/03/15/schumer-israel-rebuke-aipac-00147430).
 
 ## Requirements
 - Python 3.8
