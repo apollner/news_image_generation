@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes kill 3 and leave trails of destruction in the central US**
+**United Airlines Boeing plane lands without external panel**
 
-You can read more about it [here](https://apnews.com/article/tornado-indiana-ohio-severe-weather-731ed36b02cd521590ac8f5dbc4509f5).
+You can read more about it [here](https://thehill.com/homenews/4535836-united-airlines-boeing-plane-lands-without-external-panel/).
 
 ## Requirements
 - Python 3.8
