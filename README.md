@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Fall As Nvidia's AI Event, Fed Meeting Loom; Nasdaq Hasn't Done This Since October**
+**Cara Delevingne's Parents Reveal Cause of Her Devastating House Fire**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-tesla-adobe/).
+You can read more about it [here](https://www.eonline.com/news/1397446/cara-delevingnes-parents-reveal-cause-of-her-devastating-los-angeles-house-fire).
 
 ## Requirements
 - Python 3.8
