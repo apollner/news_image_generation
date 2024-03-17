@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schumer's rebuke of Netanyahu shows the long, fragile line the US and allies walk on interference**
+**Prelim Results**
 
-You can read more about it [here](https://apnews.com/article/schumer-netanyahu-israel-poland-hamas-3c86e541396fda36b0ef05b2d36c28e5).
+You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-fight-night-tuivasa-vs-tybura).
 
 ## Requirements
 - Python 3.8
