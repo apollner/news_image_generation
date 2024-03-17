@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**On four year anniversary of covid, families remember flags on Mall**
+**Does trade for Kenny Pickett signify a shift in Eagles' offense?**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/17/covid-families-flags-pandemic-grief/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/does-trade-for-kenny-pickett-signify-a-shift-in-eagles-offense).
 
 ## Requirements
 - Python 3.8
