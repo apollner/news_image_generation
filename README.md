@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The PS5 Pro is reportedly coming this holiday season**
+**Latest Israel-Hamas war news and Gaza conflict updates**
 
-You can read more about it [here](https://www.engadget.com/the-ps5-pro-is-reportedly-coming-this-holiday-season-084404542.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/03/16/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
