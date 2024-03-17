@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia elections: Voting begins in polls that Putin is all but certain to win**
+**Delays in Trump's criminal cases are increasing. Which trials are delayed and why?**
 
-You can read more about it [here](https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884).
+You can read more about it [here](https://apnews.com/article/donald-trump-hush-money-new-york-trials-delays-f0457777333405498fe7d106756b712a).
 
 ## Requirements
 - Python 3.8
