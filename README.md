@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Long recovery ahead for some in path of deadly tornados in central U.S.**
+**United Airlines crew discover Boeing 737 flew with missing panel during flight**
 
-You can read more about it [here](https://apnews.com/article/tornadoes-central-us-ohio-indiana-b0fdb2f9945218f501bc218331a5b41d).
+You can read more about it [here](https://www.youtube.com/watch?v=i4QroykO7aQ).
 
 ## Requirements
 - Python 3.8
