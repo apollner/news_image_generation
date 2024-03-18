@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey siege ends after US gunman kills three in Pennsylvania**
+**Russell Wilson expresses excitement at Justin Fields joining him in Pittsburgh**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68588735).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/russell-wilson-expresses-excitement-at-justin-fields-joining-him-in-pittsburgh).
 
 ## Requirements
 - Python 3.8
