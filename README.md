@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Reddit's IPO as much as five times oversubscribed, sources say**
+**Alex Garland says Civil War has nothing to say about America**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/reddits-ipo-much-five-times-oversubscribed-sources-say-2024-03-17/).
+You can read more about it [here](https://www.avclub.com/alex-garland-civil-war-politics-america-1851343067).
 
 ## Requirements
 - Python 3.8
