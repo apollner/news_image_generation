@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'He will come back’ - Israeli hostage families cling to hope, and demand a deal**
+**NBA Breaks Silence on Controversial Call in Warriors vs. Lakers**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68534027).
+You can read more about it [here](https://www.si.com/nba/warriors/news/nba-breaks-silence-on-controversial-call-in-warriors-vs-lakers).
 
 ## Requirements
 - Python 3.8
