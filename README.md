@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lincoln Realtor says change to commissions will add 'substantial' cost for homebuyers**
+**Bears GM Ryan Poles issues a statement on the Justin Fields trade**
 
-You can read more about it [here](https://www.klkntv.com/lincoln-realtor-says-change-to-commissions-will-add-substantial-cost-for-homebuyers/).
+You can read more about it [here](https://www.windycitygridiron.com/2024/3/16/24103562/chicago-bears-gm-ryan-poles-issues-statement-on-the-justin-fields-trade-pittsburgh-steelers-timeline).
 
 ## Requirements
 - Python 3.8
