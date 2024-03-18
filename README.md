@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Royal family hints at major announcement 'at any moment' amid Kate Middleton health crisis**
+**Golden State Warriors defeat LA Lakers after 'bizarre' finale as arena announcer forced to announce shot clock**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/royal-family-hints-at-major-announcement-at-any-moment-amid-kate-middleton-health-crisis-101710675864253.html).
+You can read more about it [here](https://www.cnn.com/2024/03/17/sport/golden-state-warriors-la-lakers-shot-clock-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
