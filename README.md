@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ByteDance sale of TikTok will take more than 6 months, making a ban likely**
+**Early morning DC shooting kills 2, injures 5 as cops hunt suspect**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/03/17/tiktok-sale-ban-challenges/).
+You can read more about it [here](https://nypost.com/2024/03/17/us-news/early-morning-washington-dc-shooting-kills-2-injures-5/).
 
 ## Requirements
 - Python 3.8
