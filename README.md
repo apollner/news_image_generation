@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ten Hag earns credit for bold decisions in Man United win vs. Liverpool -- but is it enough?**
+**New Mexico manhunt: Police capture Jaremy Smith, suspect in murder of Officer Justin Hare; Phonesia Machado-Fore found dead**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/39752555/ten-hag-bold-moves-pay-man-united-win-vs-liverpool).
+You can read more about it [here](https://abc7.com/jaremy-smith-suspect-in-fatal-new-mexico-state-police-officer-shooting-captured/14532371/).
 
 ## Requirements
 - Python 3.8
