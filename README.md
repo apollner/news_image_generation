@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden campaign slams Trump over ‘political violence’ for warning of ‘bloodbath’ when discussing auto industry**
+**ByteDance sale of TikTok will take more than 6 months, making a ban likely**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-campaign-slams-trump-political-violence-warning-bloodbath-discussing-auto-industry).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/03/17/tiktok-sale-ban-challenges/).
 
 ## Requirements
 - Python 3.8
