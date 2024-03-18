@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Wilson expresses excitement at Justin Fields joining him in Pittsburgh**
+**Boeing: How much trouble is the company in?**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/russell-wilson-expresses-excitement-at-justin-fields-joining-him-in-pittsburgh).
+You can read more about it [here](https://www.bbc.com/news/business-68573686).
 
 ## Requirements
 - Python 3.8
