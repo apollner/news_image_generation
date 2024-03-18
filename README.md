@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: Netanyahu vows to defy allies on Rafah invasion**
+**Biden, Cruz, Trump all lobbied social media as Supreme Court hears case**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68591487).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/03/17/supreme-court-social-media-first-amendment/).
 
 ## Requirements
 - Python 3.8
