@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Golden State Warriors defeat LA Lakers after 'bizarre' finale as arena announcer forced to announce shot clock**
+**Women's basketball Bracket Watch: Selection Sunday at-large bids still on the table**
 
-You can read more about it [here](https://www.cnn.com/2024/03/17/sport/golden-state-warriors-la-lakers-shot-clock-spt-intl/index.html).
+You can read more about it [here](https://theathletic.com/5347106/2024/03/17/womens-bracket-watch-selection-sunday-princeton/).
 
 ## Requirements
 - Python 3.8
