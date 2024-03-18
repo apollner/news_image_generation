@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico cop killer was driving car belonging to South Carolina paramedic found dead: police**
+**Cabinet minister Mark Harper denies Tories have a problem with race**
 
-You can read more about it [here](https://www.foxnews.com/us/new-mexico-cop-killer-was-driving-car-belonging-to-sc-paramedic-who-was-found-dead).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68590969).
 
 ## Requirements
 - Python 3.8
