@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine appeals to citizens under Russian occupation to ignore Putin’s ‘pseudo elections’**
+**Devastation in Gaza as Israel wages war on Hamas: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2024/03/16/europe/ukraine-appeal-ignore-putin-pseudo-elections-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-16-24/index.html).
 
 ## Requirements
 - Python 3.8
