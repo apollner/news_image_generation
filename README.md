@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Early morning DC shooting kills 2, injures 5 as cops hunt suspect**
+**Alex Garland says Civil War has nothing to say about America**
 
-You can read more about it [here](https://nypost.com/2024/03/17/us-news/early-morning-washington-dc-shooting-kills-2-injures-5/).
+You can read more about it [here](https://www.avclub.com/alex-garland-civil-war-politics-america-1851343067).
 
 ## Requirements
 - Python 3.8
