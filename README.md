@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helldivers 2 grunts capture sightings of a returning faction while the game's director desperately restarts the propaganda machine: "The Illuminate are already here"**
+**Boeing timeline: Inside the air giant’s turbulent journey in recent years**
 
-You can read more about it [here](https://www.gamesradar.com/helldivers-2-grunts-capture-sightings-of-a-returning-faction-while-the-games-director-desperately-restarts-the-propaganda-machine-the-illuminate-are-already-here/).
+You can read more about it [here](https://www.cnn.com/2024/03/17/business/boeing-timeline-troubles-crashes-stock-dg/index.html).
 
 ## Requirements
 - Python 3.8
