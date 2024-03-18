@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing timeline: Inside the air giant’s turbulent journey in recent years**
+**Royal family hints at major announcement 'at any moment' amid Kate Middleton health crisis**
 
-You can read more about it [here](https://www.cnn.com/2024/03/17/business/boeing-timeline-troubles-crashes-stock-dg/index.html).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/royal-family-hints-at-major-announcement-at-any-moment-amid-kate-middleton-health-crisis-101710675864253.html).
 
 ## Requirements
 - Python 3.8
