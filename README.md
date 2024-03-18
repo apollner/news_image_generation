@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden, Cruz, Trump all lobbied social media as Supreme Court hears case**
+**Lieberman slams ‘outrageous’ Schumer speech: ‘I can’t ever remember anything like it’**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/03/17/supreme-court-social-media-first-amendment/).
+You can read more about it [here](https://thehill.com/homenews/senate/4536965-lieberman-slams-outrageous-schumer-speech-i-cant-ever-remember-anything-like-it/).
 
 ## Requirements
 - Python 3.8
