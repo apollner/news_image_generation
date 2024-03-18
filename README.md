@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schumer’s rebuke of Netanyahu shows fragile line US walks on interference**
+**New Jersey siege ends after US gunman kills three in Pennsylvania**
 
-You can read more about it [here](https://www.timesofisrael.com/schumers-rebuke-of-netanyahu-shows-fragile-line-us-walks-on-interference/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68588735).
 
 ## Requirements
 - Python 3.8
