@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Suspect in custody after deadly Pennsylvania shootings, police say**
+**Target to roll out new self-checkout policy: Must be 10 items or less**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/falls-township-shootings-pennsylvania-03-16-24/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/shopping/2024/03/16/target-self-checkout-policy/72998660007/).
 
 ## Requirements
 - Python 3.8
