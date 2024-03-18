@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emails show how a right-wing group steers GOP leaders on major policy issues**
+**Lincoln Realtor says change to commissions will add 'substantial' cost for homebuyers**
 
-You can read more about it [here](https://www.cnn.com/2024/03/17/politics/dark-money-fga-ashcroft-invs/index.html).
+You can read more about it [here](https://www.klkntv.com/lincoln-realtor-says-change-to-commissions-will-add-substantial-cost-for-homebuyers/).
 
 ## Requirements
 - Python 3.8
