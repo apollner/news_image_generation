@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ten Hag earns credit for bold decisions in Man United win vs. Liverpool -- but is it enough?**
+**Betelgeuse's Wild Surface Seems to Be Baffling Our Telescopes**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/39752555/ten-hag-bold-moves-pay-man-united-win-vs-liverpool).
+You can read more about it [here](https://www.sciencealert.com/betelgeuses-wild-surface-seems-to-be-baffling-our-telescopes).
 
 ## Requirements
 - Python 3.8
