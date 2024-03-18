@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Airlines crew discover Boeing 737 flew with missing panel during flight**
+**'He will come back’ - Israeli hostage families cling to hope, and demand a deal**
 
-You can read more about it [here](https://www.youtube.com/watch?v=i4QroykO7aQ).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68534027).
 
 ## Requirements
 - Python 3.8
