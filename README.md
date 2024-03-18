@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia says Ukrainian shelling killed 2 in a border city while it thwarted an incursion**
+**Kansas City Current open 'game-changing' stadium with 5-4 win**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-drone-shelling-belgorod-10ad4cf3c67ee0d19f107d7885a61c10).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/39747209/kansas-city-current-open-women-specific-nwsl-stadium-portland).
 
 ## Requirements
 - Python 3.8
