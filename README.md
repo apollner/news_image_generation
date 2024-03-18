@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Women's basketball Bracket Watch: Selection Sunday at-large bids still on the table**
+**New Jersey siege ends after US gunman kills three in Pennsylvania**
 
-You can read more about it [here](https://theathletic.com/5347106/2024/03/17/womens-bracket-watch-selection-sunday-princeton/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68588735).
 
 ## Requirements
 - Python 3.8
