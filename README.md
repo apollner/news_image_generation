@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unexplainable podcast: 17 of the most astounding scientific mysteries**
+**Helldivers 2 grunts capture sightings of a returning faction while the game's director desperately restarts the propaganda machine: "The Illuminate are already here"**
 
-You can read more about it [here](https://www.vox.com/unexplainable/24094267/17-scientific-mysteries-unsolved-dark-matter-life).
+You can read more about it [here](https://www.gamesradar.com/helldivers-2-grunts-capture-sightings-of-a-returning-faction-while-the-games-director-desperately-restarts-the-propaganda-machine-the-illuminate-are-already-here/).
 
 ## Requirements
 - Python 3.8
