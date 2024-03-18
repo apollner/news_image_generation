@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target to roll out new self-checkout policy: Must be 10 items or less**
+**Andre Gordon: Suspect in 3 Falls Township murders captured after Trenton barricade**
 
-You can read more about it [here](https://www.usatoday.com/story/money/shopping/2024/03/16/target-self-checkout-policy/72998660007/).
+You can read more about it [here](https://www.fox29.com/news/falls-township-shelter-in-place).
 
 ## Requirements
 - Python 3.8
