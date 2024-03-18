@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'He will come back’ - Israeli hostage families cling to hope, and demand a deal**
+**Ukraine appeals to citizens under Russian occupation to ignore Putin’s ‘pseudo elections’**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68534027).
+You can read more about it [here](https://www.cnn.com/2024/03/16/europe/ukraine-appeal-ignore-putin-pseudo-elections-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
