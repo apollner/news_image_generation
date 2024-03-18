@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Devastation in Gaza as Israel wages war on Hamas: Live updates**
+**Bears are keeping their quarterback options open after trading Justin Fields, per report**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-16-24/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bears-are-keeping-their-quarterback-options-open-after-trading-justin-fields-per-report/).
 
 ## Requirements
 - Python 3.8
