@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cabinet minister Mark Harper denies Tories have a problem with race**
+**Emails show how a right-wing group steers GOP leaders on major policy issues**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68590969).
+You can read more about it [here](https://www.cnn.com/2024/03/17/politics/dark-money-fga-ashcroft-invs/index.html).
 
 ## Requirements
 - Python 3.8
