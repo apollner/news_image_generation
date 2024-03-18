@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano lava nears Grindavik in new eruption**
+**Russia says Ukrainian shelling killed 2 in a border city while it thwarted an incursion**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68589594).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-drone-shelling-belgorod-10ad4cf3c67ee0d19f107d7885a61c10).
 
 ## Requirements
 - Python 3.8
