@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing: How much trouble is the company in?**
+**New Mexico cop killer was driving car belonging to South Carolina paramedic found dead: police**
 
-You can read more about it [here](https://www.bbc.com/news/business-68573686).
+You can read more about it [here](https://www.foxnews.com/us/new-mexico-cop-killer-was-driving-car-belonging-to-sc-paramedic-who-was-found-dead).
 
 ## Requirements
 - Python 3.8
