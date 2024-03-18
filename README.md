@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alex Garland says Civil War has nothing to say about America**
+**Ten Hag earns credit for bold decisions in Man United win vs. Liverpool -- but is it enough?**
 
-You can read more about it [here](https://www.avclub.com/alex-garland-civil-war-politics-america-1851343067).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/39752555/ten-hag-bold-moves-pay-man-united-win-vs-liverpool).
 
 ## Requirements
 - Python 3.8
