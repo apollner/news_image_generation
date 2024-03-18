@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Betelgeuse's Wild Surface Seems to Be Baffling Our Telescopes**
+**Bitterly divided House GOP emerges from retreat in search of 'normal Congress'**
 
-You can read more about it [here](https://www.sciencealert.com/betelgeuses-wild-surface-seems-to-be-baffling-our-telescopes).
+You can read more about it [here](https://nypost.com/2024/03/17/us-news/bitterly-divided-house-gop-emerges-from-retreat-in-search-of-normal-congress/).
 
 ## Requirements
 - Python 3.8
