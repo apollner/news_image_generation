@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey siege ends after US gunman kills three in Pennsylvania**
+**Biden campaign slams Trump over ‘political violence’ for warning of ‘bloodbath’ when discussing auto industry**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68588735).
+You can read more about it [here](https://www.foxnews.com/politics/biden-campaign-slams-trump-political-violence-warning-bloodbath-discussing-auto-industry).
 
 ## Requirements
 - Python 3.8
