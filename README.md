@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lieberman slams ‘outrageous’ Schumer speech: ‘I can’t ever remember anything like it’**
+**Unexplainable podcast: 17 of the most astounding scientific mysteries**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4536965-lieberman-slams-outrageous-schumer-speech-i-cant-ever-remember-anything-like-it/).
+You can read more about it [here](https://www.vox.com/unexplainable/24094267/17-scientific-mysteries-unsolved-dark-matter-life).
 
 ## Requirements
 - Python 3.8
