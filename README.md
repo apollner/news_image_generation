@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andre Gordon: Suspect in 3 Falls Township murders captured after Trenton barricade**
+**Iceland volcano lava nears Grindavik in new eruption**
 
-You can read more about it [here](https://www.fox29.com/news/falls-township-shelter-in-place).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68589594).
 
 ## Requirements
 - Python 3.8
