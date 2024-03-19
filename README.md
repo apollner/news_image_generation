@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza far exceeds famine-level food shortages, mass death imminent, monitor says**
+**SpaceX Starship launch 'shockwaves' seen in amazing slow motion footage**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-suffers-famine-level-shortages-mass-death-imminent-un-backed-monitor-says-2024-03-18/).
+You can read more about it [here](https://www.youtube.com/watch?v=jImgxugk0KM).
 
 ## Requirements
 - Python 3.8
