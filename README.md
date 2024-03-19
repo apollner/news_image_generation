@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North America Prepares for 2024 Total Solar Eclipse**
+**Joe Lieberman slams Schumer for anti-Netanyahu speech: 'Can't ever remember anything like it'**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/north-america-prepares-for-2024-total-solar-eclipse/7528270.html).
+You can read more about it [here](https://nypost.com/2024/03/17/us-news/joe-lieberman-slams-schumer-for-anti-netanyahu-speech-cant-ever-remember-anything-like-it/).
 
 ## Requirements
 - Python 3.8
