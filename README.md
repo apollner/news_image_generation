@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel launches night raid on Gaza al-Shifa hospital**
+**Suspect in state police officer's death is shot, arrested in Albuquerque**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68594153).
+You can read more about it [here](https://www.santafenewmexican.com/news/local_news/suspect-in-state-police-officers-death-is-shot-arrested-in-albuquerque/article_28ddd7ae-e476-11ee-8954-6b41579ef4de.html).
 
 ## Requirements
 - Python 3.8
