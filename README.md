@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Morning After: The PS5 Pro may arrive this year**
+**Mood among Tory MPs darkens as Rishi Sunak faces leadership questions**
 
-You can read more about it [here](https://www.engadget.com/the-morning-after-ps5-pro-rumors-release-date-111511204.html).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68597115).
 
 ## Requirements
 - Python 3.8
