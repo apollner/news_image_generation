@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Ex-49ers DE Chase Young reaches 1-year, $13 million deal with New Orleans Saints**
+**Mike Lynch: Autonomy founder's fraud trial begins in US**
 
-You can read more about it [here](https://sports.yahoo.com/report-ex-49ers-de-chase-young-reaches-1-year-13-million-deal-with-new-orleans-saints-210012775.html).
+You can read more about it [here](https://www.bbc.com/news/business-68599243).
 
 ## Requirements
 - Python 3.8
