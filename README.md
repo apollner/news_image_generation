@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrity-loved diet linked to higher risk of heart disease death: study**
+**Apple may hire Google to power new iPhone AI features using Gemini—report**
 
-You can read more about it [here](https://nypost.com/2024/03/18/lifestyle/168-diet-linked-to-91-higher-risk-of-cardiovascular-death/).
+You can read more about it [here](https://arstechnica.com/information-technology/2024/03/apple-may-hire-google-to-power-new-iphone-ai-features-using-gemini-report/).
 
 ## Requirements
 - Python 3.8
