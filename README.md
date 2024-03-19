@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Can't Build AI, So It's Reportedly Asking Google Gemini to Power Siri**
+**How long would it take to walk around Mars?**
 
-You can read more about it [here](https://gizmodo.com/apple-cant-build-ai-asking-google-gemini-power-siri-1851343967).
+You can read more about it [here](https://www.space.com/how-long-would-it-take-to-walk-around-mars).
 
 ## Requirements
 - Python 3.8
