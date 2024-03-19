@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**3 people killed, infant in critical condition after SUV slams into bus shelter in San Francisco**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/3-people-killed-infant-critical-condition-after-suv-108220461).
 
 ## Requirements
 - Python 3.8
