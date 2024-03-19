@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX's Starship will go interstellar someday, Elon Musk says**
+**Missing Missouri student: Metro police release new video of Riley Strain**
 
-You can read more about it [here](https://www.space.com/spacex-starship-go-interstellar-elon-musk-says).
+You can read more about it [here](https://www.wkrn.com/news/local-news/nashville/riley-strain-nashville-tn-police-release-video-of-missing-student-before-disappearance-near-cumberland-river/).
 
 ## Requirements
 - Python 3.8
