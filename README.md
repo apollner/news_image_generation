@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony Reportedly Halts PSVR2 Production As Headsets Fail To Sell**
+**As more young people get colon cancer, it may be time for a colonoscopy**
 
-You can read more about it [here](https://kotaku.com/playstation-vr2-headsets-production-sales-halt-sony-1851344240).
+You can read more about it [here](https://www.cnn.com/2024/03/18/health/colonoscopy-colon-cancer-screenings-wellness/index.html).
 
 ## Requirements
 - Python 3.8
