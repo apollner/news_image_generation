@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft to hold a special Windows and Surface AI event in May**
+**SpaceX's Starship will go interstellar someday, Elon Musk says**
 
-You can read more about it [here](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella).
+You can read more about it [here](https://www.space.com/spacex-starship-go-interstellar-elon-musk-says).
 
 ## Requirements
 - Python 3.8
