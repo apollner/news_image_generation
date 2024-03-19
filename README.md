@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm Announces Snapdragon 8s Gen 3: A Cheaper Chip For Premium Phones**
+**Forced TikTok sale could 'absolutely' happen before November election, House China committee leader says**
 
-You can read more about it [here](https://www.anandtech.com/show/21307/qualcomm-announces-snapdragon-8s-gen-3).
+You can read more about it [here](https://www.foxbusiness.com/politics/forced-tiktok-sale-absolutely-happen-november-election-house-china-committee-leader-says).
 
 ## Requirements
 - Python 3.8
