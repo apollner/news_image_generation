@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zendaya and Tom Holland Sing Whitney Houston Song at Tennis Match**
+**North America Prepares for 2024 Total Solar Eclipse**
 
-You can read more about it [here](https://www.tmz.com/2024/03/17/zenday-tom-holland-bnp-paribas-open-indian-wells-whitney-houston-dance/).
+You can read more about it [here](https://learningenglish.voanews.com/a/north-america-prepares-for-2024-total-solar-eclipse/7528270.html).
 
 ## Requirements
 - Python 3.8
