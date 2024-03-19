@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is unable to make $464 million bond in civil fraud case, his lawyers tell court**
+**Sony Reportedly Halts PSVR2 Production As Headsets Fail To Sell**
 
-You can read more about it [here](https://www.cnn.com/2024/03/18/politics/trump-464-million-dollar-bond/index.html).
+You can read more about it [here](https://kotaku.com/playstation-vr2-headsets-production-sales-halt-sony-1851344240).
 
 ## Requirements
 - Python 3.8
