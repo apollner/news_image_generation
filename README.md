@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General Thomas Stafford Dies At 93**
+**Trump is unable to make $464 million bond in civil fraud case, his lawyers tell court**
 
-You can read more about it [here](https://www.news9.com/story/65f85410cd4a4d0c768731ef/general-thomas-stafford-dies-at-93).
+You can read more about it [here](https://www.cnn.com/2024/03/18/politics/trump-464-million-dollar-bond/index.html).
 
 ## Requirements
 - Python 3.8
