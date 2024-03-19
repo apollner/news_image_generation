@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China kicks off the year on strong note as retail, industrial data tops expectations**
+**Fed will have to keep rates high for longer than markets anticipate, say economists**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/18/china-retail-sales-industrial-data-for-first-2-months-beats-expectations.html).
+You can read more about it [here](https://www.ft.com/content/9d58ff6a-c6c4-4740-b3aa-5699a865c7f4).
 
 ## Requirements
 - Python 3.8
