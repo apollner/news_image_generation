@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin extends one man-rule in Russia after stage-managed election devoid of credible opposition**
+**North America Prepares for 2024 Total Solar Eclipse**
 
-You can read more about it [here](https://www.cnn.com/2024/03/17/europe/putin-wins-russia-presidential-election-intl/index.html).
+You can read more about it [here](https://learningenglish.voanews.com/a/north-america-prepares-for-2024-total-solar-eclipse/7528270.html).
 
 ## Requirements
 - Python 3.8
