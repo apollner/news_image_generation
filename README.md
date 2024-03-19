@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mood among Tory MPs darkens as Rishi Sunak faces leadership questions**
+**App analytics firm Sensor Tower acquires rival Data.ai**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68597115).
+You can read more about it [here](https://techcrunch.com/2024/03/18/app-analytics-firm-sensor-tower-acquires-rival-data-ai/).
 
 ## Requirements
 - Python 3.8
