@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrity-loved diet linked to higher risk of heart disease death: study**
+**Report: Ex-49ers DE Chase Young reaches 1-year, $13 million deal with New Orleans Saints**
 
-You can read more about it [here](https://nypost.com/2024/03/18/lifestyle/168-diet-linked-to-91-higher-risk-of-cardiovascular-death/).
+You can read more about it [here](https://sports.yahoo.com/report-ex-49ers-de-chase-young-reaches-1-year-13-million-deal-with-new-orleans-saints-210012775.html).
 
 ## Requirements
 - Python 3.8
