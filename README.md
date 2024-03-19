@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake Bell Slammed Will Friedle And Rider Strong For Writing Letters Of Support For Brian Peck Amid His 2004 Trial**
+**Microsoft to hold a special Windows and Surface AI event in May**
 
-You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/drake-bell-slams-will-friedle-rider-strong-brian-peck).
+You can read more about it [here](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella).
 
 ## Requirements
 - Python 3.8
