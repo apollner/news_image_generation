@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in state police officer's death is shot, arrested in Albuquerque**
+**NCAA bracket predictions: Model reveals surprising March Madness 2024 tournament picks**
 
-You can read more about it [here](https://www.santafenewmexican.com/news/local_news/suspect-in-state-police-officers-death-is-shot-arrested-in-albuquerque/article_28ddd7ae-e476-11ee-8954-6b41579ef4de.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-model-reveals-surprising-march-madness-2024-tournament-picks/).
 
 ## Requirements
 - Python 3.8
