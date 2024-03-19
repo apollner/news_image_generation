@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA Tournament 2024 bracket picks, upsets, Cinderella teams: Model simulates March Madness 10,000 times**
+**Qualcomm Announces Snapdragon 8s Gen 3: A Cheaper Chip For Premium Phones**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-tournament-2024-bracket-picks-upsets-cinderella-teams-model-simulates-march-madness-10000-times/).
+You can read more about it [here](https://www.anandtech.com/show/21307/qualcomm-announces-snapdragon-8s-gen-3).
 
 ## Requirements
 - Python 3.8
