@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North America Prepares for 2024 Total Solar Eclipse**
+**Police find missing college student Riley Strain's bank card near Nashville area river**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/north-america-prepares-for-2024-total-solar-eclipse/7528270.html).
+You can read more about it [here](https://www.foxnews.com/us/police-find-missing-college-student-riley-strains-bank-card-near-nashville-area-river).
 
 ## Requirements
 - Python 3.8
