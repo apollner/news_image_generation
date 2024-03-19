@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**App analytics firm Sensor Tower acquires rival Data.ai**
+**Gaza far exceeds famine-level food shortages, mass death imminent, monitor says**
 
-You can read more about it [here](https://techcrunch.com/2024/03/18/app-analytics-firm-sensor-tower-acquires-rival-data-ai/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-suffers-famine-level-shortages-mass-death-imminent-un-backed-monitor-says-2024-03-18/).
 
 ## Requirements
 - Python 3.8
