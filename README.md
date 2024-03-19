@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As more young people get colon cancer, it may be time for a colonoscopy**
+**Drake Bell Slammed Will Friedle And Rider Strong For Writing Letters Of Support For Brian Peck Amid His 2004 Trial**
 
-You can read more about it [here](https://www.cnn.com/2024/03/18/health/colonoscopy-colon-cancer-screenings-wellness/index.html).
+You can read more about it [here](https://www.buzzfeednews.com/article/leylamohammed/drake-bell-slams-will-friedle-rider-strong-brian-peck).
 
 ## Requirements
 - Python 3.8
