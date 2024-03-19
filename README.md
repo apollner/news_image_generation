@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed will have to keep rates high for longer than markets anticipate, say economists**
+**Zendaya and Tom Holland Sing Whitney Houston Song at Tennis Match**
 
-You can read more about it [here](https://www.ft.com/content/9d58ff6a-c6c4-4740-b3aa-5699a865c7f4).
+You can read more about it [here](https://www.tmz.com/2024/03/17/zenday-tom-holland-bnp-paribas-open-indian-wells-whitney-houston-dance/).
 
 ## Requirements
 - Python 3.8
