@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Machete-wielding militias battle gangs in Port-au-Prince as Haiti’s elites vie for power**
+**The Morning After: The PS5 Pro may arrive this year**
 
-You can read more about it [here](https://www.cnn.com/2024/03/18/world/haiti-crisis-militias-battle-intl-latam/index.html).
+You can read more about it [here](https://www.engadget.com/the-morning-after-ps5-pro-rumors-release-date-111511204.html).
 
 ## Requirements
 - Python 3.8
