@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stranded in Haiti, U.S. citizens elated to return to Miami**
+**Rick Pitino criticizes ‘fraudulent’ NET rankings after St. John’s NCAA Tournament snub**
 
-You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286799990.html).
+You can read more about it [here](https://theathletic.com/5349686/2024/03/17/rick-pitino-net-rankings-ncaa-comments/).
 
 ## Requirements
 - Python 3.8
