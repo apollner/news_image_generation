@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Lynch: Autonomy founder's fraud trial begins in US**
+**Celebrity-loved diet linked to higher risk of heart disease death: study**
 
-You can read more about it [here](https://www.bbc.com/news/business-68599243).
+You can read more about it [here](https://nypost.com/2024/03/18/lifestyle/168-diet-linked-to-91-higher-risk-of-cardiovascular-death/).
 
 ## Requirements
 - Python 3.8
