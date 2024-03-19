@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing Missouri student: Metro police release new video of Riley Strain**
+**Celebrity-loved diet linked to higher risk of heart disease death: study**
 
-You can read more about it [here](https://www.wkrn.com/news/local-news/nashville/riley-strain-nashville-tn-police-release-video-of-missing-student-before-disappearance-near-cumberland-river/).
+You can read more about it [here](https://nypost.com/2024/03/18/lifestyle/168-diet-linked-to-91-higher-risk-of-cardiovascular-death/).
 
 ## Requirements
 - Python 3.8
