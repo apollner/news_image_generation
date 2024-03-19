@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitterly divided House GOP emerges from retreat in search of 'normal Congress'**
+**Putin extends one man-rule in Russia after stage-managed election devoid of credible opposition**
 
-You can read more about it [here](https://nypost.com/2024/03/17/us-news/bitterly-divided-house-gop-emerges-from-retreat-in-search-of-normal-congress/).
+You can read more about it [here](https://www.cnn.com/2024/03/17/europe/putin-wins-russia-presidential-election-intl/index.html).
 
 ## Requirements
 - Python 3.8
