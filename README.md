@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Starship launch 'shockwaves' seen in amazing slow motion footage**
+**General Thomas Stafford Dies At 93**
 
-You can read more about it [here](https://www.youtube.com/watch?v=jImgxugk0KM).
+You can read more about it [here](https://www.news9.com/story/65f85410cd4a4d0c768731ef/general-thomas-stafford-dies-at-93).
 
 ## Requirements
 - Python 3.8
