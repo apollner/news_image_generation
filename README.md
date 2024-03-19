@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police find missing college student Riley Strain's bank card near Nashville area river**
+**China kicks off the year on strong note as retail, industrial data tops expectations**
 
-You can read more about it [here](https://www.foxnews.com/us/police-find-missing-college-student-riley-strains-bank-card-near-nashville-area-river).
+You can read more about it [here](https://www.cnbc.com/2024/03/18/china-retail-sales-industrial-data-for-first-2-months-beats-expectations.html).
 
 ## Requirements
 - Python 3.8
