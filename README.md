@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How long would it take to walk around Mars?**
+**Machete-wielding militias battle gangs in Port-au-Prince as Haiti’s elites vie for power**
 
-You can read more about it [here](https://www.space.com/how-long-would-it-take-to-walk-around-mars).
+You can read more about it [here](https://www.cnn.com/2024/03/18/world/haiti-crisis-militias-battle-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
