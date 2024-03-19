@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rick Pitino criticizes ‘fraudulent’ NET rankings after St. John’s NCAA Tournament snub**
+**Israeli delegation to head to Doha for hostage talks Monday after security cabinet ok**
 
-You can read more about it [here](https://theathletic.com/5349686/2024/03/17/rick-pitino-net-rankings-ncaa-comments/).
+You can read more about it [here](https://www.timesofisrael.com/israeli-delegation-to-head-to-doha-for-hostage-talks-after-security-cabinet-approval/).
 
 ## Requirements
 - Python 3.8
