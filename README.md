@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PlayStation 5 Pro leak: 8-core Zen2 3.85 GHz CPU and RDNA4 Ray Tracing Engine**
+**[Removed]**
 
-You can read more about it [here](https://videocardz.com/newz/playstation-5-pro-leak-8-core-zen2-3-85-ghz-cpu-and-rdna4-ray-tracing-engine).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
