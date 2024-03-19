@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA bracket predictions: Model reveals surprising March Madness 2024 tournament picks**
+**Stranded in Haiti, U.S. citizens elated to return to Miami**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-model-reveals-surprising-march-madness-2024-tournament-picks/).
+You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286799990.html).
 
 ## Requirements
 - Python 3.8
