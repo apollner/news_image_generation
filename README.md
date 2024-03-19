@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Forced TikTok sale could 'absolutely' happen before November election, House China committee leader says**
+**Looking at 2024 solar eclipse is dangerous: How to protect your eyes from damage**
 
-You can read more about it [here](https://www.foxbusiness.com/politics/forced-tiktok-sale-absolutely-happen-november-election-house-china-committee-leader-says).
+You can read more about it [here](https://www.freep.com/story/news/health/2024/03/18/2024-solar-eclipse-dangerous-eye-damage-glasses-protect-retinopathy/72934359007/).
 
 ## Requirements
 - Python 3.8
