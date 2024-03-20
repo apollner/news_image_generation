@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza's entire population facing acute food insecurity, Blinken warns**
+**Family of missing Mizzou student Riley Strain to provide update**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68605401).
+You can read more about it [here](https://www.wsmv.com/2024/03/19/bring-riley-home-family-missing-student-cajun-navy-organize-search-party/).
 
 ## Requirements
 - Python 3.8
