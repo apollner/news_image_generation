@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family of missing Mizzou student Riley Strain to provide update**
+**Hong Kong passes second national security law, widening crackdown powers and aligning city more closely with mainland China**
 
-You can read more about it [here](https://www.wsmv.com/2024/03/19/bring-riley-home-family-missing-student-cajun-navy-organize-search-party/).
+You can read more about it [here](https://www.cnn.com/2024/03/19/china/hong-kong-second-national-security-law-passed-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
