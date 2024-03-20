@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong passes second national security law, widening crackdown powers and aligning city more closely with mainland China**
+**NCAA Tournament 2024 bracket picks, upsets, best Cinderella teams: Model simulates March Madness 10,000 times**
 
-You can read more about it [here](https://www.cnn.com/2024/03/19/china/hong-kong-second-national-security-law-passed-intl-hnk/index.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-tournament-2024-bracket-picks-upsets-best-cinderella-teams-model-simulates-march-madness-10000-times/).
 
 ## Requirements
 - Python 3.8
