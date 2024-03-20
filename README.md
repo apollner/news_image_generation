@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple may hire Google to power new iPhone AI features using Gemini—report**
+**College student Riley Strain went to 2 other bars on night he went missing and talked to Nashville officer**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2024/03/apple-may-hire-google-to-power-new-iphone-ai-features-using-gemini-report/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/college-student-riley-strain-went-2-bars-night-went-missing-talked-nas-rcna143956).
 
 ## Requirements
 - Python 3.8
