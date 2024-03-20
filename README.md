@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alito extends order barring Texas from detaining migrants under SB4 immigration law for now**
+**Time is running out for interest rate cuts, market forecaster Jim Bianco warns before Fed meeting**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-texas-immigration-law-sb4/).
+You can read more about it [here](https://www.cnbc.com/2024/03/18/time-running-out-for-rate-cuts-jim-bianco-warns-before-fed-meeting.html).
 
 ## Requirements
 - Python 3.8
