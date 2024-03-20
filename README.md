@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chicago begins evicting migrants from shelters as residents decry 'lack of respect'**
+**Gambia could be first country to reverse ban on female genital cutting**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/chicago-begins-evicting-migrants-rcna143961).
+You can read more about it [here](https://apnews.com/article/gambia-female-genital-cutting-7ab84af16d6b986025dd344d615bfe19).
 
 ## Requirements
 - Python 3.8
