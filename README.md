@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gangs unleash lethal new attacks on upscale areas in Haiti's capital**
+**Report: 2-time Cy Young winner Blake Snell agrees to 2-year, $62 million deal with Giants after 3 seasons with Padres**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/18/gang-attacks-haiti-capital-deaths-00147707).
+You can read more about it [here](https://sports.yahoo.com/report-2-time-cy-young-winner-blake-snell-agrees-to-2-year-62-million-deal-with-giants-after-3-seasons-with-padres-012743455.html).
 
 ## Requirements
 - Python 3.8
