@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MPs overturn changes to Rwanda bill to set up fresh Lords battle**
+**Chicago begins evicting migrants from shelters as residents decry 'lack of respect'**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68599308).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/chicago-begins-evicting-migrants-rcna143961).
 
 ## Requirements
 - Python 3.8
