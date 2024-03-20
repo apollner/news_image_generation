@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court allows Texas to begin enforcing controversial immigration law**
+**Report: Chase Young undergoing neck procedure, is expected to be sidelined into training camp**
 
-You can read more about it [here](https://www.cnn.com/2024/03/19/politics/supreme-court-allows-texas-to-begin-enforcing-controversial-immigration-law/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chase-young-undergoing-neck-procedure-is-expected-to-be-sidelined-into-training-camp).
 
 ## Requirements
 - Python 3.8
