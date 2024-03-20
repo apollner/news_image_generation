@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing toddler Elijah Vue's blanket found weeks after disappearance**
+**Hong Kong lawmakers unanimously approve another law giving government more power to curb dissent**
 
-You can read more about it [here](https://www.cbsnews.com/news/elijah-vue-missing-wisconsin-toddler-blanket-found-disappearance/).
+You can read more about it [here](https://apnews.com/article/hong-kong-china-legislative-council-national-security-law-37e1aca2daef8a4f9f998f389ff3d7f5).
 
 ## Requirements
 - Python 3.8
