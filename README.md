@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Kate seen out on weekend shopping trip**
+**Alito extends order barring Texas from detaining migrants under SB4 immigration law for now**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/princess-kate-middleton-video-shopping-rcna143973).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-texas-immigration-law-sb4/).
 
 ## Requirements
 - Python 3.8
