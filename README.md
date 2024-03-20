@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 450 Jewish Hollywood creatives denounce Jonathan Glazer's 'Zone of Interest' Oscars speech in open letter**
+**Missing toddler Elijah Vue's blanket found weeks after disappearance**
 
-You can read more about it [here](https://nypost.com/2024/03/19/entertainment/jewish-hollywood-stars-pen-open-letter-to-zone-of-interest-director-jonathan-glazer/).
+You can read more about it [here](https://www.cbsnews.com/news/elijah-vue-missing-wisconsin-toddler-blanket-found-disappearance/).
 
 ## Requirements
 - Python 3.8
