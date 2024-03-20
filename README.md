@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Euclid 'dark universe' telescope gets de-iced from a million miles away**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/euclid-dark-universe-telescope-de-icing-process-mirrors-esa).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
