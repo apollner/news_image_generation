@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA Tournament 2024 bracket picks, upsets, best Cinderella teams: Model simulates March Madness 10,000 times**
+**Supreme Court allows Texas to begin enforcing controversial immigration law**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-tournament-2024-bracket-picks-upsets-best-cinderella-teams-model-simulates-march-madness-10000-times/).
+You can read more about it [here](https://www.cnn.com/2024/03/19/politics/supreme-court-allows-texas-to-begin-enforcing-controversial-immigration-law/index.html).
 
 ## Requirements
 - Python 3.8
