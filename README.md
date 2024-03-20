@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: 2-time Cy Young winner Blake Snell agrees to 2-year, $62 million deal with Giants after 3 seasons with Padres**
+**Your daily horoscope: March 19, 2024**
 
-You can read more about it [here](https://sports.yahoo.com/report-2-time-cy-young-winner-blake-snell-agrees-to-2-year-62-million-deal-with-giants-after-3-seasons-with-padres-012743455.html).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-march-19-2024/).
 
 ## Requirements
 - Python 3.8
