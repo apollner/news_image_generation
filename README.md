@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA bracket predictions: Model unveils surprising March Madness 2024 tournament picks**
+**Intermittent fasting tied to a higher risk of cardiovascular death, research shows**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-model-unveils-surprising-march-madness-2024-tournament-picks/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4540628-intermittent-fasting-tied-to-a-higher-risk-of-cardiovascular-death-research-shows/).
 
 ## Requirements
 - Python 3.8
