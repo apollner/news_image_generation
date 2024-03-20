@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 450 Jewish Hollywood creatives denounce Jonathan Glazer's 'Zone of Interest' Oscars speech in open letter**
+**Gaza's entire population facing acute food insecurity, Blinken warns**
 
-You can read more about it [here](https://nypost.com/2024/03/19/entertainment/jewish-hollywood-stars-pen-open-letter-to-zone-of-interest-director-jonathan-glazer/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68605401).
 
 ## Requirements
 - Python 3.8
