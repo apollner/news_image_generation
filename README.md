@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI says homicide rates fell nationwide in 2023**
+**Ariana Grande and Dalton Gomez divorce is official**
 
-You can read more about it [here](https://www.cbsnews.com/news/fbi-homicide-rates-fell-2023/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68612693).
 
 ## Requirements
 - Python 3.8
