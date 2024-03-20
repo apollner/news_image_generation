@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your daily horoscope: March 19, 2024**
+**Gambia could be first country to reverse ban on female genital cutting**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-march-19-2024/).
+You can read more about it [here](https://apnews.com/article/gambia-female-genital-cutting-7ab84af16d6b986025dd344d615bfe19).
 
 ## Requirements
 - Python 3.8
