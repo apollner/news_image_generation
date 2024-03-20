@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Accuses Evergrande of $78 Billion Fraud, Worse Than Luckin and Enron**
+**MPs overturn changes to Rwanda bill to set up fresh Lords battle**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-19/china-accuses-evergrande-of-78-billion-fraud-among-worst-ever).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68599308).
 
 ## Requirements
 - Python 3.8
