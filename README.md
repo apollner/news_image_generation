@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Chase Young undergoing neck procedure, is expected to be sidelined into training camp**
+**Ariana Grande and Dalton Gomez divorce is official**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chase-young-undergoing-neck-procedure-is-expected-to-be-sidelined-into-training-camp).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68612693).
 
 ## Requirements
 - Python 3.8
