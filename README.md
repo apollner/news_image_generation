@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande and Dalton Gomez divorce is official**
+**Dairy Queen's free cone day is back: How to get free ice cream to kick off spring**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68612693).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2024/03/19/dairy-queen-free-cone-day/73031698007/).
 
 ## Requirements
 - Python 3.8
