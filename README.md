@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Time is running out for interest rate cuts, market forecaster Jim Bianco warns before Fed meeting**
+**Trump is unable to make $464 million bond in civil fraud case, his lawyers tell court**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/18/time-running-out-for-rate-cuts-jim-bianco-warns-before-fed-meeting.html).
+You can read more about it [here](https://www.cnn.com/2024/03/18/politics/trump-464-million-dollar-bond/index.html).
 
 ## Requirements
 - Python 3.8
