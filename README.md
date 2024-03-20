@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intermittent fasting tied to a higher risk of cardiovascular death, research shows**
+**Rwanda bill amendments overturned in Commons vote**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4540628-intermittent-fasting-tied-to-a-higher-risk-of-cardiovascular-death-research-shows/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68599308).
 
 ## Requirements
 - Python 3.8
