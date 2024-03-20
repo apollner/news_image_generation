@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda bill amendments overturned in Commons vote**
+**Gangs unleash lethal new attacks on upscale areas in Haiti's capital**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68599308).
+You can read more about it [here](https://www.politico.com/news/2024/03/18/gang-attacks-haiti-capital-deaths-00147707).
 
 ## Requirements
 - Python 3.8
