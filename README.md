@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is unable to make $464 million bond in civil fraud case, his lawyers tell court**
+**Trump and co-defendants re-up their efforts to disqualify DA Fani Willis**
 
-You can read more about it [here](https://www.cnn.com/2024/03/18/politics/trump-464-million-dollar-bond/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/18/politics/trump-effort-disqualify-fani-willis/index.html).
 
 ## Requirements
 - Python 3.8
