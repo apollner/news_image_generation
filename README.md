@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gambia could be first country to reverse ban on female genital cutting**
+**Photo of late Queen Elizabeth II with grandkids taken by Kate Middleton was 'digitally' altered**
 
-You can read more about it [here](https://apnews.com/article/gambia-female-genital-cutting-7ab84af16d6b986025dd344d615bfe19).
+You can read more about it [here](https://nypost.com/2024/03/19/entertainment/photo-of-late-queen-elizabeth-ii-with-grandkids-taken-by-kate-middleton-was-digitally-altered/).
 
 ## Requirements
 - Python 3.8
