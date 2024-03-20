@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Photo of late Queen Elizabeth II with grandkids taken by Kate Middleton was 'digitally' altered**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/03/19/entertainment/photo-of-late-queen-elizabeth-ii-with-grandkids-taken-by-kate-middleton-was-digitally-altered/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
