@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is unable to make $464 million bond in civil fraud case, his lawyers tell court**
+**NCAA bracket predictions: Model unveils surprising March Madness 2024 tournament picks**
 
-You can read more about it [here](https://www.cnn.com/2024/03/18/politics/trump-464-million-dollar-bond/index.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-model-unveils-surprising-march-madness-2024-tournament-picks/).
 
 ## Requirements
 - Python 3.8
