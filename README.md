@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dairy Queen's free cone day is back: How to get free ice cream to kick off spring**
+**Intermittent fasting: New research casts doubt on its effectiveness**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2024/03/19/dairy-queen-free-cone-day/73031698007/).
+You can read more about it [here](https://www.cnn.com/2024/03/19/health/intermittent-fasting-pros-cons-wellness/index.html).
 
 ## Requirements
 - Python 3.8
