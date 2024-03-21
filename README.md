@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EPA sets strongest-ever climate change rules for cars**
+**Fresh defeats in the Lords over Rwanda bill**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/03/20/biden-car-emissions-rules/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68618570).
 
 ## Requirements
 - Python 3.8
