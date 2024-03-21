@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fresh defeats in the Lords over Rwanda bill**
+**Scientists say they can cut HIV out of cells | BBC News**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68618570).
+You can read more about it [here](https://www.youtube.com/watch?v=8agSFZqdq_I).
 
 ## Requirements
 - Python 3.8
