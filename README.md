@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When, where to see the solar eclipse in Minnesota**
+**Peter Navarro reports to prison for contempt in Jan. 6 investigation**
 
-You can read more about it [here](https://www.kare11.com/article/tech/science/solar-eclipse-2024-where-does-minnesota-stand-on-the-path-to-totality/89-8fffd102-7bcd-4c93-ab96-86f126014978).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/19/navarro-reports-prison-jan6-contempt/).
 
 ## Requirements
 - Python 3.8
