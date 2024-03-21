@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WR Mike Williams key addition for win-now Jets, Aaron Rodgers**
+**Trump Tells SCOTUS It Must Give Him Immunity or Presidents Will Face Blackmail**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39766986/mike-williams-key-addition-new-york-jets-aaron-rodgers).
+You can read more about it [here](https://www.businessinsider.com/trump-supreme-court-immunity-case-brief-blackmail-2024-3-2024).
 
 ## Requirements
 - Python 3.8
