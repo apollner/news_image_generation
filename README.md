@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Road House’ star Jake Gyllenhaal honored Patrick Swayze with tattoos in remake: 'Tried to carry him with me'**
+**Hong Kong’s new law is 'final nail in coffin', say critics**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/road-house-star-jake-gyllenhaal-honored-patrick-swayze-with-tattoos-in-remake).
+You can read more about it [here](https://www.bbc.com/news/world-asia-china-68613249).
 
 ## Requirements
 - Python 3.8
