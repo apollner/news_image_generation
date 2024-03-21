@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Simmons reveals skin cancer diagnosis**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/richard-simmons-reveals-skin-cancer-diagnosis).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
