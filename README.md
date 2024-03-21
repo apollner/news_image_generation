@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton's Medical Information Involved In Security Breach, Probe Launched**
+**Scientists say they can cut HIV out of cells**
 
-You can read more about it [here](https://www.ndtv.com/world-news/kate-middletons-medical-information-involved-in-security-breach-probe-launched-5273133).
+You can read more about it [here](https://www.bbc.com/news/health-68609297).
 
 ## Requirements
 - Python 3.8
