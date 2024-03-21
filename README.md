@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Illinois Primary Election Results 2024: See live results here**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.nbcchicago.com/illinois-election-2024/election-results-illinois-primary-live-races-too-close-to-call/3387972/).
 
 ## Requirements
 - Python 3.8
