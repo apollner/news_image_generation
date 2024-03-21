@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Devil Comet' Set to Align With Total Solar Eclipse for Unique April Display**
+**Richard Simmons, 75, Reveals He Has Skin Cancer Days After Posting About Dying**
 
-You can read more about it [here](https://gizmodo.com/devil-comet-12p-pons-brooks-solar-eclipse-visible-1851349200).
+You can read more about it [here](https://people.com/richard-simmons-reveals-moment-he-was-told-you-have-cancer-8611516).
 
 ## Requirements
 - Python 3.8
