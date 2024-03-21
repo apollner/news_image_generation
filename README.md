@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Appeals court freezes Texas’ new SB4 immigration law**
+**Ewan McGregor Says Intimacy Coordinator Was ‘Necessary’ to Film Sex Scenes With Wife Mary Elizabeth Winstead: ‘It’s Also About the Crew’**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68613083).
+You can read more about it [here](https://variety.com/2024/tv/news/ewan-mcgregor-intimacy-coordinator-sex-scenes-wife-mary-elizabeth-winstead-1235946712/).
 
 ## Requirements
 - Python 3.8
