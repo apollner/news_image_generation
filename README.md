@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sirens are blaring’: UN climate report says 2023 was ‘off the charts’**
+**‘Goon Squad’ leader and another deputy sentenced for torture of two Black men. Four other ex-officers still face sentencing**
 
-You can read more about it [here](https://nypost.com/2024/03/19/us-news/sirens-are-blaring-un-climate-report-says-2023-was-off-the-charts/).
+You can read more about it [here](https://www.cnn.com/2024/03/19/us/mississippi-black-men-police-torture-sentencing-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
