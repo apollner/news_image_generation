@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump has indefinitely delayed his Jan. 6 criminal trial. Hundreds of his supporters haven't been so lucky.**
+**Possible measles exposure at East Bay restaurant**
 
-You can read more about it [here](https://www.yahoo.com/news/trump-indefinitely-delayed-jan-6-130040383.html).
+You can read more about it [here](https://www.ktvu.com/news/possible-measles-exposure-at-east-bay-restaurant).
 
 ## Requirements
 - Python 3.8
