@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Simmons, 75, Reveals He Has Skin Cancer Days After Posting About Dying**
+**[Removed]**
 
-You can read more about it [here](https://people.com/richard-simmons-reveals-moment-he-was-told-you-have-cancer-8611516).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
