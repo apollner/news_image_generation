@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ewan McGregor Says Intimacy Coordinator Was ‘Necessary’ to Film Sex Scenes With Wife Mary Elizabeth Winstead: ‘It’s Also About the Crew’**
+**‘Goon Squad’ leader and another deputy sentenced for torture of two Black men. Four other ex-officers still face sentencing**
 
-You can read more about it [here](https://variety.com/2024/tv/news/ewan-mcgregor-intimacy-coordinator-sex-scenes-wife-mary-elizabeth-winstead-1235946712/).
+You can read more about it [here](https://www.cnn.com/2024/03/19/us/mississippi-black-men-police-torture-sentencing-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
