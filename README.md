@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sirens are blaring’: UN climate report says 2023 was ‘off the charts’**
+**'People in Gaza desperate, eating anything they can find'**
 
-You can read more about it [here](https://nypost.com/2024/03/19/us-news/sirens-are-blaring-un-climate-report-says-2023-was-off-the-charts/).
+You can read more about it [here](https://www.bbc.com/news/av/world-middle-east-68486306).
 
 ## Requirements
 - Python 3.8
