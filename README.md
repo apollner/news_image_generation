@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Report: Arrest warrant issued for Lions CB Cameron Sutton**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.prideofdetroit.com/2024/3/20/24106797/report-arrest-warrant-issued-detroit-lions-cornerback-cameron-sutton).
 
 ## Requirements
 - Python 3.8
