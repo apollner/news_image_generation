@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple-Google Gemini Partnership Could Make an Unstoppable AI Force**
+**‘Sirens are blaring’: UN climate report says 2023 was ‘off the charts’**
 
-You can read more about it [here](https://finance.yahoo.com/news/apple-google-gemini-partnership-could-014602633.html).
+You can read more about it [here](https://nypost.com/2024/03/19/us-news/sirens-are-blaring-un-climate-report-says-2023-was-off-the-charts/).
 
 ## Requirements
 - Python 3.8
