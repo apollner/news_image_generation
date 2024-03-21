@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Goon Squad’ leader and another deputy sentenced for torture of two Black men. Four other ex-officers still face sentencing**
+**Appeals court freezes Texas’ new SB4 immigration law**
 
-You can read more about it [here](https://www.cnn.com/2024/03/19/us/mississippi-black-men-police-torture-sentencing-tuesday/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68613083).
 
 ## Requirements
 - Python 3.8
