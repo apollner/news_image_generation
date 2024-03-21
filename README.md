@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Ohio toddler died after her mom left her home alone while she took a 10-day vacation. A judge called it the ‘ultimate act of betrayal’**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/03/20/us/ohio-mom-toddler-death-sentencing-cec/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
