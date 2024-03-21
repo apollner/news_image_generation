@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois Primary Election Results 2024: See live results here**
+**Trump has indefinitely delayed his Jan. 6 criminal trial. Hundreds of his supporters haven't been so lucky.**
 
-You can read more about it [here](http://www.nbcchicago.com/illinois-election-2024/election-results-illinois-primary-live-races-too-close-to-call/3387972/).
+You can read more about it [here](https://www.yahoo.com/news/trump-indefinitely-delayed-jan-6-130040383.html).
 
 ## Requirements
 - Python 3.8
