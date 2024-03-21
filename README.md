@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McCullar will not play in NCAA Tournament**
+**Trump makes argument to Supreme Court about why he deserves presidential immunity**
 
-You can read more about it [here](https://www2.kusports.com/sports/college/basketball-men/2024/mar/19/mccullar-will-not-play-in-ncaa-tournament/).
+You can read more about it [here](https://abcnews.go.com/Politics/trump-makes-argument-supreme-court-deserves-presidential-immunity/story?id=108287463).
 
 ## Requirements
 - Python 3.8
