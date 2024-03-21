@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intermittent fasting: New research casts doubt on its effectiveness**
+**When, where to see the solar eclipse in Minnesota**
 
-You can read more about it [here](https://www.cnn.com/2024/03/19/health/intermittent-fasting-pros-cons-wellness/index.html).
+You can read more about it [here](https://www.kare11.com/article/tech/science/solar-eclipse-2024-where-does-minnesota-stand-on-the-path-to-totality/89-8fffd102-7bcd-4c93-ab96-86f126014978).
 
 ## Requirements
 - Python 3.8
