@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump makes argument to Supreme Court about why he deserves presidential immunity**
+**Kate Middleton's Medical Information Involved In Security Breach, Probe Launched**
 
-You can read more about it [here](https://abcnews.go.com/Politics/trump-makes-argument-supreme-court-deserves-presidential-immunity/story?id=108287463).
+You can read more about it [here](https://www.ndtv.com/world-news/kate-middletons-medical-information-involved-in-security-breach-probe-launched-5273133).
 
 ## Requirements
 - Python 3.8
