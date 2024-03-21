@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Goon Squad’ leader and another deputy sentenced for torture of two Black men. Four other ex-officers still face sentencing**
+**‘Road House’ star Jake Gyllenhaal honored Patrick Swayze with tattoos in remake: 'Tried to carry him with me'**
 
-You can read more about it [here](https://www.cnn.com/2024/03/19/us/mississippi-black-men-police-torture-sentencing-tuesday/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/road-house-star-jake-gyllenhaal-honored-patrick-swayze-with-tattoos-in-remake).
 
 ## Requirements
 - Python 3.8
