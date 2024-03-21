@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peter Navarro reports to prison for contempt in Jan. 6 investigation**
+**2024 NFL Mock Draft 2.0: Vikings trade up for Kirk Cousins' replacement, Chargers land big haul**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/19/navarro-reports-prison-jan6-contempt/).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-2-0-vikings-trade-up-for-kirk-cousins-replacement-chargers-land-big-haul/).
 
 ## Requirements
 - Python 3.8
