@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands shelter from Kyiv missile barrage, hours after Biden’s national security adviser visits**
+**Lawmakers unveil $1.2 trillion funding package, kicking off sprint to avoid government shutdown**
 
-You can read more about it [here](https://www.cnn.com/2024/03/21/europe/kyiv-missile-attack-ukraine-russia-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/government-funding-package-spending-congress/).
 
 ## Requirements
 - Python 3.8
