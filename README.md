@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump got the candidate he wanted in Ohio's Senate primary. But can Bernie Moreno win in November?**
+**Trump brings in $20 million in February through campaign and fundraising committee**
 
-You can read more about it [here](https://apnews.com/article/republicans-ohio-moreno-trump-sherrod-senate-da843cbb08b9233a180081cde6676a5f).
+You can read more about it [here](https://thehill.com/homenews/campaign/4545994-trump-brings-in-20-million-in-february-through-campaign-and-fundraising-committee/).
 
 ## Requirements
 - Python 3.8
