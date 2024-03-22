@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit set for hotly anticipated debut after pricing IPO at top of range**
+**S&P 500 futures rise after major averages notch fresh closing records: Live updates**
 
-You can read more about it [here](https://finance.yahoo.com/news/reddit-set-hotly-anticipated-debut-103424123.html).
+You can read more about it [here](https://www.cnbc.com/2024/03/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
