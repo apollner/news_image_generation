@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande, Cynthia Erivo and Wicked Cast Stun in New Photos**
+**Ukraine war: Russian missile attack targets Kyiv**
 
-You can read more about it [here](https://www.eonline.com/news/1397793/ariana-grande-ethan-slater-and-the-entire-wicked-cast-stun-in-new-photos).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68623415).
 
 ## Requirements
 - Python 3.8
