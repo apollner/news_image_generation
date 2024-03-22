@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yoshinobu Yamamoto lasts only 1 inning in Dodgers debut**
+**State's largest police union makes major endorsement in 2024 presidential race**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39776466/yoshinobu-yamamoto-lasts-only-1-inning-dodgers-debut).
+You can read more about it [here](https://www.foxnews.com/politics/states-largest-police-union-makes-major-endorsement-2024-presidential-race).
 
 ## Requirements
 - Python 3.8
