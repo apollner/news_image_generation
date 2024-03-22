@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks climb to new records after Fed sticks to the plan on rates**
+**Richard Simmons shares he has been diagnosed with skin cancer**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-climb-to-new-records-after-fed-sticks-to-the-plan-on-rates-194104364.html).
+You can read more about it [here](https://www.cnn.com/2024/03/20/entertainment/richard-simmons-skin-cancer-wellness/index.html).
 
 ## Requirements
 - Python 3.8
