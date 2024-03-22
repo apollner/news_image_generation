@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘House of the Dragon’ Drops ‘Dueling’ Season 2 Trailers as HBO Makes Viewers Choose Between Rhaenyra and Alicent**
+**Activision Explains Why Call of Duty Warzone Mobile Has 120-Player Verdansk and PC and Console Do Not**
 
-You can read more about it [here](https://variety.com/2024/tv/news/house-of-the-dragon-season-2-trailer-game-of-thrones-1235945229/).
+You can read more about it [here](https://www.ign.com/articles/activision-explains-why-call-of-duty-warzone-mobile-has-120-player-verdansk-and-pc-and-console-do-not).
 
 ## Requirements
 - Python 3.8
