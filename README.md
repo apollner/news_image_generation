@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan State vs. Mississippi State: First Round NCAA tournament extended highlights**
+**Apple allegedly monopolized smartphone market: Justice Department**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VKqYAv97Fb4).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/03/21/apple-allegedly-monopolized-smartphones-justice-department/73051961007/).
 
 ## Requirements
 - Python 3.8
