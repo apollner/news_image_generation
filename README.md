@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State's largest police union makes major endorsement in 2024 presidential race**
+**Medicare can now cover certain weight loss drugs in a big step for patients**
 
-You can read more about it [here](https://www.foxnews.com/politics/states-largest-police-union-makes-major-endorsement-2024-presidential-race).
+You can read more about it [here](https://www.cnbc.com/2024/03/21/medicare-can-cover-weight-loss-drugs-if-used-for-added-health-benefit.html).
 
 ## Requirements
 - Python 3.8
