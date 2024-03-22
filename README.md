@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawmakers unveil $1.2 trillion government funding package ahead of shutdown deadline**
+**‘House of the Dragon’ Drops ‘Dueling’ Season 2 Trailers as HBO Makes Viewers Choose Between Rhaenyra and Alicent**
 
-You can read more about it [here](https://www.cnn.com/2024/03/21/politics/government-funding-bills/index.html).
+You can read more about it [here](https://variety.com/2024/tv/news/house-of-the-dragon-season-2-trailer-game-of-thrones-1235945229/).
 
 ## Requirements
 - Python 3.8
