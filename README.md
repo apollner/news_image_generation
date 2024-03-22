@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neuralink's First Human Subject Demonstrates His Brain-Computer Interface**
+**Leo Varadkar: I am no longer best man to be Irish PM**
 
-You can read more about it [here](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68616372).
 
 ## Requirements
 - Python 3.8
