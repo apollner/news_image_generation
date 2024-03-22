@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple allegedly monopolized smartphone market: Justice Department**
+**Ariana Grande, Cynthia Erivo and Wicked Cast Stun in New Photos**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/03/21/apple-allegedly-monopolized-smartphones-justice-department/73051961007/).
+You can read more about it [here](https://www.eonline.com/news/1397793/ariana-grande-ethan-slater-and-the-entire-wicked-cast-stun-in-new-photos).
 
 ## Requirements
 - Python 3.8
