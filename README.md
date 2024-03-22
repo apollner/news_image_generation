@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration unveils strictest ever US car emission limits to boost EVs**
+**Former Nickelodeon producer Dan Schneider responds to "Quiet on Set" accusations**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68621430).
+You can read more about it [here](https://www.cbsnews.com/news/dan-schneider-apology-quiet-on-set-documentary-nickelodeon/).
 
 ## Requirements
 - Python 3.8
