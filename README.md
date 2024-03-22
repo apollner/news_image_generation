@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neuralink's First Human Subject Demonstrates His Brain-Computer Interface**
+**Stock market today: Stocks climb to new records after Fed sticks to the plan on rates**
 
-You can read more about it [here](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-climb-to-new-records-after-fed-sticks-to-the-plan-on-rates-194104364.html).
 
 ## Requirements
 - Python 3.8
