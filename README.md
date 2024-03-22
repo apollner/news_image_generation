@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump brings in $20 million in February through campaign and fundraising committee**
+**NY attorney general says appeals court should disregard Trump’s claim it’s impossible to get a bond**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4545994-trump-brings-in-20-million-in-february-through-campaign-and-fundraising-committee/).
+You can read more about it [here](https://www.cnn.com/2024/03/20/politics/trump-civil-fraud-bond/index.html).
 
 ## Requirements
 - Python 3.8
