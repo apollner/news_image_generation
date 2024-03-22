@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leo Varadkar: I am no longer best man to be Irish PM**
+**Trump got the candidate he wanted in Ohio's Senate primary. But can Bernie Moreno win in November?**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68616372).
+You can read more about it [here](https://apnews.com/article/republicans-ohio-moreno-trump-sherrod-senate-da843cbb08b9233a180081cde6676a5f).
 
 ## Requirements
 - Python 3.8
