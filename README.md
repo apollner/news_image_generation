@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military forced journalists and health workers to strip in Gaza hospital raid, eyewitnesses say**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/03/20/middleeast/israeli-military-forced-journalists-and-health-workers-to-strip-in-gaza-hospital-raid-eyewitnesses-say/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
