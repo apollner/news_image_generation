@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Medicare can now cover certain weight loss drugs in a big step for patients**
+**Pete Davidson Calls It Quits on ‘Bupkis’ Season 2**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/21/medicare-can-cover-weight-loss-drugs-if-used-for-added-health-benefit.html).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/pete-davidson-quits-bupkis-no-season-2-peacock-1235857481/).
 
 ## Requirements
 - Python 3.8
