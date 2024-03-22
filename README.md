@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Russian missile attack targets Kyiv**
+**Michigan State basketball creams Mississippi State in March Madness**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68623415).
+You can read more about it [here](https://www.freep.com/story/sports/college/michigan-state/spartans/2024/03/21/michigan-state-basketball-miss-st-march-madness-2024-ncaa-tournament/73052236007/).
 
 ## Requirements
 - Python 3.8
