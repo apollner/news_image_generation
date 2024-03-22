@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit set for hotly anticipated debut after pricing IPO at top of range**
+**NCAA Tournament 2024 bracket picks, upsets, Cinderella teams: Model simulates March Madness 10K times**
 
-You can read more about it [here](https://finance.yahoo.com/news/reddit-set-hotly-anticipated-debut-103424123.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/ncaa-tournament-2024-bracket-picks-upsets-top-cinderella-teams-model-simulates-march-madness-10k-times/).
 
 ## Requirements
 - Python 3.8
