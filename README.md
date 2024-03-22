@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Nickelodeon producer Dan Schneider responds to "Quiet on Set" accusations**
+**Leo Varadkar: I am no longer best man to be Irish PM**
 
-You can read more about it [here](https://www.cbsnews.com/news/dan-schneider-apology-quiet-on-set-documentary-nickelodeon/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68616372).
 
 ## Requirements
 - Python 3.8
