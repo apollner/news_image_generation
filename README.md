@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Davidson Calls It Quits on ‘Bupkis’ Season 2**
+**Michigan State vs. Mississippi State: First Round NCAA tournament extended highlights**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/pete-davidson-quits-bupkis-no-season-2-peacock-1235857481/).
+You can read more about it [here](https://www.youtube.com/watch?v=VKqYAv97Fb4).
 
 ## Requirements
 - Python 3.8
