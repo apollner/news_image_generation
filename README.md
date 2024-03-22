@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NY attorney general says appeals court should disregard Trump’s claim it’s impossible to get a bond**
+**Why Israel is so determined to launch an offensive in Rafah**
 
-You can read more about it [here](https://www.cnn.com/2024/03/20/politics/trump-civil-fraud-bond/index.html).
+You can read more about it [here](https://apnews.com/article/rafah-hamas-gaza-israel-war-541e91c0f09196944a4dabeded94596f).
 
 ## Requirements
 - Python 3.8
