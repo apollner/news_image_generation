@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawmakers unveil $1.2 trillion funding package, kicking off sprint to avoid government shutdown**
+**Claim of iPad announcement on March 26 'not true' – Gurman**
 
-You can read more about it [here](https://www.cbsnews.com/news/government-funding-package-spending-congress/).
+You can read more about it [here](https://9to5mac.com/2024/03/21/ipad-announcement/).
 
 ## Requirements
 - Python 3.8
