@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why has UK’s plan to deport asylum seekers to Rwanda been delayed again?**
+**Neuralink's First Human Subject Demonstrates His Brain-Computer Interface**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/20/why-has-uks-plan-to-deport-asylum-seekers-to-rwanda-been-delayed-again).
+You can read more about it [here](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/).
 
 ## Requirements
 - Python 3.8
