@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christine Quinn's 2-Year-Old Son Taken to Hospital After Husband Christian Dumontet's Assault Arrest - E! Online**
+**M. Emmet Walsh, ‘Blade Runner’ and ‘Blood Simple’ Actor, Dies at 88**
 
-You can read more about it [here](https://www.eonline.com/news/1397745/christine-quinns-2-year-old-son-taken-to-hospital-after-husband-christian-dumontets-assault-arrest).
+You can read more about it [here](https://variety.com/2024/tv/news/m-emmet-walsh-dead-blade-runner-1235947723/).
 
 ## Requirements
 - Python 3.8
