@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M. Emmet Walsh, ‘Blade Runner’ and ‘Blood Simple’ Actor, Dies at 88**
+**Biden administration unveils strictest ever US car emission limits to boost EVs**
 
-You can read more about it [here](https://variety.com/2024/tv/news/m-emmet-walsh-dead-blade-runner-1235947723/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68621430).
 
 ## Requirements
 - Python 3.8
