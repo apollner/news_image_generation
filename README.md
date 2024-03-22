@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Activision Explains Why Call of Duty Warzone Mobile Has 120-Player Verdansk and PC and Console Do Not**
+**Apple sued in a landmark antitrust lawsuit**
 
-You can read more about it [here](https://www.ign.com/articles/activision-explains-why-call-of-duty-warzone-mobile-has-120-player-verdansk-and-pc-and-console-do-not).
+You can read more about it [here](https://www.cnn.com/2024/03/21/tech/apple-sued-antitrust-doj/index.html).
 
 ## Requirements
 - Python 3.8
