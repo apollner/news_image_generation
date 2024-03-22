@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neuralink video shows patient using brain implant to play chess on laptop**
+**Reddit set for hotly anticipated debut after pricing IPO at top of range**
 
-You can read more about it [here](https://www.theverge.com/2024/3/21/24107499/neuralink-human-trial-chess-video-brain-computer-interface).
+You can read more about it [here](https://finance.yahoo.com/news/reddit-set-hotly-anticipated-debut-103424123.html).
 
 ## Requirements
 - Python 3.8
