@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Shipping CEO Angela Chao, Mitch McConnell’s sister-in-law, was intoxicated when she drove into lake, sheriff’s office says**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/03/20/business/angela-chao-fatal-car-accident/index.html).
 
 ## Requirements
 - Python 3.8
