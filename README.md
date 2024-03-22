@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists say they can cut HIV out of cells | BBC News**
+**Israeli military forced journalists and health workers to strip in Gaza hospital raid, eyewitnesses say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=8agSFZqdq_I).
+You can read more about it [here](https://www.cnn.com/2024/03/20/middleeast/israeli-military-forced-journalists-and-health-workers-to-strip-in-gaza-hospital-raid-eyewitnesses-say/index.html).
 
 ## Requirements
 - Python 3.8
