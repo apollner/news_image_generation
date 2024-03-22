@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Israel is so determined to launch an offensive in Rafah**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/rafah-hamas-gaza-israel-war-541e91c0f09196944a4dabeded94596f).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
