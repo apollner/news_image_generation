@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures rise after major averages notch fresh closing records: Live updates**
+**Thousands shelter from Kyiv missile barrage, hours after Biden’s national security adviser visits**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnn.com/2024/03/21/europe/kyiv-missile-attack-ukraine-russia-intl/index.html).
 
 ## Requirements
 - Python 3.8
