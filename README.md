@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March Madness Thursday recap: Watch out for the 11 seeds — and Jack Gohlke**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/march-madness-ncaa-tournament-thursday-recap-watch-out-for-the-11-seeds--and-jack-gohlke-050817517.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
