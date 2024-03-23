@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Medicare to cover obesity drugs, but not for weight loss**
+**Indian opposition leader Arvind Kejriwal arrested over corruption claims**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4548098-medicare-obesity-drugs-weight-loss/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/21/india-capitals-chief-minister-arrested-over-graft-probe-ahead-of-elections).
 
 ## Requirements
 - Python 3.8
