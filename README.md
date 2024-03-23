@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NCAA women's tournament scores, games, updates: Follow Friday's March Madness action live**
+**Financial markets will 'rebel' if Fed's Powell turns out to be wrong about inflation**
 
-You can read more about it [here](https://sports.yahoo.com/live/2024-ncaa-womens-tournament-scores-games-updates-follow-fridays-march-madness-action-live-151512136.html).
+You can read more about it [here](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-extension-of-record-setting-run/card/financial-markets-will-rebel-if-fed-s-powell-turns-out-to-be-wrong-about-inflation-sdmn0YBSnbn01rO9PNbT).
 
 ## Requirements
 - Python 3.8
