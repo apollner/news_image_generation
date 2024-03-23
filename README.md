@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspects at center of statewide manhunt are in custody after being arrested separately in Twin Falls County**
+**‘The Juice Is Loose’: Michael Keaton, Jenna Ortega Resurrect ‘Beetlejuice’ in Tim Burton Sequel**
 
-You can read more about it [here](https://www.kmvt.com/2024/03/21/suspects-center-statewide-manhunt-are-custody-after-being-arrested-separately-twin-falls-county/).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/beetlejuice-trailer-michael-keaton-jenna-ortega-1234992377/).
 
 ## Requirements
 - Python 3.8
