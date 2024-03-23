@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March Madness scores: Oakland's upset of Kentucky highlights NCAA tournament Day 1**
+**California homelessness measure's razor-thin win signals growing voter fatigue**
 
-You can read more about it [here](https://sports.yahoo.com/live/march-madness-scores-oaklands-upset-of-kentucky-highlights-ncaa-tournament-day-1-211121980.html).
+You can read more about it [here](https://apnews.com/article/california-homelessness-mental-health-ef8c7c6ea303790f7a291b3d43e130d4).
 
 ## Requirements
 - Python 3.8
