@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intermittent Fasting Linked to a 91% Higher Risk of Cardiovascular Death**
+**United States 3-1 Jamaica (Mar 21, 2024) Game Analysis**
 
-You can read more about it [here](https://scitechdaily.com/intermittent-fasting-linked-to-a-91-higher-risk-of-cardiovascular-death/).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/690324).
 
 ## Requirements
 - Python 3.8
