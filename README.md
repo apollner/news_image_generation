@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Solar eclipse 2024: Millions in North America will view what promises to be a blockbuster**
+**Rocket Report: Starship could fly again in May; Ariane 6 coming together**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68597945).
+You can read more about it [here](https://arstechnica.com/space/2024/03/rocket-report-starship-could-fly-again-in-may-ariane-6-coming-together/).
 
 ## Requirements
 - Python 3.8
