@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman's Reddit stake worth over $600 million after first day pop on NYSE**
+**Indian opposition leader Arvind Kejriwal arrested over corruption claims**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/21/sam-altmans-reddit-stake-worth-over-600-million-after-nyse-debut.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/21/india-capitals-chief-minister-arrested-over-graft-probe-ahead-of-elections).
 
 ## Requirements
 - Python 3.8
