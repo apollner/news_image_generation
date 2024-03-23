@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Four-round 2024 NFL mock draft: Jets take TE Brock Bowers; Chiefs trade up for speedster in Round 1**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/four-round-2024-nfl-mock-draft-jets-take-te-brock-bowers-chiefs-trade-up-for-speedster-in-round-1).
 
 ## Requirements
 - Python 3.8
