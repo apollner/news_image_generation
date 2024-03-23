@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Financial markets will 'rebel' if Fed's Powell turns out to be wrong about inflation**
+**March Madness Thursday recap: Watch out for the 11 seeds — and Jack Gohlke**
 
-You can read more about it [here](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-point-to-extension-of-record-setting-run/card/financial-markets-will-rebel-if-fed-s-powell-turns-out-to-be-wrong-about-inflation-sdmn0YBSnbn01rO9PNbT).
+You can read more about it [here](https://sports.yahoo.com/march-madness-ncaa-tournament-thursday-recap-watch-out-for-the-11-seeds--and-jack-gohlke-050817517.html).
 
 ## Requirements
 - Python 3.8
