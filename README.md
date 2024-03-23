@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden cancels $6bn in student debt for public service workers**
+**Carlee Russell, Alabama woman who faked her own kidnapping, avoids jail time for hoax**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68630850).
+You can read more about it [here](https://www.foxnews.com/us/carlee-russell-alabama-woman-faked-own-kidnapping-avoids-jail-time-hoax).
 
 ## Requirements
 - Python 3.8
