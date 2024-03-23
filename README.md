@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists create stunning models of how sun will look during eclipse**
+**A man with prosopometamorphopsia shares the distorted ‘demon’ faces he sees**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/22/solar-corona-total-eclipse-sun/).
+You can read more about it [here](https://www.cnn.com/2024/03/22/health/demon-faces-prosopometamorphopsia-wellness/index.html).
 
 ## Requirements
 - Python 3.8
