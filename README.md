@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan State basketball creams Mississippi State in March Madness**
+**Sam Altman's Reddit stake worth over $600 million after first day pop on NYSE**
 
-You can read more about it [here](https://www.freep.com/story/sports/college/michigan-state/spartans/2024/03/21/michigan-state-basketball-miss-st-march-madness-2024-ncaa-tournament/73052236007/).
+You can read more about it [here](https://www.cnbc.com/2024/03/21/sam-altmans-reddit-stake-worth-over-600-million-after-nyse-debut.html).
 
 ## Requirements
 - Python 3.8
