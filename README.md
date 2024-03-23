@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A man with prosopometamorphopsia shares the distorted ‘demon’ faces he sees**
+**Marjorie Taylor Greene files surprise motion to oust Speaker Johnson, a sign of growing revolt from the right**
 
-You can read more about it [here](https://www.cnn.com/2024/03/22/health/demon-faces-prosopometamorphopsia-wellness/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/22/politics/marjorie-taylor-greene-mike-johnson/index.html).
 
 ## Requirements
 - Python 3.8
