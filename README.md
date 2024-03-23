@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California home insurance meltdown worsens as State Farm sheds 72,000 policies**
+**Israel-Gaza latest: Antony Blinken in Israel as US supports call for Gaza ceasefire**
 
-You can read more about it [here](https://www.mercurynews.com/2024/03/21/california-home-insurance-meltdown-worsens-as-state-farm-sheds-72000-policies/).
+You can read more about it [here](https://www.bbc.co.uk/news/live/world-68631712).
 
 ## Requirements
 - Python 3.8
