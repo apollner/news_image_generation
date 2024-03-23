@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian opposition leader Arvind Kejriwal arrested over corruption claims**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/21/india-capitals-chief-minister-arrested-over-graft-probe-ahead-of-elections).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
