@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arvind Kejriwal: India opposition calls arrest ‘decay of democracy’**
+**California home insurance meltdown worsens as State Farm sheds 72,000 policies**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-68634000).
+You can read more about it [here](https://www.mercurynews.com/2024/03/21/california-home-insurance-meltdown-worsens-as-state-farm-sheds-72000-policies/).
 
 ## Requirements
 - Python 3.8
