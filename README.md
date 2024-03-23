@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT 3, Jamaica 1: Wright, Reyna star in U.S. comeback to reach Nations League final**
+**Thousands shelter from Kyiv missile barrage, hours after Biden’s national security adviser visits**
 
-You can read more about it [here](https://theathletic.com/5360925/2024/03/21/usmnt-jamaica-nations-league/).
+You can read more about it [here](https://www.cnn.com/2024/03/21/europe/kyiv-missile-attack-ukraine-russia-intl/index.html).
 
 ## Requirements
 - Python 3.8
