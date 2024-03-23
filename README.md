@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former gaming executive sentenced to death in poisoning of billionaire Netflix producer in China**
+**Scientists create stunning models of how sun will look during eclipse**
 
-You can read more about it [here](https://www.cbsnews.com/news/xu-yao-death-sentence-poisoning-netflix-producer-xu-yao-china/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/22/solar-corona-total-eclipse-sun/).
 
 ## Requirements
 - Python 3.8
