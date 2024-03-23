@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The unanswered questions around the Shohei Ohtani, Ippei Mizuhara betting scandal**
+**Carnage on the streets of Port-au-Prince as world stalls on a promised intervention for Haiti**
 
-You can read more about it [here](https://theathletic.com/5361168/2024/03/22/shohei-ohtani-ippei-mizuhara-betting-scandal-questions/).
+You can read more about it [here](https://www.cnn.com/2024/03/21/americas/haiti-council-gang-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
