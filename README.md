@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunfire and explosion reported at concert hall in Russia’s Moscow**
+**2024 NCAA women's tournament scores, games, updates: Follow Friday's March Madness action live**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/22/gunfire-and-explosion-reported-at-concert-hall-in-russias-moscow).
+You can read more about it [here](https://sports.yahoo.com/live/2024-ncaa-womens-tournament-scores-games-updates-follow-fridays-march-madness-action-live-151512136.html).
 
 ## Requirements
 - Python 3.8
