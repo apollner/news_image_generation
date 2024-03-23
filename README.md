@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father of three dies after getting bitten attempting to remove venomous snake from childcare center**
+**Medicare to cover obesity drugs, but not for weight loss**
 
-You can read more about it [here](https://nypost.com/2024/03/21/world-news/childcare-center-under-investigation-after-man-dies-of-snake-bite/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4548098-medicare-obesity-drugs-weight-loss/).
 
 ## Requirements
 - Python 3.8
