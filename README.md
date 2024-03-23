@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Flacco: I'll help Anthony Richardson simplify the game and play fast**
+**Jeffrey Jones Not in ‘Beetlejuice Beetlejuice,’ Despite Easter Egg**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-ill-help-anthony-richardson-simplify-the-game-and-play-fast).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/jeffrey-jones-not-in-beetlejuice-trailer-1235858325/).
 
 ## Requirements
 - Python 3.8
