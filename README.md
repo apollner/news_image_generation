@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marjorie Taylor Greene files surprise motion to oust Speaker Johnson, a sign of growing revolt from the right**
+**Gunfire and explosion reported at concert hall in Russia’s Moscow**
 
-You can read more about it [here](https://www.cnn.com/2024/03/22/politics/marjorie-taylor-greene-mike-johnson/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/22/gunfire-and-explosion-reported-at-concert-hall-in-russias-moscow).
 
 ## Requirements
 - Python 3.8
