@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carnage on the streets of Port-au-Prince as world stalls on a promised intervention for Haiti**
+**Former gaming executive sentenced to death in poisoning of billionaire Netflix producer in China**
 
-You can read more about it [here](https://www.cnn.com/2024/03/21/americas/haiti-council-gang-intl-latam/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/xu-yao-death-sentence-poisoning-netflix-producer-xu-yao-china/).
 
 ## Requirements
 - Python 3.8
