@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Juice Is Loose’: Michael Keaton, Jenna Ortega Resurrect ‘Beetlejuice’ in Tim Burton Sequel**
+**Intermittent Fasting Linked to a 91% Higher Risk of Cardiovascular Death**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/beetlejuice-trailer-michael-keaton-jenna-ortega-1234992377/).
+You can read more about it [here](https://scitechdaily.com/intermittent-fasting-linked-to-a-91-higher-risk-of-cardiovascular-death/).
 
 ## Requirements
 - Python 3.8
