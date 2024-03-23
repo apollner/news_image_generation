@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands shelter from Kyiv missile barrage, hours after Biden’s national security adviser visits**
+**Israel-Gaza latest: Antony Blinken in Israel as US supports call for Gaza ceasefire**
 
-You can read more about it [here](https://www.cnn.com/2024/03/21/europe/kyiv-missile-attack-ukraine-russia-intl/index.html).
+You can read more about it [here](https://www.bbc.co.uk/news/live/world-68631712).
 
 ## Requirements
 - Python 3.8
