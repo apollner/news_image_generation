@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carlee Russell, Alabama woman who faked her own kidnapping, avoids jail time for hoax**
+**Suspects at center of statewide manhunt are in custody after being arrested separately in Twin Falls County**
 
-You can read more about it [here](https://www.foxnews.com/us/carlee-russell-alabama-woman-faked-own-kidnapping-avoids-jail-time-hoax).
+You can read more about it [here](https://www.kmvt.com/2024/03/21/suspects-center-statewide-manhunt-are-custody-after-being-arrested-separately-twin-falls-county/).
 
 ## Requirements
 - Python 3.8
