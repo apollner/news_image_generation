@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four-round 2024 NFL mock draft: Jets take TE Brock Bowers; Chiefs trade up for speedster in Round 1**
+**Joe Flacco: I'll help Anthony Richardson simplify the game and play fast**
 
-You can read more about it [here](https://www.nfl.com/news/four-round-2024-nfl-mock-draft-jets-take-te-brock-bowers-chiefs-trade-up-for-speedster-in-round-1).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-ill-help-anthony-richardson-simplify-the-game-and-play-fast).
 
 ## Requirements
 - Python 3.8
