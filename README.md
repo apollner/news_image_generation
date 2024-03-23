@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA Tournament winners, losers: Kentucky loss part of SEC's bad day**
+**United States 3-1 Jamaica (Mar 21, 2024) Game Analysis**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaab/2024/03/21/march-madness-first-round-winners-losers/73058325007/).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/690324).
 
 ## Requirements
 - Python 3.8
