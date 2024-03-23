@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intermittent Fasting Linked to a 91% Higher Risk of Cardiovascular Death**
+**NCAA Tournament winners, losers: Kentucky loss part of SEC's bad day**
 
-You can read more about it [here](https://scitechdaily.com/intermittent-fasting-linked-to-a-91-higher-risk-of-cardiovascular-death/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaab/2024/03/21/march-madness-first-round-winners-losers/73058325007/).
 
 ## Requirements
 - Python 3.8
