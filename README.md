@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California homelessness measure's razor-thin win signals growing voter fatigue**
+**Arvind Kejriwal: India opposition calls arrest ‘decay of democracy’**
 
-You can read more about it [here](https://apnews.com/article/california-homelessness-mental-health-ef8c7c6ea303790f7a291b3d43e130d4).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-68634000).
 
 ## Requirements
 - Python 3.8
