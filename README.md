@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United States 3-1 Jamaica (Mar 21, 2024) Game Analysis**
+**March Madness scores: Oakland's upset of Kentucky highlights NCAA tournament Day 1**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/690324).
+You can read more about it [here](https://sports.yahoo.com/live/march-madness-scores-oaklands-upset-of-kentucky-highlights-ncaa-tournament-day-1-211121980.html).
 
 ## Requirements
 - Python 3.8
