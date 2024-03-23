@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rocket Report: Starship could fly again in May; Ariane 6 coming together**
+**Carnage on the streets of Port-au-Prince as world stalls on a promised intervention for Haiti**
 
-You can read more about it [here](https://arstechnica.com/space/2024/03/rocket-report-starship-could-fly-again-in-may-ariane-6-coming-together/).
+You can read more about it [here](https://www.cnn.com/2024/03/21/americas/haiti-council-gang-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
