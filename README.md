@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian opposition leader Arvind Kejriwal arrested over corruption claims**
+**Father of three dies after getting bitten attempting to remove venomous snake from childcare center**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/21/india-capitals-chief-minister-arrested-over-graft-probe-ahead-of-elections).
+You can read more about it [here](https://nypost.com/2024/03/21/world-news/childcare-center-under-investigation-after-man-dies-of-snake-bite/).
 
 ## Requirements
 - Python 3.8
