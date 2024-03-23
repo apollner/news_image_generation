@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza latest: Antony Blinken in Israel as US supports call for Gaza ceasefire**
+**USMNT 3, Jamaica 1: Wright, Reyna star in U.S. comeback to reach Nations League final**
 
-You can read more about it [here](https://www.bbc.co.uk/news/live/world-68631712).
+You can read more about it [here](https://theathletic.com/5360925/2024/03/21/usmnt-jamaica-nations-league/).
 
 ## Requirements
 - Python 3.8
