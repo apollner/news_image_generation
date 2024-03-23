@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza latest: Antony Blinken in Israel as US supports call for Gaza ceasefire**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.co.uk/news/live/world-68631712).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
