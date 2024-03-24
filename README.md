@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter storm warnings issued as 12+ inches of snow bears down on Minnesota**
+**New Hampshire weather: Significant snow & wintry mix Saturday**
 
-You can read more about it [here](https://bringmethenews.com/minnesota-weather/winter-storm-warnings-issued-as-12-inches-of-snow-bears-down-on-minnesota).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-snow-32324/60284553).
 
 ## Requirements
 - Python 3.8
