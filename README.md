@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeffrey Jones Not in ‘Beetlejuice Beetlejuice,’ Despite Easter Egg**
+**Drug overdose deaths again broke a record in 2022, CDC reveals**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/jeffrey-jones-not-in-beetlejuice-trailer-1235858325/).
+You can read more about it [here](https://nypost.com/2024/03/22/lifestyle/drug-overdose-deaths-again-broke-a-record-in-2022-cdc-reveals/).
 
 ## Requirements
 - Python 3.8
