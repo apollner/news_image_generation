@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drug overdose deaths again broke a record in 2022, CDC reveals**
+**No. 13 seed Yale stuns SEC tournament champion Auburn in another March Madness upset**
 
-You can read more about it [here](https://nypost.com/2024/03/22/lifestyle/drug-overdose-deaths-again-broke-a-record-in-2022-cdc-reveals/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaab/2024/03/22/yale-stuns-auburn-march-madness-upset-sec/73073654007/).
 
 ## Requirements
 - Python 3.8
