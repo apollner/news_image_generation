@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC’s March Madness flops show the greed of Greg Sankey’s expansion effort**
+**Testing the 2024 BMW M2—maybe the last M car with a manual transmission**
 
-You can read more about it [here](https://theathletic.com/5362729/2024/03/23/sec-march-madness-record-greg-sankey/).
+You can read more about it [here](https://arstechnica.com/cars/2024/03/testing-the-2024-bmw-m2-maybe-the-last-m-car-with-a-manual-transmission/).
 
 ## Requirements
 - Python 3.8
