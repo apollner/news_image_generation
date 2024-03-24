@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Testing the 2024 BMW M2—maybe the last M car with a manual transmission**
+**MLB opens investigation after allegations that Shohei Ohtani's interpreter was involved in gambling scandal**
 
-You can read more about it [here](https://arstechnica.com/cars/2024/03/testing-the-2024-bmw-m2-maybe-the-last-m-car-with-a-manual-transmission/).
+You can read more about it [here](https://www.nbcnews.com/news/sports/mlb-investigating-shohei-ohtanis-interpreter-ippei-mizuhara-rcna144751).
 
 ## Requirements
 - Python 3.8
