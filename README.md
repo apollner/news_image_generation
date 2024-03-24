@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China coast guard water-cannons Philippine ship days after US backs Manila in disputed sea**
+**Life expectancy rises for first time in two years — but child deaths are spiking**
 
-You can read more about it [here](https://www.cnn.com/2024/03/23/asia/china-coast-guard-water-cannon-philippine-south-china-sea-intl-hnk/index.html).
+You can read more about it [here](https://nypost.com/2024/03/22/lifestyle/life-expectancy-rises-for-first-time-in-two-years/).
 
 ## Requirements
 - Python 3.8
