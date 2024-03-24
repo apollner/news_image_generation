@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress vote averts US government shutdown**
+**Kate, Princess of Wales: I am having cancer treatment**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68644510).
+You can read more about it [here](https://www.bbc.com/news/uk-68641441).
 
 ## Requirements
 - Python 3.8
