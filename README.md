@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Could real estate go the way of the travel industry? Not quite**
+**What the L'Jarius Sneed trade means for the Kansas City Chiefs**
 
-You can read more about it [here](https://www.cnn.com/2024/03/23/business/real-estate-settlement-travel-other-industries/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39794007/what-ljarius-sneed-trade-means-kansas-city-chiefs).
 
 ## Requirements
 - Python 3.8
