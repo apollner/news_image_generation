@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How every senator voted on the budget bill to avert a government shutdown**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/politics/interactive/2024/03/23/senate-vote-government-shutdown-bill-results/).
 
 ## Requirements
 - Python 3.8
