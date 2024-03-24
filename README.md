@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Riley Strain's mom, family speak out after student's body is found in Nashville river: 'Hug your babies tight tonight'**
+**Transplant of pig kidney into a human marks medical milestone**
 
-You can read more about it [here](https://nypost.com/2024/03/23/us-news/riley-strains-parents-speak-out-after-university-of-missouri-students-body-is-found-in-the-cumberland-river-in-nashville/).
+You can read more about it [here](https://www.pbs.org/newshour/show/transplant-of-pig-kidney-into-a-human-marks-medical-milestone).
 
 ## Requirements
 - Python 3.8
