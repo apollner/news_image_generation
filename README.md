@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Solar eclipse path 2024: Search for best viewing time for any city by ZIP code**
+**Reddit's site will be 'more vibrant' post-IPO: WallStreetBets mod.**
 
-You can read more about it [here](https://www.cleveland.com/nation/2024/03/solar-eclipse-path-2024-search-for-best-viewing-time-for-any-city-by-zip-code.html).
+You can read more about it [here](https://finance.yahoo.com/video/reddits-more-vibrant-post-ipo-210602273.html).
 
 ## Requirements
 - Python 3.8
