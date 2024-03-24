@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Life expectancy rises for first time in two years — but child deaths are spiking**
+**Abbott, local agencies express sympathies on deadly school bus crash**
 
-You can read more about it [here](https://nypost.com/2024/03/22/lifestyle/life-expectancy-rises-for-first-time-in-two-years/).
+You can read more about it [here](https://www.kxan.com/news/abbott-local-agencies-express-sympathies-on-deadly-school-bus-crash/).
 
 ## Requirements
 - Python 3.8
