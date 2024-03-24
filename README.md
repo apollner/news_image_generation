@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two major storms are sweeping across the United States this weekend**
+**Israel-Gaza war: UN Secretary General Antonio Guterres in new ceasefire call**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/23/storms-severe-weather-snow-flooding/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68646159).
 
 ## Requirements
 - Python 3.8
