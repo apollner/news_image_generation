@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine rejects claims of Western pressure over attacks on Russian oil facilities**
+**Transplant of pig kidney into a human marks medical milestone**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/22/ukraine-says-west-not-pressuring-it-to-end-attacks-on-russian-oil-facilities-00148673).
+You can read more about it [here](https://www.pbs.org/newshour/show/transplant-of-pig-kidney-into-a-human-marks-medical-milestone).
 
 ## Requirements
 - Python 3.8
