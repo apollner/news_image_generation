@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB opens investigation after allegations that Shohei Ohtani's interpreter was involved in gambling scandal**
+**Storm impacts Maine all day long, wraps up tonight**
 
-You can read more about it [here](https://www.nbcnews.com/news/sports/mlb-investigating-shohei-ohtanis-interpreter-ippei-mizuhara-rcna144751).
+You can read more about it [here](https://www.wmtw.com/article/storm-impacts-maine-all-day-long-wraps-up-tonight/60284762).
 
 ## Requirements
 - Python 3.8
