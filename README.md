@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Mike Gallagher to resign in April, leaving House GOP with a razor-thin majority**
+**China coast guard water-cannons Philippine ship days after US backs Manila in disputed sea**
 
-You can read more about it [here](https://nypost.com/2024/03/22/us-news/rep-mike-gallagher-to-resign-in-april-leaving-house-gop-with-a-razor-thin-majority/).
+You can read more about it [here](https://www.cnn.com/2024/03/23/asia/china-coast-guard-water-cannon-philippine-south-china-sea-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
