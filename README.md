@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to give yourself the best chance of clear skies for April 8's solar eclipse**
+**Testing the 2024 BMW M2—maybe the last M car with a manual transmission**
 
-You can read more about it [here](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024).
+You can read more about it [here](https://arstechnica.com/cars/2024/03/testing-the-2024-bmw-m2-maybe-the-last-m-car-with-a-manual-transmission/).
 
 ## Requirements
 - Python 3.8
