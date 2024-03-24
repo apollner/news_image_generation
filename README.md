@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March Madness 2024: Oakland hero Jack Gohlke recounts surreal moments since stunning upset over Kentucky**
+**Ukraine rejects claims of Western pressure over attacks on Russian oil facilities**
 
-You can read more about it [here](https://247sports.com/longformarticle/march-madness-2024-oakland-hero-jack-gohlke-recounts-surreal-moments-since-stunning-upset-over-kentucky-229125327/).
+You can read more about it [here](https://www.politico.com/news/2024/03/22/ukraine-says-west-not-pressuring-it-to-end-attacks-on-russian-oil-facilities-00148673).
 
 ## Requirements
 - Python 3.8
