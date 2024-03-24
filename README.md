@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As gangs rampage through Haiti's capital, more than 33000 people have fled in 13 days, report finds**
+**Congress vote averts US government shutdown**
 
-You can read more about it [here](https://apnews.com/article/haiti-violence-migration-south-gangs-port-au-prince-6fb506a228a7fd0bb897f61efc2a3cf2).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68644510).
 
 ## Requirements
 - Python 3.8
