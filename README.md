@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How every senator voted on the budget bill to avert a government shutdown**
+**How to give yourself the best chance of clear skies for April 8's solar eclipse**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/interactive/2024/03/23/senate-vote-government-shutdown-bill-results/).
+You can read more about it [here](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024).
 
 ## Requirements
 - Python 3.8
