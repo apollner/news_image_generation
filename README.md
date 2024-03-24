@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the L'Jarius Sneed trade means for the Kansas City Chiefs**
+**Two major storms are sweeping across the United States this weekend**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39794007/what-ljarius-sneed-trade-means-kansas-city-chiefs).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/23/storms-severe-weather-snow-flooding/).
 
 ## Requirements
 - Python 3.8
