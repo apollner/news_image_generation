@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Transplant of pig kidney into a human marks medical milestone**
+**As gangs rampage through Haiti's capital, more than 33000 people have fled in 13 days, report finds**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/transplant-of-pig-kidney-into-a-human-marks-medical-milestone).
+You can read more about it [here](https://apnews.com/article/haiti-violence-migration-south-gangs-port-au-prince-6fb506a228a7fd0bb897f61efc2a3cf2).
 
 ## Requirements
 - Python 3.8
