@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI tells passengers on the Alaska Airlines flight that lost a panel they might be crime victims**
+**March Madness 2024: Oakland hero Jack Gohlke recounts surreal moments since stunning upset over Kentucky**
 
-You can read more about it [here](https://apnews.com/article/boeing-fbi-investigation-crime-lawsuit-oregon-a4ffddc43f2000dd9d9466a335df6a93).
+You can read more about it [here](https://247sports.com/longformarticle/march-madness-2024-oakland-hero-jack-gohlke-recounts-surreal-moments-since-stunning-upset-over-kentucky-229125327/).
 
 ## Requirements
 - Python 3.8
