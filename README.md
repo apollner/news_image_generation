@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 13 seed Yale stuns SEC tournament champion Auburn in another March Madness upset**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaab/2024/03/22/yale-stuns-auburn-march-madness-upset-sec/73073654007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
