@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm impacts Maine all day long, wraps up tonight**
+**Could real estate go the way of the travel industry? Not quite**
 
-You can read more about it [here](https://www.wmtw.com/article/storm-impacts-maine-all-day-long-wraps-up-tonight/60284762).
+You can read more about it [here](https://www.cnn.com/2024/03/23/business/real-estate-settlement-travel-other-industries/index.html).
 
 ## Requirements
 - Python 3.8
