@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: UN Secretary General Antonio Guterres in new ceasefire call**
+**Trump stares down first derailment of his campaign-to-courthouse strategy**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68646159).
+You can read more about it [here](https://www.cnn.com/2024/03/23/politics/trump-campaign-courthouse-bond/index.html).
 
 ## Requirements
 - Python 3.8
