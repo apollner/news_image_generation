@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Solar eclipse path 2024: Search for best viewing time for any city by ZIP code**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cleveland.com/nation/2024/03/solar-eclipse-path-2024-search-for-best-viewing-time-for-any-city-by-zip-code.html).
 
 ## Requirements
 - Python 3.8
