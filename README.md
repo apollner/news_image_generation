@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Milky Way’s earliest building blocks found, named Shiva & Shakti**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://timesofindia.indiatimes.com/home/science/milky-ways-earliest-building-blocks-found-named-shiva-shakti/articleshow/108720907.cms).
 
 ## Requirements
 - Python 3.8
