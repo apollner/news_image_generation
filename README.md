@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit's site will be 'more vibrant' post-IPO: WallStreetBets mod.**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/video/reddits-more-vibrant-post-ipo-210602273.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
