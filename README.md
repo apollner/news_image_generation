@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abbott, local agencies express sympathies on deadly school bus crash**
+**March Madness: No. 13 Yale comes back to shock No. 4 Auburn 78-76**
 
-You can read more about it [here](https://www.kxan.com/news/abbott-local-agencies-express-sympathies-on-deadly-school-bus-crash/).
+You can read more about it [here](https://sports.yahoo.com/march-madness-no-13-yale-comes-back-to-shock-no-4-auburn-78-76-230549192.html).
 
 ## Requirements
 - Python 3.8
