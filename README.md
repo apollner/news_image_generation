@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Milky Way’s earliest building blocks found, named Shiva & Shakti**
+**FBI tells passengers on the Alaska Airlines flight that lost a panel they might be crime victims**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/home/science/milky-ways-earliest-building-blocks-found-named-shiva-shakti/articleshow/108720907.cms).
+You can read more about it [here](https://apnews.com/article/boeing-fbi-investigation-crime-lawsuit-oregon-a4ffddc43f2000dd9d9466a335df6a93).
 
 ## Requirements
 - Python 3.8
