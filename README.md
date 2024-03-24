@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump stares down first derailment of his campaign-to-courthouse strategy**
+**Biden signs government funding bill**
 
-You can read more about it [here](https://www.cnn.com/2024/03/23/politics/trump-campaign-courthouse-bond/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/23/politics/biden-government-funding-bill-congress/index.html).
 
 ## Requirements
 - Python 3.8
