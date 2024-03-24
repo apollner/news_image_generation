@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How every senator voted on the budget bill to avert a government shutdown**
+**Moscow concert hall attack: Why is ISIL targeting Russia?**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/interactive/2024/03/23/senate-vote-government-shutdown-bill-results/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/23/moscow-concert-hall-attack-why-is-isil-targeting).
 
 ## Requirements
 - Python 3.8
