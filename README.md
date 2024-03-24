@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moscow concert hall attack: Why is ISIL targeting Russia?**
+**Winter storm warnings issued as 12+ inches of snow bears down on Minnesota**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/23/moscow-concert-hall-attack-why-is-isil-targeting).
+You can read more about it [here](https://bringmethenews.com/minnesota-weather/winter-storm-warnings-issued-as-12-inches-of-snow-bears-down-on-minnesota).
 
 ## Requirements
 - Python 3.8
