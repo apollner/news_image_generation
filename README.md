@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March Madness: No. 13 Yale comes back to shock No. 4 Auburn 78-76**
+**China coast guard water-cannons Philippine ship days after US backs Manila in disputed sea**
 
-You can read more about it [here](https://sports.yahoo.com/march-madness-no-13-yale-comes-back-to-shock-no-4-auburn-78-76-230549192.html).
+You can read more about it [here](https://www.cnn.com/2024/03/23/asia/china-coast-guard-water-cannon-philippine-south-china-sea-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
