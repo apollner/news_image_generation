@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**VP Harris pushes gun control at site of Parkland school shooting as victim's dad calls it 'slap in the face'**
+**Here's where up to 2 feet of snow fell across New England from storm**
 
-You can read more about it [here](https://www.foxnews.com/politics/vp-harris-pushes-gun-control-site-parkland-school-shooting-victims-dad-calls-slap-in-the-face).
+You can read more about it [here](https://www.wcvb.com/article/snowfall-rainfall-totals-massachusetts-vermont-new-hampshire-maine-storm/60286479).
 
 ## Requirements
 - Python 3.8
