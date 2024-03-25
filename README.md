@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Possible victims of a crime: FBI sends letters to Alaska Airlines flight 1282 passengers**
+**21-year-old killed, brother injured in rare mountain lion attack**
 
-You can read more about it [here](https://komonews.com/news/local/possible-victims-of-a-crime-fbi-sends-letters-to-alaska-airlines-flight-1282-passengers-door-plug-blew-off-airplane-aircraft-seattle-boeing-aviation-personal-injury-attorney-737-max-9-department-negligence).
+You can read more about it [here](https://www.azfamily.com/2024/03/24/21-year-old-killed-brother-injured-rare-mountain-lion-attack/).
 
 ## Requirements
 - Python 3.8
