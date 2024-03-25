@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antitrust suit could force Apple to reveal its secrets**
+**GTA 6 - Live updates as release date 'delayed' to 2026**
 
-You can read more about it [here](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit).
+You can read more about it [here](https://www.indy100.com/gaming/gta-6-live-updates-2667588684).
 
 ## Requirements
 - Python 3.8
