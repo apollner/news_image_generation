@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winning numbers drawn for $750 million Powerball jackpot**
+**VP Harris pushes gun control at site of Parkland school shooting as victim's dad calls it 'slap in the face'**
 
-You can read more about it [here](https://abcnews.go.com/US/powerball-jackpot-saturday-night-drawing/story?id=108426867).
+You can read more about it [here](https://www.foxnews.com/politics/vp-harris-pushes-gun-control-site-parkland-school-shooting-victims-dad-calls-slap-in-the-face).
 
 ## Requirements
 - Python 3.8
