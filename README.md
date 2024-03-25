@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNC-Michigan State: Hubert Davis & Players Postgame Q&A**
+**Winning numbers drawn for $750 million Powerball jackpot**
 
-You can read more about it [here](https://247sports.com/college/north-carolina/longformarticle/unc-michigan-state-hubert-davis-players-postgame-qa-229215439/).
+You can read more about it [here](https://abcnews.go.com/US/powerball-jackpot-saturday-night-drawing/story?id=108426867).
 
 ## Requirements
 - Python 3.8
