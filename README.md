@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's Big iMessage and Texting Update Needs to Happen Before iOS 18 Drops**
+**Kate and William need time and space to heal, says former royal spokesman**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apples-big-imessage-and-texting-update-needs-to-happen-before-ios-18-drops/).
+You can read more about it [here](https://www.bbc.com/news/uk-68650322).
 
 ## Requirements
 - Python 3.8
