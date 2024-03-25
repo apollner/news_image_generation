@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigeria school abduction: Nearly 300 children freed after two weeks in captivity**
+**Massive barrage of missiles, drones hits Kyiv and western Ukraine**
 
-You can read more about it [here](https://apnews.com/article/nigeria-school-kidnapping-kaduna-kuriga-released-4afc5681954d75c3c790a1ebe4263056).
+You can read more about it [here](https://www.politico.eu/article/russia-ukraine-attack-missiles-drones-kyiv-lviv-poland/).
 
 ## Requirements
 - Python 3.8
