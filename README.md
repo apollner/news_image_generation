@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'This storm is a bit of a tricky one.' Minnesotans are bracing for Sunday's snowstorm**
+**Nigeria school abduction: Nearly 300 children freed after two weeks in captivity**
 
-You can read more about it [here](https://kstp.com/kstp-news/top-news/this-storm-is-a-bit-of-a-tricky-one-minnesotans-are-bracing-for-sundays-snowstorm/).
+You can read more about it [here](https://apnews.com/article/nigeria-school-kidnapping-kaduna-kuriga-released-4afc5681954d75c3c790a1ebe4263056).
 
 ## Requirements
 - Python 3.8
