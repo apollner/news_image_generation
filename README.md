@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark, Iowa shake off ‘rust’ to advance past Holy Cross in NCAA Tournament**
+**UNC-Michigan State: Hubert Davis & Players Postgame Q&A**
 
-You can read more about it [here](https://theathletic.com/5364207/2024/03/23/caitlin-clark-iowa-holy-cross-ncaa-tournament/).
+You can read more about it [here](https://247sports.com/college/north-carolina/longformarticle/unc-michigan-state-hubert-davis-players-postgame-qa-229215439/).
 
 ## Requirements
 - Python 3.8
