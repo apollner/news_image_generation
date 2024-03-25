@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gingrich reacts to Greene’s motion to oust Speaker Johnson: Gaetz ‘unleashed the demons’**
+**Winning numbers drawn for $750 million Powerball jackpot**
 
-You can read more about it [here](https://thehill.com/homenews/house/4551945-gingrich-reacts-to-greenes-motion-to-oust-speaker-johnson-gaetz-unleashed-the-demons/).
+You can read more about it [here](https://ktla.com/news/california/powerball-winning-numbers-for-750-million-jackpot/).
 
 ## Requirements
 - Python 3.8
