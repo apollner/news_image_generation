@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ghostbusters: Frozen Empire’ Leads Box Office With $45 Million Debut**
+**Israel kills and detains hundreds in Gaza hospital raid**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/ghostbusters-frozen-empire-box-office-opening-weekend-1235950537/).
+You can read more about it [here](https://www.ft.com/content/5bbfb6c5-d044-44a8-891c-b403db9cef90).
 
 ## Requirements
 - Python 3.8
