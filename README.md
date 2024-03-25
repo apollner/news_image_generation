@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigeria school abduction: Nearly 300 children freed after two weeks in captivity**
+**Here's where up to 2 feet of snow fell across New England from storm**
 
-You can read more about it [here](https://apnews.com/article/nigeria-school-kidnapping-kaduna-kuriga-released-4afc5681954d75c3c790a1ebe4263056).
+You can read more about it [here](https://www.wcvb.com/article/snowfall-rainfall-totals-massachusetts-vermont-new-hampshire-maine-storm/60286479).
 
 ## Requirements
 - Python 3.8
