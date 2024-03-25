@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winning numbers drawn for $750 million Powerball jackpot**
+**LSU's Kim Mulkey threatens to sue Washington Post if outlet publishes rumored 'hit piece' about her**
 
-You can read more about it [here](https://ktla.com/news/california/powerball-winning-numbers-for-750-million-jackpot/).
+You can read more about it [here](https://nypost.com/2024/03/23/sports/lsus-kim-mulkey-threatens-to-sue-washington-post-if-outlet-publishes-hit-piece/).
 
 ## Requirements
 - Python 3.8
