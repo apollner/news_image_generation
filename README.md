@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF claims it killed 170 Hamas terrorists, captures 800 in Al-Shifa Hospital raid**
+**Igor Severino released by UFC for biting opponent in debut**
 
-You can read more about it [here](https://nypost.com/2024/03/23/world-news/idf-kills-170-terrorists-detains-800-in-al-shifa-hospital-raid/).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/39796422/igor-severino-cut-ufc-biting-opponent-arm).
 
 ## Requirements
 - Python 3.8
