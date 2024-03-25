@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope Today: Astrological prediction for March 24, 2024**
+**IDF claims it killed 170 Hamas terrorists, captures 800 in Al-Shifa Hospital raid**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-march-24-2024-101711213862588.html).
+You can read more about it [here](https://nypost.com/2024/03/23/world-news/idf-kills-170-terrorists-detains-800-in-al-shifa-hospital-raid/).
 
 ## Requirements
 - Python 3.8
