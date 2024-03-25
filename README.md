@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel kills and detains hundreds in Gaza hospital raid**
+**New Jersey first lady Tammy Murphy is suspending Senate campaign**
 
-You can read more about it [here](https://www.ft.com/content/5bbfb6c5-d044-44a8-891c-b403db9cef90).
+You can read more about it [here](https://www.cnn.com/2024/03/24/politics/tammy-murphy-suspends-new-jersey-senate-bid/index.html).
 
 ## Requirements
 - Python 3.8
