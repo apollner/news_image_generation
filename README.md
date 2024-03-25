@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Realtor commission change delivers a boon to homebuilders, a blow to real estate platforms**
+**2024 NCAA Women's Tournament live scores, highlights, updates: South Carolina, LSU in action on Sunday**
 
-You can read more about it [here](https://finance.yahoo.com/news/realtor-commission-change-delivers-a-boon-to-homebuilders-a-blow-to-real-estate-platforms-130043155.html).
+You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/2024-ncaa-womens-tournament-live-scores-highlights-updates-south-carolina-lsu-in-action-on-sunday/live/).
 
 ## Requirements
 - Python 3.8
