@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homebuyers expecting big savings after realtor settlement likely in for letdown: ‘Everyone is turning this ruling into what they want it to be’**
+**[Removed]**
 
-You can read more about it [here](https://fortune.com/2024/03/24/homebuyers-expecting-realtor-settlement-savings-face-letdown/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
