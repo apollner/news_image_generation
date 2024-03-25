@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blizzard Warnings issued as major spring snowstorm could dump over foot of snow from Dakotas to Wisconsin**
+**[Removed]**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/blizzard-warning-plains-winter-storm-warning-midwest-minneapolis).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
