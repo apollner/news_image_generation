@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maine snow & ice totals: How much fell across the state**
+**'This storm is a bit of a tricky one.' Minnesotans are bracing for Sunday's snowstorm**
 
-You can read more about it [here](https://www.wmtw.com/article/maine-snow-ice-totals-march-2024/60287346).
+You can read more about it [here](https://kstp.com/kstp-news/top-news/this-storm-is-a-bit-of-a-tricky-one-minnesotans-are-bracing-for-sundays-snowstorm/).
 
 ## Requirements
 - Python 3.8
