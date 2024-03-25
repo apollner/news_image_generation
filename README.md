@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Antitrust suit could force Apple to reveal its secrets**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit).
 
 ## Requirements
 - Python 3.8
