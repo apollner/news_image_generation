@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's where up to 2 feet of snow fell across New England from storm**
+**Winning numbers drawn for $750 million Powerball jackpot**
 
-You can read more about it [here](https://www.wcvb.com/article/snowfall-rainfall-totals-massachusetts-vermont-new-hampshire-maine-storm/60286479).
+You can read more about it [here](https://abcnews.go.com/US/powerball-jackpot-saturday-night-drawing/story?id=108426867).
 
 ## Requirements
 - Python 3.8
