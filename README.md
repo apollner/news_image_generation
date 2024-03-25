@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County DA Fani Willis says despite efforts to slow down Trump case, ‘the train is coming’**
+**Nigeria school abduction: Nearly 300 children freed after two weeks in captivity**
 
-You can read more about it [here](https://nypost.com/2024/03/23/us-news/fulton-county-da-fani-willis-says-despite-efforts-to-slow-down-trump-case-the-train-is-coming/).
+You can read more about it [here](https://apnews.com/article/nigeria-school-kidnapping-kaduna-kuriga-released-4afc5681954d75c3c790a1ebe4263056).
 
 ## Requirements
 - Python 3.8
