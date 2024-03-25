@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Igor Severino released by UFC for biting opponent in debut**
+**Caitlin Clark, Iowa shake off ‘rust’ to advance past Holy Cross in NCAA Tournament**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/39796422/igor-severino-cut-ufc-biting-opponent-arm).
+You can read more about it [here](https://theathletic.com/5364207/2024/03/23/caitlin-clark-iowa-holy-cross-ncaa-tournament/).
 
 ## Requirements
 - Python 3.8
