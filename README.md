@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s why Apple is being vague with iOS 17.4.1 details**
+**Possible victims of a crime: FBI sends letters to Alaska Airlines flight 1282 passengers**
 
-You can read more about it [here](https://9to5mac.com/2024/03/23/why-apple-is-being-vague-with-ios-17-4-1-details/).
+You can read more about it [here](https://komonews.com/news/local/possible-victims-of-a-crime-fbi-sends-letters-to-alaska-airlines-flight-1282-passengers-door-plug-blew-off-airplane-aircraft-seattle-boeing-aviation-personal-injury-attorney-737-max-9-department-negligence).
 
 ## Requirements
 - Python 3.8
