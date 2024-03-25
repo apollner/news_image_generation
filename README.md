@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**21-year-old killed, brother injured in rare mountain lion attack**
+**Putin says gunmen who raided Moscow concert hall tried to escape to Ukraine. Kyiv denies involvement**
 
-You can read more about it [here](https://www.azfamily.com/2024/03/24/21-year-old-killed-brother-injured-rare-mountain-lion-attack/).
+You can read more about it [here](https://apnews.com/article/russia-moscow-krasnogorsk-gunmen-concert-hall-fire-97e321c3c477ece36d4fb32f50fa0e8a).
 
 ## Requirements
 - Python 3.8
