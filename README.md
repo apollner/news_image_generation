@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NCAA Women's Tournament live scores, highlights, updates: South Carolina, LSU in action on Sunday**
+**Apple's Big iMessage and Texting Update Needs to Happen Before iOS 18 Drops**
 
-You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/2024-ncaa-womens-tournament-live-scores-highlights-updates-south-carolina-lsu-in-action-on-sunday/live/).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apples-big-imessage-and-texting-update-needs-to-happen-before-ios-18-drops/).
 
 ## Requirements
 - Python 3.8
