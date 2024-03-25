@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says gunmen who raided Moscow concert hall tried to escape to Ukraine. Kyiv denies involvement**
+**Fulton County DA Fani Willis says despite efforts to slow down Trump case, ‘the train is coming’**
 
-You can read more about it [here](https://apnews.com/article/russia-moscow-krasnogorsk-gunmen-concert-hall-fire-97e321c3c477ece36d4fb32f50fa0e8a).
+You can read more about it [here](https://nypost.com/2024/03/23/us-news/fulton-county-da-fani-willis-says-despite-efforts-to-slow-down-trump-case-the-train-is-coming/).
 
 ## Requirements
 - Python 3.8
