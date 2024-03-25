@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis skips homily at Palm Sunday Mass in rare move**
+**Antitrust suit could force Apple to reveal its secrets**
 
-You can read more about it [here](https://www.cnn.com/2024/03/24/europe/pope-francis-homily-palm-sunday-intl/index.html).
+You can read more about it [here](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit).
 
 ## Requirements
 - Python 3.8
