@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive barrage of missiles, drones hits Kyiv and western Ukraine**
+**Pope Francis skips homily at Palm Sunday Mass in rare move**
 
-You can read more about it [here](https://www.politico.eu/article/russia-ukraine-attack-missiles-drones-kyiv-lviv-poland/).
+You can read more about it [here](https://www.cnn.com/2024/03/24/europe/pope-francis-homily-palm-sunday-intl/index.html).
 
 ## Requirements
 - Python 3.8
