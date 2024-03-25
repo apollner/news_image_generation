@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s how to see the upcoming worm moon lunar eclipse**
+**Travis Kelce stops by Geraci’s Slice Shop in Cleveland after vacation with Taylor Swift**
 
-You can read more about it [here](https://www.cnn.com/2024/03/24/world/full-march-worm-moon-penumbral-eclipse-scn/index.html).
+You can read more about it [here](https://www.cleveland.com/entertainment/2024/03/travis-kelce-stops-by-geracis-slice-shop-in-cleveland-after-vacation-with-taylor-swift.html).
 
 ## Requirements
 - Python 3.8
