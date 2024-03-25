@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antitrust suit could force Apple to reveal its secrets**
+**Blizzard Warnings issued as major spring snowstorm could dump over foot of snow from Dakotas to Wisconsin**
 
-You can read more about it [here](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit).
+You can read more about it [here](https://www.foxweather.com/weather-news/blizzard-warning-plains-winter-storm-warning-midwest-minneapolis).
 
 ## Requirements
 - Python 3.8
