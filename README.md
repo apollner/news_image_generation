@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LSU's Kim Mulkey threatens to sue Washington Post if outlet publishes rumored 'hit piece' about her**
+**Here’s why Apple is being vague with iOS 17.4.1 details**
 
-You can read more about it [here](https://nypost.com/2024/03/23/sports/lsus-kim-mulkey-threatens-to-sue-washington-post-if-outlet-publishes-hit-piece/).
+You can read more about it [here](https://9to5mac.com/2024/03/23/why-apple-is-being-vague-with-ios-17-4-1-details/).
 
 ## Requirements
 - Python 3.8
