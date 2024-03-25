@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden signs government funding bill**
+**Horoscope Today: Astrological prediction for March 24, 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/03/23/politics/biden-government-funding-bill-congress/index.html).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-march-24-2024-101711213862588.html).
 
 ## Requirements
 - Python 3.8
