@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce stops by Geraci’s Slice Shop in Cleveland after vacation with Taylor Swift**
+**Homebuyers expecting big savings after realtor settlement likely in for letdown: ‘Everyone is turning this ruling into what they want it to be’**
 
-You can read more about it [here](https://www.cleveland.com/entertainment/2024/03/travis-kelce-stops-by-geracis-slice-shop-in-cleveland-after-vacation-with-taylor-swift.html).
+You can read more about it [here](https://fortune.com/2024/03/24/homebuyers-expecting-realtor-settlement-savings-face-letdown/).
 
 ## Requirements
 - Python 3.8
