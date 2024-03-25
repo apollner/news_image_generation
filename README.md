@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Realtor commission change delivers a boon to homebuilders, a blow to real estate platforms**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/realtor-commission-change-delivers-a-boon-to-homebuilders-a-blow-to-real-estate-platforms-130043155.html).
 
 ## Requirements
 - Python 3.8
