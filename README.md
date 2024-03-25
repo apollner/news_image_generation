@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate and William need time and space to heal, says former royal spokesman**
+**‘Ghostbusters: Frozen Empire’ Leads Box Office With $45 Million Debut**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68650322).
+You can read more about it [here](https://variety.com/2024/film/box-office/ghostbusters-frozen-empire-box-office-opening-weekend-1235950537/).
 
 ## Requirements
 - Python 3.8
