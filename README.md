@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sarah Ferguson breaks silence on Kate Middleton's cancer diagnosis amid own battle: 'Praying for the best outcome'**
+**Family identifies brothers in fatal Northern California mountain lion attack**
 
-You can read more about it [here](https://nypost.com/2024/03/25/entertainment/sarah-ferguson-breaks-silence-on-kate-middleton-cancer-diagnosis-amid-own-battle/).
+You can read more about it [here](https://www.sacbee.com/news/local/article287075715.html).
 
 ## Requirements
 - Python 3.8
