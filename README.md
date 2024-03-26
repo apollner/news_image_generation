@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cohen Children's Medical Center visitors may have been exposed to measles**
+**US Moon Lander 'Permanently' Asleep After Historic Landing**
 
-You can read more about it [here](https://www.newsday.com/news/health/measles-cohen-childrens-medical-center-nf0vlrm2).
+You can read more about it [here](https://www.newsmax.com/us/moon-lander-nasa/2024/03/24/id/1158442/).
 
 ## Requirements
 - Python 3.8
