@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moscow attack: As Russia mourns victims of concert hall shooting, how will Putin react?**
+**NBC's Chuck Todd lays into his network for hiring former RNC chief Ronna McDaniel as an analyst**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68650914).
+You can read more about it [here](https://apnews.com/article/nbc-news-mcdaniel-todd-election-fraud-683aa560f0824725023dacde0f504ad6).
 
 ## Requirements
 - Python 3.8
