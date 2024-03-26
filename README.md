@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money case: New trial date scheduled**
+**Sarah Ferguson breaks silence on Kate Middleton's cancer diagnosis amid own battle: 'Praying for the best outcome'**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-new-york-b8fb980a6ec745e918a13e676b7f1460).
+You can read more about it [here](https://nypost.com/2024/03/25/entertainment/sarah-ferguson-breaks-silence-on-kate-middleton-cancer-diagnosis-amid-own-battle/).
 
 ## Requirements
 - Python 3.8
