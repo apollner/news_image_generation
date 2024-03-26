@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing chief executive Dave Calhoun to leave as firm faces safety crisis**
+**Kate Middleton's parents 'desperately upset' over cancer diagnosis as they step in to help grandchildren**
 
-You can read more about it [here](https://www.bbc.com/news/business-68656925).
+You can read more about it [here](https://nypost.com/2024/03/25/entertainment/kate-middletons-parents-desperately-upset-over-cancer-diagnosis-as-they-step-in-to-help-grandchildren/).
 
 ## Requirements
 - Python 3.8
