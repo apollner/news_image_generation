@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NJ first lady Tammy Murphy ends Senate campaign, paving way for Andy Kim**
+**Samsung QN900D QLED 8K TV First Look | It’s 8K Anyway**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/24/nj-first-lady-tammy-murphy-to-end-senate-campaign-to-replace-bob-menendez-00148728).
+You can read more about it [here](https://www.youtube.com/watch?v=1JkzpDXUpzA).
 
 ## Requirements
 - Python 3.8
