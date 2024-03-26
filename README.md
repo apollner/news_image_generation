@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles cases in the US have surpassed 2023's total, CDC says**
+**Stellar Blade - Official Demo Teaser Trailer**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/03/25/us-measles-outbreak-cases-surpass-2023-totals/73091425007/).
+You can read more about it [here](https://www.youtube.com/watch?v=zMfxhwbn56o).
 
 ## Requirements
 - Python 3.8
