@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL mock draft: Vikings trade up, leading to QB-heavy top-4 selections**
+**Rebel Wilson Names Sasha Baron Cohen as Star “Trying to Threaten Me” Over Her Memoir**
 
-You can read more about it [here](https://theathletic.com/5361949/2024/03/25/nfl-mock-draft-quarterbacks-2024/).
+You can read more about it [here](https://variety.com/2024/film/global/rebel-wilson-sasha-baron-cohen-memoir-1235950823/).
 
 ## Requirements
 - Python 3.8
