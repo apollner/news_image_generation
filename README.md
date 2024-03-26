@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As The Elder Scrolls Turns 30, Bethesda Issues Brief The Elder Scrolls 6 Update**
+**Total solar eclipse in 2017 drew a brief surge in traffic accidents, analysis shows**
 
-You can read more about it [here](https://www.ign.com/articles/as-the-elder-scrolls-turns-30-bethesda-issues-brief-the-elder-scrolls-6-update).
+You can read more about it [here](https://www.cnn.com/2024/03/25/health/traffic-accidents-total-solar-eclipse/index.html).
 
 ## Requirements
 - Python 3.8
