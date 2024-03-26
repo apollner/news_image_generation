@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing chief executive Dave Calhoun to step down**
+**Rebel Wilson Says This Actor Is The 'Massive A**hole' She Devotes Full Chapter To In Book**
 
-You can read more about it [here](https://www.ft.com/content/c064bfd5-ae19-4e3f-9aee-4de1ff7d2fa2).
+You can read more about it [here](https://www.huffpost.com/entry/rebel-wilson-sacha-baron-cohen-asshole_n_66015465e4b07d7c1af27bb4).
 
 ## Requirements
 - Python 3.8
