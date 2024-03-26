@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung QN900D QLED 8K TV First Look | It’s 8K Anyway**
+**Live updates: Trump hush money case hearing, bond deadline in civil fraud case**
 
-You can read more about it [here](https://www.youtube.com/watch?v=1JkzpDXUpzA).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-bond-deadline-trials-03-25-24/index.html).
 
 ## Requirements
 - Python 3.8
