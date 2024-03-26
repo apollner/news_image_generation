@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump to attend "hush money" case pretrial hearing in New York**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/trump-hush-money-pretrial-hearing-new-york/).
 
 ## Requirements
 - Python 3.8
