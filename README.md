@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rebel Wilson Says This Actor Is The 'Massive A**hole' She Devotes Full Chapter To In Book**
+**NJ first lady Tammy Murphy ends Senate campaign, paving way for Andy Kim**
 
-You can read more about it [here](https://www.huffpost.com/entry/rebel-wilson-sacha-baron-cohen-asshole_n_66015465e4b07d7c1af27bb4).
+You can read more about it [here](https://www.politico.com/news/2024/03/24/nj-first-lady-tammy-murphy-to-end-senate-campaign-to-replace-bob-menendez-00148728).
 
 ## Requirements
 - Python 3.8
