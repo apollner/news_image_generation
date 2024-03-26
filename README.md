@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gemini AI: Google is the last company Apple should partner with**
+**March 25, 2024 Love Horoscope For Each Zodiac Sign**
 
-You can read more about it [here](https://bgr.com/business/google-bringing-gemini-ai-to-iphone-is-so-infuriating-but-not-surprising/).
+You can read more about it [here](https://www.yourtango.com/2024372503/march-25-2024-love-horoscope-each-zodiac-sign).
 
 ## Requirements
 - Python 3.8
