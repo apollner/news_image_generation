@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellar Blade - Official Demo Teaser Trailer**
+**Trump hush money case: New trial date scheduled**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zMfxhwbn56o).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-new-york-b8fb980a6ec745e918a13e676b7f1460).
 
 ## Requirements
 - Python 3.8
