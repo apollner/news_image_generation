@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL mock draft: Vikings trade up, leading to QB-heavy top-4 selections**
+**How women are educating others about ‘excruciating’ IUD procedures**
 
-You can read more about it [here](https://theathletic.com/5361949/2024/03/25/nfl-mock-draft-quarterbacks-2024/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/03/25/tiktok-iud-birth-control-pain/).
 
 ## Requirements
 - Python 3.8
