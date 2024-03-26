@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Fed's Powell Ready to Support Job Market, Even If It Means Lingering Inflation**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-24/fed-s-powell-ready-to-support-job-market-even-if-inflation-lingers).
 
 ## Requirements
 - Python 3.8
