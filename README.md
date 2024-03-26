@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton's parents 'desperately upset' over cancer diagnosis as they step in to help grandchildren**
+**Measles cases in the US have surpassed 2023's total, CDC says**
 
-You can read more about it [here](https://nypost.com/2024/03/25/entertainment/kate-middletons-parents-desperately-upset-over-cancer-diagnosis-as-they-step-in-to-help-grandchildren/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/03/25/us-measles-outbreak-cases-surpass-2023-totals/73091425007/).
 
 ## Requirements
 - Python 3.8
