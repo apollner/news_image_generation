@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China linked to UK cyber-attacks on voter data, Dowden to say**
+**137 school children kidnapped by gunmen in Nigeria released, undergoing ‘psychosocial counseling,’ official says**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68652374).
+You can read more about it [here](https://www.cnn.com/2024/03/24/africa/nigeria-gunmen-children-released-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
