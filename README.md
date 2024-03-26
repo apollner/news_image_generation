@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senegal election: Opposition leader Faye ahead to win presidency**
+**NFL mock draft: Vikings trade up, leading to QB-heavy top-4 selections**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-68653267).
+You can read more about it [here](https://theathletic.com/5361949/2024/03/25/nfl-mock-draft-quarterbacks-2024/).
 
 ## Requirements
 - Python 3.8
