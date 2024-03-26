@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**United States 2-0 Mexico (Mar 24, 2024) Game Analysis**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/701210).
 
 ## Requirements
 - Python 3.8
