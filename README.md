@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LSU rallies to reach Sweet 16 after Kim Mulkey's tirade: 'I'm not going to let one sleazy reporter distract us'**
+**China linked to UK cyber-attacks on voter data, Dowden to say**
 
-You can read more about it [here](https://sports.yahoo.com/lsu-rallies-to-reach-sweet-16-after-kim-mulkeys-tirade-im-not-going-to-let-one-sleazy-reporter-distract-us-220832800.html).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68652374).
 
 ## Requirements
 - Python 3.8
