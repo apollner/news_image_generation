@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Boeing chief executive Dave Calhoun to step down**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ft.com/content/c064bfd5-ae19-4e3f-9aee-4de1ff7d2fa2).
 
 ## Requirements
 - Python 3.8
