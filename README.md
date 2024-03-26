@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**137 school children kidnapped by gunmen in Nigeria released, undergoing ‘psychosocial counseling,’ official says**
+**Gemini AI: Google is the last company Apple should partner with**
 
-You can read more about it [here](https://www.cnn.com/2024/03/24/africa/nigeria-gunmen-children-released-intl-hnk/index.html).
+You can read more about it [here](https://bgr.com/business/google-bringing-gemini-ai-to-iphone-is-so-infuriating-but-not-surprising/).
 
 ## Requirements
 - Python 3.8
