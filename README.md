@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBC's Chuck Todd lays into his network for hiring former RNC chief Ronna McDaniel as an analyst**
+**Aries Daily Horoscope Today, March 25, 2024 predicts bold romantic choices**
 
-You can read more about it [here](https://apnews.com/article/nbc-news-mcdaniel-todd-election-fraud-683aa560f0824725023dacde0f504ad6).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/aries-daily-horoscope-today-march-25-2024-predicts-bold-romantic-choices-101711304800878.html).
 
 ## Requirements
 - Python 3.8
