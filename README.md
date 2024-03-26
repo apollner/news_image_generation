@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse in 2017 drew a brief surge in traffic accidents, analysis shows**
+**Nelson Peltz Claims He Backs Disney CEO Bob Iger, but His Investment Firm Withheld Votes for Iger’s Election to the Board**
 
-You can read more about it [here](https://www.cnn.com/2024/03/25/health/traffic-accidents-total-solar-eclipse/index.html).
+You can read more about it [here](https://variety.com/2024/biz/news/disney-nelson-peltz-withholds-bob-iger-vote-board-1235950937/).
 
 ## Requirements
 - Python 3.8
