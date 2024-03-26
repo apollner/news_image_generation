@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump to attend "hush money" case pretrial hearing in New York**
+**Rebel Wilson Says This Actor Is The 'Massive A**hole' She Devotes Full Chapter To In Book**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-hush-money-pretrial-hearing-new-york/).
+You can read more about it [here](https://www.huffpost.com/entry/rebel-wilson-sacha-baron-cohen-asshole_n_66015465e4b07d7c1af27bb4).
 
 ## Requirements
 - Python 3.8
