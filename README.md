@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Trump hush money case hearing, bond deadline in civil fraud case**
+**As The Elder Scrolls Turns 30, Bethesda Issues Brief The Elder Scrolls 6 Update**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-bond-deadline-trials-03-25-24/index.html).
+You can read more about it [here](https://www.ign.com/articles/as-the-elder-scrolls-turns-30-bethesda-issues-brief-the-elder-scrolls-6-update).
 
 ## Requirements
 - Python 3.8
