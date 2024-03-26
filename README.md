@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Moon Lander 'Permanently' Asleep After Historic Landing**
+**[Removed]**
 
-You can read more about it [here](https://www.newsmax.com/us/moon-lander-nasa/2024/03/24/id/1158442/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
