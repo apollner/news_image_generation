@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family identifies brothers in fatal Northern California mountain lion attack**
+**[Removed]**
 
-You can read more about it [here](https://www.sacbee.com/news/local/article287075715.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
