@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United States 2-0 Mexico (Mar 24, 2024) Game Analysis**
+**LSU rallies to reach Sweet 16 after Kim Mulkey's tirade: 'I'm not going to let one sleazy reporter distract us'**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/701210).
+You can read more about it [here](https://sports.yahoo.com/lsu-rallies-to-reach-sweet-16-after-kim-mulkeys-tirade-im-not-going-to-let-one-sleazy-reporter-distract-us-220832800.html).
 
 ## Requirements
 - Python 3.8
