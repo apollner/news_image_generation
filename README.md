@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March 25, 2024 Love Horoscope For Each Zodiac Sign**
+**NFL mock draft: Vikings trade up, leading to QB-heavy top-4 selections**
 
-You can read more about it [here](https://www.yourtango.com/2024372503/march-25-2024-love-horoscope-each-zodiac-sign).
+You can read more about it [here](https://theathletic.com/5361949/2024/03/25/nfl-mock-draft-quarterbacks-2024/).
 
 ## Requirements
 - Python 3.8
