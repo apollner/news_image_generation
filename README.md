@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT vs. Mexico stopped due to discriminatory chanting: History of Mexico's derogatory soccer chants**
+**Senegal election: Opposition leader Faye ahead to win presidency**
 
-You can read more about it [here](https://www.cbssports.com/soccer/news/usmnt-vs-mexico-stopped-due-to-discriminatory-chanting-history-of-mexicos-derogatory-soccer-chants/).
+You can read more about it [here](https://www.bbc.com/news/world-africa-68653267).
 
 ## Requirements
 - Python 3.8
