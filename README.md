@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris' 'shameful' warning for Israel crashes and burns online: 'Kick rocks, Kamala'**
+**Moscow attack: As Russia mourns victims of concert hall shooting, how will Putin react?**
 
-You can read more about it [here](https://www.foxnews.com/media/harris-shameful-warning-israel-crashes-burns-online-kick-rocks-kamala).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68650914).
 
 ## Requirements
 - Python 3.8
