@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Powell Ready to Support Job Market, Even If It Means Lingering Inflation**
+**Harris' 'shameful' warning for Israel crashes and burns online: 'Kick rocks, Kamala'**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-24/fed-s-powell-ready-to-support-job-market-even-if-inflation-lingers).
+You can read more about it [here](https://www.foxnews.com/media/harris-shameful-warning-israel-crashes-burns-online-kick-rocks-kamala).
 
 ## Requirements
 - Python 3.8
