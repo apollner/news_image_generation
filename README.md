@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aries Daily Horoscope Today, March 25, 2024 predicts bold romantic choices**
+**Moscow attack: As Russia mourns victims of concert hall shooting, how will Putin react?**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/aries-daily-horoscope-today-march-25-2024-predicts-bold-romantic-choices-101711304800878.html).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68650914).
 
 ## Requirements
 - Python 3.8
