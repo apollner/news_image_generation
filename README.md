@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nelson Peltz Claims He Backs Disney CEO Bob Iger, but His Investment Firm Withheld Votes for Iger’s Election to the Board**
+**Boeing chief executive Dave Calhoun to leave as firm faces safety crisis**
 
-You can read more about it [here](https://variety.com/2024/biz/news/disney-nelson-peltz-withholds-bob-iger-vote-board-1235950937/).
+You can read more about it [here](https://www.bbc.com/news/business-68656925).
 
 ## Requirements
 - Python 3.8
