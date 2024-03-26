@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rebel Wilson Says This Actor Is The 'Massive A**hole' She Devotes Full Chapter To In Book**
+**LA Lakers post highest point total since 1987 in historic scoring night against Indiana Pacers**
 
-You can read more about it [here](https://www.huffpost.com/entry/rebel-wilson-sacha-baron-cohen-asshole_n_66015465e4b07d7c1af27bb4).
+You can read more about it [here](https://www.cnn.com/2024/03/25/sport/la-lakers-indiana-pacers-high-scoring-nba-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
