@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli delegation leaves Qatar negotiations after Hamas rejects latest hostage release proposal**
+**Baltimore Key bridge collapse: Search on for at least 6 missing**
 
-You can read more about it [here](https://www.foxnews.com/world/israeli-delegation-leaves-qatar-negotiations-hamas-rejects-latest-hostage-release-proposal).
+You can read more about it [here](https://apnews.com/article/baltimore-bridge-collapse-53169b379820032f832de4016c655d1b).
 
 ## Requirements
 - Python 3.8
