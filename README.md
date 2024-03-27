@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys QB Dak Prescott expected to play on current contract for 2024 season**
+**UK Treasury staff worked at Chinese bank accused of communist links**
 
-You can read more about it [here](https://www.nfl.com/news/cowboys-qb-dak-prescott-expected-to-play-on-current-contract-for-2024-season).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68665302).
 
 ## Requirements
 - Python 3.8
