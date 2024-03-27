@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DFW Weather: Forecast for April 8 total solar eclipse**
+**Israel cancels Washington visit after US allows UN Gaza ceasefire resolution to pass**
 
-You can read more about it [here](https://www.wfaa.com/article/weather/dfw-weather-timing-out-total-solar-eclipse-forecast-april-8/287-1a03028f-5b8c-4312-8a2b-9cc202610ca9).
+You can read more about it [here](https://www.cnn.com/2024/03/25/middleeast/un-security-council-gaza-israel-ceasefire-intl/index.html).
 
 ## Requirements
 - Python 3.8
