@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Krispy Kreme donuts are coming to McDonald’s**
+**Samsung Galaxy Tab S6 Lite (2024) gets a proper announcement, is coming on March 28 - GSMArena.com news**
 
-You can read more about it [here](https://www.cnn.com/2024/03/26/business/krispy-kreme-mcdonalds/index.html).
+You can read more about it [here](https://www.gsmarena.com/samsung_galaxy_tab_s6_lite_2024_gets_a_proper_announcement_is_coming_on_march_28-news-62169.php).
 
 ## Requirements
 - Python 3.8
