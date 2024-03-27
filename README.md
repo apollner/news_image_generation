@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Key bridge collapse: Search on for at least 6 missing**
+**BYD’s profit soared 80% in the year the Chinese EV giant overtook Tesla**
 
-You can read more about it [here](https://apnews.com/article/baltimore-bridge-collapse-53169b379820032f832de4016c655d1b).
+You can read more about it [here](https://www.cnn.com/2024/03/26/business/byd-profit-soar-after-beats-tesla/index.html).
 
 ## Requirements
 - Python 3.8
