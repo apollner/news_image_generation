@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Two teams trade into the top 5 to select QBs; Jim Harbaugh passes on Marvin Harrison Jr.**
+**BYD’s profit soared 80% in the year the Chinese EV giant overtook Tesla**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-two-teams-trade-into-the-top-5-to-select-qbs-jim-harbaugh-passes-on-marvin-harrison-jr/).
+You can read more about it [here](https://www.cnn.com/2024/03/26/business/byd-profit-soar-after-beats-tesla/index.html).
 
 ## Requirements
 - Python 3.8
