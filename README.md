@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump hush money case: New trial date scheduled**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-new-york-b8fb980a6ec745e918a13e676b7f1460).
 
 ## Requirements
 - Python 3.8
