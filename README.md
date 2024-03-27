@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly Northern California mountain lion attack victim identified as 21-year-old Taylen Brooks; brother Wyatt Brooks recovering**
+**United SFO flight delayed for 17+ hours, FAA increases oversight**
 
-You can read more about it [here](https://abc7news.com/taylen-brooks-georgetown-mountain-lion-northern-california-attack-wyatt/14569557/).
+You can read more about it [here](https://www.newsnationnow.com/us-news/united-sfo-flight-delayed-for-17-hours-faa-increases-oversight/).
 
 ## Requirements
 - Python 3.8
