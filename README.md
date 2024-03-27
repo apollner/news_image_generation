@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adam Neumann makes a $500 million bid for WeWork that could hit $900 million if financing and diligence firm up**
+**Iowa vs. West Virginia score: Caitlin Clark, Hawkeyes survive scare from Mountaineers to advance to Sweet 16**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/25/adam-neumann-submits-bid-of-more-than-500-million-to-buy-wework.html).
+You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/iowa-vs-west-virginia-score-caitlin-clark-hawkeyes-survive-scare-from-mountaineers-to-advance-to-sweet-16/).
 
 ## Requirements
 - Python 3.8
