@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm system continues to impact Minnesota Tuesday**
+**Trump's new social media company looks like a meme stock**
 
-You can read more about it [here](https://www.mprnews.org/story/2024/03/26/storm-system-continues-to-impact-minnesota-tuesday).
+You can read more about it [here](https://finance.yahoo.com/news/trumps-new-social-media-company-looks-like-a-meme-stock-191257321.html).
 
 ## Requirements
 - Python 3.8
