@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa vs. West Virginia score: Caitlin Clark, Hawkeyes survive scare from Mountaineers to advance to Sweet 16**
+**J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change**
 
-You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/iowa-vs-west-virginia-score-caitlin-clark-hawkeyes-survive-scare-from-mountaineers-to-advance-to-sweet-16/).
+You can read more about it [here](https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html).
 
 ## Requirements
 - Python 3.8
