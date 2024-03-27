@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pornhub could be banned in Florida after age verification law passes**
+**Death of Missouri student Riley Strain appears accidental, police in Tennessee say**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/25/porn-sites-age-verification-florida-law/73096875007/).
+You can read more about it [here](https://fox2now.com/news/missouri/death-of-missouri-student-riley-strain-appears-accidental-police-in-tennessee-say/).
 
 ## Requirements
 - Python 3.8
