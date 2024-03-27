@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julian Assange: WikiLeaks founder avoids extradition to U.S. for now, U.K. court rules**
+**Putin pins Moscow massacre on 'radical Islamists' but accuses Ukraine too**
 
-You can read more about it [here](https://www.axios.com/2024/03/26/julian-assange-extradition-appeal-wikileaks).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68663043).
 
 ## Requirements
 - Python 3.8
