@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Storm system continues to impact Minnesota Tuesday**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.mprnews.org/story/2024/03/26/storm-system-continues-to-impact-minnesota-tuesday).
 
 ## Requirements
 - Python 3.8
