@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BYD’s profit soared 80% in the year the Chinese EV giant overtook Tesla**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/03/26/business/byd-profit-soar-after-beats-tesla/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
