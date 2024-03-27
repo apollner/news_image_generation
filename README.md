@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death of Missouri student Riley Strain appears accidental, police in Tennessee say**
+**J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change**
 
-You can read more about it [here](https://fox2now.com/news/missouri/death-of-missouri-student-riley-strain-appears-accidental-police-in-tennessee-say/).
+You can read more about it [here](https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html).
 
 ## Requirements
 - Python 3.8
