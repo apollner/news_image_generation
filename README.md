@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian Soyuz brings crew of 3 to the International Space Station**
+**N.Y. judge sets firm April 15 trial date in Trump's historic hush money case**
 
-You can read more about it [here](https://www.cbsnews.com/news/russian-soyuz-crew-of-three-international-space-station/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/25/trump-hush-money-trial-date/).
 
 ## Requirements
 - Python 3.8
