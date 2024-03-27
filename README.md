@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin pins Moscow massacre on 'radical Islamists' but accuses Ukraine too**
+**Krispy Kreme donuts are coming to McDonald’s**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68663043).
+You can read more about it [here](https://www.cnn.com/2024/03/26/business/krispy-kreme-mcdonalds/index.html).
 
 ## Requirements
 - Python 3.8
