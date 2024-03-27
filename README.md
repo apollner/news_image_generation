@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did Tammy Murphy just make Phil Murphy a lame duck in New Jersey?**
+**Behind ‘Euphoria’ Season 3 Delay: Where the Show Goes After High School**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/25/tammy-phil-murphy-campaign-fallout-00148812).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/behind-euphoria-season-3-delay-where-show-goes-after-high-school-1235859780/).
 
 ## Requirements
 - Python 3.8
