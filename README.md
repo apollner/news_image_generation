@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaires sought to help fund Trump bond in civil fraud case, sources say**
+**Bird flu symptoms found in dairy cattle in Texas, Kansas**
 
-You can read more about it [here](https://www.reuters.com/world/us/billionaires-sought-help-fund-trump-bond-civil-fraud-case-sources-say-2024-03-26/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/26/bird-flu-dairy-cattle-symptoms/).
 
 ## Requirements
 - Python 3.8
