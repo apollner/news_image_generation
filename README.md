@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money case: New trial date scheduled**
+**Apple, Google, Meta targeted in EU's first Digital Markets Act investigations**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-new-york-b8fb980a6ec745e918a13e676b7f1460).
+You can read more about it [here](https://www.foxbusiness.com/markets/apple-google-meta-targeted-eus-first-digital-markets-act-probes).
 
 ## Requirements
 - Python 3.8
