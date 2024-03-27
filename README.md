@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change**
+**Russian Soyuz brings crew of 3 to the International Space Station**
 
-You can read more about it [here](https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html).
+You can read more about it [here](https://www.cbsnews.com/news/russian-soyuz-crew-of-three-international-space-station/).
 
 ## Requirements
 - Python 3.8
