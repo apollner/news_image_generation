@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Passes Law Banning Social Media for Minors Under 14**
+**Billionaires sought to help fund Trump bond in civil fraud case, sources say**
 
-You can read more about it [here](https://www.wsj.com/politics/florida-passes-law-banning-social-media-for-minors-under-14-abae4ce3).
+You can read more about it [here](https://www.reuters.com/world/us/billionaires-sought-help-fund-trump-bond-civil-fraud-case-sources-say-2024-03-26/).
 
 ## Requirements
 - Python 3.8
