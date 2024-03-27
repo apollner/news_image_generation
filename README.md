@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu symptoms found in dairy cattle in Texas, Kansas**
+**Julian Assange: WikiLeaks founder avoids extradition to U.S. for now, U.K. court rules**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/03/26/bird-flu-dairy-cattle-symptoms/).
+You can read more about it [here](https://www.axios.com/2024/03/26/julian-assange-extradition-appeal-wikileaks).
 
 ## Requirements
 - Python 3.8
