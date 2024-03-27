@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**N.Y. judge sets firm April 15 trial date in Trump's historic hush money case**
+**J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/25/trump-hush-money-trial-date/).
+You can read more about it [here](https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html).
 
 ## Requirements
 - Python 3.8
