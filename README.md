@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change**
+**Adam Neumann makes a $500 million bid for WeWork that could hit $900 million if financing and diligence firm up**
 
-You can read more about it [here](https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html).
+You can read more about it [here](https://www.cnbc.com/2024/03/25/adam-neumann-submits-bid-of-more-than-500-million-to-buy-wework.html).
 
 ## Requirements
 - Python 3.8
