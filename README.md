@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple, Google, Meta targeted in EU's first Digital Markets Act investigations**
+**Did Tammy Murphy just make Phil Murphy a lame duck in New Jersey?**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/apple-google-meta-targeted-eus-first-digital-markets-act-probes).
+You can read more about it [here](https://www.politico.com/news/2024/03/25/tammy-phil-murphy-campaign-fallout-00148812).
 
 ## Requirements
 - Python 3.8
