@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Behind ‘Euphoria’ Season 3 Delay: Where the Show Goes After High School**
+**Pornhub could be banned in Florida after age verification law passes**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/behind-euphoria-season-3-delay-where-show-goes-after-high-school-1235859780/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/03/25/porn-sites-age-verification-florida-law/73096875007/).
 
 ## Requirements
 - Python 3.8
