@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key Bridge in Baltimore collapses after large boat collision**
+**Deadly Northern California mountain lion attack victim identified as 21-year-old Taylen Brooks; brother Wyatt Brooks recovering**
 
-You can read more about it [here](https://wtop.com/baltimore/2024/03/key-bridge-in-baltimore-collapses-after-hitting-large-boat/).
+You can read more about it [here](https://abc7news.com/taylen-brooks-georgetown-mountain-lion-northern-california-attack-wyatt/14569557/).
 
 ## Requirements
 - Python 3.8
