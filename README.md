@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs is target of investigation carried out by Homeland Security team that specializes in human trafficking, source says**
+**Israeli delegation leaves Qatar negotiations after Hamas rejects latest hostage release proposal**
 
-You can read more about it [here](https://www.cnn.com/2024/03/26/entertainment/sean-diddy-combs-home-raids-investigation-tuesday/index.html).
+You can read more about it [here](https://www.foxnews.com/world/israeli-delegation-leaves-qatar-negotiations-hamas-rejects-latest-hostage-release-proposal).
 
 ## Requirements
 - Python 3.8
