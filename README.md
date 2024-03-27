@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BYD’s profit soared 80% in the year the Chinese EV giant overtook Tesla**
+**Cowboys QB Dak Prescott expected to play on current contract for 2024 season**
 
-You can read more about it [here](https://www.cnn.com/2024/03/26/business/byd-profit-soar-after-beats-tesla/index.html).
+You can read more about it [here](https://www.nfl.com/news/cowboys-qb-dak-prescott-expected-to-play-on-current-contract-for-2024-season).
 
 ## Requirements
 - Python 3.8
