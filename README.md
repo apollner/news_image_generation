@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK Treasury staff worked at Chinese bank accused of communist links**
+**Time travel equation: Astrophysicist claims he finally figured it out**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68665302).
+You can read more about it [here](https://bgr.com/science/an-astrophysicist-claims-he-finally-figured-out-time-travel/).
 
 ## Requirements
 - Python 3.8
