@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court could leave current abortion medication rules in place**
+**More California fast food chains announce changes ahead of minimum wage hike**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-abortion-mifepristone-telemedicine-4406d53e8af90f6a523264f535f5adf8).
+You can read more about it [here](https://ktla.com/news/california/more-california-fast-food-chains-announce-changes-ahead-of-minimum-wage-hike/).
 
 ## Requirements
 - Python 3.8
