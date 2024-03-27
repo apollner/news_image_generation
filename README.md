@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change**
+**DFW Weather: Forecast for April 8 total solar eclipse**
 
-You can read more about it [here](https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html).
+You can read more about it [here](https://www.wfaa.com/article/weather/dfw-weather-timing-out-total-solar-eclipse-forecast-april-8/287-1a03028f-5b8c-4312-8a2b-9cc202610ca9).
 
 ## Requirements
 - Python 3.8
