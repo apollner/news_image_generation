@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Time travel equation: Astrophysicist claims he finally figured it out**
+**Supreme Court could leave current abortion medication rules in place**
 
-You can read more about it [here](https://bgr.com/science/an-astrophysicist-claims-he-finally-figured-out-time-travel/).
+You can read more about it [here](https://apnews.com/article/supreme-court-abortion-mifepristone-telemedicine-4406d53e8af90f6a523264f535f5adf8).
 
 ## Requirements
 - Python 3.8
