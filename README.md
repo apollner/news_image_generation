@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's new social media company looks like a meme stock**
+**Sean ‘Diddy’ Combs is target of investigation carried out by Homeland Security team that specializes in human trafficking, source says**
 
-You can read more about it [here](https://finance.yahoo.com/news/trumps-new-social-media-company-looks-like-a-meme-stock-191257321.html).
+You can read more about it [here](https://www.cnn.com/2024/03/26/entertainment/sean-diddy-combs-home-raids-investigation-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
