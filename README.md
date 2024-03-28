@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrat who ran heavily on abortion rights, IVF wins Alabama special election**
+**Where was Mega Millions won? New Jersian waking up billionaire after matches all jackpot numbers to win $1.13B**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2024/03/26/democrats-republicans-abortion-ivf-alabama-election/).
+You can read more about it [here](https://abc7.com/where-was-mega-millions-won-new-jersey-march-26-drawing/14572006/).
 
 ## Requirements
 - Python 3.8
