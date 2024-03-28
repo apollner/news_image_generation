@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers erase 19-point, 4th-quarter deficit, outlast Bucks in 2OT stunner without LeBron James**
+**Utah women’s basketball team ‘troubled and shaken’ as ‘disturbing’ details of alleged racist abuse directed at players emerge**
 
-You can read more about it [here](https://sports.yahoo.com/lakers-erase-19-point-4th-quarter-deficit-outlast-bucks-2ot-stunner-without-lebron-james-024408196.html).
+You can read more about it [here](https://www.cnn.com/2024/03/27/sport/utah-basketball-racism-ncaa-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
