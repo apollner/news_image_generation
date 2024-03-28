@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More California fast food chains announce changes ahead of minimum wage hike**
+**Israel says UN resolution damaged Gaza ceasefire talks**
 
-You can read more about it [here](https://ktla.com/news/california/more-california-fast-food-chains-announce-changes-ahead-of-minimum-wage-hike/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68665247).
 
 ## Requirements
 - Python 3.8
