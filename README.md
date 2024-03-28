@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six workers presumed dead after crippled cargo ship knocks down Baltimore bridge**
+**Cows in Texas and Kansas test positive for highly pathogenic bird flu**
 
-You can read more about it [here](https://www.reuters.com/world/us/16-mile-bridge-baltimore-collapses-after-ship-collision-fox-baltimore-reports-2024-03-26/).
+You can read more about it [here](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/).
 
 ## Requirements
 - Python 3.8
