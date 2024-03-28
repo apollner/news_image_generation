@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitch Barnhart gives statement on John Calipari decision: Kentucky Wildcats News**
+**2024 NFL Mock Draft: NFC team moves up and down the board; Cowboys, Lions make big splashes to improve offense**
 
-You can read more about it [here](https://www.aseaofblue.com/2024/3/26/24113189/mitch-barnhart-john-calipari-decision-kentucky-wildcats-news-uk-athletics).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-nfc-team-moves-up-and-down-the-board-cowboys-lions-make-big-splashes-to-improve-offense/).
 
 ## Requirements
 - Python 3.8
