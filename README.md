@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy AI makes its debut on Samsung's past-gen phones in One UI 6.1**
+**Will the 2024 total solar eclipse be visible in California?**
 
-You can read more about it [here](https://www.androidcentral.com/phones/samsung-one-ui-6-1-galaxy-ai-announcement).
+You can read more about it [here](https://www.youtube.com/watch?v=DgOTFiCs-Zs).
 
 ## Requirements
 - Python 3.8
