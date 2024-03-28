@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers had reservations about kickoff rule, voted for it when it was clear it would pass**
+**Polar ice is melting and changing Earth’s rotation. It’s messing with time itself**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-had-reservations-about-kickoff-rule-voted-for-it-when-it-was-clear-it-would-pass).
+You can read more about it [here](https://www.cnn.com/2024/03/27/climate/timekeeping-polar-ice-melt-earth-rotation/index.html).
 
 ## Requirements
 - Python 3.8
