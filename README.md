@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire Democratic Rep. Ann Kuster to retire from Congress**
+**Google's Sergey Brin convinced employee to reject OpenAI offer**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/27/annie-kuster-retiring-house/).
+You can read more about it [here](https://www.businessinsider.com/google-sergey-brin-called-convinced-employee-to-stay-reject-openai-2024-3).
 
 ## Requirements
 - Python 3.8
