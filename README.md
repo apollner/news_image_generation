@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL owners approve massive overhaul of kickoff rules**
+**NASA gives warning ahead of total solar eclipse**
 
-You can read more about it [here](https://www.foxnews.com/sports/nfl-owners-approve-massive-overhaul-kickoff-rules).
+You can read more about it [here](https://www.youtube.com/watch?v=JJwL-Bm-Fxc).
 
 ## Requirements
 - Python 3.8
