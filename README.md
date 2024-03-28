@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: NFC team moves up and down the board; Cowboys, Lions make big splashes to improve offense**
+**Six workers presumed dead after crippled cargo ship knocks down Baltimore bridge**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-nfc-team-moves-up-and-down-the-board-cowboys-lions-make-big-splashes-to-improve-offense/).
+You can read more about it [here](https://www.reuters.com/world/us/16-mile-bridge-baltimore-collapses-after-ship-collision-fox-baltimore-reports-2024-03-26/).
 
 ## Requirements
 - Python 3.8
