@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Francis Scott Key Bridge collapse: What we know about ship and bridge**
+**College football will be watching NFL's new kickoff rule closely**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68664664).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/college-football-will-be-watching-nfls-new-kickoff-rule-closely).
 
 ## Requirements
 - Python 3.8
