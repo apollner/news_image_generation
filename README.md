@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBC News ousts Ronna McDaniel after network’s anchors launch unprecedented on-air rebellion**
+**Mitch Barnhart gives statement on John Calipari decision: Kentucky Wildcats News**
 
-You can read more about it [here](https://www.cnn.com/2024/03/26/media/nbc-news-ousts-ronna-mcdaniel/index.html).
+You can read more about it [here](https://www.aseaofblue.com/2024/3/26/24113189/mitch-barnhart-john-calipari-decision-kentucky-wildcats-news-uk-athletics).
 
 ## Requirements
 - Python 3.8
