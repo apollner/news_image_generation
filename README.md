@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When will Trump pay his $175 million appeals bond? Here's what's next in his civil fraud case**
+**Baltimore Francis Scott Key Bridge collapse: What we know about ship and bridge**
 
-You can read more about it [here](https://apnews.com/article/trump-fraud-case-appeal-millions-bond-explained-b98f2ab687dd642bad1821d868d2ccec).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68664664).
 
 ## Requirements
 - Python 3.8
