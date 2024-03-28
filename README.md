@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Syracuse basketball player arrested, accused of being 'drug mule' for rapper Diddy**
+**New Hampshire Democratic Rep. Ann Kuster to retire from Congress**
 
-You can read more about it [here](https://sports.yahoo.com/former-syracuse-basketball-player-arrested-accused-of-being-drug-mule-for-rapper-diddy-020255058.html).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/27/annie-kuster-retiring-house/).
 
 ## Requirements
 - Python 3.8
