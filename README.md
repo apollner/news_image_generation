@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key battleground state Dem announcement stuns political world: 'Big surprise'**
+**2024 NFL Draft Big Board: Marvin Harrison Jr., Malik Nabers in top five of Connor Rogers' Top 150**
 
-You can read more about it [here](https://www.foxnews.com/politics/key-battleground-state-dem-announcement-stuns-political-world).
+You can read more about it [here](https://www.nbcsports.com/nfl/news/2024-nfl-draft-big-board-marvin-harrison-jr-malik-nabers-in-top-five-of-connor-rogers-top-150).
 
 ## Requirements
 - Python 3.8
