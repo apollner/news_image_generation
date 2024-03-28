@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Google Pixel 9 leak reveals third, smaller model**
+**Polar ice is melting and changing Earth’s rotation. It’s messing with time itself**
 
-You can read more about it [here](http://9to5google.com/2024/03/27/google-pixel-9-leak-cad-render-third-model/).
+You can read more about it [here](https://www.cnn.com/2024/03/27/climate/timekeeping-polar-ice-melt-earth-rotation/index.html).
 
 ## Requirements
 - Python 3.8
