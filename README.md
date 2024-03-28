@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitch Barnhart gives statement on John Calipari decision: Kentucky Wildcats News**
+**Baltimore Francis Scott Key Bridge collapse: What we know about ship and bridge**
 
-You can read more about it [here](https://www.aseaofblue.com/2024/3/26/24113189/mitch-barnhart-john-calipari-decision-kentucky-wildcats-news-uk-athletics).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68664664).
 
 ## Requirements
 - Python 3.8
