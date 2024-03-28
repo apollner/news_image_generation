@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA gives warning ahead of total solar eclipse**
+**NBC News ousts Ronna McDaniel after network’s anchors launch unprecedented on-air rebellion**
 
-You can read more about it [here](https://www.youtube.com/watch?v=JJwL-Bm-Fxc).
+You can read more about it [here](https://www.cnn.com/2024/03/26/media/nbc-news-ousts-ronna-mcdaniel/index.html).
 
 ## Requirements
 - Python 3.8
