@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A way-too-early look at the cloud cover forecast for the solar eclipse**
+**Latest Google Pixel 9 leak reveals third, smaller model**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/27/solar-eclipse-cloud-forecast-totality/).
+You can read more about it [here](http://9to5google.com/2024/03/27/google-pixel-9-leak-cad-render-third-model/).
 
 ## Requirements
 - Python 3.8
