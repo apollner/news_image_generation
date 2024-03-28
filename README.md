@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA Women's Tournament bracket 2024: Printable bracket, games, dates, matchups for Sweet 16 of March Madness**
+**When will Trump pay his $175 million appeals bond? Here's what's next in his civil fraud case**
 
-You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/ncaa-womens-tournament-bracket-2024-printable-bracket-games-dates-matchups-for-sweet-16-of-march-madness/).
+You can read more about it [here](https://apnews.com/article/trump-fraud-case-appeal-millions-bond-explained-b98f2ab687dd642bad1821d868d2ccec).
 
 ## Requirements
 - Python 3.8
