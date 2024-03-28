@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will the 2024 total solar eclipse be visible in California?**
+**Mitch Barnhart gives statement on John Calipari decision: Kentucky Wildcats News**
 
-You can read more about it [here](https://www.youtube.com/watch?v=DgOTFiCs-Zs).
+You can read more about it [here](https://www.aseaofblue.com/2024/3/26/24113189/mitch-barnhart-john-calipari-decision-kentucky-wildcats-news-uk-athletics).
 
 ## Requirements
 - Python 3.8
