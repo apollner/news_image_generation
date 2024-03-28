@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: NFC team moves up and down the board; Cowboys, Lions make big splashes to improve offense**
+**Abortion proves winning strategy for Alabama Democrat**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-nfc-team-moves-up-and-down-the-board-cowboys-lions-make-big-splashes-to-improve-offense/).
+You can read more about it [here](https://www.politico.com/news/2024/03/26/abortion-winning-strategy-alabama-democrat-00149205).
 
 ## Requirements
 - Python 3.8
