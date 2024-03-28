@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says UN resolution damaged Gaza ceasefire talks**
+**NCAA Women's Tournament bracket 2024: Printable bracket, games, dates, matchups for Sweet 16 of March Madness**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68665247).
+You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/ncaa-womens-tournament-bracket-2024-printable-bracket-games-dates-matchups-for-sweet-16-of-march-madness/).
 
 ## Requirements
 - Python 3.8
