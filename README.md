@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utah women’s basketball team ‘troubled and shaken’ as ‘disturbing’ details of alleged racist abuse directed at players emerge**
+**Largest cocaine shipment of the year seized in Colombian Caribbean after high-speed boat chase**
 
-You can read more about it [here](https://www.cnn.com/2024/03/27/sport/utah-basketball-racism-ncaa-spt-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/cocaine-seized-caribbean-high-speed-chase-joint-operation-colombia-us/).
 
 ## Requirements
 - Python 3.8
