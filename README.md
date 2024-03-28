@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton Not Alone. Cancer On Rise For People Under 50, Say Experts**
+**A way-too-early look at the cloud cover forecast for the solar eclipse**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/27/solar-eclipse-cloud-forecast-totality/).
 
 ## Requirements
 - Python 3.8
