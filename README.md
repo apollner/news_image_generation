@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Francis Scott Key Bridge collapse: What we know about ship and bridge**
+**Obama jumps in to help Biden defeat Trump again**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68664664).
+You can read more about it [here](https://www.cnn.com/2024/03/27/politics/barack-obama-joe-biden-bill-clinton-donald-trump/index.html).
 
 ## Requirements
 - Python 3.8
