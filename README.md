@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Sergey Brin convinced employee to reject OpenAI offer**
+**Steelers had reservations about kickoff rule, voted for it when it was clear it would pass**
 
-You can read more about it [here](https://www.businessinsider.com/google-sergey-brin-called-convinced-employee-to-stay-reject-openai-2024-3).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-had-reservations-about-kickoff-rule-voted-for-it-when-it-was-clear-it-would-pass).
 
 ## Requirements
 - Python 3.8
