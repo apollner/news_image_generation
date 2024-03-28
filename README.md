@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When will Trump pay his $175 million appeals bond? Here's what's next in his civil fraud case**
+**2024 NFL Mock Draft: NFC team moves up and down the board; Cowboys, Lions make big splashes to improve offense**
 
-You can read more about it [here](https://apnews.com/article/trump-fraud-case-appeal-millions-bond-explained-b98f2ab687dd642bad1821d868d2ccec).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-nfc-team-moves-up-and-down-the-board-cowboys-lions-make-big-splashes-to-improve-offense/).
 
 ## Requirements
 - Python 3.8
