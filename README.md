@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions estimated $1.13 billion jackpot has one winning ticket, in New Jersey**
+**Kate Middleton Not Alone. Cancer On Rise For People Under 50, Say Experts**
 
-You can read more about it [here](https://www.cbsnews.com/news/mega-millions-1-1-billion-jackpot-1-winning-ticket/).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
