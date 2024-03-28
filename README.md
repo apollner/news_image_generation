@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polar ice is melting and changing Earth’s rotation. It’s messing with time itself**
+**Mega Millions estimated $1.13 billion jackpot has one winning ticket, in New Jersey**
 
-You can read more about it [here](https://www.cnn.com/2024/03/27/climate/timekeeping-polar-ice-melt-earth-rotation/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/mega-millions-1-1-billion-jackpot-1-winning-ticket/).
 
 ## Requirements
 - Python 3.8
