@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Largest cocaine shipment of the year seized in Colombian Caribbean after high-speed boat chase**
+**Former Syracuse basketball player arrested, accused of being 'drug mule' for rapper Diddy**
 
-You can read more about it [here](https://www.cbsnews.com/news/cocaine-seized-caribbean-high-speed-chase-joint-operation-colombia-us/).
+You can read more about it [here](https://sports.yahoo.com/former-syracuse-basketball-player-arrested-accused-of-being-drug-mule-for-rapper-diddy-020255058.html).
 
 ## Requirements
 - Python 3.8
