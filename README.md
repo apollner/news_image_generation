@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cows in Texas and Kansas test positive for highly pathogenic bird flu**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
