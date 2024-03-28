@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Francis Scott Key Bridge collapse: What we know about ship and bridge**
+**Democrat who ran heavily on abortion rights, IVF wins Alabama special election**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68664664).
+You can read more about it [here](https://www.washingtonpost.com/elections/2024/03/26/democrats-republicans-abortion-ivf-alabama-election/).
 
 ## Requirements
 - Python 3.8
