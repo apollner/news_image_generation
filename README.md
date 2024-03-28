@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football will be watching NFL's new kickoff rule closely**
+**When will Trump pay his $175 million appeals bond? Here's what's next in his civil fraud case**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/college-football-will-be-watching-nfls-new-kickoff-rule-closely).
+You can read more about it [here](https://apnews.com/article/trump-fraud-case-appeal-millions-bond-explained-b98f2ab687dd642bad1821d868d2ccec).
 
 ## Requirements
 - Python 3.8
