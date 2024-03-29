@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utah implements new restrictions amid possible avian flu outbreak in cattle**
+**Sean 'Diddy' Combs' alleged victims 'talking a lot', feds claim 'concrete, detailed, explicit allegations of sex trafficking'**
 
-You can read more about it [here](https://www.ksl.com/article/50963481/utah-implements-new-restrictions-amid-possible-avian-flu-outbreak-in-cattle).
+You can read more about it [here](https://nypost.com/2024/03/27/us-news/sean-diddy-combs-alleged-victims-talking-a-lot-feds-claim-concrete-detailed-explicit-allegations-of-sex-trafficking/).
 
 ## Requirements
 - Python 3.8
