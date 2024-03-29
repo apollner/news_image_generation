@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dethroned crypto king Sam Bankman-Fried to be sentenced for defrauding FTX investors**
+**Nearly 100 people still missing after Moscow attack, Russian news site says**
 
-You can read more about it [here](https://www.yahoo.com/news/dethroned-crypto-king-sam-bankman-041821874.html).
+You can read more about it [here](https://www.reuters.com/world/europe/nearly-100-people-still-missing-after-moscow-attack-russian-news-site-says-2024-03-27/).
 
 ## Requirements
 - Python 3.8
