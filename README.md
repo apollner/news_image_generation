@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors' Steph Curry gets emotional in win after early Draymond Green ejection**
+**[Removed]**
 
-You can read more about it [here](https://theathletic.com/5374129/2024/03/28/stephen-curry-crying-emotional-draymond-green/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
