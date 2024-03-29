@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's NYC fundraiser nets record high $25M, campaign says**
+**Final Delta IV Heavy rocket launch scrubbed just before liftoff**
 
-You can read more about it [here](https://apnews.com/article/democrats-election-2024-fundraiser-new-york-ebfbc81d3b70f38745ae00c7ce6a382d).
+You can read more about it [here](https://www.livescience.com/space/watch-the-final-delta-iv-heavy-rocket-launch-secret-cargo-into-space-today).
 
 ## Requirements
 - Python 3.8
