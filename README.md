@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge recommends conservative lawyer John Eastman be disbarred in California**
+**Home Depot is acquiring specialty distributor SRS for $18.25 billion in huge bet on growing pro sales**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/03/27/eastman-california-bar-ruling/).
+You can read more about it [here](https://www.cnbc.com/2024/03/28/home-depot-acquiring-srs-distribution-for-18point25-billion-to-grow-pro-sales.html).
 
 ## Requirements
 - Python 3.8
