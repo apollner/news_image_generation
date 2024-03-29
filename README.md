@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore bridge collapse: Divers find two bodies in submerged truck**
+**Ukraine war updates: Russia says it's 'hard to believe' Islamic State group behind terror attack; death toll rises to 140**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68679930).
+You can read more about it [here](https://www.cnbc.com/2024/03/27/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
 
 ## Requirements
 - Python 3.8
