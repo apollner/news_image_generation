@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney and DeSantis allies end legal dispute over control of theme park**
+**Giant green anaconda found dead in the Brazilian Amazon, possibly killed by gunshot**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68675795).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/03/27/ana-julia-worlds-largest-anaconda-found-dead-amazon/73123151007/).
 
 ## Requirements
 - Python 3.8
