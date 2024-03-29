@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Launch Alliance to launch final Delta Heavy IV rocket today. Here's how to watch live**
+**Warriors' Steph Curry gets emotional in win after early Draymond Green ejection**
 
-You can read more about it [here](https://www.space.com/ula-delta-iv-heavy-nrol-70-livestream).
+You can read more about it [here](https://theathletic.com/5374129/2024/03/28/stephen-curry-crying-emotional-draymond-green/).
 
 ## Requirements
 - Python 3.8
