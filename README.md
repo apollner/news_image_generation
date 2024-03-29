@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ending 6% commissions could create a ‘Venus flytrap’ for home buyers: economist**
+**4 dead, 7 injured in stabbing rampage in Rockford, Illinois, residential area, authorities say**
 
-You can read more about it [here](https://www.marketwatch.com/story/ending-6-commissions-could-create-a-venus-flytrap-situation-for-home-buyers-economist-says-7183a706).
+You can read more about it [here](https://www.cnn.com/2024/03/27/us/rockford-illinois-stabbing-home-invasion/index.html).
 
 ## Requirements
 - Python 3.8
