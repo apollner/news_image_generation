@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina to use congressional map deemed unconstitutional**
+**How Taylor Swift and Travis Kelce Are 'Soaking Up Their Downtime Together'**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/28/south-carolina-redistricting-2024-election/).
+You can read more about it [here](https://www.etonline.com/how-taylor-swift-and-travis-kelce-are-soaking-up-their-downtime-together-222539).
 
 ## Requirements
 - Python 3.8
