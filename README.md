@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 100 people still missing after Moscow attack, Russian news site says**
+**Judge says Hunter Biden lawyers presented no evidence tax charges are political**
 
-You can read more about it [here](https://www.reuters.com/world/europe/nearly-100-people-still-missing-after-moscow-attack-russian-news-site-says-2024-03-27/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/03/27/hunter-biden-california-tax-case/).
 
 ## Requirements
 - Python 3.8
