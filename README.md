@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 dead, including 15-year-old who was killed protecting her sister, in Illinois stabbing spree**
+**South Carolina to use congressional map deemed unconstitutional**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/rockford-illinois-violence-stabbing-dead-rcna145388).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/28/south-carolina-redistricting-2024-election/).
 
 ## Requirements
 - Python 3.8
