@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Delta IV Heavy, a rocket whose time has come and gone, will fly once more**
+**Texas' migrant arrest law will remain on hold under new court ruling**
 
-You can read more about it [here](https://arstechnica.com/space/2024/03/the-delta-iv-heavy-a-rocket-whose-time-has-come-and-gone-will-fly-once-more/).
+You can read more about it [here](https://apnews.com/article/texas-migrant-arrest-law-court-blocked-f4b568e0e940b906f5c06943ac797f97).
 
 ## Requirements
 - Python 3.8
