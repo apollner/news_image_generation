@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Puerto Rico declares dengue fever an epidemic as cases rise**
+**Baltimore bridge collapse: Divers find two bodies in submerged truck**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/03/27/puerto-rico-dengue-fever-epidemic/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68679930).
 
 ## Requirements
 - Python 3.8
