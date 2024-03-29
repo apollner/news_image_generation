@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel and Hezbollah trade strikes over Lebanon border**
+**Puerto Rico declares dengue fever an epidemic as cases rise**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68675608).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/03/27/puerto-rico-dengue-fever-epidemic/).
 
 ## Requirements
 - Python 3.8
