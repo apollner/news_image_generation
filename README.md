@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dethroned crypto king Sam Bankman-Fried to be sentenced for defrauding FTX investors**
+**Israel and Hezbollah trade strikes over Lebanon border**
 
-You can read more about it [here](https://www.yahoo.com/news/dethroned-crypto-king-sam-bankman-041821874.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68675608).
 
 ## Requirements
 - Python 3.8
