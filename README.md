@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge says Hunter Biden lawyers presented no evidence tax charges are political**
+**Dethroned crypto king Sam Bankman-Fried to be sentenced for defrauding FTX investors**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/03/27/hunter-biden-california-tax-case/).
+You can read more about it [here](https://www.yahoo.com/news/dethroned-crypto-king-sam-bankman-041821874.html).
 
 ## Requirements
 - Python 3.8
