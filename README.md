@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final Delta IV Heavy rocket launch scrubbed just before liftoff**
+**Pope Francis breaks with tradition in annual ritual by washing the feet of women only**
 
-You can read more about it [here](https://www.livescience.com/space/watch-the-final-delta-iv-heavy-rocket-launch-secret-cargo-into-space-today).
+You can read more about it [here](https://www.cnn.com/2024/03/28/europe/pope-washes-feet-maundy-thursday-intl/index.html).
 
 ## Requirements
 - Python 3.8
