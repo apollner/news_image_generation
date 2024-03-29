@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war updates: Russia says it's 'hard to believe' Islamic State group behind terror attack; death toll rises to 140**
+**Judge recommends conservative lawyer John Eastman be disbarred in California**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/27/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/03/27/eastman-california-bar-ruling/).
 
 ## Requirements
 - Python 3.8
