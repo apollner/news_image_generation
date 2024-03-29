@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge to consider if Trump can toss Georgia election interference case -- in first hearing since Fani Willis fiasco**
+**Protect against iPhone password reset attacks: How-to**
 
-You can read more about it [here](https://nypost.com/2024/03/28/us-news/first-hearing-in-trumps-georgia-election-fraud-case-since-fani-willis-fiasco/).
+You can read more about it [here](https://9to5mac.com/2024/03/28/protect-against-iphone-password-reset-attacks/).
 
 ## Requirements
 - Python 3.8
