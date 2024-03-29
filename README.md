@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are allergies making you feel sick? Here’s how to find out**
+**Beyoncé Releases Tracklist for ‘Cowboy Carter,’ Including “Jolene” Cover and Willie Nelson**
 
-You can read more about it [here](https://www.cnn.com/2024/03/27/health/spring-allergies-pollen-wellness/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/beyonce-cowboy-carter-tracklist-1235861430/).
 
 ## Requirements
 - Python 3.8
