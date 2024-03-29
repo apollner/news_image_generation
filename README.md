@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal government changes how it collects data on race**
+**Biden's NYC fundraiser nets record high $25M, campaign says**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/28/federal-government-race-census-00149589).
+You can read more about it [here](https://apnews.com/article/democrats-election-2024-fundraiser-new-york-ebfbc81d3b70f38745ae00c7ce6a382d).
 
 ## Requirements
 - Python 3.8
