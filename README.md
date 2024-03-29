@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North American eclipse 2024: How scientists will study it**
+**How the Baltimore bridge collapse spawned a torrent of instant conspiracy theories**
 
-You can read more about it [here](https://www.bbc.com/future/article/20240327-how-scientists-will-study-north-american-eclipse-2024).
+You can read more about it [here](https://www.cnn.com/2024/03/28/politics/baltimore-bridge-collapse-conspiracy-theories/index.html).
 
 ## Requirements
 - Python 3.8
