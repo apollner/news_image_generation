@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 dead, 7 injured in stabbing rampage in Rockford, Illinois, residential area, authorities say**
+**DC reaches deal to keep Capitals, Wizards at Capital One Arena until 2050 after Va. agreement falls apart**
 
-You can read more about it [here](https://www.cnn.com/2024/03/27/us/rockford-illinois-stabbing-home-invasion/index.html).
+You can read more about it [here](https://wtop.com/dc/2024/03/alexandria-says-capitals-wizards-arena-deal-is-dead/).
 
 ## Requirements
 - Python 3.8
