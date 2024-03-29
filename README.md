@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fallen crypto mogul Sam Bankman-Fried sentenced to 25 years in prison**
+**4 dead, including 15-year-old who was killed protecting her sister, in Illinois stabbing spree**
 
-You can read more about it [here](https://apnews.com/article/sam-bankman-fried-ftx-cryptocurrency-sentencing-sbf-d7bb1a5e94b4c22039d74dfeab1a2ff1).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/rockford-illinois-violence-stabbing-dead-rcna145388).
 
 ## Requirements
 - Python 3.8
