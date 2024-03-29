@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 MLB predictions: Playoffs, World Series, MVPs and more**
+**Judge to consider if Trump can toss Georgia election interference case -- in first hearing since Fani Willis fiasco**
 
-You can read more about it [here](https://www.nbcsports.com/fantasy/baseball/news/2024-mlb-predictions-playoffs-world-series-mvps-and-more).
+You can read more about it [here](https://nypost.com/2024/03/28/us-news/first-hearing-in-trumps-georgia-election-fraud-case-since-fani-willis-fiasco/).
 
 ## Requirements
 - Python 3.8
