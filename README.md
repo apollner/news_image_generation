@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas' migrant arrest law will remain on hold under new court ruling**
+**Sean 'Diddy' Combs' alleged victims 'talking a lot', feds claim 'concrete, detailed, explicit allegations of sex trafficking'**
 
-You can read more about it [here](https://apnews.com/article/texas-migrant-arrest-law-court-blocked-f4b568e0e940b906f5c06943ac797f97).
+You can read more about it [here](https://nypost.com/2024/03/27/us-news/sean-diddy-combs-alleged-victims-talking-a-lot-feds-claim-concrete-detailed-explicit-allegations-of-sex-trafficking/).
 
 ## Requirements
 - Python 3.8
