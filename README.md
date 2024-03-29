@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees ace Gerrit Cole placed on 60-day IL due to elbow**
+**Federal government changes how it collects data on race**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39827006/yankees-ace-gerrit-cole-placed-60-day-il-due-elbow).
+You can read more about it [here](https://www.politico.com/news/2024/03/28/federal-government-race-census-00149589).
 
 ## Requirements
 - Python 3.8
