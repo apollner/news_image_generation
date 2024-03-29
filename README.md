@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs' alleged victims 'talking a lot', feds claim 'concrete, detailed, explicit allegations of sex trafficking'**
+**Disney and DeSantis allies end legal dispute over control of theme park**
 
-You can read more about it [here](https://nypost.com/2024/03/27/us-news/sean-diddy-combs-alleged-victims-talking-a-lot-feds-claim-concrete-detailed-explicit-allegations-of-sex-trafficking/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68675795).
 
 ## Requirements
 - Python 3.8
