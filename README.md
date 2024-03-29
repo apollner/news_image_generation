@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis breaks with tradition in annual ritual by washing the feet of women only**
+**Fallen crypto mogul Sam Bankman-Fried sentenced to 25 years in prison**
 
-You can read more about it [here](https://www.cnn.com/2024/03/28/europe/pope-washes-feet-maundy-thursday-intl/index.html).
+You can read more about it [here](https://apnews.com/article/sam-bankman-fried-ftx-cryptocurrency-sentencing-sbf-d7bb1a5e94b4c22039d74dfeab1a2ff1).
 
 ## Requirements
 - Python 3.8
