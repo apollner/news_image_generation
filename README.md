@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Pete Prisco 2024 NFL Mock Draft 1.0: Super Bowl hopefuls add to defense; Jets add firepower for Aaron Rodgers**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/pete-prisco-2024-nfl-mock-draft-1-0-super-bowl-hopefuls-address-defense-jets-add-firepower-for-aaron-rodgers/).
 
 ## Requirements
 - Python 3.8
