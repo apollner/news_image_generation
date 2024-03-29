@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giant green anaconda found dead in the Brazilian Amazon, possibly killed by gunshot**
+**The Delta IV Heavy, a rocket whose time has come and gone, will fly once more**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/03/27/ana-julia-worlds-largest-anaconda-found-dead-amazon/73123151007/).
+You can read more about it [here](https://arstechnica.com/space/2024/03/the-delta-iv-heavy-a-rocket-whose-time-has-come-and-gone-will-fly-once-more/).
 
 ## Requirements
 - Python 3.8
