@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protect against iPhone password reset attacks: How-to**
+**2024 MLB predictions: Playoffs, World Series, MVPs and more**
 
-You can read more about it [here](https://9to5mac.com/2024/03/28/protect-against-iphone-password-reset-attacks/).
+You can read more about it [here](https://www.nbcsports.com/fantasy/baseball/news/2024-mlb-predictions-playoffs-world-series-mvps-and-more).
 
 ## Requirements
 - Python 3.8
