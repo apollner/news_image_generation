@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyoncé Releases Tracklist for ‘Cowboy Carter,’ Including “Jolene” Cover and Willie Nelson**
+**Utah implements new restrictions amid possible avian flu outbreak in cattle**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/beyonce-cowboy-carter-tracklist-1235861430/).
+You can read more about it [here](https://www.ksl.com/article/50963481/utah-implements-new-restrictions-amid-possible-avian-flu-outbreak-in-cattle).
 
 ## Requirements
 - Python 3.8
