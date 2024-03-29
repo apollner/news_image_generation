@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Home Depot is acquiring specialty distributor SRS for $18.25 billion in huge bet on growing pro sales**
+**United Launch Alliance to launch final Delta Heavy IV rocket today. Here's how to watch live**
 
-You can read more about it [here](https://www.cnbc.com/2024/03/28/home-depot-acquiring-srs-distribution-for-18point25-billion-to-grow-pro-sales.html).
+You can read more about it [here](https://www.space.com/ula-delta-iv-heavy-nrol-70-livestream).
 
 ## Requirements
 - Python 3.8
