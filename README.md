@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Baltimore bridge collapse spawned a torrent of instant conspiracy theories**
+**Home Depot acquires SRS Distribution in $18 billion purchase to attract more pro customers**
 
-You can read more about it [here](https://www.cnn.com/2024/03/28/politics/baltimore-bridge-collapse-conspiracy-theories/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/03/28/home-depot-srs-distribution/73128544007/).
 
 ## Requirements
 - Python 3.8
