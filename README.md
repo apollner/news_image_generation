@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DC reaches deal to keep Capitals, Wizards at Capital One Arena until 2050 after Va. agreement falls apart**
+**Dethroned crypto king Sam Bankman-Fried to be sentenced for defrauding FTX investors**
 
-You can read more about it [here](https://wtop.com/dc/2024/03/alexandria-says-capitals-wizards-arena-deal-is-dead/).
+You can read more about it [here](https://www.yahoo.com/news/dethroned-crypto-king-sam-bankman-041821874.html).
 
 ## Requirements
 - Python 3.8
