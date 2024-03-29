@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Home Depot acquires SRS Distribution in $18 billion purchase to attract more pro customers**
+**Protect against iPhone password reset attacks: How-to**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/03/28/home-depot-srs-distribution/73128544007/).
+You can read more about it [here](https://9to5mac.com/2024/03/28/protect-against-iphone-password-reset-attacks/).
 
 ## Requirements
 - Python 3.8
