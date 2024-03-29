@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Opinion: The irony of SBF’s sentencing**
+**Are allergies making you feel sick? Here’s how to find out**
 
-You can read more about it [here](https://www.cnn.com/2024/03/27/opinions/sam-bankman-fried-sentencing-crypto-fischer/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/27/health/spring-allergies-pollen-wellness/index.html).
 
 ## Requirements
 - Python 3.8
