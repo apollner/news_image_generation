@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Maps Gains New AI Tools, Updated Recommendation Lists and More**
+**Ending 6% commissions could create a ‘Venus flytrap’ for home buyers: economist**
 
-You can read more about it [here](https://www.macrumors.com/2024/03/27/google-maps-ai-tools-list-updates/).
+You can read more about it [here](https://www.marketwatch.com/story/ending-6-commissions-could-create-a-venus-flytrap-situation-for-home-buyers-economist-says-7183a706).
 
 ## Requirements
 - Python 3.8
