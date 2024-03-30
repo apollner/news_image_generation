@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eric Edholm 2024 NFL mock draft 2.0: J.J. McCarthy to Commanders; Cowboys target Brian Thomas Jr.**
+**Trump appeals ruling that let Fulton County DA Fani Willis remain on Georgia election subversion case**
 
-You can read more about it [here](https://www.nfl.com/news/eric-edholm-2024-nfl-mock-draft-2-0-j-j-mccarthy-to-commanders-cowboys-target-brian-thomas-jr).
+You can read more about it [here](https://www.cnn.com/2024/03/29/politics/trump-fani-willis-disqualification-appeal/index.html).
 
 ## Requirements
 - Python 3.8
