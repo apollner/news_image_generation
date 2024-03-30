@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia blocks renewal of UN panel monitoring North Korea sanctions**
+**Alabama takes down No. 1 UNC for Tide's 2nd Elite Eight trip**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/29/russia-blocks-renewal-of-un-panel-monitoring-n-korea-sanction-compliance).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39830309/alabama-upsets-unc-2nd-elite-eight-trip-school-history).
 
 ## Requirements
 - Python 3.8
