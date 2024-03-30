@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tuberculosis cases at highest level in a decade in US: report**
+**New cataclysmic variable discovered by astronomers**
 
-You can read more about it [here](https://nypost.com/2024/03/29/lifestyle/us-tuberculosis-cases-were-at-the-highest-level-in-a-decade-in-2023/).
+You can read more about it [here](https://phys.org/news/2024-03-cataclysmic-variable-astronomers.html).
 
 ## Requirements
 - Python 3.8
