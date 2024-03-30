@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Jackson's children Prince, Paris and Bigi Jackson make rare appearance together**
+**Flatulence, car escapes and IUD pain: The week in Well+Being**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/03/28/paris-jackson-prince-bigi-jackson-mj-the-musical-red-carpet-london/73135057007/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/03/28/flatulence-car-escapes-iud-pain/).
 
 ## Requirements
 - Python 3.8
