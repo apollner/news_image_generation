@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fallen 'Crypto King' Sam Bankman-Fried gets 25 years for fraud**
+**Eating a dozen eggs a week doesn't hurt your cholesterol: Study**
 
-You can read more about it [here](https://www.bbc.com/news/business-68677487).
+You can read more about it [here](https://www.goodmorningamerica.com/food/story/eating-dozen-eggs-week-hurt-cholesterol-study-108553012).
 
 ## Requirements
 - Python 3.8
