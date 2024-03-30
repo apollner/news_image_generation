@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICJ orders Israel to act on aid crisis in Gaza; Palestinian Authority names new cabinet**
+**Fallen 'Crypto King' Sam Bankman-Fried gets 25 years for fraud**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/03/28/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://www.bbc.com/news/business-68677487).
 
 ## Requirements
 - Python 3.8
