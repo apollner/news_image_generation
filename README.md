@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Taylor Swift and Travis Kelce Are 'Soaking Up Their Downtime Together'**
+**Michael Jackson's children Prince, Paris and Bigi Jackson make rare appearance together**
 
-You can read more about it [here](https://www.etonline.com/how-taylor-swift-and-travis-kelce-are-soaking-up-their-downtime-together-222539).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/03/28/paris-jackson-prince-bigi-jackson-mj-the-musical-red-carpet-london/73135057007/).
 
 ## Requirements
 - Python 3.8
