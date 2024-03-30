@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Lieberman's death leaves a hole at No Labels as it tries to recruit a 2024 third-party candidate**
+**2024 NFL Mock Draft: Five QBs selected in Colin Cowherd's 12-pick mock**
 
-You can read more about it [here](https://apnews.com/article/lieberman-no-labels-christie-trump-biden-90b74fedecf72880d41e900fec3da7f2).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/2024-nfl-mock-draft-four-qbs-selected-in-colin-cowherds-12-pick-mock).
 
 ## Requirements
 - Python 3.8
