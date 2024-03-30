@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel crisis deepens over ultra-Orthodox draft**
+**Eric Edholm 2024 NFL mock draft 2.0: J.J. McCarthy to Commanders; Cowboys target Brian Thomas Jr.**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68684069).
+You can read more about it [here](https://www.nfl.com/news/eric-edholm-2024-nfl-mock-draft-2-0-j-j-mccarthy-to-commanders-cowboys-target-brian-thomas-jr).
 
 ## Requirements
 - Python 3.8
