@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois gets past Iowa State, advances to Elite Eight in NCAA tournament**
+**Louis Gossett Jr., 1st Black man to win supporting actor Oscar, dies at 87**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39830879/illinois-gets-iowa-state-advances-elite-eight-ncaa-tournament).
+You can read more about it [here](https://apnews.com/article/louis-gossett-jr-dies-1e86e1441ec8b614a282f3de22490a07).
 
 ## Requirements
 - Python 3.8
