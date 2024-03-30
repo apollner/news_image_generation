@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, Gaza conflict loom large at Biden’s high-profile NYC fundraiser**
+**Former Nickelodeon star Melissa Joan Hart speaks out about 'Quiet on Set' doc: I 'believe' the victims 'one hundred percent'**
 
-You can read more about it [here](https://www.cnn.com/2024/03/28/politics/biden-obama-clinton-nyc-fundraiser/index.html).
+You can read more about it [here](https://pagesix.com/2024/03/28/entertainment/melissa-joan-hart-supports-quiet-on-set-victims-one-hundred-percent/).
 
 ## Requirements
 - Python 3.8
