@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Diller: Trump attends wake of New York policeman shot on duty**
+**2024 solar eclipse news: Surprising early cloud forecast; 10 days to get eclipse glasses**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68690703).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/03/29/2024-solar-eclipse-updates-cloud-forecast-10-days/72866284007/).
 
 ## Requirements
 - Python 3.8
