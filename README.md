@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyonce Rewrites Dolly Parton’s ‘Jolene’ Lyrics to Deliver Fiery Cover on ‘Cowboy Carter’**
+**Russia blocks renewal of UN panel monitoring North Korea sanctions**
 
-You can read more about it [here](https://variety.com/2024/music/news/beyonce-jolene-cover-updates-dolly-parton-lyrics-1235955106/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/29/russia-blocks-renewal-of-un-panel-monitoring-n-korea-sanction-compliance).
 
 ## Requirements
 - Python 3.8
