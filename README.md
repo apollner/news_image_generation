@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama takes down No. 1 UNC for Tide's 2nd Elite Eight trip**
+**Trump, Gaza conflict loom large at Biden’s high-profile NYC fundraiser**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39830309/alabama-upsets-unc-2nd-elite-eight-trip-school-history).
+You can read more about it [here](https://www.cnn.com/2024/03/28/politics/biden-obama-clinton-nyc-fundraiser/index.html).
 
 ## Requirements
 - Python 3.8
