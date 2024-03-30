@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warnings ahead of total solar eclipse, what to expect and more**
+**Joe Lieberman's death leaves a hole at No Labels as it tries to recruit a 2024 third-party candidate**
 
-You can read more about it [here](https://www.youtube.com/watch?v=gsdZ9Xb_Usg).
+You can read more about it [here](https://apnews.com/article/lieberman-no-labels-christie-trump-biden-90b74fedecf72880d41e900fec3da7f2).
 
 ## Requirements
 - Python 3.8
