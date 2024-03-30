@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conjoined twin Abby Hensel now married to Army veteran**
+**Va. Gov. Youngkin arrived like a GOP star, but arena failure clouds legacy**
 
-You can read more about it [here](http://www.nydailynews.com/2024/03/28/conjoined-twin-abby-hensel-married-josh-bowling/).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/28/virginia-youngkin-wizards-arena-legacy/).
 
 ## Requirements
 - Python 3.8
