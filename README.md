@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Nickelodeon star Melissa Joan Hart speaks out about 'Quiet on Set' doc: I 'believe' the victims 'one hundred percent'**
+**Meloni, Le Pen rift mars far right's prospects of wielding EU power**
 
-You can read more about it [here](https://pagesix.com/2024/03/28/entertainment/melissa-joan-hart-supports-quiet-on-set-victims-one-hundred-percent/).
+You can read more about it [here](https://www.reuters.com/world/europe/meloni-le-pen-rift-mars-far-rights-prospects-wielding-eu-power-2024-03-29/).
 
 ## Requirements
 - Python 3.8
