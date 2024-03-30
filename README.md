@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flatulence, car escapes and IUD pain: The week in Well+Being**
+**Timberwolves sale drama: Alex Rodriguez, Marc Lore fire back after owner says NBA team is 'no longer for sale'**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/03/28/flatulence-car-escapes-iud-pain/).
+You can read more about it [here](https://www.cbssports.com/nba/news/timberwolves-sale-drama-alex-rodriguez-marc-lore-fire-back-after-owner-says-nba-team-is-no-longer-for-sale/).
 
 ## Requirements
 - Python 3.8
