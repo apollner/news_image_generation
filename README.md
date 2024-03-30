@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timberwolves sale drama: Alex Rodriguez, Marc Lore fire back after owner says NBA team is 'no longer for sale'**
+**Conjoined twin Abby Hensel now married to Army veteran**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/timberwolves-sale-drama-alex-rodriguez-marc-lore-fire-back-after-owner-says-nba-team-is-no-longer-for-sale/).
+You can read more about it [here](http://www.nydailynews.com/2024/03/28/conjoined-twin-abby-hensel-married-josh-bowling/).
 
 ## Requirements
 - Python 3.8
