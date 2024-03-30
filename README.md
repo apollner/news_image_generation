@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PCE inflation report watched closely by Fed ticks higher in February**
+**Jonathan Diller: Trump attends wake of New York policeman shot on duty**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/03/29/pce-inflation-report-february-fed-rate-impact/73133579007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68690703).
 
 ## Requirements
 - Python 3.8
