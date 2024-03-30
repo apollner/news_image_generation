@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Va. Gov. Youngkin arrived like a GOP star, but arena failure clouds legacy**
+**Michael Jackson's children Prince, Paris and Bigi Jackson make rare appearance together**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/28/virginia-youngkin-wizards-arena-legacy/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/03/28/paris-jackson-prince-bigi-jackson-mj-the-musical-red-carpet-london/73135057007/).
 
 ## Requirements
 - Python 3.8
