@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conjoined TLC stars Abby and Brittany Hensel clap back at 'loud' chatter after Army vet marriage**
+**Israel crisis deepens over ultra-Orthodox draft**
 
-You can read more about it [here](https://nypost.com/2024/03/29/entertainment/conjoined-tlc-stars-abby-and-brittany-hensel-clap-back-at-loud-chatter-after-army-vet-marriage/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68684069).
 
 ## Requirements
 - Python 3.8
