@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fallen 'Crypto King' Sam Bankman-Fried gets 25 years for fraud**
+**Va. Gov. Youngkin arrived like a GOP star, but arena failure clouds legacy**
 
-You can read more about it [here](https://www.bbc.com/news/business-68677487).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/28/virginia-youngkin-wizards-arena-legacy/).
 
 ## Requirements
 - Python 3.8
