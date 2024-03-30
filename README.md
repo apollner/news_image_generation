@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 45 people killed and one survivor after South Africa’s bus crash**
+**Conjoined TLC stars Abby and Brittany Hensel clap back at 'loud' chatter after Army vet marriage**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/29/at-least-45-people-killed-after-bus-plunges-into-south-africa-ravine).
+You can read more about it [here](https://nypost.com/2024/03/29/entertainment/conjoined-tlc-stars-abby-and-brittany-hensel-clap-back-at-loud-chatter-after-army-vet-marriage/).
 
 ## Requirements
 - Python 3.8
