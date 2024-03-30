@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Va. Gov. Youngkin arrived like a GOP star, but arena failure clouds legacy**
+**Warnings ahead of total solar eclipse, what to expect and more**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/03/28/virginia-youngkin-wizards-arena-legacy/).
+You can read more about it [here](https://www.youtube.com/watch?v=gsdZ9Xb_Usg).
 
 ## Requirements
 - Python 3.8
