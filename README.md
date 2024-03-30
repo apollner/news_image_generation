@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New cataclysmic variable discovered by astronomers**
+**Major storm to hit California with flash flooding, strong winds, heavy snow**
 
-You can read more about it [here](https://phys.org/news/2024-03-cataclysmic-variable-astronomers.html).
+You can read more about it [here](https://abcnews.go.com/US/major-storm-hit-california-flash-flooding-strong-winds/story?id=108656225).
 
 ## Requirements
 - Python 3.8
