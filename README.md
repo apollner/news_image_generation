@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louis Gossett Jr., 1st Black man to win supporting actor Oscar, dies at 87**
+**‘Destiny 2’ Instantly Changes Into The Light Weapon Timegating After Complaints**
 
-You can read more about it [here](https://apnews.com/article/louis-gossett-jr-dies-1e86e1441ec8b614a282f3de22490a07).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/03/29/destiny-2-instantly-changes-into-the-light-weapon-timegating-after-complaints/).
 
 ## Requirements
 - Python 3.8
