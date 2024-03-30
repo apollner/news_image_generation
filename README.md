@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Five QBs selected in Colin Cowherd's 12-pick mock**
+**Fallen 'Crypto King' Sam Bankman-Fried gets 25 years for fraud**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/2024-nfl-mock-draft-four-qbs-selected-in-colin-cowherds-12-pick-mock).
+You can read more about it [here](https://www.bbc.com/news/business-68677487).
 
 ## Requirements
 - Python 3.8
