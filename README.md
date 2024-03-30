@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meloni, Le Pen rift mars far right's prospects of wielding EU power**
+**Louis Gossett Jr., 1st Black man to win supporting actor Oscar, dies at 87**
 
-You can read more about it [here](https://www.reuters.com/world/europe/meloni-le-pen-rift-mars-far-rights-prospects-wielding-eu-power-2024-03-29/).
+You can read more about it [here](https://apnews.com/article/louis-gossett-jr-dies-1e86e1441ec8b614a282f3de22490a07).
 
 ## Requirements
 - Python 3.8
