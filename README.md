@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Destiny 2’ Instantly Changes Into The Light Weapon Timegating After Complaints**
+**PCE inflation report watched closely by Fed ticks higher in February**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/03/29/destiny-2-instantly-changes-into-the-light-weapon-timegating-after-complaints/).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/03/29/pce-inflation-report-february-fed-rate-impact/73133579007/).
 
 ## Requirements
 - Python 3.8
