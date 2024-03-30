@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge warns of Trump’s attacks in extraordinary rebuke**
+**Tuberculosis cases at highest level in a decade in US: report**
 
-You can read more about it [here](https://www.cnn.com/2024/03/29/politics/federal-judge-donald-trump-rebuke/index.html).
+You can read more about it [here](https://nypost.com/2024/03/29/lifestyle/us-tuberculosis-cases-were-at-the-highest-level-in-a-decade-in-2023/).
 
 ## Requirements
 - Python 3.8
