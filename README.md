@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This US state is not covered by the NATO treaty. Some experts say that needs to change**
+**The April 8 solar eclipse will be better than 2017's. Here's why. - The Washington Post**
 
-You can read more about it [here](https://www.cnn.com/2024/03/29/us/nato-treaty-hawaii-intl-hnk-ml-dst/index.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/23/solar-eclpse-2024-better-2017/).
 
 ## Requirements
 - Python 3.8
