@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Realtors settlement is already changing the way some Americans buy and sell homes**
+**‘Rolex case’ sees Peruvian police raid presidential palace over leader’s reported 14 luxury watches**
 
-You can read more about it [here](https://www.cnn.com/2024/03/30/economy/nar-settlement-home-buyers-and-sellers/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/30/world/boluarte-peru-rolex-police-raid-intl/index.html).
 
 ## Requirements
 - Python 3.8
