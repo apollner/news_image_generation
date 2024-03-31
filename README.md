@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crucial Signs for Early Colonoscopy Screening**
+**Spaceflight tripleheader**
 
-You can read more about it [here](https://www.huffpost.com/entry/colonoscopy-before-45-signs_l_65f49ae5e4b08b384f1b377f).
+You can read more about it [here](https://www.space.com/spacex-launch-tripleheader-march-2024).
 
 ## Requirements
 - Python 3.8
