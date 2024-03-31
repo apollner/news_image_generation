@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Willie! Dolly! Miley! See Beyoncé’s Collaborators React to ‘Cowboy Carter’**
+**Japanese authorities raid a factory making health supplements linked to 5 deaths**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-country/beyonce-cowboy-carter-collaborators-react-dolly-parton-miley-cyrus-willie-nelson-1234996849/).
+You can read more about it [here](https://apnews.com/article/japan-supplements-recall-benikoji-factory-raid-a6c881aff4c4cc67627d09af269a45a3).
 
 ## Requirements
 - Python 3.8
