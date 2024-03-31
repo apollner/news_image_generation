@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Complicity’: Leaders, activists slam US for sending more arms to Israel**
+**Apple's AirTags have briefly returned to their best price to date**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/30/complicity-leaders-activists-slam-us-for-sending-more-arms-to-israel).
+You can read more about it [here](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale).
 
 ## Requirements
 - Python 3.8
