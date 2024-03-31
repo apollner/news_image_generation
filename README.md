@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USDA, FDA and CDC Share Update on HPAI Detections in Dairy Cattle**
+**Tupperware warns it could go out of business over liquidity problems**
 
-You can read more about it [here](https://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2024/hpai-dairy-cattle-update).
+You can read more about it [here](https://nypost.com/2024/03/29/business/tupperware-warns-it-could-go-out-of-business-amid-liquidity-problems/).
 
 ## Requirements
 - Python 3.8
