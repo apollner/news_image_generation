@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haason Reddick trade grades: Jets going for broke; Eagles avoid long-term gamble**
+**Apps for 2024 total solar eclipse: How your phone can help April 8**
 
-You can read more about it [here](https://theathletic.com/5378682/2024/03/30/haason-reddick-trade-grade-jets-eagles/).
+You can read more about it [here](https://www.usatoday.com/story/tech/2024/03/29/solar-eclipse-apps-2024/73131129007/).
 
 ## Requirements
 - Python 3.8
