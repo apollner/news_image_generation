@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spaceflight tripleheader**
+**Zelenskyy fires more aides in a reshuffle as Russia launches drones and missiles across Ukraine**
 
-You can read more about it [here](https://www.space.com/spacex-launch-tripleheader-march-2024).
+You can read more about it [here](https://www.nbcnews.com/news/world/zelenskyy-fires-aides-reshuffle-russia-launches-drones-missiles-ukrain-rcna145721).
 
 ## Requirements
 - Python 3.8
