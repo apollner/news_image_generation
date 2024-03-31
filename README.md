@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird Flu Found in Michigan, Idaho Cows as Virus Spreads in US**
+**Royce Lewis headed to injured list, Twins to activate Austin Martin: Source**
 
-You can read more about it [here](https://finance.yahoo.com/news/bird-flu-found-michigan-idaho-123530727.html).
+You can read more about it [here](https://theathletic.com/5379215/2024/03/30/royce-lewis-injured-list-twins/).
 
 ## Requirements
 - Python 3.8
