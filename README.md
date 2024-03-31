@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cranes arriving to start removing wreckage from deadly Baltimore bridge collapse**
+**Dairy cows from commercial Michigan farm infected with bird flu**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/building-new-key-bridge-take-years-cost-least-400-million-experts-say-rcna145602).
+You can read more about it [here](https://www.mlive.com/public-interest/2024/03/dairy-cows-from-commercial-michigan-farm-infected-with-bird-flu.html).
 
 ## Requirements
 - Python 3.8
