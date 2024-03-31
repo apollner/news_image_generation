@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malicious SSH backdoor sneaks into xz, Linux world's data compression library**
+**Trump’s DJT Stock Boosts His Net Worth—and Raises Election Questions**
 
-You can read more about it [here](https://www.theregister.com/2024/03/29/malicious_backdoor_xz/).
+You can read more about it [here](https://www.barrons.com/articles/donald-trump-djt-stock-truth-social-net-worth-election-1005340a).
 
 ## Requirements
 - Python 3.8
