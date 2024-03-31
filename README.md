@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump appeals ruling that let Fulton County DA Fani Willis remain on Georgia election subversion case**
+**USDA, FDA and CDC Share Update on HPAI Detections in Dairy Cattle**
 
-You can read more about it [here](https://www.cnn.com/2024/03/29/politics/trump-fani-willis-disqualification-appeal/index.html).
+You can read more about it [here](https://www.aphis.usda.gov/aphis/newsroom/news/sa_by_date/sa-2024/hpai-dairy-cattle-update).
 
 ## Requirements
 - Python 3.8
