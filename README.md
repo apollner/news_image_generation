@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Godzilla x Kong: The New Empire’ Opening Scales Up To $75M, Still Second Best For Legendary Monsterverse – Late Friday Box Office**
+**Central Asian migrants face xenophobic backlash in Russia after Moscow terror attack**
 
-You can read more about it [here](http://deadline.com/2024/03/box-office-godzilla-x-kong-the-new-empire-1235871440/).
+You can read more about it [here](https://www.cnn.com/2024/03/29/world/migrants-xenophobia-moscow-attack-intl/index.html).
 
 ## Requirements
 - Python 3.8
