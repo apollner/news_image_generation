@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope skips Good Friday event to preserve health ahead of Easter, Vatican says**
+**Malicious SSH backdoor sneaks into xz, Linux world's data compression library**
 
-You can read more about it [here](https://apnews.com/article/pope-skips-good-friday-event-a36f1533f9716933ba4965663fa4dd7b).
+You can read more about it [here](https://www.theregister.com/2024/03/29/malicious_backdoor_xz/).
 
 ## Requirements
 - Python 3.8
