@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tupperware warns it could go out of business over liquidity problems**
+**ESPN’s Matt Miller on Jayden Daniels vs J.J. McCarthy as 2nd QB to Go in NFL Draft | Rich Eisen Show**
 
-You can read more about it [here](https://nypost.com/2024/03/29/business/tupperware-warns-it-could-go-out-of-business-amid-liquidity-problems/).
+You can read more about it [here](https://www.youtube.com/watch?v=3vuUmCUnKbM).
 
 ## Requirements
 - Python 3.8
