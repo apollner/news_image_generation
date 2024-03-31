@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DA asks to bar Trump from attacking judge’s daughter in hush money case**
+**Sean 'Diddy' Combs owes nearly $100M in mortgages on luxury LA, Miami mansions raided by feds: report**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/03/29/trump-gag-order-judge-daughter-merchan/).
+You can read more about it [here](https://nypost.com/2024/03/29/us-news/diddy-owes-banks-nearly-100-million-for-luxury-mansions-raided-by-feds-report/).
 
 ## Requirements
 - Python 3.8
