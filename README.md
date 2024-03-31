@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ESPN’s Matt Miller on Jayden Daniels vs J.J. McCarthy as 2nd QB to Go in NFL Draft | Rich Eisen Show**
+**Pope skips Good Friday event to preserve health ahead of Easter, Vatican says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3vuUmCUnKbM).
+You can read more about it [here](https://apnews.com/article/pope-skips-good-friday-event-a36f1533f9716933ba4965663fa4dd7b).
 
 ## Requirements
 - Python 3.8
