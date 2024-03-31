@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s DJT Stock Boosts His Net Worth—and Raises Election Questions**
+**Brooks and Capehart on Biden's record fundraiser and the importance of campaign spending**
 
-You can read more about it [here](https://www.barrons.com/articles/donald-trump-djt-stock-truth-social-net-worth-election-1005340a).
+You can read more about it [here](https://www.pbs.org/newshour/show/brooks-and-capehart-on-bidens-record-fundraiser-and-the-importance-of-campaign-spending).
 
 ## Requirements
 - Python 3.8
