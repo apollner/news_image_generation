@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tupperware warns it could go out of business over liquidity problems**
+**Cranes arriving to start removing wreckage from deadly Baltimore bridge collapse**
 
-You can read more about it [here](https://nypost.com/2024/03/29/business/tupperware-warns-it-could-go-out-of-business-amid-liquidity-problems/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/building-new-key-bridge-take-years-cost-least-400-million-experts-say-rcna145602).
 
 ## Requirements
 - Python 3.8
