@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apps for 2024 total solar eclipse: How your phone can help April 8**
+**Israel's high court says the government must stop funding seminaries. Could that topple Netanyahu?**
 
-You can read more about it [here](https://www.usatoday.com/story/tech/2024/03/29/solar-eclipse-apps-2024/73131129007/).
+You can read more about it [here](https://apnews.com/article/israel-ultra-orthodox-war-netanyahu-gaza-1536d26e9a2720d19210f513697ff5ed).
 
 ## Requirements
 - Python 3.8
