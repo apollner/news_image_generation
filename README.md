@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japanese authorities raid a factory making health supplements linked to 5 deaths**
+**Israel's high court says the government must stop funding seminaries. Could that topple Netanyahu?**
 
-You can read more about it [here](https://apnews.com/article/japan-supplements-recall-benikoji-factory-raid-a6c881aff4c4cc67627d09af269a45a3).
+You can read more about it [here](https://apnews.com/article/israel-ultra-orthodox-war-netanyahu-gaza-1536d26e9a2720d19210f513697ff5ed).
 
 ## Requirements
 - Python 3.8
