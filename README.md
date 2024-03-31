@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's AirTags have briefly returned to their best price to date**
+**The Realtors settlement is already changing the way some Americans buy and sell homes**
 
-You can read more about it [here](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale).
+You can read more about it [here](https://www.cnn.com/2024/03/30/economy/nar-settlement-home-buyers-and-sellers/index.html).
 
 ## Requirements
 - Python 3.8
