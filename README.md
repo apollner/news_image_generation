@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who wouldn't like prices to start falling? Careful what you wish for, economists say**
+**Bird Flu Found in Michigan, Idaho Cows as Virus Spreads in US**
 
-You can read more about it [here](https://apnews.com/article/inflation-deflation-prices-economy-eggs-cars-consumers-e3c816373344d54b2e6bdb4be5ed999a).
+You can read more about it [here](https://finance.yahoo.com/news/bird-flu-found-michigan-idaho-123530727.html).
 
 ## Requirements
 - Python 3.8
