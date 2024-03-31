@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Royce Lewis headed to injured list, Twins to activate Austin Martin: Source**
+**Crucial Signs for Early Colonoscopy Screening**
 
-You can read more about it [here](https://theathletic.com/5379215/2024/03/30/royce-lewis-injured-list-twins/).
+You can read more about it [here](https://www.huffpost.com/entry/colonoscopy-before-45-signs_l_65f49ae5e4b08b384f1b377f).
 
 ## Requirements
 - Python 3.8
