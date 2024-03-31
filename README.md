@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Central Asian migrants face xenophobic backlash in Russia after Moscow terror attack**
+**This US state is not covered by the NATO treaty. Some experts say that needs to change**
 
-You can read more about it [here](https://www.cnn.com/2024/03/29/world/migrants-xenophobia-moscow-attack-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/03/29/us/nato-treaty-hawaii-intl-hnk-ml-dst/index.html).
 
 ## Requirements
 - Python 3.8
