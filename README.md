@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's high court says the government must stop funding seminaries. Could that topple Netanyahu?**
+**War a real threat and Europe not ready, warns Poland's Tusk**
 
-You can read more about it [here](https://apnews.com/article/israel-ultra-orthodox-war-netanyahu-gaza-1536d26e9a2720d19210f513697ff5ed).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68692195).
 
 ## Requirements
 - Python 3.8
