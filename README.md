@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's AirTags have briefly returned to their best price to date**
+**Biden slammed on social media after announcing Transgender Day of Visibility on Easter Sunday**
 
-You can read more about it [here](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale).
+You can read more about it [here](https://www.foxnews.com/politics/biden-slammed-social-media-announcing-transgender-day-visibility-easter-sunday).
 
 ## Requirements
 - Python 3.8
