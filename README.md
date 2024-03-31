@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden slammed on social media after announcing Transgender Day of Visibility on Easter Sunday**
+**Entire Case Company Built on Literal Theft**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-slammed-social-media-announcing-transgender-day-visibility-easter-sunday).
+You can read more about it [here](https://www.youtube.com/watch?v=AHfmA1zlGZU).
 
 ## Requirements
 - Python 3.8
