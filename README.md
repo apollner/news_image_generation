@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Rolex case’ sees Peruvian police raid presidential palace over leader’s reported 14 luxury watches**
+**‘Complicity’: Leaders, activists slam US for sending more arms to Israel**
 
-You can read more about it [here](https://www.cnn.com/2024/03/30/world/boluarte-peru-rolex-police-raid-intl/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/3/30/complicity-leaders-activists-slam-us-for-sending-more-arms-to-israel).
 
 ## Requirements
 - Python 3.8
