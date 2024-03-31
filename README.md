@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu spreads to dairy cows in Idaho, Michigan, New Mexico and Ohio**
+**Tupperware warns it could go out of business over liquidity problems**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/03/29/bird-flu-cows/).
+You can read more about it [here](https://nypost.com/2024/03/29/business/tupperware-warns-it-could-go-out-of-business-amid-liquidity-problems/).
 
 ## Requirements
 - Python 3.8
