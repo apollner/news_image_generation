@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs owes nearly $100M in mortgages on luxury LA, Miami mansions raided by feds: report**
+**Willie! Dolly! Miley! See Beyoncé’s Collaborators React to ‘Cowboy Carter’**
 
-You can read more about it [here](https://nypost.com/2024/03/29/us-news/diddy-owes-banks-nearly-100-million-for-luxury-mansions-raided-by-feds-report/).
+You can read more about it [here](http://www.rollingstone.com/music/music-country/beyonce-cowboy-carter-collaborators-react-dolly-parton-miley-cyrus-willie-nelson-1234996849/).
 
 ## Requirements
 - Python 3.8
