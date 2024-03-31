@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dairy cows from commercial Michigan farm infected with bird flu**
+**Powerful X-class solar flare slams Earth, triggering radio blackout over the Pacific Ocean**
 
-You can read more about it [here](https://www.mlive.com/public-interest/2024/03/dairy-cows-from-commercial-michigan-farm-infected-with-bird-flu.html).
+You can read more about it [here](https://www.livescience.com/space/the-sun/powerful-x-class-solar-flare-slams-earth-triggering-radio-blackout-over-the-pacific-ocean).
 
 ## Requirements
 - Python 3.8
