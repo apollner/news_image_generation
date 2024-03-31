@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'So much greatness' -- Brunson's 61 can't conquer Wemby (40-20), Spurs**
+**‘Godzilla x Kong: The New Empire’ Opening Scales Up To $75M, Still Second Best For Legendary Monsterverse – Late Friday Box Office**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39836411/brunson-61-points-help-knicks-conquer-dominant-wembanyama-spurs).
+You can read more about it [here](http://deadline.com/2024/03/box-office-godzilla-x-kong-the-new-empire-1235871440/).
 
 ## Requirements
 - Python 3.8
