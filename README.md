@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man arrested as hostage situation in Dutch nightclub ends**
+**Apple's AirTags have briefly returned to their best price to date**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68698022).
+You can read more about it [here](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale).
 
 ## Requirements
 - Python 3.8
