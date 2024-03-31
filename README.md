@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The April 8 solar eclipse will be better than 2017's. Here's why. - The Washington Post**
+**Israel Gaza: US weapons to Israel a sign of thaw in strained ties**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/03/23/solar-eclpse-2024-better-2017/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68698357).
 
 ## Requirements
 - Python 3.8
