@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**War a real threat and Europe not ready, warns Poland's Tusk**
+**Haason Reddick trade grades: Jets going for broke; Eagles avoid long-term gamble**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68692195).
+You can read more about it [here](https://theathletic.com/5378682/2024/03/30/haason-reddick-trade-grade-jets-eagles/).
 
 ## Requirements
 - Python 3.8
