@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump posts video that shows image of Biden tied up in the back of a truck**
+**Who wouldn't like prices to start falling? Careful what you wish for, economists say**
 
-You can read more about it [here](https://www.cnn.com/2024/03/30/politics/trump-posts-video-that-shows-image-of-biden-tied-up-in-the-back-of-a-truck/index.html).
+You can read more about it [here](https://apnews.com/article/inflation-deflation-prices-economy-eggs-cars-consumers-e3c816373344d54b2e6bdb4be5ed999a).
 
 ## Requirements
 - Python 3.8
