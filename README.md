@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gaza: US weapons to Israel a sign of thaw in strained ties**
+**Trump posts video that shows image of Biden tied up in the back of a truck**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68698357).
+You can read more about it [here](https://www.cnn.com/2024/03/30/politics/trump-posts-video-that-shows-image-of-biden-tied-up-in-the-back-of-a-truck/index.html).
 
 ## Requirements
 - Python 3.8
