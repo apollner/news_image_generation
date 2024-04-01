@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March Madness highlights: Alabama beats Clemson; Iowa, LSU will face off**
+**SpaceX launches Starlink batch in second launch of day, nails landing**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/03/30/march-madness-games-scores-live-updates/).
+You can read more about it [here](https://www.youtube.com/watch?v=pwyq08HYh-I).
 
 ## Requirements
 - Python 3.8
