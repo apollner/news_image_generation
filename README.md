@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot swells to an estimated $975 million after no grand prize winners Saturday**
+**The Trump camp assails Biden for declaring March 31, Easter Sunday, as Transgender Day of Visibility**
 
-You can read more about it [here](https://www.cnn.com/2024/03/30/business/powerball-saturday-drawing-lottery-jackpot/index.html).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/trump-camp-assails-biden-declaring-march-31-easter-108684848).
 
 ## Requirements
 - Python 3.8
