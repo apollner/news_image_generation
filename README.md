@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Factory Activity Increases for First Time in Six Months**
+**What's open on Easter 2024? Walmart open; Costco, Target closed**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-31/china-s-factory-activity-increases-for-first-time-in-six-months).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/03/31/whats-open-closed-easter-2024/73132851007/).
 
 ## Requirements
 - Python 3.8
