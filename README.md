@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High school football player who allegedly beat another teen to death at party boasted of being 'too strong': cops**
+**Chance Perdomo, "Gen V" and "Chilling Adventures of Sabrina" actor, dies in motorcycle accident at 27**
 
-You can read more about it [here](https://nypost.com/2024/03/30/us-news/talan-renner-high-school-football-player-who-allegedly-beat-preston-lord-to-death-at-party-boasted-of-being-too-strong/).
+You can read more about it [here](https://www.cbsnews.com/news/chance-perdomo-gen-v-actor-dies-motorcycle-accident-at-27/).
 
 ## Requirements
 - Python 3.8
