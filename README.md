@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches Starlink batch in second launch of day, nails landing**
+**Johnson sounds out key Republicans with speakership and Ukraine aid on line**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pwyq08HYh-I).
+You can read more about it [here](https://www.cnn.com/2024/03/31/politics/mike-johnson-motion-to-vacate-ukraine-funding/index.html).
 
 ## Requirements
 - Python 3.8
