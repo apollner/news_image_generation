@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Zoey 101’ Actor Matthew Underwood Says He Was Assaulted by Former Agent; Defends Fellow Nickelodeon Stars ‘Staying Silent’ About ‘Quiet on Set’**
+**2 charged in connection to house fire that killed Lexington Fire Captain Ronnie Metcalf**
 
-You can read more about it [here](https://variety.com/2024/tv/news/matthew-underwood-assaulted-agent-zoey-101-quiet-on-set-response-1235956264/).
+You can read more about it [here](https://myfox8.com/news/north-carolina/piedmont-triad/2-charged-in-connection-to-house-fire-that-killed-lexington-fire-captain-ronnie-metcalf/).
 
 ## Requirements
 - Python 3.8
