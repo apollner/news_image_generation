@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs steps out shirtless after sex-trafficking raids, seen smoking at Miami restaurant**
+**UConn storms into March Madness Final Four after dismantling Illinois**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/sean-diddy-combs-steps-out-shirtless-after-sex-trafficking-raids-seen-smoking-at-miami-restaurant-101711843501794.html).
+You can read more about it [here](https://nypost.com/2024/03/30/sports/uconn-storms-in-march-madness-final-four-after-win-vs-illinois/).
 
 ## Requirements
 - Python 3.8
