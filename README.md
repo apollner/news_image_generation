@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s Earbuds Are More Comfortable Than AirPods and Down to Their Cheapest Price All Year**
+**Pope calls for Gaza cease-fire in Easter address**
 
-You can read more about it [here](https://variety.com/2024/shopping/tech/best-google-pixel-buds-wireless-earbuds-deal-sale-1235695854/).
+You can read more about it [here](https://apnews.com/article/easter-sunday-vatican-pope-francis-a89541850baa416f69060ae8e699abac).
 
 ## Requirements
 - Python 3.8
