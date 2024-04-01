@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Apple explains how the new MacBook Air was designed for travel**
+**First section of mangled steel removed from collapsed Baltimore Key Bridge after deadly ship crash: 'Complicated process'**
 
-You can read more about it [here](https://thepointsguy.com/news/apple-macbook-air-m3-travel-interview/).
+You can read more about it [here](https://nypost.com/2024/03/30/us-news/first-section-of-mangled-steel-removed-from-collapsed-baltimore-key-bridge/).
 
 ## Requirements
 - Python 3.8
