@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Entire Case Company Built on Literal Theft**
+**Government agents raid Peruvian President Boluarte's residence in luxury watch investigation**
 
-You can read more about it [here](https://www.youtube.com/watch?v=AHfmA1zlGZU).
+You can read more about it [here](https://apnews.com/article/peru-president-boluarte-luxury-watches-investigation-e39d68d3e04cf228c59bd6858306c520).
 
 ## Requirements
 - Python 3.8
