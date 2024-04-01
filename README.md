@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans slam Biden for proclaiming Transgender Day of Visibility on Easter, though it’s yearly observed on March 31**
+**NCAA Women's Tournament live updates, scores, highlights: South Carolina vs. Oregon State tips off Elite Eight**
 
-You can read more about it [here](https://www.cnn.com/2024/03/30/politics/easter-trans-day-visibility-trump-biden-johnson/index.html).
+You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/ncaa-womens-tournament-live-updates-scores-highlights-south-carolina-vs-oregon-state-tips-off-elite-eight/live/).
 
 ## Requirements
 - Python 3.8
