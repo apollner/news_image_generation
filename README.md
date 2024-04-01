@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First section of mangled steel removed from collapsed Baltimore Key Bridge after deadly ship crash: 'Complicated process'**
+**Powerball jackpot swells to an estimated $975 million after no grand prize winners Saturday**
 
-You can read more about it [here](https://nypost.com/2024/03/30/us-news/first-section-of-mangled-steel-removed-from-collapsed-baltimore-key-bridge/).
+You can read more about it [here](https://www.cnn.com/2024/03/30/business/powerball-saturday-drawing-lottery-jackpot/index.html).
 
 ## Requirements
 - Python 3.8
