@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis's Easter address calls for peace in Gaza, Ukraine - The Washington Post**
+**White House bashes 'dishonest' Republican criticism of Biden's transgender proclamation on Easter**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/03/31/pope-francis-easter-address/).
+You can read more about it [here](https://abcnews.go.com/Politics/white-house-bashes-dishonest-republican-criticism-bidens-transgender/story?id=108687647).
 
 ## Requirements
 - Python 3.8
