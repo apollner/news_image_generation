@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Donald Trump's 'Apprentice-style' search for a running mate**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2024/03/31/inside-donald-trumps-apprentice-style-search-for-a-running-mate-00149827).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
