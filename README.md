@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Widespread multiday severe weather threat kicks off April in central, eastern US**
+**White House bashes 'dishonest' Republican criticism of Biden's transgender proclamation on Easter**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/severe-weather-tornadoes-plains-midwest-south-mid-atlantic).
+You can read more about it [here](https://abcnews.go.com/Politics/white-house-bashes-dishonest-republican-criticism-bidens-transgender/story?id=108687647).
 
 ## Requirements
 - Python 3.8
