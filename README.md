@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA Women's Tournament live updates, scores, highlights: South Carolina vs. Oregon State tips off Elite Eight**
+**Widespread multiday severe weather threat kicks off April in central, eastern US**
 
-You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/ncaa-womens-tournament-live-updates-scores-highlights-south-carolina-vs-oregon-state-tips-off-elite-eight/live/).
+You can read more about it [here](https://www.foxweather.com/weather-news/severe-weather-tornadoes-plains-midwest-south-mid-atlantic).
 
 ## Requirements
 - Python 3.8
