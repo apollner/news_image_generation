@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's open on Easter 2024? Walmart open; Costco, Target closed**
+**Plane crash near Truckee kills two, police say**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/03/31/whats-open-closed-easter-2024/73132851007/).
+You can read more about it [here](https://fox40.com/news/local-news/nevada-county/plane-crash-truckee-nevada-county/).
 
 ## Requirements
 - Python 3.8
