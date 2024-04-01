@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UConn storms into March Madness Final Four after dismantling Illinois**
+**The Treacherous Mission to Evacuate American Citizens Trapped in Haiti**
 
-You can read more about it [here](https://nypost.com/2024/03/30/sports/uconn-storms-in-march-madness-final-four-after-win-vs-illinois/).
+You can read more about it [here](https://www.thedailybeast.com/the-treacherous-mission-to-evacuate-american-citizens-trapped-in-haiti).
 
 ## Requirements
 - Python 3.8
