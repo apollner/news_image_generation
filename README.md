@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope calls for Gaza cease-fire in Easter address**
+**AT&T data breach: How to know if you were affected**
 
-You can read more about it [here](https://apnews.com/article/easter-sunday-vatican-pope-francis-a89541850baa416f69060ae8e699abac).
+You can read more about it [here](https://apnews.com/article/att-data-breach-was-i-affected-f0dda2b1d266a6068ffc607afd94b779).
 
 ## Requirements
 - Python 3.8
