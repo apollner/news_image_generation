@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches Starlink batch in second launch of day, nails landing**
+**AT&T dark web data leak of over 70 million current, former customers**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pwyq08HYh-I).
+You can read more about it [here](https://www.youtube.com/watch?v=CA6-A4UW6As).
 
 ## Requirements
 - Python 3.8
