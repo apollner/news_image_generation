@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AT&T dark web data leak of over 70 million current, former customers**
+**Republicans slam Biden for proclaiming Transgender Day of Visibility on Easter, though it’s yearly observed on March 31**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CA6-A4UW6As).
+You can read more about it [here](https://www.cnn.com/2024/03/30/politics/easter-trans-day-visibility-trump-biden-johnson/index.html).
 
 ## Requirements
 - Python 3.8
