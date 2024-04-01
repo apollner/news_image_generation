@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India opposition protests in capital over Kejriwal’s arrest before election**
+**Inside Donald Trump's 'Apprentice-style' search for a running mate**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/31/india-opposition-protests-in-capital-over-kejriwals-arrest-before-election).
+You can read more about it [here](https://www.politico.com/news/2024/03/31/inside-donald-trumps-apprentice-style-search-for-a-running-mate-00149827).
 
 ## Requirements
 - Python 3.8
