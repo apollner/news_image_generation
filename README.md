@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Government agents raid Peruvian President Boluarte's residence in luxury watch investigation**
+**Pope at Easter Vigil: ‘With Jesus no tomb will suppress the joy of life’ - Vatican News**
 
-You can read more about it [here](https://apnews.com/article/peru-president-boluarte-luxury-watches-investigation-e39d68d3e04cf228c59bd6858306c520).
+You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-03/pope-with-jesus-no-tomb-will-suppress-the-joy-the-joy-of-life.html).
 
 ## Requirements
 - Python 3.8
