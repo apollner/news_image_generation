@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nickelodeon’s ‘Zoey 101’ Star Matthew Underwood Says He Quit Acting After Agent Assaulted Him**
+**Exclusive: Apple explains how the new MacBook Air was designed for travel**
 
-You can read more about it [here](http://deadline.com/2024/03/nickelodeon-zoey-101-star-matthew-underwood-quit-acting-agent-assaulted-1235872437/).
+You can read more about it [here](https://thepointsguy.com/news/apple-macbook-air-m3-travel-interview/).
 
 ## Requirements
 - Python 3.8
