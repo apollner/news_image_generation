@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Linux could have been brought down by backdoor found in widely used utility**
+**Pope Francis's Easter address calls for peace in Gaza, Ukraine - The Washington Post**
 
-You can read more about it [here](https://www.techspot.com/news/102456-linux-could-have-brought-down-backdoor-found-widely.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/03/31/pope-francis-easter-address/).
 
 ## Requirements
 - Python 3.8
