@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**March Madness highlights: Alabama beats Clemson; Iowa, LSU will face off**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/03/30/march-madness-games-scores-live-updates/).
 
 ## Requirements
 - Python 3.8
