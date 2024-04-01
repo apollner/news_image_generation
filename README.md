@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Treacherous Mission to Evacuate American Citizens Trapped in Haiti**
+**Plane crash near Truckee kills two, police say**
 
-You can read more about it [here](https://www.thedailybeast.com/the-treacherous-mission-to-evacuate-american-citizens-trapped-in-haiti).
+You can read more about it [here](https://fox40.com/news/local-news/nevada-county/plane-crash-truckee-nevada-county/).
 
 ## Requirements
 - Python 3.8
