@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India opposition protests in capital over Kejriwal’s arrest before election**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/3/31/india-opposition-protests-in-capital-over-kejriwals-arrest-before-election).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
