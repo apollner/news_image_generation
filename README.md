@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Trump camp assails Biden for declaring March 31, Easter Sunday, as Transgender Day of Visibility**
+**Nickelodeon’s ‘Zoey 101’ Star Matthew Underwood Says He Quit Acting After Agent Assaulted Him**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/trump-camp-assails-biden-declaring-march-31-easter-108684848).
+You can read more about it [here](http://deadline.com/2024/03/nickelodeon-zoey-101-star-matthew-underwood-quit-acting-agent-assaulted-1235872437/).
 
 ## Requirements
 - Python 3.8
