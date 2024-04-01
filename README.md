@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House bashes 'dishonest' Republican criticism of Biden's transgender proclamation on Easter**
+**Linux could have been brought down by backdoor found in widely used utility**
 
-You can read more about it [here](https://abcnews.go.com/Politics/white-house-bashes-dishonest-republican-criticism-bidens-transgender/story?id=108687647).
+You can read more about it [here](https://www.techspot.com/news/102456-linux-could-have-brought-down-backdoor-found-widely.html).
 
 ## Requirements
 - Python 3.8
