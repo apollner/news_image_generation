@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope at Easter Vigil: ‘With Jesus no tomb will suppress the joy of life’ - Vatican News**
+**High school football player who allegedly beat another teen to death at party boasted of being 'too strong': cops**
 
-You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-03/pope-with-jesus-no-tomb-will-suppress-the-joy-the-joy-of-life.html).
+You can read more about it [here](https://nypost.com/2024/03/30/us-news/talan-renner-high-school-football-player-who-allegedly-beat-preston-lord-to-death-at-party-boasted-of-being-too-strong/).
 
 ## Requirements
 - Python 3.8
