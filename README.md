@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 charged in connection to house fire that killed Lexington Fire Captain Ronnie Metcalf**
+**China's Factory Activity Increases for First Time in Six Months**
 
-You can read more about it [here](https://myfox8.com/news/north-carolina/piedmont-triad/2-charged-in-connection-to-house-fire-that-killed-lexington-fire-captain-ronnie-metcalf/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-03-31/china-s-factory-activity-increases-for-first-time-in-six-months).
 
 ## Requirements
 - Python 3.8
