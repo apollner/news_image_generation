@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane crash near Truckee kills two, police say**
+**Sean ‘Diddy’ Combs steps out shirtless after sex-trafficking raids, seen smoking at Miami restaurant**
 
-You can read more about it [here](https://fox40.com/news/local-news/nevada-county/plane-crash-truckee-nevada-county/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/sean-diddy-combs-steps-out-shirtless-after-sex-trafficking-raids-seen-smoking-at-miami-restaurant-101711843501794.html).
 
 ## Requirements
 - Python 3.8
