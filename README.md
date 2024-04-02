@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crews scramble to build temporary channel after Key bridge collapse**
+**What is Havana Syndrome, illness linked to Russia in U.S. officials**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/01/francis-scott-key-baltimore-bridge-collapse-updates/73164312007/).
+You can read more about it [here](https://www.axios.com/2024/04/01/havana-syndrome-russia-attacks-us-officials).
 
 ## Requirements
 - Python 3.8
