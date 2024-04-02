@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft 2024: Regrading every first-round QB pick of the last 15 years, from Justin Fields to Mark Sanchez**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-draft-2024-regrading-each-first-round-qb-pick-in-the-last-15-years-from-justin-fields-to-mark-sanchez/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
