@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Easter brunch shooting leaves 1 dead and several injured in Nashville; gunman at large**
+**NFL Draft 2024: Regrading every first-round QB pick of the last 15 years, from Justin Fields to Mark Sanchez**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/easter-brunch-shooting-leaves-1-dead-several-injured-nashville-gunman-rcna145847).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-draft-2024-regrading-each-first-round-qb-pick-in-the-last-15-years-from-justin-fields-to-mark-sanchez/).
 
 ## Requirements
 - Python 3.8
