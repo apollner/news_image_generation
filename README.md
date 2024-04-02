@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 50 million under severe weather threat from Texas to Virginia, with possible tornadoes and damaging wind gusts**
+**20 years of Gmail**
 
-You can read more about it [here](https://www.cnn.com/2024/04/01/weather/severe-weather-threat-us-monday/index.html).
+You can read more about it [here](https://www.theverge.com/24113616/gmail-email-20-years-old-internet).
 
 ## Requirements
 - Python 3.8
