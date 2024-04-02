@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is Havana Syndrome, illness linked to Russia in U.S. officials**
+**Easter brunch shooting leaves 1 dead and several injured in Nashville; gunman at large**
 
-You can read more about it [here](https://www.axios.com/2024/04/01/havana-syndrome-russia-attacks-us-officials).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/easter-brunch-shooting-leaves-1-dead-several-injured-nashville-gunman-rcna145847).
 
 ## Requirements
 - Python 3.8
