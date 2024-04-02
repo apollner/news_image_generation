@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cannabis partially decriminalised in Germany**
+**Storm threatens eclipse-viewing conditions in D-FW area, NWS says**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68674813).
+You can read more about it [here](https://www.dallasnews.com/news/weather/2024/03/31/eclipse-forecast-dallas-april-8-storms/).
 
 ## Requirements
 - Python 3.8
