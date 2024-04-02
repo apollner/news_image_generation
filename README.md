@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Survey: Nearly 75% of people think tipping is out of control**
+**'Gen V' actor Chance Perdomo dies at 27**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/03/31/survey-people-think-tipping-is-out-of-control/73162230007/).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/chance-perdomo-actor-gen-v-dies-27-108691062).
 
 ## Requirements
 - Python 3.8
