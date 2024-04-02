@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the 'oat-zempic' weight loss trend growing on social media**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Wellness/oat-zempic-weight-loss-trend-growing-social-media/story?id=108709240).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
