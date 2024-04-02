@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis presides at Mass on Easter Sunday**
+**‘Literally changing the length of the day’: Scientist on fluctuations amid climate change**
 
-You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-04/pope-francis-presides-at-easter-sunday-mass.html).
+You can read more about it [here](https://www.cnn.com/videos/us/2024/03/31/earth-lose-leap-second-first-time-nr-mann-intv-vpx.cnn).
 
 ## Requirements
 - Python 3.8
