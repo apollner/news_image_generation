@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA Tournament issues 🤔 + Gamecocks advance to their fourth-straight Final Four | SportsCenter**
+**Cannabis partially decriminalised in Germany**
 
-You can read more about it [here](https://www.youtube.com/watch?v=7cJMTEDSmpg).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68674813).
 
 ## Requirements
 - Python 3.8
