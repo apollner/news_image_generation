@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When is Final Four? Dates, times, TV, teams, bracket in March Madness**
+**Israel: Benjamin Netanyahu protests put political divides back on show**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaab/2024/03/31/mens-final-four-dates-times-location-bracket-teams/73161908007/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68705643).
 
 ## Requirements
 - Python 3.8
