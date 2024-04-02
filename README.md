@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Men's March Madness: Final Four betting odds, lines, spread and BPI**
+**Matt Painter's chess moves and Zach Edey's relentlessness lead Purdue to Final Four**
 
-You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/39849500/march-madness-ncaa-tournament-final-four-championship-betting-lines-spread-odds).
+You can read more about it [here](https://theathletic.com/5382421/2024/03/31/purdue-matt-painter-zach-edey-final-four/).
 
 ## Requirements
 - Python 3.8
