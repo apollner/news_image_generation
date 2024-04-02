@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**20 years of Gmail**
+**LeBron James joins Michael Jordan with another 40-point showing**
 
-You can read more about it [here](https://www.theverge.com/24113616/gmail-email-20-years-old-internet).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39850488/lebron-james-joins-michael-jordan-another-40-point-showing).
 
 ## Requirements
 - Python 3.8
