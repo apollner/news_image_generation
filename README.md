@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Supreme Court abortion, marijuana amendment rulings likely Monday**
+**Utah health department urges measles vaccinations as 17 states report cases**
 
-You can read more about it [here](https://www.cbsnews.com/miami/news/florida-supreme-court-abortion-marijuana-rulings-likely-monday/).
+You can read more about it [here](https://www.ksl.com/article/50967365/utah-health-department-urges-measles-vaccinations-as-17-states-report-cases).
 
 ## Requirements
 - Python 3.8
