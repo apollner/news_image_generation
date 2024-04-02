@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AT&T data breach: How to know if you were affected**
+**‘Literally changing the length of the day’: Scientist on fluctuations amid climate change**
 
-You can read more about it [here](https://apnews.com/article/att-data-breach-was-i-affected-f0dda2b1d266a6068ffc607afd94b779).
+You can read more about it [here](https://www.cnn.com/videos/us/2024/03/31/earth-lose-leap-second-first-time-nr-mann-intv-vpx.cnn).
 
 ## Requirements
 - Python 3.8
