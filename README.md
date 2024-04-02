@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Former NFL cornerback Vontae Davis found dead at age 35**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39853679/ex-nfl-cb-vontae-davis-found-dead-age-35).
 
 ## Requirements
 - Python 3.8
