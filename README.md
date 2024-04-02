@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Painter's chess moves and Zach Edey's relentlessness lead Purdue to Final Four**
+**Pope Francis presides at Mass on Easter Sunday**
 
-You can read more about it [here](https://theathletic.com/5382421/2024/03/31/purdue-matt-painter-zach-edey-final-four/).
+You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-04/pope-francis-presides-at-easter-sunday-mass.html).
 
 ## Requirements
 - Python 3.8
