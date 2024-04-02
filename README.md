@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnson sounds out key Republicans with speakership and Ukraine aid on line**
+**1 dead, 4 wounded in shooting at Nashville restaurant during packed Easter brunch service**
 
-You can read more about it [here](https://www.cnn.com/2024/03/31/politics/mike-johnson-motion-to-vacate-ukraine-funding/index.html).
+You can read more about it [here](https://nypost.com/2024/03/31/us-news/1-dead-4-wounded-in-shooting-at-nashville-restaurant-during-packed-easter-brunch-service/).
 
 ## Requirements
 - Python 3.8
