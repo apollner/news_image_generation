@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AT&T data breach: How to know if you were affected**
+**Plane which took off from Colorado airport crashes in California, 2 dead**
 
-You can read more about it [here](https://apnews.com/article/att-data-breach-was-i-affected-f0dda2b1d266a6068ffc607afd94b779).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/plane-colorado-centennial-airport-crash-california-2-dead/).
 
 ## Requirements
 - Python 3.8
