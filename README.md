@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli troops exit Gaza's Shifa Hospital, leaving rubble and bodies**
+**What to know about the 'oat-zempic' weight loss trend growing on social media**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-troops-leave-gazas-al-shifa-hospital-after-two-week-sweep-2024-04-01/).
+You can read more about it [here](https://abcnews.go.com/GMA/Wellness/oat-zempic-weight-loss-trend-growing-social-media/story?id=108709240).
 
 ## Requirements
 - Python 3.8
