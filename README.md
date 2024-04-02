@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Looking for the best places to see the April 8 solar eclipse in the totality path? You may have to dodge clouds.**
+**Crews scramble to build temporary channel after Key bridge collapse**
 
-You can read more about it [here](https://www.cbsnews.com/news/best-places-to-see-total-solar-eclipse-april-8-2024/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/01/francis-scott-key-baltimore-bridge-collapse-updates/73164312007/).
 
 ## Requirements
 - Python 3.8
