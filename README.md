@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, 5 wounded in shooting at Easter brunch in Nashville restaurant**
+**Ukrainian Village Scarred by Murder of Mayor and Her Family Prepares for Long War**
 
-You can read more about it [here](https://www.cbsnews.com/news/nashville-shooting-easter-brunch/).
+You can read more about it [here](https://www.wsj.com/world/europe/ukrainian-village-scarred-by-murder-of-mayor-and-her-family-prepares-for-long-war-a3ebd750).
 
 ## Requirements
 - Python 3.8
