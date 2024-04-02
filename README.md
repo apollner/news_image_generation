@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Gen V' actor Chance Perdomo dies at 27**
+**Men's March Madness: Final Four betting odds, lines, spread and BPI**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/chance-perdomo-actor-gen-v-dies-27-108691062).
+You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/39849500/march-madness-ncaa-tournament-final-four-championship-betting-lines-spread-odds).
 
 ## Requirements
 - Python 3.8
