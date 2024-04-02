@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron James joins Michael Jordan with another 40-point showing**
+**One dead, 5 wounded in shooting at Easter brunch in Nashville restaurant**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39850488/lebron-james-joins-michael-jordan-another-40-point-showing).
+You can read more about it [here](https://www.cbsnews.com/news/nashville-shooting-easter-brunch/).
 
 ## Requirements
 - Python 3.8
