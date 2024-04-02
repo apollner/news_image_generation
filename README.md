@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 dead, 4 wounded in shooting at Nashville restaurant during packed Easter brunch service**
+**When is Final Four? Dates, times, TV, teams, bracket in March Madness**
 
-You can read more about it [here](https://nypost.com/2024/03/31/us-news/1-dead-4-wounded-in-shooting-at-nashville-restaurant-during-packed-easter-brunch-service/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaab/2024/03/31/mens-final-four-dates-times-location-bracket-teams/73161908007/).
 
 ## Requirements
 - Python 3.8
