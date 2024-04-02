@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane which took off from Colorado airport crashes in California, 2 dead**
+**Johnson sounds out key Republicans with speakership and Ukraine aid on line**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/plane-colorado-centennial-airport-crash-california-2-dead/).
+You can read more about it [here](https://www.cnn.com/2024/03/31/politics/mike-johnson-motion-to-vacate-ukraine-funding/index.html).
 
 ## Requirements
 - Python 3.8
