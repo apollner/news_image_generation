@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel: Benjamin Netanyahu protests put political divides back on show**
+**Pope Francis presides at Mass on Easter Sunday**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68705643).
+You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-04/pope-francis-presides-at-easter-sunday-mass.html).
 
 ## Requirements
 - Python 3.8
