@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**OpenAI makes ChatGPT accessible without requiring sign-ups**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/openai-makes-chatgpts-accessible-without-171737585.html).
 
 ## Requirements
 - Python 3.8
