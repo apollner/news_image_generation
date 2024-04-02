@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump testing gag order in hush-money case could land him in jail: experts**
+**Gold Hits Record on Fed Cut Outlook and Geopolitical Tension**
 
-You can read more about it [here](https://www.businessinsider.com/trump-contempt-gag-order-hush-money-could-end-jail-time-2024-3).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-01/gold-xauusd-hits-record-on-fed-cut-outlook-and-geopolitical-tension).
 
 ## Requirements
 - Python 3.8
