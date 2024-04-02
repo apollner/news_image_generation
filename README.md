@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI makes ChatGPT accessible without requiring sign-ups**
+**California's $20 minimum wage for fast-food workers goes into effect**
 
-You can read more about it [here](https://finance.yahoo.com/news/openai-makes-chatgpts-accessible-without-171737585.html).
+You can read more about it [here](https://www.foxbusiness.com/economy/california-20-minimum-wage-fast-food-wokers-goes-effect).
 
 ## Requirements
 - Python 3.8
