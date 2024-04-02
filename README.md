@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former NFL cornerback Vontae Davis found dead at age 35**
+**Florida Supreme Court abortion, marijuana amendment rulings likely Monday**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39853679/ex-nfl-cb-vontae-davis-found-dead-age-35).
+You can read more about it [here](https://www.cbsnews.com/miami/news/florida-supreme-court-abortion-marijuana-rulings-likely-monday/).
 
 ## Requirements
 - Python 3.8
