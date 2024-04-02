@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm threatens eclipse-viewing conditions in D-FW area, NWS says**
+**Survey: Nearly 75% of people think tipping is out of control**
 
-You can read more about it [here](https://www.dallasnews.com/news/weather/2024/03/31/eclipse-forecast-dallas-april-8-storms/).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/03/31/survey-people-think-tipping-is-out-of-control/73162230007/).
 
 ## Requirements
 - Python 3.8
