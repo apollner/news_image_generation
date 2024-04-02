@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tori Spelling Reveals Dean McDermott's Comment That Ultimately Led Her to File For Divorce**
+**Looking for the best places to see the April 8 solar eclipse in the totality path? You may have to dodge clouds.**
 
-You can read more about it [here](https://www.etonline.com/tori-spelling-reveals-dean-mcdermotts-comment-that-ultimately-led-her-to-file-for-divorce-222619).
+You can read more about it [here](https://www.cbsnews.com/news/best-places-to-see-total-solar-eclipse-april-8-2024/).
 
 ## Requirements
 - Python 3.8
