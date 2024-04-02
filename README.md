@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu has hit U.S. dairy cattle for the first time. Here's what it means for milk supply.**
+**More than 50 million under severe weather threat from Texas to Virginia, with possible tornadoes and damaging wind gusts**
 
-You can read more about it [here](https://www.cbsnews.com/news/bird-flu-hits-us-dairy-cattle-first-time-what-it-means-for-milk-supply/).
+You can read more about it [here](https://www.cnn.com/2024/04/01/weather/severe-weather-threat-us-monday/index.html).
 
 ## Requirements
 - Python 3.8
