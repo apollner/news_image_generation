@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian Village Scarred by Murder of Mayor and Her Family Prepares for Long War**
+**Tori Spelling Reveals Dean McDermott's Comment That Ultimately Led Her to File For Divorce**
 
-You can read more about it [here](https://www.wsj.com/world/europe/ukrainian-village-scarred-by-murder-of-mayor-and-her-family-prepares-for-long-war-a3ebd750).
+You can read more about it [here](https://www.etonline.com/tori-spelling-reveals-dean-mcdermotts-comment-that-ultimately-led-her-to-file-for-divorce-222619).
 
 ## Requirements
 - Python 3.8
