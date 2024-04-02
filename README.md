@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**6+ inches of snow is predicted in Mass. this week; here's where**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.masslive.com/weather/2024/04/mass-weather-6-inches-of-snow-predicted-this-week-heres-where.html).
 
 ## Requirements
 - Python 3.8
