@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Literally changing the length of the day’: Scientist on fluctuations amid climate change**
+**Storm threatens eclipse-viewing conditions in D-FW area, NWS says**
 
-You can read more about it [here](https://www.cnn.com/videos/us/2024/03/31/earth-lose-leap-second-first-time-nr-mann-intv-vpx.cnn).
+You can read more about it [here](https://www.dallasnews.com/news/weather/2024/03/31/eclipse-forecast-dallas-april-8-storms/).
 
 ## Requirements
 - Python 3.8
