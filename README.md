@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis presides at Mass on Easter Sunday**
+**AT&T data breach: How to know if you were affected**
 
-You can read more about it [here](https://www.vaticannews.va/en/pope/news/2024-04/pope-francis-presides-at-easter-sunday-mass.html).
+You can read more about it [here](https://apnews.com/article/att-data-breach-was-i-affected-f0dda2b1d266a6068ffc607afd94b779).
 
 ## Requirements
 - Python 3.8
