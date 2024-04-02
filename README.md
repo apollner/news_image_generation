@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gold Hits Record on Fed Cut Outlook and Geopolitical Tension**
+**6+ inches of snow is predicted in Mass. this week; here's where**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-01/gold-xauusd-hits-record-on-fed-cut-outlook-and-geopolitical-tension).
+You can read more about it [here](https://www.masslive.com/weather/2024/04/mass-weather-6-inches-of-snow-predicted-this-week-heres-where.html).
 
 ## Requirements
 - Python 3.8
