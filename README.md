@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran says Israel bombs its embassy in Syria, kills commanders**
+**Al Jazeera condemns new Israeli law, rejects Netanyahu’s ‘lies’**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-bombs-iran-embassy-syria-iranian-commanders-among-dead-2024-04-01/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/2/al-jazeera-condemns-new-israeli-law-rejects-netanyahus-lies).
 
 ## Requirements
 - Python 3.8
