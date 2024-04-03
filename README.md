@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel accused of killing Iranian generals in Syria**
+**Trump's social media platform says it's above 'traditional key performance indicators.' Its auditor has substantial doubt it can continue as a going concern**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68708923).
+You can read more about it [here](https://fortune.com/2024/04/01/trumps-social-media-key-performance-indicators/).
 
 ## Requirements
 - Python 3.8
