@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Oregon recriminalizes drug possession 3 years after decriminalization**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/02/oregon-recriminalizing-drugs-bill/73175561007/).
 
 ## Requirements
 - Python 3.8
