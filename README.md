@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storms cause damage across Ohio, Kentucky, Tennessee; millions still face severe weather warnings**
+**J.K. Rowling will not be arrested for comments about transgender women, police say**
 
-You can read more about it [here](https://www.cbsnews.com/news/storms-tornadoes-warnings-ohio-kentucky-tennessee-indiana-national-weather-service/).
+You can read more about it [here](https://www.nbcnews.com/nbc-out/out-news/jk-rowling-will-not-arrested-comments-transgender-women-police-say-rcna146065).
 
 ## Requirements
 - Python 3.8
