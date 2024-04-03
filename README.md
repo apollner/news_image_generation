@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu in humans, explained**
+**Ukrainian drone hits Russia's third-biggest refinery, damage not critical**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/04/02/bird-flu-avian-influenza-explained/).
+You can read more about it [here](https://www.reuters.com/world/europe/several-people-injured-drone-attack-industrial-sites-russias-tatarstan-agencies-2024-04-02/).
 
 ## Requirements
 - Python 3.8
