@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian drone hits Russia's third-biggest refinery, damage not critical**
+**Taylor Swift is officially part of the Forbes annual billionaires list**
 
-You can read more about it [here](https://www.reuters.com/world/europe/several-people-injured-drone-attack-industrial-sites-russias-tatarstan-agencies-2024-04-02/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swift-officially-part-forbes-annual-billionaires-list).
 
 ## Requirements
 - Python 3.8
