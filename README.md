@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI drops login requirements for ChatGPT's free version**
+**RFK Jr. argues that Biden is a bigger threat to democracy than Trump**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2024/04/openai-drops-login-requirements-for-chatgpts-free-version/).
+You can read more about it [here](https://www.cnn.com/2024/04/01/politics/rfk-jr-cnntv-interview/index.html).
 
 ## Requirements
 - Python 3.8
