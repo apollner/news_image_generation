@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. argues that Biden is a bigger threat to democracy than Trump**
+**Iran says Israel bombs its embassy in Syria, kills commanders**
 
-You can read more about it [here](https://www.cnn.com/2024/04/01/politics/rfk-jr-cnntv-interview/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-bombs-iran-embassy-syria-iranian-commanders-among-dead-2024-04-01/).
 
 ## Requirements
 - Python 3.8
