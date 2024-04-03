@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran accuses Israel of killing Iranian military commanders and others in airstrike on consulate in Syria**
+**5 graphics explain what you should know about severe storm threat**
 
-You can read more about it [here](https://www.cnn.com/2024/04/01/middleeast/iran-syrian-consulate-attack-intl/index.html).
+You can read more about it [here](https://www.wlwt.com/article/severe-threat-cincinnati-tornadoes-moderate-risk-tuesday/60361250).
 
 ## Requirements
 - Python 3.8
