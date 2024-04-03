@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Truth Social: Trump's DJT stock plummets days after going public**
+**'Havana Syndrome' linked to Russian spy unit, '60 Minutes' report says**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68708648).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/04/01/havana-syndrome-brain-injury-attacks-russia/73169833007/).
 
 ## Requirements
 - Python 3.8
