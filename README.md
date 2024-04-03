@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utah health department urges measles vaccinations as 17 states report cases**
+**Markets News, April 1, 2024: Tech Spared Stock Pullback; Treasury Yields Jump After PCE**
 
-You can read more about it [here](https://www.ksl.com/article/50967365/utah-health-department-urges-measles-vaccinations-as-17-states-report-cases).
+You can read more about it [here](https://www.investopedia.com/dow-jones-today-04012024-8622836).
 
 ## Requirements
 - Python 3.8
