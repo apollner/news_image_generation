@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump doubles down on 'bloodbath' warning as he criticizes Joe Biden's handling of the border**
+**Storms cause damage across Ohio, Kentucky, Tennessee; millions still face severe weather warnings**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/04/02/trump-bloodbath-biden/73105362007/).
+You can read more about it [here](https://www.cbsnews.com/news/storms-tornadoes-warnings-ohio-kentucky-tennessee-indiana-national-weather-service/).
 
 ## Requirements
 - Python 3.8
