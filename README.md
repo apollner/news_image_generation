@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Finland school shooting: 12-year-old suspect held after one child is killed, two are wounded**
+**Emotional Angel Reese says she has been ‘attacked so many times’ and threatened since winning NCAA title in 2023**
 
-You can read more about it [here](https://www.reuters.com/world/europe/shooting-incident-finnish-school-police-say-2024-04-02/).
+You can read more about it [here](https://www.cnn.com/2024/04/02/sport/angel-reese-lsu-ncaa-basketball-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
