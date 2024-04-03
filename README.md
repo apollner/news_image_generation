@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu calls killing of aid workers in airstrike unintended and tragic**
+**Iran vows revenge as it accuses Israel of deadly airstrike on Syria consulate in deepening Middle East crisis**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-airstrike-gaza-kills-foreign-aid-workers-hamas-run-media-office-says-2024-04-01/).
+You can read more about it [here](https://www.cnn.com/2024/04/02/middleeast/iran-response-israel-damascus-consulate-attack-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
