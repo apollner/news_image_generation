@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Valerie Bertinelli had to work through 'trauma and drama' before she could fall in love again**
+**Truth Social: Trump's DJT stock plummets days after going public**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/valerie-bertinelli-work-through-trauma-drama-fall-love-again).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68708648).
 
 ## Requirements
 - Python 3.8
