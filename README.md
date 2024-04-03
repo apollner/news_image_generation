@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google to Delete Chrome Incognito Browsing Data to Settle Lawsuit**
+**US Government Debt Risk: A Million Simulations Show Danger Ahead**
 
-You can read more about it [here](https://www.macrumors.com/2024/04/01/google-delete-chrome-incognito-data/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-01/us-government-debt-risk-a-million-simulations-show-danger-ahead).
 
 ## Requirements
 - Python 3.8
