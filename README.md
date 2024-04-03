@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emotional Angel Reese says she has been ‘attacked so many times’ and threatened since winning NCAA title in 2023**
+**JK Rowling hate law posts not criminal, police say**
 
-You can read more about it [here](https://www.cnn.com/2024/04/02/sport/angel-reese-lsu-ncaa-basketball-spt-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/uk-scotland-68712471).
 
 ## Requirements
 - Python 3.8
