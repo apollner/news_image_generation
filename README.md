@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Job Openings and Labor Turnover – February 2024**
+**Netanyahu calls killing of aid workers in airstrike unintended and tragic**
 
-You can read more about it [here](https://www.forexfactory.com/news/1276444-job-openings-and-labor-turnover-february-2024).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-airstrike-gaza-kills-foreign-aid-workers-hamas-run-media-office-says-2024-04-01/).
 
 ## Requirements
 - Python 3.8
