@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. calls Biden a greater threat to democracy than Trump**
+**Trump’s gag order in hush money case expanded to include judge’s family**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/rfk-jr-calls-biden-greater-threat-democracy-trump-rcna145961).
+You can read more about it [here](https://thehill.com/homenews/4568757-trumps-gag-order-in-hush-money-case-expanded-to-include-judges-family/).
 
 ## Requirements
 - Python 3.8
