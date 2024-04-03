@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Havana Syndrome' linked to Russian spy unit, '60 Minutes' report says**
+**Google to Delete Chrome Incognito Browsing Data to Settle Lawsuit**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/04/01/havana-syndrome-brain-injury-attacks-russia/73169833007/).
+You can read more about it [here](https://www.macrumors.com/2024/04/01/google-delete-chrome-incognito-data/).
 
 ## Requirements
 - Python 3.8
