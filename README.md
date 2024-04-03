@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Markets News, April 1, 2024: Tech Spared Stock Pullback; Treasury Yields Jump After PCE**
+**Biden visit to bridge collapse announced as channel opens to Baltimore port**
 
-You can read more about it [here](https://www.investopedia.com/dow-jones-today-04012024-8622836).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/04/01/baltimore-bridge-collapse-port-channel-opens/).
 
 ## Requirements
 - Python 3.8
