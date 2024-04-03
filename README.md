@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge won’t dismiss Hunter Biden’s tax charges, paving way for June trial**
+**Netanyahu to shutter Israeli Al Jazeera bureau after government passes new law**
 
-You can read more about it [here](https://www.cnn.com/2024/04/01/politics/hunter-biden-tax-charges-trial/index.html).
+You can read more about it [here](https://www.axios.com/2024/04/01/al-jazeera-shuttered-israel-netanyahu).
 
 ## Requirements
 - Python 3.8
