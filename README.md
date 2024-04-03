@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift is officially part of the Forbes annual billionaires list**
+**Donald Trump doubles down on 'bloodbath' warning as he criticizes Joe Biden's handling of the border**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/taylor-swift-officially-part-forbes-annual-billionaires-list).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/04/02/trump-bloodbath-biden/73105362007/).
 
 ## Requirements
 - Python 3.8
