@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angie Harmon Says She Is “Completely Traumatized” After Instacart Deliveryman Shot and Killed Her Dog**
+**Finland school shooting: 12-year-old suspect held after one child is killed, two are wounded**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/angie-harmon-instacart-deliveryman-shot-killed-dog-1235864630/).
+You can read more about it [here](https://www.reuters.com/world/europe/shooting-incident-finnish-school-police-say-2024-04-02/).
 
 ## Requirements
 - Python 3.8
