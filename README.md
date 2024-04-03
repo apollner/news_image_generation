@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu to shutter Israeli Al Jazeera bureau after government passes new law**
+**Israel accused of killing Iranian generals in Syria**
 
-You can read more about it [here](https://www.axios.com/2024/04/01/al-jazeera-shuttered-israel-netanyahu).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68708923).
 
 ## Requirements
 - Python 3.8
