@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden visit to bridge collapse announced as channel opens to Baltimore port**
+**Oregon re-criminalizes small amounts of hard drugs after 2020 voter initiative is overturned**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/04/01/baltimore-bridge-collapse-port-channel-opens/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/oregon-re-criminalizes-drugs-rcna142298).
 
 ## Requirements
 - Python 3.8
