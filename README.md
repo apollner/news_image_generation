@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 graphics explain what you should know about severe storm threat**
+**Federal judge won’t dismiss Hunter Biden’s tax charges, paving way for June trial**
 
-You can read more about it [here](https://www.wlwt.com/article/severe-threat-cincinnati-tornadoes-moderate-risk-tuesday/60361250).
+You can read more about it [here](https://www.cnn.com/2024/04/01/politics/hunter-biden-tax-charges-trial/index.html).
 
 ## Requirements
 - Python 3.8
