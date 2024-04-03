@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's social media platform says it's above 'traditional key performance indicators.' Its auditor has substantial doubt it can continue as a going concern**
+**RFK Jr. calls Biden a greater threat to democracy than Trump**
 
-You can read more about it [here](https://fortune.com/2024/04/01/trumps-social-media-key-performance-indicators/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/rfk-jr-calls-biden-greater-threat-democracy-trump-rcna145961).
 
 ## Requirements
 - Python 3.8
