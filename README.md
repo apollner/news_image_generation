@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s gag order in hush money case expanded to include judge’s family**
+**Republican Speaker Johnson makes fresh push for Ukraine aid**
 
-You can read more about it [here](https://thehill.com/homenews/4568757-trumps-gag-order-in-hush-money-case-expanded-to-include-judges-family/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68710298).
 
 ## Requirements
 - Python 3.8
