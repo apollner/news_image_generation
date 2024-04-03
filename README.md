@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot rises to $1.09 billion after no players win grand prize**
+**RFK Jr. argues that Biden is a bigger threat to democracy than Trump**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/powerball-jackpot-rises-1-09-billion-after-no-players-win-grand-prize).
+You can read more about it [here](https://www.cnn.com/2024/04/01/politics/rfk-jr-cnntv-interview/index.html).
 
 ## Requirements
 - Python 3.8
