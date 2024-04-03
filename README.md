@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican Speaker Johnson makes fresh push for Ukraine aid**
+**Kate Middleton's cancer video was rushed by Kensington Palace after her diagnosis leaked: report**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68710298).
+You can read more about it [here](https://pagesix.com/2024/04/01/royal-family/kate-middletons-cancer-video-was-rushed-by-kensington-palace-after-her-diagnosis-leaked-report/).
 
 ## Requirements
 - Python 3.8
