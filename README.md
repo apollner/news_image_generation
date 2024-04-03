@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton's cancer video was rushed by Kensington Palace after her diagnosis leaked: report**
+**Powerball jackpot rises to $1.09 billion after no players win grand prize**
 
-You can read more about it [here](https://pagesix.com/2024/04/01/royal-family/kate-middletons-cancer-video-was-rushed-by-kensington-palace-after-her-diagnosis-leaked-report/).
+You can read more about it [here](https://www.foxbusiness.com/economy/powerball-jackpot-rises-1-09-billion-after-no-players-win-grand-prize).
 
 ## Requirements
 - Python 3.8
