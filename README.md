@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Who were the World Central Kitchen workers killed in Gaza?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68711282).
 
 ## Requirements
 - Python 3.8
