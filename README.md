@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Al Jazeera condemns new Israeli law, rejects Netanyahu’s ‘lies’**
+**Job Openings and Labor Turnover – February 2024**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/2/al-jazeera-condemns-new-israeli-law-rejects-netanyahus-lies).
+You can read more about it [here](https://www.forexfactory.com/news/1276444-job-openings-and-labor-turnover-february-2024).
 
 ## Requirements
 - Python 3.8
