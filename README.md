@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who were the World Central Kitchen workers killed in Gaza?**
+**Angie Harmon Says She Is “Completely Traumatized” After Instacart Deliveryman Shot and Killed Her Dog**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68711282).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/angie-harmon-instacart-deliveryman-shot-killed-dog-1235864630/).
 
 ## Requirements
 - Python 3.8
