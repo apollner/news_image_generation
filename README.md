@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JK Rowling hate law posts not criminal, police say**
+**Bird flu in humans, explained**
 
-You can read more about it [here](https://www.bbc.com/news/uk-scotland-68712471).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/04/02/bird-flu-avian-influenza-explained/).
 
 ## Requirements
 - Python 3.8
