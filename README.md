@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon re-criminalizes small amounts of hard drugs after 2020 voter initiative is overturned**
+**Valerie Bertinelli had to work through 'trauma and drama' before she could fall in love again**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/oregon-re-criminalizes-drugs-rcna142298).
+You can read more about it [here](https://www.foxnews.com/entertainment/valerie-bertinelli-work-through-trauma-drama-fall-love-again).
 
 ## Requirements
 - Python 3.8
