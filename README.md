@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine Packed A Cessna-Style Plane With Explosives, Added Remote Controls And Kamikaze'd It Into A Russian Drone Factory 600 Miles Away**
+**Deadly severe weather roars through several states, spawning potential tornadoes**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/04/02/ukraine-packed-a-cessna-style-plane-with-explosives-added-remote-controls-and-kamikazed-it-into-a-russian-drone-factory-600-miles-away/).
+You can read more about it [here](https://apnews.com/article/ohio-scioto-rover-firefighters-rescue-severe-weather-bdf7efba67dfd9784f1d39e06ca1a81d).
 
 ## Requirements
 - Python 3.8
