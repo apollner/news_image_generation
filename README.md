@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows California deputies fatally shooting abducted teen as she surrenders**
+**Rashee Rice was leasing Lamborghini involved in Dallas crash**
 
-You can read more about it [here](https://apnews.com/article/california-manhunt-shootout-san-bernardino-237071a4ff1e18610864b3854a415483).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/39862563/chiefs-rashee-rice-was-leasing-lamborghini-involved-dallas-crash-car-company-attorney-says).
 
 ## Requirements
 - Python 3.8
