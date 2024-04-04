@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How one volunteer stopped a backdoor from exposing Linux systems worldwide**
+**Origin Of Fireballs That Blazed Across Los Angeles Sky Identified By Experts**
 
-You can read more about it [here](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt).
+You can read more about it [here](http://deadline.com/2024/04/fireballs-los-angeles-sky-identitfied-1235874489/).
 
 ## Requirements
 - Python 3.8
