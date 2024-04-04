@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan's strongest earthquake in 25 years kills 9 people, 50 missing**
+**Kansas City ballot measure for new Royals stadium, Chiefs renovations fails hard at polls**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/).
+You can read more about it [here](https://sports.yahoo.com/kansas-city-ballot-measure-for-new-royals-stadium-chiefs-renovations-fails-hard-at-polls-033844321.html).
 
 ## Requirements
 - Python 3.8
