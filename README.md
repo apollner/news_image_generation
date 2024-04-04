@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surging bond yields don't change the narrative for stocks**
+**Bird flu in Texas: Largest US egg producer temporarily shutters facility after H5N1 virus found in chickens**
 
-You can read more about it [here](https://finance.yahoo.com/news/surging-bond-yields-dont-change-the-narrative-for-stocks-100037430.html).
+You can read more about it [here](https://www.foxbusiness.com/economy/bird-flu-texas-largest-us-egg-producer-temporarily-shutters-facility-h5n1-virus-found-chickens).
 
 ## Requirements
 - Python 3.8
