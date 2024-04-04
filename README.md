@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norwegian Cruise says stranded American passengers were over hour late to ship, given passports: report**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/us/norwegian-cruise-says-stranded-american-passengers-were-over-hour-late-ship-given-passports-report).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
