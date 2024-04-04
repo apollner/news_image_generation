@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly severe weather roars through several states, spawning potential tornadoes**
+**Trump's lawyers push for recusal of Judge Juan Merchan in hush money case**
 
-You can read more about it [here](https://apnews.com/article/ohio-scioto-rover-firefighters-rescue-severe-weather-bdf7efba67dfd9784f1d39e06ca1a81d).
+You can read more about it [here](https://abcnews.go.com/US/trumps-lawyers-push-recusal-judge-juan-merchan-hush/story?id=108748916).
 
 ## Requirements
 - Python 3.8
