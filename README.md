@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Famed Tropicana Las Vegas resort closing to make room for new baseball stadium**
+**Surging bond yields don't change the narrative for stocks**
 
-You can read more about it [here](https://www.foxnews.com/us/famed-tropicana-las-vegas-resort-closing-make-room-new-baseball-stadium).
+You can read more about it [here](https://finance.yahoo.com/news/surging-bond-yields-dont-change-the-narrative-for-stocks-100037430.html).
 
 ## Requirements
 - Python 3.8
