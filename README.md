@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trapped vessels navigate Port of Baltimore after bridge collapse**
+**Ukraine Packed A Cessna-Style Plane With Explosives, Added Remote Controls And Kamikaze'd It Into A Russian Drone Factory 600 Miles Away**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/trapped-vessels-navigate-port-of-baltimore-after-bridge-collapse).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/04/02/ukraine-packed-a-cessna-style-plane-with-explosives-added-remote-controls-and-kamikazed-it-into-a-russian-drone-factory-600-miles-away/).
 
 ## Requirements
 - Python 3.8
