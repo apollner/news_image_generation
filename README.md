@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rashee Rice was leasing Lamborghini involved in Dallas crash**
+**Trapped vessels navigate Port of Baltimore after bridge collapse**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39862563/chiefs-rashee-rice-was-leasing-lamborghini-involved-dallas-crash-car-company-attorney-says).
+You can read more about it [here](https://www.foxbusiness.com/economy/trapped-vessels-navigate-port-of-baltimore-after-bridge-collapse).
 
 ## Requirements
 - Python 3.8
