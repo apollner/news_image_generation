@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian drone hits Russia's third-biggest refinery, damage not critical**
+**JK Rowling hate law posts not criminal, police say**
 
-You can read more about it [here](https://www.reuters.com/world/europe/several-people-injured-drone-attack-industrial-sites-russias-tatarstan-agencies-2024-04-02/).
+You can read more about it [here](https://www.bbc.com/news/uk-scotland-68712471).
 
 ## Requirements
 - Python 3.8
