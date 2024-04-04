@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly severe weather roars through several states, spawning potential tornadoes**
+**Tehran vows response after strike blamed on Israel destroyed Iran's Consulate in Syria and killed 12**
 
-You can read more about it [here](https://apnews.com/article/ohio-scioto-rover-firefighters-rescue-severe-weather-bdf7efba67dfd9784f1d39e06ca1a81d).
+You can read more about it [here](https://apnews.com/article/iran-syria-israel-hezbollah-gaza-damascus-f7a1af3a9fc67de1962d4f1589d7e9f0).
 
 ## Requirements
 - Python 3.8
