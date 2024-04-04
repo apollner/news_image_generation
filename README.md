@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti violence: More than 53,000 flee capital to escape surging gang violence**
+**Ukraine lowers combat call-up age to boost numbers**
 
-You can read more about it [here](https://apnews.com/article/haiti-migration-violence-gangs-9283c96bc990827e6c020f6c59710be6).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68719473).
 
 ## Requirements
 - Python 3.8
