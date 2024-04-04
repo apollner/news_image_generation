@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu in Texas: Largest US egg producer temporarily shutters facility after H5N1 virus found in chickens**
+**Haiti violence: More than 53,000 flee capital to escape surging gang violence**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/bird-flu-texas-largest-us-egg-producer-temporarily-shutters-facility-h5n1-virus-found-chickens).
+You can read more about it [here](https://apnews.com/article/haiti-migration-violence-gangs-9283c96bc990827e6c020f6c59710be6).
 
 ## Requirements
 - Python 3.8
