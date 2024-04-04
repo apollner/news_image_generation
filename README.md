@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your Google Pixel is getting the April 2024 update, here's what's new**
+**[Removed]**
 
-You can read more about it [here](https://www.androidcentral.com/apps-software/google-pixel-april-2024-update).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
