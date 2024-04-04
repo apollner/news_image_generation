@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine Packed A Cessna-Style Plane With Explosives, Added Remote Controls And Kamikaze'd It Into A Russian Drone Factory 600 Miles Away**
+**How one volunteer stopped a backdoor from exposing Linux systems worldwide**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/04/02/ukraine-packed-a-cessna-style-plane-with-explosives-added-remote-controls-and-kamikazed-it-into-a-russian-drone-factory-600-miles-away/).
+You can read more about it [here](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt).
 
 ## Requirements
 - Python 3.8
