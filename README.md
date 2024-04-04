@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Origin Of Fireballs That Blazed Across Los Angeles Sky Identified By Experts**
+**Exploding space junk puzzles California sky watchers**
 
-You can read more about it [here](http://deadline.com/2024/04/fireballs-los-angeles-sky-identitfied-1235874489/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68719850).
 
 ## Requirements
 - Python 3.8
