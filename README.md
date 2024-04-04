@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LIVE RADAR: Track the nor'easter hitting Boston, bringing snow to some**
+**Why scientists are chasing the eclipse with sounding rockets and high-altitude planes**
 
-You can read more about it [here](http://www.nbcboston.com/weather/storm-boston-weather-radar/3327342/).
+You can read more about it [here](https://www.cnn.com/2024/04/03/world/total-eclipse-science-research-scn/index.html).
 
 ## Requirements
 - Python 3.8
