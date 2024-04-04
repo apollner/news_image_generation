@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu in Texas: Largest US egg producer temporarily shutters facility after H5N1 virus found in chickens**
+**Caitlin Clark vs. LSU delivers bigger audience than Thursday Night Football's 2023 weekly average**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/bird-flu-texas-largest-us-egg-producer-temporarily-shutters-facility-h5n1-virus-found-chickens).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caitlin-clark-vs-lsu-delivers-bigger-audience-than-thursday-night-footballs-2023-weekly-average).
 
 ## Requirements
 - Python 3.8
