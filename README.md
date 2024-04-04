@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine lowers its conscription age to 25 to plug a shortfall in troop numbers fighting Russia**
+**Botswana threatens to send 20,000 elephants to "roam free" in Germany in public dispute over trophy hunting**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-conscription-mobilization-251058a942a253f3eaec2c53373adf03).
+You can read more about it [here](https://www.cbsnews.com/news/botswana-germany-20000-elephants-trophy-hunting-row/).
 
 ## Requirements
 - Python 3.8
