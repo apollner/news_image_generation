@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**March Madness: Iowa's win over LSU draws 12.3M views to smash record for most-watched NCAAW game**
+**Why April's total solar eclipse will be a historic event in the US**
 
-You can read more about it [here](https://sports.yahoo.com/march-madness-iowas-win-over-lsu-draws-123m-views-to-smash-record-for-most-watched-ncaaw-game-014731830.html).
+You can read more about it [here](https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119).
 
 ## Requirements
 - Python 3.8
