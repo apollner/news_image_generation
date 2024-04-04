@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victor Wembanyama just short of quadruple-double in historic performance against Nuggets**
+**Cloud cover forecast ratchets up anxiety for solar eclipse watchers**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/victor-wembanyama-just-short-of-quadruple-double-in-historic-performance-against-nuggets/).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/04/03/solar-eclipse-cloud-forecast/).
 
 ## Requirements
 - Python 3.8
