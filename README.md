@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Xi speak for first time since November summit amid global tensions**
+**Deadly severe weather roars through several states, spawning potential tornadoes**
 
-You can read more about it [here](https://www.cnn.com/2024/04/02/politics/biden-xi-speak-first-time-november/index.html).
+You can read more about it [here](https://apnews.com/article/ohio-scioto-rover-firefighters-rescue-severe-weather-bdf7efba67dfd9784f1d39e06ca1a81d).
 
 ## Requirements
 - Python 3.8
