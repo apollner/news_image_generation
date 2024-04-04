@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan's strongest earthquake in 25 years kills nine; 50 missing**
+**Famed Tropicana Las Vegas resort closing to make room for new baseball stadium**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/).
+You can read more about it [here](https://www.foxnews.com/us/famed-tropicana-las-vegas-resort-closing-make-room-new-baseball-stadium).
 
 ## Requirements
 - Python 3.8
