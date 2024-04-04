@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine lowers combat call-up age to boost numbers**
+**Bird flu in Texas: Largest US egg producer temporarily shutters facility after H5N1 virus found in chickens**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68719473).
+You can read more about it [here](https://www.foxbusiness.com/economy/bird-flu-texas-largest-us-egg-producer-temporarily-shutters-facility-h5n1-virus-found-chickens).
 
 ## Requirements
 - Python 3.8
