@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire forecast: Nor'easter to bring snow, strong winds**
+**Your Google Pixel is getting the April 2024 update, here's what's new**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-forecast-4324/60380038).
+You can read more about it [here](https://www.androidcentral.com/apps-software/google-pixel-april-2024-update).
 
 ## Requirements
 - Python 3.8
