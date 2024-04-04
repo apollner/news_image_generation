@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why April's total solar eclipse will be a historic event in the US**
+**Victor Wembanyama just short of quadruple-double in historic performance against Nuggets**
 
-You can read more about it [here](https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119).
+You can read more about it [here](https://www.cbssports.com/nba/news/victor-wembanyama-just-short-of-quadruple-double-in-historic-performance-against-nuggets/).
 
 ## Requirements
 - Python 3.8
