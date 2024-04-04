@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark vs. LSU delivers bigger audience than Thursday Night Football's 2023 weekly average**
+**Private sector job growth rises more than expected in March**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caitlin-clark-vs-lsu-delivers-bigger-audience-than-thursday-night-footballs-2023-weekly-average).
+You can read more about it [here](https://www.foxbusiness.com/economy/private-sector-job-growth-rises-more-than-expected-march).
 
 ## Requirements
 - Python 3.8
