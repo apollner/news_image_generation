@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's lawyers push for recusal of Judge Juan Merchan in hush money case**
+**March Madness: Iowa's win over LSU draws 12.3M views to smash record for most-watched NCAAW game**
 
-You can read more about it [here](https://abcnews.go.com/US/trumps-lawyers-push-recusal-judge-juan-merchan-hush/story?id=108748916).
+You can read more about it [here](https://sports.yahoo.com/march-madness-iowas-win-over-lsu-draws-123m-views-to-smash-record-for-most-watched-ncaaw-game-014731830.html).
 
 ## Requirements
 - Python 3.8
