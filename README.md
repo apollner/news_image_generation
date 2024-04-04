@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cloud cover forecast ratchets up anxiety for solar eclipse watchers**
+**Biden rebukes Israel, says he’s ‘outraged’ over killing of Gaza aid workers**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/04/03/solar-eclipse-cloud-forecast/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/3/biden-rebukes-israeli-says-hes-outraged-over-deaths-of-gaza-aid-workers).
 
 ## Requirements
 - Python 3.8
