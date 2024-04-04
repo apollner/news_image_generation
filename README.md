@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JK Rowling hate law posts not criminal, police say**
+**Video shows California deputies fatally shooting abducted teen as she surrenders**
 
-You can read more about it [here](https://www.bbc.com/news/uk-scotland-68712471).
+You can read more about it [here](https://apnews.com/article/california-manhunt-shootout-san-bernardino-237071a4ff1e18610864b3854a415483).
 
 ## Requirements
 - Python 3.8
