@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Taiwan's strongest earthquake in 25 years kills 9 people, 50 missing**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/).
 
 ## Requirements
 - Python 3.8
