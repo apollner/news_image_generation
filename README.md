@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden rebukes Israel, says he’s ‘outraged’ over killing of Gaza aid workers**
+**Taiwan's strongest earthquake in 25 years kills nine; 50 missing**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/3/biden-rebukes-israeli-says-hes-outraged-over-deaths-of-gaza-aid-workers).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/).
 
 ## Requirements
 - Python 3.8
