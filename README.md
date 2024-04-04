@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas City ballot measure for new Royals stadium, Chiefs renovations fails hard at polls**
+**LIVE RADAR: Track the nor'easter hitting Boston, bringing snow to some**
 
-You can read more about it [here](https://sports.yahoo.com/kansas-city-ballot-measure-for-new-royals-stadium-chiefs-renovations-fails-hard-at-polls-033844321.html).
+You can read more about it [here](http://www.nbcboston.com/weather/storm-boston-weather-radar/3327342/).
 
 ## Requirements
 - Python 3.8
