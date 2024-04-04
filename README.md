@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft from ex-NFL GM, 2-time Super Bowl champ: Bills find Stefon Diggs replacement and more**
+**Norwegian Cruise says stranded American passengers were over hour late to ship, given passports: report**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-from-ex-nfl-gm-2-time-super-bowl-champ-bills-find-stefon-diggs-replacement-and-more/).
+You can read more about it [here](https://www.foxnews.com/us/norwegian-cruise-says-stranded-american-passengers-were-over-hour-late-ship-given-passports-report).
 
 ## Requirements
 - Python 3.8
