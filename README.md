@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Botswana threatens to send 20,000 elephants to "roam free" in Germany in public dispute over trophy hunting**
+**2024 NFL Mock Draft from ex-NFL GM, 2-time Super Bowl champ: Bills find Stefon Diggs replacement and more**
 
-You can read more about it [here](https://www.cbsnews.com/news/botswana-germany-20000-elephants-trophy-hunting-row/).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-from-ex-nfl-gm-2-time-super-bowl-champ-bills-find-stefon-diggs-replacement-and-more/).
 
 ## Requirements
 - Python 3.8
