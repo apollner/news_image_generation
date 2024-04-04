@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.K. Rowling will not be arrested for comments about transgender women, police say**
+**Ukrainian drone hits Russia's third-biggest refinery, damage not critical**
 
-You can read more about it [here](https://www.nbcnews.com/nbc-out/out-news/jk-rowling-will-not-arrested-comments-transgender-women-police-say-rcna146065).
+You can read more about it [here](https://www.reuters.com/world/europe/several-people-injured-drone-attack-industrial-sites-russias-tatarstan-agencies-2024-04-02/).
 
 ## Requirements
 - Python 3.8
