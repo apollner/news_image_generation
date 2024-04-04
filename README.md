@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tehran vows response after strike blamed on Israel destroyed Iran's Consulate in Syria and killed 12**
+**Biden and Xi speak for first time since November summit amid global tensions**
 
-You can read more about it [here](https://apnews.com/article/iran-syria-israel-hezbollah-gaza-damascus-f7a1af3a9fc67de1962d4f1589d7e9f0).
+You can read more about it [here](https://www.cnn.com/2024/04/02/politics/biden-xi-speak-first-time-november/index.html).
 
 ## Requirements
 - Python 3.8
