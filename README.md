@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why scientists are chasing the eclipse with sounding rockets and high-altitude planes**
+**Two plead guilty to insider trading related to Trump Media merger**
 
-You can read more about it [here](https://www.cnn.com/2024/04/03/world/total-eclipse-science-research-scn/index.html).
+You can read more about it [here](https://www.reuters.com/business/media-telecom/investor-company-that-took-trump-media-public-pleads-guilty-insider-trading-2024-04-03/).
 
 ## Requirements
 - Python 3.8
