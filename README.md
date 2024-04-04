@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Private sector job growth rises more than expected in March**
+**Ukraine lowers its conscription age to 25 to plug a shortfall in troop numbers fighting Russia**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/private-sector-job-growth-rises-more-than-expected-march).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-conscription-mobilization-251058a942a253f3eaec2c53373adf03).
 
 ## Requirements
 - Python 3.8
