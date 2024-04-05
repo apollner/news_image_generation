@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google looks to AI paywall option - report**
+**“We Were Targeted Deliberately,” José Andrés Says Of IDF Attack That Killed Seven World Central Kitchen Workers In Gaza; Asks For U.S. Government Investigation**
 
-You can read more about it [here](https://www.bbc.com/news/business-68727857).
+You can read more about it [here](http://deadline.com/2024/04/jose-andres-idf-attack-gaza-deliberate-1235875612/).
 
 ## Requirements
 - Python 3.8
