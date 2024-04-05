@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LSU's Kim Mulkey gives emotional message to Angel Reese after declaring for WNBA draft**
+**Iran ramps up threats against Israel following consulate airstrike**
 
-You can read more about it [here](https://nypost.com/2024/04/03/sports/kim-mulkey-gives-emotional-message-to-angel-reese-after-wnba-announcement/).
+You can read more about it [here](https://www.politico.com/news/2024/04/03/iran-israel-consulate-airstrike-00150534).
 
 ## Requirements
 - Python 3.8
