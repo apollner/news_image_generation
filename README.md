@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pig kidney transplant patient leaves hospital**
+**Satellite image shows cyclone storm sweeping across Michigan, southern states**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68710229).
+You can read more about it [here](https://www.mlive.com/weather/2024/04/satellite-image-shows-cyclone-storm-sweeping-across-michigan-southern-states.html).
 
 ## Requirements
 - Python 3.8
