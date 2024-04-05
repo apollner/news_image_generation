@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harrowing moment Taiwan earthquake triggers rockslide, crushing vehicles**
+**Nor'easter lashes Maine with heavy snow, high winds**
 
-You can read more about it [here](https://nypost.com/2024/04/04/world-news/harrowing-moment-taiwan-earthquake-triggers-rockslide-crushing-vehicles/).
+You can read more about it [here](https://www.wmtw.com/article/maine-noreaster-whiteouts-snow-winds-storm-1712247108/60397132).
 
 ## Requirements
 - Python 3.8
