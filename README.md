@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who were the World Central Kitchen workers killed in Israel’s strike in Gaza?**
+**LSU's Kim Mulkey gives emotional message to Angel Reese after declaring for WNBA draft**
 
-You can read more about it [here](https://www.cnn.com/2024/04/03/middleeast/world-central-kitchen-workers-gaza-israel-strike-intl/index.html).
+You can read more about it [here](https://nypost.com/2024/04/03/sports/kim-mulkey-gives-emotional-message-to-angel-reese-after-wnba-announcement/).
 
 ## Requirements
 - Python 3.8
