@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan earthquake: The mountain 'rained rocks like bullets' - survivor**
+**What are the worst cities for allergies in the US? Check our map**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-68729048).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/04/04/worst-cities-for-allergies/73194764007/).
 
 ## Requirements
 - Python 3.8
