@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recipient of first genetically-edited pig kidney transplant leaves hospital**
+**Who were the World Central Kitchen workers killed in Israel’s strike in Gaza?**
 
-You can read more about it [here](https://www.wcvb.com/article/massachusetts-worlds-first-genetically-edited-pig-kidney-transplant-mgh-discharged/60384236).
+You can read more about it [here](https://www.cnn.com/2024/04/03/middleeast/world-central-kitchen-workers-gaza-israel-strike-intl/index.html).
 
 ## Requirements
 - Python 3.8
