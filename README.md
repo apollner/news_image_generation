@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Sacramento area will host MLB as A's confirm temporary home at Sutter Health Park**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.kcra.com/article/sacramento-a-s-sutter-health-park-confirmed/60396053).
 
 ## Requirements
 - Python 3.8
