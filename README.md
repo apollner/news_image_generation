@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two plead guilty to insider trading related to Trump Media merger**
+**Stock market today: S&P 500, Nasdaq edge higher after Powell says rate cuts coming 'at some point' this year**
 
-You can read more about it [here](https://www.reuters.com/business/media-telecom/investor-company-that-took-trump-media-public-pleads-guilty-insider-trading-2024-04-03/).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-edge-higher-after-powell-says-rate-cuts-coming-at-some-point-this-year-200851636.html).
 
 ## Requirements
 - Python 3.8
