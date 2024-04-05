@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multi-faceted storm bringing heavy rain, wet snow to parts of Massachusetts**
+**Recipient of first genetically-edited pig kidney transplant leaves hospital**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/winter-storm-warning-snow-forecast-massachusetts/).
+You can read more about it [here](https://www.wcvb.com/article/massachusetts-worlds-first-genetically-edited-pig-kidney-transplant-mgh-discharged/60384236).
 
 ## Requirements
 - Python 3.8
