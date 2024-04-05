@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Stiles Reveals She Secretly Welcomed Baby No. 3 With Husband Preston Cook 5 Months Ago**
+**Pig kidney transplant patient leaves hospital**
 
-You can read more about it [here](https://www.usmagazine.com/celebrity-moms/news/julia-stiles-preston-cook-secretly-welcomed-baby-no-3-months-ago/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68710229).
 
 ## Requirements
 - Python 3.8
