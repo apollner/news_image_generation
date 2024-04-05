@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stephen Colbert Fights Back Tears As He Mourns Loss of 'Late Show' Staffer**
+**Pig kidney transplant patient Rick Slayman home after landmark surgery**
 
-You can read more about it [here](https://www.tmz.com/2024/04/04/stephen-colbert-mourns-loss-late-show-staffer-death-tribute-amy-cole/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/04/04/pig-kidney-transplant-massachusetts-general-hospital/).
 
 ## Requirements
 - Python 3.8
