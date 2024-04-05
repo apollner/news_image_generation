@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sacramento area will host MLB as A's confirm temporary home at Sutter Health Park**
+**Amazon lays off several hundred workers in cloud computing unit**
 
-You can read more about it [here](https://www.kcra.com/article/sacramento-a-s-sutter-health-park-confirmed/60396053).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-lays-off-several-hundred-workers-cloud-computing-unit).
 
 ## Requirements
 - Python 3.8
