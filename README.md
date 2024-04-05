@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran ramps up threats against Israel following consulate airstrike**
+**Powerball winning numbers drawn for $1.09 billion jackpot**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/03/iran-israel-consulate-airstrike-00150534).
+You can read more about it [here](https://www.cbsnews.com/news/powerball-numbers-tuesday-drawing-1-billion-jackpot/).
 
 ## Requirements
 - Python 3.8
