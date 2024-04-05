@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills agree to trade Stefon Diggs to Texans for 2025 second-round draft pick**
+**Iran ramps up threats against Israel following consulate airstrike**
 
-You can read more about it [here](https://sports.yahoo.com/bills-trade-stefon-diggs-to-texans-for-2025-second-round-draft-pick-150158347.html).
+You can read more about it [here](https://www.politico.com/news/2024/04/03/iran-israel-consulate-airstrike-00150534).
 
 ## Requirements
 - Python 3.8
