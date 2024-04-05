@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK arms sales to Israel should end, say legal experts**
+**How stress can harm your health — and what to do about it**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68729302).
+You can read more about it [here](https://www.cnn.com/2024/04/04/health/stress-health-connection-wellness/index.html).
 
 ## Requirements
 - Python 3.8
