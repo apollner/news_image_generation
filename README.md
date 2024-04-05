@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Stiles announces she secretly gave birth to third baby with husband Preston Cook**
+**UK arms sales to Israel should end, say legal experts**
 
-You can read more about it [here](https://pagesix.com/2024/04/04/parents/julia-stiles-secretly-had-third-baby-with-husband-preston-cook/).
+You can read more about it [here](https://www.bbc.com/news/uk-68729302).
 
 ## Requirements
 - Python 3.8
