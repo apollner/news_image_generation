@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball winning numbers drawn for $1.09 billion jackpot**
+**Andrew Scott Is Utterly Charmless in Netflix’s Somber ‘Ripley’: TV Review**
 
-You can read more about it [here](https://www.cbsnews.com/news/powerball-numbers-tuesday-drawing-1-billion-jackpot/).
+You can read more about it [here](https://variety.com/2024/tv/reviews/ripley-tv-review-netflix-series-1235957687/).
 
 ## Requirements
 - Python 3.8
