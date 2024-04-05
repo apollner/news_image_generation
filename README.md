@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon lays off several hundred workers in cloud computing unit**
+**Stephen Colbert Fights Back Tears As He Mourns Loss of 'Late Show' Staffer**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-lays-off-several-hundred-workers-cloud-computing-unit).
+You can read more about it [here](https://www.tmz.com/2024/04/04/stephen-colbert-mourns-loss-late-show-staffer-death-tribute-amy-cole/).
 
 ## Requirements
 - Python 3.8
