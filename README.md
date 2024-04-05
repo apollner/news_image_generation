@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Central Kitchen founder José Andrés says Israel targeted staff in Gaza 'car by car'**
+**GOTTA SEE IT: Rangers And Devils Engage In A Line Brawl Moments After Puck Drop**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68727828).
+You can read more about it [here](https://www.youtube.com/watch?v=phGAeWcsSw8).
 
 ## Requirements
 - Python 3.8
