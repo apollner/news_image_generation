@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stefon Diggs trade winners and losers: Josh Allen, C.J. Stroud, AFC defensive backs and more**
+**Taiwan earthquake: The mountain 'rained rocks like bullets' - survivor**
 
-You can read more about it [here](https://sports.yahoo.com/stefon-diggs-trade-texans-bills-winners-and-losers-josh-allen-cj-stroud-afc-defensive-backs-and-more-204550045.html).
+You can read more about it [here](https://www.bbc.com/news/world-asia-68729048).
 
 ## Requirements
 - Python 3.8
