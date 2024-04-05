@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite image shows cyclone storm sweeping across Michigan, southern states**
+**Google looks to AI paywall option - report**
 
-You can read more about it [here](https://www.mlive.com/weather/2024/04/satellite-image-shows-cyclone-storm-sweeping-across-michigan-southern-states.html).
+You can read more about it [here](https://www.bbc.com/news/business-68727857).
 
 ## Requirements
 - Python 3.8
