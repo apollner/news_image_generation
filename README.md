@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andrew Scott Is Utterly Charmless in Netflix’s Somber ‘Ripley’: TV Review**
+**Julia Stiles Reveals She Secretly Welcomed Baby No. 3 With Husband Preston Cook 5 Months Ago**
 
-You can read more about it [here](https://variety.com/2024/tv/reviews/ripley-tv-review-netflix-series-1235957687/).
+You can read more about it [here](https://www.usmagazine.com/celebrity-moms/news/julia-stiles-preston-cook-secretly-welcomed-baby-no-3-months-ago/).
 
 ## Requirements
 - Python 3.8
