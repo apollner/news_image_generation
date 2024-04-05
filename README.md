@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snowstorm in New England triggers power outages across the region**
+**Harrowing moment Taiwan earthquake triggers rockslide, crushing vehicles**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/04/04/northeast-snowstorm-power-outages-maine/).
+You can read more about it [here](https://nypost.com/2024/04/04/world-news/harrowing-moment-taiwan-earthquake-triggers-rockslide-crushing-vehicles/).
 
 ## Requirements
 - Python 3.8
