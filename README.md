@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge refuses to delay Trump's "hush money" trial while Supreme Court weighs presidential immunity**
+**World Central Kitchen founder José Andrés says Israel targeted staff in Gaza 'car by car'**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-judge-merchan-hush-money-trial-immunity/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68727828).
 
 ## Requirements
 - Python 3.8
