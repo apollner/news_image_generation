@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford is delaying its next-gen electric three-row SUV and truck**
+**Amazon lays off several hundred workers in cloud computing unit**
 
-You can read more about it [here](https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-lays-off-several-hundred-workers-cloud-computing-unit).
 
 ## Requirements
 - Python 3.8
