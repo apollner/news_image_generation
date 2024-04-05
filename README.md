@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon lays off several hundred workers in cloud computing unit**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/amazon-lays-off-several-hundred-workers-cloud-computing-unit).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
