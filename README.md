@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“We Were Targeted Deliberately,” José Andrés Says Of IDF Attack That Killed Seven World Central Kitchen Workers In Gaza; Asks For U.S. Government Investigation**
+**Powerball jackpot jumps to $1.09 billion, fourth largest in history**
 
-You can read more about it [here](http://deadline.com/2024/04/jose-andres-idf-attack-gaza-deliberate-1235875612/).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-jumps-1-09-billion-fourth-largest-history).
 
 ## Requirements
 - Python 3.8
