@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pig kidney transplant patient Rick Slayman home after landmark surgery**
+**Snowstorm in New England triggers power outages across the region**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/04/04/pig-kidney-transplant-massachusetts-general-hospital/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/04/04/northeast-snowstorm-power-outages-maine/).
 
 ## Requirements
 - Python 3.8
