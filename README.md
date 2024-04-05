@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden camp reaches out to Nebraska Dems as state considers denying president crucial vote**
+**Multi-faceted storm bringing heavy rain, wet snow to parts of Massachusetts**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/03/biden-nebraska-electoral-college-00150485).
+You can read more about it [here](https://www.cbsnews.com/boston/news/winter-storm-warning-snow-forecast-massachusetts/).
 
 ## Requirements
 - Python 3.8
