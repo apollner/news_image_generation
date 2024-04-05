@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How stress can harm your health — and what to do about it**
+**Julius Randle having season-ending surgery in crushing Knicks blow**
 
-You can read more about it [here](https://www.cnn.com/2024/04/04/health/stress-health-connection-wellness/index.html).
+You can read more about it [here](https://nypost.com/2024/04/04/sports/julius-randle-having-season-ending-surgery-in-crushing-knicks-blow/).
 
 ## Requirements
 - Python 3.8
