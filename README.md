@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As the world ages, cancer cases are projected to rise, hitting some countries like ‘a tidal wave’**
+**Stefon Diggs trade winners and losers: Josh Allen, C.J. Stroud, AFC defensive backs and more**
 
-You can read more about it [here](https://www.cnn.com/2024/04/04/health/cancer-society-report/index.html).
+You can read more about it [here](https://sports.yahoo.com/stefon-diggs-trade-texans-bills-winners-and-losers-josh-allen-cj-stroud-afc-defensive-backs-and-more-204550045.html).
 
 ## Requirements
 - Python 3.8
