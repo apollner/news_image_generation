@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOTTA SEE IT: Rangers And Devils Engage In A Line Brawl Moments After Puck Drop**
+**Here’s what to know about next week’s total solar eclipse**
 
-You can read more about it [here](https://www.youtube.com/watch?v=phGAeWcsSw8).
+You can read more about it [here](https://thehill.com/homenews/space/4573483-heres-what-to-know-about-next-weeks-total-solar-eclipse/).
 
 ## Requirements
 - Python 3.8
