@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran ramps up threats against Israel following consulate airstrike**
+**Judge refuses to delay Trump's "hush money" trial while Supreme Court weighs presidential immunity**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/03/iran-israel-consulate-airstrike-00150534).
+You can read more about it [here](https://www.cbsnews.com/news/trump-judge-merchan-hush-money-trial-immunity/).
 
 ## Requirements
 - Python 3.8
