@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julius Randle having season-ending surgery in crushing Knicks blow**
+**Ford is delaying its next-gen electric three-row SUV and truck**
 
-You can read more about it [here](https://nypost.com/2024/04/04/sports/julius-randle-having-season-ending-surgery-in-crushing-knicks-blow/).
+You can read more about it [here](https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay).
 
 ## Requirements
 - Python 3.8
