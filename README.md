@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s what to know about next week’s total solar eclipse**
+**North Carolina: Mpox cases are increasing statewide**
 
-You can read more about it [here](https://thehill.com/homenews/space/4573483-heres-what-to-know-about-next-weeks-total-solar-eclipse/).
+You can read more about it [here](https://www.wxii12.com/article/north-carolina-mpox-cases-increasing-north-carolina-ncdhhs/60387460).
 
 ## Requirements
 - Python 3.8
