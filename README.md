@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball jackpot jumps to $1.09 billion, fourth largest in history**
+**Foul play suspected in disappearance of two women last seen in Oklahoma: officials**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/powerball-jackpot-jumps-1-09-billion-fourth-largest-history).
+You can read more about it [here](https://www.foxnews.com/us/foul-play-suspected-disappearance-two-women-last-seen-oklahoma-officials).
 
 ## Requirements
 - Python 3.8
