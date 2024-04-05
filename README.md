@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina: Mpox cases are increasing statewide**
+**Bills agree to trade Stefon Diggs to Texans for 2025 second-round draft pick**
 
-You can read more about it [here](https://www.wxii12.com/article/north-carolina-mpox-cases-increasing-north-carolina-ncdhhs/60387460).
+You can read more about it [here](https://sports.yahoo.com/bills-trade-stefon-diggs-to-texans-for-2025-second-round-draft-pick-150158347.html).
 
 ## Requirements
 - Python 3.8
