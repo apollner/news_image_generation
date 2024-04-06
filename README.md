@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan's tallest skyscraper unscathed in major earthquake. Here's why.**
+**Apple would be a 'horror show' if it 'actually spent money on robots', says Wedbush's Dan Ives**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/04/04/taipei-101-skyscraper-earthquakes-tallest-building-taiwan/73199013007/).
+You can read more about it [here](https://www.youtube.com/watch?v=WxfwUC6rjHE).
 
 ## Requirements
 - Python 3.8
