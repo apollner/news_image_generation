@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesotans hit the road to path of totality for solar eclipse**
+**Jacob Flickinger: Parents condemn son's death in Gaza as a 'crime'**
 
-You can read more about it [here](https://www.fox9.com/news/minnesotans-solar-eclipse).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68737037).
 
 ## Requirements
 - Python 3.8
