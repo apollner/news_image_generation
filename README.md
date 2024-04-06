@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Partner of World Central Kitchen worker killed in Gaza speaks out: 'We need the truth of what happened'**
+**White House wants to give the Moon its own time zone**
 
-You can read more about it [here](https://abcnews.go.com/International/world-central-kitchen-jacob-flickinger-partner/story?id=108866378).
+You can read more about it [here](https://nypost.com/2024/04/04/us-news/white-house-wants-to-give-the-moon-its-own-time-zone/).
 
 ## Requirements
 - Python 3.8
