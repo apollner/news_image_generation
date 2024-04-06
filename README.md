@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida crane collapse kills construction worker**
+**Ukraine claims it destroyed Russian warplanes in one of its biggest drone attacks of the war**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68737367).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/ukraine-fires-50-drones-russia-biggest-air-attacks-108882054).
 
 ## Requirements
 - Python 3.8
