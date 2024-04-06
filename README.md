@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Growing concerns about bird flu cases in U.S. farm animals and risk to humans**
+**Down to the wire. California US House election could end in improbable tie vote for second place**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/growing-concerns-about-bird-flu-cases-in-u-s-farm-animals-and-risk-to-humans).
+You can read more about it [here](https://apnews.com/article/house-california-tie-vote-top-two-f4fa63bbab174f1e62562c00f6c997f7).
 
 ## Requirements
 - Python 3.8
