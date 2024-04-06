@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie’s Lawyer Alleges Brad Pitt’s ‘History of Physical Abuse of Jolie Started Well Before’ Their 2016 Plane Altercation**
+**USC's Bronny James entering NBA draft, transfer portal**
 
-You can read more about it [here](https://variety.com/2024/film/news/angelina-jolie-lawyer-alleges-brad-pitt-abuse-plane-fight-1235961633/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39879943/usc-bronny-james-entering-nba-draft-transfer-portal).
 
 ## Requirements
 - Python 3.8
