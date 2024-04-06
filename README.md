@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Electronics Announces Earnings Guidance for First Quarter 2024**
+**Caitlin Clark vs. Paige Bueckers? Not quite, as Iowa, UConn emphasize team game ahead of Final Four**
 
-You can read more about it [here](https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-first-quarter-2024).
+You can read more about it [here](https://sports.yahoo.com/caitlin-clark-vs-paige-bueckers-not-quite-as-iowa-uconn-emphasize-team-game-ahead-of-final-four-030925264.html).
 
 ## Requirements
 - Python 3.8
