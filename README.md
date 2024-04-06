@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple would be a 'horror show' if it 'actually spent money on robots', says Wedbush's Dan Ives**
+**Nor’easter dumps heavy snow and cuts off power to hundreds of thousands across Northeast as many roads remain impassable**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WxfwUC6rjHE).
+You can read more about it [here](https://www.cnn.com/2024/04/05/weather/power-outages-northeast-snow-storm-maine-new-hampshire/index.html).
 
 ## Requirements
 - Python 3.8
