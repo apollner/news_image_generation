@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA awards contracts to three companies for lunar vehicle design**
+**New twist to Stefon Diggs trade, as Texans give him chance to be free agent next year**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/nasa-awards-contracts-three-companies-for-lunar-vehicle-design).
+You can read more about it [here](https://sports.yahoo.com/new-twist-to-stefon-diggs-trade-as-texans-give-him-chance-to-be-free-agent-next-year-202814251.html).
 
 ## Requirements
 - Python 3.8
