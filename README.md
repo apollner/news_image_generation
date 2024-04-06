@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House wants to give the Moon its own time zone**
+**Massachusetts man, recipient of first successful pig kidney transplant, is discharged from hospital**
 
-You can read more about it [here](https://nypost.com/2024/04/04/us-news/white-house-wants-to-give-the-moon-its-own-time-zone/).
+You can read more about it [here](https://www.foxnews.com/health/massachusetts-man-recipient-first-successful-pig-kidney-transplant-discharged-hospital).
 
 ## Requirements
 - Python 3.8
