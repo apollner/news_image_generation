@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Down to the wire. California US House election could end in improbable tie vote for second place**
+**White House wants to give the Moon its own time zone**
 
-You can read more about it [here](https://apnews.com/article/house-california-tie-vote-top-two-f4fa63bbab174f1e62562c00f6c997f7).
+You can read more about it [here](https://nypost.com/2024/04/04/us-news/white-house-wants-to-give-the-moon-its-own-time-zone/).
 
 ## Requirements
 - Python 3.8
