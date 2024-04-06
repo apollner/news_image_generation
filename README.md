@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire snow totals by town: April 4, 2024**
+**How the No Labels 2024 Presidential Campaign Failed to Launch**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-snow-totals-by-town-april-4-2024/60399433).
+You can read more about it [here](https://www.wsj.com/politics/elections/no-labels-will-abandon-2024-presidential-campaign-effort-4b4e5121).
 
 ## Requirements
 - Python 3.8
