@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil Is Hitting Its Highest Level in Months—Just in Time for Summer Driving Season**
+**North Carolina State big man DJ Burns Jr. says he has no plans on playing football**
 
-You can read more about it [here](https://www.wsj.com/business/energy-oil/oil-is-hitting-its-highest-level-in-monthsjust-in-time-for-summer-driving-season-3370fbf7).
+You can read more about it [here](https://www.nfl.com/news/north-carolina-state-big-man-dj-burns-jr-says-he-has-no-plans-on-playing-football).
 
 ## Requirements
 - Python 3.8
