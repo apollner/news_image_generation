@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A happy reunion after a dog missing in San Diego turns up in Michigan**
+**Northeast snow storm triggers outages in New England, causes deaths**
 
-You can read more about it [here](https://www.cnn.com/2024/04/05/us/missing-california-dog-found-detroit/index.html).
+You can read more about it [here](https://www.axios.com/2024/04/04/winter-storm-northeast-power-outages).
 
 ## Requirements
 - Python 3.8
