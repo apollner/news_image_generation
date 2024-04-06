@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs' Son Sued for Alleged Sex Assault on Yacht**
+**Google Gemini may soon get major changes, including a subscription model and Gmail suggestions on Android**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/sean-combs-son-christian-combs-sued-sexual-assault-1234991094/).
+You can read more about it [here](https://www.foxbusiness.com/media/google-gemini-soon-get-major-changes-subscription-model-gmail-suggestions-android).
 
 ## Requirements
 - Python 3.8
