@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doctors Try to Calm Bird Flu Fears**
+**Texas Dept. of Transportation issues eclipse travel caution: expect delays, plan ahead**
 
-You can read more about it [here](https://www.youtube.com/watch?v=NubP3mbraI4).
+You can read more about it [here](https://ktxs.com/news/local/texas-dept-of-transportation-issues-eclipse-travel-caution-expect-delays-plan-ahead).
 
 ## Requirements
 - Python 3.8
