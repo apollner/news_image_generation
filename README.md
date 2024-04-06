@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark vs. Paige Bueckers? Not quite, as Iowa, UConn emphasize team game ahead of Final Four**
+**Taiwan's tallest skyscraper unscathed in major earthquake. Here's why.**
 
-You can read more about it [here](https://sports.yahoo.com/caitlin-clark-vs-paige-bueckers-not-quite-as-iowa-uconn-emphasize-team-game-ahead-of-final-four-030925264.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/04/04/taipei-101-skyscraper-earthquakes-tallest-building-taiwan/73199013007/).
 
 ## Requirements
 - Python 3.8
