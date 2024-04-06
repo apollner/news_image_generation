@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northeast snow storm triggers outages in New England, causes deaths**
+**Police investigation finds audio of racial slur used against Utah women's basketball team**
 
-You can read more about it [here](https://www.axios.com/2024/04/04/winter-storm-northeast-power-outages).
+You can read more about it [here](https://sports.yahoo.com/utah-utes-womens-basketball-team-racial-slurpolice-investigation-finds-audio-173752808.html).
 
 ## Requirements
 - Python 3.8
