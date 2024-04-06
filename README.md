@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House wants to give the Moon its own time zone**
+**Ford Settles It: Electric Vehicle Gloom & Doom Was Premature**
 
-You can read more about it [here](https://nypost.com/2024/04/04/us-news/white-house-wants-to-give-the-moon-its-own-time-zone/).
+You can read more about it [here](https://cleantechnica.com/2024/04/04/ford-settles-it-electric-vehicle-gloom-doom-was-premature/).
 
 ## Requirements
 - Python 3.8
