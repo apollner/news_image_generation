@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Gemini may soon get major changes, including a subscription model and Gmail suggestions on Android**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/media/google-gemini-soon-get-major-changes-subscription-model-gmail-suggestions-android).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
