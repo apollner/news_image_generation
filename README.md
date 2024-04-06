@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Key analyst says latest Apple move would be a 'horror show'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.thestreet.com/technology/apple-robotics-electric-car-technology-artificial-intelligence-analyst-dan-ives-horror-show).
 
 ## Requirements
 - Python 3.8
