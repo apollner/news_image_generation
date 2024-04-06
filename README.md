@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford Settles It: Electric Vehicle Gloom & Doom Was Premature**
+**Samsung Electronics Announces Earnings Guidance for First Quarter 2024**
 
-You can read more about it [here](https://cleantechnica.com/2024/04/04/ford-settles-it-electric-vehicle-gloom-doom-was-premature/).
+You can read more about it [here](https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-first-quarter-2024).
 
 ## Requirements
 - Python 3.8
