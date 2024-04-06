@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nor'easter lashes Maine with heavy snow, high winds**
+**Rossen Reports: Free apps to watch solar eclipse live**
 
-You can read more about it [here](https://www.wmtw.com/article/maine-noreaster-whiteouts-snow-winds-storm-1712247108/60397132).
+You can read more about it [here](https://www.wdsu.com/article/free-apps-watch-solar-eclipse-live/60399978).
 
 ## Requirements
 - Python 3.8
