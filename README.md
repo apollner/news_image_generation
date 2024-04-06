@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the No Labels 2024 Presidential Campaign Failed to Launch**
+**Denmark shuts shipping strait over missile failure**
 
-You can read more about it [here](https://www.wsj.com/politics/elections/no-labels-will-abandon-2024-presidential-campaign-effort-4b4e5121).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68730431).
 
 ## Requirements
 - Python 3.8
