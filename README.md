@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing has paid Alaska Airlines $160 million in cash**
+**Partner of World Central Kitchen worker killed in Gaza speaks out: 'We need the truth of what happened'**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/boeing-pays-alaska-airlines-160-million-cash-initial-payment-following-mid-air-blowout).
+You can read more about it [here](https://abcnews.go.com/International/world-central-kitchen-jacob-flickinger-partner/story?id=108866378).
 
 ## Requirements
 - Python 3.8
