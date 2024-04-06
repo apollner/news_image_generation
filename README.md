@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military fires two senior officers as report finds strike on aid workers was in ‘serious violation of commands’**
+**Israel dismisses 2 officers over deadly drone strikes on aid workers in Gaza**
 
-You can read more about it [here](https://www.cnn.com/2024/04/05/middleeast/israel-idf-world-central-kitchen-strike-report-intl/index.html).
+You can read more about it [here](https://apnews.com/article/israel-world-central-kitchen-gaza-aid-workers-69b6176362dafc8e4e2754b2342faa1d).
 
 ## Requirements
 - Python 3.8
