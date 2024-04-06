@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4.8 magnitude earthquake rattles NYC, New Jersey: Live updates**
+**Angelina Jolie’s Lawyer Alleges Brad Pitt’s ‘History of Physical Abuse of Jolie Started Well Before’ Their 2016 Plane Altercation**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/05/earthquake-new-york-new-jersey-friday/73215948007/).
+You can read more about it [here](https://variety.com/2024/film/news/angelina-jolie-lawyer-alleges-brad-pitt-abuse-plane-fight-1235961633/).
 
 ## Requirements
 - Python 3.8
