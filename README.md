@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massachusetts man, recipient of first successful pig kidney transplant, is discharged from hospital**
+**Boeing has paid Alaska Airlines $160 million in cash**
 
-You can read more about it [here](https://www.foxnews.com/health/massachusetts-man-recipient-first-successful-pig-kidney-transplant-discharged-hospital).
+You can read more about it [here](https://www.foxbusiness.com/markets/boeing-pays-alaska-airlines-160-million-cash-initial-payment-following-mid-air-blowout).
 
 ## Requirements
 - Python 3.8
