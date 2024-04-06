@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina State big man DJ Burns Jr. says he has no plans on playing football**
+**NASA awards contracts to three companies for lunar vehicle design**
 
-You can read more about it [here](https://www.nfl.com/news/north-carolina-state-big-man-dj-burns-jr-says-he-has-no-plans-on-playing-football).
+You can read more about it [here](https://www.foxbusiness.com/technology/nasa-awards-contracts-three-companies-for-lunar-vehicle-design).
 
 ## Requirements
 - Python 3.8
