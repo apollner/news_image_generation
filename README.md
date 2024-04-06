@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key analyst says latest Apple move would be a 'horror show'**
+**Earthquake felt in New Jersey and Philadelphia region; shaking felt from New York City to Baltimore**
 
-You can read more about it [here](https://www.thestreet.com/technology/apple-robotics-electric-car-technology-artificial-intelligence-analyst-dan-ives-horror-show).
+You can read more about it [here](https://6abc.com/earthquake-nj-2024-philadelphia-pennsylvania-new-york-today/14622010/).
 
 ## Requirements
 - Python 3.8
