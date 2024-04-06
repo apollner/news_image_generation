@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr 'disturbed' by 'weaponization of government' against Trump, vows to appoint Jan 6 special counsel**
+**Israel dismisses 2 officers over deadly drone strikes on aid workers in Gaza**
 
-You can read more about it [here](https://www.foxnews.com/politics/rfk-jr-disturbed-weaponization-government-against-trump-vows-appoint-jan-6-special-counsel).
+You can read more about it [here](https://apnews.com/article/israel-world-central-kitchen-gaza-aid-workers-69b6176362dafc8e4e2754b2342faa1d).
 
 ## Requirements
 - Python 3.8
