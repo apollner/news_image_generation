@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police investigation finds audio of racial slur used against Utah women's basketball team**
+**Sean Combs' Son Sued for Alleged Sex Assault on Yacht**
 
-You can read more about it [here](https://sports.yahoo.com/utah-utes-womens-basketball-team-racial-slurpolice-investigation-finds-audio-173752808.html).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/sean-combs-son-christian-combs-sued-sexual-assault-1234991094/).
 
 ## Requirements
 - Python 3.8
