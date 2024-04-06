@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jacob Flickinger: Parents condemn son's death in Gaza as a 'crime'**
+**Growing concerns about bird flu cases in U.S. farm animals and risk to humans**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68737037).
+You can read more about it [here](https://www.pbs.org/newshour/show/growing-concerns-about-bird-flu-cases-in-u-s-farm-animals-and-risk-to-humans).
 
 ## Requirements
 - Python 3.8
