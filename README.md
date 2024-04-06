@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nor’easter dumps heavy snow and cuts off power to hundreds of thousands across Northeast as many roads remain impassable**
+**Florida crane collapse kills construction worker**
 
-You can read more about it [here](https://www.cnn.com/2024/04/05/weather/power-outages-northeast-snow-storm-maine-new-hampshire/index.html).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68737367).
 
 ## Requirements
 - Python 3.8
