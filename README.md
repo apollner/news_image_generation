@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel dismisses 2 officers over deadly drone strikes on aid workers in Gaza**
+**Doctors Try to Calm Bird Flu Fears**
 
-You can read more about it [here](https://apnews.com/article/israel-world-central-kitchen-gaza-aid-workers-69b6176362dafc8e4e2754b2342faa1d).
+You can read more about it [here](https://www.youtube.com/watch?v=NubP3mbraI4).
 
 ## Requirements
 - Python 3.8
