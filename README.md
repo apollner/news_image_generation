@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earthquake felt in New Jersey and Philadelphia region; shaking felt from New York City to Baltimore**
+**4.8 magnitude earthquake rattles NYC, New Jersey: Live updates**
 
-You can read more about it [here](https://6abc.com/earthquake-nj-2024-philadelphia-pennsylvania-new-york-today/14622010/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/05/earthquake-new-york-new-jersey-friday/73215948007/).
 
 ## Requirements
 - Python 3.8
