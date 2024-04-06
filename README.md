@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rossen Reports: Free apps to watch solar eclipse live**
+**Oil Is Hitting Its Highest Level in Months—Just in Time for Summer Driving Season**
 
-You can read more about it [here](https://www.wdsu.com/article/free-apps-watch-solar-eclipse-live/60399978).
+You can read more about it [here](https://www.wsj.com/business/energy-oil/oil-is-hitting-its-highest-level-in-monthsjust-in-time-for-summer-driving-season-3370fbf7).
 
 ## Requirements
 - Python 3.8
