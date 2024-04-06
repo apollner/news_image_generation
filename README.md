@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: Where does Israel get its weapons?**
+**A happy reunion after a dog missing in San Diego turns up in Michigan**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68737412).
+You can read more about it [here](https://www.cnn.com/2024/04/05/us/missing-california-dog-found-detroit/index.html).
 
 ## Requirements
 - Python 3.8
