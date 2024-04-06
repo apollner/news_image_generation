@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USC's Bronny James entering NBA draft, transfer portal**
+**Israeli military fires two senior officers as report finds strike on aid workers was in ‘serious violation of commands’**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39879943/usc-bronny-james-entering-nba-draft-transfer-portal).
+You can read more about it [here](https://www.cnn.com/2024/04/05/middleeast/israel-idf-world-central-kitchen-strike-report-intl/index.html).
 
 ## Requirements
 - Python 3.8
