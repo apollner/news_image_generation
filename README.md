@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cole Brings Plenty: Yellowstone 1923 actor found dead in Kansas**
+**Horoscope For April 7, 2024 — The Moon Enters Aries**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68749822).
+You can read more about it [here](https://www.yourtango.com/2024373135/horoscope-april-7-2024).
 
 ## Requirements
 - Python 3.8
