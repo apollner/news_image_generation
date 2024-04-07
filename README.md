@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xcel Energy to cut power to 55K people along Colorado's front range amid wildfire risk**
+**Cole Brings Plenty: Yellowstone 1923 actor found dead in Kansas**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/xcel-energy-cut-power-thousands-people-colorado-front-range-wildfire-risk/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68749822).
 
 ## Requirements
 - Python 3.8
