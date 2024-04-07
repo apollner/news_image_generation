@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk Auditions as Corporate Gadfly, Taking Sides Against Disney**
+**Poll: Do you care about framerates in games like Hellblade 2?**
 
-You can read more about it [here](https://www.wsj.com/business/elon-musk-auditions-as-corporate-gadfly-taking-sides-against-disney-af65a979).
+You can read more about it [here](https://www.trueachievements.com/poll/56672/poll-games-30fps).
 
 ## Requirements
 - Python 3.8
