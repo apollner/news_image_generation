@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oatmeal as Ozempic? What Dietitians Say About 'Oatzempic' Trend**
+**Rwanda: My return home 30 years after genocide**
 
-You can read more about it [here](https://www.newsweek.com/oatmeal-ozempic-what-dietitians-say-oatzempic-trend-1887330).
+You can read more about it [here](https://www.bbc.com/news/world-africa-68734161).
 
 ## Requirements
 - Python 3.8
