@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your daily horoscope: April 6, 2024**
+**Bronny James expected to consider transfer to Duquesne if he returns to college basketball**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-april-6-2024/).
+You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/bronny-james-consider-transfer-duquesne-college-basketball-news-nba-draft/).
 
 ## Requirements
 - Python 3.8
