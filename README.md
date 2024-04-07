@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronny James expected to consider transfer to Duquesne if he returns to college basketball**
+**Israel says its strike that killed aid workers was a mistake. Rights groups say it was no anomaly**
 
-You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/bronny-james-consider-transfer-duquesne-college-basketball-news-nba-draft/).
+You can read more about it [here](https://apnews.com/article/israel-gaza-mistakes-aid-workers-killed-wck-cb695de7f6ef9e9d7d9cf8fbf6e95364).
 
 ## Requirements
 - Python 3.8
