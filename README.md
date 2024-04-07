@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's Drones Are Hunting Down Russia's Best Fighter-Bombers At Their Base Deep Inside Russia**
+**Bronny James expected to consider transfer to Duquesne if he returns to college basketball**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/04/05/ukraines-drones-are-hunting-down-russias-best-fighter-bombers-at-their-base-deep-inside-russia/).
+You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/bronny-james-consider-transfer-duquesne-college-basketball-news-nba-draft/).
 
 ## Requirements
 - Python 3.8
