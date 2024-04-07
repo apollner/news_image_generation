@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX set to launch again Saturday night**
+**Your daily horoscope: April 6, 2024**
 
-You can read more about it [here](https://www.kold.com/2024/04/06/whats-that-spacex-set-launch-again-friday-night/).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-april-6-2024/).
 
 ## Requirements
 - Python 3.8
