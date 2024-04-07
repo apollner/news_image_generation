@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing awards outgoing CEO Dave Calhoun a 45% pay rise**
+**Ukraine's Drones Are Hunting Down Russia's Best Fighter-Bombers At Their Base Deep Inside Russia**
 
-You can read more about it [here](https://www.ft.com/content/870be064-5bd3-4595-951c-0c289ac9088b).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/04/05/ukraines-drones-are-hunting-down-russias-best-fighter-bombers-at-their-base-deep-inside-russia/).
 
 ## Requirements
 - Python 3.8
