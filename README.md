@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Boeing awards outgoing CEO Dave Calhoun a 45% pay rise**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.ft.com/content/870be064-5bd3-4595-951c-0c289ac9088b).
 
 ## Requirements
 - Python 3.8
