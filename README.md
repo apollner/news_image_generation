@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cole Brings Plenty: Yellowstone 1923 actor found dead in Kansas**
+**Top Stories: iOS 17.5 Beta, The Latest on New iPads, and More**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68749822).
+You can read more about it [here](https://www.macrumors.com/2024/04/06/top-stories-ios-17-5-beta/).
 
 ## Requirements
 - Python 3.8
