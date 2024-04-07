@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's campaign is expecting to raise a record $43 million at a high-dollar Florida fundraiser**
+**iPhone emulators are allowed now so here are some great iOS controllers**
 
-You can read more about it [here](https://apnews.com/article/trump-republican-party-fundraising-fc057119f3bb5cb2a34a00ccd93fbb13).
+You can read more about it [here](https://www.theverge.com/2024/4/6/24122784/iphone-emulators-great-ios-controllers).
 
 ## Requirements
 - Python 3.8
