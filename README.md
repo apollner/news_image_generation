@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sacha Baron Cohen and Isla Fisher file for divorce**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68746480).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
