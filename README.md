@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwan earthquake: More than 600 people still stranded 3 days after earthquake**
+**Trump's campaign is expecting to raise a record $43 million at a high-dollar Florida fundraiser**
 
-You can read more about it [here](https://apnews.com/article/taiwan-hualien-earthquake-taroko-shakadang-a20431a309e21d74f9ec62e097efa530).
+You can read more about it [here](https://apnews.com/article/trump-republican-party-fundraising-fc057119f3bb5cb2a34a00ccd93fbb13).
 
 ## Requirements
 - Python 3.8
