@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 4/5/24 drawing: $67 million jackpot**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/04/05/mega-millions-winning-numbers/73170554007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
