@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina vs. NC State: Live stream, start time, TV channel, how to watch 2024 NCAA Women's Final Four**
+**Sacha Baron Cohen and Isla Fisher file for divorce**
 
-You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/south-carolina-vs-nc-state-live-stream-start-time-tv-channel-how-to-watch-2024-ncaa-womens-final-four/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68746480).
 
 ## Requirements
 - Python 3.8
