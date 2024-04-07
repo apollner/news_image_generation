@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope For April 7, 2024 — The Moon Enters Aries**
+**House Republicans plan vote to rebuke Biden's call for Gaza ceasefire**
 
-You can read more about it [here](https://www.yourtango.com/2024373135/horoscope-april-7-2024).
+You can read more about it [here](https://www.axios.com/2024/04/05/house-vote-biden-gaza-ceasefire).
 
 ## Requirements
 - Python 3.8
