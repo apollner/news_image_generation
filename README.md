@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's campaign is expecting to raise a record $43 million at a high-dollar Florida fundraiser**
+**California's $20 minimum wage law has workers, franchisees and politicians divided**
 
-You can read more about it [here](https://apnews.com/article/trump-republican-party-fundraising-fc057119f3bb5cb2a34a00ccd93fbb13).
+You can read more about it [here](https://www.salon.com/2024/04/06/californias-20-minimum-wage-law-has-workers-franchisees-and-politicians-divided/).
 
 ## Requirements
 - Python 3.8
