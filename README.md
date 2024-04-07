@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military fires two senior officers as report finds strike on aid workers was in ‘serious violation of commands’**
+**McDonald's: Behind the fast-food firm's boycott controversy**
 
-You can read more about it [here](https://www.cnn.com/2024/04/05/middleeast/israel-idf-world-central-kitchen-strike-report-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/business-68740617).
 
 ## Requirements
 - Python 3.8
