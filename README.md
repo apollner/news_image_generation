@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden to announce new student loan relief plan in Madison**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.jsonline.com/story/news/education/2024/04/05/biden-to-announce-new-student-loan-relief-plan-in-madison/73221916007/).
 
 ## Requirements
 - Python 3.8
