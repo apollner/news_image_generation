@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda: My return home 30 years after genocide**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-68734161).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
