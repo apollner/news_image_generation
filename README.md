@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California's $20 minimum wage law has workers, franchisees and politicians divided**
+**2024 NFL Mock Draft: Only 2 QBs taken in top 5 as teams prioritize other positions; Raiders trade with Giants**
 
-You can read more about it [here](https://www.salon.com/2024/04/06/californias-20-minimum-wage-law-has-workers-franchisees-and-politicians-divided/).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-only-2-qbs-taken-in-top-5-as-teams-prioritize-other-positions-raiders-trade-with-giants/).
 
 ## Requirements
 - Python 3.8
