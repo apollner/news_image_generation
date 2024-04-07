@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More aftershocks likely in wake of historic Northeast quake, USGS says**
+**Box Office: ‘Monkey Man,’ ‘First Omen’ Coming in Lower Than Expected as ‘Godzilla x Kong’ Stays No. 1**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/aftershocks-new-jersey-new-york-city-northeast-earthquake).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/monkey-man-box-office-opening-first-omen-1235868004/).
 
 ## Requirements
 - Python 3.8
