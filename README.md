@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone emulators are allowed now so here are some great iOS controllers**
+**Baltimore Bridge Collapse Photos Show Wreckage Starting To Be Cleared**
 
-You can read more about it [here](https://www.theverge.com/2024/4/6/24122784/iphone-emulators-great-ios-controllers).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/04/06/baltimore-bridge-collapse-see-wreckage-clearing-effort-in-photos/).
 
 ## Requirements
 - Python 3.8
