@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The solar eclipse could deliver a $6 billion economic boom: "The whole community is sold out"**
+**Taiwan earthquake: More than 600 people still stranded 3 days after earthquake**
 
-You can read more about it [here](https://www.cbsnews.com/news/solar-eclipse-april-8-economy-spending-boom-6-billion/).
+You can read more about it [here](https://apnews.com/article/taiwan-hualien-earthquake-taroko-shakadang-a20431a309e21d74f9ec62e097efa530).
 
 ## Requirements
 - Python 3.8
