@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope For April 7, 2024 — The Moon Enters Aries**
+**2024 NFL Mock Draft: Giants, Vikings take quarterback in first round; Bills select WR after Stefon Diggs trade**
 
-You can read more about it [here](https://www.yourtango.com/2024373135/horoscope-april-7-2024).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-giants-vikings-take-quarterback-in-first-round-bills-select-wr-after-stefon-diggs-trade/).
 
 ## Requirements
 - Python 3.8
