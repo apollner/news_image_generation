@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Dept. of Transportation issues eclipse travel caution: expect delays, plan ahead**
+**South Carolina vs. NC State: Live stream, start time, TV channel, how to watch 2024 NCAA Women's Final Four**
 
-You can read more about it [here](https://ktxs.com/news/local/texas-dept-of-transportation-issues-eclipse-travel-caution-expect-delays-plan-ahead).
+You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/south-carolina-vs-nc-state-live-stream-start-time-tv-channel-how-to-watch-2024-ncaa-womens-final-four/).
 
 ## Requirements
 - Python 3.8
