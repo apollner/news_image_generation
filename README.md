@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark leads Iowa past UConn to second consecutive national championship appearance**
+**Mexico's president says his country is breaking diplomatic ties with Ecuador after embassy raid**
 
-You can read more about it [here](https://theathletic.com/5394626/2024/04/05/uconn-iowa-final-four-result/).
+You can read more about it [here](https://apnews.com/article/mexico-ecuador-diplomatic-crisis-de5aa3a638b54fdfa3474c8ee25ca57e).
 
 ## Requirements
 - Python 3.8
