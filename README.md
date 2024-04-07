@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Elon Musk Auditions as Corporate Gadfly, Taking Sides Against Disney**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/business/elon-musk-auditions-as-corporate-gadfly-taking-sides-against-disney-af65a979).
 
 ## Requirements
 - Python 3.8
