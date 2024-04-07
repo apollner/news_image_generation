@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Only 2 QBs taken in top 5 as teams prioritize other positions; Raiders trade with Giants**
+**The solar eclipse could deliver a $6 billion economic boom: "The whole community is sold out"**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-only-2-qbs-taken-in-top-5-as-teams-prioritize-other-positions-raiders-trade-with-giants/).
+You can read more about it [here](https://www.cbsnews.com/news/solar-eclipse-april-8-economy-spending-boom-6-billion/).
 
 ## Requirements
 - Python 3.8
