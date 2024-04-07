@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's Drones Are Hunting Down Russia's Best Fighter-Bombers At Their Base Deep Inside Russia**
+**Caitlin Clark leads Iowa past UConn to second consecutive national championship appearance**
 
-You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/04/05/ukraines-drones-are-hunting-down-russias-best-fighter-bombers-at-their-base-deep-inside-russia/).
+You can read more about it [here](https://theathletic.com/5394626/2024/04/05/uconn-iowa-final-four-result/).
 
 ## Requirements
 - Python 3.8
