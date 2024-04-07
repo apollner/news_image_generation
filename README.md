@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Bridge Collapse Photos Show Wreckage Starting To Be Cleared**
+**More aftershocks likely in wake of historic Northeast quake, USGS says**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/04/06/baltimore-bridge-collapse-see-wreckage-clearing-effort-in-photos/).
+You can read more about it [here](https://www.foxweather.com/earth-space/aftershocks-new-jersey-new-york-city-northeast-earthquake).
 
 ## Requirements
 - Python 3.8
