@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's: Behind the fast-food firm's boycott controversy**
+**Sacha Baron Cohen and Isla Fisher file for divorce**
 
-You can read more about it [here](https://www.bbc.com/news/business-68740617).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68746480).
 
 ## Requirements
 - Python 3.8
