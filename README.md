@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says its strike that killed aid workers was a mistake. Rights groups say it was no anomaly**
+**Oatmeal as Ozempic? What Dietitians Say About 'Oatzempic' Trend**
 
-You can read more about it [here](https://apnews.com/article/israel-gaza-mistakes-aid-workers-killed-wck-cb695de7f6ef9e9d7d9cf8fbf6e95364).
+You can read more about it [here](https://www.newsweek.com/oatmeal-ozempic-what-dietitians-say-oatzempic-trend-1887330).
 
 ## Requirements
 - Python 3.8
