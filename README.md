@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Giants, Vikings take quarterback in first round; Bills select WR after Stefon Diggs trade**
+**Cole Brings Plenty: Yellowstone 1923 actor found dead in Kansas**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-giants-vikings-take-quarterback-in-first-round-bills-select-wr-after-stefon-diggs-trade/).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68749822).
 
 ## Requirements
 - Python 3.8
