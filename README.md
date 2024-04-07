@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poll: Do you care about framerates in games like Hellblade 2?**
+**Trump's campaign is expecting to raise a record $43 million at a high-dollar Florida fundraiser**
 
-You can read more about it [here](https://www.trueachievements.com/poll/56672/poll-games-30fps).
+You can read more about it [here](https://apnews.com/article/trump-republican-party-fundraising-fc057119f3bb5cb2a34a00ccd93fbb13).
 
 ## Requirements
 - Python 3.8
