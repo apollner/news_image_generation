@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Monkey Man,’ ‘First Omen’ Coming in Lower Than Expected as ‘Godzilla x Kong’ Stays No. 1**
+**Xcel Energy to cut power to 55K people along Colorado's front range amid wildfire risk**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/monkey-man-box-office-opening-first-omen-1235868004/).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/xcel-energy-cut-power-thousands-people-colorado-front-range-wildfire-risk/).
 
 ## Requirements
 - Python 3.8
