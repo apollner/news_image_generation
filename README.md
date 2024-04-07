@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico's president says his country is breaking diplomatic ties with Ecuador after embassy raid**
+**SpaceX set to launch again Saturday night**
 
-You can read more about it [here](https://apnews.com/article/mexico-ecuador-diplomatic-crisis-de5aa3a638b54fdfa3474c8ee25ca57e).
+You can read more about it [here](https://www.kold.com/2024/04/06/whats-that-spacex-set-launch-again-friday-night/).
 
 ## Requirements
 - Python 3.8
