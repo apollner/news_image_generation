@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa vs. South Carolina odds: 2024 Women's national championship game picks, Caitlin Clark predictions**
+**2024 NFL Draft: Community mock tracker, selections, grades**
 
-You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/iowa-vs-south-carolina-odds-2024-womens-national-championship-game-picks-caitlin-clark-predictions/).
+You can read more about it [here](https://www.prideofdetroit.com/2024/4/7/24123330/2024-nfl-draft-community-mock-tracker-selections-grades).
 
 ## Requirements
 - Python 3.8
