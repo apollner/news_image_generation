@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a loophole deprives foster children of benefits**
+**International leaders condemn Ecuador after police break into the Mexican Embassy in Quito**
 
-You can read more about it [here](https://www.youtube.com/watch?v=9MplCxaMm6c).
+You can read more about it [here](https://apnews.com/article/ecuador-mexico-glas-noboa-e39b08390c4a2c83c5ae0ac234ddf135).
 
 ## Requirements
 - Python 3.8
