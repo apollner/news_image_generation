@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why are 99 Cents Only Stores closing? The state of dollar stores today**
+**Iowa vs. South Carolina: Predictions and odds for women's national championship game**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/04/06/why-are-99-cent-stores-closing/73220304007/).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaw/2024/04/07/iowa-vs-south-carolina-predictions-odds/73228738007/).
 
 ## Requirements
 - Python 3.8
