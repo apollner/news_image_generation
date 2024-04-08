@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse: The 4-minute window into the universe's secrets**
+**Discovery of Israeli hostage’s body in Gaza renews pressure for release deal as cease-fire talks set to resume**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68742516).
+You can read more about it [here](https://www.pbs.org/newshour/world/discovery-of-israeli-hostages-body-in-gaza-renews-pressure-for-release-deal-as-cease-fire-talks-set-to-resume).
 
 ## Requirements
 - Python 3.8
