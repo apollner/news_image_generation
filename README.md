@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa vs. South Carolina: Predictions and odds for women's national championship game**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaw/2024/04/07/iowa-vs-south-carolina-predictions-odds/73228738007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
