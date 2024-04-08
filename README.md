@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yellen says 'tough conversations' needed on China's overproduction**
+**Gov. Sanders declares state of emergency ahead of solar eclipse**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/yellen-says-tough-conversations-needed-on-chinas-overproduction).
+You can read more about it [here](https://www.4029tv.com/article/sarah-huckabee-sanders-eclipse-emergency/60422128).
 
 ## Requirements
 - Python 3.8
