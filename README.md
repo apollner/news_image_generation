@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-loss drug Wegovy offers benefits for people with diabetes and common form of heart failure, study finds**
+**‘Outrage against international law’: Mexico breaks diplomatic ties with Ecuador over embassy raid**
 
-You can read more about it [here](https://www.cnn.com/2024/04/06/health/wegovy-heart-failure-diabetes/index.html).
+You can read more about it [here](https://www.cnn.com/2024/04/06/americas/ecuador-vice-president-arrest-mexico-embassy-diplomatic-tensions-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
