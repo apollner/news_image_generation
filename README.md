@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don Lemon and Partner Tim Malone Get Married in Velvet Tuxedos**
+**They were thought to be hostages in Gaza. Israeli raids found they were dead.**
 
-You can read more about it [here](https://www.thedailybeast.com/don-lemon-and-partner-tim-malone-get-married-in-velvet-tuxedos).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/04/07/israel-soldiers-hostage-gaza-funerals/).
 
 ## Requirements
 - Python 3.8
