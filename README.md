@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**A week of mourning in Rwanda to commemorate 30 years of 1994 genocide**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/7/rwanda-holds-weeklong-mourning-to-commemorate-1994-genocide).
 
 ## Requirements
 - Python 3.8
