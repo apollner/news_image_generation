@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC issues bird flu infection health alert**
+**Latin American governments rally around Mexico after embassy raid in Ecuador**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4578651-cdc-issues-bird-flu-infection-health-alert/).
+You can read more about it [here](https://www.reuters.com/world/americas/latin-american-governments-rally-around-mexico-after-embassy-arrest-ecuador-2024-04-06/).
 
 ## Requirements
 - Python 3.8
