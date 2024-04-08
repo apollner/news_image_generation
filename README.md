@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa vs. South Carolina live scores, updates: Caitlin Clark breaks NCAA tournament all-time scoring record**
+**Johnson confronts most significant threat to his speakership to date as key decisions over Ukraine aid loom**
 
-You can read more about it [here](https://sports.yahoo.com/live/iowa-vs-south-carolina-live-scores-updates-caitlin-clark-breaks-ncaa-tournament-all-time-scoring-record-175122492.html).
+You can read more about it [here](https://www.cnn.com/2024/04/07/politics/congress-johnson-speakership-threat-greene/index.html).
 
 ## Requirements
 - Python 3.8
