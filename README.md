@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Discovery of Israeli hostage’s body in Gaza renews pressure for release deal as cease-fire talks set to resume**
+**Final Four updates: UConn eliminates Alabama, to play Purdue for title**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/discovery-of-israeli-hostages-body-in-gaza-renews-pressure-for-release-deal-as-cease-fire-talks-set-to-resume).
+You can read more about it [here](https://www.azcentral.com/story/sports/ncaab/final-four/2024/04/06/alabama-uconn-final-four-ncaa-tournament-game-live-updates-score/73210531007/).
 
 ## Requirements
 - Python 3.8
