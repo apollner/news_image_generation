@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A week of mourning in Rwanda to commemorate 30 years of 1994 genocide**
+**Why are 99 Cents Only Stores closing? The state of dollar stores today**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/7/rwanda-holds-weeklong-mourning-to-commemorate-1994-genocide).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/04/06/why-are-99-cent-stores-closing/73220304007/).
 
 ## Requirements
 - Python 3.8
