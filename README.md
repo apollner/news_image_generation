@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**They were thought to be hostages in Gaza. Israeli raids found they were dead.**
+**Russian Soyuz spacecraft brings crew of 3, including NASA astronaut, back to Earth**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/04/07/israel-soldiers-hostage-gaza-funerals/).
+You can read more about it [here](https://www.cbsnews.com/news/russian-soyuz-spacecraft-brings-crew-of-three-including-nasa-astronaut-back-to-earth/).
 
 ## Requirements
 - Python 3.8
