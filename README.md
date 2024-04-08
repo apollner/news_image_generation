@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse: The 4-minute window into the universe's secrets**
+**Don Lemon and Partner Tim Malone Get Married in Velvet Tuxedos**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68742516).
+You can read more about it [here](https://www.thedailybeast.com/don-lemon-and-partner-tim-malone-get-married-in-velvet-tuxedos).
 
 ## Requirements
 - Python 3.8
