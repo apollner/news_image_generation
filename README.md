@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**N.J. earthquake aftershock tally climbs to 34 after Friday’s big tremor. More expected.**
+**[Removed]**
 
-You can read more about it [here](https://www.nj.com/news/2024/04/nj-earthquake-aftershock-tally-climbs-to-34-after-fridays-big-tremor-more-expected.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
