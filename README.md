@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian Soyuz spacecraft brings crew of 3, including NASA astronaut, back to Earth**
+**Security guard killed, officer and 6 others injured in Florida shooting**
 
-You can read more about it [here](https://www.cbsnews.com/news/russian-soyuz-spacecraft-brings-crew-of-three-including-nasa-astronaut-back-to-earth/).
+You can read more about it [here](https://abcnews.go.com/US/security-guard-killed-officer-6-injured-florida-shooting/story?id=108943207).
 
 ## Requirements
 - Python 3.8
