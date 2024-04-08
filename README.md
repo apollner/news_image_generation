@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aftershocks from Northeast earthquake could continue for a week, seismologists say**
+**Powerball issue delays Saturdays winning number drawing**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/new-jersey-earthquake-aftershocks-nyc/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/04/06/powerball-winning-numbers-drawing-delayed-saturday/73234037007/).
 
 ## Requirements
 - Python 3.8
