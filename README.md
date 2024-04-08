@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnson confronts most significant threat to his speakership to date as key decisions over Ukraine aid loom**
+**Winning $1.3 billion Powerball ticket bought in Northeast Portland**
 
-You can read more about it [here](https://www.cnn.com/2024/04/07/politics/congress-johnson-speakership-threat-greene/index.html).
+You can read more about it [here](https://www.oregonlive.com/trending/2024/04/winning-13-billion-powerball-ticket-bought-in-northeast-portland.html).
 
 ## Requirements
 - Python 3.8
