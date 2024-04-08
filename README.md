@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse 2024: Towns in totality prepare for sun chasers**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/total-solar-eclipse-moon-sun-8f9bf6abe01315a287032917266654bd).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
