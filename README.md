@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yellen says US-China relationship on 'more stable footing' but more can be done to improve ties**
+**Iowa vs. South Carolina odds: 2024 Women's national championship game picks, Caitlin Clark predictions**
 
-You can read more about it [here](https://apnews.com/article/treasury-yellen-china-economics-trade-cbeef6b23ffb6c6cf6cb11dab25ed08b).
+You can read more about it [here](https://www.cbssports.com/womens-college-basketball/news/iowa-vs-south-carolina-odds-2024-womens-national-championship-game-picks-caitlin-clark-predictions/).
 
 ## Requirements
 - Python 3.8
