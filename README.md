@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latin American governments rally around Mexico after embassy raid in Ecuador**
+**Aftershocks from Northeast earthquake could continue for a week, seismologists say**
 
-You can read more about it [here](https://www.reuters.com/world/americas/latin-american-governments-rally-around-mexico-after-embassy-arrest-ecuador-2024-04-06/).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/new-jersey-earthquake-aftershocks-nyc/).
 
 ## Requirements
 - Python 3.8
