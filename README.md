@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Security guard killed, officer and 6 others injured in Florida shooting**
+**CDC issues bird flu infection health alert**
 
-You can read more about it [here](https://abcnews.go.com/US/security-guard-killed-officer-6-injured-florida-shooting/story?id=108943207).
+You can read more about it [here](https://thehill.com/policy/healthcare/4578651-cdc-issues-bird-flu-infection-health-alert/).
 
 ## Requirements
 - Python 3.8
