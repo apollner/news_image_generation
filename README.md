@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final Four updates: UConn eliminates Alabama, to play Purdue for title**
+**Total solar eclipse: The 4-minute window into the universe's secrets**
 
-You can read more about it [here](https://www.azcentral.com/story/sports/ncaab/final-four/2024/04/06/alabama-uconn-final-four-ncaa-tournament-game-live-updates-score/73210531007/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68742516).
 
 ## Requirements
 - Python 3.8
