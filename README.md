@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winning $1.3 billion Powerball ticket bought in Northeast Portland**
+**Paul Rudd, Ryan Gosling and more stars welcome Kristen Wiig to the 'SNL' Five-Timers Club**
 
-You can read more about it [here](https://www.oregonlive.com/trending/2024/04/winning-13-billion-powerball-ticket-bought-in-northeast-portland.html).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/04/07/kristen-wiig-snl-monologue-five-timers-club/73234981007/).
 
 ## Requirements
 - Python 3.8
