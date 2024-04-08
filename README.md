@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza Cease-Fire Talks to Resume as Netanyahu, Hamas Face Calls for Concessions**
+**Iowa vs. South Carolina live scores, updates: Caitlin Clark breaks NCAA tournament all-time scoring record**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/gaza-cease-fire-talks-resume-as-netanyahu-faces-growing-calls-for-concessions-4730f7ff).
+You can read more about it [here](https://sports.yahoo.com/live/iowa-vs-south-carolina-live-scores-updates-caitlin-clark-breaks-ncaa-tournament-all-time-scoring-record-175122492.html).
 
 ## Requirements
 - Python 3.8
