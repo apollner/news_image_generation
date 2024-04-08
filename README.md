@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Outrage against international law’: Mexico breaks diplomatic ties with Ecuador over embassy raid**
+**Total solar eclipse 2024: Towns in totality prepare for sun chasers**
 
-You can read more about it [here](https://www.cnn.com/2024/04/06/americas/ecuador-vice-president-arrest-mexico-embassy-diplomatic-tensions-intl-hnk/index.html).
+You can read more about it [here](https://apnews.com/article/total-solar-eclipse-moon-sun-8f9bf6abe01315a287032917266654bd).
 
 ## Requirements
 - Python 3.8
