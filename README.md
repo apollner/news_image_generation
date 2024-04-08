@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Rudd, Ryan Gosling and more stars welcome Kristen Wiig to the 'SNL' Five-Timers Club**
+**Yellen says 'tough conversations' needed on China's overproduction**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/04/07/kristen-wiig-snl-monologue-five-timers-club/73234981007/).
+You can read more about it [here](https://www.foxbusiness.com/economy/yellen-says-tough-conversations-needed-on-chinas-overproduction).
 
 ## Requirements
 - Python 3.8
