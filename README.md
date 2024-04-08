@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft: Community mock tracker, selections, grades**
+**How a loophole deprives foster children of benefits**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/4/7/24123330/2024-nfl-draft-community-mock-tracker-selections-grades).
+You can read more about it [here](https://www.youtube.com/watch?v=9MplCxaMm6c).
 
 ## Requirements
 - Python 3.8
