@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball issue delays Saturdays winning number drawing**
+**Total solar eclipse: The 4-minute window into the universe's secrets**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/04/06/powerball-winning-numbers-drawing-delayed-saturday/73234037007/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68742516).
 
 ## Requirements
 - Python 3.8
