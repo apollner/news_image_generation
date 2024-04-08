@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Yellen says US-China relationship on 'more stable footing' but more can be done to improve ties**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/treasury-yellen-china-economics-trade-cbeef6b23ffb6c6cf6cb11dab25ed08b).
 
 ## Requirements
 - Python 3.8
