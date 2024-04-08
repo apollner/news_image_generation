@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Xcel: Power outages in Colorado could continue into Monday**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://kdvr.com/news/local/xcel-power-outages-in-colorado-could-continue-into-monday/).
 
 ## Requirements
 - Python 3.8
