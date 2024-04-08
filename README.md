@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**International leaders condemn Ecuador after police break into the Mexican Embassy in Quito**
+**N.J. earthquake aftershock tally climbs to 34 after Friday’s big tremor. More expected.**
 
-You can read more about it [here](https://apnews.com/article/ecuador-mexico-glas-noboa-e39b08390c4a2c83c5ae0ac234ddf135).
+You can read more about it [here](https://www.nj.com/news/2024/04/nj-earthquake-aftershock-tally-climbs-to-34-after-fridays-big-tremor-more-expected.html).
 
 ## Requirements
 - Python 3.8
