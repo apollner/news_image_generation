@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans plan vote to rebuke Biden's call for Gaza ceasefire**
+**Weight-loss drug Wegovy offers benefits for people with diabetes and common form of heart failure, study finds**
 
-You can read more about it [here](https://www.axios.com/2024/04/05/house-vote-biden-gaza-ceasefire).
+You can read more about it [here](https://www.cnn.com/2024/04/06/health/wegovy-heart-failure-diabetes/index.html).
 
 ## Requirements
 - Python 3.8
