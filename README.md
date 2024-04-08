@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xcel: Power outages in Colorado could continue into Monday**
+**Gaza Cease-Fire Talks to Resume as Netanyahu, Hamas Face Calls for Concessions**
 
-You can read more about it [here](https://kdvr.com/news/local/xcel-power-outages-in-colorado-could-continue-into-monday/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/gaza-cease-fire-talks-resume-as-netanyahu-faces-growing-calls-for-concessions-4730f7ff).
 
 ## Requirements
 - Python 3.8
