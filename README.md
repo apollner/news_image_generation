@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump legal team appeals gag order and venue one week before hush money trial is set to begin**
+**Google Launches Android Find My Device Network**
 
-You can read more about it [here](https://www.cnn.com/2024/04/08/politics/trump-hush-money-case-gag-order-venue-appeal/index.html).
+You can read more about it [here](https://www.macrumors.com/2024/04/08/google-android-find-my-device-network-2/).
 
 ## Requirements
 - Python 3.8
