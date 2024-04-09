@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What time is the 2024 total solar eclipse on April 8 in Indiana? Search your ZIP code**
+**Morgan Wallen arrested on felony charges in Nashville after allegedly throwing chair from bar rooftop**
 
-You can read more about it [here](https://www.indystar.com/story/news/2024/04/08/when-is-solar-eclipse-near-me-monday-april-8-indiana/73241082007/).
+You can read more about it [here](https://www.cbsnews.com/news/morgan-wallen-arrest-nashville/).
 
 ## Requirements
 - Python 3.8
