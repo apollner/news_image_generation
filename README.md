@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky and John Calipari were stuck. Arkansas saved them from themselves.**
+**What time is the 2024 total solar eclipse on April 8 in Indiana? Search your ZIP code**
 
-You can read more about it [here](https://theathletic.com/5399826/2024/04/08/john-calipari-kentucky-arkansas-good-move/).
+You can read more about it [here](https://www.indystar.com/story/news/2024/04/08/when-is-solar-eclipse-near-me-monday-april-8-indiana/73241082007/).
 
 ## Requirements
 - Python 3.8
