@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Progress in Gaza truce talks in Cairo, Egypt's Al Qahera news says**
+**Turner: Russian propaganda "being uttered on the House floor"**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/progress-gaza-truce-talks-cairo-egypts-al-qahera-news-says-2024-04-08/).
+You can read more about it [here](https://www.axios.com/2024/04/07/russian-propaganda-republican-party-mike-turner).
 
 ## Requirements
 - Python 3.8
