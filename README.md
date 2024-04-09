@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros' Ronel Blanco makes MLB history, goes 14 straight innings without allowing a hit**
+**Israel's military confirms 'decline in forces' in southern Gaza**
 
-You can read more about it [here](https://sports.yahoo.com/astros-ronel-blanco-makes-mlb-history-goes-14-straight-innings-without-allowing-a-hit-013508876.html).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68755724).
 
 ## Requirements
 - Python 3.8
