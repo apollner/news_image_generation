@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Calipari nearing agreement with Arkansas: Kentucky coach taking over Razorbacks is 'imminent'**
+**Xcel Energy: Restoration of power could extend into Monday**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/john-calipari-nearing-agreement-with-arkansas-kentucky-coach-taking-over-razorbacks-is-imminent/).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/xcel-restoration-electricity-power-windstorm-colorado-front-range-extend-into-monday/).
 
 ## Requirements
 - Python 3.8
