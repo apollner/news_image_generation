@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk threatens to out top Brazil judge as alleged traitor**
+**Salvage crews have begun removing containers from the ship that collapsed Baltimore’s Key bridge**
 
-You can read more about it [here](https://fortune.com/2024/04/08/elon-musk-brazil-censorship-judge-alexandre-moraes-twitter-files-jair-bolsanaro/).
+You can read more about it [here](https://www.cnbc.com/2024/04/08/salvage-crews-have-begun-removing-containers-from-the-ship-that-collapsed-baltimores-key-bridge.html).
 
 ## Requirements
 - Python 3.8
