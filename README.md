@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xcel Energy: Restoration of power could extend into Monday**
+**Colorado windstorm power line problems**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/xcel-restoration-electricity-power-windstorm-colorado-front-range-extend-into-monday/).
+You can read more about it [here](https://www.9news.com/article/news/local/wildfire/colorado-wind-storm-fire/73-7b8efde4-1ab2-482f-9f02-2aaa6ec61131).
 
 ## Requirements
 - Python 3.8
