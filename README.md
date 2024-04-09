@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump legal team appeals gag order and venue one week before hush money trial is set to begin**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/04/08/politics/trump-hush-money-case-gag-order-venue-appeal/index.html).
 
 ## Requirements
 - Python 3.8
