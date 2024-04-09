@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burnet Eclipse Festival canceled early due to possible severe weather**
+**When is the next solar eclipse after 2024? What to know**
 
-You can read more about it [here](https://www.kxan.com/weather/eclipse/burnet-eclipse-festival-canceled-early-due-to-possible-severe-weather/).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/2024/04/08/when-is-the-next-solar-eclipse-michigan/73040651007/).
 
 ## Requirements
 - Python 3.8
