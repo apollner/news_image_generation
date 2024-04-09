@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russians stage a rare protest after a dam bursts and homes flood near the Kazakh border**
+**Total solar eclipse in Dallas, Texas: Pictures, video and updates**
 
-You can read more about it [here](https://www.yahoo.com/news/russians-stage-rare-protest-dam-160006379.html).
+You can read more about it [here](https://www.wfaa.com/article/news/world/solar-eclipse/total-solar-eclipse-dallas-fort-worth-north-texas/287-a679cbe7-b8ff-470e-9bba-801551e498d6).
 
 ## Requirements
 - Python 3.8
