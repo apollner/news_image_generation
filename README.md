@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Dolphin Mall deemed "safe" after reports of shots fired prompt evacuations, large police response**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/miami/news/panic-at-dolphin-mall-prompts-large-police-response-investigation-underway/).
 
 ## Requirements
 - Python 3.8
