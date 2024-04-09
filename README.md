@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Launches Android Find My Device Network**
+**Russians stage a rare protest after a dam bursts and homes flood near the Kazakh border**
 
-You can read more about it [here](https://www.macrumors.com/2024/04/08/google-android-find-my-device-network-2/).
+You can read more about it [here](https://www.yahoo.com/news/russians-stage-rare-protest-dam-160006379.html).
 
 ## Requirements
 - Python 3.8
