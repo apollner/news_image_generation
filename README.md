@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore bridge collapse: Crews begin removing containers from ship**
+**Jamie Dimon says America 'slept' while China established itself as an economic powerhouse**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/07/baltimore-bridge-collapse-containers/73240392007/).
+You can read more about it [here](https://fortune.com/2024/04/08/jamie-dimon-letter-america-slept-china-economic-powerhouse/).
 
 ## Requirements
 - Python 3.8
