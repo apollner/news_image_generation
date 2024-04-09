@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 CMT Music Awards Red Carpet Show**
+**John Calipari nearing agreement with Arkansas: Kentucky coach taking over Razorbacks is 'imminent'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Q0aALH0J9uU).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/john-calipari-nearing-agreement-with-arkansas-kentucky-coach-taking-over-razorbacks-is-imminent/).
 
 ## Requirements
 - Python 3.8
