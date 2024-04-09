@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billie Eilish announces new album: 'Hit Me Hard and Soft' arrives next month**
+**‘Curb Your Enthusiasm’: Jeff Schaffer and Susie Essman on Rewriting ‘Seinfeld’ History, Bruce Springsteen’s ‘Floor F—er’ Signs and Why Larry David ‘Is Going to Keep Working’**
 
-You can read more about it [here](https://apnews.com/article/billie-eilish-new-album-hit-me-hard-soft-bbb71007473abf4be422395b6112a335).
+You can read more about it [here](https://variety.com/2024/tv/news/curb-your-enthusiasm-finale-larry-david-jeff-schaffer-susie-essman-1235964431/).
 
 ## Requirements
 - Python 3.8
