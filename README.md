@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Curb Your Enthusiasm’ Series Finale Puts Larry David on Trial — With a ‘Seinfeld’ Plot Twist**
+**2024 CMT Music Awards Red Carpet Show**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/curb-your-enthusiasm-finale-larry-david-seinfeld-ending-1235868337/).
+You can read more about it [here](https://www.youtube.com/watch?v=Q0aALH0J9uU).
 
 ## Requirements
 - Python 3.8
