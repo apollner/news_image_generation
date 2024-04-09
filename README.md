@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Curb Your Enthusiasm’: Jeff Schaffer and Susie Essman on Rewriting ‘Seinfeld’ History, Bruce Springsteen’s ‘Floor F—er’ Signs and Why Larry David ‘Is Going to Keep Working’**
+**3 dead, including shooter, after shooting inside Las Vegas law office, police say**
 
-You can read more about it [here](https://variety.com/2024/tv/news/curb-your-enthusiasm-finale-larry-david-jeff-schaffer-susie-essman-1235964431/).
+You can read more about it [here](https://www.cbsnews.com/news/las-vegas-law-office-shooting/).
 
 ## Requirements
 - Python 3.8
