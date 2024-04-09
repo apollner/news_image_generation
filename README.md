@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to warn Beijing against meddling in South China Sea**
+**SpaceX rocket launches 11 satellites, including one for South Korea, on Bandwagon-1 rideshare flight (photos)**
 
-You can read more about it [here](https://www.ft.com/content/be5f840a-28f7-4bb0-91f9-1aedd3d10d9e).
+You can read more about it [here](https://www.space.com/spacex-bandwagon-1-rideshare-mission-launch).
 
 ## Requirements
 - Python 3.8
