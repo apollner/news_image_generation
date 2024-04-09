@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing plane engine cover falls off prompting investigation**
+**WWE WrestleMania 40 Results, Winners And Grades From Night 2**
 
-You can read more about it [here](https://www.bbc.com/news/business-68758088).
+You can read more about it [here](https://www.forbes.com/sites/alfredkonuwa/2024/04/07/wwe-wrestlemania-40-results-winners-and-grades-from-night-2/).
 
 ## Requirements
 - Python 3.8
