@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark posts emotional message on Iowa career after crushing March Madness loss to South Carolina**
+**Burnet Eclipse Festival canceled early due to possible severe weather**
 
-You can read more about it [here](https://nypost.com/2024/04/08/sports/caitlin-clarks-emotional-message-on-iowa-career-after-crushing-loss/).
+You can read more about it [here](https://www.kxan.com/weather/eclipse/burnet-eclipse-festival-canceled-early-due-to-possible-severe-weather/).
 
 ## Requirements
 - Python 3.8
