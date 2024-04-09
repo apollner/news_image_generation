@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cheryl Hines' 'Curb Your Enthusiasm' Message Goes Viral After Finale**
+**Caitlin Clark posts emotional message on Iowa career after crushing March Madness loss to South Carolina**
 
-You can read more about it [here](https://www.newsweek.com/cheryl-hines-curb-your-enthusiasm-larry-david-1887839).
+You can read more about it [here](https://nypost.com/2024/04/08/sports/caitlin-clarks-emotional-message-on-iowa-career-after-crushing-loss/).
 
 ## Requirements
 - Python 3.8
