@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turner: Russian propaganda "being uttered on the House floor"**
+**John Calipari's stunning move to Arkansas shows how desperately he wanted out of Kentucky**
 
-You can read more about it [here](https://www.axios.com/2024/04/07/russian-propaganda-republican-party-mike-turner).
+You can read more about it [here](https://sports.yahoo.com/john-caliparis-stunning-move-to-arkansas-shows-how-desperately-he-wanted-out-of-kentucky-064621389.html).
 
 ## Requirements
 - Python 3.8
