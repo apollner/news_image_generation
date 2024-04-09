@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Dimon says America 'slept' while China established itself as an economic powerhouse**
+**[Removed]**
 
-You can read more about it [here](https://fortune.com/2024/04/08/jamie-dimon-letter-america-slept-china-economic-powerhouse/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
