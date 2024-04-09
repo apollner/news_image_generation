@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When is the next solar eclipse after 2024? What to know**
+**Kentucky and John Calipari were stuck. Arkansas saved them from themselves.**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/2024/04/08/when-is-the-next-solar-eclipse-michigan/73040651007/).
+You can read more about it [here](https://theathletic.com/5399826/2024/04/08/john-calipari-kentucky-arkansas-good-move/).
 
 ## Requirements
 - Python 3.8
