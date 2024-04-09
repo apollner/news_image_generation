@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Calipari's stunning move to Arkansas shows how desperately he wanted out of Kentucky**
+**How will Iran respond to Israel’s attack on its Damascus consulate?**
 
-You can read more about it [here](https://sports.yahoo.com/john-caliparis-stunning-move-to-arkansas-shows-how-desperately-he-wanted-out-of-kentucky-064621389.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/8/how-will-iran-respond-to-israels-attack-on-its-damascus-consulate).
 
 ## Requirements
 - Python 3.8
