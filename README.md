@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total Solar Eclipse: Google celebrates with special animation**
+**Boeing plane engine cover falls off prompting investigation**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/rest-of-world/total-solar-eclipse-google-celebrates-with-special-animation/articleshow/109118582.cms).
+You can read more about it [here](https://www.bbc.com/news/business-68758088).
 
 ## Requirements
 - Python 3.8
