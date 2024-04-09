@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden races to enact new student loan forgiveness plan ahead of November**
+**Cheryl Hines' 'Curb Your Enthusiasm' Message Goes Viral After Finale**
 
-You can read more about it [here](https://www.cnn.com/2024/04/08/politics/biden-student-loan-forgiveness-proposals/index.html).
+You can read more about it [here](https://www.newsweek.com/cheryl-hines-curb-your-enthusiasm-larry-david-1887839).
 
 ## Requirements
 - Python 3.8
