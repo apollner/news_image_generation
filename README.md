@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphin Mall deemed "safe" after reports of shots fired prompt evacuations, large police response**
+**Total Solar Eclipse: Google celebrates with special animation**
 
-You can read more about it [here](https://www.cbsnews.com/miami/news/panic-at-dolphin-mall-prompts-large-police-response-investigation-underway/).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/rest-of-world/total-solar-eclipse-google-celebrates-with-special-animation/articleshow/109118582.cms).
 
 ## Requirements
 - Python 3.8
