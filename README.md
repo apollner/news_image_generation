@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Wallen arrested on felony charges in Nashville after allegedly throwing chair from bar rooftop**
+**‘Curb Your Enthusiasm’ Boss Can Finally Talk About That Ending, “A Joke 26 Years in the Making”**
 
-You can read more about it [here](https://www.cbsnews.com/news/morgan-wallen-arrest-nashville/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/curb-your-enthusiasm-series-finale-seinfeld-kicker-explained-1235868621/).
 
 ## Requirements
 - Python 3.8
