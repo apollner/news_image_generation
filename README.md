@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP Rep Agrees Russian Propaganda Has 'Infected' Republican Base**
+**Biden to warn Beijing against meddling in South China Sea**
 
-You can read more about it [here](https://www.thedailybeast.com/gop-rep-mike-turner-agrees-russian-propaganda-has-infected-republican-base).
+You can read more about it [here](https://www.ft.com/content/be5f840a-28f7-4bb0-91f9-1aedd3d10d9e).
 
 ## Requirements
 - Python 3.8
