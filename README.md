@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado windstorm power line problems**
+**Southwest Boeing loses engine cover. Here's what to know**
 
-You can read more about it [here](https://www.9news.com/article/news/local/wildfire/colorado-wind-storm-fire/73-7b8efde4-1ab2-482f-9f02-2aaa6ec61131).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/what-do-you-we-know-about-southwest-engine-cover-problem-2024-04-08/).
 
 ## Requirements
 - Python 3.8
