@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Boeing loses engine cover. Here's what to know**
+**Progress in Gaza truce talks in Cairo, Egypt's Al Qahera news says**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/what-do-you-we-know-about-southwest-engine-cover-problem-2024-04-08/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/progress-gaza-truce-talks-cairo-egypts-al-qahera-news-says-2024-04-08/).
 
 ## Requirements
 - Python 3.8
