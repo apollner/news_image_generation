@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Monday, April 8, 2024**
+**Russian-controlled Zaporizhzhia nuclear reactor damaged following drone attack**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/04/08/horoscopes-today-monday-april-8-2024).
+You can read more about it [here](https://www.cnn.com/2024/04/07/europe/russian-controlled-zaporizhzhia-nuclear-reactor-damaged-following-drone-attack/index.html).
 
 ## Requirements
 - Python 3.8
