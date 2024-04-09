@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian-controlled Zaporizhzhia nuclear reactor damaged following drone attack**
+**Elon Musk threatens to out top Brazil judge as alleged traitor**
 
-You can read more about it [here](https://www.cnn.com/2024/04/07/europe/russian-controlled-zaporizhzhia-nuclear-reactor-damaged-following-drone-attack/index.html).
+You can read more about it [here](https://fortune.com/2024/04/08/elon-musk-brazil-censorship-judge-alexandre-moraes-twitter-files-jair-bolsanaro/).
 
 ## Requirements
 - Python 3.8
