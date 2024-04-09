@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Total solar eclipse in Dallas, Texas: Pictures, video and updates**
+**Billie Eilish announces new album: 'Hit Me Hard and Soft' arrives next month**
 
-You can read more about it [here](https://www.wfaa.com/article/news/world/solar-eclipse/total-solar-eclipse-dallas-fort-worth-north-texas/287-a679cbe7-b8ff-470e-9bba-801551e498d6).
+You can read more about it [here](https://apnews.com/article/billie-eilish-new-album-hit-me-hard-soft-bbb71007473abf4be422395b6112a335).
 
 ## Requirements
 - Python 3.8
