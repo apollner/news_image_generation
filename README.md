@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Salvage crews have begun removing containers from the ship that collapsed Baltimore’s Key bridge**
+**Biden races to enact new student loan forgiveness plan ahead of November**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/08/salvage-crews-have-begun-removing-containers-from-the-ship-that-collapsed-baltimores-key-bridge.html).
+You can read more about it [here](https://www.cnn.com/2024/04/08/politics/biden-student-loan-forgiveness-proposals/index.html).
 
 ## Requirements
 - Python 3.8
