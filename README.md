@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina defeats Iowa 87-75 to win national championship and complete perfect season**
+**GOP Rep Agrees Russian Propaganda Has 'Infected' Republican Base**
 
-You can read more about it [here](https://www.ncaa.com/live-updates/basketball-women/d1/south-carolina-defeats-iowa-87-75-win-national-championship-and-complete-perfect).
+You can read more about it [here](https://www.thedailybeast.com/gop-rep-mike-turner-agrees-russian-propaganda-has-infected-republican-base).
 
 ## Requirements
 - Python 3.8
