@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How will Iran respond to Israel’s attack on its Damascus consulate?**
+**Russian-controlled Zaporizhzhia nuclear reactor damaged following drone attack**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/8/how-will-iran-respond-to-israels-attack-on-its-damascus-consulate).
+You can read more about it [here](https://www.cnn.com/2024/04/07/europe/russian-controlled-zaporizhzhia-nuclear-reactor-damaged-following-drone-attack/index.html).
 
 ## Requirements
 - Python 3.8
