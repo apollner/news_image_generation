@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian-controlled Zaporizhzhia nuclear reactor damaged following drone attack**
+**Astros' Ronel Blanco makes MLB history, goes 14 straight innings without allowing a hit**
 
-You can read more about it [here](https://www.cnn.com/2024/04/07/europe/russian-controlled-zaporizhzhia-nuclear-reactor-damaged-following-drone-attack/index.html).
+You can read more about it [here](https://sports.yahoo.com/astros-ronel-blanco-makes-mlb-history-goes-14-straight-innings-without-allowing-a-hit-013508876.html).
 
 ## Requirements
 - Python 3.8
