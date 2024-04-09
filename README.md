@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Curb Your Enthusiasm’ Boss Can Finally Talk About That Ending, “A Joke 26 Years in the Making”**
+**Baltimore bridge collapse: Crews begin removing containers from ship**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/curb-your-enthusiasm-series-finale-seinfeld-kicker-explained-1235868621/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/07/baltimore-bridge-collapse-containers/73240392007/).
 
 ## Requirements
 - Python 3.8
