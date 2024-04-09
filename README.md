@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing plane engine cover falls off prompting investigation**
+**‘Curb Your Enthusiasm’ Series Finale Puts Larry David on Trial — With a ‘Seinfeld’ Plot Twist**
 
-You can read more about it [here](https://www.bbc.com/news/business-68758088).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/curb-your-enthusiasm-finale-larry-david-seinfeld-ending-1235868337/).
 
 ## Requirements
 - Python 3.8
