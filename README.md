@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3DS And Wii U Users Say Goodbye To Online Play**
+**Tesla Settles Case Over Autopilot Crash That Killed Engineer In 2018**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/04/3ds-and-wii-u-users-say-goodbye-to-online-play).
+You can read more about it [here](https://www.ndtv.com/world-news/tesla-settles-case-over-autopilot-crash-that-killed-engineer-in-2018-5403241).
 
 ## Requirements
 - Python 3.8
