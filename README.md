@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UConn vs. Purdue live scores, updates: Follow NCAA men's championship live**
+**NCAA title game score, result: UConn wins back-to-back championships with dominant win over Purdue**
 
-You can read more about it [here](https://sports.yahoo.com/live/uconn-vs-purdue-live-scores-updates-follow-ncaa-mens-championship-live-001144592.html).
+You can read more about it [here](https://sports.yahoo.com/live/ncaa-title-game-score-result-uconn-wins-back-to-back-championships-with-dominant-win-over-purdue-001144623.html).
 
 ## Requirements
 - Python 3.8
