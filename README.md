@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Top Gun: Maverick’ copyright lawsuit dismissed**
+**UConn vs. Purdue live scores, updates: Follow NCAA men's championship live**
 
-You can read more about it [here](https://www.foxbusiness.com/entertainment/top-gun-maverick-copyright-lawsuit-dismissed).
+You can read more about it [here](https://sports.yahoo.com/live/uconn-vs-purdue-live-scores-updates-follow-ncaa-mens-championship-live-001144592.html).
 
 ## Requirements
 - Python 3.8
