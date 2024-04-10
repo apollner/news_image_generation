@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A crucial report Wednesday is expected to show little progress against inflation**
+**Biden’s latest student-debt plan targets 5 types of borrowers, would you qualify?**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/09/a-crucial-report-wednesday-is-expected-to-show-little-progress-against-inflation.html).
+You can read more about it [here](https://www.mlive.com/news/2024/04/bidens-latest-student-debt-plan-targets-5-types-of-borrowers-would-you-qualify.html).
 
 ## Requirements
 - Python 3.8
