@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows moment country star Morgan Wallen allegedly hurled chair off Nashville rooftop bar**
+**Special counsel Jack Smith urges Supreme Court to reject Trump’s claim of immunity**
 
-You can read more about it [here](https://nypost.com/2024/04/08/entertainment/video-shows-moment-country-star-morgan-wallen-allegedly-hurled-chair-off-nashville-rooftop-bar/).
+You can read more about it [here](https://www.cnn.com/2024/04/08/politics/special-counsel-jack-smith-supreme-court-trump-immunity-claim/index.html).
 
 ## Requirements
 - Python 3.8
