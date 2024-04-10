@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's Gaza withdrawal hints at what comes next**
+**James and Jennifer Crumbley, Oxford school shooter’s parents, sentenced**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68768948).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/09/jennifer-james-crumbley-sentencing-school-shooting/).
 
 ## Requirements
 - Python 3.8
