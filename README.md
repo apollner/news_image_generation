@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel Jack Smith urges Supreme Court to reject Trump’s claim of immunity**
+**3DS And Wii U Users Say Goodbye To Online Play**
 
-You can read more about it [here](https://www.cnn.com/2024/04/08/politics/special-counsel-jack-smith-supreme-court-trump-immunity-claim/index.html).
+You can read more about it [here](https://www.nintendolife.com/news/2024/04/3ds-and-wii-u-users-say-goodbye-to-online-play).
 
 ## Requirements
 - Python 3.8
