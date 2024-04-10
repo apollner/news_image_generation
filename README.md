@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Calipari leaving Kentucky for Arkansas is a shining moment for both programs who each get a fresh start**
+**No double-teams, no 3s: The UConn defensive math that strangled Purdue and won a title**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/john-calipari-leaving-kentucky-for-arkansas-is-a-shining-moment-for-both-programs-who-each-get-a-fresh-start/).
+You can read more about it [here](https://theathletic.com/5401518/2024/04/09/uconn-national-championship-defense-purdue-zach-edey/).
 
 ## Requirements
 - Python 3.8
