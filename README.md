@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Heavy' history: ULA launches final Delta rocket after 64 years (video, photos)**
+**Judge declines to postpone Trump hush money trial, will consider whether to relax gag order**
 
-You can read more about it [here](http://www.collectspace.com/news/news-032824a-final-delta-4-heavy-rocket-launch-nrol-70.html).
+You can read more about it [here](https://abcnews.go.com/US/judge-hear-trump-appeal-limited-gag-order-hush/story?id=109038637).
 
 ## Requirements
 - Python 3.8
