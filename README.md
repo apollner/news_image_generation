@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Children of the Sun Review**
+**Zach Edey faded for a stretch, costing Purdue in loss to Connecticut**
 
-You can read more about it [here](https://www.ign.com/articles/children-of-the-sun-review).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/09/purdue-ncaa-final-zach-edey/).
 
 ## Requirements
 - Python 3.8
