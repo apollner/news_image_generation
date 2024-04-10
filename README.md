@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's abortion plan angers conservatives but won't hurt him in 2024**
+**Dan Hurley plans to stay at UConn, eyes 'dynasty in modern times'**
 
-You can read more about it [here](https://www.axios.com/2024/04/08/conservatives-trump-abortion-ban-plan-pence).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39904851/dan-hurley-plans-stay-uconn-eyes-dynasty-modern-s).
 
 ## Requirements
 - Python 3.8
