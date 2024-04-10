@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's new student loan forgiveness plan could help 30 million borrowers. Here's who would qualify.**
+**Children of the Sun Review**
 
-You can read more about it [here](https://www.cbsnews.com/news/student-loan-forgiveness-new-biden-plan-30-million-who-qualifies-cbs-news-explains/).
+You can read more about it [here](https://www.ign.com/articles/children-of-the-sun-review).
 
 ## Requirements
 - Python 3.8
