@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dan Hurley plans to stay at UConn, eyes 'dynasty in modern times'**
+**Tesla settles lawsuit over Autopilot crash that left Apple engineer dead**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/39904851/dan-hurley-plans-stay-uconn-eyes-dynasty-modern-s).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/tesla-settles-lawsuit-over-autopilot-crash-that-left-apple-engineer-dead).
 
 ## Requirements
 - Python 3.8
