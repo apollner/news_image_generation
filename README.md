@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla settles lawsuit over Autopilot crash that left Apple engineer dead**
+**U.S., Japan to announce military cooperation, joint NASA lunar mission**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/tesla-settles-lawsuit-over-autopilot-crash-that-left-apple-engineer-dead).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/04/08/japan-us-nasa-biden-kishida/).
 
 ## Requirements
 - Python 3.8
