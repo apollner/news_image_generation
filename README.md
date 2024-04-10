@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are Gwen Stefani and Blake Shelton getting a divorce? Gwen Stefani speaks out**
+**Biden's new student loan forgiveness plan could help 30 million borrowers. Here's who would qualify.**
 
-You can read more about it [here](https://www.miamiherald.com/news/nation-world/national/article287513880.html).
+You can read more about it [here](https://www.cbsnews.com/news/student-loan-forgiveness-new-biden-plan-30-million-who-qualifies-cbs-news-explains/).
 
 ## Requirements
 - Python 3.8
