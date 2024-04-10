@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cancer rates rising in young people due to 'accelerated aging,' new study finds: 'Highly troubling'**
+**Fallout TV Show Release Date Brought Forward Again**
 
-You can read more about it [here](https://www.foxnews.com/health/cancer-rates-rising-people-accelerated-aging-study-finds-highly-troubling).
+You can read more about it [here](https://www.ign.com/articles/fallout-tv-show-release-date-brought-forward-again).
 
 ## Requirements
 - Python 3.8
