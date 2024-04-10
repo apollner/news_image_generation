@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky coaching candidates: Dan Hurley, Nate Oats both off list that includes Billy Donovan, Rick Pitino**
+**Jury questionnaire in Trump hush money trial released by judge**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/kentucky-coaching-candidates-dan-hurley-nate-oats-both-off-list-that-includes-billy-donovan-rick-pitino/).
+You can read more about it [here](https://www.axios.com/2024/04/09/read-judge-releases-jury-questionnaire-in-trump-hush-money-trial).
 
 ## Requirements
 - Python 3.8
