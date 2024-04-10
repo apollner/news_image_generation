@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany rejects allegations that it's facilitating acts of genocide in Gaza at UN court**
+**Kentucky coaching candidates: Dan Hurley, Nate Oats both off list that includes Billy Donovan, Rick Pitino**
 
-You can read more about it [here](https://apnews.com/article/israel-gaza-nicaragua-germany-genocide-court-91a605921b44110ae5534e6438405997).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/kentucky-coaching-candidates-dan-hurley-nate-oats-both-off-list-that-includes-billy-donovan-rick-pitino/).
 
 ## Requirements
 - Python 3.8
