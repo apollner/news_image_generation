@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S., Japan to announce military cooperation, joint NASA lunar mission**
+**U-Conn. overwhelmed Purdue with the power of team basketball**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/04/08/japan-us-nasa-biden-kishida/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/09/uconn-national-title/).
 
 ## Requirements
 - Python 3.8
