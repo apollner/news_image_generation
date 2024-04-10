@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden’s latest student-debt plan targets 5 types of borrowers, would you qualify?**
+**Struggling Pirates closer David Bednar booed at home**
 
-You can read more about it [here](https://www.mlive.com/news/2024/04/bidens-latest-student-debt-plan-targets-5-types-of-borrowers-would-you-qualify.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/39908899/struggling-pirates-closer-david-bednar-booed-home).
 
 ## Requirements
 - Python 3.8
