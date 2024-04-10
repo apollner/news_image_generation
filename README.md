@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No double-teams, no 3s: The UConn defensive math that strangled Purdue and won a title**
+**5 over-the-top Oregon estates to tempt $1.3 billion Powerball winner**
 
-You can read more about it [here](https://theathletic.com/5401518/2024/04/09/uconn-national-championship-defense-purdue-zach-edey/).
+You can read more about it [here](https://www.oregonlive.com/realestate/2024/04/5-over-the-top-oregon-estates-to-tempt-13-billion-powerball-winner.html).
 
 ## Requirements
 - Python 3.8
