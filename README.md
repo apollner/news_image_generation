@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows moment country star Morgan Wallen allegedly hurled chair off Nashville rooftop bar**
+**Trump's abortion plan angers conservatives but won't hurt him in 2024**
 
-You can read more about it [here](https://nypost.com/2024/04/08/entertainment/video-shows-moment-country-star-morgan-wallen-allegedly-hurled-chair-off-nashville-rooftop-bar/).
+You can read more about it [here](https://www.axios.com/2024/04/08/conservatives-trump-abortion-ban-plan-pence).
 
 ## Requirements
 - Python 3.8
