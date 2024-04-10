@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA title game score, result: UConn wins back-to-back championships with dominant win over Purdue**
+**Video shows moment country star Morgan Wallen allegedly hurled chair off Nashville rooftop bar**
 
-You can read more about it [here](https://sports.yahoo.com/live/ncaa-title-game-score-result-uconn-wins-back-to-back-championships-with-dominant-win-over-purdue-001144623.html).
+You can read more about it [here](https://nypost.com/2024/04/08/entertainment/video-shows-moment-country-star-morgan-wallen-allegedly-hurled-chair-off-nashville-rooftop-bar/).
 
 ## Requirements
 - Python 3.8
