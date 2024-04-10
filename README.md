@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stunning images of total solar eclipse from New England and beyond**
+**Google Searches for 'Eyes Hurt' Spike Amid Solar Eclipse**
 
-You can read more about it [here](https://www.boston25news.com/news/local/stunning-images-total-solar-eclipse-new-england-beyond/M7BCALSOZRBQPLN75ZFFGNX5AU/).
+You can read more about it [here](https://www.ign.com/articles/google-searches-for-eyes-hurt-spike-amid-solar-eclipse).
 
 ## Requirements
 - Python 3.8
