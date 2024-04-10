@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 dead, including shooter, after shooting inside Las Vegas law office, police say**
+**Stunning images of total solar eclipse from New England and beyond**
 
-You can read more about it [here](https://www.cbsnews.com/news/las-vegas-law-office-shooting/).
+You can read more about it [here](https://www.boston25news.com/news/local/stunning-images-total-solar-eclipse-new-england-beyond/M7BCALSOZRBQPLN75ZFFGNX5AU/).
 
 ## Requirements
 - Python 3.8
