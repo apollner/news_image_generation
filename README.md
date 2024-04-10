@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**International court rules Switzerland violated human rights in a landmark climate judgment**
+**Germany rejects allegations that it's facilitating acts of genocide in Gaza at UN court**
 
-You can read more about it [here](https://www.cnn.com/2024/04/09/climate/international-court-judgment-human-rights-climate-intl/index.html).
+You can read more about it [here](https://apnews.com/article/israel-gaza-nicaragua-germany-genocide-court-91a605921b44110ae5534e6438405997).
 
 ## Requirements
 - Python 3.8
