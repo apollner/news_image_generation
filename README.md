@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U-Conn. overwhelmed Purdue with the power of team basketball**
+**International court rules Switzerland violated human rights in a landmark climate judgment**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/09/uconn-national-title/).
+You can read more about it [here](https://www.cnn.com/2024/04/09/climate/international-court-judgment-human-rights-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
