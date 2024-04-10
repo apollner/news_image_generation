@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zach Edey faded for a stretch, costing Purdue in loss to Connecticut**
+**Are Gwen Stefani and Blake Shelton getting a divorce? Gwen Stefani speaks out**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/09/purdue-ncaa-final-zach-edey/).
+You can read more about it [here](https://www.miamiherald.com/news/nation-world/national/article287513880.html).
 
 ## Requirements
 - Python 3.8
