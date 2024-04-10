@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Wallen's Nashville arrest not linked to ex girlfriend getting married: source**
+**'Heavy' history: ULA launches final Delta rocket after 64 years (video, photos)**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/morgan-wallens-nashville-arrest-not-linked-ex-girlfriend-getting-married-source).
+You can read more about it [here](http://www.collectspace.com/news/news-032824a-final-delta-4-heavy-rocket-launch-nrol-70.html).
 
 ## Requirements
 - Python 3.8
