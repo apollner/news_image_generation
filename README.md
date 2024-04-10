@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury questionnaire in Trump hush money trial released by judge**
+**Cancer rates rising in young people due to 'accelerated aging,' new study finds: 'Highly troubling'**
 
-You can read more about it [here](https://www.axios.com/2024/04/09/read-judge-releases-jury-questionnaire-in-trump-hush-money-trial).
+You can read more about it [here](https://www.foxnews.com/health/cancer-rates-rising-people-accelerated-aging-study-finds-highly-troubling).
 
 ## Requirements
 - Python 3.8
