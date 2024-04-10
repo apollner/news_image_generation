@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 over-the-top Oregon estates to tempt $1.3 billion Powerball winner**
+**Morgan Wallen's Nashville arrest not linked to ex girlfriend getting married: source**
 
-You can read more about it [here](https://www.oregonlive.com/realestate/2024/04/5-over-the-top-oregon-estates-to-tempt-13-billion-powerball-winner.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/morgan-wallens-nashville-arrest-not-linked-ex-girlfriend-getting-married-source).
 
 ## Requirements
 - Python 3.8
