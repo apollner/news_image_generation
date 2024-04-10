@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge declines to postpone Trump hush money trial, will consider whether to relax gag order**
+**A crucial report Wednesday is expected to show little progress against inflation**
 
-You can read more about it [here](https://abcnews.go.com/US/judge-hear-trump-appeal-limited-gag-order-hush/story?id=109038637).
+You can read more about it [here](https://www.cnbc.com/2024/04/09/a-crucial-report-wednesday-is-expected-to-show-little-progress-against-inflation.html).
 
 ## Requirements
 - Python 3.8
