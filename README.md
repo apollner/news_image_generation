@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fallout TV Show Release Date Brought Forward Again**
+**Israel's Gaza withdrawal hints at what comes next**
 
-You can read more about it [here](https://www.ign.com/articles/fallout-tv-show-release-date-brought-forward-again).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68768948).
 
 ## Requirements
 - Python 3.8
