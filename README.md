@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Most underrated NFL draft prospect in 2024 class? One QB among eight potential candidates**
+**Quantum crystal of frozen electrons—the Wigner crystal—is visualized for the first time**
 
-You can read more about it [here](https://www.nfl.com/news/most-underrated-nfl-draft-prospect-in-2024-class-one-qb-among-eight-potential-candidates).
+You can read more about it [here](https://phys.org/news/2024-04-quantum-crystal-frozen-electrons-wigner.html).
 
 ## Requirements
 - Python 3.8
