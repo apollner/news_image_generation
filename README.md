@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed wants more confidence that inflation is moving toward 2% target, meeting minutes indicate**
+**Dangerous tornado and flooding situation unfolding in South: Live updates**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/10/fed-meeting-minutes-point-to-caution-on-inflation.html).
+You can read more about it [here](https://www.cnn.com/us/live-news/severe-storms-texas-south-04-10-24/index.html).
 
 ## Requirements
 - Python 3.8
