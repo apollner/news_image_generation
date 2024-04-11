@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Struggling Pirates closer David Bednar booed at home**
+**College basketball rankings: Houston, North Carolina lead way-too-early Top 25 And 1 for 2024-25 season**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39908899/struggling-pirates-closer-david-bednar-booed-home).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-houston-north-carolina-lead-way-too-early-top-25-and-1-for-2024-25-season/).
 
 ## Requirements
 - Python 3.8
