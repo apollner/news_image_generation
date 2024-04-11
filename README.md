@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brittany Cartwright says she and Jax Taylor only had sex 'twice in the past year' before split**
+**‘Joker 2’ Trailer: Lady Gaga and Joaquin Phoenix Unleash Bad Romance in Thrilling First Footage**
 
-You can read more about it [here](https://pagesix.com/2024/04/09/entertainment/brittany-cartwright-says-she-and-jax-taylor-only-had-sex-twice-in-the-past-year-before-split/).
+You can read more about it [here](https://variety.com/2024/film/news/joker-2-trailer-joaquin-phoenix-lady-gaga-1235957692/).
 
 ## Requirements
 - Python 3.8
