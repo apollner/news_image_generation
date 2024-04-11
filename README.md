@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former assistant principal of school where 6-year-old pupil shot teacher Abby Zwerner charged with child neglect**
+**John Rich says he's 'rooting' for Morgan Wallen to 'turn it around' after Nashville arrest**
 
-You can read more about it [here](https://nypost.com/2024/04/10/us-news/then-assistant-principal-of-school-where-6-year-old-shot-teacher-abby-zwerner-charged-with-child-neglect/).
+You can read more about it [here](https://www.foxnews.com/entertainment/john-rich-says-hes-rooting-for-morgan-wallen-to-turn-it-around-after-arrest).
 
 ## Requirements
 - Python 3.8
