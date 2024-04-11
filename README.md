@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parents of Michigan School Shooter Ethan Crumbley Sentenced to 10-15 Years in Prison**
+**Tara VanDerveer, NCAA's winningest basketball coach, retires**
 
-You can read more about it [here](https://www.wsj.com/us-news/michigan-school-shooter-ethan-crumbley-parents-sentenced-b5d5a13c).
+You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39911025/tara-vanderveer-ncaa-winningest-basketball-coach-retires).
 
 ## Requirements
 - Python 3.8
