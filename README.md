@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CERN pays tribute to Peter Higgs**
+**iPhone 16 Plus Rumored to Come in These 7 Colors**
 
-You can read more about it [here](https://home.cern/news/obituary/physics/cern-pays-tribute-peter-higgs).
+You can read more about it [here](https://www.macrumors.com/2024/04/10/iphone-16-plus-rumored-to-come-in-these-7-colors/).
 
 ## Requirements
 - Python 3.8
