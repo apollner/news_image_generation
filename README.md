@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nobel Prize-winning physicist Peter Higgs dies, aged 94**
+**Maggie Haberman reacts to Trump’s abortion statement**
 
-You can read more about it [here](https://www.dw.com/en/nobel-prize-winning-physicist-peter-higgs-dies-aged-94/a-68780280).
+You can read more about it [here](https://www.cnn.com/videos/politics/2024/04/10/haberman-trump-abortion-ban-federal-state-ac360-vpx.cnn).
 
 ## Requirements
 - Python 3.8
