@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Sees Missile Strike on Israel By Iran, Proxies as Imminent**
+**WNBA TV slate fixed on Fever, likely No. 1 Clark**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-10/us-sees-missile-strike-on-israel-by-iran-proxies-as-imminent).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/39915156/wnba-tv-slate-focuses-fever-likely-no-1-caitlin-clark).
 
 ## Requirements
 - Python 3.8
