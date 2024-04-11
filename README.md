@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The It List: 'Civil War' depicts a dystopian America, 'Bluey' fans await 'The Sign,' Vampire Weekend release first album in 5 years**
+**Most underrated NFL draft prospect in 2024 class? One QB among eight potential candidates**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/the-it-list-civil-war-depicts-a-dystopian-america-bluey-fans-await-the-sign-vampire-weekend-release-first-album-in-5-years-150029389.html).
+You can read more about it [here](https://www.nfl.com/news/most-underrated-nfl-draft-prospect-in-2024-class-one-qb-among-eight-potential-candidates).
 
 ## Requirements
 - Python 3.8
