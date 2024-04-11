@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World of Warcraft: Popular game to return to China**
+**Israel threatens direct attack against Iran if Tehran launches strike 'from its territory'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/czq5xyj2dw2o).
+You can read more about it [here](https://www.foxnews.com/world/israel-threatens-direct-attack-iran-tehran-launches-strike-territory).
 
 ## Requirements
 - Python 3.8
