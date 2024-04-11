@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s latest abortion stance presents challenge for potential running mates**
+**6 former Mississippi police officers sentenced on state charges in torture of Black men**
 
-You can read more about it [here](https://www.cnn.com/2024/04/10/politics/abortion-donald-trump-vice-president/index.html).
+You can read more about it [here](https://abcnews.go.com/US/6-former-mississippi-police-officers-sentenced-state-charges/story?id=109084577).
 
 ## Requirements
 - Python 3.8
