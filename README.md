@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ending an era, final Delta 4 Heavy boosts classified spy satellite into orbit**
+**Missouri death row inmate Brian Dorsey executed 18 years after killing cousin, her husband: 'Deeply, overwhelmingly sorry'**
 
-You can read more about it [here](https://www.cbsnews.com/news/final-delta-4-heavy-boosts-classified-spy-satellite-into-orbit-ending-an-era/).
+You can read more about it [here](https://nypost.com/2024/04/09/us-news/brian-dorsey-executed-18-years-after-killing-cousin-her-husband/).
 
 ## Requirements
 - Python 3.8
