@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri death row inmate Brian Dorsey executed 18 years after killing cousin, her husband: 'Deeply, overwhelmingly sorry'**
+**Nobel Prize-winning physicist Peter Higgs dies, aged 94**
 
-You can read more about it [here](https://nypost.com/2024/04/09/us-news/brian-dorsey-executed-18-years-after-killing-cousin-her-husband/).
+You can read more about it [here](https://www.dw.com/en/nobel-prize-winning-physicist-peter-higgs-dies-aged-94/a-68780280).
 
 ## Requirements
 - Python 3.8
