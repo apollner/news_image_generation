@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College basketball rankings: Houston, North Carolina lead way-too-early Top 25 And 1 for 2024-25 season**
+**Brittany Cartwright says she and Jax Taylor only had sex 'twice in the past year' before split**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-rankings-houston-north-carolina-lead-way-too-early-top-25-and-1-for-2024-25-season/).
+You can read more about it [here](https://pagesix.com/2024/04/09/entertainment/brittany-cartwright-says-she-and-jax-taylor-only-had-sex-twice-in-the-past-year-before-split/).
 
 ## Requirements
 - Python 3.8
