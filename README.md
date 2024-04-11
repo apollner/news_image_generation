@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LA mom stabs boyfriend dead, kills baby before smashing SUV into tree in twisted murder-suicide**
+**New whistleblower raises concerns about Boeing's 787 Dreamliner - The Washington Post**
 
-You can read more about it [here](https://nypost.com/2024/04/09/us-news/los-angeles-mom-throws-kids-from-car-kills-self-after-stabbing-boyfriend/).
+You can read more about it [here](https://www.washingtonpost.com/transportation/2024/04/09/boeing-whistleblower-787-dreamliner-fuselages/).
 
 ## Requirements
 - Python 3.8
