@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Joker 2’ Trailer: Lady Gaga and Joaquin Phoenix Unleash Bad Romance in Thrilling First Footage**
+**Biden take Japan’s Kishida out to D.C. dinner, gifts him Billy Joel lithograph**
 
-You can read more about it [here](https://variety.com/2024/film/news/joker-2-trailer-joaquin-phoenix-lady-gaga-1235957692/).
+You can read more about it [here](https://thehill.com/homenews/administration/4584124-biden-take-japans-kishida-out-to-d-c-dinner-gifts-him-billy-joel-lithograph/).
 
 ## Requirements
 - Python 3.8
