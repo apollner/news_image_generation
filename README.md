@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Augusta National Chairman Has No Plan to Give LIV Golfers a New Path to Masters Field**
+**Bird flu found in NYC park — health experts warn to steer clear of wildlife**
 
-You can read more about it [here](https://www.si.com/golf/2024/04/10/masters-chairman-liv-golf-no-path-more-spots).
+You can read more about it [here](https://nypost.com/2024/04/10/us-news/bird-flu-found-in-nyc-park-health-experts-warn-to-steer-clear-of-wildlife/).
 
 ## Requirements
 - Python 3.8
