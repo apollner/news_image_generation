@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 rumored to come in multiple new colors: here's the list**
+**Augusta National Chairman Has No Plan to Give LIV Golfers a New Path to Masters Field**
 
-You can read more about it [here]().
+You can read more about it [here](https://www.si.com/golf/2024/04/10/masters-chairman-liv-golf-no-path-more-spots).
 
 ## Requirements
 - Python 3.8
