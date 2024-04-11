@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Trump Organization CFO Allen Weisselberg sentenced to 5 months for perjury**
+**Chad Daybell's pursuit for 'sex, money and power' led to 3 murders, prosecutor claims in opening statement**
 
-You can read more about it [here](https://abcnews.go.com/US/trump-organization-cfo-allen-weisselberg-sentenced-5-months/story?id=109083135).
+You can read more about it [here](https://abcnews.go.com/US/chad-daybell-murder-trial-opening-statements/story?id=109043798).
 
 ## Requirements
 - Python 3.8
