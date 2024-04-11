@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unique solar eclipse photos, videos from space, air, mountains and more**
+**US Sees Missile Strike on Israel By Iran, Proxies as Imminent**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/04/10/eclipse-views-air-space-ground/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-10/us-sees-missile-strike-on-israel-by-iran-proxies-as-imminent).
 
 ## Requirements
 - Python 3.8
