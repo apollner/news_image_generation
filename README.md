@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken says Hamas should accept "serious" Gaza hostage and ceasefire deal**
+**Gwen Stefani addresses Blake Shelton divorce rumors, working with No Doubt after motherhood**
 
-You can read more about it [here](https://www.axios.com/2024/04/09/blinken-hamas-gaza-hostage-ceasefire-deal).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/04/09/gwen-stefani-blake-shelton-divorce-rumors-the-truth/73262160007/).
 
 ## Requirements
 - Python 3.8
