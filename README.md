@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden take Japan’s Kishida out to D.C. dinner, gifts him Billy Joel lithograph**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4584124-biden-take-japans-kishida-out-to-d-c-dinner-gifts-him-billy-joel-lithograph/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
