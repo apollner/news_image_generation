@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can the stock-market rally continue if the Fed doesn't cut rates? Here's the rub.**
+**Ex-Trump Organization CFO Allen Weisselberg sentenced to 5 months for perjury**
 
-You can read more about it [here](https://www.marketwatch.com/livecoverage/cpi-report-for-march-dow-futures-steady-ahead-of-key-inflation-data/card/can-the-stock-market-rally-continue-if-the-fed-doesn-t-cut-rates-here-s-the-rub--7kT2nudbOPjGF9YzhiEL).
+You can read more about it [here](https://abcnews.go.com/US/trump-organization-cfo-allen-weisselberg-sentenced-5-months/story?id=109083135).
 
 ## Requirements
 - Python 3.8
