@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Rich says he's 'rooting' for Morgan Wallen to 'turn it around' after Nashville arrest**
+**Trump’s latest abortion stance presents challenge for potential running mates**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/john-rich-says-hes-rooting-for-morgan-wallen-to-turn-it-around-after-arrest).
+You can read more about it [here](https://www.cnn.com/2024/04/10/politics/abortion-donald-trump-vice-president/index.html).
 
 ## Requirements
 - Python 3.8
