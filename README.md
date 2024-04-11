@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA TV slate fixed on Fever, likely No. 1 Clark**
+**iPhone 16 rumored to come in multiple new colors: here's the list**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/39915156/wnba-tv-slate-focuses-fever-likely-no-1-caitlin-clark).
+You can read more about it [here]().
 
 ## Requirements
 - Python 3.8
