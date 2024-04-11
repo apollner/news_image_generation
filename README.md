@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chad Daybell's pursuit for 'sex, money and power' led to 3 murders, prosecutor claims in opening statement**
+**The It List: 'Civil War' depicts a dystopian America, 'Bluey' fans await 'The Sign,' Vampire Weekend release first album in 5 years**
 
-You can read more about it [here](https://abcnews.go.com/US/chad-daybell-murder-trial-opening-statements/story?id=109043798).
+You can read more about it [here](https://www.yahoo.com/entertainment/the-it-list-civil-war-depicts-a-dystopian-america-bluey-fans-await-the-sign-vampire-weekend-release-first-album-in-5-years-150029389.html).
 
 ## Requirements
 - Python 3.8
