@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Mayorkas impeachment trial delayed until next week**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/09/mayorkas-impeachment-senate-trial-immigration-republicans/).
 
 ## Requirements
 - Python 3.8
