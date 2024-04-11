@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dangerous tornado and flooding situation unfolding in South: Live updates**
+**Unique solar eclipse photos, videos from space, air, mountains and more**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/severe-storms-texas-south-04-10-24/index.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/04/10/eclipse-views-air-space-ground/).
 
 ## Requirements
 - Python 3.8
