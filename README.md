@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwen Stefani addresses Blake Shelton divorce rumors, working with No Doubt after motherhood**
+**Inflation expected to remain elevated as rate cut debate takes center stage**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/04/09/gwen-stefani-blake-shelton-divorce-rumors-the-truth/73262160007/).
+You can read more about it [here](https://finance.yahoo.com/news/inflation-expected-to-remain-elevated-as-rate-cut-debate-takes-center-stage-195802788.html).
 
 ## Requirements
 - Python 3.8
