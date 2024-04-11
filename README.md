@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Plus Rumored to Come in These 7 Colors**
+**Former assistant principal of school where 6-year-old pupil shot teacher Abby Zwerner charged with child neglect**
 
-You can read more about it [here](https://www.macrumors.com/2024/04/10/iphone-16-plus-rumored-to-come-in-these-7-colors/).
+You can read more about it [here](https://nypost.com/2024/04/10/us-news/then-assistant-principal-of-school-where-6-year-old-shot-teacher-abby-zwerner-charged-with-child-neglect/).
 
 ## Requirements
 - Python 3.8
