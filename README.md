@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors down Lakers behind historic 3-point shooting night**
+**CERN pays tribute to Peter Higgs**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39912202/warriors-lakers-historic-3-point-shooting-night).
+You can read more about it [here](https://home.cern/news/obituary/physics/cern-pays-tribute-peter-higgs).
 
 ## Requirements
 - Python 3.8
