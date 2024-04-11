@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inflation expected to remain elevated as rate cut debate takes center stage**
+**Struggling Pirates closer David Bednar booed at home**
 
-You can read more about it [here](https://finance.yahoo.com/news/inflation-expected-to-remain-elevated-as-rate-cut-debate-takes-center-stage-195802788.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/39908899/struggling-pirates-closer-david-bednar-booed-home).
 
 ## Requirements
 - Python 3.8
