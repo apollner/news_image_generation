@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayorkas impeachment trial delayed until next week**
+**Ending an era, final Delta 4 Heavy boosts classified spy satellite into orbit**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/09/mayorkas-impeachment-senate-trial-immigration-republicans/).
+You can read more about it [here](https://www.cbsnews.com/news/final-delta-4-heavy-boosts-classified-spy-satellite-into-orbit-ending-an-era/).
 
 ## Requirements
 - Python 3.8
