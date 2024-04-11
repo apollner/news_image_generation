@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Struggling Pirates closer David Bednar booed at home**
+**Blinken says Hamas should accept "serious" Gaza hostage and ceasefire deal**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/39908899/struggling-pirates-closer-david-bednar-booed-home).
+You can read more about it [here](https://www.axios.com/2024/04/09/blinken-hamas-gaza-hostage-ceasefire-deal).
 
 ## Requirements
 - Python 3.8
