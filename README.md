@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 former Mississippi police officers sentenced on state charges in torture of Black men**
+**Can the stock-market rally continue if the Fed doesn't cut rates? Here's the rub.**
 
-You can read more about it [here](https://abcnews.go.com/US/6-former-mississippi-police-officers-sentenced-state-charges/story?id=109084577).
+You can read more about it [here](https://www.marketwatch.com/livecoverage/cpi-report-for-march-dow-futures-steady-ahead-of-key-inflation-data/card/can-the-stock-market-rally-continue-if-the-fed-doesn-t-cut-rates-here-s-the-rub--7kT2nudbOPjGF9YzhiEL).
 
 ## Requirements
 - Python 3.8
