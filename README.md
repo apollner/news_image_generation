@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brittany Cartwright says she and Jax Taylor only had sex 'twice in the past year' before split**
+**Parents of Michigan School Shooter Ethan Crumbley Sentenced to 10-15 Years in Prison**
 
-You can read more about it [here](https://pagesix.com/2024/04/09/entertainment/brittany-cartwright-says-she-and-jax-taylor-only-had-sex-twice-in-the-past-year-before-split/).
+You can read more about it [here](https://www.wsj.com/us-news/michigan-school-shooter-ethan-crumbley-parents-sentenced-b5d5a13c).
 
 ## Requirements
 - Python 3.8
