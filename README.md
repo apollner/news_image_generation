@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New whistleblower raises concerns about Boeing's 787 Dreamliner - The Washington Post**
+**Biden take Japan’s Kishida out to D.C. dinner, gifts him Billy Joel lithograph**
 
-You can read more about it [here](https://www.washingtonpost.com/transportation/2024/04/09/boeing-whistleblower-787-dreamliner-fuselages/).
+You can read more about it [here](https://thehill.com/homenews/administration/4584124-biden-take-japans-kishida-out-to-d-c-dinner-gifts-him-billy-joel-lithograph/).
 
 ## Requirements
 - Python 3.8
