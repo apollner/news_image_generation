@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tara VanDerveer, NCAA's winningest basketball coach, retires**
+**Brittany Cartwright says she and Jax Taylor only had sex 'twice in the past year' before split**
 
-You can read more about it [here](https://www.espn.com/womens-college-basketball/story/_/id/39911025/tara-vanderveer-ncaa-winningest-basketball-coach-retires).
+You can read more about it [here](https://pagesix.com/2024/04/09/entertainment/brittany-cartwright-says-she-and-jax-taylor-only-had-sex-twice-in-the-past-year-before-split/).
 
 ## Requirements
 - Python 3.8
