@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel threatens direct attack against Iran if Tehran launches strike 'from its territory'**
+**Warriors down Lakers behind historic 3-point shooting night**
 
-You can read more about it [here](https://www.foxnews.com/world/israel-threatens-direct-attack-iran-tehran-launches-strike-territory).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39912202/warriors-lakers-historic-3-point-shooting-night).
 
 ## Requirements
 - Python 3.8
