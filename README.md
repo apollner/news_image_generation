@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maggie Haberman reacts to Trump’s abortion statement**
+**World of Warcraft: Popular game to return to China**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2024/04/10/haberman-trump-abortion-ban-federal-state-ac360-vpx.cnn).
+You can read more about it [here](https://www.bbc.com/news/articles/czq5xyj2dw2o).
 
 ## Requirements
 - Python 3.8
