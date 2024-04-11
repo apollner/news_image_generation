@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quantum crystal of frozen electrons—the Wigner crystal—is visualized for the first time**
+**Fed wants more confidence that inflation is moving toward 2% target, meeting minutes indicate**
 
-You can read more about it [here](https://phys.org/news/2024-04-quantum-crystal-frozen-electrons-wigner.html).
+You can read more about it [here](https://www.cnbc.com/2024/04/10/fed-meeting-minutes-point-to-caution-on-inflation.html).
 
 ## Requirements
 - Python 3.8
