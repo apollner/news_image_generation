@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Ippei Mizuhara's guilty plea negotiations could mean for Shohei Ohtani**
+**Goldman still expects stubbornly high U.S. inflation to fall this year**
 
-You can read more about it [here](https://theathletic.com/5407444/2024/04/11/ippei-mizuhara-shohei-ohtani-plea-mlb/).
+You can read more about it [here](https://www.cnbc.com/2024/04/11/goldman-still-expects-stubbornly-high-us-inflation-to-fall-this-year.html).
 
 ## Requirements
 - Python 3.8
