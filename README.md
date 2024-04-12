@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's bid to delay hush money trial again rejected by New York appeals court**
+**John Calipari Was Brutally Honest About Status of Arkansas Roster Upon Arrival**
 
-You can read more about it [here](https://www.axios.com/2024/04/10/trump-hush-money-trial-delay-rejected-court).
+You can read more about it [here](https://www.si.com/college/2024/04/10/arkansas-john-calipari-brutally-honest-roster-status).
 
 ## Requirements
 - Python 3.8
