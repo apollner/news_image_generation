@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's What Reviewers Are Saying About the Humane Pin**
+**Escaped 'individual' caught on video trying to board train in Australia — on four legs**
 
-You can read more about it [here](https://gizmodo.com/review-roundup-humane-pin-1851403020).
+You can read more about it [here](https://www.aol.com/escaped-individual-caught-video-trying-134912202.html).
 
 ## Requirements
 - Python 3.8
