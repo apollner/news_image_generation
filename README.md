@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Worried About Eclipse, US Influencer Stabs Partner, Kills Baby, Then Dies**
+**Astronauts' eerie view of the solar eclipse shown in insane video**
 
-You can read more about it [here](https://www.ndtv.com/world-news/worried-about-eclipse-us-influencer-stabs-partner-kills-baby-then-dies-5416803).
+You can read more about it [here](https://nypost.com/2024/04/10/lifestyle/astronauts-eerie-view-of-the-solar-eclipse-in-insane-video/).
 
 ## Requirements
 - Python 3.8
