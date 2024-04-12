@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arrest warrants issued for Kansas City Chiefs receiver Rashee Rice and another man in connection with 6-car crash in Dallas**
+**Trump Media plunges as volatile trading sends social media firm's market value below $5 billion**
 
-You can read more about it [here](https://www.cnn.com/2024/04/10/us/rashee-rice-dallas-arrest-warrant-spt-intl/index.html).
+You can read more about it [here](https://markets.businessinsider.com/news/stocks/trump-media-stock-price-djt-market-cap-5b-truth-social-2024-4).
 
 ## Requirements
 - Python 3.8
