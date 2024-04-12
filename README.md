@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media plunges as volatile trading sends social media firm's market value below $5 billion**
+**'View' host Sunny Hostin praises 'Civil War' movie as a 'love letter to journalism'**
 
-You can read more about it [here](https://markets.businessinsider.com/news/stocks/trump-media-stock-price-djt-market-cap-5b-truth-social-2024-4).
+You can read more about it [here](https://www.foxnews.com/media/view-host-sunny-hostin-praises-civil-war-movie-love-letter-journalism).
 
 ## Requirements
 - Python 3.8
