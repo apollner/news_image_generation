@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humane AI Pin review: A promising mess you don't need yet - The Washington Post**
+**Eye injuries after solar eclipse surge following phenomenon**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/04/11/humane-ai-pin-review/).
+You can read more about it [here](https://www.foxnews.com/health/eye-injuries-solar-eclipse-surge-following-phenomenon).
 
 ## Requirements
 - Python 3.8
