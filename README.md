@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eye injuries after solar eclipse surge following phenomenon**
+**South Korea's opposition wins in landslide parliamentary elections**
 
-You can read more about it [here](https://www.foxnews.com/health/eye-injuries-solar-eclipse-surge-following-phenomenon).
+You can read more about it [here](https://www.npr.org/2024/04/11/1244039645/south-korea-opposition-parliamentary-elections).
 
 ## Requirements
 - Python 3.8
