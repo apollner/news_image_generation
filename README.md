@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Measles elimination in U.S. is under 'renewed threat,' CDC warns**
+**Pacific castaways’ ‘HELP’ sign sparks US rescue mission – and an unexpected family reunion**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/measles-cdc-us-elimination-status-threatened-rcna147365).
+You can read more about it [here](https://www.cnn.com/2024/04/11/asia/pacific-castaways-pikelot-island-us-rescue-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
