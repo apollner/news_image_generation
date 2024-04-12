@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ukrainian parliament adopts law to expand military draft**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/04/11/ukraine-mobilization-law-russia-war/).
 
 ## Requirements
 - Python 3.8
