@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gennaro Filice 2024 NFL mock draft 2.0: Jets go get Rome Odunze; Pats, Raiders trade back into Round 1**
+**Apple hit with 'mercenary spyware attacks' — iPhone users warned worldwide of 'most advanced digital threats'**
 
-You can read more about it [here](https://www.nfl.com/news/gennaro-filice-2024-nfl-mock-draft-2-0-jets-go-get-rome-odunze-pats-raiders-trade-back-into-round-1).
+You can read more about it [here](https://nypost.com/2024/04/11/lifestyle/apple-hit-with-mercenary-spyware-attacks-iphone-users-warned-worldwide/).
 
 ## Requirements
 - Python 3.8
