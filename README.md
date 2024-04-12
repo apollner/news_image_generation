@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple hit with 'mercenary spyware attacks' — iPhone users warned worldwide of 'most advanced digital threats'**
+**Here's What Reviewers Are Saying About the Humane Pin**
 
-You can read more about it [here](https://nypost.com/2024/04/11/lifestyle/apple-hit-with-mercenary-spyware-attacks-iphone-users-warned-worldwide/).
+You can read more about it [here](https://gizmodo.com/review-roundup-humane-pin-1851403020).
 
 ## Requirements
 - Python 3.8
