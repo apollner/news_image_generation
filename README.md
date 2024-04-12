@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'View' host Sunny Hostin praises 'Civil War' movie as a 'love letter to journalism'**
+**April 10, 2024 - Israel-Hamas war**
 
-You can read more about it [here](https://www.foxnews.com/media/view-host-sunny-hostin-praises-civil-war-movie-love-letter-journalism).
+You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-04-10-24/index.html).
 
 ## Requirements
 - Python 3.8
