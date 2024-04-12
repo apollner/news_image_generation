@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs' Rashee Rice facing 8 charges in relation to high-speed wreck**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/39916756/chiefs-rashee-rice-facing-8-charges-relation-high-speed-wreck).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
