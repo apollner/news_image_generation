@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pacific castaways’ ‘HELP’ sign sparks US rescue mission – and an unexpected family reunion**
+**Exclusive: Sony Xperia 1 VI Massive Leak; Specs, 360° Video & 5K Renders**
 
-You can read more about it [here](https://www.cnn.com/2024/04/11/asia/pacific-castaways-pikelot-island-us-rescue-intl-hnk/index.html).
+You can read more about it [here](https://www.androidheadlines.com/exclusive-sony-xperia-1-vi-leak).
 
 ## Requirements
 - Python 3.8
