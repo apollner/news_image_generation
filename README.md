@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea election: Prime minister offers to resign after election defeat**
+**Trump's bid to delay hush money trial again rejected by New York appeals court**
 
-You can read more about it [here](https://apnews.com/article/south-korea-yoon-parliament-election-8a538a2c99146aa6e2279d13b6a6ea3c).
+You can read more about it [here](https://www.axios.com/2024/04/10/trump-hush-money-trial-delay-rejected-court).
 
 ## Requirements
 - Python 3.8
