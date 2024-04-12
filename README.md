@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Sony Xperia 1 VI Massive Leak; Specs, 360° Video & 5K Renders**
+**[Removed]**
 
-You can read more about it [here](https://www.androidheadlines.com/exclusive-sony-xperia-1-vi-leak).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
