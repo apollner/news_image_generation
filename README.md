@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea's opposition wins in landslide parliamentary elections**
+**What Ippei Mizuhara's guilty plea negotiations could mean for Shohei Ohtani**
 
-You can read more about it [here](https://www.npr.org/2024/04/11/1244039645/south-korea-opposition-parliamentary-elections).
+You can read more about it [here](https://theathletic.com/5407444/2024/04/11/ippei-mizuhara-shohei-ohtani-plea-mlb/).
 
 ## Requirements
 - Python 3.8
