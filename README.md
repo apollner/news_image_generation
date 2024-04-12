@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 shot after gunfire erupts at Eid al-Fitr event in the Parkside section of Philadelphia marking end of Ramadan**
+**Google Cloud Next 2024: Everything announced so far**
 
-You can read more about it [here](https://6abc.com/3-shot-after-celebration-to-mark-end-of-ramadan-in-the-parkside-section-philadelphia/14642782/).
+You can read more about it [here](https://techcrunch.com/2024/04/10/google-cloud-next-2024-everything-you-need-to-know/).
 
 ## Requirements
 - Python 3.8
