@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'View' host Sunny Hostin praises 'Civil War' movie as a 'love letter to journalism'**
+**Worried About Eclipse, US Influencer Stabs Partner, Kills Baby, Then Dies**
 
-You can read more about it [here](https://www.foxnews.com/media/view-host-sunny-hostin-praises-civil-war-movie-love-letter-journalism).
+You can read more about it [here](https://www.ndtv.com/world-news/worried-about-eclipse-us-influencer-stabs-partner-kills-baby-then-dies-5416803).
 
 ## Requirements
 - Python 3.8
