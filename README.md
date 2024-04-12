@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian shares fall on global rate scare, yen plumbs 34-yr low**
+**'View' host Sunny Hostin praises 'Civil War' movie as a 'love letter to journalism'**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/).
+You can read more about it [here](https://www.foxnews.com/media/view-host-sunny-hostin-praises-civil-war-movie-love-letter-journalism).
 
 ## Requirements
 - Python 3.8
