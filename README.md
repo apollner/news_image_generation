@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple hit with 'mercenary spyware attacks' — iPhone users warned worldwide of 'most advanced digital threats'**
+**2024 Masters TV schedule, coverage, live stream, channel, how to watch online, streaming, golf tee times**
 
-You can read more about it [here](https://nypost.com/2024/04/11/lifestyle/apple-hit-with-mercenary-spyware-attacks-iphone-users-warned-worldwide/).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-masters-tv-schedule-coverage-live-stream-channel-how-to-watch-online-streaming-golf-tee-times/).
 
 ## Requirements
 - Python 3.8
