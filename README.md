@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Masters odds, picks, field, top predictions: Golf insider fading Rory McIlroy at Augusta National**
+**Arrest warrants issued for Kansas City Chiefs receiver Rashee Rice and another man in connection with 6-car crash in Dallas**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2024-masters-odds-picks-field-top-predictions-golf-insider-fading-rory-mcilroy-at-augusta-national/).
+You can read more about it [here](https://www.cnn.com/2024/04/10/us/rashee-rice-dallas-arrest-warrant-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
