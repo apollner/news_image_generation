@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Calipari Was Brutally Honest About Status of Arkansas Roster Upon Arrival**
+**Suns show same bad vibes, do barely enough to beat depleted Clippers**
 
-You can read more about it [here](https://www.si.com/college/2024/04/10/arkansas-john-calipari-brutally-honest-roster-status).
+You can read more about it [here](https://arizonasports.com/story/3545798/suns-show-same-bad-vibes-do-barely-enough-to-beat-depleted-clippers/).
 
 ## Requirements
 - Python 3.8
