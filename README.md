@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe storms move into Southeast after unleashing tornadoes and life-threatening flooding along Gulf Coast**
+**Asian shares fall on global rate scare, yen plumbs 34-yr low**
 
-You can read more about it [here](https://www.cnn.com/2024/04/11/weather/storms-southeast-ohio-valley-thursday/index.html).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/).
 
 ## Requirements
 - Python 3.8
