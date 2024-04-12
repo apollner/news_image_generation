@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Gennaro Filice 2024 NFL mock draft 2.0: Jets go get Rome Odunze; Pats, Raiders trade back into Round 1**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/gennaro-filice-2024-nfl-mock-draft-2-0-jets-go-get-rome-odunze-pats-raiders-trade-back-into-round-1).
 
 ## Requirements
 - Python 3.8
