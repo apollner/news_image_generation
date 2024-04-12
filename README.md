@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronauts' eerie view of the solar eclipse shown in insane video**
+**'View' host Sunny Hostin praises 'Civil War' movie as a 'love letter to journalism'**
 
-You can read more about it [here](https://nypost.com/2024/04/10/lifestyle/astronauts-eerie-view-of-the-solar-eclipse-in-insane-video/).
+You can read more about it [here](https://www.foxnews.com/media/view-host-sunny-hostin-praises-civil-war-movie-love-letter-journalism).
 
 ## Requirements
 - Python 3.8
