@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Cloud Next 2024: Everything announced so far**
+**Biden vows 'ironclad' support for Israel amid Iran attack fears**
 
-You can read more about it [here](https://techcrunch.com/2024/04/10/google-cloud-next-2024-everything-you-need-to-know/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68786054).
 
 ## Requirements
 - Python 3.8
