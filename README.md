@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian parliament adopts law to expand military draft**
+**CDC Finds No Link Between COVID Vaccines And Cardiac Death In Young People**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/04/11/ukraine-mobilization-law-russia-war/).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/04/11/cdc-finds-no-link-between-covid-vaccines-and-cardiac-death-in-young-people/).
 
 ## Requirements
 - Python 3.8
