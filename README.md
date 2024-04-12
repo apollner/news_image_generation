@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC Finds No Link Between COVID Vaccines And Cardiac Death In Young People**
+**Driver of electric Ford SUV was using automated system before fatal Texas crash, investigators say**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/04/11/cdc-finds-no-link-between-covid-vaccines-and-cardiac-death-in-young-people/).
+You can read more about it [here](https://apnews.com/article/ford-blue-cruise-automated-system-ntsb-fatal-crash-texas-a6b5983caf1a0737f9dafdf3c0d099a5).
 
 ## Requirements
 - Python 3.8
