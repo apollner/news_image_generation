@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman still expects stubbornly high U.S. inflation to fall this year**
+**Focus: Bird flu pushes US dairy farmers to ban visitors, chop trees**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/11/goldman-still-expects-stubbornly-high-us-inflation-to-fall-this-year.html).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/bird-flu-pushes-us-dairy-farmers-ban-visitors-chop-trees-2024-04-11/).
 
 ## Requirements
 - Python 3.8
