@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**April 10, 2024 - Israel-Hamas war**
+**23 Minnesota water systems exceed new EPA limits for PFAS in water**
 
-You can read more about it [here](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-04-10-24/index.html).
+You can read more about it [here](https://www.kare11.com/article/news/local/breaking-the-news/23-mn-water-systems-exceed-new-epa-limits-for-pfas/89-4d4cbed1-bf43-46f5-b1ba-a5176d94f302).
 
 ## Requirements
 - Python 3.8
