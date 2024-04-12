@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escaped 'individual' caught on video trying to board train in Australia — on four legs**
+**Measles elimination in U.S. is under 'renewed threat,' CDC warns**
 
-You can read more about it [here](https://www.aol.com/escaped-individual-caught-video-trying-134912202.html).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/measles-cdc-us-elimination-status-threatened-rcna147365).
 
 ## Requirements
 - Python 3.8
