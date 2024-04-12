@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Focus: Bird flu pushes US dairy farmers to ban visitors, chop trees**
+**Apple hit with 'mercenary spyware attacks' — iPhone users warned worldwide of 'most advanced digital threats'**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/bird-flu-pushes-us-dairy-farmers-ban-visitors-chop-trees-2024-04-11/).
+You can read more about it [here](https://nypost.com/2024/04/11/lifestyle/apple-hit-with-mercenary-spyware-attacks-iphone-users-warned-worldwide/).
 
 ## Requirements
 - Python 3.8
