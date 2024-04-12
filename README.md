@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu found in NYC park — health experts warn to steer clear of wildlife**
+**3 shot after gunfire erupts at Eid al-Fitr event in the Parkside section of Philadelphia marking end of Ramadan**
 
-You can read more about it [here](https://nypost.com/2024/04/10/us-news/bird-flu-found-in-nyc-park-health-experts-warn-to-steer-clear-of-wildlife/).
+You can read more about it [here](https://6abc.com/3-shot-after-celebration-to-mark-end-of-ramadan-in-the-parkside-section-philadelphia/14642782/).
 
 ## Requirements
 - Python 3.8
