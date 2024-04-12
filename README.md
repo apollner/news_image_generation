@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'View' host Sunny Hostin praises 'Civil War' movie as a 'love letter to journalism'**
+**South Korea election: Prime minister offers to resign after election defeat**
 
-You can read more about it [here](https://www.foxnews.com/media/view-host-sunny-hostin-praises-civil-war-movie-love-letter-journalism).
+You can read more about it [here](https://apnews.com/article/south-korea-yoon-parliament-election-8a538a2c99146aa6e2279d13b6a6ea3c).
 
 ## Requirements
 - Python 3.8
