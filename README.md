@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vietnam tycoon sentenced to death in $12.5 billion fraud case**
+**U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/vietnam-tycoon-sentenced-death-12-billion-fraud-case-state-media-reports-2024-04-11/).
+You can read more about it [here](https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html).
 
 ## Requirements
 - Python 3.8
