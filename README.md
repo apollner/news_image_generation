@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**O.J. Simpson's legacy rang loudest where his death created silence**
+**Why did Yoon's party lose in South Korea's elections and what troubles does he face now?**
 
-You can read more about it [here](https://sports.yahoo.com/oj-simpsons-legacy-rang-loudest-where-his-death-created-silence-000653696.html).
+You can read more about it [here](https://apnews.com/article/south-korea-election-president-yoon-76d0d61593c9ab85504bcf4b66c2c168).
 
 ## Requirements
 - Python 3.8
