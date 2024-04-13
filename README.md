@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Avian flu confirmed in South Dakota dairy herd**
+**Seven-round 2024 NFL Mock Draft: Four WRs picked in top 10; Cowboys, Seahawks, Broncos all take QBs on Day 2**
 
-You can read more about it [here](https://www.keloland.com/keloland-com-original/avian-flu-confirmed-in-south-dakota-dairy-herd/).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/seven-round-2024-nfl-mock-draft-four-wrs-picked-in-top-10-cowboys-seahawks-broncos-all-take-qbs-on-day-2/).
 
 ## Requirements
 - Python 3.8
