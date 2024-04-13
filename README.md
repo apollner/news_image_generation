@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli settlers rampage through a West Bank village, killing 1 Palestinian and wounding 25**
+**S&P 500 Index (SPX) Sees Worst Week Since October Amid Geopolitical Tensions**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-west-bank-war-f85997a95d5579159ffe83d2c0cb988e).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-12/risk-addicted-wall-street-funds-are-shaken-as-bad-news-piles-up).
 
 ## Requirements
 - Python 3.8
