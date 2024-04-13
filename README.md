@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Coast Guard, Navy rescue 3 fishermen from deserted island after spelling 'HELP' with palms**
+**Prince William Plans Return to Duties as a 'WFH' Royal**
 
-You can read more about it [here](https://www.foxnews.com/world/us-coast-guard-navy-rescue-fishermen-deserted-island-spelling-help-palms).
+You can read more about it [here](https://www.thedailybeast.com/prince-william-plans-return-to-duties-as-a-wfh-royal).
 
 ## Requirements
 - Python 3.8
