@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden is canceling $7.4 billion in student debt for 277,000 borrowers. Here's who is eligible.**
+**Michael Douglas’ ‘Franklin’ Is an Exhausting Account of a Secret Mission During the American Revolution: TV Review**
 
-You can read more about it [here](https://www.cbsnews.com/news/student-loan-forgiveness-7-4-billion-save-plan-pslf-cbs-news-explains/).
+You can read more about it [here](https://variety.com/2024/tv/reviews/franklin-tv-series-michael-douglas-1235959062/).
 
 ## Requirements
 - Python 3.8
