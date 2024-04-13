@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan profits rose 6% in 1Q but Dimon warns of 'persistent inflationary pressures'**
+**Biden is canceling $7.4 billion in student debt for 277,000 borrowers. Here's who is eligible.**
 
-You can read more about it [here](https://finance.yahoo.com/news/jpmorgan-profits-rose-6-in-1q-but-dimon-warns-of-persistent-inflationary-pressures-111518711.html).
+You can read more about it [here](https://www.cbsnews.com/news/student-loan-forgiveness-7-4-billion-save-plan-pslf-cbs-news-explains/).
 
 ## Requirements
 - Python 3.8
