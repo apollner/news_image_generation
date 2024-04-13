@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William Plans Return to Duties as a 'WFH' Royal**
+**China's Exports Drop More Than Expected in Setback to Recovery**
 
-You can read more about it [here](https://www.thedailybeast.com/prince-william-plans-return-to-duties-as-a-wfh-royal).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-12/chinese-exports-drop-in-blow-to-hopes-for-economic-rebound).
 
 ## Requirements
 - Python 3.8
