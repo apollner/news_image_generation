@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin mocks planned Ukraine conference and says Russia won't accept any enforced peace plans**
+**Avian flu confirmed in South Dakota dairy herd**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-putin-switzerland-peace-conference-3e88cb56e3bd66bb37acd99b2e9425c5).
+You can read more about it [here](https://www.keloland.com/keloland-com-original/avian-flu-confirmed-in-south-dakota-dairy-herd/).
 
 ## Requirements
 - Python 3.8
