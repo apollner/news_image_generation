@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Alerts iPhone Users of 'Mercenary Attack,' What You Should Know**
+**Trump and Johnson build alliance on the falsehood of the stolen election**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/apple-alerts-iphone-users-of-mercenary-attack-what-you-should-know/).
+You can read more about it [here](https://www.cnn.com/2024/04/11/politics/trump-johnson-election-falsehoods-analysis/index.html).
 
 ## Requirements
 - Python 3.8
