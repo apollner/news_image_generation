@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US measles elimination status threatened due to 2024 outbreak: CDC report**
+**US Coast Guard, Navy rescue 3 fishermen from deserted island after spelling 'HELP' with palms**
 
-You can read more about it [here](https://abcnews.go.com/Health/us-measles-elimination-status-threatened-due-2024-outbreak/story?id=109129069).
+You can read more about it [here](https://www.foxnews.com/world/us-coast-guard-navy-rescue-fishermen-deserted-island-spelling-help-palms).
 
 ## Requirements
 - Python 3.8
