@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks waver on fears of potential attack by Iran and inflation jitters**
+**Biden is canceling $7.4 billion in student debt for 277,000 borrowers. Here's who is eligible.**
 
-You can read more about it [here](https://www.cnn.com/2024/04/12/investing/stocks-oil-banks-geopolitics/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/student-loan-forgiveness-7-4-billion-save-plan-pslf-cbs-news-explains/).
 
 ## Requirements
 - Python 3.8
