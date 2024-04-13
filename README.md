@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why did Yoon's party lose in South Korea's elections and what troubles does he face now?**
+**Brightest-ever cosmic explosion solved but new mysteries sparked**
 
-You can read more about it [here](https://apnews.com/article/south-korea-election-president-yoon-76d0d61593c9ab85504bcf4b66c2c168).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68787534).
 
 ## Requirements
 - Python 3.8
