@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House approves bill renewing FISA spy program after GOP upheaval threatened passage**
+**Israeli settlers rampage through a West Bank village, killing 1 Palestinian and wounding 25**
 
-You can read more about it [here](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-west-bank-war-f85997a95d5579159ffe83d2c0cb988e).
 
 ## Requirements
 - Python 3.8
