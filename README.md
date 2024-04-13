@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Outsiders' Broadway review: Like many adaptations, it overexplains - The Washington Post**
+**Kato Kaelin reflects on O.J.'s death: 'I believe he did it,' wonders 'if he made peace with God'**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/04/11/outsiders-broadway-review/).
+You can read more about it [here](https://www.foxnews.com/media/kato-kaelin-reflects-oj-simpson-death-believe-did-it-made-peace-god).
 
 ## Requirements
 - Python 3.8
