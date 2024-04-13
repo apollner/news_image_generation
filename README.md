@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former NIH director reveals prostate cancer diagnosis**
+**Stocks waver on fears of potential attack by Iran and inflation jitters**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4590148-francis-collins-nih-director-prostate-cancer/).
+You can read more about it [here](https://www.cnn.com/2024/04/12/investing/stocks-oil-banks-geopolitics/index.html).
 
 ## Requirements
 - Python 3.8
