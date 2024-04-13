@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US measles elimination status threatened due to 2024 outbreak: CDC report**
+**Rory McIlory staying positive going into Round 2 at Augusta | Live From The Masters | Golf Channel**
 
-You can read more about it [here](https://abcnews.go.com/Health/us-measles-elimination-status-threatened-due-2024-outbreak/story?id=109129069).
+You can read more about it [here](https://www.youtube.com/watch?v=4MyCnIK2m1s).
 
 ## Requirements
 - Python 3.8
