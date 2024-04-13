@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Exports Drop More Than Expected in Setback to Recovery**
+**US Coast Guard, Navy rescue 3 fishermen from deserted island after spelling 'HELP' with palms**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-12/chinese-exports-drop-in-blow-to-hopes-for-economic-rebound).
+You can read more about it [here](https://www.foxnews.com/world/us-coast-guard-navy-rescue-fishermen-deserted-island-spelling-help-palms).
 
 ## Requirements
 - Python 3.8
