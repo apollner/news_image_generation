@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID vaccines not linked to cardiac death in young people: CDC study**
+**Putin mocks planned Ukraine conference and says Russia won't accept any enforced peace plans**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4589381-covid-vaccines-not-linked-to-cardiac-death-in-young-people-cdc-study/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-putin-switzerland-peace-conference-3e88cb56e3bd66bb37acd99b2e9425c5).
 
 ## Requirements
 - Python 3.8
