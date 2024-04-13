@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott Drew turns down Kentucky: Baylor coach will remain with Bears after passing on Wildcats' offer**
+**COVID vaccines not linked to cardiac death in young people: CDC study**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/scott-drew-turns-down-kentucky-baylor-coach-will-remain-with-bears-after-passing-on-wildcats-offer/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4589381-covid-vaccines-not-linked-to-cardiac-death-in-young-people-cdc-study/).
 
 ## Requirements
 - Python 3.8
