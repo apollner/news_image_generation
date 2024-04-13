@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brightest-ever cosmic explosion solved but new mysteries sparked**
+**House will try again on reauthorization of US spy program after Republican upheaval**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68787534).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/house-reauthorization-us-spy-program-after-republican-upheaval-109152924).
 
 ## Requirements
 - Python 3.8
