@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**'The Outsiders' Broadway review: Like many adaptations, it overexplains - The Washington Post**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/04/11/outsiders-broadway-review/).
 
 ## Requirements
 - Python 3.8
