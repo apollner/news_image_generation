@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kato Kaelin reflects on O.J.'s death: 'I believe he did it,' wonders 'if he made peace with God'**
+**US measles elimination status threatened due to 2024 outbreak: CDC report**
 
-You can read more about it [here](https://www.foxnews.com/media/kato-kaelin-reflects-oj-simpson-death-believe-did-it-made-peace-god).
+You can read more about it [here](https://abcnews.go.com/Health/us-measles-elimination-status-threatened-due-2024-outbreak/story?id=109129069).
 
 ## Requirements
 - Python 3.8
