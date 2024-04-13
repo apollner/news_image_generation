@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vietnam sentences real estate tycoon to death in its largest-ever fraud case**
+**House will try again on reauthorization of US spy program after Republican upheaval**
 
-You can read more about it [here](https://www.npr.org/2024/04/12/1244263170/vietnam-tycoon-death-sentence).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/house-reauthorization-us-spy-program-after-republican-upheaval-109152924).
 
 ## Requirements
 - Python 3.8
