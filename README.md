@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Golden Bachelor’ couple Gerry Turner and Theresa Nist split 3 months after wedding**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/04/12/entertainment/golden-bachelor-divorce/index.html).
 
 ## Requirements
 - Python 3.8
