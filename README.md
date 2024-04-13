@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Driver of electric Ford SUV was using automated system before fatal Texas crash, investigators say**
+**Scott Drew turns down Kentucky: Baylor coach will remain with Bears after passing on Wildcats' offer**
 
-You can read more about it [here](https://apnews.com/article/ford-blue-cruise-automated-system-ntsb-fatal-crash-texas-a6b5983caf1a0737f9dafdf3c0d099a5).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/scott-drew-turns-down-kentucky-baylor-coach-will-remain-with-bears-after-passing-on-wildcats-offer/).
 
 ## Requirements
 - Python 3.8
