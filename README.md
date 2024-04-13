@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brightest-ever cosmic explosion solved but new mysteries sparked**
+**Vietnam sentences real estate tycoon to death in its largest-ever fraud case**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68787534).
+You can read more about it [here](https://www.npr.org/2024/04/12/1244263170/vietnam-tycoon-death-sentence).
 
 ## Requirements
 - Python 3.8
