@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks**
+**Apple Alerts iPhone Users of 'Mercenary Attack,' What You Should Know**
 
-You can read more about it [here](https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html).
+You can read more about it [here](https://www.cnet.com/tech/mobile/apple-alerts-iphone-users-of-mercenary-attack-what-you-should-know/).
 
 ## Requirements
 - Python 3.8
