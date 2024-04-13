@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani's ex-interpreter stole $16 million to cover gambling debts, feds say**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/11/shohei-ohtani-interpreter-charges-gambling/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
