@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AZ House speaker: Republicans might put their own abortion measure on the ballot**
+**Vietnam tycoon sentenced to death in $12.5 billion fraud case**
 
-You can read more about it [here](https://azmirror.com/2024/04/11/az-house-speaker-republicans-might-put-their-own-abortion-measure-on-the-ballot/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/vietnam-tycoon-sentenced-death-12-billion-fraud-case-state-media-reports-2024-04-11/).
 
 ## Requirements
 - Python 3.8
