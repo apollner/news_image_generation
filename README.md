@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven-round 2024 NFL Mock Draft: Four WRs picked in top 10; Cowboys, Seahawks, Broncos all take QBs on Day 2**
+**Shohei Ohtani's ex-interpreter stole $16 million to cover gambling debts, feds say**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/seven-round-2024-nfl-mock-draft-four-wrs-picked-in-top-10-cowboys-seahawks-broncos-all-take-qbs-on-day-2/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/11/shohei-ohtani-interpreter-charges-gambling/).
 
 ## Requirements
 - Python 3.8
