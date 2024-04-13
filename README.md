@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joint Vision Statement from the Leaders of Japan, the Philippines, and the United States**
+**US measles elimination status threatened due to 2024 outbreak: CDC report**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/joint-vision-statement-from-the-leaders-of-japan-the-philippines-and-the-united-states/).
+You can read more about it [here](https://abcnews.go.com/Health/us-measles-elimination-status-threatened-due-2024-outbreak/story?id=109129069).
 
 ## Requirements
 - Python 3.8
