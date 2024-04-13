@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumers are getting frustrated with stalling inflation**
+**House approves bill renewing FISA spy program after GOP upheaval threatened passage**
 
-You can read more about it [here](https://finance.yahoo.com/news/consumers-are-getting-frustrated-with-stalling-inflation-151525305.html).
+You can read more about it [here](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/).
 
 ## Requirements
 - Python 3.8
