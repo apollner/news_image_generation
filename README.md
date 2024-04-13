@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvard reinstates standardized testing requirement, following Yale, MIT**
+**Brightest-ever cosmic explosion solved but new mysteries sparked**
 
-You can read more about it [here](https://www.axios.com/2024/04/11/harvard-standardized-testing-requirement-sat-act).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68787534).
 
 ## Requirements
 - Python 3.8
