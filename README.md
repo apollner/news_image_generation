@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and Johnson build alliance on the falsehood of the stolen election**
+**O.J. Simpson's legacy rang loudest where his death created silence**
 
-You can read more about it [here](https://www.cnn.com/2024/04/11/politics/trump-johnson-election-falsehoods-analysis/index.html).
+You can read more about it [here](https://sports.yahoo.com/oj-simpsons-legacy-rang-loudest-where-his-death-created-silence-000653696.html).
 
 ## Requirements
 - Python 3.8
