@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rory McIlory staying positive going into Round 2 at Augusta | Live From The Masters | Golf Channel**
+**Joint Vision Statement from the Leaders of Japan, the Philippines, and the United States**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4MyCnIK2m1s).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/joint-vision-statement-from-the-leaders-of-japan-the-philippines-and-the-united-states/).
 
 ## Requirements
 - Python 3.8
