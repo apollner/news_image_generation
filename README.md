@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden is canceling $7.4 billion in student debt for 277,000 borrowers. Here's who is eligible.**
+**Former NIH director reveals prostate cancer diagnosis**
 
-You can read more about it [here](https://www.cbsnews.com/news/student-loan-forgiveness-7-4-billion-save-plan-pslf-cbs-news-explains/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4590148-francis-collins-nih-director-prostate-cancer/).
 
 ## Requirements
 - Python 3.8
