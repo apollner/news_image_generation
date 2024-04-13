@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Coast Guard, Navy rescue 3 fishermen from deserted island after spelling 'HELP' with palms**
+**AZ House speaker: Republicans might put their own abortion measure on the ballot**
 
-You can read more about it [here](https://www.foxnews.com/world/us-coast-guard-navy-rescue-fishermen-deserted-island-spelling-help-palms).
+You can read more about it [here](https://azmirror.com/2024/04/11/az-house-speaker-republicans-might-put-their-own-abortion-measure-on-the-ballot/).
 
 ## Requirements
 - Python 3.8
