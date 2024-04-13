@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**JPMorgan profits rose 6% in 1Q but Dimon warns of 'persistent inflationary pressures'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/jpmorgan-profits-rose-6-in-1q-but-dimon-warns-of-persistent-inflationary-pressures-111518711.html).
 
 ## Requirements
 - Python 3.8
