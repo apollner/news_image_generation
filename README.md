@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gerry Turner is single again. Golden Bachelor, Theresa Nist announce they're divorcing**
+**Google One VPN axed for everyone but Pixel loyalists ... for now**
 
-You can read more about it [here](https://www.indystar.com/story/entertainment/2024/04/12/golden-bachelor-divorce-split-gerry-turner-theresa-nist-hudson-indiana/73299538007/).
+You can read more about it [here](https://www.theregister.com/2024/04/12/vpn_google_shuttered/).
 
 ## Requirements
 - Python 3.8
