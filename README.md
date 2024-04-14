@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti decrees long-awaited transition council, but questions remain**
+**Mark Pope trying to re-recruit Reed Sheppard back to Kentucky**
 
-You can read more about it [here](https://www.reuters.com/world/americas/haiti-decrees-creation-transition-council-after-months-delay-2024-04-12/).
+You can read more about it [here](https://247sports.com/college/kentucky/article/mark-pope-reed-sheppard-kentucky-basketball--230348360/).
 
 ## Requirements
 - Python 3.8
