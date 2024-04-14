@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Pope trying to re-recruit Reed Sheppard back to Kentucky**
+**How a hush money scandal tied to a porn star led to Trump's first criminal trial**
 
-You can read more about it [here](https://247sports.com/college/kentucky/article/mark-pope-reed-sheppard-kentucky-basketball--230348360/).
+You can read more about it [here](https://apnews.com/article/donald-trump-michael-cohen-stormy-daniels-e40532d3bce7768e296fdaf9591ef05b).
 
 ## Requirements
 - Python 3.8
