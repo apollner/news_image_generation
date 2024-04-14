@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a hush money scandal tied to a porn star led to Trump's first criminal trial**
+**UFC 300 Results: Pereira vs. Hill**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-michael-cohen-stormy-daniels-e40532d3bce7768e296fdaf9591ef05b).
+You can read more about it [here](https://www.mmafighting.com/2024/4/13/24127738/ufc-300-results-pereira-vs-hill).
 
 ## Requirements
 - Python 3.8
