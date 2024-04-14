@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 Index (SPX) Sees Worst Week Since October Amid Geopolitical Tensions**
+**Notre-Dame fire anniversary: Cathedral restoration nears completion**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-12/risk-addicted-wall-street-funds-are-shaken-as-bad-news-piles-up).
+You can read more about it [here](https://www.reuters.com/world/europe/notre-dame-nears-re-opening-five-years-after-fire-2024-04-12/).
 
 ## Requirements
 - Python 3.8
