@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 300 Results: Pereira vs. Hill**
+**Iran’s IRGC seizes ‘Israeli-linked’ ship near Strait of Hormuz**
 
-You can read more about it [here](https://www.mmafighting.com/2024/4/13/24127738/ufc-300-results-pereira-vs-hill).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/13/irans-irgc-seizes-israeli-linked-ship-near-strait-of-hormuz).
 
 ## Requirements
 - Python 3.8
