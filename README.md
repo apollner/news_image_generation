@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti establishes transitional ruling council amid crisis**
+**Haiti decrees long-awaited transition council, but questions remain**
 
-You can read more about it [here](https://www.cnn.com/2024/04/12/americas/haitian-transitional-council-established/index.html).
+You can read more about it [here](https://www.reuters.com/world/americas/haiti-decrees-creation-transition-council-after-months-delay-2024-04-12/).
 
 ## Requirements
 - Python 3.8
