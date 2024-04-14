@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Kansas governor vetoes a ban on gender-affirming care; GOP vows override**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/04/13/kansas-transgender-ban-veto/).
 
 ## Requirements
 - Python 3.8
