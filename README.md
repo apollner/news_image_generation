@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre-Dame fire anniversary: Cathedral restoration nears completion**
+**Gerry Turner is single again. Golden Bachelor, Theresa Nist announce they're divorcing**
 
-You can read more about it [here](https://www.reuters.com/world/europe/notre-dame-nears-re-opening-five-years-after-fire-2024-04-12/).
+You can read more about it [here](https://www.indystar.com/story/entertainment/2024/04/12/golden-bachelor-divorce-split-gerry-turner-theresa-nist-hudson-indiana/73299538007/).
 
 ## Requirements
 - Python 3.8
