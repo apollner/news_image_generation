@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google One VPN axed for everyone but Pixel loyalists ... for now**
+**Haiti establishes transitional ruling council amid crisis**
 
-You can read more about it [here](https://www.theregister.com/2024/04/12/vpn_google_shuttered/).
+You can read more about it [here](https://www.cnn.com/2024/04/12/americas/haitian-transitional-council-established/index.html).
 
 ## Requirements
 - Python 3.8
