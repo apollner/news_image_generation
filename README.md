@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 great smart devices to use with the Android ecosystem**
+**Caitlin Clark Takes Down Michael Che Over His Women's Sports Digs On 'Weekend Update'**
 
-You can read more about it [here](https://www.androidpolice.com/smart-devices-that-are-worth-using-on-android/).
+You can read more about it [here](https://www.huffpost.com/entry/snl-weekend-update-caitlin-clark-michael-che_n_661b7944e4b0652fa84d73cc).
 
 ## Requirements
 - Python 3.8
