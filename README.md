@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift and Travis Kelce spend Saturday night dancing to Bleachers at Coachella**
+**Nuggets’ stunning collapse in San Antonio could cost them multiple playoff rounds of home-court advantage: “This is stuff we should have learned already”**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2024/04/13/taylor-swift-and-travis-kelce-spend-saturday-night-dancing-to-bleachers-at-coachella/73277401007/).
+You can read more about it [here](https://www.denverpost.com/2024/04/13/nuggets-spurs-home-court-advantage-devonte-graham-shot/).
 
 ## Requirements
 - Python 3.8
