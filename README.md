@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark showed up on SNL to dunk all over Michael Che**
+**Mugshots released, revealing first look at suspects in case of missing Kansas women**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/14/caitlin-clark-snl-michael-che/).
+You can read more about it [here](https://www.foxnews.com/us/mugshots-released-revealing-first-look-suspects-case-missing-kansas-women).
 
 ## Requirements
 - Python 3.8
