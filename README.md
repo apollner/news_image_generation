@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce protectively wraps his arms around Taylor Swift while dancing in the crowd at Coachella**
+**2024 NBA playoff picture: Everything at stake on Sunday with crucial seeding, Play-In positioning on the line**
 
-You can read more about it [here](https://pagesix.com/2024/04/14/entertainment/travis-kelce-protectively-wraps-his-arms-around-taylor-swift-while-dancing-in-the-crowd-at-coachella/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-playoff-picture-everything-at-stake-on-sunday-with-crucial-seeding-play-in-positioning-on-the-line/).
 
 ## Requirements
 - Python 3.8
