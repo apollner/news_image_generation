@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 people arrested in connection to 2 missing Kansas women: OSBI**
+**Bitcoin's 'normal drop' leads to $256M longs liquidated — analysts**
 
-You can read more about it [here](https://www.foxnews.com/us/4-people-arrested-connection-2-missing-kansas-women-osbi).
+You can read more about it [here](https://cointelegraph.com/news/bitcoin-price-liquidation-crypto-analysts-downside).
 
 ## Requirements
 - Python 3.8
