@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiger Woods shoots worst-ever major score as a pro Saturday at Masters Tournament**
+**World paid little attention to Sudan's war for a year. Now aid groups warn of mass death from hunger**
 
-You can read more about it [here](https://www.nbcsports.com/golf/news/masters-2024-tiger-woods-shoots-worst-ever-score-at-masters-tournament).
+You can read more about it [here](https://apnews.com/article/sudan-war-paramilitary-military-hunger-starvation-57b3226207b9c9121a6b3137f6a0ad04).
 
 ## Requirements
 - Python 3.8
