@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nuggets’ stunning collapse in San Antonio could cost them multiple playoff rounds of home-court advantage: “This is stuff we should have learned already”**
+**Heidi Gardner Completely Loses It On ‘SNL’ Looking At Mikey Day In ‘Beavis & Butt-Head’ Spoof**
 
-You can read more about it [here](https://www.denverpost.com/2024/04/13/nuggets-spurs-home-court-advantage-devonte-graham-shot/).
+You can read more about it [here](http://deadline.com/2024/04/heidi-gardner-snl-mikey-day-beavis-and-butt-head-parody-1235884501/).
 
 ## Requirements
 - Python 3.8
