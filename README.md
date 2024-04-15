@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M4 Macs Are Expected to Launch in This Order Starting Later This Year**
+**2024 NBA playoffs: Schedule, dates, TV info with 76ers hosting Heat in Play-In Tournament**
 
-You can read more about it [here](https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-playoffs-schedule-dates-tv-info-with-76ers-hosting-heat-in-play-in-tournament/).
 
 ## Requirements
 - Python 3.8
