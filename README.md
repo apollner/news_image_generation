@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Love and Relationship Horoscope for April 14, 2024**
+**Sofia Vergara goes Instagram official with new boyfriend as she recovers from 'major knee surgery': 'Luv u'**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/love-and-relationship-horoscope-for-april-14-2024-101712998853691.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/sofia-vergara-goes-instagram-official-new-boyfriend-recovers-major-knee-surgery-luv-u).
 
 ## Requirements
 - Python 3.8
