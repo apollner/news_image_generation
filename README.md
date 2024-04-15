@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA playoffs: Schedule, dates, TV info with 76ers hosting Heat in Play-In Tournament**
+**Why Iran attacked Israel and what comes next**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-playoffs-schedule-dates-tv-info-with-76ers-hosting-heat-in-play-in-tournament/).
+You can read more about it [here](https://www.cnn.com/2024/04/14/middleeast/why-iran-attack-israel-intl/index.html).
 
 ## Requirements
 - Python 3.8
