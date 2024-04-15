@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what Wall Street expects from financial markets after Iran's attack on Israel**
+**Here’s how much it will cost to travel to see total solar eclipses in Iceland, Spain, Egypt and Australia**
 
-You can read more about it [here](https://fortune.com/2024/04/14/iran-israel-conflict-wall-street-outlook-financial-markets-stocks-oil-prices-bonds/).
+You can read more about it [here](https://nypost.com/2024/04/14/us-news/heres-how-much-it-will-cost-to-travel-to-see-total-solar-eclipses-in-iceland-spain-egypt-and-australia/).
 
 ## Requirements
 - Python 3.8
