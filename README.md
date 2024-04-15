@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Advisor to ex-Iran president: Tehran will test first nuclear weapon**
+**Taylor Swift and Travis Kelce’s Coachella date night sees them getting cozy backstage**
 
-You can read more about it [here](https://www.jpost.com/middle-east/iran-news/slain-iranian-general-planned-executed-hamas-massacre-797014).
+You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-travis-kelces-coachella-date-night-sees-them-getting-cozy-backstage).
 
 ## Requirements
 - Python 3.8
