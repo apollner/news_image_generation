@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump's Playing Field About to Be 'Truly Leveled'—Legal Analyst**
+**Love and Relationship Horoscope for April 14, 2024**
 
-You can read more about it [here](https://www.newsweek.com/donald-trumps-playing-field-about-truly-leveledlegal-analyst-1890088).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/love-and-relationship-horoscope-for-april-14-2024-101712998853691.html).
 
 ## Requirements
 - Python 3.8
