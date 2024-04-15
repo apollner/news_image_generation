@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World paid little attention to Sudan's war for a year. Now aid groups warn of mass death from hunger**
+**26 barges break loose in Pittsburgh, travel uncontrollably down Ohio River**
 
-You can read more about it [here](https://apnews.com/article/sudan-war-paramilitary-military-hunger-starvation-57b3226207b9c9121a6b3137f6a0ad04).
+You can read more about it [here](https://nypost.com/2024/04/13/us-news/26-barges-break-loose-in-pittsburgh-travel-down-ohio-river/).
 
 ## Requirements
 - Python 3.8
