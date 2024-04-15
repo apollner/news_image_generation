@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gold and Silver Weather the Storm as Middle East Unrest Shakes Crypto Markets – Market Updates Bitcoin News**
+**Four people arrested in connection with disappearance of two Kansas women in Oklahoma**
 
-You can read more about it [here](https://news.bitcoin.com/gold-and-silver-weather-the-storm-as-middle-east-unrest-shakes-crypto-markets/).
+You can read more about it [here](https://www.kansas.com/news/state/article287672315.html).
 
 ## Requirements
 - Python 3.8
