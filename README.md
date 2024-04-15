@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark Takes Down Michael Che Over His Women's Sports Digs On 'Weekend Update'**
+**This Pink Mustang Has a Story as Distinctive as Its Paint Job**
 
-You can read more about it [here](https://www.huffpost.com/entry/snl-weekend-update-caitlin-clark-michael-che_n_661b7944e4b0652fa84d73cc).
+You can read more about it [here](https://www.wsj.com/lifestyle/cars/this-pink-mustang-has-a-story-as-distinctive-as-its-paint-job-b82cef41).
 
 ## Requirements
 - Python 3.8
