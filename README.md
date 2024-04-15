@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Here's what Wall Street expects from financial markets after Iran's attack on Israel**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://fortune.com/2024/04/14/iran-israel-conflict-wall-street-outlook-financial-markets-stocks-oil-prices-bonds/).
 
 ## Requirements
 - Python 3.8
