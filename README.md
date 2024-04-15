@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran-Israel attack live: Iran launches drones at Israel in retaliatory attack**
+**5 great smart devices to use with the Android ecosystem**
 
-You can read more about it [here](https://www.bbc.co.uk/news/live/world-middle-east-68737710).
+You can read more about it [here](https://www.androidpolice.com/smart-devices-that-are-worth-using-on-android/).
 
 ## Requirements
 - Python 3.8
