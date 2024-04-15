@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Momofuku backs down from 'chile crunch' trademark war**
+**Donald Trump's Playing Field About to Be 'Truly Leveled'—Legal Analyst**
 
-You can read more about it [here](https://apnews.com/article/momofuku-trademark-chile-crunch-f00a8e94216490be2c3ef4532162adb3).
+You can read more about it [here](https://www.newsweek.com/donald-trumps-playing-field-about-truly-leveledlegal-analyst-1890088).
 
 ## Requirements
 - Python 3.8
