@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denver topples Boston College to win NCAA championship**
+**'I'll tell the truth': Donald Trump vows to testify in Stormy Daniels hush money trial as he ‘just found’…**
 
-You can read more about it [here](https://www.espn.com/college-sports/story/_/id/39937301/denver-topples-boston-college-win-ncaa-championship).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/ill-tell-the-truth-donald-trump-vows-to-testify-in-stormy-daniels-hush-money-trial-as-he-just-found-101713021349371.html).
 
 ## Requirements
 - Python 3.8
