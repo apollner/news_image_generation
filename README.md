@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Iran attacked Israel and what comes next**
+**Gold and Silver Weather the Storm as Middle East Unrest Shakes Crypto Markets – Market Updates Bitcoin News**
 
-You can read more about it [here](https://www.cnn.com/2024/04/14/middleeast/why-iran-attack-israel-intl/index.html).
+You can read more about it [here](https://news.bitcoin.com/gold-and-silver-weather-the-storm-as-middle-east-unrest-shakes-crypto-markets/).
 
 ## Requirements
 - Python 3.8
