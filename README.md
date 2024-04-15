@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft: 5 Potential 1st-Rounders Who Could Fall Further Than Expected**
+**Hamas demands written commitment that Israel will withdraw from Gaza**
 
-You can read more about it [here](https://bleacherreport.com/articles/10116400-2024-nfl-draft-5-potential-1st-rounders-who-could-fall-further-than-expected).
+You can read more about it [here](https://www.politico.com/news/2024/04/14/hamas-demands-written-commitment-that-israel-will-withdraw-from-gaza-00152124).
 
 ## Requirements
 - Python 3.8
