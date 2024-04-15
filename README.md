@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I'll tell the truth': Donald Trump vows to testify in Stormy Daniels hush money trial as he ‘just found’…**
+**4 people arrested in connection to 2 missing Kansas women: OSBI**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/ill-tell-the-truth-donald-trump-vows-to-testify-in-stormy-daniels-hush-money-trial-as-he-just-found-101713021349371.html).
+You can read more about it [here](https://www.foxnews.com/us/4-people-arrested-connection-2-missing-kansas-women-osbi).
 
 ## Requirements
 - Python 3.8
