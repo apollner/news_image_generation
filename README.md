@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This Pink Mustang Has a Story as Distinctive as Its Paint Job**
+**2024 NFL Draft: 5 Potential 1st-Rounders Who Could Fall Further Than Expected**
 
-You can read more about it [here](https://www.wsj.com/lifestyle/cars/this-pink-mustang-has-a-story-as-distinctive-as-its-paint-job-b82cef41).
+You can read more about it [here](https://bleacherreport.com/articles/10116400-2024-nfl-draft-5-potential-1st-rounders-who-could-fall-further-than-expected).
 
 ## Requirements
 - Python 3.8
