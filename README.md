@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sofia Vergara goes Instagram official with new boyfriend as she recovers from 'major knee surgery': 'Luv u'**
+**Hundreds of Israeli settlers attack Palestinian villages in the occupied West Bank after missing Israeli boy found dead**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/sofia-vergara-goes-instagram-official-new-boyfriend-recovers-major-knee-surgery-luv-u).
+You can read more about it [here](https://www.cnn.com/2024/04/13/world/israeli-settlers-mobilize-across-west-bank-intl/index.html).
 
 ## Requirements
 - Python 3.8
