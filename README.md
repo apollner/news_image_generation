@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of Israeli settlers attack Palestinian villages in the occupied West Bank after missing Israeli boy found dead**
+**Taylor Swift and Travis Kelce spend Saturday night dancing to Bleachers at Coachella**
 
-You can read more about it [here](https://www.cnn.com/2024/04/13/world/israeli-settlers-mobilize-across-west-bank-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/music/2024/04/13/taylor-swift-and-travis-kelce-spend-saturday-night-dancing-to-bleachers-at-coachella/73277401007/).
 
 ## Requirements
 - Python 3.8
