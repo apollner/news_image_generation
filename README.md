@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA playoff picture: Everything at stake on Sunday with crucial seeding, Play-In positioning on the line**
+**A college student missed work after a date. Then her body parts were found scattered across the county**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-playoff-picture-everything-at-stake-on-sunday-with-crucial-seeding-play-in-positioning-on-the-line/).
+You can read more about it [here](https://www.cnn.com/2024/04/14/us/maxwell-anderson-sade-robinson-missing-wisconsin/index.html).
 
 ## Requirements
 - Python 3.8
