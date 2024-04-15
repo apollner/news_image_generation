@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas governor vetoes a ban on gender-affirming care; GOP vows override**
+**Google Shutting Down Some California Access To News Sites As A Test Of Proposed Legislation’s Effects**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/04/13/kansas-transgender-ban-veto/).
+You can read more about it [here](http://deadline.com/2024/04/google-shutting-down-some-california-access-to-news-sites-1235884051/).
 
 ## Requirements
 - Python 3.8
