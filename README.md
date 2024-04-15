@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift and Travis Kelce’s Coachella date night sees them getting cozy backstage**
+**M4 Macs Are Expected to Launch in This Order Starting Later This Year**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/taylor-swift-travis-kelces-coachella-date-night-sees-them-getting-cozy-backstage).
+You can read more about it [here](https://www.macrumors.com/2024/04/14/when-are-m4-macs-launching/).
 
 ## Requirements
 - Python 3.8
