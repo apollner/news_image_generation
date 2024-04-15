@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heidi Gardner Completely Loses It On ‘SNL’ Looking At Mikey Day In ‘Beavis & Butt-Head’ Spoof**
+**26 barges break loose in Pittsburgh, travel uncontrollably down Ohio River**
 
-You can read more about it [here](http://deadline.com/2024/04/heidi-gardner-snl-mikey-day-beavis-and-butt-head-parody-1235884501/).
+You can read more about it [here](https://nypost.com/2024/04/13/us-news/26-barges-break-loose-in-pittsburgh-travel-down-ohio-river/).
 
 ## Requirements
 - Python 3.8
