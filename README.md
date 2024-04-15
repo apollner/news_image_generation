@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Shutting Down Some California Access To News Sites As A Test Of Proposed Legislation’s Effects**
+**Denver topples Boston College to win NCAA championship**
 
-You can read more about it [here](http://deadline.com/2024/04/google-shutting-down-some-california-access-to-news-sites-1235884051/).
+You can read more about it [here](https://www.espn.com/college-sports/story/_/id/39937301/denver-topples-boston-college-win-ncaa-championship).
 
 ## Requirements
 - Python 3.8
