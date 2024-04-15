@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s how much it will cost to travel to see total solar eclipses in Iceland, Spain, Egypt and Australia**
+**Kim Kardashian, Other Celebs Attend Breakthrough Gala Instead of Coachella**
 
-You can read more about it [here](https://nypost.com/2024/04/14/us-news/heres-how-much-it-will-cost-to-travel-to-see-total-solar-eclipses-in-iceland-spain-egypt-and-australia/).
+You can read more about it [here](https://www.tmz.com/2024/04/14/breakthrough-prize-honors-kim-kardashian-breakthrough-prize-instead-coachella/).
 
 ## Requirements
 - Python 3.8
