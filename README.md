@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mugshots released, revealing first look at suspects in case of missing Kansas women**
+**L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier**
 
-You can read more about it [here](https://www.foxnews.com/us/mugshots-released-revealing-first-look-suspects-case-missing-kansas-women).
+You can read more about it [here](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/).
 
 ## Requirements
 - Python 3.8
