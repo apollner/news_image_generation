@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin's 'normal drop' leads to $256M longs liquidated — analysts**
+**Momofuku backs down from 'chile crunch' trademark war**
 
-You can read more about it [here](https://cointelegraph.com/news/bitcoin-price-liquidation-crypto-analysts-downside).
+You can read more about it [here](https://apnews.com/article/momofuku-trademark-chile-crunch-f00a8e94216490be2c3ef4532162adb3).
 
 ## Requirements
 - Python 3.8
