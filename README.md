@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A college student missed work after a date. Then her body parts were found scattered across the county**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/04/14/us/maxwell-anderson-sade-robinson-missing-wisconsin/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
