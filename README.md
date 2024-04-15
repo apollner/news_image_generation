@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Kardashian, Other Celebs Attend Breakthrough Gala Instead of Coachella**
+**Caitlin Clark showed up on SNL to dunk all over Michael Che**
 
-You can read more about it [here](https://www.tmz.com/2024/04/14/breakthrough-prize-honors-kim-kardashian-breakthrough-prize-instead-coachella/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/14/caitlin-clark-snl-michael-che/).
 
 ## Requirements
 - Python 3.8
