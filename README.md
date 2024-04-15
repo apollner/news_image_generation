@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas demands written commitment that Israel will withdraw from Gaza**
+**Travis Kelce protectively wraps his arms around Taylor Swift while dancing in the crowd at Coachella**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/14/hamas-demands-written-commitment-that-israel-will-withdraw-from-gaza-00152124).
+You can read more about it [here](https://pagesix.com/2024/04/14/entertainment/travis-kelce-protectively-wraps-his-arms-around-taylor-swift-while-dancing-in-the-crowd-at-coachella/).
 
 ## Requirements
 - Python 3.8
