@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**L.A. County Public Health Warns About Traveler With Measles Visiting Local Attractions, Including Universal Studios And Santa Monica Pier**
+**Advisor to ex-Iran president: Tehran will test first nuclear weapon**
 
-You can read more about it [here](http://deadline.com/2024/04/l-a-county-public-health-warns-about-traveler-with-measles-1235884808/).
+You can read more about it [here](https://www.jpost.com/middle-east/iran-news/slain-iranian-general-planned-executed-hamas-massacre-797014).
 
 ## Requirements
 - Python 3.8
