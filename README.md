@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**26 barges break loose in Pittsburgh, travel uncontrollably down Ohio River**
+**Tiger Woods shoots worst-ever major score as a pro Saturday at Masters Tournament**
 
-You can read more about it [here](https://nypost.com/2024/04/13/us-news/26-barges-break-loose-in-pittsburgh-travel-down-ohio-river/).
+You can read more about it [here](https://www.nbcsports.com/golf/news/masters-2024-tiger-woods-shoots-worst-ever-score-at-masters-tournament).
 
 ## Requirements
 - Python 3.8
