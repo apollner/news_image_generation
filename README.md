@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**26 barges break loose in Pittsburgh, travel uncontrollably down Ohio River**
+**Iran-Israel attack live: Iran launches drones at Israel in retaliatory attack**
 
-You can read more about it [here](https://nypost.com/2024/04/13/us-news/26-barges-break-loose-in-pittsburgh-travel-down-ohio-river/).
+You can read more about it [here](https://www.bbc.co.uk/news/live/world-middle-east-68737710).
 
 ## Requirements
 - Python 3.8
