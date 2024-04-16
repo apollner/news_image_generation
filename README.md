@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gold Jumps After Iran Strike Against Israel Stokes Haven Demand**
+**Will Smith Joins J. Balvin at Coachella for ‘Men in Black’ Performance**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-14/gold-xauusd-jumps-after-iran-strike-against-israel-stokes-haven-demand).
+You can read more about it [here](https://variety.com/2024/music/news/will-smith-joins-j-balvin-coachella-for-men-in-black-performance-1235971186/).
 
 ## Requirements
 - Python 3.8
