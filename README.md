@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas-sized chip investment**
+**NBA Playoff match-ups are set following wild final day of regular season**
 
-You can read more about it [here](https://www.axios.com/local/austin/2024/04/15/texas-sized-chip-investment).
+You can read more about it [here](https://www.cnn.com/2024/04/15/sport/nba-postseason-set-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
