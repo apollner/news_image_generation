@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Playoff match-ups are set following wild final day of regular season**
+**Sydney mall attacker might have targeted women**
 
-You can read more about it [here](https://www.cnn.com/2024/04/15/sport/nba-postseason-set-spt-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/chicago/video/sydney-mall-attacker-might-have-targeted-women/).
 
 ## Requirements
 - Python 3.8
