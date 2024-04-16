@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mass shooting Chicago: 9-year-old Ariana Molina killed in Back of the Yards shooting near Damen; children among 10 others injured**
+**CDC: No link between COVID vaccine and cardiac deaths in young people**
 
-You can read more about it [here](https://abc7chicago.com/chicago-mass-shooting-back-of-the-yards-52nd-street-damen-avenue/14661412/).
+You can read more about it [here](https://www.wral.com/story/cdc-no-link-between-covid-vaccine-and-cardiac-deaths-in-young-people/21379812/).
 
 ## Requirements
 - Python 3.8
