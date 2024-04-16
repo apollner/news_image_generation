@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sudan conflict: A front-row seat to my country falling apart**
+**Rushdie reveals extent of his wounds from knife attack**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-68796620).
+You can read more about it [here](https://www.bbc.com/news/av/entertainment-arts-68800298).
 
 ## Requirements
 - Python 3.8
