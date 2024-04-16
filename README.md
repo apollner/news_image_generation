@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel war cabinet hold heated debate over how to respond to Iran attack, Israeli officials say**
+**Lake Mead rock formations destroyed by 2 men**
 
-You can read more about it [here](https://www.cnn.com/2024/04/15/middleeast/israel-war-cabinet-iran-debate-intl/index.html).
+You can read more about it [here](https://www.wmur.com/article/lake-mead-rock-formations-destroyed/60495720).
 
 ## Requirements
 - Python 3.8
