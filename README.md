@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Salman Rushdie: Losing an eye upsets me every day**
+**Lawmakers brawl as Georgian Parliament considers ‘foreign agent’ bill**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68739586).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/15/lawmakers-brawl-as-georgian-parliament-considers-foreign-agent).
 
 ## Requirements
 - Python 3.8
