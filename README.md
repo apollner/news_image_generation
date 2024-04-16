@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple (AAPL) iPhone Shipments Fall 10% as Android Smartphones Rise**
+**Trump's historic hush money trial begins with jury selection**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-15/apple-s-iphone-shipments-plunge-10-as-android-rivals-rise).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-jury-selection-8da8759352478be8effd3d5734aae35e).
 
 ## Requirements
 - Python 3.8
