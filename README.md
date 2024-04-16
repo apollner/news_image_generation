@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI's Sora**
+**Salman Rushdie: Losing an eye upsets me every day**
 
-You can read more about it [here](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68739586).
 
 ## Requirements
 - Python 3.8
