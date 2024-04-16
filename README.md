@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists identify three new species of ancient kangaroo—and one was more than 6.6 feet tall**
+**Salman Rushdie: Losing an eye upsets me every day**
 
-You can read more about it [here](https://www.cnn.com/2024/04/15/australia/giant-kangaroo-study-scli-intl-scn/index.html).
+You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68739586).
 
 ## Requirements
 - Python 3.8
