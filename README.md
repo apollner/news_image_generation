@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Writers Guild Awards: ‘The Holdovers’, ‘American Fiction’, ‘The Bear’, ‘Succession’ & ‘Beef’ Among Winners – Full List**
+**Trump's historic hush money trial begins with jury selection**
 
-You can read more about it [here](http://deadline.com/2024/04/writers-guild-awards-2024-winners-list-1235884851/).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-jury-selection-8da8759352478be8effd3d5734aae35e).
 
 ## Requirements
 - Python 3.8
