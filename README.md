@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian killer's father reveals why son targeted women during deadly stabbing at Sydney mall**
+**Gaza protest shuts down Golden Gate Bridge for hours, causing gridlock on both sides of span**
 
-You can read more about it [here](https://www.foxnews.com/world/australian-killers-father-reveals-why-son-targeted-women-during-deadly-stabbing-sydney-mall).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/second-protest-blocks-all-lanes-of-golden-gate-bridge-san-francisco/).
 
 ## Requirements
 - Python 3.8
