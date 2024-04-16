@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead bodies recovered amid investigation into missing Kansas moms: Police**
+**Writers Guild Awards: ‘The Holdovers’, ‘American Fiction’, ‘The Bear’, ‘Succession’ & ‘Beef’ Among Winners – Full List**
 
-You can read more about it [here](https://abcnews.go.com/US/2-dead-bodies-recovered-amid-investigation-missing-kansas/story?id=109226829).
+You can read more about it [here](http://deadline.com/2024/04/writers-guild-awards-2024-winners-list-1235884851/).
 
 ## Requirements
 - Python 3.8
