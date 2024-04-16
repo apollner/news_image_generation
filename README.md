@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC: No link between COVID vaccine and cardiac deaths in young people**
+**Thunder clinch 1-seed but are keeping 'eyes on the prize'**
 
-You can read more about it [here](https://www.wral.com/story/cdc-no-link-between-covid-vaccine-and-cardiac-deaths-in-young-people/21379812/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39943953/thunder-clinch-no-1-seed-western-conference-playoffs).
 
 ## Requirements
 - Python 3.8
