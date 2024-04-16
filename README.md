@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sydney mall attacker might have targeted women**
+**Framework's software and firmware have been a mess, but it's working on them**
 
-You can read more about it [here](https://www.cbsnews.com/chicago/video/sydney-mall-attacker-might-have-targeted-women/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/).
 
 ## Requirements
 - Python 3.8
