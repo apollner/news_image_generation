@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's iPhone Shipments Drop 10% as Android Rivals Rise**
+**Why Iran attacked Israel and what comes next**
 
-You can read more about it [here](https://finance.yahoo.com/news/apple-iphone-shipments-plunge-10-001359770.html).
+You can read more about it [here](https://www.cnn.com/2024/04/14/middleeast/why-iran-attack-israel-intl/index.html).
 
 ## Requirements
 - Python 3.8
