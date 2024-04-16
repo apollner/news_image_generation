@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Top 100 Players of 2024: SEC crowds top 10, Colorado star at No. 1 in spring rankings**
+**Australian killer's father reveals why son targeted women during deadly stabbing at Sydney mall**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-top-100-players-of-2024-sec-crowds-top-10-colorado-star-at-no-1-in-spring-rankings/).
+You can read more about it [here](https://www.foxnews.com/world/australian-killers-father-reveals-why-son-targeted-women-during-deadly-stabbing-sydney-mall).
 
 ## Requirements
 - Python 3.8
