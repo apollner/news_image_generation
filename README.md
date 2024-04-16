@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Iran attacked Israel and what comes next**
+**Gold Jumps After Iran Strike Against Israel Stokes Haven Demand**
 
-You can read more about it [here](https://www.cnn.com/2024/04/14/middleeast/why-iran-attack-israel-intl/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-14/gold-xauusd-jumps-after-iran-strike-against-israel-stokes-haven-demand).
 
 ## Requirements
 - Python 3.8
