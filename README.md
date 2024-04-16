@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thunder clinch 1-seed but are keeping 'eyes on the prize'**
+**Australian police say Sydney knife attacker may have targeted women**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39943953/thunder-clinch-no-1-seed-western-conference-playoffs).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/australian-police-say-sydney-knife-attacker-may-have-targeted-women-2024-04-15/).
 
 ## Requirements
 - Python 3.8
