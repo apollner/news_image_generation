@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Profits surge at Goldman Sachs on Wall Street revival**
+**Treasury Yields Reach New 2024 Highs After March Retail Sales**
 
-You can read more about it [here](https://finance.yahoo.com/news/profits-surge-at-goldman-sachs-on-wall-street-revival-112940260.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-15/treasury-yields-reach-new-2024-highs-after-march-retail-sales).
 
 ## Requirements
 - Python 3.8
