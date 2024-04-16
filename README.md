@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasury Yields Reach New 2024 Highs After March Retail Sales**
+**Global iPhone shipments drop nearly 10% as Apple's 2024 woes continue**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-15/treasury-yields-reach-new-2024-highs-after-march-retail-sales).
+You can read more about it [here](https://finance.yahoo.com/news/global-iphone-shipments-drop-nearly-10-as-apples-2024-woes-continue-161159760.html).
 
 ## Requirements
 - Python 3.8
