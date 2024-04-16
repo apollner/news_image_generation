@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Framework's software and firmware have been a mess, but it's working on them**
+**'Rust' armorer Hannah Gutierrez-Reed called jurors 'idiots and 'a-holes' in jailhouse calls**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/).
+You can read more about it [here](https://nypost.com/2024/04/15/us-news/rust-armorer-called-jurors-idiots-and-a-holes-in-jail-calls/).
 
 ## Requirements
 - Python 3.8
