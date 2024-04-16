@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawmakers brawl as Georgian Parliament considers ‘foreign agent’ bill**
+**Scientists identify three new species of ancient kangaroo—and one was more than 6.6 feet tall**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/15/lawmakers-brawl-as-georgian-parliament-considers-foreign-agent).
+You can read more about it [here](https://www.cnn.com/2024/04/15/australia/giant-kangaroo-study-scli-intl-scn/index.html).
 
 ## Requirements
 - Python 3.8
