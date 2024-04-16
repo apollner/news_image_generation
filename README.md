@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gun supervisor for 'Rust' movie gets 18 months in prison for fatal shooting by Alec Baldwin on set**
+**Sea-Tac airport expressway closed due to pro-Palestinian demonstration**
 
-You can read more about it [here](https://apnews.com/article/rust-alec-baldwin-shooting-armorer-sentencing-627373b6fd8aabe1f25050943777daba).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/sea-tac-airport-expressway-closed-due-to-protesters/).
 
 ## Requirements
 - Python 3.8
