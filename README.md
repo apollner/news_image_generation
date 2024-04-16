@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Salman Rushdie: Losing an eye upsets me every day**
+**Profits surge at Goldman Sachs on Wall Street revival**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68739586).
+You can read more about it [here](https://finance.yahoo.com/news/profits-surge-at-goldman-sachs-on-wall-street-revival-112940260.html).
 
 ## Requirements
 - Python 3.8
