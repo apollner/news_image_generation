@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's historic hush money trial begins with jury selection**
+**Australian police say Sydney knife attacker may have targeted women**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-jury-selection-8da8759352478be8effd3d5734aae35e).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/australian-police-say-sydney-knife-attacker-may-have-targeted-women-2024-04-15/).
 
 ## Requirements
 - Python 3.8
