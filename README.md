@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protesters shut down Golden Gate Bridge, I-880 in Oakland, causing major delays**
+**College Football Top 100 Players of 2024: SEC crowds top 10, Colorado star at No. 1 in spring rankings**
 
-You can read more about it [here](https://abc7news.com/pro-palestinian-protesters-shut-down-golden-gate-bridge-and-i-880-in-oakland/14668534/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-top-100-players-of-2024-sec-crowds-top-10-colorado-star-at-no-1-in-spring-rankings/).
 
 ## Requirements
 - Python 3.8
