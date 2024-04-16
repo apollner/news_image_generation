@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rushdie reveals extent of his wounds from knife attack**
+**Apple's iPhone Shipments Drop 10% as Android Rivals Rise**
 
-You can read more about it [here](https://www.bbc.com/news/av/entertainment-arts-68800298).
+You can read more about it [here](https://finance.yahoo.com/news/apple-iphone-shipments-plunge-10-001359770.html).
 
 ## Requirements
 - Python 3.8
