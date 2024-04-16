@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Smith Joins J. Balvin at Coachella for ‘Men in Black’ Performance**
+**Apple (AAPL) iPhone Shipments Fall 10% as Android Smartphones Rise**
 
-You can read more about it [here](https://variety.com/2024/music/news/will-smith-joins-j-balvin-coachella-for-men-in-black-performance-1235971186/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-04-15/apple-s-iphone-shipments-plunge-10-as-android-rivals-rise).
 
 ## Requirements
 - Python 3.8
