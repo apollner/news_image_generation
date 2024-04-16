@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Rust' armorer Hannah Gutierrez-Reed called jurors 'idiots and 'a-holes' in jailhouse calls**
+**Israel war cabinet hold heated debate over how to respond to Iran attack, Israeli officials say**
 
-You can read more about it [here](https://nypost.com/2024/04/15/us-news/rust-armorer-called-jurors-idiots-and-a-holes-in-jail-calls/).
+You can read more about it [here](https://www.cnn.com/2024/04/15/middleeast/israel-war-cabinet-iran-debate-intl/index.html).
 
 ## Requirements
 - Python 3.8
