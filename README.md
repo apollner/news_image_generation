@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Sets Path to Return Mars Samples, Seeks Innovative Designs**
+**Gun supervisor for 'Rust' movie gets 18 months in prison for fatal shooting by Alec Baldwin on set**
 
-You can read more about it [here](https://www.nasa.gov/news-release/nasa-sets-path-to-return-mars-samples-seeks-innovative-designs/).
+You can read more about it [here](https://apnews.com/article/rust-alec-baldwin-shooting-armorer-sentencing-627373b6fd8aabe1f25050943777daba).
 
 ## Requirements
 - Python 3.8
