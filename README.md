@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Smith Joins J. Balvin at Coachella for ‘Men in Black’ Performance**
+**2 dead bodies recovered amid investigation into missing Kansas moms: Police**
 
-You can read more about it [here](https://variety.com/2024/music/news/will-smith-joins-j-balvin-coachella-for-men-in-black-performance-1235971186/).
+You can read more about it [here](https://abcnews.go.com/US/2-dead-bodies-recovered-amid-investigation-missing-kansas/story?id=109226829).
 
 ## Requirements
 - Python 3.8
