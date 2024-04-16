@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global iPhone shipments drop nearly 10% as Apple's 2024 woes continue**
+**Pro-Palestinian protesters shut down Golden Gate Bridge, I-880 in Oakland, causing major delays**
 
-You can read more about it [here](https://finance.yahoo.com/news/global-iphone-shipments-drop-nearly-10-as-apples-2024-woes-continue-161159760.html).
+You can read more about it [here](https://abc7news.com/pro-palestinian-protesters-shut-down-golden-gate-bridge-and-i-880-in-oakland/14668534/).
 
 ## Requirements
 - Python 3.8
