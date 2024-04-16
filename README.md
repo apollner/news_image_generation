@@ -9,10 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grimes issues apology following "disastrous" DJ set at Coachella**
+**Mass shooting Chicago: 9-year-old Ariana Molina killed in Back of the Yards shooting near Damen; children among 10 others injured**
 
-You can read more about it [here](	https://mixmag.net/read/grimes-coachella-dj-set-california-technical-difficulties-weekend-news
-).
+You can read more about it [here](https://abc7chicago.com/chicago-mass-shooting-back-of-the-yards-52nd-street-damen-avenue/14661412/).
 
 ## Requirements
 - Python 3.8
