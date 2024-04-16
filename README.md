@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lake Mead rock formations destroyed by 2 men**
+**Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI's Sora**
 
-You can read more about it [here](https://www.wmur.com/article/lake-mead-rock-formations-destroyed/60495720).
+You can read more about it [here](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora).
 
 ## Requirements
 - Python 3.8
