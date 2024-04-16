@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's historic hush money trial begins with jury selection**
+**Will Smith Joins J. Balvin at Coachella for ‘Men in Black’ Performance**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-jury-selection-8da8759352478be8effd3d5734aae35e).
+You can read more about it [here](https://variety.com/2024/music/news/will-smith-joins-j-balvin-coachella-for-men-in-black-performance-1235971186/).
 
 ## Requirements
 - Python 3.8
