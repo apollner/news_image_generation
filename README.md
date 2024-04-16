@@ -9,9 +9,10 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four people arrested in connection with disappearance of two Kansas women in Oklahoma**
+**Grimes issues apology following "disastrous" DJ set at Coachella**
 
-You can read more about it [here](https://www.kansas.com/news/state/article287672315.html).
+You can read more about it [here](	https://mixmag.net/read/grimes-coachella-dj-set-california-technical-difficulties-weekend-news
+).
 
 ## Requirements
 - Python 3.8
