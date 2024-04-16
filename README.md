@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian police say Sydney knife attacker may have targeted women**
+**Sudan conflict: A front-row seat to my country falling apart**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/australian-police-say-sydney-knife-attacker-may-have-targeted-women-2024-04-15/).
+You can read more about it [here](https://www.bbc.com/news/world-africa-68796620).
 
 ## Requirements
 - Python 3.8
