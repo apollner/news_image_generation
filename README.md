@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian police say Sydney knife attacker may have targeted women**
+**Texas-sized chip investment**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/australian-police-say-sydney-knife-attacker-may-have-targeted-women-2024-04-15/).
+You can read more about it [here](https://www.axios.com/local/austin/2024/04/15/texas-sized-chip-investment).
 
 ## Requirements
 - Python 3.8
