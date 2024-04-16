@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza protest shuts down Golden Gate Bridge for hours, causing gridlock on both sides of span**
+**NASA Sets Path to Return Mars Samples, Seeks Innovative Designs**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/second-protest-blocks-all-lanes-of-golden-gate-bridge-san-francisco/).
+You can read more about it [here](https://www.nasa.gov/news-release/nasa-sets-path-to-return-mars-samples-seeks-innovative-designs/).
 
 ## Requirements
 - Python 3.8
