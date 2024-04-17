@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beatles’ 1970 ‘Let It Be’ Documentary, Out of Circulation for Four Decades, Headed to Disney+ After Restoration by Peter Jackson’s Team**
+**Giannis Antetokounmpo to reportedly miss Bucks' early playoff games with calf strain, could return later**
 
-You can read more about it [here](https://variety.com/2024/music/news/beatles-let-it-be-film-restored-apple-streaming-1235972289/).
+You can read more about it [here](https://sports.yahoo.com/giannis-antetokounmpo-to-reportedly-miss-bucks-early-playoff-games-with-calf-strain-could-return-later-145038798.html).
 
 ## Requirements
 - Python 3.8
