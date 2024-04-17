@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peter Schrager 2024 NFL mock draft 1.0: Giants leap up for J.J. McCarthy; Vikings stick and pick CB, QB**
+**Giannis Antetokounmpo to reportedly miss Bucks' early playoff games with calf strain, could return later**
 
-You can read more about it [here](https://www.nfl.com/news/peter-schrager-2024-nfl-mock-draft-1-0-giants-leap-up-for-j-j-mccarthy-vikings-stick-and-pick-cb-qb).
+You can read more about it [here](https://sports.yahoo.com/giannis-antetokounmpo-to-reportedly-miss-bucks-early-playoff-games-with-calf-strain-could-return-later-145038798.html).
 
 ## Requirements
 - Python 3.8
