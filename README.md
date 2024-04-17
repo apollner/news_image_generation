@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morning Bid: China GDP eyed as investor sentiment crumbles**
+**Iran's attack is an 'embarrassing failure,' a success for Israel, says US**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-15/).
+You can read more about it [here](https://www.jpost.com/middle-east/irans-attack-is-an-embarrassing-failure-a-success-for-israel-says-us-797324).
 
 ## Requirements
 - Python 3.8
