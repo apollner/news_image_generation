@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Day 1 of Trump New York hush money trial**
+**Jalen Brunson snubbed by Team USA with 2024 Olympics roster revealed**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/index.html).
+You can read more about it [here](https://nypost.com/2024/04/15/sports/jalen-brunson-snubbed-by-team-usa-for-2024-olympic-roster/).
 
 ## Requirements
 - Python 3.8
