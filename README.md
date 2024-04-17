@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NASA seeks cheaper ideas for Mars sample return mission amid budget crunch**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/science/nasa-seeks-cheaper-ideas-mars-sample-return-mission-amid-budget-crunch-2024-04-15/).
 
 ## Requirements
 - Python 3.8
