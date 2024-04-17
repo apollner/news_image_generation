@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump trial: Dozens of jurors rejected as they say they cannot be impartial**
+**FBI conducts "law enforcement activity" aboard cargo ship that struck Baltimore bridge**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68671733).
+You can read more about it [here](https://www.axios.com/2024/04/15/fbi-cargo-ship-baltimore-bridge-collapse).
 
 ## Requirements
 - Python 3.8
