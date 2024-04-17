@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**USC bans pro-Palestinian valedictorian from speaking at May commencement, citing safety concerns**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abc7.com/usc-bans-pro-palestinian-valedictorian-from-speaking-at-may-commencement-citing-safety-concerns/14672515/).
 
 ## Requirements
 - Python 3.8
