@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerful storms could brew destructive tornadoes and hail in parts of the Midwest**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/04/16/weather/midwest-severe-storms-tornado-threat-tuesday/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
