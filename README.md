@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA confirms mystery object that crashed through roof of Florida home came from space station**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/nasa-confirms-mystery-object-crashed-roof-florida-home-109268451).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
