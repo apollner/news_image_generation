@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Piece of ISS Battery Pallet Crashed Through Florida Home, NASA Confirms**
+**Peter Schrager 2024 NFL mock draft 1.0: Giants leap up for J.J. McCarthy; Vikings stick and pick CB, QB**
 
-You can read more about it [here](https://gizmodo.com/piece-of-iss-battery-pallet-crashed-through-florida-hom-1851412968).
+You can read more about it [here](https://www.nfl.com/news/peter-schrager-2024-nfl-mock-draft-1-0-giants-leap-up-for-j-j-mccarthy-vikings-stick-and-pick-cb-qb).
 
 ## Requirements
 - Python 3.8
