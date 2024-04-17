@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officers killed in line of duty identified as seasoned deputy and young police officer**
+**Trump stock tanks after announcing massive share sale**
 
-You can read more about it [here](https://cnycentral.com/news/local/officers-killed-in-line-of-duty-identified-as-young-police-officer-and-seasoned-deputy-salina-syracuse-police-onondaga-county-sheriffs-office-michael-jensen-michael-hoosock-shooting-gunfire-fatal).
+You can read more about it [here](https://www.cnn.com/2024/04/15/investing/trump-stock-new-shares/index.html).
 
 ## Requirements
 - Python 3.8
