@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sea-Tac airport expressway closed due to pro-Palestinian demonstration**
+**Indiana Fever select Iowa's Caitlin Clark No. 1 in 2024 WNBA draft**
 
-You can read more about it [here](https://www.seattletimes.com/seattle-news/sea-tac-airport-expressway-closed-due-to-protesters/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/39951045/indiana-fever-select-iowa-caitlin-clark-top-pick-2024-wnba-draft).
 
 ## Requirements
 - Python 3.8
