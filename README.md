@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Day 1 of Trump New York hush money trial**
+**Morning Bid: China GDP eyed as investor sentiment crumbles**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/index.html).
+You can read more about it [here](https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-15/).
 
 ## Requirements
 - Python 3.8
