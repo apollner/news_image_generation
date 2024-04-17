@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peter Schrager 2024 NFL mock draft 1.0: Giants leap up for J.J. McCarthy; Vikings stick and pick CB, QB**
+**Fourth body recovered during salvage, recovery operations at Key Bridge collapse site**
 
-You can read more about it [here](https://www.nfl.com/news/peter-schrager-2024-nfl-mock-draft-1-0-giants-leap-up-for-j-j-mccarthy-vikings-stick-and-pick-cb-qb).
+You can read more about it [here](https://www.cbsnews.com/baltimore/news/fourth-body-recovered-from-site-of-the-key-bridge-collapse/).
 
 ## Requirements
 - Python 3.8
