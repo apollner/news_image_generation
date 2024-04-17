@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fourth body recovered during salvage, recovery operations at Key Bridge collapse site**
+**Piece of ISS Battery Pallet Crashed Through Florida Home, NASA Confirms**
 
-You can read more about it [here](https://www.cbsnews.com/baltimore/news/fourth-body-recovered-from-site-of-the-key-bridge-collapse/).
+You can read more about it [here](https://gizmodo.com/piece-of-iss-battery-pallet-crashed-through-florida-hom-1851412968).
 
 ## Requirements
 - Python 3.8
