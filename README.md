@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA: Space junk that crashed through Florida home came from ISS, 'survived re-entry'**
+**Samsung Phones Outselling iPhones Globally Right Now**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/16/nasa-space-junk-florida-home-international-space-station/73339360007/).
+You can read more about it [here](https://gizmodo.com/samsung-phones-outselling-iphones-globally-1851412063).
 
 ## Requirements
 - Python 3.8
