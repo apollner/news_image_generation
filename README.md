@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melatonin industry asked to voluntarily tighten standards after dramatic rise in childhood ER visits**
+**A knife attack in Australia is being treated as terrorism**
 
-You can read more about it [here](https://www.cnn.com/2024/04/15/health/melatonin-safety-standards-wellness/index.html).
+You can read more about it [here](https://www.npr.org/2024/04/16/1244986993/a-knife-attack-in-australia-is-being-treated-as-terrorism).
 
 ## Requirements
 - Python 3.8
