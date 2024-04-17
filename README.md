@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL draft quarterback tiers: Scouts and execs stack 11 QBs**
+**NASA: Space junk that crashed through Florida home came from ISS, 'survived re-entry'**
 
-You can read more about it [here](https://www.espn.com/nfl/insider/story/_/id/39914870/2024-nfl-draft-quarterback-tiers-scouts-executives-caleb-williams-jayden-daniels-drake-maye).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/16/nasa-space-junk-florida-home-international-space-station/73339360007/).
 
 ## Requirements
 - Python 3.8
