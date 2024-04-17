@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump stock tanks after announcing massive share sale**
+**Kansas women killings: Court documents detail alleged murder-kidnapping motive**
 
-You can read more about it [here](https://www.cnn.com/2024/04/15/investing/trump-stock-new-shares/index.html).
+You can read more about it [here](https://abcnews.go.com/US/kansas-women-killings-court-documents-detail-alleged-murder/story?id=109267848).
 
 ## Requirements
 - Python 3.8
