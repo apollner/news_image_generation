@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FULL MATCH: Sami Zayn vs. Chad Gable – Intercontinental Championship Match: Raw, April 15, 2024**
+**Mike Johnson takes risk on separating Israel and Ukraine aid**
 
-You can read more about it [here](https://www.youtube.com/watch?v=40ac6SEzlR8).
+You can read more about it [here](https://www.cbsnews.com/news/speaker-mike-johnson-israel-ukraine-aid-plan/).
 
 ## Requirements
 - Python 3.8
