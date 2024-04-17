@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Brunson snubbed by Team USA with 2024 Olympics roster revealed**
+**NASA confirms mystery object that crashed through roof of Florida home came from space station**
 
-You can read more about it [here](https://nypost.com/2024/04/15/sports/jalen-brunson-snubbed-by-team-usa-for-2024-olympic-roster/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/nasa-confirms-mystery-object-crashed-roof-florida-home-109268451).
 
 ## Requirements
 - Python 3.8
