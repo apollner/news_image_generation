@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House official confronted on international blunders under Biden: 'Got your hands full'**
+**Arm skin patch system could warn of organ rejection**
 
-You can read more about it [here](https://www.foxnews.com/media/white-house-official-confronted-international-blunders-biden-got-hands-full).
+You can read more about it [here](https://www.bbc.com/news/health-68817453).
 
 ## Requirements
 - Python 3.8
