@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL draft quarterback tiers: Scouts and execs stack 11 QBs**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/insider/story/_/id/39914870/2024-nfl-draft-quarterback-tiers-scouts-executives-caleb-williams-jayden-daniels-drake-maye).
 
 ## Requirements
 - Python 3.8
