@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA seeks cheaper ideas for Mars sample return mission amid budget crunch**
+**Officers killed in line of duty identified as seasoned deputy and young police officer**
 
-You can read more about it [here](https://www.reuters.com/science/nasa-seeks-cheaper-ideas-mars-sample-return-mission-amid-budget-crunch-2024-04-15/).
+You can read more about it [here](https://cnycentral.com/news/local/officers-killed-in-line-of-duty-identified-as-young-police-officer-and-seasoned-deputy-salina-syracuse-police-onondaga-county-sheriffs-office-michael-jensen-michael-hoosock-shooting-gunfire-fatal).
 
 ## Requirements
 - Python 3.8
