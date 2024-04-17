@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Phones Outselling iPhones Globally Right Now**
+**US to grow at double the rate of G7 peers this year, says IMF**
 
-You can read more about it [here](https://gizmodo.com/samsung-phones-outselling-iphones-globally-1851412063).
+You can read more about it [here](https://www.ft.com/content/3b819571-662d-4185-9ca5-c7e682b55700).
 
 ## Requirements
 - Python 3.8
