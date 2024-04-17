@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Johnson takes risk on separating Israel and Ukraine aid**
+**Powerful storms could brew destructive tornadoes and hail in parts of the Midwest**
 
-You can read more about it [here](https://www.cbsnews.com/news/speaker-mike-johnson-israel-ukraine-aid-plan/).
+You can read more about it [here](https://www.cnn.com/2024/04/16/weather/midwest-severe-storms-tornado-threat-tuesday/index.html).
 
 ## Requirements
 - Python 3.8
