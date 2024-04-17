@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giannis Antetokounmpo to reportedly miss Bucks' early playoff games with calf strain, could return later**
+**Fourth body recovered during salvage, recovery operations at Key Bridge collapse site**
 
-You can read more about it [here](https://sports.yahoo.com/giannis-antetokounmpo-to-reportedly-miss-bucks-early-playoff-games-with-calf-strain-could-return-later-145038798.html).
+You can read more about it [here](https://www.cbsnews.com/baltimore/news/fourth-body-recovered-from-site-of-the-key-bridge-collapse/).
 
 ## Requirements
 - Python 3.8
