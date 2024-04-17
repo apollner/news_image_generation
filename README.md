@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US to grow at double the rate of G7 peers this year, says IMF**
+**Beatles’ 1970 ‘Let It Be’ Documentary, Out of Circulation for Four Decades, Headed to Disney+ After Restoration by Peter Jackson’s Team**
 
-You can read more about it [here](https://www.ft.com/content/3b819571-662d-4185-9ca5-c7e682b55700).
+You can read more about it [here](https://variety.com/2024/music/news/beatles-let-it-be-film-restored-apple-streaming-1235972289/).
 
 ## Requirements
 - Python 3.8
