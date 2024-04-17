@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic impeachment articles against Alejandro Mayorkas sent to Senate, but will there be a full trial?**
+**Stock market today: Dow snaps 6-day losing streak, Powell warns on inflation**
 
-You can read more about it [here](https://abcnews.go.com/Politics/historic-impeachment-articles-alejandro-mayorkas-senate-trial/story?id=109316174).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-snaps-6-day-losing-streak-powell-warns-on-inflation-181845026.html).
 
 ## Requirements
 - Python 3.8
