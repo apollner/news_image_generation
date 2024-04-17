@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A knife attack in Australia is being treated as terrorism**
+**White House official confronted on international blunders under Biden: 'Got your hands full'**
 
-You can read more about it [here](https://www.npr.org/2024/04/16/1244986993/a-knife-attack-in-australia-is-being-treated-as-terrorism).
+You can read more about it [here](https://www.foxnews.com/media/white-house-official-confronted-international-blunders-biden-got-hands-full).
 
 ## Requirements
 - Python 3.8
