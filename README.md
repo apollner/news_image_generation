@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sydney church stabbing declared a 'terrorist attack'**
+**Day 1 of Trump New York hush money trial**
 
-You can read more about it [here](https://www.bbc.com/news/world-australia-68823240).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/index.html).
 
 ## Requirements
 - Python 3.8
