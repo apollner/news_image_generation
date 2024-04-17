@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Dow snaps 6-day losing streak, Powell warns on inflation**
+**Trump Media Stock Plummets After Truth Social Announces Live TV Streaming Platform**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-snaps-6-day-losing-streak-powell-warns-on-inflation-181845026.html).
+You can read more about it [here](https://gizmodo.com/trump-media-stock-truth-social-tv-live-streaming-1851413915).
 
 ## Requirements
 - Python 3.8
