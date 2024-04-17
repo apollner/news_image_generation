@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas women killings: Court documents detail alleged murder-kidnapping motive**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/kansas-women-killings-court-documents-detail-alleged-murder/story?id=109267848).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
