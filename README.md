@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Traders Place Bets On $250 Oil**
+**Historic impeachment articles against Alejandro Mayorkas sent to Senate, but will there be a full trial?**
 
-You can read more about it [here](https://oilprice.com/Latest-Energy-News/World-News/Traders-Place-Bets-On-250-Oil.html).
+You can read more about it [here](https://abcnews.go.com/Politics/historic-impeachment-articles-alejandro-mayorkas-senate-trial/story?id=109316174).
 
 ## Requirements
 - Python 3.8
