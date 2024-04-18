@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple TV Plus' For All Mankind is getting a fifth season and a new spinoff series**
+**No, seriously, Taylor Swift could become an even bigger deal after ‘The Tortured Poets Department’**
 
-You can read more about it [here](https://www.theverge.com/2024/4/17/24133154/for-all-mankind-season-five-star-city-spinoff).
+You can read more about it [here](https://www.cnn.com/2024/04/17/entertainment/the-music-industry-is-bracing-for-another-massive-release-from-taylor-swift-with-the-tortured-poets-department-album/index.html).
 
 ## Requirements
 - Python 3.8
