@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dubai flooding hobbles major airport's operations as "historic weather event" brings torrential rains to UAE**
+**Robert Kraft reportedly warned Falcons owner Arthur Blank not to trust Bill Belichick during head coach interviews**
 
-You can read more about it [here](https://www.cbsnews.com/news/dubai-flooding-today-heavy-rain-snarls-traffic-uae-roads-and-airport/).
+You can read more about it [here](https://sports.yahoo.com/patriots-robert-kraft-reportedly-warned-falcons-owner-arthur-blank-not-to-trust-bill-belichick-134425299.html).
 
 ## Requirements
 - Python 3.8
