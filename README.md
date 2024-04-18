@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MPs back smoking ban for those born after 2009**
+**Trump Media Stock Plummets After Truth Social Announces Live TV Streaming Platform**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68824493).
+You can read more about it [here](https://gizmodo.com/trump-media-stock-truth-social-tv-live-streaming-1851413915).
 
 ## Requirements
 - Python 3.8
