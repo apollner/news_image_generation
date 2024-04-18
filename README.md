@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hillary Clinton slams 'cruelty towards women' of Arizona's abortion law**
+**Israel blames Gaza starvation on U.N. as UNICEF says a third of Gazan infants and toddlers acutely malnourished**
 
-You can read more about it [here](https://www.youtube.com/watch?v=-eFJZtD-6Ss).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-starvation-un-unicef-humanitarian-aid-distribution/).
 
 ## Requirements
 - Python 3.8
