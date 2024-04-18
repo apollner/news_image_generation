@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelly Clarkson Gets Emotional Recalling Pregnancy Hospitalizations Amid Arizona Abortion Ban**
+**Powell Signals Rate Cut Delay As Inflation Plateaus Above Target**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/kelly-clarkson-pregnancy-hospitalization-arizona-abortion-ban-1235875235/).
+You can read more about it [here](https://www.businessinsider.com/fed-powell-pump-money-us-economy-delayed-cut-interest-rate-2024-4).
 
 ## Requirements
 - Python 3.8
