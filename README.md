@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Facing a Republican revolt, House Speaker Johnson pushes ahead on US aid for Ukraine, allies**
+**Travis Kelce will host game show on Amazon Prime**
 
-You can read more about it [here](https://apnews.com/article/ukraine-israel-house-republicans-3f6f6af81c860eb8ce4104e61728a0fb).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-will-host-game-show-on-amazon-prime).
 
 ## Requirements
 - Python 3.8
