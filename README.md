@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden returns to his Scranton roots to pitch tax plan**
+**NBA play-in: Zion Williamson's 40-point night halted by leg injury in Pelicans loss vs. Lakers**
 
-You can read more about it [here](https://apnews.com/article/joe-biden-scranton-pennsylvania-election-taxes-6b3de3a4807cbccdb5732442071f4f6e).
+You can read more about it [here](https://sports.yahoo.com/nba-play-in-zion-williamsons-40-point-night-halted-by-leg-injury-in-pelicans-loss-vs-lakers-022830286.html).
 
 ## Requirements
 - Python 3.8
