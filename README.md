@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Revolt against Johnson opens up fresh talk over House GOP leadership’s future**
+**Facing a Republican revolt, House Speaker Johnson pushes ahead on US aid for Ukraine, allies**
 
-You can read more about it [here](https://www.cnn.com/2024/04/16/politics/mike-johnson-revolt-house-gop-leadership/index.html).
+You can read more about it [here](https://apnews.com/article/ukraine-israel-house-republicans-3f6f6af81c860eb8ce4104e61728a0fb).
 
 ## Requirements
 - Python 3.8
