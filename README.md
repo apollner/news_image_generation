@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers survive Pelicans' rally, advance to matchup vs. Nuggets**
+**Uber driver shot and killed by 81-year-old Ohio man after both received scam calls, police say**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39958876/lakers-survive-pelicans-rally-advance-matchup-vs-nuggets).
+You can read more about it [here](https://www.cbsnews.com/news/uber-driver-killed-scam-phone-call-william-brock-loletha-hall-clark-county-ohio/).
 
 ## Requirements
 - Python 3.8
