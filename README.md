@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA confirms International Space Station object crashed through home in Naples, Florida**
+**Solomon Islands: The Pacific election being closely watched by China and the West**
 
-You can read more about it [here](https://abcnews.go.com/US/nasa-confirms-international-space-station-object-crashed-naples/story?id=109317561).
+You can read more about it [here](https://www.bbc.com/news/world-australia-68824299).
 
 ## Requirements
 - Python 3.8
