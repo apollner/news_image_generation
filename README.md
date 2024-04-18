@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A vehicle backfiring startled a circus elephant into a Montana street. She still performed Monday**
+**Lakers coach Darvin Ham rips 'insane asylum' idea that team should have thrown first play-in game**
 
-You can read more about it [here](https://apnews.com/article/circus-elephant-escapes-butte-montana-572fdb1eef96a9c63815222788263d0d).
+You can read more about it [here](https://sports.yahoo.com/lakers-coach-darvin-ham-rips-insane-asylum-idea-that-team-should-have-thrown-first-play-in-game-185526263.html).
 
 ## Requirements
 - Python 3.8
