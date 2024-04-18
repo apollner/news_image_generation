@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dubai airport flooded and flights are hit as storm dumps record rain on UAE**
+**Israel blames Gaza starvation on U.N. as UNICEF says a third of Gazan infants and toddlers acutely malnourished**
 
-You can read more about it [here](https://apnews.com/article/uae-historic-rain-storm-flooding-dubai-airport-disruption-3e838dbc169e52dcd6d11b64f79bdcb7).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-starvation-un-unicef-humanitarian-aid-distribution/).
 
 ## Requirements
 - Python 3.8
