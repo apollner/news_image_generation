@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Civil War’ Faces Three Wide Adversaries In Second Weekend Box Office Battle- Preview**
+**Lakers survive Pelicans' rally, advance to matchup vs. Nuggets**
 
-You can read more about it [here](http://deadline.com/2024/04/box-office-preview-civil-war-abigail-the-ministry-of-ungentlemanly-warfare-1235887561/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39958876/lakers-survive-pelicans-rally-advance-matchup-vs-nuggets).
 
 ## Requirements
 - Python 3.8
