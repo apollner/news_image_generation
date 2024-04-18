@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s stock tumbles again after Truth Social announces it’s getting into streaming**
+**Taylor Swift's Tortured Poets L.A. Event Has a Nod to Joe Alwyn**
 
-You can read more about it [here](https://www.cnn.com/2024/04/16/investing/trump-stock-djt-truth-social-streaming/index.html).
+You can read more about it [here](https://www.eonline.com/news/1399579/uncracking-taylor-swifts-joe-alwyn-easter-egg-at-the-tortured-poets-department-event).
 
 ## Requirements
 - Python 3.8
