@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USC student's graduation speech cancelled in Israel-Gaza hate row**
+**NASA confirms International Space Station object crashed through home in Naples, Florida**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68828082).
+You can read more about it [here](https://abcnews.go.com/US/nasa-confirms-international-space-station-object-crashed-naples/story?id=109317561).
 
 ## Requirements
 - Python 3.8
