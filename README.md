@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Solomon Islands: The Pacific election being closely watched by China and the West**
+**Is Cloud Seeding to Blame for Floods? What to Know**
 
-You can read more about it [here](https://www.bbc.com/news/world-australia-68824299).
+You can read more about it [here](https://time.com/6967836/dubai-floods-cloud-seeding-rain-blame-climate-change/).
 
 ## Requirements
 - Python 3.8
