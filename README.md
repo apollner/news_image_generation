@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Rise After Stocks Shrug Off Powell; Super Micro Flashes Buy Signal**
+**‘Civil War’ Faces Three Wide Adversaries In Second Weekend Box Office Battle- Preview**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-super-micro-asml-earnings/).
+You can read more about it [here](http://deadline.com/2024/04/box-office-preview-civil-war-abigail-the-ministry-of-ungentlemanly-warfare-1235887561/).
 
 ## Requirements
 - Python 3.8
