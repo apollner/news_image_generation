@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video: Space junk crashed through family's roof, NASA says**
+**Biden returns to his Scranton roots to pitch tax plan**
 
-You can read more about it [here](https://www.wdsu.com/article/space-junk-crashed-family-house-roof-nasa/60517253).
+You can read more about it [here](https://apnews.com/article/joe-biden-scranton-pennsylvania-election-taxes-6b3de3a4807cbccdb5732442071f4f6e).
 
 ## Requirements
 - Python 3.8
