@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel blames Gaza starvation on U.N. as UNICEF says a third of Gazan infants and toddlers acutely malnourished**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-starvation-un-unicef-humanitarian-aid-distribution/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
