@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is Cloud Seeding to Blame for Floods? What to Know**
+**USC student's graduation speech cancelled in Israel-Gaza hate row**
 
-You can read more about it [here](https://time.com/6967836/dubai-floods-cloud-seeding-rain-blame-climate-change/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68828082).
 
 ## Requirements
 - Python 3.8
