@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Kraft reportedly warned Falcons owner Arthur Blank not to trust Bill Belichick during head coach interviews**
+**Gerry Turner Exposed? Fans Claim Money Issues Led To 'Golden Bachelor' Divorce**
 
-You can read more about it [here](https://sports.yahoo.com/patriots-robert-kraft-reportedly-warned-falcons-owner-arthur-blank-not-to-trust-bill-belichick-134425299.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/gerry-turner-exposed-fans-claim-144548937.html).
 
 ## Requirements
 - Python 3.8
