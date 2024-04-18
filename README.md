@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powell Signals Rate Cut Delay As Inflation Plateaus Above Target**
+**USC student's graduation speech cancelled in Israel-Gaza hate row**
 
-You can read more about it [here](https://www.businessinsider.com/fed-powell-pump-money-us-economy-delayed-cut-interest-rate-2024-4).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68828082).
 
 ## Requirements
 - Python 3.8
