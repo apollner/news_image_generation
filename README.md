@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Leads Airline Rally On Earnings, Records $200 Million Hit From Boeing Grounding**
+**Delta Game Emulator Now Available From App Store on iPhone**
 
-You can read more about it [here](https://www.investors.com/news/ual-stock-rallies-united-airlines-earnings-airline-stocks/).
+You can read more about it [here](https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/).
 
 ## Requirements
 - Python 3.8
