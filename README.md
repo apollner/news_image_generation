@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Linus Torvalds reiterates his tabs-versus-spaces stance with a kernel trap**
+**Game Pass Wave 2 Games for April 2024 Announced - IGN Daily Fix**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/).
+You can read more about it [here](https://www.youtube.com/watch?v=8EaeAzic_io).
 
 ## Requirements
 - Python 3.8
