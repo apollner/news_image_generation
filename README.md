@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel blames Gaza starvation on U.N. as UNICEF says a third of Gazan infants and toddlers acutely malnourished**
+**A chunk of metal that tore through a Florida home definitely came from the ISS**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-gaza-starvation-un-unicef-humanitarian-aid-distribution/).
+You can read more about it [here](https://arstechnica.com/space/2024/04/florida-man-tells-ars-about-his-encounter-with-something-that-fell-from-space/).
 
 ## Requirements
 - Python 3.8
