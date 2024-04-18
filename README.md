@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A chunk of metal that tore through a Florida home definitely came from the ISS**
+**Tesla wants shareholders to reinstate $56 billion Musk pay package tossed by a Delaware judge**
 
-You can read more about it [here](https://arstechnica.com/space/2024/04/florida-man-tells-ars-about-his-encounter-with-something-that-fell-from-space/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/tesla-shareholders-reinstate-musk-pay-package-rejected-delaware-109341787).
 
 ## Requirements
 - Python 3.8
