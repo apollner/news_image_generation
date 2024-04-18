@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA play-in: Zion Williamson's 40-point night halted by leg injury in Pelicans loss vs. Lakers**
+**Kelly Clarkson Gets Emotional Recalling Pregnancy Hospitalizations Amid Arizona Abortion Ban**
 
-You can read more about it [here](https://sports.yahoo.com/nba-play-in-zion-williamsons-40-point-night-halted-by-leg-injury-in-pelicans-loss-vs-lakers-022830286.html).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/kelly-clarkson-pregnancy-hospitalization-arizona-abortion-ban-1235875235/).
 
 ## Requirements
 - Python 3.8
