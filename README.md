@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Airlines says Boeing Alaska blowout cost it $200m**
+**Hillary Clinton slams 'cruelty towards women' of Arizona's abortion law**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd189nmv2dro).
+You can read more about it [here](https://www.youtube.com/watch?v=-eFJZtD-6Ss).
 
 ## Requirements
 - Python 3.8
