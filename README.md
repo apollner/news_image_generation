@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gerry Turner Exposed? Fans Claim Money Issues Led To 'Golden Bachelor' Divorce**
+**United Leads Airline Rally On Earnings, Records $200 Million Hit From Boeing Grounding**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/gerry-turner-exposed-fans-claim-144548937.html).
+You can read more about it [here](https://www.investors.com/news/ual-stock-rallies-united-airlines-earnings-airline-stocks/).
 
 ## Requirements
 - Python 3.8
