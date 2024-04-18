@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US man, 81, charged with killing Uber driver after both targeted by scam calls**
+**Stock market today: Tech leads stocks lower amid mixed earnings, rate cut worries**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68838017).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-tech-leads-stocks-lower-amid-mixed-earnings-rate-cut-worries-133303778.html).
 
 ## Requirements
 - Python 3.8
