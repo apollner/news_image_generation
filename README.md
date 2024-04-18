@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber driver shot and killed by 81-year-old Ohio man after both received scam calls, police say**
+**Video: Space junk crashed through family's roof, NASA says**
 
-You can read more about it [here](https://www.cbsnews.com/news/uber-driver-killed-scam-phone-call-william-brock-loletha-hall-clark-county-ohio/).
+You can read more about it [here](https://www.wdsu.com/article/space-junk-crashed-family-house-roof-nasa/60517253).
 
 ## Requirements
 - Python 3.8
