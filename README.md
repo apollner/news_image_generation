@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers coach Darvin Ham rips 'insane asylum' idea that team should have thrown first play-in game**
+**Bob Myers reacts to Warriors missing playoffs & praises Steph, Klay & Draymond | NBA Countdown**
 
-You can read more about it [here](https://sports.yahoo.com/lakers-coach-darvin-ham-rips-insane-asylum-idea-that-team-should-have-thrown-first-play-in-game-185526263.html).
+You can read more about it [here](https://www.youtube.com/watch?v=bRCe5AXI2MU).
 
 ## Requirements
 - Python 3.8
