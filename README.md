@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USC student's graduation speech cancelled in Israel-Gaza hate row**
+**Record breaker! Milky Way's most monstrous stellar-mass black hole is sleeping giant lurking close to Earth (Video)**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68828082).
+You can read more about it [here](https://www.space.com/milky-way-biggest-stellar-mass-black-hole-gaia).
 
 ## Requirements
 - Python 3.8
