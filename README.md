@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Tech leads stocks lower amid mixed earnings, rate cut worries**
+**Apple TV Plus' For All Mankind is getting a fifth season and a new spinoff series**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-tech-leads-stocks-lower-amid-mixed-earnings-rate-cut-worries-133303778.html).
+You can read more about it [here](https://www.theverge.com/2024/4/17/24133154/for-all-mankind-season-five-star-city-spinoff).
 
 ## Requirements
 - Python 3.8
