@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delta Game Emulator Now Available From App Store on iPhone**
+**US man, 81, charged with killing Uber driver after both targeted by scam calls**
 
-You can read more about it [here](https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68838017).
 
 ## Requirements
 - Python 3.8
