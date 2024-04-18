@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Dubai airport flooded and flights are hit as storm dumps record rain on UAE**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/uae-historic-rain-storm-flooding-dubai-airport-disruption-3e838dbc169e52dcd6d11b64f79bdcb7).
 
 ## Requirements
 - Python 3.8
