@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Game Pass Wave 2 Games for April 2024 Announced - IGN Daily Fix**
+**Revolt against Johnson opens up fresh talk over House GOP leadership’s future**
 
-You can read more about it [here](https://www.youtube.com/watch?v=8EaeAzic_io).
+You can read more about it [here](https://www.cnn.com/2024/04/16/politics/mike-johnson-revolt-house-gop-leadership/index.html).
 
 ## Requirements
 - Python 3.8
