@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Record breaker! Milky Way's most monstrous stellar-mass black hole is sleeping giant lurking close to Earth (Video)**
+**United Airlines says Boeing Alaska blowout cost it $200m**
 
-You can read more about it [here](https://www.space.com/milky-way-biggest-stellar-mass-black-hole-gaia).
+You can read more about it [here](https://www.bbc.com/news/articles/cd189nmv2dro).
 
 ## Requirements
 - Python 3.8
