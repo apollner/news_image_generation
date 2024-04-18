@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media Stock Plummets After Truth Social Announces Live TV Streaming Platform**
+**Game Pass Wave 2 Games for April 2024 Announced - IGN Daily Fix**
 
-You can read more about it [here](https://gizmodo.com/trump-media-stock-truth-social-tv-live-streaming-1851413915).
+You can read more about it [here](https://www.youtube.com/watch?v=8EaeAzic_io).
 
 ## Requirements
 - Python 3.8
