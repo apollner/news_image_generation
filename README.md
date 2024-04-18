@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce will host game show on Amazon Prime**
+**Trump’s stock tumbles again after Truth Social announces it’s getting into streaming**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-will-host-game-show-on-amazon-prime).
+You can read more about it [here](https://www.cnn.com/2024/04/16/investing/trump-stock-djt-truth-social-streaming/index.html).
 
 ## Requirements
 - Python 3.8
