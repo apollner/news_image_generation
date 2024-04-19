@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Masked Singer’ Reveals Identities of Ugly Sweater and Starfish: Here Are the Celebrities Under the Costumes**
+**United said it lost $200 million from the temporary grounding of the Boeing 737 Max 9**
 
-You can read more about it [here](https://variety.com/2024/tv/news/the-masked-singer-season-11-episode-7-recap-charlie-wilson-kate-flannery-1235974506/).
+You can read more about it [here](https://www.foxbusiness.com/markets/united-said-it-lost-200-million-temporary-grounding-boeing-737-max-9).
 
 ## Requirements
 - Python 3.8
