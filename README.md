@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Volcano in Indonesia spews lava and smoke**
+**Maui fire response hindered by lack of planning, fire department says**
 
-You can read more about it [here](https://www.bbc.com/news/av/world-asia-68841333).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/17/maui-fire-department-report-reveals-lack-of-preparedness/73345212007/).
 
 ## Requirements
 - Python 3.8
