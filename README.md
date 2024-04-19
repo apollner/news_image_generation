@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 4 people accused of kidnapping and killing 2 women in Oklahoma were denied bond in first court appearance**
+**Fossil discovery by 11-year-old is the largest known marine reptile, study says**
 
-You can read more about it [here](https://www.cnn.com/2024/04/17/us/missing-oklahoma-women-court/index.html).
+You can read more about it [here](https://www.cnn.com/2024/04/17/world/giant-ichthyosaur-fossil-species-discovery-scn/index.html).
 
 ## Requirements
 - Python 3.8
