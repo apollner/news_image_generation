@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reuters photographer Mohammed Salem wins 2024 World Press Photo of the Year award**
+**Caitlin Clark reportedly close to 8-figure deal with Nike that includes signature shoe**
 
-You can read more about it [here](https://www.reuters.com/world/reuters-mohammed-salem-wins-2024-world-press-photo-year-award-2024-04-18/).
+You can read more about it [here](https://sports.yahoo.com/caitlin-clark-reportedly-close-to-8-figure-deal-with-nike-that-includes-signature-shoe-024801688.html).
 
 ## Requirements
 - Python 3.8
