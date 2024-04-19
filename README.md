@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cellphone tower expert will testify Bryan Kohberger’s mobile device was outside of Moscow night of the Idaho murders, defense says**
+**Biden endorses House aid package for Israel, Ukraine**
 
-You can read more about it [here](https://www.cnn.com/2024/04/17/us/bryan-kohberger-idaho-killings-suspect-alibi/index.html).
+You can read more about it [here](https://apnews.com/article/ukraine-aid-house-speaker-f08102e171dcac2d66d513980d828d49).
 
 ## Requirements
 - Python 3.8
