@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches Falcon 9 rocket on Starlink mission from Kennedy Space Center – Spaceflight Now**
+**Cellphone tower expert will testify Bryan Kohberger’s mobile device was outside of Moscow night of the Idaho murders, defense says**
 
-You can read more about it [here](https://spaceflightnow.com/2024/04/17/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-kennedy-space-center/).
+You can read more about it [here](https://www.cnn.com/2024/04/17/us/bryan-kohberger-idaho-killings-suspect-alibi/index.html).
 
 ## Requirements
 - Python 3.8
