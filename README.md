@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixers outduel Heat down stretch to clinch No. 7 seed in East**
+**Fossil discovery by 11-year-old is the largest known marine reptile, study says**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39965732/sixers-outduel-heat-stretch-clinch-no-7-seed-east).
+You can read more about it [here](https://www.cnn.com/2024/04/17/world/giant-ichthyosaur-fossil-species-discovery-scn/index.html).
 
 ## Requirements
 - Python 3.8
