@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Falcons select Kirk Cousins' eventual replacement; five QBs go in first round**
+**Biden to appear with Kennedy family for endorsements, as battle heats up with RFK Jr. over family legacy**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-falcons-select-kirk-cousins-eventual-replacement-five-qbs-go-in-first-round/).
+You can read more about it [here](https://www.cnn.com/2024/04/18/politics/biden-kennedy-family-endorsements-rfk-jr/index.html).
 
 ## Requirements
 - Python 3.8
