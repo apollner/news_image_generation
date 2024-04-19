@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after S&P 500 posts a fourth losing day: Live updates**
+**Bulls knock Hawks out of play-in, advance to face Heat**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/17/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39966386/bulls-knock-hawks-play-advance-face-heat).
 
 ## Requirements
 - Python 3.8
