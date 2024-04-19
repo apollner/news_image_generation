@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bulls knock Hawks out of play-in, advance to face Heat**
+**Quentin Tarantino Scraps 'The Movie Critic'**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39966386/bulls-knock-hawks-play-advance-face-heat).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/quentin-tarantino-scraps-movie-critic-film-1235006413/).
 
 ## Requirements
 - Python 3.8
