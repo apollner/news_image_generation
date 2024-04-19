@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's why experts don't think cloud seeding played a role in Dubai's downpour**
+**Cellphone tower expert will testify Bryan Kohberger’s mobile device was outside of Moscow night of the Idaho murders, defense says**
 
-You can read more about it [here](https://apnews.com/article/dubai-united-arab-emirates-oman-flooding-cloud-seeding-2f8c12854017e11ac7438579646b3758).
+You can read more about it [here](https://www.cnn.com/2024/04/17/us/bryan-kohberger-idaho-killings-suspect-alibi/index.html).
 
 ## Requirements
 - Python 3.8
