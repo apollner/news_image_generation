@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Tortured Poets Department' Drops Tomorrow. How to Stream Taylor Swift's Latest Album**
+**[Removed]**
 
-You can read more about it [here](https://www.cnet.com/culture/entertainment/the-tortured-poets-department-drops-tomorrow-how-to-stream-taylor-swifts-latest-album/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
