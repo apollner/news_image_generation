@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Jontay Porter's "ban" means. Plus, Jimmy Butler absence expected as 76ers advance**
+**Reuters photographer Mohammed Salem wins 2024 World Press Photo of the Year award**
 
-You can read more about it [here](https://theathletic.com/5425793/2024/04/18/jontay-porter-raptors-heat-jimmy-butler-76ers-joel-embiid-nba-the-bounce/).
+You can read more about it [here](https://www.reuters.com/world/reuters-mohammed-salem-wins-2024-world-press-photo-year-award-2024-04-18/).
 
 ## Requirements
 - Python 3.8
