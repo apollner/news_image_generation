@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Masked Singer’ Reveals Identities of Ugly Sweater and Starfish: Here Are the Celebrities Under the Costumes**
+**SpaceX launches Falcon 9 rocket on Starlink mission from Kennedy Space Center – Spaceflight Now**
 
-You can read more about it [here](https://variety.com/2024/tv/news/the-masked-singer-season-11-episode-7-recap-charlie-wilson-kate-flannery-1235974506/).
+You can read more about it [here](https://spaceflightnow.com/2024/04/17/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-kennedy-space-center/).
 
 ## Requirements
 - Python 3.8
