@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indonesian volcano eruption forces evacuations, airport closure**
+**2024 NFL Mock Draft: Falcons select Kirk Cousins' eventual replacement; five QBs go in first round**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/indonesian-volcano-eruption-forces-evacuations-airport-closure-2024-04-18/).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-falcons-select-kirk-cousins-eventual-replacement-five-qbs-go-in-first-round/).
 
 ## Requirements
 - Python 3.8
