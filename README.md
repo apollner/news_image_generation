@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blake Shelton Reflects on 10th Anniversary of Meeting Gwen Stefani and the Joy of Being a Stepdad (Exclusive)**
+**Watch: Volcano in Indonesia spews lava and smoke**
 
-You can read more about it [here](https://www.etonline.com/blake-shelton-reflects-on-10th-anniversary-of-meeting-gwen-stefani-and-the-joy-of-being-a-stepdad).
+You can read more about it [here](https://www.bbc.com/news/av/world-asia-68841333).
 
 ## Requirements
 - Python 3.8
