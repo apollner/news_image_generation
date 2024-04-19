@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryan Kohberger Update: Map Shows New Movements Revealed on Night of Murder**
+**GOP Senate candidates pounce on Dems for Mayorkas impeachment vote**
 
-You can read more about it [here](https://www.newsweek.com/bryan-kohberger-idaho-murders-alibi-1891772).
+You can read more about it [here](https://www.axios.com/2024/04/17/senate-republicans-mayorkas-impeachment-vote).
 
 ## Requirements
 - Python 3.8
