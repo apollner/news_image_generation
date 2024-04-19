@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google terminates 28 employees after multi-city protests: Read the full memo**
+**Indonesian volcano eruption forces evacuations, airport closure**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/18/google-terminates-28-employees-after-series-of-protests-read-the-memo.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/indonesian-volcano-eruption-forces-evacuations-airport-closure-2024-04-18/).
 
 ## Requirements
 - Python 3.8
