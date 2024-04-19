@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fossil discovery by 11-year-old is the largest known marine reptile, study says**
+**Blake Shelton Reflects on 10th Anniversary of Meeting Gwen Stefani and the Joy of Being a Stepdad (Exclusive)**
 
-You can read more about it [here](https://www.cnn.com/2024/04/17/world/giant-ichthyosaur-fossil-species-discovery-scn/index.html).
+You can read more about it [here](https://www.etonline.com/blake-shelton-reflects-on-10th-anniversary-of-meeting-gwen-stefani-and-the-joy-of-being-a-stepdad).
 
 ## Requirements
 - Python 3.8
