@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**What Jontay Porter's "ban" means. Plus, Jimmy Butler absence expected as 76ers advance**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://theathletic.com/5425793/2024/04/18/jontay-porter-raptors-heat-jimmy-butler-76ers-joel-embiid-nba-the-bounce/).
 
 ## Requirements
 - Python 3.8
