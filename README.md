@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden endorses House aid package for Israel, Ukraine**
+**Tesla is laying off 285 employees in Buffalo, New York as part of a broad restructuring**
 
-You can read more about it [here](https://apnews.com/article/ukraine-aid-house-speaker-f08102e171dcac2d66d513980d828d49).
+You can read more about it [here](https://www.cnbc.com/2024/04/17/tesla-is-laying-off-285-employees-in-buffalo-new-york-as-part-of-a-broad-restructuring.html).
 
 ## Requirements
 - Python 3.8
