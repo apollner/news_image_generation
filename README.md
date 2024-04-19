@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump trial jury selection process follows a familiar pattern with an unpredictable outcome**
+**'The Tortured Poets Department' Drops Tomorrow. How to Stream Taylor Swift's Latest Album**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-criminal-trial-jurors-e47b0494de7688bde0e877ccb90aeca2).
+You can read more about it [here](https://www.cnet.com/culture/entertainment/the-tortured-poets-department-drops-tomorrow-how-to-stream-taylor-swifts-latest-album/).
 
 ## Requirements
 - Python 3.8
