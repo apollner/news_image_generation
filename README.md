@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches Falcon 9 rocket on Starlink mission from Kennedy Space Center – Spaceflight Now**
+**Sixers outduel Heat down stretch to clinch No. 7 seed in East**
 
-You can read more about it [here](https://spaceflightnow.com/2024/04/17/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-kennedy-space-center/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39965732/sixers-outduel-heat-stretch-clinch-no-7-seed-east).
 
 ## Requirements
 - Python 3.8
