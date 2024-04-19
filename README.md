@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla CEO Elon Musk apologizes for 'incorrectly low' severance packages after mass layoffs**
+**Trump trial jury selection process follows a familiar pattern with an unpredictable outcome**
 
-You can read more about it [here](https://qz.com/tesla-elon-musk-apologizes-layoffs-severance-1851418616).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-criminal-trial-jurors-e47b0494de7688bde0e877ccb90aeca2).
 
 ## Requirements
 - Python 3.8
