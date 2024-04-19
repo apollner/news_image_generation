@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran warns of shift in nuclear stance if Israel threatens atomic sites**
+**Bryan Kohberger Update: Map Shows New Movements Revealed on Night of Murder**
 
-You can read more about it [here](https://www.ft.com/content/c73b99ec-cd3f-49be-8024-6faf369b58e1).
+You can read more about it [here](https://www.newsweek.com/bryan-kohberger-idaho-murders-alibi-1891772).
 
 ## Requirements
 - Python 3.8
