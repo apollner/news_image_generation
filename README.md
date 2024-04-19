@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conservatives corner Mike Johnson in House floor confrontation**
+**Tesla CEO Elon Musk apologizes for 'incorrectly low' severance packages after mass layoffs**
 
-You can read more about it [here](https://www.axios.com/2024/04/18/mike-johnson-gaetz-motion-to-vacate-ukraine).
+You can read more about it [here](https://qz.com/tesla-elon-musk-apologizes-layoffs-severance-1851418616).
 
 ## Requirements
 - Python 3.8
