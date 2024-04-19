@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui fire response hindered by lack of planning, fire department says**
+**Google terminates 28 employees after multi-city protests: Read the full memo**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/17/maui-fire-department-report-reveals-lack-of-preparedness/73345212007/).
+You can read more about it [here](https://www.cnbc.com/2024/04/18/google-terminates-28-employees-after-series-of-protests-read-the-memo.html).
 
 ## Requirements
 - Python 3.8
