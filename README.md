@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quentin Tarantino Scraps 'The Movie Critic'**
+**Blake Shelton Reflects on 10th Anniversary of Meeting Gwen Stefani and the Joy of Being a Stepdad (Exclusive)**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/quentin-tarantino-scraps-movie-critic-film-1235006413/).
+You can read more about it [here](https://www.etonline.com/blake-shelton-reflects-on-10th-anniversary-of-meeting-gwen-stefani-and-the-joy-of-being-a-stepdad).
 
 ## Requirements
 - Python 3.8
