@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla is laying off 285 employees in Buffalo, New York as part of a broad restructuring**
+**Sixers outduel Heat down stretch to clinch No. 7 seed in East**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/17/tesla-is-laying-off-285-employees-in-buffalo-new-york-as-part-of-a-broad-restructuring.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/39965732/sixers-outduel-heat-stretch-clinch-no-7-seed-east).
 
 ## Requirements
 - Python 3.8
