@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Myers reacts to Warriors missing playoffs & praises Steph, Klay & Draymond | NBA Countdown**
+**The 4 people accused of kidnapping and killing 2 women in Oklahoma were denied bond in first court appearance**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bRCe5AXI2MU).
+You can read more about it [here](https://www.cnn.com/2024/04/17/us/missing-oklahoma-women-court/index.html).
 
 ## Requirements
 - Python 3.8
