@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark reportedly close to 8-figure deal with Nike that includes signature shoe**
+**Kennedy family endorses Biden in show of force against RFK Jr.**
 
-You can read more about it [here](https://sports.yahoo.com/caitlin-clark-reportedly-close-to-8-figure-deal-with-nike-that-includes-signature-shoe-024801688.html).
+You can read more about it [here](https://www.axios.com/2024/04/18/kennedy-family-biden-endorsement-rfk-jr).
 
 ## Requirements
 - Python 3.8
