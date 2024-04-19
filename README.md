@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixers outduel Heat down stretch to clinch No. 7 seed in East**
+**LeBron James, Stephen Curry, Kevin Durant headline USA Basketball Olympic roster**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39965732/sixers-outduel-heat-stretch-clinch-no-7-seed-east).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/17/dream-team-roster-paris-olympics/).
 
 ## Requirements
 - Python 3.8
