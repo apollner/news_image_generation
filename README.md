@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixers outduel Heat down stretch to clinch No. 7 seed in East**
+**Here's why experts don't think cloud seeding played a role in Dubai's downpour**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/39965732/sixers-outduel-heat-stretch-clinch-no-7-seed-east).
+You can read more about it [here](https://apnews.com/article/dubai-united-arab-emirates-oman-flooding-cloud-seeding-2f8c12854017e11ac7438579646b3758).
 
 ## Requirements
 - Python 3.8
