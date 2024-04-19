@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All the pieces are in place for the first crew flight of Boeing's Starliner**
+**Conservatives corner Mike Johnson in House floor confrontation**
 
-You can read more about it [here](https://arstechnica.com/space/2024/04/all-the-pieces-are-in-place-for-the-first-crew-flight-of-boeings-starliner/).
+You can read more about it [here](https://www.axios.com/2024/04/18/mike-johnson-gaetz-motion-to-vacate-ukraine).
 
 ## Requirements
 - Python 3.8
