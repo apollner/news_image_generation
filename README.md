@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to appear with Kennedy family for endorsements, as battle heats up with RFK Jr. over family legacy**
+**Bryan Kohberger Update: Map Shows New Movements Revealed on Night of Murder**
 
-You can read more about it [here](https://www.cnn.com/2024/04/18/politics/biden-kennedy-family-endorsements-rfk-jr/index.html).
+You can read more about it [here](https://www.newsweek.com/bryan-kohberger-idaho-murders-alibi-1891772).
 
 ## Requirements
 - Python 3.8
