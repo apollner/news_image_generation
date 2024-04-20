@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions players react to new uniform release**
+**Exclusive: iPhone emulator Provenance following Delta onto the App Store, with SEGA and PlayStation support in tow**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/4/19/24134712/detroit-lions-players-react-to-new-uniform-release).
+You can read more about it [here](https://www.imore.com/iphone/exclusive-iphone-emulator-provenance-following-delta-onto-the-app-store-with-sega-and-playstation-support-in-tow).
 
 ## Requirements
 - Python 3.8
