@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Flights divert around western Iran as report claims explosions heard near Isfahan**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/iran-israel-mideast-tensions-4-19-2024-a7ccbae2e2844bab089e8e4377a24ddb).
 
 ## Requirements
 - Python 3.8
