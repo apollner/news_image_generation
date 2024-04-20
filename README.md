@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth Day Media Briefing: NASA Unveils New Elements of Climate Research**
+**Ultra-Tiny Wii Uses Custom Parts And Looks Amazing**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cGCWjdFvPAY).
+You can read more about it [here](https://hackaday.com/2024/04/19/ultra-tiny-wii-uses-custom-parts-and-looks-amazing/).
 
 ## Requirements
 - Python 3.8
