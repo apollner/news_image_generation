@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teenager charged with terrorism for attacking bishop Mar Mari Emmanuel**
+**Iran fires air defences at suspected strike from Israel**
 
-You can read more about it [here](https://www.jpost.com/international/article-797860).
+You can read more about it [here](https://www.ft.com/content/7c6ac9ed-f2b6-401e-8aa5-75b9a3616c17).
 
 ## Requirements
 - Python 3.8
