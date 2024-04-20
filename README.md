@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran fires air defense batteries at Isfahan air base and nuclear site after drones spotted**
+**Maryland high school student arrested after authorities discovered a 129-page document detailing school shooting plan, police say**
 
-You can read more about it [here](https://apnews.com/article/iran-israel-mideast-tensions-4-19-2024-a7ccbae2e2844bab089e8e4377a24ddb).
+You can read more about it [here](https://www.cnn.com/2024/04/18/us/maryland-student-school-shooting-threat/index.html).
 
 ## Requirements
 - Python 3.8
