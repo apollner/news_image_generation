@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**25 years after Columbine, survivors say they're still haunted by the attack**
+**Detroit Lions players react to new uniform release**
 
-You can read more about it [here](https://abcnews.go.com/US/25-years-after-columbine-survivors-haunted-school-shootings/story?id=109236523).
+You can read more about it [here](https://www.prideofdetroit.com/2024/4/19/24134712/detroit-lions-players-react-to-new-uniform-release).
 
 ## Requirements
 - Python 3.8
