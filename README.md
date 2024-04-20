@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ultra-Tiny Wii Uses Custom Parts And Looks Amazing**
+**New Title IX rules protect LGBTQ+ students, leaves out trans athletes**
 
-You can read more about it [here](https://hackaday.com/2024/04/19/ultra-tiny-wii-uses-custom-parts-and-looks-amazing/).
+You can read more about it [here](https://apnews.com/article/title-ix-sexual-assault-transgender-sports-d0fc0ab7515de02b8e4403d0481dc1e7).
 
 ## Requirements
 - Python 3.8
