@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lok Sabha election 2024: India begins voting in mammoth polls**
+**House GOP's aid bills for Israel, Ukraine, Taiwan advance — with Democrats' help**
 
-You can read more about it [here](https://apnews.com/article/india-election-voting-begins-7ea0983c9b7bc7506c8457f44afcfd64).
+You can read more about it [here](https://www.cbsnews.com/news/house-rules-ukraine-israel-taiwan-aid-package/).
 
 ## Requirements
 - Python 3.8
