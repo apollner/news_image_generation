@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 seven-round NFL Mock Draft: Patriots lean heavily on offense, Cardinals take opposite approach**
+**2024 Stanley Cup Playoffs 1st-round schedule**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-seven-round-nfl-mock-draft-patriots-lean-heavily-on-offense-cardinals-take-opposite-approach/).
+You can read more about it [here](https://www.nhl.com/news/2024-stanley-cup-playoffs-first-round-schedule).
 
 ## Requirements
 - Python 3.8
