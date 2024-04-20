@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maryland high school student arrested after authorities discovered a 129-page document detailing school shooting plan, police say**
+**Iran threatens to target Israeli nuke facilities; Middle East on 'precipice' of bigger war**
 
-You can read more about it [here](https://www.cnn.com/2024/04/18/us/maryland-student-school-shooting-threat/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/04/18/israel-war-updates-iran-gaza/73367267007/).
 
 ## Requirements
 - Python 3.8
