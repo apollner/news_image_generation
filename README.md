@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dengue cases top 5.2 million in the Americas as outbreak passes yearly record, PAHO says**
+**NBA playoffs: Who will meet in the Finals? Who has the most at stake this postseason? We break it all down**
 
-You can read more about it [here](https://www.cnn.com/2024/04/19/americas/americas-record-dengue-cases-paho-intl-latam/index.html).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-who-will-meet-in-the-finals-who-has-the-most-at-stake-this-postseason-we-break-it-all-down-163032510.html).
 
 ## Requirements
 - Python 3.8
