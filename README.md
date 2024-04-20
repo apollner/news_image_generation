@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kourtney Kardashian Celebrates Her Appearance After Fan Comments on Bikini Pic: 'I Love This Body'**
+**[Removed]**
 
-You can read more about it [here](https://people.com/kourtney-kardashian-celebrates-body-after-fan-comments-on-bikini-pic-8635850).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
