@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Volpe excited for Jack Leiter's MLB debut**
+**25 years after Columbine, survivors say they're still haunted by the attack**
 
-You can read more about it [here](https://www.mlb.com/news/anthony-volpe-excited-for-jack-leiter-s-mlb-debut).
+You can read more about it [here](https://abcnews.go.com/US/25-years-after-columbine-survivors-haunted-school-shootings/story?id=109236523).
 
 ## Requirements
 - Python 3.8
