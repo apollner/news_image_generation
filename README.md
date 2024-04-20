@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran fires at apparent Israeli attack drones: Mideast tensions**
+**Netflix stock sinks on disappointing revenue forecast, move to scrap membership metrics**
 
-You can read more about it [here](https://apnews.com/article/iran-israel-mideast-tensions-4-19-2024-a7ccbae2e2844bab089e8e4377a24ddb).
+You can read more about it [here](https://finance.yahoo.com/news/netflix-stock-sinks-on-disappointing-revenue-forecast-move-to-scrap-membership-metrics-123016391.html).
 
 ## Requirements
 - Python 3.8
