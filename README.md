@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lok Sabha election 2024: India begins voting in mammoth polls**
+**2024 seven-round NFL Mock Draft: Patriots lean heavily on offense, Cardinals take opposite approach**
 
-You can read more about it [here](https://apnews.com/article/india-election-voting-begins-7ea0983c9b7bc7506c8457f44afcfd64).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-seven-round-nfl-mock-draft-patriots-lean-heavily-on-offense-cardinals-take-opposite-approach/).
 
 ## Requirements
 - Python 3.8
