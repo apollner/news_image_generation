@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lok Sabha election 2024: World’s biggest poll kicks off as India begins voting**
+**Montgomery Co. student charged with threats of mass violence after police discover disturbing ‘manifesto’**
 
-You can read more about it [here](https://www.bbc.co.uk/news/live/world-asia-india-68823907).
+You can read more about it [here](https://wtop.com/montgomery-county/2024/04/montgomery-co-student-charged-with-threats-of-mass-violence-after-police-discover-disturbing-manifesto/).
 
 ## Requirements
 - Python 3.8
