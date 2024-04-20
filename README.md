@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Montgomery Co. student charged with threats of mass violence after police discover disturbing ‘manifesto’**
+**Kourtney Kardashian Responds to Claim Kim Was Shading Her Bikini Pic**
 
-You can read more about it [here](https://wtop.com/montgomery-county/2024/04/montgomery-co-student-charged-with-threats-of-mass-violence-after-police-discover-disturbing-manifesto/).
+You can read more about it [here](https://www.eonline.com/news/1399765/kourtney-kardashian-claps-back-at-claim-kim-kardashian-threw-shade-with-bikini-photo).
 
 ## Requirements
 - Python 3.8
