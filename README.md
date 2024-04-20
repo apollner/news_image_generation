@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kennedy family brushes off RFK Jr.’s campaign as they endorse Biden**
+**Critic’s Notebook: The Compellingly Packaged Cowardice of ‘Civil War’**
 
-You can read more about it [here](https://www.cnn.com/2024/04/18/politics/biden-kennedy-family-endorsements-rfk-jr/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-reviews/civil-war-controversy-alex-garland-kirsten-dunst-politics-1235876949/).
 
 ## Requirements
 - Python 3.8
