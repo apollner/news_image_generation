@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kourtney Kardashian Responds to Claim Kim Was Shading Her Bikini Pic**
+**Teenager charged with terrorism for attacking bishop Mar Mari Emmanuel**
 
-You can read more about it [here](https://www.eonline.com/news/1399765/kourtney-kardashian-claps-back-at-claim-kim-kardashian-threw-shade-with-bikini-photo).
+You can read more about it [here](https://www.jpost.com/international/article-797860).
 
 ## Requirements
 - Python 3.8
