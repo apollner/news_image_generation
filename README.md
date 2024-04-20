@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JetBlue, Southwest jets have close call at Washington airport after ATC mishap**
+**Green groups call on voters to oppose RFK Jr.**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/jetblue-southwest-jets-close-call-washington-airport-after-atc-mishap).
+You can read more about it [here](https://www.politico.com/news/2024/04/19/green-groups-voters-rfk-jr-00153380).
 
 ## Requirements
 - Python 3.8
