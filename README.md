@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Stanley Cup Playoffs 1st-round schedule**
+**Columbia University pro-Palestinian protests: NYPD arrests over 100**
 
-You can read more about it [here](https://www.nhl.com/news/2024-stanley-cup-playoffs-first-round-schedule).
+You can read more about it [here](https://www.axios.com/2024/04/18/columbia-university-palestine-protest-arrests-nypd).
 
 ## Requirements
 - Python 3.8
