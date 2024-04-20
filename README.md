@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: iPhone emulator Provenance following Delta onto the App Store, with SEGA and PlayStation support in tow**
+**'The Jinx — Part Two' review: HBO's sequel has as many twists as the original**
 
-You can read more about it [here](https://www.imore.com/iphone/exclusive-iphone-emulator-provenance-following-delta-onto-the-app-store-with-sega-and-playstation-support-in-tow).
+You can read more about it [here](https://www.npr.org/2024/04/19/1245552106/the-jinx-part-two-review-robert-durst).
 
 ## Requirements
 - Python 3.8
