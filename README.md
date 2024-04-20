@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Critic’s Notebook: The Compellingly Packaged Cowardice of ‘Civil War’**
+**Kourtney Kardashian Celebrates Her Appearance After Fan Comments on Bikini Pic: 'I Love This Body'**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-reviews/civil-war-controversy-alex-garland-kirsten-dunst-politics-1235876949/).
+You can read more about it [here](https://people.com/kourtney-kardashian-celebrates-body-after-fan-comments-on-bikini-pic-8635850).
 
 ## Requirements
 - Python 3.8
