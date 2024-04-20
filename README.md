@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kennedy family endorses Biden in show of force against RFK Jr.**
+**Kennedy family brushes off RFK Jr.’s campaign as they endorse Biden**
 
-You can read more about it [here](https://www.axios.com/2024/04/18/kennedy-family-biden-endorsement-rfk-jr).
+You can read more about it [here](https://www.cnn.com/2024/04/18/politics/biden-kennedy-family-endorsements-rfk-jr/index.html).
 
 ## Requirements
 - Python 3.8
