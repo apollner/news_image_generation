@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Olympic Wrestling Trials Live Updates**
+**Earth Day Media Briefing: NASA Unveils New Elements of Climate Research**
 
-You can read more about it [here](https://www.flowrestling.org/articles/12451725-2024-olympic-wrestling-trials-live-updates).
+You can read more about it [here](https://www.youtube.com/watch?v=cGCWjdFvPAY).
 
 ## Requirements
 - Python 3.8
