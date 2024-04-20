@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flights divert around western Iran as report claims explosions heard near Isfahan**
+**SpaceX to launched Starlink satellites from Cape Canaveral Space Force Station**
 
-You can read more about it [here](https://apnews.com/article/iran-israel-mideast-tensions-4-19-2024-a7ccbae2e2844bab089e8e4377a24ddb).
+You can read more about it [here](https://www.wesh.com/article/spacex-starlink-launch-mission-cape-canaveral/60538778).
 
 ## Requirements
 - Python 3.8
