@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launched Starlink satellites from Cape Canaveral Space Force Station**
+**Lok Sabha election 2024: World’s biggest poll kicks off as India begins voting**
 
-You can read more about it [here](https://www.wesh.com/article/spacex-starlink-launch-mission-cape-canaveral/60538778).
+You can read more about it [here](https://www.bbc.co.uk/news/live/world-asia-india-68823907).
 
 ## Requirements
 - Python 3.8
