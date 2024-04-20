@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Title IX rules protect LGBTQ+ students, leaves out trans athletes**
+**JetBlue, Southwest jets have close call at Washington airport after ATC mishap**
 
-You can read more about it [here](https://apnews.com/article/title-ix-sexual-assault-transgender-sports-d0fc0ab7515de02b8e4403d0481dc1e7).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/jetblue-southwest-jets-close-call-washington-airport-after-atc-mishap).
 
 ## Requirements
 - Python 3.8
