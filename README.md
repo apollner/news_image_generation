@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbia University pro-Palestinian protests: NYPD arrests over 100**
+**Anthony Volpe excited for Jack Leiter's MLB debut**
 
-You can read more about it [here](https://www.axios.com/2024/04/18/columbia-university-palestine-protest-arrests-nypd).
+You can read more about it [here](https://www.mlb.com/news/anthony-volpe-excited-for-jack-leiter-s-mlb-debut).
 
 ## Requirements
 - Python 3.8
