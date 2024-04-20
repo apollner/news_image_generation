@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix stock sinks on disappointing revenue forecast, move to scrap membership metrics**
+**2024 Olympic Wrestling Trials Live Updates**
 
-You can read more about it [here](https://finance.yahoo.com/news/netflix-stock-sinks-on-disappointing-revenue-forecast-move-to-scrap-membership-metrics-123016391.html).
+You can read more about it [here](https://www.flowrestling.org/articles/12451725-2024-olympic-wrestling-trials-live-updates).
 
 ## Requirements
 - Python 3.8
