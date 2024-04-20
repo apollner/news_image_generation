@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lok Sabha election 2024: World’s biggest poll kicks off as India begins voting**
+**Lok Sabha election 2024: India begins voting in mammoth polls**
 
-You can read more about it [here](https://www.bbc.co.uk/news/live/world-asia-india-68823907).
+You can read more about it [here](https://apnews.com/article/india-election-voting-begins-7ea0983c9b7bc7506c8457f44afcfd64).
 
 ## Requirements
 - Python 3.8
