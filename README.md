@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran threatens to target Israeli nuke facilities; Middle East on 'precipice' of bigger war**
+**Lok Sabha election 2024: World’s biggest poll kicks off as India begins voting**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/04/18/israel-war-updates-iran-gaza/73367267007/).
+You can read more about it [here](https://www.bbc.co.uk/news/live/world-asia-india-68823907).
 
 ## Requirements
 - Python 3.8
