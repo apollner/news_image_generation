@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Decline on Mideast Tensions, Havens Rally: Markets Wrap**
+**Iran fires air defense batteries at Isfahan air base and nuclear site after drones spotted**
 
-You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-set-drop-hawkish-221827457.html).
+You can read more about it [here](https://apnews.com/article/iran-israel-mideast-tensions-4-19-2024-a7ccbae2e2844bab089e8e4377a24ddb).
 
 ## Requirements
 - Python 3.8
