@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Jinx — Part Two' review: HBO's sequel has as many twists as the original**
+**NHL playoffs predictions: Who wins Stanley Cup? Conn Smythe?**
 
-You can read more about it [here](https://www.npr.org/2024/04/19/1245552106/the-jinx-part-two-review-robert-durst).
+You can read more about it [here](https://www.usatoday.com/story/sports/nhl/2024/04/19/nhl-playoffs-bracket-predictions-stanley-cup-mvp/73376949007/).
 
 ## Requirements
 - Python 3.8
