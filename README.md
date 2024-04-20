@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NHL playoffs predictions: Who wins Stanley Cup? Conn Smythe?**
+**Earth Day Media Briefing: NASA Unveils New Elements of Climate Research**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nhl/2024/04/19/nhl-playoffs-bracket-predictions-stanley-cup-mvp/73376949007/).
+You can read more about it [here](https://www.youtube.com/watch?v=cGCWjdFvPAY).
 
 ## Requirements
 - Python 3.8
