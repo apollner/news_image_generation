@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Green groups call on voters to oppose RFK Jr.**
+**Anti-Israel protesters heard shouting ‘We are Hamas,’ ‘Long live Hamas’ amid Columbia U demonstrations**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/19/green-groups-voters-rfk-jr-00153380).
+You can read more about it [here](https://www.foxnews.com/us/anti-israel-protesters-heard-shouting-we-hamas-long-live-hamas-columbia-university-demonstrations).
 
 ## Requirements
 - Python 3.8
