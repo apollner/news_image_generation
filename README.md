@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Opening statements set for Monday**
+**Video of 2 bear cubs pulled from trees prompts North Carolina wildlife investigation but no charges**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-jury-selection-24147c3774c8a411044c530cafcab292).
+You can read more about it [here](https://apnews.com/article/asheville-north-carolina-bear-cubs-photos-e4dfaf16ab6c61d973b1db149d6c43eb).
 
 ## Requirements
 - Python 3.8
