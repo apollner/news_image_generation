@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese hackers preparing to ‘physically wreak havoc’ on US critical infrastructure: FBI director**
+**Anti-Israel Columbia student protesters stonewall, directing Fox News reporter to 'media team'**
 
-You can read more about it [here](https://www.foxnews.com/politics/chinese-hackers-preparing-physically-wreak-havoc-us-critical-infrastructure-fbi-director).
+You can read more about it [here](https://www.foxnews.com/media/anti-israel-columbia-students-stonewall-fox-news-directing-fox-news-reporter-media-team).
 
 ## Requirements
 - Python 3.8
