@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rockville teen denied bond, Planned to commit school shooting**
+**Huge blast at military base used by Iraqi Popular Mobilization Forces, sources say**
 
-You can read more about it [here](https://www.cbsnews.com/baltimore/video/rockville-teen-denied-bond-planned-to-commit-school-shooting/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/huge-blast-military-base-used-by-iraqi-popular-mobilization-forces-army-sources-2024-04-19/).
 
 ## Requirements
 - Python 3.8
