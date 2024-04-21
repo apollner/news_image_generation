@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 2024 Bitcoin halving is the “most bullish” setup for BTC price**
+**Florida's Jac Caglianone ties NCAA record for consecutive games with home run**
 
-You can read more about it [here](https://cointelegraph.com/news/the-2024-bitcoin-halving-most-bullish-setup-btc-price).
+You can read more about it [here](https://www.mlb.com/news/florida-jac-caglianone-ties-ncaa-record-for-consecutive-games-with-homer).
 
 ## Requirements
 - Python 3.8
