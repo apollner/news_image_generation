@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA playoffs: Which lower-seeded teams have the best chance in the first round?**
+**Florida's Jac Caglianone ties NCAA record for consecutive games with home run**
 
-You can read more about it [here](https://www.espn.com/nba/insider/story/_/id/39977894/nba-lower-seeded-teams-best-chance-first-round).
+You can read more about it [here](https://www.mlb.com/news/florida-jac-caglianone-ties-ncaa-record-for-consecutive-games-with-homer).
 
 ## Requirements
 - Python 3.8
