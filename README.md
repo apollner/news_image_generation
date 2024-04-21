@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Morgan Wallen Breaks Silence on Arrest Over Alleged Chair-Throwing Incident - E! Online**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.eonline.com/news/1399851/morgan-wallen-breaks-silence-on-arrest-over-alleged-chair-throwing-incident).
 
 ## Requirements
 - Python 3.8
