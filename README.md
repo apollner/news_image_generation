@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Country singer Morgan Wallen breaks silence about arrest for throwing chair from Nashville bar rooftop**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wkrn.com/news/local-news/nashville/country-singer-morgan-wallen-breaks-silence-about-arrest-for-throwing-chair-from-nashville-bar-rooftop/).
 
 ## Requirements
 - Python 3.8
