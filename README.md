@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk's India Trip May See Breakthroughs for Starlink, Tesla**
+**Anti-Israel Columbia student protesters stonewall, directing Fox News reporter to 'media team'**
 
-You can read more about it [here](https://finance.yahoo.com/news/musk-india-trip-may-see-013123465.html).
+You can read more about it [here](https://www.foxnews.com/media/anti-israel-columbia-students-stonewall-fox-news-directing-fox-news-reporter-media-team).
 
 ## Requirements
 - Python 3.8
