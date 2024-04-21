@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why does smoking pot give you the munchies?**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/04/20/health/munchies-weed-hungry-high-wellness/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
