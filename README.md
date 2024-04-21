@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USC cancels graduation keynote by filmmaker Jon M. Chu amid controversy over decision to drop student’s speech**
+**Explosion hits Iraqi military base housing pro-Iranian militia**
 
-You can read more about it [here](https://nypost.com/2024/04/20/us-news/usc-cancels-graduation-keynote-speaker-after-veledictorian-barred-from-speech/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68863981).
 
 ## Requirements
 - Python 3.8
