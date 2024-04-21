@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to deliver abortion-focused speech in Florida**
+**Rockville teen denied bond, Planned to commit school shooting**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/19/biden-to-deliver-abortion-focused-speech-in-florida-00153403).
+You can read more about it [here](https://www.cbsnews.com/baltimore/video/rockville-teen-denied-bond-planned-to-commit-school-shooting/).
 
 ## Requirements
 - Python 3.8
