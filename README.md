@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anti-Israel protesters heard shouting ‘We are Hamas,’ ‘Long live Hamas’ amid Columbia U demonstrations**
+**Biden to deliver abortion-focused speech in Florida**
 
-You can read more about it [here](https://www.foxnews.com/us/anti-israel-protesters-heard-shouting-we-hamas-long-live-hamas-columbia-university-demonstrations).
+You can read more about it [here](https://www.politico.com/news/2024/04/19/biden-to-deliver-abortion-focused-speech-in-florida-00153403).
 
 ## Requirements
 - Python 3.8
