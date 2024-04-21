@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video of 2 bear cubs pulled from trees prompts North Carolina wildlife investigation but no charges**
+**Sacramento Kings @ New Orleans Pelicans | #SoFiPlayIn on ESPN Live Scoreboard**
 
-You can read more about it [here](https://apnews.com/article/asheville-north-carolina-bear-cubs-photos-e4dfaf16ab6c61d973b1db149d6c43eb).
+You can read more about it [here](https://www.youtube.com/watch?v=i2fX7Fu2Pw0).
 
 ## Requirements
 - Python 3.8
