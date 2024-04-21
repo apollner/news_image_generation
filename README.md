@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PBS NewsHour full episode, April 19, 2024**
+**NFL mock draft: Vikings trade up for QB, Bills move up for WR in latest predictions**
 
-You can read more about it [here](https://www.youtube.com/watch?v=E-CLueAJMa8).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2024/04/19/nfl-mock-draft-2024-round-1-trades-qb/73386874007/).
 
 ## Requirements
 - Python 3.8
