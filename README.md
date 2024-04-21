@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country singer Morgan Wallen breaks silence about arrest for throwing chair from Nashville bar rooftop**
+**Dengue cases top 5.2 million in the Americas as outbreak passes yearly record, PAHO says**
 
-You can read more about it [here](https://www.wkrn.com/news/local-news/nashville/country-singer-morgan-wallen-breaks-silence-about-arrest-for-throwing-chair-from-nashville-bar-rooftop/).
+You can read more about it [here](https://www.cnn.com/2024/04/19/americas/americas-record-dengue-cases-paho-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
