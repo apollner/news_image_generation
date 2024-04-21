@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NY AG Letitia James asks judge to void Trump's $175M bond in civil fraud case**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/politics/ny-ag-letitia-james-asks-judge-void-trumps-175m-bond-civil-fraud-case).
 
 ## Requirements
 - Python 3.8
