@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate passes reauthorization of key US surveillance program after midnight deadline**
+**Musk's India Trip May See Breakthroughs for Starlink, Tesla**
 
-You can read more about it [here](https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349).
+You can read more about it [here](https://finance.yahoo.com/news/musk-india-trip-may-see-013123465.html).
 
 ## Requirements
 - Python 3.8
