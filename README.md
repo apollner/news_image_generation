@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Market Update: Post-Halving Price Dynamics and Market Movements – Market Updates Bitcoin News**
+**[Removed]**
 
-You can read more about it [here](https://news.bitcoin.com/bitcoin-market-update-post-halving-price-dynamics-and-market-movements/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
