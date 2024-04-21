@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Max Azzarello, man who set himself on fire outside Trump trial court, dies**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/20/man-who-set-himself-on-fire-outside-trump-trial-court-dies).
 
 ## Requirements
 - Python 3.8
