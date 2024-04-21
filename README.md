@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida's Jac Caglianone ties NCAA record for consecutive games with home run**
+**USC cancels graduation keynote by filmmaker Jon M. Chu amid controversy over decision to drop student’s speech**
 
-You can read more about it [here](https://www.mlb.com/news/florida-jac-caglianone-ties-ncaa-record-for-consecutive-games-with-homer).
+You can read more about it [here](https://nypost.com/2024/04/20/us-news/usc-cancels-graduation-keynote-speaker-after-veledictorian-barred-from-speech/).
 
 ## Requirements
 - Python 3.8
