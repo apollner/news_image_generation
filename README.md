@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida's Jac Caglianone ties NCAA record for consecutive games with home run**
+**[Removed]**
 
-You can read more about it [here](https://www.mlb.com/news/florida-jac-caglianone-ties-ncaa-record-for-consecutive-games-with-homer).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
