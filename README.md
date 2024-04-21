@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosions injure three people at pro-Iran military base, Iraqi security official says**
+**Trump hush money trial: Opening statements set for Monday**
 
-You can read more about it [here](https://www.cnn.com/2024/04/19/middleeast/iraq-explosion-military-base-intl/index.html).
+You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-jury-selection-24147c3774c8a411044c530cafcab292).
 
 ## Requirements
 - Python 3.8
