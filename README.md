@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL mock draft: Vikings trade up for QB, Bills move up for WR in latest predictions**
+**2024 NBA playoffs: Which lower-seeded teams have the best chance in the first round?**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2024/04/19/nfl-mock-draft-2024-round-1-trades-qb/73386874007/).
+You can read more about it [here](https://www.espn.com/nba/insider/story/_/id/39977894/nba-lower-seeded-teams-best-chance-first-round).
 
 ## Requirements
 - Python 3.8
