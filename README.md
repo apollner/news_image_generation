@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Speaker Mike Johnson may pay political price for Ukraine deal**
+**See all the best looks from the Coachella 2024 performances: Shakira, Lana Del Rey and more**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68866912).
+You can read more about it [here](https://pagesix.com/2024/04/20/style/coachella-2024-performances-in-photos-shakira-lana-del-rey-and-more/).
 
 ## Requirements
 - Python 3.8
