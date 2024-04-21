@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Max Azzarello, man who set himself on fire outside Trump trial court, dies**
+**Sacramento Kings vs. New Orleans Pelicans Live Score and Stats - April 19, 2024 Gametracker**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/20/man-who-set-himself-on-fire-outside-trump-trial-court-dies).
+You can read more about it [here](https://www.cbssports.com/nba/gametracker/recap/NBA_20240419_SAC@NO/).
 
 ## Requirements
 - Python 3.8
