@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anti-Israel Columbia student protesters stonewall, directing Fox News reporter to 'media team'**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/media/anti-israel-columbia-students-stonewall-fox-news-directing-fox-news-reporter-media-team).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
