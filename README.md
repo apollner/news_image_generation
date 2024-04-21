@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 teens shot after senior skip day event in Greenbelt**
+**Explosions injure three people at pro-Iran military base, Iraqi security official says**
 
-You can read more about it [here](https://www.fox5dc.com/news/5-teens-shot-after-senior-skip-day-event-in-prince-georges-county).
+You can read more about it [here](https://www.cnn.com/2024/04/19/middleeast/iraq-explosion-military-base-intl/index.html).
 
 ## Requirements
 - Python 3.8
