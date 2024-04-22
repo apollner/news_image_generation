@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla’s fixing recalled Cybertruck pedals with this rivet installation**
+**Crews in Plymouth, New Hampshire fight fire near Flying Monkey**
 
-You can read more about it [here](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix).
+You can read more about it [here](https://www.wmur.com/article/plymouth-new-hampshire-flying-monkey-theater-fire/60557335).
 
 ## Requirements
 - Python 3.8
