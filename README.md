@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bethenny Frankel Announces Mom's Death, Posts Blunt Tribute**
+**‘Thank You America!’: Ukraine’s Zelensky and Israel’s Netanyahu hail House passage of $95 billion foreign aid package**
 
-You can read more about it [here](https://www.tmz.com/2024/04/20/bethenny-frankel-post-brutally-honest-tribute-mom-dies-real-housewives-rhony/).
+You can read more about it [here](https://www.cnn.com/2024/04/20/world/foreign-aid-bill-ukraine-israel-thank-you-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
