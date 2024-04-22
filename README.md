@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eiyuden Chronicle: Hundred Heroes Review**
+**Earth Day: How one grocery shopper takes steps to avoid 'pointless plastic'**
 
-You can read more about it [here](https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review).
+You can read more about it [here](https://apnews.com/article/earth-day-plastics-grocery-shopping-f112aadca284325bf0e8e5adfba65f40).
 
 ## Requirements
 - Python 3.8
