@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israeli strikes in Rafah kill 22, mostly children**
+**Eiyuden Chronicle: Hundred Heroes Review**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-04-21-2024-8c027f2587c2c433d0fde41b63a0e0c3).
+You can read more about it [here](https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review).
 
 ## Requirements
 - Python 3.8
