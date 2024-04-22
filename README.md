@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why the unionization of Tennessee Volkswagen workers is a big breakthrough for UAW**
+**Bitcoin Halving, Runes Proliferation Results in Historic Fee Increases, Crypto Community Reacts – Bitcoin News**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/why-the-unionization-of-tennessee-volkswagen-workers-is-a-big-breakthrough-for-uaw).
+You can read more about it [here](https://news.bitcoin.com/bitcoin-halving-runes-proliferation-results-in-historic-fee-increases-crypto-community-reacts/).
 
 ## Requirements
 - Python 3.8
