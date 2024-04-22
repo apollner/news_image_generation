@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Look up to the sky for the Lyrid meteor shower and the full pink moon**
+**Kevin Bacon Returns to 'Footloose' High School Prom 40 Years Later**
 
-You can read more about it [here](https://www.cnn.com/2024/04/21/world/lyrid-meteor-shower-april-pink-moon-scn/index.html).
+You can read more about it [here](https://www.thedailybeast.com/kevin-bacon-returns-to-footloose-high-school-prom-40-years-later).
 
 ## Requirements
 - Python 3.8
