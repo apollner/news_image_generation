@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken returns to China with warning over Russian military aid**
+**Eiyuden Chronicle: Hundred Heroes Review**
 
-You can read more about it [here](https://www.foxnews.com/politics/blinken-returns-china-warning-russian-military-aid).
+You can read more about it [here](https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review).
 
 ## Requirements
 - Python 3.8
