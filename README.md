@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See all the best looks from the Coachella 2024 performances: Shakira, Lana Del Rey and more**
+**Rep. Marjorie Taylor Greene blasts Speaker Mike Johnson, says will wait on potential move to vacate**
 
-You can read more about it [here](https://pagesix.com/2024/04/20/style/coachella-2024-performances-in-photos-shakira-lana-del-rey-and-more/).
+You can read more about it [here](https://www.cnbc.com/2024/04/20/house-republicans-will-not-move-forward-with-vote-to-remove-johnson-as-speaker-today-green-says-.html).
 
 ## Requirements
 - Python 3.8
