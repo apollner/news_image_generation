@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 young siblings killed, several people hurt when suspected drunk driver crashes into Michigan birthday party, officials say**
+**2 Japanese navy helicopters crash in the Pacific Ocean during training, leaving 1 dead and 7 missing**
 
-You can read more about it [here](https://www.cbsnews.com/news/children-killed-several-injured-suspected-drunk-driver-crash-birthday-party-berlin-township-michigan/).
+You can read more about it [here](https://apnews.com/article/japan-helicopters-down-pacific-73f8ec2a05bf7ee4b77d08f778dd086e).
 
 ## Requirements
 - Python 3.8
