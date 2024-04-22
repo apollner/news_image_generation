@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Japanese navy helicopters crash in the Pacific Ocean during training, leaving 1 dead and 7 missing**
+**Middle East updates: Israel angered by possible US sanctions – DW – 04/21/2024**
 
-You can read more about it [here](https://apnews.com/article/japan-helicopters-down-pacific-73f8ec2a05bf7ee4b77d08f778dd086e).
+You can read more about it [here](https://www.dw.com/en/middle-east-updates-israel-angered-by-possible-us-sanctions/live-68881098).
 
 ## Requirements
 - Python 3.8
