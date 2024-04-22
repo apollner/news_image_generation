@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli missile reached Iranian airbase near nuclear site using tech that avoided detection systems: report**
+**Recently arrested Morgan Wallen says he's "not proud" of behavior**
 
-You can read more about it [here](https://nypost.com/2024/04/20/world-news/israeli-missile-reached-iranian-airbase-near-nuclear-site-using-tech-that-avoided-detection-systems-report/).
+You can read more about it [here](https://apnews.com/article/morgan-wallen-arrest-bar-message-12788b00384ed365ab75e12d5b166dee).
 
 ## Requirements
 - Python 3.8
