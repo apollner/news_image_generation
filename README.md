@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East updates: Israel angered by possible US sanctions – DW – 04/21/2024**
+**[Removed]**
 
-You can read more about it [here](https://www.dw.com/en/middle-east-updates-israel-angered-by-possible-us-sanctions/live-68881098).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
