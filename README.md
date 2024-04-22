@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth Day: How one grocery shopper takes steps to avoid 'pointless plastic'**
+**Kevin Bacon returns to ‘Footloose’ high school to mark film’s 40th anniversary**
 
-You can read more about it [here](https://apnews.com/article/earth-day-plastics-grocery-shopping-f112aadca284325bf0e8e5adfba65f40).
+You can read more about it [here](https://www.cnn.com/2024/04/21/entertainment/kevin-bacon-footloose-payson-high-school/index.html).
 
 ## Requirements
 - Python 3.8
