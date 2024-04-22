@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Japanese navy helicopters crash in the Pacific Ocean during training, leaving 1 dead and 7 missing**
+**In a shocker, David Taylor fails to make Olympic wrestling team. Aaron Brooks earns spot**
 
-You can read more about it [here](https://apnews.com/article/japan-helicopters-down-pacific-73f8ec2a05bf7ee4b77d08f778dd086e).
+You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2024/04/20/2024-olympic-wrestling-trials-david-taylor-falls-to-aaron-brooks/73401076007/).
 
 ## Requirements
 - Python 3.8
