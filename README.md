@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bethenny Frankel announces mom Bernadette Birk died from lung cancer: 'You did the best you could'**
+**Tesla’s fixing recalled Cybertruck pedals with this rivet installation**
 
-You can read more about it [here](https://pagesix.com/2024/04/20/entertainment/bethenny-frankel-announces-mom-bernadette-birk-died-from-lung-cancer/).
+You can read more about it [here](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix).
 
 ## Requirements
 - Python 3.8
