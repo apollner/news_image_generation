@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead, 14 others hospitalized in Memphis block party shooting**
+**In a shocker, David Taylor fails to make Olympic wrestling team. Aaron Brooks earns spot**
 
-You can read more about it [here](https://abcnews.go.com/US/2-dead-14-hospitalized-memphis-block-party-shooting/story?id=109470271).
+You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2024/04/20/2024-olympic-wrestling-trials-david-taylor-falls-to-aaron-brooks/73401076007/).
 
 ## Requirements
 - Python 3.8
