@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Thank You America!’: Ukraine’s Zelensky and Israel’s Netanyahu hail House passage of $95 billion foreign aid package**
+**2 young siblings killed, several people hurt when suspected drunk driver crashes into Michigan birthday party, officials say**
 
-You can read more about it [here](https://www.cnn.com/2024/04/20/world/foreign-aid-bill-ukraine-israel-thank-you-intl-latam/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/children-killed-several-injured-suspected-drunk-driver-crash-birthday-party-berlin-township-michigan/).
 
 ## Requirements
 - Python 3.8
