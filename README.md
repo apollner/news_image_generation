@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel hit Iran with a half-ton 'Rampage' supersonic missile: report**
+**Look up to the sky for the Lyrid meteor shower and the full pink moon**
 
-You can read more about it [here](https://www.businessinsider.com/israel-hit-iran-with-half-ton-rampage-supersonic-missile-report-2024-4).
+You can read more about it [here](https://www.cnn.com/2024/04/21/world/lyrid-meteor-shower-april-pink-moon-scn/index.html).
 
 ## Requirements
 - Python 3.8
