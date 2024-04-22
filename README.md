@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks' bench trio thrives in huge Game 1 playoff win over 76ers**
+**2 dead, 14 others hospitalized in Memphis block party shooting**
 
-You can read more about it [here](https://nypost.com/2024/04/20/sports/knicks-bench-trio-thrives-in-huge-game-1-nba-playoff-win-over-76ers/).
+You can read more about it [here](https://abcnews.go.com/US/2-dead-14-hospitalized-memphis-block-party-shooting/story?id=109470271).
 
 ## Requirements
 - Python 3.8
