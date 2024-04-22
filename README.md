@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan birthday party: 2 young siblings killed, at least 12 injured when car drives into building in Michigan, police say**
+**Why the unionization of Tennessee Volkswagen workers is a big breakthrough for UAW**
 
-You can read more about it [here](https://www.cnn.com/2024/04/20/us/2-children-killed-michigan-birthday-party/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/show/why-the-unionization-of-tennessee-volkswagen-workers-is-a-big-breakthrough-for-uaw).
 
 ## Requirements
 - Python 3.8
