@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Bacon Returns to 'Footloose' High School Prom 40 Years Later**
+**Eiyuden Chronicle: Hundred Heroes Review**
 
-You can read more about it [here](https://www.thedailybeast.com/kevin-bacon-returns-to-footloose-high-school-prom-40-years-later).
+You can read more about it [here](https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review).
 
 ## Requirements
 - Python 3.8
