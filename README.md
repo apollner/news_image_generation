@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In a shocker, David Taylor fails to make Olympic wrestling team. Aaron Brooks earns spot**
+**Knicks' bench trio thrives in huge Game 1 playoff win over 76ers**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2024/04/20/2024-olympic-wrestling-trials-david-taylor-falls-to-aaron-brooks/73401076007/).
+You can read more about it [here](https://nypost.com/2024/04/20/sports/knicks-bench-trio-thrives-in-huge-game-1-nba-playoff-win-over-76ers/).
 
 ## Requirements
 - Python 3.8
