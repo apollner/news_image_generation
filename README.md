@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Bacon returns to ‘Footloose’ high school to mark film’s 40th anniversary**
+**Miami Heat vs. Boston Celtics Live Score and Stats - April 21, 2024 Gametracker**
 
-You can read more about it [here](https://www.cnn.com/2024/04/21/entertainment/kevin-bacon-footloose-payson-high-school/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/gametracker/recap/NBA_20240421_MIA@BOS/).
 
 ## Requirements
 - Python 3.8
