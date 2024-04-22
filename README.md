@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recently arrested Morgan Wallen says he's "not proud" of behavior**
+**Bethenny Frankel announces mom Bernadette Birk died from lung cancer: 'You did the best you could'**
 
-You can read more about it [here](https://apnews.com/article/morgan-wallen-arrest-bar-message-12788b00384ed365ab75e12d5b166dee).
+You can read more about it [here](https://pagesix.com/2024/04/20/entertainment/bethenny-frankel-announces-mom-bernadette-birk-died-from-lung-cancer/).
 
 ## Requirements
 - Python 3.8
