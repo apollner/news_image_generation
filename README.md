@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Marjorie Taylor Greene blasts Speaker Mike Johnson, says will wait on potential move to vacate**
+**Why the unionization of Tennessee Volkswagen workers is a big breakthrough for UAW**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/20/house-republicans-will-not-move-forward-with-vote-to-remove-johnson-as-speaker-today-green-says-.html).
+You can read more about it [here](https://www.pbs.org/newshour/show/why-the-unionization-of-tennessee-volkswagen-workers-is-a-big-breakthrough-for-uaw).
 
 ## Requirements
 - Python 3.8
