@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US military begins process to remove troops from troubled African nation**
+**Michigan birthday party: 2 young siblings killed, at least 12 injured when car drives into building in Michigan, police say**
 
-You can read more about it [here](https://www.foxnews.com/politics/us-military-begins-process-remove-troops-niger).
+You can read more about it [here](https://www.cnn.com/2024/04/20/us/2-children-killed-michigan-birthday-party/index.html).
 
 ## Requirements
 - Python 3.8
