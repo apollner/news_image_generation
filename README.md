@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Halving, Runes Proliferation Results in Historic Fee Increases, Crypto Community Reacts – Bitcoin News**
+**Recently arrested Morgan Wallen says he's "not proud" of behavior**
 
-You can read more about it [here](https://news.bitcoin.com/bitcoin-halving-runes-proliferation-results-in-historic-fee-increases-crypto-community-reacts/).
+You can read more about it [here](https://apnews.com/article/morgan-wallen-arrest-bar-message-12788b00384ed365ab75e12d5b166dee).
 
 ## Requirements
 - Python 3.8
