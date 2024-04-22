@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crews in Plymouth, New Hampshire fight fire near Flying Monkey**
+**Israeli missile reached Iranian airbase near nuclear site using tech that avoided detection systems: report**
 
-You can read more about it [here](https://www.wmur.com/article/plymouth-new-hampshire-flying-monkey-theater-fire/60557335).
+You can read more about it [here](https://nypost.com/2024/04/20/world-news/israeli-missile-reached-iranian-airbase-near-nuclear-site-using-tech-that-avoided-detection-systems-report/).
 
 ## Requirements
 - Python 3.8
