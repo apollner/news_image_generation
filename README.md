@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eiyuden Chronicle: Hundred Heroes Review**
+**Israel hit Iran with a half-ton 'Rampage' supersonic missile: report**
 
-You can read more about it [here](https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review).
+You can read more about it [here](https://www.businessinsider.com/israel-hit-iran-with-half-ton-rampage-supersonic-missile-report-2024-4).
 
 ## Requirements
 - Python 3.8
