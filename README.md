@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we learned from the Maple Leafs' Game 1 loss: 5 takeaways**
+**Israel-Hamas war: Israeli strikes in Rafah kill 22, mostly children**
 
-You can read more about it [here](https://theathletic.com/5432093/2024/04/20/maple-leafs-bruins-game-1-takeaways/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-04-21-2024-8c027f2587c2c433d0fde41b63a0e0c3).
 
 ## Requirements
 - Python 3.8
