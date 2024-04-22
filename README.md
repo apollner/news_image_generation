@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recently arrested Morgan Wallen says he's "not proud" of behavior**
+**Bethenny Frankel Announces Mom's Death, Posts Blunt Tribute**
 
-You can read more about it [here](https://apnews.com/article/morgan-wallen-arrest-bar-message-12788b00384ed365ab75e12d5b166dee).
+You can read more about it [here](https://www.tmz.com/2024/04/20/bethenny-frankel-post-brutally-honest-tribute-mom-dies-real-housewives-rhony/).
 
 ## Requirements
 - Python 3.8
