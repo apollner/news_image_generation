@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Everyone Already Forgot About the Apple Vision Pro**
+**Vice President Harris announces final rules mandating minimum standards for nursing home staffing**
 
-You can read more about it [here](https://gizmodo.com/apple-vision-pro-already-forgotten-about-1851426564).
+You can read more about it [here](https://apnews.com/article/nursing-homes-minimum-staffing-rules-harris-wisconsin-6dbc7bee56d321ddf012fcadf30dfe15).
 
 ## Requirements
 - Python 3.8
