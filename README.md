@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police officer killed in Chicago while driving home from shift in Gage Park ID'd as Luis Huesca, Mayor Brandon Johnson says**
+**Indiana Pacers vs. Milwaukee Bucks Live Score and Stats - April 21, 2024 Gametracker**
 
-You can read more about it [here](https://abc7chicago.com/chicago-shooting-police-today-officer-shot/14707132/).
+You can read more about it [here](https://www.cbssports.com/nba/gametracker/boxscore/NBA_20240421_IND@MIL/).
 
 ## Requirements
 - Python 3.8
