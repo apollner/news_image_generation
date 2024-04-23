@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maldives: Pro-China party led by Muizzu wins by landslide**
+**Dallas Mavericks vs. Los Angeles Clippers Live Score and Stats - April 21, 2024 Gametracker**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-68852720).
+You can read more about it [here](https://www.cbssports.com/nba/gametracker/recap/NBA_20240421_DAL@LAC/).
 
 ## Requirements
 - Python 3.8
