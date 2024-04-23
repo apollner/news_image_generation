@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures rise slightly with S&P 500, Nasdaq on six-day losing streak**
+**Are things truly different for the Celtics this year? How they respond to the Heat in Game 2 will be telling.**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/21/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak.html).
+You can read more about it [here](https://www.bostonglobe.com/2024/04/22/sports/celtics-heat-series/).
 
 ## Requirements
 - Python 3.8
