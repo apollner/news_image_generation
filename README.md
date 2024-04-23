@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intruder arrested after breaking in to Getty House, official residence of Los Angeles Mayor Karen Bass**
+**US-Israel: Netanyahu vows to reject any US sanctions on army units**
 
-You can read more about it [here](https://abc7.com/break-in-getty-house-official-residence-los-angeles-mayor-karen-bass/14710462/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68870273).
 
 ## Requirements
 - Python 3.8
