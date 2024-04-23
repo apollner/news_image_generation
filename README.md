@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victoria Beckham: Spice Girls reunite... at Posh's 50th birthday**
+**What's New for the Kids at Sea Otter 2024**
 
-You can read more about it [here](https://www.bbc.com/news/entertainment-arts-68868289).
+You can read more about it [here](https://www.pinkbike.com/news/whats-new-for-the-kids-sea-otter-classic-2024.html).
 
 ## Requirements
 - Python 3.8
