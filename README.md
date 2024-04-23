@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift reacts to 'TTPD' reviews after critic goes anonymous over 'safety' concerns**
+**Elon Musk's Robotaxi Dreams Plunge Tesla Into Chaos**
 
-You can read more about it [here](https://pagesix.com/2024/04/22/entertainment/taylor-swift-shouts-out-positive-ttpd-reviewers-after-critic-goes-anonymous/).
+You can read more about it [here](https://finance.yahoo.com/news/elon-musk-robotaxi-dreams-plunge-200004973.html).
 
 ## Requirements
 - Python 3.8
