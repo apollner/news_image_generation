@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 Zodiac Signs With Excellent Horoscopes On April 22, 2024**
+**Terry Anderson, AP reporter abducted in Lebanon and held captive for years, has died at 76**
 
-You can read more about it [here](https://www.yourtango.com/2024373593/zodiac-signs-best-horoscopes-april-22-2024).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/terry-anderson-ap-reporter-held-captive-years-died-109479051).
 
 ## Requirements
 - Python 3.8
