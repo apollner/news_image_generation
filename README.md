@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla (TSLA) Cybertruck Recall Is Latest Setback to Stock's Rough 2024**
+**‘Playing real housewives of Georgia’: GOP strategist reacts to Marjorie Taylor Greene’s threat to oust Johnson**
 
-You can read more about it [here](https://www.bloomberg.com/news/features/2024-04-21/tesla-tsla-cybertruck-recall-is-latest-setback-to-stock-s-rough-2024).
+You can read more about it [here](https://www.cnn.com/videos/politics/2024/04/21/marjorie-taylor-greene-motion-to-vacate-threat-house-speaker-mike-johnson-digvid.cnn).
 
 ## Requirements
 - Python 3.8
