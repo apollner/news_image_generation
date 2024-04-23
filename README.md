@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla slashes Full Self-Driving price to $8,000 ahead of earnings report**
+**Delta Air Lines gives staff another 5% raise, hikes starting wages to $19 an hour**
 
-You can read more about it [here](https://www.theverge.com/2024/4/22/24137056/tesla-full-self-driving-fsd-price-cut-8000).
+You can read more about it [here](https://www.cnbc.com/2024/04/22/delta-air-lines-gives-staff-another-5percent-raise-hikes-starting-wages.html).
 
 ## Requirements
 - Python 3.8
