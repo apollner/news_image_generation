@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police arrest dozens of pro-Palestine protesters at Yale**
+**Tales of Kenzera: Zau Review**
 
-You can read more about it [here](https://www.axios.com/2024/04/22/police-arrest-yale-protesters-palestine).
+You can read more about it [here](https://www.ign.com/articles/tales-of-kenzera-zau-review).
 
 ## Requirements
 - Python 3.8
