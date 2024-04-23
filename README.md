@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk comments on Tesla’s pricing strategy following cuts**
+**NBA playoffs: Clippers dismantle Mavericks with Kawhi Leonard in street clothes**
 
-You can read more about it [here](https://www.teslarati.com/elon-musk-tesla-pricing/).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-clippers-dismantle-mavericks-with-kawhi-leonard-in-street-clothes-220404781.html).
 
 ## Requirements
 - Python 3.8
