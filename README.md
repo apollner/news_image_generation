@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel hit Iran with a half-ton 'Rampage' supersonic missile: report**
+**Bitcoin Miners May Shift Focus to AI After Halving, CoinShares Says**
 
-You can read more about it [here](https://www.businessinsider.com/israel-hit-iran-with-half-ton-rampage-supersonic-missile-report-2024-4).
+You can read more about it [here](https://www.coindesk.com/business/2024/04/22/bitcoin-miners-may-shift-focus-to-ai-after-halving-coinshares-says/).
 
 ## Requirements
 - Python 3.8
