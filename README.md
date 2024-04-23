@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vice President Harris announces final rules mandating minimum standards for nursing home staffing**
+**Trump trial in "hush money" case gets underway with opening statements and first witness**
 
-You can read more about it [here](https://apnews.com/article/nursing-homes-minimum-staffing-rules-harris-wisconsin-6dbc7bee56d321ddf012fcadf30dfe15).
+You can read more about it [here](https://www.cbsnews.com/news/trump-hush-money-trial-opening-statements-witness-testimony/).
 
 ## Requirements
 - Python 3.8
