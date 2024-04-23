@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Voyager 1 Is Finally Making Sense After Months of Transmitting Gibberish**
+**Mark Zuckerberg says Meta will offer its virtual reality OS to hardware companies, creating iPhone versus Android dynamic**
 
-You can read more about it [here](https://gizmodo.com/nasa-voyager-probe-making-sense-months-gibberish-1851427197).
+You can read more about it [here](https://www.cnbc.com/2024/04/22/mark-zuckerberg-says-meta-will-offer-its-virtual-reality-os-to-hardware-companies.html).
 
 ## Requirements
 - Python 3.8
