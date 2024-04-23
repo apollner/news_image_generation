@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk comments on Tesla’s pricing strategy following cuts**
+**Tesla (TSLA) Cybertruck Recall Is Latest Setback to Stock's Rough 2024**
 
-You can read more about it [here](https://www.teslarati.com/elon-musk-tesla-pricing/).
+You can read more about it [here](https://www.bloomberg.com/news/features/2024-04-21/tesla-tsla-cybertruck-recall-is-latest-setback-to-stock-s-rough-2024).
 
 ## Requirements
 - Python 3.8
