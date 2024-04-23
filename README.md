@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Playing real housewives of Georgia’: GOP strategist reacts to Marjorie Taylor Greene’s threat to oust Johnson**
+**What happens if Trump gets convicted ahead of November?**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2024/04/21/marjorie-taylor-greene-motion-to-vacate-threat-house-speaker-mike-johnson-digvid.cnn).
+You can read more about it [here](https://www.newsnationnow.com/the-hill/what-happens-if-trump-gets-convicted-ahead-of-november/).
 
 ## Requirements
 - Python 3.8
