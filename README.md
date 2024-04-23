@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What happens if Trump gets convicted ahead of November?**
+**Columbia University faces full-blown crisis as rabbi calls for Jewish students to ‘return home’**
 
-You can read more about it [here](https://www.newsnationnow.com/the-hill/what-happens-if-trump-gets-convicted-ahead-of-november/).
+You can read more about it [here](https://www.cnn.com/2024/04/21/us/columbia-university-jewish-students-protests/index.html).
 
 ## Requirements
 - Python 3.8
