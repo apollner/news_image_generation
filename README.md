@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump trial in "hush money" case gets underway with opening statements and first witness**
+**Homeless advocates protest as Supreme Court hears Grants Pass case**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-hush-money-trial-opening-statements-witness-testimony/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/22/protest-supreme-court-grants-pass/).
 
 ## Requirements
 - Python 3.8
