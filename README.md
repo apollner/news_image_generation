@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Terry Anderson, AP reporter abducted in Lebanon and held captive for years, has died at 76**
+**Intruder arrested after breaking in to Getty House, official residence of Los Angeles Mayor Karen Bass**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/terry-anderson-ap-reporter-held-captive-years-died-109479051).
+You can read more about it [here](https://abc7.com/break-in-getty-house-official-residence-los-angeles-mayor-karen-bass/14710462/).
 
 ## Requirements
 - Python 3.8
