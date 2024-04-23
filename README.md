@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Miners May Shift Focus to AI After Halving, CoinShares Says**
+**Stock futures rise slightly with S&P 500, Nasdaq on six-day losing streak**
 
-You can read more about it [here](https://www.coindesk.com/business/2024/04/22/bitcoin-miners-may-shift-focus-to-ai-after-halving-coinshares-says/).
+You can read more about it [here](https://www.cnbc.com/2024/04/21/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak.html).
 
 ## Requirements
 - Python 3.8
