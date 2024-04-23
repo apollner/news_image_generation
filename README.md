@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The outlook for home prices has changed drastically in just the past month as Fed rate cuts look more and more distant**
+**Police officer killed in Chicago while driving home from shift in Gage Park ID'd as Luis Huesca, Mayor Brandon Johnson says**
 
-You can read more about it [here](https://fortune.com/2024/04/21/housing-market-outlook-home-prices-forecast-2024-2025-fed-rate-cuts-freddie-mac/).
+You can read more about it [here](https://abc7chicago.com/chicago-shooting-police-today-officer-shot/14707132/).
 
 ## Requirements
 - Python 3.8
