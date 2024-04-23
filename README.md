@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's New for the Kids at Sea Otter 2024**
+**Maldives: Pro-China party led by Muizzu wins by landslide**
 
-You can read more about it [here](https://www.pinkbike.com/news/whats-new-for-the-kids-sea-otter-classic-2024.html).
+You can read more about it [here](https://www.bbc.com/news/world-asia-68852720).
 
 ## Requirements
 - Python 3.8
