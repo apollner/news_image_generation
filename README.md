@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are things truly different for the Celtics this year? How they respond to the Heat in Game 2 will be telling.**
+**Police arrest dozens of pro-Palestine protesters at Yale**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/04/22/sports/celtics-heat-series/).
+You can read more about it [here](https://www.axios.com/2024/04/22/police-arrest-yale-protesters-palestine).
 
 ## Requirements
 - Python 3.8
