@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft Projections 2024: Updated Order, Odds and 1st-Round Predictions**
+**The outlook for home prices has changed drastically in just the past month as Fed rate cuts look more and more distant**
 
-You can read more about it [here](https://bleacherreport.com/articles/10117888-nfl-draft-projections-2024-updated-order-odds-and-1st-round-predictions).
+You can read more about it [here](https://fortune.com/2024/04/21/housing-market-outlook-home-prices-forecast-2024-2025-fed-rate-cuts-freddie-mac/).
 
 ## Requirements
 - Python 3.8
