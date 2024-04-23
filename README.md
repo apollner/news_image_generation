@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tales of Kenzera: Zau Review**
+**Tesla slashes Full Self-Driving price to $8,000 ahead of earnings report**
 
-You can read more about it [here](https://www.ign.com/articles/tales-of-kenzera-zau-review).
+You can read more about it [here](https://www.theverge.com/2024/4/22/24137056/tesla-full-self-driving-fsd-price-cut-8000).
 
 ## Requirements
 - Python 3.8
