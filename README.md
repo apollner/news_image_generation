@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homeless advocates protest as Supreme Court hears Grants Pass case**
+**The Spice Girls reunite for Victoria Beckham's 50th birthday party**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/22/protest-supreme-court-grants-pass/).
+You can read more about it [here](https://www.salon.com/2024/04/22/the-spice-girls-reunite-for-victoria-beckhams-50th-birthday-party/).
 
 ## Requirements
 - Python 3.8
