@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US-Israel: Netanyahu vows to reject any US sanctions on army units**
+**Bitcoin Transaction Fees Come Crashing Down Post Halving**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68870273).
+You can read more about it [here](https://www.coindesk.com/markets/2024/04/22/bitcoin-transaction-fees-come-crashing-down-post-halving/).
 
 ## Requirements
 - Python 3.8
