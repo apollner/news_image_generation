@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indiana Pacers vs. Milwaukee Bucks Live Score and Stats - April 21, 2024 Gametracker**
+**'Antisemitic, unconscionable, and dangerous': White House responds to chaos at Columbia**
 
-You can read more about it [here](https://www.cbssports.com/nba/gametracker/boxscore/NBA_20240421_IND@MIL/).
+You can read more about it [here](https://www.politico.com/news/2024/04/21/chaos-columbia-jewish-moskowitz-santos-white-house-00153545).
 
 ## Requirements
 - Python 3.8
