@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Antisemitic, unconscionable, and dangerous': White House responds to chaos at Columbia**
+**Elon Musk comments on Tesla’s pricing strategy following cuts**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/21/chaos-columbia-jewish-moskowitz-santos-white-house-00153545).
+You can read more about it [here](https://www.teslarati.com/elon-musk-tesla-pricing/).
 
 ## Requirements
 - Python 3.8
