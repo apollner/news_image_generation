@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Clippers dismantle Mavericks with Kawhi Leonard in street clothes**
+**NFL Draft Projections 2024: Updated Order, Odds and 1st-Round Predictions**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-clippers-dismantle-mavericks-with-kawhi-leonard-in-street-clothes-220404781.html).
+You can read more about it [here](https://bleacherreport.com/articles/10117888-nfl-draft-projections-2024-updated-order-odds-and-1st-round-predictions).
 
 ## Requirements
 - Python 3.8
