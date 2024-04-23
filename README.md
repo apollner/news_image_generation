@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chicago police officer shot to death as his car is taken in Gage Park**
+**Israel hit Iran with a half-ton 'Rampage' supersonic missile: report**
 
-You can read more about it [here](https://chicago.suntimes.com/crime/2024/04/21/chicago-police-officer-shot-critically-wounded-on-southwest-side-authorities).
+You can read more about it [here](https://www.businessinsider.com/israel-hit-iran-with-half-ton-rampage-supersonic-missile-report-2024-4).
 
 ## Requirements
 - Python 3.8
