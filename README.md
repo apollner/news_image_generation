@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are things truly different for the Celtics this year? How they respond to the Heat in Game 2 will be telling.**
+**Taylor Swift reacts to 'TTPD' reviews after critic goes anonymous over 'safety' concerns**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/04/22/sports/celtics-heat-series/).
+You can read more about it [here](https://pagesix.com/2024/04/22/entertainment/taylor-swift-shouts-out-positive-ttpd-reviewers-after-critic-goes-anonymous/).
 
 ## Requirements
 - Python 3.8
