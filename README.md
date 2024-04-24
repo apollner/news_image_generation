@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Q1 Earnings Preview: Is EV Giant No Longer A 'Growth Stock?' Analysts Cautious, Want Answers About Robotaxis, Model 2**
+**The Lyrid meteor shower will peak on April 21, April 22: What to know**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-q1-earnings-preview-ev-003232959.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/21/lyrid-meteor-shower-2024-peak-april/73326426007/).
 
 ## Requirements
 - Python 3.8
