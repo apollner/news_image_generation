@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs' Andy Reid, Brett Veach, Mark Donovan get extensions**
+**Supreme Court waves off Kari Lake lawsuit over electronic voting machines**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40002118/chiefs-andy-reid-brett-veach-mark-donovan-get-extensions).
+You can read more about it [here](https://www.cnn.com/2024/04/22/politics/kari-lake-arizona-republican-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
