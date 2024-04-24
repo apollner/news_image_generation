@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key takeaways from the opening statements in Donald Trump's hush money trial**
+**UK passes controversial bill to send asylum seekers to Rwanda after two years of challenges**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-new-york-takeaways-ce0e061811e33a6cfa06e02ef3387cd8).
+You can read more about it [here](https://www.cnn.com/2024/04/22/uk/uk-passes-rwanda-bill-intl/index.html).
 
 ## Requirements
 - Python 3.8
