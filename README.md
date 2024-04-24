@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protests sweep US college campuses following mass arrests at Columbia**
+**Dominic West Admits Lily James Photo Scandal Was 'Horrible' For His Wife, Family**
 
-You can read more about it [here](https://apnews.com/article/columbia-yale-israel-palestinians-protests-56c3d9d0a278c15ed8e4132a75ea9599).
+You can read more about it [here](https://www.huffpost.com/entry/dominic-west-2020-photos-lily-james-wife-reaction_n_66268a14e4b08151cacb02a5).
 
 ## Requirements
 - Python 3.8
