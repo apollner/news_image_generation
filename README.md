@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump co-defendant in classified documents case was told he’d be pardoned in a second term, notes in FBI interview say**
+**2024 NFL Draft: Four potential surprise first-rounders**
 
-You can read more about it [here](https://www.cnn.com/2024/04/22/politics/nauta-classified-documents-trump-pardon-second-term/index.html).
+You can read more about it [here](https://www.nfl.com/news/2024-nfl-draft-four-potential-surprise-first-rounders).
 
 ## Requirements
 - Python 3.8
