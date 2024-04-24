@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-school cop on the run after allegedly killing teacher ex-wife at her school, murdering girlfriend and abducting kid on day he was due in court for child rape**
+**Voyager-1 sends readable data again from deep space**
 
-You can read more about it [here](https://nypost.com/2024/04/23/us-news/armed-ex-cop-accused-of-killing-his-ex-wife-girlfriend-is-on-the-run-after-being-due-in-court-for-rape/).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68881369).
 
 ## Requirements
 - Python 3.8
