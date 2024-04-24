@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks vs. 76ers Game 2 live updates: Knicks pull off miracle vs. Philly**
+**Key takeaways from the opening statements in Donald Trump's hush money trial**
 
-You can read more about it [here](https://nypost.com/2024/04/22/sports/knicks-vs-76ers-game-2-live-updates-nba-playoffs-score-news/).
+You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-new-york-takeaways-ce0e061811e33a6cfa06e02ef3387cd8).
 
 ## Requirements
 - Python 3.8
