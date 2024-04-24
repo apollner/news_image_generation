@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police search for Elias Huizar, Amber Alert issued for Roman Huizar**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/23/amber-alert-elias-huizar-roman-murders/73423856007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
