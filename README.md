@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ten dead as navy helicopters collide mid-air in Malaysia**
+**NFL Draft Day Predictor 2024: Forecasting Round 1, QB picks**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-68852721).
+You can read more about it [here](https://www.espn.com/nfl/draft2024/story/_/id/40002252/2023-nfl-draft-day-predictor-forecasts-quarterbacks-receivers-risers-fallers).
 
 ## Requirements
 - Python 3.8
