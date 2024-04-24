@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTC files to block Tapestry, Capri merger**
+**Tesla Q1 Earnings Preview: Is EV Giant No Longer A 'Growth Stock?' Analysts Cautious, Want Answers About Robotaxis, Model 2**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/04/22/tapestry-capri-merger-ftc/).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-q1-earnings-preview-ev-003232959.html).
 
 ## Requirements
 - Python 3.8
