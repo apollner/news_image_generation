@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Economy Is 'Failing,' U.S. Indo-Pacific Commander Says**
+**Zach Wilson's mom Lisa, family celebrate QB's 'fresh start' with Broncos after Jets trade**
 
-You can read more about it [here](https://www.wsj.com/world/asia/chinas-economy-is-failing-u-s-indo-pacific-commander-says-b747f3af).
+You can read more about it [here](https://nypost.com/2024/04/22/sports/zach-wilsons-mom-celebrates-qbs-fresh-start-with-broncos/).
 
 ## Requirements
 - Python 3.8
