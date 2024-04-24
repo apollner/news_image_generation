@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Birthday, not a funeral': Aunt makes emotional plea against Monroe woman who killed 2 kids in crash**
+**Biden rule grants overtime pay to 4 million US workers**
 
-You can read more about it [here](https://www.clickondetroit.com/news/local/2024/04/23/birthday-not-a-funeral-aunt-makes-emotional-plea-against-monroe-woman-who-killed-2-kids-in-crash/).
+You can read more about it [here](https://ca.news.yahoo.com/biden-rule-grants-overtime-pay-170406165.html).
 
 ## Requirements
 - Python 3.8
