@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK passes controversial bill to send asylum seekers to Rwanda after two years of challenges**
+**FTC files to block Tapestry, Capri merger**
 
-You can read more about it [here](https://www.cnn.com/2024/04/22/uk/uk-passes-rwanda-bill-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/04/22/tapestry-capri-merger-ftc/).
 
 ## Requirements
 - Python 3.8
