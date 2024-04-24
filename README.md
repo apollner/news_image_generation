@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft Day Predictor 2024: Forecasting Round 1, QB picks**
+**Ex-school cop on the run after allegedly killing teacher ex-wife at her school, murdering girlfriend and abducting kid on day he was due in court for child rape**
 
-You can read more about it [here](https://www.espn.com/nfl/draft2024/story/_/id/40002252/2023-nfl-draft-day-predictor-forecasts-quarterbacks-receivers-risers-fallers).
+You can read more about it [here](https://nypost.com/2024/04/23/us-news/armed-ex-cop-accused-of-killing-his-ex-wife-girlfriend-is-on-the-run-after-being-due-in-court-for-rape/).
 
 ## Requirements
 - Python 3.8
