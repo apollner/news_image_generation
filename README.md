@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Zuckerberg says Meta will offer its virtual reality OS to hardware companies, creating iPhone versus Android dynamic**
+**Knicks vs. 76ers Game 2 live updates: Knicks pull off miracle vs. Philly**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/22/mark-zuckerberg-says-meta-will-offer-its-virtual-reality-os-to-hardware-companies.html).
+You can read more about it [here](https://nypost.com/2024/04/22/sports/knicks-vs-76ers-game-2-live-updates-nba-playoffs-score-news/).
 
 ## Requirements
 - Python 3.8
