@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden rule grants overtime pay to 4 million US workers**
+**Scientists say USDA is sharing too little data too slowly on H5N1 flu**
 
-You can read more about it [here](https://ca.news.yahoo.com/biden-rule-grants-overtime-pay-170406165.html).
+You can read more about it [here](https://www.cnn.com/2024/04/23/health/h5n1-usda-gisaid-genetic-sequences/index.html).
 
 ## Requirements
 - Python 3.8
