@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Chiefs' Andy Reid, Brett Veach, Mark Donovan get extensions**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40002118/chiefs-andy-reid-brett-veach-mark-donovan-get-extensions).
 
 ## Requirements
 - Python 3.8
