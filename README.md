@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why 'Baby Reindeer' Creator Condemns Search for Real Martha**
+**Trump co-defendant in classified documents case was told he’d be pardoned in a second term, notes in FBI interview say**
 
-You can read more about it [here](http://www.vulture.com/article/baby-reindeer-true-story-real-martha.html).
+You can read more about it [here](https://www.cnn.com/2024/04/22/politics/nauta-classified-documents-trump-pardon-second-term/index.html).
 
 ## Requirements
 - Python 3.8
