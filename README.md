@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm Snapdragon X Plus specifications and performance leak out**
+**Senate to hold key test vote on Ukraine aid, Israel funding and TikTok ban**
 
-You can read more about it [here](https://videocardz.com/newz/qualcomm-snapdragon-x-plus-specifications-and-performance-leak-out).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/senate-hold-key-test-vote-ukraine-aid-israel-funding-tiktok-ban-rcna148685).
 
 ## Requirements
 - Python 3.8
