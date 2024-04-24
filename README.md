@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft: Four potential surprise first-rounders**
+**'Birthday, not a funeral': Aunt makes emotional plea against Monroe woman who killed 2 kids in crash**
 
-You can read more about it [here](https://www.nfl.com/news/2024-nfl-draft-four-potential-surprise-first-rounders).
+You can read more about it [here](https://www.clickondetroit.com/news/local/2024/04/23/birthday-not-a-funeral-aunt-makes-emotional-plea-against-monroe-woman-who-killed-2-kids-in-crash/).
 
 ## Requirements
 - Python 3.8
