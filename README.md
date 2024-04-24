@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dominic West Admits Lily James Photo Scandal Was 'Horrible' For His Wife, Family**
+**China's Economy Is 'Failing,' U.S. Indo-Pacific Commander Says**
 
-You can read more about it [here](https://www.huffpost.com/entry/dominic-west-2020-photos-lily-james-wife-reaction_n_66268a14e4b08151cacb02a5).
+You can read more about it [here](https://www.wsj.com/world/asia/chinas-economy-is-failing-u-s-indo-pacific-commander-says-b747f3af).
 
 ## Requirements
 - Python 3.8
