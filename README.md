@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Lyrid meteor shower will peak on April 21, April 22: What to know**
+**Chiefs make Andy Reid NFL's highest-paid coach, sign president Mark Donovan, GM Brett Veach to extensions**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/21/lyrid-meteor-shower-2024-peak-april/73326426007/).
+You can read more about it [here](https://sports.yahoo.com/chiefs-make-andy-reid-nfls-highest-paid-coach-sign-president-mark-donovan-gm-brett-veach-to-extensions-001812795.html).
 
 ## Requirements
 - Python 3.8
