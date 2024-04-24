@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate to hold key test vote on Ukraine aid, Israel funding and TikTok ban**
+**New Prince Louis birthday photo taken by Kate**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/senate-hold-key-test-vote-ukraine-aid-israel-funding-tiktok-ban-rcna148685).
+You can read more about it [here](https://www.bbc.com/news/uk-68882299).
 
 ## Requirements
 - Python 3.8
