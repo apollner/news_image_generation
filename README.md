@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Prince Louis birthday photo taken by Kate**
+**Police search for Elias Huizar, Amber Alert issued for Roman Huizar**
 
-You can read more about it [here](https://www.bbc.com/news/uk-68882299).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/23/amber-alert-elias-huizar-roman-murders/73423856007/).
 
 ## Requirements
 - Python 3.8
