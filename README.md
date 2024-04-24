@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Why 'Baby Reindeer' Creator Condemns Search for Real Martha**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.vulture.com/article/baby-reindeer-true-story-real-martha.html).
 
 ## Requirements
 - Python 3.8
