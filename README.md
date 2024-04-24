@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Economy Is 'Failing,' U.S. Indo-Pacific Commander Says**
+**Republicans are starting to worry about RFK Jr.**
 
-You can read more about it [here](https://www.wsj.com/world/asia/chinas-economy-is-failing-u-s-indo-pacific-commander-says-b747f3af).
+You can read more about it [here](https://www.politico.com/news/2024/04/22/republicans-are-starting-to-worry-about-rfk-jr-00153763).
 
 ## Requirements
 - Python 3.8
