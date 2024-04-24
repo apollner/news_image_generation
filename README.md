@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists say USDA is sharing too little data too slowly on H5N1 flu**
+**The spam came from inside the house: How a smart TV can choke a Windows PC**
 
-You can read more about it [here](https://www.cnn.com/2024/04/23/health/h5n1-usda-gisaid-genetic-sequences/index.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/04/the-spam-came-from-inside-the-house-how-a-smart-tv-can-choke-a-windows-pc/).
 
 ## Requirements
 - Python 3.8
