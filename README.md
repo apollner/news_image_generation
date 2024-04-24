@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voyager-1 sends readable data again from deep space**
+**Ten dead as navy helicopters collide mid-air in Malaysia**
 
-You can read more about it [here](https://www.bbc.com/news/science-environment-68881369).
+You can read more about it [here](https://www.bbc.com/news/world-asia-68852721).
 
 ## Requirements
 - Python 3.8
