@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court waves off Kari Lake lawsuit over electronic voting machines**
+**Tesla Q1 Earnings Preview: Is EV Giant No Longer A 'Growth Stock?' Analysts Cautious, Want Answers About Robotaxis, Model 2**
 
-You can read more about it [here](https://www.cnn.com/2024/04/22/politics/kari-lake-arizona-republican-supreme-court/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-q1-earnings-preview-ev-003232959.html).
 
 ## Requirements
 - Python 3.8
