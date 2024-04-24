@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Stock in 'No Man's Land' After 43% Rout Ahead of Earnings**
+**Voyager-1 sends readable data again from deep space**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-no-man-land-105125064.html).
+You can read more about it [here](https://www.bbc.com/news/science-environment-68881369).
 
 ## Requirements
 - Python 3.8
