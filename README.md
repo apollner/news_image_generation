@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs make Andy Reid NFL's highest-paid coach, sign president Mark Donovan, GM Brett Veach to extensions**
+**China's Economy Is 'Failing,' U.S. Indo-Pacific Commander Says**
 
-You can read more about it [here](https://sports.yahoo.com/chiefs-make-andy-reid-nfls-highest-paid-coach-sign-president-mark-donovan-gm-brett-veach-to-extensions-001812795.html).
+You can read more about it [here](https://www.wsj.com/world/asia/chinas-economy-is-failing-u-s-indo-pacific-commander-says-b747f3af).
 
 ## Requirements
 - Python 3.8
