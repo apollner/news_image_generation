@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Q1 Earnings Preview: Is EV Giant No Longer A 'Growth Stock?' Analysts Cautious, Want Answers About Robotaxis, Model 2**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-q1-earnings-preview-ev-003232959.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
