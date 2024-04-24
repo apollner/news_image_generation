@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans are starting to worry about RFK Jr.**
+**Pro-Palestinian protests sweep US college campuses following mass arrests at Columbia**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/22/republicans-are-starting-to-worry-about-rfk-jr-00153763).
+You can read more about it [here](https://apnews.com/article/columbia-yale-israel-palestinians-protests-56c3d9d0a278c15ed8e4132a75ea9599).
 
 ## Requirements
 - Python 3.8
