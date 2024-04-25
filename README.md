@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Applegate Suffering From "Gross" Sapovirus Symptoms After Unknowingly Ingesting Poop - E! Online**
+**Supreme Court takes up Trump's claim of 'absolute immunity' from criminal prosecution**
 
-You can read more about it [here](https://www.eonline.com/news/1400039/christina-applegate-suffering-from-gross-sapovirus-symptoms-after-unknowingly-ingesting-poop).
+You can read more about it [here](https://abcnews.go.com/Politics/supreme-court-takes-trumps-claim-absolute-immunity-criminal/story?id=109251013).
 
 ## Requirements
 - Python 3.8
