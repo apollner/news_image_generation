@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Courteney Cox reveals boyfriend dumped her during their first therapy session: 'I was in so much pain'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://pagesix.com/2024/04/24/entertainment/courteney-cox-johnny-mcdaid-dumped-me-in-first-therapy-session/).
 
 ## Requirements
 - Python 3.8
