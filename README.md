@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elias Huizar found dead, Roman Santos found safe following Amber Alert**
+**Key NATO ally shocks with its 'single largest' pledge to Ukraine: 'They need our support'**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/24/amber-alert-update-elias-huizar-roman-santos-oregon/73435920007/).
+You can read more about it [here](https://www.foxnews.com/world/key-nato-ally-shocks-single-largest-pledge-ukraine-need-support).
 
 ## Requirements
 - Python 3.8
