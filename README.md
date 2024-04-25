@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta - Meta Reports First Quarter 2024 Results**
+**Reggie Bush has 2005 Heisman Trophy reinstated, 14 years after its forfeiture**
 
-You can read more about it [here](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx).
+You can read more about it [here](https://theathletic.com/5441674/2024/04/24/reggie-bush-heisman-trophy-reinstated/).
 
 ## Requirements
 - Python 3.8
