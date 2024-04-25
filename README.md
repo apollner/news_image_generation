@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DFL state Sen. Nicole Mitchell charged with first-degree burglary in break-in at stepmother's home**
+**Australian PM calls Elon Musk an 'arrogant billionaire' in row over attack footage**
 
-You can read more about it [here](https://www.startribune.com/dfl-state-senator-charged-with-first-degree-burglary-after-breaking-into-stepmothers-home/600360981/).
+You can read more about it [here](https://www.bbc.com/news/world-australia-68878967).
 
 ## Requirements
 - Python 3.8
