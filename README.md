@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court takes up Trump's claim of 'absolute immunity' from criminal prosecution**
+**2024 NFL Mock Draft: Brinson's Worst Mock Ever designed to anger every single NFL fan base**
 
-You can read more about it [here](https://abcnews.go.com/Politics/supreme-court-takes-trumps-claim-absolute-immunity-criminal/story?id=109251013).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-brinsons-worst-mock-ever-designed-to-anger-every-single-nfl-fan-base/).
 
 ## Requirements
 - Python 3.8
