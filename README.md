@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Tabloid publisher David Pecker testifies**
+**Tim Cook hints at new Apple Pencil 3 coming next month – here's what the rumors say**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-national-enquirer-d44d4a7ce66cc08edb5981b3afb882ba).
+You can read more about it [here](https://9to5mac.com/2024/04/23/tim-cook-hints-apple-pencil-3/).
 
 ## Requirements
 - Python 3.8
