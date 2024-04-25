@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Megan Thee Stallion accused of harassment in lawsuit by cameraman**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/megan-thee-stallion-accused-harassment-cameraman-said-was-forced-watch-rcna148895).
 
 ## Requirements
 - Python 3.8
