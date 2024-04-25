@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key NATO ally shocks with its 'single largest' pledge to Ukraine: 'They need our support'**
+**Business Groups Race to Block FTC's Ban on Noncompete Agreements**
 
-You can read more about it [here](https://www.foxnews.com/world/key-nato-ally-shocks-single-largest-pledge-ukraine-need-support).
+You can read more about it [here](https://www.wsj.com/politics/policy/big-business-groups-sue-to-block-ftcs-ban-on-noncompete-agreements-1bc8bcbb).
 
 ## Requirements
 - Python 3.8
