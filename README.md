@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court divided over arguments regarding when doctors can provide emergency abortions**
+**Hamas releases video of injured Israeli-American hostage Hersh Goldberg-Polin**
 
-You can read more about it [here](https://apnews.com/article/abortion-supreme-court-emergencies-hospitals-doctors-45766f0a1ab576ce0f6515c5a1bd9e2a).
+You can read more about it [here](https://www.cbsnews.com/news/hamas-releases-video-israeli-american-hostage-hersh-goldberg-polin/).
 
 ## Requirements
 - Python 3.8
