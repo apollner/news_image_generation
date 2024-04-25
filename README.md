@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State Sen. Nicole Mitchell responds after being charged with burglarizing stepmom's home**
+**After 5 months of problems, NASA's aging Voyager 1 is working again**
 
-You can read more about it [here](https://kstp.com/kstp-news/top-news/charges-state-sen-nicole-mitchell-broke-into-stepmoms-home-wanted-to-retrieve-her-dads-things/).
+You can read more about it [here](https://www.youtube.com/watch?v=3AH7YGZ31ZE).
 
 ## Requirements
 - Python 3.8
