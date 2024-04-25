@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate passes possible TikTok ban, sends to Biden who’s expected to sign it**
+**iPadOS 18 could ship with built-in Calculator app, after 14 Calculator-less years**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/04/23/tiktok-ban-senate-vote-sale-biden/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/04/ipados-18-could-ship-with-built-in-calculator-app-after-14-calculator-less-years/).
 
 ## Requirements
 - Python 3.8
