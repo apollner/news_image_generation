@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Megan Thee Stallion accused of harassment in lawsuit by cameraman**
+**DFL state Sen. Nicole Mitchell charged with first-degree burglary in break-in at stepmother's home**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/megan-thee-stallion-accused-harassment-cameraman-said-was-forced-watch-rcna148895).
+You can read more about it [here](https://www.startribune.com/dfl-state-senator-charged-with-first-degree-burglary-after-breaking-into-stepmothers-home/600360981/).
 
 ## Requirements
 - Python 3.8
