@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Cook hints at new Apple Pencil 3 coming next month – here's what the rumors say**
+**Sixers' Tyrese Maxey edges Coby White as NBA's most improved**
 
-You can read more about it [here](https://9to5mac.com/2024/04/23/tim-cook-hints-apple-pencil-3/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40011550/sixers-tyrese-maxey-edges-coby-white-nba-most-improved).
 
 ## Requirements
 - Python 3.8
