@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Senate passes TikTok divestment-or-ban bill, Biden set to make it law**
+**Nokia pushed to the margin as HMD reveals its first exclusive phones**
 
-You can read more about it [here](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/).
+You can read more about it [here](https://www.androidpolice.com/hmd-pulse-pro/).
 
 ## Requirements
 - Python 3.8
