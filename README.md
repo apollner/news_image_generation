@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixers' Tyrese Maxey edges Coby White as NBA's most improved**
+**Trump wins Pennsylvania, but Haley wins over 147,000 votes**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40011550/sixers-tyrese-maxey-edges-coby-white-nba-most-improved).
+You can read more about it [here](https://www.axios.com/2024/04/24/trump-protest-vote-pennsylvania-gop-primary).
 
 ## Requirements
 - Python 3.8
