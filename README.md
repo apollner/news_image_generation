@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump wins Pennsylvania, but Haley wins over 147,000 votes**
+**UN calls for investigation into mass graves found at Gaza hospitals**
 
-You can read more about it [here](https://www.axios.com/2024/04/24/trump-protest-vote-pennsylvania-gop-primary).
+You can read more about it [here](https://thehill.com/policy/international/4616720-un-calls-for-investigation-into-mass-graves-found-at-gaza-hospitals/).
 
 ## Requirements
 - Python 3.8
