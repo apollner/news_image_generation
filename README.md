@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The spam came from inside the house: How a smart TV can choke a Windows PC**
+**Israeli war fuels protests at Columbia, other colleges: Live updates**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/04/the-spam-came-from-inside-the-house-how-a-smart-tv-can-choke-a-windows-pc/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/23/israel-war-student-protests-live-updates/73421968007/).
 
 ## Requirements
 - Python 3.8
