@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Senate passes TikTok divestment-or-ban bill, Biden set to make it law**
+**NFL Draft nuggets: Start with Drake Maye-J.J. McCarthy intersection**
 
-You can read more about it [here](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/).
+You can read more about it [here](https://sports.yahoo.com/nfl-draft-nuggets-lets-start-with-the-drake-maye-and-jj-mccarthy-intersection-163844679.html).
 
 ## Requirements
 - Python 3.8
