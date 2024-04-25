@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN calls for investigation into mass graves found at Gaza hospitals**
+**Musk targets Australian senator, gun laws in deepening dispute over X stabbing content**
 
-You can read more about it [here](https://thehill.com/policy/international/4616720-un-calls-for-investigation-into-mass-graves-found-at-gaza-hospitals/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/musk-targets-australian-senator-gun-laws-deepening-dispute-over-x-stabbing-2024-04-24/).
 
 ## Requirements
 - Python 3.8
