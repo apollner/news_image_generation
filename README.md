@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After 5 months of problems, NASA's aging Voyager 1 is working again**
+**Trump hush money trial: Tabloid publisher David Pecker testifies**
 
-You can read more about it [here](https://www.youtube.com/watch?v=3AH7YGZ31ZE).
+You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-national-enquirer-d44d4a7ce66cc08edb5981b3afb882ba).
 
 ## Requirements
 - Python 3.8
