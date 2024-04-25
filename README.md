@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Business Groups Race to Block FTC's Ban on Noncompete Agreements**
+**Watch Live: Arizona Democrats poised to continue effort to repeal 1864 abortion ban**
 
-You can read more about it [here](https://www.wsj.com/politics/policy/big-business-groups-sue-to-block-ftcs-ban-on-noncompete-agreements-1bc8bcbb).
+You can read more about it [here](https://www.cbsnews.com/news/arizona-democrats-effort-to-repeal-1864-abortion-ban/).
 
 ## Requirements
 - Python 3.8
