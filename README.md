@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPadOS 18 could ship with built-in Calculator app, after 14 Calculator-less years**
+**Propellant-free thrusters: Company claims major breakthrough**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/04/ipados-18-could-ship-with-built-in-calculator-app-after-14-calculator-less-years/).
+You can read more about it [here](https://bgr.com/science/former-nasa-engineer-claims-he-invented-a-ground-breaking-thruster-that-doesnt-need-fuel/).
 
 ## Requirements
 - Python 3.8
