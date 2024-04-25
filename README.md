@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California bill to restrict CLEAR at airports passes first legislative hurdle**
+**Luka Doncic CAME TO PLAY In Game 2! 👏 | April 23, 2024**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/24/california-bill-clear-airport-00154038).
+You can read more about it [here](https://www.youtube.com/watch?v=cUxQAMqr1bw).
 
 ## Requirements
 - Python 3.8
