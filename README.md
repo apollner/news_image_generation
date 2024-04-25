@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft nuggets: Start with Drake Maye-J.J. McCarthy intersection**
+**How the White House convinced Mike Johnson to back Ukraine aid**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-draft-nuggets-lets-start-with-the-drake-maye-and-jj-mccarthy-intersection-163844679.html).
+You can read more about it [here](https://www.cnn.com/2024/04/24/politics/white-house-ukraine-funding-push/index.html).
 
 ## Requirements
 - Python 3.8
