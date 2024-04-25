@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luka Doncic CAME TO PLAY In Game 2! 👏 | April 23, 2024**
+**NXT Spring Breakin' 2024 Week One**
 
-You can read more about it [here](https://www.youtube.com/watch?v=cUxQAMqr1bw).
+You can read more about it [here](http://www.wwe.com/shows/wwenxt/2024-04-23-0).
 
 ## Requirements
 - Python 3.8
