@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk targets Australian senator, gun laws in deepening dispute over X stabbing content**
+**Columbia University extends remote learning amid Gaza war protests**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/musk-targets-australian-senator-gun-laws-deepening-dispute-over-x-stabbing-2024-04-24/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68883271).
 
 ## Requirements
 - Python 3.8
