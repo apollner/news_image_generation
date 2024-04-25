@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the White House convinced Mike Johnson to back Ukraine aid**
+**King's Horses Run Amok in London, Escaping Monarch's Birthday-Parade Practice**
 
-You can read more about it [here](https://www.cnn.com/2024/04/24/politics/white-house-ukraine-funding-push/index.html).
+You can read more about it [here](https://www.wsj.com/world/uk/kings-horses-run-amok-in-london-escaping-monarchs-birthday-parade-practice-fc32cd2a).
 
 ## Requirements
 - Python 3.8
