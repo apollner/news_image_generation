@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Live: Arizona Democrats poised to continue effort to repeal 1864 abortion ban**
+**Windows 11 KB5036980 update goes live with Start Menu ads**
 
-You can read more about it [here](https://www.cbsnews.com/news/arizona-democrats-effort-to-repeal-1864-abortion-ban/).
+You can read more about it [here](https://www.bleepingcomputer.com/).
 
 ## Requirements
 - Python 3.8
