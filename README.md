@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How McConnell and Schumer beat hardline conservatives on Ukraine**
+**US Senate passes TikTok divestment-or-ban bill, Biden set to make it law**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/24/mitch-mcconnell-israel-ukraine-aid-00153990).
+You can read more about it [here](https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/).
 
 ## Requirements
 - Python 3.8
