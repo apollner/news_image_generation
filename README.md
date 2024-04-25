@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas releases video of injured Israeli-American hostage Hersh Goldberg-Polin**
+**How to Know If the Supreme Court Is in the Tank for Trump**
 
-You can read more about it [here](https://www.cbsnews.com/news/hamas-releases-video-israeli-american-hostage-hersh-goldberg-polin/).
+You can read more about it [here](https://www.politico.com/news/magazine/2024/04/24/trumps-crazy-argument-for-immunity-heads-to-the-high-court-00153954).
 
 ## Requirements
 - Python 3.8
