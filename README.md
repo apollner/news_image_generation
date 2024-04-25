@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to Know If the Supreme Court Is in the Tank for Trump**
+**Meta - Meta Reports First Quarter 2024 Results**
 
-You can read more about it [here](https://www.politico.com/news/magazine/2024/04/24/trumps-crazy-argument-for-immunity-heads-to-the-high-court-00153954).
+You can read more about it [here](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx).
 
 ## Requirements
 - Python 3.8
