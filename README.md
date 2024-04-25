@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Mock Draft: Brinson's Worst Mock Ever designed to anger every single NFL fan base**
+**More than 3 million Medicare patients could be eligible for coverage of Wegovy to reduce heart disease risks, study says**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-brinsons-worst-mock-ever-designed-to-anger-every-single-nfl-fan-base/).
+You can read more about it [here](https://www.cnbc.com/2024/04/24/wegovy-3point6-million-medicare-patients-could-get-heart-health-coverage.html).
 
 ## Requirements
 - Python 3.8
