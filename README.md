@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NXT Spring Breakin' 2024 Week One**
+**Columbia President Minouche Shafik sets deadline for anti-Israel protesters to reach agreement to dismantle encampment**
 
-You can read more about it [here](http://www.wwe.com/shows/wwenxt/2024-04-23-0).
+You can read more about it [here](https://nypost.com/2024/04/23/us-news/columbia-president-minouche-shafik-sets-deadline-for-anti-israel-protesters-to-reach-agreement-to-dismantle-encampment/).
 
 ## Requirements
 - Python 3.8
