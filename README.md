@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian PM calls Elon Musk an 'arrogant billionaire' in row over attack footage**
+**Senate passes possible TikTok ban, sends to Biden who’s expected to sign it**
 
-You can read more about it [here](https://www.bbc.com/news/world-australia-68878967).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/04/23/tiktok-ban-senate-vote-sale-biden/).
 
 ## Requirements
 - Python 3.8
