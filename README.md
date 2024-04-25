@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli war fuels protests at Columbia, other colleges: Live updates**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/23/israel-war-student-protests-live-updates/73421968007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
