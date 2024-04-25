@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Windows 11 KB5036980 update goes live with Start Menu ads**
+**Supreme Court divided over arguments regarding when doctors can provide emergency abortions**
 
-You can read more about it [here](https://www.bleepingcomputer.com/).
+You can read more about it [here](https://apnews.com/article/abortion-supreme-court-emergencies-hospitals-doctors-45766f0a1ab576ce0f6515c5a1bd9e2a).
 
 ## Requirements
 - Python 3.8
