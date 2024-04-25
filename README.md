@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Propellant-free thrusters: Company claims major breakthrough**
+**State Sen. Nicole Mitchell responds after being charged with burglarizing stepmom's home**
 
-You can read more about it [here](https://bgr.com/science/former-nasa-engineer-claims-he-invented-a-ground-breaking-thruster-that-doesnt-need-fuel/).
+You can read more about it [here](https://kstp.com/kstp-news/top-news/charges-state-sen-nicole-mitchell-broke-into-stepmoms-home-wanted-to-retrieve-her-dads-things/).
 
 ## Requirements
 - Python 3.8
