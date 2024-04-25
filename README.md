@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 3 million Medicare patients could be eligible for coverage of Wegovy to reduce heart disease risks, study says**
+**How McConnell and Schumer beat hardline conservatives on Ukraine**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/24/wegovy-3point6-million-medicare-patients-could-get-heart-health-coverage.html).
+You can read more about it [here](https://www.politico.com/news/2024/04/24/mitch-mcconnell-israel-ukraine-aid-00153990).
 
 ## Requirements
 - Python 3.8
