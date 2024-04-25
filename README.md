@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**King's Horses Run Amok in London, Escaping Monarch's Birthday-Parade Practice**
+**Elias Huizar found dead, Roman Santos found safe following Amber Alert**
 
-You can read more about it [here](https://www.wsj.com/world/uk/kings-horses-run-amok-in-london-escaping-monarchs-birthday-parade-practice-fc32cd2a).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/24/amber-alert-update-elias-huizar-roman-santos-oregon/73435920007/).
 
 ## Requirements
 - Python 3.8
