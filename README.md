@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snapdragon X Elite With 4.00GHz Boost Clock Speed Was Tested In Surface Laptop 6, Makes Short Work Of Apple’s M3 In Multi-Core Result**
+**Yemen’s Houthis launch attacks on US, Israeli vessels as warships defend**
 
-You can read more about it [here](https://wccftech.com/snapdragon-x-elite-tested-in-surface-laptop-6-high-multi-core-score/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/25/yemens-houthis-launch-attacks-on-us-israeli-vessels-as-warships-defend).
 
 ## Requirements
 - Python 3.8
