@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow falls by 450 points after GDP report**
+**Early tests of H5N1 prevalence in milk suggest U.S. bird flu outbreak in cows is widespread**
 
-You can read more about it [here](https://www.cnn.com/2024/04/25/markets/wall-street-reaction-gdp-report/index.html).
+You can read more about it [here](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/).
 
 ## Requirements
 - Python 3.8
