@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula (image)**
+**J.J. McCarthy is ‘Mitch Trubisky with a better coach,’ says Colin Cowherd**
 
-You can read more about it [here](https://www.space.com/hubble-34-anniversary-dumbbell-nebula).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/j-j-mccarthy-is-mitch-trubisky-with-a-better-coach-says-colin-cowherd).
 
 ## Requirements
 - Python 3.8
