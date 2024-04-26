@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP critics vow no more US aid for Ukraine**
+**Qatar passed U.S. proof-of-life of Israeli-American hostage on Monday**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4619185-gop-critics-vow-no-more-us-aid-for-ukraine/).
+You can read more about it [here](https://www.axios.com/2024/04/24/hamas-hostage-video-qatar-hersh-goldberg-polin).
 
 ## Requirements
 - Python 3.8
