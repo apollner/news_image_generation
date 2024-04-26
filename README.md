@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As bird flu spreads in cows, fractured U.S. response has echoes of early covid**
+**Trump hush money trial: Tabloid publisher David Pecker continues testimony**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/04/25/bird-flu-cows-government-response/).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-national-enquirer-1dd3c3111febf219bdf1d8627504a3c5).
 
 ## Requirements
 - Python 3.8
