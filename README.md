@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can an online library of classic video games ever be legal?**
+**Chris Pine's Latest Red Carpet Look Includes Jorts and Tube Socks and We Can't Stop Staring**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/04/can-an-online-library-of-classic-video-games-ever-be-legal/).
+You can read more about it [here](https://people.com/chris-pine-poolman-premiere-red-carpet-photos-8638941).
 
 ## Requirements
 - Python 3.8
