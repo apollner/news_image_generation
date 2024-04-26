@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venice tests an entry fee for day-trippers**
+**Orbiter Spots "Spiders" on Surface of Mars**
 
-You can read more about it [here](https://apnews.com/article/venice-daytripper-tax-tourism-canals-e0a741e5e439fb8c027387534b086380).
+You can read more about it [here](https://futurism.com/the-byte/orbiter-spots-spiders-surface-mars).
 
 ## Requirements
 - Python 3.8
