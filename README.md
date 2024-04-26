@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Friends' star Courteney Cox was blindsided when fiancé dumped her just one minute into therapy session**
+**Hamas issues video showing Israeli-American hostage Goldberg-Polin**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/friends-star-courteney-cox-blindsided-fiance-dumped-her-one-minute-therapy-session).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-issues-video-showing-israeli-american-hostage-goldberg-polin-2024-04-24/).
 
 ## Requirements
 - Python 3.8
