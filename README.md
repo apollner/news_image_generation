@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas issues video showing Israeli-American hostage Goldberg-Polin**
+**House speaker Mike Johnson heckled by protesters in tense campus visit**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hamas-issues-video-showing-israeli-american-hostage-goldberg-polin-2024-04-24/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893185).
 
 ## Requirements
 - Python 3.8
