@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deathbed confession leads to bodies of mother and daughter killed 24 years ago**
+**'Friends' star Courteney Cox was blindsided when fiancé dumped her just one minute into therapy session**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/deathbed-confession-leads-bodies-mother-daughter-killed-24-years-ago-rcna149208).
+You can read more about it [here](https://www.foxnews.com/entertainment/friends-star-courteney-cox-blindsided-fiance-dumped-her-one-minute-therapy-session).
 
 ## Requirements
 - Python 3.8
