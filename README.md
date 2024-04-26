@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona GOP lawmaker booted from committee after backing abortion ban repeal**
+**Deathbed confession leads to bodies of mother and daughter killed 24 years ago**
 
-You can read more about it [here](https://thehill.com/homenews/state-watch/4619080-arizona-lawmakers-booted-committees-abortion-ban-repeal/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/deathbed-confession-leads-bodies-mother-daughter-killed-24-years-ago-rcna149208).
 
 ## Requirements
 - Python 3.8
