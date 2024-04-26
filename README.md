@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House speaker Mike Johnson heckled by protesters in tense campus visit**
+**Investigation Discovery to Probe Nick Carter Allegations, Rift With Late Aaron Carter in Docuseries ‘Fallen Idols’**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893185).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/id-docuseries-fallen-idols-nick-carter-aaron-carter-1235880317/).
 
 ## Requirements
 - Python 3.8
