@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula (image)**
+**As Trump battles for 'absolute immunity,' question resurfaces about assassinating rivals**
 
-You can read more about it [here](https://www.space.com/hubble-34-anniversary-dumbbell-nebula).
+You can read more about it [here](https://abcnews.go.com/Politics/provocative-question-trumps-immunity-fight-ordering-rivals-assassinated/story?id=109581560).
 
 ## Requirements
 - Python 3.8
