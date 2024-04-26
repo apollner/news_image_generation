@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Early tests of H5N1 prevalence in milk suggest U.S. bird flu outbreak in cows is widespread**
+**Prisco's final 2024 NFL Mock Draft: Giants trade up for Drake Maye; Vikings let QB come to them**
 
-You can read more about it [here](https://www.statnews.com/2024/04/25/h5n1-bird-flu-cows-outbreak-likely-widespread/).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/priscos-final-2024-nfl-mock-draft-giants-trade-up-for-drake-maye-vikings-let-qb-come-to-them/).
 
 ## Requirements
 - Python 3.8
