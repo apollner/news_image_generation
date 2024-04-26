@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gross Domestic Product, First Quarter 2024 (Advance Estimate) | U.S**
+**Venice tests an entry fee for day-trippers**
 
-You can read more about it [here](https://www.bea.gov/news/2024/gross-domestic-product-first-quarter-2024-advance-estimate).
+You can read more about it [here](https://apnews.com/article/venice-daytripper-tax-tourism-canals-e0a741e5e439fb8c027387534b086380).
 
 ## Requirements
 - Python 3.8
