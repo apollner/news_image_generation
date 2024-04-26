@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Pine's Latest Red Carpet Look Includes Jorts and Tube Socks and We Can't Stop Staring**
+**Takeaways from the Supreme Court arguments on Trump’s absolute immunity claims**
 
-You can read more about it [here](https://people.com/chris-pine-poolman-premiere-red-carpet-photos-8638941).
+You can read more about it [here](https://www.cnn.com/2024/04/25/politics/takeaways-trump-immunity-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
