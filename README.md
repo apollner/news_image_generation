@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Trump battles for 'absolute immunity,' question resurfaces about assassinating rivals**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/Politics/provocative-question-trumps-immunity-fight-ordering-rivals-assassinated/story?id=109581560).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
