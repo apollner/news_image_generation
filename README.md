@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm says lower-end Snapdragon X Plus chips can still outrun Apple's M3**
+**Gross Domestic Product, First Quarter 2024 (Advance Estimate) | U.S**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/04/qualcomm-preps-lower-end-snapdragon-x-plus-chips-to-compete-with-intel-and-apple/).
+You can read more about it [here](https://www.bea.gov/news/2024/gross-domestic-product-first-quarter-2024-advance-estimate).
 
 ## Requirements
 - Python 3.8
