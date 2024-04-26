@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta AI spending plans cause share price slump**
+**Moulin Rouge windmill blades collapse in Paris**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cl40v5x483yo).
+You can read more about it [here](https://www.dw.com/en/moulin-rouge-windmill-blades-collapse-in-paris/a-68914871).
 
 ## Requirements
 - Python 3.8
