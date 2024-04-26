@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judges from around the country say Trump can be held accountable for January 6. What will the Supreme Court say?**
+**NBA playoffs: Heat sets franchise playoff record for 3-pointers during series-evening win over Celtics**
 
-You can read more about it [here](https://www.cnn.com/2024/04/24/politics/judges-trump-immunity-claims-january-6/index.html).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-heat-set-franchise-playoff-record-for-3-pointers-during-series-evening-win-over-celtics-013959086.html).
 
 ## Requirements
 - Python 3.8
