@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moulin Rouge windmill blades collapse in Paris**
+**‘Dead Boy Detectives’ Review: Netflix’s ‘Sandman’ Spinoff Is a Fast, Fun Binge**
 
-You can read more about it [here](https://www.dw.com/en/moulin-rouge-windmill-blades-collapse-in-paris/a-68914871).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-reviews/dead-boy-detectives-review-netflix-1235877299/).
 
 ## Requirements
 - Python 3.8
