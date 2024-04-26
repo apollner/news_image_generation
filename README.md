@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Dead Boy Detectives’ Review: Netflix’s ‘Sandman’ Spinoff Is a Fast, Fun Binge**
+**Anglo American receives BHP buyout proposal, could reshape copper market**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-reviews/dead-boy-detectives-review-netflix-1235877299/).
+You can read more about it [here](https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/).
 
 ## Requirements
 - Python 3.8
