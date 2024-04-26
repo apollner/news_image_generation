@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**GOP critics vow no more US aid for Ukraine**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thehill.com/homenews/senate/4619185-gop-critics-vow-no-more-us-aid-for-ukraine/).
 
 ## Requirements
 - Python 3.8
