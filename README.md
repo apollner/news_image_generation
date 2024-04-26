@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House speaker Mike Johnson heckled by protesters in tense campus visit**
+**Labour pledges to renationalise most rail services within first term**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893185).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68889345).
 
 ## Requirements
 - Python 3.8
