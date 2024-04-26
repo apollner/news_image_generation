@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Challengers: Zendaya and her tennis boys teach us a lesson about the sport**
+**[Removed]**
 
-You can read more about it [here](https://theathletic.com/5436759/2024/04/25/challengers-film-zendaya-tennis/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
