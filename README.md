@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen’s Houthis launch attacks on US, Israeli vessels as warships defend**
+**As bird flu spreads in cows, fractured U.S. response has echoes of early covid**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/25/yemens-houthis-launch-attacks-on-us-israeli-vessels-as-warships-defend).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/04/25/bird-flu-cows-government-response/).
 
 ## Requirements
 - Python 3.8
