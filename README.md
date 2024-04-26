@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anglo American receives BHP buyout proposal, could reshape copper market**
+**Challengers: Zendaya and her tennis boys teach us a lesson about the sport**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/).
+You can read more about it [here](https://theathletic.com/5436759/2024/04/25/challengers-film-zendaya-tennis/).
 
 ## Requirements
 - Python 3.8
