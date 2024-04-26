@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What consumers should know about the milk testing positive for bird flu**
+**Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula (image)**
 
-You can read more about it [here](https://www.npr.org/2024/04/24/1246981323/bird-flu-virus-milk-safe).
+You can read more about it [here](https://www.space.com/hubble-34-anniversary-dumbbell-nebula).
 
 ## Requirements
 - Python 3.8
