@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's final 2024 NFL Mock Draft: Giants trade up for Drake Maye; Vikings let QB come to them**
+**Dow tumbles over 400 points as new inflation fears dent hopes of Fed rate cut**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/priscos-final-2024-nfl-mock-draft-giants-trade-up-for-drake-maye-vikings-let-qb-come-to-them/).
+You can read more about it [here](https://nypost.com/2024/04/25/business/dow-tumbles-nearly-700-points-as-new-inflation-fears-dent-hopes-of-fed-rate-cut/).
 
 ## Requirements
 - Python 3.8
