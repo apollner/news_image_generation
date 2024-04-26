@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Tabloid publisher David Pecker continues testimony**
+**Analysis | More details in the national conspiracy to overturn the 2020 election**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-trial-national-enquirer-1dd3c3111febf219bdf1d8627504a3c5).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/04/25/trump-election-2020/).
 
 ## Requirements
 - Python 3.8
