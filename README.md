@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Seinfeld, Jim Gaffigan team up in new comedy “Unfrosted”**
+**Dow falls by 450 points after GDP report**
 
-You can read more about it [here](https://www.youtube.com/watch?v=GpqntZH5vHM).
+You can read more about it [here](https://www.cnn.com/2024/04/25/markets/wall-street-reaction-gdp-report/index.html).
 
 ## Requirements
 - Python 3.8
