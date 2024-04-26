@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow tumbles over 400 points as new inflation fears dent hopes of Fed rate cut**
+**Can an online library of classic video games ever be legal?**
 
-You can read more about it [here](https://nypost.com/2024/04/25/business/dow-tumbles-nearly-700-points-as-new-inflation-fears-dent-hopes-of-fed-rate-cut/).
+You can read more about it [here](https://arstechnica.com/gaming/2024/04/can-an-online-library-of-classic-video-games-ever-be-legal/).
 
 ## Requirements
 - Python 3.8
