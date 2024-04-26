@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Analysis | More details in the national conspiracy to overturn the 2020 election**
+**Qualcomm says lower-end Snapdragon X Plus chips can still outrun Apple's M3**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/04/25/trump-election-2020/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/04/qualcomm-preps-lower-end-snapdragon-x-plus-chips-to-compete-with-intel-and-apple/).
 
 ## Requirements
 - Python 3.8
