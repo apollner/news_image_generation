@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Heat sets franchise playoff record for 3-pointers during series-evening win over Celtics**
+**Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula (image)**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-heat-set-franchise-playoff-record-for-3-pointers-during-series-evening-win-over-celtics-013959086.html).
+You can read more about it [here](https://www.space.com/hubble-34-anniversary-dumbbell-nebula).
 
 ## Requirements
 - Python 3.8
