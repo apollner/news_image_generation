@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jerry Seinfeld, Jim Gaffigan team up in new comedy “Unfrosted”**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=GpqntZH5vHM).
 
 ## Requirements
 - Python 3.8
