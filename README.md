@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Arizona GOP lawmaker booted from committee after backing abortion ban repeal**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4619080-arizona-lawmakers-booted-committees-abortion-ban-repeal/).
 
 ## Requirements
 - Python 3.8
