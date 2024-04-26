@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.J. McCarthy is ‘Mitch Trubisky with a better coach,’ says Colin Cowherd**
+**Daniel Jeremiah 2024 NFL mock draft 4.0: Two trades; 49ers, Chiefs pick WRs to close Round 1**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/j-j-mccarthy-is-mitch-trubisky-with-a-better-coach-says-colin-cowherd).
+You can read more about it [here](https://www.nfl.com/news/daniel-jeremiah-2024-nfl-mock-draft-4-0).
 
 ## Requirements
 - Python 3.8
