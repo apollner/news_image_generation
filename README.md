@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeremy Hunt defends civil service job cuts to increase defence spending**
+**Judges from around the country say Trump can be held accountable for January 6. What will the Supreme Court say?**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68893859).
+You can read more about it [here](https://www.cnn.com/2024/04/24/politics/judges-trump-immunity-claims-january-6/index.html).
 
 ## Requirements
 - Python 3.8
