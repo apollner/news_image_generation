@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orbiter Spots "Spiders" on Surface of Mars**
+**[Removed]**
 
-You can read more about it [here](https://futurism.com/the-byte/orbiter-spots-spiders-surface-mars).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
