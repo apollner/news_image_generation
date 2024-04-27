@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: David Pecker testifies in Trump hush money trial**
+**Minnesota Vikings draft JJ McCarthy and Dallas Turner - Purple Daily**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-25-24/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=AZ3gXqknhmU).
 
 ## Requirements
 - Python 3.8
