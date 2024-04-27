@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three women contract HIV from dirty “vampire facials” at unlicensed spa**
+**Live updates: David Pecker testifies in Trump hush money trial**
 
-You can read more about it [here](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-25-24/index.html).
 
 ## Requirements
 - Python 3.8
