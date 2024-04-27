@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Not a draft shock? 3 teams tried trading into top 10 for Michael Penix Jr. before Falcons took QB, per report**
+**Sheriff's office dispels social media rumors about missing teen Mint Butterfield**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/not-a-draft-shock-3-teams-tried-trading-into-top-10-for-michael-penix-jr-before-falcons-took-qb-per-report/).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/sheriff-s-office-dispels-social-media-rumors-19424036.php).
 
 ## Requirements
 - Python 3.8
