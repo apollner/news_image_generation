@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Rounds 2 and 3 mock draft, by Dane Brugler: Rattler to Rams; nine more WRs selected**
+**Supreme Court conservatives' experience may influence view of Trump's immunity**
 
-You can read more about it [here](https://theathletic.com/5442081/2024/04/26/nfl-mock-draft-rounds-2-3/).
+You can read more about it [here](https://www.npr.org/2024/04/26/1247383537/trumps-immunity-arguments-supreme-court-conservatives).
 
 ## Requirements
 - Python 3.8
