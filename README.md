@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes give 2-emoji reaction to Chiefs trading up for record-breaking receiver**
+**Biden Administration Announces Historic New Security Assistance Package for Ukraine**
 
-You can read more about it [here](https://www.foxnews.com/sports/patrick-mahomes-give-2-emoji-reaction-chiefs-trading-up-record-breaking-receiver).
+You can read more about it [here](https://www.defense.gov/News/Releases/Release/Article/3757794/biden-administration-announces-historic-new-security-assistance-package-for-ukr/).
 
 ## Requirements
 - Python 3.8
