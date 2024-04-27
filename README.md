@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: Massive fire breaks out on historic Southern California pier**
+**Texas Gov criticized for employing state troopers against protesters**
 
-You can read more about it [here](https://www.foxnews.com/us/watch-massive-fire-historic-southern-california-pier).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/25/protests-texas-abbott-gaza/).
 
 ## Requirements
 - Python 3.8
