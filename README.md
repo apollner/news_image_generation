@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USC Cancels Main Graduation Ceremony as Arrests at Universities Pile Up**
+**NFL Draft 2024 first round recap: Caleb Williams leads six QBs picked in record offensive first round**
 
-You can read more about it [here](https://www.wsj.com/us-news/usc-university-of-texas-at-austin-columbia-arrests-pro-palestinian-protests-ac51fd18).
+You can read more about it [here](https://sports.yahoo.com/live/2024-nfl-draft-live-updates-picks-trades-grades-and-more-230040123.html).
 
 ## Requirements
 - Python 3.8
