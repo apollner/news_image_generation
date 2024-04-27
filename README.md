@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the Trump hush money trial: Ex-publisher details tabloid tactics**
+**Detroit Lions trade up, draft CB Terrion Arnold**
 
-You can read more about it [here](https://www.cnn.com/2024/04/25/politics/takeaways-trump-hush-money-trial-day-7/index.html).
+You can read more about it [here](https://www.detroitlions.com/news/lions-trade-up-draft-cornerback-terrion-arnold-2024-nfl-draft).
 
 ## Requirements
 - Python 3.8
