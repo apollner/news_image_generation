@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court conservatives' experience may influence view of Trump's immunity**
+**What to know about a possible Israeli military offensive in Rafah**
 
-You can read more about it [here](https://www.npr.org/2024/04/26/1247383537/trumps-immunity-arguments-supreme-court-conservatives).
+You can read more about it [here](https://www.npr.org/2024/04/26/1246857306/rafah-gaza-israel-military-offensive).
 
 ## Requirements
 - Python 3.8
