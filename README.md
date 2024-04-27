@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As some universities negotiate with pro-Palestinian protesters, others quickly call the police**
+**Not a draft shock? 3 teams tried trading into top 10 for Michael Penix Jr. before Falcons took QB, per report**
 
-You can read more about it [here](https://apnews.com/article/israel-palestine-war-campus-protests-e8a2e657e2614f94373beae602e9ba9d).
+You can read more about it [here](https://www.cbssports.com/nfl/news/not-a-draft-shock-3-teams-tried-trading-into-top-10-for-michael-penix-jr-before-falcons-took-qb-per-report/).
 
 ## Requirements
 - Python 3.8
