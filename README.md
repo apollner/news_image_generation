@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken says U.S. and China must avoid miscalculations as Beijing warns against 'red lines'**
+**Takeaways from the Trump hush money trial: Ex-publisher details tabloid tactics**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/26/us-china-blinken-stresses-need-to-avoid-miscalculations.html).
+You can read more about it [here](https://www.cnn.com/2024/04/25/politics/takeaways-trump-hush-money-trial-day-7/index.html).
 
 ## Requirements
 - Python 3.8
