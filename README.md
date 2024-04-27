@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Gov criticized for employing state troopers against protesters**
+**Three women contract HIV from dirty “vampire facials” at unlicensed spa**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/04/25/protests-texas-abbott-gaza/).
+You can read more about it [here](https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/).
 
 ## Requirements
 - Python 3.8
