@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft 2024 first round recap: Caleb Williams leads six QBs picked in record offensive first round**
+**Horoscope for Friday, April 26, 2024**
 
-You can read more about it [here](https://sports.yahoo.com/live/2024-nfl-draft-live-updates-picks-trades-grades-and-more-230040123.html).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/04/26/horoscopes-today-friday-april-26-2024).
 
 ## Requirements
 - Python 3.8
