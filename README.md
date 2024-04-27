@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sheriff's office dispels social media rumors about missing teen Mint Butterfield**
+**What to know about a possible Israeli military offensive in Rafah**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/sheriff-s-office-dispels-social-media-rumors-19424036.php).
+You can read more about it [here](https://www.npr.org/2024/04/26/1246857306/rafah-gaza-israel-military-offensive).
 
 ## Requirements
 - Python 3.8
