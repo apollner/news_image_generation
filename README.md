@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about a possible Israeli military offensive in Rafah**
+**Falcons GM Suggests Michael Penix Jr. Could Sit '4 or 5 Years' Behind Kirk Cousins**
 
-You can read more about it [here](https://www.npr.org/2024/04/26/1246857306/rafah-gaza-israel-military-offensive).
+You can read more about it [here](https://bleacherreport.com/articles/10118683-falcons-gm-suggests-michael-penix-jr-could-sit-4-or-5-years-behind-kirk-cousins).
 
 ## Requirements
 - Python 3.8
