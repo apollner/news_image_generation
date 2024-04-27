@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft bold predictions: Cowboys QB surprise, plus first-round ties QB record**
+**Google Earnings Handily Beat Wall Street Targets. Google Stock Dividend Approved.**
 
-You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-draft-bold-predictions-cowboys-qb-surprise-plus-first-round-ties-qb-record/).
+You can read more about it [here](https://www.investors.com/news/technology/google-earnings-google-stock-news-q12024/).
 
 ## Requirements
 - Python 3.8
