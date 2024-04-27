@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken says U.S. and China must avoid miscalculations as Beijing warns against 'red lines'**
+**As some universities negotiate with pro-Palestinian protesters, others quickly call the police**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/26/us-china-blinken-stresses-need-to-avoid-miscalculations.html).
+You can read more about it [here](https://apnews.com/article/israel-palestine-war-campus-protests-e8a2e657e2614f94373beae602e9ba9d).
 
 ## Requirements
 - Python 3.8
