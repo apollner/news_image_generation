@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New channel lets long-trapped ships escape from Baltimore Harbor**
+**Mortar attack on Gaza coast spotlights risk to U.S. pier mission**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/04/25/baltimore-channel-bridge-ships-escape/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/04/25/gaza-floating-pier/).
 
 ## Requirements
 - Python 3.8
