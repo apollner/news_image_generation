@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Vikings draft JJ McCarthy and Dallas Turner - Purple Daily**
+**Detroit Lions trade up in NFL draft, take cornerback Terrion Arnold from Alabama**
 
-You can read more about it [here](https://www.youtube.com/watch?v=AZ3gXqknhmU).
+You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2024/04/25/detroit-lions-trade-up-nfl-draft-terrion-arnold-alabama-football/73448043007/).
 
 ## Requirements
 - Python 3.8
