@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US announces $6 billion long-term military aid package for Ukraine**
+**TikTok will not be sold, Chinese parent ByteDance tells US**
 
-You can read more about it [here](https://www.cnn.com/2024/04/26/politics/us-long-term-military-aid-ukraine/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c289n8m4j19o).
 
 ## Requirements
 - Python 3.8
