@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alphabet stock surges on earnings beat, dividend announcement**
+**Columbia president faces key vote of censure from faculty as protests continue nationwide**
 
-You can read more about it [here](https://finance.yahoo.com/news/alphabet-stock-surges-on-earnings-beat-dividend-announcement-142011040.html).
+You can read more about it [here](https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html).
 
 ## Requirements
 - Python 3.8
