@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about a possible Israeli military offensive in Rafah**
+**NFL Rounds 2 and 3 mock draft, by Dane Brugler: Rattler to Rams; nine more WRs selected**
 
-You can read more about it [here](https://www.npr.org/2024/04/26/1246857306/rafah-gaza-israel-military-offensive).
+You can read more about it [here](https://theathletic.com/5442081/2024/04/26/nfl-mock-draft-rounds-2-3/).
 
 ## Requirements
 - Python 3.8
