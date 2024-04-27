@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbia president faces key vote of censure from faculty as protests continue nationwide**
+**Ravens Get High Grades for 'Home Run Pick' Nate Wiggins | Late for Work**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html).
+You can read more about it [here](https://www.baltimoreravens.com/news/nfl-draft-grades-baltimore-ravens-nate-wiggins-first-round-2024).
 
 ## Requirements
 - Python 3.8
