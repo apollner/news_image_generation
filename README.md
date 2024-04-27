@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens Get High Grades for 'Home Run Pick' Nate Wiggins | Late for Work**
+**Charges against Trump's 2020 'fake electors' are expected to deter a repeat this year**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/nfl-draft-grades-baltimore-ravens-nate-wiggins-first-round-2024).
+You can read more about it [here](https://apnews.com/article/fake-electors-trump-2020-arizona-indictments-059a719514b0c6cb56f7d7339e87d0d5).
 
 ## Requirements
 - Python 3.8
