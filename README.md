@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden Administration Announces Historic New Security Assistance Package for Ukraine**
+**US announces $6 billion long-term military aid package for Ukraine**
 
-You can read more about it [here](https://www.defense.gov/News/Releases/Release/Article/3757794/biden-administration-announces-historic-new-security-assistance-package-for-ukr/).
+You can read more about it [here](https://www.cnn.com/2024/04/26/politics/us-long-term-military-aid-ukraine/index.html).
 
 ## Requirements
 - Python 3.8
