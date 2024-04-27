@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortar attack on Gaza coast spotlights risk to U.S. pier mission**
+**USC Cancels Main Graduation Ceremony as Arrests at Universities Pile Up**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/04/25/gaza-floating-pier/).
+You can read more about it [here](https://www.wsj.com/us-news/usc-university-of-texas-at-austin-columbia-arrests-pro-palestinian-protests-ac51fd18).
 
 ## Requirements
 - Python 3.8
