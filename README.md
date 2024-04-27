@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophia Bush Confirms Relationship With Ashlyn Harris**
+**2024 NFL Draft bold predictions: Cowboys QB surprise, plus first-round ties QB record**
 
-You can read more about it [here](http://www.vulture.com/article/sopha-bush-girlfriend-ashlyn-harris.html).
+You can read more about it [here](https://www.cbssports.com/nfl/draft/news/2024-nfl-draft-bold-predictions-cowboys-qb-surprise-plus-first-round-ties-qb-record/).
 
 ## Requirements
 - Python 3.8
