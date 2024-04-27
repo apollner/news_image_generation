@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Vikings draft JJ McCarthy and Dallas Turner - Purple Daily**
+**New channel lets long-trapped ships escape from Baltimore Harbor**
 
-You can read more about it [here](https://www.youtube.com/watch?v=AZ3gXqknhmU).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/04/25/baltimore-channel-bridge-ships-escape/).
 
 ## Requirements
 - Python 3.8
