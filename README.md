@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions trade up, draft CB Terrion Arnold**
+**Blinken says U.S. and China must avoid miscalculations as Beijing warns against 'red lines'**
 
-You can read more about it [here](https://www.detroitlions.com/news/lions-trade-up-draft-cornerback-terrion-arnold-2024-nfl-draft).
+You can read more about it [here](https://www.cnbc.com/2024/04/26/us-china-blinken-stresses-need-to-avoid-miscalculations.html).
 
 ## Requirements
 - Python 3.8
