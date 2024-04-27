@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alphabet stock surges on earnings beat, dividend announcement**
+**Sophia Bush Confirms Relationship With Ashlyn Harris**
 
-You can read more about it [here](https://finance.yahoo.com/news/alphabet-stock-surges-on-earnings-beat-dividend-announcement-142011040.html).
+You can read more about it [here](http://www.vulture.com/article/sopha-bush-girlfriend-ashlyn-harris.html).
 
 ## Requirements
 - Python 3.8
