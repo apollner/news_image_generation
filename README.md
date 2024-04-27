@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poppy Harlow to Exit CNN**
+**Alphabet stock surges on earnings beat, dividend announcement**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/poppy-harlow-exit-cnn-this-morning-1235882319/).
+You can read more about it [here](https://finance.yahoo.com/news/alphabet-stock-surges-on-earnings-beat-dividend-announcement-142011040.html).
 
 ## Requirements
 - Python 3.8
