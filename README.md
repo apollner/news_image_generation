@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple releases eight small AI language models aimed at on-device use**
+**WATCH: Massive fire breaks out on historic Southern California pier**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/).
+You can read more about it [here](https://www.foxnews.com/us/watch-massive-fire-historic-southern-california-pier).
 
 ## Requirements
 - Python 3.8
