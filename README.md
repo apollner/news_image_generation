@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Earnings Handily Beat Wall Street Targets. Google Stock Dividend Approved.**
+**Apple releases eight small AI language models aimed at on-device use**
 
-You can read more about it [here](https://www.investors.com/news/technology/google-earnings-google-stock-news-q12024/).
+You can read more about it [here](https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/).
 
 ## Requirements
 - Python 3.8
