@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falcons GM Suggests Michael Penix Jr. Could Sit '4 or 5 Years' Behind Kirk Cousins**
+**Poppy Harlow to Exit CNN**
 
-You can read more about it [here](https://bleacherreport.com/articles/10118683-falcons-gm-suggests-michael-penix-jr-could-sit-4-or-5-years-behind-kirk-cousins).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/poppy-harlow-exit-cnn-this-morning-1235882319/).
 
 ## Requirements
 - Python 3.8
