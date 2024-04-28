@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falcons first-rounder Michael Penix Jr. says Kirk Cousins reached out to him following shocking selection**
+**Amid bird flu spread, experts reveal if it's safe to drink milk: 'Indirect concern'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/falcons-first-rounder-michael-penix-jr-says-kirk-cousins-reached-out-to-him-following-shocking-selection/).
+You can read more about it [here](https://www.foxnews.com/health/bird-flu-spread-experts-reveal-safe-drink-milk-indirect-concern).
 
 ## Requirements
 - Python 3.8
