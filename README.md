@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok will not be sold, Chinese parent ByteDance tells US**
+**Box Office: Zendaya's 'Challengers' Eyes $15 Million Opening Week**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c289n8m4j19o).
+You can read more about it [here](http://deadline.com/2024/04/box-office-challengers-zendaya-1235896116/).
 
 ## Requirements
 - Python 3.8
