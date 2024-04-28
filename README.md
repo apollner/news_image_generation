@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen’s Houthis damage oil tanker, shoot down US drone**
+**What you missed on Day 8 of Trump's trial: New witnesses and contact info for Stormy Daniels and Karen McDougal**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/27/yemens-houthis-damage-oil-tanker-shoot-down-us-drone).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/missed-day-8-trumps-trial-new-witnesses-contact-info-stormy-daniels-ka-rcna149608).
 
 ## Requirements
 - Python 3.8
