@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**#4 CLIPPERS at #5 MAVERICKS | FULL GAME 3 HIGHLIGHTS | April 26, 2024**
+**At Least 3 Women Contracted HIV After Getting "Vampire Facial" At Spa, US Health Body Finds**
 
-You can read more about it [here](https://www.youtube.com/watch?v=BkeaFGQCbwU).
+You can read more about it [here](https://www.ndtv.com/world-news/at-least-3-women-contracted-hiv-after-getting-vampire-facial-at-spa-us-health-body-finds-5533601).
 
 ## Requirements
 - Python 3.8
