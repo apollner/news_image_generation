@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Pro-Palestinian protests continue at colleges across the US**
+**Sonja Christopher Dies: Season 1 Contestant On ‘Survivor’ Was 87**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html).
+You can read more about it [here](http://deadline.com/2024/04/sonja-christopher-survivor-dead-season-one-contestant-was-87-obituary-1235897137/).
 
 ## Requirements
 - Python 3.8
