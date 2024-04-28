@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft is 'the highest quality company one can own': Analyst**
+**Falcons first-rounder Michael Penix Jr. says Kirk Cousins reached out to him following shocking selection**
 
-You can read more about it [here](https://finance.yahoo.com/video/microsoft-highest-quality-company-one-204119703.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/falcons-first-rounder-michael-penix-jr-says-kirk-cousins-reached-out-to-him-following-shocking-selection/).
 
 ## Requirements
 - Python 3.8
