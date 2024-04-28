@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Least 3 Women Contracted HIV After Getting "Vampire Facial" At Spa, US Health Body Finds**
+**South Dakota Gov. Kristi Noem defends book excerpt where she describes killing dog and goat**
 
-You can read more about it [here](https://www.ndtv.com/world-news/at-least-3-women-contracted-hiv-after-getting-vampire-facial-at-spa-us-health-body-finds-5533601).
+You can read more about it [here](https://www.cnn.com/2024/04/26/politics/kristi-noem-south-dakota-book-killing-dog/index.html).
 
 ## Requirements
 - Python 3.8
