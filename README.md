@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa Freedom Day: Did the 'get-out-of-jail' vote live up to the hype?**
+**A suspect is in custody after 5 people were shot outside a club in the nation's capital, police say**
 
-You can read more about it [here](https://www.bbc.com/news/world-africa-68896379).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/suspect-custody-after-5-people-shot-club-nations-109715345).
 
 ## Requirements
 - Python 3.8
