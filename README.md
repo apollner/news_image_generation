@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's Starliner spacecraft will not fly private missions yet, officials say**
+**Humza Yousaf reaches out to opponents ahead of no confidence votes**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-spacecraft-private-astronaut-nasa-focus).
+You can read more about it [here](https://www.bbc.com/news/articles/cjew59r2vj3o).
 
 ## Requirements
 - Python 3.8
