@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WI DHS identifies public locations where people may have been exposed to measles**
+**#4 CLIPPERS at #5 MAVERICKS | FULL GAME 3 HIGHLIGHTS | April 26, 2024**
 
-You can read more about it [here](https://www.wkow.com/news/top-stories/wi-dhs-identifies-public-locations-where-people-may-have-been-exposed-to-measles/article_c0dfa324-042a-11ef-be59-43053beec5fb.html).
+You can read more about it [here](https://www.youtube.com/watch?v=BkeaFGQCbwU).
 
 ## Requirements
 - Python 3.8
