@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Vampire facials' at unlicensed spa likely resulted in HIV infections: CDC**
+**Pentagon to 'rush' Patriot missiles to Ukraine in $6bn package**
 
-You can read more about it [here](https://www.foxnews.com/health/vampire-facials-unlicensed-spa-likely-resulted-hiv-infections-cdc).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68901820).
 
 ## Requirements
 - Python 3.8
