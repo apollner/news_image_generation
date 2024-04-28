@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars probe spots "spider" shapes in Martian Inca City**
+**Students at prestigious Paris university occupy campus building in pro-Palestinian protest**
 
-You can read more about it [here](https://www.salon.com/2024/04/26/mars-probe-spots-spider-shapes-in-martian-inca-city/).
+You can read more about it [here](https://apnews.com/article/france-paris-university-campus-protests-israel-palestinians-gaza-b2743b076ff31a8dbe74478a046c1379).
 
 ## Requirements
 - Python 3.8
