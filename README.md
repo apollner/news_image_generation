@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**30 years on, South Africa's dream of unity lies shattered**
+**[Removed]**
 
-You can read more about it [here](https://www.dw.com/en/30-years-on-south-africas-dream-of-unity-lies-shattered/a-68885744).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
