@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Least 3 Women Contracted HIV After Getting "Vampire Facial" At Spa, US Health Body Finds**
+**Harvey Weinstein cooling his heels in special Rikers cell after overturned rape conviction**
 
-You can read more about it [here](https://www.ndtv.com/world-news/at-least-3-women-contracted-hiv-after-getting-vampire-facial-at-spa-us-health-body-finds-5533601).
+You can read more about it [here](https://nypost.com/2024/04/26/us-news/harvey-weinstein-in-special-rikers-cell-after-overturned-rape-conviction/).
 
 ## Requirements
 - Python 3.8
