@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil tanker damaged in Houthi missile strike**
+**Brooks and Capehart on Supreme Court arguments over immunity for Trump**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68909912).
+You can read more about it [here](https://www.pbs.org/newshour/show/brooks-and-capehart-on-supreme-court-arguments-over-immunity-for-trump).
 
 ## Requirements
 - Python 3.8
