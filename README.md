@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pentagon to 'rush' Patriot missiles to Ukraine in $6bn package**
+**Boeing's Starliner spacecraft will not fly private missions yet, officials say**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68901820).
+You can read more about it [here](https://www.space.com/boeing-starliner-spacecraft-private-astronaut-nasa-focus).
 
 ## Requirements
 - Python 3.8
