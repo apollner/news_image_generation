@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Least 3 Women Contracted HIV After Getting "Vampire Facial" At Spa, US Health Body Finds**
+**Brooks and Capehart on Supreme Court arguments over immunity for Trump**
 
-You can read more about it [here](https://www.ndtv.com/world-news/at-least-3-women-contracted-hiv-after-getting-vampire-facial-at-spa-us-health-body-finds-5533601).
+You can read more about it [here](https://www.pbs.org/newshour/show/brooks-and-capehart-on-supreme-court-arguments-over-immunity-for-trump).
 
 ## Requirements
 - Python 3.8
