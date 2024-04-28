@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Iraqi TikTok star shot dead outside her Baghdad home**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/04/27/iraq-tiktok-om-fahad-baghdad/).
 
 ## Requirements
 - Python 3.8
