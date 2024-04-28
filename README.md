@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commanders select Rice WR Luke McCaffrey with final pick of third round**
+**Yemen’s Houthis damage oil tanker, shoot down US drone**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-select-rice-wr-luke-mccaffrey-with-final-pick-of-third-round).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/27/yemens-houthis-damage-oil-tanker-shoot-down-us-drone).
 
 ## Requirements
 - Python 3.8
