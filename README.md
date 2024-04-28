@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft: QB Jordan Travis, Florida State, Round 5, Pick 171**
+**[Removed]**
 
-You can read more about it [here](https://www.newyorkjets.com/news/jordan-travis-nfl-draft-quarterback-florida-state).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
