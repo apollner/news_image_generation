@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Zendaya's 'Challengers' Eyes $15 Million Opening Week**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/04/box-office-challengers-zendaya-1235896116/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
