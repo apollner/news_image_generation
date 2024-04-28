@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid bird flu spread, experts reveal if it's safe to drink milk: 'Indirect concern'**
+**Live updates: Pro-Palestinian protests continue at colleges across the US**
 
-You can read more about it [here](https://www.foxnews.com/health/bird-flu-spread-experts-reveal-safe-drink-milk-indirect-concern).
+You can read more about it [here](https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html).
 
 ## Requirements
 - Python 3.8
