@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Students at prestigious Paris university occupy campus building in pro-Palestinian protest**
+**Microsoft is 'the highest quality company one can own': Analyst**
 
-You can read more about it [here](https://apnews.com/article/france-paris-university-campus-protests-israel-palestinians-gaza-b2743b076ff31a8dbe74478a046c1379).
+You can read more about it [here](https://finance.yahoo.com/video/microsoft-highest-quality-company-one-204119703.html).
 
 ## Requirements
 - Python 3.8
