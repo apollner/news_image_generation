@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft trade tracker: Live updates, grades, analysis, draft order changes, Round 4-7 picks by team**
+**Boeing's Starliner spacecraft will not fly private missions yet, officials say**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-draft-trade-tracker-live-updates-grades-analysis-draft-order-changes-round-4-7-picks-by-team/live/).
+You can read more about it [here](https://www.space.com/boeing-starliner-spacecraft-private-astronaut-nasa-focus).
 
 ## Requirements
 - Python 3.8
