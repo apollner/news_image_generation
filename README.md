@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iraqi TikTok star shot dead outside her Baghdad home**
+**Democratic governors admonish Noem for shooting her dog by posing with their pets**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/04/27/iraq-tiktok-om-fahad-baghdad/).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4626019-gretchen-whitmer-phil-murphy-tim-walz-kristi-noem-social-media-dogs/).
 
 ## Requirements
 - Python 3.8
