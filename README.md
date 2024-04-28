@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brooks and Capehart on Supreme Court arguments over immunity for Trump**
+**WI DHS identifies public locations where people may have been exposed to measles**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/brooks-and-capehart-on-supreme-court-arguments-over-immunity-for-trump).
+You can read more about it [here](https://www.wkow.com/news/top-stories/wi-dhs-identifies-public-locations-where-people-may-have-been-exposed-to-measles/article_c0dfa324-042a-11ef-be59-43053beec5fb.html).
 
 ## Requirements
 - Python 3.8
