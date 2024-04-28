@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Democratic governors admonish Noem for shooting her dog by posing with their pets**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thehill.com/homenews/state-watch/4626019-gretchen-whitmer-phil-murphy-tim-walz-kristi-noem-social-media-dogs/).
 
 ## Requirements
 - Python 3.8
