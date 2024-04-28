@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A suspect is in custody after 5 people were shot outside a club in the nation's capital, police say**
+**'Vampire facials' at unlicensed spa likely resulted in HIV infections: CDC**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/suspect-custody-after-5-people-shot-club-nations-109715345).
+You can read more about it [here](https://www.foxnews.com/health/vampire-facials-unlicensed-spa-likely-resulted-hiv-infections-cdc).
 
 ## Requirements
 - Python 3.8
