@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Dakota Gov. Kristi Noem defends book excerpt where she describes killing dog and goat**
+**Commanders select Rice WR Luke McCaffrey with final pick of third round**
 
-You can read more about it [here](https://www.cnn.com/2024/04/26/politics/kristi-noem-south-dakota-book-killing-dog/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-select-rice-wr-luke-mccaffrey-with-final-pick-of-third-round).
 
 ## Requirements
 - Python 3.8
