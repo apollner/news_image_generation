@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Humza Yousaf reaches out to opponents ahead of no confidence votes**
+**2024 NFL Draft: QB Jordan Travis, Florida State, Round 5, Pick 171**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjew59r2vj3o).
+You can read more about it [here](https://www.newyorkjets.com/news/jordan-travis-nfl-draft-quarterback-florida-state).
 
 ## Requirements
 - Python 3.8
