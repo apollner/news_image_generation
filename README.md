@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch live: White House Correspondents’ dinner 2024**
+**Bob Bakish Exit: Shock Ripples Through CBS’ WHCD Party As Paramount CEO Set To Depart – “Who Knows What’s Next?”**
 
-You can read more about it [here](https://apnews.com/article/biden-white-house-correspondents-dinner-colin-jost-5843271c1d3a868d700cfc525ddc7f8d).
+You can read more about it [here](http://deadline.com/2024/04/bob-bakish-cbs-white-house-correspondents-dinner-paramount-global-1235897662/).
 
 ## Requirements
 - Python 3.8
