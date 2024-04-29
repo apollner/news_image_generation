@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Douglas County Health Department encourages tetanus vaccinations amid storm cleanup**
+**Patriots do a complete 180 at quarterback, and more notes from Day 3 of the NFL Draft**
 
-You can read more about it [here](https://www.ketv.com/article/the-douglas-county-health-department-encourages-tetanus-vaccinations-amid-storm-cleanup/60628549).
+You can read more about it [here](https://www.patspulpit.com/2024/4/28/24143559/nfl-draft-2024-patriots-notebook-analysis-complete-180-quarterback-maye-milton-jones-zappe).
 
 ## Requirements
 - Python 3.8
