@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Bakish Exit: Shock Ripples Through CBS’ WHCD Party As Paramount CEO Set To Depart – “Who Knows What’s Next?”**
+**The box office approves of the horny tennis movie**
 
-You can read more about it [here](http://deadline.com/2024/04/bob-bakish-cbs-white-house-correspondents-dinner-paramount-global-1235897662/).
+You can read more about it [here](https://www.avclub.com/weekend-box-office-challengers-unsung-hero-1851440931).
 
 ## Requirements
 - Python 3.8
