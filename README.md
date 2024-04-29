@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Briefing - Spurs 2 Arsenal 3: Quick start key again? What is Havertz? Were Spurs unlucky?**
+**New iOS 18 AI Security Move Changes The Game For All iPhone Users**
 
-You can read more about it [here](https://theathletic.com/5449194/2024/04/28/tottenham-arsenal-derby-havertz/).
+You can read more about it [here](https://www.forbes.com/sites/kateoflahertyuk/2024/04/28/new-ios-18-ai-security-move-changes-the-game-for-all-iphone-users/).
 
 ## Requirements
 - Python 3.8
