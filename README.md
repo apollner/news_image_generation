@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Houston Texans' Dell possibly injured in Florida mass shooting**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.floridatoday.com/story/news/crime/2024/04/28/cabana-live-sanford-florida-mass-shooting-bar/73491239007/).
 
 ## Requirements
 - Python 3.8
