@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Briefing - Spurs 2 Arsenal 3: Quick start key again? What is Havertz? Were Spurs unlucky?**
+**Harvey Weinstein hospitalized upon return to NYC jail**
 
-You can read more about it [here](https://theathletic.com/5449194/2024/04/28/tottenham-arsenal-derby-havertz/).
+You can read more about it [here](https://apnews.com/article/weinstein-hospital-rikers-bellevue-conviction-12b765ba6ec3b9522d2ff5ed46cc7af6).
 
 ## Requirements
 - Python 3.8
