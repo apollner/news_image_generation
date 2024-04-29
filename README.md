@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes devastate parts of Nebraska and Iowa with more coming**
+**Biden and Trump inch closer to debate stage**
 
-You can read more about it [here](https://apnews.com/article/tornado-midwest-nebraska-iowa-missouri-kansas-f12770a52d1644d88c1dea1b92bc9903).
+You can read more about it [here](https://www.cnn.com/2024/04/27/politics/biden-trump-debate-2024/index.html).
 
 ## Requirements
 - Python 3.8
