@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keith Siegel and Omri Miran: Video shows US and Israeli hostages alive in Gaza**
+**Apple's 'Let Loose' iPad event said to include a special event in London as well**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68913568).
+You can read more about it [here](https://9to5mac.com/2024/04/27/apples-let-loose-ipad-event-said-to-include-a-special-event-in-london-as-well/).
 
 ## Requirements
 - Python 3.8
