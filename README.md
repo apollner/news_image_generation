@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Train derailment at Arizona-New Mexico border, Interstate 40 closed**
+**Iraqi TikTokker shot dead outside home after Baghdad launched campaign against 'offensive' social media content**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/27/train-derailment-arizona-new-mexico-border/73485151007/).
+You can read more about it [here](https://nypost.com/2024/04/27/world-news/iraqi-tiktoker-shot-dead-outside-home-by-man-posing-as-delivery-driver-reports/).
 
 ## Requirements
 - Python 3.8
