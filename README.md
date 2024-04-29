@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado outbreak in Oklahoma prompts calls to take cover as the threat of severe storms continues from Missouri to Texas**
+**Elon Musk visits China as Tesla seeks self-driving technology rollout**
 
-You can read more about it [here](https://www.cnn.com/2024/04/28/weather/plains-midwest-storms-tornadoes-climate-sunday/index.html).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/).
 
 ## Requirements
 - Python 3.8
