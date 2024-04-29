@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The box office approves of the horny tennis movie**
+**Harvey Weinstein hospitalised after conviction overturned**
 
-You can read more about it [here](https://www.avclub.com/weekend-box-office-challengers-unsung-hero-1851440931).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68913116).
 
 ## Requirements
 - Python 3.8
