@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Labriola on the Steelers' 2024 Draft Class**
+**[Removed]**
 
-You can read more about it [here](https://www.steelers.com/news/labriola-on-the-steelers-2024-draft-class).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
