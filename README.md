@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvey Weinstein hospitalized upon return to NYC jail**
+**Musk Courts Chinese Officials to Seek Approval for Tesla's Self-Driving Technology**
 
-You can read more about it [here](https://apnews.com/article/weinstein-hospital-rikers-bellevue-conviction-12b765ba6ec3b9522d2ff5ed46cc7af6).
+You can read more about it [here](https://www.wsj.com/tech/musk-courts-chinese-officials-seeking-approval-for-teslas-self-driving-technology-f4094201).
 
 ## Requirements
 - Python 3.8
