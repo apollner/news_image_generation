@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Baby Reindeer': Woman outed as alleged stalker may sue Netflix creator**
+**The Briefing - Spurs 2 Arsenal 3: Quick start key again? What is Havertz? Were Spurs unlucky?**
 
-You can read more about it [here](https://www.businessinsider.com/baby-reindeer-real-stalker-considering-legal-action-against-richard-gadd-2024-4).
+You can read more about it [here](https://theathletic.com/5449194/2024/04/28/tottenham-arsenal-derby-havertz/).
 
 ## Requirements
 - Python 3.8
