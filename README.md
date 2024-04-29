@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, April 28, 2024**
+**Hollywood producer Harvey Weinstein in hospital after conviction overturned**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/04/28/horoscopes-today-sunday-april-28-2024).
+You can read more about it [here](https://www.aljazeera.com/news/2024/4/28/hollywood-producer-harvey-weinstein-in-hospital-after-conviction-overturned).
 
 ## Requirements
 - Python 3.8
