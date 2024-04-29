@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patriots do a complete 180 at quarterback, and more notes from Day 3 of the NFL Draft**
+**NFL draft 2024 undrafted free agents: UDFA tracker, signings, Washington Commanders rumors**
 
-You can read more about it [here](https://www.patspulpit.com/2024/4/28/24143559/nfl-draft-2024-patriots-notebook-analysis-complete-180-quarterback-maye-milton-jones-zappe).
+You can read more about it [here](https://www.hogshaven.com/2024/4/27/24140087/nfl-draft-2024-undrafted-free-agents-udfa-tracker-signings-washington-commanders-rumors).
 
 ## Requirements
 - Python 3.8
