@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats are worried. But will RFK Jr take more votes away from Trump?**
+**The Douglas County Health Department encourages tetanus vaccinations amid storm cleanup**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893186).
+You can read more about it [here](https://www.ketv.com/article/the-douglas-county-health-department-encourages-tetanus-vaccinations-amid-storm-cleanup/60628549).
 
 ## Requirements
 - Python 3.8
