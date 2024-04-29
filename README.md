@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden swings at Trump during White House Correspondents’ Dinner remarks as pro-Palestinian protesters rally outside**
+**'Baby Reindeer': Woman outed as alleged stalker may sue Netflix creator**
 
-You can read more about it [here](https://www.cnn.com/2024/04/27/politics/joe-biden-white-house-correspondents-dinner/index.html).
+You can read more about it [here](https://www.businessinsider.com/baby-reindeer-real-stalker-considering-legal-action-against-richard-gadd-2024-4).
 
 ## Requirements
 - Python 3.8
