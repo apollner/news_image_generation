@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iraqi TikTokker shot dead outside home after Baghdad launched campaign against 'offensive' social media content**
+**Tornadoes devastate parts of Nebraska and Iowa with more coming**
 
-You can read more about it [here](https://nypost.com/2024/04/27/world-news/iraqi-tiktoker-shot-dead-outside-home-by-man-posing-as-delivery-driver-reports/).
+You can read more about it [here](https://apnews.com/article/tornado-midwest-nebraska-iowa-missouri-kansas-f12770a52d1644d88c1dea1b92bc9903).
 
 ## Requirements
 - Python 3.8
