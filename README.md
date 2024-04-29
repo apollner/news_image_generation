@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian missiles pound power plants in central and western Ukraine**
+**Watch live: White House Correspondents’ dinner 2024**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-hits-ukrainian-energy-facilities-three-regions-kyiv-says-2024-04-27/).
+You can read more about it [here](https://apnews.com/article/biden-white-house-correspondents-dinner-colin-jost-5843271c1d3a868d700cfc525ddc7f8d).
 
 ## Requirements
 - Python 3.8
