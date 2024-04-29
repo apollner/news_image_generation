@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft: Final quick-snap grades for all 32 teams**
+**LAPD issues city-wide tactical alert due to disturbance at USC campus**
 
-You can read more about it [here](https://www.nfl.com/news/2024-nfl-draft-final-quick-snap-grades-for-all-32-teams).
+You can read more about it [here](https://ktla.com/news/local-news/lapd-issues-city-wide-tactical-alert-due-to-disturbance-at-usc-campus/).
 
 ## Requirements
 - Python 3.8
