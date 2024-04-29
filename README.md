@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk visits China as Tesla seeks self-driving technology rollout**
+**Democrats are worried. But will RFK Jr take more votes away from Trump?**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893186).
 
 ## Requirements
 - Python 3.8
