@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's 'Let Loose' iPad event said to include a special event in London as well**
+**2024 NFL Draft: Final quick-snap grades for all 32 teams**
 
-You can read more about it [here](https://9to5mac.com/2024/04/27/apples-let-loose-ipad-event-said-to-include-a-special-event-in-london-as-well/).
+You can read more about it [here](https://www.nfl.com/news/2024-nfl-draft-final-quick-snap-grades-for-all-32-teams).
 
 ## Requirements
 - Python 3.8
