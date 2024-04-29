@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hollywood producer Harvey Weinstein in hospital after conviction overturned**
+**NFL Draft 2024 winners and losers: Eagles, Steelers stand out; why did Raiders pass on QB?**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/4/28/hollywood-producer-harvey-weinstein-in-hospital-after-conviction-overturned).
+You can read more about it [here](https://theathletic.com/5454665/2024/04/27/winners-losers-nfl-draft-2024/).
 
 ## Requirements
 - Python 3.8
