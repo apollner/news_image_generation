@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College campus protests against Israel-Hamas war continue**
+**Russian missiles pound power plants in central and western Ukraine**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinian-campus-student-protests-war-2ab919ad849c50c9d177a32c0309bd1e).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-hits-ukrainian-energy-facilities-three-regions-kyiv-says-2024-04-27/).
 
 ## Requirements
 - Python 3.8
