@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The box office approves of the horny tennis movie**
+**Keith Siegel and Omri Miran: Video shows US and Israeli hostages alive in Gaza**
 
-You can read more about it [here](https://www.avclub.com/weekend-box-office-challengers-unsung-hero-1851440931).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68913568).
 
 ## Requirements
 - Python 3.8
