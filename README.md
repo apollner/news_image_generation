@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL draft 2024 undrafted free agents: UDFA tracker, signings, Washington Commanders rumors**
+**At least 3 killed in Oklahoma tornado outbreak, as threat of severe storms continues from Missouri to Texas**
 
-You can read more about it [here](https://www.hogshaven.com/2024/4/27/24140087/nfl-draft-2024-undrafted-free-agents-udfa-tracker-signings-washington-commanders-rumors).
+You can read more about it [here](https://www.cnn.com/2024/04/28/weather/plains-midwest-storms-tornadoes-climate-sunday/index.html).
 
 ## Requirements
 - Python 3.8
