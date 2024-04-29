@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New iOS 18 AI Security Move Changes The Game For All iPhone Users**
+**Bucks' Giannis Antetokounmpo, Damian Lillard out for Game 4**
 
-You can read more about it [here](https://www.forbes.com/sites/kateoflahertyuk/2024/04/28/new-ios-18-ai-security-move-changes-the-game-for-all-iphone-users/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40043869/bucks-giannis-antetokounmpo-damian-lillard-game-4).
 
 ## Requirements
 - Python 3.8
