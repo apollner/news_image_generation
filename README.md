@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tornado outbreak in Oklahoma prompts calls to take cover as the threat of severe storms continues from Missouri to Texas**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/04/28/weather/plains-midwest-storms-tornadoes-climate-sunday/index.html).
 
 ## Requirements
 - Python 3.8
