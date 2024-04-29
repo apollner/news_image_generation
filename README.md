@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stephen A. FULLY EXPECTS a NEW INTENSITY for Knicks vs. 76ers 🍿 | NBA Countdown**
+**Democrats are worried. But will RFK Jr take more votes away from Trump?**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bGg5NwIfiOA).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893186).
 
 ## Requirements
 - Python 3.8
