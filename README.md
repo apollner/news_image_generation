@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk Courts Chinese Officials to Seek Approval for Tesla's Self-Driving Technology**
+**The Briefing - Spurs 2 Arsenal 3: Quick start key again? What is Havertz? Were Spurs unlucky?**
 
-You can read more about it [here](https://www.wsj.com/tech/musk-courts-chinese-officials-seeking-approval-for-teslas-self-driving-technology-f4094201).
+You can read more about it [here](https://theathletic.com/5449194/2024/04/28/tottenham-arsenal-derby-havertz/).
 
 ## Requirements
 - Python 3.8
