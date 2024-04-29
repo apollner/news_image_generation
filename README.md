@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'You can't shoot your dog and then be VP:' Dems, GOP bash Kristi Noem over memoir**
+**Train derailment at Arizona-New Mexico border, Interstate 40 closed**
 
-You can read more about it [here](https://www.politico.com/news/2024/04/27/dems-gop-bash-kristi-noem-memoir-00154789).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/27/train-derailment-arizona-new-mexico-border/73485151007/).
 
 ## Requirements
 - Python 3.8
