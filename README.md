@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk flies to Beijing as Tesla struggles to fend off Chinese rivals**
+**Biden swings at Trump during White House Correspondents’ Dinner remarks as pro-Palestinian protesters rally outside**
 
-You can read more about it [here](https://www.ft.com/content/8211f79e-b9aa-4635-8c61-56a617d59713).
+You can read more about it [here](https://www.cnn.com/2024/04/27/politics/joe-biden-white-house-correspondents-dinner/index.html).
 
 ## Requirements
 - Python 3.8
