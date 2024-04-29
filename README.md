@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats are worried. But will RFK Jr take more votes away from Trump?**
+**Horoscope for Sunday, April 28, 2024**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68893186).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/04/28/horoscopes-today-sunday-april-28-2024).
 
 ## Requirements
 - Python 3.8
