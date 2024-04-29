@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucks' Giannis Antetokounmpo, Damian Lillard out for Game 4**
+**Stephen A. FULLY EXPECTS a NEW INTENSITY for Knicks vs. 76ers 🍿 | NBA Countdown**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40043869/bucks-giannis-antetokounmpo-damian-lillard-game-4).
+You can read more about it [here](https://www.youtube.com/watch?v=bGg5NwIfiOA).
 
 ## Requirements
 - Python 3.8
