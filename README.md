@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French actor Gérard Depardieu in custody over sexual assault allegations**
+**FDA Takes Action Aimed at Helping to Ensure the Safety and Effectiveness of Laboratory Developed Tests**
 
-You can read more about it [here](https://www.bbc.com/news/world-europe-68920563).
+You can read more about it [here](https://www.fda.gov/news-events/press-announcements/fda-takes-action-aimed-helping-ensure-safety-and-effectiveness-laboratory-developed-tests).
 
 ## Requirements
 - Python 3.8
