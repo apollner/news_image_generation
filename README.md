@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senior US, French officials in Middle East seeking to ease Gaza war**
+**Jalen Brunson is finding space, eluding defenders and scoring: 'That's our engine'**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/us-secretary-state-antony-blinken-arrives-saudi-arabia-2024-04-29/).
+You can read more about it [here](https://theathletic.com/5456391/2024/04/28/jalen-brunson-knicks-space-76ers-playoffs/).
 
 ## Requirements
 - Python 3.8
