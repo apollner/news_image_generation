@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Ezekiel Elliott, Cowboys expected to agree to deal**
+**Ford’s BlueCruise hands-free system under investigation after fatal crashes**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40048762/sources-ezekiel-elliott-cowboys-expected-agree-deal).
+You can read more about it [here](https://techcrunch.com/2024/04/29/ford-bluecruise-investigation-nhtsa-fatal-crashes/).
 
 ## Requirements
 - Python 3.8
