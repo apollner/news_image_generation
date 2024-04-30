@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boomer Esiason, Phil Simms are out at 'The NFL Today,' Matt Ryan is in**
+**Columbia University threatens to suspend students who don't clear out of protest camp**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/29/boomer-esiason-phil-simms-out-nfl-today/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/columbia-university-president-says-negotiations-protesters-stalled-sch-rcna149755).
 
 ## Requirements
 - Python 3.8
