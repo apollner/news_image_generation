@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft grades for every team: Eagles, Patriots, Chiefs deliver; Cowboys, Panthers receive poor marks**
+**Suzanne Morphew, mother who went missing on bike ride, died by homicide: Autopsy**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-draft-grades-for-every-team-eagles-patriots-chiefs-deliver-cowboys-panthers-receive-poor-marks/).
+You can read more about it [here](https://abcnews.go.com/US/suzanne-morphew-mother-missing-bike-ride-died-homicide/story?id=109750733).
 
 ## Requirements
 - Python 3.8
