@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL undrafted free agent tracker: Full team-by-team list of player signings following NFL Draft**
+**The sun is super active right now. Here's how it can affect electronics on Earth**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-undrafted-free-agent-tracker-full-team-by-team-list-of-player-signings-following-nfl-draft/).
+You can read more about it [here](https://www.pbs.org/newshour/show/the-sun-is-super-active-right-now-heres-how-it-can-affect-electronics-on-earth).
 
 ## Requirements
 - Python 3.8
