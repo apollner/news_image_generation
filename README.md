@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount CEO Bob Bakish expected to resign after clashing with Shari Redstone: reports**
+**The Details Are Unreal in New Webb Image of Famous Horsehead Nebula**
 
-You can read more about it [here](https://nypost.com/2024/04/29/media/paramount-ceo-bob-bakish-expected-to-resign-reports/).
+You can read more about it [here](https://gizmodo.com/details-unreal-new-webb-image-horsehead-nebula-1851442544).
 
 ## Requirements
 - Python 3.8
