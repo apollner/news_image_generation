@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zach Bryan helps Elkhorn community clean up tornado damage**
+**Philippines' 'dangerous' heat prompts shift to online classes, power crunch**
 
-You can read more about it [here](https://www.ketv.com/article/popular-country-singer-zach-bryan-helps-elkhorn-community-clean-up-tornado-damage/60628648).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/philippines-dangerous-heat-prompts-shift-online-classes-power-crunch-2024-04-29/).
 
 ## Requirements
 - Python 3.8
