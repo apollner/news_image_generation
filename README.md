@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suzanne Morphew, mother who went missing on bike ride, died by homicide: Autopsy**
+**New York DA Sandra Doorley apologizes after body cam captures tense exchange with officer**
 
-You can read more about it [here](https://abcnews.go.com/US/suzanne-morphew-mother-missing-bike-ride-died-homicide/story?id=109750733).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/04/29/ny-district-attorney-sandra-doorley-traffic-stop-apology-video/73498620007/).
 
 ## Requirements
 - Python 3.8
