@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford’s BlueCruise hands-free system under investigation after fatal crashes**
+**French actor Gérard Depardieu in custody over sexual assault allegations**
 
-You can read more about it [here](https://techcrunch.com/2024/04/29/ford-bluecruise-investigation-nhtsa-fatal-crashes/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-68920563).
 
 ## Requirements
 - Python 3.8
