@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Bieber Shares Pictures of Himself Crying, Hailey Bieber Responds**
+**Musk makes surprise visit to Beijing as Tesla's China-made cars pass data security rules**
 
-You can read more about it [here](https://www.tmz.com/2024/04/28/justin-bieber-crying-share-himself-tears-instagram-hailey-bieber-response/).
+You can read more about it [here](https://www.cnbc.com/2024/04/29/musk-visits-beijing-as-teslas-china-made-cars-pass-security-rules.html).
 
 ## Requirements
 - Python 3.8
