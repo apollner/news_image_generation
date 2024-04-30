@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philips shares rocket 46% as firm settles U.S. respiratory device case**
+**Biggest 2024 NFL post-draft questions for all 32 teams**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/29/philips-shares-rocket-33percent-as-firm-settles-us-respiratory-device-case.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/page/postnfldraftquestions24/nfl-draft-2024-biggest-post-draft-questions-32-teams).
 
 ## Requirements
 - Python 3.8
