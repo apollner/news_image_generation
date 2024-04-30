@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Bieber Shares Pictures of Himself Crying, Hailey Bieber Responds**
+**USD/JPY drop gathers pace, now down to 157.21 on the day**
 
-You can read more about it [here](https://www.tmz.com/2024/04/28/justin-bieber-crying-share-himself-tears-instagram-hailey-bieber-response/).
+You can read more about it [here](https://www.forexlive.com/news/usdjpy-drop-gathers-pace-now-down-to-15721-on-the-day-20240429/).
 
 ## Requirements
 - Python 3.8
