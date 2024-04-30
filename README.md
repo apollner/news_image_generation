@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's M1 iPad Air Drops to New Low Price of $399.99 at Best Buy**
+**T-Mobile may raise 'older rate' plan prices in June**
 
-You can read more about it [here](https://www.macrumors.com/2024/04/29/m1-ipad-air-new-low-price/).
+You can read more about it [here](https://www.phonearena.com/news/t-mobile-older-rate-plan-prices-june_id157821).
 
 ## Requirements
 - Python 3.8
