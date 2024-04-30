@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa man dies from injuries after Friday's tornado in Minden, family members confirm**
+**Palestinian leader appeals to US to stop Israel's Rafah offensive**
 
-You can read more about it [here](https://www.ketv.com/article/iowa-man-dies-tornado-minden/60629213).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68916315).
 
 ## Requirements
 - Python 3.8
