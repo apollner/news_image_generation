@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian leader appeals to US to stop Israel's Rafah offensive**
+**Justin Bieber Shares Pictures of Himself Crying, Hailey Bieber Responds**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68916315).
+You can read more about it [here](https://www.tmz.com/2024/04/28/justin-bieber-crying-share-himself-tears-instagram-hailey-bieber-response/).
 
 ## Requirements
 - Python 3.8
