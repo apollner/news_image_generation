@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Rolling Stones announce opening acts of 2024 US tour**
+**Sources - Ezekiel Elliott, Cowboys expected to agree to deal**
 
-You can read more about it [here](https://www.9news.com/article/entertainment/music/colorado-music/rolling-stones-widespread-panic-colorado-tour/73-865d94e8-bb42-4a51-9b35-b1991f69684e).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40048762/sources-ezekiel-elliott-cowboys-expected-agree-deal).
 
 ## Requirements
 - Python 3.8
