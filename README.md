@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Challengers’ Stars Zendaya, Josh O’Connor & Mike Faist Talk Viral Churro Scene: “That Was My First Churro”**
+**Jalen Brunson is finding space, eluding defenders and scoring: 'That's our engine'**
 
-You can read more about it [here](http://deadline.com/2024/04/challengers-zendaya-josh-oconnor-mike-faist-viral-churro-scene-1235898100/).
+You can read more about it [here](https://theathletic.com/5456391/2024/04/28/jalen-brunson-knicks-space-76ers-playoffs/).
 
 ## Requirements
 - Python 3.8
