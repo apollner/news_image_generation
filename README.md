@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boomer Esiason, Phil Simms are out at 'The NFL Today,' Matt Ryan is in**
+**2024 NFL Draft grades for every team: Eagles, Patriots, Chiefs deliver; Cowboys, Panthers receive poor marks**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/29/boomer-esiason-phil-simms-out-nfl-today/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-draft-grades-for-every-team-eagles-patriots-chiefs-deliver-cowboys-panthers-receive-poor-marks/).
 
 ## Requirements
 - Python 3.8
