@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College protests: Anti-war protesters dig in even as universities, police take action**
+**Iowa man dies from injuries after Friday's tornado in Minden, family members confirm**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinian-campus-student-protests-war-cadbf05cf542c08dc3c664431b7a1f4f).
+You can read more about it [here](https://www.ketv.com/article/iowa-man-dies-tornado-minden/60629213).
 
 ## Requirements
 - Python 3.8
