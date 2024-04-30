@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**CDC says 3 women diagnosed with HIV after receiving 'vampire facial'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2024/04/29/1247739040/cdc-women-hiv-vampire-facials).
 
 ## Requirements
 - Python 3.8
