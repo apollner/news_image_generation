@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York DA Sandra Doorley apologizes after body cam captures tense exchange with officer**
+**Chiefs sign Travis Kelce to new contract that reportedly makes him highest-paid TE in NFL**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/04/29/ny-district-attorney-sandra-doorley-traffic-stop-apology-video/73498620007/).
+You can read more about it [here](https://sports.yahoo.com/chiefs-sign-travis-kelce-to-new-contract-that-reportedly-makes-him-highest-paid-te-in-nfl-222224332.html).
 
 ## Requirements
 - Python 3.8
