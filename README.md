@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philips shares rocket 46% as firm settles U.S. respiratory device case**
+**Mint Butterfield found safe in San Francisco, man arrested**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/29/philips-shares-rocket-33percent-as-firm-settles-us-respiratory-device-case.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/29/mint-butterfield-missing-found-safe-san-francisco/73496594007/).
 
 ## Requirements
 - Python 3.8
