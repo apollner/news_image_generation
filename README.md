@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbia University threatens to suspend students who don't clear out of protest camp**
+**Tesla stock surges on 'watershed' full self-driving approval in China**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/columbia-university-president-says-negotiations-protesters-stalled-sch-rcna149755).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-surges-on-watershed-full-self-driving-approval-in-china-171449770.html).
 
 ## Requirements
 - Python 3.8
