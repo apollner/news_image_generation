@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USD/JPY drop gathers pace, now down to 157.21 on the day**
+**‘Challengers’ Stars Zendaya, Josh O’Connor & Mike Faist Talk Viral Churro Scene: “That Was My First Churro”**
 
-You can read more about it [here](https://www.forexlive.com/news/usdjpy-drop-gathers-pace-now-down-to-15721-on-the-day-20240429/).
+You can read more about it [here](http://deadline.com/2024/04/challengers-zendaya-josh-oconnor-mike-faist-viral-churro-scene-1235898100/).
 
 ## Requirements
 - Python 3.8
