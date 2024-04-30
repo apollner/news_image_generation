@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live news: Yen plunges past ¥160 per dollar amid volatile trading on national holiday**
+**Justin Bieber Shares Pictures of Himself Crying, Hailey Bieber Responds**
 
-You can read more about it [here](https://www.ft.com/content/d4570074-7c69-4d8c-9abe-022a55d7876c).
+You can read more about it [here](https://www.tmz.com/2024/04/28/justin-bieber-crying-share-himself-tears-instagram-hailey-bieber-response/).
 
 ## Requirements
 - Python 3.8
