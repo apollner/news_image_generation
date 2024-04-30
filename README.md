@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC says 3 women diagnosed with HIV after receiving 'vampire facial'**
+**Zach Bryan helps Elkhorn community clean up tornado damage**
 
-You can read more about it [here](https://www.npr.org/2024/04/29/1247739040/cdc-women-hiv-vampire-facials).
+You can read more about it [here](https://www.ketv.com/article/popular-country-singer-zach-bryan-helps-elkhorn-community-clean-up-tornado-damage/60628648).
 
 ## Requirements
 - Python 3.8
