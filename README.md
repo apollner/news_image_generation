@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**T-Mobile may raise 'older rate' plan prices in June**
+**Paramount CEO Bob Bakish expected to resign after clashing with Shari Redstone: reports**
 
-You can read more about it [here](https://www.phonearena.com/news/t-mobile-older-rate-plan-prices-june_id157821).
+You can read more about it [here](https://nypost.com/2024/04/29/media/paramount-ceo-bob-bakish-expected-to-resign-reports/).
 
 ## Requirements
 - Python 3.8
