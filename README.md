@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The sun is super active right now. Here's how it can affect electronics on Earth**
+**Live news: Yen plunges past ¥160 per dollar amid volatile trading on national holiday**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/the-sun-is-super-active-right-now-heres-how-it-can-affect-electronics-on-earth).
+You can read more about it [here](https://www.ft.com/content/d4570074-7c69-4d8c-9abe-022a55d7876c).
 
 ## Requirements
 - Python 3.8
