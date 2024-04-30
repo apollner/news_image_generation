@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla stock surges on 'watershed' full self-driving approval in China**
+**Boomer Esiason, Phil Simms are out at 'The NFL Today,' Matt Ryan is in**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-surges-on-watershed-full-self-driving-approval-in-china-171449770.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/29/boomer-esiason-phil-simms-out-nfl-today/).
 
 ## Requirements
 - Python 3.8
