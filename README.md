@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla clears key regulatory hurdles for self-driving in China during Musk visit**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/china/boss-battery-giant-catl-visits-elon-musks-hotel-beijing-reuters-witness-2024-04-29/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
