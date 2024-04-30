@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Bieber Shares Pictures of Himself Crying, Hailey Bieber Responds**
+**2024 NFL undrafted free agent tracker: Full team-by-team list of player signings following NFL Draft**
 
-You can read more about it [here](https://www.tmz.com/2024/04/28/justin-bieber-crying-share-himself-tears-instagram-hailey-bieber-response/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-undrafted-free-agent-tracker-full-team-by-team-list-of-player-signings-following-nfl-draft/).
 
 ## Requirements
 - Python 3.8
