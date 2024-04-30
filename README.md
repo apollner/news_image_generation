@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA Takes Action Aimed at Helping to Ensure the Safety and Effectiveness of Laboratory Developed Tests**
+**Apple's M1 iPad Air Drops to New Low Price of $399.99 at Best Buy**
 
-You can read more about it [here](https://www.fda.gov/news-events/press-announcements/fda-takes-action-aimed-helping-ensure-safety-and-effectiveness-laboratory-developed-tests).
+You can read more about it [here](https://www.macrumors.com/2024/04/29/m1-ipad-air-new-low-price/).
 
 ## Requirements
 - Python 3.8
