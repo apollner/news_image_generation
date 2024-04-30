@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mint Butterfield found safe in San Francisco, man arrested**
+**The Rolling Stones announce opening acts of 2024 US tour**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/29/mint-butterfield-missing-found-safe-san-francisco/73496594007/).
+You can read more about it [here](https://www.9news.com/article/entertainment/music/colorado-music/rolling-stones-widespread-panic-colorado-tour/73-865d94e8-bb42-4a51-9b35-b1991f69684e).
 
 ## Requirements
 - Python 3.8
