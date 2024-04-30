@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina witnesses SpaceX spectacle: Launch ignites night sky**
+**Tesla stock surges on 'watershed' full self-driving approval in China**
 
-You can read more about it [here](https://www.wral.com/story/north-carolina-witnesses-spacex-spectacle-launch-ignites-night-sky/21403571/).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-surges-on-watershed-full-self-driving-approval-in-china-171449770.html).
 
 ## Requirements
 - Python 3.8
