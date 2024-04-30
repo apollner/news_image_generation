@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Details Are Unreal in New Webb Image of Famous Horsehead Nebula**
+**Boomer Esiason, Phil Simms are out at 'The NFL Today,' Matt Ryan is in**
 
-You can read more about it [here](https://gizmodo.com/details-unreal-new-webb-image-horsehead-nebula-1851442544).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/04/29/boomer-esiason-phil-simms-out-nfl-today/).
 
 ## Requirements
 - Python 3.8
