@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Brunson is finding space, eluding defenders and scoring: 'That's our engine'**
+**Trump and DeSantis privately meet after bruising primary fight**
 
-You can read more about it [here](https://theathletic.com/5456391/2024/04/28/jalen-brunson-knicks-space-76ers-playoffs/).
+You can read more about it [here](https://www.axios.com/2024/04/28/trump-desantis-meeting-miami-florida).
 
 ## Requirements
 - Python 3.8
