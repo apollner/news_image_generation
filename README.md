@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and DeSantis privately meet after bruising primary fight**
+**Philips shares rocket 46% as firm settles U.S. respiratory device case**
 
-You can read more about it [here](https://www.axios.com/2024/04/28/trump-desantis-meeting-miami-florida).
+You can read more about it [here](https://www.cnbc.com/2024/04/29/philips-shares-rocket-33percent-as-firm-settles-us-respiratory-device-case.html).
 
 ## Requirements
 - Python 3.8
