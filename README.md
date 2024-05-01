@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Endless Ocean is a simple, serene swim on the Switch**
+**Latest Pixel 8a leak reveals bigger battery and $499 starting price**
 
-You can read more about it [here](https://www.theverge.com/24144686/endless-ocean-luminous-review-nintendo-switch).
+You can read more about it [here](http://9to5google.com/2024/04/30/google-pixel-8a-price-battery-leak/).
 
 ## Requirements
 - Python 3.8
