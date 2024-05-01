@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlotte, NC shooting: 4 law enforcement officers killed as US Marshals Fugitive Task Force were serving warrant**
+**WWE Raw results, recap, grades: The 2024 WWE Draft concludes, CM Punk baits Drew McIntyre, Mahomes helps Paul**
 
-You can read more about it [here](https://www.cnn.com/2024/04/29/us/officers-shot-charlotte-north-carolina/index.html).
+You can read more about it [here](https://www.cbssports.com/wwe/news/wwe-raw-results-recap-grades-the-2024-wwe-draft-concludes-cm-punk-baits-drew-mcintyre-mahomes-helps-paul/live/).
 
 ## Requirements
 - Python 3.8
