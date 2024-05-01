@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Memo: Potential arrest warrant for Netanyahu gets pushback from White House**
+**Apple earnings: iPhone sales fuel 'relatively flat' expectations**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4630572-the-memo-potential-arrest-warrant-for-netanyahu-gets-pushback-from-white-house/).
+You can read more about it [here](https://finance.yahoo.com/video/apple-earnings-iphone-sales-fuel-204142741.html).
 
 ## Requirements
 - Python 3.8
