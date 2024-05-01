@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlotte, NC shooting: 4 law enforcement officers killed as US Marshals Fugitive Task Force were serving warrant**
+**The Memo: Potential arrest warrant for Netanyahu gets pushback from White House**
 
-You can read more about it [here](https://www.cnn.com/2024/04/29/us/officers-shot-charlotte-north-carolina/index.html).
+You can read more about it [here](https://thehill.com/homenews/administration/4630572-the-memo-potential-arrest-warrant-for-netanyahu-gets-pushback-from-white-house/).
 
 ## Requirements
 - Python 3.8
