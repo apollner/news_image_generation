@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas to consider ceasefire-hostage release proposal that Israeli sources say could avert Rafah invasion**
+**Charlotte, NC shooting: 4 law enforcement officers killed as US Marshals Fugitive Task Force were serving warrant**
 
-You can read more about it [here](https://www.cnn.com/2024/04/29/middleeast/hamas-israel-ceasefire-proposal-cairo-talks-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/04/29/us/officers-shot-charlotte-north-carolina/index.html).
 
 ## Requirements
 - Python 3.8
