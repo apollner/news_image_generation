@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Weather Service confirms 9 tornadoes from Arbor Day outbreak as of Monday afternoon**
+**[Removed]**
 
-You can read more about it [here](https://www.1011now.com/2024/04/29/national-weather-service-confirms-9-tornadoes-arbor-day-outbreak-monday-afternoon/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
