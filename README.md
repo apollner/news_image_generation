@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnson urges Biden to intervene in ICC's reported plan for Netanyahu arrest warrant**
+**Columbia suspends pro-Palestinian protesters after encampment talks stall**
 
-You can read more about it [here](https://www.foxnews.com/politics/johnson-biden-intervene-icc-reported-plan-netanyahu-arrest-warrant).
+You can read more about it [here](https://www.reuters.com/world/us/columbia-university-urges-pro-palestinian-protesters-disperse-after-failed-talks-2024-04-29/).
 
 ## Requirements
 - Python 3.8
