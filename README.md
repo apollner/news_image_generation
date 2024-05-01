@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**T. rex is at the center of a debate over dinosaur intelligence**
+**FTC challenges 'junk' patents held by 10 drugmakers, including for Novo Nordisk's Ozempic**
 
-You can read more about it [here](https://www.yahoo.com/news/t-rex-center-debate-over-142828509.html).
+You can read more about it [here](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html).
 
 ## Requirements
 - Python 3.8
