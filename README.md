@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest On Travis Kelce's Chiefs Contract**
+**HSBC Chief Quinn, architect of sweeping overhaul, announces surprise retirement**
 
-You can read more about it [here](https://www.profootballrumors.com/2024/04/latest-on-travis-kelces-chiefs-contract).
+You can read more about it [here](https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/).
 
 ## Requirements
 - Python 3.8
