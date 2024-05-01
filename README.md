@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protests disrupt colleges across the US: Live updates**
+**ICJ will rule on Nicaragua's ask for halt on German weapons sales to Israel**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html).
+You can read more about it [here](https://apnews.com/article/gaza-icj-nicaragua-germany-israel-9c4601a3749fb51ae77ca43cadde4c1a).
 
 ## Requirements
 - Python 3.8
