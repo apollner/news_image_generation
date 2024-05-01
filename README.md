@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlotte shooting suspect named after 4 officers killed in N.C.**
+**'He's one tough cookie': Jamal Murray has cemented himself as an all-time playoff performer**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/30/charlotte-police-shooting-suspect-named-updates/73509550007/).
+You can read more about it [here](https://theathletic.com/5459744/2024/04/30/jamal-murray-game-winner-lakers-nuggets-game-five/).
 
 ## Requirements
 - Python 3.8
