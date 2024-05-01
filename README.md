@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 8a US price leaked: Yay or nay?**
+**Pro-Palestinian protests disrupt colleges across the US: Live updates**
 
-You can read more about it [here](https://www.androidauthority.com/google-pixel-8a-us-price-leaked-3438608/).
+You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html).
 
 ## Requirements
 - Python 3.8
