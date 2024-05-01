@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tony Award nominations 2024: Updating list of nominees and analysis**
+**T. rex is at the center of a debate over dinosaur intelligence**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/04/30/tony-award-nominations-2024-list/).
+You can read more about it [here](https://www.yahoo.com/news/t-rex-center-debate-over-142828509.html).
 
 ## Requirements
 - Python 3.8
