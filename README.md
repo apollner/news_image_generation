@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Johnson urges Biden to intervene in ICC's reported plan for Netanyahu arrest warrant**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/politics/johnson-biden-intervene-icc-reported-plan-netanyahu-arrest-warrant).
 
 ## Requirements
 - Python 3.8
