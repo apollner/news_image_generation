@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbia suspends pro-Palestinian protesters after encampment talks stall**
+**Cats suffer H5N1 brain infections, blindness, death after drinking raw milk**
 
-You can read more about it [here](https://www.reuters.com/world/us/columbia-university-urges-pro-palestinian-protesters-disperse-after-failed-talks-2024-04-29/).
+You can read more about it [here](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/).
 
 ## Requirements
 - Python 3.8
