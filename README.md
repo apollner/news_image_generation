@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2-year-old boy dies after bounce house carried away by wind gusts in Arizona**
+**NFL Draft grades 2024: Former 10-year NFL veteran analyzes every team's draft class, reveals favorite picks**
 
-You can read more about it [here](https://abc7.com/2-year-old-boy-dies-after-bounce-house-carried-away-by-wind-gusts-in-arizona/14745362/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-draft-grades-2024-former-10-year-nfl-veteran-analyzes-every-teams-draft-class-reveals-favorite-picks/).
 
 ## Requirements
 - Python 3.8
