@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Raw results, recap, grades: The 2024 WWE Draft concludes, CM Punk baits Drew McIntyre, Mahomes helps Paul**
+**Anne Hathaway Shares She's 5 Years Sober**
 
-You can read more about it [here](https://www.cbssports.com/wwe/news/wwe-raw-results-recap-grades-the-2024-wwe-draft-concludes-cm-punk-baits-drew-mcintyre-mahomes-helps-paul/live/).
+You can read more about it [here](https://www.eonline.com/news/1400428/anne-hathaway-shares-shes-5-years-sober).
 
 ## Requirements
 - Python 3.8
