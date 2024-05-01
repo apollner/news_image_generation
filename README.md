@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Immigrant's $1.3B Powerball win spotlights the Iu Mien community**
+**Charlotte shooting suspect named after 4 officers killed in N.C.**
 
-You can read more about it [here](https://apnews.com/article/powerball-laos-iu-mien-cancer-vietnam-92a549defa843f2ed1ef1d4eecff8ed4).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/30/charlotte-police-shooting-suspect-named-updates/73509550007/).
 
 ## Requirements
 - Python 3.8
