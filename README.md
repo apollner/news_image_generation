@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret document says Iran security forces molested and killed teen protester**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68840881).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
