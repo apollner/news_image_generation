@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Logan Paul recognizes Patrick Mahomes during the second round: Raw, April 29, 2024**
+**Hamas to consider ceasefire-hostage release proposal that Israeli sources say could avert Rafah invasion**
 
-You can read more about it [here](https://www.youtube.com/watch?v=dmo4H0MdMXE).
+You can read more about it [here](https://www.cnn.com/2024/04/29/middleeast/hamas-israel-ceasefire-proposal-cairo-talks-intl/index.html).
 
 ## Requirements
 - Python 3.8
