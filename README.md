@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HSBC Chief Quinn, architect of sweeping overhaul, announces surprise retirement**
+**Immigrant's $1.3B Powerball win spotlights the Iu Mien community**
 
-You can read more about it [here](https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/).
+You can read more about it [here](https://apnews.com/article/powerball-laos-iu-mien-cancer-vietnam-92a549defa843f2ed1ef1d4eecff8ed4).
 
 ## Requirements
 - Python 3.8
