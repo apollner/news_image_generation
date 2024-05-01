@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya President Ruto orders the evacuation of riverside dwellings amid flooding**
+**‘Baby Reindeer’ Takes Over Netflix As Viewership For Richard Gadd’s Stalker Series Grows**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/04/30/kenya-floods-mai-mahiu/).
+You can read more about it [here](http://deadline.com/2024/04/baby-reindeer-viewership-tops-netflix-1235900123/).
 
 ## Requirements
 - Python 3.8
