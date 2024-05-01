@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTC challenges 'junk' patents held by 10 drugmakers, including for Novo Nordisk's Ozempic**
+**Tony Award nominations 2024: Updating list of nominees and analysis**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/04/30/tony-award-nominations-2024-list/).
 
 ## Requirements
 - Python 3.8
