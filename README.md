@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTC challenges 'junk' patents held by 10 drugmakers, including for Novo Nordisk's Ozempic**
+**Bird flu: What we know (and don’t) about its potential to cause a human pandemic**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/30/ftc-challenges-patents-held-by-drugmakers-including-for-ozempic.html).
+You can read more about it [here](https://www.vox.com/even-better/24145304/bird-flu-h5n1-avian-influenza-pandemic).
 
 ## Requirements
 - Python 3.8
