@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HSBC Chief Quinn, architect of sweeping overhaul, announces surprise retirement**
+**Secret document says Iran security forces molested and killed teen protester**
 
-You can read more about it [here](https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68840881).
 
 ## Requirements
 - Python 3.8
