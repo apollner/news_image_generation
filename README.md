@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'He's one tough cookie': Jamal Murray has cemented himself as an all-time playoff performer**
+**2-year-old boy dies after bounce house carried away by wind gusts in Arizona**
 
-You can read more about it [here](https://theathletic.com/5459744/2024/04/30/jamal-murray-game-winner-lakers-nuggets-game-five/).
+You can read more about it [here](https://abc7.com/2-year-old-boy-dies-after-bounce-house-carried-away-by-wind-gusts-in-arizona/14745362/).
 
 ## Requirements
 - Python 3.8
