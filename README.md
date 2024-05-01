@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla's Driverless Push in China Set to Meet Domestic Competition**
+**Latest On Travis Kelce's Chiefs Contract**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5VQs7hLJ6zQ).
+You can read more about it [here](https://www.profootballrumors.com/2024/04/latest-on-travis-kelces-chiefs-contract).
 
 ## Requirements
 - Python 3.8
