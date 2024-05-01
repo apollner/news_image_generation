@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spikes of flu virus in wastewater raise questions about spread of bird flu**
+**NBC Sports could buy back rights to iconic theme song 'Roundball Rock' if it airs NBA games again, composer John Tesh says**
 
-You can read more about it [here](https://www.cnn.com/2024/04/30/health/bird-flu-wastewater-cattle/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/04/30/nbc-could-buy-back-roundball-rock-rights-if-it-gets-nba-games-john-tesh-says.html).
 
 ## Requirements
 - Python 3.8
