@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A horse-shaped nebula gets its close-up in new photos by NASA's Webb telescope**
+**Charlotte, NC shooting: 4 law enforcement officers killed as US Marshals Fugitive Task Force were serving warrant**
 
-You can read more about it [here](https://apnews.com/article/nasa-james-webb-telescope-horsehead-nebula-be88e5a1fc018f2407536f1d6f6d3c10).
+You can read more about it [here](https://www.cnn.com/2024/04/29/us/officers-shot-charlotte-north-carolina/index.html).
 
 ## Requirements
 - Python 3.8
