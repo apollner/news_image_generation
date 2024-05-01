@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu: What we know (and don’t) about its potential to cause a human pandemic**
+**Spikes of flu virus in wastewater raise questions about spread of bird flu**
 
-You can read more about it [here](https://www.vox.com/even-better/24145304/bird-flu-h5n1-avian-influenza-pandemic).
+You can read more about it [here](https://www.cnn.com/2024/04/30/health/bird-flu-wastewater-cattle/index.html).
 
 ## Requirements
 - Python 3.8
