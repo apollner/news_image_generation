@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Baby Reindeer’ Takes Over Netflix As Viewership For Richard Gadd’s Stalker Series Grows**
+**Celtics' Kristaps Porzingis to miss time with calf strain**
 
-You can read more about it [here](http://deadline.com/2024/04/baby-reindeer-viewership-tops-netflix-1235900123/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40059123/kristaps-porzingis-calf-strain-heat-celtics-game-5).
 
 ## Requirements
 - Python 3.8
