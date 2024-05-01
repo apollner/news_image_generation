@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tesla's Driverless Push in China Set to Meet Domestic Competition**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=5VQs7hLJ6zQ).
 
 ## Requirements
 - Python 3.8
