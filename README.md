@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors say they will not retry George Alan Kelly, Arizona rancher accused of murder near the US-Mexico border**
+**HSBC Chief Quinn, architect of sweeping overhaul, announces surprise retirement**
 
-You can read more about it [here](https://www.cbsnews.com/news/george-alan-kelly-no-retrial-prosecutors-say-arizona/).
+You can read more about it [here](https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/).
 
 ## Requirements
 - Python 3.8
