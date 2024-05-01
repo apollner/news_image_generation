@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBC Sports could buy back rights to iconic theme song 'Roundball Rock' if it airs NBA games again, composer John Tesh says**
+**Kenya President Ruto orders the evacuation of riverside dwellings amid flooding**
 
-You can read more about it [here](https://www.cnbc.com/2024/04/30/nbc-could-buy-back-roundball-rock-rights-if-it-gets-nba-games-john-tesh-says.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/04/30/kenya-floods-mai-mahiu/).
 
 ## Requirements
 - Python 3.8
