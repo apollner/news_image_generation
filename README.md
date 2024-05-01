@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patch to protect against measles in children shows promise**
+**Hammerhead flatworm spotted in Ontario after giant toxic worm invades Quebec, U.S. states**
 
-You can read more about it [here](https://www.bbc.com/news/health-68921897).
+You can read more about it [here](https://www.cbsnews.com/news/hammerhead-flatworm-sightings-ontario-invasive-toxic/).
 
 ## Requirements
 - Python 3.8
