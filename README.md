@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Draft grades for all 16 NFC teams | NFL Draft**
+**Tony Award nominations 2024: Updating list of nominees and analysis**
 
-You can read more about it [here](https://www.pff.com/news/draft-grades-16-nfc-teams-nfl-2024).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/theater/2024/04/30/tony-award-nominations-2024-list/).
 
 ## Requirements
 - Python 3.8
