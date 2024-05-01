@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple earnings: iPhone sales fuel 'relatively flat' expectations**
+**Logan Paul recognizes Patrick Mahomes during the second round: Raw, April 29, 2024**
 
-You can read more about it [here](https://finance.yahoo.com/video/apple-earnings-iphone-sales-fuel-204142741.html).
+You can read more about it [here](https://www.youtube.com/watch?v=dmo4H0MdMXE).
 
 ## Requirements
 - Python 3.8
