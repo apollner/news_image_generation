@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Pixel 8a leak reveals bigger battery and $499 starting price**
+**2024 NFL Draft grades for all 16 NFC teams | NFL Draft**
 
-You can read more about it [here](http://9to5google.com/2024/04/30/google-pixel-8a-price-battery-leak/).
+You can read more about it [here](https://www.pff.com/news/draft-grades-16-nfc-teams-nfl-2024).
 
 ## Requirements
 - Python 3.8
