@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anne Hathaway Shares She's 5 Years Sober**
+**Prosecutors say they will not retry George Alan Kelly, Arizona rancher accused of murder near the US-Mexico border**
 
-You can read more about it [here](https://www.eonline.com/news/1400428/anne-hathaway-shares-shes-5-years-sober).
+You can read more about it [here](https://www.cbsnews.com/news/george-alan-kelly-no-retrial-prosecutors-say-arizona/).
 
 ## Requirements
 - Python 3.8
