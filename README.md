@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hammerhead flatworm spotted in Ontario after giant toxic worm invades Quebec, U.S. states**
+**A horse-shaped nebula gets its close-up in new photos by NASA's Webb telescope**
 
-You can read more about it [here](https://www.cbsnews.com/news/hammerhead-flatworm-sightings-ontario-invasive-toxic/).
+You can read more about it [here](https://apnews.com/article/nasa-james-webb-telescope-horsehead-nebula-be88e5a1fc018f2407536f1d6f6d3c10).
 
 ## Requirements
 - Python 3.8
