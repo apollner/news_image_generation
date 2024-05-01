@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft grades 2024: Former 10-year NFL veteran analyzes every team's draft class, reveals favorite picks**
+**Pixel 8a US price leaked: Yay or nay?**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-draft-grades-2024-former-10-year-nfl-veteran-analyzes-every-teams-draft-class-reveals-favorite-picks/).
+You can read more about it [here](https://www.androidauthority.com/google-pixel-8a-us-price-leaked-3438608/).
 
 ## Requirements
 - Python 3.8
