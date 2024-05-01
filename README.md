@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICJ will rule on Nicaragua's ask for halt on German weapons sales to Israel**
+**Endless Ocean is a simple, serene swim on the Switch**
 
-You can read more about it [here](https://apnews.com/article/gaza-icj-nicaragua-germany-israel-9c4601a3749fb51ae77ca43cadde4c1a).
+You can read more about it [here](https://www.theverge.com/24144686/endless-ocean-luminous-review-nintendo-switch).
 
 ## Requirements
 - Python 3.8
