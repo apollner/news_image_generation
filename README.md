@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Florida Atlantic star Johnell Davis commits to Arkansas**
+**iOS 18 rumor: New integration between Reminders and Calendar**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/40063962/former-florida-atlantic-star-johnell-davis-commits-arkansas).
+You can read more about it [here](https://9to5mac.com/2024/05/01/ios-18-rumored-to-add-deep-integration-between-calendar-and-reminders/).
 
 ## Requirements
 - Python 3.8
