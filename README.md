@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astros option José Abreu to rookie-level West Palm Beach**
+**Starbucks Earnings: Sales Fall Short as Challenges Mount - WSJ**
 
-You can read more about it [here](https://theathletic.com/5461810/2024/04/30/astros-jose-abreu-optioned/).
+You can read more about it [here](https://www.wsj.com/business/earnings/starbucks-sbux-q2-earnings-report-2024-1db1e1e6).
 
 ## Requirements
 - Python 3.8
