@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key GOP senator says Noem’s dog shooting story could hurt her with voters if Trump picks her as running mate**
+**Barbra Streisand publicly asks Melissa McCarthy about Ozempic, sparking debate on weight and shaming**
 
-You can read more about it [here](https://www.cnn.com/2024/04/30/politics/gop-senator-rounds-kristi-noem-dog-shooting-story/index.html).
+You can read more about it [here](https://abcnews.go.com/GMA/Wellness/barbra-streisand-publicly-asks-melissa-mccarthy-ozempic-sparking/story?id=109787134).
 
 ## Requirements
 - Python 3.8
