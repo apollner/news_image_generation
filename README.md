@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Florida Atlantic star Johnell Davis commits to Arkansas**
+**Federal Reserve issues FOMC statement**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/40063962/former-florida-atlantic-star-johnell-davis-commits-arkansas).
+You can read more about it [here](https://www.federalreserve.gov/newsevents/pressreleases/monetary20240501a.htm).
 
 ## Requirements
 - Python 3.8
