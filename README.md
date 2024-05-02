@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian conservatives wrestle with shifting GOP stance on Arizona abortion ban**
+**GOP-led Arizona Senate to vote on repealing 1864 abortion ban**
 
-You can read more about it [here](https://www.npr.org/2024/05/01/1248273158/christian-conservatives-wrestle-trump-kari-lake-arizona-abortion-ban).
+You can read more about it [here](https://www.cbsnews.com/news/arizona-abortion-ban-state-senate-repeal-vote/).
 
 ## Requirements
 - Python 3.8
