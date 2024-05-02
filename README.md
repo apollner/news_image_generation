@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP-led Arizona Senate to vote on repealing 1864 abortion ban**
+**May Day 2024: Workers and activists call for greater labor rights**
 
-You can read more about it [here](https://www.cbsnews.com/news/arizona-abortion-ban-state-senate-repeal-vote/).
+You can read more about it [here](https://apnews.com/article/may-day-rallies-labor-rights-workers-economy-0c8605802cb451061eeb71f83bdef5fa).
 
 ## Requirements
 - Python 3.8
