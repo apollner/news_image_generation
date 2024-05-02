@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**R.I.P. Cricket. Now It's Time to Talk About Kristi Noem's Goat.**
+**Tornado hits a Kansas town, leaving at least 1 dead and several hurt**
 
-You can read more about it [here](https://www.thedailybeast.com/rip-cricket-now-its-time-to-talk-about-kristi-noems-goat).
+You can read more about it [here](https://www.cnn.com/2024/04/30/weather/kansas-possible-tornado-death/index.html).
 
 ## Requirements
 - Python 3.8
