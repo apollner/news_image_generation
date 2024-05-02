@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado hits a Kansas town, leaving at least 1 dead and several hurt**
+**Lakers' LeBron James Undecided About His Future amid NBA Rumors After Playoff Exit**
 
-You can read more about it [here](https://www.cnn.com/2024/04/30/weather/kansas-possible-tornado-death/index.html).
+You can read more about it [here](https://bleacherreport.com/articles/10119343-lakers-lebron-james-undecided-about-his-future-amid-nba-rumors-after-playoff-exit).
 
 ## Requirements
 - Python 3.8
