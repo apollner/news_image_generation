@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Gosling and Mikey Day return as Beavis and Butt-Head at 'The Fall Guy' premiere**
+**China Releases CGI Video of Moon Base and It Contains Something Very Strange**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/05/01/ryan-gosling-mikey-day-beavis-butt-head-fall-guy-premiere/73524032007/).
+You can read more about it [here](https://futurism.com/the-byte/china-video-moon-base-space-shuttle).
 
 ## Requirements
 - Python 3.8
