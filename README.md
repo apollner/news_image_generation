@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird Flu in Raw Cow Milk Has Killed Farm Cats in a Concerning First**
+**Daniel Radcliffe Says J.K. Rowling’s Anti-Trans Stance ‘Makes Me Really Sad’ and Not Speaking Out Would Have Been ‘Immense Cowardice’: ‘I Wanted to Try and Help People’**
 
-You can read more about it [here](https://www.sciencealert.com/bird-flu-in-raw-cow-milk-has-killed-farm-cats-in-a-concerning-first).
+You can read more about it [here](https://variety.com/2024/film/global/daniel-radcliffe-jk-rowling-anti-trans-makes-me-really-sad-1235988334/).
 
 ## Requirements
 - Python 3.8
