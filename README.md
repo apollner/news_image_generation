@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Radcliffe Says J.K. Rowling’s Anti-Trans Stance ‘Makes Me Really Sad’ and Not Speaking Out Would Have Been ‘Immense Cowardice’: ‘I Wanted to Try and Help People’**
+**NFL Draft grades 2024: Former 10-year NFL veteran analyzes every team's draft class, reveals favorite picks**
 
-You can read more about it [here](https://variety.com/2024/film/global/daniel-radcliffe-jk-rowling-anti-trans-makes-me-really-sad-1235988334/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-draft-grades-2024-former-10-year-nfl-veteran-analyzes-every-teams-draft-class-reveals-favorite-picks/).
 
 ## Requirements
 - Python 3.8
