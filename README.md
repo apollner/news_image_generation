@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers' LeBron James Undecided About His Future amid NBA Rumors After Playoff Exit**
+**Key GOP senator says Noem’s dog shooting story could hurt her with voters if Trump picks her as running mate**
 
-You can read more about it [here](https://bleacherreport.com/articles/10119343-lakers-lebron-james-undecided-about-his-future-amid-nba-rumors-after-playoff-exit).
+You can read more about it [here](https://www.cnn.com/2024/04/30/politics/gop-senator-rounds-kristi-noem-dog-shooting-story/index.html).
 
 ## Requirements
 - Python 3.8
