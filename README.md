@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**May Day 2024: Workers and activists call for greater labor rights**
+**New Florida six-week abortion ban will be felt beyond the state**
 
-You can read more about it [here](https://apnews.com/article/may-day-rallies-labor-rights-workers-economy-0c8605802cb451061eeb71f83bdef5fa).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68925009).
 
 ## Requirements
 - Python 3.8
