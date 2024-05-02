@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Beats Solo Buds already sound like a better deal than AirPods 2**
+**Police clear pro-Palestinian protesters from Columbia University's Hamilton Hall**
 
-You can read more about it [here](https://9to5mac.com/2024/04/30/beats-solo-buds-vs-airpods-2/).
+You can read more about it [here](https://apnews.com/article/israel-palestinian-campus-student-protests-war-c6e5549532c85f13493daa22d0d143ac).
 
 ## Requirements
 - Python 3.8
