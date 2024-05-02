@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Releases CGI Video of Moon Base and It Contains Something Very Strange**
+**Former Florida Atlantic star Johnell Davis commits to Arkansas**
 
-You can read more about it [here](https://futurism.com/the-byte/china-video-moon-base-space-shuttle).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/40063962/former-florida-atlantic-star-johnell-davis-commits-arkansas).
 
 ## Requirements
 - Python 3.8
