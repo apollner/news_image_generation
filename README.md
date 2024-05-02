@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Amazing' Maxey's clutch late 3s lift Sixers over Knicks to force Game 6**
+**First failed asylum seeker sent to Rwanda under voluntary scheme**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40061591/amazing-maxey-late-burst-helps-76ers-stay-alive-ot-win-knicks).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-68932830).
 
 ## Requirements
 - Python 3.8
