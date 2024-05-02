@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Draft grades 2024: Former 10-year NFL veteran analyzes every team's draft class, reveals favorite picks**
+**At least 24 dead, dozens injured, after road collapses in southern China**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-draft-grades-2024-former-10-year-nfl-veteran-analyzes-every-teams-draft-class-reveals-favorite-picks/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/1/at-least-19-killed-dozens-injured-after-road-collapses-in-southern-china).
 
 ## Requirements
 - Python 3.8
