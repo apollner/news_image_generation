@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barbra Streisand publicly asks Melissa McCarthy about Ozempic, sparking debate on weight and shaming**
+**'Amazing' Maxey's clutch late 3s lift Sixers over Knicks to force Game 6**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Wellness/barbra-streisand-publicly-asks-melissa-mccarthy-ozempic-sparking/story?id=109787134).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40061591/amazing-maxey-late-burst-helps-76ers-stay-alive-ot-win-knicks).
 
 ## Requirements
 - Python 3.8
