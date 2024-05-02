@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's billion-dollar OpenAI investment was trigged by Google fears, emails reveal**
+**Endurance exercise affects all tissues of the body, even those not normally associated with movement**
 
-You can read more about it [here](https://www.theverge.com/2024/5/1/24146302/microsoft-openai-investment-google-worries-internal-emails).
+You can read more about it [here](https://www.nih.gov/news-events/news-releases/endurance-exercise-affects-all-tissues-body-even-those-not-normally-associated-movement).
 
 ## Requirements
 - Python 3.8
