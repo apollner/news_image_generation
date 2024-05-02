@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers' LeBron James Undecided About His Future amid NBA Rumors After Playoff Exit**
+**Daniel Radcliffe Responds to J.K. Rowling's Anti-Trans Rhetoric: 'It Makes Me Really Sad'**
 
-You can read more about it [here](https://bleacherreport.com/articles/10119343-lakers-lebron-james-undecided-about-his-future-amid-nba-rumors-after-playoff-exit).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/daniel-radcliffe-j-k-rowling-anti-trans-rhetoric-response-1235013076/).
 
 ## Requirements
 - Python 3.8
