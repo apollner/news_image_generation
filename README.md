@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Las Cruces Savers crash kills woman, injures 14 people**
+**Astros option José Abreu to rookie-level West Palm Beach**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/30/savers-las-cruces-crash-injures-15/73514793007/).
+You can read more about it [here](https://theathletic.com/5461810/2024/04/30/astros-jose-abreu-optioned/).
 
 ## Requirements
 - Python 3.8
