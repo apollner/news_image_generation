@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu vows to invade Rafah 'with or without a deal' as cease-fire talks with Hamas continue**
+**R.I.P. Cricket. Now It's Time to Talk About Kristi Noem's Goat.**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-04-30-2024-f5e14fd176d69f9c4e23b48f3ab5af6a).
+You can read more about it [here](https://www.thedailybeast.com/rip-cricket-now-its-time-to-talk-about-kristi-noems-goat).
 
 ## Requirements
 - Python 3.8
