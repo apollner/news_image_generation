@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Radcliffe Responds to J.K. Rowling's Anti-Trans Rhetoric: 'It Makes Me Really Sad'**
+**New Beats Solo Buds already sound like a better deal than AirPods 2**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/daniel-radcliffe-j-k-rowling-anti-trans-rhetoric-response-1235013076/).
+You can read more about it [here](https://9to5mac.com/2024/04/30/beats-solo-buds-vs-airpods-2/).
 
 ## Requirements
 - Python 3.8
