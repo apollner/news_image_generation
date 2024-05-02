@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iOS 18 rumor: New integration between Reminders and Calendar**
+**Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates**
 
-You can read more about it [here](https://9to5mac.com/2024/05/01/ios-18-rumored-to-add-deep-integration-between-calendar-and-reminders/).
+You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html).
 
 ## Requirements
 - Python 3.8
