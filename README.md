@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 24 dead, dozens injured, after road collapses in southern China**
+**Behind the Curtain: Listen to Trump**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/1/at-least-19-killed-dozens-injured-after-road-collapses-in-southern-china).
+You can read more about it [here](https://www.axios.com/2024/05/01/trump-second-term-time-magazine-interview).
 
 ## Requirements
 - Python 3.8
