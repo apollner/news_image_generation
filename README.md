@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Endurance exercise affects all tissues of the body, even those not normally associated with movement**
+**Tesla Is Pulling Back From EV Charging, and People Are Freaking Out**
 
-You can read more about it [here](https://www.nih.gov/news-events/news-releases/endurance-exercise-affects-all-tissues-body-even-those-not-normally-associated-movement).
+You can read more about it [here](https://www.wsj.com/business/autos/tesla-is-pulling-back-from-ev-charging-and-people-are-freaking-out-ee8e490c).
 
 ## Requirements
 - Python 3.8
