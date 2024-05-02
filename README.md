@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First failed asylum seeker sent to Rwanda under voluntary scheme**
+**Netanyahu vows to invade Rafah 'with or without a deal' as cease-fire talks with Hamas continue**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-68932830).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-04-30-2024-f5e14fd176d69f9c4e23b48f3ab5af6a).
 
 ## Requirements
 - Python 3.8
