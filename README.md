@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William Shares Update on Kate Middleton and Their 3 Kids Amid Her Cancer Battle**
+**Astros option José Abreu to rookie-level West Palm Beach**
 
-You can read more about it [here](https://www.eonline.com/news/1397956/prince-william-shares-update-on-kate-middleton-and-their-3-kids-amid-her-cancer-battle).
+You can read more about it [here](https://theathletic.com/5461810/2024/04/30/astros-jose-abreu-optioned/).
 
 ## Requirements
 - Python 3.8
