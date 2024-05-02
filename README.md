@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police clear pro-Palestinian protesters from Columbia University's Hamilton Hall**
+**76ers vs. Knicks: How Tyrese Maxey, Joel Embiid flipped script, found 'a way to survive' in season-saving win**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinian-campus-student-protests-war-c6e5549532c85f13493daa22d0d143ac).
+You can read more about it [here](https://www.cbssports.com/nba/news/76ers-vs-knicks-how-tyrese-maxey-joel-embiid-flipped-script-found-a-way-to-survive-in-season-saving-win/).
 
 ## Requirements
 - Python 3.8
