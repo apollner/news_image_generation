@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Tyrese Maxey leads frantic 76ers rally past Knicks to save season, stun Madison Square Garden**
+**Las Cruces Savers crash kills woman, injures 14 people**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-tyrese-maxey-leads-frantic-76ers-rally-past-knicks-to-save-season-stun-madison-square-garden-015639430.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/04/30/savers-las-cruces-crash-injures-15/73514793007/).
 
 ## Requirements
 - Python 3.8
