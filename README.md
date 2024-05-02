@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks Earnings: Sales Fall Short as Challenges Mount - WSJ**
+**Prince William Shares Update on Kate Middleton and Their 3 Kids Amid Her Cancer Battle**
 
-You can read more about it [here](https://www.wsj.com/business/earnings/starbucks-sbux-q2-earnings-report-2024-1db1e1e6).
+You can read more about it [here](https://www.eonline.com/news/1397956/prince-william-shares-update-on-kate-middleton-and-their-3-kids-amid-her-cancer-battle).
 
 ## Requirements
 - Python 3.8
