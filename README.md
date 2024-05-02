@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**76ers vs. Knicks: How Tyrese Maxey, Joel Embiid flipped script, found 'a way to survive' in season-saving win**
+**Bird Flu in Raw Cow Milk Has Killed Farm Cats in a Concerning First**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/76ers-vs-knicks-how-tyrese-maxey-joel-embiid-flipped-script-found-a-way-to-survive-in-season-saving-win/).
+You can read more about it [here](https://www.sciencealert.com/bird-flu-in-raw-cow-milk-has-killed-farm-cats-in-a-concerning-first).
 
 ## Requirements
 - Python 3.8
