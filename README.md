@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Is Pulling Back From EV Charging, and People Are Freaking Out**
+**Former Florida Atlantic star Johnell Davis commits to Arkansas**
 
-You can read more about it [here](https://www.wsj.com/business/autos/tesla-is-pulling-back-from-ev-charging-and-people-are-freaking-out-ee8e490c).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/40063962/former-florida-atlantic-star-johnell-davis-commits-arkansas).
 
 ## Requirements
 - Python 3.8
