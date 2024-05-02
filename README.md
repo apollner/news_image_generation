@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Behind the Curtain: Listen to Trump**
+**Expert reveals King Charles’ outfit exposed SIGNIFICANT detail about monarch’s wellbeing**
 
-You can read more about it [here](https://www.axios.com/2024/05/01/trump-second-term-time-magazine-interview).
+You can read more about it [here](https://www.youtube.com/watch?v=oueRIRfH3I0).
 
 ## Requirements
 - Python 3.8
