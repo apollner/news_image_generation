@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Columbia University became the driving force behind protests over the war in Gaza**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinian-campus-protests-timeline-f7cd3abe635f8afa4532b7bed9212b56).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
