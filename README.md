@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics' Kristaps Porzingis to miss time with calf strain**
+**Barbra Streisand publicly asks Melissa McCarthy about Ozempic, sparking debate on weight and shaming**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40059123/kristaps-porzingis-calf-strain-heat-celtics-game-5).
+You can read more about it [here](https://abcnews.go.com/GMA/Wellness/barbra-streisand-publicly-asks-melissa-mccarthy-ozempic-sparking/story?id=109787134).
 
 ## Requirements
 - Python 3.8
