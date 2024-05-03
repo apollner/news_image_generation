@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico: Searchers find a charred pit that may be a clandestine crematorium**
+**Trump swaps a criminal trial for the campaign trail in Michigan and Wisconsin**
 
-You can read more about it [here](https://apnews.com/article/mexico-city-clandestine-graves-crematorium-6457eef23c02febfdede81c2efeec494).
+You can read more about it [here](https://www.npr.org/2024/05/01/1248533594/trump-campaign-wisconsin-michigan-hush-money-trial).
 
 ## Requirements
 - Python 3.8
