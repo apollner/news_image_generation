@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Has the DeSantis comeback already begun? - POLITICO**
+**After Maldives, Another Island Nation Elects Pro-China PM - Off Australia**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/02/desantis-trump-republican-candidate-fundraising-00155590).
+You can read more about it [here](https://www.ndtv.com/world-news/after-maldives-another-island-nation-elects-pro-china-pm-off-australia-5571250).
 
 ## Requirements
 - Python 3.8
