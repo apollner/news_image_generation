@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors seek September retrial for Harvey Weinstein after rape conviction was tossed**
+**Democrats hope move to reschedule marijuana will help them in November**
 
-You can read more about it [here](https://apnews.com/article/harvey-weinstein-rape-conviction-overturned-court-appearance-21b476063efeddab509e80c8bf5ac254).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/05/01/marijuana-biden-democrats-election/).
 
 ## Requirements
 - Python 3.8
