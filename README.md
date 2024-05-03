@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UCLA: Police clear out pro-Palestinian encampment and detain protesters**
+**Middle East conflict live updates: Hamas says it views cease-fire talks favorably; Blinken urges group to accept deal**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68945049).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/05/02/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
