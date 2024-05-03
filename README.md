@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Wednesday’s NBA playoffs takeaways: Celtics stomp Heat to advance, Mavericks coast past Clippers**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://theathletic.com/5465658/2024/05/01/nba-playoffs-scores-takeaways-celtics-heat-clippers-mavericks/).
 
 ## Requirements
 - Python 3.8
