@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok and Universal Music Group end feud with new agreement**
+**Apple Working To Fix Issue Causing iPhone Alarms To Not Sound**
 
-You can read more about it [here](https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai).
+You can read more about it [here](https://www.ndtv.com/feature/apple-working-to-fix-issue-causing-iphone-alarms-to-not-sound-5569370).
 
 ## Requirements
 - Python 3.8
