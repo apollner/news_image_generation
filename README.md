@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fifth body recovered more than a month after Baltimore bridge collapse**
+**Kelly Daughtry drops out of Republican run-off primary election for NC-13 congressional race against Brad Knott**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/fifth-body-recovered-month-baltimore-bridge-collapse-rcna150429).
+You can read more about it [here](https://abc11.com/kelly-daughtry-drops-out-republican-run-off-primary-election/14756336/).
 
 ## Requirements
 - Python 3.8
