@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas is sending a delegation to Egypt for further cease-fire talks in the latest sign of progress**
+**Arizona governor set to sign repeal of 1864 abortion ban**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-02-2024-0699ef663cba7318c375c0ee5bbf20ae).
+You can read more about it [here](https://apnews.com/article/arizona-governor-abortion-ban-1864-signing-07bba2fa805971be62b800bd89c81a5a).
 
 ## Requirements
 - Python 3.8
