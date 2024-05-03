@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hades II's new combat options enhance an already great game**
+**UCLA: Police clear out pro-Palestinian encampment and detain protesters**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/05/hades-iis-new-combat-options-enhance-an-already-great-game/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68945049).
 
 ## Requirements
 - Python 3.8
