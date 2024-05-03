@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College protests live updates: Biden urges peaceful protest as police move in - The Washington Post**
+**Hamas is sending a delegation to Egypt for further cease-fire talks in the latest sign of progress**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/02/university-protests-columbia-ucla-live-news/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-02-2024-0699ef663cba7318c375c0ee5bbf20ae).
 
 ## Requirements
 - Python 3.8
