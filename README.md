@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden blames China, Japan and India's economic woes on 'xenophobia'**
+**Mexico: Searchers find a charred pit that may be a clandestine crematorium**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/02/biden-blames-china-japan-and-indias-economic-woes-on-xenophobia.html).
+You can read more about it [here](https://apnews.com/article/mexico-city-clandestine-graves-crematorium-6457eef23c02febfdede81c2efeec494).
 
 ## Requirements
 - Python 3.8
