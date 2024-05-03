@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Prosecutors seek September retrial for Harvey Weinstein after rape conviction was tossed**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/harvey-weinstein-rape-conviction-overturned-court-appearance-21b476063efeddab509e80c8bf5ac254).
 
 ## Requirements
 - Python 3.8
