@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks vs. 76ers: NBA admits Tyrese Maxey's crucial 4-point play in Game 5 should have been waved off**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/knicks-vs-76ers-nba-admits-tyrese-maxeys-crucial-4-point-play-in-game-5-should-have-been-waved-off/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
