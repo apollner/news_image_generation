@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what to expect during Boeing Starliner's 1st astronaut test flight on May 6**
+**Has the DeSantis comeback already begun? - POLITICO**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-nasa-astronaut-1st-mission-milestones).
+You can read more about it [here](https://www.politico.com/news/2024/05/02/desantis-trump-republican-candidate-fundraising-00155590).
 
 ## Requirements
 - Python 3.8
