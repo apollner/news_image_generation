@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump swaps a criminal trial for the campaign trail in Michigan and Wisconsin**
+**NYC doctor, serial anti-Israel protester, 47, among non-students arrested at Columbia, CUNY raids**
 
-You can read more about it [here](https://www.npr.org/2024/05/01/1248533594/trump-campaign-wisconsin-michigan-hush-money-trial).
+You can read more about it [here](https://nypost.com/2024/05/01/us-news/doctor-known-anti-israel-protester-among-the-282-arrested-at-columbia-city-college-of-ny/).
 
 ## Requirements
 - Python 3.8
