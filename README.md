@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wild video shows Portland anti-Israel agitator charge at police, get knocked to the ground**
+**How to watch Anne Hathaway's new rom-com, 'The Idea of You' — now streaming**
 
-You can read more about it [here](https://www.foxnews.com/us/wild-video-shows-portland-anti-israel-agitator-charge-police-knocked-ground).
+You can read more about it [here](https://www.yahoo.com/entertainment/how-to-watch-anne-hathaways-new-rom-com-the-idea-of-you--now-streaming-105519098.html).
 
 ## Requirements
 - Python 3.8
