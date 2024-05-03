@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats hope move to reschedule marijuana will help them in November**
+**S&P 500, Nasdaq end lower after Fed rate decision, Powell press conference**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/05/01/marijuana-biden-democrats-election/).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/).
 
 ## Requirements
 - Python 3.8
