@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates**
+**Biden blames China, Japan and India's economic woes on 'xenophobia'**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/02/biden-blames-china-japan-and-indias-economic-woes-on-xenophobia.html).
 
 ## Requirements
 - Python 3.8
