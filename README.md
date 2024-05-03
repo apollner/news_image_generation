@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Working To Fix Issue Causing iPhone Alarms To Not Sound**
+**College protests updates: Hundreds arrested at campuses across U.S.**
 
-You can read more about it [here](https://www.ndtv.com/feature/apple-working-to-fix-issue-causing-iphone-alarms-to-not-sound-5569370).
+You can read more about it [here](https://www.axios.com/2024/05/02/college-protests-updates-hundreds-arrested-us-campuses).
 
 ## Requirements
 - Python 3.8
