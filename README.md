@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona governor set to sign repeal of 1864 abortion ban**
+**Hades II's new combat options enhance an already great game**
 
-You can read more about it [here](https://apnews.com/article/arizona-governor-abortion-ban-1864-signing-07bba2fa805971be62b800bd89c81a5a).
+You can read more about it [here](https://arstechnica.com/gaming/2024/05/hades-iis-new-combat-options-enhance-an-already-great-game/).
 
 ## Requirements
 - Python 3.8
