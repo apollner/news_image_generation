@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College protests updates: Hundreds arrested at campuses across U.S.**
+**Ryan Garcia tested positive for PED before his win over Devin Haney**
 
-You can read more about it [here](https://www.axios.com/2024/05/02/college-protests-updates-hundreds-arrested-us-campuses).
+You can read more about it [here](https://nypost.com/2024/05/01/sports/ryan-garcia-tested-positive-for-ped-before-his-win-over-devin-haney/).
 
 ## Requirements
 - Python 3.8
