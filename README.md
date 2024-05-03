@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500, Nasdaq end lower after Fed rate decision, Powell press conference**
+**GOP-led Arizona Senate votes to repeal 1864 abortion ban, sending it to Democratic Gov. Katie Hobbs**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/).
+You can read more about it [here](https://www.cbsnews.com/news/arizona-abortion-ban-state-senate-repeal-vote/).
 
 ## Requirements
 - Python 3.8
