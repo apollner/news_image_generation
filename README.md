@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peloton to lay off 400 employees as CEO Barry McCarthy departs**
+**‘Cobra Kai’ Final Season Will Be Split Into Three Parts, Teaser Trailer Released**
 
-You can read more about it [here](https://techcrunch.com/2024/05/02/peloton-announces-400-layoffs-15-of-the-workforce-as-ceo-barry-mccarthy-departs/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/cobra-kai-final-season-6-dates-trailer-1235888598/).
 
 ## Requirements
 - Python 3.8
