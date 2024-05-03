@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Maldives, Another Island Nation Elects Pro-China PM - Off Australia**
+**Mount Horeb shooting: Armed student fatally shot near Wisconsin school**
 
-You can read more about it [here](https://www.ndtv.com/world-news/after-maldives-another-island-nation-elects-pro-china-pm-off-australia-5571250).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/02/mount-horeb-shooting-wisconsin-school/73538020007/).
 
 ## Requirements
 - Python 3.8
