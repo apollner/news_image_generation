@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Latest | Hamas will send a delegation to Cairo to continue cease-fire talks**
+**Peloton to lay off 400 employees as CEO Barry McCarthy departs**
 
-You can read more about it [here](https://apnews.com/article/israel-iran-hamas-latest-05-02-2024-674ba9c58c74dd5741f72dd0bb6ea353).
+You can read more about it [here](https://techcrunch.com/2024/05/02/peloton-announces-400-layoffs-15-of-the-workforce-as-ceo-barry-mccarthy-departs/).
 
 ## Requirements
 - Python 3.8
