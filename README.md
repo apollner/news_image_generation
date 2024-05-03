@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Arizona Senate OKs bill to repeal the state's 1864 near-total abortion ban**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/arizona-abortion-1864-ban-repeal-24578e546b69ca087e01034bcaf4aa01).
 
 ## Requirements
 - Python 3.8
