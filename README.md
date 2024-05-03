@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Anne Hathaway's new rom-com, 'The Idea of You' — now streaming**
+**Fifth body recovered more than a month after Baltimore bridge collapse**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/how-to-watch-anne-hathaways-new-rom-com-the-idea-of-you--now-streaming-105519098.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/fifth-body-recovered-month-baltimore-bridge-collapse-rcna150429).
 
 ## Requirements
 - Python 3.8
