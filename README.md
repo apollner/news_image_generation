@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mount Horeb shooting: Armed student fatally shot near Wisconsin school**
+**Google's Advanced Protection Program will soon support passkeys**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/02/mount-horeb-shooting-wisconsin-school/73538020007/).
+You can read more about it [here](http://9to5google.com/2024/05/02/google-advanced-protection-passkeys/).
 
 ## Requirements
 - Python 3.8
