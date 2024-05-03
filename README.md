@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Garcia tested positive for PED before his win over Devin Haney**
+**Here's what to expect during Boeing Starliner's 1st astronaut test flight on May 6**
 
-You can read more about it [here](https://nypost.com/2024/05/01/sports/ryan-garcia-tested-positive-for-ped-before-his-win-over-devin-haney/).
+You can read more about it [here](https://www.space.com/boeing-starliner-nasa-astronaut-1st-mission-milestones).
 
 ## Requirements
 - Python 3.8
