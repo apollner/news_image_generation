@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Advanced Protection Program will soon support passkeys**
+**Gypsy Rose Blanchard reveals ex-fiancé Ken Urker moving to Louisiana to be 'closer' after confirming rekindled romance**
 
-You can read more about it [here](http://9to5google.com/2024/05/02/google-advanced-protection-passkeys/).
+You can read more about it [here](https://pagesix.com/2024/05/02/celebrity-news/gypsy-rose-blanchard-reveals-ex-fiance-ken-urker-moving-to-louisiana/).
 
 ## Requirements
 - Python 3.8
