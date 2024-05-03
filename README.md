@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard reveals ex-fiancé Ken Urker moving to Louisiana to be 'closer' after confirming rekindled romance**
+**The Latest | Hamas will send a delegation to Cairo to continue cease-fire talks**
 
-You can read more about it [here](https://pagesix.com/2024/05/02/celebrity-news/gypsy-rose-blanchard-reveals-ex-fiance-ken-urker-moving-to-louisiana/).
+You can read more about it [here](https://apnews.com/article/israel-iran-hamas-latest-05-02-2024-674ba9c58c74dd5741f72dd0bb6ea353).
 
 ## Requirements
 - Python 3.8
