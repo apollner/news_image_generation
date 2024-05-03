@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East conflict live updates: Hamas says it views cease-fire talks favorably; Blinken urges group to accept deal**
+**Wild video shows Portland anti-Israel agitator charge at police, get knocked to the ground**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/05/02/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://www.foxnews.com/us/wild-video-shows-portland-anti-israel-agitator-charge-police-knocked-ground).
 
 ## Requirements
 - Python 3.8
