@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC doctor, serial anti-Israel protester, 47, among non-students arrested at Columbia, CUNY raids**
+**TikTok and Universal Music Group end feud with new agreement**
 
-You can read more about it [here](https://nypost.com/2024/05/01/us-news/doctor-known-anti-israel-protester-among-the-282-arrested-at-columbia-city-college-of-ny/).
+You can read more about it [here](https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai).
 
 ## Requirements
 - Python 3.8
