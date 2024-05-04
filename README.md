@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Spacey: 10 Men Accuse “Soulless Monster” of Sexual Assault in New Docuseries**
+**Hope Hicks, a former close Trump adviser, takes the witness stand in his hush money trial**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/kevin-spacey-unmasked-sexual-assault-doc-channel-4-1235889449/).
+You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-stormy-daniels-manhattan-f4f26333698f3a5ed73943ff805734b3).
 
 ## Requirements
 - Python 3.8
