@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Bucks G Patrick Beverley chucks ball at multiple Pacers fans amid elimination**
+**Mini Settlers is a city builder that you can both enjoy and actually put down**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-bucks-g-patrick-beverley-chucks-ball-at-multiple-pacers-fans-amid-elimination-020529059.html).
+You can read more about it [here](https://arstechnica.com/gaming/2024/05/mini-settlers-is-a-city-builder-that-you-can-both-enjoy-and-actually-put-down/).
 
 ## Requirements
 - Python 3.8
