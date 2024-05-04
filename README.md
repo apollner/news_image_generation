@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Career Horoscope Today for May 3, 2023: Astro tips for profitable results**
+**4 big takeaways from Day 10 of Trump's hush money trial**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-may-3-2023-astro-tips-for-profitable-results-101714636975196.html).
+You can read more about it [here](https://abcnews.go.com/US/4-big-takeaways-day-10-trumps-hush-money/story?id=109882148).
 
 ## Requirements
 - Python 3.8
