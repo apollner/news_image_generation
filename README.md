@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Odell Beckham Jr., Dolphins Agree to 1-Year, $3M Contract in Free Agency**
+**Israel Gives Hamas a Week to Strike a Deal or Rafah Offensive Will Begin**
 
-You can read more about it [here](https://bleacherreport.com/articles/10107420-report-odell-beckham-jr-dolphins-agree-to-1-year-3m-contract-in-free-agency).
+You can read more about it [here](https://www.wsj.com/world/middle-east/israel-gives-hamas-a-week-to-strike-a-deal-or-rafah-offensive-will-begin-2ffe70bd).
 
 ## Requirements
 - Python 3.8
