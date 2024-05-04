@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Violent protest is not protected,' Biden says of college campus unrest**
+**H5N1 bird flu was circulating in dairy cows for four months before it was detected, USDA scientists say**
 
-You can read more about it [here](https://abcnews.go.com/Politics/biden-speaks-college-protests-israel-gaza-war/story?id=109870179).
+You can read more about it [here](https://www.cnn.com/2024/05/02/health/h5n1-bird-flu-usda/index.html).
 
 ## Requirements
 - Python 3.8
