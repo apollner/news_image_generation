@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comparison of NASA Commercial Crew Boeing Starliner vs SpaceX Dragon**
+**Pros & Cons of Tesla Supercharging Changes**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/05/01/comparison-nasa-commercial-crew-starliner-spacex-dragon-falcon-atlas-ula-boeing-space-flight/73438771007/).
+You can read more about it [here](https://cleantechnica.com/2024/05/02/pros-cons-of-tesla-supercharging-changes/).
 
 ## Requirements
 - Python 3.8
