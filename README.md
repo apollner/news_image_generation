@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hope Hicks, a former close Trump adviser, takes the witness stand in his hush money trial**
+**Orangutan uses medicinal plant to treat wound in the wild, scientists say**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-stormy-daniels-manhattan-f4f26333698f3a5ed73943ff805734b3).
+You can read more about it [here](https://abc7.com/orangutan-uses-medicinal-plant-to-treat-wound-in-the-wild-scientists-say/14760174/).
 
 ## Requirements
 - Python 3.8
