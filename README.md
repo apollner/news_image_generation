@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brunson, Hart heroics lift Knicks by Sixers in 6, into East semis**
+**Tesla layoffs: Pakistani-origin woman laid off by Elon Musk says it's 'Very hard to let go of…'**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40073180/brunson-hart-heroics-lift-knicks-sixers-6-east-semis).
+You can read more about it [here](https://www.hindustantimes.com/trending/tesla-layoffs-pakistani-origin-woman-laid-off-by-elon-musk-says-it-s-very-hard-to-let-go-of-101714700236505.html).
 
 ## Requirements
 - Python 3.8
