@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**April jobs report shows hiring, wage growth slow as unemployment unexpectedly jumps**
+**Why Sixers, Joel Embiid should have hope after latest playoff letdown**
 
-You can read more about it [here](https://finance.yahoo.com/news/april-jobs-report-shows-hiring-wage-growth-slow-as-unemployment-unexpectedly-jumps-123130544.html).
+You can read more about it [here](https://theathletic.com/5468540/2024/05/03/sixers-joel-embiid-playoffs-hope-nba/).
 
 ## Requirements
 - Python 3.8
