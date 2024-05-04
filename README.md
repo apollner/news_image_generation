@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 big takeaways from Day 10 of Trump's hush money trial**
+**NBA playoffs: Bucks G Patrick Beverley chucks ball at multiple Pacers fans amid elimination**
 
-You can read more about it [here](https://abcnews.go.com/US/4-big-takeaways-day-10-trumps-hush-money/story?id=109882148).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-bucks-g-patrick-beverley-chucks-ball-at-multiple-pacers-fans-amid-elimination-020529059.html).
 
 ## Requirements
 - Python 3.8
