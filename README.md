@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Seinfeld Talks Netflix’s ‘Unfrosted,’ ‘Curb,’ ‘Seinfeld’ & More w/ Rich Eisen | Full Interview**
+**Britney Spears Exits Chateau Marmont With Friends After Ambulance Called to Hotel**
 
-You can read more about it [here](https://www.youtube.com/watch?v=DuGpy_Xs3kA).
+You can read more about it [here](https://www.etonline.com/britney-spears-exits-chateau-marmont-with-friends-after-ambulance-called-to-hotel-224589).
 
 ## Requirements
 - Python 3.8
