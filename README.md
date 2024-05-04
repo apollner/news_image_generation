@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK's Labour claim big early win over PM Sunak's Conservatives**
+**Career Horoscope Today for May 3, 2023: Astro tips for profitable results**
 
-You can read more about it [here](https://www.reuters.com/world/uk/labour-claim-early-win-uk-vote-closely-watched-results-trickle-2024-05-03/).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-may-3-2023-astro-tips-for-profitable-results-101714636975196.html).
 
 ## Requirements
 - Python 3.8
