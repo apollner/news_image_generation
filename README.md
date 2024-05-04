@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Challengers: Polyamory finally gets the hot movie it deserves**
+**Why Kristi Noem's damage-control tour is probably doomed — and it isn't her dead dog's fault.**
 
-You can read more about it [here](https://www.vox.com/culture/2024/5/2/24147291/challengers-polyamory-ending-movie).
+You can read more about it [here](https://www.politico.com/news/2024/05/02/kristi-noem-dog-trump-2024-00155856).
 
 ## Requirements
 - Python 3.8
