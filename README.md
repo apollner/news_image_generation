@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shake-down allegations and another contempt hearing highlight 10th day of Trump's trial**
+**Massive Sony Xperia 1 VI leak spills the beans on specs, camera, and more**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/02/trump-hush-money-trial-day-10-00155912).
+You can read more about it [here](https://www.androidauthority.com/sony-xperia-1-vi-leaked-specs-3439415/).
 
 ## Requirements
 - Python 3.8
