@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More Kevin Spacey Allegations Emerge On Eve Of Channel 4 Documentary Launch**
+**Tuberculosis outbreak at Long Beach hotel leads to 1 death, 14 infections. 170 more may have been exposed**
 
-You can read more about it [here](http://deadline.com/2024/05/kevin-spacey-allegations-channel-4-documentary-1235903624/).
+You can read more about it [here](https://abc7.com/long-beach-declares-health-emergency-over-tuberculosis-outbreak-that-killed-1-person/14760284/).
 
 ## Requirements
 - Python 3.8
