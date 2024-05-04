@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mini Settlers is a city builder that you can both enjoy and actually put down**
+**Apple shares jump as record buyback, sales growth forecast lure investors**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/05/mini-settlers-is-a-city-builder-that-you-can-both-enjoy-and-actually-put-down/).
+You can read more about it [here](https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/).
 
 ## Requirements
 - Python 3.8
