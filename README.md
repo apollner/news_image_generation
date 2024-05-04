@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Where pro-Palestinian university protests are happening around the world**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/05/03/world/pro-palestinian-university-protests-worldwide-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
