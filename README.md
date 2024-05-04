@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kelly Daughtry drops out of Republican run-off primary election for NC-13 congressional race against Brad Knott**
+**Challengers: Polyamory finally gets the hot movie it deserves**
 
-You can read more about it [here](https://abc11.com/kelly-daughtry-drops-out-republican-run-off-primary-election/14756336/).
+You can read more about it [here](https://www.vox.com/culture/2024/5/2/24147291/challengers-polyamory-ending-movie).
 
 ## Requirements
 - Python 3.8
