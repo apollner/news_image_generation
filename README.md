@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orangutan uses medicinal plant to treat wound in the wild, scientists say**
+**[Removed]**
 
-You can read more about it [here](https://abc7.com/orangutan-uses-medicinal-plant-to-treat-wound-in-the-wild-scientists-say/14760174/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
