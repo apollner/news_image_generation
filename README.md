@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**UK's Labour claim big early win over PM Sunak's Conservatives**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/uk/labour-claim-early-win-uk-vote-closely-watched-results-trickle-2024-05-03/).
 
 ## Requirements
 - Python 3.8
