@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple shares rise as sales fall less than feared despite China decline**
+**'Violent protest is not protected,' Biden says of college campus unrest**
 
-You can read more about it [here](https://www.ft.com/content/935fcc5e-d8e4-4620-927d-ae7e1dfcfda1).
+You can read more about it [here](https://abcnews.go.com/Politics/biden-speaks-college-protests-israel-gaza-war/story?id=109870179).
 
 ## Requirements
 - Python 3.8
