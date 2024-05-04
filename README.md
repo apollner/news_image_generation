@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple shares jump as record buyback, sales growth forecast lure investors**
+**College football transfer portal grades: Texas, FSU get 'A+' but LSU finishes with 'C+' after window closes**
 
-You can read more about it [here](https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-transfer-portal-grades-texas-fsu-get-a-but-lsu-finishes-with-c-after-window-closes/).
 
 ## Requirements
 - Python 3.8
