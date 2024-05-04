@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pros & Cons of Tesla Supercharging Changes**
+**[Removed]**
 
-You can read more about it [here](https://cleantechnica.com/2024/05/02/pros-cons-of-tesla-supercharging-changes/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
