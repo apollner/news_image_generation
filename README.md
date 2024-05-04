@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where pro-Palestinian university protests are happening around the world**
+**Shake-down allegations and another contempt hearing highlight 10th day of Trump's trial**
 
-You can read more about it [here](https://www.cnn.com/2024/05/03/world/pro-palestinian-university-protests-worldwide-intl-hnk/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/05/02/trump-hush-money-trial-day-10-00155912).
 
 ## Requirements
 - Python 3.8
