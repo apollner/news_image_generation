@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I-95 in Norwalk, Connecticut closed after fiery truck crash. Highway may not reopen for days.**
+**Damian Lillard, Milwaukee Bucks Eliminated From the 2024 NBA Playoffs**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/interstate-95-norwalk-connecticut-crash/).
+You can read more about it [here](https://www.blazersedge.com/2024/5/2/24147721/video-highlights-damian-lillard-bucks-playoffs-buzzer-beater-rockets).
 
 ## Requirements
 - Python 3.8
