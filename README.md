@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK's Labour claim big early win over PM Sunak's Conservatives**
+**Brunson, Hart heroics lift Knicks by Sixers in 6, into East semis**
 
-You can read more about it [here](https://www.reuters.com/world/uk/labour-claim-early-win-uk-vote-closely-watched-results-trickle-2024-05-03/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40073180/brunson-hart-heroics-lift-knicks-sixers-6-east-semis).
 
 ## Requirements
 - Python 3.8
