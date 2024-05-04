@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla layoffs: Pakistani-origin woman laid off by Elon Musk says it's 'Very hard to let go of…'**
+**Shake-down allegations and another contempt hearing highlight 10th day of Trump's trial**
 
-You can read more about it [here](https://www.hindustantimes.com/trending/tesla-layoffs-pakistani-origin-woman-laid-off-by-elon-musk-says-it-s-very-hard-to-let-go-of-101714700236505.html).
+You can read more about it [here](https://www.politico.com/news/2024/05/02/trump-hush-money-trial-day-10-00155912).
 
 ## Requirements
 - Python 3.8
