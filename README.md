@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football transfer portal grades: Texas, FSU get 'A+' but LSU finishes with 'C+' after window closes**
+**Noem book dogged by new claims of inaccuracies**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-transfer-portal-grades-texas-fsu-get-a-but-lsu-finishes-with-c-after-window-closes/).
+You can read more about it [here](https://www.politico.com/news/2024/05/03/kristi-noem-book-excerpt-nikki-haley-dog-00155925).
 
 ## Requirements
 - Python 3.8
