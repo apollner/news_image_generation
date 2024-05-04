@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey halts trade with Israel until permanent Gaza ceasefire**
+**Report: Odell Beckham Jr., Dolphins Agree to 1-Year, $3M Contract in Free Agency**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/turkey-says-israel-trade-halted-until-permanent-gaza-ceasefire-2024-05-03/).
+You can read more about it [here](https://bleacherreport.com/articles/10107420-report-odell-beckham-jr-dolphins-agree-to-1-year-3m-contract-in-free-agency).
 
 ## Requirements
 - Python 3.8
