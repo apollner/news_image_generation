@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Sixers, Joel Embiid should have hope after latest playoff letdown**
+**More Kevin Spacey Allegations Emerge On Eve Of Channel 4 Documentary Launch**
 
-You can read more about it [here](https://theathletic.com/5468540/2024/05/03/sixers-joel-embiid-playoffs-hope-nba/).
+You can read more about it [here](http://deadline.com/2024/05/kevin-spacey-allegations-channel-4-documentary-1235903624/).
 
 ## Requirements
 - Python 3.8
