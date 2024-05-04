@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Noem book dogged by new claims of inaccuracies**
+**April jobs report shows hiring, wage growth slow as unemployment unexpectedly jumps**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/03/kristi-noem-book-excerpt-nikki-haley-dog-00155925).
+You can read more about it [here](https://finance.yahoo.com/news/april-jobs-report-shows-hiring-wage-growth-slow-as-unemployment-unexpectedly-jumps-123130544.html).
 
 ## Requirements
 - Python 3.8
