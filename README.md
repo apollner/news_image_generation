@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shake-down allegations and another contempt hearing highlight 10th day of Trump's trial**
+**I-95 in Norwalk, Connecticut closed after fiery truck crash. Highway may not reopen for days.**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/02/trump-hush-money-trial-day-10-00155912).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/interstate-95-norwalk-connecticut-crash/).
 
 ## Requirements
 - Python 3.8
