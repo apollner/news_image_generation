@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Kristi Noem's damage-control tour is probably doomed — and it isn't her dead dog's fault.**
+**Apple shares rise as sales fall less than feared despite China decline**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/02/kristi-noem-dog-trump-2024-00155856).
+You can read more about it [here](https://www.ft.com/content/935fcc5e-d8e4-4620-927d-ae7e1dfcfda1).
 
 ## Requirements
 - Python 3.8
