@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Columbia student radio station broadcasted on protests as police swarmed**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/04/columbia-radio-wkcr-protest-coverage/).
 
 ## Requirements
 - Python 3.8
