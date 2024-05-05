@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas cats die on dairy farm after drinking raw milk contaminated with bird flu, CDC warns**
+**Donovan Mitchell scores 50, Cavs lose to Magic; coaching was a problem – Terry Pluto**
 
-You can read more about it [here](https://www.foxnews.com/health/texas-cats-die-dairy-farm-drinking-raw-milk-contaminated-bird-flu-cdc-warns).
+You can read more about it [here](https://www.cleveland.com/cavs/2024/05/mitchell-scores-50-cavs-loss-to-magic-coaching-was-a-problem-terry-pluto.html).
 
 ## Requirements
 - Python 3.8
