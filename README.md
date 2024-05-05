@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC charges Trump Media’s auditing firm with ‘massive fraud’**
+**Canadian police arrest 3 suspects in the slaying of a Sikh separatist leader**
 
-You can read more about it [here](https://www.msnbc.com/top-stories/latest/trump-media-auditor-bf-borgers-fraud-rcna150702).
+You can read more about it [here](https://www.npr.org/2024/05/04/1249178635/sikh-separatist-leader-nijjar-death-canada-arrests).
 
 ## Requirements
 - Python 3.8
