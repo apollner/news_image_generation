@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Decades after Kent State shooting, the tragic legacy shapes its activism**
+**Power blackouts hit Tanzania as Cyclone Hidaya intensifies toward the country's coastline**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/04/kent-state-shooting-protests-gaza/).
+You can read more about it [here](https://apnews.com/article/tanzania-cyclone-hidaya-6507779acc4177cc132b63285a998c7d).
 
 ## Requirements
 - Python 3.8
