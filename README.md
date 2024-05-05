@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**That Jaw-Dropping Beyoncé, Jay-Z and Solange Elevator Ride—And More Unforgettable Met Gala Moments - E! Online**
+**3 bodies found in search of US, Australian surfers who vanished in Mexico: report**
 
-You can read more about it [here](https://www.eonline.com/news/1400741/that-jaw-dropping-beyonce-jay-z-and-solange-elevator-ride-and-more-unforgettable-met-gala-moments).
+You can read more about it [here](https://nypost.com/2024/05/03/us-news/3-bodies-found-in-search-of-us-australian-surfers-who-vanished-in-mexico-report/).
 
 ## Requirements
 - Python 3.8
