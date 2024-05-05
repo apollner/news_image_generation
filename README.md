@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Rep. Henry Cuellar and wife indicted on federal bribery charges**
+**Marijuana backers eye proposed federal regulatory change as an aid to legalizing pot in more states**
 
-You can read more about it [here](https://www.cbsnews.com/news/henry-cuellar-innocent-justice-department-indictment/).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/health/marijuana-backers-eye-proposed-federal-regulatory-change-as-an-aid-to-legalizing-pot-in-more-states/).
 
 ## Requirements
 - Python 3.8
