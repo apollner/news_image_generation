@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bodies of three missing surfers found, Baja California authorities say**
+**Commencement prep for US colleges as over 2,000 people arrested at protests: Live updates**
 
-You can read more about it [here](https://fox5sandiego.com/news/border-report/bodies-of-three-missing-surfers-found-baja-california-authorities-say/).
+You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-03-24/index.html).
 
 ## Requirements
 - Python 3.8
