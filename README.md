@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jewel shuts down questions about dating Kevin Costner, love life**
+**Three arrested and charged over Sikh activist's killing in Canada**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/05/03/jewel-responds-kevin-costner-dating-rumors/73561755007/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67836968).
 
 ## Requirements
 - Python 3.8
