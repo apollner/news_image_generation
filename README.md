@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cease-fire: Israel downplays chances of end to war with Hamas**
+**Look up for the dazzling Eta Aquariid meteor shower**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-04-2024-4eae8b7a75440d4dd9a201219d60bcd9).
+You can read more about it [here](https://www.cnn.com/2024/05/04/world/eta-aquariid-meteor-shower-scn/index.html).
 
 ## Requirements
 - Python 3.8
