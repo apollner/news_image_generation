@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Gives Hamas a Week to Strike a Deal or Rafah Offensive Will Begin**
+**China launches historic mission to retrieve samples from far side of the moon**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/israel-gives-hamas-a-week-to-strike-a-deal-or-rafah-offensive-will-begin-2ffe70bd).
+You can read more about it [here](https://www.reuters.com/science/china-launches-historic-mission-retrieve-samples-far-side-moon-2024-05-03/).
 
 ## Requirements
 - Python 3.8
