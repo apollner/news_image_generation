@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett warns of AI risks: A "genie that scares the hell out of me"**
+**Adam Driver Controls Time in First-Look Clip for Francis Ford Coppola’s ‘Megalopolis’**
 
-You can read more about it [here](https://www.axios.com/2024/05/04/warren-buffett-berkshire-meeting-ai).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/francis-ford-coppola-megalopolis-first-look-adam-driver-1235890346/).
 
 ## Requirements
 - Python 3.8
