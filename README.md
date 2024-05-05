@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake And Kendrick Beef Reignites With Both Releasing New Tracks**
+**[Removed]**
 
-You can read more about it [here](https://www.forbes.com/sites/brianbushard/2024/05/04/drake-and-kendrick-lamar-beef-continues-release-diss-tracks-family-matters-and-meet-the-grahams---heres-what-they-said/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
