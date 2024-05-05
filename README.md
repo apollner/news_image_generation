@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuations ordered, homes damaged in Texas as rivers surge to Hurricane Harvey levels**
+**Trump Media stock tumbles as the SEC charges its auditor with 'massive fraud'**
 
-You can read more about it [here](https://www.cnn.com/2024/05/03/weather/texas-houston-flooding-tornadoes/index.html).
+You can read more about it [here](https://markets.businessinsider.com/news/stocks/djt-stock-price-crash-trump-media-auditor-fraud-charge-sec-2024-5).
 
 ## Requirements
 - Python 3.8
