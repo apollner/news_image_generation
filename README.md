@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adam Driver Controls Time in First-Look Clip for Francis Ford Coppola’s ‘Megalopolis’**
+**Small anti-war protest ruffles University of Michigan graduation ceremony**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/francis-ford-coppola-megalopolis-first-look-adam-driver-1235890346/).
+You can read more about it [here](https://apnews.com/article/israel-palestine-gaza-war-colleges-universities-campus-protests-ad9deb304a49edbb52f5ae607f08cecd).
 
 ## Requirements
 - Python 3.8
