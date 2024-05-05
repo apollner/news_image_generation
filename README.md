@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commencement prep for US colleges as over 2,000 people arrested at protests: Live updates**
+**WNBA Preseason: How to Watch Caitlin Clark’s Indiana Fever Debut, Plus More WNBA Games Without Cable**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-03-24/index.html).
+You can read more about it [here](http://www.billboard.com/culture/product-recommendations/how-to-watch-wnba-games-stream-live-no-cable-1235673620/).
 
 ## Requirements
 - Python 3.8
