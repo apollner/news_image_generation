@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett warns of AI risks: A "genie that scares the hell out of me"**
+**London mayor election: Sadiq Khan clinches historic third term**
 
-You can read more about it [here](https://www.axios.com/2024/05/04/warren-buffett-berkshire-meeting-ai).
+You can read more about it [here](https://www.bbc.com/news/uk-england-london-68952475).
 
 ## Requirements
 - Python 3.8
