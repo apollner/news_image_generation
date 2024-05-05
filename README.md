@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Seinfeld Says He Wanted to Make His Pop-Tarts Movie the Opposite of 'Barbie'**
+**Friday’s NBA playoffs takeaways: Mavericks knock out Clippers; Magic force Game 7**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/jerry-seinfeld-says-wanted-pop-215351784.html).
+You can read more about it [here](https://theathletic.com/5470741/2024/05/03/nba-playoffs-scores-takeaways-cavaliers-magic-mavericks-clippers/).
 
 ## Requirements
 - Python 3.8
