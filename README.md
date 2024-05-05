@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indiana Fever vs. Dallas Wings live updates: Caitlin Clark's WNBA debut; stats, highlights**
+**Bodies of three missing surfers found, Baja California authorities say**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/03/indiana-dallas-caitlin-clark-wnba-preseason-score-highlights/73548154007/).
+You can read more about it [here](https://fox5sandiego.com/news/border-report/bodies-of-three-missing-surfers-found-baja-california-authorities-say/).
 
 ## Requirements
 - Python 3.8
