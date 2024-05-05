@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biggest question facing each team following 2024 NFL Draft: Do Steelers start Justin Fields or Russell Wilson?**
+**Indiana Fever vs. Dallas Wings live updates: Caitlin Clark's WNBA debut; stats, highlights**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/biggest-question-facing-each-team-following-2024-nfl-draft-do-steelers-start-justin-fields-or-russell-wilson/).
+You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/03/indiana-dallas-caitlin-clark-wnba-preseason-score-highlights/73548154007/).
 
 ## Requirements
 - Python 3.8
