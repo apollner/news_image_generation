@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Look up for the dazzling Eta Aquariid meteor shower**
+**2024 F1 Miami GP sprint results: Max Verstappen wins**
 
-You can read more about it [here](https://www.cnn.com/2024/05/04/world/eta-aquariid-meteor-shower-scn/index.html).
+You can read more about it [here](https://www.motorsport.com/f1/news/2024-f1-miami-gp-sprint-results-max-verstappen-wins/10606758/).
 
 ## Requirements
 - Python 3.8
