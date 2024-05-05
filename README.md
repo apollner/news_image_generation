@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A boy gave his only dollar to someone he mistook as homeless. In exchange, the businessman rewarded him for his generosity.**
+**Three arrested and charged over Sikh activist's killing in Canada**
 
-You can read more about it [here](https://www.cbsnews.com/news/boy-gets-shopping-spree-after-giving-away-one-dollar-kelvin-ellis-matt-busbice-louisiana/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-67836968).
 
 ## Requirements
 - Python 3.8
