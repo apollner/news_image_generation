@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Friday’s NBA playoffs takeaways: Mavericks knock out Clippers; Magic force Game 7**
+**Latest Israel-Hamas war news and Gaza conflict updates**
 
-You can read more about it [here](https://theathletic.com/5470741/2024/05/03/nba-playoffs-scores-takeaways-cavaliers-magic-mavericks-clippers/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/05/04/israel-hamas-war-news-gaza-palestine/).
 
 ## Requirements
 - Python 3.8
