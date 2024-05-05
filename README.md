@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anger can increase heart attack risk, study finds: ‘Chronic insult to arteries’**
+**Biggest question facing each team following 2024 NFL Draft: Do Steelers start Justin Fields or Russell Wilson?**
 
-You can read more about it [here](https://www.foxnews.com/health/anger-can-increase-heart-attack-risk-study-finds-chronic-insult-arteries).
+You can read more about it [here](https://www.cbssports.com/nfl/news/biggest-question-facing-each-team-following-2024-nfl-draft-do-steelers-start-justin-fields-or-russell-wilson/).
 
 ## Requirements
 - Python 3.8
