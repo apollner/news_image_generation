@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbia student radio station broadcasted on protests as police swarmed**
+**Cease-fire: Israel downplays chances of end to war with Hamas**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/04/columbia-radio-wkcr-protest-coverage/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-04-2024-4eae8b7a75440d4dd9a201219d60bcd9).
 
 ## Requirements
 - Python 3.8
