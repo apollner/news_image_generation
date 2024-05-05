@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Small anti-war protest ruffles University of Michigan graduation ceremony**
+**Warren Buffett warns of AI risks: A "genie that scares the hell out of me"**
 
-You can read more about it [here](https://apnews.com/article/israel-palestine-gaza-war-colleges-universities-campus-protests-ad9deb304a49edbb52f5ae607f08cecd).
+You can read more about it [here](https://www.axios.com/2024/05/04/warren-buffett-berkshire-meeting-ai).
 
 ## Requirements
 - Python 3.8
