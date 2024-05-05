@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Power blackouts hit Tanzania as Cyclone Hidaya intensifies toward the country's coastline**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/tanzania-cyclone-hidaya-6507779acc4177cc132b63285a998c7d).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
