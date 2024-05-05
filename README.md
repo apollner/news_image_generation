@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Friday’s NBA playoffs takeaways: Mavericks knock out Clippers; Magic force Game 7**
+**Texas cats die on dairy farm after drinking raw milk contaminated with bird flu, CDC warns**
 
-You can read more about it [here](https://theathletic.com/5470741/2024/05/03/nba-playoffs-scores-takeaways-cavaliers-magic-mavericks-clippers/).
+You can read more about it [here](https://www.foxnews.com/health/texas-cats-die-dairy-farm-drinking-raw-milk-contaminated-bird-flu-cdc-warns).
 
 ## Requirements
 - Python 3.8
