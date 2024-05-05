@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Francis Ford Coppola’s ‘Megalopolis’ First Teaser Out, Dedicates It To His Late Wife**
+**SEC charges Trump Media’s auditing firm with ‘massive fraud’**
 
-You can read more about it [here](http://deadline.com/2024/05/francis-ford-coppolas-megalopolis-first-teaser-trailer-1235904496/).
+You can read more about it [here](https://www.msnbc.com/top-stories/latest/trump-media-auditor-bf-borgers-fraud-rcna150702).
 
 ## Requirements
 - Python 3.8
