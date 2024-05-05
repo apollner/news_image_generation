@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three arrested and charged over Sikh activist's killing in Canada**
+**Democratic Rep. Henry Cuellar and wife indicted on federal bribery charges**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67836968).
+You can read more about it [here](https://www.cbsnews.com/news/henry-cuellar-innocent-justice-department-indictment/).
 
 ## Requirements
 - Python 3.8
