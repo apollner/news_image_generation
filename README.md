@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 F1 Miami GP sprint results: Max Verstappen wins**
+**Francis Ford Coppola’s ‘Megalopolis’ First Teaser Out, Dedicates It To His Late Wife**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/2024-f1-miami-gp-sprint-results-max-verstappen-wins/10606758/).
+You can read more about it [here](http://deadline.com/2024/05/francis-ford-coppolas-megalopolis-first-teaser-trailer-1235904496/).
 
 ## Requirements
 - Python 3.8
