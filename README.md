@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cease-fire: Israel downplays chances of end to war with Hamas**
+**Drake And Kendrick Beef Reignites With Both Releasing New Tracks**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-04-2024-4eae8b7a75440d4dd9a201219d60bcd9).
+You can read more about it [here](https://www.forbes.com/sites/brianbushard/2024/05/04/drake-and-kendrick-lamar-beef-continues-release-diss-tracks-family-matters-and-meet-the-grahams---heres-what-they-said/).
 
 ## Requirements
 - Python 3.8
