@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media stock tumbles as the SEC charges its auditor with 'massive fraud'**
+**Padres, Marlins close to Luis Arraez trade**
 
-You can read more about it [here](https://markets.businessinsider.com/news/stocks/djt-stock-price-crash-trump-media-auditor-fraud-charge-sec-2024-5).
+You can read more about it [here](https://www.mlb.com/news/padres-marlins-luis-arraez-trade).
 
 ## Requirements
 - Python 3.8
