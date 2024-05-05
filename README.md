@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commencement prep for US colleges as over 2,000 people arrested at protests: Live updates**
+**Kevin Spacey on New Sexual Assault Allegations in 'Spacey Unmasked'**
 
-You can read more about it [here](https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-03-24/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/kevin-spacey-addresses-sexual-harassment-allegations-documentary-1235890054/).
 
 ## Requirements
 - Python 3.8
