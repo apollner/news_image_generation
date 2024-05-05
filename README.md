@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA Preseason: How to Watch Caitlin Clark’s Indiana Fever Debut, Plus More WNBA Games Without Cable**
+**Jewel shuts down questions about dating Kevin Costner, love life**
 
-You can read more about it [here](http://www.billboard.com/culture/product-recommendations/how-to-watch-wnba-games-stream-live-no-cable-1235673620/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/05/03/jewel-responds-kevin-costner-dating-rumors/73561755007/).
 
 ## Requirements
 - Python 3.8
