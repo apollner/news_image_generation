@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Israel-Hamas war news and Gaza conflict updates**
+**Evacuations ordered, homes damaged in Texas as rivers surge to Hurricane Harvey levels**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/05/04/israel-hamas-war-news-gaza-palestine/).
+You can read more about it [here](https://www.cnn.com/2024/05/03/weather/texas-houston-flooding-tornadoes/index.html).
 
 ## Requirements
 - Python 3.8
