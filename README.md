@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 bodies found in search of US, Australian surfers who vanished in Mexico: report**
+**Decades after Kent State shooting, the tragic legacy shapes its activism**
 
-You can read more about it [here](https://nypost.com/2024/05/03/us-news/3-bodies-found-in-search-of-us-australian-surfers-who-vanished-in-mexico-report/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/04/kent-state-shooting-protests-gaza/).
 
 ## Requirements
 - Python 3.8
