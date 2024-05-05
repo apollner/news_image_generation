@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China launches historic mission to retrieve samples from far side of the moon**
+**Anger can increase heart attack risk, study finds: ‘Chronic insult to arteries’**
 
-You can read more about it [here](https://www.reuters.com/science/china-launches-historic-mission-retrieve-samples-far-side-moon-2024-05-03/).
+You can read more about it [here](https://www.foxnews.com/health/anger-can-increase-heart-attack-risk-study-finds-chronic-insult-arteries).
 
 ## Requirements
 - Python 3.8
