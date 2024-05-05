@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marijuana backers eye proposed federal regulatory change as an aid to legalizing pot in more states**
+**Jerry Seinfeld Says He Wanted to Make His Pop-Tarts Movie the Opposite of 'Barbie'**
 
-You can read more about it [here](https://www.seattletimes.com/seattle-news/health/marijuana-backers-eye-proposed-federal-regulatory-change-as-an-aid-to-legalizing-pot-in-more-states/).
+You can read more about it [here](https://www.yahoo.com/entertainment/jerry-seinfeld-says-wanted-pop-215351784.html).
 
 ## Requirements
 - Python 3.8
