@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three arrested and charged over Sikh activist's killing in Canada**
+**Friday’s NBA playoffs takeaways: Mavericks knock out Clippers; Magic force Game 7**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-67836968).
+You can read more about it [here](https://theathletic.com/5470741/2024/05/03/nba-playoffs-scores-takeaways-cavaliers-magic-mavericks-clippers/).
 
 ## Requirements
 - Python 3.8
