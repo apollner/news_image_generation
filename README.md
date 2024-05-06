@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s AI research suggests features are coming for Siri, artists, and more.**
+**The ending of Google's monopoly trial has Silicon Valley on edge**
 
-You can read more about it [here](https://www.theverge.com/2024/5/5/24147995/apple-siri-ai-research-chatbot-creativity).
+You can read more about it [here](https://finance.yahoo.com/news/the-ending-of-googles-monopoly-trial-has-silicon-valley-on-edge-113835464.html).
 
 ## Requirements
 - Python 3.8
