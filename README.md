@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu's wild range**
+**Australian police shoot dead armed teen after stabbing attack that had ‘hallmarks’ of terror**
 
-You can read more about it [here](https://www.axios.com/2024/05/04/bird-flu-wildlife-mammals).
+You can read more about it [here](https://www.cnn.com/2024/05/05/australia/australia-perth-stabbing-attack-armed-teen-shot-dead/index.html).
 
 ## Requirements
 - Python 3.8
