@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'SNL' takes aim at Columbia University students squandering tuition by skipping class to protest**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/05/05/us-news/snl-takes-on-columbia-university-protests-in-cold-opening/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
