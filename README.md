@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panama voters to elect new president in crowded field of contenders**
+**The ending of Google's monopoly trial has Silicon Valley on edge**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/5/panama-voters-to-elect-new-president-in-crowded-field-of-contenders).
+You can read more about it [here](https://finance.yahoo.com/news/the-ending-of-googles-monopoly-trial-has-silicon-valley-on-edge-113835464.html).
 
 ## Requirements
 - Python 3.8
