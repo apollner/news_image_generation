@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canelo Alvarez decisions Jaime Munguia in title defense**
+**Jerry Seinfeld Crashes ‘SNL’ Weekend Update As “A Man Who Did Too Much Press” With A Warning For Ryan Gosling**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/40085592/canelo-alvarez-too-much-jaime-munguia-title-defense).
+You can read more about it [here](http://deadline.com/2024/05/jerry-seinfeld-crashes-snl-weekend-update-ryan-gosling-1235904678/).
 
 ## Requirements
 - Python 3.8
