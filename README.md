@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even the worst smartphone seems better than these new AI gadgets**
+**Panama election: Panamanians vote to elect new president**
 
-You can read more about it [here](http://9to5google.com/2024/05/05/ai-gadgets-versus-smartphone/).
+You can read more about it [here](https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715).
 
 ## Requirements
 - Python 3.8
