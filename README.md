@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 100,000 children in the US lost a parent to a drug overdose or gun violence in 2020, study finds**
+**Prosecutors charge 5 men accused of impersonating Philadelphia police officers in 2006 to kidnap and kill a man**
 
-You can read more about it [here](https://www.cnn.com/2024/05/04/health/parent-death-drug-overdose-gun-violence/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/prosecutors-charge-5-men-impersonating-philadelphia-police-officers-kidnap-killing-shamari-taylor/).
 
 ## Requirements
 - Python 3.8
