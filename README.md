@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protest disrupts University of Michigan commencement**
+**Panama voters to elect new president in crowded field of contenders**
 
-You can read more about it [here](https://www.clickondetroit.com/all-about-ann-arbor/2024/05/05/pro-palestinian-protest-disrupts-university-of-michigan-commencement/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/5/panama-voters-to-elect-new-president-in-crowded-field-of-contenders).
 
 ## Requirements
 - Python 3.8
