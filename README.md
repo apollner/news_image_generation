@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helldivers 2 has been pulled from Steam in 170 countries without PSN access, while Valve ignores its own policy to issue refunds for players with over 100 hours**
+**Netanyahu government votes to close Al Jazeera channel in Israel**
 
-You can read more about it [here](https://www.gamesradar.com/games/third-person-shooter/helldivers-2-has-been-pulled-from-steam-in-170-countries-without-psn-access-while-valve-ignores-its-own-policy-to-issue-refunds-for-players-with-over-100-hours/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel).
 
 ## Requirements
 - Python 3.8
