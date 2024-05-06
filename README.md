@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffett explains Berkshire's reduced stake in Apple at annual company meeting**
+**Israel-Gaza war: Ceasefire talks intensify in Cairo**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/buffett-explains-berkshires-reduced-stake-apple-annual-company-meeting).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68956549).
 
 ## Requirements
 - Python 3.8
