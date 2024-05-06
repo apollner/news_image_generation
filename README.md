@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Without explicit sex scenes, "Challengers" is a horny gift to Gen Z**
+**How to watch the first crewed flight of Boeing’s long-awaited Starliner spacecraft**
 
-You can read more about it [here](https://www.salon.com/2024/05/05/challengers-horny-gen-z/).
+You can read more about it [here](https://www.cnn.com/2024/05/05/world/boeing-starliner-launch-preview-scn/index.html).
 
 ## Requirements
 - Python 3.8
