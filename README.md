@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the first crewed flight of Boeing’s long-awaited Starliner spacecraft**
+**NBA playoffs 2024 - What will decide Game 7? Four key factors ahead of Magic-Cavaliers**
 
-You can read more about it [here](https://www.cnn.com/2024/05/05/world/boeing-starliner-launch-preview-scn/index.html).
+You can read more about it [here](https://www.espn.com/nba/insider/story/_/id/40084269/nba-playoffs-2024-decide-game-7-four-key-factors-ahead-magic-cavaliers).
 
 ## Requirements
 - Python 3.8
