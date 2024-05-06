@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panama election: Panamanians vote to elect new president**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
