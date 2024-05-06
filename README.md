@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**There’s actually no such thing as vegetables. Here’s why you should eat them anyway**
+**Look up for the dazzling Eta Aquariid meteor shower Sunday and Monday**
 
-You can read more about it [here](https://www.cnn.com/2024/05/05/health/what-are-vegetables-nutrients-plants-wellness/index.html).
+You can read more about it [here](https://www.ksl.com/article/51001882/look-up-for-the-dazzling-eta-aquariid-meteor-shower-sunday-and-monday).
 
 ## Requirements
 - Python 3.8
