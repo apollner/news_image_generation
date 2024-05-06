@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Seinfeld Crashes ‘SNL’ Weekend Update As “A Man Who Did Too Much Press” With A Warning For Ryan Gosling**
+**UFC 301: Pantoja vs Erceg Prelim Results | Winner Interviews, Highlights And More From Rio de Janeiro**
 
-You can read more about it [here](http://deadline.com/2024/05/jerry-seinfeld-crashes-snl-weekend-update-ryan-gosling-1235904678/).
+You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-301-pantoja-vs-erceg?language_content_entity=en).
 
 ## Requirements
 - Python 3.8
