@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Jones Brawls with Two Men on Airport Escalator, Claims Self-Defense | TMZ**
+**There’s actually no such thing as vegetables. Here’s why you should eat them anyway**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wRFLhq8TiDw).
+You can read more about it [here](https://www.cnn.com/2024/05/05/health/what-are-vegetables-nutrients-plants-wellness/index.html).
 
 ## Requirements
 - Python 3.8
