@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian police shoot dead armed teen after stabbing attack that had ‘hallmarks’ of terror**
+**Helldivers 2 has been pulled from Steam in 170 countries without PSN access, while Valve ignores its own policy to issue refunds for players with over 100 hours**
 
-You can read more about it [here](https://www.cnn.com/2024/05/05/australia/australia-perth-stabbing-attack-armed-teen-shot-dead/index.html).
+You can read more about it [here](https://www.gamesradar.com/games/third-person-shooter/helldivers-2-has-been-pulled-from-steam-in-170-countries-without-psn-access-while-valve-ignores-its-own-policy-to-issue-refunds-for-players-with-over-100-hours/).
 
 ## Requirements
 - Python 3.8
