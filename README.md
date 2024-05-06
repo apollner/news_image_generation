@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Look up for the dazzling Eta Aquariid meteor shower Sunday and Monday**
+**Canelo Alvarez decisions Jaime Munguia in title defense**
 
-You can read more about it [here](https://www.ksl.com/article/51001882/look-up-for-the-dazzling-eta-aquariid-meteor-shower-sunday-and-monday).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/40085592/canelo-alvarez-too-much-jaime-munguia-title-defense).
 
 ## Requirements
 - Python 3.8
