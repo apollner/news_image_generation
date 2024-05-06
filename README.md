@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ending of Google's monopoly trial has Silicon Valley on edge**
+**Wall Street Cruel Summer: Stock Market Crash, Inflation Ends Vacation**
 
-You can read more about it [here](https://finance.yahoo.com/news/the-ending-of-googles-monopoly-trial-has-silicon-valley-on-edge-113835464.html).
+You can read more about it [here](https://www.businessinsider.com/wall-street-summer-worry-stock-market-crash-inflation-hamtons-vacation-2024-5).
 
 ## Requirements
 - Python 3.8
