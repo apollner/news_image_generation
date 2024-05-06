@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: Ceasefire talks intensify in Cairo**
+**Demonstration Ends After Protesters Refuse to Comply with University Policy**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68956549).
+You can read more about it [here](https://news.virginia.edu/content/demonstration-ends-after-protesters-refuse-comply-university-policy).
 
 ## Requirements
 - Python 3.8
