@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**London mayor election: Sadiq Khan clinches historic third term**
+**Nearly 100,000 children in the US lost a parent to a drug overdose or gun violence in 2020, study finds**
 
-You can read more about it [here](https://www.bbc.com/news/uk-england-london-68952475).
+You can read more about it [here](https://www.cnn.com/2024/05/04/health/parent-death-drug-overdose-gun-violence/index.html).
 
 ## Requirements
 - Python 3.8
