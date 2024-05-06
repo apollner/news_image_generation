@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu government votes to close Al Jazeera channel in Israel**
+**Pro-Palestinian protest disrupts University of Michigan commencement**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel).
+You can read more about it [here](https://www.clickondetroit.com/all-about-ann-arbor/2024/05/05/pro-palestinian-protest-disrupts-university-of-michigan-commencement/).
 
 ## Requirements
 - Python 3.8
