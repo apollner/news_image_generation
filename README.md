@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs 2024 - What will decide Game 7? Four key factors ahead of Magic-Cavaliers**
+**News Wrap: Israel shuts down Kerem Shalom crossing into Gaza after Hamas attack**
 
-You can read more about it [here](https://www.espn.com/nba/insider/story/_/id/40084269/nba-playoffs-2024-decide-game-7-four-key-factors-ahead-magic-cavaliers).
+You can read more about it [here](https://www.pbs.org/newshour/show/news-wrap-israel-shuts-down-kerem-shalom-crossing-into-gaza-after-hamas-attack).
 
 ## Requirements
 - Python 3.8
