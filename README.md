@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italian model claims he’s been fired from Met Gala after upstaging Kylie Jenner at last year’s ceremony**
+**Helldivers 2 Pulled From 177 Countries Due to PSN Linking Requirement, Arrowhead 'Talking Solutions'**
 
-You can read more about it [here](https://pagesix.com/2024/05/05/entertainment/italian-model-claims-hes-been-fired-from-met-gala-after-upstaging-kylie-jenner-at-last-years-ceremony/).
+You can read more about it [here](https://www.ign.com/articles/helldivers-2-pulled-from-sale-in-177-countries-due-to-psn-linking-requirement).
 
 ## Requirements
 - Python 3.8
