@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ending of Google's monopoly trial has Silicon Valley on edge**
+**FLiRT, the new COVID variants are circulating fast: All about symptoms, severity**
 
-You can read more about it [here](https://finance.yahoo.com/news/the-ending-of-googles-monopoly-trial-has-silicon-valley-on-edge-113835464.html).
+You can read more about it [here](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/flirt-the-new-covid-variants-are-circulating-fast-all-about-symptoms-severity/articleshow/109860956.cms).
 
 ## Requirements
 - Python 3.8
