@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors charge 5 men accused of impersonating Philadelphia police officers in 2006 to kidnap and kill a man**
+**Buffett explains Berkshire's reduced stake in Apple at annual company meeting**
 
-You can read more about it [here](https://www.cbsnews.com/news/prosecutors-charge-5-men-impersonating-philadelphia-police-officers-kidnap-killing-shamari-taylor/).
+You can read more about it [here](https://www.foxbusiness.com/markets/buffett-explains-berkshires-reduced-stake-apple-annual-company-meeting).
 
 ## Requirements
 - Python 3.8
