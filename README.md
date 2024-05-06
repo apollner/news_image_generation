@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ty’ah Settles, 3-year-old killed in D.C., shooting loved french fries, painting**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/05/04/3-year-old-shot-dc/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
