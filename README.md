@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jim Jones Brawls with Two Men on Airport Escalator, Claims Self-Defense | TMZ**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=wRFLhq8TiDw).
 
 ## Requirements
 - Python 3.8
