@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helldivers 2 Pulled From 177 Countries Due to PSN Linking Requirement, Arrowhead 'Talking Solutions'**
+**How surfing 'trip of a lifetime' to Mexico turned deadly for Aussie lacrosse star, his brother and a pal**
 
-You can read more about it [here](https://www.ign.com/articles/helldivers-2-pulled-from-sale-in-177-countries-due-to-psn-linking-requirement).
+You can read more about it [here](https://nypost.com/2024/05/05/world-news/how-mexico-surf-trip-turned-deadly-for-2-aussies-american/).
 
 ## Requirements
 - Python 3.8
