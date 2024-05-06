@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**News Wrap: Israel shuts down Kerem Shalom crossing into Gaza after Hamas attack**
+**Norris beats Verstappen for breakthrough maiden F1 victory**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/news-wrap-israel-shuts-down-kerem-shalom-crossing-into-gaza-after-hamas-attack).
+You can read more about it [here](https://www.formula1.com/en/latest/article/norris-beats-verstappen-for-breakthrough-maiden-f1-victory-in-action-packed.7f9W6X9L3kPQILyO3NljL1).
 
 ## Requirements
 - Python 3.8
