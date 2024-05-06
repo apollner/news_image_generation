@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 301: Pantoja vs Erceg Prelim Results | Winner Interviews, Highlights And More From Rio de Janeiro**
+**Gypsy Rose Gave Wedding Ring Back to Estranged Husband, Family Heirloom**
 
-You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-301-pantoja-vs-erceg?language_content_entity=en).
+You can read more about it [here](https://www.tmz.com/2024/05/05/gypsy-rose-gave-wedding-ring-back-estranged-husband-family-heirloom-ryan-anderson/).
 
 ## Requirements
 - Python 3.8
