@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norris beats Verstappen for breakthrough maiden F1 victory**
+**Italian model claims he’s been fired from Met Gala after upstaging Kylie Jenner at last year’s ceremony**
 
-You can read more about it [here](https://www.formula1.com/en/latest/article/norris-beats-verstappen-for-breakthrough-maiden-f1-victory-in-action-packed.7f9W6X9L3kPQILyO3NljL1).
+You can read more about it [here](https://pagesix.com/2024/05/05/entertainment/italian-model-claims-hes-been-fired-from-met-gala-after-upstaging-kylie-jenner-at-last-years-ceremony/).
 
 ## Requirements
 - Python 3.8
