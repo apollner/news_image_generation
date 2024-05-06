@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street Cruel Summer: Stock Market Crash, Inflation Ends Vacation**
+**Apple’s AI research suggests features are coming for Siri, artists, and more.**
 
-You can read more about it [here](https://www.businessinsider.com/wall-street-summer-worry-stock-market-crash-inflation-hamtons-vacation-2024-5).
+You can read more about it [here](https://www.theverge.com/2024/5/5/24147995/apple-siri-ai-research-chatbot-creativity).
 
 ## Requirements
 - Python 3.8
