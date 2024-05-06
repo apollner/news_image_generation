@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Gave Wedding Ring Back to Estranged Husband, Family Heirloom**
+**Australian police shoot dead 'radicalized' teen**
 
-You can read more about it [here](https://www.tmz.com/2024/05/05/gypsy-rose-gave-wedding-ring-back-estranged-husband-family-heirloom-ryan-anderson/).
+You can read more about it [here](https://www.dw.com/en/australian-police-shoot-dead-radicalized-teen/a-68999810).
 
 ## Requirements
 - Python 3.8
