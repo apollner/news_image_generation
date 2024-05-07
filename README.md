@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortal Kombat 1 Homelander Official Reveal Trailer**
+**Israel-Hamas war: Palestinians ordered to evacuate parts of Rafah as assault looms**
 
-You can read more about it [here](https://www.youtube.com/watch?v=rr54phlIlgI).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
 
 ## Requirements
 - Python 3.8
