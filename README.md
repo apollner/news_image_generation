@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks vs. Pacers: Jalen Brunson has put New York on his back, but how long can he carry this load?**
+**New black hole visualization takes viewers beyond the brink**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/knicks-vs-pacers-jalen-brunson-has-put-new-york-on-his-back-but-how-long-can-he-carry-this-load/).
+You can read more about it [here](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html).
 
 ## Requirements
 - Python 3.8
