@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panama election: Last-minute candidate José Raúl Mulino heads to victory after rivals concede**
+**China's Xi Shouldn't Expect an Easy Ride in Europe This Time**
 
-You can read more about it [here](https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715).
+You can read more about it [here](https://www.wsj.com/world/chinas-xi-shouldnt-expect-an-easy-ride-in-europe-this-time-6a37e9db).
 
 ## Requirements
 - Python 3.8
