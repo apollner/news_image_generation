@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How bird flu could threaten cow cuddling. Yes, it is a thing**
+**College protests across US: Pro-Palestinian encampment closed at USC**
 
-You can read more about it [here](https://www.ksl.com/article/51001832/how-bird-flu-could-threaten-cow-cuddling-yes-it-is-a-thing).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/05/school-protests-usc-closes-campus-updates/73578296007/).
 
 ## Requirements
 - Python 3.8
