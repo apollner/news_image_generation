@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA playoff predictions: Expert picks for second round, with Knicks, Celtics favored to move on**
+**Series previews: What to expect in semifinals of 2024 NBA playoffs**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-playoff-predictions-expert-picks-for-second-round-with-knicks-celtics-favored-to-move-on/).
+You can read more about it [here](https://www.nba.com/news/series-previews-semifinals-2024-nba-playoffs).
 
 ## Requirements
 - Python 3.8
