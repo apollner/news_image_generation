@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 27 Best Jokes and Craziest Moments From Tom Brady’s Netflix Roast, From Gronk Smashing Glasses to Gisele Divorce Puns**
+**Israel-Hamas war: Palestinians ordered to evacuate parts of Rafah as assault looms**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RvbS1icmFkeS1uZXRmbGl4LXJvYXN0LWJlc3Qtam9rZXMtZ2lzZWxlLWRpdm9yY2UtZ3JvbmstMTIzNTk4NjQ0Ni_SAWhodHRwczovL3ZhcmlldHkuY29tLzIwMjQvdHYvbmV3cy90b20tYnJhZHktbmV0ZmxpeC1yb2FzdC1iZXN0LWpva2VzLWdpc2VsZS1kaXZvcmNlLWdyb25rLTEyMzU5ODY0NDYvYW1wLw?oc=5).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
 
 ## Requirements
 - Python 3.8
