@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Young boy dies in Texas floodwaters as authorities make more than 200 rescues across state**
+**Panama election: Last-minute candidate José Raúl Mulino heads to victory after rivals concede**
 
-You can read more about it [here](https://www.cnn.com/2024/05/05/weather/texas-rivers-flooding-rain-forecast/index.html).
+You can read more about it [here](https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715).
 
 ## Requirements
 - Python 3.8
