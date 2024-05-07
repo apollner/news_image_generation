@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New black hole visualization takes viewers beyond the brink**
+**Spurs' Victor Wembanyama voted unanimous Rookie of Year**
 
-You can read more about it [here](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40096225/spurs-victor-wembanyama-named-unanimous-rookie-year).
 
 ## Requirements
 - Python 3.8
