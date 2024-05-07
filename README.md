@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake Drops Kendrick Lamar Diss Track 'The Heart Part 6'**
+**Noem suggests Biden’s dog Commander should suffer a similar fate to Cricket, the dog she shot**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/drake-the-heart-part-6-kendrick-lamar-diss-1235015515/).
+You can read more about it [here](https://www.cnn.com/2024/05/05/politics/kristi-noem-dog-commander-biden/index.html).
 
 ## Requirements
 - Python 3.8
