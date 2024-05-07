@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hungary and Serbia's autocratic leaders will warmly welcome China's Xi during rare European visit**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/hungary-serbia-red-carpet-xi-jinping-c06aa7990dc9bb7249f348ed41386faa).
 
 ## Requirements
 - Python 3.8
