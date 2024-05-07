@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghanistan's only female diplomat quits 'after being caught smuggling gold worth £1.6m'**
+**Body dragged by bear after Mass. man killed in crash, state police say**
 
-You can read more about it [here](https://www.yahoo.com/news/afghanistan-only-female-diplomat-quits-142430126.html).
+You can read more about it [here](https://www.wcvb.com/article/hatfield-massachusetts-bear-i-91-crash/60700659).
 
 ## Requirements
 - Python 3.8
