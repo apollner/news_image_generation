@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Live updates**
+**Even Will Ferrell's Ron Burgundy roasted Tom Brady at Netflix special: 'I never liked you'**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html).
+You can read more about it [here](https://nypost.com/2024/05/06/entertainment/will-ferrells-anchorman-ron-burgundy-roasts-tom-brady-i-never-liked-you/).
 
 ## Requirements
 - Python 3.8
