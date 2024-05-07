@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Palestinians ordered to evacuate parts of Rafah as assault looms**
+**Verstappen: Norris's F1 Miami GP win won't be his last**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL25ld3MvdmVyc3RhcHBlbi1ub3JyaXMtZjEtbWlhbWktZ3Atd2luLXdvbnQtYmUtaGlzLWxhc3QvMTA2MDc0NDkv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
