@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Donald Trump's hush money trial**
+**Knicks vs. Pacers: Jalen Brunson has put New York on his back, but how long can he carry this load?**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-06-24/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/knicks-vs-pacers-jalen-brunson-has-put-new-york-on-his-back-but-how-long-can-he-carry-this-load/).
 
 ## Requirements
 - Python 3.8
