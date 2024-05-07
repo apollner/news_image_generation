@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Noem suggests Biden’s dog Commander should suffer a similar fate to Cricket, the dog she shot**
+**The 27 Best Jokes and Craziest Moments From Tom Brady’s Netflix Roast, From Gronk Smashing Glasses to Gisele Divorce Puns**
 
-You can read more about it [here](https://www.cnn.com/2024/05/05/politics/kristi-noem-dog-commander-biden/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RvbS1icmFkeS1uZXRmbGl4LXJvYXN0LWJlc3Qtam9rZXMtZ2lzZWxlLWRpdm9yY2UtZ3JvbmstMTIzNTk4NjQ0Ni_SAWhodHRwczovL3ZhcmlldHkuY29tLzIwMjQvdHYvbmV3cy90b20tYnJhZHktbmV0ZmxpeC1yb2FzdC1iZXN0LWpva2VzLWdpc2VsZS1kaXZvcmNlLWdyb25rLTEyMzU5ODY0NDYvYW1wLw?oc=5).
 
 ## Requirements
 - Python 3.8
