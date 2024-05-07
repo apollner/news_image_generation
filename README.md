@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Unveils New Spacesuits for Historic Private Astronaut Spacewalk**
+**Israel-Hamas war: Hamas accepts Egyptian-Qatari cease-fire proposal**
 
-You can read more about it [here](https://gizmodo.com/spacex-new-spacesuits-private-astronaut-spacewalk-1851458031).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
 
 ## Requirements
 - Python 3.8
