@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Brady caught on camera warning comic about Robert Kraft massage joke at Netflix roast**
+**SpaceX Unveils New Spacesuits for Historic Private Astronaut Spacewalk**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/tom-brady-caught-camera-warning-comic-robert-kraft-massage-joke-netfli-rcna150869).
+You can read more about it [here](https://gizmodo.com/spacex-new-spacesuits-private-astronaut-spacewalk-1851458031).
 
 ## Requirements
 - Python 3.8
