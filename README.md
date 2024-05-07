@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man arrested, accused of trying to shoot pastor during sermon at Pennsylvania church**
+**Russia to practice tactical nuclear weapon scenario in drills to deter West**
 
-You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/pittsburgh-area-man-arrested-allegedly-trying-to-shoot-church-pastor/).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-practice-tactical-nuclear-weapon-scenario-deter-west-defence-ministry-2024-05-06/).
 
 ## Requirements
 - Python 3.8
