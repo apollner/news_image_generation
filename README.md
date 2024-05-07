@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**We reported for months on changes sweeping Russia. Here's what we found.**
+**Tom Brady caught on camera warning comic about Robert Kraft massage joke at Netflix roast**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/05/06/we-reported-months-changes-sweeping-russia-heres-what-we-found/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/tom-brady-caught-camera-warning-comic-robert-kraft-massage-joke-netfli-rcna150869).
 
 ## Requirements
 - Python 3.8
