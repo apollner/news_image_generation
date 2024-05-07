@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How surfing 'trip of a lifetime' to Mexico turned deadly for Aussie lacrosse star, his brother and a pal**
+**$3 trillion could be injected into the U.S. economy without any federal spending by tweaking this corner of the mortgage market, 'Oracle of Wall Street' says**
 
-You can read more about it [here](https://nypost.com/2024/05/05/world-news/how-mexico-surf-trip-turned-deadly-for-2-aussies-american/).
+You can read more about it [here](https://fortune.com/2024/05/05/economic-outlook-stimulus-home-equity-loan-housing-market-mortgages-freddie-mac/).
 
 ## Requirements
 - Python 3.8
