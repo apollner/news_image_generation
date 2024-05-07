@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Body dragged by bear after Mass. man killed in crash, state police say**
+**We reported for months on changes sweeping Russia. Here's what we found.**
 
-You can read more about it [here](https://www.wcvb.com/article/hatfield-massachusetts-bear-i-91-crash/60700659).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/05/06/we-reported-months-changes-sweeping-russia-heres-what-we-found/).
 
 ## Requirements
 - Python 3.8
