@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 27 Best Jokes and Craziest Moments From Tom Brady’s Netflix Roast, From Gronk Smashing Glasses to Gisele Divorce Puns**
+**‘The Fall Guy’ Expands To $65M WW, ‘Garfield’ Pounces On $22M In Early Offshore Bow – International Box Office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RvbS1icmFkeS1uZXRmbGl4LXJvYXN0LWJlc3Qtam9rZXMtZ2lzZWxlLWRpdm9yY2UtZ3JvbmstMTIzNTk4NjQ0Ni_SAWhodHRwczovL3ZhcmlldHkuY29tLzIwMjQvdHYvbmV3cy90b20tYnJhZHktbmV0ZmxpeC1yb2FzdC1iZXN0LWpva2VzLWdpc2VsZS1kaXZvcmNlLWdyb25rLTEyMzU5ODY0NDYvYW1wLw?oc=5).
+You can read more about it [here](http://deadline.com/2024/05/the-fall-guy-garfield-movie-global-international-box-office-1235904755/).
 
 ## Requirements
 - Python 3.8
