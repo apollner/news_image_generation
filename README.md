@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Hamas accepts Egyptian-Qatari cease-fire proposal**
+**Live updates: Donald Trump's hush money trial**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-06-24/index.html).
 
 ## Requirements
 - Python 3.8
