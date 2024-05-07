@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla moves key auto executive amidst layoffs and departures**
+**[Removed]**
 
-You can read more about it [here](https://www.teslarati.com/tesla-auto-executive-departures/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
