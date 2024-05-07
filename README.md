@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'High risk': Tornado outbreak expected in central U.S. today**
+**Israel-Hamas war: Hamas accepts Egyptian-Qatari cease-fire proposal**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/05/06/high-risk-tornado-outbreak-expected-in-central-u-s-today/73586402007/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
 
 ## Requirements
 - Python 3.8
