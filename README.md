@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Series previews: What to expect in semifinals of 2024 NBA playoffs**
+**Young boy dies in Texas floodwaters as authorities make more than 200 rescues across state**
 
-You can read more about it [here](https://www.nba.com/news/series-previews-semifinals-2024-nba-playoffs).
+You can read more about it [here](https://www.cnn.com/2024/05/05/weather/texas-rivers-flooding-rain-forecast/index.html).
 
 ## Requirements
 - Python 3.8
