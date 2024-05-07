@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Palestinians ordered to evacuate parts of Rafah as assault looms**
+**Noem suggests Biden’s dog Commander should suffer a similar fate to Cricket, the dog she shot**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-humanitarian-aid-8659eae6e0a7362504f0aa4aa4be53e0).
+You can read more about it [here](https://www.cnn.com/2024/05/05/politics/kristi-noem-dog-commander-biden/index.html).
 
 ## Requirements
 - Python 3.8
