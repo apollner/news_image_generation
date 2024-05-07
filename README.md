@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College protests across US: Pro-Palestinian encampment closed at USC**
+**Mortal Kombat 1 Homelander Official Reveal Trailer**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/05/school-protests-usc-closes-campus-updates/73578296007/).
+You can read more about it [here](https://www.youtube.com/watch?v=rr54phlIlgI).
 
 ## Requirements
 - Python 3.8
