@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Noem suggests Biden’s dog Commander should suffer a similar fate to Cricket, the dog she shot**
+**Man arrested, accused of trying to shoot pastor during sermon at Pennsylvania church**
 
-You can read more about it [here](https://www.cnn.com/2024/05/05/politics/kristi-noem-dog-commander-biden/index.html).
+You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/pittsburgh-area-man-arrested-allegedly-trying-to-shoot-church-pastor/).
 
 ## Requirements
 - Python 3.8
