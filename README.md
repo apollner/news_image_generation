@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even Will Ferrell's Ron Burgundy roasted Tom Brady at Netflix special: 'I never liked you'**
+**Afghanistan's only female diplomat quits 'after being caught smuggling gold worth £1.6m'**
 
-You can read more about it [here](https://nypost.com/2024/05/06/entertainment/will-ferrells-anchorman-ron-burgundy-roasts-tom-brady-i-never-liked-you/).
+You can read more about it [here](https://www.yahoo.com/news/afghanistan-only-female-diplomat-quits-142430126.html).
 
 ## Requirements
 - Python 3.8
