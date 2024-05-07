@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia to practice tactical nuclear weapon scenario in drills to deter West**
+**Stock market today: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-practice-tactical-nuclear-weapon-scenario-deter-west-defence-ministry-2024-05-06/).
+You can read more about it [here](https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html).
 
 ## Requirements
 - Python 3.8
