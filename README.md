@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Xi Shouldn't Expect an Easy Ride in Europe This Time**
+**How bird flu could threaten cow cuddling. Yes, it is a thing**
 
-You can read more about it [here](https://www.wsj.com/world/chinas-xi-shouldnt-expect-an-easy-ride-in-europe-this-time-6a37e9db).
+You can read more about it [here](https://www.ksl.com/article/51001832/how-bird-flu-could-threaten-cow-cuddling-yes-it-is-a-thing).
 
 ## Requirements
 - Python 3.8
