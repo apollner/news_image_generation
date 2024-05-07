@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Berkshire Hathaway event gives good view of Warren Buffett's successor but also raises new questions**
+**2024 NBA playoff predictions: Expert picks for second round, with Knicks, Celtics favored to move on**
 
-You can read more about it [here](https://finance.yahoo.com/news/berkshire-hathaway-event-gives-good-215051010.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-playoff-predictions-expert-picks-for-second-round-with-knicks-celtics-favored-to-move-on/).
 
 ## Requirements
 - Python 3.8
