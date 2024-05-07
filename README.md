@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Larson beats Chris Buescher at Kansas in closest finish in NASCAR history**
+**Berkshire Hathaway event gives good view of Warren Buffett's successor but also raises new questions**
 
-You can read more about it [here](https://sports.yahoo.com/kyle-larson-beats-chris-buescher-at-kansas-in-closest-finish-in-nascar-history-013955473.html).
+You can read more about it [here](https://finance.yahoo.com/news/berkshire-hathaway-event-gives-good-215051010.html).
 
 ## Requirements
 - Python 3.8
