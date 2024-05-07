@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Fall Guy’ Expands To $65M WW, ‘Garfield’ Pounces On $22M In Early Offshore Bow – International Box Office**
+**Verstappen: Norris's F1 Miami GP win won't be his last**
 
-You can read more about it [here](http://deadline.com/2024/05/the-fall-guy-garfield-movie-global-international-box-office-1235904755/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL25ld3MvdmVyc3RhcHBlbi1ub3JyaXMtZjEtbWlhbWktZ3Atd2luLXdvbnQtYmUtaGlzLWxhc3QvMTA2MDc0NDkv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
