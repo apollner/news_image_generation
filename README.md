@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a beach trip in Mexico's Baja California turned deadly for surfers from Australia and the US**
+**New Microsoft AI model may challenge GPT-4 and Google Gemini**
 
-You can read more about it [here](https://apnews.com/article/mexico-missing-foreigners-australian-american-surfers-685cbe3faba195be35b4b28b1cfb3acf).
+You can read more about it [here](https://arstechnica.com/information-technology/2024/05/microsoft-developing-mai-1-language-model-that-may-compete-with-openai-report/).
 
 ## Requirements
 - Python 3.8
