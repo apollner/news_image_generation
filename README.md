@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin's inauguration set to kickstart Kremlin reshuffle**
+**UBS swings back to profit and smashes earnings expectations for the first quarter**
 
-You can read more about it [here](https://www.politico.eu/article/vladimir-putin-inauguration-kremlin-reshuffle-russia/).
+You can read more about it [here](https://www.cnbc.com/2024/05/07/ubs-first-quarter-earnings-2024.html).
 
 ## Requirements
 - Python 3.8
