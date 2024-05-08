@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Officials admit they flubbed critical kick-ball call in controversial final minute of Pacers-Knicks**
+**After years in a Syrian ISIS camp, a ten-person American family is back in the U.S.**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-officials-admit-they-flubbed-critical-kick-ball-call-in-controversial-final-minute-of-pacers-knicks-033802997.html).
+You can read more about it [here](https://www.npr.org/2024/05/07/1249463072/after-years-in-a-syrian-camp-a-ten-person-american-family-is-back-in-the-u-s).
 
 ## Requirements
 - Python 3.8
