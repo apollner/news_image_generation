@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pacers react to 'controversial' late calls in Knicks' Game 1 win, Myles Turner expects 'glaring' L2M report**
+**New COVID variant 'FLiRT': What to know about spread, symptoms**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/pacers-react-to-controversial-late-calls-in-knicks-game-1-win-myles-turner-expects-glaring-l2m-report/).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/05/07/new-covid-variant-flirt/73596421007/).
 
 ## Requirements
 - Python 3.8
