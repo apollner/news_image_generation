@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump mocks Sen. Tester's weight, hints at a Mont. campaign appearance**
+**Judge finds Donald Trump in contempt for 10th time over gag order and threatens jail time**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/05/06/trump-tester-weight-comments/).
+You can read more about it [here](https://www.cnn.com/2024/05/06/politics/merchan-trump-gag-order-contempt/index.html).
 
 ## Requirements
 - Python 3.8
