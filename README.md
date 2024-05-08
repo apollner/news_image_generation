@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: WR Boyd agrees to contract with Titans**
+**University of Chicago police clear pro-Palestinian protest encampment on campus**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40101148/source-wr-tyler-boyd-agrees-one-year-contract-titans).
+You can read more about it [here](https://abc7chicago.com/university-of-chicago-police-begin-clearing-pro-palestinian-protest-encampment-on-campus/14777881/).
 
 ## Requirements
 - Python 3.8
