@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macron's cognac — the only thing that went down smoothly with Xi**
+**NASA simulations show what it would be like to fall in black hole: Video**
 
-You can read more about it [here](https://www.politico.eu/article/emmanuel-macron-xi-jinping-china-france-meeting-trade-ukraine/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/07/nasa-black-hole-simulation-fall-video/73597922007/).
 
 ## Requirements
 - Python 3.8
