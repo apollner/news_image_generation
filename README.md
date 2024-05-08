@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Met Gala red carpet photos: Zendaya, Tyla, Ariana Grande, Sabrina Carpenter, Doja Cat, Lizzo and more**
+**No one knows when the 2024 schedule is coming**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/celebrity/met-gala-2024-red-carpet-photos-rcna150956).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-one-knows-when-the-2024-schedule-is-coming).
 
 ## Requirements
 - Python 3.8
