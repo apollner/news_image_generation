@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Reports from Timberwolves-Nuggets Game 2**
+**FAA investigating whether Boeing SC employees ‘falsified inspection records’**
 
-You can read more about it [here](https://www.startribune.com/timberwolves-nuggets-live-game-report-anthony-edwards-nikola-jokic-rudy-gobert-baby/600364132/).
+You can read more about it [here](https://www.live5news.com/2024/05/06/faa-investigating-whether-boeing-sc-employees-falsified-inspection-records/).
 
 ## Requirements
 - Python 3.8
