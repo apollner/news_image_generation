@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush-money trial sees 'falsified' documents at heart of case**
+**Economic growth boosts Social Security and Medicare but funding crisis still looms - POLITICO**
 
-You can read more about it [here](https://www.businessinsider.com/trump-hush-money-trial-falsified-documents-heart-case-2024-5).
+You can read more about it [here](https://www.politico.com/news/2024/05/06/social-security-deplete-reserves-2035-00156361).
 
 ## Requirements
 - Python 3.8
