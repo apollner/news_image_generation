@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doja Cat Is Essentially Naked in 2024 Met Gala After-Party Look**
+**2 Ukrainians detained for allegedly plotting Zelenskyy assassination with Russia, Ukraine says**
 
-You can read more about it [here](https://www.eonline.com/news/1401032/doja-cat-is-essentially-naked-in-2024-met-gala-after-party-look).
+You can read more about it [here](https://abcnews.go.com/International/2-ukrainians-detained-allegedly-plotting-zelenskyy-assassination-russia/story?id=108534193).
 
 ## Requirements
 - Python 3.8
