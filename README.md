@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Microsoft AI model may challenge GPT-4 and Google Gemini**
+**Met Gala 2024: Watch as stars walk the carpet**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2024/05/microsoft-developing-mai-1-language-model-that-may-compete-with-openai-report/).
+You can read more about it [here](https://www.youtube.com/watch?v=JIGkDU7Z39c).
 
 ## Requirements
 - Python 3.8
