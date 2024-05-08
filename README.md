@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College protests: Pro-Palestinian protesters retake MIT encampment**
+**2024 Met Gala red carpet photos: Zendaya, Tyla, Ariana Grande, Sabrina Carpenter, Doja Cat, Lizzo and more**
 
-You can read more about it [here](https://apnews.com/article/columbia-commencement-protests-gaza-9bb8051253c45947509feb32ced78f8c).
+You can read more about it [here](https://www.nbcnews.com/pop-culture/celebrity/met-gala-2024-red-carpet-photos-rcna150956).
 
 ## Requirements
 - Python 3.8
