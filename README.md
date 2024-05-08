@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spurs' Victor Wembanyama voted unanimous Rookie of Year**
+**How a beach trip in Mexico's Baja California turned deadly for surfers from Australia and the US**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40096225/spurs-victor-wembanyama-named-unanimous-rookie-year).
+You can read more about it [here](https://apnews.com/article/mexico-missing-foreigners-australian-american-surfers-685cbe3faba195be35b4b28b1cfb3acf).
 
 ## Requirements
 - Python 3.8
