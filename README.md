@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge finds Donald Trump in contempt for 10th time over gag order and threatens jail time**
+**Trump hush-money trial sees 'falsified' documents at heart of case**
 
-You can read more about it [here](https://www.cnn.com/2024/05/06/politics/merchan-trump-gag-order-contempt/index.html).
+You can read more about it [here](https://www.businessinsider.com/trump-hush-money-trial-falsified-documents-heart-case-2024-5).
 
 ## Requirements
 - Python 3.8
