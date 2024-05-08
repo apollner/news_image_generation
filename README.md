@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy Scouts is changing its name to Scouting America**
+**Reddit shares soar almost 20% after company reports revenue pop in debut earnings report**
 
-You can read more about it [here](https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3).
+You can read more about it [here](https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html).
 
 ## Requirements
 - Python 3.8
