@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney stock falls as company attempts to make streaming business profitable**
+**NASA simulations show what it would be like to fall in black hole: Video**
 
-You can read more about it [here](https://finance.yahoo.com/news/disney-stock-falls-as-company-attempts-to-make-streaming-business-profitable-103032382.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/07/nasa-black-hole-simulation-fall-video/73597922007/).
 
 ## Requirements
 - Python 3.8
