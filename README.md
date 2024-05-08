@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA investigating whether Boeing SC employees ‘falsified inspection records’**
+**Trump held in contempt again for violating gag order as judge threatens jail time**
 
-You can read more about it [here](https://www.live5news.com/2024/05/06/faa-investigating-whether-boeing-sc-employees-falsified-inspection-records/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-trial-gag-order-contempt/).
 
 ## Requirements
 - Python 3.8
