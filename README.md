@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump held in contempt again for violating gag order as judge threatens jail time**
+**Putin's inauguration set to kickstart Kremlin reshuffle**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-trial-gag-order-contempt/).
+You can read more about it [here](https://www.politico.eu/article/vladimir-putin-inauguration-kremlin-reshuffle-russia/).
 
 ## Requirements
 - Python 3.8
