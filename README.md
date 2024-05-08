@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Inside the Growing Alarm Over Blackstone's BREIT Real-Estate Fund**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.businessinsider.com/blackstone-breit-commercial-real-estate-fund-misled-investors-private-equity-2024-5).
 
 ## Requirements
 - Python 3.8
