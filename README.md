@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Economic growth boosts Social Security and Medicare but funding crisis still looms - POLITICO**
+**Live Reports from Timberwolves-Nuggets Game 2**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/06/social-security-deplete-reserves-2035-00156361).
+You can read more about it [here](https://www.startribune.com/timberwolves-nuggets-live-game-report-anthony-edwards-nikola-jokic-rudy-gobert-baby/600364132/).
 
 ## Requirements
 - Python 3.8
