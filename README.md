@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA simulations show what it would be like to fall in black hole: Video**
+**Boy Scouts is changing its name to Scouting America**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/07/nasa-black-hole-simulation-fall-video/73597922007/).
+You can read more about it [here](https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3).
 
 ## Requirements
 - Python 3.8
