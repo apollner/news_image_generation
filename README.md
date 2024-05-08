@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the Growing Alarm Over Blackstone's BREIT Real-Estate Fund**
+**Disney stock falls as company attempts to make streaming business profitable**
 
-You can read more about it [here](https://www.businessinsider.com/blackstone-breit-commercial-real-estate-fund-misled-investors-private-equity-2024-5).
+You can read more about it [here](https://finance.yahoo.com/news/disney-stock-falls-as-company-attempts-to-make-streaming-business-profitable-103032382.html).
 
 ## Requirements
 - Python 3.8
