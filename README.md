@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Officials admit they flubbed critical kick-ball call in controversial final minute of Pacers-Knicks**
+**Met Gala 2024 red carpet recap: from Zendaya’s second dress to protests**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-officials-admit-they-flubbed-critical-kick-ball-call-in-controversial-final-minute-of-pacers-knicks-033802997.html).
+You can read more about it [here](https://www.washingtonpost.com/style/fashion/2024/05/07/met-gala-2024-highlights-looks/).
 
 ## Requirements
 - Python 3.8
