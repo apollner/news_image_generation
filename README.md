@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney stock falls as company attempts to make streaming business profitable**
+**New Genetic Form of Alzheimer's Identified in People With Common Risk Factor**
 
-You can read more about it [here](https://finance.yahoo.com/news/disney-stock-falls-as-company-attempts-to-make-streaming-business-profitable-103032382.html).
+You can read more about it [here](https://www.sciencealert.com/new-genetic-form-of-alzheimers-identified-in-people-with-common-risk-factor).
 
 ## Requirements
 - Python 3.8
