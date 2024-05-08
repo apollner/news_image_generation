@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza ceasefire uncertain, Israel vows to continue Rafah operation**
+**NBA playoffs: Officials admit they flubbed critical kick-ball call in controversial final minute of Pacers-Knicks**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/wrapup1-israel-begins-evacuating-part-rafah-ahead-threatened-assault-2024-05-06/).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-officials-admit-they-flubbed-critical-kick-ball-call-in-controversial-final-minute-of-pacers-knicks-033802997.html).
 
 ## Requirements
 - Python 3.8
