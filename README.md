@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Met Gala 2024 red carpet recap: from Zendaya’s second dress to protests**
+**Palantir Technologies Inc (PLTR) Q1 2024 Earnings Call Transcript Highlights: Robust Growth and ...**
 
-You can read more about it [here](https://www.washingtonpost.com/style/fashion/2024/05/07/met-gala-2024-highlights-looks/).
+You can read more about it [here](https://finance.yahoo.com/news/palantir-technologies-inc-pltr-q1-071727526.html).
 
 ## Requirements
 - Python 3.8
