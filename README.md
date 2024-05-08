@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No one knows when the 2024 schedule is coming**
+**Pacers react to 'controversial' late calls in Knicks' Game 1 win, Myles Turner expects 'glaring' L2M report**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-one-knows-when-the-2024-schedule-is-coming).
+You can read more about it [here](https://www.cbssports.com/nba/news/pacers-react-to-controversial-late-calls-in-knicks-game-1-win-myles-turner-expects-glaring-l2m-report/).
 
 ## Requirements
 - Python 3.8
