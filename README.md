@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Ukrainians detained for allegedly plotting Zelenskyy assassination with Russia, Ukraine says**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/International/2-ukrainians-detained-allegedly-plotting-zelenskyy-assassination-russia/story?id=108534193).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
