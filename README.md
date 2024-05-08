@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit shares soar almost 20% after company reports revenue pop in debut earnings report**
+**New Starbucks summer menu includes Summer-Berry Refreshers with raspberry pearls**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html).
+You can read more about it [here](https://goodmorningamerica.com/food/story/new-starbucks-summer-menu-includes-summer-berry-refreshers-109989022).
 
 ## Requirements
 - Python 3.8
