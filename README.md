@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks vs. Pacers: Jalen Brunson has put New York on his back, but how long can he carry this load?**
+**Trump mocks Sen. Tester's weight, hints at a Mont. campaign appearance**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/knicks-vs-pacers-jalen-brunson-has-put-new-york-on-his-back-but-how-long-can-he-carry-this-load/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/05/06/trump-tester-weight-comments/).
 
 ## Requirements
 - Python 3.8
