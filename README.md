@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado spotted in Central US as severe weather threatens region**
+**Gaza ceasefire uncertain, Israel vows to continue Rafah operation**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/05/06/high-risk-tornado-outbreak-expected-in-central-u-s-today/73586402007/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/wrapup1-israel-begins-evacuating-part-rafah-ahead-threatened-assault-2024-05-06/).
 
 ## Requirements
 - Python 3.8
