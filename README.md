@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Genetic Form of Alzheimer's Identified in People With Common Risk Factor**
+**College protests: Pro-Palestinian protesters retake MIT encampment**
 
-You can read more about it [here](https://www.sciencealert.com/new-genetic-form-of-alzheimers-identified-in-people-with-common-risk-factor).
+You can read more about it [here](https://apnews.com/article/columbia-commencement-protests-gaza-9bb8051253c45947509feb32ced78f8c).
 
 ## Requirements
 - Python 3.8
