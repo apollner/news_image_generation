@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin's inauguration set to kickstart Kremlin reshuffle**
+**Nintendo Switch "Successor" Announcement Is Coming "This Fiscal Year"**
 
-You can read more about it [here](https://www.politico.eu/article/vladimir-putin-inauguration-kremlin-reshuffle-russia/).
+You can read more about it [here](https://www.nintendolife.com/news/2024/05/nintendo-switch-successor-announcement-is-coming-this-fiscal-year).
 
 ## Requirements
 - Python 3.8
