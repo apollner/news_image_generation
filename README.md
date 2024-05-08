@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**University of Chicago police clear pro-Palestinian protest encampment on campus**
+**Doja Cat Is Essentially Naked in 2024 Met Gala After-Party Look**
 
-You can read more about it [here](https://abc7chicago.com/university-of-chicago-police-begin-clearing-pro-palestinian-protest-encampment-on-campus/14777881/).
+You can read more about it [here](https://www.eonline.com/news/1401032/doja-cat-is-essentially-naked-in-2024-met-gala-after-party-look).
 
 ## Requirements
 - Python 3.8
