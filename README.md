@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palantir Technologies Inc (PLTR) Q1 2024 Earnings Call Transcript Highlights: Robust Growth and ...**
+**NBA playoffs: Officials admit they flubbed critical kick-ball call in controversial final minute of Pacers-Knicks**
 
-You can read more about it [here](https://finance.yahoo.com/news/palantir-technologies-inc-pltr-q1-071727526.html).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-officials-admit-they-flubbed-critical-kick-ball-call-in-controversial-final-minute-of-pacers-knicks-033802997.html).
 
 ## Requirements
 - Python 3.8
