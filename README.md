@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Switch "Successor" Announcement Is Coming "This Fiscal Year"**
+**Tornado spotted in Central US as severe weather threatens region**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/05/nintendo-switch-successor-announcement-is-coming-this-fiscal-year).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/05/06/high-risk-tornado-outbreak-expected-in-central-u-s-today/73586402007/).
 
 ## Requirements
 - Python 3.8
