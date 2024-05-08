@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Referees admit to missing crucial call in final seconds of Knicks win against Pacers**
+**Source: WR Boyd agrees to contract with Titans**
 
-You can read more about it [here](https://www.nbcnews.com/news/sports/referees-admit-missing-crucial-call-final-seconds-knicks-win-pacers-rcna151080).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40101148/source-wr-tyler-boyd-agrees-one-year-contract-titans).
 
 ## Requirements
 - Python 3.8
