@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: US futures slip amid earnings rush, Fed teeters**
+**Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-us-futures-slip-amid-earnings-rush-fed-teeters-121113734.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d).
 
 ## Requirements
 - Python 3.8
