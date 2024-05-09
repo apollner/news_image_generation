@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDIC Investigation Finds Culture Rife With Sexual Harassment, Discrimination**
+**Drake house shooting: Police investigating, security injured**
 
-You can read more about it [here](https://www.wsj.com/finance/regulation/fdic-investigation-report-discrimination-harassment-522d43d9).
+You can read more about it [here](https://apnews.com/article/drake-shooting-toronto-mansion-03741edc5b50c9cab8424c7fa15adab1).
 
 ## Requirements
 - Python 3.8
