@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes reported in west Michigan; multiple buildings in Portage damaged: Live updates**
+**COVID-19 variants called 'FLiRT' continue to spread across the US, CDC says**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/2024/05/07/tornado-confirmed-in-michigan/73605562007/).
+You can read more about it [here](https://www.ksat.com/news/local/2024/05/08/covid-19-variants-called-flirt-continue-to-spread-across-the-us-cdc-says/).
 
 ## Requirements
 - Python 3.8
