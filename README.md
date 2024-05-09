@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack**
+**Georgia appeals court agrees to review ruling allowing Fani Willis to stay on Trump election case**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d).
+You can read more about it [here](https://apnews.com/article/trump-fani-willis-georgia-election-indictment-31ca3234b244126cbe412dc279fd0562).
 
 ## Requirements
 - Python 3.8
