@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Embattled Kansas City Chiefs WR Rashee Rice suspected in a nightclub assault, per reports**
+**Jamal Murray fined $100,000, avoids suspension for throwing objects at official during playoff game**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2024/05/07/rashee-ricechiefs-suspect-nightclub-assault/73606021007/).
+You can read more about it [here](https://www.denverpost.com/2024/05/07/jamal-murray-fined-nuggets-timberwolves/).
 
 ## Requirements
 - Python 3.8
