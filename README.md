@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61**
+**Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack**
 
-You can read more about it [here](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d).
 
 ## Requirements
 - Python 3.8
