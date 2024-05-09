@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venus looked a lot like Earth when they first formed**
+**Stormy Daniels' testimony at Donald Trump's trial: Five takeaways**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNS8wOC8xMjQ5NTkxNTU0L3ZlbnVzLWVhcnRoLW1hcnMtcGxhbmV0LXNpYmxpbmdz0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2ZpdmUtdGFrZWF3YXlzLXN0b3JteS1kYW5pZWxzLXRlc3RpbW9ueS1kb25hbGQtdHJ1bXBzLXRyaWFsLTIwMjQtMDUtMDgv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
