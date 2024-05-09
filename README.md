@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy Scouts is changing its name to Scouting America**
+**Tornadoes reported in west Michigan; multiple buildings in Portage damaged: Live updates**
 
-You can read more about it [here](https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/2024/05/07/tornado-confirmed-in-michigan/73605562007/).
 
 ## Requirements
 - Python 3.8
