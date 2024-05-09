@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major storms continue across the country following devastating overnight tornadoes in Michigan**
+**You can get a $100 gift card when you preorder Google's Pixel 8A**
 
-You can read more about it [here](https://www.nbcnews.com/news/weather/major-storms-continue-country-devastating-overnight-tornadoes-michigan-rcna151217).
+You can read more about it [here](https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale).
 
 ## Requirements
 - Python 3.8
