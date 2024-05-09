@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stormy Daniels' testimony at Donald Trump's trial: Five takeaways**
+**Russia's biggest airstrike in weeks piles pressure on Ukraine power grid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2ZpdmUtdGFrZWF3YXlzLXN0b3JteS1kYW5pZWxzLXRlc3RpbW9ueS1kb25hbGQtdHJ1bXBzLXRyaWFsLTIwMjQtMDUtMDgv0gEA?oc=5).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-targets-energy-facilities-air-attack-ukraine-officials-say-2024-05-08/).
 
 ## Requirements
 - Python 3.8
