@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamal Murray FINED $100k for GM 2 incident 👀 'It was a RECKLESS ACT!' 🗣️ - Tim Legler | Get Up**
+**D.C. police begin clearing GWU protest encampment**
 
-You can read more about it [here](https://www.youtube.com/watch?v=U0Nsq4UlCSM).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/05/08/gwu-protest-encampment-dc-police-arrests/).
 
 ## Requirements
 - Python 3.8
