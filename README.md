@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Joins Ryan Murphy’s FX Series ‘Grotesquerie’**
+**2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/travis-kelce-ryan-murphy-fx-series-grotesquerie-1235893302/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/).
 
 ## Requirements
 - Python 3.8
