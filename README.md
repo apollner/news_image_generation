@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack**
+**Astronomers finally detect a rocky planet with an atmosphere**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d).
+You can read more about it [here](https://www.nbcnews.com/science/space/astronomers-detect-rocky-planet-atmosphere-rcna151315).
 
 ## Requirements
 - Python 3.8
