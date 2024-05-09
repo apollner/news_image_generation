@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia appeals court agrees to review ruling allowing Fani Willis to stay on Trump election case**
+**Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61**
 
-You can read more about it [here](https://apnews.com/article/trump-fani-willis-georgia-election-indictment-31ca3234b244126cbe412dc279fd0562).
+You can read more about it [here](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/).
 
 ## Requirements
 - Python 3.8
