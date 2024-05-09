@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Probe launched after Boeing cargo plane lands in Istanbul without front landing gear**
+**Apple’s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/boeing-cargo-plane-lands-istanbul-without-front-landing-gear-no-casualties-2024-05-08/).
+You can read more about it [here](http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/).
 
 ## Requirements
 - Python 3.8
