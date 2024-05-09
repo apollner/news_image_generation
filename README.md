@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Launch Alliance delays the first crewed Boeing Starliner launch**
+**Shohei Ohtani’s former translator to plead guilty to transferring $17M from MLB star’s bank account**
 
-You can read more about it [here](https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/).
+You can read more about it [here](https://www.nbcnews.com/news/sports/shohei-ohtanis-former-translator-plead-guilty-transferring-17-million-rcna151363).
 
 ## Requirements
 - Python 3.8
