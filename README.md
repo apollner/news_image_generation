@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**You can get a $100 gift card when you preorder Google's Pixel 8A**
+**Probe launched after Boeing cargo plane lands in Istanbul without front landing gear**
 
-You can read more about it [here](https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale).
+You can read more about it [here](https://www.reuters.com/world/middle-east/boeing-cargo-plane-lands-istanbul-without-front-landing-gear-no-casualties-2024-05-08/).
 
 ## Requirements
 - Python 3.8
