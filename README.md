@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Nuggets' Jamal Miuray fined $100000 for throwing heat pack in Game 2**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.startribune.com/denver-nuggets-jamal-murray-heat-pack-throw-onto-floor-loss-timberwolves-playoffs/600364165/).
 
 ## Requirements
 - Python 3.8
