@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else**
+**United Launch Alliance delays the first crewed Boeing Starliner launch**
 
-You can read more about it [here](http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/).
+You can read more about it [here](https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/).
 
 ## Requirements
 - Python 3.8
