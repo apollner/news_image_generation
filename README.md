@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else**
+**Arm Shares Slip After Chip Designer Gives Tepid Annual Forecast**
 
-You can read more about it [here](http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-08/arm-shares-slip-after-chip-designer-gives-tepid-annual-forecast).
 
 ## Requirements
 - Python 3.8
