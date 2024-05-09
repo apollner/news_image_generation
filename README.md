@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack**
+**Venus looked a lot like Earth when they first formed**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNS8wOC8xMjQ5NTkxNTU0L3ZlbnVzLWVhcnRoLW1hcnMtcGxhbmV0LXNpYmxpbmdz0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
