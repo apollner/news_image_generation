@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamal Murray fined $100,000, avoids suspension for throwing objects at official during playoff game**
+**Travis Kelce Joins Ryan Murphy’s FX Series ‘Grotesquerie’**
 
-You can read more about it [here](https://www.denverpost.com/2024/05/07/jamal-murray-fined-nuggets-timberwolves/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/travis-kelce-ryan-murphy-fx-series-grotesquerie-1235893302/).
 
 ## Requirements
 - Python 3.8
