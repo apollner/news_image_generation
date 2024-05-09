@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cleveland Cavaliers vs Boston Celtics May 7, 2024 Game Summary**
+**Stock market today: US futures slip amid earnings rush, Fed teeters**
 
-You can read more about it [here](https://www.nba.com/game/cle-vs-undefined-0042300201).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-us-futures-slip-amid-earnings-rush-fed-teeters-121113734.html).
 
 ## Requirements
 - Python 3.8
