@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major storms continue across the country following devastating overnight tornadoes in Michigan**
+**Kim Kardashian's Waist At Met Gala: How Did She Do It? Is It Safe?**
 
-You can read more about it [here](https://www.nbcnews.com/news/weather/major-storms-continue-country-devastating-overnight-tornadoes-michigan-rcna151217).
+You can read more about it [here](https://www.today.com/health/news/kim-kardashian-waist-met-gala-rcna151019).
 
 ## Requirements
 - Python 3.8
