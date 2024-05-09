@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's biggest airstrike in weeks piles pressure on Ukraine power grid**
+**Jamal Murray FINED $100k for GM 2 incident 👀 'It was a RECKLESS ACT!' 🗣️ - Tim Legler | Get Up**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-targets-energy-facilities-air-attack-ukraine-officials-say-2024-05-08/).
+You can read more about it [here](https://www.youtube.com/watch?v=U0Nsq4UlCSM).
 
 ## Requirements
 - Python 3.8
