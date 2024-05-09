@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge indefinitely postpones Trump classified documents trial**
+**FDIC Investigation Finds Culture Rife With Sexual Harassment, Discrimination**
 
-You can read more about it [here](https://www.cnn.com/2024/05/07/politics/judge-postpones-trump-classified-documents-trial/index.html).
+You can read more about it [here](https://www.wsj.com/finance/regulation/fdic-investigation-report-discrimination-harassment-522d43d9).
 
 ## Requirements
 - Python 3.8
