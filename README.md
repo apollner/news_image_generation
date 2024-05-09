@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google offering solid trade-in values towards Pixel 8a for previous A-Series phones**
+**Federal judge indefinitely postpones Trump classified documents trial**
 
-You can read more about it [here](http://9to5google.com/2024/05/07/google-pixel-8a-trade-in-values/).
+You can read more about it [here](https://www.cnn.com/2024/05/07/politics/judge-postpones-trump-classified-documents-trial/index.html).
 
 ## Requirements
 - Python 3.8
