@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani’s former translator to plead guilty to transferring $17M from MLB star’s bank account**
+**Apple’s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else**
 
-You can read more about it [here](https://www.nbcnews.com/news/sports/shohei-ohtanis-former-translator-plead-guilty-transferring-17-million-rcna151363).
+You can read more about it [here](http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/).
 
 ## Requirements
 - Python 3.8
