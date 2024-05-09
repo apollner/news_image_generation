@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US revokes licences for supply of chips to China's Huawei**
+**Cleveland Cavaliers @ Boston Celtics Game 1 | #NBAplayoffs presented by Google Pixel Live Scoreboard**
 
-You can read more about it [here](https://www.ft.com/content/cf965960-b083-49ee-bae1-6ce95fe872a3).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
