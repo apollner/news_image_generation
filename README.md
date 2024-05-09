@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake house shooting: Police investigating, security injured**
+**2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games**
 
-You can read more about it [here](https://apnews.com/article/drake-shooting-toronto-mansion-03741edc5b50c9cab8424c7fa15adab1).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/).
 
 ## Requirements
 - Python 3.8
