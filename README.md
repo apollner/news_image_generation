@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes reported in west Michigan; multiple buildings in Portage damaged: Live updates**
+**Embattled Kansas City Chiefs WR Rashee Rice suspected in a nightclub assault, per reports**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/2024/05/07/tornado-confirmed-in-michigan/73605562007/).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/chiefs/2024/05/07/rashee-ricechiefs-suspect-nightclub-assault/73606021007/).
 
 ## Requirements
 - Python 3.8
