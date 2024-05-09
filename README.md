@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 variants called 'FLiRT' continue to spread across the US, CDC says**
+**Cleveland Cavaliers vs Boston Celtics May 7, 2024 Game Summary**
 
-You can read more about it [here](https://www.ksat.com/news/local/2024/05/08/covid-19-variants-called-flirt-continue-to-spread-across-the-us-cdc-says/).
+You can read more about it [here](https://www.nba.com/game/cle-vs-undefined-0042300201).
 
 ## Requirements
 - Python 3.8
