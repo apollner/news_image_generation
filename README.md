@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xi begins Serbia visit on the 25th anniversary of NATO's bombing of the Chinese Embassy**
+**US revokes licences for supply of chips to China's Huawei**
 
-You can read more about it [here](https://apnews.com/article/serbia-china-nato-bombing-embassy-5b13db499f39721faf9c82b9f88f4dfa).
+You can read more about it [here](https://www.ft.com/content/cf965960-b083-49ee-bae1-6ce95fe872a3).
 
 ## Requirements
 - Python 3.8
