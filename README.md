@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games**
+**Xi begins Serbia visit on the 25th anniversary of NATO's bombing of the Chinese Embassy**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/).
+You can read more about it [here](https://apnews.com/article/serbia-china-nato-bombing-embassy-5b13db499f39721faf9c82b9f88f4dfa).
 
 ## Requirements
 - Python 3.8
