@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**China's Xi Jinping gets red-carpet welcome in Serbia**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/cm54pp11x3go).
 
 ## Requirements
 - Python 3.8
