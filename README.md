@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy Scouts of America changes name to Scouting America in rebrand**
+**Boy Scouts is changing its name to Scouting America**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/07/boy-scouts-name-change-scouting-america/).
+You can read more about it [here](https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3).
 
 ## Requirements
 - Python 3.8
