@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronomers finally detect a rocky planet with an atmosphere**
+**Major storms continue across the country following devastating overnight tornadoes in Michigan**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/astronomers-detect-rocky-planet-atmosphere-rcna151315).
+You can read more about it [here](https://www.nbcnews.com/news/weather/major-storms-continue-country-devastating-overnight-tornadoes-michigan-rcna151217).
 
 ## Requirements
 - Python 3.8
