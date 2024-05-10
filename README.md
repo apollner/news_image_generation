@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Israeli military operations in Rafah expand from airstrikes to ground operations, satellite images show**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/05/08/middleeast/rafah-israel-idf-ground-operation-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
