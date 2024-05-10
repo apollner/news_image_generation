@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says he will stop sending bombs and artillery shells to Israel if they launch major invasion of Rafah**
+**House votes to kill Marjorie Taylor Greene's effort to oust House Speaker Mike Johnson**
 
-You can read more about it [here](https://www.cnn.com/2024/05/08/politics/joe-biden-interview-cnntv/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/marjorie-taylor-greene-oust-house-speaker-mike-johnson/).
 
 ## Requirements
 - Python 3.8
