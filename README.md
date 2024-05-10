@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's political fate likely won't be decided by the courts after all**
+**Stocks Tread Water as Traders Look to BOE Decision: Markets Wrap - · - Bloomberg**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/08/trump-four-criminal-cases-one-trial-00156962).
+You can read more about it [here](https://finance.yahoo.com/news/dollar-firms-yen-weakens-stocks-222123436.html).
 
 ## Requirements
 - Python 3.8
