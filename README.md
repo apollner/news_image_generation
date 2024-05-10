@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump lawyer questions Stormy Daniels' account of sex with Trump**
+**Adam Montgomery murder sentencing live updates: Convict arrives**
 
-You can read more about it [here](https://www.reuters.com/world/us/stormy-daniels-face-tough-questions-trump-lawyers-trial-2024-05-09/).
+You can read more about it [here](https://www.wmur.com/article/adam-montgomery-harmony-murder-sentence/60747061).
 
 ## Requirements
 - Python 3.8
