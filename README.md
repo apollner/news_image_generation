@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miss Teen USA resigns days after Miss USA departure**
+**Crump wants answers about US Airman Roger Fortson's police shooting**
 
-You can read more about it [here](https://www.bbc.com/news/newsbeat-68982769).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/09/roger-fortson-death-okaloosa-county-sheriff-shooting/73624898007/).
 
 ## Requirements
 - Python 3.8
