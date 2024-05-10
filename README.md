@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of England moves closer to first rate cut since 2020**
+**Miss Teen USA resigns days after Miss USA departure**
 
-You can read more about it [here](https://www.reuters.com/markets/europe/bank-england-moves-closer-first-rate-cut-since-2020-2024-05-09/).
+You can read more about it [here](https://www.bbc.com/news/newsbeat-68982769).
 
 ## Requirements
 - Python 3.8
