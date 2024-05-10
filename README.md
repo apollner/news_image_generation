@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Molecule responsible for robbing Venus of its water may finally have been identified**
+**House votes to kill Marjorie Taylor Greene's effort to oust House Speaker Mike Johnson**
 
-You can read more about it [here](https://www.livescience.com/space/venus/molecule-responsible-for-robbing-venus-of-its-water-may-finally-have-been-identified).
+You can read more about it [here](https://www.cbsnews.com/news/marjorie-taylor-greene-oust-house-speaker-mike-johnson/).
 
 ## Requirements
 - Python 3.8
