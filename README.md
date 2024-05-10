@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows Florida deputy announced himself prior to fatal shooting of Black airman**
+**A new Lord of the Rings movie is coming in 2026: ‘The Hunt for Gollum’**
 
-You can read more about it [here](https://apnews.com/article/florida-deputies-black-airman-killed-c747bffae2690dd8fa0908f4b95821b6).
+You can read more about it [here](https://www.washingtonpost.com/style/2024/05/09/lord-of-the-rings-hunt-for-gollum-movie-2026-warner-bros/).
 
 ## Requirements
 - Python 3.8
