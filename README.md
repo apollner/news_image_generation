@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A new Lord of the Rings movie is coming in 2026: ‘The Hunt for Gollum’**
+**Apple apologizes for iPad Pro ad that 'missed the mark'**
 
-You can read more about it [here](https://www.washingtonpost.com/style/2024/05/09/lord-of-the-rings-hunt-for-gollum-movie-2026-warner-bros/).
+You can read more about it [here](https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321).
 
 ## Requirements
 - Python 3.8
