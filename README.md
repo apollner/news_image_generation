@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miss USA and Miss Teen USA resign days apart, casting a spotlight on the organization**
+**The Unstoppable Noise That Was Steve Albini**
 
-You can read more about it [here](https://www.npr.org/2024/05/09/1250190516/miss-usa-resignations).
+You can read more about it [here](http://www.rollingstone.com/music/music-features/steve-albini-tribute-sheffield-1235017494/).
 
 ## Requirements
 - Python 3.8
