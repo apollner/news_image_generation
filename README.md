@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Airman fatally shot by Florida deputy who was in wrong apartment, family attorney says**
+**Trump lawyer questions Stormy Daniels' account of sex with Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/05/09/us/roger-forston-florida-airman-shot/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/stormy-daniels-face-tough-questions-trump-lawyers-trial-2024-05-09/).
 
 ## Requirements
 - Python 3.8
