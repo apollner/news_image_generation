@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**$2M vs. $63,000: Luxury Racing Simulators | WIRED**
+**Airman fatally shot by Florida deputy who was in wrong apartment, family attorney says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=PoXSmeHUMzE).
+You can read more about it [here](https://www.cnn.com/2024/05/09/us/roger-forston-florida-airman-shot/index.html).
 
 ## Requirements
 - Python 3.8
