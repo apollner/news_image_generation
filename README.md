@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, May 9, 2024**
+**Storms kill at least 3 in the Southeast, as severe weather is set to continue**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/05/09/horoscopes-today-thursday-may-9-2024).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/storms-kill-least-three-southeast-severe-weather-set-continue-rcna151413).
 
 ## Requirements
 - Python 3.8
