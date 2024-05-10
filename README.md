@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military operations in Rafah expand from airstrikes to ground operations, satellite images show**
+**Jalen Brunson returns from injury, sparks Knicks to 2-0 lead over Pacers**
 
-You can read more about it [here](https://www.cnn.com/2024/05/08/middleeast/rafah-israel-idf-ground-operation-intl-latam/index.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40109908/jalen-brunson-returns-injury-sparks-knicks-2-0-lead-pacers).
 
 ## Requirements
 - Python 3.8
