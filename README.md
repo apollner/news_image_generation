@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Hart ensures Reggie Miller hears Knicks fans' 'f--- you' chants at MSG as Pacers legend calls Game 2**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/josh-hart-ensures-reggie-miller-hears-knicks-fans-f-you-chants-at-msg-as-pacers-legend-calls-game-2/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
