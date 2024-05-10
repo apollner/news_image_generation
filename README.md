@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If Trail Blazers move on from Chauncey Billups as coach, other teams lined up**
+**Ultraprocessed foods linked with early death, according to 30 years of research**
 
-You can read more about it [here](https://www.nbcsports.com/nba/news/if-trail-blazers-move-on-from-chauncey-billups-as-coach-other-teams-lined-up).
+You can read more about it [here](https://www.cnn.com/2024/05/08/health/ultraprocessed-foods-death-study-wellness/index.html).
 
 ## Requirements
 - Python 3.8
