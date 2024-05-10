@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple apologizes for iPad Pro ad that 'missed the mark'**
+**Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design**
 
-You can read more about it [here](https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321).
+You can read more about it [here](https://www.wired.com/story/neuralinks-brain-implant-issues/).
 
 ## Requirements
 - Python 3.8
