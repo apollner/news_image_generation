@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida deputy fatally shoots Black airman Roger Fortson**
+**Trump's political fate likely won't be decided by the courts after all**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/09/florida-police-shoot-black-airman-roger-fortson/).
+You can read more about it [here](https://www.politico.com/news/2024/05/08/trump-four-criminal-cases-one-trial-00156962).
 
 ## Requirements
 - Python 3.8
