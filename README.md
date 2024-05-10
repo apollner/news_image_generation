@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arm Shares Slip After Chip Designer Gives Tepid Annual Forecast**
+**Molecule responsible for robbing Venus of its water may finally have been identified**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-08/arm-shares-slip-after-chip-designer-gives-tepid-annual-forecast).
+You can read more about it [here](https://www.livescience.com/space/venus/molecule-responsible-for-robbing-venus-of-its-water-may-finally-have-been-identified).
 
 ## Requirements
 - Python 3.8
