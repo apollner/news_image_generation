@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ultraprocessed foods linked with early death, according to 30 years of research**
+**Barron Trump to step into the political arena as a Florida delegate at the Republican convention**
 
-You can read more about it [here](https://www.cnn.com/2024/05/08/health/ultraprocessed-foods-death-study-wellness/index.html).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/barron-trump-florida-delegate-republican-national-convention-rcna151388).
 
 ## Requirements
 - Python 3.8
