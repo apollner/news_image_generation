@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Brunson returns from injury, sparks Knicks to 2-0 lead over Pacers**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40109908/jalen-brunson-returns-injury-sparks-knicks-2-0-lead-pacers).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
