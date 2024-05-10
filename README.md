@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Adam Montgomery murder sentencing live updates: Convict arrives**
+**Apple apologizes for iPad Pro ad that 'missed the mark'**
 
-You can read more about it [here](https://www.wmur.com/article/adam-montgomery-harmony-murder-sentence/60747061).
+You can read more about it [here](https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321).
 
 ## Requirements
 - Python 3.8
