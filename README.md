@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roblox Stock Tumbles on Disappointing Guidance**
+**Jim Montgomery Criticizes Matthew Tkachuk After David Pastrnak Fight**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-05-09-2024).
+You can read more about it [here](https://nesn.com/2024/05/jim-montgomery-criticizes-matthew-tkachuk-after-david-pastrnak-fight/).
 
 ## Requirements
 - Python 3.8
