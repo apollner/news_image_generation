@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple apologizes for iPad Pro ad that 'missed the mark'**
+**Video shows Florida deputy announced himself prior to fatal shooting of Black airman**
 
-You can read more about it [here](https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321).
+You can read more about it [here](https://apnews.com/article/florida-deputies-black-airman-killed-c747bffae2690dd8fa0908f4b95821b6).
 
 ## Requirements
 - Python 3.8
