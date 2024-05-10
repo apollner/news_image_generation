@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancelotti: "There's one captain of the Real Madrid ship, Florentino Pérez"**
+**Nikola Jokic wins NBA MVP award for the third time**
 
-You can read more about it [here](https://www.managingmadrid.com/2024/5/9/24151926/ancelotti-theres-one-captain-of-the-real-madrid-ship-florentino-perez-press-conference-bayern-munich).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/08/nikola-jokic-nba-mvp/).
 
 ## Requirements
 - Python 3.8
