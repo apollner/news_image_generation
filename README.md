@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barron Trump to step into the political arena as a Florida delegate at the Republican convention**
+**Biden says he will stop sending bombs and artillery shells to Israel if they launch major invasion of Rafah**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/barron-trump-florida-delegate-republican-national-convention-rcna151388).
+You can read more about it [here](https://www.cnn.com/2024/05/08/politics/joe-biden-interview-cnntv/index.html).
 
 ## Requirements
 - Python 3.8
