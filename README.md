@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pacers file complaint to NBA over 78 calls, source says**
+**2024 NFL offseason roundtable: Debating best and worst free agency signings, underrated draft picks, more**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40111250/pacers-file-complaint-78-calls-nba-source-says).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-offseason-roundtable-debating-best-and-worst-free-agency-signings-underrated-draft-picks-more/).
 
 ## Requirements
 - Python 3.8
