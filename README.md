@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's political fate likely won't be decided by the courts after all**
+**Ancelotti: "There's one captain of the Real Madrid ship, Florentino Pérez"**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/08/trump-four-criminal-cases-one-trial-00156962).
+You can read more about it [here](https://www.managingmadrid.com/2024/5/9/24151926/ancelotti-theres-one-captain-of-the-real-madrid-ship-florentino-perez-press-conference-bayern-munich).
 
 ## Requirements
 - Python 3.8
