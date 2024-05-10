@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL offseason roundtable: Debating best and worst free agency signings, underrated draft picks, more**
+**Boeing 737 catches fire and skids off the runway at a Senegal airport, injuring 10 people**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-offseason-roundtable-debating-best-and-worst-free-agency-signings-underrated-draft-picks-more/).
+You can read more about it [here](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60).
 
 ## Requirements
 - Python 3.8
