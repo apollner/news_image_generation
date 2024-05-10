@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attorney, family of Black airman fatally shot by Florida deputies say he was a patriot**
+**$2M vs. $63,000: Luxury Racing Simulators | WIRED**
 
-You can read more about it [here](https://apnews.com/article/florida-deputies-black-airman-killed-c747bffae2690dd8fa0908f4b95821b6).
+You can read more about it [here](https://www.youtube.com/watch?v=PoXSmeHUMzE).
 
 ## Requirements
 - Python 3.8
