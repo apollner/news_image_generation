@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing 737 catches fire and skids off the runway at a Senegal airport, injuring 10 people**
+**Roblox Stock Tumbles on Disappointing Guidance**
 
-You can read more about it [here](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-05-09-2024).
 
 ## Requirements
 - Python 3.8
