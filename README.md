@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storms kill at least 3 in the Southeast, as severe weather is set to continue**
+**Bank of England moves closer to first rate cut since 2020**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/storms-kill-least-three-southeast-severe-weather-set-continue-rcna151413).
+You can read more about it [here](https://www.reuters.com/markets/europe/bank-england-moves-closer-first-rate-cut-since-2020-2024-05-09/).
 
 ## Requirements
 - Python 3.8
