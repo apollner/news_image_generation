@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to kill Marjorie Taylor Greene's effort to oust House Speaker Mike Johnson**
+**Trump's political fate likely won't be decided by the courts after all**
 
-You can read more about it [here](https://www.cbsnews.com/news/marjorie-taylor-greene-oust-house-speaker-mike-johnson/).
+You can read more about it [here](https://www.politico.com/news/2024/05/08/trump-four-criminal-cases-one-trial-00156962).
 
 ## Requirements
 - Python 3.8
