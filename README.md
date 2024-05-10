@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crump wants answers about US Airman Roger Fortson's police shooting**
+**2024 NFL offseason roundtable: Debating best and worst free agency signings, underrated draft picks, more**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/09/roger-fortson-death-okaloosa-county-sheriff-shooting/73624898007/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-offseason-roundtable-debating-best-and-worst-free-agency-signings-underrated-draft-picks-more/).
 
 ## Requirements
 - Python 3.8
