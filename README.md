@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to kill Marjorie Taylor Greene's effort to oust House Speaker Mike Johnson**
+**If Trail Blazers move on from Chauncey Billups as coach, other teams lined up**
 
-You can read more about it [here](https://www.cbsnews.com/news/marjorie-taylor-greene-oust-house-speaker-mike-johnson/).
+You can read more about it [here](https://www.nbcsports.com/nba/news/if-trail-blazers-move-on-from-chauncey-billups-as-coach-other-teams-lined-up).
 
 ## Requirements
 - Python 3.8
