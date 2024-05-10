@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry celebrates Invictus Games at UK event while royal family attends garden party just miles away**
+**Florida deputy fatally shoots Black airman Roger Fortson**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/prince-harry-celebrates-invictus-games-uk-event-royal-family-attends-garden-party-miles-away).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/09/florida-police-shoot-black-airman-roger-fortson/).
 
 ## Requirements
 - Python 3.8
