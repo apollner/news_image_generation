@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikola Jokic wins NBA MVP award for the third time**
+**Prince Harry celebrates Invictus Games at UK event while royal family attends garden party just miles away**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/08/nikola-jokic-nba-mvp/).
+You can read more about it [here](https://www.foxnews.com/entertainment/prince-harry-celebrates-invictus-games-uk-event-royal-family-attends-garden-party-miles-away).
 
 ## Requirements
 - Python 3.8
