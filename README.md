@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iOS 18 to bring AI audio transcription & summaries, per report**
+**Steve Bannon loses his appeal of his contempt of Congress conviction**
 
-You can read more about it [here](https://9to5mac.com/2024/05/10/ios-18-ai-audio-transcription/).
+You can read more about it [here](https://www.npr.org/2024/05/10/1250504958/steve-bannon-contempt-upheld).
 
 ## Requirements
 - Python 3.8
