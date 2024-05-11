@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steve Bannon loses his appeal of his contempt of Congress conviction**
+**Steve Bannon Still Isn't in Prison, but He's a Little Closer – Mother Jones**
 
-You can read more about it [here](https://www.npr.org/2024/05/10/1250504958/steve-bannon-contempt-upheld).
+You can read more about it [here](https://www.motherjones.com/politics/2024/05/steve-bannon-just-inched-a-bit-closer-to-prison/).
 
 ## Requirements
 - Python 3.8
