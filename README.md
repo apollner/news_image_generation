@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe geomagnetic storm may produce Northern lights over Calif.**
+**Apple apologizes for its controversial iPad Pro ad**
 
-You can read more about it [here](https://www.sfgate.com/news/article/northern-lights-geomagnetic-storm-norcal-19449795.php).
+You can read more about it [here](https://www.cnn.com/2024/05/09/tech/apple-apologizes-for-ipad-pro-ad/index.html).
 
 ## Requirements
 - Python 3.8
