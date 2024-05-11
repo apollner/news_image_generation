@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Stormy Daniels finishes testifying in Donald Trump's hush money trial**
+**As protests rage, Israel's Eden Golan qualifies for Grand Final of Eurovision Song Contest**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-09-24/index.html).
+You can read more about it [here](https://www.haaretz.com/world-news/2024-05-09/ty-article/israel-in-spotlight-at-eurovision-semi-final-as-pro-palestinian-protests-loom/0000018f-5d86-d9a0-a38f-fda7f5060000).
 
 ## Requirements
 - Python 3.8
