@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Justin and Hailey Bieber announce pregnancy on Instagram**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25vdy92aWRlby9qdXN0aW4tYW5kLWhhaWxleS1iaWViZXItYW5ub3VuY2UtcHJlZ25hbmN5LW9uLWluc3RhZ3JhbS0yMTA2MTc0MTM1NjHSATdodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC12aWRlby9tbXZvMjEwNjE3NDEzNTYx?oc=5).
 
 ## Requirements
 - Python 3.8
