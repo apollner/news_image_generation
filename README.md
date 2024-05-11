@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says it repelled Russian bid to cross border**
+**Apple forced to apologize after new iPad Pro ad sparks controversy online: 'We missed the mark. We’re sorry'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnB5djhxOTRnMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZweXY4cTk0ZzFvLmFtcA?oc=5).
+You can read more about it [here](https://www.foxbusiness.com/technology/apple-forced-apologize-new-ipad-pro-ad-sparks-controversy-online-missed-mark-sorry).
 
 ## Requirements
 - Python 3.8
