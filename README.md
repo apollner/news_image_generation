@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What you missed on Day 14 of Trump's hush money trial in Manhattan**
+**Stormy Daniels trolls Trump after testifying in hush money trial**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/missed-day-14-trumps-hush-money-trial-manhattan-rcna151563).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4655381-stormy-daniels-trolls-trump-after-testifying-in-hush-money-trial/).
 
 ## Requirements
 - Python 3.8
