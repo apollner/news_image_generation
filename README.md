@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple apologizes for its controversial iPad Pro ad**
+**Hailey and Justin Bieber announce pregnancy**
 
-You can read more about it [here](https://www.cnn.com/2024/05/09/tech/apple-apologizes-for-ipad-pro-ad/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c2qvy05g1gqo).
 
 ## Requirements
 - Python 3.8
