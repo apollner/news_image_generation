@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design**
+**Live updates: Stormy Daniels finishes testifying in Donald Trump's hush money trial**
 
-You can read more about it [here](https://www.wired.com/story/neuralinks-brain-implant-issues/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-09-24/index.html).
 
 ## Requirements
 - Python 3.8
