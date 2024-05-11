@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is limited in what he can say about his court case. His GOP allies are showing up to help**
+**'Caramelo,' the Brazilian horse stranded on a roof by floods, is rescued after stirring the nation**
 
-You can read more about it [here](https://apnews.com/article/trump-daniels-trial-rick-scott-3ae0d6eddb94d2ca1155b0266dc9d35c).
+You can read more about it [here](https://apnews.com/article/brazil-floods-rio-grande-do-sul-horse-rescue-d50d1c2436245c24a0094d4106b60e85).
 
 ## Requirements
 - Python 3.8
