@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Mavericks @ Oklahoma City Thunder | #NBAplayoffs presented by Google Pixel Live Scoreboard**
+**Jayson Tatum on Game 2 Loss to Cavs: 'The world thinks we're never supposed to lose'**
 
-You can read more about it [here](https://www.youtube.com/watch?v=UtIhHhh8VN4).
+You can read more about it [here](https://www.youtube.com/watch?v=wExNif-GGXo).
 
 ## Requirements
 - Python 3.8
