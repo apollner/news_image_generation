@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple forced to apologize after new iPad Pro ad sparks controversy online: 'We missed the mark. We’re sorry'**
+**Arvind Kejriwal: India court grants bail to Delhi leader**
 
-You can read more about it [here](https://www.foxbusiness.com/technology/apple-forced-apologize-new-ipad-pro-ad-sparks-controversy-online-missed-mark-sorry).
+You can read more about it [here](https://www.bbc.com/news/world-asia-india-68767574).
 
 ## Requirements
 - Python 3.8
