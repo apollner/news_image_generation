@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arvind Kejriwal: India court grants bail to Delhi leader**
+**"FLiRT" COVID variants are now more than a third of U.S. cases. Scientists share what we know about them so far.**
 
-You can read more about it [here](https://www.bbc.com/news/world-asia-india-68767574).
+You can read more about it [here](https://www.cbsnews.com/news/flirt-covid-variants-us-cases/).
 
 ## Requirements
 - Python 3.8
