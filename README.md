@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: Netanyahu says Israel can 'stand alone' if US halts arms shipments**
+**Moderna says FDA delayed RSV vaccine approval to end of May**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-68980826).
+You can read more about it [here](https://www.cnbc.com/2024/05/10/moderna-says-rsv-vaccine-fda-approval-delayed-to-end-of-may.html).
 
 ## Requirements
 - Python 3.8
