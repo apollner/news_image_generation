@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe geomagnetic storm may produce Northern lights over Calif.**
+**Report: OpenAI to launch its AI-powered search engine a day before Google I/O**
 
-You can read more about it [here](https://www.sfgate.com/news/article/northern-lights-geomagnetic-storm-norcal-19449795.php).
+You can read more about it [here](http://9to5google.com/2024/05/09/open-ai-google-search-report/).
 
 ## Requirements
 - Python 3.8
