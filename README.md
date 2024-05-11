@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Caramelo,' the Brazilian horse stranded on a roof by floods, is rescued after stirring the nation**
+**Severe geomagnetic storm may produce Northern lights over Calif.**
 
-You can read more about it [here](https://apnews.com/article/brazil-floods-rio-grande-do-sul-horse-rescue-d50d1c2436245c24a0094d4106b60e85).
+You can read more about it [here](https://www.sfgate.com/news/article/northern-lights-geomagnetic-storm-norcal-19449795.php).
 
 ## Requirements
 - Python 3.8
