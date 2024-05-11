@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"FLiRT" COVID variants are now more than a third of U.S. cases. Scientists share what we know about them so far.**
+**Warners Allows Fan-Made ‘Lord of the Rings’ Movie to Stay on YouTube**
 
-You can read more about it [here](https://www.cbsnews.com/news/flirt-covid-variants-us-cases/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-gollum-movie-reaction-1235894809/).
 
 ## Requirements
 - Python 3.8
