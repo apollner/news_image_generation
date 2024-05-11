@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Pixel 8a will soon support display output over USB-C**
+**Indiana Fever vs. Atlanta Dream live WNBA updates: Caitlin Clark highlights, score, stats**
 
-You can read more about it [here](https://www.androidauthority.com/pixel-8a-display-output-3441590/).
+You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/09/indiana-atlanta-caitlin-clark-wnba-preseason-score-highlights/73613585007/).
 
 ## Requirements
 - Python 3.8
