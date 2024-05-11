@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design**
+**New COVID ‘FLiRT’ variants show virus isn’t going away**
 
-You can read more about it [here](https://www.wired.com/story/neuralinks-brain-implant-issues/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4654808-new-covid-flirt-variants-coronavirus/).
 
 ## Requirements
 - Python 3.8
