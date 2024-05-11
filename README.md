@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Beverley suspended four games for viral incidents**
+**Pasco: Rat remains found in Japanese bread triggers recall and refunds**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/09/patrick-beverley-suspended/).
+You can read more about it [here](https://www.bbc.com/news/articles/c51n0p14y1lo).
 
 ## Requirements
 - Python 3.8
