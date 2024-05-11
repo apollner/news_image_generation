@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M4 iPad Pro vs M2 iPad Air**
+**'Caramelo,' the Brazilian horse stranded on a roof by floods, is rescued after stirring the nation**
 
-You can read more about it [here](https://9to5mac.com/2024/05/09/m4-ipad-pro-vs-m2-ipad-air/).
+You can read more about it [here](https://apnews.com/article/brazil-floods-rio-grande-do-sul-horse-rescue-d50d1c2436245c24a0094d4106b60e85).
 
 ## Requirements
 - Python 3.8
