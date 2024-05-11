@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pasco: Rat remains found in Japanese bread triggers recall and refunds**
+**Dallas Mavericks @ Oklahoma City Thunder | #NBAplayoffs presented by Google Pixel Live Scoreboard**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c51n0p14y1lo).
+You can read more about it [here](https://www.youtube.com/watch?v=UtIhHhh8VN4).
 
 ## Requirements
 - Python 3.8
