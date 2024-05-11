@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miss USA names new 2023 titleholder after former winner resigned title**
+**Gaza war: Netanyahu says Israel can 'stand alone' if US halts arms shipments**
 
-You can read more about it [here](https://goodmorningamerica.com/culture/story/miss-usa-names-new-2023-titleholder-after-former-110085706).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-68980826).
 
 ## Requirements
 - Python 3.8
