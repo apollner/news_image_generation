@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate passes bill designed to improve air safety and service for travelers**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/05/10/1250399425/senate-passes-faa-reauthorization-bill-sending-bill-to-house).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
