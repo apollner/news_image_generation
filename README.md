@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novavax stock doubles after Sanofi deal marks 'new chapter' for company**
+**How Justin Bieber, Pregnant Wife Hailey Kept Baby News Secret (Exclusive)**
 
-You can read more about it [here](https://finance.yahoo.com/news/novavax-stock-doubles-after-sanofi-deal-marks-new-chapter-for-company-172419830.html).
+You can read more about it [here](https://people.com/how-justin-bieber-pregnant-wife-hailey-kept-their-baby-news-secret-exclusive-8646800).
 
 ## Requirements
 - Python 3.8
