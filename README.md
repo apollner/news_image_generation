@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As protests rage, Israel's Eden Golan qualifies for Grand Final of Eurovision Song Contest**
+**The Pixel 8a will soon support display output over USB-C**
 
-You can read more about it [here](https://www.haaretz.com/world-news/2024-05-09/ty-article/israel-in-spotlight-at-eurovision-semi-final-as-pro-palestinian-protests-loom/0000018f-5d86-d9a0-a38f-fda7f5060000).
+You can read more about it [here](https://www.androidauthority.com/pixel-8a-display-output-3441590/).
 
 ## Requirements
 - Python 3.8
