@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moderna says FDA delayed RSV vaccine approval to end of May**
+**Justin Bieber’s mom Pattie Mallette is thrilled to become a first-time grandmother**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/10/moderna-says-rsv-vaccine-fda-approval-delayed-to-end-of-may.html).
+You can read more about it [here](https://www.cnn.com/2024/05/10/entertainment/pattie-mallette-bieber-baby/index.html).
 
 ## Requirements
 - Python 3.8
