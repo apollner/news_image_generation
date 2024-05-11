@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayson Tatum on Game 2 Loss to Cavs: 'The world thinks we're never supposed to lose'**
+**What you missed on Day 14 of Trump's hush money trial in Manhattan**
 
-You can read more about it [here](https://www.youtube.com/watch?v=wExNif-GGXo).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/missed-day-14-trumps-hush-money-trial-manhattan-rcna151563).
 
 ## Requirements
 - Python 3.8
