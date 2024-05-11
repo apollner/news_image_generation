@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID ‘FLiRT’ variants show virus isn’t going away**
+**M4 iPad Pro vs M2 iPad Air**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4654808-new-covid-flirt-variants-coronavirus/).
+You can read more about it [here](https://9to5mac.com/2024/05/09/m4-ipad-pro-vs-m2-ipad-air/).
 
 ## Requirements
 - Python 3.8
