@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stormy Daniels trolls Trump after testifying in hush money trial**
+**Senate passes bill designed to improve air safety and service for travelers**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4655381-stormy-daniels-trolls-trump-after-testifying-in-hush-money-trial/).
+You can read more about it [here](https://www.npr.org/2024/05/10/1250399425/senate-passes-faa-reauthorization-bill-sending-bill-to-house).
 
 ## Requirements
 - Python 3.8
