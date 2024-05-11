@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Pretty unheard of’: Caitlin Clark draws 13,000 in home preseason debut as Indiana Fever win 83-80**
+**Miss USA names new 2023 titleholder after former winner resigned title**
 
-You can read more about it [here](https://www.cnn.com/2024/05/10/sport/caitlin-clark-home-debut-indiana-fever-spt-intl/index.html).
+You can read more about it [here](https://goodmorningamerica.com/culture/story/miss-usa-names-new-2023-titleholder-after-former-110085706).
 
 ## Requirements
 - Python 3.8
