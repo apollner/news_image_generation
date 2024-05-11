@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Bieber’s mom Pattie Mallette is thrilled to become a first-time grandmother**
+**Ukraine says it repelled Russian bid to cross border**
 
-You can read more about it [here](https://www.cnn.com/2024/05/10/entertainment/pattie-mallette-bieber-baby/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnB5djhxOTRnMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZweXY4cTk0ZzFvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
