@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: OpenAI to launch its AI-powered search engine a day before Google I/O**
+**Trump is limited in what he can say about his court case. His GOP allies are showing up to help**
 
-You can read more about it [here](http://9to5google.com/2024/05/09/open-ai-google-search-report/).
+You can read more about it [here](https://apnews.com/article/trump-daniels-trial-rick-scott-3ae0d6eddb94d2ca1155b0266dc9d35c).
 
 ## Requirements
 - Python 3.8
