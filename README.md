@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hailey and Justin Bieber announce pregnancy**
+**Severe geomagnetic storm may produce Northern lights over Calif.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2qvy05g1gqo).
+You can read more about it [here](https://www.sfgate.com/news/article/northern-lights-geomagnetic-storm-norcal-19449795.php).
 
 ## Requirements
 - Python 3.8
