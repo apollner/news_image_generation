@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reportedly still in talks to use Gemini for iPhone AI features as OpenAI deal looms**
+**Michael Cohen keeps posting bizarre TikToks, despite 'repeated' pleas from prosecutors ahead of testimony in Trump hush money case**
 
-You can read more about it [here](http://9to5google.com/2024/05/10/google-apple-gemini-discussions-report/).
+You can read more about it [here](https://nypost.com/2024/05/10/us-news/michael-cohen-keeps-posting-bizarre-tiktoks-despite-repeated-pleas-from-prosecutors-ahead-of-monday-testimony-in-trump-hush-money-case/).
 
 ## Requirements
 - Python 3.8
