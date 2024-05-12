@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live storm updates: Power struggle after likely Tallahassee tornadoes**
+**Sam Rubin: KTLA’s family man**
 
-You can read more about it [here](https://www.tallahassee.com/story/news/2024/05/11/live-storm-updates-power-struggle-after-likely-tallahassee-tornadoes-saturday-florida-damage/73652897007/).
+You can read more about it [here](https://ktla.com/news/local-news/sam-rubin-ktlas-family-man/).
 
 ## Requirements
 - Python 3.8
