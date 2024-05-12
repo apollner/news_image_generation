@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven killed as bus falls into river in Russia's St Petersburg**
+**Suns make Mike Budenholzer their next head coach, per report; Agrees to five-year $50-plus million pact**
 
-You can read more about it [here](https://www.reuters.com/world/europe/bus-falls-into-river-russias-st-petersburg-2024-05-10/).
+You can read more about it [here](https://www.cbssports.com/nba/news/suns-make-mike-budenholzer-their-next-head-coach-per-report-agrees-to-five-year-50-plus-million-pact/).
 
 ## Requirements
 - Python 3.8
