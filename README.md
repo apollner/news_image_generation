@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple and OpenAI to announce updates, as AI arms race intensifies**
+**Massillon Police investigating fatal shooting at Regal Cinemas; suspect in custody**
 
-You can read more about it [here](https://www.salon.com/2024/05/11/apple-and-openai-to-announce-updates-as-ai-arms-race-intensifies/).
+You can read more about it [here](https://www.news5cleveland.com/news/local-news/massillon-police-investigating-fatal-shooting-at-regal-cinemas-suspect-in-custody).
 
 ## Requirements
 - Python 3.8
