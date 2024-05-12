@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California governor would slash 10000 vacant state jobs to help close $27.6 billion deficit**
+**Seven killed as bus falls into river in Russia's St Petersburg**
 
-You can read more about it [here](https://apnews.com/article/california-budget-deficit-gov-gavin-newsom-8f502d57d00d551c0b6b6331367f7a25).
+You can read more about it [here](https://www.reuters.com/world/europe/bus-falls-into-river-russias-st-petersburg-2024-05-10/).
 
 ## Requirements
 - Python 3.8
