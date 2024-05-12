@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Memo: Biden takes fire from all sides after Israel arms move**
+**Blinken report says it's impossible to verify Israel broke weapons law in Gaza**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4657284-biden-israel-rafah-weapons-fire-all-sides/).
+You can read more about it [here](https://www.axios.com/2024/05/10/israel-gaza-weapons-broke-law-blinken).
 
 ## Requirements
 - Python 3.8
