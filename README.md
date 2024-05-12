@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More children gain hearing as gene therapy for profound deafness advances**
+**Ukraine says it repelled Russian bid to cross border**
 
-You can read more about it [here](https://arstechnica.com/health/2024/05/more-children-gain-hearing-as-gene-therapy-for-profound-deafness-advances/).
+You can read more about it [here](https://www.bbc.com/news/articles/c6pyv8q94g1o).
 
 ## Requirements
 - Python 3.8
