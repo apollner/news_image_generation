@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nikki Haley keeps racking up votes in final stretch of the GOP primary, and Donald Trump keeps ignoring them**
+**Afghanistan: Hundreds feared dead in Baghlan and Takhar flooding**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/11/nikki-haley-voters-00157455).
+You can read more about it [here](https://www.bbc.com/news/articles/c4n1wze72kdo).
 
 ## Requirements
 - Python 3.8
