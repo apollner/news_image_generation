@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Violence at UCLA protest raged for hours before police stepped in**
+**Oklahoma City Thunder @ Dallas Mavericks | #NBAPlayoffs presented by Google Pixel Live Scoreboard**
 
-You can read more about it [here](https://www.washingtonpost.com/investigations/2024/05/11/ucla-protests-police-inaction-fights/).
+You can read more about it [here](https://www.youtube.com/watch?v=R3h-YVB7KQ4).
 
 ## Requirements
 - Python 3.8
