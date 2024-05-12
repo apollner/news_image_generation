@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Latest in Boeing's Starliner Fiasco Is a Feud Over That 'Buzzing' Valve**
+**Arvind Kejriwal Leaves Jail After 50 Days, Says "Need To Fight Dictatorship"**
 
-You can read more about it [here](https://gizmodo.com/boeing-starliner-nasa-valve-valvetech-spat-lawsuit-1851469705).
+You can read more about it [here](https://www.ndtv.com/india-news/arvind-kejiwal-leaves-jail-after-50-days-election-gamechanger-says-aap-5633876).
 
 ## Requirements
 - Python 3.8
