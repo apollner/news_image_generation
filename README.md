@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey apologizes for being 'major contributor' to diet culture**
+**Remembering Billionaire Jim Simons, Who Died At 86: His Last Interview**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/oprah-winfrey-apologizes-major-contributor-diet-culture/story?id=110121990).
+You can read more about it [here](https://www.forbes.com/sites/hanktucker/2024/05/10/billionaire-jim-simons-last-interview-the-hedge-fund-legend-on-the-universe-making-money-and-giving-it-away/).
 
 ## Requirements
 - Python 3.8
