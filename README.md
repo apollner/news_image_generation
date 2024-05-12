@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's youngest son Barron 'declines' to be RNC delegate, his mother Melania says**
+**Sam Altman teases OpenAI demo Monday that 'feels like magic'**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-68992293).
+You can read more about it [here](https://www.businessinsider.com/openai-gpt-4-update-monday-feels-like-magic-sam-altman-2024-5).
 
 ## Requirements
 - Python 3.8
