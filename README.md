@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern lights expected to be visible across northern third of Colorado overnight**
+**At least 200 people killed by flash floods in Afghanistan as humanitarian emergency looms**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/aurora-borealis-colorado-northern-lights-weather-forecast-denver/).
+You can read more about it [here](https://www.cnn.com/2024/05/11/asia/flash-floods-kill-hundreds-afghanistan-intl/index.html).
 
 ## Requirements
 - Python 3.8
