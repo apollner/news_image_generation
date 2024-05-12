@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 200 people killed by flash floods in Afghanistan as humanitarian emergency looms**
+**Judge blocks Biden administration rule capping credit card late fees at $8**
 
-You can read more about it [here](https://www.cnn.com/2024/05/11/asia/flash-floods-kill-hundreds-afghanistan-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/05/11/business/credit-card-late-fees-regulation-cfpb/index.html).
 
 ## Requirements
 - Python 3.8
