@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge blocks Biden administration rule capping credit card late fees at $8**
+**Violence at UCLA protest raged for hours before police stepped in**
 
-You can read more about it [here](https://www.cnn.com/2024/05/11/business/credit-card-late-fees-regulation-cfpb/index.html).
+You can read more about it [here](https://www.washingtonpost.com/investigations/2024/05/11/ucla-protests-police-inaction-fights/).
 
 ## Requirements
 - Python 3.8
