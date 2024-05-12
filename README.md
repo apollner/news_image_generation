@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Cohen keeps posting bizarre TikToks, despite 'repeated' pleas from prosecutors ahead of testimony in Trump hush money case**
+**Video shows bus plunge off a bridge St. Petersburg, Russia, killing 7**
 
-You can read more about it [here](https://nypost.com/2024/05/10/us-news/michael-cohen-keeps-posting-bizarre-tiktoks-despite-repeated-pleas-from-prosecutors-ahead-of-monday-testimony-in-trump-hush-money-case/).
+You can read more about it [here](https://www.cbsnews.com/news/bus-plunges-off-bridge-st-petersburg-russia-video/).
 
 ## Requirements
 - Python 3.8
