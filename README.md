@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Justin Bieber, Pregnant Wife Hailey Kept Baby News Secret (Exclusive)**
+**California governor would slash 10000 vacant state jobs to help close $27.6 billion deficit**
 
-You can read more about it [here](https://people.com/how-justin-bieber-pregnant-wife-hailey-kept-their-baby-news-secret-exclusive-8646800).
+You can read more about it [here](https://apnews.com/article/california-budget-deficit-gov-gavin-newsom-8f502d57d00d551c0b6b6331367f7a25).
 
 ## Requirements
 - Python 3.8
