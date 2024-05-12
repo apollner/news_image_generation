@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hayes, Tonga, Orton advance in King of the Ring tournament**
+**Reports: Mike Budenholzer agrees to become next coach of Phoenix Suns**
 
-You can read more about it [here](https://www.cagesideseats.com/wwe/2024/5/10/24154046/carmelo-hayes-tama-tonga-randy-orton-advance-king-of-the-ring-tournament-wwe-smackdown).
+You can read more about it [here](https://www.nba.com/news/mike-budenholzer-agrees-to-coach-suns).
 
 ## Requirements
 - Python 3.8
