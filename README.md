@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Remembering Billionaire Jim Simons, Who Died At 86: His Last Interview**
+**Blinken report says it's impossible to verify Israel broke weapons law in Gaza**
 
-You can read more about it [here](https://www.forbes.com/sites/hanktucker/2024/05/10/billionaire-jim-simons-last-interview-the-hedge-fund-legend-on-the-universe-making-money-and-giving-it-away/).
+You can read more about it [here](https://www.axios.com/2024/05/10/israel-gaza-weapons-broke-law-blinken).
 
 ## Requirements
 - Python 3.8
