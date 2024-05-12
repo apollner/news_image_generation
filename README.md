@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean leader Kim Jong Un oversees latest test of new multiple rocket launcher**
+**Northern lights expected to be visible across northern third of Colorado overnight**
 
-You can read more about it [here](https://www.cbsnews.com/news/kim-jong-un-oversees-latest-test-of-new-multiple-rocket-launcher/).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/aurora-borealis-colorado-northern-lights-weather-forecast-denver/).
 
 ## Requirements
 - Python 3.8
