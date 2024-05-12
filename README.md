@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia mounts surprise assault on northern Ukraine in most serious cross-border offensive in two years**
+**Hayes, Tonga, Orton advance in King of the Ring tournament**
 
-You can read more about it [here](https://www.cnn.com/2024/05/10/europe/russia-ukraine-cross-border-kharkiv-intl/index.html).
+You can read more about it [here](https://www.cagesideseats.com/wwe/2024/5/10/24154046/carmelo-hayes-tama-tonga-randy-orton-advance-king-of-the-ring-tournament-wwe-smackdown).
 
 ## Requirements
 - Python 3.8
