@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, May 11, 2024**
+**Apple and OpenAI to announce updates, as AI arms race intensifies**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/05/11/horoscopes-today-saturday-may-11-2024).
+You can read more about it [here](https://www.salon.com/2024/05/11/apple-and-openai-to-announce-updates-as-ai-arms-race-intensifies/).
 
 ## Requirements
 - Python 3.8
