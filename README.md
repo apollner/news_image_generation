@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eden Golan gives a flawless performance in Eurovision final despite boos**
+**Biden's arms embargo on Israel 'emboldens' Hamas missile strikes against Jewish state**
 
-You can read more about it [here](https://www.jpost.com/international/article-800825).
+You can read more about it [here](https://www.foxnews.com/world/bidens-arms-embargo-israel-emboldens-hamas-missile-strikes-jewish-state).
 
 ## Requirements
 - Python 3.8
