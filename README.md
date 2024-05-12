@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman teases OpenAI demo Monday that 'feels like magic'**
+**Michael Cohen keeps posting bizarre TikToks, despite 'repeated' pleas from prosecutors ahead of testimony in Trump hush money case**
 
-You can read more about it [here](https://www.businessinsider.com/openai-gpt-4-update-monday-feels-like-magic-sam-altman-2024-5).
+You can read more about it [here](https://nypost.com/2024/05/10/us-news/michael-cohen-keeps-posting-bizarre-tiktoks-despite-repeated-pleas-from-prosecutors-ahead-of-monday-testimony-in-trump-hush-money-case/).
 
 ## Requirements
 - Python 3.8
