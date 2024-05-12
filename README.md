@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken report says it's impossible to verify Israel broke weapons law in Gaza**
+**North Korean leader Kim supervises latest test of new multiple rocket launcher**
 
-You can read more about it [here](https://www.axios.com/2024/05/10/israel-gaza-weapons-broke-law-blinken).
+You can read more about it [here](https://www.yahoo.com/news/north-korean-leader-kim-supervises-021949394.html).
 
 ## Requirements
 - Python 3.8
