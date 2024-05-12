@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghanistan floods kill at least 153, Taliban interior ministry says**
+**Eden Golan gives a flawless performance in Eurovision final despite boos**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/death-toll-afghanistan-floods-rises-151-says-taliban-interior-ministry-2024-05-11/).
+You can read more about it [here](https://www.jpost.com/international/article-800825).
 
 ## Requirements
 - Python 3.8
