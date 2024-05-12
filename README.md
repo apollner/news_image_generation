@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arvind Kejriwal Leaves Jail After 50 Days, Says "Need To Fight Dictatorship"**
+**Inside the unusually aggressive Arizona grand jury that indicted Trump's allies**
 
-You can read more about it [here](https://www.ndtv.com/india-news/arvind-kejiwal-leaves-jail-after-50-days-election-gamechanger-says-aap-5633876).
+You can read more about it [here](https://www.politico.com/news/2024/05/10/inside-arizona-grand-jury-trump-indictment-00157447).
 
 ## Requirements
 - Python 3.8
