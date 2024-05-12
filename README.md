@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Cohen keeps posting bizarre TikToks, despite 'repeated' pleas from prosecutors ahead of testimony in Trump hush money case**
+**Russian forces attack Ukraine's Kharkiv region, striking on new front**
 
-You can read more about it [here](https://nypost.com/2024/05/10/us-news/michael-cohen-keeps-posting-bizarre-tiktoks-despite-repeated-pleas-from-prosecutors-ahead-of-monday-testimony-in-trump-hush-money-case/).
+You can read more about it [here](https://www.reuters.com/world/europe/ukraine-sends-reinforcements-after-russian-forces-attack-kharkiv-region-2024-05-10/).
 
 ## Requirements
 - Python 3.8
