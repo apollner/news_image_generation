@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oklahoma City Thunder @ Dallas Mavericks | #NBAPlayoffs presented by Google Pixel Live Scoreboard**
+**Afghanistan floods kill at least 153, Taliban interior ministry says**
 
-You can read more about it [here](https://www.youtube.com/watch?v=R3h-YVB7KQ4).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/death-toll-afghanistan-floods-rises-151-says-taliban-interior-ministry-2024-05-11/).
 
 ## Requirements
 - Python 3.8
