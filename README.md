@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Rubin: KTLA’s family man**
+**North Korean leader Kim Jong Un oversees latest test of new multiple rocket launcher**
 
-You can read more about it [here](https://ktla.com/news/local-news/sam-rubin-ktlas-family-man/).
+You can read more about it [here](https://www.cbsnews.com/news/kim-jong-un-oversees-latest-test-of-new-multiple-rocket-launcher/).
 
 ## Requirements
 - Python 3.8
