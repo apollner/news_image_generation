@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows bus plunge off a bridge St. Petersburg, Russia, killing 7**
+**Trump's youngest son Barron 'declines' to be RNC delegate, his mother Melania says**
 
-You can read more about it [here](https://www.cbsnews.com/news/bus-plunges-off-bridge-st-petersburg-russia-video/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-68992293).
 
 ## Requirements
 - Python 3.8
