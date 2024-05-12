@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massillon Police investigating fatal shooting at Regal Cinemas; suspect in custody**
+**Nikki Haley keeps racking up votes in final stretch of the GOP primary, and Donald Trump keeps ignoring them**
 
-You can read more about it [here](https://www.news5cleveland.com/news/local-news/massillon-police-investigating-fatal-shooting-at-regal-cinemas-suspect-in-custody).
+You can read more about it [here](https://www.politico.com/news/2024/05/11/nikki-haley-voters-00157455).
 
 ## Requirements
 - Python 3.8
