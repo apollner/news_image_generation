@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suns make Mike Budenholzer their next head coach, per report; Agrees to five-year $50-plus million pact**
+**The Latest in Boeing's Starliner Fiasco Is a Feud Over That 'Buzzing' Valve**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/suns-make-mike-budenholzer-their-next-head-coach-per-report-agrees-to-five-year-50-plus-million-pact/).
+You can read more about it [here](https://gizmodo.com/boeing-starliner-nasa-valve-valvetech-spat-lawsuit-1851469705).
 
 ## Requirements
 - Python 3.8
