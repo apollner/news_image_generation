@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the unusually aggressive Arizona grand jury that indicted Trump's allies**
+**More children gain hearing as gene therapy for profound deafness advances**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/10/inside-arizona-grand-jury-trump-indictment-00157447).
+You can read more about it [here](https://arstechnica.com/health/2024/05/more-children-gain-hearing-as-gene-therapy-for-profound-deafness-advances/).
 
 ## Requirements
 - Python 3.8
