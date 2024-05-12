@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says it repelled Russian bid to cross border**
+**Apple reportedly still in talks to use Gemini for iPhone AI features as OpenAI deal looms**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6pyv8q94g1o).
+You can read more about it [here](http://9to5google.com/2024/05/10/google-apple-gemini-discussions-report/).
 
 ## Requirements
 - Python 3.8
