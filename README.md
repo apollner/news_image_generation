@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reports: Mike Budenholzer agrees to become next coach of Phoenix Suns**
+**Russia mounts surprise assault on northern Ukraine in most serious cross-border offensive in two years**
 
-You can read more about it [here](https://www.nba.com/news/mike-budenholzer-agrees-to-coach-suns).
+You can read more about it [here](https://www.cnn.com/2024/05/10/europe/russia-ukraine-cross-border-kharkiv-intl/index.html).
 
 ## Requirements
 - Python 3.8
