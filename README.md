@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken report says it's impossible to verify Israel broke weapons law in Gaza**
+**Horoscope for Saturday, May 11, 2024**
 
-You can read more about it [here](https://www.axios.com/2024/05/10/israel-gaza-weapons-broke-law-blinken).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/05/11/horoscopes-today-saturday-may-11-2024).
 
 ## Requirements
 - Python 3.8
