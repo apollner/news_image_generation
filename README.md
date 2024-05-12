@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghanistan: Hundreds feared dead in Baghlan and Takhar flooding**
+**Live storm updates: Power struggle after likely Tallahassee tornadoes**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4n1wze72kdo).
+You can read more about it [here](https://www.tallahassee.com/story/news/2024/05/11/live-storm-updates-power-struggle-after-likely-tallahassee-tornadoes-saturday-florida-damage/73652897007/).
 
 ## Requirements
 - Python 3.8
