@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosion Rips Through 10-Story Russian Apartment Building**
+**Sen. Bob Menendez's trial, where gold bars may shine, begins Monday**
 
-You can read more about it [here](https://www.newsweek.com/russia-belgorod-apartment-building-collapse-ukraine-missile-shelling-1899636).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/12/senator-bob-menendez-bribery-trial/).
 
 ## Requirements
 - Python 3.8
