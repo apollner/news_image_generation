@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia: Thousands rally in protest at 'foreign influence' bill**
+**Ultra-thin M4 iPad Pro features new internal structure to improve stiffness and heat dissipation**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cle0j5we2pno).
+You can read more about it [here](https://9to5mac.com/2024/05/12/ipad-pro-thin-redesigned-chassis-structure/).
 
 ## Requirements
 - Python 3.8
