@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive Trump beach rally in deep blue NJ draws stark contrast to Biden's beach weekend: 'Biden could never'**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/politics/massive-trump-beach-rally-deep-blue-nj-draws-stark-contrast-bidens-beach-weekend-biden-could-never).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
