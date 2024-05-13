@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil floods: Forecast to worsen in south**
+**Rare solar storm brings northern lights to Southern California**
 
-You can read more about it [here](https://apnews.com/article/brazil-floods-climate-change-inequality-8a1d0e3a00bfd9a5b7918e62d6aab02a).
+You can read more about it [here](https://ktla.com/news/local-news/rare-solar-storm-brings-northern-lights-to-southern-california/).
 
 ## Requirements
 - Python 3.8
