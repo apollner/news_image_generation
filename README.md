@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez's trial, where gold bars may shine, begins Monday**
+**Jaylen Brown's pep talk fuels Celtics in Game 3: 'We're not here to play around'**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/05/12/senator-bob-menendez-bribery-trial/).
+You can read more about it [here](https://theathletic.com/5487263/2024/05/12/celtics-jaylen-brown-cavaliers-game-3-win/).
 
 ## Requirements
 - Python 3.8
