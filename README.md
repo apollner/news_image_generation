@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's arms embargo on Israel 'emboldens' Hamas missile strikes against Jewish state**
+**NBA playoffs: P.J. Washington shines again as Mavericks hold off Thunder in Game 3, take 2-1 series lead**
 
-You can read more about it [here](https://www.foxnews.com/world/bidens-arms-embargo-israel-emboldens-hamas-missile-strikes-jewish-state).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-pj-washington-shines-again-as-mavericks-hold-off-thunder-in-game-3-take-2-1-series-lead-220701328.html).
 
 ## Requirements
 - Python 3.8
