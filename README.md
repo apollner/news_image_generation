@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will your last COVID vaccine work against new ‘FLiRT’ variants?**
+**Vladimir Guerrero Jr. cartwheels after catch**
 
-You can read more about it [here](https://thehill.com/homenews/nexstar_media_wire/4653747-will-your-last-covid-vaccine-work-against-new-flirt-variants/).
+You can read more about it [here](https://www.mlb.com/news/vladimir-guerrero-jr-cartwheels-after-catch).
 
 ## Requirements
 - Python 3.8
