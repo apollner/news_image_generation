@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestine student protests continue at weekend commencement ceremonies**
+**Ukraine’s Lomachenko knocks out Kambosos to win IBF lightweight crown**
 
-You can read more about it [here](https://thehill.com/homenews/education/4658597-pro-palestine-student-protests-continue-at-weekend-commencement-ceremonies/).
+You can read more about it [here](https://www.aljazeera.com/sports/2024/5/12/ukraines-lomachenko-knocks-out-kambosos-to-win-ibf-lightweight-crown).
 
 ## Requirements
 - Python 3.8
