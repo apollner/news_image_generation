@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump May Owe More Than $100 Million in Back Taxes: Report**
+**Texas mom's killer is captured after years on the run. Where did he bury her body?**
 
-You can read more about it [here](http://www.rollingstone.com/politics/politics-news/trump-100-million-dollars-back-taxes-irs-audit-report-1235019082/).
+You can read more about it [here](https://www.cbsnews.com/news/tammy-myers-william-greer-texas-moms-killer-captured-after-years-on-the-run-where-did-he-bury-her-body/).
 
 ## Requirements
 - Python 3.8
