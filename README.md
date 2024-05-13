@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roger Corman, Hollywood mentor and 'King of the Bs,' dies at 98**
+**Trump may face a $100M-plus tax bill if he loses IRS audit fight over Chicago tower, according to report**
 
-You can read more about it [here](https://apnews.com/article/roger-corman-dies-obituary-hollywood-b85b5fbc13184b5f8dab1e9d4b881645).
+You can read more about it [here](https://www.politico.com/news/2024/05/11/trump-irs-chicago-audit-00157480).
 
 ## Requirements
 - Python 3.8
