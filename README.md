@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Student Protests: VCU, UC-Berkeley, UNC, Xavier Commencements Disrupted**
+**Drake Pleads With News Network Over Helicopter Buzzing Above His Toronto Home: 'I'm Trying to Sleep'**
 
-You can read more about it [here](https://www.forbes.com/sites/jamesfarrell/2024/05/11/2024-college-graduation-protests-walkouts-interruptions-reported-at-uc-berkeley-vcu-unc/).
+You can read more about it [here](https://www.etonline.com/drake-pleads-with-news-network-over-helicopter-buzzing-above-his-toronto-home-im-trying-to-sleep).
 
 ## Requirements
 - Python 3.8
