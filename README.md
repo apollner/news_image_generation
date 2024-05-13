@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: P.J. Washington shines again as Mavericks hold off Thunder in Game 3, take 2-1 series lead**
+**Student Protests: VCU, UC-Berkeley, UNC, Xavier Commencements Disrupted**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-pj-washington-shines-again-as-mavericks-hold-off-thunder-in-game-3-take-2-1-series-lead-220701328.html).
+You can read more about it [here](https://www.forbes.com/sites/jamesfarrell/2024/05/11/2024-college-graduation-protests-walkouts-interruptions-reported-at-uc-berkeley-vcu-unc/).
 
 ## Requirements
 - Python 3.8
