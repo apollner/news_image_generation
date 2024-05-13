@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pirates prospect Paul Skenes allows 3 runs, shows dominant stuff in hyped big-league debut**
+**Google Wallet dropping support for old Android, Wear OS versions**
 
-You can read more about it [here](https://theathletic.com/5486253/2024/05/11/paul-skenes-debut-prospect-pirates/).
+You can read more about it [here](http://9to5google.com/2024/05/12/google-wallet-android-wear-os/).
 
 ## Requirements
 - Python 3.8
