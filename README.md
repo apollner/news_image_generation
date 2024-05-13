@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vladimir Guerrero Jr. cartwheels after catch**
+**Putin replaces security chiefs in surprise reshuffle**
 
-You can read more about it [here](https://www.mlb.com/news/vladimir-guerrero-jr-cartwheels-after-catch).
+You can read more about it [here](https://www.ft.com/content/641cf6f1-69dd-4b0c-af45-0fb2d0f4e80c).
 
 ## Requirements
 - Python 3.8
