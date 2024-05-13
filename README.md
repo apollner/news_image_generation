@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market’s near-record rally faces most crucial inflation reading of 2024**
+**Ron Howard Remembers Roger Corman’s Mentorship and Impact on Filmmaking: ‘What a Life’**
 
-You can read more about it [here](https://www.marketwatch.com/story/inflation-trap-stock-markets-near-record-run-faces-the-most-crucial-cpi-reading-of-2024-e88374f6).
+You can read more about it [here](https://variety.com/2024/film/news/ron-howard-tribute-roger-corman-1235999880/).
 
 ## Requirements
 - Python 3.8
