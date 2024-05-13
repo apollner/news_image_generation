@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake Pleads With News Network Over Helicopter Buzzing Above His Toronto Home: 'I'm Trying to Sleep'**
+**Roger Corman, Pioneering Independent Producer and King of B Movies, Dies at 98**
 
-You can read more about it [here](https://www.etonline.com/drake-pleads-with-news-network-over-helicopter-buzzing-above-his-toronto-home-im-trying-to-sleep).
+You can read more about it [here](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/).
 
 ## Requirements
 - Python 3.8
