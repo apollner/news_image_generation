@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jaylen Brown's pep talk fuels Celtics in Game 3: 'We're not here to play around'**
+**Will your last COVID vaccine work against new ‘FLiRT’ variants?**
 
-You can read more about it [here](https://theathletic.com/5487263/2024/05/12/celtics-jaylen-brown-cavaliers-game-3-win/).
+You can read more about it [here](https://thehill.com/homenews/nexstar_media_wire/4653747-will-your-last-covid-vaccine-work-against-new-flirt-variants/).
 
 ## Requirements
 - Python 3.8
