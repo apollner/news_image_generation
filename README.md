@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massachusetts man who received first ever pig kidney transplant dies**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/massachusetts-general-hospital-pig-kidney-rick-slayman/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
