@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ron Howard Remembers Roger Corman’s Mentorship and Impact on Filmmaking: ‘What a Life’**
+**Massive Trump beach rally in deep blue NJ draws stark contrast to Biden's beach weekend: 'Biden could never'**
 
-You can read more about it [here](https://variety.com/2024/film/news/ron-howard-tribute-roger-corman-1235999880/).
+You can read more about it [here](https://www.foxnews.com/politics/massive-trump-beach-rally-deep-blue-nj-draws-stark-contrast-bidens-beach-weekend-biden-could-never).
 
 ## Requirements
 - Python 3.8
