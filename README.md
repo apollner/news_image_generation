@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Wallet dropping support for old Android, Wear OS versions**
+**Blinken reiterates human rights findings on Israel**
 
-You can read more about it [here](http://9to5google.com/2024/05/12/google-wallet-android-wear-os/).
+You can read more about it [here](https://www.politico.com/news/2024/05/12/blinken-reiterates-findings-israel-00157491).
 
 ## Requirements
 - Python 3.8
