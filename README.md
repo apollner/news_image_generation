@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 Atlanta police officers wounded in shooting, suspect dead**
+**Man who received first pig kidney transplant dies aged 62**
 
-You can read more about it [here](https://www.foxnews.com/us/3-atlanta-police-officers-wounded-shooting-suspect-dead).
+You can read more about it [here](https://www.bbc.com/news/articles/c4n1l9g2wn9o).
 
 ## Requirements
 - Python 3.8
