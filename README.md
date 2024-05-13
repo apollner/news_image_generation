@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Kingdom Of The Planet Of The Apes’ Evolving Towards $125M+ Global Debut – International Box Office**
+**Biden's arms embargo on Israel 'emboldens' Hamas missile strikes against Jewish state**
 
-You can read more about it [here](http://deadline.com/2024/05/kingdom-of-the-planet-of-the-apes-fall-guy-if-global-international-box-office-1235912415/).
+You can read more about it [here](https://www.foxnews.com/world/bidens-arms-embargo-israel-emboldens-hamas-missile-strikes-jewish-state).
 
 ## Requirements
 - Python 3.8
