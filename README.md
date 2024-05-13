@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine’s Lomachenko knocks out Kambosos to win IBF lightweight crown**
+**Pirates prospect Paul Skenes allows 3 runs, shows dominant stuff in hyped big-league debut**
 
-You can read more about it [here](https://www.aljazeera.com/sports/2024/5/12/ukraines-lomachenko-knocks-out-kambosos-to-win-ibf-lightweight-crown).
+You can read more about it [here](https://theathletic.com/5486253/2024/05/11/paul-skenes-debut-prospect-pirates/).
 
 ## Requirements
 - Python 3.8
