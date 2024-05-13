@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roger Corman, Pioneering Independent Producer and King of B Movies, Dies at 98**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
