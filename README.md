@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin replaces security chiefs in surprise reshuffle**
+**Stock market’s near-record rally faces most crucial inflation reading of 2024**
 
-You can read more about it [here](https://www.ft.com/content/641cf6f1-69dd-4b0c-af45-0fb2d0f4e80c).
+You can read more about it [here](https://www.marketwatch.com/story/inflation-trap-stock-markets-near-record-run-faces-the-most-crucial-cpi-reading-of-2024-e88374f6).
 
 ## Requirements
 - Python 3.8
