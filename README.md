@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump may face a $100M-plus tax bill if he loses IRS audit fight over Chicago tower, according to report**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/11/trump-irs-chicago-audit-00157480).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
