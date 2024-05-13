@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken reiterates human rights findings on Israel**
+**Georgia: Thousands rally in protest at 'foreign influence' bill**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/12/blinken-reiterates-findings-israel-00157491).
+You can read more about it [here](https://www.bbc.com/news/articles/cle0j5we2pno).
 
 ## Requirements
 - Python 3.8
