@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experts say gun alone doesn't justify deadly force in fatal shooting of Florida airman**
+**Pirates prospect Paul Skenes allows 3 runs, shows dominant stuff in hyped big-league debut**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/12/fatal-shooting-florida-gun-00157488).
+You can read more about it [here](https://theathletic.com/5486253/2024/05/11/paul-skenes-debut-prospect-pirates/).
 
 ## Requirements
 - Python 3.8
