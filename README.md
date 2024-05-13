@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roger Corman, Hollywood mentor and 'King of the Bs,' dies at 98**
+**Brazil floods: Forecast to worsen in south**
 
-You can read more about it [here](https://apnews.com/article/roger-corman-dies-obituary-hollywood-b85b5fbc13184b5f8dab1e9d4b881645).
+You can read more about it [here](https://apnews.com/article/brazil-floods-climate-change-inequality-8a1d0e3a00bfd9a5b7918e62d6aab02a).
 
 ## Requirements
 - Python 3.8
