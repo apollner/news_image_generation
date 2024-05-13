@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken reiterates human rights findings on Israel**
+**With Brad Marchand out for Game 4, Bruins seek to avenge him**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/12/blinken-reiterates-findings-israel-00157491).
+You can read more about it [here](https://www.espn.com/nhl/story/_/id/40131959/with-brad-marchand-game-4-bruins-seek-avenge-him).
 
 ## Requirements
 - Python 3.8
