@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man who received first pig kidney transplant dies aged 62**
+**Pro-Palestine student protests continue at weekend commencement ceremonies**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4n1l9g2wn9o).
+You can read more about it [here](https://thehill.com/homenews/education/4658597-pro-palestine-student-protests-continue-at-weekend-commencement-ceremonies/).
 
 ## Requirements
 - Python 3.8
