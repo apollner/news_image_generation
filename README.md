@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas mom's killer is captured after years on the run. Where did he bury her body?**
+**Roger Corman, Hollywood mentor and 'King of the Bs,' dies at 98**
 
-You can read more about it [here](https://www.cbsnews.com/news/tammy-myers-william-greer-texas-moms-killer-captured-after-years-on-the-run-where-did-he-bury-her-body/).
+You can read more about it [here](https://apnews.com/article/roger-corman-dies-obituary-hollywood-b85b5fbc13184b5f8dab1e9d4b881645).
 
 ## Requirements
 - Python 3.8
