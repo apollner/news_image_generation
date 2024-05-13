@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Demonstrations continue at universities across the country during weekend commencement ceremonies**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/universities-commencements-protests-rcna151805).
 
 ## Requirements
 - Python 3.8
