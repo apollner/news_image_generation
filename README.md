@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**3 Atlanta police officers wounded in shooting, suspect dead**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/us/3-atlanta-police-officers-wounded-shooting-suspect-dead).
 
 ## Requirements
 - Python 3.8
