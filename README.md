@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump May Owe More Than $100 Million in Back Taxes: Report**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.rollingstone.com/politics/politics-news/trump-100-million-dollars-back-taxes-irs-audit-report-1235019082/).
 
 ## Requirements
 - Python 3.8
