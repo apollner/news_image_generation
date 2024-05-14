@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officials postpone explosive precision cuts of Key Bridge**
+**Spain's Socialists hail 'new era' in Catalonia as separatist support dims in elections**
 
-You can read more about it [here](https://www.wbaltv.com/article/explosive-precision-cuts-at-key-bridge-collapse-site-postponed/60769239).
+You can read more about it [here](https://www.reuters.com/world/europe/catalans-vote-election-that-offers-new-chance-exiled-separatist-leader-2024-05-12/).
 
 ## Requirements
 - Python 3.8
