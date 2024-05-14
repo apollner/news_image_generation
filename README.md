@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon, Morgan Stanley, Pfizer to Announce French Projects**
+**Putin replaces Russia’s defense minister with a civilian as Ukraine war rages and defense spending spirals**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-12/morgan-stanley-to-add-100-jobs-in-paris-hub-le-maire-says).
+You can read more about it [here](https://www.cnn.com/2024/05/12/europe/sergei-shoigu-putin-replaces-defense-minister-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
