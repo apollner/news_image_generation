@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Travis Kelce React to Taylor Swift Performing Songs Rumored to Be About Him During Eras Tour**
+**The (Extra Hot) Cannes Hot List: Nic Cage, Kristen Stewart and Paul Rudd Films to Heat up the Market**
 
-You can read more about it [here](https://www.etonline.com/see-travis-kelce-react-to-taylor-swift-performing-songs-rumored-to-be-about-him-during-eras-tour).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/cannes-film-market-hot-list-2024-nic-cage-1235895207/).
 
 ## Requirements
 - Python 3.8
