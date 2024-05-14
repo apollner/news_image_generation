@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indiana Pacers cruise past New York Knicks, tie series**
+**Olivia Munn Shares She Underwent a Hysterectomy Amid Cancer Battle**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40133896/indiana-pacers-cruise-new-york-knicks-tie-series).
+You can read more about it [here](https://www.eonline.com/news/1401437/olivia-munn-shares-she-underwent-a-hysterectomy-amid-cancer-battle).
 
 ## Requirements
 - Python 3.8
