@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legendary treasure that apparently belonged to notorious 18th-century conman unearthed in Poland**
+**Russia-Ukraine war: Army locked in 'fierce' border battles amid Russian assault, Zelenskyy says**
 
-You can read more about it [here](https://www.cbsnews.com/news/legendary-treasure-conman-healing-powers-poland-officials/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-zelenskyy-kharkiv-donetzk-397dd892f936726bd1acbd45991a18a6).
 
 ## Requirements
 - Python 3.8
