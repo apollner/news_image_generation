@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Kremlin shake-up of Russia's Defense Ministry comes at a key moment in the Ukraine war**
+**Taylor Swift’s last Eras Tour show in Paris was full of Travis Kelce nods, and he seemed to love it**
 
-You can read more about it [here](https://www.post-gazette.com/news/world/2024/05/13/kremlin-shake-up-putin-shigu-belousov/stories/202405130060).
+You can read more about it [here](https://www.cnn.com/2024/05/13/entertainment/taylor-swift-travis-kelce-paris/index.html).
 
 ## Requirements
 - Python 3.8
