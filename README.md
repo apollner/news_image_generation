@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Wears Kansas City Chiefs Colors at Paris Eras Show With Travis Kelce in the Audience**
+**Watch the Google I/O livestream here - GSMArena.com news**
 
-You can read more about it [here](http://www.billboard.com/music/music-news/taylor-swift-wears-kansas-city-chiefs-colors-travis-kelce-paris-eras-tour-1235681228/).
+You can read more about it [here](https://www.gsmarena.com/watch_the_google_i_o_livestream_here-news-62838.php).
 
 ## Requirements
 - Python 3.8
