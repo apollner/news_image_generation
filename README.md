@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman Says 'Voice Is a Hint' at the Next Big Thing in AI**
+**See Travis Kelce React to Taylor Swift Performing Songs Rumored to Be About Him During Eras Tour**
 
-You can read more about it [here](https://gizmodo.com/sam-altman-says-voice-is-a-hint-at-the-next-big-thing-i-1851472463).
+You can read more about it [here](https://www.etonline.com/see-travis-kelce-react-to-taylor-swift-performing-songs-rumored-to-be-about-him-during-eras-tour).
 
 ## Requirements
 - Python 3.8
