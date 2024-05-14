@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch the Google I/O livestream here - GSMArena.com news**
+**Legendary treasure that apparently belonged to notorious 18th-century conman unearthed in Poland**
 
-You can read more about it [here](https://www.gsmarena.com/watch_the_google_i_o_livestream_here-news-62838.php).
+You can read more about it [here](https://www.cbsnews.com/news/legendary-treasure-conman-healing-powers-poland-officials/).
 
 ## Requirements
 - Python 3.8
