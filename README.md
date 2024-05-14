@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live from Timberwolves-Nuggets Game 4**
+**Spain Socialists win Catalan vote as separatists lose ground**
 
-You can read more about it [here](https://www.startribune.com/timberwolves-nuggets-live-game-report-nikola-jokic-anthony-edwards-nba-playoffs/600365426/).
+You can read more about it [here](https://www.bbc.com/news/world-europe-69000823).
 
 ## Requirements
 - Python 3.8
