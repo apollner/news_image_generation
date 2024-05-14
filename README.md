@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olivia Munn Shares She Underwent a Hysterectomy Amid Cancer Battle**
+**Israel preparing for Rafah invasion amid increasing tension with U.S. over humanitarian crisis in Gaza**
 
-You can read more about it [here](https://www.eonline.com/news/1401437/olivia-munn-shares-she-underwent-a-hysterectomy-amid-cancer-battle).
+You can read more about it [here](https://www.cbsnews.com/news/israel-preparing-for-rafah-invasion-amid-increasing-tension-with-us-over-gaza-humanitarian-crisis-60-minutes-transcript/).
 
 ## Requirements
 - Python 3.8
