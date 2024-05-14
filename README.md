@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anglo American Rejects BHP's Fresh $43 Billion Takeover Bid**
+**See Travis Kelce React to Taylor Swift Performing Songs Rumored to Be About Him During Eras Tour**
 
-You can read more about it [here](https://www.wsj.com/business/bhp-gets-fresh-rejection-from-anglo-american-for-improved-bid-ae68befa).
+You can read more about it [here](https://www.etonline.com/see-travis-kelce-react-to-taylor-swift-performing-songs-rumored-to-be-about-him-during-eras-tour).
 
 ## Requirements
 - Python 3.8
