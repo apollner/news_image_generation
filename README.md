@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel preparing for Rafah invasion amid increasing tension with U.S. over humanitarian crisis in Gaza**
+**Dozens of Colorado dairy farm workers monitored for bird flu symptoms**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-preparing-for-rafah-invasion-amid-increasing-tension-with-us-over-gaza-humanitarian-crisis-60-minutes-transcript/).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/dozens-colorado-dairy-farm-workers-monitored-avian-bird-flu-symptoms/).
 
 ## Requirements
 - Python 3.8
