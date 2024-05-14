@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indiana Pacers cruise past New York Knicks, tie series**
+**Suspect in fatal Euclid police officer shooting is found dead after standoff in Shaker Heights**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40133896/indiana-pacers-cruise-new-york-knicks-tie-series).
+You can read more about it [here](https://www.cleveland.com/news/2024/05/suspect-in-fatal-euclid-police-officer-shooting-is-found-dead-after-police-standoff-in-shaker-heights.html).
 
 ## Requirements
 - Python 3.8
