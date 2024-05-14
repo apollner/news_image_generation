@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronny James expected to stay in 2024 NBA Draft**
+**ChatGPT arriving on the Mac in new OpenAI app ahead of WWDC**
 
-You can read more about it [here](https://theathletic.com/5489626/2024/05/13/bronny-james-nba-draft-combine/).
+You can read more about it [here](https://9to5mac.com/2024/05/13/chatgpt-mac-desktop-openai/).
 
 ## Requirements
 - Python 3.8
