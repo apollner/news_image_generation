@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Hamas Files Show How It Spied on Everyday Palestinians**
+**Childish Gambino Announces World Tour, Releases Atavista**
 
-You can read more about it [here](https://nytlicensing.com/stories/yeT30Om9).
+You can read more about it [here](https://consequence.net/2024/05/childish-gambino-world-tour-atavista/).
 
 ## Requirements
 - Python 3.8
