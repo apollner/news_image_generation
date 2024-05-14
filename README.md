@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The (Extra Hot) Cannes Hot List: Nic Cage, Kristen Stewart and Paul Rudd Films to Heat up the Market**
+**Anglo American Rejects BHP's Fresh $43 Billion Takeover Bid**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/cannes-film-market-hot-list-2024-nic-cage-1235895207/).
+You can read more about it [here](https://www.wsj.com/business/bhp-gets-fresh-rejection-from-anglo-american-for-improved-bid-ae68befa).
 
 ## Requirements
 - Python 3.8
