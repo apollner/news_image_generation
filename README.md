@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's coming new tariffs on China reflect 'lessons learned'**
+**Indonesia's Mt Ibu erupts, spewing ash clouds**
 
-You can read more about it [here](https://finance.yahoo.com/news/bidens-coming-new-tariffs-on-china-reflect-lessons-learned-130114807.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/indonesias-mt-ibu-erupts-spewing-ash-clouds-2024-05-13/).
 
 ## Requirements
 - Python 3.8
