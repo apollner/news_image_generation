@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's coming new tariffs on China reflect 'lessons learned'**
+**Spain's Socialists hail 'new era' in Catalonia as separatist support dims in elections**
 
-You can read more about it [here](https://finance.yahoo.com/news/bidens-coming-new-tariffs-on-china-reflect-lessons-learned-130114807.html).
+You can read more about it [here](https://www.reuters.com/world/europe/catalans-vote-election-that-offers-new-chance-exiled-separatist-leader-2024-05-12/).
 
 ## Requirements
 - Python 3.8
