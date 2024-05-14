@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain's Socialists hail 'new era' in Catalonia as separatist support dims in elections**
+**Amazon, Morgan Stanley, Pfizer to Announce French Projects**
 
-You can read more about it [here](https://www.reuters.com/world/europe/catalans-vote-election-that-offers-new-chance-exiled-separatist-leader-2024-05-12/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-12/morgan-stanley-to-add-100-jobs-in-paris-hub-le-maire-says).
 
 ## Requirements
 - Python 3.8
