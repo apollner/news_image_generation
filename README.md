@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronny James expected to stay in 2024 NBA Draft**
+**GameStop soars as flag bearer 'Roaring Kitty' resurfaces, sparks meme stock rally**
 
-You can read more about it [here](https://theathletic.com/5489626/2024/05/13/bronny-james-nba-draft-combine/).
+You can read more about it [here](https://finance.yahoo.com/news/gamestop-jumps-roaring-kitty-returns-112405881.html).
 
 ## Requirements
 - Python 3.8
