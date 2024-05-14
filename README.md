@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The (Extra Hot) Cannes Hot List: Nic Cage, Kristen Stewart and Paul Rudd Films to Heat up the Market**
+**Chiefs, Ravens to kick off 2024 NFL season as Kansas City looks to 3-peat**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/cannes-film-market-hot-list-2024-nic-cage-1235895207/).
+You can read more about it [here](https://www.foxnews.com/sports/chiefs-ravens-kick-off-2024-nfl-season-kansas-city-looks-three-peat).
 
 ## Requirements
 - Python 3.8
