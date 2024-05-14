@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of Colorado dairy farm workers monitored for bird flu symptoms**
+**Live from Timberwolves-Nuggets Game 4**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/dozens-colorado-dairy-farm-workers-monitored-avian-bird-flu-symptoms/).
+You can read more about it [here](https://www.startribune.com/timberwolves-nuggets-live-game-report-nikola-jokic-anthony-edwards-nba-playoffs/600365426/).
 
 ## Requirements
 - Python 3.8
