@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL schedule release: Chiefs to host Ravens in 2024 season opener**
+**Prince Harry Gets 'Bitter Kick in the Teeth' From King Charles and Prince William**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-schedule-release-chiefs-to-host-ravens-in-2024-season-opener-120724964.html).
+You can read more about it [here](https://www.thedailybeast.com/prince-harry-gets-bitter-kick-in-the-teeth-from-king-charles-and-prince-william).
 
 ## Requirements
 - Python 3.8
