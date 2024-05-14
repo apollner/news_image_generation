@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: Army locked in 'fierce' border battles amid Russian assault, Zelenskyy says**
+**A Kremlin shake-up of Russia's Defense Ministry comes at a key moment in the Ukraine war**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-zelenskyy-kharkiv-donetzk-397dd892f936726bd1acbd45991a18a6).
+You can read more about it [here](https://www.post-gazette.com/news/world/2024/05/13/kremlin-shake-up-putin-shigu-belousov/stories/202405130060).
 
 ## Requirements
 - Python 3.8
