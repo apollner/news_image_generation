@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in fatal Euclid police officer shooting is found dead after standoff in Shaker Heights**
+**[Removed]**
 
-You can read more about it [here](https://www.cleveland.com/news/2024/05/suspect-in-fatal-euclid-police-officer-shooting-is-found-dead-after-police-standoff-in-shaker-heights.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
