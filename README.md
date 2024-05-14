@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin replaces Russia’s defense minister with a civilian as Ukraine war rages and defense spending spirals**
+**Secret Hamas Files Show How It Spied on Everyday Palestinians**
 
-You can read more about it [here](https://www.cnn.com/2024/05/12/europe/sergei-shoigu-putin-replaces-defense-minister-intl-latam/index.html).
+You can read more about it [here](https://nytlicensing.com/stories/yeT30Om9).
 
 ## Requirements
 - Python 3.8
