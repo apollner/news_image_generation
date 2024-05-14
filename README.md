@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Star witness Michael Cohen set to testify**
+**Indonesia: Floods and cold lava from Marapi volcano kill 41**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-stormy-daniels-michael-cohen-hush-money-f96dd7289cf952145cdd6737b29add3d).
+You can read more about it [here](https://www.bbc.com/news/articles/cy9xzzy57lyo).
 
 ## Requirements
 - Python 3.8
