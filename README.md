@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indonesia: Floods and cold lava from Marapi volcano kill 41**
+**Biden's coming new tariffs on China reflect 'lessons learned'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cy9xzzy57lyo).
+You can read more about it [here](https://finance.yahoo.com/news/bidens-coming-new-tariffs-on-china-reflect-lessons-learned-130114807.html).
 
 ## Requirements
 - Python 3.8
