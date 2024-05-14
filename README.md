@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs, Ravens to kick off 2024 NFL season as Kansas City looks to 3-peat**
+**Bronny James expected to stay in 2024 NBA Draft**
 
-You can read more about it [here](https://www.foxnews.com/sports/chiefs-ravens-kick-off-2024-nfl-season-kansas-city-looks-three-peat).
+You can read more about it [here](https://theathletic.com/5489626/2024/05/13/bronny-james-nba-draft-combine/).
 
 ## Requirements
 - Python 3.8
