@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Childish Gambino Announces World Tour, Releases Atavista**
+**NFL schedule release: Chiefs to host Ravens in 2024 season opener**
 
-You can read more about it [here](https://consequence.net/2024/05/childish-gambino-world-tour-atavista/).
+You can read more about it [here](https://sports.yahoo.com/nfl-schedule-release-chiefs-to-host-ravens-in-2024-season-opener-120724964.html).
 
 ## Requirements
 - Python 3.8
