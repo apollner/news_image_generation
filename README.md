@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indonesia's Mt Ibu erupts, spewing ash clouds**
+**Trump hush money trial: Star witness Michael Cohen set to testify**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/indonesias-mt-ibu-erupts-spewing-ash-clouds-2024-05-13/).
+You can read more about it [here](https://apnews.com/article/trump-trial-stormy-daniels-michael-cohen-hush-money-f96dd7289cf952145cdd6737b29add3d).
 
 ## Requirements
 - Python 3.8
