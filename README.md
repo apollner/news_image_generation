@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX reaches nearly 6000 Starlink satellites on orbit following Falcon 9 launch from Cape Canaveral – Spaceflight Now**
+**[Removed]**
 
-You can read more about it [here](https://spaceflightnow.com/2024/05/12/live-coverage-spacex-to-reach-6000-starlink-satellites-on-orbit-following-falcon-9-launch-from-cape-canaveral/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
