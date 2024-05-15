@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli police say investigating ransacking of Gaza-bound aid trucks**
+**At least 8 people killed in Florida bus crash; dozens injured**
 
-You can read more about it [here](https://www.france24.com/en/live-news/20240514-israeli-police-say-investigating-ransacking-of-gaza-bound-aid-trucks).
+You can read more about it [here](https://www.cbsnews.com/news/florida-bus-crash-marion-county-people-killed/).
 
 ## Requirements
 - Python 3.8
