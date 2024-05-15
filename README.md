@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wegovy weight loss sustained for four years in trial, Novo Nordisk says**
+**Google I/O 2024 live blog — all the Gemini AI and Android 15 news as it happens**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/).
+You can read more about it [here](https://www.tomsguide.com/news/live/google-io-2024-keynote).
 
 ## Requirements
 - Python 3.8
