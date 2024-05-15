@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Windy breaks down LeBron in Cleveland, Bronny at the Draft Combine & more! | The Pat McAfee Show**
+**AMC's meme stock windfall may help it pay down a massive debt load**
 
-You can read more about it [here](https://www.youtube.com/watch?v=5p6ki2YUc7o).
+You can read more about it [here](https://www.cnbc.com/2024/05/14/amc-news-roaring-kitty-meme-stock-rally-may-help-with-debt-payments.html).
 
 ## Requirements
 - Python 3.8
