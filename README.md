@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William flies helicopter as Army Air Corps' new colonel-in-chief**
+**Khloé Kardashian brings kids to see dad Tristan Thompson play professionally for first time**
 
-You can read more about it [here](https://www.bbc.com/news/av/uk-69005175).
+You can read more about it [here](https://pagesix.com/2024/05/13/entertainment/khloe-kardashian-brings-kids-to-see-dad-tristan-thompson-play-professionally-for-first-time/).
 
 ## Requirements
 - Python 3.8
