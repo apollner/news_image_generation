@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Cowboys will face Browns in Week 1 to mark Tom Brady's FOX Sports debut**
+**Celtics take control of series with Game 4 win vs. Cavaliers**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/exclusive-cowboys-will-face-browns-in-week-1-to-mark-tom-bradys-fox-sports-debut).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40142124/celtics-take-control-east-semifinal-series-game-4-win-vs-short-handed-cavaliers).
 
 ## Requirements
 - Python 3.8
