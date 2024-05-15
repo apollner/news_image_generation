@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melinda French Gates resigns as Gates Foundation co-chair, 3 years after her divorce from Bill Gates**
+**M4 iPad Pro reviews praise OLED display; criticize price, software**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/melinda-french-gates-resigns-gates-foundation-chair-3-110180418).
+You can read more about it [here](https://9to5mac.com/2024/05/13/first-m4-ipad-pro-reviews/).
 
 ## Requirements
 - Python 3.8
