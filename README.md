@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore Key Bridge: Crews demolish span with controlled explosives**
+**Travis Kelce REACTS to Taylor Swift Performing TTPD Songs Rumored About Him**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/13/baltimore-key-bridge-demolish-controlled-explosives/73679043007/).
+You can read more about it [here](https://www.youtube.com/watch?v=qAIPoCgnLlo).
 
 ## Requirements
 - Python 3.8
