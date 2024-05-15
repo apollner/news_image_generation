@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Latest M4 iPad Pro Models Have Worse Battery Life Than The M1 mini-LED Version In Early Runtime Tests, Despite Switching To OLED Technology**
+**Wegovy weight loss sustained for four years in trial, Novo Nordisk says**
 
-You can read more about it [here](https://wccftech.com/m4-ipad-pro-models-worse-battery-life-than-m1-mini-led-version/).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/).
 
 ## Requirements
 - Python 3.8
