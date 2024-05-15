@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Westminster dog show, a display of dogs and devotion**
+**Stock futures fall after hotter-than-expected producer price report: Live updates**
 
-You can read more about it [here](https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54).
+You can read more about it [here](https://www.cnbc.com/2024/05/13/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
