@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to announce new 100% tariffs on Chinese EVs**
+**Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-to-announce-new-100-tariffs-on-chinese-evs/).
+You can read more about it [here](https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html).
 
 ## Requirements
 - Python 3.8
