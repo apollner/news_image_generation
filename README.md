@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alice Munro, Nobel Prize winner and ‘master of the short story,’ dies at 92**
+**Windy breaks down LeBron in Cleveland, Bronny at the Draft Combine & more! | The Pat McAfee Show**
 
-You can read more about it [here](https://www.cnn.com/2024/05/14/style/alice-munro-dies-92-author-obituary/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=5p6ki2YUc7o).
 
 ## Requirements
 - Python 3.8
