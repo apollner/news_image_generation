@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures fall after hotter-than-expected producer price report: Live updates**
+**Israeli police say investigating ransacking of Gaza-bound aid trucks**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/13/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.france24.com/en/live-news/20240514-israeli-police-say-investigating-ransacking-of-gaza-bound-aid-trucks).
 
 ## Requirements
 - Python 3.8
