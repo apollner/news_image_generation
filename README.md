@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google I/O 2024: Everything announced so far**
+**Helium leak delays 1st astronaut launch of Boeing's Starliner to May 21**
 
-You can read more about it [here](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/).
+You can read more about it [here](https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak).
 
 ## Requirements
 - Python 3.8
