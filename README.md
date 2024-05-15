@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helium leak delays 1st astronaut launch of Boeing's Starliner to May 21**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
