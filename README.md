@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa Attorney General Brenna Bird at Donald Trump's hush money trial in New York**
+**Baltimore bridge blown up in controlled demolition**
 
-You can read more about it [here](https://www.kcci.com/article/iowa-attorney-general-brenna-bird-at-donald-trump-trial-hush-money-case-new-york/60777410).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-69003233).
 
 ## Requirements
 - Python 3.8
