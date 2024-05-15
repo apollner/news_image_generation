@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift’s last Eras Tour show in Paris was full of Travis Kelce nods, and he seemed to love it**
+**UN says Gaza death toll still over 35000 but not all bodies identified**
 
-You can read more about it [here](https://www.cnn.com/2024/05/13/entertainment/taylor-swift-travis-kelce-paris/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/un-says-gaza-death-toll-still-over-35000-not-all-bodies-identified-2024-05-13/).
 
 ## Requirements
 - Python 3.8
