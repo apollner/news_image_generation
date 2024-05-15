@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helium leak delays 1st astronaut launch of Boeing's Starliner to May 21**
+**Alice Munro, Nobel Prize winner and ‘master of the short story,’ dies at 92**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak).
+You can read more about it [here](https://www.cnn.com/2024/05/14/style/alice-munro-dies-92-author-obituary/index.html).
 
 ## Requirements
 - Python 3.8
