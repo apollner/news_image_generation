@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M4 iPad Pro reviews praise OLED display; criticize price, software**
+**Gaza war: Palestinians flee as Israeli forces go back into Jabalia**
 
-You can read more about it [here](https://9to5mac.com/2024/05/13/first-m4-ipad-pro-reviews/).
+You can read more about it [here](https://www.bbc.com/news/world-middle-east-69001835).
 
 ## Requirements
 - Python 3.8
