@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Avalanche’s Nichushkin placed in stage 3 of NHL**
+**Exclusive: Cowboys will face Browns in Week 1 to mark Tom Brady's FOX Sports debut**
 
-You can read more about it [here](https://www.nhlpa.com/news/1-22674/avalanches-nichushkin-placed-in-stage-3-of-nhlnhlpa-player-assistance-program).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/exclusive-cowboys-will-face-browns-in-week-1-to-mark-tom-bradys-fox-sports-debut).
 
 ## Requirements
 - Python 3.8
