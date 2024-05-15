@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 8 people killed in Florida bus crash; dozens injured**
+**There's bird flu in US dairy cows. Raw milk drinkers aren't deterred**
 
-You can read more about it [here](https://www.cbsnews.com/news/florida-bus-crash-marion-county-people-killed/).
+You can read more about it [here](https://apnews.com/article/bird-flu-raw-milk-h5n1-6398d2eda26eb41797ee2700cf9d036b).
 
 ## Requirements
 - Python 3.8
