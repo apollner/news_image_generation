@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Michael Cohen returns to face cross-examination**
+**Magma world: A volcanic planet is "constantly exploding" with molten lava, astronomers announce**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-cohen-hush-money-stormy-daniels-735aadfd1ce015e05ba955c203a96f1b).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA1LzE0L21hZ21hLXdvcmxkLWEtdm9sY2FuaWMtcGxhbmV0LWlzLWNvbnN0YW50bHktZXhwbG9kaW5nLXdpdGgtbW9sdGVuLWxhdmEtYXN0cm9ub21lcnMtYW5ub3VuY2Uv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
