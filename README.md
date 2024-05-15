@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI's new voice assistant ChatGPT-4o smokes Apple's Siri**
+**Avalanche’s Nichushkin placed in stage 3 of NHL**
 
-You can read more about it [here](https://www.businessinsider.com/chatgpt-4o-sam-altman-apple-siri-tim-cook-compared-how-2024-5).
+You can read more about it [here](https://www.nhlpa.com/news/1-22674/avalanches-nichushkin-placed-in-stage-3-of-nhlnhlpa-player-assistance-program).
 
 ## Requirements
 - Python 3.8
