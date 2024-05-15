@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics take control of series with Game 4 win vs. Cavaliers**
+**Prince William flies helicopter as Army Air Corps' new colonel-in-chief**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40142124/celtics-take-control-east-semifinal-series-game-4-win-vs-short-handed-cavaliers).
+You can read more about it [here](https://www.bbc.com/news/av/uk-69005175).
 
 ## Requirements
 - Python 3.8
