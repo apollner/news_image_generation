@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**REVEALED: Full list of Red Lobster restaurant closures as popular chain considers bankruptcy - find out if YOUR favorite is affected**
+**Magma world: A volcanic planet is "constantly exploding" with molten lava, astronomers announce**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay95b3VybW9uZXkvYXJ0aWNsZS0xMzQxNjcyMy9MaXN0LXJlZC1sb2JzdGVyLWxvY2F0aW9ucy1jbG9zaW5nLWF1Y3Rpb24uaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA1LzE0L21hZ21hLXdvcmxkLWEtdm9sY2FuaWMtcGxhbmV0LWlzLWNvbnN0YW50bHktZXhwbG9kaW5nLXdpdGgtbW9sdGVuLWxhdmEtYXN0cm9ub21lcnMtYW5ub3VuY2Uv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
