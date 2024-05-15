@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: Palestinians flee as Israeli forces go back into Jabalia**
+**OpenAI's new voice assistant ChatGPT-4o smokes Apple's Siri**
 
-You can read more about it [here](https://www.bbc.com/news/world-middle-east-69001835).
+You can read more about it [here](https://www.businessinsider.com/chatgpt-4o-sam-altman-apple-siri-tim-cook-compared-how-2024-5).
 
 ## Requirements
 - Python 3.8
