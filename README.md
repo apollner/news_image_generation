@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wegovy weight loss sustained for four years in trial, Novo Nordisk says**
+**At Westminster dog show, a display of dogs and devotion**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/).
+You can read more about it [here](https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54).
 
 ## Requirements
 - Python 3.8
