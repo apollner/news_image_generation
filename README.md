@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magma world: A volcanic planet is "constantly exploding" with molten lava, astronomers announce**
+**Google I/O 2024: Everything announced so far**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA1LzE0L21hZ21hLXdvcmxkLWEtdm9sY2FuaWMtcGxhbmV0LWlzLWNvbnN0YW50bHktZXhwbG9kaW5nLXdpdGgtbW9sdGVuLWxhdmEtYXN0cm9ub21lcnMtYW5ub3VuY2Uv0gEA?oc=5).
+You can read more about it [here](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/).
 
 ## Requirements
 - Python 3.8
