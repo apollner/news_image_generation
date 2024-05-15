@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMC's meme stock windfall may help it pay down a massive debt load**
+**Mike Johnson defends Trump outside N.Y. criminal trial**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/14/amc-news-roaring-kitty-meme-stock-rally-may-help-with-debt-payments.html).
+You can read more about it [here](https://www.axios.com/2024/05/14/mike-johnson-new-york-trump-criminal-trial).
 
 ## Requirements
 - Python 3.8
