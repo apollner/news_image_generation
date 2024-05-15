@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Instant reactions to Detroit Lions quarterback Jared Goff getting PAID**
+**At Westminster dog show, a display of dogs and devotion**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/5/13/24155973/video-detroit-lions-quarterback-jared-goff-paid-contract-extension).
+You can read more about it [here](https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54).
 
 ## Requirements
 - Python 3.8
