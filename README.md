@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**There's bird flu in US dairy cows. Raw milk drinkers aren't deterred**
+**Trump hush money trial: Michael Cohen returns to face cross-examination**
 
-You can read more about it [here](https://apnews.com/article/bird-flu-raw-milk-h5n1-6398d2eda26eb41797ee2700cf9d036b).
+You can read more about it [here](https://apnews.com/article/trump-trial-cohen-hush-money-stormy-daniels-735aadfd1ce015e05ba955c203a96f1b).
 
 ## Requirements
 - Python 3.8
