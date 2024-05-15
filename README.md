@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMC's meme stock windfall may help it pay down a massive debt load**
+**8 dead, dozens injured in farmworkers bus crash in central Florida**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/14/amc-news-roaring-kitty-meme-stock-rally-may-help-with-debt-payments.html).
+You can read more about it [here](https://apnews.com/article/bus-accident-florida-fatalities-e9693eb05f1f920cb20b166413d91d79).
 
 ## Requirements
 - Python 3.8
