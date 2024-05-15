@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Westminster dog show, a display of dogs and devotion**
+**Apple’s Latest M4 iPad Pro Models Have Worse Battery Life Than The M1 mini-LED Version In Early Runtime Tests, Despite Switching To OLED Technology**
 
-You can read more about it [here](https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54).
+You can read more about it [here](https://wccftech.com/m4-ipad-pro-models-worse-battery-life-than-m1-mini-led-version/).
 
 ## Requirements
 - Python 3.8
