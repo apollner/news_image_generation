@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Johnson defends Trump outside N.Y. criminal trial**
+**Helium leak delays 1st astronaut launch of Boeing's Starliner to May 21**
 
-You can read more about it [here](https://www.axios.com/2024/05/14/mike-johnson-new-york-trump-criminal-trial).
+You can read more about it [here](https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak).
 
 ## Requirements
 - Python 3.8
