@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google I/O 2024 live blog — all the Gemini AI and Android 15 news as it happens**
+**UK mining giant Anglo American to offload De Beers diamond firm**
 
-You can read more about it [here](https://www.tomsguide.com/news/live/google-io-2024-keynote).
+You can read more about it [here](https://www.bbc.com/news/articles/c88zz55p5q7o).
 
 ## Requirements
 - Python 3.8
