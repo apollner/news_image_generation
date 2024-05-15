@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wegovy weight loss sustained for four years in trial, Novo Nordisk says**
+**Instant reactions to Detroit Lions quarterback Jared Goff getting PAID**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/).
+You can read more about it [here](https://www.prideofdetroit.com/2024/5/13/24155973/video-detroit-lions-quarterback-jared-goff-paid-contract-extension).
 
 ## Requirements
 - Python 3.8
