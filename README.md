@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore bridge blown up in controlled demolition**
+**Travis Kelce REACTS to Taylor Swift Performing TTPD Songs Rumored About Him**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-69003233).
+You can read more about it [here](https://www.youtube.com/watch?v=qAIPoCgnLlo).
 
 ## Requirements
 - Python 3.8
