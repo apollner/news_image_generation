@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK mining giant Anglo American to offload De Beers diamond firm**
+**Wegovy weight loss sustained for four years in trial, Novo Nordisk says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c88zz55p5q7o).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/).
 
 ## Requirements
 - Python 3.8
