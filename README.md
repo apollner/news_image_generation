@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN says Gaza death toll still over 35000 but not all bodies identified**
+**Melinda French Gates resigns as Gates Foundation co-chair, 3 years after her divorce from Bill Gates**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/un-says-gaza-death-toll-still-over-35000-not-all-bodies-identified-2024-05-13/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/melinda-french-gates-resigns-gates-foundation-chair-3-110180418).
 
 ## Requirements
 - Python 3.8
