@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce REACTS to Taylor Swift Performing TTPD Songs Rumored About Him**
+**Biden to announce new 100% tariffs on Chinese EVs**
 
-You can read more about it [here](https://www.youtube.com/watch?v=qAIPoCgnLlo).
+You can read more about it [here](https://www.cbsnews.com/news/biden-to-announce-new-100-tariffs-on-chinese-evs/).
 
 ## Requirements
 - Python 3.8
