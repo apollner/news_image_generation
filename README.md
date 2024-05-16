@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas War Day 222: What is happening in Gaza, Lebanon?**
+**Ship that struck Francis Scott Key Bridge had blackouts 10 hours before crash, NTSB report finds**
 
-You can read more about it [here](https://www.jpost.com/israel-hamas-war/2024-05-15/live-updates-801199).
+You can read more about it [here](https://abcnews.go.com/US/ship-struck-francis-scott-key-bridge-blackouts-10/story?id=110218718).
 
 ## Requirements
 - Python 3.8
