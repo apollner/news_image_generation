@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin wants 3 things from Xi as he seeks to deepen Russia-China ties, analyst says**
+**Israel-Hamas War Day 222: What is happening in Gaza, Lebanon?**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/15/putin-xi-meeting-russia-wants-3-things-from-china-says-fpri.html).
+You can read more about it [here](https://www.jpost.com/israel-hamas-war/2024-05-15/live-updates-801199).
 
 ## Requirements
 - Python 3.8
