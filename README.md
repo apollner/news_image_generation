@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google I/O 2024 – the 7 biggest AI announcements, from Gemini to Android 15**
+**Blinken plays ‘Rockin’ in the Free World’ in Kyiv bar**
 
-You can read more about it [here](https://www.techradar.com/phones/android/the-7-biggest-ai-announcements-from-google-io-2024).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNS9ldXJvcGUvYmxpbmtlbi1yb2NraW4tZnJlZS13b3JsZC1zY2xpLWludGwvaW5kZXguaHRtbNIBTWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDUvMTUvZXVyb3BlL2JsaW5rZW4tcm9ja2luLWZyZWUtd29ybGQtc2NsaS1pbnRs?oc=5).
 
 ## Requirements
 - Python 3.8
