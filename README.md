@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Brunson drops 44 as Knicks blow out Pacers in Game 5**
+**Biden hits Chinese electric cars and solar cells with higher tariffs**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40149244/jalen-brunson-drops-44-knicks-blow-pacers-game-5).
+You can read more about it [here](https://www.bbc.com/news/business-69004520).
 
 ## Requirements
 - Python 3.8
