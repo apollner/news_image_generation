@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden hits Chinese electric cars and solar cells with higher tariffs**
+**OpenAI co-founder and chief scientist Ilya Sutskever departs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02OTAwNDUyMNIBAA?oc=5).
+You can read more about it [here](https://www.ft.com/content/ca009a44-d115-4e6d-9c0f-b4ec2f006084).
 
 ## Requirements
 - Python 3.8
