@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from President Joe Biden on Attempted Assassination of Slovakia Prime Minister Robert Fico**
+**Apple Previews Three New CarPlay Features Coming With iOS 18**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-attempted-assassination-of-slovakia-prime-minister-robert-fico/).
+You can read more about it [here](https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/).
 
 ## Requirements
 - Python 3.8
