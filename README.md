@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google I/O: Hands-on With Project Astra, the AI Assistant of the Future**
+**US consumer inflation cools in April; retail sales flat**
 
-You can read more about it [here](https://gizmodo.com/project-astra-hands-on-google-io-ai-assistant-1851477898).
+You can read more about it [here](https://www.reuters.com/markets/us/us-consumer-prices-rise-less-than-expected-april-core-cpi-slows-2024-05-15/).
 
 ## Requirements
 - Python 3.8
