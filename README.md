@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin wants 3 things from Xi as he seeks to deepen Russia-China ties, analyst says**
+**Biden hits Chinese electric cars and solar cells with higher tariffs**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/15/putin-xi-meeting-russia-wants-3-things-from-china-says-fpri.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02OTAwNDUyMNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
