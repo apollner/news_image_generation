@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAS Dean Hopi Hoekstra Takes Victory Lap After Peaceful End to Harvard Yard Encampment | News**
+**Putin wants 3 things from Xi as he seeks to deepen Russia-China ties, analyst says**
 
-You can read more about it [here](https://www.thecrimson.com/article/2024/5/15/hoekstra-harvard-yard-encampment/).
+You can read more about it [here](https://www.cnbc.com/2024/05/15/putin-xi-meeting-russia-wants-3-things-from-china-says-fpri.html).
 
 ## Requirements
 - Python 3.8
