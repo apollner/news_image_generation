@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden hits Chinese electric cars and solar cells with higher tariffs**
+**Cargo ship that caused Baltimore bridge collapse had power blackouts hours before leaving port**
 
-You can read more about it [here](https://www.bbc.com/news/business-69004520).
+You can read more about it [here](https://apnews.com/article/baltimore-bridge-collapse-safety-board-report-ntsb-b6d4797441350823adb7721164848c04).
 
 ## Requirements
 - Python 3.8
