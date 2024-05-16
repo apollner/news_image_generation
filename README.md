@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal investigators release report into Baltimore bridge collapse**
+**Sun shoots out biggest solar flare in nearly a decade**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/05/14/baltimore-key-bridge-collapse-ntsb-report/).
+You can read more about it [here](https://apnews.com/article/sun-solar-flare-earth-ed204eef352560f09b8366bee05e2381).
 
 ## Requirements
 - Python 3.8
