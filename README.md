@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Welcome to the WNBA: Caitlin Clark's regular-season debut is anything but easy**
+**Why U.N. lowered Gaza death toll for women and children**
 
-You can read more about it [here](https://sports.yahoo.com/welcome-to-the-wnba-caitlin-clarks-regular-season-debut-anything-but-easy-044525295.html).
+You can read more about it [here](https://www.npr.org/2024/05/15/1251265727/un-gaza-death-toll-women-children).
 
 ## Requirements
 - Python 3.8
