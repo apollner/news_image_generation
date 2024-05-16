@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google I/O: Hands-on With Project Astra, the AI Assistant of the Future**
+**'The Daily Show' mocks the horniness of ChatGPT's AI voice assistant**
 
-You can read more about it [here](https://gizmodo.com/project-astra-hands-on-google-io-ai-assistant-1851477898).
+You can read more about it [here](https://mashable.com/video/the-daily-show-chatgpt-ai-voice-assistant).
 
 ## Requirements
 - Python 3.8
