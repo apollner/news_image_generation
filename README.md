@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship that struck Francis Scott Key Bridge had blackouts 10 hours before crash, NTSB report finds**
+**Man driving pickup in Marion bus crash charged with 8 counts of DUI manslaughter**
 
-You can read more about it [here](https://abcnews.go.com/US/ship-struck-francis-scott-key-bridge-blackouts-10/story?id=110218718).
+You can read more about it [here](https://www.wftv.com/news/local/troopers-investigate-deadly-crash-involving-large-capacity-vehicle-marion-county/WVWOVYKTBZFUHAMAVGIPB4ZIGM/).
 
 ## Requirements
 - Python 3.8
