@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Daily Show' mocks the horniness of ChatGPT's AI voice assistant**
+**Welcome to the WNBA: Caitlin Clark's regular-season debut is anything but easy**
 
-You can read more about it [here](https://mashable.com/video/the-daily-show-chatgpt-ai-voice-assistant).
+You can read more about it [here](https://sports.yahoo.com/welcome-to-the-wnba-caitlin-clarks-regular-season-debut-anything-but-easy-044525295.html).
 
 ## Requirements
 - Python 3.8
