@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI co-founder and chief scientist Ilya Sutskever departs**
+**Putin wants 3 things from Xi as he seeks to deepen Russia-China ties, analyst says**
 
-You can read more about it [here](https://www.ft.com/content/ca009a44-d115-4e6d-9c0f-b4ec2f006084).
+You can read more about it [here](https://www.cnbc.com/2024/05/15/putin-xi-meeting-russia-wants-3-things-from-china-says-fpri.html).
 
 ## Requirements
 - Python 3.8
