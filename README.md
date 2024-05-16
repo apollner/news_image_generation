@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sun shoots out biggest solar flare in nearly a decade**
+**Walmart lays off hundreds of employees and requires others to relocate**
 
-You can read more about it [here](https://apnews.com/article/sun-solar-flare-earth-ed204eef352560f09b8366bee05e2381).
+You can read more about it [here](https://finance.yahoo.com/news/walmart-lays-off-hundreds-employees-012657914.html).
 
 ## Requirements
 - Python 3.8
