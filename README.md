@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Veteran fund managers weigh in on GameStop stock surge**
+**[Removed]**
 
-You can read more about it [here](https://www.thestreet.com/investing/stocks/fund-managers-gamestop-stock-surge).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
