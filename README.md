@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French prison van attack: Who is escaped prisoner Mohamed Amra?**
+**Veteran fund managers weigh in on GameStop stock surge**
 
-You can read more about it [here](https://www.bbc.com/news/world-69012563).
+You can read more about it [here](https://www.thestreet.com/investing/stocks/fund-managers-gamestop-stock-surge).
 
 ## Requirements
 - Python 3.8
