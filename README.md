@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL schedule release: Live updates ahead of tonight's full announcement**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/live/2024-nfl-schedule-release-live-updates-ahead-of-tonights-full-announcement-222736022.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
