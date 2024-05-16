@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did dinosaur blood run hot or cold? Both, according to a new study**
+**What we know about France's 'The Fly' and his deadly prison van escape**
 
-You can read more about it [here](https://www.cnn.com/2024/05/15/world/first-warm-blooded-dinosaurs-scn/index.html).
+You can read more about it [here](https://www.france24.com/en/europe/20240515-what-we-know-about-france-the-fly-and-his-deadly-prison-van-escape).
 
 ## Requirements
 - Python 3.8
