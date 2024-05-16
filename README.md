@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Previews Three New CarPlay Features Coming With iOS 18**
+**What we know about France's 'The Fly' and his deadly prison van escape**
 
-You can read more about it [here](https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/).
+You can read more about it [here](https://www.france24.com/en/europe/20240515-what-we-know-about-france-the-fly-and-his-deadly-prison-van-escape).
 
 ## Requirements
 - Python 3.8
