@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart lays off hundreds of employees and requires others to relocate**
+**French prison van attack: Who is escaped prisoner Mohamed Amra?**
 
-You can read more about it [here](https://www.npr.org/2024/05/15/1251505500/walmart-lays-off-hundreds-of-employees-and-requires-others-to-relocate).
+You can read more about it [here](https://www.bbc.com/news/world-69012563).
 
 ## Requirements
 - Python 3.8
