@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration begins lengthy process to approve new $1 billion arms deal for Israel**
+**Federal investigators release report into Baltimore bridge collapse**
 
-You can read more about it [here](https://www.cnn.com/2024/05/14/politics/biden-administration-new-israel-arms-deal/index.html).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/05/14/baltimore-key-bridge-collapse-ntsb-report/).
 
 ## Requirements
 - Python 3.8
