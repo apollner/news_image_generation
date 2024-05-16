@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why U.N. lowered Gaza death toll for women and children**
+**Google I/O: Hands-on With Project Astra, the AI Assistant of the Future**
 
-You can read more about it [here](https://www.npr.org/2024/05/15/1251265727/un-gaza-death-toll-women-children).
+You can read more about it [here](https://gizmodo.com/project-astra-hands-on-google-io-ai-assistant-1851477898).
 
 ## Requirements
 - Python 3.8
