@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man driving pickup in Marion bus crash charged with 8 counts of DUI manslaughter**
+**Google I/O 2024 – the 7 biggest AI announcements, from Gemini to Android 15**
 
-You can read more about it [here](https://www.wftv.com/news/local/troopers-investigate-deadly-crash-involving-large-capacity-vehicle-marion-county/WVWOVYKTBZFUHAMAVGIPB4ZIGM/).
+You can read more about it [here](https://www.techradar.com/phones/android/the-7-biggest-ai-announcements-from-google-io-2024).
 
 ## Requirements
 - Python 3.8
