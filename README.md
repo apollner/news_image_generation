@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI co-founder Ilya Sutskever says he will leave the startup**
+**Biden administration begins lengthy process to approve new $1 billion arms deal for Israel**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/14/openai-co-founder-ilya-sutskever-says-he-will-leave-the-startup.html).
+You can read more about it [here](https://www.cnn.com/2024/05/14/politics/biden-administration-new-israel-arms-deal/index.html).
 
 ## Requirements
 - Python 3.8
