@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Biden's EV tariffs may not be enough to stave off the threat of Chinese vehicles in the U.S.**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/05/15/china-biden-ev-tariffs-may-not-be-enough-to-stave-off-growing-threat.html).
 
 ## Requirements
 - Python 3.8
