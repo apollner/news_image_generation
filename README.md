@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How fast is bird flu spreading in US cows? ‘We have no idea’**
+**Man driving pickup in Marion bus crash charged with 8 counts of DUI manslaughter**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4657340-bird-flu-cows-spread-no-idea/).
+You can read more about it [here](https://www.wftv.com/news/local/troopers-investigate-deadly-crash-involving-large-capacity-vehicle-marion-county/WVWOVYKTBZFUHAMAVGIPB4ZIGM/).
 
 ## Requirements
 - Python 3.8
