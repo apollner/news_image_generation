@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US consumer inflation cools in April; retail sales flat**
+**Statement from President Joe Biden on Attempted Assassination of Slovakia Prime Minister Robert Fico**
 
-You can read more about it [here](https://www.reuters.com/markets/us/us-consumer-prices-rise-less-than-expected-april-core-cpi-slows-2024-05-15/).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-attempted-assassination-of-slovakia-prime-minister-robert-fico/).
 
 ## Requirements
 - Python 3.8
