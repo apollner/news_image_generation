@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart lays off hundreds of employees and requires others to relocate**
+**Jalen Brunson drops 44 as Knicks blow out Pacers in Game 5**
 
-You can read more about it [here](https://finance.yahoo.com/news/walmart-lays-off-hundreds-employees-012657914.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40149244/jalen-brunson-drops-44-knicks-blow-pacers-game-5).
 
 ## Requirements
 - Python 3.8
