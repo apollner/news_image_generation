@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitt Romney knocks Biden for 'enormous error' in not pardoning Trump**
+**Georgia's parliament passes controversial "foreign agent" law amid protests, widespread criticism**
 
-You can read more about it [here](https://nypost.com/2024/05/15/us-news/romney-knocks-biden-for-enormous-error-in-not-pardoning-trump/).
+You can read more about it [here](https://www.cbsnews.com/news/georgia-parliament-passes-foreign-agent-law-tbilisi-protests/).
 
 ## Requirements
 - Python 3.8
