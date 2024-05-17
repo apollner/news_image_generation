@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senior senator and criminal defendant: The strange twin identity of Bob Menendez**
+**Arrests at University of California, Irvine, as UC union authorizes strike over Gaza protests**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/16/senior-senator-criminal-defendant-bob-menendez-00158214).
+You can read more about it [here](https://www.axios.com/2024/05/16/university-california-protest-arrests-union-strike).
 
 ## Requirements
 - Python 3.8
