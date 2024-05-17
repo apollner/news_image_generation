@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arrests at University of California, Irvine, as UC union authorizes strike over Gaza protests**
+**The top UN court is holding hearings on the Israeli military's incursion into Rafah**
 
-You can read more about it [here](https://www.axios.com/2024/05/16/university-california-protest-arrests-union-strike).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-war-world-court-a69d2abf0f4171c100eb86ee05552514).
 
 ## Requirements
 - Python 3.8
