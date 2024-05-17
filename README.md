@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia's parliament passes controversial "foreign agent" law amid protests, widespread criticism**
+**Barge hits bridge connecting Galveston and Pelican Island, causing partial collapse and oil spill**
 
-You can read more about it [here](https://www.cbsnews.com/news/georgia-parliament-passes-foreign-agent-law-tbilisi-protests/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/barge-hits-bridge-galveston-texas-damaging-structure-causing-110268879).
 
 ## Requirements
 - Python 3.8
