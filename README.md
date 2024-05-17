@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The sun’s out, so you need to think about prevention of this type of cancer**
+**Does Israel’s Netanyahu have a plan for a ‘day after’ the war on Gaza?**
 
-You can read more about it [here](https://www.cnn.com/2024/05/16/health/skin-cancer-screening-wellness/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzUvMTYvZG9lcy1pc3JhZWxzLW5ldGFueWFodS1oYXZlLWEtcGxhbi1mb3ItYS1kYXktYWZ0ZXItdGhlLXdhci1vbi1nYXph0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzUvMTYvZG9lcy1pc3JhZWxzLW5ldGFueWFodS1oYXZlLWEtcGxhbi1mb3ItYS1kYXktYWZ0ZXItdGhlLXdhci1vbi1nYXph?oc=5).
 
 ## Requirements
 - Python 3.8
