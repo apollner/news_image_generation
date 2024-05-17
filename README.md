@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barge hits bridge connecting Galveston and Pelican Island, causing partial collapse and oil spill**
+**Supreme Court allows second majority-Black district in Louisiana over liberal dissents**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/barge-hits-bridge-galveston-texas-damaging-structure-causing-110268879).
+You can read more about it [here](https://www.cnn.com/2024/05/15/politics/supreme-court-louisiana-black-voters-congressional-district/index.html).
 
 ## Requirements
 - Python 3.8
