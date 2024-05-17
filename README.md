@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Megalopolis’ Imax Global Release Will Be Limited; Release Date Contingent On U.S. Distribution But Late September Eyed For IMAX In 20 US Cities; Coppola Live Event Planned – Cannes**
+**The sun’s out, so you need to think about prevention of this type of cancer**
 
-You can read more about it [here](http://deadline.com/2024/05/megalopolis-imax-global-release-1235918813/).
+You can read more about it [here](https://www.cnn.com/2024/05/16/health/skin-cancer-screening-wellness/index.html).
 
 ## Requirements
 - Python 3.8
