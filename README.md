@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Hold Your Horses,' Says Barrington About AMC Stock - TipRanks.com**
+**Muth, trained by Bob Baffert, scratched from Preakness Stakes after fever**
 
-You can read more about it [here](https://www.tipranks.com/news/hold-your-horses-says-barrington-about-amc-stock).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/15/muth-preakness-stakes-scratch/).
 
 ## Requirements
 - Python 3.8
