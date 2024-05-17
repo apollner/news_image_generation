@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The sun’s out, so you need to think about prevention of this type of cancer**
+**NASA Experts Concerned Billionaire Space Tourist Will Accidentally Break Hubble Space Telescope While Trying to Fix It**
 
-You can read more about it [here](https://www.cnn.com/2024/05/16/health/skin-cancer-screening-wellness/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZnV0dXJpc20uY29tL25hc2EtY29uY2VybmVkLWJpbGxpb25haXJlLXNwYWNlLWh1YmJsZdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
