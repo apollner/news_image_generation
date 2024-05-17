@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muth, trained by Bob Baffert, scratched from Preakness Stakes after fever**
+**Bird Flu Jumps From Cow to Human in The US: Experts Confirm First Case**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/15/muth-preakness-stakes-scratch/).
+You can read more about it [here](https://www.sciencealert.com/bird-flu-jumps-from-cow-to-human-in-the-us-experts-confirm-first-case).
 
 ## Requirements
 - Python 3.8
