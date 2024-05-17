@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart will report earnings before the bell. Here's what to expect**
+**Thunder-Mavericks: 5 takeaways as Luka Doncic delivers in pivotal Game 5**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/16/walmart-wmt-q1-2025-earnings-.html).
+You can read more about it [here](https://www.nba.com/news/thunder-mavericks-takeaways-game-5-2024-nba-playoffs).
 
 ## Requirements
 - Python 3.8
