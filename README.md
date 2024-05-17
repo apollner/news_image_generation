@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez and Ben Affleck not speaking to divorce attorneys: Insiders**
+**EXCLUSIVE: Microsoft's custom Cobalt chips will come to Azure next week**
 
-You can read more about it [here](https://www.newsnationnow.com/entertainment-news/jennifer-lopez-ben-affleck-not-divorcing-insiders/).
+You can read more about it [here](https://techcrunch.com/2024/05/16/microsofts-custom-cobalt-chips-will-come-to-azure-next-week/).
 
 ## Requirements
 - Python 3.8
