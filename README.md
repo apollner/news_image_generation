@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Megalopolis’ Imax Global Release Will Be Limited; Release Date Contingent On U.S. Distribution But Late September Eyed For IMAX In 20 US Cities; Coppola Live Event Planned – Cannes**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://deadline.com/2024/05/megalopolis-imax-global-release-1235918813/).
 
 ## Requirements
 - Python 3.8
