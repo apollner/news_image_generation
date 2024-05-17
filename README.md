@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man accused of shooting Slovak prime minister had "political motivation," minister says**
+**Webb Discovers Record-Breaking Black Hole Merger in Ancient Universe**
 
-You can read more about it [here](https://www.cbsnews.com/news/slovak-prime-minister-attempted-assassination-gunman-charged-murder/).
+You can read more about it [here](https://gizmodo.com/webb-telescope-most-distant-oldest-black-hole-merger-1851480974).
 
 ## Requirements
 - Python 3.8
