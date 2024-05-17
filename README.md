@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Planet of the Apes' Movies, Ranked**
+**Mitt Romney knocks Biden for 'enormous error' in not pardoning Trump**
 
-You can read more about it [here](http://www.hollywoodreporter.com/lists/planet-of-the-apes-movies-ranked/).
+You can read more about it [here](https://nypost.com/2024/05/15/us-news/romney-knocks-biden-for-enormous-error-in-not-pardoning-trump/).
 
 ## Requirements
 - Python 3.8
