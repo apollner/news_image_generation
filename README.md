@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andrea Arnold’s ‘Bird’ Takes Flight at Cannes Film Festival With 7-Minute Standing Ovation**
+**Alarming Virus Evolution – Scientists Identify First-Ever Mammal-to-Human Bird Flu Case**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/andrea-arnold-bird-cannes-film-festival-standing-ovation-1235900944/).
+You can read more about it [here](https://scitechdaily.com/alarming-virus-evolution-scientists-identify-first-ever-mammal-to-human-bird-flu-case/).
 
 ## Requirements
 - Python 3.8
