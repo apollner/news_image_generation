@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The top UN court is holding hearings on the Israeli military's incursion into Rafah**
+**Senior senator and criminal defendant: The strange twin identity of Bob Menendez**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-war-world-court-a69d2abf0f4171c100eb86ee05552514).
+You can read more about it [here](https://www.politico.com/news/2024/05/16/senior-senator-criminal-defendant-bob-menendez-00158214).
 
 ## Requirements
 - Python 3.8
