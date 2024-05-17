@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli defense minister publicly criticizes Netanyahu's Gaza strategy**
+**YouTube Upfront: CEO Says It’s ‘Redefining’ TV, Platform Launches Ad Takeovers for Top 1% of Creators**
 
-You can read more about it [here](https://www.pbs.org/newshour/show/israeli-defense-minister-publicly-criticizes-netanyahus-gaza-strategy).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MveW91dHViZS11cGZyb250LTIwMjQtYnJhbmRjYXN0LTEyMzYwMDUxOTMv0gFUaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L2RpZ2l0YWwvbmV3cy95b3V0dWJlLXVwZnJvbnQtMjAyNC1icmFuZGNhc3QtMTIzNjAwNTE5My9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
