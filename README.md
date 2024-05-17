@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**'Planet of the Apes' Movies, Ranked**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.hollywoodreporter.com/lists/planet-of-the-apes-movies-ranked/).
 
 ## Requirements
 - Python 3.8
