@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Abbott pardons Daniel Perry for 2020 fatal Black Lives Matter protest shooting after recommendation from pardons board**
+**Andrea Arnold’s ‘Bird’ Takes Flight at Cannes Film Festival With 7-Minute Standing Ovation**
 
-You can read more about it [here](https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/andrea-arnold-bird-cannes-film-festival-standing-ovation-1235900944/).
 
 ## Requirements
 - Python 3.8
