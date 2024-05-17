@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird Flu Jumps From Cow to Human in The US: Experts Confirm First Case**
+**Arrests at University of California, Irvine, as UC union authorizes strike over Gaza protests**
 
-You can read more about it [here](https://www.sciencealert.com/bird-flu-jumps-from-cow-to-human-in-the-us-experts-confirm-first-case).
+You can read more about it [here](https://www.axios.com/2024/05/16/university-california-protest-arrests-union-strike).
 
 ## Requirements
 - Python 3.8
