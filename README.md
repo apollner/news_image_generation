@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli cabinet rifts over Gaza break out into the open**
+**Jennifer Lopez and Ben Affleck not speaking to divorce attorneys: Insiders**
 
-You can read more about it [here](https://finance.yahoo.com/news/israeli-cabinet-rifts-over-gaza-171533335.html).
+You can read more about it [here](https://www.newsnationnow.com/entertainment-news/jennifer-lopez-ben-affleck-not-divorcing-insiders/).
 
 ## Requirements
 - Python 3.8
