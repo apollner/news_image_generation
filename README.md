@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luka Doncic's triple-double propels Mavs to 3-2 lead over Thunder**
+**Sophie Turner on Taylor Swift, Co-Parenting With Joe Jonas**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40155720/luka-doncic-triple-double-propels-mavs-3-2-lead-thunder).
+You can read more about it [here](http://www.vulture.com/article/sophie-turner-co-parenting-joe-jonas-taylor-swift.html).
 
 ## Requirements
 - Python 3.8
