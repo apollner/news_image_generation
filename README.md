@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's EV tariffs may not be enough to stave off the threat of Chinese vehicles in the U.S.**
+**Sophie Turner Breaks Silence on "Shocking" Aftermath of Joe Jonas Divorce - E! Online**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/15/china-biden-ev-tariffs-may-not-be-enough-to-stave-off-growing-threat.html).
+You can read more about it [here](https://www.eonline.com/news/1401646/sophie-turner-breaks-silence-on-shocking-aftermath-of-joe-jonas-divorce).
 
 ## Requirements
 - Python 3.8
