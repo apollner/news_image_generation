@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb Discovers Record-Breaking Black Hole Merger in Ancient Universe**
+**Biden asserts executive privilege over Hur audio files ahead of House contempt proceedings against Garland**
 
-You can read more about it [here](https://gizmodo.com/webb-telescope-most-distant-oldest-black-hole-merger-1851480974).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNi9wb2xpdGljcy9ob3VzZS1wYW5lbHMtY29udGVtcHQtZ2FybGFuZC1iaWRlbi1hdWRpby9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8xNi9wb2xpdGljcy9ob3VzZS1wYW5lbHMtY29udGVtcHQtZ2FybGFuZC1iaWRlbi1hdWRpbw?oc=5).
 
 ## Requirements
 - Python 3.8
