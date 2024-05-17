@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophie Turner on Taylor Swift, Co-Parenting With Joe Jonas**
+**Walmart will report earnings before the bell. Here's what to expect**
 
-You can read more about it [here](http://www.vulture.com/article/sophie-turner-co-parenting-joe-jonas-taylor-swift.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/16/walmart-wmt-q1-2025-earnings-.html).
 
 ## Requirements
 - Python 3.8
