@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Experts Concerned Billionaire Space Tourist Will Accidentally Break Hubble Space Telescope While Trying to Fix It**
+**Jennifer Lopez and Ben Affleck not speaking to divorce attorneys: Insiders**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZnV0dXJpc20uY29tL25hc2EtY29uY2VybmVkLWJpbGxpb25haXJlLXNwYWNlLWh1YmJsZdIBAA?oc=5).
+You can read more about it [here](https://www.newsnationnow.com/entertainment-news/jennifer-lopez-ben-affleck-not-divorcing-insiders/).
 
 ## Requirements
 - Python 3.8
