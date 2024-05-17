@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden asserts executive privilege over Hur audio files ahead of House contempt proceedings against Garland**
+**The sun’s out, so you need to think about prevention of this type of cancer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNi9wb2xpdGljcy9ob3VzZS1wYW5lbHMtY29udGVtcHQtZ2FybGFuZC1iaWRlbi1hdWRpby9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8xNi9wb2xpdGljcy9ob3VzZS1wYW5lbHMtY29udGVtcHQtZ2FybGFuZC1iaWRlbi1hdWRpbw?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/05/16/health/skin-cancer-screening-wellness/index.html).
 
 ## Requirements
 - Python 3.8
