@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Under Armour is laying off workers as retailer says North America sales will plunge this year**
+**Man accused of shooting Slovak prime minister had "political motivation," minister says**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/16/under-armour-uaa-earnings-q4-2024.html).
+You can read more about it [here](https://www.cbsnews.com/news/slovak-prime-minister-attempted-assassination-gunman-charged-murder/).
 
 ## Requirements
 - Python 3.8
