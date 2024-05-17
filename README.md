@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EXCLUSIVE: Microsoft's custom Cobalt chips will come to Azure next week**
+**Gov. Abbott pardons Daniel Perry for 2020 fatal Black Lives Matter protest shooting after recommendation from pardons board**
 
-You can read more about it [here](https://techcrunch.com/2024/05/16/microsofts-custom-cobalt-chips-will-come-to-azure-next-week/).
+You can read more about it [here](https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html).
 
 ## Requirements
 - Python 3.8
