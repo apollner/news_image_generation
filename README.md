@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arrests at University of California, Irvine, as UC union authorizes strike over Gaza protests**
+**Under Armour is laying off workers as retailer says North America sales will plunge this year**
 
-You can read more about it [here](https://www.axios.com/2024/05/16/university-california-protest-arrests-union-strike).
+You can read more about it [here](https://www.cnbc.com/2024/05/16/under-armour-uaa-earnings-q4-2024.html).
 
 ## Requirements
 - Python 3.8
