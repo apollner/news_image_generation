@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Does Israel’s Netanyahu have a plan for a ‘day after’ the war on Gaza?**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzUvMTYvZG9lcy1pc3JhZWxzLW5ldGFueWFodS1oYXZlLWEtcGxhbi1mb3ItYS1kYXktYWZ0ZXItdGhlLXdhci1vbi1nYXph0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzUvMTYvZG9lcy1pc3JhZWxzLW5ldGFueWFodS1oYXZlLWEtcGxhbi1mb3ItYS1kYXktYWZ0ZXItdGhlLXdhci1vbi1nYXph?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
