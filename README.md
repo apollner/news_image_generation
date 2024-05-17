@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube Upfront: CEO Says It’s ‘Redefining’ TV, Platform Launches Ad Takeovers for Top 1% of Creators**
+**US CPI Data Subset Was Inadvertently Posted 30 Minutes Early**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MveW91dHViZS11cGZyb250LTIwMjQtYnJhbmRjYXN0LTEyMzYwMDUxOTMv0gFUaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L2RpZ2l0YWwvbmV3cy95b3V0dWJlLXVwZnJvbnQtMjAyNC1icmFuZGNhc3QtMTIzNjAwNTE5My9hbXAv?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-16/us-bls-says-april-cpi-data-inadvertently-posted-30-min-early).
 
 ## Requirements
 - Python 3.8
