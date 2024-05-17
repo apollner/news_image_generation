@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sophie Turner Breaks Silence on "Shocking" Aftermath of Joe Jonas Divorce - E! Online**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1401646/sophie-turner-breaks-silence-on-shocking-aftermath-of-joe-jonas-divorce).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
