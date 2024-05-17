@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's Putin arrives in China for state visit in a show of unity between the authoritarian allies**
+**Israeli defense minister publicly criticizes Netanyahu's Gaza strategy**
 
-You can read more about it [here](https://apnews.com/article/china-russia-putin-beijing-xi-3212ef85d8318cf853f956173f3a682a).
+You can read more about it [here](https://www.pbs.org/newshour/show/israeli-defense-minister-publicly-criticizes-netanyahus-gaza-strategy).
 
 ## Requirements
 - Python 3.8
