@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop Extends Rout on Plan to Sell Up to 45 Million Shares**
+**'Day of celebration': Detroit sees first population growth since 1957**
 
-You can read more about it [here](https://finance.yahoo.com/news/gamestop-amc-shares-rise-two-100723939.html).
+You can read more about it [here](https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/).
 
 ## Requirements
 - Python 3.8
