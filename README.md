@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC, WebMD give update on current bird flu outbreak: ‘Be alert, not alarmed’**
+**War in Ukraine: Key weeks ahead for Russia’s offensive in Ukraine**
 
-You can read more about it [here](https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed).
+You can read more about it [here](https://www.bbc.com/news/articles/c2jd3k1zyjro).
 
 ## Requirements
 - Python 3.8
