@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rafah is running out of food, even as the U.S. pier starts operating in Gaza**
+**Bizarre evolutionary roots of Africa's iconic upside-down baobab trees revealed**
 
-You can read more about it [here](https://www.npr.org/2024/05/17/1252095266/rafah-is-running-out-of-food-even-as-the-u-s-pier-starts-operating-in-gaza).
+You can read more about it [here](https://www.livescience.com/planet-earth/plants/bizarre-evolutionary-roots-of-africas-iconic-upside-down-baobab-trees-revealed).
 
 ## Requirements
 - Python 3.8
