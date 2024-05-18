@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's team had a few demands for a Trump debate. A major one: No crowd.**
+**GameStop Extends Rout on Plan to Sell Up to 45 Million Shares**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/17/biden-trump-debate-2024-demands-00158586).
+You can read more about it [here](https://finance.yahoo.com/news/gamestop-amc-shares-rise-two-100723939.html).
 
 ## Requirements
 - Python 3.8
