@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Sean ‘Diddy’ Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN**
+**Photo of upside-down flag at Supreme Court Justice Samuel Alito's house raises concerns: Report**
 
-You can read more about it [here](https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html).
+You can read more about it [here](https://abcnews.go.com/Politics/photo-upside-flag-supreme-court-justice-samuel-alitos/story?id=110339877).
 
 ## Requirements
 - Python 3.8
