@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's earnings will be in focus next week as stocks try to sustain record levels**
+**Ben Affleck 'house-hunting' in LA according to buzz, Jennifer Lopez seen doing the same as split rumors swirl**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/17/nvidias-earnings-will-be-in-focus-next-week-as-stocks-try-to-sustain-record-levels.html).
+You can read more about it [here](https://pagesix.com/2024/05/17/entertainment/ben-affleck-house-hunting-in-la-according-to-real-estate-buzz/).
 
 ## Requirements
 - Python 3.8
