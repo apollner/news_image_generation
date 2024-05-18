@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks tread water with Dow aiming for 40,000**
+**Nvidia's earnings will be in focus next week as stocks try to sustain record levels**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-closes-above-40000-for-first-time-to-cap-winning-week-for-stocks-200951979.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/17/nvidias-earnings-will-be-in-focus-next-week-as-stocks-try-to-sustain-record-levels.html).
 
 ## Requirements
 - Python 3.8
