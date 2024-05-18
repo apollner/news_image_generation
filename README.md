@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JOKIC IS COMING! 🗣️ - Stephen A. WARNS Anthony Edwards ahead of Game 7 👀 | First Take**
+**Young Sheldon Actor Iain Armitage Bids Farewell as Show Ends After 7 Seasons**
 
-You can read more about it [here](https://www.youtube.com/watch?v=lIyyg6VoOE8).
+You can read more about it [here](https://www.ign.com/articles/young-sheldon-iain-armitage-bids-farewell-show-ends-7-seasons).
 
 ## Requirements
 - Python 3.8
