@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza: What did the ICJ ruling really say?**
+**Timberwolves beat Nuggets by 45 points, set up Game 7 on Sunday**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3g9g63jl17o).
+You can read more about it [here](https://www.startribune.com/timberwolves-nuggets-game-6-blowout-anthony-edwards-karl-anthony-towns-target-center/600366609/).
 
 ## Requirements
 - Python 3.8
