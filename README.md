@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Young Sheldon Actor Iain Armitage Bids Farewell as Show Ends After 7 Seasons**
+**When Does 'Bridgerton' Season 3, Part 2 Come Out On Netflix? Release Schedule**
 
-You can read more about it [here](https://www.ign.com/articles/young-sheldon-iain-armitage-bids-farewell-show-ends-7-seasons).
+You can read more about it [here](https://www.forbes.com/sites/monicamercuri/2024/05/17/what-time-does-bridgerton-season-3-drop-on-netflix-see-the-release-schedule/).
 
 ## Requirements
 - Python 3.8
