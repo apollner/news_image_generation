@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Unveils Broad Rescue Package to Prop Up Housing Market**
+**Harrison Butker 'homemaker' speech sparks backlash**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-17/china-removes-mortgage-rate-floor-for-individual-homebuyers-lwa88d1y).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-69021543).
 
 ## Requirements
 - Python 3.8
