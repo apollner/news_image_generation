@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Census Bureau estimates: Detroit population rises after decades of decline, South dominates growth**
+**Walmart market cap tops $500B post Q1 results**
 
-You can read more about it [here](https://apnews.com/article/detroit-us-census-population-1f1f2ef32a46d4310e95dfc5e9c5a2c4).
+You can read more about it [here](https://finance.yahoo.com/video/walmart-market-cap-tops-500b-195303479.html).
 
 ## Requirements
 - Python 3.8
