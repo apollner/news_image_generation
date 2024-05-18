@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reddit-OpenAI deal: ChatGPT gets access to social media platform**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cxe92v47850o).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
