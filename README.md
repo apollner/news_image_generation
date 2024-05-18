@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI strikes Reddit deal to train its AI on your posts**
+**Walmart market cap tops $500B post Q1 results**
 
-You can read more about it [here](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising).
+You can read more about it [here](https://finance.yahoo.com/video/walmart-market-cap-tops-500b-195303479.html).
 
 ## Requirements
 - Python 3.8
