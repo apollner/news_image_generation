@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OLED iPad Pro Users Report 'Grainy' Displays, But It May Not Be a Defect**
+**Vatican revamps norms to evaluate visions of Mary as it adapts to internet age and combats hoaxers**
 
-You can read more about it [here](https://www.macrumors.com/2024/05/17/oled-ipad-pro-grainy-display-reports/).
+You can read more about it [here](https://apnews.com/article/vatican-apparitions-pope-lourdes-fatima-f9b5659e2947e7eb966db2e491e17267).
 
 ## Requirements
 - Python 3.8
