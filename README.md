@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vatican revamps norms to evaluate visions of Mary as it adapts to internet age and combats hoaxers**
+**Scientists discover bizarre region around black holes that proves Einstein right yet again**
 
-You can read more about it [here](https://apnews.com/article/vatican-apparitions-pope-lourdes-fatima-f9b5659e2947e7eb966db2e491e17267).
+You can read more about it [here](https://www.livescience.com/space/black-holes/scientists-discover-bizarre-region-around-black-holes-that-proves-einstein-right-yet-again).
 
 ## Requirements
 - Python 3.8
