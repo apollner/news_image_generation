@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liberty-Fever live score, updates: Caitlin Clark stats, highlights**
+**GTA 6 will be released in fall 2025**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/16/indiana-new-york-caitlin-clark-wnba-home-game-score-highlights/73708087007/).
+You can read more about it [here](https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025).
 
 ## Requirements
 - Python 3.8
