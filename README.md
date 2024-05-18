@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart market cap tops $500B post Q1 results**
+**China Unveils Broad Rescue Package to Prop Up Housing Market**
 
-You can read more about it [here](https://finance.yahoo.com/video/walmart-market-cap-tops-500b-195303479.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-17/china-removes-mortgage-rate-floor-for-individual-homebuyers-lwa88d1y).
 
 ## Requirements
 - Python 3.8
