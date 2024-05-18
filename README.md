@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former US Army sergeant released from prison after Gov. Abbott pardons him for 2020 fatal Black Lives Matter protest shooting**
+**Dow futures are little changed after blue-chip average touches 40,000 for first time: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
