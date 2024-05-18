@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emma Stone’s Descent Into Sex Cults and Cannibalism in ‘Kinds of Kindness’ Lands 4.5-Minute Standing Ovation in Cannes**
+**Scottie Scheffler arrested at PGA Championship for traffic violation**
 
-You can read more about it [here](https://variety.com/2024/film/news/yorgos-lanthimos-emma-stone-kinds-of-kindness-cannes-standing-ovation-1236007352/).
+You can read more about it [here](https://www.wtae.com/article/scottie-scheffler-detained-police-valhalla-louisville-pga/60823312).
 
 ## Requirements
 - Python 3.8
