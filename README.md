@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarming Virus Evolution – Scientists Identify First-Ever Mammal-to-Human Bird Flu Case**
+**Republicans Force Democrats to Take Sides on Biden's Israel Policy**
 
-You can read more about it [here](https://scitechdaily.com/alarming-virus-evolution-scientists-identify-first-ever-mammal-to-human-bird-flu-case/).
+You can read more about it [here](https://www.wsj.com/politics/policy/republicans-force-democrats-to-take-sides-on-bidens-israel-policy-61e84646).
 
 ## Requirements
 - Python 3.8
