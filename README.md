@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists discover bizarre region around black holes that proves Einstein right yet again**
+**Francis Ford Coppola Says “Men Like Donald Trump Are Not At The Moment In Charge”; Filmmaker Pulls Jon Voight Into Political Convo At ‘Megalopolis’ Cannes Presser**
 
-You can read more about it [here](https://www.livescience.com/space/black-holes/scientists-discover-bizarre-region-around-black-holes-that-proves-einstein-right-yet-again).
+You can read more about it [here](http://deadline.com/2024/05/megalopolis-donald-trump-francis-ford-coppola-jon-voight-cannes-1235920285/).
 
 ## Requirements
 - Python 3.8
