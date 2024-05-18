@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks tread water with Dow aiming for 40,000**
+**Exclusive: Sean ‘Diddy’ Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-stocks-tread-water-with-dow-aiming-for-40000-133352056.html).
+You can read more about it [here](https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html).
 
 ## Requirements
 - Python 3.8
