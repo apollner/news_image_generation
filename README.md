@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timberwolves beat Nuggets by 45 points, set up Game 7 on Sunday**
+**Former US Army sergeant released from prison after Gov. Abbott pardons him for 2020 fatal Black Lives Matter protest shooting**
 
-You can read more about it [here](https://www.startribune.com/timberwolves-nuggets-game-6-blowout-anthony-edwards-karl-anthony-towns-target-center/600366609/).
+You can read more about it [here](https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html).
 
 ## Requirements
 - Python 3.8
