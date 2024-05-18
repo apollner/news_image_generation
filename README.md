@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Violence rages in New Caledonia as France rushes emergency reinforcements to its Pacific territory**
+**Census Bureau estimates: Detroit population rises after decades of decline, South dominates growth**
 
-You can read more about it [here](https://apnews.com/article/new-caledonia-france-pacific-unrest-8c05588d36cdafebaa7df9392c20f175).
+You can read more about it [here](https://apnews.com/article/detroit-us-census-population-1f1f2ef32a46d4310e95dfc5e9c5a2c4).
 
 ## Requirements
 - Python 3.8
