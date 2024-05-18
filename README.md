@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Spacey Praised & Defended By Liam Neeson, Sharon Stone, & Stephen Fry In Wake Of Biting UK Documentary & New Trial; “Our Industry Needs Him,” Says ‘Taken’ Star**
+**Liberty-Fever live score, updates: Caitlin Clark stats, highlights**
 
-You can read more about it [here](http://deadline.com/2024/05/kevin-spacey-documentary-reaction-1235919627/).
+You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/16/indiana-new-york-caitlin-clark-wnba-home-game-score-highlights/73708087007/).
 
 ## Requirements
 - Python 3.8
