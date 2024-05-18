@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow futures are little changed after blue-chip average touches 40,000 for first time: Live updates**
+**Biden's team had a few demands for a Trump debate. A major one: No crowd.**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.politico.com/news/2024/05/17/biden-trump-debate-2024-demands-00158586).
 
 ## Requirements
 - Python 3.8
