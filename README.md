@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark's home debut for Fever spoiled by MVP performance from Liberty's Breanna Stewart**
+**Ben Affleck and Jennifer Lopez Step Out With Wedding Rings Amid Breakup Rumors - E! Online**
 
-You can read more about it [here](https://www.cbssports.com/wnba/news/caitlin-clarks-home-debut-for-fever-spoiled-by-mvp-performance-from-libertys-breanna-stewart/).
+You can read more about it [here](https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors).
 
 ## Requirements
 - Python 3.8
