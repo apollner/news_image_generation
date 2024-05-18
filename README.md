@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harrison Butker 'homemaker' speech sparks backlash**
+**Caitlin Clark's home debut for Fever spoiled by MVP performance from Liberty's Breanna Stewart**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-69021543).
+You can read more about it [here](https://www.cbssports.com/wnba/news/caitlin-clarks-home-debut-for-fever-spoiled-by-mvp-performance-from-libertys-breanna-stewart/).
 
 ## Requirements
 - Python 3.8
