@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Day of celebration': Detroit sees first population growth since 1957**
+**Jennifer Lopez and Ben Affleck 'won't split', insider speaks out amid growing divorce tension**
 
-You can read more about it [here](https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/jennifer-lopez-and-ben-affleck-wont-split-insider-speaks-out-amid-growing-divorce-tension-101715920652528.html).
 
 ## Requirements
 - Python 3.8
