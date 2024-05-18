@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**War in Ukraine: Key weeks ahead for Russia’s offensive in Ukraine**
+**Daniel Perry: Texas pardons US soldier who shot Black Lives Matter protester**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2jd3k1zyjro).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-69013312).
 
 ## Requirements
 - Python 3.8
