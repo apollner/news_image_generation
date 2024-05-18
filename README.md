@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Francis Ford Coppola Says “Men Like Donald Trump Are Not At The Moment In Charge”; Filmmaker Pulls Jon Voight Into Political Convo At ‘Megalopolis’ Cannes Presser**
+**JOKIC IS COMING! 🗣️ - Stephen A. WARNS Anthony Edwards ahead of Game 7 👀 | First Take**
 
-You can read more about it [here](http://deadline.com/2024/05/megalopolis-donald-trump-francis-ford-coppola-jon-voight-cannes-1235920285/).
+You can read more about it [here](https://www.youtube.com/watch?v=lIyyg6VoOE8).
 
 ## Requirements
 - Python 3.8
