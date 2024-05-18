@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When Does 'Bridgerton' Season 3, Part 2 Come Out On Netflix? Release Schedule**
+**Stock market today: Stocks tread water with Dow aiming for 40,000**
 
-You can read more about it [here](https://www.forbes.com/sites/monicamercuri/2024/05/17/what-time-does-bridgerton-season-3-drop-on-netflix-see-the-release-schedule/).
+You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-stocks-tread-water-with-dow-aiming-for-40000-133352056.html).
 
 ## Requirements
 - Python 3.8
