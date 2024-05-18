@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China retail sales, investment data miss expectations in April**
+**CDC, WebMD give update on current bird flu outbreak: ‘Be alert, not alarmed’**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/17/china-economy-april-retail-sales-industrial-production-investment-data.html).
+You can read more about it [here](https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed).
 
 ## Requirements
 - Python 3.8
