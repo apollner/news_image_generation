@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans Force Democrats to Take Sides on Biden's Israel Policy**
+**Kevin Spacey Praised & Defended By Liam Neeson, Sharon Stone, & Stephen Fry In Wake Of Biting UK Documentary & New Trial; “Our Industry Needs Him,” Says ‘Taken’ Star**
 
-You can read more about it [here](https://www.wsj.com/politics/policy/republicans-force-democrats-to-take-sides-on-bidens-israel-policy-61e84646).
+You can read more about it [here](http://deadline.com/2024/05/kevin-spacey-documentary-reaction-1235919627/).
 
 ## Requirements
 - Python 3.8
