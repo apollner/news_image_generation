@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GTA 6 will be released in fall 2025**
+**OpenAI strikes Reddit deal to train its AI on your posts**
 
-You can read more about it [here](https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025).
+You can read more about it [here](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising).
 
 ## Requirements
 - Python 3.8
