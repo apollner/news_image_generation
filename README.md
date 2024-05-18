@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Perry: Texas pardons US soldier who shot Black Lives Matter protester**
+**Reddit-OpenAI deal: ChatGPT gets access to social media platform**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-69013312).
+You can read more about it [here](https://www.bbc.com/news/articles/cxe92v47850o).
 
 ## Requirements
 - Python 3.8
