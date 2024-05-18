@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez and Ben Affleck 'won't split', insider speaks out amid growing divorce tension**
+**OLED iPad Pro Users Report 'Grainy' Displays, But It May Not Be a Defect**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/jennifer-lopez-and-ben-affleck-wont-split-insider-speaks-out-amid-growing-divorce-tension-101715920652528.html).
+You can read more about it [here](https://www.macrumors.com/2024/05/17/oled-ipad-pro-grainy-display-reports/).
 
 ## Requirements
 - Python 3.8
