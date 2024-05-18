@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scottie Scheffler arrested at PGA Championship for traffic violation**
+**Stock market today: Stocks tread water with Dow aiming for 40,000**
 
-You can read more about it [here](https://www.wtae.com/article/scottie-scheffler-detained-police-valhalla-louisville-pga/60823312).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-closes-above-40000-for-first-time-to-cap-winning-week-for-stocks-200951979.html).
 
 ## Requirements
 - Python 3.8
