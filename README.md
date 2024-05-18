@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bizarre evolutionary roots of Africa's iconic upside-down baobab trees revealed**
+**Emma Stone’s Descent Into Sex Cults and Cannibalism in ‘Kinds of Kindness’ Lands 4.5-Minute Standing Ovation in Cannes**
 
-You can read more about it [here](https://www.livescience.com/planet-earth/plants/bizarre-evolutionary-roots-of-africas-iconic-upside-down-baobab-trees-revealed).
+You can read more about it [here](https://variety.com/2024/film/news/yorgos-lanthimos-emma-stone-kinds-of-kindness-cannes-standing-ovation-1236007352/).
 
 ## Requirements
 - Python 3.8
