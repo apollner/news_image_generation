@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiger Woods misses cut at 2024 PGA Championship**
+**NBA playoffs: Pacers lock down Knicks to force Game 7**
 
-You can read more about it [here](https://www.espn.com/golf/story/_/id/40167594/tiger-woods-misses-cut-2024-pga-championship).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-pacers-lock-down-knicks-to-force-game-7-030512562.html).
 
 ## Requirements
 - Python 3.8
