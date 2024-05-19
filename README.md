@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumors Fly After Jennifer Lopez Likes Post On Relationship Red Flags**
+**Dabney Coleman, ‘9 to 5’ Star Who Made a Career Out of Playing Jerks, Dies at 92**
 
-You can read more about it [here](https://www.huffpost.com/entry/jennifer-lopez-ben-affleck-instagram-post-relationship-red-flags_n_664791fce4b0fad036eff5d3).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/dabney-coleman-dead-9-to-5-mary-hartman-tootsie-1235902521/).
 
 ## Requirements
 - Python 3.8
