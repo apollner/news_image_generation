@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Age of the AI agents: GPT-4o, Project Astra and an exclusive with Sundar Pichai**
+**Dow Jones Industrial Average closes above 40,000 for the first time - The Washington Post**
 
-You can read more about it [here](https://www.youtube.com/watch?v=G4-WBq3vnds).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/05/17/dow-jones-average-40000/).
 
 ## Requirements
 - Python 3.8
