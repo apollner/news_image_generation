@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 814**
+**Battered Knicks outpaced in Indiana. Will they have enough for Game 7 in Madison Square Garden?**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/18/russia-ukraine-war-list-of-key-events-day-814).
+You can read more about it [here](https://sports.yahoo.com/battered-knicks-outpaced-in-indiana-will-they-have-enough-for-game-7-in-madison-square-garden-050824629.html).
 
 ## Requirements
 - Python 3.8
