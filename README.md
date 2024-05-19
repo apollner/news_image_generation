@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston weather: 7 dead as storm power outages raise heat risk**
+**Preakness Stakes 2024 live updates: Time, TV, odds, results and more from Triple Crown race**
 
-You can read more about it [here](https://apnews.com/article/houston-texas-storms-power-outages-86643a6d7decd28e971774e03b52e51d).
+You can read more about it [here](https://www.usatoday.com/story/sports/horseracing/2024/05/18/preakness-stakes-2024-live-updates/73712613007/).
 
 ## Requirements
 - Python 3.8
