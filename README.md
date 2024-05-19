@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumors Fly After Jennifer Lopez Likes Post On Relationship Red Flags**
+**Age of the AI agents: GPT-4o, Project Astra and an exclusive with Sundar Pichai**
 
-You can read more about it [here](https://www.huffpost.com/entry/jennifer-lopez-ben-affleck-instagram-post-relationship-red-flags_n_664791fce4b0fad036eff5d3).
+You can read more about it [here](https://www.youtube.com/watch?v=G4-WBq3vnds).
 
 ## Requirements
 - Python 3.8
