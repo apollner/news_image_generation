@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Industrial Average closes above 40,000 for the first time - The Washington Post**
+**Rumors Fly After Jennifer Lopez Likes Post On Relationship Red Flags**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/05/17/dow-jones-average-40000/).
+You can read more about it [here](https://www.huffpost.com/entry/jennifer-lopez-ben-affleck-instagram-post-relationship-red-flags_n_664791fce4b0fad036eff5d3).
 
 ## Requirements
 - Python 3.8
