@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 9 series wallpapers leak with 'Swirling Petals' design**
+**NASA's PREFIRE mission is ready to unlock the mysteries of Earth's poles**
 
-You can read more about it [here](http://9to5google.com/2024/05/18/google-pixel-9-wallpapers-leak/).
+You can read more about it [here](https://www.space.com/nasa-prefire-polar-climate-cubesats).
 
 ## Requirements
 - Python 3.8
