@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Sean ‘Diddy’ Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN**
+**Microsoft's Surface AI event: news, rumors, and lots of Qualcomm laptops**
 
-You can read more about it [here](https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html).
+You can read more about it [here](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements).
 
 ## Requirements
 - Python 3.8
