@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vladimir Putin and Xi Jinping: No longer a partnership of equals**
+**Ros Atkins on... Georgia's protests, Russia and the West**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2lekp48n78o).
+You can read more about it [here](https://www.bbc.com/news/videos/cv2xgdynp91o).
 
 ## Requirements
 - Python 3.8
