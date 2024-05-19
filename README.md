@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck 'house-hunting' in LA according to buzz, Jennifer Lopez seen doing the same as split rumors swirl**
+**Putin says Russia wants a buffer zone in Ukraine's Kharkiv but has no plans to capture the city**
 
-You can read more about it [here](https://pagesix.com/2024/05/17/entertainment/ben-affleck-house-hunting-in-la-according-to-real-estate-buzz/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-news-5-17-2024-ce31e2e73cbb8dd59aa73baa6cd87d68).
 
 ## Requirements
 - Python 3.8
