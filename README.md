@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warns of possible Pride Month attacks worldwide**
+**Russia-Ukraine war: List of key events, day 814**
 
-You can read more about it [here](https://www.bbc.com/news/world-us-canada-69013313).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/18/russia-ukraine-war-list-of-key-events-day-814).
 
 ## Requirements
 - Python 3.8
