@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ros Atkins on... Georgia's protests, Russia and the West**
+**2024 PGA Championship TV schedule, coverage, live stream, channel, where to watch online, golf tee times**
 
-You can read more about it [here](https://www.bbc.com/news/videos/cv2xgdynp91o).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-pga-championship-tv-schedule-coverage-live-stream-channel-where-to-watch-online-golf-tee-times/).
 
 ## Requirements
 - Python 3.8
