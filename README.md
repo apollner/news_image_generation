@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Controversy over upside-down flag at Justice Alito's home another blow for Supreme Court under fire**
+**Box Office: ‘IF’ Stumbles on Opening Day With $10.3 Million, ‘The Strangers: Chapter 1’ Unmasking Third Place**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/18/upside-down-flag-at-justice-alitos-home-another-blow-for-supreme-court-under-fire-00158772).
+You can read more about it [here](https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/).
 
 ## Requirements
 - Python 3.8
