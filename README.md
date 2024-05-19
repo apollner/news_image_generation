@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘IF’ Stumbles on Opening Day With $10.3 Million, ‘The Strangers: Chapter 1’ Unmasking Third Place**
+**Kristin Chenoweth Says She Was 'Severely Abused' After Posting About Sean 'Diddy' Combs Video**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/).
+You can read more about it [here](https://www.etonline.com/kristin-chenoweth-says-she-was-severely-abused-in-the-past-after-posting-about-sean-diddy-combs).
 
 ## Requirements
 - Python 3.8
