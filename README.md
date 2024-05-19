@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘IF’ Stumbles on Opening Day With $10.3 Million, ‘The Strangers: Chapter 1’ Unmasking Third Place**
+**Houston weather: 7 dead as storm power outages raise heat risk**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/).
+You can read more about it [here](https://apnews.com/article/houston-texas-storms-power-outages-86643a6d7decd28e971774e03b52e51d).
 
 ## Requirements
 - Python 3.8
