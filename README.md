@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The house is on fire': Democrats fear Biden is losing pivotal Georgia**
+**Controversy over upside-down flag at Justice Alito's home another blow for Supreme Court under fire**
 
-You can read more about it [here](https://www.ft.com/content/ab18441b-f302-41e6-b825-4b7ffc778f28).
+You can read more about it [here](https://www.politico.com/news/2024/05/18/upside-down-flag-at-justice-alitos-home-another-blow-for-supreme-court-under-fire-00158772).
 
 ## Requirements
 - Python 3.8
