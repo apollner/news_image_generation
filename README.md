@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 PGA Championship tee times, pairings: Complete schedule on TV, groups for Round 3 on Friday at Valhalla**
+**Pixel 9 series wallpapers leak with 'Swirling Petals' design**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2024-pga-championship-tee-times-pairings-complete-schedule-on-tv-groups-for-round-3-on-friday-at-valhalla/).
+You can read more about it [here](http://9to5google.com/2024/05/18/google-pixel-9-wallpapers-leak/).
 
 ## Requirements
 - Python 3.8
