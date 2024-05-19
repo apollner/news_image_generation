@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dabney Coleman, "9 to 5" and "Tootsie" actor, dies at 92**
+**Ad dares Trump to testify in hush money case. Hear why legal expert says he won’t**
 
-You can read more about it [here](https://www.cbsnews.com/news/dabney-coleman-9-to-5-and-tootsie-actor-dies-at-92/).
+You can read more about it [here](https://www.cnn.com/2024/05/17/politics/video/ad-trump-testify-terri-austin-sot-ebof-digvid).
 
 ## Requirements
 - Python 3.8
