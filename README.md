@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez, Zoe Saldaña Deliver Cannes’ First Hit With Trans Gangster Musical ‘Emilia Perez’**
+**Raskin calls Greene House Oversight brawl ‘a failure of leadership’**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/emilia-perez-cannes-selena-gomez-zoe-saldana-1235903359/).
+You can read more about it [here](https://thehill.com/homenews/house/4671937-jamie-raskin-calls-marjorie-taylor-greene-house-oversight-brawl-failure-leadership/).
 
 ## Requirements
 - Python 3.8
