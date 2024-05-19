@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Signs of Alzheimer’s were everywhere. Then his brain improved**
+**Tiger Woods misses cut at 2024 PGA Championship**
 
-You can read more about it [here](https://www.cnn.com/2024/05/18/health/alzheimers-blood-brain-improvement-wellness/index.html).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/40167594/tiger-woods-misses-cut-2024-pga-championship).
 
 ## Requirements
 - Python 3.8
