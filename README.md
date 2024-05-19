@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dabney Coleman, ‘9 to 5’ Star Who Made a Career Out of Playing Jerks, Dies at 92**
+**Scottie Scheffler arrested for allegedly assaulting officer near fatal crash while on way to PGA Championship**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/dabney-coleman-dead-9-to-5-mary-hartman-tootsie-1235902521/).
+You can read more about it [here](https://www.cbsnews.com/news/scottie-scheffler-detained-police-pga-championship-not-following-orders-after-traffic-fatality-espn-report/).
 
 ## Requirements
 - Python 3.8
