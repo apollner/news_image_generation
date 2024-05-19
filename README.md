@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raskin calls Greene House Oversight brawl ‘a failure of leadership’**
+**Box Office: ‘IF’ Stumbles on Opening Day With $10.3 Million, ‘The Strangers: Chapter 1’ Unmasking Third Place**
 
-You can read more about it [here](https://thehill.com/homenews/house/4671937-jamie-raskin-calls-marjorie-taylor-greene-house-oversight-brawl-failure-leadership/).
+You can read more about it [here](https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/).
 
 ## Requirements
 - Python 3.8
