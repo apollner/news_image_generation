@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘IF’ Stumbles on Opening Day With $10.3 Million, ‘The Strangers: Chapter 1’ Unmasking Third Place**
+**'The house is on fire': Democrats fear Biden is losing pivotal Georgia**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/).
+You can read more about it [here](https://www.ft.com/content/ab18441b-f302-41e6-b825-4b7ffc778f28).
 
 ## Requirements
 - Python 3.8
