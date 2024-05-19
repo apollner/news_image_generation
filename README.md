@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scottie Scheffler arrested for allegedly assaulting officer near fatal crash while on way to PGA Championship**
+**Exclusive: Sean ‘Diddy’ Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN**
 
-You can read more about it [here](https://www.cbsnews.com/news/scottie-scheffler-detained-police-pga-championship-not-following-orders-after-traffic-fatality-espn-report/).
+You can read more about it [here](https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html).
 
 ## Requirements
 - Python 3.8
