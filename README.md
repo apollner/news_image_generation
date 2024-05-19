@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Battered Knicks outpaced in Indiana. Will they have enough for Game 7 in Madison Square Garden?**
+**Ros Atkins on... Georgia's protests, Russia and the West**
 
-You can read more about it [here](https://sports.yahoo.com/battered-knicks-outpaced-in-indiana-will-they-have-enough-for-game-7-in-madison-square-garden-050824629.html).
+You can read more about it [here](https://www.bbc.com/news/videos/cv2xgdynp91o).
 
 ## Requirements
 - Python 3.8
