@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Focus Features Takes Worldwide Rights To Yorgos Lanthimos’ Next Movie ‘Bugonia’ With Emma Stone & Jesse Plemons – Cannes**
+**Shani Louk symbol of the music festival massacre by Hamas — IDF recovers body**
 
-You can read more about it [here](http://deadline.com/2024/05/bugonia-yorgos-lanthimos-emma-stone-movie-focus-features-1235917675/).
+You can read more about it [here](https://www.businessinsider.com/shani-louk-symbol-music-festival-massacre-hamas-idf-recover-body-2024-5).
 
 ## Requirements
 - Python 3.8
