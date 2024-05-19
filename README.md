@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Focus Features Takes Worldwide Rights To Yorgos Lanthimos’ Next Movie ‘Bugonia’ With Emma Stone & Jesse Plemons – Cannes**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://deadline.com/2024/05/bugonia-yorgos-lanthimos-emma-stone-movie-focus-features-1235917675/).
 
 ## Requirements
 - Python 3.8
