@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shani Louk symbol of the music festival massacre by Hamas — IDF recovers body**
+**2024 PGA Championship tee times, pairings: Complete schedule on TV, groups for Round 3 on Friday at Valhalla**
 
-You can read more about it [here](https://www.businessinsider.com/shani-louk-symbol-music-festival-massacre-hamas-idf-recover-body-2024-5).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-pga-championship-tee-times-pairings-complete-schedule-on-tv-groups-for-round-3-on-friday-at-valhalla/).
 
 ## Requirements
 - Python 3.8
