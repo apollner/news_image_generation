@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Van Jones rails against Greene after spat with Dems: ‘She’s a disgrace to that Congress’**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/media/4671548-van-jones-marjorie-taylor-greene-jasmine-crockett-house-hearing-chaos/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
