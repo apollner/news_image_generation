@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Preakness Stakes 2024 live updates: Time, TV, odds, results and more from Triple Crown race**
+**Selena Gomez, Zoe Saldaña Deliver Cannes’ First Hit With Trans Gangster Musical ‘Emilia Perez’**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/horseracing/2024/05/18/preakness-stakes-2024-live-updates/73712613007/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/emilia-perez-cannes-selena-gomez-zoe-saldana-1235903359/).
 
 ## Requirements
 - Python 3.8
