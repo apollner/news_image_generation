@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Pacers lock down Knicks to force Game 7**
+**Dabney Coleman, "9 to 5" and "Tootsie" actor, dies at 92**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-pacers-lock-down-knicks-to-force-game-7-030512562.html).
+You can read more about it [here](https://www.cbsnews.com/news/dabney-coleman-9-to-5-and-tootsie-actor-dies-at-92/).
 
 ## Requirements
 - Python 3.8
