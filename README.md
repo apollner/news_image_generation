@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's PREFIRE mission is ready to unlock the mysteries of Earth's poles**
+**Box Office: ‘IF’ Stumbles on Opening Day With $10.3 Million, ‘The Strangers: Chapter 1’ Unmasking Third Place**
 
-You can read more about it [here](https://www.space.com/nasa-prefire-polar-climate-cubesats).
+You can read more about it [here](https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/).
 
 ## Requirements
 - Python 3.8
