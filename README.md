@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cannes Unsold Gems: The Best Films Yet to Land U.S. Distribution**
+**Google on what on-device AI is good at, more Android apps that use Gemini Nano coming**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/cannes-2024-unsold-gems-best-festival-films-1235902235/).
+You can read more about it [here](http://9to5google.com/2024/05/19/android-on-device-ai/).
 
 ## Requirements
 - Python 3.8
