@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frontier Airlines eliminates change fees and introduces 4 new fare classes**
+**Dallas Mavericks rally to eliminate Oklahoma City Thunder**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Travel/frontier-airlines-eliminates-change-fees-introduces-4-new/story?id=110363323).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40175879/dallas-mavericks-rally-eliminate-oklahoma-city-thunder).
 
 ## Requirements
 - Python 3.8
