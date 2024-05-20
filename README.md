@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani served with Arizona indictment at 80th birthday bash**
+**Scottie Scheffler arrest: Louisville mayor says no body cam of incident**
 
-You can read more about it [here](https://www.cnn.com/2024/05/18/politics/rudy-giuliani-served-arizona-indictment/index.html).
+You can read more about it [here](https://www.courier-journal.com/story/news/local/2024/05/18/scottie-scheffler-arrest-louisville-mayor-says-no-body-cam-of-incident/73748175007/).
 
 ## Requirements
 - Python 3.8
