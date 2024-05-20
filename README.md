@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN political commentator Alice Stewart dies**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/05/18/politics/alice-stewart-cnn-commentator-dies/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
