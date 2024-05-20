@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 killed, 3 wounded in early-morning shooting in Columbus, Ohio**
+**Selena Gomez Weeps as ‘Emilia Pérez’ Earns Biggest Cannes Standing Ovation So Far at 9 Minutes**
 
-You can read more about it [here](https://www.cbsnews.com/news/multiple-fatalities-shooting-columbus-ohio-italian-village-neighborhood/).
+You can read more about it [here](https://variety.com/2024/film/festivals/selena-gomez-emilia-perez-cannes-standing-ovation-1236008254/).
 
 ## Requirements
 - Python 3.8
