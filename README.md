@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck Photographed Without Wedding Ring Amid Jennifer Lopez Split Speculation**
+**Georgian president vetoes ‘foreign agents’ bill after widespread opposition**
 
-You can read more about it [here](https://www.etonline.com/ben-affleck-photographed-without-wedding-ring-amid-jennifer-lopez-split-speculation-225736).
+You can read more about it [here](https://www.cnn.com/2024/05/18/europe/georgia-president-veto-foreign-agents-bill-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
