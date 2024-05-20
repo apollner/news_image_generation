@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgian president vetoes ‘foreign agents’ bill after widespread opposition**
+**iFixit teardown reveals big change for the M4 iPad Pro's repairability**
 
-You can read more about it [here](https://www.cnn.com/2024/05/18/europe/georgia-president-veto-foreign-agents-bill-intl-hnk/index.html).
+You can read more about it [here](https://9to5mac.com/2024/05/18/ipad-pro-battery-teardown-video/).
 
 ## Requirements
 - Python 3.8
