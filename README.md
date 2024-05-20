@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Biden speaks at Morehouse College commencement**
+**GOP lawmaker proposes sanctions against Georgian officials over Russian-inspired law**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/morehouse-college-graduation-biden-05-19-24/index.html).
+You can read more about it [here](https://thehill.com/policy/international/4672790-gop-lawmaker-sanctions-georgia-russian-inspired-law/).
 
 ## Requirements
 - Python 3.8
