@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Mavericks rally to eliminate Oklahoma City Thunder**
+**Louisville police say there isn't body cam footage from initial incident with Scottie Scheffler outside Valhalla**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40175879/dallas-mavericks-rally-eliminate-oklahoma-city-thunder).
+You can read more about it [here](https://www.wdrb.com/sports/louisville-police-say-there-isnt-body-cam-footage-from-initial-incident-with-scottie-scheffler-outside/article_16f55cda-152a-11ef-bbf5-bbd040ca956c.html).
 
 ## Requirements
 - Python 3.8
