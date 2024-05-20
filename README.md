@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kristin Chenoweth Says She Was 'Severely Abused' After Posting About Sean 'Diddy' Combs Video**
+**3 killed, 3 wounded in early-morning shooting in Columbus, Ohio**
 
-You can read more about it [here](https://www.etonline.com/kristin-chenoweth-says-she-was-severely-abused-in-the-past-after-posting-about-sean-diddy-combs).
+You can read more about it [here](https://www.cbsnews.com/news/multiple-fatalities-shooting-columbus-ohio-italian-village-neighborhood/).
 
 ## Requirements
 - Python 3.8
