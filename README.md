@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jasmine Crockett backs claim calling Marjorie Taylor Greene 'racist'**
+**Helicopter carrying Iran's president suffers a 'hard landing,' state TV says, and rescue is underway**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/19/jasmine-crockett-backs-claim-calling-mtg-racist-00158792).
+You can read more about it [here](https://apnews.com/article/iran-helicopter-raisi-b483ba75e4339cfb0fe00c7349d023b8).
 
 ## Requirements
 - Python 3.8
