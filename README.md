@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iFixit teardown reveals big change for the M4 iPad Pro's repairability**
+**Houthi missile strikes Greek-owned oil tanker in Red Sea, U.S. says**
 
-You can read more about it [here](https://9to5mac.com/2024/05/18/ipad-pro-battery-teardown-video/).
+You can read more about it [here](https://www.cbsnews.com/news/houthi-missile-strikes-greek-owned-oil-tanker-red-sea/).
 
 ## Requirements
 - Python 3.8
