@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal Judge Orders New Sentencing Hearing for David DePape in Trial Over Pelosi Attack**
+**Tsai Ing-wen: The president who reset Taiwan’s relationship with China**
 
-You can read more about it [here](https://www.kqed.org/news/11986847/federal-judge-orders-new-sentencing-hearing-for-david-depape-in-trial-over-pelosi-attack).
+You can read more about it [here](https://www.bbc.com/news/articles/ceklk794102o).
 
 ## Requirements
 - Python 3.8
