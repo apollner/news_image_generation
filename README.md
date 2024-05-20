@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisville police say there isn't body cam footage from initial incident with Scottie Scheffler outside Valhalla**
+**Ben Affleck Photographed Without Wedding Ring Amid Jennifer Lopez Split Speculation**
 
-You can read more about it [here](https://www.wdrb.com/sports/louisville-police-say-there-isnt-body-cam-footage-from-initial-incident-with-scottie-scheffler-outside/article_16f55cda-152a-11ef-bbf5-bbd040ca956c.html).
+You can read more about it [here](https://www.etonline.com/ben-affleck-photographed-without-wedding-ring-amid-jennifer-lopez-split-speculation-225736).
 
 ## Requirements
 - Python 3.8
