@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA Championship Round 3 live updates, leaderboard: Morikawa, Schauffele share lead after wild Moving Day at Valhalla**
+**Rudy Giuliani served with Arizona indictment at 80th birthday bash**
 
-You can read more about it [here](https://sports.yahoo.com/live/pga-championship-round-3-live-updates-leaderboard-morikawa-schauffele-share-lead-after-wild-moving-day-at-valhalla-125427676.html).
+You can read more about it [here](https://www.cnn.com/2024/05/18/politics/rudy-giuliani-served-arizona-indictment/index.html).
 
 ## Requirements
 - Python 3.8
