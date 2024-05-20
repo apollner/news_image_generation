@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP lawmaker proposes sanctions against Georgian officials over Russian-inspired law**
+**Rudy Giuliani served with Arizona fake electors indictment after 80th birthday party**
 
-You can read more about it [here](https://thehill.com/policy/international/4672790-gop-lawmaker-sanctions-georgia-russian-inspired-law/).
+You can read more about it [here](https://abcnews.go.com/Politics/rudy-giuliani-served-arizona-fake-electors-indictment-after/story?id=110365001).
 
 ## Requirements
 - Python 3.8
