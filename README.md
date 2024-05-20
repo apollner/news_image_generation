@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leading Republican Lawmaker Chastises Biden in Israel's Parliament**
+**Jasmine Crockett backs claim calling Marjorie Taylor Greene 'racist'**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/leading-republican-lawmaker-chastises-biden-in-israels-parliament-92e15964).
+You can read more about it [here](https://www.politico.com/news/2024/05/19/jasmine-crockett-backs-claim-calling-mtg-racist-00158792).
 
 ## Requirements
 - Python 3.8
