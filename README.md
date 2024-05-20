@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tsai Ing-wen: The president who reset Taiwan’s relationship with China**
+**Trump urges members to ‘be rebellious and vote’ after accepting NRA endorsement**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ceklk794102o).
+You can read more about it [here](https://thehill.com/homenews/campaign/4672523-donald-trump-nra-endorsement-speech-dallas-convention/).
 
 ## Requirements
 - Python 3.8
