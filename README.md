@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iFixit teardown reveals big change for the M4 iPad Pro's repairability**
+**Federal Judge Orders New Sentencing Hearing for David DePape in Trial Over Pelosi Attack**
 
-You can read more about it [here](https://9to5mac.com/2024/05/18/ipad-pro-battery-teardown-video/).
+You can read more about it [here](https://www.kqed.org/news/11986847/federal-judge-orders-new-sentencing-hearing-for-david-depape-in-trial-over-pelosi-attack).
 
 ## Requirements
 - Python 3.8
