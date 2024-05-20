@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump urges members to ‘be rebellious and vote’ after accepting NRA endorsement**
+**iFixit teardown reveals big change for the M4 iPad Pro's repairability**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4672523-donald-trump-nra-endorsement-speech-dallas-convention/).
+You can read more about it [here](https://9to5mac.com/2024/05/18/ipad-pro-battery-teardown-video/).
 
 ## Requirements
 - Python 3.8
