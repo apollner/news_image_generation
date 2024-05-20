@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I have a family history of Alzheimer’s disease. I wanted to understand my own risk**
+**CNN political commentator Alice Stewart dies**
 
-You can read more about it [here](https://www.cnn.com/alzheimers-risk-test-sanjay-gupta/index.html).
+You can read more about it [here](https://www.cnn.com/2024/05/18/politics/alice-stewart-cnn-commentator-dies/index.html).
 
 ## Requirements
 - Python 3.8
