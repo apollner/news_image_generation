@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stefanik calls for wiping Hamas ‘off the face of the Earth’ and touts Trump policies in speech to Israeli Knesset**
+**At least 27 killed in central Gaza airstrike as U.S. envoy visits the region**
 
-You can read more about it [here](https://www.cnn.com/2024/05/19/politics/stefanik-israel-speech-biden-trump/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/airstrike-central-gaza-us-envoy-visits-region-israel-hamas-war/).
 
 ## Requirements
 - Python 3.8
