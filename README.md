@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scottie Scheffler arrest: Louisville mayor says no body cam of incident**
+**Frontier Airlines eliminates change fees and introduces 4 new fare classes**
 
-You can read more about it [here](https://www.courier-journal.com/story/news/local/2024/05/18/scottie-scheffler-arrest-louisville-mayor-says-no-body-cam-of-incident/73748175007/).
+You can read more about it [here](https://abcnews.go.com/GMA/Travel/frontier-airlines-eliminates-change-fees-introduces-4-new/story?id=110363323).
 
 ## Requirements
 - Python 3.8
