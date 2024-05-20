@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow at 40,000: Why stocks still have 'plenty of room to run'**
+**Israel-Hamas war updates: Airstrike kills 20 in central Gaza**
 
-You can read more about it [here](https://finance.yahoo.com/news/dow-at-40000-why-stocks-still-have-plenty-of-room-to-run-160152850.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-05-19-2024-d6ea9776d293130d52d308abd284556e).
 
 ## Requirements
 - Python 3.8
