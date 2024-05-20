@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helicopter carrying Iran's president suffers a 'hard landing,' state TV says, and rescue is underway**
+**McLaren unsure Norris could have passed Verstappen to win F1 Imola GP**
 
-You can read more about it [here](https://apnews.com/article/iran-helicopter-raisi-b483ba75e4339cfb0fe00c7349d023b8).
+You can read more about it [here](https://www.motorsport.com/f1/news/mclaren-unsure-norris-could-have-passed-verstappen-to-win-f1-imola-gp/10612986/).
 
 ## Requirements
 - Python 3.8
