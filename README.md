@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthi missile strikes Greek-owned oil tanker in Red Sea, U.S. says**
+**Trump urges members to ‘be rebellious and vote’ after accepting NRA endorsement**
 
-You can read more about it [here](https://www.cbsnews.com/news/houthi-missile-strikes-greek-owned-oil-tanker-red-sea/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4672523-donald-trump-nra-endorsement-speech-dallas-convention/).
 
 ## Requirements
 - Python 3.8
