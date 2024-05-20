@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Power outage continues in Houston, storms threaten Kansas and Florida**
+**At least 27 killed in central Gaza airstrike as U.S. envoy visits the region**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/19/power-outage-heat-houston-kansas-florida-storms/73760179007/).
+You can read more about it [here](https://www.cbsnews.com/news/airstrike-central-gaza-us-envoy-visits-region-israel-hamas-war/).
 
 ## Requirements
 - Python 3.8
