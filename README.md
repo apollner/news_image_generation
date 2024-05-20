@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Will New China Tariffs Affect Tesla & Other EV Makers?**
+**Power outage continues in Houston, storms threaten Kansas and Florida**
 
-You can read more about it [here](https://cleantechnica.com/2024/05/18/how-will-new-china-tariffs-affect-tesla-other-ev-makers/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/19/power-outage-heat-houston-kansas-florida-storms/73760179007/).
 
 ## Requirements
 - Python 3.8
