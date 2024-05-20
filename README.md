@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump urges members to ‘be rebellious and vote’ after accepting NRA endorsement**
+**Main Card Results**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4672523-donald-trump-nra-endorsement-speech-dallas-convention/).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-barboza-vs-murphy?language_content_entity=en).
 
 ## Requirements
 - Python 3.8
