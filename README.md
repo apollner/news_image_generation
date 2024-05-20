@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez Weeps as ‘Emilia Pérez’ Earns Biggest Cannes Standing Ovation So Far at 9 Minutes**
+**PGA Championship Round 3 live updates, leaderboard: Morikawa, Schauffele share lead after wild Moving Day at Valhalla**
 
-You can read more about it [here](https://variety.com/2024/film/festivals/selena-gomez-emilia-perez-cannes-standing-ovation-1236008254/).
+You can read more about it [here](https://sports.yahoo.com/live/pga-championship-round-3-live-updates-leaderboard-morikawa-schauffele-share-lead-after-wild-moving-day-at-valhalla-125427676.html).
 
 ## Requirements
 - Python 3.8
