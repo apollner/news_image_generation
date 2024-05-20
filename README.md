@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McLaren unsure Norris could have passed Verstappen to win F1 Imola GP**
+**Live updates: Biden speaks at Morehouse College commencement**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/mclaren-unsure-norris-could-have-passed-verstappen-to-win-f1-imola-gp/10612986/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/morehouse-college-graduation-biden-05-19-24/index.html).
 
 ## Requirements
 - Python 3.8
