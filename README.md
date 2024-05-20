@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war updates: Airstrike kills 20 in central Gaza**
+**Helicopter carrying Iran's president suffers a 'hard landing,' state TV says, and rescue is underway**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-05-19-2024-d6ea9776d293130d52d308abd284556e).
+You can read more about it [here](https://apnews.com/article/iran-helicopter-raisi-b483ba75e4339cfb0fe00c7349d023b8).
 
 ## Requirements
 - Python 3.8
