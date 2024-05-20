@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helicopter carrying Iran's president suffers a 'hard landing,' state TV says, and rescue is underway**
+**Biden reaches out to Morehouse grads on Gaza to muted applause**
 
-You can read more about it [here](https://apnews.com/article/iran-helicopter-raisi-b483ba75e4339cfb0fe00c7349d023b8).
+You can read more about it [here](https://www.reuters.com/world/us/biden-speaks-morehouse-grads-after-season-campus-unrest-over-gaza-2024-05-19/).
 
 ## Requirements
 - Python 3.8
