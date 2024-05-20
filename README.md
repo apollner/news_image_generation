@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Main Card Results**
+**I have a family history of Alzheimer’s disease. I wanted to understand my own risk**
 
-You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-barboza-vs-murphy?language_content_entity=en).
+You can read more about it [here](https://www.cnn.com/alzheimers-risk-test-sanjay-gupta/index.html).
 
 ## Requirements
 - Python 3.8
