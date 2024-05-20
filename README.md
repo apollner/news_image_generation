@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden reaches out to Morehouse grads on Gaza to muted applause**
+**Stefanik calls for wiping Hamas ‘off the face of the Earth’ and touts Trump policies in speech to Israeli Knesset**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-speaks-morehouse-grads-after-season-campus-unrest-over-gaza-2024-05-19/).
+You can read more about it [here](https://www.cnn.com/2024/05/19/politics/stefanik-israel-speech-biden-trump/index.html).
 
 ## Requirements
 - Python 3.8
