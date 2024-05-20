@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meteor lights up sky bright blue over Spain, Portugal**
+**Leading Republican Lawmaker Chastises Biden in Israel's Parliament**
 
-You can read more about it [here](https://nypost.com/2024/05/19/world-news/meteor-lights-up-sky-bright-blue-over-spain-portugal/).
+You can read more about it [here](https://www.wsj.com/world/middle-east/leading-republican-lawmaker-chastises-biden-in-israels-parliament-92e15964).
 
 ## Requirements
 - Python 3.8
