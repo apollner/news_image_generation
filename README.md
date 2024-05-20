@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D. Wayne Lukas, legendary Thoroughbred trainer, has still got it at 88**
+**Meteor lights up sky bright blue over Spain, Portugal**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/columnist/dan-wolken/2024/05/18/preakness-2024-d-wayne-lukas-trainer-seize-the-grey/73755462007/).
+You can read more about it [here](https://nypost.com/2024/05/19/world-news/meteor-lights-up-sky-bright-blue-over-spain-portugal/).
 
 ## Requirements
 - Python 3.8
