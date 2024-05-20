@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 27 killed in central Gaza airstrike as U.S. envoy visits the region**
+**How Will New China Tariffs Affect Tesla & Other EV Makers?**
 
-You can read more about it [here](https://www.cbsnews.com/news/airstrike-central-gaza-us-envoy-visits-region-israel-hamas-war/).
+You can read more about it [here](https://cleantechnica.com/2024/05/18/how-will-new-china-tariffs-affect-tesla-other-ev-makers/).
 
 ## Requirements
 - Python 3.8
