@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani served with Arizona fake electors indictment after 80th birthday party**
+**Dow at 40,000: Why stocks still have 'plenty of room to run'**
 
-You can read more about it [here](https://abcnews.go.com/Politics/rudy-giuliani-served-arizona-fake-electors-indictment-after/story?id=110365001).
+You can read more about it [here](https://finance.yahoo.com/news/dow-at-40000-why-stocks-still-have-plenty-of-room-to-run-160152850.html).
 
 ## Requirements
 - Python 3.8
