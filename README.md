@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scottie Scheffler's arraignment for allegedly assaulting a Louisville police officer delayed until June**
+**Iran helicopter crash: Mohammad Mokhber becomes acting president**
 
-You can read more about it [here](https://www.wdrb.com/news/scottie-schefflers-arraignment-for-allegedly-assaulting-a-louisville-police-officer-delayed-until-june/article_6df4c3b4-16c8-11ef-a836-a78b4fa14e7b.html).
+You can read more about it [here](https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48).
 
 ## Requirements
 - Python 3.8
