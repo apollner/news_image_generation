@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Space Trash Signs project creates debris 'constellations' to highlight space junk problem (video)**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.space.com/space-trash-constellations-highlight-space-junk-problem).
 
 ## Requirements
 - Python 3.8
