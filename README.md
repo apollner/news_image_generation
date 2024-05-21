@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stealing from Trump was 'self-help,' Cohen testifies at hush money trial**
+**Donald Trump Origin Tale ‘The Apprentice’ Gets 11-Minute Ovation At Its Cannes World Premiere**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-has-chance-testify-hush-money-trial-if-he-so-chooses-2024-05-20/).
+You can read more about it [here](http://deadline.com/2024/05/the-apprentice-trump-movie-ovation-cannes-1235924376/).
 
 ## Requirements
 - Python 3.8
