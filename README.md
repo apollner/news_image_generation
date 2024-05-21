@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Social Media Flooded With Videos of a Dramatic Fireball Over Spain and Portugal**
+**EXTENDED HIGHLIGHTS | 4-IN-A-ROW | Man City 3-1 West Ham | Premier League History Makers**
 
-You can read more about it [here](https://www.ign.com/articles/esa-is-investigating-a-dramatic-fireball-that-exploded-over-spain-this-weekend).
+You can read more about it [here](https://www.youtube.com/watch?v=sAewmh-Lu8U).
 
 ## Requirements
 - Python 3.8
