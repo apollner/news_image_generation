@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Public health alert issued after HIV-positive sex worker had over 200 clients**
+**Stealing from Trump was 'self-help,' Cohen testifies at hush money trial**
 
-You can read more about it [here](https://www.scrippsnews.com/us-news/crime/public-health-alert-issued-after-hiv-positive-sex-worker-had-over-200-clients).
+You can read more about it [here](https://www.reuters.com/world/us/trump-has-chance-testify-hush-money-trial-if-he-so-chooses-2024-05-20/).
 
 ## Requirements
 - Python 3.8
