@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unrelenting heat causes misery in Houston as storms threaten Kansas**
+**Raiders legend, Hall of Famer Jim Otto dead at 86**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/19/power-outage-heat-houston-kansas-florida-storms/73760179007/).
+You can read more about it [here](https://nypost.com/2024/05/20/sports/jim-otto-raiders-legend-hall-of-famer-dead-at-86/).
 
 ## Requirements
 - Python 3.8
