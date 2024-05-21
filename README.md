@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran President Ebrahim Raisi, supreme leader's protégé, dies at 63 in helicopter crash**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/iran-ebrahim-raisi-obituary-helicopter-crash-107ffb888540ef022a84ec719b81398c).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
