@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ocean water is rushing miles underneath the ‘Doomsday Glacier’ with potentially dire impacts on sea level rise**
+**Social Media Flooded With Videos of a Dramatic Fireball Over Spain and Portugal**
 
-You can read more about it [here](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html).
+You can read more about it [here](https://www.ign.com/articles/esa-is-investigating-a-dramatic-fireball-that-exploded-over-spain-this-weekend).
 
 ## Requirements
 - Python 3.8
