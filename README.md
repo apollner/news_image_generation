@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frustration grows over Google's AI Overviews feature, how to disable**
+**Earn that bread: Joey Logano dominates 2024 All-Star Race at North Wilkesboro**
 
-You can read more about it [here](https://www.bleepingcomputer.com/).
+You can read more about it [here](https://www.nascar.com/news-media/2024/05/19/earn-that-bread-joey-logano-dominates-2024-all-star-race-at-north-wilkesboro/).
 
 ## Requirements
 - Python 3.8
