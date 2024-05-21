@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After taking first loss, Tyson Fury suggests judges favored Ukrainian foe**
+**American Idol finale: Billie Eilish, Abi Carter, Jack Blocker, Will Moseley**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/19/tyson-fury-oleksandr-usyk/).
+You can read more about it [here](https://www.desertsun.com/story/life/entertainment/television/2024/05/19/american-idol-finale-abi-carter-jack-blocker-will-moseley/73749168007/).
 
 ## Requirements
 - Python 3.8
