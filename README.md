@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raiders legend, Hall of Famer Jim Otto dead at 86**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/05/20/sports/jim-otto-raiders-legend-hall-of-famer-dead-at-86/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
