@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs' career is over after leaked video, attorney says**
+**'American Idol' 2024 winner revealed: Abi Carter takes the crown as Katy Perry departs**
 
-You can read more about it [here](https://www.businessinsider.com/sean-diddy-combs-leaked-video-apology-2024-5).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/05/19/american-idol-2024-winner-revealed/73764346007/).
 
 ## Requirements
 - Python 3.8
