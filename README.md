@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs blasted by ex-spiritual adviser T.D. Jakes over leaked abuse video: 'Atrocious, degrading, demeaning'**
+**Live updates: Iran's president killed in helicopter crash, election set for next month**
 
-You can read more about it [here](https://nypost.com/2024/05/20/us-news/t-d-jakes-blasts-sean-diddy-combs-over-abuse-video/).
+You can read more about it [here](https://apnews.com/live/helicopter-iranian-president-crash).
 
 ## Requirements
 - Python 3.8
