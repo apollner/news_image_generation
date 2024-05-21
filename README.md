@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lai Ching-te inaugurated as Taiwan's president**
+**Israel launches strikes across Gaza as U.S. envoy meets Netanyahu**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/19/lai-ching-te-inaugurated-as-taiwans-president-00158839).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-launches-strikes-across-gaza-us-envoy-visits-region-2024-05-19/).
 
 ## Requirements
 - Python 3.8
