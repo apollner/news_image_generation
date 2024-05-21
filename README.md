@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu virus in milk: Seven things to know**
+**Scottie Scheffler's arraignment for allegedly assaulting a Louisville police officer delayed until June**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/05/20/metro/bird-flu-virus-milk-raw-milk/).
+You can read more about it [here](https://www.wdrb.com/news/scottie-schefflers-arraignment-for-allegedly-assaulting-a-louisville-police-officer-delayed-until-june/article_6df4c3b4-16c8-11ef-a836-a78b4fa14e7b.html).
 
 ## Requirements
 - Python 3.8
