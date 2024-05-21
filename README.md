@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Iran's president killed in helicopter crash, election set for next month**
+**JPMorgan Chase CEO Jamie Dimon signals retirement is closer than ever**
 
-You can read more about it [here](https://apnews.com/live/helicopter-iranian-president-crash).
+You can read more about it [here](https://www.foxbusiness.com/markets/jpmorgan-chase-ceo-jamie-dimon-signals-retirement-closer-ever).
 
 ## Requirements
 - Python 3.8
