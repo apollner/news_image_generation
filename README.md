@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Timberwolves rally from 20-point deficit to stun Nuggets in Game 7, reach conference finals**
+**Lai Ching-te inaugurated as Taiwan's president**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-timberwolves-rally-from-20-point-deficit-to-stun-nuggets-in-game-7-reach-conference-finals-023203272.html).
+You can read more about it [here](https://www.politico.com/news/2024/05/19/lai-ching-te-inaugurated-as-taiwans-president-00158839).
 
 ## Requirements
 - Python 3.8
