@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ed Dwight, America's first Black astronaut candidate, becomes oldest person to reach space**
+**Protesters block New Caledonia roads as French police pour in**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/ed-dwight-americas-first-black-astronaut-candidate-becomes-oldest-pers-rcna153008).
+You can read more about it [here](https://www.reuters.com/world/australia-nz-unable-send-evacuation-flights-new-caledonia-2024-05-20/).
 
 ## Requirements
 - Python 3.8
