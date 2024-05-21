@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters block New Caledonia roads as French police pour in**
+**'I'll wreck you in Charlotte' - Ricky Stenhouse Jr. to Kyle Busch after the All-Star fight | NASCAR**
 
-You can read more about it [here](https://www.reuters.com/world/australia-nz-unable-send-evacuation-flights-new-caledonia-2024-05-20/).
+You can read more about it [here](https://www.youtube.com/watch?v=fqjN7ijm53g).
 
 ## Requirements
 - Python 3.8
