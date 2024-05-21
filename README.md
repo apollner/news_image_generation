@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryanair boss says 'recessionary feel' may be limiting air ticket price rises**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/ryanair-sees-flat-modestly-higher-summer-fares-after-record-fy-profit-2024-05-20/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
