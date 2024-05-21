@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump Origin Tale ‘The Apprentice’ Gets 11-Minute Ovation At Its Cannes World Premiere**
+**JPMorgan CEO Jamie Dimon signals retirement is closer than ever**
 
-You can read more about it [here](http://deadline.com/2024/05/the-apprentice-trump-movie-ovation-cannes-1235924376/).
+You can read more about it [here](https://www.cnbc.com/2024/05/20/jpmorgan-ceo-jamie-dimon-retirement-approaching.html).
 
 ## Requirements
 - Python 3.8
