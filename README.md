@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 27 killed in central Gaza airstrike as U.S. envoy visits the region**
+**Prince Harry-Meghan Markle's 6th wedding anniversary: ‘They have each other’s back', expert decodes their relationship**
 
-You can read more about it [here](https://www.cbsnews.com/news/airstrike-central-gaza-us-envoy-visits-region-israel-hamas-war/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/prince-harry-meghan-markles-6th-wedding-anniversary-they-have-each-other-s-back-expert-decodes-their-relationship-101716133155254.html).
 
 ## Requirements
 - Python 3.8
