@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One of Wall Street’s last remaining bears has finally capitulated.**
+**Ed Dwight, America's first Black astronaut candidate, becomes oldest person to reach space**
 
-You can read more about it [here](https://www.marketwatch.com/story/one-of-wall-streets-last-remaining-bears-morgan-stanley-has-finally-capitulated-heres-its-new-s-p-500-target-edbd822f).
+You can read more about it [here](https://www.nbcnews.com/science/space/ed-dwight-americas-first-black-astronaut-candidate-becomes-oldest-pers-rcna153008).
 
 ## Requirements
 - Python 3.8
