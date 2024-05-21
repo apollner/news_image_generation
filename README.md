@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earn that bread: Joey Logano dominates 2024 All-Star Race at North Wilkesboro**
+**[Removed]**
 
-You can read more about it [here](https://www.nascar.com/news-media/2024/05/19/earn-that-bread-joey-logano-dominates-2024-all-star-race-at-north-wilkesboro/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
