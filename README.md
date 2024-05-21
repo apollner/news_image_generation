@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain recalls ambassador after Argentina's Milei calls PM's wife 'corrupt'**
+**Iran President Ebrahim Raisi, supreme leader's protégé, dies at 63 in helicopter crash**
 
-You can read more about it [here](https://www.reuters.com/world/europe/spain-recalls-ambassador-after-argentinas-milei-calls-pms-wife-corrupt-2024-05-19/).
+You can read more about it [here](https://apnews.com/article/iran-ebrahim-raisi-obituary-helicopter-crash-107ffb888540ef022a84ec719b81398c).
 
 ## Requirements
 - Python 3.8
