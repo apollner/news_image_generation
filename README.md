@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demi Moore on Full Frontal Nudity With Margaret Qualley in ‘The Substance’: ‘A Very Vulnerable Experience’ but I Had a ‘Great Partner Who I Felt Very Safe With’**
+**Sean 'Diddy' Combs' career is over after leaked video, attorney says**
 
-You can read more about it [here](https://variety.com/2024/film/festivals/demi-moore-full-frontal-nudity-the-substance-margaret-qualley-1236009594/).
+You can read more about it [here](https://www.businessinsider.com/sean-diddy-combs-leaked-video-apology-2024-5).
 
 ## Requirements
 - Python 3.8
