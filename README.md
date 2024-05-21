@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman Claims ChatGPT 4o Would Not Have Happened Without This Indian-Origin Tech Whiz: All You Need To**
+**Senate will again vote on bipartisan border package**
 
-You can read more about it [here](https://www.news18.com/tech/sam-altman-claims-chatgpt-4o-would-not-have-happened-without-this-indian-origin-tech-whiz-all-you-need-to-know-8896610.html).
+You can read more about it [here](https://www.axios.com/2024/05/19/senate-bipartisan-border-package-vote).
 
 ## Requirements
 - Python 3.8
