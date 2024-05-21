@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate will again vote on bipartisan border package**
+**Spain recalls ambassador after Argentina's Milei calls PM's wife 'corrupt'**
 
-You can read more about it [here](https://www.axios.com/2024/05/19/senate-bipartisan-border-package-vote).
+You can read more about it [here](https://www.reuters.com/world/europe/spain-recalls-ambassador-after-argentinas-milei-calls-pms-wife-corrupt-2024-05-19/).
 
 ## Requirements
 - Python 3.8
