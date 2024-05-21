@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'American Idol' 2024 winner revealed: Abi Carter takes the crown as Katy Perry departs**
+**Demi Moore on Full Frontal Nudity With Margaret Qualley in ‘The Substance’: ‘A Very Vulnerable Experience’ but I Had a ‘Great Partner Who I Felt Very Safe With’**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/05/19/american-idol-2024-winner-revealed/73764346007/).
+You can read more about it [here](https://variety.com/2024/film/festivals/demi-moore-full-frontal-nudity-the-substance-margaret-qualley-1236009594/).
 
 ## Requirements
 - Python 3.8
