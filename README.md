@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran helicopter crash: Mohammad Mokhber becomes acting president**
+**Public health alert issued after HIV-positive sex worker had over 200 clients**
 
-You can read more about it [here](https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48).
+You can read more about it [here](https://www.scrippsnews.com/us-news/crime/public-health-alert-issued-after-hiv-positive-sex-worker-had-over-200-clients).
 
 ## Requirements
 - Python 3.8
