@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan Chase CEO Jamie Dimon signals retirement is closer than ever**
+**Ocean water is rushing miles underneath the ‘Doomsday Glacier’ with potentially dire impacts on sea level rise**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/jpmorgan-chase-ceo-jamie-dimon-signals-retirement-closer-ever).
+You can read more about it [here](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html).
 
 ## Requirements
 - Python 3.8
