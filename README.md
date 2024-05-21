@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Harry-Meghan Markle's 6th wedding anniversary: ‘They have each other’s back', expert decodes their relationship**
+**Frustration grows over Google's AI Overviews feature, how to disable**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/prince-harry-meghan-markles-6th-wedding-anniversary-they-have-each-other-s-back-expert-decodes-their-relationship-101716133155254.html).
+You can read more about it [here](https://www.bleepingcomputer.com/).
 
 ## Requirements
 - Python 3.8
