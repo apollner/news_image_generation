@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'American Idol' 2024 winner revealed: Abi Carter takes the crown as Katy Perry departs**
+**One of Wall Street’s last remaining bears has finally capitulated.**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/05/19/american-idol-2024-winner-revealed/73764346007/).
+You can read more about it [here](https://www.marketwatch.com/story/one-of-wall-streets-last-remaining-bears-morgan-stanley-has-finally-capitulated-heres-its-new-s-p-500-target-edbd822f).
 
 ## Requirements
 - Python 3.8
