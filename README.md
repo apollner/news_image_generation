@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I'll wreck you in Charlotte' - Ricky Stenhouse Jr. to Kyle Busch after the All-Star fight | NASCAR**
+**Ryanair boss says 'recessionary feel' may be limiting air ticket price rises**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fqjN7ijm53g).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/ryanair-sees-flat-modestly-higher-summer-fares-after-record-fy-profit-2024-05-20/).
 
 ## Requirements
 - Python 3.8
