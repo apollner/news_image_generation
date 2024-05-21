@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Idol finale: Billie Eilish, Abi Carter, Jack Blocker, Will Moseley**
+**Sam Altman Claims ChatGPT 4o Would Not Have Happened Without This Indian-Origin Tech Whiz: All You Need To**
 
-You can read more about it [here](https://www.desertsun.com/story/life/entertainment/television/2024/05/19/american-idol-finale-abi-carter-jack-blocker-will-moseley/73749168007/).
+You can read more about it [here](https://www.news18.com/tech/sam-altman-claims-chatgpt-4o-would-not-have-happened-without-this-indian-origin-tech-whiz-all-you-need-to-know-8896610.html).
 
 ## Requirements
 - Python 3.8
