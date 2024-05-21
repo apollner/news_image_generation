@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Trash Signs project creates debris 'constellations' to highlight space junk problem (video)**
+**Bird flu virus in milk: Seven things to know**
 
-You can read more about it [here](https://www.space.com/space-trash-constellations-highlight-space-junk-problem).
+You can read more about it [here](https://www.bostonglobe.com/2024/05/20/metro/bird-flu-virus-milk-raw-milk/).
 
 ## Requirements
 - Python 3.8
