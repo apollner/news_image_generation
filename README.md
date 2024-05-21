@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NBA playoffs: Timberwolves rally from 20-point deficit to stun Nuggets in Game 7, reach conference finals**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-timberwolves-rally-from-20-point-deficit-to-stun-nuggets-in-game-7-reach-conference-finals-023203272.html).
 
 ## Requirements
 - Python 3.8
