@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel launches strikes across Gaza as U.S. envoy meets Netanyahu**
+**After taking first loss, Tyson Fury suggests judges favored Ukrainian foe**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-launches-strikes-across-gaza-us-envoy-visits-region-2024-05-19/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/05/19/tyson-fury-oleksandr-usyk/).
 
 ## Requirements
 - Python 3.8
