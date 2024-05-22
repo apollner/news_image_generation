@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Forbes Daily: Target Aims For Discounts As Inflation Hits Summer Staples**
+**Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay**
 
-You can read more about it [here](https://www.forbes.com/sites/daniellechemtob/2024/05/21/forbes-daily-target-aims-for-discounts-as-inflation-hits-summer-staples/).
+You can read more about it [here](https://www.youtube.com/watch?v=fpX39HY7ujI).
 
 ## Requirements
 - Python 3.8
