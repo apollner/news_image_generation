@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**35-year-old man survives grizzly bear attack after encountering 2 of them at national park**
+**Jennifer Lopez Puts Her Wedding Ring on Display on Red Carpet Amid Ben Affleck Breakup Rumors - E! Online**
 
-You can read more about it [here](https://abcnews.go.com/US/35-year-man-survives-grizzly-bear-attack-after/story?id=110424633).
+You can read more about it [here](https://www.eonline.com/news/1402026/jennifer-lopez-puts-her-wedding-ring-on-display-on-red-carpet-amid-ben-affleck-breakup-rumors).
 
 ## Requirements
 - Python 3.8
