@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BMW, Jaguar and VW imported banned Xinjiang parts - Senate probe**
+**City in Florida considered America's best spot to live: where do other cities stack up?**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv2237rplg8o).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/city-florida-considered-americas-best-spot-live-where-other-cities-stack-up).
 
 ## Requirements
 - Python 3.8
