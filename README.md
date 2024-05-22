@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**City in Florida considered America's best spot to live: where do other cities stack up?**
+**Dartmouth faculty votes 183 - 163 to censure Beilock**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/city-florida-considered-americas-best-spot-live-where-other-cities-stack-up).
+You can read more about it [here](https://www.thedartmouth.com/article/2024/05/dartmouth-faculty-votes-183-163-to-censure-beilock).
 
 ## Requirements
 - Python 3.8
