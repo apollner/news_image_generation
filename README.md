@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs’ former assistant says she doesn’t believe his apology**
+**Trump Media lost more than $300 million last quarter on very little revenue**
 
-You can read more about it [here](https://www.youtube.com/watch?v=LZf9pVTLsAk).
+You can read more about it [here](https://www.cnn.com/2024/05/20/business/trump-media-quarterly-results/index.html).
 
 ## Requirements
 - Python 3.8
