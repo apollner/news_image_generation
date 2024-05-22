@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microplastics Found in Every Human Testicle Examined in New Study**
+**Kevin McCarthy's replacement and down-ballot drama: What to watch for in Tuesday's elections**
 
-You can read more about it [here](https://www.ign.com/articles/microplastics-found-in-every-human-testicle-examined-in-new-study).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/primary-elections-today-what-know-rcna152830).
 
 ## Requirements
 - Python 3.8
