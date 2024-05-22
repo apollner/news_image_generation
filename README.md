@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump Campaign Vows To Sue ‘The Apprentice’ Filmmakers Over Scene Of Ivanka Trump Rape By Then Real Estate Mogul**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://deadline.com/2024/05/trump-apprentice-movie-lawsuit-threat-1235925058/).
 
 ## Requirements
 - Python 3.8
