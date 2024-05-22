@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's new Copilot AI agents act like virtual employees to automate tasks**
+**Macy's beats lowly Q1 estimates, as it weighs a future between a turnaround or a buyout**
 
-You can read more about it [here](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents).
+You can read more about it [here](https://finance.yahoo.com/news/macys-beats-lowly-q1-estimates-as-it-weighs-between-a-turnaround-and-a-buyout-144307951.html).
 
 ## Requirements
 - Python 3.8
