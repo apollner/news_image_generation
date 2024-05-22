@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian Malanga, slain leader of failed DR Congo coup, sold cars in Utah when he lived in the US**
+**BMW, Jaguar and VW imported banned Xinjiang parts - Senate probe**
 
-You can read more about it [here](https://nypost.com/2024/05/21/world-news/slain-leader-of-failed-dr-congo-coup-christian-malanga-sold-cars-in-utah-when-he-lived-in-the-us/).
+You can read more about it [here](https://www.bbc.com/news/articles/cv2237rplg8o).
 
 ## Requirements
 - Python 3.8
