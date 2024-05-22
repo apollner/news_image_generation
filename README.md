@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oilers hold off Canucks in Game 7, advance to Western Final**
+**British court rules Julian Assange may make full appeal against US extradition on First Amendment grounds**
 
-You can read more about it [here](https://www.nhl.com/news/edmonton-oilers-vancouver-canucks-game-7-recap-may-20).
+You can read more about it [here](https://www.foxnews.com/world/british-court-rules-julian-assange-may-make-full-appeal-against-us-extradition-first-amendement-grounds).
 
 ## Requirements
 - Python 3.8
