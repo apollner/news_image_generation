@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin McCarthy's replacement and down-ballot drama: What to watch for in Tuesday's elections**
+**Karen Read murder trial testimony features contentious cross-examination of Jennifer McCabe**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/primary-elections-today-what-know-rcna152830).
+You can read more about it [here](https://www.cbsnews.com/boston/news/karen-read-live-stream-today-murder-trial-day-15/).
 
 ## Requirements
 - Python 3.8
