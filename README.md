@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warriors' Podziemski earns 2023-24 NBA All-Rookie First Team honors**
+**[Removed]**
 
-You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/brandin-podziemski-all-rookie-first-team-trayce-jackson-davis/1736703/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
