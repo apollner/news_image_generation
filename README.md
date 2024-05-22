@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British court rules Julian Assange may make full appeal against US extradition on First Amendment grounds**
+**35-year-old man survives grizzly bear attack after encountering 2 of them at national park**
 
-You can read more about it [here](https://www.foxnews.com/world/british-court-rules-julian-assange-may-make-full-appeal-against-us-extradition-first-amendement-grounds).
+You can read more about it [here](https://abcnews.go.com/US/35-year-man-survives-grizzly-bear-attack-after/story?id=110424633).
 
 ## Requirements
 - Python 3.8
