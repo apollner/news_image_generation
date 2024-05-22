@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France to deploy more troops to troubled Pacific territory of New Caledonia**
+**Forbes Daily: Target Aims For Discounts As Inflation Hits Summer Staples**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/21/france-to-deploy-more-troops-to-troubled-pacific-territory-of-new-caledonia).
+You can read more about it [here](https://www.forbes.com/sites/daniellechemtob/2024/05/21/forbes-daily-target-aims-for-discounts-as-inflation-hits-summer-staples/).
 
 ## Requirements
 - Python 3.8
