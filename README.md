@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surviving reentry is the key goal for SpaceX's fourth Starship test flight**
+**Police to probe protocols during Scheffler arrest**
 
-You can read more about it [here](https://arstechnica.com/space/2024/05/surviving-reentry-is-the-key-goal-for-spacexs-fourth-starship-test-flight/).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/40192233/police-probe-protocols-scottie-scheffler-arrest).
 
 ## Requirements
 - Python 3.8
