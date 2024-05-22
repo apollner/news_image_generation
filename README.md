@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andraya Carter outlines the SUCCESSES of Caitlin Clark in the WNBA so far | Get Up**
+**Microplastics Found in Every Human Testicle Examined in New Study**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pk0PYLbCcug).
+You can read more about it [here](https://www.ign.com/articles/microplastics-found-in-every-human-testicle-examined-in-new-study).
 
 ## Requirements
 - Python 3.8
