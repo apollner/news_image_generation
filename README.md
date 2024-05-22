@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kensington Palace shares first official update regarding Princess Catherine’s return**
+**Andraya Carter outlines the SUCCESSES of Caitlin Clark in the WNBA so far | Get Up**
 
-You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/article288608420.html).
+You can read more about it [here](https://www.youtube.com/watch?v=pk0PYLbCcug).
 
 ## Requirements
 - Python 3.8
