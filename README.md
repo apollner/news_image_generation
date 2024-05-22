@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-NYC Mayor Rudy Giuliani pleads not guilty to felony charges in Arizona election interference case**
+**Surviving reentry is the key goal for SpaceX's fourth Starship test flight**
 
-You can read more about it [here](https://apnews.com/article/arizona-fake-electors-charges-2020-presidential-election-4987d0774412d95a3dac007e81d5c157).
+You can read more about it [here](https://arstechnica.com/space/2024/05/surviving-reentry-is-the-key-goal-for-spacexs-fourth-starship-test-flight/).
 
 ## Requirements
 - Python 3.8
