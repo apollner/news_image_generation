@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police to probe protocols during Scheffler arrest**
+**Bob Myers on the ECF 🗣️ 'Lights CANNOT BE TOO BRIGHT for Jayson Tatum & Celtics!' | NBA Countdown**
 
-You can read more about it [here](https://www.espn.com/golf/story/_/id/40192233/police-probe-protocols-scottie-scheffler-arrest).
+You can read more about it [here](https://www.youtube.com/watch?v=ySwrWtDIOmo).
 
 ## Requirements
 - Python 3.8
