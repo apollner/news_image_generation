@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli officials seize AP equipment and take down live shot of northern Gaza, citing new media law**
+**Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay**
 
-You can read more about it [here](https://apnews.com/article/live-transmission-israel-associated-press-57e8f662907334ba3599156276381190).
+You can read more about it [here](https://www.youtube.com/watch?v=fpX39HY7ujI).
 
 ## Requirements
 - Python 3.8
