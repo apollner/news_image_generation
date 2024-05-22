@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay**
+**Macy's beats lowly Q1 estimates, as it weighs a future between a turnaround or a buyout**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fpX39HY7ujI).
+You can read more about it [here](https://finance.yahoo.com/news/macys-beats-lowly-q1-estimates-as-it-weighs-between-a-turnaround-and-a-buyout-144307951.html).
 
 ## Requirements
 - Python 3.8
