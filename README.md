@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay**
+**France to deploy more troops to troubled Pacific territory of New Caledonia**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fpX39HY7ujI).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/21/france-to-deploy-more-troops-to-troubled-pacific-territory-of-new-caledonia).
 
 ## Requirements
 - Python 3.8
