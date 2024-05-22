@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karen Read murder trial testimony features contentious cross-examination of Jennifer McCabe**
+**Ex-NYC Mayor Rudy Giuliani pleads not guilty to felony charges in Arizona election interference case**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/karen-read-live-stream-today-murder-trial-day-15/).
+You can read more about it [here](https://apnews.com/article/arizona-fake-electors-charges-2020-presidential-election-4987d0774412d95a3dac007e81d5c157).
 
 ## Requirements
 - Python 3.8
