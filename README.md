@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sonos unveils new Ace Headphones!**
+**Israeli officials seize AP equipment and take down live shot of northern Gaza, citing new media law**
 
-You can read more about it [here](https://9to5mac.com/2024/05/21/sonos-officially-unveils-ace-their-highly-anticipated-headphones-and-answer-to-airpods-max/).
+You can read more about it [here](https://apnews.com/article/live-transmission-israel-associated-press-57e8f662907334ba3599156276381190).
 
 ## Requirements
 - Python 3.8
