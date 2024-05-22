@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Infected blood scandal: Sunak promises 'comprehensive' blood compensation**
+**What ICC arrest warrants mean for Israel, Benjamin Netanyahu and Hamas**
 
-You can read more about it [here](https://www.bbc.com/news/uk-69041672).
+You can read more about it [here](https://www.bbc.com/news/articles/cw4490z75v3o).
 
 ## Requirements
 - Python 3.8
