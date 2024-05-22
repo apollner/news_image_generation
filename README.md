@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macy's beats lowly Q1 estimates, as it weighs a future between a turnaround or a buyout**
+**Trump posts video referencing ‘unified Reich’ if reelected**
 
-You can read more about it [here](https://finance.yahoo.com/news/macys-beats-lowly-q1-estimates-as-it-weighs-between-a-turnaround-and-a-buyout-144307951.html).
+You can read more about it [here](https://www.cnn.com/2024/05/21/politics/trump-unified-reich-video/index.html).
 
 ## Requirements
 - Python 3.8
