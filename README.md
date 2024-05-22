@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microplastics Found in Every Human Testicle Examined in New Study**
+**Tornadoes, severe storms possible across Midwest: See maps of risk areas**
 
-You can read more about it [here](https://www.ign.com/articles/microplastics-found-in-every-human-testicle-examined-in-new-study).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/05/21/tornado-thunderstorm-midwest-severe-weather/).
 
 ## Requirements
 - Python 3.8
