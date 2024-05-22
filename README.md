@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media lost more than $300 million last quarter on very little revenue**
+**Warriors' Podziemski earns 2023-24 NBA All-Rookie First Team honors**
 
-You can read more about it [here](https://www.cnn.com/2024/05/20/business/trump-media-quarterly-results/index.html).
+You can read more about it [here](http://www.nbcsportsbayarea.com/nba/golden-state-warriors/brandin-podziemski-all-rookie-first-team-trayce-jackson-davis/1736703/).
 
 ## Requirements
 - Python 3.8
