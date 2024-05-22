@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay**
+**Defense rests without Trump taking the witness stand in his New York hush money trial**
 
-You can read more about it [here](https://www.youtube.com/watch?v=fpX39HY7ujI).
+You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-robert-costello-b1beb56a666c398ae5393ede16c326da).
 
 ## Requirements
 - Python 3.8
