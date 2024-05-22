@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defense rests without Trump taking the witness stand in his New York hush money trial**
+**Sonos unveils new Ace Headphones!**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-hush-money-robert-costello-b1beb56a666c398ae5393ede16c326da).
+You can read more about it [here](https://9to5mac.com/2024/05/21/sonos-officially-unveils-ace-their-highly-anticipated-headphones-and-answer-to-airpods-max/).
 
 ## Requirements
 - Python 3.8
