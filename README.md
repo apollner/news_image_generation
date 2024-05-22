@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump posts video referencing ‘unified Reich’ if reelected**
+**Microsoft's new Copilot AI agents act like virtual employees to automate tasks**
 
-You can read more about it [here](https://www.cnn.com/2024/05/21/politics/trump-unified-reich-video/index.html).
+You can read more about it [here](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents).
 
 ## Requirements
 - Python 3.8
