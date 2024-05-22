@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andraya Carter outlines the SUCCESSES of Caitlin Clark in the WNBA so far | Get Up**
+**Severe thunderstorms with possible tornadoes, giant hail and high winds forecast to rock the Midwest**
 
-You can read more about it [here](https://www.youtube.com/watch?v=pk0PYLbCcug).
+You can read more about it [here](https://www.nbcnews.com/news/weather/severe-thunderstorms-possible-tornadoes-giant-hail-high-winds-forecast-rcna153224).
 
 ## Requirements
 - Python 3.8
