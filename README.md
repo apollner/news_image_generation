@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What ICC arrest warrants mean for Israel, Benjamin Netanyahu and Hamas**
+**Oilers hold off Canucks in Game 7, advance to Western Final**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cw4490z75v3o).
+You can read more about it [here](https://www.nhl.com/news/edmonton-oilers-vancouver-canucks-game-7-recap-may-20).
 
 ## Requirements
 - Python 3.8
