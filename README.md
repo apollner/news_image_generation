@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LFCHD declares whooping cough an outbreak**
+**Sean 'Diddy' Combs’ former assistant says she doesn’t believe his apology**
 
-You can read more about it [here](https://www.wkyt.com/2024/05/20/lfchd-declares-whooping-cough-an-outbreak/).
+You can read more about it [here](https://www.youtube.com/watch?v=LZf9pVTLsAk).
 
 ## Requirements
 - Python 3.8
