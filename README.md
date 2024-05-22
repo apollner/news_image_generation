@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez Puts Her Wedding Ring on Display on Red Carpet Amid Ben Affleck Breakup Rumors - E! Online**
+**Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay**
 
-You can read more about it [here](https://www.eonline.com/news/1402026/jennifer-lopez-puts-her-wedding-ring-on-display-on-red-carpet-amid-ben-affleck-breakup-rumors).
+You can read more about it [here](https://www.youtube.com/watch?v=fpX39HY7ujI).
 
 ## Requirements
 - Python 3.8
