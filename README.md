@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dartmouth faculty votes 183 - 163 to censure Beilock**
+**Infected blood scandal: Sunak promises 'comprehensive' blood compensation**
 
-You can read more about it [here](https://www.thedartmouth.com/article/2024/05/dartmouth-faculty-votes-183-163-to-censure-beilock).
+You can read more about it [here](https://www.bbc.com/news/uk-69041672).
 
 ## Requirements
 - Python 3.8
