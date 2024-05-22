@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EXTENDED HIGHLIGHTS | 4-IN-A-ROW | Man City 3-1 West Ham | Premier League History Makers**
+**LFCHD declares whooping cough an outbreak**
 
-You can read more about it [here](https://www.youtube.com/watch?v=sAewmh-Lu8U).
+You can read more about it [here](https://www.wkyt.com/2024/05/20/lfchd-declares-whooping-cough-an-outbreak/).
 
 ## Requirements
 - Python 3.8
