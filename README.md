@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe thunderstorms with possible tornadoes, giant hail and high winds forecast to rock the Midwest**
+**Kensington Palace shares first official update regarding Princess Catherine’s return**
 
-You can read more about it [here](https://www.nbcnews.com/news/weather/severe-thunderstorms-possible-tornadoes-giant-hail-high-winds-forecast-rcna153224).
+You can read more about it [here](https://www.miamiherald.com/news/nation-world/world/article288608420.html).
 
 ## Requirements
 - Python 3.8
