@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One Month After Launch, AI Pin Maker Humane Seeks a Billion Dollar Sale**
+**Iran’s Supreme Leader Leads Funeral Prayers for President**
 
-You can read more about it [here](https://gizmodo.com/humane-ai-pin-selling-billion-1851493143).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjIvd29ybGQvbWlkZGxlZWFzdC9pcmFuLXByZXNpZGVudC1yYWlzaS1mdW5lcmFsLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
