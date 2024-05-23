@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck Goes Out to Dinner Solo Amid Jennifer Lopez Split Rumors**
+**Senate confirms 200th Biden judge as Democrats tout "major milestone"**
 
-You can read more about it [here](https://www.eonline.com/news/1402143/ben-affleck-goes-out-to-dinner-solo-amid-jennifer-lopez-split-rumors).
+You can read more about it [here](https://www.cbsnews.com/news/judicial-nominations-200-senate-confirmation-biden/).
 
 ## Requirements
 - Python 3.8
