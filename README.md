@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore Airlines turbulence left blood 'everywhere'; 20 remain in ICU**
+**Android Find My Device trackers are starting to ship**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/singapore-airlines-severe-turbulence-passengers-emergency-landing-rcna153435).
+You can read more about it [here](http://9to5google.com/2024/05/22/android-find-my-device-trackers-shipping/).
 
 ## Requirements
 - Python 3.8
