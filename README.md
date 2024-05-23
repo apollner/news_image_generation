@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA playoffs: Jaylen Brown's clutch 3 stuns Indiana as Celtics rip Game 1 from Pacers in OT**
+**Doomsday Glacier's Ticking Clock: Satellites Reveal “Vigorous Melting” Beneath Antarctica's Thwaites Glacier**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-jaylen-browns-clutch-3-stuns-indiana-as-celtics-rip-game-1-from-pacers-in-ot-030150092.html).
+You can read more about it [here](https://scitechdaily.com/doomsday-glaciers-ticking-clock-satellites-reveal-vigorous-melting-beneath-antarcticas-thwaites-glacier/).
 
 ## Requirements
 - Python 3.8
