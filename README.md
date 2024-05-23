@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doomsday Glacier's Ticking Clock: Satellites Reveal “Vigorous Melting” Beneath Antarctica's Thwaites Glacier**
+**China's Honor will have Google AI features, including Gemini, on its upcoming smartphones**
 
-You can read more about it [here](https://scitechdaily.com/doomsday-glaciers-ticking-clock-satellites-reveal-vigorous-melting-beneath-antarcticas-thwaites-glacier/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjIvaG9ub3Itd2lsbC1oYXZlLWdvb2dsZS1haS1mZWF0dXJlcy1vbi1pdHMtdXBjb21pbmctc21hcnRwaG9uZXMuaHRtbNIBZ2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzIyL2hvbm9yLXdpbGwtaGF2ZS1nb29nbGUtYWktZmVhdHVyZXMtb24taXRzLXVwY29taW5nLXNtYXJ0cGhvbmVzLmh0bWw?oc=5).
 
 ## Requirements
 - Python 3.8
