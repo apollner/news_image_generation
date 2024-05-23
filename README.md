@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Myers on the ECF 🗣️ 'Lights CANNOT BE TOO BRIGHT for Jayson Tatum & Celtics!' | NBA Countdown**
+**[Removed]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ySwrWtDIOmo).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
