@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Louisville Police Says Internal Investigation 'Ongoing' After Scheffler Arrest**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.si.com/golf/louisville-police-say-internal-investigation-ongoing-scottie-scheffler-arrest).
 
 ## Requirements
 - Python 3.8
