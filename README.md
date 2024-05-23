@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family says Hornets star LaMelo Ball drove over her son’s foot, sues player and team**
+**[Removed]**
 
-You can read more about it [here](https://www.wsoctv.com/news/local/family-says-hornets-star-lamelo-ball-drove-over-her-sons-foot-sues-player-team/NNDHLNYVTJHCBE53VOEEYIMBKE/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
