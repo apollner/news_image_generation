@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norway, Ireland and Spain say they will recognize a Palestinian state, deepening Israel's isolation**
+**Rishi Sunak calls UK national election for July 4**
 
-You can read more about it [here](https://apnews.com/article/norway-palestinian-state-ddfd774a23d39f77f5977b9c89c43dbc).
+You can read more about it [here](https://www.reuters.com/world/uk/rishi-sunak-calls-uk-national-election-july-4-2024-05-22/).
 
 ## Requirements
 - Python 3.8
