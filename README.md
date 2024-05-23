@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nathan Vasquez has sizable lead over Mike Schmidt in race to be Multnomah County district attorney**
+**Iran's supreme leader leads prayers at Ebrahim Raisi funeral**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm9wYi5vcmcvYXJ0aWNsZS8yMDI0LzA1LzIxL211bHRub21haC1jb3VudHktZGlzdHJpY3QtYXR0b3JuZXktbmF0aGFuLXZhc3F1ZXotbWlrZS1zY2htaWR0LXBvcnRsYW5kLW9yZWdvbi_SAYUBaHR0cHM6Ly93d3cub3BiLm9yZy9hcnRpY2xlLzIwMjQvMDUvMjEvbXVsdG5vbWFoLWNvdW50eS1kaXN0cmljdC1hdHRvcm5leS1uYXRoYW4tdmFzcXVlei1taWtlLXNjaG1pZHQtcG9ydGxhbmQtb3JlZ29uLz9vdXRwdXRUeXBlPWFtcA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/c7223epn3jdo).
 
 ## Requirements
 - Python 3.8
