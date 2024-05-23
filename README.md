@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Android Find My Device trackers are starting to ship**
+**Norway, Ireland and Spain say they will recognize a Palestinian state, deepening Israel's isolation**
 
-You can read more about it [here](http://9to5google.com/2024/05/22/android-find-my-device-trackers-shipping/).
+You can read more about it [here](https://apnews.com/article/norway-palestinian-state-ddfd774a23d39f77f5977b9c89c43dbc).
 
 ## Requirements
 - Python 3.8
