@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fish oil supplements may cause harm to the heart, study finds**
+**Doomsday Glacier's Ticking Clock: Satellites Reveal “Vigorous Melting” Beneath Antarctica's Thwaites Glacier**
 
-You can read more about it [here](https://www.cnn.com/2024/05/22/health/fish-oil-supplement-dangers-study-wellness/index.html).
+You can read more about it [here](https://scitechdaily.com/doomsday-glaciers-ticking-clock-satellites-reveal-vigorous-melting-beneath-antarcticas-thwaites-glacier/).
 
 ## Requirements
 - Python 3.8
