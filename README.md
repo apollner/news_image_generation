@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target’s stock dives after profit misses the mark, as sales fall again**
+**Sunak says UK election will be in the second half of the year**
 
-You can read more about it [here](https://www.marketwatch.com/story/targets-stock-dives-after-profit-misses-the-mark-amid-weakness-in-sales-of-discretionary-items-5802a931).
+You can read more about it [here](https://www.reuters.com/world/uk/uk-pm-sunak-asked-about-summer-election-rumours-says-vote-will-be-second-half-2024-05-22/).
 
 ## Requirements
 - Python 3.8
