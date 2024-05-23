@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tornadoes cause destruction in Iowa as deadly storms race across state**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxweather.com/weather-news/severe-weather-outbreak-midwest-tuesday).
 
 ## Requirements
 - Python 3.8
