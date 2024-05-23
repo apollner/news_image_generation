@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron James calls out Pacers for not fouling up by 3 points in Game 1 loss vs. Celtics**
+**‘Absolute tragedy': 2 dead, 3 hurt in Chester workplace shooting**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/lebron-james-calls-out-pacers-for-not-fouling-up-by-3-points-in-game-1-loss-vs-celtics/).
+You can read more about it [here](http://www.nbcphiladelphia.com/news/local/chester-shooting-business/3865307/).
 
 ## Requirements
 - Python 3.8
