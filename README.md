@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina governor signs ban on gender-affirming care for transgender minors**
+**Virginia father detained in Turks and Caicos for stray ammo pleads guilty**
 
-You can read more about it [here](https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-carolina-governor-signs-ban-gender-affirming-care-transgender-mi-rcna153382).
+You can read more about it [here](https://www.foxnews.com/us/virginia-father-detained-turks-caicos-stray-ammo-pleads-guilty).
 
 ## Requirements
 - Python 3.8
