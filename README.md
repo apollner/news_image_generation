@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doomsday Glacier's Ticking Clock: Satellites Reveal “Vigorous Melting” Beneath Antarctica's Thwaites Glacier**
+**Rudy Giuliani and other Trump allies plead not guilty in alleged election conspiracy**
 
-You can read more about it [here](https://scitechdaily.com/doomsday-glaciers-ticking-clock-satellites-reveal-vigorous-melting-beneath-antarcticas-thwaites-glacier/).
+You can read more about it [here](https://www.bbc.com/news/world-us-canada-69044111).
 
 ## Requirements
 - Python 3.8
