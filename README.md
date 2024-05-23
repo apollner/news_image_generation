@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Honor will have Google AI features, including Gemini, on its upcoming smartphones**
+**Nathan Vasquez has sizable lead over Mike Schmidt in race to be Multnomah County district attorney**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjIvaG9ub3Itd2lsbC1oYXZlLWdvb2dsZS1haS1mZWF0dXJlcy1vbi1pdHMtdXBjb21pbmctc21hcnRwaG9uZXMuaHRtbNIBZ2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzIyL2hvbm9yLXdpbGwtaGF2ZS1nb29nbGUtYWktZmVhdHVyZXMtb24taXRzLXVwY29taW5nLXNtYXJ0cGhvbmVzLmh0bWw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm9wYi5vcmcvYXJ0aWNsZS8yMDI0LzA1LzIxL211bHRub21haC1jb3VudHktZGlzdHJpY3QtYXR0b3JuZXktbmF0aGFuLXZhc3F1ZXotbWlrZS1zY2htaWR0LXBvcnRsYW5kLW9yZWdvbi_SAYUBaHR0cHM6Ly93d3cub3BiLm9yZy9hcnRpY2xlLzIwMjQvMDUvMjEvbXVsdG5vbWFoLWNvdW50eS1kaXN0cmljdC1hdHRvcm5leS1uYXRoYW4tdmFzcXVlei1taWtlLXNjaG1pZHQtcG9ydGxhbmQtb3JlZ29uLz9vdXRwdXRUeXBlPWFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
