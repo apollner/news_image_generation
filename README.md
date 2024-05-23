@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly tornado devastates Iowa town as severe weather moves east**
+**Diddy's ex 'heartbroken' for Cassie after hotel attack video leak: 'I know exactly how she feels'**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/deadly-tornado-devastates-iowa-town-severe-weather-moves-south-rcna153430).
+You can read more about it [here](https://www.foxnews.com/entertainment/diddys-ex-heartbroken-cassie-hotel-attack-video-leak-i-know-exactly-how-she-feels).
 
 ## Requirements
 - Python 3.8
