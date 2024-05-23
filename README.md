@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes touch down in Iowa during 'very dangerous' storms**
+**[Removed]**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/weather/2024/05/21/iowa-national-weather-service-severe-weather-outlook-des-moines-readar/73783200007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
