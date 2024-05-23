@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How ‘The Good Doctor’ Series Finale Handled the Death of [SPOILER] — and Took Shape After a ‘Downsized’ Season 7**
+**New Covid FLiRT variants spark concerns of a summer spike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RoZS1nb29kLWRvY3Rvci1zZXJpZXMtZmluYWxlLWRyLWdsYXNzbWFuLWRlYXRoLTEyMzYwMTA4MzQv0gFgaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L3R2L25ld3MvdGhlLWdvb2QtZG9jdG9yLXNlcmllcy1maW5hbGUtZHItZ2xhc3NtYW4tZGVhdGgtMTIzNjAxMDgzNC9hbXAv?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html).
 
 ## Requirements
 - Python 3.8
