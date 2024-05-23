@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Absolute tragedy': 2 dead, 3 hurt in Chester workplace shooting**
+**Officials change course amid outrage over bail terms for Indian teen accused in fatal drunk driving accident**
 
-You can read more about it [here](http://www.nbcphiladelphia.com/news/local/chester-shooting-business/3865307/).
+You can read more about it [here](https://www.cbsnews.com/news/india-teen-drunk-driving-deaths-bail-terms-essay-changed-amid-outrage/).
 
 ## Requirements
 - Python 3.8
