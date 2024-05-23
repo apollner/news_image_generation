@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officials change course amid outrage over bail terms for Indian teen accused in fatal drunk driving accident**
+**Singapore Airlines turbulence left blood 'everywhere'; 20 remain in ICU**
 
-You can read more about it [here](https://www.cbsnews.com/news/india-teen-drunk-driving-deaths-bail-terms-essay-changed-amid-outrage/).
+You can read more about it [here](https://www.nbcnews.com/news/world/singapore-airlines-severe-turbulence-passengers-emergency-landing-rcna153435).
 
 ## Requirements
 - Python 3.8
