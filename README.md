@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes cause destruction in Iowa as deadly storms race across state**
+**South Carolina governor signs ban on gender-affirming care for transgender minors**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/severe-weather-outbreak-midwest-tuesday).
+You can read more about it [here](https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-carolina-governor-signs-ban-gender-affirming-care-transgender-mi-rcna153382).
 
 ## Requirements
 - Python 3.8
