@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate confirms 200th Biden judge as Democrats tout "major milestone"**
+**LeBron James calls out Pacers for not fouling up by 3 points in Game 1 loss vs. Celtics**
 
-You can read more about it [here](https://www.cbsnews.com/news/judicial-nominations-200-senate-confirmation-biden/).
+You can read more about it [here](https://www.cbssports.com/nba/news/lebron-james-calls-out-pacers-for-not-fouling-up-by-3-points-in-game-1-loss-vs-celtics/).
 
 ## Requirements
 - Python 3.8
