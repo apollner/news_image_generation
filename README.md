@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diddy's ex 'heartbroken' for Cassie after hotel attack video leak: 'I know exactly how she feels'**
+**Target’s stock dives after profit misses the mark, as sales fall again**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/diddys-ex-heartbroken-cassie-hotel-attack-video-leak-i-know-exactly-how-she-feels).
+You can read more about it [here](https://www.marketwatch.com/story/targets-stock-dives-after-profit-misses-the-mark-amid-weakness-in-sales-of-discretionary-items-5802a931).
 
 ## Requirements
 - Python 3.8
