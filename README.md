@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak calls UK national election for July 4**
+**Healthy diets with only 10% ultraprocessed foods may raise risk of cognitive decline, stroke**
 
-You can read more about it [here](https://www.reuters.com/world/uk/rishi-sunak-calls-uk-national-election-july-4-2024-05-22/).
+You can read more about it [here](https://www.cnn.com/2024/05/22/health/ultraprocessed-food-stroke-cognitive-decline-wellness/index.html).
 
 ## Requirements
 - Python 3.8
