@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's supreme leader leads prayers at Ebrahim Raisi funeral**
+**Fish oil supplements may cause harm to the heart, study finds**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c7223epn3jdo).
+You can read more about it [here](https://www.cnn.com/2024/05/22/health/fish-oil-supplement-dangers-study-wellness/index.html).
 
 ## Requirements
 - Python 3.8
