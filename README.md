@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunak says UK election will be in the second half of the year**
+**One Month After Launch, AI Pin Maker Humane Seeks a Billion Dollar Sale**
 
-You can read more about it [here](https://www.reuters.com/world/uk/uk-pm-sunak-asked-about-summer-election-rumours-says-vote-will-be-second-half-2024-05-22/).
+You can read more about it [here](https://gizmodo.com/humane-ai-pin-selling-billion-1851493143).
 
 ## Requirements
 - Python 3.8
