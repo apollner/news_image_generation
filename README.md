@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran’s Supreme Leader Leads Funeral Prayers for President**
+**Ben Affleck Goes Out to Dinner Solo Amid Jennifer Lopez Split Rumors**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjIvd29ybGQvbWlkZGxlZWFzdC9pcmFuLXByZXNpZGVudC1yYWlzaS1mdW5lcmFsLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://www.eonline.com/news/1402143/ben-affleck-goes-out-to-dinner-solo-amid-jennifer-lopez-split-rumors).
 
 ## Requirements
 - Python 3.8
