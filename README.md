@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia father detained in Turks and Caicos for stray ammo pleads guilty**
+**NBA playoffs: Jaylen Brown's clutch 3 stuns Indiana as Celtics rip Game 1 from Pacers in OT**
 
-You can read more about it [here](https://www.foxnews.com/us/virginia-father-detained-turks-caicos-stray-ammo-pleads-guilty).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-jaylen-browns-clutch-3-stuns-indiana-as-celtics-rip-game-1-from-pacers-in-ot-030150092.html).
 
 ## Requirements
 - Python 3.8
