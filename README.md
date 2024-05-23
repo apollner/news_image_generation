@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**T-Mobile Is Raising Prices on Some of Its Older Plans, Starting With Your Next Bill**
+**Deadly tornado devastates Iowa town as severe weather moves east**
 
-You can read more about it [here](https://www.cnet.com/tech/mobile/t-mobile-is-raising-prices-on-some-of-its-older-plans-starting-with-your-next-bill/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/deadly-tornado-devastates-iowa-town-severe-weather-moves-south-rcna153430).
 
 ## Requirements
 - Python 3.8
