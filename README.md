@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Garbage argument': Classified docs hearing gets heated over charges against Trump co-defendant Walt Nauta**
+**Healthy diets with only 10% ultraprocessed foods may raise risk of cognitive decline, stroke**
 
-You can read more about it [here](https://abcnews.go.com/US/garbage-argument-classified-docs-hearing-gets-heated-charges/story?id=110467763).
+You can read more about it [here](https://www.cnn.com/2024/05/22/health/ultraprocessed-food-stroke-cognitive-decline-wellness/index.html).
 
 ## Requirements
 - Python 3.8
