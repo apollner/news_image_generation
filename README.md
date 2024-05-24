@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Healthy diets with only 10% ultraprocessed foods may raise risk of cognitive decline, stroke**
+**Passengers describe 'sheer terror' after Singapore-bound flight hits turbulence**
 
-You can read more about it [here](https://www.cnn.com/2024/05/22/health/ultraprocessed-food-stroke-cognitive-decline-wellness/index.html).
+You can read more about it [here](https://www.foxbusiness.com/economy/sheer-terror-passengers-singapore-airlines-flight-describe-nightmare-after-plane-hit-severe-turbulence).
 
 ## Requirements
 - Python 3.8
