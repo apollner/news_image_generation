@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DA Mike Schmidt Concedes While Key County Commissioner Races Inch Toward Runoffs**
+**Boeing Starliner delayed again as NASA assesses impact of helium leak**
 
-You can read more about it [here](https://www.wweek.com/news/county/2024/05/22/da-mike-schmidt-concedes-while-key-county-commission-races-inch-toward-run-off/).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/05/22/boeing-starliner-delay-launch-date/).
 
 ## Requirements
 - Python 3.8
