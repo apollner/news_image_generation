@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is holding a rally in the South Bronx as he tries to woo Black and Hispanic voters**
+**Families of Israeli captives show video of female soldiers taken by Hamas**
 
-You can read more about it [here](https://apnews.com/article/trump-bronx-rally-minority-voters-00fae754f78333111c508d6e740a3610).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/23/families-of-israeli-captives-show-video-of-female-soldiers-taken-by-hamas).
 
 ## Requirements
 - Python 3.8
