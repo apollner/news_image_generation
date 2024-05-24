@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**9 dead, 54 injured as wind causes stage collapse at Mexico election rally**
+**Louisiana Legislature approves bill classifying abortion pills as controlled dangerous substances**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8yMy9hbWVyaWNhcy9tZXhpY28tc3RhZ2UtY29sbGFwc2UtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1pbnRsLWhuay9pbmRleC5odG1s0gFhaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8yMy9hbWVyaWNhcy9tZXhpY28tc3RhZ2UtY29sbGFwc2UtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1pbnRsLWhuaw?oc=5).
+You can read more about it [here](https://apnews.com/article/abortion-pills-louisiana-legislature-controlled-substance-06ea3e8df86b72b473efe8fc71054ddf).
 
 ## Requirements
 - Python 3.8
