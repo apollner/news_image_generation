@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Families of Israeli hostages release video of female soldiers being captured by Hamas**
+**NBA Playoffs: Luka Dončić, Kyrie Irving lead Mavericks to win in Game 1 thriller**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-gaza-hostages-dcb39658d1afcd00341d2c1cd54c38b0).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-luka-doncic-kyrie-irving-lead-mavericks-to-win-in-game-1-thriller-030356777.html).
 
 ## Requirements
 - Python 3.8
