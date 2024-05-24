@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Bird flu: Second US worker catches infection on dairy farm**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/c511mnxyj33o).
 
 ## Requirements
 - Python 3.8
