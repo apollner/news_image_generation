@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu: Second US worker catches infection on dairy farm**
+**Ebrahim Raisi funeral: Iran prepares to bury late president killed in helicopter crash**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c511mnxyj33o).
+You can read more about it [here](https://apnews.com/article/iran-president-raisi-helicopter-crash-funerals-aa975288bab8a63af93c8c5f9a31a615).
 
 ## Requirements
 - Python 3.8
