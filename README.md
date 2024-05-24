@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 dead, dozens injured in tornado that devastated Iowa town**
+**Live Nation: US Department of Justice to sue TicketMaster owner**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9kZWFkbHktdG9ybmFkby1kZXZhc3RhdGVzLWlvd2EtdG93bi1zZXZlcmUtd2VhdGhlci1tb3Zlcy1zb3V0aC1yY25hMTUzNDMw0gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE1MzQzMA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
 
 ## Requirements
 - Python 3.8
