@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Playoffs: Luka Dončić, Kyrie Irving lead Mavericks to win in Game 1 thriller**
+**Live Nation: US Department of Justice to sue TicketMaster owner**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-luka-doncic-kyrie-irving-lead-mavericks-to-win-in-game-1-thriller-030356777.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
 
 ## Requirements
 - Python 3.8
