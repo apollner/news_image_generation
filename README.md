@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark's Fever Fall to 0-5, Disappoint WNBA Fans with Loss to Loyd, Storm**
+**Live Nation: US Department of Justice to sue TicketMaster owner**
 
-You can read more about it [here](https://bleacherreport.com/articles/10122280-caitlin-clarks-fever-fall-to-0-5-disappoint-wnba-fans-with-loss-to-loyd-storm).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
 
 ## Requirements
 - Python 3.8
