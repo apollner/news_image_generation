@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**About 1 in 9 children in the US have been diagnosed with ADHD**
+**Rishi Sunak announces UK general election for Thursday 4 July**
 
-You can read more about it [here](https://www.newscientist.com/article/2432684-about-1-in-9-children-in-the-us-have-been-diagnosed-with-adhd/).
+You can read more about it [here](https://www.bbc.com/news/uk-politics-69050450).
 
 ## Requirements
 - Python 3.8
