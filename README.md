@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak announces UK general election for Thursday 4 July**
+**Nvidia stock pops 7% to top $1,000 after earnings beat forecasts, it announces stock split and dividend hike**
 
-You can read more about it [here](https://www.bbc.com/news/uk-politics-69050450).
+You can read more about it [here](https://finance.yahoo.com/news/nvidia-stock-pops-7-to-top-1000-after-earnings-beat-forecasts-it-announces-stock-split-and-dividend-hike-202405568.html).
 
 ## Requirements
 - Python 3.8
