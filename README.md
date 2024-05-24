@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock pops 4% after earnings beat forecasts, announces stock split and dividend hike**
+**'Garbage argument': Classified docs hearing gets heated over charges against Trump co-defendant Walt Nauta**
 
-You can read more about it [here](https://finance.yahoo.com/news/nvidia-stock-pops-4-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405628.html).
+You can read more about it [here](https://abcnews.go.com/US/garbage-argument-classified-docs-hearing-gets-heated-charges/story?id=110467763).
 
 ## Requirements
 - Python 3.8
