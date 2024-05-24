@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisiana Legislature approves bill classifying abortion pills as controlled dangerous substances**
+**Potentially habitable 'exo-Venus' with Earth-like temperature discovered**
 
-You can read more about it [here](https://apnews.com/article/abortion-pills-louisiana-legislature-controlled-substance-06ea3e8df86b72b473efe8fc71054ddf).
+You can read more about it [here](https://phys.org/news/2024-05-potentially-habitable-exo-venus-earth.html).
 
 ## Requirements
 - Python 3.8
