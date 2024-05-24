@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department sues to break up Live Nation, parent of Ticketmaster**
+**9 dead, 54 injured as wind causes stage collapse at Mexico election rally**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8yMy9hbWVyaWNhcy9tZXhpY28tc3RhZ2UtY29sbGFwc2UtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1pbnRsLWhuay9pbmRleC5odG1s0gFhaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8yMy9hbWVyaWNhcy9tZXhpY28tc3RhZ2UtY29sbGFwc2UtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1pbnRsLWhuaw?oc=5).
 
 ## Requirements
 - Python 3.8
