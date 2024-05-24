@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luka Doncic, Kyrie Irving lead Mavs past Timberwolves in Game 1**
+**DA Mike Schmidt Concedes While Key County Commissioner Races Inch Toward Runoffs**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40200909/luka-doncic-leads-mavericks-timberwolves-back-forth-game-1).
+You can read more about it [here](https://www.wweek.com/news/county/2024/05/22/da-mike-schmidt-concedes-while-key-county-commission-races-inch-toward-run-off/).
 
 ## Requirements
 - Python 3.8
