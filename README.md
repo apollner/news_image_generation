@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Playoffs: Luka Dončić, Kyrie Irving lead Mavericks to win in Game 1 thriller**
+**Boeing Starliner delayed again as NASA assesses impact of helium leak**
 
-You can read more about it [here](https://sports.yahoo.com/nba-playoffs-luka-doncic-kyrie-irving-lead-mavericks-to-win-in-game-1-thriller-030356777.html).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/05/22/boeing-starliner-delay-launch-date/).
 
 ## Requirements
 - Python 3.8
