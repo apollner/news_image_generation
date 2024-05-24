@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Families of Israeli captives show video of female soldiers taken by Hamas**
+**2024 will be the most active hurricane season in the Atlantic**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/23/families-of-israeli-captives-show-video-of-female-soldiers-taken-by-hamas).
+You can read more about it [here](https://www.npr.org/2024/05/23/1251003581/2024-atlantic-hurricane-season-noaa-forecast).
 
 ## Requirements
 - Python 3.8
