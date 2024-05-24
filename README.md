@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palm Beach housekeepers are making $150,000 a year due to massive demand from the wealthy**
+**Justice Department sues to break up Live Nation, parent of Ticketmaster**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/23/palm-beach-housekeepers-massive-demand.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html).
 
 ## Requirements
 - Python 3.8
