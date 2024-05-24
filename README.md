@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Nation: US Department of Justice to sue TicketMaster owner**
+**Boeing Starliner delayed again as NASA assesses impact of helium leak**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/05/22/boeing-starliner-delay-launch-date/).
 
 ## Requirements
 - Python 3.8
