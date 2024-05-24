@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SWAT team seen at South Florida home of rapper Sean Kingston**
+**Families of Israeli captives show video of female soldiers taken by Hamas**
 
-You can read more about it [here](https://www.youtube.com/watch?v=CyZhcyoS7HE).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/23/families-of-israeli-captives-show-video-of-female-soldiers-taken-by-hamas).
 
 ## Requirements
 - Python 3.8
