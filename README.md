@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snowflake stock rises while e.l.f slides in after-hours trading**
+**NBA Playoffs: Luka Dončić, Kyrie Irving lead Mavericks to win in Game 1 thriller**
 
-You can read more about it [here](https://finance.yahoo.com/video/snowflake-stock-rises-while-e-214612186.html).
+You can read more about it [here](https://sports.yahoo.com/nba-playoffs-luka-doncic-kyrie-irving-lead-mavericks-to-win-in-game-1-thriller-030356777.html).
 
 ## Requirements
 - Python 3.8
