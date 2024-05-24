@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Rise as Nvidia Results Boost Tech Companies: Markets Wrap (Bloomberg)**
+**Live Nation: US Department of Justice to sue TicketMaster owner**
 
-You can read more about it [here](https://finance.yahoo.com/news/dollar-firms-us-yields-rise-222127525.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
 
 ## Requirements
 - Python 3.8
