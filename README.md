@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Nation: US Department of Justice to sue TicketMaster owner**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
