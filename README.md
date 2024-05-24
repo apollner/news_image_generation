@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potentially habitable 'exo-Venus' with Earth-like temperature discovered**
+**Cop disciplined for bodycam being off in Scottie Scheffler case**
 
-You can read more about it [here](https://phys.org/news/2024-05-potentially-habitable-exo-venus-earth.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVzcG4uY29tL2dvbGYvc3RvcnkvXy9pZC80MDIwNDIyMi9vZmZpY2VyLWRpc2NpcGxpbmVkLWJvZHljYW0tYmVpbmctc2NvdHRpZS1zY2hlZmZsZXItaW5jaWRlbnTSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
