@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Passengers describe 'sheer terror' after Singapore-bound flight hits turbulence**
+**Microsoft CEO Bashes Human-Like AI After OpenAI's Scarlett Johansson Scandal**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/sheer-terror-passengers-singapore-airlines-flight-describe-nightmare-after-plane-hit-severe-turbulence).
+You can read more about it [here](https://futurism.com/the-byte/microsoft-ceo-openai-ai-scarlett-johansson).
 
 ## Requirements
 - Python 3.8
