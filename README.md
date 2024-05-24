@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Healthy diets with only 10% ultraprocessed foods may raise risk of cognitive decline, stroke**
+**Nvidia stock pops 4% after earnings beat forecasts, announces stock split and dividend hike**
 
-You can read more about it [here](https://www.cnn.com/2024/05/22/health/ultraprocessed-food-stroke-cognitive-decline-wellness/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/nvidia-stock-pops-4-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405628.html).
 
 ## Requirements
 - Python 3.8
