@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's Copilot+ Plans + Surface Pro and Laptop | Engadget Podcast**
+**Trump is holding a rally in the South Bronx as he tries to woo Black and Hispanic voters**
 
-You can read more about it [here](https://www.youtube.com/watch?v=xJ0UYuNhfos).
+You can read more about it [here](https://apnews.com/article/trump-bronx-rally-minority-voters-00fae754f78333111c508d6e740a3610).
 
 ## Requirements
 - Python 3.8
