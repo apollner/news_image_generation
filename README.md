@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Nation: US Department of Justice to sue TicketMaster owner**
+**Elvis' Graceland alleged auction fraud catches eyes of ‘interested’ FBI officials: reports**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
+You can read more about it [here](https://nypost.com/2024/05/23/us-news/elvis-graceland-alleged-auction-fraud-catches-eyes-of-interested-fbi-officials-reports/).
 
 ## Requirements
 - Python 3.8
