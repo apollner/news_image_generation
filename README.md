@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock pops 7% to top $1,000 after earnings beat forecasts, it announces stock split and dividend hike**
+**Caitlin Clark's Fever Fall to 0-5, Disappoint WNBA Fans with Loss to Loyd, Storm**
 
-You can read more about it [here](https://finance.yahoo.com/news/nvidia-stock-pops-7-to-top-1000-after-earnings-beat-forecasts-it-announces-stock-split-and-dividend-hike-202405568.html).
+You can read more about it [here](https://bleacherreport.com/articles/10122280-caitlin-clarks-fever-fall-to-0-5-disappoint-wnba-fans-with-loss-to-loyd-storm).
 
 ## Requirements
 - Python 3.8
