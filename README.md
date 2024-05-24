@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft CEO Bashes Human-Like AI After OpenAI's Scarlett Johansson Scandal**
+**Families of Israeli hostages release video of female soldiers being captured by Hamas**
 
-You can read more about it [here](https://futurism.com/the-byte/microsoft-ceo-openai-ai-scarlett-johansson).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-gaza-hostages-dcb39658d1afcd00341d2c1cd54c38b0).
 
 ## Requirements
 - Python 3.8
