@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ebrahim Raisi funeral: Iran prepares to bury late president killed in helicopter crash**
+**US service member critically injured at Gaza aid pier: report**
 
-You can read more about it [here](https://apnews.com/article/iran-president-raisi-helicopter-crash-funerals-aa975288bab8a63af93c8c5f9a31a615).
+You can read more about it [here](https://nypost.com/2024/05/23/world-news/us-service-member-critically-injured-2-other-troops-hurt-at-gaza-aid-pier-report/).
 
 ## Requirements
 - Python 3.8
