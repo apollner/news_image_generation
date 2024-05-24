@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cop disciplined for bodycam being off in Scottie Scheffler case**
+**Microsoft's Copilot+ Plans + Surface Pro and Laptop | Engadget Podcast**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVzcG4uY29tL2dvbGYvc3RvcnkvXy9pZC80MDIwNDIyMi9vZmZpY2VyLWRpc2NpcGxpbmVkLWJvZHljYW0tYmVpbmctc2NvdHRpZS1zY2hlZmZsZXItaW5jaWRlbnTSAQA?oc=5).
+You can read more about it [here](https://www.youtube.com/watch?v=xJ0UYuNhfos).
 
 ## Requirements
 - Python 3.8
