@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Nation: US Department of Justice to sue TicketMaster owner**
+**Luka Doncic, Kyrie Irving lead Mavs past Timberwolves in Game 1**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22k054z5zo).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40200909/luka-doncic-leads-mavericks-timberwolves-back-forth-game-1).
 
 ## Requirements
 - Python 3.8
