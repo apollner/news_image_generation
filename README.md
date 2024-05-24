@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner delayed again as NASA assesses impact of helium leak**
+**About 1 in 9 children in the US have been diagnosed with ADHD**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/05/22/boeing-starliner-delay-launch-date/).
+You can read more about it [here](https://www.newscientist.com/article/2432684-about-1-in-9-children-in-the-us-have-been-diagnosed-with-adhd/).
 
 ## Requirements
 - Python 3.8
