@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner delayed again as NASA assesses impact of helium leak**
+**Snowflake stock rises while e.l.f slides in after-hours trading**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/05/22/boeing-starliner-delay-launch-date/).
+You can read more about it [here](https://finance.yahoo.com/video/snowflake-stock-rises-while-e-214612186.html).
 
 ## Requirements
 - Python 3.8
