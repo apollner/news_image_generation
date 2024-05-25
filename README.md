@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Benjamin Netanyahu to address Congress, Speaker Mike Johnson says**
+**Elon Musk says he opposes US tariffs on Chinese electric vehicles**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/benjamin-netanyahu-address-congress-speaker-mike-johnson-says-rcna153847).
+You can read more about it [here](https://www.bbc.com/news/articles/cq55zd2xjreo).
 
 ## Requirements
 - Python 3.8
