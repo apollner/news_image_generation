@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Morgan Spurlock, ‘Super Size Me’ Director, Dies at 53**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2024/film/obituaries-people-news/morgan-spurlock-dead-super-size-me-1236015338/).
 
 ## Requirements
 - Python 3.8
