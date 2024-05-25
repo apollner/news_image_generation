@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Political consultant behind fake Biden robocalls faces $6 million fine and criminal charges**
+**The HPV vaccine prevents head and neck cancers in men, study suggests**
 
-You can read more about it [here](https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/hpv-vaccine-linked-lower-rates-head-neck-cancer-males-study-finds-rcna153759).
 
 ## Requirements
 - Python 3.8
