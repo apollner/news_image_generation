@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Many feared dead in landslide in remote Papua New Guinea village**
+**Obama Is a Surprise Guest Among Allies at Biden's State Dinner for Kenya**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/landslide-remote-papua-new-guinea-village-kills-about-100-abc-says-2024-05-24/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjMvdXMvcG9saXRpY3MvYmlkZW4tc3RhdGUtZGlubmVyLWtlbnlhLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
