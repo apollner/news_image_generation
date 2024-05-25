@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The HPV vaccine prevents head and neck cancers in men, study suggests**
+**Sean Kingston, mother arrested after singer's Florida mansion raided**
 
-You can read more about it [here](https://www.nbcnews.com/health/health-news/hpv-vaccine-linked-lower-rates-head-neck-cancer-males-study-finds-rcna153759).
+You can read more about it [here](https://www.cbsnews.com/miami/news/large-police-investigation-at-southwest-ranches-mansion-believed-to-be-owned-by-singer-sean-kingston/).
 
 ## Requirements
 - Python 3.8
