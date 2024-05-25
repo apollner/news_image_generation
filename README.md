@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics star takes surprise shot at players after All-NBA snub**
+**Nvidia's split of soaring stock could boost retail investor appeal, Dow chances**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbNIBe2h0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5).
+You can read more about it [here](https://www.reuters.com/markets/us/nvidias-split-soaring-stock-could-boost-retail-investor-appeal-dow-chances-2024-05-23/).
 
 ## Requirements
 - Python 3.8
