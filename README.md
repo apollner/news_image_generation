@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says he opposes US tariffs on Chinese electric vehicles**
+**3 US service members treated for injuries related to pier off Gaza: CENTCOM**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cq55zd2xjreo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC8zLXVzLXNlcnZpY2UtbWVtYmVycy10cmVhdGVkLWluanVyaWVzLXJlbGF0ZWQtcGllci1nYXphL3N0b3J5P2lkPTExMDUxOTU3NNIBc2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0ludGVybmF0aW9uYWwvMy11cy1zZXJ2aWNlLW1lbWJlcnMtdHJlYXRlZC1pbmp1cmllcy1yZWxhdGVkLXBpZXItZ2F6YS9zdG9yeT9pZD0xMTA1MTk1NzQ?oc=5).
 
 ## Requirements
 - Python 3.8
