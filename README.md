@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cavaliers fire coach J.B. Bickerstaff despite back-to-back playoff appearances and steady progress**
+**NCAA, Power Five conferences vote to approve $2.8B settlement in House, Hubbard and Carter cases**
 
-You can read more about it [here](https://apnews.com/article/cavaliers-bickerstaff-fired-e1dbec3e48892d523f30484307183918).
+You can read more about it [here](https://sports.yahoo.com/ncaa-power-five-conferences-vote-to-approve-28b-settlement-in-house-hubbard-and-carter-cases-001736810.html).
 
 ## Requirements
 - Python 3.8
