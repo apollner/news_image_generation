@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowans cleaning up after tornadoes could see more severe weather overnight**
+**Ben Affleck ditches wedding ring again while arriving to movie set amid Jennifer Lopez split rumors**
 
-You can read more about it [here](https://www.kcci.com/article/iowa-weather-severe-storms-forecast/60888025).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNS8yMy9lbnRlcnRhaW5tZW50L2Jlbi1hZmZsZWNrLWRpdGNoZXMtd2VkZGluZy1yaW5nLWFnYWluLWFtaWQtamVubmlmZXItbG9wZXotc3BsaXQtcnVtb3JzL9IBeWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNS8yMy9lbnRlcnRhaW5tZW50L2Jlbi1hZmZsZWNrLWRpdGNoZXMtd2VkZGluZy1yaW5nLWFnYWluLWFtaWQtamVubmlmZXItbG9wZXotc3BsaXQtcnVtb3JzL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
