@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New lawsuit accuses Sean 'Diddy' Combs of sexually abusing college student in the 1990s**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/diddy-sean-combs-sexual-assault-lawsuit-3a64e5b28d87fb76051865b9e47eba67).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
