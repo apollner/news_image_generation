@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama Is a Surprise Guest Among Allies at Biden's State Dinner for Kenya**
+**Celtics star takes surprise shot at players after All-NBA snub**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjMvdXMvcG9saXRpY3MvYmlkZW4tc3RhdGUtZGlubmVyLWtlbnlhLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbNIBe2h0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
