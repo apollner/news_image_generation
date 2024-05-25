@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sky high housing prices impacting The Bay Area; Mortgage rates up across the country**
+**Celtics handle Pacers, take 2-0 Eastern Conference finals lead**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bT24PPQ-iao).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40207465/celtics-handle-pacers-take-2-0-eastern-conference-finals-lead).
 
 ## Requirements
 - Python 3.8
