@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX's Starship is getting ready to take off again in June**
+**Travis Kelce joins Andy Reid, Patrick Mahomes in defending Harrison Butker, calls Chiefs kicker 'great person'**
 
-You can read more about it [here](https://www.theverge.com/2024/5/24/24163954/spacex-starship-fourth-test-flight-june).
+You can read more about it [here](https://www.cbssports.com/nfl/news/travis-kelce-joins-andy-reid-patrick-mahomes-in-defending-harrison-butker-calls-chiefs-kicker-great-person/).
 
 ## Requirements
 - Python 3.8
