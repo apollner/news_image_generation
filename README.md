@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia CEO Jensen Huang: We're building AI factories**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/video/nvidia-ceo-jensen-huang-were-110014107.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
