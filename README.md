@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's split of soaring stock could boost retail investor appeal, Dow chances**
+**Nvidia CEO Jensen Huang: We're building AI factories**
 
-You can read more about it [here](https://www.reuters.com/markets/us/nvidias-split-soaring-stock-could-boost-retail-investor-appeal-dow-chances-2024-05-23/).
+You can read more about it [here](https://finance.yahoo.com/video/nvidia-ceo-jensen-huang-were-110014107.html).
 
 ## Requirements
 - Python 3.8
