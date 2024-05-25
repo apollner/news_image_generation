@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures: Nvidia Soars But Stock Market Has Ugly Day; Deckers Jumps Late**
+**Segantii Faced $1 Billion in Withdrawal Requests Before Move to Shut**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-soars-deckers-jumps-late/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-24/segantii-redemption-requests-hit-1-billion-before-move-to-shut).
 
 ## Requirements
 - Python 3.8
