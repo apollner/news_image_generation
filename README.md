@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US service member critically injured at Gaza aid pier: report**
+**Spotify to shut off Car Thing for good, leading users to demand refunds**
 
-You can read more about it [here](https://nypost.com/2024/05/23/world-news/us-service-member-critically-injured-2-other-troops-hurt-at-gaza-aid-pier-report/).
+You can read more about it [here](https://techcrunch.com/2024/05/23/spotify-to-shut-off-car-thing-for-good-leading-users-to-demand-refunds/).
 
 ## Requirements
 - Python 3.8
