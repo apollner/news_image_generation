@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce joins Andy Reid, Patrick Mahomes in defending Harrison Butker, calls Chiefs kicker 'great person'**
+**Tesla CEO Elon Musk says he opposes EV tax incentives, tariffs on Chinese EVs**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/travis-kelce-joins-andy-reid-patrick-mahomes-in-defending-harrison-butker-calls-chiefs-kicker-great-person/).
+You can read more about it [here](https://www.foxbusiness.com/markets/tesla-ceo-elon-musk-opposes-ev-tax-incentives-tariffs-chinese-evs).
 
 ## Requirements
 - Python 3.8
