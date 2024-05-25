@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify to shut off Car Thing for good, leading users to demand refunds**
+**Cavaliers fire coach J.B. Bickerstaff despite back-to-back playoff appearances and steady progress**
 
-You can read more about it [here](https://techcrunch.com/2024/05/23/spotify-to-shut-off-car-thing-for-good-leading-users-to-demand-refunds/).
+You can read more about it [here](https://apnews.com/article/cavaliers-bickerstaff-fired-e1dbec3e48892d523f30484307183918).
 
 ## Requirements
 - Python 3.8
