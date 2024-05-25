@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla CEO Elon Musk says he opposes EV tax incentives, tariffs on Chinese EVs**
+**Watch Live: "Flirty" texts between Karen Read, Brian Higgins revealed in murder trial testimony**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/tesla-ceo-elon-musk-opposes-ev-tax-incentives-tariffs-chinese-evs).
+You can read more about it [here](https://www.cbsnews.com/boston/news/karen-read-trial-live-stream-today-brian-higgins/).
 
 ## Requirements
 - Python 3.8
