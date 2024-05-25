@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Haley got behind Trump, he didn't even mention her once**
+**Crash the Party in Fortnite BR Chapter 5 Season 3**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/23/nikki-haley-trump-rally-00159820).
+You can read more about it [here](https://www.fortnite.com/news/crash-the-party-in-fortnite-battle-royale-chapter-5-season-3-wrecked).
 
 ## Requirements
 - Python 3.8
