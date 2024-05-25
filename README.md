@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Best Buy's Memorial Day Sale Has Record Low Prices on iPads, MacBooks, and Much More**
+**SpaceX's Starship is getting ready to take off again in June**
 
-You can read more about it [here](https://www.macrumors.com/2024/05/24/best-buys-memorial-day-sale/).
+You can read more about it [here](https://www.theverge.com/2024/5/24/24163954/spacex-starship-fourth-test-flight-june).
 
 ## Requirements
 - Python 3.8
