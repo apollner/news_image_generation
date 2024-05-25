@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christian nationalist flag flown by Justice Alito, Leonard Leo, Speaker Johnson**
+**Iowans cleaning up after tornadoes could see more severe weather overnight**
 
-You can read more about it [here](https://www.msnbc.com/the-reidout/watch/christian-nationalist-flag-flown-by-justice-alito-leonard-leo-speaker-johnson-211546693582).
+You can read more about it [here](https://www.kcci.com/article/iowa-weather-severe-storms-forecast/60888025).
 
 ## Requirements
 - Python 3.8
