@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Best Buy's Memorial Day Sale Has Record Low Prices on iPads, MacBooks, and Much More**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.macrumors.com/2024/05/24/best-buys-memorial-day-sale/).
 
 ## Requirements
 - Python 3.8
