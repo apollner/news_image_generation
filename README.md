@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Spectacular, Rare Alignment of 6 Planets Is About to Happen in The Sky**
+**Many feared dead in landslide in remote Papua New Guinea village**
 
-You can read more about it [here](https://www.sciencealert.com/a-spectacular-rare-alignment-of-6-planets-is-about-to-happen-in-the-sky).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/landslide-remote-papua-new-guinea-village-kills-about-100-abc-says-2024-05-24/).
 
 ## Requirements
 - Python 3.8
