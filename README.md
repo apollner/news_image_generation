@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs Accused of Drugging and Assaulting College Student in New Lawsuit**
+**A Spectacular, Rare Alignment of 6 Planets Is About to Happen in The Sky**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/sean-combs-diddy-sexual-assault-lawsuit-fashion-student-1235027130/).
+You can read more about it [here](https://www.sciencealert.com/a-spectacular-rare-alignment-of-6-planets-is-about-to-happen-in-the-sky).
 
 ## Requirements
 - Python 3.8
