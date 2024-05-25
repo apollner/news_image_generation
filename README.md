@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Segantii Faced $1 Billion in Withdrawal Requests Before Move to Shut**
+**Sky high housing prices impacting The Bay Area; Mortgage rates up across the country**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-24/segantii-redemption-requests-hit-1-billion-before-move-to-shut).
+You can read more about it [here](https://www.youtube.com/watch?v=bT24PPQ-iao).
 
 ## Requirements
 - Python 3.8
