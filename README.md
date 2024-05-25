@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NCAA, Power Five conferences vote to approve $2.8B settlement in House, Hubbard and Carter cases**
+**“Unacceptable”: Spotify bricking Car Thing devices in Dec. without refunds**
 
-You can read more about it [here](https://sports.yahoo.com/ncaa-power-five-conferences-vote-to-approve-28b-settlement-in-house-hubbard-and-carter-cases-001736810.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/).
 
 ## Requirements
 - Python 3.8
