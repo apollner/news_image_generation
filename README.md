@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck ditches wedding ring again while arriving to movie set amid Jennifer Lopez split rumors**
+**Many feared dead in landslide in remote Papua New Guinea village**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNS8yMy9lbnRlcnRhaW5tZW50L2Jlbi1hZmZsZWNrLWRpdGNoZXMtd2VkZGluZy1yaW5nLWFnYWluLWFtaWQtamVubmlmZXItbG9wZXotc3BsaXQtcnVtb3JzL9IBeWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNS8yMy9lbnRlcnRhaW5tZW50L2Jlbi1hZmZsZWNrLWRpdGNoZXMtd2VkZGluZy1yaW5nLWFnYWluLWFtaWQtamVubmlmZXItbG9wZXotc3BsaXQtcnVtb3JzL2FtcC8?oc=5).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/landslide-remote-papua-new-guinea-village-kills-about-100-abc-says-2024-05-24/).
 
 ## Requirements
 - Python 3.8
