@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“Unacceptable”: Spotify bricking Car Thing devices in Dec. without refunds**
+**Political consultant behind fake Biden robocalls faces $6 million fine and criminal charges**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/).
+You can read more about it [here](https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c).
 
 ## Requirements
 - Python 3.8
