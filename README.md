@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics handle Pacers, take 2-0 Eastern Conference finals lead**
+**Benjamin Netanyahu to address Congress, Speaker Mike Johnson says**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40207465/celtics-handle-pacers-take-2-0-eastern-conference-finals-lead).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/benjamin-netanyahu-address-congress-speaker-mike-johnson-says-rcna153847).
 
 ## Requirements
 - Python 3.8
