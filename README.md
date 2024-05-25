@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crash the Party in Fortnite BR Chapter 5 Season 3**
+**Sean Combs Accused of Drugging and Assaulting College Student in New Lawsuit**
 
-You can read more about it [here](https://www.fortnite.com/news/crash-the-party-in-fortnite-battle-royale-chapter-5-season-3-wrecked).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/sean-combs-diddy-sexual-assault-lawsuit-fashion-student-1235027130/).
 
 ## Requirements
 - Python 3.8
