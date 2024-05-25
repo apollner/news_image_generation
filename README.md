@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Kingston, mother arrested after singer's Florida mansion raided**
+**Dow Jones Futures: Nvidia Soars But Stock Market Has Ugly Day; Deckers Jumps Late**
 
-You can read more about it [here](https://www.cbsnews.com/miami/news/large-police-investigation-at-southwest-ranches-mansion-believed-to-be-owned-by-singer-sean-kingston/).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-soars-deckers-jumps-late/).
 
 ## Requirements
 - Python 3.8
