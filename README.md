@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cannes Awards: Female-Centered Stories Win Big in Cannes, as Sean Baker’s ‘Anora’ Wins Palme d’Or**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2024/film/news/cannes-film-festival-2024-palme-dor-prizes-awards-1236016498/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
