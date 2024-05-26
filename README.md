@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's open and closed on Memorial Day? Grocery stores, banks and Costco**
+**Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More**
 
-You can read more about it [here](https://apnews.com/article/memorial-day-2024-stores-open-closed-a6b95939113efd509c5a31b6dde3035d).
+You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/).
 
 ## Requirements
 - Python 3.8
