@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Spurlock, Oscar-nominated documentarian, dead at 53**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/05/24/entertainment/morgan-spurlock-death/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
