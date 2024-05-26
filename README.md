@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harrison Butker Breaks His Silence and Doubles Down on Viral Commencement Speech**
+**Washington Post: Justice Samuel Alito’s wife said upside-down American flag was ‘an international signal of distress’ in 2021**
 
-You can read more about it [here](https://www.thedailybeast.com/harrison-butker-breaks-his-silence-on-controversial-commencement-speech).
+You can read more about it [here](https://www.cnn.com/2024/05/25/politics/samuel-alito-wife-upside-down-flag/index.html).
 
 ## Requirements
 - Python 3.8
