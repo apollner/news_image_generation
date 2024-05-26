@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel asks judge for gag order in Trump classified documents case**
+**CDC preparing for 'possibility of increased risk to human health' from bird flu**
 
-You can read more about it [here](https://www.cnn.com/2024/05/24/politics/trump-gag-order-trump-classified-documents/index.html).
+You can read more about it [here](https://abcnews.go.com/Health/cdc-preparing-possibility-increased-risk-human-health-bird/story?id=110542040).
 
 ## Requirements
 - Python 3.8
