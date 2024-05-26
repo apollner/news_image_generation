@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA TOUR winner Grayson Murray passes away at 30**
+**Harrison Butker Breaks His Silence and Doubles Down on Viral Commencement Speech**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/05/25/grayson-murray-obituary).
+You can read more about it [here](https://www.thedailybeast.com/harrison-butker-breaks-his-silence-on-controversial-commencement-speech).
 
 ## Requirements
 - Python 3.8
