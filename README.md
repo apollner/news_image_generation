@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haitian gangs shot, burned bodies of Missouri pol's missionary daughter, husband while couple was on phone with father-in-law**
+**Cannes Awards: Female-Centered Stories Win Big in Cannes, as Sean Baker’s ‘Anora’ Wins Palme d’Or**
 
-You can read more about it [here](https://nypost.com/2024/05/25/us-news/haitian-gangs-shot-burned-bodies-of-young-missionary-husband-nonprofit-director/).
+You can read more about it [here](https://variety.com/2024/film/news/cannes-film-festival-2024-palme-dor-prizes-awards-1236016498/).
 
 ## Requirements
 - Python 3.8
