@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office Meltdown: ‘Furiosa’ or ‘Garfield Movie’ to Win Memorial Day With Worst No. 1 Opening in 31 Years**
+**Haitian gangs shot, burned bodies of Missouri pol's missionary daughter, husband while couple was on phone with father-in-law**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/furiosa-box-office-garfield-worst-memorial-day-1235909084/).
+You can read more about it [here](https://nypost.com/2024/05/25/us-news/haitian-gangs-shot-burned-bodies-of-young-missionary-husband-nonprofit-director/).
 
 ## Requirements
 - Python 3.8
