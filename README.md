@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisiana governor signs bill making two abortion drugs controlled dangerous substances**
+**CDC preparing for 'possibility of increased risk to human health' from bird flu**
 
-You can read more about it [here](https://apnews.com/article/abortion-pills-louisiana-controlled-dangerous-substances-0984bfed536a5110997dd9c8264bf9e3).
+You can read more about it [here](https://abcnews.go.com/Health/cdc-preparing-possibility-increased-risk-human-health-bird/story?id=110542040).
 
 ## Requirements
 - Python 3.8
