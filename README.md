@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania dad returns home after detainment in Turks and Caicos for ammo in his luggage**
+**Uvalde families sue Meta, video game creator and gunmaker**
 
-You can read more about it [here](https://nypost.com/2024/05/25/us-news/pennsylvania-man-bryan-hagerich-returns-home-after-arrest-in-turks-and-caicos/).
+You can read more about it [here](https://www.bbc.com/news/articles/c8449dxw23do).
 
 ## Requirements
 - Python 3.8
