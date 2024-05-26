@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryce Harper gets ejected in the middle of first inning, insinuates umpire Brian Walsh isn't a 'professional'**
+**North Carolina groundskeeper discovers mysterious space debris along hiking trail: 'It's not from up here'**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/bryce-harper-gets-ejected-in-the-middle-of-first-inning-insinuates-umpire-brian-walsh-isnt-a-professional/).
+You can read more about it [here](https://nypost.com/2024/05/25/us-news/north-carolina-groundskeeper-justin-clontz-discovers-mysterious-space-debris-along-hiking-trail-near-glamping-collective/).
 
 ## Requirements
 - Python 3.8
