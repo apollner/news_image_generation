@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Court orders Israel to halt assault on Gaza's Rafah**
+**Google just updated its algorithm. The Internet will never be the same**
 
-You can read more about it [here](https://www.reuters.com/world/world-court-rule-request-halt-israels-rafah-offensive-2024-05-24/).
+You can read more about it [here](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet).
 
 ## Requirements
 - Python 3.8
