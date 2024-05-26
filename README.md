@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya president says police to arrive in Haiti in three weeks**
+**Morgan Spurlock, Oscar-nominated documentarian, dead at 53**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd11kp3260xo).
+You can read more about it [here](https://www.cnn.com/2024/05/24/entertainment/morgan-spurlock-death/index.html).
 
 ## Requirements
 - Python 3.8
