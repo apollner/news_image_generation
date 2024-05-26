@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Racism was supposed to change after George Floyd. Backlash followed.**
+**Biden plans to address Trump ‘hush money’ verdict from the White House: report**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/05/25/george-floyd-racism-backlash/73548393007/).
+You can read more about it [here](https://nypost.com/2024/05/25/us-news/biden-to-address-trump-hush-money-verdict-from-wh/).
 
 ## Requirements
 - Python 3.8
