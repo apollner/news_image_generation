@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC preparing for 'possibility of increased risk to human health' from bird flu**
+**Luka Doncic's clutch 3 caps big night, gives Mavs 2-0 lead**
 
-You can read more about it [here](https://abcnews.go.com/Health/cdc-preparing-possibility-increased-risk-human-health-bird/story?id=110542040).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40213592/luka-doncic-clutch-3-caps-big-night-gives-mavs-2-0-lead).
 
 ## Requirements
 - Python 3.8
