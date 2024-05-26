@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli army finds bodies of 3 more hostages in Gaza**
+**Louisiana governor signs bill making two abortion drugs controlled dangerous substances**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hostages-16eb31044551df186a934dc66e3948aa).
+You can read more about it [here](https://apnews.com/article/abortion-pills-louisiana-controlled-dangerous-substances-0984bfed536a5110997dd9c8264bf9e3).
 
 ## Requirements
 - Python 3.8
