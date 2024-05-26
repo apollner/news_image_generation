@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde families sue gun manufacturer, Instagram, Activision**
+**The best Memorial Day deals over 50% off — save hundreds at Target, Wayfair, Macy's and more**
 
-You can read more about it [here](https://www.texastribune.org/2024/05/24/uvalde-shooting-lawsuits-gunmaker-instagram-texas/).
+You can read more about it [here](https://www.yahoo.com/lifestyle/the-best-memorial-day-deals-over-50-off--save-hundreds-at-target-wayfair-macys-and-more-200645165.html).
 
 ## Requirements
 - Python 3.8
