@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC preparing for 'possibility of increased risk to human health' from bird flu**
+**UAW asks NLRB to reject Mercedes vote results, order new election**
 
-You can read more about it [here](https://abcnews.go.com/Health/cdc-preparing-possibility-increased-risk-human-health-bird/story?id=110542040).
+You can read more about it [here](https://www.detroitnews.com/story/business/autos/2024/05/24/uaw-asks-nlrb-to-reject-mercedes-vote-results-order-new-election/73840811007/).
 
 ## Requirements
 - Python 3.8
