@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA launches tiny CubeSat to set its sights on Earth**
+**PGA TOUR winner Grayson Murray passes away at 30**
 
-You can read more about it [here](https://www.cnn.com/2024/05/25/world/nasa-prefire-mission-launch-scn/index.html).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/05/25/grayson-murray-obituary).
 
 ## Requirements
 - Python 3.8
