@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A devastating diagnosis followed months of malaise, uncertainty**
+**Five of the most eyebrow-raising liberal reactions to Trump's Bronx rally**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/05/25/fatigue-malaise-anemia-diagnosis-profile/).
+You can read more about it [here](https://www.foxnews.com/media/five-most-eyebrow-raising-liberal-reactions-trumps-bronx-rally).
 
 ## Requirements
 - Python 3.8
