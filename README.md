@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden plans to address Trump ‘hush money’ verdict from the White House: report**
+**Horoscope for Saturday, May 25, 2024**
 
-You can read more about it [here](https://nypost.com/2024/05/25/us-news/biden-to-address-trump-hush-money-verdict-from-wh/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/05/25/horoscopes-today-saturday-may-25-2024).
 
 ## Requirements
 - Python 3.8
