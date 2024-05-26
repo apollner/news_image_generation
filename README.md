@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luka Doncic's clutch 3 caps big night, gives Mavs 2-0 lead**
+**Uvalde school shooting: Families sue Meta, video game maker on 2nd anniversary**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40213592/luka-doncic-clutch-3-caps-big-night-gives-mavs-2-0-lead).
+You can read more about it [here](https://apnews.com/article/uvalde-shooting-elementary-anniversary-texas-a20e7fefa9d66058a8ff6611fa808df8).
 
 ## Requirements
 - Python 3.8
