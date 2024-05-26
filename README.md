@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google just updated its algorithm. The Internet will never be the same**
+**Racism was supposed to change after George Floyd. Backlash followed.**
 
-You can read more about it [here](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/05/25/george-floyd-racism-backlash/73548393007/).
 
 ## Requirements
 - Python 3.8
