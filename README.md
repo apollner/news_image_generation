@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uvalde school shooting: Families sue Meta, video game maker on 2nd anniversary**
+**Morgan Spurlock, Oscar-nominated documentarian, dead at 53**
 
-You can read more about it [here](https://apnews.com/article/uvalde-shooting-elementary-anniversary-texas-a20e7fefa9d66058a8ff6611fa808df8).
+You can read more about it [here](https://www.cnn.com/2024/05/24/entertainment/morgan-spurlock-death/index.html).
 
 ## Requirements
 - Python 3.8
