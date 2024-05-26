@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA finds more issues with Boeing's Starliner, but crew launch set for June 1**
+**Kenya president says police to arrive in Haiti in three weeks**
 
-You can read more about it [here](https://arstechnica.com/space/2024/05/nasa-and-boeing-are-getting-comfortable-launching-starliner-with-a-known-leak/).
+You can read more about it [here](https://www.bbc.com/news/articles/cd11kp3260xo).
 
 ## Requirements
 - Python 3.8
