@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The best Memorial Day deals over 50% off — save hundreds at Target, Wayfair, Macy's and more**
+**UAW challenges Mercedes-Benz union vote, asks NLRB for new election**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/the-best-memorial-day-deals-over-50-off--save-hundreds-at-target-wayfair-macys-and-more-200645165.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/24/uaw-mercedes-benz-challenge.html).
 
 ## Requirements
 - Python 3.8
