@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina groundskeeper discovers mysterious space debris along hiking trail: 'It's not from up here'**
+**A devastating diagnosis followed months of malaise, uncertainty**
 
-You can read more about it [here](https://nypost.com/2024/05/25/us-news/north-carolina-groundskeeper-justin-clontz-discovers-mysterious-space-debris-along-hiking-trail-near-glamping-collective/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/05/25/fatigue-malaise-anemia-diagnosis-profile/).
 
 ## Requirements
 - Python 3.8
