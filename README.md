@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW challenges Mercedes-Benz union vote, asks NLRB for new election**
+**Meat from condemned dairy cow tested positive for H5N1 flu virus but did not enter food supply, USDA says**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/24/uaw-mercedes-benz-challenge.html).
+You can read more about it [here](https://www.cnn.com/2024/05/24/health/dairy-cow-meat-bird-flu/index.html).
 
 ## Requirements
 - Python 3.8
