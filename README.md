@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UAW asks NLRB to reject Mercedes vote results, order new election**
+**Uvalde families sue gun manufacturer, Instagram, Activision**
 
-You can read more about it [here](https://www.detroitnews.com/story/business/autos/2024/05/24/uaw-asks-nlrb-to-reject-mercedes-vote-results-order-new-election/73840811007/).
+You can read more about it [here](https://www.texastribune.org/2024/05/24/uvalde-shooting-lawsuits-gunmaker-instagram-texas/).
 
 ## Requirements
 - Python 3.8
