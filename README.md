@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, May 25, 2024**
+**Bryce Harper gets ejected in the middle of first inning, insinuates umpire Brian Walsh isn't a 'professional'**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/05/25/horoscopes-today-saturday-may-25-2024).
+You can read more about it [here](https://www.cbssports.com/mlb/news/bryce-harper-gets-ejected-in-the-middle-of-first-inning-insinuates-umpire-brian-walsh-isnt-a-professional/).
 
 ## Requirements
 - Python 3.8
