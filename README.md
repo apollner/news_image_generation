@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meat from condemned dairy cow tested positive for H5N1 flu virus but did not enter food supply, USDA says**
+**Israeli army finds bodies of 3 more hostages in Gaza**
 
-You can read more about it [here](https://www.cnn.com/2024/05/24/health/dairy-cow-meat-bird-flu/index.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hostages-16eb31044551df186a934dc66e3948aa).
 
 ## Requirements
 - Python 3.8
