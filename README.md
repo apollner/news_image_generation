@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martha-Ann Alito told The Post in 2021 that flag was ‘signal of distress’**
+**‘Furiosa’ Up In Smoke With $31M-$33M, Possibly Lowest Memorial Day Opening In 41 Years, Might Get Clawed By ‘Garfield’: How Worried Should Hollywood Be About Theatrical? – Saturday Update**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/).
+You can read more about it [here](http://deadline.com/2024/05/box-office-furiosa-garfield-memorial-day-1235938017/).
 
 ## Requirements
 - Python 3.8
