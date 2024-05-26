@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More**
+**Box Office Meltdown: ‘Furiosa’ or ‘Garfield Movie’ to Win Memorial Day With Worst No. 1 Opening in 31 Years**
 
-You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/furiosa-box-office-garfield-worst-memorial-day-1235909084/).
 
 ## Requirements
 - Python 3.8
