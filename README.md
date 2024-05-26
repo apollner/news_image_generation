@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamal Crawford Predicted Luka Doncic's Game-Winner vs. Wolves Right Before the Play**
+**World Court orders Israel to halt assault on Gaza's Rafah**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4uSJvteDrwY).
+You can read more about it [here](https://www.reuters.com/world/world-court-rule-request-halt-israels-rafah-offensive-2024-05-24/).
 
 ## Requirements
 - Python 3.8
