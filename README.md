@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 dead, dozens injured after apparent tornado tears through Texas, sheriff says**
+**Police: Massachusetts man dead after crash at the Hampton Tolls**
 
-You can read more about it [here](https://abcnews.go.com/US/2-dead-after-apparent-tornado-tears-texas-sheriff/story?id=110570176).
+You can read more about it [here](https://www.wmur.com/article/hampton-tolls-deadly-crash-new-hampshire-52524/60907026).
 
 ## Requirements
 - Python 3.8
