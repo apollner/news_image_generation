@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Favorite Underlying Inflation Gauge Is Seen Cooling**
+**More evacuations issued for Blue 2 Fire near Ruidoso Saturday**
 
-You can read more about it [here](https://finance.yahoo.com/news/fed-favorite-underlying-inflation-gauge-200000358.html).
+You can read more about it [here](https://www.kob.com/new-mexico/more-evacuations-issued-for-blue-2-fire-near-ruidoso-saturday/).
 
 ## Requirements
 - Python 3.8
