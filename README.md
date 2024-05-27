@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas fires missiles at Tel Aviv, prompting first sirens in months**
+**Severe weather threat brings chance for hail, strong winds, tornadoes**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/more-aid-trucks-expected-roll-into-gaza-2024-05-26/).
+You can read more about it [here](https://www.wlwt.com/article/cincinnati-severe-weather-sunday-tornadoes-forecast/60906366).
 
 ## Requirements
 - Python 3.8
