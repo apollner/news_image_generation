@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes rip through Texas, Arkansas and Oklahoma, killing 14**
+**4 girls hurt during unprovoked stabbing attack in AMC movie theater near Boston; suspect arrested**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cxxxp1w6e2ro).
+You can read more about it [here](https://www.cbsnews.com/boston/news/amc-theater-massachusetts-stabbing-braintree/).
 
 ## Requirements
 - Python 3.8
