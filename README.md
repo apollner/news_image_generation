@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 girls hurt during unprovoked stabbing attack in AMC movie theater near Boston; suspect arrested**
+**Month of May crash photos 2024: Marcus Ericsson, Rinus VeeKay among wrecks**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/amc-theater-massachusetts-stabbing-braintree/).
+You can read more about it [here](https://www.indystar.com/picture-gallery/sports/motor/indy-500/2024/05/26/month-of-may-crash-photos-2024-marcus-ericsson-rinus-veekay-among-wrecks/73853082007/).
 
 ## Requirements
 - Python 3.8
