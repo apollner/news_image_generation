@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington Post: Justice Samuel Alito’s wife said upside-down American flag was ‘an international signal of distress’ in 2021**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/05/25/politics/samuel-alito-wife-upside-down-flag/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
