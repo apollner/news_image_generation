@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are the Celtics unstoppable? Boston Celtics vs Indiana Pacers Game 3 preview | Hoop Streams 🏀**
+**Bear meat kebabs at a family reunion lead to rare outbreak of roundworm disease**
 
-You can read more about it [here](https://www.youtube.com/watch?v=iyWu957bV7A).
+You can read more about it [here](http://www.nbcconnecticut.com/news/national-international/bear-meat-kebabs-at-a-family-reunion-lead-to-rare-outbreak-of-roundworm-disease/3298676/).
 
 ## Requirements
 - Python 3.8
