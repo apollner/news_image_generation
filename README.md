@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fire in western India amusement park kills at least 27, police say**
+**Brewers secure series win over Red Sox**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/deadly-fire-western-india-amusement-park-rcna154099).
+You can read more about it [here](https://www.mlb.com/news/brewers-secure-series-win-over-red-sox).
 
 ## Requirements
 - Python 3.8
