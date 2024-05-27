@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It took me 8 months to try out this fantastic iOS 17 feature**
+**5 dead, dozens injured after apparent tornado tears through Texas, sheriff says**
 
-You can read more about it [here](https://www.digitaltrends.com/mobile/it-took-me-8-months-to-try-out-this-fantastic-ios-17-feature/).
+You can read more about it [here](https://abcnews.go.com/US/2-dead-after-apparent-tornado-tears-texas-sheriff/story?id=110570176).
 
 ## Requirements
 - Python 3.8
