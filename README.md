@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mary Poppins songwriter Richard Sherman dies aged 95**
+**Trump's trial is hurtling towards a verdict. But are Americans paying attention?**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cz99kwy973eo).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22mryvleko).
 
 ## Requirements
 - Python 3.8
