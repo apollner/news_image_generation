@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Trump react to getting booed at Libertarian convention**
+**Leclerc struggled to see through tears on way to Monaco GP win**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/politics/video/donald-trump-libertarian-convention-booed-heckled-contorno-ctmwknd-vpx).
+You can read more about it [here](https://www.motorsport.com/f1/news/leclerc-struggled-to-see-through-tears-on-way-to-monaco-gp-win/10616202/).
 
 ## Requirements
 - Python 3.8
