@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Month of May crash photos 2024: Marcus Ericsson, Rinus VeeKay among wrecks**
+**Ronald Acuña Jr. exits game vs. Pirates**
 
-You can read more about it [here](https://www.indystar.com/picture-gallery/sports/motor/indy-500/2024/05/26/month-of-may-crash-photos-2024-marcus-ericsson-rinus-veekay-among-wrecks/73853082007/).
+You can read more about it [here](https://www.mlb.com/news/ronald-acuna-jr-exits-game-vs-pirates).
 
 ## Requirements
 - Python 3.8
