@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe weather: More than 10 dead across Texas, Oklahoma, Arkansas**
+**Watch Trump react to getting booed at Libertarian convention**
 
-You can read more about it [here](https://apnews.com/article/tornadoes-weather-texas-oklahoma-93001e1d81f120d0d55c8dfa24938250).
+You can read more about it [here](https://www.cnn.com/2024/05/26/politics/video/donald-trump-libertarian-convention-booed-heckled-contorno-ctmwknd-vpx).
 
 ## Requirements
 - Python 3.8
