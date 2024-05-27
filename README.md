@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayson Tatum helps Celtics survive to take 3-0 series lead over Pacers. Did Boston prove its championship mettle?**
+**UK’s Sunak promises mandatory national service for 18-year-olds if elected**
 
-You can read more about it [here](https://sports.yahoo.com/jayson-tatum-helps-celtics-survive-to-take-3-0-series-lead-over-pacers-did-boston-prove-its-championship-mettle-063335704.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/26/uks-sunak-promises-mandatory-national-service-for-18-year-olds-if-elected).
 
 ## Requirements
 - Python 3.8
