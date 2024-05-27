@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK’s Sunak promises mandatory national service for 18-year-olds if elected**
+**5 dead, dozens injured after apparent tornado tears through Texas, sheriff says**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/26/uks-sunak-promises-mandatory-national-service-for-18-year-olds-if-elected).
+You can read more about it [here](https://abcnews.go.com/US/2-dead-after-apparent-tornado-tears-texas-sheriff/story?id=110570176).
 
 ## Requirements
 - Python 3.8
