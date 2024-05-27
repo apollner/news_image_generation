@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fever-Aces live score, updates: Caitlin Clark stats, highlights**
+**Man stabs 4 girls inside Mass. movie theater, police say**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/25/indiana-las-vegas-caitlin-clark-aja-wilson-score-highlights/73806183007/).
+You can read more about it [here](https://www.wcvb.com/article/movie-theater-stabbing-braintree-amc-massachusetts/60905032).
 
 ## Requirements
 - Python 3.8
