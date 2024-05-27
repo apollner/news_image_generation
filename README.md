@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania Democrat blasts Alito for blaming flag controversy on his wife**
+**Severe weather: More than 10 dead across Texas, Oklahoma, Arkansas**
 
-You can read more about it [here](https://thehill.com/homenews/house/4686828-pennsylvania-democrat-madeleine-dean-samuel-alito-flag-controversy-wife/).
+You can read more about it [here](https://apnews.com/article/tornadoes-weather-texas-oklahoma-93001e1d81f120d0d55c8dfa24938250).
 
 ## Requirements
 - Python 3.8
