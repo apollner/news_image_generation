@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK’s Sunak promises mandatory national service for 18-year-olds if elected**
+**How many points did Caitlin Clark score last night? Rookie held in check by Las Vegas Aces**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/26/uks-sunak-promises-mandatory-national-service-for-18-year-olds-if-elected).
+You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/26/caitlin-clark-how-many-points-fever-loss-aces/73859785007/).
 
 ## Requirements
 - Python 3.8
