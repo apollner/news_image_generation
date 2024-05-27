@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man stabs 4 girls inside Mass. movie theater, police say**
+**Mary Poppins songwriter Richard Sherman dies aged 95**
 
-You can read more about it [here](https://www.wcvb.com/article/movie-theater-stabbing-braintree-amc-massachusetts/60905032).
+You can read more about it [here](https://www.bbc.com/news/articles/cz99kwy973eo).
 
 ## Requirements
 - Python 3.8
