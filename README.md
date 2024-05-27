@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'You can clap for that': Biden met with 'pretty sad, shades of Jeb Bush' moment at West Point commencement**
+**Fever-Aces live score, updates: Caitlin Clark stats, highlights**
 
-You can read more about it [here](https://www.foxnews.com/media/biden-pretty-sad-jeb-bush-moment-west-point-commencement).
+You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/25/indiana-las-vegas-caitlin-clark-aja-wilson-score-highlights/73806183007/).
 
 ## Requirements
 - Python 3.8
