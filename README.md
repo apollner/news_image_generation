@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 dead, dozens injured after apparent tornado tears through Texas, sheriff says**
+**Hamas fires missiles at Tel Aviv, prompting first sirens in months**
 
-You can read more about it [here](https://abcnews.go.com/US/2-dead-after-apparent-tornado-tears-texas-sheriff/story?id=110570176).
+You can read more about it [here](https://www.reuters.com/world/middle-east/more-aid-trucks-expected-roll-into-gaza-2024-05-26/).
 
 ## Requirements
 - Python 3.8
