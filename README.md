@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA TOUR winner Grayson Murray passes away at 30**
+**Jayson Tatum helps Celtics survive to take 3-0 series lead over Pacers. Did Boston prove its championship mettle?**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/05/25/grayson-murray-obituary).
+You can read more about it [here](https://sports.yahoo.com/jayson-tatum-helps-celtics-survive-to-take-3-0-series-lead-over-pacers-did-boston-prove-its-championship-mettle-063335704.html).
 
 ## Requirements
 - Python 3.8
