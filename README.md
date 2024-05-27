@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More**
+**It might be time for NASA to bail on Boeing's Starliner**
 
-You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/).
+You can read more about it [here](https://bgr.com/science/it-might-be-time-for-nasa-to-bail-on-boeings-starliner/).
 
 ## Requirements
 - Python 3.8
