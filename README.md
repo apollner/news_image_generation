@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ETF Approval Changes Everything, Says Ethereum Co-Founder Joe Lubin**
+**Pennsylvania Democrat blasts Alito for blaming flag controversy on his wife**
 
-You can read more about it [here](https://decrypt.co/232386/ethereum-etf-approval-shifts-power-politics-joseph-lubin-consensys).
+You can read more about it [here](https://thehill.com/homenews/house/4686828-pennsylvania-democrat-madeleine-dean-samuel-alito-flag-controversy-wife/).
 
 ## Requirements
 - Python 3.8
