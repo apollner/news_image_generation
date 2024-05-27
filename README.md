@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicki Minaj apologizes, says she'll pursue legal action following drug arrest**
+**It took me 8 months to try out this fantastic iOS 17 feature**
 
-You can read more about it [here](https://nypost.com/2024/05/26/entertainment/nicki-minaj-apologizes-says-shell-pursue-legal-action-following-drug-arrest/).
+You can read more about it [here](https://www.digitaltrends.com/mobile/it-took-me-8-months-to-try-out-this-fantastic-ios-17-feature/).
 
 ## Requirements
 - Python 3.8
