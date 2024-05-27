@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police: Massachusetts man dead after crash at the Hampton Tolls**
+**UK’s Sunak promises mandatory national service for 18-year-olds if elected**
 
-You can read more about it [here](https://www.wmur.com/article/hampton-tolls-deadly-crash-new-hampshire-52524/60907026).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/26/uks-sunak-promises-mandatory-national-service-for-18-year-olds-if-elected).
 
 ## Requirements
 - Python 3.8
