@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ronald Acuña Jr. exits game vs. Pirates**
+**Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More**
 
-You can read more about it [here](https://www.mlb.com/news/ronald-acuna-jr-exits-game-vs-pirates).
+You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/).
 
 ## Requirements
 - Python 3.8
