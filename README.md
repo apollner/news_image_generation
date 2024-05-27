@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe weather threat brings chance for hail, strong winds, tornadoes**
+**ETF Approval Changes Everything, Says Ethereum Co-Founder Joe Lubin**
 
-You can read more about it [here](https://www.wlwt.com/article/cincinnati-severe-weather-sunday-tornadoes-forecast/60906366).
+You can read more about it [here](https://decrypt.co/232386/ethereum-etf-approval-shifts-power-politics-joseph-lubin-consensys).
 
 ## Requirements
 - Python 3.8
