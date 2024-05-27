@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leclerc struggled to see through tears on way to Monaco GP win**
+**Hulkenberg: "Stupid" F1 Monaco crash unnecessary from Perez and Magnussen**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/leclerc-struggled-to-see-through-tears-on-way-to-monaco-gp-win/10616202/).
+You can read more about it [here](https://www.autosport.com/f1/news/hulkenberg-stupid-f1-monaco-crash-unnecessary-from-perez-and-magnussen/10616053/).
 
 ## Requirements
 - Python 3.8
