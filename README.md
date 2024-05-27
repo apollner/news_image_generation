@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's trial is hurtling towards a verdict. But are Americans paying attention?**
+**Fire in western India amusement park kills at least 27, police say**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22mryvleko).
+You can read more about it [here](https://www.nbcnews.com/news/world/deadly-fire-western-india-amusement-park-rcna154099).
 
 ## Requirements
 - Python 3.8
