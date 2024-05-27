@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How many points did Caitlin Clark score last night? Rookie held in check by Las Vegas Aces**
+**Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/wnba/2024/05/26/caitlin-clark-how-many-points-fever-loss-aces/73859785007/).
+You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/).
 
 ## Requirements
 - Python 3.8
