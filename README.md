@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA Tour golfer Grayson Murray dead at 30**
+**PGA TOUR winner Grayson Murray passes away at 30**
 
-You can read more about it [here](https://www.cnn.com/2024/05/25/sport/grayson-murray-death-pga/index.html).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/05/25/grayson-murray-obituary).
 
 ## Requirements
 - Python 3.8
