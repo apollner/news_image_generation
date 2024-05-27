@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Fed's Favorite Underlying Inflation Gauge Is Seen Cooling**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/fed-favorite-underlying-inflation-gauge-200000358.html).
 
 ## Requirements
 - Python 3.8
