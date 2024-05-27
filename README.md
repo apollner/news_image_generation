@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bear meat kebabs at a family reunion lead to rare outbreak of roundworm disease**
+**'You can clap for that': Biden met with 'pretty sad, shades of Jeb Bush' moment at West Point commencement**
 
-You can read more about it [here](http://www.nbcconnecticut.com/news/national-international/bear-meat-kebabs-at-a-family-reunion-lead-to-rare-outbreak-of-roundworm-disease/3298676/).
+You can read more about it [here](https://www.foxnews.com/media/biden-pretty-sad-jeb-bush-moment-west-point-commencement).
 
 ## Requirements
 - Python 3.8
