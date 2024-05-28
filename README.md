@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia technology company to pay civil penalty over discriminatory ‘Whites only’ job posting, according to DOJ**
+**Here are 25 of the best deals to shop at Best Buy’s Memorial Day sale**
 
-You can read more about it [here](https://www.cnn.com/2024/05/27/us/va-tech-company-doj-penalty-reaj/index.html).
+You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/best-buy-memorial-day-sale-2024-05-27).
 
 ## Requirements
 - Python 3.8
