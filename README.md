@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former ‘General Hospital’ actor Johnny Wactor fatally shot in Los Angeles**
+**Diddy's Sean John Frames Pulled From America's Best Contacts and Eyeglasses**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html).
+You can read more about it [here](https://www.tmz.com/2024/05/27/diddy-sean-john-pull-america-best-contacts-eyeglasses-frames/).
 
 ## Requirements
 - Python 3.8
