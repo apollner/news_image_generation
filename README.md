@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josef Newgarden uses last-lap pass to win weather-delayed Indianapolis 500 for second consecutive year**
+**CODE RED ALERT: All of Middle Tennessee placed under Tornado Watch**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/sport/indy-500-spt-intl/index.html).
+You can read more about it [here](https://fox17.com/news/local/code-red-alert-upgraded-risk-for-severe-storms-tornadoes-in-middle-tennessee-tonight).
 
 ## Requirements
 - Python 3.8
