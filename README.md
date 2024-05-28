@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National service explained: Rishi Sunak unveils Conservative election plan**
+**Libertarians pick Chase Oliver for US president as Trump, Kennedy rejected**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c988jdxl02vo).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/27/libertarians-pick-chase-oliver-for-us-president-as-trump-kennedy-rejected).
 
 ## Requirements
 - Python 3.8
