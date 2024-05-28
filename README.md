@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Tyson suffers medical emergency on flight headed to Los Angeles**
+**Black bear 'kebabs' gives family parasitic worms, 3 people hospitalized**
 
-You can read more about it [here](https://ktla.com/entertainment/mike-tyson-suffers-medical-emergency-on-flight-headed-to-los-angeles-reports/).
+You can read more about it [here](https://local12.com/news/nation-world/black-bear-kebabs-gives-family-parasitic-worms-3-people-hospitalized-infected-meat-wild-game-cdc-parasites-worm-disease-control-prevention-saskatchewan-hunted-frozen-thawed-cooked-roundworm-infections-mild-severe-symptoms-life-threatening-cooked-properly).
 
 ## Requirements
 - Python 3.8
