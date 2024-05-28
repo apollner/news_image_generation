@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Egypt Border Shooting: What We Know**
+**2024 NCAA Division I baseball championship bracket announced**
 
-You can read more about it [here](https://www.newsweek.com/israel-egypt-shooting-rafah-gaza-today-latest-update-1904980).
+You can read more about it [here](https://www.ncaa.com/news/baseball/article/2024-05-27/2024-ncaa-division-i-baseball-championship-bracket-announced).
 
 ## Requirements
 - Python 3.8
