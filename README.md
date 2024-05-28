@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black bear 'kebabs' gives family parasitic worms, 3 people hospitalized**
+**Tornadoes, bad weather as severe storms move east on Memorial Day**
 
-You can read more about it [here](https://local12.com/news/nation-world/black-bear-kebabs-gives-family-parasitic-worms-3-people-hospitalized-infected-meat-wild-game-cdc-parasites-worm-disease-control-prevention-saskatchewan-hunted-frozen-thawed-cooked-roundworm-infections-mild-severe-symptoms-life-threatening-cooked-properly).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/27/19-dead-tornadoes-memorial-day-storms-texas-arkansas-oklahoma/73868079007/).
 
 ## Requirements
 - Python 3.8
