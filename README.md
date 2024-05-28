@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain’s Prime Minister Rishi Sunak pitches national service at 18**
+**2024 Coca-Cola 600 results: Christopher Bell gets rain-shortened win at Charlotte, leads race-high 90 laps**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/europe/national-service-britain-uk-sunak-intl-latam/index.html).
+You can read more about it [here](https://www.cbssports.com/nascar/news/2024-coca-cola-600-results-christopher-bell-gets-rain-shortened-win-at-charlotte-leads-race-high-90-laps/live/).
 
 ## Requirements
 - Python 3.8
