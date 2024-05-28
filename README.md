@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say**
+**Over 1 million evacuated as Cyclone Remal brings heavy rain to Bangladesh and India**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA1LzI2L3JhZmFoLXRlbnQtY2FtcC1pc3JhZWwtYWlyc3RyaWtl0gEA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/05/26/india/cyclone-remal-india-bangladesh-landfall-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
