@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Dreyfuss Slammed for Alleged Sexist and Homophobic Comments at ‘Jaws’ Screening**
+**Mike Tyson suffers medical emergency on flight headed to Los Angeles**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/richard-dreyfuss-slammed-jaws-screening-comments-1235909509/).
+You can read more about it [here](https://ktla.com/entertainment/mike-tyson-suffers-medical-emergency-on-flight-headed-to-los-angeles-reports/).
 
 ## Requirements
 - Python 3.8
