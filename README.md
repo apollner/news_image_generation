@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's got a plan to protect science from Trump**
+**Apple's iOS 18 AI plans set out in new report – here are 9 new features to expect**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/27/biden-plan-protect-science-trump-00160001).
+You can read more about it [here](https://www.techradar.com/phones/iphone/apples-ios-18-ai-plans-set-out-in-new-report-here-are-9-new-features-to-expect).
 
 ## Requirements
 - Python 3.8
