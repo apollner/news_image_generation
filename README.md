@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Severe weather brings hail, tornado warnings to St. Louis area**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://fox2now.com/news/missouri/severe-weather-brings-hail-tornado-warnings-to-st-louis-area/).
 
 ## Requirements
 - Python 3.8
