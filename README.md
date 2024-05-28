@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Libertarians pick Chase Oliver for US president as Trump, Kennedy rejected**
+**SpaceX is now targeting Tuesday morning for Starlink launch from Cape**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/27/libertarians-pick-chase-oliver-for-us-president-as-trump-kennedy-rejected).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/27/spacex-launch-falcon-9-rocket-memorial-day-starlink-florida-cape-canaveral/73836623007/).
 
 ## Requirements
 - Python 3.8
