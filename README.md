@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes, bad weather as severe storms move east on Memorial Day**
+**U.S. lawmakers ignore China warning, meet with Taiwan's new leader**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/27/19-dead-tornadoes-memorial-day-storms-texas-arkansas-oklahoma/73868079007/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/05/27/taiwan-meeting-congress-china/).
 
 ## Requirements
 - Python 3.8
