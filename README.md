@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornadoes and storms leave 15 dead across central US**
+**Dublin passengers recall 'panic' as Doha plane hit turbulence**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cxxxp1w6e2ro).
+You can read more about it [here](https://www.bbc.com/news/av/world-europe-69064916).
 
 ## Requirements
 - Python 3.8
