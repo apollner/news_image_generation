@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cohen's former attorney predicts how the verdict in the Trump Hush Money trial will impact election**
+**[Removed]**
 
-You can read more about it [here](https://www.msnbc.com/politicsnation/watch/-i-wanted-him-to-be-held-accountable-cohen-s-former-attorney-predicts-how-the-verdict-in-the-trump-hush-money-trial-will-impact-the-election-211662917917).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
