@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain’s Prime Minister Rishi Sunak pitches national service at 18**
+**South Korea, China and Japan resume trilateral meeting to revive cooperation**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/europe/national-service-britain-uk-sunak-intl-latam/index.html).
+You can read more about it [here](https://apnews.com/article/south-korea-china-japan-trilateral-6afe4c3e280995a7fc16696edbd0a345).
 
 ## Requirements
 - Python 3.8
