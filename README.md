@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Passenger on United flight to Fresno had measles, officials confirm**
+**Richard Dreyfuss Slammed for Alleged Sexist and Homophobic Comments at ‘Jaws’ Screening**
 
-You can read more about it [here](https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/richard-dreyfuss-slammed-jaws-screening-comments-1235909509/).
 
 ## Requirements
 - Python 3.8
