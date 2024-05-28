@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 1 million evacuated as Cyclone Remal brings heavy rain to Bangladesh and India**
+**Indy 500: Newgarden beats O'Ward for back-to-back wins**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/india/cyclone-remal-india-bangladesh-landfall-intl-hnk/index.html).
+You can read more about it [here](https://www.autosport.com/indycar/news/indy-500-newgarden/10616310/).
 
 ## Requirements
 - Python 3.8
