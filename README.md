@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Furiosa,' 'Garfield' lead slowest Memorial Day box office in decades**
+**Watch Trump react to getting booed at Libertarian convention**
 
-You can read more about it [here](https://apnews.com/article/furiosa-box-office-1b2a9c0aefec99b5105a09bfaf15679b).
+You can read more about it [here](https://www.cnn.com/2024/05/26/politics/video/donald-trump-libertarian-convention-booed-heckled-contorno-ctmwknd-vpx).
 
 ## Requirements
 - Python 3.8
