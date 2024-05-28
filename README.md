@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers**
+**'Furiosa,' 'Garfield' lead slowest Memorial Day box office in decades**
 
-You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/).
+You can read more about it [here](https://apnews.com/article/furiosa-box-office-1b2a9c0aefec99b5105a09bfaf15679b).
 
 ## Requirements
 - Python 3.8
