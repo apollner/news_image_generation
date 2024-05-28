@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea apparently launches missile into sea after announcing plan to put rocket into orbit with spy satellite**
+**Israel-Egypt Border Shooting: What We Know**
 
-You can read more about it [here](https://www.cbsnews.com/news/north-korea-second-military-spy-satellite/).
+You can read more about it [here](https://www.newsweek.com/israel-egypt-shooting-rafah-gaza-today-latest-update-1904980).
 
 ## Requirements
 - Python 3.8
