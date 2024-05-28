@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe storms tear through Texas, Arkansas and Oklahoma, killing at least 18**
+**Cohen's former attorney predicts how the verdict in the Trump Hush Money trial will impact election**
 
-You can read more about it [here](https://www.cbsnews.com/news/weather-storm-dangerous-heat-tornadoes-memorial-day/).
+You can read more about it [here](https://www.msnbc.com/politicsnation/watch/-i-wanted-him-to-be-held-accountable-cohen-s-former-attorney-predicts-how-the-verdict-in-the-trump-hush-money-trial-will-impact-the-election-211662917917).
 
 ## Requirements
 - Python 3.8
