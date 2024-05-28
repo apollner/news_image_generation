@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dublin passengers recall 'panic' as Doha plane hit turbulence**
+**Indy 500: Newgarden beats O'Ward for back-to-back wins**
 
-You can read more about it [here](https://www.bbc.com/news/av/world-europe-69064916).
+You can read more about it [here](https://www.autosport.com/indycar/news/indy-500-newgarden/10616310/).
 
 ## Requirements
 - Python 3.8
