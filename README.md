@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. lawmakers ignore China warning, meet with Taiwan's new leader**
+**Virginia technology company to pay civil penalty over discriminatory ‘Whites only’ job posting, according to DOJ**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/05/27/taiwan-meeting-congress-china/).
+You can read more about it [here](https://www.cnn.com/2024/05/27/us/va-tech-company-doj-penalty-reaj/index.html).
 
 ## Requirements
 - Python 3.8
