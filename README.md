@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘General Hospital’ Actor Johnny Wactor Was Shielding Female Co-Worker When Fatally Shot – Report**
+**4 killed in storm-related incidents in Kentucky**
 
-You can read more about it [here](http://deadline.com/2024/05/johnny-wactor-general-hospital-1235941795/).
+You can read more about it [here](https://www.wbko.com/2024/05/27/4-killed-storm-related-incidents-kentucky/).
 
 ## Requirements
 - Python 3.8
