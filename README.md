@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diddy's Sean John Frames Pulled From America's Best Contacts and Eyeglasses**
+**Dallas Mavericks one win away from NBA Finals as they go up 3-0 on the Minnesota Timberwolves**
 
-You can read more about it [here](https://www.tmz.com/2024/05/27/diddy-sean-john-pull-america-best-contacts-eyeglasses-frames/).
+You can read more about it [here](https://www.cnn.com/2024/05/27/sport/dallas-mavericks-minnesota-timberwolves-wcf-game-3-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
