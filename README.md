@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran further increases its stockpile of uranium enriched to near weapons-grade levels, watchdog says**
+**Passenger on United flight to Fresno had measles, officials confirm**
 
-You can read more about it [here](https://apnews.com/article/iaea-iran-nuclear-enrichment-stockpile-2190f0d7247a6160fb13f28304d4b6ad).
+You can read more about it [here](https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/).
 
 ## Requirements
 - Python 3.8
