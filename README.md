@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Mavericks one win away from NBA Finals as they go up 3-0 on the Minnesota Timberwolves**
+**Biden's got a plan to protect science from Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/05/27/sport/dallas-mavericks-minnesota-timberwolves-wcf-game-3-spt-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/05/27/biden-plan-protect-science-trump-00160001).
 
 ## Requirements
 - Python 3.8
