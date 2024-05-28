@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indy 500: Newgarden beats O'Ward for back-to-back wins**
+**Former ‘General Hospital’ actor Johnny Wactor fatally shot in Los Angeles**
 
-You can read more about it [here](https://www.autosport.com/indycar/news/indy-500-newgarden/10616310/).
+You can read more about it [here](https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html).
 
 ## Requirements
 - Python 3.8
