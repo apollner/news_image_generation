@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**12 people injured during turbulence on Qatar Airways flight**
+**Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers**
 
-You can read more about it [here](https://www.cnn.com/2024/05/26/world/qatar-airways-turbulence-dublin-injured-intl/index.html).
+You can read more about it [here](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/).
 
 ## Requirements
 - Python 3.8
