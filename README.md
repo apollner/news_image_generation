@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 killed in storm-related incidents in Kentucky**
+**Hall of Famer Bill Walton, 2-time champ at UCLA and in NBA, dies**
 
-You can read more about it [here](https://www.wbko.com/2024/05/27/4-killed-storm-related-incidents-kentucky/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40229031/nba-champion-hall-famer-bill-walton-dies-71).
 
 ## Requirements
 - Python 3.8
