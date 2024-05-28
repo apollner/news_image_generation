@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Coca-Cola 600 results: Christopher Bell gets rain-shortened win at Charlotte, leads race-high 90 laps**
+**Multiple fatalities after tornadoes hit parts of Arkansas**
 
-You can read more about it [here](https://www.cbssports.com/nascar/news/2024-coca-cola-600-results-christopher-bell-gets-rain-shortened-win-at-charlotte-leads-race-high-90-laps/live/).
+You can read more about it [here](https://www.katv.com/news/local/at-least-one-dead-after-multiple-tornadoes-hit-parts-of-arkansas).
 
 ## Requirements
 - Python 3.8
