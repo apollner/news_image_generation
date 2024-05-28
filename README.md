@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's iOS 18 AI plans set out in new report – here are 9 new features to expect**
+**Former ‘General Hospital’ actor Johnny Wactor fatally shot in Los Angeles**
 
-You can read more about it [here](https://www.techradar.com/phones/iphone/apples-ios-18-ai-plans-set-out-in-new-report-here-are-9-new-features-to-expect).
+You can read more about it [here](https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html).
 
 ## Requirements
 - Python 3.8
