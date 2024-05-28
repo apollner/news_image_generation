@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX is now targeting Tuesday morning for Starlink launch from Cape**
+**North Korea apparently launches missile into sea after announcing plan to put rocket into orbit with spy satellite**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/27/spacex-launch-falcon-9-rocket-memorial-day-starlink-florida-cape-canaveral/73836623007/).
+You can read more about it [here](https://www.cbsnews.com/news/north-korea-second-military-spy-satellite/).
 
 ## Requirements
 - Python 3.8
