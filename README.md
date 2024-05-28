@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe weather brings hail, tornado warnings to St. Louis area**
+**Josef Newgarden uses last-lap pass to win weather-delayed Indianapolis 500 for second consecutive year**
 
-You can read more about it [here](https://fox2now.com/news/missouri/severe-weather-brings-hail-tornado-warnings-to-st-louis-area/).
+You can read more about it [here](https://www.cnn.com/2024/05/26/sport/indy-500-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
