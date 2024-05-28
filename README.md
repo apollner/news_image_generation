@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea, China and Japan resume trilateral meeting to revive cooperation**
+**Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say**
 
-You can read more about it [here](https://apnews.com/article/south-korea-china-japan-trilateral-6afe4c3e280995a7fc16696edbd0a345).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA1LzI2L3JhZmFoLXRlbnQtY2FtcC1pc3JhZWwtYWlyc3RyaWtl0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
