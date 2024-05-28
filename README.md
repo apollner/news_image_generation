@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It might be time for NASA to bail on Boeing's Starliner**
+**12 people injured during turbulence on Qatar Airways flight**
 
-You can read more about it [here](https://bgr.com/science/it-might-be-time-for-nasa-to-bail-on-boeings-starliner/).
+You can read more about it [here](https://www.cnn.com/2024/05/26/world/qatar-airways-turbulence-dublin-injured-intl/index.html).
 
 ## Requirements
 - Python 3.8
