@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CODE RED ALERT: All of Middle Tennessee placed under Tornado Watch**
+**Britain’s Prime Minister Rishi Sunak pitches national service at 18**
 
-You can read more about it [here](https://fox17.com/news/local/code-red-alert-upgraded-risk-for-severe-storms-tornadoes-in-middle-tennessee-tonight).
+You can read more about it [here](https://www.cnn.com/2024/05/26/europe/national-service-britain-uk-sunak-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
