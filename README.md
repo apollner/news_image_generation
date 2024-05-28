@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple fatalities after tornadoes hit parts of Arkansas**
+**Severe storms tear through Texas, Arkansas and Oklahoma, killing at least 18**
 
-You can read more about it [here](https://www.katv.com/news/local/at-least-one-dead-after-multiple-tornadoes-hit-parts-of-arkansas).
+You can read more about it [here](https://www.cbsnews.com/news/weather-storm-dangerous-heat-tornadoes-memorial-day/).
 
 ## Requirements
 - Python 3.8
