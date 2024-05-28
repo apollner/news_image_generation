@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hall of Famer Bill Walton, 2-time champ at UCLA and in NBA, dies**
+**Iran further increases its stockpile of uranium enriched to near weapons-grade levels, watchdog says**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40229031/nba-champion-hall-famer-bill-walton-dies-71).
+You can read more about it [here](https://apnews.com/article/iaea-iran-nuclear-enrichment-stockpile-2190f0d7247a6160fb13f28304d4b6ad).
 
 ## Requirements
 - Python 3.8
