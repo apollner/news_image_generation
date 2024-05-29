@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MDARD: 3 more dairy herds infected with bird flu**
+**Grateful Dead Honor Bill Walton: 'Biggest Deadhead in the World'**
 
-You can read more about it [here](https://www.woodtv.com/news/michigan/mdard-3-more-dairy-herds-infected-with-bird-flu/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9iaWxsLXdhbHRvbi1ncmF0ZWZ1bC1kZWFkLXRyaWJ1dGUtaGFydC13ZWlyLWtyZXV0em1hbm4tMTIzNTAyODMxMS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
