@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mavs up 3-0! Game 4 LIVE Pregame!**
+**SpaceX launches Earth-observing satellite to orbit on 2nd leg of doubleheader (photos)**
 
-You can read more about it [here](https://www.youtube.com/watch?v=bRU4Tk42j0M).
+You can read more about it [here](https://www.space.com/spacex-earthcare-satellite-mission-launch).
 
 ## Requirements
 - Python 3.8
