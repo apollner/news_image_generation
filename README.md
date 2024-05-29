@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics @ Pacers Game 4 | #NBAConferenceFinals presented by Google Pixel on ESPN Live Scoreboard**
+**2 inmates on the run after escaping Louisiana jail, police say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=kKkyUteYJJw).
+You can read more about it [here](https://abcnews.go.com/US/police-manhunt-2-inmates-loose-after-escaping-louisiana-jail/story?id=110589699).
 
 ## Requirements
 - Python 3.8
