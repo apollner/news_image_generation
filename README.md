@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Dreyfuss Sparks Outrage, Massachusetts Theater Apologizes For His ‘Offensive and Distressing’ Remarks at ‘Jaws’ Screening**
+**UK’s Sunak pledges tax cuts for pensioners as Tories face election wipeout**
 
-You can read more about it [here](https://variety.com/2024/film/news/richard-dreyfuss-cabot-theater-offensive-remarks-1236017160/).
+You can read more about it [here](https://www.aljazeera.com/economy/2024/5/28/uks-sunak-pledges-tax-cuts-for-pensioners-as-tories-face-election-wipeout).
 
 ## Requirements
 - Python 3.8
