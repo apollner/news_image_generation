@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What a generative AI iPhone could look like**
+**PNG landslide: Villagers dig with bare hands for remains of missing relatives**
 
-You can read more about it [here](https://www.cnn.com/2024/05/28/tech/ai-iphone/index.html).
+You can read more about it [here](https://apnews.com/article/papua-new-guinea-landslide-79e867795f8293aab3f35da58b0d1d47).
 
 ## Requirements
 - Python 3.8
