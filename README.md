@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Bachelor' star Ryan Sutter shares photo of wife Trista after she reunites with family following her absence**
+**General election: Tories announce 'Triple Lock Plus' pension allowance**
 
-You can read more about it [here](https://pagesix.com/2024/05/27/entertainment/bachelor-star-ryan-sutter-shares-photo-of-wife-trista-after-she-reunites-with-family/).
+You can read more about it [here](https://www.bbc.com/news/articles/c3ggvrp8v28o).
 
 ## Requirements
 - Python 3.8
