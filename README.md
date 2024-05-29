@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court turns away appeal from disgraced attorney Michael Avenatti**
+**SpaceX launch: Live updates from Starlink Falcon 9 launch at Cape Canaveral, Florida**
 
-You can read more about it [here](https://www.cnn.com/2024/05/28/politics/michael-avenatti-supreme-court/index.html).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/28/spacex-falcon-9-rocket-launch-starlink-florida-cape-canaveral-space-orbital-booster/73868918007/).
 
 ## Requirements
 - Python 3.8
