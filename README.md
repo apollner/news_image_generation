@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PNG landslide: Villagers dig with bare hands for remains of missing relatives**
+**Supreme Court turns away appeal from disgraced attorney Michael Avenatti**
 
-You can read more about it [here](https://apnews.com/article/papua-new-guinea-landslide-79e867795f8293aab3f35da58b0d1d47).
+You can read more about it [here](https://www.cnn.com/2024/05/28/politics/michael-avenatti-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
