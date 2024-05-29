@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Just keep swimming! Zebrafish doing fine in zero gravity on China's Tiangong space station (video)**
+**FIRST LOOK: Hybrid Porsche 911 GTS – 534bhp, Bigger Engine, Trick Turbo, E-Boost!**
 
-You can read more about it [here](https://www.space.com/china-tiangong-space-station-zebrafish-healthy).
+You can read more about it [here](https://www.youtube.com/watch?v=it8xrIIC1cI).
 
 ## Requirements
 - Python 3.8
