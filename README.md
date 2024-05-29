@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P Live Updates for May 28**
+**[Removed]**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-27/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
