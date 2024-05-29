@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massachusetts stabbing spree suspect Jared Ravizza threw shovel through neighbor's window before he went on crazed attack: locals**
+**Severe storms threaten millions across the East on Memorial Day following a weekend of destructive, deadly weather**
 
-You can read more about it [here](https://nypost.com/2024/05/28/us-news/massachusetts-stabbing-spree-suspect-jared-ravizza-threw-shovel-through-neighbors-window-before-he-went-on-crazed-attack-locals/).
+You can read more about it [here](https://www.cnn.com/2024/05/27/weather/memorial-day-weekend-forecast-monday/index.html).
 
 ## Requirements
 - Python 3.8
