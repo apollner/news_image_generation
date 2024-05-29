@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 inmates on the run after escaping Louisiana jail, police say**
+**Massachusetts stabbing spree suspect Jared Ravizza threw shovel through neighbor's window before he went on crazed attack: locals**
 
-You can read more about it [here](https://abcnews.go.com/US/police-manhunt-2-inmates-loose-after-escaping-louisiana-jail/story?id=110589699).
+You can read more about it [here](https://nypost.com/2024/05/28/us-news/massachusetts-stabbing-spree-suspect-jared-ravizza-threw-shovel-through-neighbors-window-before-he-went-on-crazed-attack-locals/).
 
 ## Requirements
 - Python 3.8
