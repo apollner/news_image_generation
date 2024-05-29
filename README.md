@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**OpenAI has a new safety team — it's run by Sam Altman**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman).
 
 ## Requirements
 - Python 3.8
