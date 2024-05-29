@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Eric’ Review: Benedict Cumberbatch Plays a Desperate Dad in Netflix’s Admirable but Unwieldy Mystery Miniseries**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-reviews/eric-review-benedict-cumberbatch-netflix-1235905772/).
 
 ## Requirements
 - Python 3.8
