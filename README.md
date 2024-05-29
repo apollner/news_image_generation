@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street Returns to T+1 Stock Trading After a Century**
+**[Removed]**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-05-28/wall-street-returns-to-t-1-stock-trading-after-a-century).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
