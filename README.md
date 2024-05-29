@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General election: Tories announce 'Triple Lock Plus' pension allowance**
+**Elon Musk’s AI Startup Raises $6B**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3ggvrp8v28o).
+You can read more about it [here](http://www.hollywoodreporter.com/business/digital/elon-musk-ai-startup-xai-raises-6-billion-1235909709/).
 
 ## Requirements
 - Python 3.8
