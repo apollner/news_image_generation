@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPad Pro Is More Ready Than Ever to Be the Mac I've Been Waiting For**
+**Papua New Guinea orders evacuations after landslide, thousands feared buried**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvY29tcHV0aW5nL3RoZS1pcGFkLXByby1pcy1tb3JlLXJlYWR5LXRoYW4tZXZlci10by1iZS1hLW1hYy1pdmUtbmV2ZXItYmVlbi1tb3JlLXJlYWR5LWVpdGhlci_SAQA?oc=5).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/papua-new-guinea-orders-thousands-evacuate-path-active-landslide-2024-05-28/).
 
 ## Requirements
 - Python 3.8
