@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe storms threaten millions across the East on Memorial Day following a weekend of destructive, deadly weather**
+**Stocks Edge Higher With Focus on Inflation Data: Markets Wrap - · - Bloomberg**
 
-You can read more about it [here](https://www.cnn.com/2024/05/27/weather/memorial-day-weekend-forecast-monday/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/china-stocks-eye-gains-traders-224007594.html).
 
 ## Requirements
 - Python 3.8
