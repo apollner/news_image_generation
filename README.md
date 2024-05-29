@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI has a new safety team — it's run by Sam Altman**
+**3 of the worst foods for your teeth and how to prevent damage, according to dental experts**
 
-You can read more about it [here](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman).
+You can read more about it [here](https://www.cbsnews.com/news/worst-food-for-teeth-dental-experts-prevent-damage/).
 
 ## Requirements
 - Python 3.8
