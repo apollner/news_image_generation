@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legal analyst predicts defense’s closing arguments in Trump hush money trial**
+**Louisiana prison escape: 2 inmates found, 2 at large Monday**
 
-You can read more about it [here](https://www.cnn.com/videos/politics/2024/05/27/hush-money-trial-closing-arguments-cohen-goodman-ebof-digvid.cnn).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/27/louisiana-prison-escape-tangipahoa-parish-sheriff/73870361007/).
 
 ## Requirements
 - Python 3.8
