@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK’s Sunak pledges tax cuts for pensioners as Tories face election wipeout**
+**‘General Hospital’ Alum Johnny Wactor Has GoFundMe Set Up By Godmother To Support Actor’s Family After Fatal Shooting**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2024/5/28/uks-sunak-pledges-tax-cuts-for-pensioners-as-tories-face-election-wipeout).
+You can read more about it [here](http://deadline.com/2024/05/general-hospital-johnny-wactor-gofundme-fatal-shooting-1235942166/).
 
 ## Requirements
 - Python 3.8
