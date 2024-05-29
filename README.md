@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches Earth-observing satellite to orbit on 2nd leg of doubleheader (photos)**
+**American Airlines cuts outlook, says chief commercial officer is leaving**
 
-You can read more about it [here](https://www.space.com/spacex-earthcare-satellite-mission-launch).
+You can read more about it [here](https://www.cnbc.com/2024/05/28/american-airlines-outlook-chief-commercial-officer.html).
 
 ## Requirements
 - Python 3.8
