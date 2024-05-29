@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines cuts outlook, says chief commercial officer is leaving**
+**Trump hush money trial: Prosecution, defense look to score final points**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/28/american-airlines-outlook-chief-commercial-officer.html).
+You can read more about it [here](https://apnews.com/article/trump-trial-jury-hush-money-stormy-daniels-e262d1fe4a9ca624f2f983ca1000eb55).
 
 ## Requirements
 - Python 3.8
