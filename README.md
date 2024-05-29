@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Eric’ Review: Benedict Cumberbatch Plays a Desperate Dad in Netflix’s Admirable but Unwieldy Mystery Miniseries**
+**What a generative AI iPhone could look like**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-reviews/eric-review-benedict-cumberbatch-netflix-1235905772/).
+You can read more about it [here](https://www.cnn.com/2024/05/28/tech/ai-iphone/index.html).
 
 ## Requirements
 - Python 3.8
