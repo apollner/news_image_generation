@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Papua New Guinea orders evacuations after landslide, thousands feared buried**
+**Supreme Court turns away appeal from disgraced attorney Michael Avenatti**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/papua-new-guinea-orders-thousands-evacuate-path-active-landslide-2024-05-28/).
+You can read more about it [here](https://www.cnn.com/2024/05/28/politics/michael-avenatti-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
