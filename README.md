@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s AI Startup Raises $6B**
+**Legal analyst predicts defense’s closing arguments in Trump hush money trial**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/digital/elon-musk-ai-startup-xai-raises-6-billion-1235909709/).
+You can read more about it [here](https://www.cnn.com/videos/politics/2024/05/27/hush-money-trial-closing-arguments-cohen-goodman-ebof-digvid.cnn).
 
 ## Requirements
 - Python 3.8
