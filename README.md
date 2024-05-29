@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s AI Startup Raises $6B**
+**Richard Dreyfuss Sparks Outrage, Massachusetts Theater Apologizes For His ‘Offensive and Distressing’ Remarks at ‘Jaws’ Screening**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/digital/elon-musk-ai-startup-xai-raises-6-billion-1235909709/).
+You can read more about it [here](https://variety.com/2024/film/news/richard-dreyfuss-cabot-theater-offensive-remarks-1236017160/).
 
 ## Requirements
 - Python 3.8
