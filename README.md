@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are 25 of the best deals to shop at Best Buy’s Memorial Day sale**
+**Elon Musk’s AI Startup Raises $6B**
 
-You can read more about it [here](https://www.cnn.com/cnn-underscored/deals/best-buy-memorial-day-sale-2024-05-27).
+You can read more about it [here](http://www.hollywoodreporter.com/business/digital/elon-musk-ai-startup-xai-raises-6-billion-1235909709/).
 
 ## Requirements
 - Python 3.8
