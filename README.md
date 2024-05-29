@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 of the worst foods for your teeth and how to prevent damage, according to dental experts**
+**Hootie & the Blowfish frontman Darius Rucker breaks silence on his drug arrest: 'We handled it'**
 
-You can read more about it [here](https://www.cbsnews.com/news/worst-food-for-teeth-dental-experts-prevent-damage/).
+You can read more about it [here](https://nypost.com/2024/05/28/entertainment/hootie-amp-the-blowfishs-darius-rucker-speaks-out-on-drug-arrest/).
 
 ## Requirements
 - Python 3.8
