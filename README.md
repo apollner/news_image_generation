@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US pier constructed off Gaza has broken apart**
+**Mavs up 3-0! Game 4 LIVE Pregame!**
 
-You can read more about it [here](https://www.cnn.com/2024/05/28/politics/us-gaza-pier-broken-apart/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=bRU4Tk42j0M).
 
 ## Requirements
 - Python 3.8
