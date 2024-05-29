@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court turns away appeal from disgraced attorney Michael Avenatti**
+**The iPad Pro Is More Ready Than Ever to Be the Mac I've Been Waiting For**
 
-You can read more about it [here](https://www.cnn.com/2024/05/28/politics/michael-avenatti-supreme-court/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvY29tcHV0aW5nL3RoZS1pcGFkLXByby1pcy1tb3JlLXJlYWR5LXRoYW4tZXZlci10by1iZS1hLW1hYy1pdmUtbmV2ZXItYmVlbi1tb3JlLXJlYWR5LWVpdGhlci_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
