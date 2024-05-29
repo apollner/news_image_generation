@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘General Hospital’ Alum Johnny Wactor Has GoFundMe Set Up By Godmother To Support Actor’s Family After Fatal Shooting**
+**Celtics @ Pacers Game 4 | #NBAConferenceFinals presented by Google Pixel on ESPN Live Scoreboard**
 
-You can read more about it [here](http://deadline.com/2024/05/general-hospital-johnny-wactor-gofundme-fatal-shooting-1235942166/).
+You can read more about it [here](https://www.youtube.com/watch?v=kKkyUteYJJw).
 
 ## Requirements
 - Python 3.8
