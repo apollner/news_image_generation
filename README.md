@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgian parliament overrides presidential veto of 'foreign agent bill'**
+**MDARD: 3 more dairy herds infected with bird flu**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/28/georgian-parliament-overrides-presidential-veto-of-foreign-agent-bill).
+You can read more about it [here](https://www.woodtv.com/news/michigan/mdard-3-more-dairy-herds-infected-with-bird-flu/).
 
 ## Requirements
 - Python 3.8
