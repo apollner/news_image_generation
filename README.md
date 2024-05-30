@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live report: Timberwolves vs. Mavericks, Game 4 in Dallas**
+**Multiple people injured after explosion rocks downtown Youngstown, Ohio**
 
-You can read more about it [here](https://www.startribune.com/timberwolves-mavericks-live-dallas-anthony-edwards-karl-anthony-towns-luka-doncic-kyrie-irving/600369265/).
+You can read more about it [here](https://abcnews.go.com/US/youngstown-ohio-explosion/story?id=110623674).
 
 ## Requirements
 - Python 3.8
