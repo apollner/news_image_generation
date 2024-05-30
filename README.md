@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africans go to the polls in election seen as biggest test yet to ANC’s 30 years in power**
+**The Fitbit Ace LTE is like a Nintendo smartwatch for kids**
 
-You can read more about it [here](https://www.cnn.com/2024/05/29/africa/south-africa-elections-polls-open-intl/index.html).
+You can read more about it [here](https://www.theverge.com/2024/5/29/24166168/fitbit-ace-lte-kids-smartwatch-wearables).
 
 ## Requirements
 - Python 3.8
