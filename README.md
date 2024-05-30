@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stetson Bennett opens up for first time about stepping away from Rams last year**
+**Ten clutch points: Timberwolves stars deliver, Luca Doncic doesn't, Charles Barkley has the weather**
 
-You can read more about it [here](https://www.wsbtv.com/news/local/stetson-bennett-opens-up-first-time-about-stepping-away-rams-last-year/XJ4GJPF6V5DLLEALBNUN5BHN2Y/).
+You can read more about it [here](https://www.startribune.com/anthony-edwards-karl-anthony-towns-western-conference-finals-charles-barkley-snowy-minnesota/600369322/).
 
 ## Requirements
 - Python 3.8
