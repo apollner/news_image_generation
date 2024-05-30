@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe weekend storms leave 1 million Texans without power**
+**Texas Speaker Dade Phelan defeats David Covey**
 
-You can read more about it [here](https://apnews.com/article/severe-weather-storms-tornadoes-05-28-2024-281c8ad4600d6e7bc688fb4f720b1f92).
+You can read more about it [here](https://www.texastribune.org/2024/05/24/dade-phelan-david-covey-texas-house-speaker-runoff/).
 
 ## Requirements
 - Python 3.8
