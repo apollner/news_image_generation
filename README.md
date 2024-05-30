@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**BHP pulls out of £39bn mega-merger with rival Anglo American**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/c977g96vll1o).
 
 ## Requirements
 - Python 3.8
