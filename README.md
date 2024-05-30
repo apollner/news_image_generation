@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former OpenAI board member reveals why CEO Sam Altman was fired in November**
+**France's Macron urges a green light for Ukraine to strike targets inside Russia with Western weapons**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ZobN3ny7rx8).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-macron-weapons-e308755a31716ee0123b441bb9b548b0).
 
 ## Requirements
 - Python 3.8
