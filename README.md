@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple people injured after explosion rocks downtown Youngstown, Ohio**
+**Democrats unveil plan to get Biden on Ohio general election ballot**
 
-You can read more about it [here](https://abcnews.go.com/US/youngstown-ohio-explosion/story?id=110623674).
+You can read more about it [here](https://www.bbc.com/news/articles/crggxm0rd23o).
 
 ## Requirements
 - Python 3.8
