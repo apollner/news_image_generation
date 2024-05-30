@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ten clutch points: Timberwolves stars deliver, Luca Doncic doesn't, Charles Barkley has the weather**
+**American Airlines stock tumbles after cutting Q2 guidance**
 
-You can read more about it [here](https://www.startribune.com/anthony-edwards-karl-anthony-towns-western-conference-finals-charles-barkley-snowy-minnesota/600369322/).
+You can read more about it [here](https://finance.yahoo.com/video/american-airlines-stock-tumbles-cutting-135300512.html).
 
 ## Requirements
 - Python 3.8
