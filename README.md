@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France's Macron urges a green light for Ukraine to strike targets inside Russia with Western weapons**
+**Charges against Scottie Scheffler dismissed after arrest outside PGA Championship**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-macron-weapons-e308755a31716ee0123b441bb9b548b0).
+You can read more about it [here](https://www.cnn.com/2024/05/29/us/scottie-scheffler-court-hearing/index.html).
 
 ## Requirements
 - Python 3.8
