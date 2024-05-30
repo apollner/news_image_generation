@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Prosecution, defense look to score final points**
+**Identity thief claims to be behind Graceland foreclosure attempt: report**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-jury-hush-money-stormy-daniels-e262d1fe4a9ca624f2f983ca1000eb55).
+You can read more about it [here](https://www.foxnews.com/entertainment/identity-thief-claims-behind-graceland-foreclosure-attempt-report).
 
 ## Requirements
 - Python 3.8
