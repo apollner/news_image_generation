@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'General Hospital' star Johnny Wactor's family doesn't want his ex-fiancée Tessa Farrell speaking on LA murder**
+**Stetson Bennett opens up for first time about stepping away from Rams last year**
 
-You can read more about it [here](https://nypost.com/2024/05/29/us-news/general-hospital-star-johnny-wactors-family-doesnt-want-his-ex-fiancee-tessa-farrell-speaking-on-la-murder/).
+You can read more about it [here](https://www.wsbtv.com/news/local/stetson-bennett-opens-up-first-time-about-stepping-away-rams-last-year/XJ4GJPF6V5DLLEALBNUN5BHN2Y/).
 
 ## Requirements
 - Python 3.8
