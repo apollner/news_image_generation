@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Salesforce shares plunge 17% on revenue miss, weak forecast**
+**Alito tells congressional Democrats he won't recuse over flags**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/29/salesforce-crm-q1-earnings-report-2025.html).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-justice-alito-wont-recuse-over-flags/).
 
 ## Requirements
 - Python 3.8
