@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark's first 30-point game by the numbers: Fever rookie makes history in another defeat**
+**Trump's New York trial: Highlights from closing arguments**
 
-You can read more about it [here](https://www.cbssports.com/wnba/news/caitlin-clarks-first-30-point-game-by-the-numbers-fever-rookie-makes-history-in-another-defeat/).
+You can read more about it [here](https://www.npr.org/2024/05/28/nx-s1-4984121/trump-trial-closing-arguments-jury-new-york).
 
 ## Requirements
 - Python 3.8
