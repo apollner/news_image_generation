@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former OpenAI Board Member Says Sam Altman Created a Culture of 'Psychological Abuse'**
+**South Africans go to the polls in election seen as biggest test yet to ANC’s 30 years in power**
 
-You can read more about it [here](https://gizmodo.com/former-openai-board-member-sam-altman-chatgpt-1851506252).
+You can read more about it [here](https://www.cnn.com/2024/05/29/africa/south-africa-elections-polls-open-intl/index.html).
 
 ## Requirements
 - Python 3.8
