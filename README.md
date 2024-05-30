@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Farmers must kill 4.2 million chickens after bird flu hits Iowa egg farm**
+**IMF upgrades China's GDP growth forecasts but warns of risks ahead**
 
-You can read more about it [here](https://finance.yahoo.com/news/farmers-must-kill-4-2-223546340.html).
+You can read more about it [here](https://www.reuters.com/world/china/imf-upgrades-chinas-2024-2025-gdp-growth-forecasts-after-strong-q1-2024-05-29/).
 
 ## Requirements
 - Python 3.8
