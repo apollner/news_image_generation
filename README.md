@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats unveil plan to get Biden on Ohio general election ballot**
+**Severe weekend storms leave 1 million Texans without power**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crggxm0rd23o).
+You can read more about it [here](https://apnews.com/article/severe-weather-storms-tornadoes-05-28-2024-281c8ad4600d6e7bc688fb4f720b1f92).
 
 ## Requirements
 - Python 3.8
