@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hush money trial: Jury begin deliberations after marathon closing arguments**
+**The MLB-Negro Leagues stat change: What happened, and why?**
 
-You can read more about it [here](https://apnews.com/article/trump-trial-deliberations-jury-judge-verdict-390f045e9e8a37f069e82576edd7a842).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1MjU4NTQvMjAyNC8wNS8yOS9tbGItbmVncm8tbGVhZ3Vlcy1zdGF0LWNoYW5nZS13aGF0LXdoeS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
