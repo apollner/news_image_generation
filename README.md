@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Smith Pulls Back the Curtain on ‘House of the Dragon’ Season 2, From Losing a Showrunner to Playing a ‘Much Weaker’ Daemon in Crisis**
+**Former OpenAI Board Member Says Sam Altman Created a Culture of 'Psychological Abuse'**
 
-You can read more about it [here](https://variety.com/2024/tv/news/matt-smith-house-of-the-dragon-season-2-weaker-daemon-1236017805/).
+You can read more about it [here](https://gizmodo.com/former-openai-board-member-sam-altman-chatgpt-1851506252).
 
 ## Requirements
 - Python 3.8
