@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IMF upgrades China's GDP growth forecasts but warns of risks ahead**
+**Johnny Wactor’s ex-fiancée speaks out after actor killed in LA**
 
-You can read more about it [here](https://www.reuters.com/world/china/imf-upgrades-chinas-2024-2025-gdp-growth-forecasts-after-strong-q1-2024-05-29/).
+You can read more about it [here](https://www.newsnationnow.com/banfield/johnny-wactor-general-hospital-actor-killed-los-angeles/).
 
 ## Requirements
 - Python 3.8
