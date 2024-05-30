@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump trial: Robert De Niro and Capitol police officers show up to courthouse with Biden campaign**
+**Live report: Timberwolves vs. Mavericks, Game 4 in Dallas**
 
-You can read more about it [here](https://apnews.com/article/trump-de-niro-biden-insurrection-hush-money-78a33c5083a243e18f9fbd63ce9e8ddd).
+You can read more about it [here](https://www.startribune.com/timberwolves-mavericks-live-dallas-anthony-edwards-karl-anthony-towns-luka-doncic-kyrie-irving/600369265/).
 
 ## Requirements
 - Python 3.8
