@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africans go to the polls in election seen as biggest test yet to ANC’s 30 years in power**
+**More than 4 million chickens to be killed in Iowa after officials detect bird flu on farm**
 
-You can read more about it [here](https://www.cnn.com/2024/05/29/africa/south-africa-elections-polls-open-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/millions-chickens-to-be-killed-bird-flu-detected-iowa-farm/).
 
 ## Requirements
 - Python 3.8
