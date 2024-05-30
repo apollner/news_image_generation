@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnny Wactor’s ex-fiancée speaks out after actor killed in LA**
+**Caitlin Clark's first 30-point game by the numbers: Fever rookie makes history in another defeat**
 
-You can read more about it [here](https://www.newsnationnow.com/banfield/johnny-wactor-general-hospital-actor-killed-los-angeles/).
+You can read more about it [here](https://www.cbssports.com/wnba/news/caitlin-clarks-first-30-point-game-by-the-numbers-fever-rookie-makes-history-in-another-defeat/).
 
 ## Requirements
 - Python 3.8
