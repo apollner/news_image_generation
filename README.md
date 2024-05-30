@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earthcare cloud mission launches to resolve climate unknowns**
+**Farmers must kill 4.2 million chickens after bird flu hits Iowa egg farm**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cyddezqrlmvo).
+You can read more about it [here](https://finance.yahoo.com/news/farmers-must-kill-4-2-223546340.html).
 
 ## Requirements
 - Python 3.8
