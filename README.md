@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The MLB-Negro Leagues stat change: What happened, and why?**
+**Sony State of Play Announced for This Week, Expected to Feature New Astro Bot and More**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1MjU4NTQvMjAyNC8wNS8yOS9tbGItbmVncm8tbGVhZ3Vlcy1zdGF0LWNoYW5nZS13aGF0LXdoeS_SAQA?oc=5).
+You can read more about it [here](https://www.ign.com/articles/sony-state-of-play-may-2024).
 
 ## Requirements
 - Python 3.8
