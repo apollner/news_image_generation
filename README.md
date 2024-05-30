@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines stock tumbles after cutting Q2 guidance**
+**Trump hush money trial: Jury begin deliberations after marathon closing arguments**
 
-You can read more about it [here](https://finance.yahoo.com/video/american-airlines-stock-tumbles-cutting-135300512.html).
+You can read more about it [here](https://apnews.com/article/trump-trial-deliberations-jury-judge-verdict-390f045e9e8a37f069e82576edd7a842).
 
 ## Requirements
 - Python 3.8
