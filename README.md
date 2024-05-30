@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google will soon let you resize Android's Live Captions feature**
+**Ars Live: How profitable is Starlink? We dig into the details of satellite Internet.**
 
-You can read more about it [here](https://www.androidauthority.com/resize-live-captions-on-android-3447092/).
+You can read more about it [here](https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/).
 
 ## Requirements
 - Python 3.8
