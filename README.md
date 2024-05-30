@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 4 million chickens to be killed in Iowa after officials detect bird flu on farm**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/millions-chickens-to-be-killed-bird-flu-detected-iowa-farm/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
