@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Speaker Dade Phelan defeats David Covey**
+**Earthcare cloud mission launches to resolve climate unknowns**
 
-You can read more about it [here](https://www.texastribune.org/2024/05/24/dade-phelan-david-covey-texas-house-speaker-runoff/).
+You can read more about it [here](https://www.bbc.com/news/articles/cyddezqrlmvo).
 
 ## Requirements
 - Python 3.8
