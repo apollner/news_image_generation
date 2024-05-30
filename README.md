@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ars Live: How profitable is Starlink? We dig into the details of satellite Internet.**
+**New Primate Chromosome Maps Shed Light on Human Evolution**
 
-You can read more about it [here](https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/).
+You can read more about it [here](https://neurosciencenews.com/gene-mapping-evolution-26192/).
 
 ## Requirements
 - Python 3.8
