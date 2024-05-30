@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Summer 2024: Temperatures cross 50C in northern India**
+**'General Hospital' star Johnny Wactor's family doesn't want his ex-fiancée Tessa Farrell speaking on LA murder**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c166xxd4y36o).
+You can read more about it [here](https://nypost.com/2024/05/29/us-news/general-hospital-star-johnny-wactors-family-doesnt-want-his-ex-fiancee-tessa-farrell-speaking-on-la-murder/).
 
 ## Requirements
 - Python 3.8
