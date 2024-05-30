@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunspot's return could cause more blackouts, auroras**
+**Trump trial: Robert De Niro and Capitol police officers show up to courthouse with Biden campaign**
 
-You can read more about it [here](https://nypost.com/2024/05/28/lifestyle/sunspots-return-could-cause-more-blackouts-auroras/).
+You can read more about it [here](https://apnews.com/article/trump-de-niro-biden-insurrection-hush-money-78a33c5083a243e18f9fbd63ce9e8ddd).
 
 ## Requirements
 - Python 3.8
