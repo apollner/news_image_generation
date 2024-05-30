@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats unveil plan to get Biden on Ohio general election ballot**
+**Feeding peanuts to babies could prevent allergies through the teen years, study finds**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crggxm0rd23o).
+You can read more about it [here](https://www.foxnews.com/health/feeding-peanuts-babies-could-prevent-allergies-teen-years-study-finds).
 
 ## Requirements
 - Python 3.8
