@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes kill at least 37 Palestinians, most in tents, near Gaza's Rafah as offensive expands**
+**'Babylon' makeup artist Allie Shehorn allegedly stabbed by ex-boyfriend over 20 times: report**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-05-28-2024-21ea44e3b514d3f3f2bd26a33f157e48).
+You can read more about it [here](https://ew.com/hollywood-makeup-artist-allie-shehorn-stabbed-by-ex-boyfriend-over-20-times-report-8655006).
 
 ## Requirements
 - Python 3.8
