@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony State of Play Announced for This Week, Expected to Feature New Astro Bot and More**
+**Matt Smith Pulls Back the Curtain on ‘House of the Dragon’ Season 2, From Losing a Showrunner to Playing a ‘Much Weaker’ Daemon in Crisis**
 
-You can read more about it [here](https://www.ign.com/articles/sony-state-of-play-may-2024).
+You can read more about it [here](https://variety.com/2024/tv/news/matt-smith-house-of-the-dragon-season-2-weaker-daemon-1236017805/).
 
 ## Requirements
 - Python 3.8
