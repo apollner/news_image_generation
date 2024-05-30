@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BHP pulls out of £39bn mega-merger with rival Anglo American**
+**Former OpenAI board member reveals why CEO Sam Altman was fired in November**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c977g96vll1o).
+You can read more about it [here](https://www.youtube.com/watch?v=ZobN3ny7rx8).
 
 ## Requirements
 - Python 3.8
