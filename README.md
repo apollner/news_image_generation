@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Identity thief claims to be behind Graceland foreclosure attempt: report**
+**Sunspot's return could cause more blackouts, auroras**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/identity-thief-claims-behind-graceland-foreclosure-attempt-report).
+You can read more about it [here](https://nypost.com/2024/05/28/lifestyle/sunspots-return-could-cause-more-blackouts-auroras/).
 
 ## Requirements
 - Python 3.8
