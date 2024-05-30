@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charges against Scottie Scheffler dismissed after arrest outside PGA Championship**
+**Salesforce shares plunge 17% on revenue miss, weak forecast**
 
-You can read more about it [here](https://www.cnn.com/2024/05/29/us/scottie-scheffler-court-hearing/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/29/salesforce-crm-q1-earnings-report-2025.html).
 
 ## Requirements
 - Python 3.8
