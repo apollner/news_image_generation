@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alito tells lawmakers he will not recuse from Supreme Court cases despite flag controversy**
+**Hollywood Makeup Artist Allie Shehorn Stabbed More Than 20 Times in Brutal Attack**
 
-You can read more about it [here](https://www.cnn.com/2024/05/29/politics/alito-flag-controversy-response-supreme-court/index.html).
+You can read more about it [here](https://www.eonline.com/news/1402630/hollywood-makeup-artist-allie-shehorn-stabbed-more-than-20-times-in-brutal-attack).
 
 ## Requirements
 - Python 3.8
