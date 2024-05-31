@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Primate Chromosome Maps Shed Light on Human Evolution**
+**Abercrombie & Fitch CEO on getting into the wedding business after strings of earnings beats**
 
-You can read more about it [here](https://neurosciencenews.com/gene-mapping-evolution-26192/).
+You can read more about it [here](https://finance.yahoo.com/news/abercrombie--fitch-ceo-on-getting-into-the-wedding-business-after-strings-of-earnings-beats-200546816.html).
 
 ## Requirements
 - Python 3.8
