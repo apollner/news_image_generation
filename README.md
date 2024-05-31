@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano dramatically erupts again as streams of lava reach town’s defensive walls**
+**American Airlines sued for racial discrimination by Black men**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/europe/iceland-volcano-eruption-grindavik-intl-hnk/index.html).
+You can read more about it [here](https://www.axios.com/2024/05/30/american-airlines-black-passengers-racial-discrimination-lawsuit).
 
 ## Requirements
 - Python 3.8
