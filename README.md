@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano dramatically erupts again as streams of lava reach town’s defensive walls**
+**Hong Kong convicts 14 democracy campaigners of subversion**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/europe/iceland-volcano-eruption-grindavik-intl-hnk/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c100mjqrm6zo).
 
 ## Requirements
 - Python 3.8
