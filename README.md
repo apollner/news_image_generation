@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delhi suffers record heatwave as temperatures soar near 50C**
+**Iceland volcano dramatically erupts again as streams of lava reach town’s defensive walls**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzMxMjI1OGQ0LWM3YWUtNDY4My04YmExLWFmNzhlNzkyYzBlMdIBAA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/05/30/europe/iceland-volcano-eruption-grindavik-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
