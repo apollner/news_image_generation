@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge allows duct tape to be retested in Scott Peterson case, denies other requests: reports**
+**Mets DFA reliever Jorge López after ejection, glove toss into crowd**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/30/scott-peterson-innocence-project-case-duct-tape-retested/73905978007/).
+You can read more about it [here](https://sports.yahoo.com/mets-dfa-reliever-jorge-lopez-after-ejection-glove-toss-into-crowd-011645334.html).
 
 ## Requirements
 - Python 3.8
