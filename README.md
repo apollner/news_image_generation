@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa's ruling ANC set to lose majority in pivotal vote, early results show**
+**China’s Xi Jinping calls for peace conference and ‘justice’ over war in Gaza as Arab leaders visit Beijing**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/30/south-africa-election-anc-set-to-lose-majority-in-pivotal-vote.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8zMC9jaGluYS94aS1qaW5waW5nLWFyYWItbGVhZGVycy1jaGluYS1pbnRsLWhuay9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8zMC9jaGluYS94aS1qaW5waW5nLWFyYWItbGVhZGVycy1jaGluYS1pbnRsLWhuaw?oc=5).
 
 ## Requirements
 - Python 3.8
