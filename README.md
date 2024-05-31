@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man with suspended license appears in Michigan court over Zoom while driving**
+**Google to invest $2 billion in Malaysia and build data center to capture rising AI demand**
 
-You can read more about it [here](https://abc7.com/post/corey-harris-driving-video-michigan-court-hearing-zoom-video/14888886/).
+You can read more about it [here](https://www.cnbc.com/2024/05/30/google-to-invest-2-billion-in-malaysia-and-build-data-center-to-meet-ai-demand.html).
 
 ## Requirements
 - Python 3.8
