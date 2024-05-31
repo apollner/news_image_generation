@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets DFA reliever Jorge López after ejection, glove toss into crowd**
+**‘Hacks’ Renewed For Season 4 At Max After Season 3 Finale**
 
-You can read more about it [here](https://sports.yahoo.com/mets-dfa-reliever-jorge-lopez-after-ejection-glove-toss-into-crowd-011645334.html).
+You can read more about it [here](http://deadline.com/2024/05/hacks-renewed-season-4-max-1235944378/).
 
 ## Requirements
 - Python 3.8
