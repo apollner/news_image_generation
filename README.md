@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**3-hour meeting ends with FAA saying Boeing can’t increase Max plane production until quality is fixed**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/05/30/business/boeing-safety-plan-faa/index.html).
 
 ## Requirements
 - Python 3.8
