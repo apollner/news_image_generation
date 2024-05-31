@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies**
+**Alito tells lawmakers he will not recuse from Supreme Court cases despite flag controversy**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html).
+You can read more about it [here](https://www.cnn.com/2024/05/29/politics/alito-flag-controversy-response-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
