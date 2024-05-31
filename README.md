@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raskin argues DOJ can force recusals of Alito, Thomas in Jan. 6 cases**
+**After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies**
 
-You can read more about it [here](https://thehill.com/homenews/house/4692965-raskin-argues-doj-can-force-recusals-of-alito-thomas-in-jan-6-cases/).
+You can read more about it [here](https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html).
 
 ## Requirements
 - Python 3.8
