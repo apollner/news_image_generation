@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Dow extends slide as lackluster earnings, rate fears prey on nerves**
+**Judge allows duct tape to be retested in Scott Peterson case, denies other requests: reports**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-extends-slide-as-lackluster-earnings-rate-fears-prey-on-nerves-133508205.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/05/30/scott-peterson-innocence-project-case-duct-tape-retested/73905978007/).
 
 ## Requirements
 - Python 3.8
