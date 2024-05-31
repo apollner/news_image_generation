@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3-hour meeting ends with FAA saying Boeing can’t increase Max plane production until quality is fixed**
+**Gap shares pop 15% as earnings beat on sales growth at all four brands**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/business/boeing-safety-plan-faa/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/30/gap-gps-earnings-q1-2024.html).
 
 ## Requirements
 - Python 3.8
