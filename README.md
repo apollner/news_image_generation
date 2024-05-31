@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Foot Locker stock surges 13% as turnaround shows signs of life**
+**Negro Leagues stats added to MLB**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/30/foot-locker-fl-earnings-q1-2024.html).
+You can read more about it [here](https://www.mlb.com/news/faq-negro-leagues-stats-major-league-record).
 
 ## Requirements
 - Python 3.8
