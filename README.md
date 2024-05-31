@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hollywood Makeup Artist Allie Shehorn Stabbed More Than 20 Times in Brutal Attack**
+**European-Japanese satellite blasts off to space | BBC News**
 
-You can read more about it [here](https://www.eonline.com/news/1402630/hollywood-makeup-artist-allie-shehorn-stabbed-more-than-20-times-in-brutal-attack).
+You can read more about it [here](https://www.youtube.com/watch?v=DuUH2sdTL_4).
 
 ## Requirements
 - Python 3.8
