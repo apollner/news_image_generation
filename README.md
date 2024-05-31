@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GDP: US economy grew at a slower pace than initially thought in Q1**
+**US tells owners to stop driving older Nissan vehicles over air bag concerns**
 
-You can read more about it [here](https://finance.yahoo.com/news/gdp-us-economy-grew-at-a-slower-pace-than-initially-thought-in-q1-131220924.html).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/us-tells-owners-stop-driving-older-nissan-vehicles-over-air-bag-concerns).
 
 ## Requirements
 - Python 3.8
