@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abercrombie & Fitch CEO on getting into the wedding business after strings of earnings beats**
+**After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies**
 
-You can read more about it [here](https://finance.yahoo.com/news/abercrombie--fitch-ceo-on-getting-into-the-wedding-business-after-strings-of-earnings-beats-200546816.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html).
 
 ## Requirements
 - Python 3.8
