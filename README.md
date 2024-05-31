@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China’s Xi Jinping calls for peace conference and ‘justice’ over war in Gaza as Arab leaders visit Beijing**
+**Iceland volcano dramatically erupts again as streams of lava reach town’s defensive walls**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8zMC9jaGluYS94aS1qaW5waW5nLWFyYWItbGVhZGVycy1jaGluYS1pbnRsLWhuay9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8zMC9jaGluYS94aS1qaW5waW5nLWFyYWItbGVhZGVycy1jaGluYS1pbnRsLWhuaw?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/05/30/europe/iceland-volcano-eruption-grindavik-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
