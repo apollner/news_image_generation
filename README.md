@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iceland volcano dramatically erupts again as streams of lava reach town’s defensive walls**
+**Foot Locker stock surges 13% as turnaround shows signs of life**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/europe/iceland-volcano-eruption-grindavik-intl-hnk/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/30/foot-locker-fl-earnings-q1-2024.html).
 
 ## Requirements
 - Python 3.8
