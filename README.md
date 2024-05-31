@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man with suspended license appears in Michigan court over Zoom while driving**
+**Iceland volcano dramatically erupts again as streams of lava reach town’s defensive walls**
 
-You can read more about it [here](https://abc7.com/post/corey-harris-driving-video-michigan-court-hearing-zoom-video/14888886/).
+You can read more about it [here](https://www.cnn.com/2024/05/30/europe/iceland-volcano-eruption-grindavik-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
