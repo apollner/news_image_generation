@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pressure on Biden to let Ukraine strike Russia with US weapons**
+**The ESA is visiting the asteroid punched by NASA’s DART mission**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c844g9eyzz7o).
+You can read more about it [here](https://www.theverge.com/2024/5/30/24167787/esa-hera-mission-didymos-asteroid-nasa-dart-testing).
 
 ## Requirements
 - Python 3.8
