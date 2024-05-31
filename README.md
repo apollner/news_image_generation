@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies**
+**Man with suspended license appears in Michigan court over Zoom while driving**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html).
+You can read more about it [here](https://abc7.com/post/corey-harris-driving-video-michigan-court-hearing-zoom-video/14888886/).
 
 ## Requirements
 - Python 3.8
