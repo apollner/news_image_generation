@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google to invest $2 billion in Malaysia and build data center to capture rising AI demand**
+**Delhi suffers record heatwave as temperatures soar near 50C**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/30/google-to-invest-2-billion-in-malaysia-and-build-data-center-to-meet-ai-demand.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzMxMjI1OGQ0LWM3YWUtNDY4My04YmExLWFmNzhlNzkyYzBlMdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
