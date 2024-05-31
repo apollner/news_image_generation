@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actor accused of stabbing Hollywood makeup artist multiple times at her Sunland home**
+**South Africa's ruling ANC set to lose majority in pivotal vote, early results show**
 
-You can read more about it [here](https://abc7.com/post/actor-nick-pasqual-accused-stabbing-hollywood-makeup-artist/14889674/).
+You can read more about it [here](https://www.cnbc.com/2024/05/30/south-africa-election-anc-set-to-lose-majority-in-pivotal-vote.html).
 
 ## Requirements
 - Python 3.8
