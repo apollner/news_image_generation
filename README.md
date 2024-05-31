@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong convicts 14 democracy campaigners of subversion**
+**Who was Josh Gibson, the Negro League star that MLB tried to omit?**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c100mjqrm6zo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAyNC8wNS8yOS93aG8td2FzLWpvc2gtZ2lic29uLW5lZ3JvLWxlYWd1ZXMv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
