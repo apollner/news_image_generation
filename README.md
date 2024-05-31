@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ESA is visiting the asteroid punched by NASA’s DART mission**
+**GDP: US economy grew at a slower pace than initially thought in Q1**
 
-You can read more about it [here](https://www.theverge.com/2024/5/30/24167787/esa-hera-mission-didymos-asteroid-nasa-dart-testing).
+You can read more about it [here](https://finance.yahoo.com/news/gdp-us-economy-grew-at-a-slower-pace-than-initially-thought-in-q1-131220924.html).
 
 ## Requirements
 - Python 3.8
