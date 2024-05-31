@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Negro Leagues stats added to MLB**
+**Pressure on Biden to let Ukraine strike Russia with US weapons**
 
-You can read more about it [here](https://www.mlb.com/news/faq-negro-leagues-stats-major-league-record).
+You can read more about it [here](https://www.bbc.com/news/articles/c844g9eyzz7o).
 
 ## Requirements
 - Python 3.8
