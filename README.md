@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 302: Pros Predict Islam Makhachev vs. Dustin Poirier | MMA Fighting**
+**The ESA is visiting the asteroid punched by NASA’s DART mission**
 
-You can read more about it [here](https://www.youtube.com/watch?v=XJVDg07A74E).
+You can read more about it [here](https://www.theverge.com/2024/5/30/24167787/esa-hera-mission-didymos-asteroid-nasa-dart-testing).
 
 ## Requirements
 - Python 3.8
