@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Islam Makhachev: Dustin Poirier 'doesn't believe he can beat me,' talks Khabib Nurmagomedov's return**
+**Apple Music launches special playlist to promote WWDC 2024, hints at new icon**
 
-You can read more about it [here](https://www.mmafighting.com/2024/5/29/24167242/islam-makhachev-dustin-poirier-doesnt-believe-he-can-beat-me-addresses-khabib-nurmagomedov-return).
+You can read more about it [here](https://9to5mac.com/2024/05/29/apple-music-playlist-wwdc-2024/).
 
 ## Requirements
 - Python 3.8
