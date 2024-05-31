@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European-Japanese satellite blasts off to space | BBC News**
+**Raskin argues DOJ can force recusals of Alito, Thomas in Jan. 6 cases**
 
-You can read more about it [here](https://www.youtube.com/watch?v=DuUH2sdTL_4).
+You can read more about it [here](https://thehill.com/homenews/house/4692965-raskin-argues-doj-can-force-recusals-of-alito-thomas-in-jan-6-cases/).
 
 ## Requirements
 - Python 3.8
