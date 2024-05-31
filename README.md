@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies**
+**Islam Makhachev: Dustin Poirier 'doesn't believe he can beat me,' talks Khabib Nurmagomedov's return**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html).
+You can read more about it [here](https://www.mmafighting.com/2024/5/29/24167242/islam-makhachev-dustin-poirier-doesnt-believe-he-can-beat-me-addresses-khabib-nurmagomedov-return).
 
 ## Requirements
 - Python 3.8
