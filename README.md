@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US tells owners to stop driving older Nissan vehicles over air bag concerns**
+**Stock market today: Dow extends slide as lackluster earnings, rate fears prey on nerves**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/us-tells-owners-stop-driving-older-nissan-vehicles-over-air-bag-concerns).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-extends-slide-as-lackluster-earnings-rate-fears-prey-on-nerves-133508205.html).
 
 ## Requirements
 - Python 3.8
