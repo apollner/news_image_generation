@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines sued for racial discrimination by Black men**
+**Man with suspended license appears in Michigan court over Zoom while driving**
 
-You can read more about it [here](https://www.axios.com/2024/05/30/american-airlines-black-passengers-racial-discrimination-lawsuit).
+You can read more about it [here](https://abc7.com/post/corey-harris-driving-video-michigan-court-hearing-zoom-video/14888886/).
 
 ## Requirements
 - Python 3.8
