@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indexes are a mixed bag as investors weigh inflation data**
+**FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product**
 
-You can read more about it [here](https://finance.yahoo.com/news/futures-slip-investors-brace-inflation-103240200.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html).
 
 ## Requirements
 - Python 3.8
