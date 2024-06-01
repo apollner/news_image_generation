@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets reliever Jorge López says his 'worst team' line was a misquote after getting DFA'd**
+**Attorneys for Idaho murder suspect Bryan Kohberger maintain DA is slow-walking evidence**
 
-You can read more about it [here](https://sports.yahoo.com/mets-reliever-jorge-lopez-says-his-worst-team-line-was-a-misquote-after-getting-dfad-225810324.html).
+You can read more about it [here](https://www.foxnews.com/us/attorneys-idaho-murder-suspect-bryan-kohberger-maintain-da-slow-walking-evidence).
 
 ## Requirements
 - Python 3.8
