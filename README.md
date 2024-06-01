@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WSJ’s Varghese among the layoffs**
+**Gap shares pop 20% as earnings beat on sales growth at all four brands**
 
-You can read more about it [here](https://talkingbiznews.com/media-news/wsjs-varghese-among-the-layoffs/).
+You can read more about it [here](https://www.cnbc.com/2024/05/30/gap-gps-earnings-q1-2024.html).
 
 ## Requirements
 - Python 3.8
