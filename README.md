@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gap shares pop 15% as earnings beat on sales growth at all four brands**
+**Boeing's Starliner rolls out to pad for June 1 astronaut launch (photos)**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/30/gap-gps-earnings-q1-2024.html).
+You can read more about it [here](https://www.space.com/boeing-starliner-rolls-out-launch-pad-second-time-photos).
 
 ## Requirements
 - Python 3.8
