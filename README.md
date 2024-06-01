@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attorneys for Idaho murder suspect Bryan Kohberger maintain DA is slow-walking evidence**
+**Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - May 30, 2024 Gametracker**
 
-You can read more about it [here](https://www.foxnews.com/us/attorneys-idaho-murder-suspect-bryan-kohberger-maintain-da-slow-walking-evidence).
+You can read more about it [here](https://www.cbssports.com/nba/gametracker/recap/NBA_20240530_DAL@MIN/).
 
 ## Requirements
 - Python 3.8
