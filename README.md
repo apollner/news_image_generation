@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden allows Ukraine to hit Russian targets with US arms, angering Moscow**
+**Controversial Donald Trump Movie ‘The Apprentice’ Made a Splash in Cannes. Is Hollywood Too Scared to Release It?**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/5/31/biden-eases-ban-on-ukraines-use-of-us-weapons-inside-russia).
+You can read more about it [here](https://variety.com/2024/film/news/donald-trump-movie-the-apprentice-cannes-release-hollywood-legal-issues-1236020018/).
 
 ## Requirements
 - Python 3.8
