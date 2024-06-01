@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert De Niro Celebrates Trump’s Conviction: ‘This Is My Country. This Guy Wants to Destroy It’**
+**Jeep's Wagoneer S Trailhawk concept teases a fully electric off-roader**
 
-You can read more about it [here](https://variety.com/2024/film/news/donald-trump-robert-de-niro-guilty-1236020569/).
+You can read more about it [here](https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road).
 
 ## Requirements
 - Python 3.8
