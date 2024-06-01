@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 302 OFFICIAL WEIGH-INS: Islam Makhachev vs Dustin Poirier**
+**Biden says Israel has offered a new ‘roadmap’ to bring about a ceasefire in Gaza**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6IMwIXBWP2A).
+You can read more about it [here](https://www.cnn.com/2024/05/31/politics/biden-middle-east-remarks/index.html).
 
 ## Requirements
 - Python 3.8
