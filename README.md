@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says Israel has offered a new ‘roadmap’ to bring about a ceasefire in Gaza**
+**Chobani Yogurt Founder Buys Anchor Brewing Company**
 
-You can read more about it [here](https://www.cnn.com/2024/05/31/politics/biden-middle-east-remarks/index.html).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
