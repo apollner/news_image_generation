@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez Cancels Summer Tour**
+**Indexes are a mixed bag as investors weigh inflation data**
 
-You can read more about it [here](https://variety.com/2024/music/news/jennifer-lopez-cancels-tour-1236021391/).
+You can read more about it [here](https://finance.yahoo.com/news/futures-slip-investors-brace-inflation-103240200.html).
 
 ## Requirements
 - Python 3.8
