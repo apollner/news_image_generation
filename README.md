@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google News goes down for millions worldwide in mysterious outage — latest updates**
+**Fed's preferred inflation metric remains at 2.7% in April**
 
-You can read more about it [here](https://www.tomsguide.com/computing/mobile-apps/google-news-goes-down-for-millions-of-users-worldwide-in-mysterious-outage).
+You can read more about it [here](https://www.ft.com/content/6c0b34a3-63d7-4dad-865b-5554ff7b73ff).
 
 ## Requirements
 - Python 3.8
