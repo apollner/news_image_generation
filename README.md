@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brad Pitt and Angelina Jolie's child Shiloh filed to drop his last name on 18th birthday**
+**Spot the Space Station tonight and Progress 88 spacecraft**
 
-You can read more about it [here](https://pagesix.com/2024/05/30/parents/brad-pitt-and-angelina-jolies-child-shiloh-filed-to-drop-his-last-name-on-18th-birthday/).
+You can read more about it [here](https://www.wxii12.com/article/wxii-12-news-spot-international-space-station-tonight-refueling-spacecraft-progress-88-kazakhastan/60954080).
 
 ## Requirements
 - Python 3.8
