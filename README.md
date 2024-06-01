@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gap shares pop 20% as earnings beat on sales growth at all four brands**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/30/gap-gps-earnings-q1-2024.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
