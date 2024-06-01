@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SEC's Greg Sankey confident NCAA Division I can operate together**
+**WSJ’s Varghese among the layoffs**
 
-You can read more about it [here](https://www.espn.com/college-sports/story/_/id/40246983/sec-greg-sankey-confident-ncaa-division-operate-together).
+You can read more about it [here](https://talkingbiznews.com/media-news/wsjs-varghese-among-the-layoffs/).
 
 ## Requirements
 - Python 3.8
