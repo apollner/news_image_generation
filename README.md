@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden said to be finalizing plans for migrant limits as part of a US-Mexico border clampdown**
+**Wordle locked in legal row with geography spinoff, Worldle**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/31/biden-finalizing-plans-migrant-limits-us-mexico-border-00160944).
+You can read more about it [here](https://www.bbc.com/news/articles/cjrr5ee5zv8o).
 
 ## Requirements
 - Python 3.8
