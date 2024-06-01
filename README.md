@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product**
+**Borussia Dortmund 'don't care' Real Madrid are UCL favourites**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/40251698/borussia-dortmund-real-madrid-champions-league-favourites).
 
 ## Requirements
 - Python 3.8
