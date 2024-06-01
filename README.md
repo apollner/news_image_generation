@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google News goes down for millions worldwide in mysterious outage — latest updates**
+**Israel confirms its forces are in central Rafah in expanding offensive in the southern Gaza city**
 
-You can read more about it [here](https://www.tomsguide.com/computing/mobile-apps/google-news-goes-down-for-millions-of-users-worldwide-in-mysterious-outage).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-rafah-2f603675195f80c73c593020398ed72a).
 
 ## Requirements
 - Python 3.8
