@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden gives Ukraine permission to carry out limited strikes within Russia using US weapons**
+**Yemen's Houthis say they launched attack on US aircraft carrier Eisenhower in Red Sea**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/politics/biden-ukraine-limited-strikes-russia/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9taWRkbGUtZWFzdC95ZW1lbnMtaG91dGhpcy1zYXktdGhleS1sYXVuY2hlZC1taXNzaWxlLWF0dGFjay11cy1haXJjcmFmdC1jYXJyaWVyLWVpc2VuaG93ZXItMjAyNC0wNS0zMS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
