@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen's Houthis say they launched attack on US aircraft carrier Eisenhower in Red Sea**
+**81-year-old man accused of terrorizing California neighborhood for years with slingshot is found dead days after arrest**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9taWRkbGUtZWFzdC95ZW1lbnMtaG91dGhpcy1zYXktdGhleS1sYXVuY2hlZC1taXNzaWxlLWF0dGFjay11cy1haXJjcmFmdC1jYXJyaWVyLWVpc2VuaG93ZXItMjAyNC0wNS0zMS_SAQA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/serial-slingshot-shooter-prince-king-dies-after-arrest-california/).
 
 ## Requirements
 - Python 3.8
