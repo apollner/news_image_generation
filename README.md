@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL Films and HBO announce Hard Knocks: Training Camp with the Chicago Bears**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.chicagobears.com/news/chicago-bears-nfl-films-and-hbo-announce-hard-knocks-training-camp-with-the-chicago-bears).
 
 ## Requirements
 - Python 3.8
