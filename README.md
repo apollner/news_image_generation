@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olympic gold medal wrestler Gable Steveson signing with Bills**
+**Trump’s historic conviction isn’t doing much to shift these voters’ 2024 picks**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40250779/olympic-gold-medal-wrestler-gable-steveson-signing-bills).
+You can read more about it [here](https://www.cnn.com/2024/05/31/politics/voters-trump-conviction-2024/index.html).
 
 ## Requirements
 - Python 3.8
