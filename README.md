@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brad Pitt and Angelina Jolie’s daughter Shiloh seeks legal help to drop ‘Pitt’ from her surname**
+**Google News goes down for millions worldwide in mysterious outage — latest updates**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/brad-pitt-and-angelina-jolie-s-daughter-shiloh-seeks-legal-help-to-drop-pitt-from-her-surname-101717163490510.html).
+You can read more about it [here](https://www.tomsguide.com/computing/mobile-apps/google-news-goes-down-for-millions-of-users-worldwide-in-mysterious-outage).
 
 ## Requirements
 - Python 3.8
