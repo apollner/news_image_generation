@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's preferred inflation metric remains at 2.7% in April**
+**Biden allows Ukraine to hit Russian targets with US arms, angering Moscow**
 
-You can read more about it [here](https://www.ft.com/content/6c0b34a3-63d7-4dad-865b-5554ff7b73ff).
+You can read more about it [here](https://www.aljazeera.com/news/2024/5/31/biden-eases-ban-on-ukraines-use-of-us-weapons-inside-russia).
 
 ## Requirements
 - Python 3.8
