@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Third person in US tests positive for bird flu in connection to outbreak in dairy cattle**
+**Brad Pitt and Angelina Jolie's child Shiloh filed to drop his last name on 18th birthday**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html).
+You can read more about it [here](https://pagesix.com/2024/05/30/parents/brad-pitt-and-angelina-jolies-child-shiloh-filed-to-drop-his-last-name-on-18th-birthday/).
 
 ## Requirements
 - Python 3.8
