@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spot the Space Station tonight and Progress 88 spacecraft**
+**Third person in US tests positive for bird flu in connection to outbreak in dairy cattle**
 
-You can read more about it [here](https://www.wxii12.com/article/wxii-12-news-spot-international-space-station-tonight-refueling-spacecraft-progress-88-kazakhastan/60954080).
+You can read more about it [here](https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html).
 
 ## Requirements
 - Python 3.8
