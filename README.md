@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden secretly gave Ukraine permission to strike inside Russia with US weapons**
+**SEC's Greg Sankey confident NCAA Division I can operate together**
 
-You can read more about it [here](https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731).
+You can read more about it [here](https://www.espn.com/college-sports/story/_/id/40246983/sec-greg-sankey-confident-ncaa-division-operate-together).
 
 ## Requirements
 - Python 3.8
