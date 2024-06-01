@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wordle locked in legal row with geography spinoff, Worldle**
+**81-year-old 'serial slingshot shooter' found dead days after he's arrested for terrorizing neighborhood for a decade**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjrr5ee5zv8o).
+You can read more about it [here](https://nypost.com/2024/05/31/us-news/california-serial-slingshot-shooter-prince-raymond-king-who-terrorized-neighborhood-for-a-decade-is-found-dead-after-his-arrest/).
 
 ## Requirements
 - Python 3.8
