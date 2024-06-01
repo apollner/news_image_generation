@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chobani Yogurt Founder Buys Anchor Brewing Company**
+**Jennifer Lopez Cancels Summer Tour**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://variety.com/2024/music/news/jennifer-lopez-cancels-tour-1236021391/).
 
 ## Requirements
 - Python 3.8
