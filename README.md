@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product**
+**UFC 302 OFFICIAL WEIGH-INS: Islam Makhachev vs Dustin Poirier**
 
-You can read more about it [here](https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html).
+You can read more about it [here](https://www.youtube.com/watch?v=6IMwIXBWP2A).
 
 ## Requirements
 - Python 3.8
