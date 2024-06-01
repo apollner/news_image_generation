@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - May 30, 2024 Gametracker**
+**Biden said to be finalizing plans for migrant limits as part of a US-Mexico border clampdown**
 
-You can read more about it [here](https://www.cbssports.com/nba/gametracker/recap/NBA_20240530_DAL@MIN/).
+You can read more about it [here](https://www.politico.com/news/2024/05/31/biden-finalizing-plans-migrant-limits-us-mexico-border-00160944).
 
 ## Requirements
 - Python 3.8
