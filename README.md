@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Love Horoscope For Each Zodiac Sign On Friday, May 31**
+**Mets reliever Jorge López says his 'worst team' line was a misquote after getting DFA'd**
 
-You can read more about it [here](https://www.yourtango.com/2024374862/each-zodiac-signs-love-horoscope-friday-may-31-2024).
+You can read more about it [here](https://sports.yahoo.com/mets-reliever-jorge-lopez-says-his-worst-team-line-was-a-misquote-after-getting-dfad-225810324.html).
 
 ## Requirements
 - Python 3.8
