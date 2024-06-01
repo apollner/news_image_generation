@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Third person in US tests positive for bird flu in connection to outbreak in dairy cattle**
+**Love Horoscope For Each Zodiac Sign On Friday, May 31**
 
-You can read more about it [here](https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html).
+You can read more about it [here](https://www.yourtango.com/2024374862/each-zodiac-signs-love-horoscope-friday-may-31-2024).
 
 ## Requirements
 - Python 3.8
