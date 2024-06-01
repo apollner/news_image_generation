@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb telescope discovers the 2 earliest galaxies in the known universe — and 1 is shockingly big**
+**Third person in US tests positive for bird flu in connection to outbreak in dairy cattle**
 
-You can read more about it [here](https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-the-2-earliest-galaxies-in-the-known-universe-and-1-is-shockingly-big).
+You can read more about it [here](https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html).
 
 ## Requirements
 - Python 3.8
