@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**81-year-old man accused of terrorizing California neighborhood for years with slingshot is found dead days after arrest**
+**Google News goes down for millions worldwide in mysterious outage — latest updates**
 
-You can read more about it [here](https://www.cbsnews.com/news/serial-slingshot-shooter-prince-king-dies-after-arrest-california/).
+You can read more about it [here](https://www.tomsguide.com/computing/mobile-apps/google-news-goes-down-for-millions-of-users-worldwide-in-mysterious-outage).
 
 ## Requirements
 - Python 3.8
