@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeep's Wagoneer S Trailhawk concept teases a fully electric off-roader**
+**James Webb telescope discovers the 2 earliest galaxies in the known universe — and 1 is shockingly big**
 
-You can read more about it [here](https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road).
+You can read more about it [here](https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-the-2-earliest-galaxies-in-the-known-universe-and-1-is-shockingly-big).
 
 ## Requirements
 - Python 3.8
