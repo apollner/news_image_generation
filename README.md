@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Films and HBO announce Hard Knocks: Training Camp with the Chicago Bears**
+**Robert De Niro Celebrates Trump’s Conviction: ‘This Is My Country. This Guy Wants to Destroy It’**
 
-You can read more about it [here](https://www.chicagobears.com/news/chicago-bears-nfl-films-and-hbo-announce-hard-knocks-training-camp-with-the-chicago-bears).
+You can read more about it [here](https://variety.com/2024/film/news/donald-trump-robert-de-niro-guilty-1236020569/).
 
 ## Requirements
 - Python 3.8
