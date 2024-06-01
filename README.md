@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Controversial Donald Trump Movie ‘The Apprentice’ Made a Splash in Cannes. Is Hollywood Too Scared to Release It?**
+**Brad Pitt and Angelina Jolie’s daughter Shiloh seeks legal help to drop ‘Pitt’ from her surname**
 
-You can read more about it [here](https://variety.com/2024/film/news/donald-trump-movie-the-apprentice-cannes-release-hollywood-legal-issues-1236020018/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/brad-pitt-and-angelina-jolie-s-daughter-shiloh-seeks-legal-help-to-drop-pitt-from-her-surname-101717163490510.html).
 
 ## Requirements
 - Python 3.8
