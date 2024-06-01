@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s historic conviction isn’t doing much to shift these voters’ 2024 picks**
+**FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product**
 
-You can read more about it [here](https://www.cnn.com/2024/05/31/politics/voters-trump-conviction-2024/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html).
 
 ## Requirements
 - Python 3.8
