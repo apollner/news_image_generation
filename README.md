@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeep's Wagoneer S Trailhawk concept teases a fully electric off-roader**
+**Biden secretly gave Ukraine permission to strike inside Russia with US weapons**
 
-You can read more about it [here](https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road).
+You can read more about it [here](https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731).
 
 ## Requirements
 - Python 3.8
