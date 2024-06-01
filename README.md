@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's Starliner rolls out to pad for June 1 astronaut launch (photos)**
+**James Webb telescope discovers the 2 earliest galaxies in the known universe — and 1 is shockingly big**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-rolls-out-launch-pad-second-time-photos).
+You can read more about it [here](https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-the-2-earliest-galaxies-in-the-known-universe-and-1-is-shockingly-big).
 
 ## Requirements
 - Python 3.8
