@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel confirms its forces are in central Rafah in expanding offensive in the southern Gaza city**
+**Olympic gold medal wrestler Gable Steveson signing with Bills**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-rafah-2f603675195f80c73c593020398ed72a).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40250779/olympic-gold-medal-wrestler-gable-steveson-signing-bills).
 
 ## Requirements
 - Python 3.8
