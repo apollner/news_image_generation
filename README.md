@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**81-year-old 'serial slingshot shooter' found dead days after he's arrested for terrorizing neighborhood for a decade**
+**Biden gives Ukraine permission to carry out limited strikes within Russia using US weapons**
 
-You can read more about it [here](https://nypost.com/2024/05/31/us-news/california-serial-slingshot-shooter-prince-raymond-king-who-terrorized-neighborhood-for-a-decade-is-found-dead-after-his-arrest/).
+You can read more about it [here](https://www.cnn.com/2024/05/30/politics/biden-ukraine-limited-strikes-russia/index.html).
 
 ## Requirements
 - Python 3.8
