@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s Boeing Starliner Crew Flight Test Launch – June 1, 2024 (Official NASA Broadcast)**
+**North Korea launches new wave of ‘trash balloons’ towards South Korea**
 
-You can read more about it [here](https://www.youtube.com/watch?v=aEi5boWupRk).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/1/north-korea-launches-new-wave-of-trash-balloons-towards-south-korea).
 
 ## Requirements
 - Python 3.8
