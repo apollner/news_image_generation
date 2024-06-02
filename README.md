@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie and Brad Pitt's daughter Shiloh files for name change**
+**Homebuyers are starting to revolt over steep prices across US**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cyjjymklnvmo).
+You can read more about it [here](https://finance.yahoo.com/news/homebuyers-starting-revolt-over-steep-143000917.html).
 
 ## Requirements
 - Python 3.8
