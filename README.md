@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marian Robinson, mother of first lady Michelle Obama, dies at 86**
+**Gable Steveson, Olympic gold medal winner and NCAA champion wrestler, signs with Bills**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/05/31/marian-robinson-mother-of-michelle-obama-dead-obituary/).
+You can read more about it [here](https://sports.yahoo.com/gable-steveson-olympic-gold-medal-winner-and-ncaa-champion-wrestler-signs-with-bills-191631398.html).
 
 ## Requirements
 - Python 3.8
