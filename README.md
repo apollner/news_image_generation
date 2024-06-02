@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida deputy who fatally shot Airman Roger Fortson fired**
+**Women on Mediterranean diet live significantly longer: Study**
 
-You can read more about it [here](https://apnews.com/article/airman-shot-florida-deputy-roger-fortson-c616444086b39d20a80f35ba86ec531b).
+You can read more about it [here](https://thehill.com/policy/healthcare/4697185-women-mediterranean-diet-live-longer/).
 
 ## Requirements
 - Python 3.8
