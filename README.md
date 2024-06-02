@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia hits Ukraine energy infrastructure in large-scale missile, drone attack**
+**Angelina Jolie and Brad Pitt's daughter Shiloh files for name change**
 
-You can read more about it [here](https://www.politico.eu/article/war-russia-ukraine-energy-infrastructure-power-national-grid-missile-attack/).
+You can read more about it [here](https://www.bbc.com/news/articles/cyjjymklnvmo).
 
 ## Requirements
 - Python 3.8
