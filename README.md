@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa’s ANC loses 30-year parliamentary majority after election**
+**NASA’s Boeing Starliner Crew Flight Test Launch – June 1, 2024 (Official NASA Broadcast)**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/1/south-africa-anc-loses-30-year-parliamentary-majority-after-election).
+You can read more about it [here](https://www.youtube.com/watch?v=aEi5boWupRk).
 
 ## Requirements
 - Python 3.8
