@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former tech exec admits to fraud involving a scheme to boost Getty Images shares, authorities say**
+**US defence chief accuses China of harassing Philippines**
 
-You can read more about it [here](https://finance.yahoo.com/news/former-tech-exec-admits-fraud-232440627.html).
+You can read more about it [here](https://www.ft.com/content/b889d33c-7745-48b7-b847-64f2b3003409).
 
 ## Requirements
 - Python 3.8
