@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert De Niro’s Invite To NAB Event Rescinded After Speech Outside Trump Trial**
+**Marian Robinson, mother of first lady Michelle Obama, dies at 86**
 
-You can read more about it [here](http://deadline.com/2024/05/robert-de-niro-nab-invite-rescinded-awards-anti-trump-remarks-1235946205/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/05/31/marian-robinson-mother-of-michelle-obama-dead-obituary/).
 
 ## Requirements
 - Python 3.8
