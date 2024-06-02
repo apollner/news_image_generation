@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chad Daybell sentenced to death for killing wife and girlfriend's 2 children in jury decision**
+**Ukraine war: Can using Western weapons on Russia change the war?**
 
-You can read more about it [here](https://apnews.com/article/idaho-murder-trial-daybell-vallow-children-killed-a294ee6efc7ecb814f67d0e5f5daaf98).
+You can read more about it [here](https://www.bbc.com/news/articles/cjll1r1el5wo).
 
 ## Requirements
 - Python 3.8
