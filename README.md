@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Women on Mediterranean diet live significantly longer: Study**
+**Marian Robinson, Michelle Obama's mother, dies at 86**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4697185-women-mediterranean-diet-live-longer/).
+You can read more about it [here](https://www.npr.org/2024/05/31/g-s1-2335/marian-robinson-dead).
 
 ## Requirements
 - Python 3.8
