@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Garfield’ Beating ‘Furiosa’ With $13M-$14M in Clawless Weekend**
+**How to watch 'The Life and Murder of Nicole Brown Simpson' documentary**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/box-office-garfield-furiosa-1235913297/).
+You can read more about it [here](https://pagesix.com/2024/06/01/entertainment/how-to-watch-the-life-and-murder-of-nicole-brown-simpson-doc/).
 
 ## Requirements
 - Python 3.8
