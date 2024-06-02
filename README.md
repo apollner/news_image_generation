@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homebuyers are starting to revolt over steep prices across US**
+**Kesha Performs At 2024 WeHo Pride in L.A., Flips Off Diddy**
 
-You can read more about it [here](https://finance.yahoo.com/news/homebuyers-starting-revolt-over-steep-143000917.html).
+You can read more about it [here](https://www.tmz.com/2024/06/01/kesha-perform-west-hollywood-pride-los-angeles-concert-flip-off-diddy-tik-tok/).
 
 ## Requirements
 - Python 3.8
