@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio building explosion caused by crew cutting gas line they thought was off, NTSB says**
+**Jennifer Lopez 'devastated,' cancels million-dollar tour amid Ben Affleck split rumours and low sales**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/ohio-building-explosion-caused-crew-cutting-gas-line-thought-was-ntsb-rcna154999).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/jennifer-lopez-devastated-cancels-million-dollar-tour-amid-ben-affleck-split-rumours-and-low-sales-101717200160559.html).
 
 ## Requirements
 - Python 3.8
