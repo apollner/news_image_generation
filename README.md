@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marian Robinson, Michelle Obama's mother, dies at 86**
+**Are auroras coming back?**
 
-You can read more about it [here](https://www.npr.org/2024/05/31/g-s1-2335/marian-robinson-dead).
+You can read more about it [here](https://www.npr.org/2024/05/31/nx-s1-4987130/auroras-northern-lights-solar-sun).
 
 ## Requirements
 - Python 3.8
