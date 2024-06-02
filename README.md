@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump responds to guilty verdict by falsely blasting 'rigged trial'**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/trump-2024-campaign-trial-4629840240cb308c5eae335532ad17ed).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
