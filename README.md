@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio building explosion caused by crew cutting gas line they thought was off, NTSB says**
+**Republicans join Trump's attacks on justice system and campaign of vengeance after guilty verdict**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/ohio-building-explosion-caused-crew-cutting-gas-line-thought-was-ntsb-rcna154999).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLWd1aWx0eS1yZXB1YmxpY2Fucy12ZW5nZWFuY2UtYTA1ZGI3ZmEyNTEyYTYyYWZlMDM1OTkyZjJiYWFmMTbSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
