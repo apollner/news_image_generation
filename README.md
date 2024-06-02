@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Are auroras coming back?**
+**Trump responds to guilty verdict by falsely blasting 'rigged trial'**
 
-You can read more about it [here](https://www.npr.org/2024/05/31/nx-s1-4987130/auroras-northern-lights-solar-sun).
+You can read more about it [here](https://apnews.com/article/trump-2024-campaign-trial-4629840240cb308c5eae335532ad17ed).
 
 ## Requirements
 - Python 3.8
