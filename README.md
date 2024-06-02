@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lori Vallow's son, Colby Ryan, speaks at Chad Daybell sentencing**
+**Texas Supreme Court rejects abortion ban challenge**
 
-You can read more about it [here](https://www.ktvb.com/article/news/special-reports/chad-daybell-trial/lori-vallow-colby-ryan-victim-impact-statement-chad-daybell-sentencing-idaho-death-penalty/277-79ddfe3c-3f04-4ceb-8b9d-f1b0e8e4e80d).
+You can read more about it [here](https://www.bbc.com/news/articles/c8881d31j44o).
 
 ## Requirements
 - Python 3.8
