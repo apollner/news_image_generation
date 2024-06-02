@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ANC party that freed South Africa from apartheid loses its 30-year majority in landmark election**
+**North Korea launches new wave of ‘trash balloons’ towards South Korea**
 
-You can read more about it [here](https://apnews.com/article/south-africa-election-vote-anc-d9da7582ca98a4e00fec2da6a5fe1e91).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/1/north-korea-launches-new-wave-of-trash-balloons-towards-south-korea).
 
 ## Requirements
 - Python 3.8
