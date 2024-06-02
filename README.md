@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deontay Wilder vs Zhilei Zhang live updates: Predictions, how to watch, round by round analysis**
+**Chad Daybell sentenced to death for killing wife and girlfriend's 2 children in jury decision**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/boxing/2024/06/01/deontay-wilder-zhilei-zhang-live-updates-analysis-highlights/73895743007/).
+You can read more about it [here](https://apnews.com/article/idaho-murder-trial-daybell-vallow-children-killed-a294ee6efc7ecb814f67d0e5f5daaf98).
 
 ## Requirements
 - Python 3.8
