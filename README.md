@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homebuyers are starting to revolt over steep prices across US**
+**The ANC party that freed South Africa from apartheid loses its 30-year majority in landmark election**
 
-You can read more about it [here](https://finance.yahoo.com/news/homebuyers-starting-revolt-over-steep-143000917.html).
+You can read more about it [here](https://apnews.com/article/south-africa-election-vote-anc-d9da7582ca98a4e00fec2da6a5fe1e91).
 
 ## Requirements
 - Python 3.8
