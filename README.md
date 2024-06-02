@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daughter of Angelina Jolie and Brad Pitt files court petition for name change**
+**The number of deaths in ICE custody is already more than double all of last year**
 
-You can read more about it [here](https://fox8.com/news/daughter-of-angelina-jolie-and-brad-pitt-files-court-petition-for-name-change/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/number-deaths-ice-custody-already-double-last-year-rcna154659).
 
 ## Requirements
 - Python 3.8
