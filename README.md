@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gable Steveson, Olympic gold medal winner and NCAA champion wrestler, signs with Bills**
+**Ohio building explosion caused by crew cutting gas line they thought was off, NTSB says**
 
-You can read more about it [here](https://sports.yahoo.com/gable-steveson-olympic-gold-medal-winner-and-ncaa-champion-wrestler-signs-with-bills-191631398.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/ohio-building-explosion-caused-crew-cutting-gas-line-thought-was-ntsb-rcna154999).
 
 ## Requirements
 - Python 3.8
