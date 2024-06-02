@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez 'devastated,' cancels million-dollar tour amid Ben Affleck split rumours and low sales**
+**[Removed]**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/jennifer-lopez-devastated-cancels-million-dollar-tour-amid-ben-affleck-split-rumours-and-low-sales-101717200160559.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
