@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Smith makes rare red-carpet outing with Jada Pinkett Smith, 3 children: See photos**
+**Discounting is back in fashion, as Americans get tired of paying more**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/05/31/will-smith-bad-boys-premiere-jada-pinkett-smith-family/73925248007/).
+You can read more about it [here](https://www.npr.org/2024/06/01/nx-s1-4987202/discounting-is-back-in-fashion-as-americans-get-tired-of-paying-more).
 
 ## Requirements
 - Python 3.8
