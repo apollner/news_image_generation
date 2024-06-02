@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US defense secretary says war with China neither imminent nor unavoidable, stressing need for talks**
+**Atlantic hurricane season is here**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NoYW5ncmlsYS1kaWFsb2d1ZS1hdXN0aW4tY2hpbmEtdGFpd2FuLXBoaWxpcHBpbmVzLWRlZmVuc2UtNDY4NjhiZWMzNzk5ZjUwNDMyNzZkOWZkZWNhNjJhNDHSAQA?oc=5).
+You can read more about it [here](https://www.foxweather.com/extreme-weather/2024-atlantic-hurricane-season-begins).
 
 ## Requirements
 - Python 3.8
