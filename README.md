@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Discounting is back in fashion, as Americans get tired of paying more**
+**Daughter of Angelina Jolie and Brad Pitt files court petition for name change**
 
-You can read more about it [here](https://www.npr.org/2024/06/01/nx-s1-4987202/discounting-is-back-in-fashion-as-americans-get-tired-of-paying-more).
+You can read more about it [here](https://fox8.com/news/daughter-of-angelina-jolie-and-brad-pitt-files-court-petition-for-name-change/).
 
 ## Requirements
 - Python 3.8
