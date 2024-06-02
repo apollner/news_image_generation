@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Borussia Dortmund 'don't care' Real Madrid are UCL favourites**
+**Florida deputy who fatally shot Airman Roger Fortson fired**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/40251698/borussia-dortmund-real-madrid-champions-league-favourites).
+You can read more about it [here](https://apnews.com/article/airman-shot-florida-deputy-roger-fortson-c616444086b39d20a80f35ba86ec531b).
 
 ## Requirements
 - Python 3.8
