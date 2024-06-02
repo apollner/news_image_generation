@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans join Trump's attacks on justice system and campaign of vengeance after guilty verdict**
+**South Africa’s ANC loses 30-year parliamentary majority after election**
 
-You can read more about it [here](https://apnews.com/article/trump-guilty-republicans-vengeance-a05db7fa2512a62afe035992f2baaf16).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/1/south-africa-anc-loses-30-year-parliamentary-majority-after-election).
 
 ## Requirements
 - Python 3.8
