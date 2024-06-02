@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US defence chief accuses China of harassing Philippines**
+**Israel-Gaza war: Biden unveils Israeli proposal to end conflict**
 
-You can read more about it [here](https://www.ft.com/content/b889d33c-7745-48b7-b847-64f2b3003409).
+You can read more about it [here](https://www.bbc.com/news/articles/cw8860gn1nwo).
 
 ## Requirements
 - Python 3.8
