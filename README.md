@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The number of deaths in ICE custody is already more than double all of last year**
+**Russia hits Ukraine energy infrastructure in large-scale missile, drone attack**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/number-deaths-ice-custody-already-double-last-year-rcna154659).
+You can read more about it [here](https://www.politico.eu/article/war-russia-ukraine-energy-infrastructure-power-national-grid-missile-attack/).
 
 ## Requirements
 - Python 3.8
