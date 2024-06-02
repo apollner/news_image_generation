@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Can using Western weapons on Russia change the war?**
+**Box Office: ‘Garfield’ Beating ‘Furiosa’ With $13M-$14M in Clawless Weekend**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjll1r1el5wo).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/box-office-garfield-furiosa-1235913297/).
 
 ## Requirements
 - Python 3.8
