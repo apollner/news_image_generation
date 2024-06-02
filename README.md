@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kesha Performs At 2024 WeHo Pride in L.A., Flips Off Diddy**
+**Florida deputy who fatally shot Airman Roger Fortson fired**
 
-You can read more about it [here](https://www.tmz.com/2024/06/01/kesha-perform-west-hollywood-pride-los-angeles-concert-flip-off-diddy-tik-tok/).
+You can read more about it [here](https://apnews.com/article/airman-shot-florida-deputy-roger-fortson-c616444086b39d20a80f35ba86ec531b).
 
 ## Requirements
 - Python 3.8
