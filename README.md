@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: Biden unveils Israeli proposal to end conflict**
+**Texas Supreme Court rejects abortion ban challenge**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cw8860gn1nwo).
+You can read more about it [here](https://www.bbc.com/news/articles/c8881d31j44o).
 
 ## Requirements
 - Python 3.8
