@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea launches new wave of ‘trash balloons’ towards South Korea**
+**Homebuyers are starting to revolt over steep prices across US**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/1/north-korea-launches-new-wave-of-trash-balloons-towards-south-korea).
+You can read more about it [here](https://finance.yahoo.com/news/homebuyers-starting-revolt-over-steep-143000917.html).
 
 ## Requirements
 - Python 3.8
