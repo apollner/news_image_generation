@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans join Trump's attacks on justice system and campaign of vengeance after guilty verdict**
+**Lori Vallow's son, Colby Ryan, speaks at Chad Daybell sentencing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLWd1aWx0eS1yZXB1YmxpY2Fucy12ZW5nZWFuY2UtYTA1ZGI3ZmEyNTEyYTYyYWZlMDM1OTkyZjJiYWFmMTbSAQA?oc=5).
+You can read more about it [here](https://www.ktvb.com/article/news/special-reports/chad-daybell-trial/lori-vallow-colby-ryan-victim-impact-statement-chad-daybell-sentencing-idaho-death-penalty/277-79ddfe3c-3f04-4ceb-8b9d-f1b0e8e4e80d).
 
 ## Requirements
 - Python 3.8
