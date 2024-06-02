@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea launches new wave of ‘trash balloons’ towards South Korea**
+**Deontay Wilder vs Zhilei Zhang live updates: Predictions, how to watch, round by round analysis**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/1/north-korea-launches-new-wave-of-trash-balloons-towards-south-korea).
+You can read more about it [here](https://www.usatoday.com/story/sports/boxing/2024/06/01/deontay-wilder-zhilei-zhang-live-updates-analysis-highlights/73895743007/).
 
 ## Requirements
 - Python 3.8
