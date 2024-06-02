@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 5/31/24 drawing: $522M jackpot**
+**Will Smith makes rare red-carpet outing with Jada Pinkett Smith, 3 children: See photos**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/05/31/mega-millions-winning-numbers/73928763007/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/05/31/will-smith-bad-boys-premiere-jada-pinkett-smith-family/73925248007/).
 
 ## Requirements
 - Python 3.8
