@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Supreme Court rejects abortion ban challenge**
+**Robert De Niro’s Invite To NAB Event Rescinded After Speech Outside Trump Trial**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8881d31j44o).
+You can read more about it [here](http://deadline.com/2024/05/robert-de-niro-nab-invite-rescinded-awards-anti-trump-remarks-1235946205/).
 
 ## Requirements
 - Python 3.8
