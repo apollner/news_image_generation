@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atlantic hurricane season is here**
+**Mega Millions winning numbers for 5/31/24 drawing: $522M jackpot**
 
-You can read more about it [here](https://www.foxweather.com/extreme-weather/2024-atlantic-hurricane-season-begins).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/05/31/mega-millions-winning-numbers/73928763007/).
 
 ## Requirements
 - Python 3.8
