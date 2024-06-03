@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea says it is halting sending trash balloons to South Korea after hundreds more float over border**
+**Akron mass shooting leaves at least 1 dead, 24 injured**
 
-You can read more about it [here](https://www.cnn.com/2024/06/02/asia/north-korea-trash-balloons-intl-hnk/index.html).
+You can read more about it [here](https://www.beaconjournal.com/story/news/local/2024/06/02/akron-police-investigating-mass-shooting-kelly-8th-avenue/73946625007/).
 
 ## Requirements
 - Python 3.8
