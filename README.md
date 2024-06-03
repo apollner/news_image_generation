@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's defense chief warns those seeking to separate Taiwan from China face 'self-destruction'**
+**Florida deputy who shot Black airman is fired, sheriff says**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/02/chinas-dong-jun-warns-taiwan-separatist-forces-face-self-destruction.html).
+You can read more about it [here](https://www.reuters.com/world/us/florida-deputy-who-shot-black-airman-is-fired-sheriff-says-2024-06-01/).
 
 ## Requirements
 - Python 3.8
