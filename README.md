@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Witnesses completely remove pilot from burning helicopter after crash in Danbury, police say**
+**Russia-Ukraine war: Zelenskyy accuses China of helping Russia disrupt upcoming peace talk**
 
-You can read more about it [here](https://www.wmur.com/article/danbury-new-hampshire-helicopter-crash-witnesses-pilot/60971941).
+You can read more about it [here](https://apnews.com/article/ukraine-singapore-shangrila-russia-defense-94ebb72539182a0215c85895725cdd48).
 
 ## Requirements
 - Python 3.8
