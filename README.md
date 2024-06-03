@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Northern Lights could return this week – 5 ways to plan your photo shoot**
+**Mexico election 2024: Live updates, results, what to know**
 
-You can read more about it [here](https://www.techradar.com/cameras/photography/the-northern-lights-could-return-this-week-5-ways-to-plan-your-photo-shoot).
+You can read more about it [here](https://apnews.com/live/mexico-election-results-updates).
 
 ## Requirements
 - Python 3.8
