@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: Zelenskyy accuses China of helping Russia disrupt upcoming peace talk**
+**Local fan caddies two holes for C.T. Pan at RBC Canadian Open - PGA TOUR**
 
-You can read more about it [here](https://apnews.com/article/ukraine-singapore-shangrila-russia-defense-94ebb72539182a0215c85895725cdd48).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/06/02/local-fan-caddies-for-ct-pan-rbc-canadian-open-fluff).
 
 ## Requirements
 - Python 3.8
