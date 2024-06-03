@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Corral Fire Updates: Evacuations ordered, I-580 closed, 2 firefighters hurt in San Joaquin Co.**
+**Lara Trump declines to say if RNC will support Larry Hogan after trial comments**
 
-You can read more about it [here](https://www.kcra.com/article/crews-battle-450-acre-wildfire-in-san-joaquin-county/60969817).
+You can read more about it [here](https://www.politico.com/news/2024/06/02/lara-trump-rnc-hogan-trial-00161169).
 
 ## Requirements
 - Python 3.8
