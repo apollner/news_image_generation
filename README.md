@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lara Trump declines to say if RNC will support Larry Hogan after trial comments**
+**Mexico election 2024: Live updates, results, what to know**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/02/lara-trump-rnc-hogan-trial-00161169).
+You can read more about it [here](https://apnews.com/live/mexico-election-results-updates).
 
 ## Requirements
 - Python 3.8
