@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US banking lobby last-minute bid to stop Biden vetoing SAB 121 overturn**
+**Zhilei Zhang KOs Deontay Wilder: Full results of Queensberry vs Matchroom 5v5**
 
-You can read more about it [here](https://cointelegraph.com/news/united-states-american-bankers-association-sab-121-joe-biden-cryptocurrency-industry).
+You can read more about it [here](https://sports.yahoo.com/live/zhilei-zhang-kos-deontay-wilder-full-results-of-queensberry-vs-matchroom-5v5-180718964.html).
 
 ## Requirements
 - Python 3.8
