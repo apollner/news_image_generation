@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 302 results, takeaways: Poirier shows what makes MMA special; Makhachev deserves welterweight title shot**
+**Novak Djokovic outlasts Lorenzo Musetti in marathon French Open match which finished just after 3 a.m.**
 
-You can read more about it [here](https://www.cbssports.com/mma/news/ufc-302-results-takeaways-poirier-shows-what-makes-mma-special-makhachev-deserves-welterweight-title-shot/).
+You can read more about it [here](https://www.cnn.com/2024/06/02/sport/novak-djokovic-lorenzo-musetti-french-open-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
