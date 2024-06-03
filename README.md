@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Kylie and Kendall Jenner Sing Billie Eilish, Drink Beers in Car Together**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.tmz.com/2024/06/01/kylie-kendall-jenner-singing-billie-eilish-drink-beer-car-driving-together-sisters/).
 
 ## Requirements
 - Python 3.8
