@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OPEC agrees to keep oil production cut, likely maintaining high prices through November election**
+**Male birth control gel is safe and effective, new trial findings show**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/opec-agrees-halt-oil-production-likely-keeping-prices-high-through-november-election).
+You can read more about it [here](https://www.nbcnews.com/health/mens-health/male-birth-control-gel-results-promising-rcna153349).
 
 ## Requirements
 - Python 3.8
