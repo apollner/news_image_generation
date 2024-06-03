@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa election: ANC loses majority for first time**
+**China’s Chang’e 6 lands on far side of moon amid space rivalry with U.S.**
 
-You can read more about it [here](https://www.dw.com/en/south-africa-election-anc-loses-majority-for-first-time/a-69241589).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/06/02/china-space-change-6-moon-dark-side/).
 
 ## Requirements
 - Python 3.8
