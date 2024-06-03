@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans make Biden's EV push an election-year issue as Democrats take a more nuanced approach**
+**Witnesses completely remove pilot from burning helicopter after crash in Danbury, police say**
 
-You can read more about it [here](https://apnews.com/article/trump-biden-china-electric-vehicles-tax-credit-31e0eca67c6a3ae9ca5a773a1ade9447).
+You can read more about it [here](https://www.wmur.com/article/danbury-new-hampshire-helicopter-crash-witnesses-pilot/60971941).
 
 ## Requirements
 - Python 3.8
