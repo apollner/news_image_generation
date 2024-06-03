@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disruptions at University of Chicago graduation as school withholds 4 diplomas over protests**
+**India Election Exit Polls Show Major Win For Modi, BJP**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/disruptions-university-chicago-graduation-school-withholds-4-diplomas-110743138).
+You can read more about it [here](https://www.bloomberg.com/news/newsletters/2024-06-01/india-election-exit-polls-show-major-win-for-modi-bjp).
 
 ## Requirements
 - Python 3.8
