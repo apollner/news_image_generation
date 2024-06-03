@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Male birth control gel is safe and effective, new trial findings show**
+**A Chinese spacecraft lands on the moon's far side to collect rocks in growing space rivalry with US**
 
-You can read more about it [here](https://www.nbcnews.com/health/mens-health/male-birth-control-gel-results-promising-rcna153349).
+You can read more about it [here](https://www.ksl.com/article/51030448/a-chinese-spacecraft-lands-on-the-moons-far-side-to-collect-rocks-in-growing-space-rivalry-with-us).
 
 ## Requirements
 - Python 3.8
