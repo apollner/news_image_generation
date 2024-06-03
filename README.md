@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China lands on moon's far side in historic sample-retrieval mission**
+**US banking lobby last-minute bid to stop Biden vetoing SAB 121 overturn**
 
-You can read more about it [here](https://www.reuters.com/technology/space/china-lands-uncrewed-spacecraft-far-side-moon-2024-06-01/).
+You can read more about it [here](https://cointelegraph.com/news/united-states-american-bankers-association-sab-121-joe-biden-cryptocurrency-industry).
 
 ## Requirements
 - Python 3.8
