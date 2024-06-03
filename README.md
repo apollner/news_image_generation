@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Akron mass shooting leaves at least 1 dead, 24 injured**
+**OPEC agrees to keep oil production cut, likely maintaining high prices through November election**
 
-You can read more about it [here](https://www.beaconjournal.com/story/news/local/2024/06/02/akron-police-investigating-mass-shooting-kelly-8th-avenue/73946625007/).
+You can read more about it [here](https://www.foxbusiness.com/markets/opec-agrees-halt-oil-production-likely-keeping-prices-high-through-november-election).
 
 ## Requirements
 - Python 3.8
