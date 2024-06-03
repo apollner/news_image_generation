@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez Steps Out for Lunch and Shopping in L.A. Following Tour Cancellation**
+**Blake Snell Suffers Groin Injury, Likely Headed To 15-Day IL**
 
-You can read more about it [here](https://people.com/jennifer-lopez-gets-lunch-shops-in-la-following-tour-cancellation-8657118).
+You can read more about it [here](https://www.mlbtraderumors.com/2024/06/blake-snell-suffers-groin-injury-likely-headed-to-15-day-il.html).
 
 ## Requirements
 - Python 3.8
