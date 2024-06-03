@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Chinese spacecraft lands on the moon's far side to collect rocks in growing space rivalry with US**
+**Jennifer Lopez Steps Out for Lunch and Shopping in L.A. Following Tour Cancellation**
 
-You can read more about it [here](https://www.ksl.com/article/51030448/a-chinese-spacecraft-lands-on-the-moons-far-side-to-collect-rocks-in-growing-space-rivalry-with-us).
+You can read more about it [here](https://people.com/jennifer-lopez-gets-lunch-shops-in-la-following-tour-cancellation-8657118).
 
 ## Requirements
 - Python 3.8
