@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 302 results, takeaways: Poirier shows what makes MMA special; Makhachev deserves welterweight title shot**
+**OPEC+ extends oil cuts to third quarter, discusses 2025, sources say**
 
-You can read more about it [here](https://www.cbssports.com/mma/news/ufc-302-results-takeaways-poirier-shows-what-makes-mma-special-makhachev-deserves-welterweight-title-shot/).
+You can read more about it [here](https://www.reuters.com/business/energy/opec-seen-prolonging-cuts-2024-into-2025-two-sources-say-2024-06-02/).
 
 ## Requirements
 - Python 3.8
