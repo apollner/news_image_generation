@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Can using Western weapons on Russia change the war?**
+**Disruptions at University of Chicago graduation as school withholds 4 diplomas over protests**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjll1r1el5wo).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/disruptions-university-chicago-graduation-school-withholds-4-diplomas-110743138).
 
 ## Requirements
 - Python 3.8
