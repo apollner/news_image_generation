@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Corral Fire Updates: Evacuations ordered, I-580 closed, 2 firefighters hurt in San Joaquin Co.**
+**North Korea says it is halting sending trash balloons to South Korea after hundreds more float over border**
 
-You can read more about it [here](https://www.kcra.com/article/crews-battle-450-acre-wildfire-in-san-joaquin-county/60969817).
+You can read more about it [here](https://www.cnn.com/2024/06/02/asia/north-korea-trash-balloons-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
