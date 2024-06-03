@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**27 people shot in Akron, 1 man killed, multiple victims hospitalized**
+**UFC 302 results, takeaways: Poirier shows what makes MMA special; Makhachev deserves welterweight title shot**
 
-You can read more about it [here](https://www.cleveland19.com/2024/06/02/27-people-shot-akron-1-man-killed-multiple-victims-hospitalized/).
+You can read more about it [here](https://www.cbssports.com/mma/news/ufc-302-results-takeaways-poirier-shows-what-makes-mma-special-makhachev-deserves-welterweight-title-shot/).
 
 ## Requirements
 - Python 3.8
