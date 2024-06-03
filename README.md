@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa's ruling ANC loses majority in country's most sweeping political shift in 30 years**
+**Chad Daybell sentenced to death for killing wife and girlfriend's 2 children in jury decision**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/01/south-africa-election-ruling-anc-loses-majority-in-parliament.html).
+You can read more about it [here](https://apnews.com/article/idaho-murder-trial-daybell-vallow-children-killed-a294ee6efc7ecb814f67d0e5f5daaf98).
 
 ## Requirements
 - Python 3.8
