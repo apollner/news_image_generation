@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Modi magic: Why Indian exit polls predict record BJP win**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/2/modi-magic-why-indian-exit-polls-predict-bjp-could-return-even-stronger).
 
 ## Requirements
 - Python 3.8
