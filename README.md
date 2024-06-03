@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Chinese spacecraft lands on moon's far side to collect rocks in growing space rivalry with US**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/china-space-moon-lander-446770171c61cdc27b2a307f51940300).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
