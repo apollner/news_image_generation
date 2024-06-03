@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico election 2024: Live updates, results, what to know**
+**Corral Fire Updates: Evacuations ordered, I-580 closed, 2 firefighters hurt in San Joaquin Co.**
 
-You can read more about it [here](https://apnews.com/live/mexico-election-results-updates).
+You can read more about it [here](https://www.kcra.com/article/crews-battle-450-acre-wildfire-in-san-joaquin-county/60969817).
 
 ## Requirements
 - Python 3.8
