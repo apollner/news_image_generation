@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India Election Exit Polls Show Major Win For Modi, BJP**
+**South Africa's ruling ANC loses majority in country's most sweeping political shift in 30 years**
 
-You can read more about it [here](https://www.bloomberg.com/news/newsletters/2024-06-01/india-election-exit-polls-show-major-win-for-modi-bjp).
+You can read more about it [here](https://www.cnbc.com/2024/06/01/south-africa-election-ruling-anc-loses-majority-in-parliament.html).
 
 ## Requirements
 - Python 3.8
