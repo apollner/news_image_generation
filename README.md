@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's defense chief warns those seeking to separate Taiwan from China face 'self-destruction'**
+**UFC 302: Makhachev vs Poirier Main Card Results | Winner Interviews, Highlights And More From Newark**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/02/chinas-dong-jun-warns-taiwan-separatist-forces-face-self-destruction.html).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-302-makhachev-vs-poirier?language_content_entity=en).
 
 ## Requirements
 - Python 3.8
