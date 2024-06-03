@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OPEC+ extends oil cuts to third quarter, discusses 2025, sources say**
+**Nvidia's G-Assist is an AI chatbot that guides you through games and optimizes your PC**
 
-You can read more about it [here](https://www.reuters.com/business/energy/opec-seen-prolonging-cuts-2024-into-2025-two-sources-say-2024-06-02/).
+You can read more about it [here](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot).
 
 ## Requirements
 - Python 3.8
