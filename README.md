@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida deputy who shot Black airman is fired, sheriff says**
+**South Africa election: ANC loses majority for first time**
 
-You can read more about it [here](https://www.reuters.com/world/us/florida-deputy-who-shot-black-airman-is-fired-sheriff-says-2024-06-01/).
+You can read more about it [here](https://www.dw.com/en/south-africa-election-anc-loses-majority-for-first-time/a-69241589).
 
 ## Requirements
 - Python 3.8
