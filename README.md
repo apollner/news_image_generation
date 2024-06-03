@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Modi magic: Why Indian exit polls predict record BJP win**
+**China lands on moon's far side in historic sample-retrieval mission**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/2/modi-magic-why-indian-exit-polls-predict-bjp-could-return-even-stronger).
+You can read more about it [here](https://www.reuters.com/technology/space/china-lands-uncrewed-spacecraft-far-side-moon-2024-06-01/).
 
 ## Requirements
 - Python 3.8
