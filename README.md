@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spat between Hunter Biden and his brother’s widow led to Monday’s trial**
+**The Northern Lights could return this week – 5 ways to plan your photo shoot**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/06/02/hunter-biden-beau-widow-gun-trial/).
+You can read more about it [here](https://www.techradar.com/cameras/photography/the-northern-lights-could-return-this-week-5-ways-to-plan-your-photo-shoot).
 
 ## Requirements
 - Python 3.8
