@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China’s Chang’e 6 lands on far side of moon amid space rivalry with U.S.**
+**UFC 302: Makhachev vs Poirier Main Card Results | Winner Interviews, Highlights And More From Newark**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/06/02/china-space-change-6-moon-dark-side/).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-302-makhachev-vs-poirier?language_content_entity=en).
 
 ## Requirements
 - Python 3.8
