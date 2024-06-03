@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico election 2024: Live updates, results, what to know**
+**Republicans make Biden's EV push an election-year issue as Democrats take a more nuanced approach**
 
-You can read more about it [here](https://apnews.com/live/mexico-election-results-updates).
+You can read more about it [here](https://apnews.com/article/trump-biden-china-electric-vehicles-tax-credit-31e0eca67c6a3ae9ca5a773a1ade9447).
 
 ## Requirements
 - Python 3.8
