@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's G-Assist is an AI chatbot that guides you through games and optimizes your PC**
+**Spat between Hunter Biden and his brother’s widow led to Monday’s trial**
 
-You can read more about it [here](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/06/02/hunter-biden-beau-widow-gun-trial/).
 
 ## Requirements
 - Python 3.8
