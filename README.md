@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zhilei Zhang KOs Deontay Wilder: Full results of Queensberry vs Matchroom 5v5**
+**China's defense chief warns those seeking to separate Taiwan from China face 'self-destruction'**
 
-You can read more about it [here](https://sports.yahoo.com/live/zhilei-zhang-kos-deontay-wilder-full-results-of-queensberry-vs-matchroom-5v5-180718964.html).
+You can read more about it [here](https://www.cnbc.com/2024/06/02/chinas-dong-jun-warns-taiwan-separatist-forces-face-self-destruction.html).
 
 ## Requirements
 - Python 3.8
