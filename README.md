@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch 'The Life and Murder of Nicole Brown Simpson' documentary**
+**Ukraine war: Can using Western weapons on Russia change the war?**
 
-You can read more about it [here](https://pagesix.com/2024/06/01/entertainment/how-to-watch-the-life-and-murder-of-nicole-brown-simpson-doc/).
+You can read more about it [here](https://www.bbc.com/news/articles/cjll1r1el5wo).
 
 ## Requirements
 - Python 3.8
