@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico's next president: Who is lifelong leftist Claudia Sheinbaum?**
+**Cyndi Lauper Announces 2024 Girls Just Wanna Have Fun Farewell Tour: See the Dates**
 
-You can read more about it [here](https://apnews.com/article/claudia-sheinbaum-mexico-presidential-election-profile-5f61250aaccb9f397f74ff6c7cfe9cc0).
+You can read more about it [here](http://www.billboard.com/music/music-news/cyndi-lauper-girls-just-wanna-have-fun-farewell-tour-dates-1235698805/).
 
 ## Requirements
 - Python 3.8
