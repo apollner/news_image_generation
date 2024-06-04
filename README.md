@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez hits up flea market with child Emme, 16, after canceling tour to focus on family**
+**Trump says prison would be a ‘breaking point,’ denies calling to ‘lock up’ Hillary Clinton**
 
-You can read more about it [here](https://pagesix.com/2024/06/02/parents/jennifer-lopez-seen-at-flea-market-with-child-emme-after-canceling-tour/).
+You can read more about it [here](https://www.al.com/news/2024/06/trump-not-sure-the-public-would-stand-for-him-going-to-prison-theres-a-breaking-point.html).
 
 ## Requirements
 - Python 3.8
