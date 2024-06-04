@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California's Corral Fire growth escalates to 14,000 acres prompting evacuations, firefighters injured**
+**Mediterranean Diet Tied to 23% Lower Risk of Death in Landmark 25-Year Study**
 
-You can read more about it [here](https://www.foxweather.com/extreme-weather/california-corral-fire).
+You can read more about it [here](https://scitechdaily.com/mediterranean-diet-tied-to-23-lower-risk-of-death-in-landmark-25-year-study/).
 
 ## Requirements
 - Python 3.8
