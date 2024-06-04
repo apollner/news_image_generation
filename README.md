@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD's latest Ryzen chips are ready for Copilot+ with AI power**
+**Israel says 4 more hostages found dead in Gaza, including 3 older men who appeared in video**
 
-You can read more about it [here](http://9to5google.com/2024/06/03/amd-ryzen-ai-copilot-plus-pcs/).
+You can read more about it [here](https://www.yahoo.com/news/israel-confirms-deaths-4-more-175156563.html).
 
 ## Requirements
 - Python 3.8
