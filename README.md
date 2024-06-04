@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coach says Sky 'will learn' from flagrant foul to Caitlin Clark**
+**China lands on the Moon again, taking another step toward human missions**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/40270438/coach-says-sky-learn-flagrant-foul-caitlin-clark).
+You can read more about it [here](https://arstechnica.com/space/2024/06/china-lands-on-the-moon-again-taking-another-step-toward-human-missions/).
 
 ## Requirements
 - Python 3.8
