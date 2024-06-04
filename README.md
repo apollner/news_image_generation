@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 India Election Results: Live Updates, Maps**
+**Hunter Biden to go on trial on gun charges**
 
-You can read more about it [here](https://www.bloomberg.com/graphics/2024-india-election/).
+You can read more about it [here](https://www.npr.org/2024/06/03/g-s1-2448/hunter-biden-trial).
 
 ## Requirements
 - Python 3.8
