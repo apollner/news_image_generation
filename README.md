@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce's Barber Says Taylor Swift Is 'a Good Girlfriend' and Their Wedding 'Would Be Fun'**
+**Boeing’s Starliner gears up for a third launch attempt after weekend scrub**
 
-You can read more about it [here](https://people.com/travis-kelce-barber-reveals-what-he-taylor-swift-like-as-couple-8657551).
+You can read more about it [here](https://www.cnn.com/2024/06/03/science/boeing-starliner-wednesday-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
