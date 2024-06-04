@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Testimony in Karen Read murder trial resumes Monday: Watch live**
+**AMD's latest Ryzen chips are ready for Copilot+ with AI power**
 
-You can read more about it [here](http://www.nbcboston.com/news/local/karen-read-trial-day-19/3387163/).
+You can read more about it [here](http://9to5google.com/2024/06/03/amd-ryzen-ai-copilot-plus-pcs/).
 
 ## Requirements
 - Python 3.8
