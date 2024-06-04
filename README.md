@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She is set to be Mexico’s first female president. But who is Claudia Sheinbaum?**
+**Moderna, Merck say vaccine improved survival in patients with deadly skin cancer**
 
-You can read more about it [here](https://www.cnn.com/2024/06/03/americas/mexico-claudia-sheinbaum-profile-intl-hnk/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/06/03/moderna-merck-cancer-vaccine-with-keytruda-improved-survival-in-trial.html).
 
 ## Requirements
 - Python 3.8
