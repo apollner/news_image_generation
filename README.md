@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from Fauci’s testimony at contentious House hearing on Covid-19 pandemic**
+**Travis Kelce's Barber Says Taylor Swift Is 'a Good Girlfriend' and Their Wedding 'Would Be Fun'**
 
-You can read more about it [here](https://www.cnn.com/2024/06/03/politics/fauci-testimony-house-hearing-covid-19/index.html).
+You can read more about it [here](https://people.com/travis-kelce-barber-reveals-what-he-taylor-swift-like-as-couple-8657551).
 
 ## Requirements
 - Python 3.8
