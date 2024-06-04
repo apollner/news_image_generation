@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan’s car safety scandal deepens, as Toyota halts sale of 3 car models**
+**Mexico's next president: Who is lifelong leftist Claudia Sheinbaum?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5zY21wLmNvbS9uZXdzL2FzaWEvZWFzdC1hc2lhL2FydGljbGUvMzI2NTE3MS9qYXBhbnMtY2FyLXNhZmV0eS1zY2FuZGFsLWRlZXBlbnMtdG95b3RhLWhhbHRzLXNhbGUtMy1jYXItbW9kZWxzLWhvbmRhLW1hemRhLXlhbWFoYS1hbmQtc3V6dWtpLWFsc2_SAZwBaHR0cHM6Ly9hbXAuc2NtcC5jb20vbmV3cy9hc2lhL2Vhc3QtYXNpYS9hcnRpY2xlLzMyNjUxNzEvamFwYW5zLWNhci1zYWZldHktc2NhbmRhbC1kZWVwZW5zLXRveW90YS1oYWx0cy1zYWxlLTMtY2FyLW1vZGVscy1ob25kYS1tYXpkYS15YW1haGEtYW5kLXN1enVraS1hbHNv?oc=5).
+You can read more about it [here](https://apnews.com/article/claudia-sheinbaum-mexico-presidential-election-profile-5f61250aaccb9f397f74ff6c7cfe9cc0).
 
 ## Requirements
 - Python 3.8
