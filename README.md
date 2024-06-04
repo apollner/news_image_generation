@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyndi Lauper Announces 2024 Girls Just Wanna Have Fun Farewell Tour: See the Dates**
+**She is set to be Mexico’s first female president. But who is Claudia Sheinbaum?**
 
-You can read more about it [here](http://www.billboard.com/music/music-news/cyndi-lauper-girls-just-wanna-have-fun-farewell-tour-dates-1235698805/).
+You can read more about it [here](https://www.cnn.com/2024/06/03/americas/mexico-claudia-sheinbaum-profile-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
