@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Murder charges dropped against Minnesota officer Ryan Londregan in death of Ricky Cobb II**
+**Takeaways from Fauci’s testimony at contentious House hearing on Covid-19 pandemic**
 
-You can read more about it [here](https://abcnews.go.com/US/murder-charges-dropped-minnesota-officer-ryan-londregan-death/story?id=110776719).
+You can read more about it [here](https://www.cnn.com/2024/06/03/politics/fauci-testimony-house-hearing-covid-19/index.html).
 
 ## Requirements
 - Python 3.8
