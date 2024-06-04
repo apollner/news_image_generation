@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB Power Rankings: Yankees take No. 1 spot from Phillies, plus what scuffling teams could see summer surge**
+**Trump appeal to remove Willis from Georgia election subversion case set for October, likely putting trial past Election Day**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-power-rankings-yankees-take-no-1-spot-from-phillies-plus-what-scuffling-teams-could-see-summer-surge/).
+You can read more about it [here](https://www.cnn.com/2024/06/03/politics/trump-appeal-fani-willis-georgia/index.html).
 
 ## Requirements
 - Python 3.8
