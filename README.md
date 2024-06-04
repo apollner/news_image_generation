@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD Announces Future AI Chips, Will Speed Rollout of New Models**
+**Rep. Sheila Jackson Lee says she has been diagnosed with pancreatic cancer**
 
-You can read more about it [here](https://finance.yahoo.com/news/amd-announces-future-ai-chips-025635526.html).
+You can read more about it [here](https://www.foxnews.com/politics/rep-sheila-jackson-lee-says-she-been-diagnosed-pancreatic-cancer).
 
 ## Requirements
 - Python 3.8
