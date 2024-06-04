@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says prison would be a ‘breaking point,’ denies calling to ‘lock up’ Hillary Clinton**
+**Atlanta scrambles to prevent water crisis from spreading**
 
-You can read more about it [here](https://www.al.com/news/2024/06/trump-not-sure-the-public-would-stand-for-him-going-to-prison-theres-a-breaking-point.html).
+You can read more about it [here](https://www.ajc.com/news/atlanta-scrambles-to-prevent-water-crisis-from-spreading/DY2DFAF3SZCAVEUYSHQ6G3PGH4/).
 
 ## Requirements
 - Python 3.8
