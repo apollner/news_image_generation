@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Sheila Jackson Lee says she has been diagnosed with pancreatic cancer**
+**Mediterranean Diet Tied to 23% Lower Risk of Death in Landmark 25-Year Study**
 
-You can read more about it [here](https://www.foxnews.com/politics/rep-sheila-jackson-lee-says-she-been-diagnosed-pancreatic-cancer).
+You can read more about it [here](https://scitechdaily.com/mediterranean-diet-tied-to-23-lower-risk-of-death-in-landmark-25-year-study/).
 
 ## Requirements
 - Python 3.8
