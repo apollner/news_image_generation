@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop stock soars after 'Roaring Kitty' reveals $175 million bet on the retailer**
+**MLB Power Rankings: Yankees take No. 1 spot from Phillies, plus what scuffling teams could see summer surge**
 
-You can read more about it [here](https://finance.yahoo.com/news/gamestop-stock-price-soars-after-reddit-user-roaring-kitty-makes-175-million-bet-155344035.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-power-rankings-yankees-take-no-1-spot-from-phillies-plus-what-scuffling-teams-could-see-summer-surge/).
 
 ## Requirements
 - Python 3.8
