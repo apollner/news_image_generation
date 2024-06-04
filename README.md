@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**South Africa's president urges parties to find common ground in talks after election deadlock**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8).
 
 ## Requirements
 - Python 3.8
