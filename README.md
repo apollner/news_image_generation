@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Hunter Biden goes to trial on gun charges, here's how his attorneys plan to defend a 'simple case'**
+**Donald Trump says hush-money trial 'very hard' on wife Melania**
 
-You can read more about it [here](https://abcnews.go.com/US/hunter-biden-trial-gun-charges-attorneys-plan-defend/story?id=110723466).
+You can read more about it [here](https://www.bbc.com/news/articles/c4nndr47kgzo).
 
 ## Requirements
 - Python 3.8
