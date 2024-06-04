@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moderna, Merck say vaccine improved survival in patients with deadly skin cancer**
+**South Africa's Cyril Ramaphosa faces up to poor ANC election result**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/03/moderna-merck-cancer-vaccine-with-keytruda-improved-survival-in-trial.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cx99vww50y5o).
 
 ## Requirements
 - Python 3.8
