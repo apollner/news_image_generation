@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump says hush-money trial 'very hard' on wife Melania**
+**Angelina Jolie and Brad Pitt's daughter Shiloh paid for lawyer to drop actor's last name**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4nndr47kgzo).
+You can read more about it [here](https://pagesix.com/2024/06/02/parents/angelina-jolie-and-brad-pitts-daughter-shiloh-paid-for-lawyer-to-drop-actors-last-name/).
 
 ## Requirements
 - Python 3.8
