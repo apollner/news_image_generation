@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's former President Mahmoud Ahmadinejad registers for presidential election**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/06/02/world-news/irans-former-president-mahmoud-ahmadinejad-registers-for-presidential-election/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
