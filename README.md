@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa's Cyril Ramaphosa faces up to poor ANC election result**
+**Testimony in Karen Read murder trial resumes Monday: Watch live**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx99vww50y5o).
+You can read more about it [here](http://www.nbcboston.com/news/local/karen-read-trial-day-19/3387163/).
 
 ## Requirements
 - Python 3.8
