@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mediterranean Diet Tied to 23% Lower Risk of Death in Landmark 25-Year Study**
+**[Removed]**
 
-You can read more about it [here](https://scitechdaily.com/mediterranean-diet-tied-to-23-lower-risk-of-death-in-landmark-25-year-study/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
