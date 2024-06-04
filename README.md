@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says 4 more hostages found dead in Gaza, including 3 older men who appeared in video**
+**GameStop stock soars after 'Roaring Kitty' reveals $175 million bet on the retailer**
 
-You can read more about it [here](https://www.yahoo.com/news/israel-confirms-deaths-4-more-175156563.html).
+You can read more about it [here](https://finance.yahoo.com/news/gamestop-stock-price-soars-after-reddit-user-roaring-kitty-makes-175-million-bet-155344035.html).
 
 ## Requirements
 - Python 3.8
