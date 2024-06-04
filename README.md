@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blake Snell Suffers Groin Injury, Likely Headed To 15-Day IL**
+**As Hunter Biden goes to trial on gun charges, here's how his attorneys plan to defend a 'simple case'**
 
-You can read more about it [here](https://www.mlbtraderumors.com/2024/06/blake-snell-suffers-groin-injury-likely-headed-to-15-day-il.html).
+You can read more about it [here](https://abcnews.go.com/US/hunter-biden-trial-gun-charges-attorneys-plan-defend/story?id=110723466).
 
 ## Requirements
 - Python 3.8
