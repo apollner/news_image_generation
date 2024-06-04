@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden to go on trial on gun charges**
+**iPhone 16 Pro Could Break Record for Thinnest Bezels on a Smartphone**
 
-You can read more about it [here](https://www.npr.org/2024/06/03/g-s1-2448/hunter-biden-trial).
+You can read more about it [here](https://www.macrumors.com/2024/06/03/iphone-16-pro-thinnest-bezels-smartphone/).
 
 ## Requirements
 - Python 3.8
