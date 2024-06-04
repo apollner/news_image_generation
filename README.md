@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jennifer Lopez hits up flea market with child Emme, 16, after canceling tour to focus on family**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://pagesix.com/2024/06/02/parents/jennifer-lopez-seen-at-flea-market-with-child-emme-after-canceling-tour/).
 
 ## Requirements
 - Python 3.8
