@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**California's Corral Fire growth escalates to 14,000 acres prompting evacuations, firefighters injured**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxweather.com/extreme-weather/california-corral-fire).
 
 ## Requirements
 - Python 3.8
