@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China lands on the Moon again, taking another step toward human missions**
+**Murder charges dropped against Minnesota officer Ryan Londregan in death of Ricky Cobb II**
 
-You can read more about it [here](https://arstechnica.com/space/2024/06/china-lands-on-the-moon-again-taking-another-step-toward-human-missions/).
+You can read more about it [here](https://abcnews.go.com/US/murder-charges-dropped-minnesota-officer-ryan-londregan-death/story?id=110776719).
 
 ## Requirements
 - Python 3.8
