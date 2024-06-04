@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump appeal to remove Willis from Georgia election subversion case set for October, likely putting trial past Election Day**
+**Coach says Sky 'will learn' from flagrant foul to Caitlin Clark**
 
-You can read more about it [here](https://www.cnn.com/2024/06/03/politics/trump-appeal-fani-willis-georgia/index.html).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/40270438/coach-says-sky-learn-flagrant-foul-caitlin-clark).
 
 ## Requirements
 - Python 3.8
