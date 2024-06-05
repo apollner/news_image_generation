@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dangerous heat wave headed toward California, Arizona, Las Vegas**
+**Biden takes a big swing at hostage-for-truce deal, puts onus on Israeli, Hamas officials to step up**
 
-You can read more about it [here](https://abcnews.go.com/US/dangerous-heat-wave-headed-california-arizona-las-vegas/story?id=110771143).
+You can read more about it [here](https://apnews.com/article/biden-israel-peace-proposal-gaza-hamas-mideast-c0dbf1f5df8539d47205f5509d855284).
 
 ## Requirements
 - Python 3.8
