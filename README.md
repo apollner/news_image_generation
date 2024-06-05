@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexican peso, stocks tumble on fears of ruling coalition super-majority in Congress**
+**Ben Affleck and Jennifer Lopez Tackle Breakup Rumors With PDA Outing**
 
-You can read more about it [here](https://www.reuters.com/markets/currencies/mexico-peso-drops-nearly-3-sheinbaum-landslide-raises-reform-worry-2024-06-03/).
+You can read more about it [here](https://www.eonline.com/news/1402875/ben-affleck-and-jennifer-lopez-tackle-breakup-rumors-with-pda-outing).
 
 ## Requirements
 - Python 3.8
