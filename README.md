@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How prepared is the military's medical corps? : Consider This from NPR**
+**Justin Jefferson contract: 11 NFL stars still awaiting big deals**
 
-You can read more about it [here](https://www.npr.org/2024/06/03/1198912492/battlefield-medicine-iraq-afghanistan-innovation-outsourced).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2024/06/03/nfl-contract-extension-candidates-dak-prescott-ceedee-lamb/73960888007/).
 
 ## Requirements
 - Python 3.8
