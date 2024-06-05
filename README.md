@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinians who fled Rafah now live in a bombed-out school**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/06/03/g-s1-2562/gaza-displaced-palestinians-rafah).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
