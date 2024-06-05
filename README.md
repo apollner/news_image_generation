@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Security tight in Hong Kong and China on Tiananmen crackdown anniversary**
+**A heat dome will send temperatures into the triple-digits across the West as fires burn**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9zZWN1cml0eS10aWdodC1jaGluYS1ob25nLWtvbmctdGlhbmFubWVuLWNyYWNrZG93bi1hbm5pdmVyc2FyeS0yMDI0LTA2LTA0L9IBAA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/06/03/weather/california-heat-dome-wildfires-west-climate/index.html).
 
 ## Requirements
 - Python 3.8
