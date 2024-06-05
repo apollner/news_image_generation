@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel war news: Amid truce talk, Netanyahu says Hamas must be crushed**
+**Claudia Sheinbaum elected as Mexico's president, the first woman to hold the job**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/06/03/israeli-war-gaza-hamas-netanyahu-ceasefire/73953885007/).
+You can read more about it [here](https://www.cbsnews.com/news/mexico-first-female-president-claudia-sheinbaum/).
 
 ## Requirements
 - Python 3.8
