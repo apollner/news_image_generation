@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shadow Of The Erdtree Renews The Awe And Adventure Of Elden Ring**
+**Nebraska woman declared dead at nursing home discovered breathing at funeral home 2 hours later**
 
-You can read more about it [here](https://www.gamespot.com/articles/shadow-of-the-erdtree-renews-the-awe-and-adventure-of-elden-ring/1100-6523901/).
+You can read more about it [here](https://www.cbsnews.com/news/woman-declared-dead-found-alive-nursing-funeral-home/).
 
 ## Requirements
 - Python 3.8
