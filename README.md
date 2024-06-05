@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lok Sabha election results 2024: India begins counting votes**
+**German army to boost Rheinmetall artillery shell order by 200,000, document shows**
 
-You can read more about it [here](https://apnews.com/article/india-election-results-2024-lok-sabha-modi-bjp-7893efecc83fa8225a611f174e6420ee).
+You can read more about it [here](https://www.yahoo.com/news/german-army-increase-rheinmetall-artillery-061048165.html).
 
 ## Requirements
 - Python 3.8
