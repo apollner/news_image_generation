@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President Joe Biden's Hunter Biden dilemma grows**
+**61% of US adults will have cardiovascular disease by 2050: report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jam1tdzhnMjE3em_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2ptbXc4ZzIxN3pvLmFtcA?oc=5).
+You can read more about it [here](https://nypost.com/2024/06/04/lifestyle/61-of-us-adults-will-have-cardiovascular-disease-by-2050-report/).
 
 ## Requirements
 - Python 3.8
