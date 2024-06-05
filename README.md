@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Opening statements set to begin in Hunter Biden gun trial following jury selection yesterday**
+**With ‘Deadpool & Wolverine’ Set To Save Summer, Shawn Levy Tops List To Direct Marvel’s Next ‘Avengers’ Movie? – The Dish**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/hunter-biden-gun-case-opening-statements-rcna155304).
+You can read more about it [here](http://deadline.com/2024/06/shawn-levy-avengers-movie-directing-talks-1235958885/).
 
 ## Requirements
 - Python 3.8
