@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Larry Allen's career looms large even among greatest Cowboys**
+**Scalabrine shares expectations for Celtics-Mavs Finals matchup**
 
-You can read more about it [here](https://www.foxsports.com/stories/nfl/even-among-cowboys-larry-allens-career-looms-large).
+You can read more about it [here](https://www.nbcsportsboston.com/nba/boston-celtics/brian-scalabrine-celtics-mavericks-2024-nba-finals-expectations-prediction/618037/?partner=yahoo).
 
 ## Requirements
 - Python 3.8
