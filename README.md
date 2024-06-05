@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DC carjacking suspect charged with murder after taking SUV from hospital, crashing with victim inside: police**
+**[Removed]**
 
-You can read more about it [here](http://www.nbcwashington.com/news/local/dc-carjacking-suspect-charged-with-murder-after-taking-suv-from-hospital-crashing-with-victim-inside-police/3632442/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
