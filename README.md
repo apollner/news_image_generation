@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings, WR Justin Jefferson Agree To Deal**
+**Cyndi Lauper announces farewell tour**
 
-You can read more about it [here](https://www.profootballrumors.com/2024/06/vikings-wr-justin-jefferson-agree-to-deal).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/cyndi-lauper-announces-farewell-tour-rcna155343).
 
 ## Requirements
 - Python 3.8
