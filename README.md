@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scalabrine shares expectations for Celtics-Mavs Finals matchup**
+**Lok Sabha election results 2024: India begins counting votes**
 
-You can read more about it [here](https://www.nbcsportsboston.com/nba/boston-celtics/brian-scalabrine-celtics-mavericks-2024-nba-finals-expectations-prediction/618037/?partner=yahoo).
+You can read more about it [here](https://apnews.com/article/india-election-results-2024-lok-sabha-modi-bjp-7893efecc83fa8225a611f174e6420ee).
 
 ## Requirements
 - Python 3.8
