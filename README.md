@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Nigel Farage has drink thrown over him**
+**Major League Baseball announces sports betting violation suspensions**
 
-You can read more about it [here](https://www.bbc.com/news/videos/crggverzl4wo).
+You can read more about it [here](https://www.mlb.com/news/mlb-announces-sports-betting-violation-suspensions).
 
 ## Requirements
 - Python 3.8
