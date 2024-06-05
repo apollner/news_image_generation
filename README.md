@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyndi Lauper announces farewell tour**
+**Taylor Swift Nods to Travis Kelce With Cute Reaction to Football Lyric**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/cyndi-lauper-announces-farewell-tour-rcna155343).
+You can read more about it [here](https://www.eonline.com/news/1402892/taylor-swifts-sweet-onstage-reaction-to-football-lyric-amid-travis-kelce-romance-will-feel-like-flying).
 
 ## Requirements
 - Python 3.8
