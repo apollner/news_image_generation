@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing’s Starliner gears up for a third launch attempt after weekend scrub**
+**Mexican peso, stocks tumble on fears of ruling coalition super-majority in Congress**
 
-You can read more about it [here](https://www.cnn.com/2024/06/03/science/boeing-starliner-wednesday-launch-scn/index.html).
+You can read more about it [here](https://www.reuters.com/markets/currencies/mexico-peso-drops-nearly-3-sheinbaum-landslide-raises-reform-worry-2024-06-03/).
 
 ## Requirements
 - Python 3.8
