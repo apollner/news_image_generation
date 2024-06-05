@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shadow Of The Erdtree Renews The Awe And Adventure Of Elden Ring**
+**President Joe Biden's Hunter Biden dilemma grows**
 
-You can read more about it [here](https://www.gamespot.com/articles/shadow-of-the-erdtree-renews-the-awe-and-adventure-of-elden-ring/1100-6523901/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jam1tdzhnMjE3em_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2ptbXc4ZzIxN3pvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
