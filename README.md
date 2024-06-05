@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major League Baseball announces sports betting violation suspensions**
+**Palestinians who fled Rafah now live in a bombed-out school**
 
-You can read more about it [here](https://www.mlb.com/news/mlb-announces-sports-betting-violation-suspensions).
+You can read more about it [here](https://www.npr.org/2024/06/03/g-s1-2562/gaza-displaced-palestinians-rafah).
 
 ## Requirements
 - Python 3.8
