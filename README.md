@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fauci draws GOP ire but Kennedy may be making him a problem for Trump**
+**Israel war news: Amid truce talk, Netanyahu says Hamas must be crushed**
 
-You can read more about it [here](https://www.cnn.com/2024/06/03/politics/fauci-trump-rfk/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/06/03/israeli-war-gaza-hamas-netanyahu-ceasefire/73953885007/).
 
 ## Requirements
 - Python 3.8
