@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scalabrine shares expectations for Celtics-Mavs Finals matchup**
+**Border mayors, Democratic allies to join Biden as he announces asylum limits**
 
-You can read more about it [here](https://www.nbcsportsboston.com/nba/boston-celtics/brian-scalabrine-celtics-mavericks-2024-nba-finals-expectations-prediction/618037/?partner=yahoo).
+You can read more about it [here](https://www.politico.com/news/2024/06/03/border-mayors-biden-asylum-limits-00161387).
 
 ## Requirements
 - Python 3.8
