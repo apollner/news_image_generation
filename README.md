@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount Leaders Unveil “Shared Vision” Amid Takeover Offer**
+**61% of US adults will have cardiovascular disease by 2050: report**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/paramount-leadership-takeover-offer-1235914492/).
+You can read more about it [here](https://nypost.com/2024/06/04/lifestyle/61-of-us-adults-will-have-cardiovascular-disease-by-2050-report/).
 
 ## Requirements
 - Python 3.8
