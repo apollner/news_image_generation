@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With ‘Deadpool & Wolverine’ Set To Save Summer, Shawn Levy Tops List To Direct Marvel’s Next ‘Avengers’ Movie? – The Dish**
+**DC carjacking suspect charged with murder after taking SUV from hospital, crashing with victim inside: police**
 
-You can read more about it [here](http://deadline.com/2024/06/shawn-levy-avengers-movie-directing-talks-1235958885/).
+You can read more about it [here](http://www.nbcwashington.com/news/local/dc-carjacking-suspect-charged-with-murder-after-taking-suv-from-hospital-crashing-with-victim-inside-police/3632442/).
 
 ## Requirements
 - Python 3.8
