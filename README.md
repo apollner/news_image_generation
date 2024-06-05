@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Border mayors, Democratic allies to join Biden as he announces asylum limits**
+**Larry Allen's career looms large even among greatest Cowboys**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/03/border-mayors-biden-asylum-limits-00161387).
+You can read more about it [here](https://www.foxsports.com/stories/nfl/even-among-cowboys-larry-allens-career-looms-large).
 
 ## Requirements
 - Python 3.8
