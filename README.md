@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nebraska woman declared dead at nursing home discovered breathing at funeral home 2 hours later**
+**Security tight in Hong Kong and China on Tiananmen crackdown anniversary**
 
-You can read more about it [here](https://www.cbsnews.com/news/woman-declared-dead-found-alive-nursing-funeral-home/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9zZWN1cml0eS10aWdodC1jaGluYS1ob25nLWtvbmctdGlhbmFubWVuLWNyYWNrZG93bi1hbm5pdmVyc2FyeS0yMDI0LTA2LTA0L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
