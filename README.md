@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Claudia Sheinbaum elected as Mexico's president, the first woman to hold the job**
+**Fauci says he still faces death threats because of political ‘performances’ like Marjorie Taylor Greene’s at Covid-19 hearing**
 
-You can read more about it [here](https://www.cbsnews.com/news/mexico-first-female-president-claudia-sheinbaum/).
+You can read more about it [here](https://www.cnn.com/2024/06/03/politics/fauci-covid-19-pandemic-hearing-threats-cnntv/index.html).
 
 ## Requirements
 - Python 3.8
