@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India election 2024: Modi claims victory as he heads for reduced majority**
+**The-Dream Accused of Rape, Sexual Battery, and Sex Trafficking in New Lawsuit**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0vv93pz14zo).
+You can read more about it [here](https://pitchfork.com/news/the-dream-accused-of-rape-sexual-battery-sex-trafficking-in-new-lawsuit/).
 
 ## Requirements
 - Python 3.8
