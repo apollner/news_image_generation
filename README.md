@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings, WR Justin Jefferson Agree To Deal**
+**Shadow Of The Erdtree Renews The Awe And Adventure Of Elden Ring**
 
-You can read more about it [here](https://www.profootballrumors.com/2024/06/vikings-wr-justin-jefferson-agree-to-deal).
+You can read more about it [here](https://www.gamespot.com/articles/shadow-of-the-erdtree-renews-the-awe-and-adventure-of-elden-ring/1100-6523901/).
 
 ## Requirements
 - Python 3.8
