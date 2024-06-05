@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German army to boost Rheinmetall artillery shell order by 200,000, document shows**
+**Dangerous heat wave headed toward California, Arizona, Las Vegas**
 
-You can read more about it [here](https://www.yahoo.com/news/german-army-increase-rheinmetall-artillery-061048165.html).
+You can read more about it [here](https://abcnews.go.com/US/dangerous-heat-wave-headed-california-arizona-las-vegas/story?id=110771143).
 
 ## Requirements
 - Python 3.8
