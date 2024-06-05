@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ticketmaster and several other Snowflake customers hacked**
+**Fauci draws GOP ire but Kennedy may be making him a problem for Trump**
 
-You can read more about it [here](https://arstechnica.com/security/2024/06/ticketmaster-and-several-other-snowflake-customers-hacked/).
+You can read more about it [here](https://www.cnn.com/2024/06/03/politics/fauci-trump-rfk/index.html).
 
 ## Requirements
 - Python 3.8
