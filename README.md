@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The-Dream Accused of Rape, Sexual Battery, and Sex Trafficking in New Lawsuit**
+**Opening statements set to begin in Hunter Biden gun trial following jury selection yesterday**
 
-You can read more about it [here](https://pitchfork.com/news/the-dream-accused-of-rape-sexual-battery-sex-trafficking-in-new-lawsuit/).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/hunter-biden-gun-case-opening-statements-rcna155304).
 
 ## Requirements
 - Python 3.8
