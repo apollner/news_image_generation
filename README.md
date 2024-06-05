@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**61% of US adults will have cardiovascular disease by 2050: report**
+**Watch: Nigel Farage has drink thrown over him**
 
-You can read more about it [here](https://nypost.com/2024/06/04/lifestyle/61-of-us-adults-will-have-cardiovascular-disease-by-2050-report/).
+You can read more about it [here](https://www.bbc.com/news/videos/crggverzl4wo).
 
 ## Requirements
 - Python 3.8
