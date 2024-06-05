@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Nods to Travis Kelce With Cute Reaction to Football Lyric**
+**Vikings, WR Justin Jefferson Agree To Deal**
 
-You can read more about it [here](https://www.eonline.com/news/1402892/taylor-swifts-sweet-onstage-reaction-to-football-lyric-amid-travis-kelce-romance-will-feel-like-flying).
+You can read more about it [here](https://www.profootballrumors.com/2024/06/vikings-wr-justin-jefferson-agree-to-deal).
 
 ## Requirements
 - Python 3.8
