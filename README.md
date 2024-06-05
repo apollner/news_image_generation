@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Chang'e-6 far side of the Moon probe begins journey back**
+**Vikings, WR Justin Jefferson Agree To Deal**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3gg32nn9p4o).
+You can read more about it [here](https://www.profootballrumors.com/2024/06/vikings-wr-justin-jefferson-agree-to-deal).
 
 ## Requirements
 - Python 3.8
