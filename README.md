@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden takes a big swing at hostage-for-truce deal, puts onus on Israeli, Hamas officials to step up**
+**China's Chang'e-6 far side of the Moon probe begins journey back**
 
-You can read more about it [here](https://apnews.com/article/biden-israel-peace-proposal-gaza-hamas-mideast-c0dbf1f5df8539d47205f5509d855284).
+You can read more about it [here](https://www.bbc.com/news/articles/c3gg32nn9p4o).
 
 ## Requirements
 - Python 3.8
