@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Jefferson contract: 11 NFL stars still awaiting big deals**
+**Ticketmaster and several other Snowflake customers hacked**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2024/06/03/nfl-contract-extension-candidates-dak-prescott-ceedee-lamb/73960888007/).
+You can read more about it [here](https://arstechnica.com/security/2024/06/ticketmaster-and-several-other-snowflake-customers-hacked/).
 
 ## Requirements
 - Python 3.8
