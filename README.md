@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics-Mavericks: 10 biggest questions surrounding 2024 NBA Finals**
+**How internet addiction may affect your teen's brain, according to a new study**
 
-You can read more about it [here](https://www.nba.com/news/celtics-mavericks-biggest-questions-nba-finals).
+You can read more about it [here](https://www.wbaltv.com/article/study-how-internet-addiction-may-affect-teen-brain/60994689).
 
 ## Requirements
 - Python 3.8
