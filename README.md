@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics-Mavericks: 10 biggest questions surrounding 2024 NBA Finals**
+**USWNT vs. Korea Republic: Starting XI & Lineup Notes**
 
-You can read more about it [here](https://www.nba.com/news/celtics-mavericks-biggest-questions-nba-finals).
+You can read more about it [here](https://www.ussoccer.com/stories/2024/06/uswnt-vs-korea-republic-usa-lineup-today-starting-11-st-paul-minnesota).
 
 ## Requirements
 - Python 3.8
