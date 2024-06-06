@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's ex-wife Kathleen Buhle testifies about his drug use in federal gun trial**
+**WNBA rescinds 2nd technical foul against Sky's Angel Reese**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-gun-trial-fbi-agent/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/40284955/wnba-rescinds-2nd-technical-foul-sky-angel-reese).
 
 ## Requirements
 - Python 3.8
