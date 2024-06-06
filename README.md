@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump asks judge to lift gag order in hush money case after guilty verdict**
+**Stock futures rise as Nvidia shares gain, investors look for rate cuts: Live updates**
 
-You can read more about it [here](https://www.axios.com/2024/06/04/trump-gag-order-hush-money-case-conviction).
+You can read more about it [here](https://www.cnbc.com/2024/06/04/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
