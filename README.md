@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest US heat wave: Forecasters warn of dangerously hot conditions**
+**General election 2024: Sunak and Starmer clash over tax in first debate**
 
-You can read more about it [here](https://apnews.com/article/record-heat-southwest-arizona-california-vegas-585114c43cc5be4867d8ff7861ea7d5f).
+You can read more about it [here](https://www.bbc.com/news/articles/c800xw8zy9po).
 
 ## Requirements
 - Python 3.8
