@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**E*Trade possibly ousting GameStop bull 'Roaring Kitty' spurs online backlash**
+**Brazil unveils $4 million supercow, twice as meaty as others of her breed**
 
-You can read more about it [here](https://finance.yahoo.com/news/e-trade-possibly-ousting-gamestop-211531497.html).
+You can read more about it [here](https://www.cbsnews.com/news/brazil-cow-viatina-19/).
 
 ## Requirements
 - Python 3.8
