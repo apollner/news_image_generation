@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA advisers vote against first MDMA therapy to treat PTSD**
+**Boeing Keeps Making Excuses to Push Back First Astronaut Launch**
 
-You can read more about it [here](https://www.cnn.com/2024/06/04/health/mdma-ptsd-fda-advisers/index.html).
+You can read more about it [here](https://futurism.com/boeing-excuses-push-back-first-astronaut-launch).
 
 ## Requirements
 - Python 3.8
