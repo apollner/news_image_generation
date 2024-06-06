@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers To Extend RB Christian McCaffrey**
+**Children with total deafness regain hearing after ‘groundbreaking’ gene therapy: ‘Like a miracle’**
 
-You can read more about it [here](https://www.profootballrumors.com/2024/06/49ers-to-extend-rb-christian-mccaffrey).
+You can read more about it [here](https://www.foxnews.com/health/children-total-deafness-regain-hearing-groundbreaking-gene-therapy-miracle).
 
 ## Requirements
 - Python 3.8
