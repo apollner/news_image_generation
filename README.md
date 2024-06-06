@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics-Mavericks: 10 biggest questions surrounding 2024 NBA Finals**
+**Watch the historic launch of Boeing’s first crewed Starliner mission**
 
-You can read more about it [here](https://www.nba.com/news/celtics-mavericks-biggest-questions-nba-finals).
+You can read more about it [here](https://www.cnn.com/2024/06/05/science/nasa-boeing-starliner-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
