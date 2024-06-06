@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch the historic launch of Boeing’s first crewed Starliner mission**
+**Modi's weaker-than-expected election win raises questions over his economic and political agenda**
 
-You can read more about it [here](https://www.cnn.com/2024/06/05/science/nasa-boeing-starliner-launch-scn/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/06/05/indias-election-dealt-a-political-blow-to-bjp-and-modis-political-agenda.html).
 
 ## Requirements
 - Python 3.8
