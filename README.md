@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA advisors reject MDMA as treatment for PTSD : Shots - Health News**
+**Indian election results are a shocking blow to Modi**
 
-You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/06/04/nx-s1-4991112/mdma-therapy-ptsd-fda-advisors).
+You can read more about it [here](https://www.businessinsider.com/indian-election-results-shocking-blow-narendra-modi-2024-6).
 
 ## Requirements
 - Python 3.8
