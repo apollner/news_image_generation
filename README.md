@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Apple's generative AI push won't launch an iPhone supercycle in 2024**
+**Hunter Biden's ex-wife Kathleen Buhle testifies about his drug use in federal gun trial**
 
-You can read more about it [here](https://finance.yahoo.com/news/why-apples-generative-ai-push-wont-launch-an-iphone-supercycle-in-2024-184411662.html).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-gun-trial-fbi-agent/).
 
 ## Requirements
 - Python 3.8
