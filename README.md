@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Browns' Nick Chubb taking knee rehab 'day by day,' says hit by Minkah Fitzpatrick 'part of the game'**
+**Hunter Biden's ex-wife, ex-girlfriend testify about drug use in gun trial**
 
-You can read more about it [here](https://www.nfl.com/news/browns-rb-nick-chubb-taking-knee-rehab-day-by-day-hit-by-minkah-fitzpatrick-part-of-the-game).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-gun-trial-fbi-agent/).
 
 ## Requirements
 - Python 3.8
