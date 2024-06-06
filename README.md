@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**lululemon athletica inc. Announces First Quarter Fiscal 2024 Results**
+**Hunter Biden's ex-wife, ex-girlfriend testify about drug use in gun trial**
 
-You can read more about it [here](https://corporate.lululemon.com/media/press-releases/2024/06-05-2024-210527670).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-gun-trial-fbi-agent/).
 
 ## Requirements
 - Python 3.8
