@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA rescinds 2nd technical foul against Sky's Angel Reese**
+**lululemon athletica inc. Announces First Quarter Fiscal 2024 Results**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/40284955/wnba-rescinds-2nd-technical-foul-sky-angel-reese).
+You can read more about it [here](https://corporate.lululemon.com/media/press-releases/2024/06-05-2024-210527670).
 
 ## Requirements
 - Python 3.8
