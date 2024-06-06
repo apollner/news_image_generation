@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian election results are a shocking blow to Modi**
+**China Leaves Patriotic 'Graffiti' on Lunar Surface**
 
-You can read more about it [here](https://www.businessinsider.com/indian-election-results-shocking-blow-narendra-modi-2024-6).
+You can read more about it [here](https://www.youtube.com/watch?v=VhPgOERY_o0).
 
 ## Requirements
 - Python 3.8
