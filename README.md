@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden jury sees evidence of addiction, hears 'no one is above the law'**
+**Celtics-Mavericks: 10 biggest questions surrounding 2024 NBA Finals**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3Rlc3RpbW9ueS1iZWdpbi1odW50ZXItYmlkZW5zLWNyaW1pbmFsLXRyaWFsLXdpdGgtZm9jdXMtcGhvbmUtbWVzc2FnZXMtMjAyNC0wNi0wNC_SAQA?oc=5).
+You can read more about it [here](https://www.nba.com/news/celtics-mavericks-biggest-questions-nba-finals).
 
 ## Requirements
 - Python 3.8
