@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's ex-wife, ex-girlfriend testify about drug use in gun trial**
+**Woman fatally stabbed 3-year-old within seconds after following family from store, police say**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-gun-trial-fbi-agent/).
+You can read more about it [here](https://www.13abc.com/2024/06/05/woman-fatally-stabbed-3-year-old-within-seconds-after-following-family-store-police-say/).
 
 ## Requirements
 - Python 3.8
