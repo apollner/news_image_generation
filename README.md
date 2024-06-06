@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General election 2024: Sunak and Starmer clash over tax in first debate**
+**Watch the historic launch of Boeing’s first crewed Starliner mission**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c800xw8zy9po).
+You can read more about it [here](https://www.cnn.com/2024/06/05/science/nasa-boeing-starliner-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
