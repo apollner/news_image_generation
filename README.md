@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil unveils $4 million supercow, twice as meaty as others of her breed**
+**Southwest US heat wave: Forecasters warn of dangerously hot conditions**
 
-You can read more about it [here](https://www.cbsnews.com/news/brazil-cow-viatina-19/).
+You can read more about it [here](https://apnews.com/article/record-heat-southwest-arizona-california-vegas-585114c43cc5be4867d8ff7861ea7d5f).
 
 ## Requirements
 - Python 3.8
