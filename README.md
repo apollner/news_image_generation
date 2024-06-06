@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How internet addiction may affect your teen's brain, according to a new study**
+**Watch the historic launch of Boeing’s first crewed Starliner mission**
 
-You can read more about it [here](https://www.wbaltv.com/article/study-how-internet-addiction-may-affect-teen-brain/60994689).
+You can read more about it [here](https://www.cnn.com/2024/06/05/science/nasa-boeing-starliner-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
