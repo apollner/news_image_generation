@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch the historic launch of Boeing’s first crewed Starliner mission**
+**Hunter Biden jury sees evidence of addiction, hears 'no one is above the law'**
 
-You can read more about it [here](https://www.cnn.com/2024/06/05/science/nasa-boeing-starliner-launch-scn/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3Rlc3RpbW9ueS1iZWdpbi1odW50ZXItYmlkZW5zLWNyaW1pbmFsLXRyaWFsLXdpdGgtZm9jdXMtcGhvbmUtbWVzc2FnZXMtMjAyNC0wNi0wNC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
