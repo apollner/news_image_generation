@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amanda Knox reconvicted of slander in Italy for accusing innocent man in roommate's 2007 murder**
+**Conservative attacks on birth control could threaten access**
 
-You can read more about it [here](https://apnews.com/article/italy-knox-slander-kercher-killing-bceb926ace28263036a10bf2dd77bc6e).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/06/05/birth-control-access-abortion-ban/).
 
 ## Requirements
 - Python 3.8
