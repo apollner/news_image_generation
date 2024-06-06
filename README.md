@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT vs. Korea Republic: Starting XI & Lineup Notes**
+**General election 2024: Sunak and Starmer clash over tax in first debate**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2024/06/uswnt-vs-korea-republic-usa-lineup-today-starting-11-st-paul-minnesota).
+You can read more about it [here](https://www.bbc.com/news/articles/c800xw8zy9po).
 
 ## Requirements
 - Python 3.8
