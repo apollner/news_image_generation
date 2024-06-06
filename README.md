@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Keeps Making Excuses to Push Back First Astronaut Launch**
+**E*Trade possibly ousting GameStop bull 'Roaring Kitty' spurs online backlash**
 
-You can read more about it [here](https://futurism.com/boeing-excuses-push-back-first-astronaut-launch).
+You can read more about it [here](https://finance.yahoo.com/news/e-trade-possibly-ousting-gamestop-211531497.html).
 
 ## Requirements
 - Python 3.8
