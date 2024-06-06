@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures rise as Nvidia shares gain, investors look for rate cuts: Live updates**
+**Why Apple's generative AI push won't launch an iPhone supercycle in 2024**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/04/stock-market-today-live-updates.html).
+You can read more about it [here](https://finance.yahoo.com/news/why-apples-generative-ai-push-wont-launch-an-iphone-supercycle-in-2024-184411662.html).
 
 ## Requirements
 - Python 3.8
