@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's ex-wife, ex-girlfriend testify about drug use in gun trial**
+**Biden's airing of Gaza ceasefire proposal pushes Netanyahu toward a deal**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-gun-trial-fbi-agent/).
+You can read more about it [here](https://www.reuters.com/world/us/with-gaza-ceasefire-announcement-biden-pushes-netanyahu-toward-deal-2024-06-05/).
 
 ## Requirements
 - Python 3.8
