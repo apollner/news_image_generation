@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden unveils plans to enact restrictions on migrants seeking asylum at US-Mexico border**
+**General election 2024: Sunak and Starmer clash over tax in first debate**
 
-You can read more about it [here](https://apnews.com/article/biden-asylum-migration-immigration-mexico-border-dec5f83b468b5795479bf1f5e49799d5).
+You can read more about it [here](https://www.bbc.com/news/articles/c800xw8zy9po).
 
 ## Requirements
 - Python 3.8
