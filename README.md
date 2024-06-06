@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conservative attacks on birth control could threaten access**
+**Gunman fires shots at US Embassy in Lebanon, army says**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/05/birth-control-access-abortion-ban/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gunman-fires-shots-us-embassy-beirut-lebanese-army-says-2024-06-05/).
 
 ## Requirements
 - Python 3.8
