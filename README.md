@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Leaves Patriotic 'Graffiti' on Lunar Surface**
+**Celtics-Mavericks: 10 biggest questions surrounding 2024 NBA Finals**
 
-You can read more about it [here](https://www.youtube.com/watch?v=VhPgOERY_o0).
+You can read more about it [here](https://www.nba.com/news/celtics-mavericks-biggest-questions-nba-finals).
 
 ## Requirements
 - Python 3.8
