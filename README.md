@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**49ers To Extend RB Christian McCaffrey**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.profootballrumors.com/2024/06/49ers-to-extend-rb-christian-mccaffrey).
 
 ## Requirements
 - Python 3.8
