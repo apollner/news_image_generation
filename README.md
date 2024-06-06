@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch the historic launch of Boeing’s first crewed Starliner mission**
+**Amanda Knox reconvicted of slander in Italy for accusing innocent man in roommate's 2007 murder**
 
-You can read more about it [here](https://www.cnn.com/2024/06/05/science/nasa-boeing-starliner-launch-scn/index.html).
+You can read more about it [here](https://apnews.com/article/italy-knox-slander-kercher-killing-bceb926ace28263036a10bf2dd77bc6e).
 
 ## Requirements
 - Python 3.8
