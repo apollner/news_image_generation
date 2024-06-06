@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General election 2024: Sunak and Starmer clash over tax in first debate**
+**FDA advisors reject MDMA as treatment for PTSD : Shots - Health News**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c800xw8zy9po).
+You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/06/04/nx-s1-4991112/mdma-therapy-ptsd-fda-advisors).
 
 ## Requirements
 - Python 3.8
