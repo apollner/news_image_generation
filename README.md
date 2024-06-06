@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's airing of Gaza ceasefire proposal pushes Netanyahu toward a deal**
+**Browns' Nick Chubb taking knee rehab 'day by day,' says hit by Minkah Fitzpatrick 'part of the game'**
 
-You can read more about it [here](https://www.reuters.com/world/us/with-gaza-ceasefire-announcement-biden-pushes-netanyahu-toward-deal-2024-06-05/).
+You can read more about it [here](https://www.nfl.com/news/browns-rb-nick-chubb-taking-knee-rehab-day-by-day-hit-by-minkah-fitzpatrick-part-of-the-game).
 
 ## Requirements
 - Python 3.8
