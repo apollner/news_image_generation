@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to expect from Apple's AI-powered iOS 18 at WWDC 2024**
+**'They gave us freedom' - D-day veterans celebrated in Normandy**
 
-You can read more about it [here](https://techcrunch.com/2024/06/05/what-to-expect-from-apples-ai-powered-ios-18-at-wwdc-2024/).
+You can read more about it [here](https://www.bbc.com/news/articles/c7228rq2nelo).
 
 ## Requirements
 - Python 3.8
