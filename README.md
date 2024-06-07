@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman fatally stabbed 3-year-old within seconds after following family from store, police say**
+**WHO confirms first fatal human case of bird flu A(H5N2)**
 
-You can read more about it [here](https://www.13abc.com/2024/06/05/woman-fatally-stabbed-3-year-old-within-seconds-after-following-family-store-police-say/).
+You can read more about it [here](https://www.reuters.com/world/americas/who-confirms-first-human-case-avian-influenza-ah5n2-mexico-2024-06-05/).
 
 ## Requirements
 - Python 3.8
