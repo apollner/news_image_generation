@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Skenes blows away Shohei Ohtani, who returns the favor in his next at-bat**
+**World hits 12 straight months of record-high temperatures — but as warming continues, it'll be "remembered as comparatively cold"**
 
-You can read more about it [here](https://sports.yahoo.com/paul-skenes-blows-away-shohei-ohtani-who-returns-the-favor-in-his-next-at-bat-235423648.html).
+You can read more about it [here](https://www.cbsnews.com/news/record-high-temperatures-12-straight-months/).
 
 ## Requirements
 - Python 3.8
