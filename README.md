@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO confirms first fatal human case of bird flu A(H5N2)**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/americas/who-confirms-first-human-case-avian-influenza-ah5n2-mexico-2024-06-05/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
