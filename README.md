@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian demonstrators arrested at Stanford University after occupying president's office**
+**What to expect from Apple's AI-powered iOS 18 at WWDC 2024**
 
-You can read more about it [here](https://apnews.com/article/campus-protests-stanford-israel-gaza-f1ec47dcac1b55839e96b5442ebcf00d).
+You can read more about it [here](https://techcrunch.com/2024/06/05/what-to-expect-from-apples-ai-powered-ios-18-at-wwdc-2024/).
 
 ## Requirements
 - Python 3.8
