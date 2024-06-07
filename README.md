@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden trial enters day 4 after wild testimony from exes on rampant drug use, trashed hotel rooms**
+**Alina Habba Mocks Fani Willis After Trump Case Falters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9odW50ZXItYmlkZW4tdHJpYWwtZW50ZXJzLWRheS00LWFmdGVyLXdpbGQtdGVzdGltb255LWZyb20tZXhlcy1yYW1wYW50LWRydWctdXNlLXRyYXNoZWQtaG90ZWwtcm9vbXPSAYgBaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvaHVudGVyLWJpZGVuLXRyaWFsLWVudGVycy1kYXktNC1hZnRlci13aWxkLXRlc3RpbW9ueS1mcm9tLWV4ZXMtcmFtcGFudC1kcnVnLXVzZS10cmFzaGVkLWhvdGVsLXJvb21zLmFtcA?oc=5).
+You can read more about it [here](https://www.newsweek.com/alina-habba-mocks-fani-willis-after-donald-trump-case-collapses-1908939).
 
 ## Requirements
 - Python 3.8
