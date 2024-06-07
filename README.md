@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Retail company in California using body-worn cameras to deter shoplifters**
+**2024 NBA Finals: Five bold predictions for Celtics vs. Mavericks, with tight series ending in historic upset**
 
-You can read more about it [here](https://ktla.com/news/california/retail-company-in-california-using-body-worn-cameras-to-deter-shoplifters/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-finals-five-bold-predictions-for-celtics-vs-mavericks-with-tight-series-ending-in-historic-upset/).
 
 ## Requirements
 - Python 3.8
