@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A college dynasty, LeBron's Lakers and a landscape-altering decision for Dan Hurley**
+**Chennedy Carter approached by man with camera at Sky's team hotel**
 
-You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/40290192/dan-hurley-lakers-nba-uconn-coaching-decision).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvd25iYS9za3kvMjAyNC8wNi8wNi9jaGVubmVkeS1jYXJ0ZXItbWFuLWNvbmZyb250cy1jaGljYWdvLXNreS10ZWFtLWhvdGVsLzczOTk1MzM0MDA3L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
