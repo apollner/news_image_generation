@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robinhood acquires global crypto exchange Bitstamp for $200M**
+**European Central Bank cuts interest rates for the first time since 2019: Live updates**
 
-You can read more about it [here](https://techcrunch.com/2024/06/06/robinhood-acquires-global-crypto-exchange-bitstamp-for-200m/).
+You can read more about it [here](https://www.cnbc.com/2024/06/06/european-central-bank-heads-for-first-rate-cut-since-2019-live-updates.html).
 
 ## Requirements
 - Python 3.8
