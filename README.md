@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's team takes from Reagan's playbook as he heads to Normandy**
+**'They gave us freedom' - D-day veterans celebrated in Normandy**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/06/biden-inspiration-reagan-normandy-visit-00161888).
+You can read more about it [here](https://www.bbc.com/news/articles/c7228rq2nelo).
 
 ## Requirements
 - Python 3.8
