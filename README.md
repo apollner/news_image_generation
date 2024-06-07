@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'They gave us freedom' - D-day veterans celebrated in Normandy**
+**Jake Gyllenhaal uses legally blind status as an advantage while acting: 'Never known anything else'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c7228rq2nelo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9lbnRlcnRhaW5tZW50L2pha2UtZ3lsbGVuaGFhbC11c2VzLWxlZ2FsbHktYmxpbmQtc3RhdHVzLWFkdmFudGFnZS13aGlsZS1hY3RpbmctbmV2ZXIta25vd24tYW55dGhpbmctZWxzZdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
