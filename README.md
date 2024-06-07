@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Rare, sexually transmitted ringworm reported in NYC**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/health/rare-sexually-transmitted-ringworm-reported-nyc).
 
 ## Requirements
 - Python 3.8
