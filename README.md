@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado traps five in Gaithersburg home**
+**Oil up on Fed rate cut expectations but OPEC+ decision caps gains**
 
-You can read more about it [here](https://www.fox5dc.com/news/tornado-traps-five-gaithersburg-home).
+You can read more about it [here](https://www.reuters.com/business/energy/oil-rises-strengthening-fed-rate-cut-expectations-2024-06-06/).
 
 ## Requirements
 - Python 3.8
