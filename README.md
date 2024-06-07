@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alina Habba Mocks Fani Willis After Trump Case Falters**
+**'Unusual' cancers emerged after the pandemic. Doctors ask if covid is to blame.**
 
-You can read more about it [here](https://www.newsweek.com/alina-habba-mocks-fani-willis-after-donald-trump-case-collapses-1908939).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/06/06/covid-cancer-increase-link/).
 
 ## Requirements
 - Python 3.8
