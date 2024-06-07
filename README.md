@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend**
+**When will mortgage rates go down? A look at 2024 and 2025.**
 
-You can read more about it [here](https://www.cnn.com/europe/live-news/d-day-80-anniversary-06-06-24-intl/index.html).
+You can read more about it [here](https://finance.yahoo.com/personal-finance/when-will-mortgage-rates-go-down-164144910.html).
 
 ## Requirements
 - Python 3.8
