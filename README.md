@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When is Nvidia stock split? Key dates to know ahead of 10-to-1 split**
+**Disinformation campaign uses fake footage to claim attack on USS Eisenhower**
 
-You can read more about it [here](https://www.usatoday.com/story/money/investing/2024/06/05/nvidia-stock-split/73979065007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MveWVtZW4taG91dGhpLWF0dGFjay1kaXNpbmZvcm1hdGlvbi11c3MtZWlzZW5ob3dlci_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
