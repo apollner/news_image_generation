@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s Boeing Crew Flight Test Rendezvous and Docking**
+**Steve Bannon ordered to report to prison by July 1 to serve contempt of Congress sentence**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ybaWL0J-Tbw).
+You can read more about it [here](https://www.cnn.com/2024/06/06/politics/steve-bannon-jail/index.html).
 
 ## Requirements
 - Python 3.8
