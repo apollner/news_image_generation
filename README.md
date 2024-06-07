@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Chiefs' Thompson stable in hospital after cardiac arrest**
+**NFL faces multi-billion dollar antitrust suit over its Sunday Ticket package**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkxNzA4L3NvdXJjZS1jaGllZnMtYmotdGhvbXBzb24tc2VudC1ob3NwaXRhbC1zdGFibGUtY29uZGl0aW9u0gEA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/06/06/business/nfl-sunday-ticket-antitrust-suit/index.html).
 
 ## Requirements
 - Python 3.8
