@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock pulls back after topping $3 trillion market cap mark**
+**Whooping cough cases double in the U.S., a potential legacy of the pandemic**
 
-You can read more about it [here](https://finance.yahoo.com/news/nvidia-stock-pulls-back-after-topping-3-trillion-market-cap-mark-141014695.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/06/06/whooping-cough-cases-rising/).
 
 ## Requirements
 - Python 3.8
