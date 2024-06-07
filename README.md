@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Republicans block bill to protect contraception access**
+**When is Nvidia stock split? Key dates to know ahead of 10-to-1 split**
 
-You can read more about it [here](https://apnews.com/article/contraception-senate-abortion-biden-trump-reproductive-rights-3f9e8546624a3acf8e64d1138fcb84b1).
+You can read more about it [here](https://www.usatoday.com/story/money/investing/2024/06/05/nvidia-stock-split/73979065007/).
 
 ## Requirements
 - Python 3.8
