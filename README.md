@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil up on Fed rate cut expectations but OPEC+ decision caps gains**
+**Paul Skenes blows away Shohei Ohtani, who returns the favor in his next at-bat**
 
-You can read more about it [here](https://www.reuters.com/business/energy/oil-rises-strengthening-fed-rate-cut-expectations-2024-06-06/).
+You can read more about it [here](https://sports.yahoo.com/paul-skenes-blows-away-shohei-ohtani-who-returns-the-favor-in-his-next-at-bat-235423648.html).
 
 ## Requirements
 - Python 3.8
