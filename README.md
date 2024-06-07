@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Unusual' cancers emerged after the pandemic. Doctors ask if covid is to blame.**
+**A college dynasty, LeBron's Lakers and a landscape-altering decision for Dan Hurley**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/06/covid-cancer-increase-link/).
+You can read more about it [here](https://www.espn.com/mens-college-basketball/story/_/id/40290192/dan-hurley-lakers-nba-uconn-coaching-decision).
 
 ## Requirements
 - Python 3.8
