@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern California forecast: Delta breeze will bring slight relief from above-average temperatures**
+**Live updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend**
 
-You can read more about it [here](https://www.kcra.com/article/northern-california-forecast-june-6-2024/61015445).
+You can read more about it [here](https://www.cnn.com/europe/live-news/d-day-80-anniversary-06-06-24-intl/index.html).
 
 ## Requirements
 - Python 3.8
