@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chennedy Carter approached by man with camera at Sky's team hotel**
+**Robinhood acquires global crypto exchange Bitstamp for $200M**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvd25iYS9za3kvMjAyNC8wNi8wNi9jaGVubmVkeS1jYXJ0ZXItbWFuLWNvbmZyb250cy1jaGljYWdvLXNreS10ZWFtLWhvdGVsLzczOTk1MzM0MDA3L9IBAA?oc=5).
+You can read more about it [here](https://techcrunch.com/2024/06/06/robinhood-acquires-global-crypto-exchange-bitstamp-for-200m/).
 
 ## Requirements
 - Python 3.8
