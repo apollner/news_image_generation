@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs cancel practice after player has medical emergency**
+**Nvidia stock pulls back after topping $3 trillion market cap mark**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-cancel-practice-after-player-has-medical-emergency).
+You can read more about it [here](https://finance.yahoo.com/news/nvidia-stock-pulls-back-after-topping-3-trillion-market-cap-mark-141014695.html).
 
 ## Requirements
 - Python 3.8
