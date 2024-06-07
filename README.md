@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disinformation campaign uses fake footage to claim attack on USS Eisenhower**
+**Paul Skenes blows away Shohei Ohtani, who returns the favor in his next at-bat**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MveWVtZW4taG91dGhpLWF0dGFjay1kaXNpbmZvcm1hdGlvbi11c3MtZWlzZW5ob3dlci_SAQA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/paul-skenes-blows-away-shohei-ohtani-who-returns-the-favor-in-his-next-at-bat-235423648.html).
 
 ## Requirements
 - Python 3.8
