@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's Starliner finally soars, but mission control reports more helium leaks**
+**Retail company in California using body-worn cameras to deter shoplifters**
 
-You can read more about it [here](https://arstechnica.com/space/2024/06/after-a-successful-launch-boeings-starliner-runs-into-more-helium-leaks/).
+You can read more about it [here](https://ktla.com/news/california/retail-company-in-california-using-body-worn-cameras-to-deter-shoplifters/).
 
 ## Requirements
 - Python 3.8
