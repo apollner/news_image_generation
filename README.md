@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World hits 12 straight months of record-high temperatures — but as warming continues, it'll be "remembered as comparatively cold"**
+**Biden's team takes from Reagan's playbook as he heads to Normandy**
 
-You can read more about it [here](https://www.cbsnews.com/news/record-high-temperatures-12-straight-months/).
+You can read more about it [here](https://www.politico.com/news/2024/06/06/biden-inspiration-reagan-normandy-visit-00161888).
 
 ## Requirements
 - Python 3.8
