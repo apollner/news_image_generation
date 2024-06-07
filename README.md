@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reese Witherspoon Reacts After Nicole Kidman Forgets Her Real Name**
+**Nvidia topples Apple with $3 trillion market cap; 10-for-1 stock split ahead**
 
-You can read more about it [here](https://www.eonline.com/news/1403071/reese-witherspoon-reacts-after-nicole-kidman-forgets-her-real-name).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL252aWRpYS1hcHBsZS0zLXRyaWxsaW9uLW1hcmtldC1jYXAtMTAtZm9yLTEtc3RvY2stc3BsaXQtYWhlYWTSAWVodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vbWFya2V0cy9udmlkaWEtYXBwbGUtMy10cmlsbGlvbi1tYXJrZXQtY2FwLTEwLWZvci0xLXN0b2NrLXNwbGl0LWFoZWFkLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
