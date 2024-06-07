@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL faces multi-billion dollar antitrust suit over its Sunday Ticket package**
+**Live updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend**
 
-You can read more about it [here](https://www.cnn.com/2024/06/06/business/nfl-sunday-ticket-antitrust-suit/index.html).
+You can read more about it [here](https://www.cnn.com/europe/live-news/d-day-80-anniversary-06-06-24-intl/index.html).
 
 ## Requirements
 - Python 3.8
