@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whooping cough cases double in the U.S., a potential legacy of the pandemic**
+**Sources - Chiefs' Thompson stable in hospital after cardiac arrest**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/06/whooping-cough-cases-rising/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkxNzA4L3NvdXJjZS1jaGllZnMtYmotdGhvbXBzb24tc2VudC1ob3NwaXRhbC1zdGFibGUtY29uZGl0aW9u0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
