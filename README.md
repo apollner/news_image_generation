@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil up on Fed rate cut expectations but OPEC+ decision caps gains**
+**Boeing's Starliner finally soars, but mission control reports more helium leaks**
 
-You can read more about it [here](https://www.reuters.com/business/energy/oil-rises-strengthening-fed-rate-cut-expectations-2024-06-06/).
+You can read more about it [here](https://arstechnica.com/space/2024/06/after-a-successful-launch-boeings-starliner-runs-into-more-helium-leaks/).
 
 ## Requirements
 - Python 3.8
