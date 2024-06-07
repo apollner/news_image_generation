@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When will mortgage rates go down? A look at 2024 and 2025.**
+**NASA’s Boeing Crew Flight Test Rendezvous and Docking**
 
-You can read more about it [here](https://finance.yahoo.com/personal-finance/when-will-mortgage-rates-go-down-164144910.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ybaWL0J-Tbw).
 
 ## Requirements
 - Python 3.8
