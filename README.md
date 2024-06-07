@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Chiefs' Thompson stable in hospital after cardiac arrest**
+**Northern California forecast: Delta breeze will bring slight relief from above-average temperatures**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkxNzA4L3NvdXJjZS1jaGllZnMtYmotdGhvbXBzb24tc2VudC1ob3NwaXRhbC1zdGFibGUtY29uZGl0aW9u0gEA?oc=5).
+You can read more about it [here](https://www.kcra.com/article/northern-california-forecast-june-6-2024/61015445).
 
 ## Requirements
 - Python 3.8
