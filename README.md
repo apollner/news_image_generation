@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Pro-Palestinian demonstrators arrested at Stanford University after occupying president's office**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/campus-protests-stanford-israel-gaza-f1ec47dcac1b55839e96b5442ebcf00d).
 
 ## Requirements
 - Python 3.8
