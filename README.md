@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pat Sajak Lands First New Gig After 'Wheel of Fortune' Exit**
+**Judge dismisses attempted murder and other charges in state case against Paul Pelosi's attacker**
 
-You can read more about it [here](https://www.etonline.com/pat-sajak-lands-first-new-gig-after-wheel-of-fortune-exit-226864).
+You can read more about it [here](https://www.politico.com/news/2024/06/06/judge-dismisses-charges-paul-pelosi-attacker-00162234).
 
 ## Requirements
 - Python 3.8
