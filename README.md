@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID variant KP.3 climbs to 25%, now largest in CDC estimates**
+**Microsoft Will Switch Off Recall by Default After Researchers Expose Security Flaws**
 
-You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-kp-3-climbs-to-25-now-largest-in-cdc-estimates/).
+You can read more about it [here](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/).
 
 ## Requirements
 - Python 3.8
