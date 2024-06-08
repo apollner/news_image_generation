@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pat Sajak Bids Farewell In Final ‘Wheel Of Fortune’ Episode: “Thank You For Allowing Me Into Your Lives”**
+**D-Day landing in Normandy captured in grandmother's diary**
 
-You can read more about it [here](http://deadline.com/2024/06/pat-sajak-farewell-wheel-of-fortune-final-episode-1235961782/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjQvMDYvMDYvZC1kYXktbGFuZGluZy1ub3JtYW5keS1ncmFuZG1vdGhlcnMtZGlhcnkvNzMzNzQ5NTcwMDcv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
