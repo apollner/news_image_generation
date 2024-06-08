@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump ally Steve Bannon ordered to report to prison July 1 in contempt of Congress case**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/steve-bannon-sentence-prison-contempt-of-congress/).
 
 ## Requirements
 - Python 3.8
