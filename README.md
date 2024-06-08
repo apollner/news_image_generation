@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump ally Steve Bannon ordered to report to prison July 1 in contempt of Congress case**
+**China's exports rise solidly, but slower imports temper outlook**
 
-You can read more about it [here](https://www.cbsnews.com/news/steve-bannon-sentence-prison-contempt-of-congress/).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-may-exports-pick-up-pace-top-forecast-boost-economic-recovery-2024-06-07/).
 
 ## Requirements
 - Python 3.8
