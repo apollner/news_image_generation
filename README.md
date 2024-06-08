@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden campaign ramps up efforts to flip moderate Republicans in 2024**
+**Rishi Sunak's £2,000 Labour tax claim criticised by stats watchdog**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-campaign-attempts-to-flip-moderate-republicans-2024-election-nikki-haley-voters/).
+You can read more about it [here](https://www.bbc.com/news/articles/cyrredd71z0o).
 
 ## Requirements
 - Python 3.8
