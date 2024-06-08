@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's exports grow more than expected in May, up by 7.6%**
+**The American fairytale continues as USA beat Pakistan in a massive upset at the #T20WorldCup 😍**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/07/china-trade-data-may-2024-exports-imports.html).
+You can read more about it [here](https://www.youtube.com/watch?v=OSTMKBLDoLg).
 
 ## Requirements
 - Python 3.8
