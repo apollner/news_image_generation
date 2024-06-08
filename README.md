@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden gun trial: Prosecution wraps up**
+**Oklahoma fans witness history as softball team win another title**
 
-You can read more about it [here]().
+You can read more about it [here](https://www.koco.com/article/oklahoma-softball-wins-womens-college-world-series-2024/61035239).
 
 ## Requirements
 - Python 3.8
