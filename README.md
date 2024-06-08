@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses attempted murder and other charges in state case against Paul Pelosi's attacker**
+**China's exports grow more than expected in May, up by 7.6%**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/06/judge-dismisses-charges-paul-pelosi-attacker-00162234).
+You can read more about it [here](https://www.cnbc.com/2024/06/07/china-trade-data-may-2024-exports-imports.html).
 
 ## Requirements
 - Python 3.8
