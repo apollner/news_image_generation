@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA cricket star Saurabh Netravalkar works full time as engineer at Oracle**
+**China's exports rise solidly, but slower imports temper outlook**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA2L3Nwb3J0cy91c2EtY3JpY2tldC1zdGFyLXNhdXJhYmgtbmV0cmF2YWxrYXItd29ya3MtYXMtZW5naW5lZXItYXQtb3JhY2xlL9IBamh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA2L3Nwb3J0cy91c2EtY3JpY2tldC1zdGFyLXNhdXJhYmgtbmV0cmF2YWxrYXItd29ya3MtYXMtZW5naW5lZXItYXQtb3JhY2xlL2FtcC8?oc=5).
+You can read more about it [here](https://www.reuters.com/world/china/chinas-may-exports-pick-up-pace-top-forecast-boost-economic-recovery-2024-06-07/).
 
 ## Requirements
 - Python 3.8
