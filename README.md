@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See it: Rivian unveils redesigned all-electric SUV and pickup**
+**Common low-calorie sweetener linked to heart attack and stroke, study finds**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/see-rivian-unveils-redesigned-all-electric-suv-pickup).
+You can read more about it [here](https://www.cnn.com/2024/06/06/health/xylitol-heart-attack-stroke-wellness/index.html).
 
 ## Requirements
 - Python 3.8
