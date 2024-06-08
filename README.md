@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak's £2,000 Labour tax claim criticised by stats watchdog**
+**US says Israel must be open over Gaza school strike**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cyrredd71z0o).
+You can read more about it [here](https://www.bbc.com/news/articles/cekkd8k2gy9o).
 
 ## Requirements
 - Python 3.8
