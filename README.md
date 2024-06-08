@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The American fairytale continues as USA beat Pakistan in a massive upset at the #T20WorldCup 😍**
+**See it: Rivian unveils redesigned all-electric SUV and pickup**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OSTMKBLDoLg).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/see-rivian-unveils-redesigned-all-electric-suv-pickup).
 
 ## Requirements
 - Python 3.8
