@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Donut Day 2024 deals and freebies: Dunkin', Krispy Kreme and more**
+**‘A study to give us hope:’ Lifestyle changes improve Alzheimer’s symptoms for some**
 
-You can read more about it [here](https://nypost.com/2024/06/07/lifestyle/national-donut-day-2024-deals-and-freebies-dunkin-krispy-kreme-and-more/).
+You can read more about it [here](https://www.cnn.com/2024/06/07/health/alzheimers-dementia-ornish-lifestyle-wellness/index.html).
 
 ## Requirements
 - Python 3.8
