@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morale plummets inside The Washington Post as staffers express alarm over publisher's attempts to squash story**
+**Stock market today: Stocks waver after jobs report smashes expectations**
 
-You can read more about it [here](https://finance.yahoo.com/news/morale-plummets-inside-washington-post-113926057.html).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-waver-after-jobs-report-smashes-expectations-133119777.html).
 
 ## Requirements
 - Python 3.8
