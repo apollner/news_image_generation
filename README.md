@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oklahoma fans witness history as softball team win another title**
+**Windows won't take screenshots of everything you do after all — unless you opt in**
 
-You can read more about it [here](https://www.koco.com/article/oklahoma-softball-wins-womens-college-world-series-2024/61035239).
+You can read more about it [here](https://www.theverge.com/2024/6/7/24173499/microsoft-windows-recall-response-security-concerns).
 
 ## Requirements
 - Python 3.8
