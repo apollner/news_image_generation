@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawsuit: Xavien Howard sent explicit content to ex's son**
+**Why the Dow is brushing off surging Treasury yields after a hot May jobs report**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40298947/xavien-howard-sent-explicit-content-ex-son).
+You can read more about it [here](https://www.marketwatch.com/story/why-the-dow-is-brushing-off-surging-treasury-yields-after-a-hot-may-jobs-report-52634786).
 
 ## Requirements
 - Python 3.8
