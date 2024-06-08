@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's exports rise solidly, but slower imports temper outlook**
+**Gilgo Beach serial killing suspect charged in deaths of two more women**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-may-exports-pick-up-pace-top-forecast-boost-economic-recovery-2024-06-07/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/06/06/gilgo-beach-killer-rex-heuermann/).
 
 ## Requirements
 - Python 3.8
