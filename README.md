@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury reaches verdict in Feeding our Future fraud case**
+**Biden apologises to Zelensky for delay in Ukraine military aid**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/verdict-feeding-our-future-fraud/).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22kz2102ro).
 
 ## Requirements
 - Python 3.8
