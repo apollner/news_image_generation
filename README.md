@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why the Dow is brushing off surging Treasury yields after a hot May jobs report**
+**Jury reaches verdict in Feeding our Future fraud case**
 
-You can read more about it [here](https://www.marketwatch.com/story/why-the-dow-is-brushing-off-surging-treasury-yields-after-a-hot-may-jobs-report-52634786).
+You can read more about it [here](https://www.cbsnews.com/minnesota/news/verdict-feeding-our-future-fraud/).
 
 ## Requirements
 - Python 3.8
