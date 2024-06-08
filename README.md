@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden trial: Hallie Biden 'panicked' on finding his gun**
+**USA cricket star Saurabh Netravalkar works full time as engineer at Oracle**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c9xxn32yr2lo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA2L3Nwb3J0cy91c2EtY3JpY2tldC1zdGFyLXNhdXJhYmgtbmV0cmF2YWxrYXItd29ya3MtYXMtZW5naW5lZXItYXQtb3JhY2xlL9IBamh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzA2L3Nwb3J0cy91c2EtY3JpY2tldC1zdGFyLXNhdXJhYmgtbmV0cmF2YWxrYXItd29ya3MtYXMtZW5naW5lZXItYXQtb3JhY2xlL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
