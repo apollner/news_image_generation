@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gilgo Beach serial killing suspect charged in deaths of two more women**
+**‘A study to give us hope:’ Lifestyle changes improve Alzheimer’s symptoms for some**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/06/06/gilgo-beach-killer-rex-heuermann/).
+You can read more about it [here](https://www.cnn.com/2024/06/07/health/alzheimers-dementia-ornish-lifestyle-wellness/index.html).
 
 ## Requirements
 - Python 3.8
