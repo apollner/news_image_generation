@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop stock slides after it reports quarterly financial loss**
+**Boeing Starliner: NASA astronauts arrive at Space Station**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvc3RvY2stZ2FtZXN0b3AtcHJpY2Uta2VpdGgtZ2lsbC1yb2FyaW5nLWtpdHR5LTIwMjQtZWFybmluZ3Mv0gFdaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3Mvc3RvY2stZ2FtZXN0b3AtcHJpY2Uta2VpdGgtZ2lsbC1yb2FyaW5nLWtpdHR5LTIwMjQtZWFybmluZ3Mv?oc=5).
+You can read more about it [here](https://www.bbc.com/news/videos/c8vvrrv1mg1o).
 
 ## Requirements
 - Python 3.8
