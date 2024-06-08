@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US says Israel must be open over Gaza school strike**
+**GameStop stock soars 47% as 'Roaring Kitty' announces livestream, reveals $382 million unrealized gain**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cekkd8k2gy9o).
+You can read more about it [here](https://finance.yahoo.com/news/gamestop-stock-soars-47-as-roaring-kitty-announces-livestream-reveals-382-million-unrealized-gain-200804291.html).
 
 ## Requirements
 - Python 3.8
