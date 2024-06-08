@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks waver after jobs report smashes expectations**
+**Hunter Biden gun trial: Prosecution wraps up**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-waver-after-jobs-report-smashes-expectations-133119777.html).
+You can read more about it [here]().
 
 ## Requirements
 - Python 3.8
