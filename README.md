@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘A study to give us hope:’ Lifestyle changes improve Alzheimer’s symptoms for some**
+**Biden heads to a poignant spot of American heroism to make the case for democracy**
 
-You can read more about it [here](https://www.cnn.com/2024/06/07/health/alzheimers-dementia-ornish-lifestyle-wellness/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNy9wb2xpdGljcy9qb2UtYmlkZW4tcG9pbnRlLWR1LWhvYy1zcGVlY2gvaW5kZXguaHRtbNIBSmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMDcvcG9saXRpY3Mvam9lLWJpZGVuLXBvaW50ZS1kdS1ob2Mtc3BlZWNo?oc=5).
 
 ## Requirements
 - Python 3.8
