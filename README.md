@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Common low-calorie sweetener linked to heart attack and stroke, study finds**
+**Biden campaign ramps up efforts to flip moderate Republicans in 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/06/06/health/xylitol-heart-attack-stroke-wellness/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/biden-campaign-attempts-to-flip-moderate-republicans-2024-election-nikki-haley-voters/).
 
 ## Requirements
 - Python 3.8
