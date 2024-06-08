@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop stock soars 47% as 'Roaring Kitty' announces livestream, reveals $382 million unrealized gain**
+**EU election exit poll: Far-right Wilders makes big gains in Netherlands, but narrowly beaten**
 
-You can read more about it [here](https://finance.yahoo.com/news/gamestop-stock-soars-47-as-roaring-kitty-announces-livestream-reveals-382-million-unrealized-gain-200804291.html).
+You can read more about it [here](https://www.politico.eu/article/dutch-exit-poll-labour-green-alliance-far-right-geert-wilders-european-parliament-polls-pvv/).
 
 ## Requirements
 - Python 3.8
