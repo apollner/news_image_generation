@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Windows won't take screenshots of everything you do after all — unless you opt in**
+**New COVID variant KP.3 climbs to 25%, now largest in CDC estimates**
 
-You can read more about it [here](https://www.theverge.com/2024/6/7/24173499/microsoft-windows-recall-response-security-concerns).
+You can read more about it [here](https://www.cbsnews.com/news/new-covid-variant-kp-3-climbs-to-25-now-largest-in-cdc-estimates/).
 
 ## Requirements
 - Python 3.8
