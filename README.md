@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D-Day landing in Normandy captured in grandmother's diary**
+**Lawsuit: Xavien Howard sent explicit content to ex's son**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjQvMDYvMDYvZC1kYXktbGFuZGluZy1ub3JtYW5keS1ncmFuZG1vdGhlcnMtZGlhcnkvNzMzNzQ5NTcwMDcv0gEA?oc=5).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40298947/xavien-howard-sent-explicit-content-ex-son).
 
 ## Requirements
 - Python 3.8
