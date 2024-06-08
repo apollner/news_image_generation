@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Is Reportedly Launching Its Own Password Manager App, and It's About Time**
+**Pat Sajak Bids Farewell In Final ‘Wheel Of Fortune’ Episode: “Thank You For Allowing Me Into Your Lives”**
 
-You can read more about it [here](https://gizmodo.com/apple-passwords-cybersecurity-1851525736).
+You can read more about it [here](http://deadline.com/2024/06/pat-sajak-farewell-wheel-of-fortune-final-episode-1235961782/).
 
 ## Requirements
 - Python 3.8
