@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Kyrie: 'Thought it was going to be a little louder' in Boston**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1NDc4OTgvMjAyNC8wNi8wNy9reXJpZS1pcnZpbmctYm9zdG9uLXF1aWV0L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
