@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU election exit poll: Far-right Wilders makes big gains in Netherlands, but narrowly beaten**
+**‘The Acolyte’ Reaches 4.8 Million Views in One Day, Biggest Disney+ Launch of 2024**
 
-You can read more about it [here](https://www.politico.eu/article/dutch-exit-poll-labour-green-alliance-far-right-geert-wilders-european-parliament-polls-pvv/).
+You can read more about it [here](https://variety.com/2024/tv/news/the-acolyte-ratings-viewers-biggest-disney-2024-1236028166/).
 
 ## Requirements
 - Python 3.8
