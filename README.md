@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Acolyte’ Reaches 4.8 Million Views in One Day, Biggest Disney+ Launch of 2024**
+**Biden's 'perpetual state of confusion' on display in Normandy amid rising cognitive questions**
 
-You can read more about it [here](https://variety.com/2024/tv/news/the-acolyte-ratings-viewers-biggest-disney-2024-1236028166/).
+You can read more about it [here](https://www.foxnews.com/politics/bidens-perpetual-state-confusion-display-normandy-amid-rising-cognitive-questions).
 
 ## Requirements
 - Python 3.8
