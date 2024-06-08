@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's 'perpetual state of confusion' on display in Normandy amid rising cognitive questions**
+**Pat Sajak Lands First New Gig After 'Wheel of Fortune' Exit**
 
-You can read more about it [here](https://www.foxnews.com/politics/bidens-perpetual-state-confusion-display-normandy-amid-rising-cognitive-questions).
+You can read more about it [here](https://www.etonline.com/pat-sajak-lands-first-new-gig-after-wheel-of-fortune-exit-226864).
 
 ## Requirements
 - Python 3.8
