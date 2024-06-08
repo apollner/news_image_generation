@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner: NASA astronauts arrive at Space Station**
+**National Donut Day 2024 deals and freebies: Dunkin', Krispy Kreme and more**
 
-You can read more about it [here](https://www.bbc.com/news/videos/c8vvrrv1mg1o).
+You can read more about it [here](https://nypost.com/2024/06/07/lifestyle/national-donut-day-2024-deals-and-freebies-dunkin-krispy-kreme-and-more/).
 
 ## Requirements
 - Python 3.8
