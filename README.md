@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Will Switch Off Recall by Default After Researchers Expose Security Flaws**
+**Apple Is Reportedly Launching Its Own Password Manager App, and It's About Time**
 
-You can read more about it [here](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/).
+You can read more about it [here](https://gizmodo.com/apple-passwords-cybersecurity-1851525736).
 
 ## Requirements
 - Python 3.8
