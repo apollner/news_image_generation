@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Finals 2024: Why Game 1 was the perfect encapsulation of the Celtics' title blueprint**
+**Morale plummets inside The Washington Post as staffers express alarm over publisher's attempts to squash story**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwMjk2NjQ2L25iYS1maW5hbHMtMjAyNC1nYW1lLTEtcGVyZmVjdC1lbmNhcHN1bGF0aW9uLWJvc3Rvbi1jZWx0aWNzLWNoYW1waW9uc2hpcC1ibHVlcHJpbnTSAQA?oc=5).
+You can read more about it [here](https://finance.yahoo.com/news/morale-plummets-inside-washington-post-113926057.html).
 
 ## Requirements
 - Python 3.8
