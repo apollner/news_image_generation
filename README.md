@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses multiple state charges against Paul Pelosi’s attacker, including attempted murder**
+**GameStop stock slides after it reports quarterly financial loss**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8wNy9wb2xpdGljcy9wYXVsLXBlbG9zaS1hdHRhY2tlci1kYXZpZC1kZXBhcGUtanVkZ2Utc3RhdGUtY2hhcmdlcy9pbmRleC5odG1s0gFhaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8wNy9wb2xpdGljcy9wYXVsLXBlbG9zaS1hdHRhY2tlci1kYXZpZC1kZXBhcGUtanVkZ2Utc3RhdGUtY2hhcmdlcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvc3RvY2stZ2FtZXN0b3AtcHJpY2Uta2VpdGgtZ2lsbC1yb2FyaW5nLWtpdHR5LTIwMjQtZWFybmluZ3Mv0gFdaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3Mvc3RvY2stZ2FtZXN0b3AtcHJpY2Uta2VpdGgtZ2lsbC1yb2FyaW5nLWtpdHR5LTIwMjQtZWFybmluZ3Mv?oc=5).
 
 ## Requirements
 - Python 3.8
