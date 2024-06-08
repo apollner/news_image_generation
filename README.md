@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See it: Rivian unveils redesigned all-electric SUV and pickup**
+**[Removed]**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/see-rivian-unveils-redesigned-all-electric-suv-pickup).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
