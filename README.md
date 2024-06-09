@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kennedy says he has secured ballot access in enough states to win. That's not yet true**
+**Fever ride Caitlin Clark's record-tying seven 3s, 30 points**
 
-You can read more about it [here](https://apnews.com/article/rfk-kennedy-ballot-access-cnn-debate-election-c259599e787e422181f986cf2272eb53).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/40302422/clark-sinks-record-tying-seven-3s-nets-30-total-fever-win).
 
 ## Requirements
 - Python 3.8
