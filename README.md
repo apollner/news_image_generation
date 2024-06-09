@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demand for food delivery has skyrocketed. So have complaints about some drivers**
+**Caitlin Clark ties WNBA rookie record in Fever win vs. Mystics**
 
-You can read more about it [here](https://apnews.com/article/delivery-drivers-food-uber-eats-grubhub-doordash-e35b5667cb7f2140bdc778ca52f59695).
+You can read more about it [here](https://www.usatoday.com/story/sports/wnba/fever/2024/06/07/caitlin-clark-wnba-career-stats-start/74021521007/).
 
 ## Requirements
 - Python 3.8
