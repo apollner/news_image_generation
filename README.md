@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katya Adler: What happens if the far right gains in EU elections?**
+**LARRY KUDLOW: 'Look under the hood' of Biden's May jobs report and you'll see the problem**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22vne9x03o).
+You can read more about it [here](https://www.foxbusiness.com/media/larry-kudlow-look-under-hood-bidens-may-jobs-report-youll-see-problem).
 
 ## Requirements
 - Python 3.8
