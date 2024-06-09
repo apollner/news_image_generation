@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX wants to build 1 Starship megarocket a day with new Starfactory**
+**How to watch the 2024 Belmont Stakes race today: Start time, channel, odds, where to stream and more**
 
-You can read more about it [here](https://www.space.com/spacex-starship-one-a-day-starfactory).
+You can read more about it [here](https://sports.yahoo.com/how-to-watch-the-2024-belmont-stakes-race-start-time-channel-odds-where-to-stream-and-more-105827106.html).
 
 ## Requirements
 - Python 3.8
