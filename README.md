@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Roaring Kitty' could not save GameStop as meme stock tanks**
+**Joe Biden's personal aides get involved in his relatives' business dealings**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/roaring-kitty-could-not-save-gamestop-meme-stock-tanks).
+You can read more about it [here](https://www.politico.com/news/2024/06/08/joe-biden-aides-family-business-dealings-00161476).
 
 ## Requirements
 - Python 3.8
