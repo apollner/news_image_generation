@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the 2024 Belmont Stakes race today: Start time, channel, odds, where to stream and more**
+**Israeli minister Benny Gantz expected to announce exit from Netanyahu's coalition**
 
-You can read more about it [here](https://sports.yahoo.com/how-to-watch-the-2024-belmont-stakes-race-start-time-channel-odds-where-to-stream-and-more-105827106.html).
+You can read more about it [here](https://www.axios.com/2024/06/07/israel-gantz-leave-netanyahu-coalition).
 
 ## Requirements
 - Python 3.8
