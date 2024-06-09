@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX wants to build 1 Starship megarocket a day with new Starfactory**
+**Pat Sajak steps down from Wheel of Fortune after 41 seasons**
 
-You can read more about it [here](https://www.space.com/spacex-starship-one-a-day-starfactory).
+You can read more about it [here](https://www.bbc.com/news/articles/c3ggvej892eo).
 
 ## Requirements
 - Python 3.8
