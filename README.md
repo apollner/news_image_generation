@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warning: Popular Sugar-Free Sweetener Linked to Heart Attacks and Strokes**
+**'Roaring Kitty' could not save GameStop as meme stock tanks**
 
-You can read more about it [here](https://scitechdaily.com/warning-popular-sugar-free-sweetener-linked-to-heart-attacks-and-strokes/).
+You can read more about it [here](https://finance.yahoo.com/news/roaring-kitty-could-not-save-111808590.html).
 
 ## Requirements
 - Python 3.8
