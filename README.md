@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norwegian wealth fund to vote against Elon Musk's Tesla pay package**
+**2024 Belmont Stakes time today, horses, post positions, odds: Surprising picks, prediction by racing insider**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/norwegian-wealth-fund-vote-elon-musks-tesla-pay-110954403).
+You can read more about it [here](https://www.cbssports.com/general/news/2024-belmont-stakes-time-today-horses-post-positions-odds-surprising-picks-prediction-by-racing-insider/).
 
 ## Requirements
 - Python 3.8
