@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Another sugar substitute linked to increased risk of heart attack and stroke, Cleveland Clinic says**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wfla.com/news/national/another-sugar-substitute-linked-to-increased-risk-of-heart-attack-and-stroke-cleveland-clinic-says/).
 
 ## Requirements
 - Python 3.8
