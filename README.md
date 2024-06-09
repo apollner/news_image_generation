@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LARRY KUDLOW: 'Look under the hood' of Biden's May jobs report and you'll see the problem**
+**Biden and Macron meetings during state visit to focus on Ukraine and Gaza**
 
-You can read more about it [here](https://www.foxbusiness.com/media/larry-kudlow-look-under-hood-bidens-may-jobs-report-youll-see-problem).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/06/08/biden-macron-france-state-visit/).
 
 ## Requirements
 - Python 3.8
