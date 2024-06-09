@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Macron meetings during state visit to focus on Ukraine and Gaza**
+**GameStop stock falls 40 percent as ‘Roaring Kitty’ hosts live stream**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/06/08/biden-macron-france-state-visit/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/06/07/gamestop-roaring-kitty/).
 
 ## Requirements
 - Python 3.8
