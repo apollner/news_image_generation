@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden apologises to Zelensky for delay in Ukraine military aid**
+**Pfizer's Paxlovid fails as 15-day treatment for long COVID, study finds**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv22kz2102ro).
+You can read more about it [here](https://finance.yahoo.com/news/pfizers-paxlovid-fails-15-day-190258829.html).
 
 ## Requirements
 - Python 3.8
