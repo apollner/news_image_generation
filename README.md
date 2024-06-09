@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Belmont Stakes time today, horses, post positions, odds: Surprising picks, prediction by racing insider**
+**Trump set to speak at Newport Beach fundraiser Saturday**
 
-You can read more about it [here](https://www.cbssports.com/general/news/2024-belmont-stakes-time-today-horses-post-positions-odds-surprising-picks-prediction-by-racing-insider/).
+You can read more about it [here](https://abc7.com/post/trump-set-speak-newport-beach-fundraiser-saturday/14926366/).
 
 ## Requirements
 - Python 3.8
