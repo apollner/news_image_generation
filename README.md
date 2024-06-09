@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT vs. Colombia: Starting XI & Lineup Notes**
+**Jennifer Lopez and Ben Affleck selling $60 million marital home amid looming divorce: report**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2024/06/usmnt-vs-colombia-usa-lineup-today-starting-11).
+You can read more about it [here](https://pagesix.com/2024/06/08/lifestyle/jennifer-lopez-and-ben-affleck-selling-marital-home-amid-looming-divorce-report/).
 
 ## Requirements
 - Python 3.8
