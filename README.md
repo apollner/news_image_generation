@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden's personal aides get involved in his relatives' business dealings**
+**Here's every iPhone model that will support Apple's upcoming AI features (for now)**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/08/joe-biden-aides-family-business-dealings-00161476).
+You can read more about it [here](https://www.zdnet.com/article/heres-every-iphone-model-that-will-support-apples-upcoming-ai-features-for-now/).
 
 ## Requirements
 - Python 3.8
