@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pfizer's Paxlovid fails as 15-day treatment for long COVID, study finds**
+**Another sugar substitute linked to increased risk of heart attack and stroke, Cleveland Clinic says**
 
-You can read more about it [here](https://finance.yahoo.com/news/pfizers-paxlovid-fails-15-day-190258829.html).
+You can read more about it [here](https://www.wfla.com/news/national/another-sugar-substitute-linked-to-increased-risk-of-heart-attack-and-stroke-cleveland-clinic-says/).
 
 ## Requirements
 - Python 3.8
