@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli minister Benny Gantz expected to announce exit from Netanyahu's coalition**
+**$500M of taxpayer dough wasted? Hochul, MTA lack Plan B for NYC congestion pricing infrastructure**
 
-You can read more about it [here](https://www.axios.com/2024/06/07/israel-gantz-leave-netanyahu-coalition).
+You can read more about it [here](https://nypost.com/2024/06/08/us-news/gov-hochul-mta-lack-plan-b-for-nyc-congestion-pricing-infrastructure/).
 
 ## Requirements
 - Python 3.8
