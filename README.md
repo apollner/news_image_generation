@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LARRY KUDLOW: 'Look under the hood' of Biden's May jobs report and you'll see the problem**
+**Former astronaut William Anders, who took iconic Earthrise photo, killed in Washington plane crash**
 
-You can read more about it [here](https://www.foxbusiness.com/media/larry-kudlow-look-under-hood-bidens-may-jobs-report-youll-see-problem).
+You can read more about it [here](https://apnews.com/article/plane-crash-san-juan-islands-washington-6d3800130ef4e67d761f96b328f7c263).
 
 ## Requirements
 - Python 3.8
