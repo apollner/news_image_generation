@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's every iPhone model that will support Apple's upcoming AI features (for now)**
+**Box Office: Will Smith’s ‘Bad Boys 4’ Jolting the Summer Back to Life With $53M Opening**
 
-You can read more about it [here](https://www.zdnet.com/article/heres-every-iphone-model-that-will-support-apples-upcoming-ai-features-for-now/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/will-smith-bad-boys-ride-or-die-jolting-box-office-1235917875/).
 
 ## Requirements
 - Python 3.8
