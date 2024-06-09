@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Another sugar substitute linked to increased risk of heart attack and stroke, Cleveland Clinic says**
+**LARRY KUDLOW: 'Look under the hood' of Biden's May jobs report and you'll see the problem**
 
-You can read more about it [here](https://www.wfla.com/news/national/another-sugar-substitute-linked-to-increased-risk-of-heart-attack-and-stroke-cleveland-clinic-says/).
+You can read more about it [here](https://www.foxbusiness.com/media/larry-kudlow-look-under-hood-bidens-may-jobs-report-youll-see-problem).
 
 ## Requirements
 - Python 3.8
