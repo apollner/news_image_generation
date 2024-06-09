@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iga Swiatek wins a third consecutive French Open women's title by overwhelming Jasmine Paolini**
+**Rishi Sunak's shocking D-Day week makes Tory election fight even tougher, Laura Kuenssberg writes**
 
-You can read more about it [here](https://apnews.com/article/french-open-2024-women-final-swiatek-paolini-2d5b61ea5937361d6bb351593edf9544).
+You can read more about it [here](https://www.bbc.com/news/articles/cz55kvkp0ymo).
 
 ## Requirements
 - Python 3.8
