@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pat Sajak steps down from Wheel of Fortune after 41 seasons**
+**Warning: Popular Sugar-Free Sweetener Linked to Heart Attacks and Strokes**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3ggvej892eo).
+You can read more about it [here](https://scitechdaily.com/warning-popular-sugar-free-sweetener-linked-to-heart-attacks-and-strokes/).
 
 ## Requirements
 - Python 3.8
