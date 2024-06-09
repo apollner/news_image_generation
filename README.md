@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LARRY KUDLOW: 'Look under the hood' of Biden's May jobs report and you'll see the problem**
+**2024 Daytime Emmys Winners: Dick Van Dyke Makes History, ‘General Hospital’ Wins**
 
-You can read more about it [here](https://www.foxbusiness.com/media/larry-kudlow-look-under-hood-bidens-may-jobs-report-youll-see-problem).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/2024-daytime-emmys-winners-list-1235917674/).
 
 ## Requirements
 - Python 3.8
