@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Another sugar substitute linked to increased risk of heart attack and stroke, Cleveland Clinic says**
+**Nvidia 10-1 stock split is mostly 'cosmetic,' investor says**
 
-You can read more about it [here](https://www.wfla.com/news/national/another-sugar-substitute-linked-to-increased-risk-of-heart-attack-and-stroke-cleveland-clinic-says/).
+You can read more about it [here](https://fortune.com/2024/06/07/nvidia-stock-split-10-1-nvda-outlook-ai-chips-sales/).
 
 ## Requirements
 - Python 3.8
