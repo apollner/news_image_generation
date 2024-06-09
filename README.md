@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez and Ben Affleck selling $60 million marital home amid looming divorce: report**
+**Norwegian wealth fund to vote against Elon Musk's Tesla pay package**
 
-You can read more about it [here](https://pagesix.com/2024/06/08/lifestyle/jennifer-lopez-and-ben-affleck-selling-marital-home-amid-looming-divorce-report/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/norwegian-wealth-fund-vote-elon-musks-tesla-pay-110954403).
 
 ## Requirements
 - Python 3.8
