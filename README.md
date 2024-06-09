@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop stock falls 40 percent as ‘Roaring Kitty’ hosts live stream**
+**New drug claims three Michigan lives**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/06/07/gamestop-roaring-kitty/).
+You can read more about it [here](https://www.wilx.com/2024/06/08/new-drug-claims-three-michigan-lives/).
 
 ## Requirements
 - Python 3.8
