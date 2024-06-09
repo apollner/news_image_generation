@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New drug claims three Michigan lives**
+**3 swimmers attacked by sharks off Florida panhandle**
 
-You can read more about it [here](https://www.wilx.com/2024/06/08/new-drug-claims-three-michigan-lives/).
+You can read more about it [here](https://abcnews.go.com/US/3-swimmers-attacked-sharks-off-florida-panhandle/story?id=110942862).
 
 ## Requirements
 - Python 3.8
