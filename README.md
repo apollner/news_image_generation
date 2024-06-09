@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Daytime Emmys Winners: Dick Van Dyke Makes History, ‘General Hospital’ Wins**
+**Denmark Prime Minister Mette Frederiksen attacked in Copenhagen**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/2024-daytime-emmys-winners-list-1235917674/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/06/07/denmark-mette-frederiksen-attack-elections-suspect-arrested/).
 
 ## Requirements
 - Python 3.8
