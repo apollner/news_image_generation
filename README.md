@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop stock falls 40 percent as ‘Roaring Kitty’ hosts live stream**
+**Demand for food delivery has skyrocketed. So have complaints about some drivers**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/06/07/gamestop-roaring-kitty/).
+You can read more about it [here](https://apnews.com/article/delivery-drivers-food-uber-eats-grubhub-doordash-e35b5667cb7f2140bdc778ca52f59695).
 
 ## Requirements
 - Python 3.8
