@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Will Smith’s ‘Bad Boys 4’ Jolting the Summer Back to Life With $53M Opening**
+**SpaceX wants to build 1 Starship megarocket a day with new Starfactory**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/will-smith-bad-boys-ride-or-die-jolting-box-office-1235917875/).
+You can read more about it [here](https://www.space.com/spacex-starship-one-a-day-starfactory).
 
 ## Requirements
 - Python 3.8
