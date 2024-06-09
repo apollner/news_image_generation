@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Roaring Kitty' could not save GameStop as meme stock tanks**
+**SpaceX wants to build 1 Starship megarocket a day with new Starfactory**
 
-You can read more about it [here](https://finance.yahoo.com/news/roaring-kitty-could-not-save-111808590.html).
+You can read more about it [here](https://www.space.com/spacex-starship-one-a-day-starfactory).
 
 ## Requirements
 - Python 3.8
