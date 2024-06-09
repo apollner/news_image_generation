@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**$500M of taxpayer dough wasted? Hochul, MTA lack Plan B for NYC congestion pricing infrastructure**
+**Iga Swiatek wins a third consecutive French Open women's title by overwhelming Jasmine Paolini**
 
-You can read more about it [here](https://nypost.com/2024/06/08/us-news/gov-hochul-mta-lack-plan-b-for-nyc-congestion-pricing-infrastructure/).
+You can read more about it [here](https://apnews.com/article/french-open-2024-women-final-swiatek-paolini-2d5b61ea5937361d6bb351593edf9544).
 
 ## Requirements
 - Python 3.8
