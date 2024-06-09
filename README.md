@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark ties WNBA rookie record in Fever win vs. Mystics**
+**'Roaring Kitty' could not save GameStop as meme stock tanks**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/wnba/fever/2024/06/07/caitlin-clark-wnba-career-stats-start/74021521007/).
+You can read more about it [here](https://www.foxbusiness.com/markets/roaring-kitty-could-not-save-gamestop-meme-stock-tanks).
 
 ## Requirements
 - Python 3.8
