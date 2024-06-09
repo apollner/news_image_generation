@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fever ride Caitlin Clark's record-tying seven 3s, 30 points**
+**Stephen A. Smith Believes Celtics Star Can Wrap Up NBA Finals**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/40302422/clark-sinks-record-tying-seven-3s-nets-30-total-fever-win).
+You can read more about it [here](https://nesn.com/2024/06/stephen-a-smith-believes-celtics-star-can-wrap-up-nba-finals/).
 
 ## Requirements
 - Python 3.8
