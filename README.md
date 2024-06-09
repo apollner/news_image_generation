@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak's shocking D-Day week makes Tory election fight even tougher, Laura Kuenssberg writes**
+**USMNT vs. Colombia: Starting XI & Lineup Notes**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cz55kvkp0ymo).
+You can read more about it [here](https://www.ussoccer.com/stories/2024/06/usmnt-vs-colombia-usa-lineup-today-starting-11).
 
 ## Requirements
 - Python 3.8
