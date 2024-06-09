@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 swimmers attacked by sharks off Florida panhandle**
+**Katya Adler: What happens if the far right gains in EU elections?**
 
-You can read more about it [here](https://abcnews.go.com/US/3-swimmers-attacked-sharks-off-florida-panhandle/story?id=110942862).
+You can read more about it [here](https://www.bbc.com/news/articles/cv22vne9x03o).
 
 ## Requirements
 - Python 3.8
