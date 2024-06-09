@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denmark Prime Minister Mette Frederiksen attacked in Copenhagen**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/06/07/denmark-mette-frederiksen-attack-elections-suspect-arrested/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
