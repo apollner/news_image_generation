@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark Makes First Comments On Her Team America Olympics Snub**
+**Luka Doncic downgraded to questionable for Game 2 of NBA Finals**
 
-You can read more about it [here](http://deadline.com/2024/06/caitlin-clark-first-comments-on-olympics-snub-1235965022/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40313656/luka-doncic-downgraded-questionable-game-2-nba-finals).
 
 ## Requirements
 - Python 3.8
