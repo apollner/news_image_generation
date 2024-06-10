@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iga Swiatek wins a third consecutive French Open women's title by overwhelming Jasmine Paolini**
+**J.Lo, Ben Affleck selling mansion, likely heading for divorce**
 
-You can read more about it [here](https://apnews.com/article/french-open-2024-women-final-swiatek-paolini-2d5b61ea5937361d6bb351593edf9544).
+You can read more about it [here](http://www.nydailynews.com/2024/06/08/jennifer-lopez-ben-affleck-sell-beverly-hills-mansion-divorce-impending/).
 
 ## Requirements
 - Python 3.8
