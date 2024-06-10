@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayson Werth's horse Dornoch wins Belmont Stakes**
+**Fed decision and inflation reports will rock markets**
 
-You can read more about it [here](https://www.mlb.com/news/jayson-werth-horse-dornoch-wins-belmont-stakes).
+You can read more about it [here](https://www.thestreet.com/investing/fed-decision-and-inflation-reports-will-rock-markets).
 
 ## Requirements
 - Python 3.8
