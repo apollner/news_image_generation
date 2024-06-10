@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed decision and inflation reports will rock markets**
+**EU elections: Millions head to polls on final day as right seeks surge**
 
-You can read more about it [here](https://www.thestreet.com/investing/fed-decision-and-inflation-reports-will-rock-markets).
+You can read more about it [here](https://www.bbc.com/news/articles/cd114d035j3o).
 
 ## Requirements
 - Python 3.8
