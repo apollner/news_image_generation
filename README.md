@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bag of cash doesn't stop jurors from convicting 5 of 7 defendants in $40M fraud scheme**
+**Iga Swiatek wins a third consecutive French Open women's title by overwhelming Jasmine Paolini**
 
-You can read more about it [here](https://www.ksl.com/article/51036735/bag-of-cash-doesnt-stop-jurors-from-convicting-5-of-7-defendants-in-40m-fraud-scheme).
+You can read more about it [here](https://apnews.com/article/french-open-2024-women-final-swiatek-paolini-2d5b61ea5937361d6bb351593edf9544).
 
 ## Requirements
 - Python 3.8
