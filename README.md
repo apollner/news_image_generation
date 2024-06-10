@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU elections: Millions head to polls on final day as right seeks surge**
+**Famed NASA astronaut dies in plane crash at 90**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd114d035j3o).
+You can read more about it [here](https://www.youtube.com/watch?v=OXp7vb2G-14).
 
 ## Requirements
 - Python 3.8
