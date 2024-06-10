@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea to blast loudspeaker broadcasts after North's trash balloons**
+**Yale law professor says Trump isn't a convicted felon despite guilty verdict -- here's why**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-resumes-sending-trash-balloons-south-korea-2024-06-09/).
+You can read more about it [here](https://nypost.com/2024/06/08/us-news/yale-law-professor-says-trump-isnt-a-convicted-felon-despite-guilty-verdict-heres-why/).
 
 ## Requirements
 - Python 3.8
