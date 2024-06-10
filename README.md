@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea restarts anti-North Korea loudspeaker broadcasts in retaliation for trash balloons**
+**Migrant arrests drop at US-Mexico border as Biden asylum ban rolls out**
 
-You can read more about it [here](https://apnews.com/article/south-korea-north-korea-loudspeaker-broadcasts-propaganda-balloons-292bfb6b5a53aa5f0719eb95ef6993e9).
+You can read more about it [here](https://www.reuters.com/world/us/migrant-arrests-drop-us-mexico-border-biden-asylum-ban-rolls-out-2024-06-08/).
 
 ## Requirements
 - Python 3.8
