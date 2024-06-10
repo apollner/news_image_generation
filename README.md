@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayson Werth's horse Dornoch wins Belmont Stakes**
+**North Korea sends another wave of trash balloons into South Korea**
 
-You can read more about it [here](https://www.mlb.com/news/jayson-werth-horse-dornoch-wins-belmont-stakes).
+You can read more about it [here](https://www.cnn.com/2024/06/09/asia/north-korea-balloons-response-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
