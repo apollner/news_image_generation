@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Narendra Modi: Will coalition turn him into a humbler leader?**
+**Horoscope for Sunday, June 9, 2024**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cn00xl6n8ldo).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/06/09/horoscopes-today-sunday-june-9-2024).
 
 ## Requirements
 - Python 3.8
