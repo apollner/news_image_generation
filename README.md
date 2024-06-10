@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed decision and inflation reports will rock markets**
+**Nassourdine Imavov stops Jared Cannonier in UFC main event**
 
-You can read more about it [here](https://www.thestreet.com/investing/fed-decision-and-inflation-reports-will-rock-markets).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/40309336/nassourdine-imavov-stops-jared-cannonier-ufc-main-event).
 
 ## Requirements
 - Python 3.8
