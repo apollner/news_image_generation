@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 French Open men's final: Live updates, scores as Carlos Alcaraz, Alexander Zverev battle at Roland Garros**
+**Box Office: ‘Bad Boys 4’ Rides to $56 Million in Opening Weekend**
 
-You can read more about it [here](https://www.cbssports.com/tennis/news/2024-french-open-mens-final-live-updates-scores-as-carlos-alcaraz-alexander-zverev-battle-at-roland-garros/live/).
+You can read more about it [here](https://variety.com/2024/film/box-office/box-office-bad-boys-4-opening-weekend-will-smith-1236029917/).
 
 ## Requirements
 - Python 3.8
