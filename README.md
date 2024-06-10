@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix 'Hit Man': Glen Powell's Hair, Costume, Makeup Transformations**
+**Julia Louis-Dreyfus, too, has an opinion on political correctness in comedy: ‘It’s just good to be vigilant’**
 
-You can read more about it [here](https://www.indiewire.com/features/craft/netflix-hit-man-glen-powell-hair-costume-makeup-transformations-1235013596/).
+You can read more about it [here](https://www.cnn.com/2024/06/09/entertainment/julia-louis-dreyfus-political-correctness-seinfeld/index.html).
 
 ## Requirements
 - Python 3.8
