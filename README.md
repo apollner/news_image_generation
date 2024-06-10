@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.Lo, Ben Affleck selling mansion, likely heading for divorce**
+**Box Office: Will Smith’s ‘Bad Boys 4’ Jolting the Summer Back to Life With $53M Opening**
 
-You can read more about it [here](http://www.nydailynews.com/2024/06/08/jennifer-lopez-ben-affleck-sell-beverly-hills-mansion-divorce-impending/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/will-smith-bad-boys-ride-or-die-jolting-box-office-1235917875/).
 
 ## Requirements
 - Python 3.8
