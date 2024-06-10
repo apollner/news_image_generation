@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nassourdine Imavov stops Jared Cannonier in UFC main event**
+**North Korea sends another wave of trash balloons into South Korea**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/40309336/nassourdine-imavov-stops-jared-cannonier-ufc-main-event).
+You can read more about it [here](https://www.cnn.com/2024/06/09/asia/north-korea-balloons-response-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
