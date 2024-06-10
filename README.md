@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Large chunk of Wyoming's Teton Pass road collapses; unclear how quickly it can be rebuilt**
+**Two central Alabama girls injured in Friday shark attack in Walton County, Florida - Two central Alabama girls injured in Friday shark attack in Walton County, Florida**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/massive-chunk-wyomings-teton-pass-crumbles-unclear-quickly-110958926).
+You can read more about it [here](https://www.wbrc.com/2024/06/08/two-central-alabama-girls-injured-friday-shark-attack-walton-county-florida/).
 
 ## Requirements
 - Python 3.8
