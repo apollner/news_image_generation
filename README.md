@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Mosley: Body found in search for missing TV presenter**
+**USMNT unravels against Colombia in Copa América tune-up**
 
-You can read more about it [here](https://apnews.com/article/greece-mosley-presenter-missing-body-found-4bf0111220b0c283bbd2837a628555f7).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/08/usmnt-colombia-commanders-field/).
 
 ## Requirements
 - Python 3.8
