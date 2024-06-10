@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli war cabinet minister Benny Gantz quits emergency government**
+**Jayson Werth's horse Dornoch wins Belmont Stakes**
 
-You can read more about it [here](https://www.bbc.com/news/articles/clkkdymdwlvo).
+You can read more about it [here](https://www.mlb.com/news/jayson-werth-horse-dornoch-wins-belmont-stakes).
 
 ## Requirements
 - Python 3.8
