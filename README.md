@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, June 9, 2024**
+**Disneyland employee dies after falling from moving golf cart in theme park backstage**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/06/09/horoscopes-today-sunday-june-9-2024).
+You can read more about it [here](https://abc7.com/post/disneyland-employee-identified-bonnye-mavis-lear-dies-after/14927504/).
 
 ## Requirements
 - Python 3.8
