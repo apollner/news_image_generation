@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**2024 French Open men's final: Live updates, scores as Carlos Alcaraz, Alexander Zverev battle at Roland Garros**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/tennis/news/2024-french-open-mens-final-live-updates-scores-as-carlos-alcaraz-alexander-zverev-battle-at-roland-garros/live/).
 
 ## Requirements
 - Python 3.8
