@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yale law professor says Trump isn't a convicted felon despite guilty verdict -- here's why**
+**Disneyland Employee Dies After Falling From Moving Golf Cart at Theme Park**
 
-You can read more about it [here](https://nypost.com/2024/06/08/us-news/yale-law-professor-says-trump-isnt-a-convicted-felon-despite-guilty-verdict-heres-why/).
+You can read more about it [here](https://variety.com/2024/film/news/disneyland-employee-dead-golf-cart-accident-1236029765/).
 
 ## Requirements
 - Python 3.8
