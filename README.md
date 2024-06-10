@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Approves Six Candidates to Run for President. All but One Are Conservatives.**
+**Stock market faces midweek double whammy: Fed decision follows CPI inflation**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/iran-approves-six-candidates-to-run-for-president-all-but-one-are-conservatives-e0e21c86).
+You can read more about it [here](https://www.marketwatch.com/story/stock-market-faces-midweek-double-whammy-with-fed-decision-following-cpi-inflation-reading-a32d2841).
 
 ## Requirements
 - Python 3.8
