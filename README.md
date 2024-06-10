@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norway's trillion-dollar wealth fund to vote against Musk's Tesla pay deal**
+**Mayorkas defends Biden's executive action — but doesn't say when it might start working**
 
-You can read more about it [here](https://www.businessinsider.com/norways-wealth-fund-vote-against-elon-musks-55bn-tesla-paycheck-2024-6).
+You can read more about it [here](https://www.politico.com/news/2024/06/09/immigration-mayorkas-defends-biden-executive-action-00162414).
 
 ## Requirements
 - Python 3.8
