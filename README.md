@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump set to speak at Newport Beach fundraiser Saturday**
+**Bag of cash doesn't stop jurors from convicting 5 of 7 defendants in $40M fraud scheme**
 
-You can read more about it [here](https://abc7.com/post/trump-set-speak-newport-beach-fundraiser-saturday/14926366/).
+You can read more about it [here](https://www.ksl.com/article/51036735/bag-of-cash-doesnt-stop-jurors-from-convicting-5-of-7-defendants-in-40m-fraud-scheme).
 
 ## Requirements
 - Python 3.8
