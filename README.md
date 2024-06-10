@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Norway wealth fund to vote against Musk's $56 billion Tesla pay package**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/technology/norway-wealth-fund-vote-against-musks-56-bln-tesla-pay-package-2024-06-08/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
