@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Famed NASA astronaut dies in plane crash at 90**
+**Large chunk of Wyoming's Teton Pass road collapses; unclear how quickly it can be rebuilt**
 
-You can read more about it [here](https://www.youtube.com/watch?v=OXp7vb2G-14).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/massive-chunk-wyomings-teton-pass-crumbles-unclear-quickly-110958926).
 
 ## Requirements
 - Python 3.8
