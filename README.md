@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayson Werth's horse Dornoch wins Belmont Stakes**
+**Apple WWDC: AI Announcements Will Enable Home Robot, AR Glasses, Camera AirPods**
 
-You can read more about it [here](https://www.mlb.com/news/jayson-werth-horse-dornoch-wins-belmont-stakes).
+You can read more about it [here](https://www.bloomberg.com/news/newsletters/2024-06-09/apple-wwdc-ai-announcements-will-enable-home-robot-ar-glasses-camera-airpods-lx7jem9f).
 
 ## Requirements
 - Python 3.8
