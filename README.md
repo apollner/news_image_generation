@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea sends another wave of trash balloons into South Korea**
+**Iran Approves Six Candidates to Run for President. All but One Are Conservatives.**
 
-You can read more about it [here](https://www.cnn.com/2024/06/09/asia/north-korea-balloons-response-intl-hnk/index.html).
+You can read more about it [here](https://www.wsj.com/world/middle-east/iran-approves-six-candidates-to-run-for-president-all-but-one-are-conservatives-e0e21c86).
 
 ## Requirements
 - Python 3.8
