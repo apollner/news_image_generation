@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yale law professor says Trump isn't a convicted felon despite guilty verdict -- here's why**
+**Fed decision and inflation reports will rock markets**
 
-You can read more about it [here](https://nypost.com/2024/06/08/us-news/yale-law-professor-says-trump-isnt-a-convicted-felon-despite-guilty-verdict-heres-why/).
+You can read more about it [here](https://www.thestreet.com/investing/fed-decision-and-inflation-reports-will-rock-markets).
 
 ## Requirements
 - Python 3.8
