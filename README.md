@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple WWDC: AI Announcements Will Enable Home Robot, AR Glasses, Camera AirPods**
+**Chiefs' Rashee Rice breaks silence on troubling car crash, alleged assault**
 
-You can read more about it [here](https://www.bloomberg.com/news/newsletters/2024-06-09/apple-wwdc-ai-announcements-will-enable-home-robot-ar-glasses-camera-airpods-lx7jem9f).
+You can read more about it [here](https://nypost.com/2024/06/09/sports/chiefs-rashee-rice-breaks-silence-on-car-crash-alleged-assault/).
 
 ## Requirements
 - Python 3.8
