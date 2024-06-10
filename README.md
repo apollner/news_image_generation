@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disneyland employee dies after falling from moving golf cart in theme park backstage**
+**Michael Mosley: Body found in search for missing TV presenter**
 
-You can read more about it [here](https://abc7.com/post/disneyland-employee-identified-bonnye-mavis-lear-dies-after/14927504/).
+You can read more about it [here](https://apnews.com/article/greece-mosley-presenter-missing-body-found-4bf0111220b0c283bbd2837a628555f7).
 
 ## Requirements
 - Python 3.8
