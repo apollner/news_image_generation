@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disneyland Employee Dies After Falling From Moving Golf Cart at Theme Park**
+**South Korea to blast loudspeaker broadcasts after North's trash balloons**
 
-You can read more about it [here](https://variety.com/2024/film/news/disneyland-employee-dead-golf-cart-accident-1236029765/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-resumes-sending-trash-balloons-south-korea-2024-06-09/).
 
 ## Requirements
 - Python 3.8
