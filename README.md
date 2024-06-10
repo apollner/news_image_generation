@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market faces midweek double whammy: Fed decision follows CPI inflation**
+**Caitlin Clark Makes First Comments On Her Team America Olympics Snub**
 
-You can read more about it [here](https://www.marketwatch.com/story/stock-market-faces-midweek-double-whammy-with-fed-decision-following-cpi-inflation-reading-a32d2841).
+You can read more about it [here](http://deadline.com/2024/06/caitlin-clark-first-comments-on-olympics-snub-1235965022/).
 
 ## Requirements
 - Python 3.8
