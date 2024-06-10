@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark says she's not disappointed with Olympics snub**
+**Norway's trillion-dollar wealth fund to vote against Musk's Tesla pay deal**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/40314567/caitlin-clark-says-not-disappointed-olympics-snub).
+You can read more about it [here](https://www.businessinsider.com/norways-wealth-fund-vote-against-elon-musks-55bn-tesla-paycheck-2024-6).
 
 ## Requirements
 - Python 3.8
