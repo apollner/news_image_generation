@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs' Rashee Rice breaks silence on troubling car crash, alleged assault**
+**Israeli war cabinet minister Benny Gantz quits emergency government**
 
-You can read more about it [here](https://nypost.com/2024/06/09/sports/chiefs-rashee-rice-breaks-silence-on-car-crash-alleged-assault/).
+You can read more about it [here](https://www.bbc.com/news/articles/clkkdymdwlvo).
 
 ## Requirements
 - Python 3.8
