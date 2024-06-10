@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Migrant arrests drop at US-Mexico border as Biden asylum ban rolls out**
+**Democrats 'fear' this possible Trump VP pick who 'could spell the end for Biden': Insiders**
 
-You can read more about it [here](https://www.reuters.com/world/us/migrant-arrests-drop-us-mexico-border-biden-asylum-ban-rolls-out-2024-06-08/).
+You can read more about it [here](https://www.foxnews.com/politics/democrats-fear-possible-trump-vp-pick-spell-end-biden-insiders).
 
 ## Requirements
 - Python 3.8
