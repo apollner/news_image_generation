@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayorkas defends Biden's executive action — but doesn't say when it might start working**
+**Netflix 'Hit Man': Glen Powell's Hair, Costume, Makeup Transformations**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/09/immigration-mayorkas-defends-biden-executive-action-00162414).
+You can read more about it [here](https://www.indiewire.com/features/craft/netflix-hit-man-glen-powell-hair-costume-makeup-transformations-1235013596/).
 
 ## Requirements
 - Python 3.8
