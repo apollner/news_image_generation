@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Will Smith’s ‘Bad Boys 4’ Jolting the Summer Back to Life With $53M Opening**
+**Jayson Werth's horse Dornoch wins Belmont Stakes**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/will-smith-bad-boys-ride-or-die-jolting-box-office-1235917875/).
+You can read more about it [here](https://www.mlb.com/news/jayson-werth-horse-dornoch-wins-belmont-stakes).
 
 ## Requirements
 - Python 3.8
