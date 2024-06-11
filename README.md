@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France faces 'consequential' election as far-right rout prompts Macron gamble**
+**Hunter Biden's lawyers to announce today whether he will testify at gun trial**
 
-You can read more about it [here](https://www.reuters.com/world/europe/france-enters-election-mode-after-far-right-win-european-parliament-vote-2024-06-10/).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-testify-gun-trial-lawyers-decision/).
 
 ## Requirements
 - Python 3.8
