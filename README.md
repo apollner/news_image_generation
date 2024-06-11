@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Best of Gov Ball 2024: Chappell Roan, Sabrina Carpenter, Post Malone**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.rollingstone.com/music/music-live-reviews/governors-ball-2024-best-chappell-roan-sabrina-carpenter-sza-killers-1235032601/).
 
 ## Requirements
 - Python 3.8
