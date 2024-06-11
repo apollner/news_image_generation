@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed as traders look ahead to Fed decision, inflation data: Live updates**
+**Trump probation interview set for Monday after hush money conviction**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/09/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-probation-interview-monday-hush-money-conviction-rcna156219).
 
 ## Requirements
 - Python 3.8
