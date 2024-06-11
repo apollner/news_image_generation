@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 Keys: Oilers at Panthers, Game 2 of Stanley Cup Final**
+**Interstellar Space Clouds Triggered the Ice Ages, Research Suggests**
 
-You can read more about it [here](https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-2-preview).
+You can read more about it [here](https://gizmodo.com/dense-interstellar-clouds-ice-age-earth-heliosphere-1851530101).
 
 ## Requirements
 - Python 3.8
