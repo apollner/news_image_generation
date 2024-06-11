@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Garry Conille: Haiti's new prime minister discharged from hospital after treatment**
+**'I didn't want' Cabinet berth: first-time Union Minister of State Suresh Gopi**
 
-You can read more about it [here](https://apnews.com/article/haiti-prime-minister-hospital-6b497fe53549f6a943d3268eadd502d7).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvY2l0aWVzL3RoaXJ1dmFuYW50aGFwdXJhbS9pLWRpZG50LXdhbnQtY2FiaW5ldC1iZXJ0aC1maXJzdC10aW1lLXVuaW9uLW1pbmlzdGVyLW9mLXN0YXRlLXN1cmVzaC1nb3BpLTkzODI3MDQv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
