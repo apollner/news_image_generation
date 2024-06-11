@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Win For Putin As Russia Seizes 3 Ukrainian Areas In 24 Hrs | Zelensky's Men Face Pressure In East**
+**Caitlin Clark shrugs off being left off Paris Olympics roster - The Washington Post**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4rXsBAwMpjA).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/10/caitlin-clark-olympics-snub/).
 
 ## Requirements
 - Python 3.8
