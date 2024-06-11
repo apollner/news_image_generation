@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I didn't want' Cabinet berth: first-time Union Minister of State Suresh Gopi**
+**Japan economic 'roadmap' leak getting another outing after disastrous economic slump data**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvY2l0aWVzL3RoaXJ1dmFuYW50aGFwdXJhbS9pLWRpZG50LXdhbnQtY2FiaW5ldC1iZXJ0aC1maXJzdC10aW1lLXVuaW9uLW1pbmlzdGVyLW9mLXN0YXRlLXN1cmVzaC1nb3BpLTkzODI3MDQv0gEA?oc=5).
+You can read more about it [here](https://www.forexlive.com/news/japan-economic-roadmap-leak-getting-another-outing-after-disastrous-economic-slump-data-20240610/).
 
 ## Requirements
 - Python 3.8
