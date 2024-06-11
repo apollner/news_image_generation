@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**African elephants use names to call each other, study suggests**
+**France's far-right National Rally projected to win snap election without absolute majority**
 
-You can read more about it [here](https://www.cnn.com/2024/06/10/science/african-elephants-name-like-calls-intl-scli-scn/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/france-enters-election-mode-after-far-right-win-european-parliament-vote-2024-06-10/).
 
 ## Requirements
 - Python 3.8
