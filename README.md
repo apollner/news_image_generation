@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France's far-right National Rally projected to win snap election without absolute majority**
+**3 Keys: Oilers at Panthers, Game 2 of Stanley Cup Final**
 
-You can read more about it [here](https://www.reuters.com/world/europe/france-enters-election-mode-after-far-right-win-european-parliament-vote-2024-06-10/).
+You can read more about it [here](https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-2-preview).
 
 ## Requirements
 - Python 3.8
