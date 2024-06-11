@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Masked porch pirate snatches package as stunned FedEx driver looks on seconds after delivery**
+**Microsoft unveils all-digital Xbox consoles, 'Doom' title at Games Showcase**
 
-You can read more about it [here](https://nypost.com/2024/06/09/us-news/masked-porch-pirate-snatches-package-as-stunned-fedex-driver-looks-on-seconds-after-delivery/).
+You can read more about it [here](https://finance.yahoo.com/news/microsoft-unveils-digital-xbox-consoles-202739807.html).
 
 ## Requirements
 - Python 3.8
