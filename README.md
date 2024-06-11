@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scottie Scheffler adds Memorial to his remarkable victory list in 2024**
+**Darren Waller reveals near-death experience from last season in Giants retirement video**
 
-You can read more about it [here](https://www.nbcsports.com/golf/news/scottie-scheffler-adds-memorial-to-his-remarkable-victory-list-in-2024).
+You can read more about it [here](https://nypost.com/2024/06/09/sports/darren-waller-reveals-near-death-experience-in-giants-retirement-video/).
 
 ## Requirements
 - Python 3.8
