@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark speaks out after Paris Olympics roster snub: "Just gives you something to work for"**
+**Scottie Scheffler adds Memorial to his remarkable victory list in 2024**
 
-You can read more about it [here](https://www.cbsnews.com/news/caitlin-clark-reaction-represent-team-usa-olympics-some-day-roster-snub/).
+You can read more about it [here](https://www.nbcsports.com/golf/news/scottie-scheffler-adds-memorial-to-his-remarkable-victory-list-in-2024).
 
 ## Requirements
 - Python 3.8
