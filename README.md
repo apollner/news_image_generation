@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken set to travel to Egypt, Israel for Gaza ceasefire push**
+**Garry Conille: Haiti's new prime minister discharged from hospital after treatment**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/blinken-set-arrive-egypt-gaza-ceasefire-push-2024-06-10/).
+You can read more about it [here](https://apnews.com/article/haiti-prime-minister-hospital-6b497fe53549f6a943d3268eadd502d7).
 
 ## Requirements
 - Python 3.8
