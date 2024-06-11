@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple WWDC 2024 live blog: AI, iOS 18, iPadOS 18, Siri 2.0 and all the big news**
+**[Removed]**
 
-You can read more about it [here](https://www.tomsguide.com/news/live/wwdc-2024-keynote-ai-ios-18-siri).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
