@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Louis-Dreyfus, too, has an opinion on political correctness in comedy: ‘It’s just good to be vigilant’**
+**Mexico ruling party wins lower house super-majority but falls short in Senate**
 
-You can read more about it [here](https://www.cnn.com/2024/06/09/entertainment/julia-louis-dreyfus-political-correctness-seinfeld/index.html).
+You can read more about it [here](https://www.reuters.com/world/americas/mexico-ruling-party-misses-senate-super-majority-wins-lower-house-morena-says-2024-06-09/).
 
 ## Requirements
 - Python 3.8
