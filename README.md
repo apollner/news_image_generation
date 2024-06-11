@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan economic 'roadmap' leak getting another outing after disastrous economic slump data**
+**Criminal defense lawyer gives these odds for Hunter Biden taking the stand**
 
-You can read more about it [here](https://www.forexlive.com/news/japan-economic-roadmap-leak-getting-another-outing-after-disastrous-economic-slump-data-20240610/).
+You can read more about it [here](https://www.cnn.com/2024/06/09/politics/video/hunter-biden-trial-odds-taking-stand-digvid).
 
 ## Requirements
 - Python 3.8
