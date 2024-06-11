@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Animal rights comes to 'America's Provence' and farmers are worried**
+**Caitlin Clark speaks out after Paris Olympics roster snub: "Just gives you something to work for"**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/09/animal-rights-california-sonoma-farms-00162034).
+You can read more about it [here](https://www.cbsnews.com/news/caitlin-clark-reaction-represent-team-usa-olympics-some-day-roster-snub/).
 
 ## Requirements
 - Python 3.8
