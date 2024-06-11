@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Added health benefits of Wegovy, Zepbound could attract more men, doctors say**
+**France faces 'consequential' election as far-right rout prompts Macron gamble**
 
-You can read more about it [here](https://www.yahoo.com/news/added-health-benefits-wegovy-zepbound-100600456.html).
+You can read more about it [here](https://www.reuters.com/world/europe/france-enters-election-mode-after-far-right-win-european-parliament-vote-2024-06-10/).
 
 ## Requirements
 - Python 3.8
