@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Finals: Jrue Holiday takes center stage as Celtics fend off late Mavericks rally for 2-0 series lead**
+**Garry Conille: Haiti's new prime minister discharged from hospital after treatment**
 
-You can read more about it [here](https://sports.yahoo.com/live/celtics-vs-mavericks-nba-finals-game-2-score-live-updates-channel-stream-how-to-watch-highlights-225736303.html).
+You can read more about it [here](https://apnews.com/article/haiti-prime-minister-hospital-6b497fe53549f6a943d3268eadd502d7).
 
 ## Requirements
 - Python 3.8
