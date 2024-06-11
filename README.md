@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft unveils all-digital Xbox consoles, 'Doom' title at Games Showcase**
+**Animal rights comes to 'America's Provence' and farmers are worried**
 
-You can read more about it [here](https://finance.yahoo.com/news/microsoft-unveils-digital-xbox-consoles-202739807.html).
+You can read more about it [here](https://www.politico.com/news/2024/06/09/animal-rights-california-sonoma-farms-00162034).
 
 ## Requirements
 - Python 3.8
