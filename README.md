@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's lawyers to announce today whether he will testify at gun trial**
+**Apple WWDC 2024 live blog: AI, iOS 18, iPadOS 18, Siri 2.0 and all the big news**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-testify-gun-trial-lawyers-decision/).
+You can read more about it [here](https://www.tomsguide.com/news/live/wwdc-2024-keynote-ai-ios-18-siri).
 
 ## Requirements
 - Python 3.8
