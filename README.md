@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hunter Biden's lawyers to announce today whether he will testify at gun trial**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-testify-gun-trial-lawyers-decision/).
 
 ## Requirements
 - Python 3.8
