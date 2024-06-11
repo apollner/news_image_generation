@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Darren Waller reveals near-death experience from last season in Giants retirement video**
+**Stock futures are little changed as traders look ahead to Fed decision, inflation data: Live updates**
 
-You can read more about it [here](https://nypost.com/2024/06/09/sports/darren-waller-reveals-near-death-experience-in-giants-retirement-video/).
+You can read more about it [here](https://www.cnbc.com/2024/06/09/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
