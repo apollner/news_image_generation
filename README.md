@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giants' Darren Waller announces retirement from the NFL following health scare, Kelsey Plum divorce filing**
+**Caitlin Clark told Fever coach 2024 Olympic snub 'woke a monster'**
 
-You can read more about it [here](https://www.cbsnews.com/news/darren-waller-retires-giants/).
+You can read more about it [here](https://nypost.com/2024/06/09/sports/caitlin-clark-told-fever-coach-2024-olympic-snub-woke-a-monster/).
 
 ## Requirements
 - Python 3.8
