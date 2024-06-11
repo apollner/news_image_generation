@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark told Fever coach that 2024 Olympic snub 'woke a monster' in her**
+**Blinken set to travel to Egypt, Israel for Gaza ceasefire push**
 
-You can read more about it [here](https://nypost.com/2024/06/09/sports/caitlin-clark-told-fever-coach-2024-olympic-snub-woke-a-monster/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/blinken-set-arrive-egypt-gaza-ceasefire-push-2024-06-10/).
 
 ## Requirements
 - Python 3.8
