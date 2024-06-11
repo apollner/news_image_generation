@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Finals: Jrue Holiday takes center stage as Celtics fend off late Mavericks rally for 2-0 series lead**
+**Hunter Biden's lawyers to announce today whether he will testify at gun trial**
 
-You can read more about it [here](https://sports.yahoo.com/live/nba-finals-jrue-holiday-takes-center-stage-as-celtics-fend-off-late-mavericks-rally-for-2-0-series-lead-022927911.html).
+You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-testify-gun-trial-lawyers-decision/).
 
 ## Requirements
 - Python 3.8
