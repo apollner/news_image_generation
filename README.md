@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Criminal defense lawyer gives these odds for Hunter Biden taking the stand**
+**Gators Win an Instant Classic, Earn Trip to College World Series**
 
-You can read more about it [here](https://www.cnn.com/2024/06/09/politics/video/hunter-biden-trial-odds-taking-stand-digvid).
+You can read more about it [here](https://floridagators.com/news/2024/6/9/gators-baseball-gators-win-an-instant-classic-earn-berth-in-college-world-series.aspx).
 
 ## Requirements
 - Python 3.8
