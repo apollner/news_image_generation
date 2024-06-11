@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Box Office: ‘Furiosa’ and ‘Civil War’ Both Fizzle**
+**Added health benefits of Wegovy, Zepbound could attract more men, doctors say**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/china-box-office-furiosa-civil-war-fizzle-1235918316/).
+You can read more about it [here](https://www.yahoo.com/news/added-health-benefits-wegovy-zepbound-100600456.html).
 
 ## Requirements
 - Python 3.8
