@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico ruling party wins lower house super-majority but falls short in Senate**
+**Masked porch pirate snatches package as stunned FedEx driver looks on seconds after delivery**
 
-You can read more about it [here](https://www.reuters.com/world/americas/mexico-ruling-party-misses-senate-super-majority-wins-lower-house-morena-says-2024-06-09/).
+You can read more about it [here](https://nypost.com/2024/06/09/us-news/masked-porch-pirate-snatches-package-as-stunned-fedex-driver-looks-on-seconds-after-delivery/).
 
 ## Requirements
 - Python 3.8
