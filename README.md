@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gators Win an Instant Classic, Earn Trip to College World Series**
+**China Box Office: ‘Furiosa’ and ‘Civil War’ Both Fizzle**
 
-You can read more about it [here](https://floridagators.com/news/2024/6/9/gators-baseball-gators-win-an-instant-classic-earn-berth-in-college-world-series.aspx).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/china-box-office-furiosa-civil-war-fizzle-1235918316/).
 
 ## Requirements
 - Python 3.8
