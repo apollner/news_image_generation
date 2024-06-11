@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia sparks chatter over possible Dow inclusion after stock split**
+**Trump to be interviewed by probation officer virtually on Monday**
 
-You can read more about it [here](https://finance.yahoo.com/news/nvidia-sparks-chatter-over-possible-120113773.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c988pvr7w14o).
 
 ## Requirements
 - Python 3.8
