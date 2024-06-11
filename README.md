@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump probation interview set for Monday after hush money conviction**
+**Giants' Darren Waller announces retirement from the NFL following health scare, Kelsey Plum divorce filing**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-probation-interview-monday-hush-money-conviction-rcna156219).
+You can read more about it [here](https://www.cbsnews.com/news/darren-waller-retires-giants/).
 
 ## Requirements
 - Python 3.8
