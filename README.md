@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Win For Putin As Russia Seizes 3 Ukrainian Areas In 24 Hrs | Zelensky's Men Face Pressure In East**
+**Interstellar Space Clouds Triggered the Ice Ages, Research Suggests**
 
-You can read more about it [here](https://www.youtube.com/watch?v=4rXsBAwMpjA).
+You can read more about it [here](https://gizmodo.com/dense-interstellar-clouds-ice-age-earth-heliosphere-1851530101).
 
 ## Requirements
 - Python 3.8
