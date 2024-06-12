@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House primaries test GOP establishment in war against far-right candidates - POLITICO**
+**The world agreed to ban this dangerous pollutant — and it's working**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/11/house-primaries-republican-leaders-far-right-war-00162633).
+You can read more about it [here](https://www.washingtonpost.com/climate-solutions/2024/06/11/hcfc-gas-reduction-ozone-global-warming/).
 
 ## Requirements
 - Python 3.8
