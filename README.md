@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samuel Alito's Wife Goes Full MAGA in Secret Recording**
+**Elon Musk rails against Apple-OpenAI deal, threatens to ban iPhones from his companies**
 
-You can read more about it [here](https://www.thedailybeast.com/samuel-alitos-wife-martha-ann-goes-full-maga-in-secret-recording).
+You can read more about it [here](https://www.marketwatch.com/story/elon-musk-rails-against-apple-openai-deal-threatens-to-ban-iphones-from-his-companies-fa0a8dca).
 
 ## Requirements
 - Python 3.8
