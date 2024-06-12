@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 10000 Southern Baptists gather for meeting that could bar churches with women pastors**
+**Peachtree Center shooting: 4 shot in downtown Atlanta, including suspect**
 
-You can read more about it [here](https://apnews.com/article/southern-baptist-annual-meeting-indianapolis-women-pastors-politics-f1f43f93947fda83119c761c06ea18f0).
+You can read more about it [here](https://www.fox5atlanta.com/news/atlanta-shooting-peachtree-center-downtown-food-court).
 
 ## Requirements
 - Python 3.8
