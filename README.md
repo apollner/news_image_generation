@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Port of Baltimore ship channel reopens after Key Bridge collapse**
+**Why Bachelor's Joey Graziadei & Kelsey Anderson Have Been Living With 2 Roommates Since Show Ended**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cnkk2d1ezzyo).
+You can read more about it [here](https://www.eonline.com/news/1403392/why-bachelors-joey-graziadei-kelsey-anderson-have-been-living-with-2-roommates-since-show-ended).
 
 ## Requirements
 - Python 3.8
