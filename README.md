@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza civilian deaths in Israel's hostage raid may be war crimes, UN says**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-civilian-killings-during-israels-freeing-hostages-could-be-war-crimes-un-2024-06-11/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
