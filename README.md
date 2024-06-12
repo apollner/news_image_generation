@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Mosley's top simple health tips**
+**Houston shines in Netflix's "Hit Man" and "Perfect Match"**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c1wwv0405wyo).
+You can read more about it [here](https://www.axios.com/local/houston/2024/06/11/hit-man-perfect-match-netflix).
 
 ## Requirements
 - Python 3.8
