@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's Starliner has 5 'small' helium leaks as astronauts' ISS mission is extended: NASA**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/boeings-starliner-5-small-helium-leaks-astronauts-iss/story?id=111012781).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
