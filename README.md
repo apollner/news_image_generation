@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia-Pacific markets are trading mixed; Taiwan market touches new highs**
+**Singapore Airlines turbulence victims offered thousands by firm**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/11/asia-markets-live-updates.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cpwwy3wq5p6o).
 
 ## Requirements
 - Python 3.8
