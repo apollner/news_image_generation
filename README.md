@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Academy Museum to Revise Exhibit on Hollywood Jewish History Following Backlash**
+**Baltimore shipping channel fully restored after massive cleanup**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/academy-museum-revise-exhibit-hollywood-jewish-history-1235919251/).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/06/10/baltimore-channel-reopening-key-bridge/).
 
 ## Requirements
 - Python 3.8
