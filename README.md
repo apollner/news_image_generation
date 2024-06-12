@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Aaron Rodgers, Haason Reddick missing Jets' mandatory minicamp; absences 'unexcused'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/aaron-rodgers-haason-reddick-missing-jets-mandatory-minicamp-absences-unexcused).
 
 ## Requirements
 - Python 3.8
