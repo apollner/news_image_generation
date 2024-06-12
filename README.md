@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive fire breaks out at Miami apartment building; employee of building found shot at scene**
+**Michael Mosley's top simple health tips**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/massive-fire-breaks-miami-apartment-building-elderly-residents-rescued-rcna156342).
+You can read more about it [here](https://www.bbc.com/news/articles/c1wwv0405wyo).
 
 ## Requirements
 - Python 3.8
