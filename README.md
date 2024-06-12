@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baltimore shipping channel fully restored after massive cleanup**
+**Alzheimer's drug from Eli Lilly wins backing of FDA committee**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/06/10/baltimore-channel-reopening-key-bridge/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/06/10/alzheimers-drug-fda-eli-lilly/).
 
 ## Requirements
 - Python 3.8
