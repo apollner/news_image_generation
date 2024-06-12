@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Call Volume Hits Highest Since 2021 as Shares Reach Record**
+**What Tesla Stock Options Say About the Next Big Move**
 
-You can read more about it [here](https://finance.yahoo.com/news/apple-call-volume-hits-highest-191745171.html).
+You can read more about it [here](https://www.barrons.com/articles/tesla-shareholder-vote-stock-options-elon-musk-68fc2488).
 
 ## Requirements
 - Python 3.8
