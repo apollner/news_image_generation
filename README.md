@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani mug shot released after being processed in Arizona election interference case**
+**Asia-Pacific markets are trading mixed; Taiwan market touches new highs**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4714932-rudy-giuliani-mug-shot-arizona-election-interference-case/).
+You can read more about it [here](https://www.cnbc.com/2024/06/11/asia-markets-live-updates.html).
 
 ## Requirements
 - Python 3.8
