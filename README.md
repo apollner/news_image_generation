@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple's new iOS 18 feature for apps has users worried it will allow people to easily 'cheat': 'Relationships are dead'**
+**Rudy Giuliani mug shot released after being processed in Arizona election interference case**
 
-You can read more about it [here](https://nypost.com/2024/06/11/tech/apples-new-ios-18-feature-for-apps-has-users-worried-it-will-allow-people-to-easily-cheat/).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4714932-rudy-giuliani-mug-shot-arizona-election-interference-case/).
 
 ## Requirements
 - Python 3.8
