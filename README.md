@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BMW China parts probe expanded by US Senate panel**
+**Israeli special forces dressed as Palestinian refugees for hostage rescue: Sources**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crgg7p95jdgo).
+You can read more about it [here](https://abcnews.go.com/International/israeli-special-forces-dressed-palestinian-refugees-hostage-rescue/story?id=110995204).
 
 ## Requirements
 - Python 3.8
