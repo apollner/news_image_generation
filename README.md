@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**watchOS 11 — Apple Watch is finally getting the fitness feature I've been waiting for**
+**GM board approves new $6 billion share buyback authorization**
 
-You can read more about it [here](https://www.tomsguide.com/wellness/smartwatches/watchos-11-apple-watch-is-finally-getting-the-fitness-feature-ive-been-waiting-for).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMTEvZ20tYm9hcmQtYXBwcm92ZXMtbmV3LTYtYmlsbGlvbi1zaGFyZS1idXliYWNrLWF1dGhvcml6YXRpb24uaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
