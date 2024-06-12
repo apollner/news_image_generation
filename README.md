@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark shrugs off being left off Paris Olympics roster - The Washington Post**
+**Party Bus, the jumping bull at Sisters Rodeo, ‘athletic, dangerous’**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/10/caitlin-clark-olympics-snub/).
+You can read more about it [here](https://www.koin.com/news/oregon/party-bus-the-jumping-bull-at-sisters-rodeo-athletic-dangerous/).
 
 ## Requirements
 - Python 3.8
