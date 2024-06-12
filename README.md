@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk rails against Apple-OpenAI deal, threatens to ban iPhones from his companies**
+**South Korean troops fired warning shots after North Korean soldiers briefly crossed land border**
 
-You can read more about it [here](https://www.marketwatch.com/story/elon-musk-rails-against-apple-openai-deal-threatens-to-ban-iphones-from-his-companies-fa0a8dca).
+You can read more about it [here](https://apnews.com/article/south-korea-north-korea-border-warning-shots-35039dd56da6fe7c4fe7605baffd6e3a).
 
 ## Requirements
 - Python 3.8
