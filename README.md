@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikToker Miranda Derrick Says Her Life Is "In Danger" After Dancing for the Devil Cult Allegations**
+**House primaries test GOP establishment in war against far-right candidates - POLITICO**
 
-You can read more about it [here](https://www.eonline.com/news/1403390/tiktoker-miranda-derrick-says-her-life-is-in-danger-after-dancing-for-the-devil-cult-allegations).
+You can read more about it [here](https://www.politico.com/news/2024/06/11/house-primaries-republican-leaders-far-right-war-00162633).
 
 ## Requirements
 - Python 3.8
