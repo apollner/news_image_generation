@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alzheimer's drug from Eli Lilly wins backing of FDA committee**
+**BMW China parts probe expanded by US Senate panel**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/06/10/alzheimers-drug-fda-eli-lilly/).
+You can read more about it [here](https://www.bbc.com/news/articles/crgg7p95jdgo).
 
 ## Requirements
 - Python 3.8
