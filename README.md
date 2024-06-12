@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Mosley's top simple health tips**
+**Samuel Alito's Wife Goes Full MAGA in Secret Recording**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c1wwv0405wyo).
+You can read more about it [here](https://www.thedailybeast.com/samuel-alitos-wife-martha-ann-goes-full-maga-in-secret-recording).
 
 ## Requirements
 - Python 3.8
