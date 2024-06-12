@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia NAACP filing suit against school board that restored names of Confederate leaders**
+**Naomi Watts & Jonathan Bailey l Actors on Actors**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/virginia-naacp-sues-school-board-over-confederate-names-rcna156505).
+You can read more about it [here](https://www.youtube.com/watch?v=f7V_OTjUIJ4).
 
 ## Requirements
 - Python 3.8
