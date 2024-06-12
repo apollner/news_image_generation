@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk Shares This Indian Meme Amid Apple-Open AI Deal**
+**Apple's new iOS 18 feature for apps has users worried it will allow people to easily 'cheat': 'Relationships are dead'**
 
-You can read more about it [here](https://www.ndtv.com/world-news/elon-musk-shares-this-indian-meme-amid-apple-open-ai-deal-5864841).
+You can read more about it [here](https://nypost.com/2024/06/11/tech/apples-new-ios-18-feature-for-apps-has-users-worried-it-will-allow-people-to-easily-cheat/).
 
 ## Requirements
 - Python 3.8
