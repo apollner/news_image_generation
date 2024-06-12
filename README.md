@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peachtree Center shooting: 4 shot in downtown Atlanta, including suspect**
+**Billy Ray Cyrus files for divorce from Firerose, alleges 'inappropriate marital conduct'**
 
-You can read more about it [here](https://www.fox5atlanta.com/news/atlanta-shooting-peachtree-center-downtown-food-court).
+You can read more about it [here](https://nypost.com/2024/06/11/entertainment/billy-ray-cyrus-files-for-divorce-from-firerose-alleges-inappropriate-marital-conduct/).
 
 ## Requirements
 - Python 3.8
