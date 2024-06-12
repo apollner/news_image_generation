@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**King Charles’ first official portrait vandalized by activists**
+**Boeing's Starliner has 5 'small' helium leaks as astronauts' ISS mission is extended: NASA**
 
-You can read more about it [here](https://www.cnn.com/2024/06/11/style/king-charles-portrait-vandalized/index.html).
+You can read more about it [here](https://abcnews.go.com/US/boeings-starliner-5-small-helium-leaks-astronauts-iss/story?id=111012781).
 
 ## Requirements
 - Python 3.8
