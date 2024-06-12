@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joey Chestnut is out of 2024 Nathan's hot dog eating contest in beef over vegan franks**
+**More than 10000 Southern Baptists gather for meeting that could bar churches with women pastors**
 
-You can read more about it [here](https://nypost.com/2024/06/11/business/joey-chestnut-banned-from-2024-nathans-hot-dog-eating-contest/).
+You can read more about it [here](https://apnews.com/article/southern-baptist-annual-meeting-indianapolis-women-pastors-politics-f1f43f93947fda83119c761c06ea18f0).
 
 ## Requirements
 - Python 3.8
