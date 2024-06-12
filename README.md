@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Party Bus, the jumping bull at Sisters Rodeo, ‘athletic, dangerous’**
+**Academy Museum to Revise Exhibit on Hollywood Jewish History Following Backlash**
 
-You can read more about it [here](https://www.koin.com/news/oregon/party-bus-the-jumping-bull-at-sisters-rodeo-athletic-dangerous/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/academy-museum-revise-exhibit-hollywood-jewish-history-1235919251/).
 
 ## Requirements
 - Python 3.8
