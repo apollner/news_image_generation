@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers, Haason Reddick missing Jets' mandatory minicamp; absences 'unexcused'**
+**Virginia NAACP filing suit against school board that restored names of Confederate leaders**
 
-You can read more about it [here](https://www.nfl.com/news/aaron-rodgers-haason-reddick-missing-jets-mandatory-minicamp-absences-unexcused).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/virginia-naacp-sues-school-board-over-confederate-names-rcna156505).
 
 ## Requirements
 - Python 3.8
