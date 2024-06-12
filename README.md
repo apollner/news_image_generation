@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korean troops fired warning shots after North Korean soldiers briefly crossed land border**
+**Elon Musk Shares This Indian Meme Amid Apple-Open AI Deal**
 
-You can read more about it [here](https://apnews.com/article/south-korea-north-korea-border-warning-shots-35039dd56da6fe7c4fe7605baffd6e3a).
+You can read more about it [here](https://www.ndtv.com/world-news/elon-musk-shares-this-indian-meme-amid-apple-open-ai-deal-5864841).
 
 ## Requirements
 - Python 3.8
