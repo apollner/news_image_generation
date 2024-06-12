@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Tesla Stock Options Say About the Next Big Move**
+**Joey Chestnut is out of 2024 Nathan's hot dog eating contest in beef over vegan franks**
 
-You can read more about it [here](https://www.barrons.com/articles/tesla-shareholder-vote-stock-options-elon-musk-68fc2488).
+You can read more about it [here](https://nypost.com/2024/06/11/business/joey-chestnut-banned-from-2024-nathans-hot-dog-eating-contest/).
 
 ## Requirements
 - Python 3.8
