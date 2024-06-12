@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The world agreed to ban this dangerous pollutant — and it's working**
+**Michael Mosley's top simple health tips**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-solutions/2024/06/11/hcfc-gas-reduction-ozone-global-warming/).
+You can read more about it [here](https://www.bbc.com/news/articles/c1wwv0405wyo).
 
 ## Requirements
 - Python 3.8
