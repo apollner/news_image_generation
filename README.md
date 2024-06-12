@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM board approves new $6 billion share buyback authorization**
+**Gaza civilian deaths in Israel's hostage raid may be war crimes, UN says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMTEvZ20tYm9hcmQtYXBwcm92ZXMtbmV3LTYtYmlsbGlvbi1zaGFyZS1idXliYWNrLWF1dGhvcml6YXRpb24uaHRtbNIBAA?oc=5).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-civilian-killings-during-israels-freeing-hostages-could-be-war-crimes-un-2024-06-11/).
 
 ## Requirements
 - Python 3.8
