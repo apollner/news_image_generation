@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia NAACP filing suit against school board that restored names of Confederate leaders**
+**Watch SpaceX's Starship Super Heavy booster splash down in this epic video**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/virginia-naacp-sues-school-board-over-confederate-names-rcna156505).
+You can read more about it [here](https://www.space.com/spacex-starship-flight-4-super-heavy-landing-video).
 
 ## Requirements
 - Python 3.8
