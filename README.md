@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli special forces dressed as Palestinian refugees for hostage rescue: Sources**
+**Hunter Biden trial: Jury deliberations resume Tuesday**
 
-You can read more about it [here](https://abcnews.go.com/International/israeli-special-forces-dressed-palestinian-refugees-hostage-rescue/story?id=110995204).
+You can read more about it [here](https://apnews.com/article/hunter-biden-trial-gun-charges-justice-department-774dd2f5661b246085c7409139dedaef).
 
 ## Requirements
 - Python 3.8
