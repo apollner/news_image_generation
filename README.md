@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore Airlines turbulence victims offered thousands by firm**
+**Port of Baltimore ship channel reopens after Key Bridge collapse**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cpwwy3wq5p6o).
+You can read more about it [here](https://www.bbc.com/news/articles/cnkk2d1ezzyo).
 
 ## Requirements
 - Python 3.8
