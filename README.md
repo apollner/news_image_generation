@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billy Ray Cyrus files for divorce from Firerose, alleges 'inappropriate marital conduct'**
+**A Florida law blocking treatment for transgender children is thrown out by a federal judge**
 
-You can read more about it [here](https://nypost.com/2024/06/11/entertainment/billy-ray-cyrus-files-for-divorce-from-firerose-alleges-inappropriate-marital-conduct/).
+You can read more about it [here](https://apnews.com/article/transgender-rights-children-florida-592b24b28e365ded336ca841f2ac90ac).
 
 ## Requirements
 - Python 3.8
