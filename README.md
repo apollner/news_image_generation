@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston shines in Netflix's "Hit Man" and "Perfect Match"**
+**watchOS 11 — Apple Watch is finally getting the fitness feature I've been waiting for**
 
-You can read more about it [here](https://www.axios.com/local/houston/2024/06/11/hit-man-perfect-match-netflix).
+You can read more about it [here](https://www.tomsguide.com/wellness/smartwatches/watchos-11-apple-watch-is-finally-getting-the-fitness-feature-ive-been-waiting-for).
 
 ## Requirements
 - Python 3.8
