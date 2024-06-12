@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Naomi Watts & Jonathan Bailey l Actors on Actors**
+**King Charles’ first official portrait vandalized by activists**
 
-You can read more about it [here](https://www.youtube.com/watch?v=f7V_OTjUIJ4).
+You can read more about it [here](https://www.cnn.com/2024/06/11/style/king-charles-portrait-vandalized/index.html).
 
 ## Requirements
 - Python 3.8
