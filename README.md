@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Bachelor's Joey Graziadei & Kelsey Anderson Have Been Living With 2 Roommates Since Show Ended**
+**TikToker Miranda Derrick Says Her Life Is "In Danger" After Dancing for the Devil Cult Allegations**
 
-You can read more about it [here](https://www.eonline.com/news/1403392/why-bachelors-joey-graziadei-kelsey-anderson-have-been-living-with-2-roommates-since-show-ended).
+You can read more about it [here](https://www.eonline.com/news/1403390/tiktoker-miranda-derrick-says-her-life-is-in-danger-after-dancing-for-the-devil-cult-allegations).
 
 ## Requirements
 - Python 3.8
