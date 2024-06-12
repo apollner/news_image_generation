@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden trial: Jury deliberations resume Tuesday**
+**Massive fire breaks out at Miami apartment building; employee of building found shot at scene**
 
-You can read more about it [here](https://apnews.com/article/hunter-biden-trial-gun-charges-justice-department-774dd2f5661b246085c7409139dedaef).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/massive-fire-breaks-miami-apartment-building-elderly-residents-rescued-rcna156342).
 
 ## Requirements
 - Python 3.8
