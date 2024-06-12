@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**King Charles’ first official portrait vandalized by activists**
+**Virginia NAACP filing suit against school board that restored names of Confederate leaders**
 
-You can read more about it [here](https://www.cnn.com/2024/06/11/style/king-charles-portrait-vandalized/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/virginia-naacp-sues-school-board-over-confederate-names-rcna156505).
 
 ## Requirements
 - Python 3.8
