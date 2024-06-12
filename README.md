@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX's Starship Super Heavy booster splash down in this epic video**
+**King Charles’ first official portrait vandalized by activists**
 
-You can read more about it [here](https://www.space.com/spacex-starship-flight-4-super-heavy-landing-video).
+You can read more about it [here](https://www.cnn.com/2024/06/11/style/king-charles-portrait-vandalized/index.html).
 
 ## Requirements
 - Python 3.8
