@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden's options for appeal after gun conviction**
+**Influencer Jake Paul launching men's skin, personal care line at Walmart**
 
-You can read more about it [here](https://www.cbsnews.com/news/hunter-biden-appeal-gun-conviction/).
+You can read more about it [here](https://www.cnbc.com/2024/06/12/jake-paul-launching-mens-skin-care-line-walmart.html).
 
 ## Requirements
 - Python 3.8
