@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Roberts’ ‘eh’ view of extreme partisanship is important**
+**Georgia gunman hijacks commuter bus, leaves one dead**
 
-You can read more about it [here](https://www.cnn.com/2024/06/12/politics/john-roberts-recording-what-matters/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c844x3dkg0zo).
 
 ## Requirements
 - Python 3.8
