@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump still owns the GOP. Here's what else we learned in Tuesday's primaries.**
+**Stock futures are little changed ahead of Fed's rate decision, consumer inflation data: Live updates**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/12/primary-election-takeaways-trump-gop-00162884).
+You can read more about it [here](https://www.cnbc.com/2024/06/11/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
