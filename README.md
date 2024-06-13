@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump rewrote foreign policy as president. If he wins in 2024, he wants to go further**
+**The Latest | Blinken urges Hamas to accept a cease-fire in Gaza**
 
-You can read more about it [here](https://www.npr.org/2024/06/11/nx-s1-4996441/trump-foreign-policy-israel-europe-nato-ukraine-russia-china-trade).
+You can read more about it [here](https://apnews.com/article/israel-hamas-mideast-latest-06-11-2024-bbc5468ce80daf08f8caba07bdc56266).
 
 ## Requirements
 - Python 3.8
