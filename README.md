@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS**
+**Matty Healy, singer of The 1975, gets engaged to model Gabbriette Bechtel**
 
-You can read more about it [here](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977).
+You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/matty-healy-singer-1975-gets-engaged-model-gabbriette-bechtel-rcna156763).
 
 ## Requirements
 - Python 3.8
