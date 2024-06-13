@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jin, oldest member of K-pop's BTS, finishes army service in South Korea**
+**Sam Brown wins Nevada's GOP Senate Primary to challenge Democrat Jacky Rosen**
 
-You can read more about it [here](https://www.reuters.com/lifestyle/jin-oldest-member-k-pops-bts-finishes-army-service-south-korea-2024-06-12/).
+You can read more about it [here](https://www.npr.org/2024/06/12/g-s1-3999/sam-brown-win-nevada-gop-senate-primary).
 
 ## Requirements
 - Python 3.8
