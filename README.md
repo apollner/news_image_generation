@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Cook talks Apple Intelligence, ChatGPT, and ... the Magic Mouse in post-WWDC interviews**
+**Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS**
 
-You can read more about it [here](https://9to5mac.com/2024/06/12/tim-cook-talks-apple-intelligence-chatgpt-and-the-magic-mouse-in-post-wwdc-interviews/).
+You can read more about it [here](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977).
 
 ## Requirements
 - Python 3.8
