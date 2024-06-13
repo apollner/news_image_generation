@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White House Hits Back at Republicans Over Biden's Juneteenth 'Freeze'**
+**Trump rewrote foreign policy as president. If he wins in 2024, he wants to go further**
 
-You can read more about it [here](https://www.thedailybeast.com/bidens-juneteenth-freeze-stokes-republican-attacks-on-his-age).
+You can read more about it [here](https://www.npr.org/2024/06/11/nx-s1-4996441/trump-foreign-policy-israel-europe-nato-ukraine-russia-china-trade).
 
 ## Requirements
 - Python 3.8
