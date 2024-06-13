@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matty Healy, singer of The 1975, gets engaged to model Gabbriette Bechtel**
+**Gaza ceasefire plan in balance US says Hamas proposes 'changes'**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/pop-culture-news/matty-healy-singer-1975-gets-engaged-model-gabbriette-bechtel-rcna156763).
+You can read more about it [here](https://www.bbc.com/news/articles/c0661dnmzezo).
 
 ## Requirements
 - Python 3.8
