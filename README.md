@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop raises over $2bn after Roaring Kitty rally**
+**Trump still owns the GOP. Here's what else we learned in Tuesday's primaries.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cl442gzlmego).
+You can read more about it [here](https://www.politico.com/news/2024/06/12/primary-election-takeaways-trump-gop-00162884).
 
 ## Requirements
 - Python 3.8
