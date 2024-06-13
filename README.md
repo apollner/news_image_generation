@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed ahead of Fed's rate decision, consumer inflation data: Live updates**
+**Spread of tiger mosquito behind rise of dengue fever in Europe**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/11/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.bbc.com/news/articles/ce5520m6x2go).
 
 ## Requirements
 - Python 3.8
