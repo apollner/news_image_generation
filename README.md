@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Florida law blocking treatment for transgender children is thrown out by a federal judge**
+**Conservative manifesto 2024: 12 key policies analysed**
 
-You can read more about it [here](https://apnews.com/article/transgender-rights-children-florida-592b24b28e365ded336ca841f2ac90ac).
+You can read more about it [here](https://www.bbc.com/news/articles/crgglmwwlggo).
 
 ## Requirements
 - Python 3.8
