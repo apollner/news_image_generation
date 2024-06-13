@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry West, NBA legend, dies at age 86**
+**Tim Cook talks Apple Intelligence, ChatGPT, and ... the Magic Mouse in post-WWDC interviews**
 
-You can read more about it [here](https://www.nbcnews.com/news/sports/jerry-west-nba-legend-dies-86-rcna156732).
+You can read more about it [here](https://9to5mac.com/2024/06/12/tim-cook-talks-apple-intelligence-chatgpt-and-the-magic-mouse-in-post-wwdc-interviews/).
 
 ## Requirements
 - Python 3.8
