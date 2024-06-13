@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spread of tiger mosquito behind rise of dengue fever in Europe**
+**GameStop raises over $2bn after Roaring Kitty rally**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce5520m6x2go).
+You can read more about it [here](https://www.bbc.com/news/articles/cl442gzlmego).
 
 ## Requirements
 - Python 3.8
