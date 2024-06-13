@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iOS 18 promises iMessage via satellite, a safety boost for hikers**
+**Ohio 6th District special election results 2024 live updates**
 
-You can read more about it [here](https://www.washingtonpost.com/travel/2024/06/11/apple-ios-18-imessage-satellite-camping-hiking/).
+You can read more about it [here](https://www.washingtonpost.com/elections/results/2024/06/11/ohio-house-district-6-special/).
 
 ## Requirements
 - Python 3.8
