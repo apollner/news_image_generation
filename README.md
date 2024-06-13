@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Françoise Hardy, French Singer and International Sixties Icon, Dead at 80**
+**Voters have real doubts about Kamala Harris as potential president, poll shows**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/francoise-hardy-dead-obituary-1235038345/).
+You can read more about it [here](https://www.politico.com/news/2024/06/12/kamala-harris-favorability-poll-00162093).
 
 ## Requirements
 - Python 3.8
