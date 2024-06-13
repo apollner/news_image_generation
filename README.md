@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu outbreak at dairy farms continue to raise concerns about virus spreading**
+**Enchanting, Texas Star and Former 1017 Rapper, Dead at 26**
 
-You can read more about it [here](https://www.youtube.com/watch?v=QN2j-Vwa61U).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/enchanting-rapper-dead-obituary-1235038383/).
 
 ## Requirements
 - Python 3.8
