@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wreck of ship on which famed explorer Ernest Shackleton died found on ocean floor off Canada**
+**Tim Cook talks Apple Intelligence, ChatGPT, and ... the Magic Mouse in post-WWDC interviews**
 
-You can read more about it [here](https://www.cbsnews.com/news/ernest-shackleton-quest-ship-discovered-ocean-canada/).
+You can read more about it [here](https://9to5mac.com/2024/06/12/tim-cook-talks-apple-intelligence-chatgpt-and-the-magic-mouse-in-post-wwdc-interviews/).
 
 ## Requirements
 - Python 3.8
