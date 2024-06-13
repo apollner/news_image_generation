@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doctor provides insight on Porzingis' 'rare' leg injury**
+**Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS**
 
-You can read more about it [here](https://www.nbcsportsboston.com/nba/boston-celtics/doctor-insight-kristaps-porzingis-injury-medial-retinaculum-tear/620698/?partner=yahoo).
+You can read more about it [here](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977).
 
 ## Requirements
 - Python 3.8
