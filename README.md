@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Aaron Rodgers skips Jets mandatory minicamp for ‘unexcused’ reason, could be fined for absence**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xMi9zcG9ydC9hYXJvbi1yb2RnZXJzLW1pc3NpbmctbnktamV0cy1tYW5kYXRvcnktbWluaWNhbXAtc3B0LWludGwvaW5kZXguaHRtbNIBYmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTIvc3BvcnQvYWFyb24tcm9kZ2Vycy1taXNzaW5nLW55LWpldHMtbWFuZGF0b3J5LW1pbmljYW1wLXNwdC1pbnRs?oc=5).
 
 ## Requirements
 - Python 3.8
