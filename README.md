@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conservative manifesto 2024: 12 key policies analysed**
+**White House Hits Back at Republicans Over Biden's Juneteenth 'Freeze'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crgglmwwlggo).
+You can read more about it [here](https://www.thedailybeast.com/bidens-juneteenth-freeze-stokes-republican-attacks-on-his-age).
 
 ## Requirements
 - Python 3.8
