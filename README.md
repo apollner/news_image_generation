@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GameStop raises over $2bn after Roaring Kitty rally**
+**Elon Musk drops breach of contract lawsuit against OpenAI, Sam Altman**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cl442gzlmego).
+You can read more about it [here](https://www.axios.com/2024/06/11/elon-musk-lawsuit-openai-sam-altman).
 
 ## Requirements
 - Python 3.8
