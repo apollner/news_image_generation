@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza ceasefire plan in balance US says Hamas proposes 'changes'**
+**Jerry West, NBA legend, dies at age 86**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0661dnmzezo).
+You can read more about it [here](https://www.nbcnews.com/news/sports/jerry-west-nba-legend-dies-86-rcna156732).
 
 ## Requirements
 - Python 3.8
