@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spread of tiger mosquito behind rise of dengue fever in Europe**
+**2024 U.S. Open odds, picks, predictions: Scottie Scheffler projection by golf model that hit last two majors**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce5520m6x2go).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-u-s-open-odds-picks-predictions-scottie-scheffler-projection-by-golf-model-that-hit-last-two-majors/).
 
 ## Requirements
 - Python 3.8
