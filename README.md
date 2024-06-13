@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Influencer Jake Paul launching men's skin, personal care line at Walmart**
+**Doctor provides insight on Porzingis' 'rare' leg injury**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/12/jake-paul-launching-mens-skin-care-line-walmart.html).
+You can read more about it [here](https://www.nbcsportsboston.com/nba/boston-celtics/doctor-insight-kristaps-porzingis-injury-medial-retinaculum-tear/620698/?partner=yahoo).
 
 ## Requirements
 - Python 3.8
