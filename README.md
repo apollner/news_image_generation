@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio 6th District special election results 2024 live updates**
+**Spread of tiger mosquito behind rise of dengue fever in Europe**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/results/2024/06/11/ohio-house-district-6-special/).
+You can read more about it [here](https://www.bbc.com/news/articles/ce5520m6x2go).
 
 ## Requirements
 - Python 3.8
