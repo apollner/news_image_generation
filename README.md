@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Brown wins Nevada's GOP Senate Primary to challenge Democrat Jacky Rosen**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/06/12/g-s1-3999/sam-brown-win-nevada-gop-senate-primary).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
