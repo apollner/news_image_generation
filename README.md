@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French right in uproar over leader Ciotti's call for far-right alliance**
+**Spread of tiger mosquito behind rise of dengue fever in Europe**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cydd97g1g5po).
+You can read more about it [here](https://www.bbc.com/news/articles/ce5520m6x2go).
 
 ## Requirements
 - Python 3.8
