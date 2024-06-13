@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Cook talks Apple Intelligence, ChatGPT, and ... the Magic Mouse in post-WWDC interviews**
+**Georgia gunman hijacks commuter bus, leaves one dead**
 
-You can read more about it [here](https://9to5mac.com/2024/06/12/tim-cook-talks-apple-intelligence-chatgpt-and-the-magic-mouse-in-post-wwdc-interviews/).
+You can read more about it [here](https://www.bbc.com/news/articles/c844x3dkg0zo).
 
 ## Requirements
 - Python 3.8
