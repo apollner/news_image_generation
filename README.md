@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For Republicans, raw milk is the new masking**
+**Wreck of ship on which famed explorer Ernest Shackleton died found on ocean floor off Canada**
 
-You can read more about it [here](https://www.salon.com/2024/06/12/for-republicans-raw-milk-is-the-new-masking/).
+You can read more about it [here](https://www.cbsnews.com/news/ernest-shackleton-quest-ship-discovered-ocean-canada/).
 
 ## Requirements
 - Python 3.8
