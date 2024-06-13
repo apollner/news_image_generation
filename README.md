@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Latest | Blinken urges Hamas to accept a cease-fire in Gaza**
+**President's son Hunter Biden convicted of lying about drug use to buy gun**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-mideast-latest-06-11-2024-bbc5468ce80daf08f8caba07bdc56266).
+You can read more about it [here](https://www.reuters.com/legal/hunter-biden-jury-deliberations-resuming-tuesday-2024-06-11/).
 
 ## Requirements
 - Python 3.8
