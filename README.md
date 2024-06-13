@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President's son Hunter Biden convicted of lying about drug use to buy gun**
+**Bird flu outbreak at dairy farms continue to raise concerns about virus spreading**
 
-You can read more about it [here](https://www.reuters.com/legal/hunter-biden-jury-deliberations-resuming-tuesday-2024-06-11/).
+You can read more about it [here](https://www.youtube.com/watch?v=QN2j-Vwa61U).
 
 ## Requirements
 - Python 3.8
