@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voters have real doubts about Kamala Harris as potential president, poll shows**
+**Jin, oldest member of K-pop's BTS, finishes army service in South Korea**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/12/kamala-harris-favorability-poll-00162093).
+You can read more about it [here](https://www.reuters.com/lifestyle/jin-oldest-member-k-pops-bts-finishes-army-service-south-korea-2024-06-12/).
 
 ## Requirements
 - Python 3.8
