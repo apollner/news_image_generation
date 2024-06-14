@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Tom Brady's Patriots Hall of Fame ceremony and what to know if you're going to Gillette Stadium**
+**Chinese EV stocks surge after EU slaps up to 38% additional import tariffs**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/tom-brady-patriots-hall-of-fame-ceremony-details/).
+You can read more about it [here](https://www.cnbc.com/2024/06/13/chinese-ev-stocks-surge-after-eu-slaps-up-to-38percent-additional-import-tariffs.html).
 
 ## Requirements
 - Python 3.8
