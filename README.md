@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese EV stocks surge after EU slaps up to 38% additional import tariffs**
+**House votes to hold AG Merrick Garland in contempt of Congress**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/13/chinese-ev-stocks-surge-after-eu-slaps-up-to-38percent-additional-import-tariffs.html).
+You can read more about it [here](https://www.axios.com/2024/06/12/house-votes-merrick-garland-contempt-of-congress).
 
 ## Requirements
 - Python 3.8
