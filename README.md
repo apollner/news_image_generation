@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's how Apple's AI model tries to keep your data private**
+**Tyson Foods heir John Tyson busted on DWI rap in latest legal woe after being found passed out in stranger's bed**
 
-You can read more about it [here](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works).
+You can read more about it [here](https://nypost.com/2024/06/13/business/tyson-foods-heir-john-tyson-busted-on-dwi-rap-in-latest-legal-woe/).
 
 ## Requirements
 - Python 3.8
