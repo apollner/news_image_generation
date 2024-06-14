@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Paradise residents who relocated after devastating Camp Fire still face extreme weather risks**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/extreme-weather-risks-paradise-residents-relocated-camp-fire/).
 
 ## Requirements
 - Python 3.8
