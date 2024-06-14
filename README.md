@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasa astronaut distress message broadcast in error**
+**Russian warships in Cuba are no threat, US says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2jj9855955o).
+You can read more about it [here](https://www.bbc.com/news/articles/cg66g0neweko).
 
 ## Requirements
 - Python 3.8
