@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to hold AG Merrick Garland in contempt of Congress**
+**Nasa astronaut distress message broadcast in error**
 
-You can read more about it [here](https://www.axios.com/2024/06/12/house-votes-merrick-garland-contempt-of-congress).
+You can read more about it [here](https://www.bbc.com/news/articles/c2jj9855955o).
 
 ## Requirements
 - Python 3.8
