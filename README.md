@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House votes to hold Attorney General Merrick Garland in contempt for withholding Biden audio**
+**Florida flooding overwhelms communities, I-95**
 
-You can read more about it [here](https://apnews.com/article/garland-contempt-congress-vote-biden-classified-documents-20f5e8f48cfd8390eb695d13079ca306).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/12/i-95-closed-flooding/74077828007/).
 
 ## Requirements
 - Python 3.8
