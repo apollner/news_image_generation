@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover**
+**Senate Republicans block Democratic bill to protect IVF nationwide**
 
-You can read more about it [here](https://techcrunch.com/2024/06/13/everything-apple-announced-wwdc-2024/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/senate-republicans-block-democratic-bill-protect-ivf-nationwide-rcna156416).
 
 ## Requirements
 - Python 3.8
