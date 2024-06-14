@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paradise residents who relocated after devastating Camp Fire still face extreme weather risks**
+**Dozens March In Downtown Los Angeles To Demand Justice For Actor Johnny Wactor**
 
-You can read more about it [here](https://www.cbsnews.com/news/extreme-weather-risks-paradise-residents-relocated-camp-fire/).
+You can read more about it [here](http://deadline.com/2024/06/johnny-wactor-march-downtown-los-angeles-demand-justice-1235972112/).
 
 ## Requirements
 - Python 3.8
