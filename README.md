@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Destructive flooding is swamping South Florida streets and homes. The threat still isn’t over**
+**LinkedIn leans on AI to do the work of job hunting**
 
-You can read more about it [here](https://www.cnn.com/2024/06/13/weather/florida-flooding-storm-forecast-thursday/index.html).
+You can read more about it [here](https://techcrunch.com/2024/06/13/linkedin-leans-on-ai-to-do-the-work-of-job-hunting/).
 
 ## Requirements
 - Python 3.8
