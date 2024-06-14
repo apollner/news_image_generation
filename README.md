@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broadcom beats earnings estimates, announces 10-for-1 stock split**
+**U.S. scrambling to prevent Israel-Hezbollah war amid Gaza ceasefire push**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/12/broadcom-beats-earnings-estimates-announces-10-for-1-stock-split.html).
+You can read more about it [here](https://www.axios.com/2024/06/12/hezbollah-war-israel-border).
 
 ## Requirements
 - Python 3.8
