@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court rejects ‘Trump Too Small’ trademark**
+**Justice Dept. announces findings of its investigation of the Phoenix police force**
 
-You can read more about it [here](https://www.cnn.com/2024/06/13/politics/trump-too-small/index.html).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/06/13/justice-department-phoenix-police-force/).
 
 ## Requirements
 - Python 3.8
