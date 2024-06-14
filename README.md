@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After a rare flash flood emergency, Florida prepares for more heavy rainfall**
+**Gaza war: Hamas rebuffs Blinken blame for elusive ceasefire**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8xMy9ueC1zMS01MDA0NDUwL2Zsb3JpZGEtZmxhc2gtZmxvb2QtZW1lcmdlbmN5LW1vcmUtaGVhdnktcmFpbi1jb21pbmfSAQA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/czrrw93g9xyo).
 
 ## Requirements
 - Python 3.8
