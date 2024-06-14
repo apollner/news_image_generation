@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: Hamas rebuffs Blinken blame for elusive ceasefire**
+**House votes to hold AG Merrick Garland in contempt of Congress**
 
-You can read more about it [here](https://www.bbc.com/news/articles/czrrw93g9xyo).
+You can read more about it [here](https://www.axios.com/2024/06/12/house-votes-merrick-garland-contempt-of-congress).
 
 ## Requirements
 - Python 3.8
