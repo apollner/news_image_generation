@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unanimous Supreme Court preserves access to widely used abortion medication**
+**Space Travel Makes You Dumber**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-abortion-mifepristone-fda-4073b9a7b1cbb1c3641025290c22be2a).
+You can read more about it [here](https://jalopnik.com/space-travel-makes-you-dumber-1851537160).
 
 ## Requirements
 - Python 3.8
