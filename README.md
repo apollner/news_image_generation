@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LinkedIn leans on AI to do the work of job hunting**
+**Hezbollah bombards Israel with rockets, drones**
 
-You can read more about it [here](https://techcrunch.com/2024/06/13/linkedin-leans-on-ai-to-do-the-work-of-job-hunting/).
+You can read more about it [here](https://www.foxnews.com/world/hezbollah-bombards-israel-rockets-drones).
 
 ## Requirements
 - Python 3.8
