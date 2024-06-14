@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Criticism of Luka Doncic mounting with each Mavericks loss in NBA Finals**
+**Destructive flooding is swamping South Florida streets and homes. The threat still isn’t over**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nba/playoffs/2024/06/13/luka-doncic-criticism-mounting-mavericks-celtics-nba-finals/74081304007/).
+You can read more about it [here](https://www.cnn.com/2024/06/13/weather/florida-flooding-storm-forecast-thursday/index.html).
 
 ## Requirements
 - Python 3.8
