@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotlight shines on ‘Bridgerton’ stars Nicola Coughlan, Luke Newton**
+**Falcons forfeit draft pick, fined for tampering; Eagles cleared**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/tv/2024/06/13/nicola-coughlan-luke-newton-bridgerton/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40341876/nfl-penalizes-falcons-tampering-eagles-cleared).
 
 ## Requirements
 - Python 3.8
