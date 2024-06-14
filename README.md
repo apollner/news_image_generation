@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buenos Aires rocked by clashes over President Milei reforms**
+**Florida flooding overwhelms communities, I-95**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c255zdlde92o).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/12/i-95-closed-flooding/74077828007/).
 
 ## Requirements
 - Python 3.8
