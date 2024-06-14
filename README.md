@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida flooding overwhelms communities, I-95**
+**General election live 2024: Labour manifesto to prioritise wealth creation, Starmer says**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/12/i-95-closed-flooding/74077828007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9saXZlL3VrLXBvbGl0aWNzLTY5MTExMzYy0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
