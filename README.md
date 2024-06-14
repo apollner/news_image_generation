@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens March In Downtown Los Angeles To Demand Justice For Actor Johnny Wactor**
+**House votes to hold Attorney General Merrick Garland in contempt for withholding Biden audio**
 
-You can read more about it [here](http://deadline.com/2024/06/johnny-wactor-march-downtown-los-angeles-demand-justice-1235972112/).
+You can read more about it [here](https://apnews.com/article/garland-contempt-congress-vote-biden-classified-documents-20f5e8f48cfd8390eb695d13079ca306).
 
 ## Requirements
 - Python 3.8
