@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. scrambling to prevent Israel-Hezbollah war amid Gaza ceasefire push**
+**Andrew McCarthy: Why Molly Ringwald skipped 'Brats' doc**
 
-You can read more about it [here](https://www.axios.com/2024/06/12/hezbollah-war-israel-border).
+You can read more about it [here](https://nypost.com/2024/06/12/entertainment/andrew-mccarthy-why-molly-ringwald-skipped-brats-doc/).
 
 ## Requirements
 - Python 3.8
