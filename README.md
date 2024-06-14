@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentine riot police unleash water cannons and tear gas to disperse protesters**
+**How to watch Tom Brady's Patriots Hall of Fame ceremony and what to know if you're going to Gillette Stadium**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/12/argentine-riot-police-water-cannons-tear-gas-protesters-00163104).
+You can read more about it [here](https://www.cbsnews.com/boston/news/tom-brady-patriots-hall-of-fame-ceremony-details/).
 
 ## Requirements
 - Python 3.8
