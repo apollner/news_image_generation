@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General election live 2024: Labour manifesto to prioritise wealth creation, Starmer says**
+**Argentine riot police unleash water cannons and tear gas to disperse protesters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9saXZlL3VrLXBvbGl0aWNzLTY5MTExMzYy0gEA?oc=5).
+You can read more about it [here](https://www.politico.com/news/2024/06/12/argentine-riot-police-water-cannons-tear-gas-protesters-00163104).
 
 ## Requirements
 - Python 3.8
