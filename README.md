@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Travel Makes You Dumber**
+**Elon Musk says Tesla shareholders voting in favor of his $56 billion pay package**
 
-You can read more about it [here](https://jalopnik.com/space-travel-makes-you-dumber-1851537160).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/musk-says-both-tesla-shareholder-resolutions-passing-by-wide-margins-2024-06-13/).
 
 ## Requirements
 - Python 3.8
