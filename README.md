@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian warships in Cuba are no threat, US says**
+**2024 U.S. Open tee times, pairings: Complete schedule on TV, groups in Round 1 on Thursday at Pinehurst**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cg66g0neweko).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-u-s-open-tee-times-pairings-complete-schedule-on-tv-groups-in-round-1-on-thursday-at-pinehurst/).
 
 ## Requirements
 - Python 3.8
