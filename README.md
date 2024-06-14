@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah fires rocket barrages at Israel after commander killed**
+**Google Warns of Pixel Firmware Security Flaw Exploited as Zero-Day**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnBwMDFkZ2Uzbm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZwcDAxZGdlM25vLmFtcA?oc=5).
+You can read more about it [here](https://thehackernews.com/2024/06/google-warns-of-pixel-firmware-security.html).
 
 ## Requirements
 - Python 3.8
