@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Warns of Pixel Firmware Security Flaw Exploited as Zero-Day**
+**Criticism of Luka Doncic mounting with each Mavericks loss in NBA Finals**
 
-You can read more about it [here](https://thehackernews.com/2024/06/google-warns-of-pixel-firmware-security.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/nba/playoffs/2024/06/13/luka-doncic-criticism-mounting-mavericks-celtics-nba-finals/74081304007/).
 
 ## Requirements
 - Python 3.8
