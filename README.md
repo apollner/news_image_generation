@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah bombards Israel with rockets, drones**
+**US reporter Evan Gershkovich, jailed in Russia on espionage charges, to stand trial, officials say**
 
-You can read more about it [here](https://www.foxnews.com/world/hezbollah-bombards-israel-rockets-drones).
+You can read more about it [here](https://apnews.com/article/russia-us-reporter-gershkovich-trial-2c6a9bb58a8ca88b5d49e8c30154decf).
 
 ## Requirements
 - Python 3.8
