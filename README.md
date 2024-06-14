@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US reporter Evan Gershkovich, jailed in Russia on espionage charges, to stand trial, officials say**
+**Supreme Court rejects ‘Trump Too Small’ trademark**
 
-You can read more about it [here](https://apnews.com/article/russia-us-reporter-gershkovich-trial-2c6a9bb58a8ca88b5d49e8c30154decf).
+You can read more about it [here](https://www.cnn.com/2024/06/13/politics/trump-too-small/index.html).
 
 ## Requirements
 - Python 3.8
