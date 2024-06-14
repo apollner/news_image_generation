@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falcons forfeit draft pick, fined for tampering; Eagles cleared**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40341876/nfl-penalizes-falcons-tampering-eagles-cleared).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
