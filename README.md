@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 U.S. Open tee times, pairings: Complete schedule on TV, groups in Round 1 on Thursday at Pinehurst**
+**Hezbollah fires rocket barrages at Israel after commander killed**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2024-u-s-open-tee-times-pairings-complete-schedule-on-tv-groups-in-round-1-on-thursday-at-pinehurst/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnBwMDFkZ2Uzbm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZwcDAxZGdlM25vLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
