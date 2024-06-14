@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says Tesla shareholders voting in favor of his $56 billion pay package**
+**Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/musk-says-both-tesla-shareholder-resolutions-passing-by-wide-margins-2024-06-13/).
+You can read more about it [here](https://techcrunch.com/2024/06/13/everything-apple-announced-wwdc-2024/).
 
 ## Requirements
 - Python 3.8
