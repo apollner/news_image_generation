@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andrew McCarthy: Why Molly Ringwald skipped 'Brats' doc**
+**Buenos Aires rocked by clashes over President Milei reforms**
 
-You can read more about it [here](https://nypost.com/2024/06/12/entertainment/andrew-mccarthy-why-molly-ringwald-skipped-brats-doc/).
+You can read more about it [here](https://www.bbc.com/news/articles/c255zdlde92o).
 
 ## Requirements
 - Python 3.8
