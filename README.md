@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida flooding overwhelms communities, I-95**
+**Oklahoma court rejects reparations for 1921 Tulsa massacre survivors**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/12/i-95-closed-flooding/74077828007/).
+You can read more about it [here](https://www.washingtonpost.com/history/2024/06/12/tulsa-reparations-lawsuitoklahoma-supreme-court/).
 
 ## Requirements
 - Python 3.8
