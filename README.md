@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kidnapped Nova festival guard revealed new details of Hamas torture, family says**
+**Spotlight shines on ‘Bridgerton’ stars Nicola Coughlan, Luke Newton**
 
-You can read more about it [here](https://nypost.com/2024/06/13/world-news/kidnapped-nova-festival-guard-revealed-new-details-of-hamas-torture-family-says/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/tv/2024/06/13/nicola-coughlan-luke-newton-bridgerton/).
 
 ## Requirements
 - Python 3.8
