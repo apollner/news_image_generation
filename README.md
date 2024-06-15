@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX scrubs the Starlink 10-2 launch from Cape Canaveral due to poor weather – Spaceflight Now**
+**G7 leaders agree to lend Ukraine billions backed by Russia's frozen assets. Here's how it will work**
 
-You can read more about it [here](https://spaceflightnow.com/2024/06/13/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-flight-from-cape-canaveral-2/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXdhci1mcm96ZW4tYXNzZXRzLWxvYW4tMzlkODYxOWYwODM2MDA2NTFmYWJlNDZiNDU0ODcxNmTSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
