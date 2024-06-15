@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This 27-inch LG OLED gaming monitor is on sale for $340 off**
+**Supreme Court strikes down Trump-era ban on rapid-fire rifle bump stocks, reopening political fight**
 
-You can read more about it [here](https://www.theverge.com/2024/6/14/24178351/lg-oled-27gr95qe-gaming-monitor-qhd-nordvpn-vpn-deal-sale).
+You can read more about it [here](https://apnews.com/article/supreme-court-guns-bump-stocks-b3bd1b4163d78514a6d5acc5b44c8b3d).
 
 ## Requirements
 - Python 3.8
