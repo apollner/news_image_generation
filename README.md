@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat wave in forecast for USA: Cities try to keep residents safe**
+**Parkland school building demolished 6 years after massacre**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/06/14/heat-wave-in-forecast-for-usa-cities-try-to-keep-residents-safe/74004274007/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/14/parkland-school-builidng-demolition-victims-families/74092616007/).
 
 ## Requirements
 - Python 3.8
