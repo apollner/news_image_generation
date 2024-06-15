@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parkland school building demolished 6 years after massacre**
+**Galaxy Z Fold 6 design revealed through close-up dummy unit shots - SamMobile**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/14/parkland-school-builidng-demolition-victims-families/74092616007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy9nYWxheHktei1mb2xkLTYtZHVtbXktdW5pdC1pbWFnZXMtbGVha2VkL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
