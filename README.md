@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 U.S. Open Championship: How to watch Round 2 of the golf tournament today, tee times and more**
+**Storm-battered Florida braces for a fourth day of floods after downpours transformed roads into canals and stranded drivers**
 
-You can read more about it [here](https://sports.yahoo.com/2024-us-open-championship-how-to-watch-round-2-of-the-golf-tournament-today-tee-times-and-more-115543775.html).
+You can read more about it [here](https://www.cnn.com/2024/06/14/weather/friday-flooding-rain-storm-south-florida/index.html).
 
 ## Requirements
 - Python 3.8
