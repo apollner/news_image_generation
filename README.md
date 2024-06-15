@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge delivers first blow to Biden's protections for transgender students**
+**G7 agrees on loan deal to support Ukraine with Russian assets**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/13/title-ix-blocked-louisiana-00163364).
+You can read more about it [here](https://www.reuters.com/world/troubled-g7-leaders-focus-ukraine-war-china-italian-summit-2024-06-13/).
 
 ## Requirements
 - Python 3.8
