@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 6 design revealed through close-up dummy unit shots - SamMobile**
+**2024 U.S. Open Championship: How to watch Round 2 of the golf tournament today, tee times and more**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy9nYWxheHktei1mb2xkLTYtZHVtbXktdW5pdC1pbWFnZXMtbGVha2VkL9IBAA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/2024-us-open-championship-how-to-watch-round-2-of-the-golf-tournament-today-tee-times-and-more-115543775.html).
 
 ## Requirements
 - Python 3.8
