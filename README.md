@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Chandler Shares Message After UFC 303 Cancellation 'Conor McGregor Was Never The Safe Bet'**
+**‘House of the Dragon’ Hits Its Stride in a Bigger, Bleaker Season 2: TV Review**
 
-You can read more about it [here](https://www.mmamania.com/2024/6/14/24178541/michael-chandler-shares-message-after-ufc-303-cancellation-conor-mcgregor-was-never-the-safe-bet).
+You can read more about it [here](https://variety.com/2024/tv/tv-reviews/house-of-the-dragon-season-2-review-1236036952/).
 
 ## Requirements
 - Python 3.8
