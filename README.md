@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 U.S. Open Championship: How to watch Round 2 of the golf tournament today, tee times and more**
+**Michael Chandler Shares Message After UFC 303 Cancellation 'Conor McGregor Was Never The Safe Bet'**
 
-You can read more about it [here](https://sports.yahoo.com/2024-us-open-championship-how-to-watch-round-2-of-the-golf-tournament-today-tee-times-and-more-115543775.html).
+You can read more about it [here](https://www.mmamania.com/2024/6/14/24178541/michael-chandler-shares-message-after-ufc-303-cancellation-conor-mcgregor-was-never-the-safe-bet).
 
 ## Requirements
 - Python 3.8
