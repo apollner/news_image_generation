@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jesse Plemons Addresses Ozempic Rumors Amid Weight Loss Journey**
+**SpaceX scrubs the Starlink 10-2 launch from Cape Canaveral due to poor weather – Spaceflight Now**
 
-You can read more about it [here](https://www.eonline.com/news/1403667/jesse-plemons-addresses-ozempic-rumors-amid-weight-loss-journey).
+You can read more about it [here](https://spaceflightnow.com/2024/06/13/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-flight-from-cape-canaveral-2/).
 
 ## Requirements
 - Python 3.8
