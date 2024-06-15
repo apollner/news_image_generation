@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge delivers first blow to Biden's protections for transgender students**
+**Oilers vs. Panthers odds, line, score prediction: 2024 Stanley Cup Final picks, Game 3 bets from NHL model**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/13/title-ix-blocked-louisiana-00163364).
+You can read more about it [here](https://www.cbssports.com/nhl/news/oilers-vs-panthers-odds-line-score-prediction-2024-stanley-cup-final-picks-game-3-bets-from-nhl-model/).
 
 ## Requirements
 - Python 3.8
