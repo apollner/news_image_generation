@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jaguars QB Trevor Lawrence reportedly agrees to 5-year, $275 million extension**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/jaguars-qb-trevor-lawrence-reportedly-agrees-to-5-year-275-million-extension-224853368.html).
 
 ## Requirements
 - Python 3.8
