@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jaguars QB Trevor Lawrence reportedly agrees to 5-year, $275 million extension**
+**Maps and photos show massive rainfall in Florida as flooded communities face ongoing downpours**
 
-You can read more about it [here](https://sports.yahoo.com/jaguars-qb-trevor-lawrence-reportedly-agrees-to-5-year-275-million-extension-224853368.html).
+You can read more about it [here](https://www.cbsnews.com/news/florida-rainfall-flooding-forecast-maps-photos/).
 
 ## Requirements
 - Python 3.8
