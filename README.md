@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**R.E.M.'s Original Members Reunite to Perform for First Time Since 2007**
+**Jesse Plemons Addresses Ozempic Rumors Amid Weight Loss Journey**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/rem-reunite-songwriters-hall-of-fame-performance-1235040028/).
+You can read more about it [here](https://www.eonline.com/news/1403667/jesse-plemons-addresses-ozempic-rumors-amid-weight-loss-journey).
 
 ## Requirements
 - Python 3.8
