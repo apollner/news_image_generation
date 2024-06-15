@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US ran secret anti-vax campaign to undermine China’s COVID efforts: Report**
+**Boeing and NASA delay Starliner astronaut return to June 22, nearly doubling mission length to test spacecraft**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/14/pentagon-ran-secret-anti-vax-campaign-to-undermine-china-during-pandemic).
+You can read more about it [here](https://www.cnbc.com/2024/06/14/boeing-and-nasa-delay-starliner-astronaut-return-to-june-22.html).
 
 ## Requirements
 - Python 3.8
