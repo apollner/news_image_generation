@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oilers vs. Panthers odds, line, score prediction: 2024 Stanley Cup Final picks, Game 3 bets from NHL model**
+**SpaceX scrubs the Starlink 10-2 launch from Cape Canaveral due to poor weather – Spaceflight Now**
 
-You can read more about it [here](https://www.cbssports.com/nhl/news/oilers-vs-panthers-odds-line-score-prediction-2024-stanley-cup-final-picks-game-3-bets-from-nhl-model/).
+You can read more about it [here](https://spaceflightnow.com/2024/06/13/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-flight-from-cape-canaveral-2/).
 
 ## Requirements
 - Python 3.8
