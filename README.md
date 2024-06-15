@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maps and photos show massive rainfall in Florida as flooded communities face ongoing downpours**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/florida-rainfall-flooding-forecast-maps-photos/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
