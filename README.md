@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China #MeToo activist Huang sentenced to five years for subversion, supporters say**
+**Heat wave in forecast for USA: Cities try to keep residents safe**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2NoaW5hL2NoaW5hLW1ldG9vLWFjdGl2aXN0LWh1YW5nLWV4cGVjdGVkLWJlLXNlbnRlbmNlZC1zdWJ2ZXJzaW9uLWZyaWRheS1zdXBwb3J0ZXJzLTIwMjQtMDYtMTQv0gEA?oc=5).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/06/14/heat-wave-in-forecast-for-usa-cities-try-to-keep-residents-safe/74004274007/).
 
 ## Requirements
 - Python 3.8
