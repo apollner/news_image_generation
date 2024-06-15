@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark Says, “Don’t Use My Name To Push Your Agendas”**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/06/caitlin-clark-dont-use-my-name-push-agendas-1235973275/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
