@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Planet Nine: Is the search for this elusive world nearly over?**
+**This 27-inch LG OLED gaming monitor is on sale for $340 off**
 
-You can read more about it [here](https://www.livescience.com/space/planets/planet-nine-is-the-search-for-this-elusive-world-nearly-over).
+You can read more about it [here](https://www.theverge.com/2024/6/14/24178351/lg-oled-27gr95qe-gaming-monitor-qhd-nordvpn-vpn-deal-sale).
 
 ## Requirements
 - Python 3.8
