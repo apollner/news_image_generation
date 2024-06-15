@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines Boeing 737 Max goes into "Dutch roll" during Phoenix-to-Oakland flight**
+**DOJ says it won’t prosecute Attorney General Merrick Garland after House contempt vote**
 
-You can read more about it [here](https://www.cbsnews.com/news/southwest-airlines-dutch-roll-boeing-737-max-phoenix-oakland-flight/).
+You can read more about it [here](https://www.cnn.com/2024/06/14/politics/merrick-garland-contempt-vote-no-prosecution/index.html).
 
 ## Requirements
 - Python 3.8
