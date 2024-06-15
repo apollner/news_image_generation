@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ says it won’t prosecute Attorney General Merrick Garland after House contempt vote**
+**US Open cut line: US Open 2024 cut results, rules**
 
-You can read more about it [here](https://www.cnn.com/2024/06/14/politics/merrick-garland-contempt-vote-no-prosecution/index.html).
+You can read more about it [here](https://www.fayobserver.com/story/sports/pga/2024/06/14/us-open-cut-line-updates-2024-second-round/74092394007/).
 
 ## Requirements
 - Python 3.8
