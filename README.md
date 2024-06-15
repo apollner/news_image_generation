@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demolition of the Parkland classroom building where 17 died in 2018 shooting begins**
+**Catherine, Princess of Wales, making ‘good progress’ against cancer and is set for first public appearance in months**
 
-You can read more about it [here](https://apnews.com/article/school-shooting-parkland-florida-2084c00ad62a93bee257da06f1b907cc).
+You can read more about it [here](https://www.cnn.com/2024/06/14/uk/catherine-princess-of-wales-cancer-update-appearance-gbr-intl/index.html).
 
 ## Requirements
 - Python 3.8
