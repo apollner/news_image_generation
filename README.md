@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**R.E.M.'s Original Members Reunite to Perform for First Time Since 2007**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/rem-reunite-songwriters-hall-of-fame-performance-1235040028/).
 
 ## Requirements
 - Python 3.8
