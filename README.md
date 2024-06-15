@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court strikes down Trump-era ban on rapid-fire rifle bump stocks, reopening political fight**
+**Southwest Airlines Boeing 737 Max goes into "Dutch roll" during Phoenix-to-Oakland flight**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-guns-bump-stocks-b3bd1b4163d78514a6d5acc5b44c8b3d).
+You can read more about it [here](https://www.cbsnews.com/news/southwest-airlines-dutch-roll-boeing-737-max-phoenix-oakland-flight/).
 
 ## Requirements
 - Python 3.8
