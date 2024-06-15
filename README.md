@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines Boeing flight experienced terrifying 'Dutch roll' with 175 passengers on board**
+**When stock markets are a mess, this asset is a great guide to risk appetite**
 
-You can read more about it [here](https://nypost.com/2024/06/14/us-news/southwest-airlines-boeing-flight-experienced-dutch-roll-midair/).
+You can read more about it [here](https://www.marketwatch.com/story/when-stock-markets-are-a-mess-this-asset-is-a-great-guide-to-risk-appetite-29326b60).
 
 ## Requirements
 - Python 3.8
