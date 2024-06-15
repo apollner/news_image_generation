@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Republicans block Democratic bill to protect IVF nationwide**
+**[Removed]**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/senate-republicans-block-democratic-bill-protect-ivf-nationwide-rcna156416).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
