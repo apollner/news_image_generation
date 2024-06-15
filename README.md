@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Catherine, Princess of Wales, making ‘good progress’ against cancer and is set for first public appearance in months**
+**Planet Nine: Is the search for this elusive world nearly over?**
 
-You can read more about it [here](https://www.cnn.com/2024/06/14/uk/catherine-princess-of-wales-cancer-update-appearance-gbr-intl/index.html).
+You can read more about it [here](https://www.livescience.com/space/planets/planet-nine-is-the-search-for-this-elusive-world-nearly-over).
 
 ## Requirements
 - Python 3.8
