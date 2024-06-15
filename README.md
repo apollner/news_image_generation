@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX scrubs the Starlink 10-2 launch from Cape Canaveral due to poor weather – Spaceflight Now**
+**Caitlin Clark Says, “Don’t Use My Name To Push Your Agendas”**
 
-You can read more about it [here](https://spaceflightnow.com/2024/06/13/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-flight-from-cape-canaveral-2/).
+You can read more about it [here](http://deadline.com/2024/06/caitlin-clark-dont-use-my-name-push-agendas-1235973275/).
 
 ## Requirements
 - Python 3.8
