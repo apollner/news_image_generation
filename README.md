@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Open cut line: US Open 2024 cut results, rules**
+**US ran secret anti-vax campaign to undermine China’s COVID efforts: Report**
 
-You can read more about it [here](https://www.fayobserver.com/story/sports/pga/2024/06/14/us-open-cut-line-updates-2024-second-round/74092394007/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/14/pentagon-ran-secret-anti-vax-campaign-to-undermine-china-during-pandemic).
 
 ## Requirements
 - Python 3.8
