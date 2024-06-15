@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘House of the Dragon’ Hits Its Stride in a Bigger, Bleaker Season 2: TV Review**
+**Demolition of the Parkland classroom building where 17 died in 2018 shooting begins**
 
-You can read more about it [here](https://variety.com/2024/tv/tv-reviews/house-of-the-dragon-season-2-review-1236036952/).
+You can read more about it [here](https://apnews.com/article/school-shooting-parkland-florida-2084c00ad62a93bee257da06f1b907cc).
 
 ## Requirements
 - Python 3.8
