@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘House of the Dragon’ Hits Its Stride in a Bigger, Bleaker Season 2: TV Review**
+**2024 U.S. Open Championship: How to watch Round 2 of the golf tournament today, tee times and more**
 
-You can read more about it [here](https://variety.com/2024/tv/tv-reviews/house-of-the-dragon-season-2-review-1236036952/).
+You can read more about it [here](https://sports.yahoo.com/2024-us-open-championship-how-to-watch-round-2-of-the-golf-tournament-today-tee-times-and-more-115543775.html).
 
 ## Requirements
 - Python 3.8
