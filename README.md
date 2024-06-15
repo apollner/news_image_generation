@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When stock markets are a mess, this asset is a great guide to risk appetite**
+**[Removed]**
 
-You can read more about it [here](https://www.marketwatch.com/story/when-stock-markets-are-a-mess-this-asset-is-a-great-guide-to-risk-appetite-29326b60).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
