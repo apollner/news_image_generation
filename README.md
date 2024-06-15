@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston fugitive search: Inmate escaped, manhunt underway in Downtown**
+**Federal judge delivers first blow to Biden's protections for transgender students**
 
-You can read more about it [here](https://www.fox26houston.com/news/university-houston-downtown-issues-lockdown-police-action).
+You can read more about it [here](https://www.politico.com/news/2024/06/13/title-ix-blocked-louisiana-00163364).
 
 ## Requirements
 - Python 3.8
