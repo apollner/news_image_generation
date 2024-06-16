@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa's President Ramaphosa is reelected for second term after a dramatic late coalition deal**
+**Teen Mom Star Amber Portwood's Fiancé Gary Wayt Found After Disappearance**
 
-You can read more about it [here](https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf).
+You can read more about it [here](https://www.eonline.com/news/1403750/teen-mom-star-amber-portwoods-fiance-gary-wayt-found-after-disappearance).
 
 ## Requirements
 - Python 3.8
