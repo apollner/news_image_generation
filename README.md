@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South African President Cyril Ramaphosa is reelected for a second term after a late coalition deal**
+**Nasdaq manages 5th straight record high close; S&P 500 ends barely lower**
 
-You can read more about it [here](https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf).
+You can read more about it [here](https://www.reuters.com/markets/us/wall-street-futures-pull-back-markets-eye-cautious-fed-2024-06-14/).
 
 ## Requirements
 - Python 3.8
