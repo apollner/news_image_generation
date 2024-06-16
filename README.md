@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Finals: Celtics stunned in lopsided loss to Mavericks in Game 4. What happened?**
+**How much does ChatGPT cost? Everything you need to know about OpenAI's pricing plans**
 
-You can read more about it [here](https://sports.yahoo.com/2024-nba-finals-celtics-stunned-in-lopsided-loss-to-mavericks-in-game-4-what-happened-135534636.html).
+You can read more about it [here](https://techcrunch.com/2024/06/15/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/).
 
 ## Requirements
 - Python 3.8
