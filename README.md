@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comedians star-struck by 'bizarre' meeting with Pope Francis**
+**Biden looks to capitalize on star-studded Hollywood fundraiser after Trump's massive cash haul in blue state**
 
-You can read more about it [here](https://cruxnow.com/vatican/2024/06/comedians-star-struck-by-bizarre-meeting-with-pope-francis/).
+You can read more about it [here](https://www.foxnews.com/politics/biden-looks-capitalize-star-studded-hollywood-fundraiser-trumps-massive-cash-haul).
 
 ## Requirements
 - Python 3.8
