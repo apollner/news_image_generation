@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen Mom Star Amber Portwood's Fiancé Gary Wayt Found After Disappearance**
+**Charles Barkley says he's retiring from TV after 2024-25**
 
-You can read more about it [here](https://www.eonline.com/news/1403750/teen-mom-star-amber-portwoods-fiance-gary-wayt-found-after-disappearance).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40354302/charles-barkley-says-next-season-final-one-tv).
 
 ## Requirements
 - Python 3.8
