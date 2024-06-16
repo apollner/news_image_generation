@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate back for Trooping the Colour parade**
+**Trump: Michigan trip to include Black church and far-right activists**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0jj9xzeel1o).
+You can read more about it [here](https://apnews.com/article/trump-michigan-black-voters-far-right-activists-2ddab35eceecb42ee8899f0720715b32).
 
 ## Requirements
 - Python 3.8
