@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Trump campaigns agreed to mic muting, podiums among rules for upcoming CNN debate**
+**Catherine, Princess of Wales attends King’s birthday celebration after revealing ‘good progress’ in cancer treatment**
 
-You can read more about it [here](https://www.cnn.com/2024/06/15/politics/trump-biden-cnn-debate-rules/index.html).
+You can read more about it [here](https://www.cnn.com/2024/06/15/uk/trooping-the-colour-princess-kate-intl-scli-gbr/index.html).
 
 ## Requirements
 - Python 3.8
