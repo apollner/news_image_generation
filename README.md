@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fiona Harvey's Lawyer on $170M 'Baby Reindeer' Lawsuit Against Netflix**
+**South African President Cyril Ramaphosa is reelected for a second term after a late coalition deal**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/fiona-harvey-baby-reindeer-lawsuit-netflix-richard-gadd-1235922751/).
+You can read more about it [here](https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf).
 
 ## Requirements
 - Python 3.8
