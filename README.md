@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump: Michigan trip to include Black church and far-right activists**
+**NASA says Voyager 1 is fully back online months after it stopped making sense**
 
-You can read more about it [here](https://apnews.com/article/trump-michigan-black-voters-far-right-activists-2ddab35eceecb42ee8899f0720715b32).
+You can read more about it [here](https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space).
 
 ## Requirements
 - Python 3.8
