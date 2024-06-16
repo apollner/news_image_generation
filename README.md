@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweet Emotion: Pixar’s ‘Inside Out 2’ Eyes Third Best Animated Pic Opening Of All-Time With $140M-$145M – Late Friday Night Box Office Update**
+**Supreme Court’s abortion pill ruling puts new focus on conservative Trump judge in Texas**
 
-You can read more about it [here](http://deadline.com/2024/06/box-office-inside-out-2-1235973432/).
+You can read more about it [here](https://www.cnn.com/2024/06/15/politics/abortion-judge-matthew-kacsmaryk-supreme-court-mifepristone/index.html).
 
 ## Requirements
 - Python 3.8
