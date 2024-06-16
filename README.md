@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa's President Ramaphosa is reelected for second term after a dramatic late coalition deal**
+**Voyager 1 is back online! NASA's most distant spacecraft returns data from all 4 instruments**
 
-You can read more about it [here](https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf).
+You can read more about it [here](https://www.space.com/voyager-1-fully-operational).
 
 ## Requirements
 - Python 3.8
