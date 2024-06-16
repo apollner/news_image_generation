@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luka Doncic, Mavericks dodge Finals sweep by blowing out Celtics**
+**Ukraine Peace Summit: World leaders will meet at Swiss resort, Russia is absent**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/14/celtics-mavericks-luka-doncic-nba-finals/).
+You can read more about it [here](https://apnews.com/article/ukraine-switzerland-russia-war-peace-conference-burgenstock-2a8abeb9e6e2714f6af032593706d9e5).
 
 ## Requirements
 - Python 3.8
