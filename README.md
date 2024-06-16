@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden campaign says its raised over $28 million ahead of Hollywood fundraiser featuring Obama, dozens of celebrity supporters**
+**Harford County Sheriff's Office announces arrest in Rachel Morin case**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-campaign-trail-los-angeles-hollywood-fundraiser/).
+You can read more about it [here](https://www.wbaltv.com/article/harford-county-sheriffs-office-arrest-rachel-morin-case/61119727).
 
 ## Requirements
 - Python 3.8
