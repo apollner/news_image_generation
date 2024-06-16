@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charles Barkley will retire from NBA broadcasting after next season**
+**Kate Middleton joined by kids George, Louis and Charlotte at Trooping the Colour**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/15/nba-charles-barkley-retirement-2025/).
+You can read more about it [here](https://goodmorningamerica.com/culture/story/kate-middleton-joined-kids-george-louis-charlotte-trooping-111147520).
 
 ## Requirements
 - Python 3.8
