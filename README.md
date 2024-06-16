@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Navy faces its most intense combat since World War II against Yemen's Iran-backed Houthi rebels**
+**US declines to charge Merrick Garland for contempt of Congress**
 
-You can read more about it [here](https://apnews.com/article/us-navy-yemen-houthis-israel-war-7a9997f9d84ac669fae69ecf819913fb).
+You can read more about it [here](https://www.bbc.com/news/articles/c988d8drn8po).
 
 ## Requirements
 - Python 3.8
