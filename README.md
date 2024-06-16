@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Open Round 3 live updates, leaderboard: Ludvig Åberg leads crowded field on Moving Day at Pinehurst**
+**Charles Barkley will retire from NBA broadcasting after next season**
 
-You can read more about it [here](https://sports.yahoo.com/live/us-open-round-3-live-updates-leaderboard-matthieu-pavon-jumps-ahead-of-ludvig-aberg-early-on-moving-day-at-pinehurst-110045663.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/15/nba-charles-barkley-retirement-2025/).
 
 ## Requirements
 - Python 3.8
