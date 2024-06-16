@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya Moore Suspended Indefinitely From 'Real Housewives of Atlanta'**
+**Boeing Starliner landing delayed**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/kenya-moore-suspended-real-housewives-of-atlanta-1235923430/).
+You can read more about it [here](https://qz.com/boeing-starliner-landing-delayed-1851541354).
 
 ## Requirements
 - Python 3.8
