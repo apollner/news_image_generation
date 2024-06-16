@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner landing delayed**
+**Kate back for Trooping the Colour parade**
 
-You can read more about it [here](https://qz.com/boeing-starliner-landing-delayed-1851541354).
+You can read more about it [here](https://www.bbc.com/news/articles/c0jj9xzeel1o).
 
 ## Requirements
 - Python 3.8
