@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden looks to capitalize on star-studded Hollywood fundraiser after Trump's massive cash haul in blue state**
+**Biden and Trump campaigns agreed to mic muting, podiums among rules for upcoming CNN debate**
 
-You can read more about it [here](https://www.foxnews.com/politics/biden-looks-capitalize-star-studded-hollywood-fundraiser-trumps-massive-cash-haul).
+You can read more about it [here](https://www.cnn.com/2024/06/15/politics/trump-biden-cnn-debate-rules/index.html).
 
 ## Requirements
 - Python 3.8
