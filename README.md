@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing and NASA delay Starliner astronaut return to June 22, nearly doubling mission length to test spacecraft**
+**'Inside Out 2' arrives in theaters and could hit a 100-day run. Here's why that's increasingly rare**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/14/boeing-and-nasa-delay-starliner-astronaut-return-to-june-22.html).
+You can read more about it [here](https://www.cnbc.com/2024/06/14/inside-out-2-opening-theatrical-window.html).
 
 ## Requirements
 - Python 3.8
