@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX aborts Falcon 9 rocket launch from Cape Canaveral**
+**US oil refining capacity rises for second year in a row**
 
-You can read more about it [here](https://www.wesh.com/article/spacex-aborts-falcon-9-rocket-launch-from-cape-canaveral-friday/61114003).
+You can read more about it [here](https://www.reuters.com/markets/commodities/us-oil-refining-capacity-falls-3rd-time-four-years-report-says-2024-06-14/).
 
 ## Requirements
 - Python 3.8
