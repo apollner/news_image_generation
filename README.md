@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Inside Out 2’ Heading for Historic $140M-$150M U.S. Opening, a Near-Record for Pixar**
+**2024 NBA Finals: Celtics stunned in lopsided loss to Mavericks in Game 4. What happened?**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-historic-pixar-opening-1235923598/).
+You can read more about it [here](https://sports.yahoo.com/2024-nba-finals-celtics-stunned-in-lopsided-loss-to-mavericks-in-game-4-what-happened-135534636.html).
 
 ## Requirements
 - Python 3.8
