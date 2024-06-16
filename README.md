@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Inside Out 2' arrives in theaters and could hit a 100-day run. Here's why that's increasingly rare**
+**Fiona Harvey's Lawyer on $170M 'Baby Reindeer' Lawsuit Against Netflix**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/14/inside-out-2-opening-theatrical-window.html).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/fiona-harvey-baby-reindeer-lawsuit-netflix-richard-gadd-1235922751/).
 
 ## Requirements
 - Python 3.8
