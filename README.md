@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Catherine, Princess of Wales attends King’s birthday celebration after revealing ‘good progress’ in cancer treatment**
+**Cat kidney transplants are pricey, but these owners say it’s worth it**
 
-You can read more about it [here](https://www.cnn.com/2024/06/15/uk/trooping-the-colour-princess-kate-intl-scli-gbr/index.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/06/15/cat-kidney-transplant-costs-surgery/).
 
 ## Requirements
 - Python 3.8
