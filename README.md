@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump to visit Detroit church as part of Black voter push**
+**Biden campaign says its raised over $28 million ahead of Hollywood fundraiser featuring Obama, dozens of celebrity supporters**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-visit-detroit-church-part-black-voter-push-2024-06-15/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-campaign-trail-los-angeles-hollywood-fundraiser/).
 
 ## Requirements
 - Python 3.8
