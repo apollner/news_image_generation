@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate back for Trooping the Colour parade**
+**South Africa's President Ramaphosa is reelected for second term after a dramatic late coalition deal**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0jj9xzeel1o).
+You can read more about it [here](https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf).
 
 ## Requirements
 - Python 3.8
