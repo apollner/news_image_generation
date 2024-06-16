@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court’s abortion pill ruling puts new focus on conservative Trump judge in Texas**
+**Luka Doncic, Mavericks dodge Finals sweep by blowing out Celtics**
 
-You can read more about it [here](https://www.cnn.com/2024/06/15/politics/abortion-judge-matthew-kacsmaryk-supreme-court-mifepristone/index.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/14/celtics-mavericks-luka-doncic-nba-finals/).
 
 ## Requirements
 - Python 3.8
