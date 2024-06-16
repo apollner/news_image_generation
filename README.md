@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voyager 1 is back online! NASA's most distant spacecraft returns data from all 4 instruments**
+**SpaceX aborts Falcon 9 rocket launch from Cape Canaveral**
 
-You can read more about it [here](https://www.space.com/voyager-1-fully-operational).
+You can read more about it [here](https://www.wesh.com/article/spacex-aborts-falcon-9-rocket-launch-from-cape-canaveral-friday/61114003).
 
 ## Requirements
 - Python 3.8
