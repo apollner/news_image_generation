@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasdaq manages 5th straight record high close; S&P 500 ends barely lower**
+**US Navy faces its most intense combat since World War II against Yemen's Iran-backed Houthi rebels**
 
-You can read more about it [here](https://www.reuters.com/markets/us/wall-street-futures-pull-back-markets-eye-cautious-fed-2024-06-14/).
+You can read more about it [here](https://apnews.com/article/us-navy-yemen-houthis-israel-war-7a9997f9d84ac669fae69ecf819913fb).
 
 ## Requirements
 - Python 3.8
