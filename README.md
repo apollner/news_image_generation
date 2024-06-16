@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US declines to charge Merrick Garland for contempt of Congress**
+**Cyril Ramaphosa re-elected South African president**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c988d8drn8po).
+You can read more about it [here](https://www.bbc.com/news/articles/cneeven9ljpo).
 
 ## Requirements
 - Python 3.8
