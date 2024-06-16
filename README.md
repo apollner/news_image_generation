@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How much does ChatGPT cost? Everything you need to know about OpenAI's pricing plans**
+**U.S. Open Round 3 live updates, leaderboard: Ludvig Åberg leads crowded field on Moving Day at Pinehurst**
 
-You can read more about it [here](https://techcrunch.com/2024/06/15/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/).
+You can read more about it [here](https://sports.yahoo.com/live/us-open-round-3-live-updates-leaderboard-matthieu-pavon-jumps-ahead-of-ludvig-aberg-early-on-moving-day-at-pinehurst-110045663.html).
 
 ## Requirements
 - Python 3.8
