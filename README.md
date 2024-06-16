@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine Peace Summit: World leaders will meet at Swiss resort, Russia is absent**
+**Comedians star-struck by 'bizarre' meeting with Pope Francis**
 
-You can read more about it [here](https://apnews.com/article/ukraine-switzerland-russia-war-peace-conference-burgenstock-2a8abeb9e6e2714f6af032593706d9e5).
+You can read more about it [here](https://cruxnow.com/vatican/2024/06/comedians-star-struck-by-bizarre-meeting-with-pope-francis/).
 
 ## Requirements
 - Python 3.8
