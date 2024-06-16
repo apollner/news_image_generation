@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cat kidney transplants are pricey, but these owners say it’s worth it**
+**Oaks Park Ride Malfunctions, 28 People Stuck Upside Down**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/06/15/cat-kidney-transplant-costs-surgery/).
+You can read more about it [here](http://deadline.com/2024/06/oaks-park-ride-malfunctions-1235974415/).
 
 ## Requirements
 - Python 3.8
