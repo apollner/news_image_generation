@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oaks Park Ride Malfunctions, 28 People Stuck Upside Down**
+**Box Office: ‘Inside Out 2’ Heading for Historic $140M-$150M U.S. Opening, a Near-Record for Pixar**
 
-You can read more about it [here](http://deadline.com/2024/06/oaks-park-ride-malfunctions-1235974415/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-historic-pixar-opening-1235923598/).
 
 ## Requirements
 - Python 3.8
