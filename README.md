@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harford County Sheriff's Office announces arrest in Rachel Morin case**
+**Kate back for Trooping the Colour parade**
 
-You can read more about it [here](https://www.wbaltv.com/article/harford-county-sheriffs-office-arrest-rachel-morin-case/61119727).
+You can read more about it [here](https://www.bbc.com/news/articles/c0jj9xzeel1o).
 
 ## Requirements
 - Python 3.8
