@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyril Ramaphosa re-elected South African president**
+**Kenya Moore Suspended Indefinitely From 'Real Housewives of Atlanta'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cneeven9ljpo).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/kenya-moore-suspended-real-housewives-of-atlanta-1235923430/).
 
 ## Requirements
 - Python 3.8
