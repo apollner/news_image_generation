@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US oil refining capacity rises for second year in a row**
+**South Africa's President Ramaphosa is reelected for second term after a dramatic late coalition deal**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/us-oil-refining-capacity-falls-3rd-time-four-years-report-says-2024-06-14/).
+You can read more about it [here](https://apnews.com/article/south-africa-president-election-parliament-b71d8f3de7b3bb4be76f94e8d75f0daf).
 
 ## Requirements
 - Python 3.8
