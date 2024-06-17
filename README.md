@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The EU has just put its car industry on the road to destruction**
+**Pilgrims commence the final rites of Hajj as Muslims celebrate Eid al-Adha**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDI0LzA2LzE2L2V1LXdhci1jaGluZXNlLWVsZWN0cmljLWNhcnMtc2luay1vbmNlLW1pZ2h0eS1hdXRvLWluZHVzdHJ5L9IBAA?oc=5).
+You can read more about it [here](https://apnews.com/article/hajj-mecca-saudi-arabia-muslim-pilgrimage-0278c6e1040eac5f0b834f762f41db27).
 
 ## Requirements
 - Python 3.8
