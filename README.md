@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flares and Echoes: Unveiling the Supermassive Black Hole at the Milky Way's Core**
+**Brush fire near 5 Freeway in Gorman forces evacuations**
 
-You can read more about it [here](https://dailygalaxy.com/2024/06/flares-and-echoes-monster-black-hole/).
+You can read more about it [here](https://ktla.com/news/local-news/fire-near-5-freeway-in-gorman-threatens-structures-forces-evacuations/).
 
 ## Requirements
 - Python 3.8
