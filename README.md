@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Military ‘pause’ on Gaza road inflames divisions in Israeli government**
+**Janet Yellen slams Donald Trump idea to raise tariffs, cut income tax**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2992985yk1o).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/06/16/janet-yellen-donald-trump-income-tax-tariffs/74117456007/).
 
 ## Requirements
 - Python 3.8
