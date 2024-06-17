@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attacking Thomas and Alito, Chris Murphy backs Biden's Supreme Court critique**
+**Mookie Betts exits game vs. Royals after hit-by-pitch to hand**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/16/chris-murphy-supreme-court-grift-thomas-clarence-samuel-alito-00163609).
+You can read more about it [here](https://www.mlb.com/news/mookie-betts-exits-game-vs-royals-after-hit-by-pitch-to-hand).
 
 ## Requirements
 - Python 3.8
