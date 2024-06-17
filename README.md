@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gordon Ramsay Says He's “Lucky” to Be Alive After “Really Bad” Bicycle Accident**
+**US forces destroy Houthi radars in Yemen that allowed Iranian-backed group to target commercial ships, CENTCOM says**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/gordon-ramsay-lucky-be-alive-bicycle-accident-1235923728/).
+You can read more about it [here](https://www.cnn.com/2024/06/14/politics/civilian-mariner-missing-houthi-attack/index.html).
 
 ## Requirements
 - Python 3.8
