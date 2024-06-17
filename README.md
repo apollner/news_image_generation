@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Israel announces ‘pause’ along southern Gaza route to allow in aid but no let up in Rafah offensive**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/06/16/middleeast/israel-tactical-pause-gaza-aid-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
