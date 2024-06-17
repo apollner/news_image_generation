@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel announces ‘pause’ along southern Gaza route to allow in aid but no let up in Rafah offensive**
+**Rochester Hills splash pad shooting: What we know about victims, suspect**
 
-You can read more about it [here](https://www.cnn.com/2024/06/16/middleeast/israel-tactical-pause-gaza-aid-intl-hnk/index.html).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/oakland/2024/06/16/rochester-hills-shooting-splash-pad/74116657007/).
 
 ## Requirements
 - Python 3.8
