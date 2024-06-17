@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Big Loser in Tesla's Shareholder Vote Is Delaware**
+**Body of American tourist found on scenic Greek island, latest in a string of missing or dead foreigners**
 
-You can read more about it [here](https://www.wsj.com/business/tesla-texas-incorporation-delaware-edcbd0dd).
+You can read more about it [here](https://abcnews.go.com/US/body-american-tourist-found-scenic-greek-island-latest/story?id=111166165).
 
 ## Requirements
 - Python 3.8
