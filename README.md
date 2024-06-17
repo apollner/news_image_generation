@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Attacking Thomas and Alito, Chris Murphy backs Biden's Supreme Court critique**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/06/16/chris-murphy-supreme-court-grift-thomas-clarence-samuel-alito-00163609).
 
 ## Requirements
 - Python 3.8
