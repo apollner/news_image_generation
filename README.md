@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton was 'nervous,' 'stoic,' at Trooping the Colour: body language expert**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/06/16/entertainment/kate-middleton-was-nervous-stoic-at-trooping-the-colour-body-language-expert/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
