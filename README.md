@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stanley Cup Final Game 4 Highlights | Panthers vs. Oilers - June 15, 2024**
+**Gordon Ramsay Says He's “Lucky” to Be Alive After “Really Bad” Bicycle Accident**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ozNlj77YcWs).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/gordon-ramsay-lucky-be-alive-bicycle-accident-1235923728/).
 
 ## Requirements
 - Python 3.8
