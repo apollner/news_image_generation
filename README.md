@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brush fire near 5 Freeway in Gorman forces evacuations**
+**Wildfire north of Los Angeles spreads as authorities evacuate 1,200 people**
 
-You can read more about it [here](https://ktla.com/news/local-news/fire-near-5-freeway-in-gorman-threatens-structures-forces-evacuations/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/wildfire-north-los-angeles-spreads-authorities-issue-evacuation-111160555).
 
 ## Requirements
 - Python 3.8
