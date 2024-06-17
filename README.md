@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Multiple people shot at Michigan splash pad park, suspect dead: Police**
+**Military ‘pause’ on Gaza road inflames divisions in Israeli government**
 
-You can read more about it [here](https://abcnews.go.com/US/multiple-people-shot-michigan-splash-pad-park-suspect/story?id=111159137).
+You can read more about it [here](https://www.bbc.com/news/articles/c2992985yk1o).
 
 ## Requirements
 - Python 3.8
