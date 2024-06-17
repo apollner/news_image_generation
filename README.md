@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Open: Box office Bryson DeChambeau receives mid-round physiotherapy in woods – then muscles into lead**
+**Flares and Echoes: Unveiling the Supermassive Black Hole at the Milky Way's Core**
 
-You can read more about it [here](https://www.cnn.com/2024/06/15/sport/bryson-dechambeau-us-open-round-three-spt-intl/index.html).
+You can read more about it [here](https://dailygalaxy.com/2024/06/flares-and-echoes-monster-black-hole/).
 
 ## Requirements
 - Python 3.8
