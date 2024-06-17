@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China to send a new pair of giant pandas to Australia in sign of warming ties**
+**Rochester Hills splash pad shooter found dead, Oakland Co. sheriff says**
 
-You can read more about it [here](https://www.cnn.com/2024/06/16/australia/china-australia-pandas-adelaide-intl-hnk/index.html).
+You can read more about it [here](https://www.detroitnews.com/story/news/local/oakland-county/2024/06/15/rochester-hills-brooklands-splash-pad-active-shooter-multiple-people-injured-oakland-county-michigan/74112936007/).
 
 ## Requirements
 - Python 3.8
