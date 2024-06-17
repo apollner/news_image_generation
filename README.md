@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two reservists killed in north Gaza, as soldiers slain in Rafah blast named**
+**Israel announces ‘pause’ along southern Gaza route to allow in aid but no let up in Rafah offensive**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R3by1yZXNlcnZpc3RzLWtpbGxlZC1pbi1ub3J0aC1nYXphLWFzLXNvbGRpZXJzLXNsYWluLWluLXJhZmFoLWJsYXN0LW5hbWVkL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R3by1yZXNlcnZpc3RzLWtpbGxlZC1pbi1ub3J0aC1nYXphLWFzLXNvbGRpZXJzLXNsYWluLWluLXJhZmFoLWJsYXN0LW5hbWVkL2FtcC8?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/06/16/middleeast/israel-tactical-pause-gaza-aid-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
