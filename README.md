@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Older women are at risk because of their low representation in research**
+**The EU has just put its car industry on the road to destruction**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/16/aging-women-underrepresented-medical-research/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDI0LzA2LzE2L2V1LXdhci1jaGluZXNlLWVsZWN0cmljLWNhcnMtc2luay1vbmNlLW1pZ2h0eS1hdXRvLWluZHVzdHJ5L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
