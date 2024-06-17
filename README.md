@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 U.S. Open leaderboard: Live coverage, Rory McIlroy score, golf scores today in Round 3 at Pinehurst**
+**NASA says Voyager 1 is fully back online months after it stopped making sense**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2024-u-s-open-leaderboard-bryson-dechambeau-scores-six-birdies-to-open-three-shot-lead-after-round-3/live/).
+You can read more about it [here](https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space).
 
 ## Requirements
 - Python 3.8
