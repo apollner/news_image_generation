@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead in shooting at Juneteenth celebration in Texas, police say**
+**China to send a new pair of giant pandas to Australia in sign of warming ties**
 
-You can read more about it [here](https://abcnews.go.com/US/round-rock-shooting-texas-six-injured-police-say/story?id=111162500).
+You can read more about it [here](https://www.cnn.com/2024/06/16/australia/china-australia-pandas-adelaide-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
