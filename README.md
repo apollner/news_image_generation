@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 WWE Clash at the Castle results, recap, grades: CM Punk screws Drew McIntyre out of title in Scotland**
+**2 dead in shooting at Juneteenth celebration in Texas, police say**
 
-You can read more about it [here](https://www.cbssports.com/wwe/news/2024-wwe-clash-at-the-castle-results-recap-grades-cm-punk-screws-drew-mcintyre-out-of-title-in-scotland/live/).
+You can read more about it [here](https://abcnews.go.com/US/round-rock-shooting-texas-six-injured-police-say/story?id=111162500).
 
 ## Requirements
 - Python 3.8
