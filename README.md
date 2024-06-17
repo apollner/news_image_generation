@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA says Voyager 1 is fully back online months after it stopped making sense**
+**3 Keys: Panthers at Oilers, Game 4 of Stanley Cup Final**
 
-You can read more about it [here](https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space).
+You can read more about it [here](https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-4-preview).
 
 ## Requirements
 - Python 3.8
