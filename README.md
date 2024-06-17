@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 Keys: Panthers at Oilers, Game 4 of Stanley Cup Final**
+**Eight Israeli soldiers killed in Gaza in one of the deadliest incidents for the IDF since October 7**
 
-You can read more about it [here](https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-4-preview).
+You can read more about it [here](https://www.cnn.com/2024/06/15/middleeast/eight-soldiers-killed-rafah-intl/index.html).
 
 ## Requirements
 - Python 3.8
