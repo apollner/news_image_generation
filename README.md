@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eight Israeli soldiers killed in Gaza in one of the deadliest incidents for the IDF since October 7**
+**Stanley Cup Final Game 4 Highlights | Panthers vs. Oilers - June 15, 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/06/15/middleeast/eight-soldiers-killed-rafah-intl/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v=ozNlj77YcWs).
 
 ## Requirements
 - Python 3.8
