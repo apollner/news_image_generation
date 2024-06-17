@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Body of American tourist found on scenic Greek island, latest in a string of missing or dead foreigners**
+**Multiple people shot at Michigan splash pad park, suspect dead: Police**
 
-You can read more about it [here](https://abcnews.go.com/US/body-american-tourist-found-scenic-greek-island-latest/story?id=111166165).
+You can read more about it [here](https://abcnews.go.com/US/multiple-people-shot-michigan-splash-pad-park-suspect/story?id=111159137).
 
 ## Requirements
 - Python 3.8
