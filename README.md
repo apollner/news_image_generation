@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Janet Yellen slams Donald Trump idea to raise tariffs, cut income tax**
+**Jason Kidd Calls Out Celtics After Mavericks’ Game 4 Blowout Win**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/06/16/janet-yellen-donald-trump-income-tax-tariffs/74117456007/).
+You can read more about it [here](https://nesn.com/2024/06/jason-kidd-calls-out-celtics-after-mavericks-game-4-blowout-win/).
 
 ## Requirements
 - Python 3.8
