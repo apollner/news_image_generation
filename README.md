@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US forces destroy Houthi radars in Yemen that allowed Iranian-backed group to target commercial ships, CENTCOM says**
+**US Open: Box office Bryson DeChambeau receives mid-round physiotherapy in woods – then muscles into lead**
 
-You can read more about it [here](https://www.cnn.com/2024/06/14/politics/civilian-mariner-missing-houthi-attack/index.html).
+You can read more about it [here](https://www.cnn.com/2024/06/15/sport/bryson-dechambeau-us-open-round-three-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
