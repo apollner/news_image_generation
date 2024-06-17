@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rochester Hills splash pad shooting: What we know about victims, suspect**
+**Older women are at risk because of their low representation in research**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/oakland/2024/06/16/rochester-hills-shooting-splash-pad/74116657007/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/06/16/aging-women-underrepresented-medical-research/).
 
 ## Requirements
 - Python 3.8
