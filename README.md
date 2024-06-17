@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mookie Betts exits game vs. Royals after hit-by-pitch to hand**
+**Israel's army says it will pause daytime fighting along a route in southern Gaza to help flow of aid**
 
-You can read more about it [here](https://www.mlb.com/news/mookie-betts-exits-game-vs-royals-after-hit-by-pitch-to-hand).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-un-humanitarian-8c111f2dcf783f8671e6dd6f19547b17).
 
 ## Requirements
 - Python 3.8
