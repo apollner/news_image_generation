@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wildfire north of Los Angeles spreads as authorities evacuate 1,200 people**
+**Rochester Hills splash pad shooter found dead, Oakland Co. sheriff says**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/wildfire-north-los-angeles-spreads-authorities-issue-evacuation-111160555).
+You can read more about it [here](https://www.detroitnews.com/story/news/local/oakland-county/2024/06/15/rochester-hills-brooklands-splash-pad-active-shooter-multiple-people-injured-oakland-county-michigan/74112936007/).
 
 ## Requirements
 - Python 3.8
