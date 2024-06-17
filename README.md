@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton Gives Monarchy ‘Best Day Since Coronation’: Royal Source**
+**Two reservists killed in north Gaza, as soldiers slain in Rafah blast named**
 
-You can read more about it [here](https://www.thedailybeast.com/kate-middleton-gives-monarchy-best-day-since-coronation-royal-source).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R3by1yZXNlcnZpc3RzLWtpbGxlZC1pbi1ub3J0aC1nYXphLWFzLXNvbGRpZXJzLXNsYWluLWluLXJhZmFoLWJsYXN0LW5hbWVkL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R3by1yZXNlcnZpc3RzLWtpbGxlZC1pbi1ub3J0aC1nYXphLWFzLXNvbGRpZXJzLXNsYWluLWluLXJhZmFoLWJsYXN0LW5hbWVkL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
