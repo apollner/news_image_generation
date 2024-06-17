@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 842**
+**NBA Finals Film Study: Mavericks stand up defensively in Game 4**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/16/russia-ukraine-war-list-of-key-events-day-842).
+You can read more about it [here](https://www.nba.com/news/2024-nba-finals-film-study-game-4).
 
 ## Requirements
 - Python 3.8
