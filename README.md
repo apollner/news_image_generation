@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyiv hopes to achieve peace with Russia through intermediaries**
+**Kate Middleton Gives Monarchy ‘Best Day Since Coronation’: Royal Source**
 
-You can read more about it [here](https://www.politico.eu/article/ukraine-war-russia-peace-through-intermediaries/).
+You can read more about it [here](https://www.thedailybeast.com/kate-middleton-gives-monarchy-best-day-since-coronation-royal-source).
 
 ## Requirements
 - Python 3.8
