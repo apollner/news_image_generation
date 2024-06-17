@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rochester Hills splash pad shooter found dead, Oakland Co. sheriff says**
+**Russia-Ukraine war: List of key events, day 842**
 
-You can read more about it [here](https://www.detroitnews.com/story/news/local/oakland-county/2024/06/15/rochester-hills-brooklands-splash-pad-active-shooter-multiple-people-injured-oakland-county-michigan/74112936007/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/16/russia-ukraine-war-list-of-key-events-day-842).
 
 ## Requirements
 - Python 3.8
