@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Supreme Court to hear Nvidia bid to scuttle shareholder lawsuit**
+**US aircraft carrier counters false Houthi claims with 'Taco Tuesdays' as deployment stretches on**
 
-You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-hear-nvidia-bid-scuttle-shareholder-lawsuit-2024-06-17/).
+You can read more about it [here](https://apnews.com/article/uss-eisenhower-yemen-houthis-red-sea-5dc09566c116913ed316eff87f3eff82).
 
 ## Requirements
 - Python 3.8
