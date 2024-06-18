@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel announces pause in daytime fighting to get in aid for desperate Palestinians**
+**Confused Joe Biden seen being led off stage by Barack Obama at LA event, netizens say 'it's so embarrassing'**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-un-humanitarian-8c111f2dcf783f8671e6dd6f19547b17).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/confused-joe-biden-seen-being-led-off-stage-by-barack-obama-at-la-event-netizens-say-it-s-so-embarrassing-101718594663848.html).
 
 ## Requirements
 - Python 3.8
