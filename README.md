@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Runway unveils new hyper realistic AI video model Gen-3 Alpha, capable of 10-second-long clips**
+**Michigan, CUNY didn't suitably assess if Israel-Hamas war protests made environment hostile, US says**
 
-You can read more about it [here](https://venturebeat.com/ai/runway-unveils-new-hyper-realistic-ai-video-model-gen-3-alpha-capable-of-10-second-long-clips/).
+You can read more about it [here](https://apnews.com/article/campus-protests-antisemitism-islamophobia-israel-5d76f2e61ddc06d75cea680ff8939ea4).
 
 ## Requirements
 - Python 3.8
