@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cancer Specialist Condemns UK Telegraph Column Praising Kate Middleton's Public Appearance: 'Absolutely Appalling'**
+**Bryson DeChambeau's triumph and Rory McIlroy's heartbreak determined by inches at the U.S. Open**
 
-You can read more about it [here](https://www.yahoo.com/news/cancer-specialist-condemns-uk-telegraph-010915993.html).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/40365743/bryson-dechambeau-rory-mcilroy-2024-us-open-pinehurst-no-2).
 
 ## Requirements
 - Python 3.8
