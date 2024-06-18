@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers Place Yoshinobu Yamamoto, Michael Grove On 15-Day Injured List**
+**Cancer Specialist Condemns UK Telegraph Column Praising Kate Middleton's Public Appearance: 'Absolutely Appalling'**
 
-You can read more about it [here](https://www.mlbtraderumors.com/2024/06/dodgers-place-yoshinobu-yamamoto-michael-grove-on-15-day-il.html).
+You can read more about it [here](https://www.yahoo.com/news/cancer-specialist-condemns-uk-telegraph-010915993.html).
 
 ## Requirements
 - Python 3.8
