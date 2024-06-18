@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge blocks Biden’s transgender student protections in 6 more states**
+**Rochester Hills shooting: Michael William Nash had 11 guns in home**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4726114-judge-blocks-bidens-transgender-student-protections-in-6-more-states/).
+You can read more about it [here](https://www.freep.com/story/news/local/michigan/oakland/2024/06/17/michael-william-nash-rochester-hills-splash-pad-shooting/74126521007/).
 
 ## Requirements
 - Python 3.8
