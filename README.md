@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayor-elect pulled off bus and assassinated near resort city of Acapulco**
+**Former Harris aide says Vance would pose ‘greatest threat’ in VP debate**
 
-You can read more about it [here](https://www.cbsnews.com/news/mayor-elect-assassinated-mexico-salvador-villalba-flores-killed-near-acapulco/).
+You can read more about it [here](https://thehill.com/homenews/4725832-former-harris-aide-says-vance-would-pose-greatest-threat-in-vp-debate/).
 
 ## Requirements
 - Python 3.8
