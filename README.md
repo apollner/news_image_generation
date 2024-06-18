@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA gets Voyager 1 back online from 15 billion miles away after technical problem**
+**Scooter Braun retires as music manager after 23 years**
 
-You can read more about it [here](https://www.foxnews.com/science/nasa-gets-voyager-1-back-online-from-15-billion-miles-away-after-technical-problem).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jam1tZzQ5ZDl2ZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2ptbWc0OWQ5dmRvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
