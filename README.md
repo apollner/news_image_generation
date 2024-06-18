@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Finals: 4 things to look for in Game 5 of Celtics-Mavericks**
+**How primordial black holes could explain the enduring mystery of dark matter**
 
-You can read more about it [here](https://www.nba.com/news/4-things-to-look-for-game-5-2024-nba-finals).
+You can read more about it [here](https://www.cnn.com/2024/06/17/science/black-holes-dark-matter-scn/index.html).
 
 ## Requirements
 - Python 3.8
