@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scooter Braun retires as music manager after 23 years**
+**Netanyahu dissolves War Cabinet after Benny Gantz departure, officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jam1tZzQ5ZDl2ZG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2ptbWc0OWQ5dmRvLmFtcA?oc=5).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-cabinet-netanyahu-76b4e165609bb3f0716c8599a83efa99).
 
 ## Requirements
 - Python 3.8
