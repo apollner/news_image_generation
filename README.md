@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s Putin visits North Korea for talks with Kim Jong Un**
+**Kuo: Apple Watch Series 10 to Get Larger Screen and Thinner Design**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzE3L3J1c3NpYS1wdXRpbi1ub3J0aC1rb3JlYS12aXNpdC1raW0v0gEA?oc=5).
+You can read more about it [here](https://www.macrumors.com/2024/06/17/kuo-apple-watch-series-10-larger-screen-thinner/).
 
 ## Requirements
 - Python 3.8
