@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stanford Identifies 6 Types of Depression: Could a Brain Scan Reveal the Best Treatment for You?**
+**Russia’s Putin visits North Korea for talks with Kim Jong Un**
 
-You can read more about it [here](https://scitechdaily.com/stanford-identifies-6-types-of-depression-could-a-brain-scan-reveal-the-best-treatment-for-you/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzE3L3J1c3NpYS1wdXRpbi1ub3J0aC1rb3JlYS12aXNpdC1raW0v0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
