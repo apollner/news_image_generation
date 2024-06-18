@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Armie Hammer Says He’s Now “Grateful” for Career-Upending Cannibalism, Sexual Misconduct Scandal**
+**NASA gets Voyager 1 back online from 15 billion miles away after technical problem**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/armie-hammer-cannibalism-sexual-misconduct-scandal-1235924603/).
+You can read more about it [here](https://www.foxnews.com/science/nasa-gets-voyager-1-back-online-from-15-billion-miles-away-after-technical-problem).
 
 ## Requirements
 - Python 3.8
