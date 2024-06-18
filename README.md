@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Harris aide says Vance would pose ‘greatest threat’ in VP debate**
+**Armie Hammer Says He’s Now “Grateful” for Career-Upending Cannibalism, Sexual Misconduct Scandal**
 
-You can read more about it [here](https://thehill.com/homenews/4725832-former-harris-aide-says-vance-would-pose-greatest-threat-in-vp-debate/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/armie-hammer-cannibalism-sexual-misconduct-scandal-1235924603/).
 
 ## Requirements
 - Python 3.8
