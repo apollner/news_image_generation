@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US aircraft carrier counters false Houthi claims with 'Taco Tuesdays' as deployment stretches on**
+**Surgeon general asks Congress to require warning labels for social media, like those on cigarettes**
 
-You can read more about it [here](https://apnews.com/article/uss-eisenhower-yemen-houthis-red-sea-5dc09566c116913ed316eff87f3eff82).
+You can read more about it [here](https://apnews.com/article/surgeon-general-social-media-mental-health-df321c791493863001754401676f165c).
 
 ## Requirements
 - Python 3.8
