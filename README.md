@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton returns to Royal duties for first time in months | Today Show Australia**
+**A fast-moving wildfire spreads north of Los Angeles, forcing evacuations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiCzMyQXRhdGd5OHhRmAEB?oc=5).
+You can read more about it [here](https://www.npr.org/2024/06/16/nx-s1-5008077/post-fire-los-angeles-ventura).
 
 ## Requirements
 - Python 3.8
