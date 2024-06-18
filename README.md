@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese industrial output growth slows as property crisis weighs on economy**
+**Maryland governor to issue mass pardon of low-level marijuana convictions - The Washington Post**
 
-You can read more about it [here](https://www.ft.com/content/97cc2b4a-e953-453e-8407-82bd082087c6).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/06/16/maryland-mass-pardon-marijuana-conviction/).
 
 ## Requirements
 - Python 3.8
