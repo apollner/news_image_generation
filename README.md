@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan, CUNY didn't suitably assess if Israel-Hamas war protests made environment hostile, US says**
+**Mayor-elect pulled off bus and assassinated near resort city of Acapulco**
 
-You can read more about it [here](https://apnews.com/article/campus-protests-antisemitism-islamophobia-israel-5d76f2e61ddc06d75cea680ff8939ea4).
+You can read more about it [here](https://www.cbsnews.com/news/mayor-elect-assassinated-mexico-salvador-villalba-flores-killed-near-acapulco/).
 
 ## Requirements
 - Python 3.8
