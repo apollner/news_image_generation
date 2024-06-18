@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aiyuk tells Daniels: 49ers 'don't want me back'**
+**Judge blocks Biden’s transgender student protections in 6 more states**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40371774/brandon-aiyuk-tells-jayden-daniels-49ers-want-back).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4726114-judge-blocks-bidens-transgender-student-protections-in-6-more-states/).
 
 ## Requirements
 - Python 3.8
