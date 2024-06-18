@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Kate to be ABSENT from Garter Day Service despite Trooping the Colour attendance**
+**175,000 pardons are set to be issued for marijuana convictions in Maryland**
 
-You can read more about it [here](https://www.youtube.com/watch?v=nM2FN0zqb4U).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hcmlqdWFuYS1wYXJkb25zLWdvdi13ZXMtbW9vcmUtMDAzYTExZDI0MzVlYWJhYTA2MGQyZDI2ZGE2M2NlNDLSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
