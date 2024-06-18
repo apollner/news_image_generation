@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney and Pixar's Inside Out 2 makes record opening weekend**
+**Ukraine summit: A path to peace?**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd114gg38xpo).
+You can read more about it [here](https://www.bbc.com/news/articles/c1wwy6g9qgjo).
 
 ## Requirements
 - Python 3.8
