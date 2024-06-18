@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surgeon general asks Congress to require warning labels for social media, like those on cigarettes**
+**'Hard Knocks: In Season' to feature AFC North teams**
 
-You can read more about it [here](https://apnews.com/article/surgeon-general-social-media-mental-health-df321c791493863001754401676f165c).
+You can read more about it [here](https://www.nfl.com/news/afc-north-to-be-featured-on-hard-knocks-in-season-2024).
 
 ## Requirements
 - Python 3.8
