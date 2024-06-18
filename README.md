@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Confused Joe Biden seen being led off stage by Barack Obama at LA event, netizens say 'it's so embarrassing'**
+**Get Ready To See a Sky Explosion That Only Happens Once Every 80 Years**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/confused-joe-biden-seen-being-led-off-stage-by-barack-obama-at-la-event-netizens-say-it-s-so-embarrassing-101718594663848.html).
+You can read more about it [here](https://www.cnet.com/science/get-ready-to-see-a-sky-explosion-that-only-happens-once-every-80-years/).
 
 ## Requirements
 - Python 3.8
