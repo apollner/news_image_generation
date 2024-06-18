@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rochester Hills shooting: Michael William Nash had 11 guns in home**
+**Aiyuk tells Daniels: 49ers 'don't want me back'**
 
-You can read more about it [here](https://www.freep.com/story/news/local/michigan/oakland/2024/06/17/michael-william-nash-rochester-hills-splash-pad-shooting/74126521007/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40371774/brandon-aiyuk-tells-jayden-daniels-49ers-want-back).
 
 ## Requirements
 - Python 3.8
