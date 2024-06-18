@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM Update: Humidity starts building tonight; heat wave arrives Monday**
+**Hajj 2024: At least 14 pilgrims die from sunstroke**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/16/pm-update-dc-weather-heat-wave/).
+You can read more about it [here](https://apnews.com/article/hajj-mecca-saudi-arabia-muslim-pilgrimage-0278c6e1040eac5f0b834f762f41db27).
 
 ## Requirements
 - Python 3.8
