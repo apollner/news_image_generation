@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine summit: A path to peace?**
+**Chinese industrial output growth slows as property crisis weighs on economy**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c1wwy6g9qgjo).
+You can read more about it [here](https://www.ft.com/content/97cc2b4a-e953-453e-8407-82bd082087c6).
 
 ## Requirements
 - Python 3.8
