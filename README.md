@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo: Apple Watch Series 10 to Get Larger Screen and Thinner Design**
+**How primordial black holes could explain the enduring mystery of dark matter**
 
-You can read more about it [here](https://www.macrumors.com/2024/06/17/kuo-apple-watch-series-10-larger-screen-thinner/).
+You can read more about it [here](https://www.cnn.com/2024/06/17/science/black-holes-dark-matter-scn/index.html).
 
 ## Requirements
 - Python 3.8
