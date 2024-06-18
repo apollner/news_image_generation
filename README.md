@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American tourist found dead on small Greek island. Three other tourists are missing**
+**Israel announces pause in daytime fighting to get in aid for desperate Palestinians**
 
-You can read more about it [here](https://www.cnn.com/2024/06/16/europe/american-tourist-dead-greece-island-intl-latam/index.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-un-humanitarian-8c111f2dcf783f8671e6dd6f19547b17).
 
 ## Requirements
 - Python 3.8
