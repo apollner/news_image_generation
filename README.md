@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Get Ready To See a Sky Explosion That Only Happens Once Every 80 Years**
+**Dodgers Place Yoshinobu Yamamoto, Michael Grove On 15-Day Injured List**
 
-You can read more about it [here](https://www.cnet.com/science/get-ready-to-see-a-sky-explosion-that-only-happens-once-every-80-years/).
+You can read more about it [here](https://www.mlbtraderumors.com/2024/06/dodgers-place-yoshinobu-yamamoto-michael-grove-on-15-day-il.html).
 
 ## Requirements
 - Python 3.8
