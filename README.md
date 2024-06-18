@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu dissolves War Cabinet after Benny Gantz departure, officials say**
+**Judge blocks Biden’s transgender student protections in 6 more states**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-cabinet-netanyahu-76b4e165609bb3f0716c8599a83efa99).
+You can read more about it [here](https://thehill.com/regulation/court-battles/4726114-judge-blocks-bidens-transgender-student-protections-in-6-more-states/).
 
 ## Requirements
 - Python 3.8
