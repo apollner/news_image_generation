@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryson DeChambeau's triumph and Rory McIlroy's heartbreak determined by inches at the U.S. Open**
+**‘Deepening downturn’ in China’s property sector overshadows May spending rebound**
 
-You can read more about it [here](https://www.espn.com/golf/story/_/id/40365743/bryson-dechambeau-rory-mcilroy-2024-us-open-pinehurst-no-2).
+You can read more about it [here](https://www.scmp.com/economy/economic-indicators/article/3266847/chinas-property-fall-outshines-spending-rebound-may-challenging-beijing-economic-targets).
 
 ## Requirements
 - Python 3.8
