@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A fire in Los Angeles County has consumed nearly 15,000 acres**
+**US Supreme Court to hear Nvidia bid to scuttle shareholder lawsuit**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xNi91cy9sb3MtYW5nZWxlcy1wb3N0LWZpcmUvaW5kZXguaHRtbNIBO2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTYvdXMvbG9zLWFuZ2VsZXMtcG9zdC1maXJl?oc=5).
+You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-hear-nvidia-bid-scuttle-shareholder-lawsuit-2024-06-17/).
 
 ## Requirements
 - Python 3.8
