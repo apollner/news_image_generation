@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Deepening downturn’ in China’s property sector overshadows May spending rebound**
+**NASCAR Iowa Corn 350: Live updates Cup Series race at Iowa Speedway**
 
-You can read more about it [here](https://www.scmp.com/economy/economic-indicators/article/3266847/chinas-property-fall-outshines-spending-rebound-may-challenging-beijing-economic-targets).
+You can read more about it [here](https://www.desmoinesregister.com/story/sports/motor/auto-racing/2024/06/16/nascar-race-iowa-speedway-iowa-corn-350-live-updates-today/74118983007/).
 
 ## Requirements
 - Python 3.8
