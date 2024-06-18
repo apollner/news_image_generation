@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'House of the Dragon' changes books in shocking controverial 'Blood and Cheese' murder**
+**Netanyahu denounces tactical pauses in Gaza fighting to get in aid**
 
-You can read more about it [here](https://nypost.com/2024/06/16/entertainment/house-of-the-dragon-changes-books-in-shocking-controverial-blood-and-cheese-murder/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-announces-tactical-pauses-gaza-aid-supplies-2024-06-16/).
 
 ## Requirements
 - Python 3.8
