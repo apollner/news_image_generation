@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's army says it will pause daytime fighting along a route in southern Gaza to help flow of aid**
+**PM Update: Humidity starts building tonight; heat wave arrives Monday**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-un-humanitarian-8c111f2dcf783f8671e6dd6f19547b17).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/16/pm-update-dc-weather-heat-wave/).
 
 ## Requirements
 - Python 3.8
