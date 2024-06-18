@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A fast-moving wildfire spreads north of Los Angeles, forcing evacuations**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/06/16/nx-s1-5008077/post-fire-los-angeles-ventura).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
