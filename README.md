@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**175,000 pardons are set to be issued for marijuana convictions in Maryland**
+**Stanford Identifies 6 Types of Depression: Could a Brain Scan Reveal the Best Treatment for You?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hcmlqdWFuYS1wYXJkb25zLWdvdi13ZXMtbW9vcmUtMDAzYTExZDI0MzVlYWJhYTA2MGQyZDI2ZGE2M2NlNDLSAQA?oc=5).
+You can read more about it [here](https://scitechdaily.com/stanford-identifies-6-types-of-depression-could-a-brain-scan-reveal-the-best-treatment-for-you/).
 
 ## Requirements
 - Python 3.8
