@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maryland governor to issue mass pardon of low-level marijuana convictions - The Washington Post**
+**Disney and Pixar's Inside Out 2 makes record opening weekend**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/06/16/maryland-mass-pardon-marijuana-conviction/).
+You can read more about it [here](https://www.bbc.com/news/articles/cd114gg38xpo).
 
 ## Requirements
 - Python 3.8
