@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney and Pixar's Inside Out 2 makes record opening weekend**
+**Princess Kate to be ABSENT from Garter Day Service despite Trooping the Colour attendance**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd114gg38xpo).
+You can read more about it [here](https://www.youtube.com/watch?v=nM2FN0zqb4U).
 
 ## Requirements
 - Python 3.8
