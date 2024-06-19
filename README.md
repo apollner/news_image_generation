@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden opens green card path to undocumented immigrant spouses of US citizens**
+**How Trooping the Colour Affected Kate Middleton's Health**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2Q2ZWI0YzQ0LWNjNDEtNGE0MS1iNTk3LWU3ZjRmYmRjMzM1M9IBAA?oc=5).
+You can read more about it [here](https://www.instyle.com/kate-middleton-trooping-the-color-appearance-affect-on-health-8665032).
 
 ## Requirements
 - Python 3.8
