@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service agent robbed at gunpoint during Biden's California trip**
+**Celtics vs. Mavericks NBA Finals: Game 5 live updates, score, highlights and analysis as Boston looks to finish off Dallas**
 
-You can read more about it [here](https://www.nbcnews.com/politics/politics-news/secret-service-agent-robbed-gunpoint-biden-california-trip-rcna157629).
+You can read more about it [here](https://sports.yahoo.com/live/boston-celtics-dallas-mavericks-nba-finals-2024-score-live-updates-game-5-luka-doncic-jayson-tatum-jaylen-brown-230001884.html).
 
 ## Requirements
 - Python 3.8
