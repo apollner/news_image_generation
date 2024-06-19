@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. reiterates its obligation to defend the Philippines after new clash with China at sea**
+**Celtics rout Mavericks to claim record 18th NBA title**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/us-reiterates-obligation-defend-philippines-new-clash-south-china-sea-rcna157666).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/17/celtics-mavericks-nba-finals/).
 
 ## Requirements
 - Python 3.8
