@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge blocks Biden’s transgender student protections in 6 more states**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/regulation/court-battles/4726114-judge-blocks-bidens-transgender-student-protections-in-6-more-states/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
