@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about this week’s heat wave, from heat alerts to when it ends**
+**The Legend of Zelda: Echoes of Wisdom – Announcement Trailer – Nintendo Switch**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/18/heat-wave-alerts-records-regions-explained/).
+You can read more about it [here](https://www.youtube.com/watch?v=94RTrH2erPE).
 
 ## Requirements
 - Python 3.8
