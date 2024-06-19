@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Full TV Producer Roundtable: Peter Morgan, Issa Lopez, Steven Zaillian, Francesca Sloane & More**
+**Iowa's immigration enforcement law blocked by federal court**
 
-You can read more about it [here](https://www.youtube.com/watch?v=ODn3AM9V8Q4).
+You can read more about it [here](https://www.desmoinesregister.com/story/news/crime-and-courts/2024/06/17/iowa-immigration-law-enforcement-blocked-by-federal-court/74130393007/).
 
 ## Requirements
 - Python 3.8
