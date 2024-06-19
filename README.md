@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: S&P 500, Nasdaq notch records as Nvidia takes crown from Microsoft as most valuable stock**
+**Riley Strain's autopsy results reveal Missouri student drowned after excessive drinking**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-notch-records-as-nvidia-takes-crown-from-microsoft-as-most-valuable-stock-200043474.html).
+You can read more about it [here](https://www.cbsnews.com/news/riley-strain-autopsy-results/).
 
 ## Requirements
 - Python 3.8
