@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ravens Reveal New Alternate Helmet**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.baltimoreravens.com/news/ravens-reveal-new-alternate-helmet-mark-andrews-zay-flowers-nate-wiggins-ravens-news).
 
 ## Requirements
 - Python 3.8
