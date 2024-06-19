@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Riley Strain's autopsy results reveal Missouri student drowned after excessive drinking**
+**Russia's Vladimir Putin visits North Korea's Kim Jong Un**
 
-You can read more about it [here](https://www.cbsnews.com/news/riley-strain-autopsy-results/).
+You can read more about it [here](https://apnews.com/article/putin-kim-jong-un-russia-north-korea-05f0ed66f9978ac1ba34f2d708ad7504).
 
 ## Requirements
 - Python 3.8
