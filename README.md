@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Trooping the Colour Affected Kate Middleton's Health**
+**Iowa's immigration enforcement law blocked by federal court**
 
-You can read more about it [here](https://www.instyle.com/kate-middleton-trooping-the-color-appearance-affect-on-health-8665032).
+You can read more about it [here](https://www.desmoinesregister.com/story/news/crime-and-courts/2024/06/17/iowa-immigration-law-enforcement-blocked-by-federal-court/74130393007/).
 
 ## Requirements
 - Python 3.8
