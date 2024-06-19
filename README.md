@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics rout Mavericks to claim record 18th NBA title**
+**Boeing whistleblower steps forward ahead of CEO's testimony in Washington, senator says**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/17/celtics-mavericks-nba-finals/).
+You can read more about it [here](https://abcnews.go.com/US/boeing-whistleblower-steps-forward-ahead-ceos-testimony-washington/story?id=111206197).
 
 ## Requirements
 - Python 3.8
