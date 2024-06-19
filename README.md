@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing whistleblower steps forward ahead of CEO's testimony in Washington, senator says**
+**Putin arrives in North Korea for the first time in 24 years**
 
-You can read more about it [here](https://abcnews.go.com/US/boeing-whistleblower-steps-forward-ahead-ceos-testimony-washington/story?id=111206197).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3B1dGluLWtpbS1qb25nLXVuLXJ1c3NpYS1ub3J0aC1rb3JlYS0wNWYwZWQ2NmY5OTc4YWMxYmEzNGYyZDcwOGFkNzUwNNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
