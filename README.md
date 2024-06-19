@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's is ending its test run of AI-powered drive-thrus with IBM**
+**Boeing's Crewed Starliner Mission Delays Return From Space Again**
 
-You can read more about it [here](https://apnews.com/article/mcdonalds-ai-drive-thru-ibm-bebc898363f2d550e1a0cd3c682fa234).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-06-18/boeing-s-crewed-starliner-mission-delays-return-from-space-again).
 
 ## Requirements
 - Python 3.8
