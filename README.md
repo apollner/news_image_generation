@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential Tropical Cyclone 1 forms in Gulf of Mexico as Texas braces for flooding**
+**Full TV Producer Roundtable: Peter Morgan, Issa Lopez, Steven Zaillian, Francesca Sloane & More**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-potential-tropical-cyclone-one-possible-alberto).
+You can read more about it [here](https://www.youtube.com/watch?v=ODn3AM9V8Q4).
 
 ## Requirements
 - Python 3.8
