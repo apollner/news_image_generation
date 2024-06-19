@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuations ordered in New Mexico village after fast-moving wildfire grows rapidly**
+**How Trooping the Colour Affected Kate Middleton's Health**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/evacuations-ordered-new-mexico-village-fast-moving-wildfire-rcna157651).
+You can read more about it [here](https://www.instyle.com/kate-middleton-trooping-the-color-appearance-affect-on-health-8665032).
 
 ## Requirements
 - Python 3.8
