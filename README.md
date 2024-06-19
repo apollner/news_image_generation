@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential Tropical Cyclone 1 forms in Gulf of Mexico as Texas braces for flooding**
+**Rory McIlroy's US Open choke will 'haunt' him: Nick Faldo**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-potential-tropical-cyclone-one-possible-alberto).
+You can read more about it [here](https://nypost.com/2024/06/17/sports/rory-mcilroys-us-open-choke-will-haunt-him-nick-faldo/).
 
 ## Requirements
 - Python 3.8
