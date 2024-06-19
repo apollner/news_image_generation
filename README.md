@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's Vladimir Putin visits North Korea's Kim Jong Un**
+**Boston Celtics championship parade to be held Friday**
 
-You can read more about it [here](https://apnews.com/article/putin-kim-jong-un-russia-north-korea-05f0ed66f9978ac1ba34f2d708ad7504).
+You can read more about it [here](https://www.cbsnews.com/boston/news/boston-celtics-parade-details/).
 
 ## Requirements
 - Python 3.8
