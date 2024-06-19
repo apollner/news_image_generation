@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens Reveal New Alternate Helmet**
+**What to know about this week’s heat wave, from heat alerts to when it ends**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/ravens-reveal-new-alternate-helmet-mark-andrews-zay-flowers-nate-wiggins-ravens-news).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/18/heat-wave-alerts-records-regions-explained/).
 
 ## Requirements
 - Python 3.8
