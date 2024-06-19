@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa's immigration enforcement law blocked by federal court**
+**Rory McIlroy only prolonged US Open aftermath with no-show act**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/news/crime-and-courts/2024/06/17/iowa-immigration-law-enforcement-blocked-by-federal-court/74130393007/).
+You can read more about it [here](https://nypost.com/2024/06/17/sports/rory-mcilroy-only-prolonged-us-open-aftermath-with-no-show-act/).
 
 ## Requirements
 - Python 3.8
