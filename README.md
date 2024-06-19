@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dr. Anthony Fauci says empathy motivated his medical career but an old phrase from high school kept him going**
+**Gateway Church pastor Robert Morris resigns after abuse allegations**
 
-You can read more about it [here](https://www.cnn.com/2024/06/18/health/fauci-memoir-gupta-interview/index.html).
+You can read more about it [here](https://www.dallasnews.com/news/faith/2024/06/18/gateway-church-pastor-robert-morris-resigns-after-sex-abuse-allegations-surface/).
 
 ## Requirements
 - Python 3.8
