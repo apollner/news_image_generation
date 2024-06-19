@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major heat wave to hit Midwest and East Coast, bringing heat alerts to 72 million**
+**Potential Tropical Cyclone 1 forms in Gulf of Mexico as Texas braces for flooding**
 
-You can read more about it [here](https://www.nbcnews.com/news/weather/epic-heatwave-expand-midwest-east-coast-last-week-rcna157448).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-potential-tropical-cyclone-one-possible-alberto).
 
 ## Requirements
 - Python 3.8
