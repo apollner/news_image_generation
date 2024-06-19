@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review | 'Elden Ring' again shatters expectations with 'Shadow of the Erdtree'**
+**What to know about this week’s heat wave, from heat alerts to when it ends**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/06/18/elden-ring-shadow-of-erdtree-review/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/18/heat-wave-alerts-records-regions-explained/).
 
 ## Requirements
 - Python 3.8
