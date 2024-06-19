@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics rout Mavericks to claim record 18th NBA title**
+**McDonalds removes AI drive-throughs after order errors**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/17/celtics-mavericks-nba-finals/).
+You can read more about it [here](https://www.bbc.com/news/articles/c722gne7qngo).
 
 ## Requirements
 - Python 3.8
