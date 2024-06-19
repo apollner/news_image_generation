@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald’s pauses AI ordering at drive thrus**
+**US tourist found dead on Greek island of Mathraki**
 
-You can read more about it [here](https://thehill.com/business/4726673-mcdonalds-pauses-ai-ordering-drive-thrus/).
+You can read more about it [here](https://www.bbc.com/news/articles/cl550xgnpl3o).
 
 ## Requirements
 - Python 3.8
