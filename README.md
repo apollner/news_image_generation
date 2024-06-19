@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu dissolves War Cabinet after Benny Gantz departure, officials say**
+**Potential Tropical Cyclone 1 forms in Gulf of Mexico as Texas braces for flooding**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-cabinet-netanyahu-76b4e165609bb3f0716c8599a83efa99).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-potential-tropical-cyclone-one-possible-alberto).
 
 ## Requirements
 - Python 3.8
