@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gateway Church pastor Robert Morris resigns after abuse allegations**
+**McDonald's is ending its test run of AI-powered drive-thrus with IBM**
 
-You can read more about it [here](https://www.dallasnews.com/news/faith/2024/06/18/gateway-church-pastor-robert-morris-resigns-after-sex-abuse-allegations-surface/).
+You can read more about it [here](https://apnews.com/article/mcdonalds-ai-drive-thru-ibm-bebc898363f2d550e1a0cd3c682fa234).
 
 ## Requirements
 - Python 3.8
