@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rory McIlroy only prolonged US Open aftermath with no-show act**
+**Surgeon General Murthy wants social media warning labels. Try telling that to Congress.**
 
-You can read more about it [here](https://nypost.com/2024/06/17/sports/rory-mcilroy-only-prolonged-us-open-aftermath-with-no-show-act/).
+You can read more about it [here](https://www.politico.com/news/2024/06/17/vivek-murthy-social-media-warning-label-00163792).
 
 ## Requirements
 - Python 3.8
