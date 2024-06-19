@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 U.S. Olympic Trials: #5 Madden, #11 Cox Out of 1500 Free (Day 4 Prelims Scratches)**
+**New Mexico village of Ruidoso orders residents to evacuate due to raging wildfire: "GO NOW"**
 
-You can read more about it [here](https://swimswam.com/2024-u-s-olympic-trials-5-madden-11-cox-out-of-1500-free-day-4-prelims-scratches/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvcnVpZG9zby13aWxkZmlyZS1uZXctbWV4aWNvLXZpbGxhZ2UtbWFuZGF0b3J5LWV2YWN1YXRpb25zL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3J1aWRvc28td2lsZGZpcmUtbmV3LW1leGljby12aWxsYWdlLW1hbmRhdG9yeS1ldmFjdWF0aW9ucy8?oc=5).
 
 ## Requirements
 - Python 3.8
