@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's Crewed Starliner Mission Delays Return From Space Again**
+**Stock market today: S&P 500, Nasdaq notch records as Nvidia takes crown from Microsoft as most valuable stock**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-06-18/boeing-s-crewed-starliner-mission-delays-return-from-space-again).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-notch-records-as-nvidia-takes-crown-from-microsoft-as-most-valuable-stock-200043474.html).
 
 ## Requirements
 - Python 3.8
