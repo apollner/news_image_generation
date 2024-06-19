@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics vs. Mavericks NBA Finals: Game 5 live updates, score, highlights and analysis as Boston looks to finish off Dallas**
+**Netanyahu dissolves War Cabinet after Benny Gantz departure, officials say**
 
-You can read more about it [here](https://sports.yahoo.com/live/boston-celtics-dallas-mavericks-nba-finals-2024-score-live-updates-game-5-luka-doncic-jayson-tatum-jaylen-brown-230001884.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-hamas-war-cabinet-netanyahu-76b4e165609bb3f0716c8599a83efa99).
 
 ## Requirements
 - Python 3.8
