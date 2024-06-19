@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens Reveal New Alternate Helmet**
+**Review | 'Elden Ring' again shatters expectations with 'Shadow of the Erdtree'**
 
-You can read more about it [here](https://www.baltimoreravens.com/news/ravens-reveal-new-alternate-helmet-mark-andrews-zay-flowers-nate-wiggins-ravens-news).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/06/18/elden-ring-shadow-of-erdtree-review/).
 
 ## Requirements
 - Python 3.8
