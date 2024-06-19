@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Catastrophic Titan sub disaster: A year later the search for answers continues.**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA2LzE4L3RpdGFuLXN1Ym1lcnNpYmxlLW9uZS15ZWFyLWFubml2ZXJzYXJ5Lzc0MDQxNTg0MDA3L9IBAA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
