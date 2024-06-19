@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico village of Ruidoso orders residents to evacuate due to raging wildfire: "GO NOW"**
+**Celtics rout Mavericks to claim record 18th NBA title**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvcnVpZG9zby13aWxkZmlyZS1uZXctbWV4aWNvLXZpbGxhZ2UtbWFuZGF0b3J5LWV2YWN1YXRpb25zL9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3J1aWRvc28td2lsZGZpcmUtbmV3LW1leGljby12aWxsYWdlLW1hbmRhdG9yeS1ldmFjdWF0aW9ucy8?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/17/celtics-mavericks-nba-finals/).
 
 ## Requirements
 - Python 3.8
