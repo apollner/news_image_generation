@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia shares push higher; RBA stands pat on rates By Reuters**
+**Evacuations ordered in New Mexico village after fast-moving wildfire grows rapidly**
 
-You can read more about it [here](https://www.investing.com/news/economy-news/asia-shares-push-higher-aussie-firm-ahead-of-rba-rate-decision-3487899).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/evacuations-ordered-new-mexico-village-fast-moving-wildfire-rcna157651).
 
 ## Requirements
 - Python 3.8
