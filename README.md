@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rory McIlroy's US Open choke will 'haunt' him: Nick Faldo**
+**Russia’s Putin to visit North Korea in rare trip as anti-West alignment deepens**
 
-You can read more about it [here](https://nypost.com/2024/06/17/sports/rory-mcilroys-us-open-choke-will-haunt-him-nick-faldo/).
+You can read more about it [here](https://www.cnn.com/2024/06/17/asia/north-korea-russia-putin-visit-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
