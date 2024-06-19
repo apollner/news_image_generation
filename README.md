@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boston Celtics championship parade to be held Friday**
+**See South Fork Fire images near Ruidoso**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/boston-celtics-parade-details/).
+You can read more about it [here](https://www.elpasotimes.com/picture-gallery/news/2024/06/18/images-of-south-fork-fire-near-ruidoso/74136353007/).
 
 ## Requirements
 - Python 3.8
