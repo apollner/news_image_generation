@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Trooping the Colour Affected Kate Middleton's Health**
+**U.S. reiterates its obligation to defend the Philippines after new clash with China at sea**
 
-You can read more about it [here](https://www.instyle.com/kate-middleton-trooping-the-color-appearance-affect-on-health-8665032).
+You can read more about it [here](https://www.nbcnews.com/news/world/us-reiterates-obligation-defend-philippines-new-clash-south-china-sea-rcna157666).
 
 ## Requirements
 - Python 3.8
