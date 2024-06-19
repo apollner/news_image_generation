@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin arrives in North Korea for the first time in 24 years**
+**2024 U.S. Olympic Trials: #5 Madden, #11 Cox Out of 1500 Free (Day 4 Prelims Scratches)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3B1dGluLWtpbS1qb25nLXVuLXJ1c3NpYS1ub3J0aC1rb3JlYS0wNWYwZWQ2NmY5OTc4YWMxYmEzNGYyZDcwOGFkNzUwNNIBAA?oc=5).
+You can read more about it [here](https://swimswam.com/2024-u-s-olympic-trials-5-madden-11-cox-out-of-1500-free-day-4-prelims-scratches/).
 
 ## Requirements
 - Python 3.8
