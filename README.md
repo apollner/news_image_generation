@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US soldier Gordon Black sentenced to nearly four years in Russia's penal colony: report**
+**Ship attacked by Yemen’s Houthi rebels in fatal assault sinks in Red Sea**
 
-You can read more about it [here](https://nypost.com/2024/06/18/us-news/us-soldier-gordon-black-sentenced-to-nearly-four-years-in-russias-penal-colony-report/).
+You can read more about it [here](https://www.politico.com/news/2024/06/18/houthi-attack-ship-sinks-00164066).
 
 ## Requirements
 - Python 3.8
