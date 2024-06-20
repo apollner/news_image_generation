@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of England set to hold interest rates despite inflation hitting 2% target**
+**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/19/bank-of-england-set-to-hold-rates-despite-inflation-hitting-target.html).
+You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
 
 ## Requirements
 - Python 3.8
