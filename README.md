@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Sent Two Astronauts Into Space. Now It Needs to Get Them Home.**
+**Immigrant families rejoice over Biden's expansive move toward citizenship, while some are left out**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lndzai5jb20vc2NpZW5jZS9zcGFjZS1hc3Ryb25vbXkvYm9laW5nLXNlbnQtdHdvLWFzdHJvbmF1dHMtaW50by1zcGFjZS1ub3ctaXQtbmVlZHMtdG8tZ2V0LXRoZW0taG9tZS05OWQ5NjYzM9IBAA?oc=5).
+You can read more about it [here](https://apnews.com/article/immigration-citizenship-daca-spouses-biden-376a0a568c85dac1ff856af2157f677f).
 
 ## Requirements
 - Python 3.8
