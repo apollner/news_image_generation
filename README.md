@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Howie Mandel says his wife wasn't drunk in bloody fall at Vegas hotel — but here's what she did take**
+**Yankees star Aaron Judge leaves game after getting hit on hand by pitch vs Orioles**
 
-You can read more about it [here](https://nypost.com/2024/06/18/entertainment/howie-mandel-says-his-wife-wasnt-drunk-in-bloody-fall-at-vegas-hotel-but-heres-what-she-did-take/).
+You can read more about it [here](https://apnews.com/article/judge-yankees-hand-260e94570451499b8ef7e93bb0da32e2).
 
 ## Requirements
 - Python 3.8
