@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firerose claims Billy Ray Cyrus 'ambushed' her with divorce papers 1 day before double mastectomy surgery**
+**US soldier Gordon Black sentenced to nearly four years in Russia's penal colony: report**
 
-You can read more about it [here](https://pagesix.com/2024/06/18/entertainment/firerose-claims-billy-ray-cyrus-ambushed-her-with-divorce-papers-1-day-before-double-mastectomy-surgery/).
+You can read more about it [here](https://nypost.com/2024/06/18/us-news/us-soldier-gordon-black-sentenced-to-nearly-four-years-in-russias-penal-colony-report/).
 
 ## Requirements
 - Python 3.8
