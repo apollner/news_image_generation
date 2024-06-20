@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship attacked by Yemen’s Houthi rebels in fatal assault sinks in Red Sea**
+**Oil slips amid war jitters, surprise build in US crude stocks**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/18/houthi-attack-ship-sinks-00164066).
+You can read more about it [here](https://www.reuters.com/markets/commodities/oil-inches-up-war-jitters-outweigh-surprise-build-us-crude-stocks-2024-06-19/).
 
 ## Requirements
 - Python 3.8
