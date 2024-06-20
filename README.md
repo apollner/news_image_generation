@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme heat tests US cities aiming to help low-income residents**
+**CEOs on the Four-Day Workweek: ‘All is Going Fine’**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c7227d0nl20o).
+You can read more about it [here](https://www.wsj.com/lifestyle/workplace/four-day-workweek-wbr-group-charity-bank-ceo-council-a7081a75).
 
 ## Requirements
 - Python 3.8
