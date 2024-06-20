@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
+**Celtics' championship parade set for Friday morning**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
+You can read more about it [here](https://www.nba.com/news/celtics-championship-parade-announcement-2024).
 
 ## Requirements
 - Python 3.8
