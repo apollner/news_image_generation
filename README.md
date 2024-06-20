@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil slips amid war jitters, surprise build in US crude stocks**
+**Putin in North Korea: Russian leader meets Kim Jong Un, summit talks begin**
 
-You can read more about it [here](https://www.reuters.com/markets/commodities/oil-inches-up-war-jitters-outweigh-surprise-build-us-crude-stocks-2024-06-19/).
+You can read more about it [here](https://apnews.com/article/vladimir-putin-kim-jong-un-russia-north-korea-summit-ukraine-a6b8d2c12de7ee2ab6716d4747c9850e).
 
 ## Requirements
 - Python 3.8
