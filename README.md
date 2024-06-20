@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Connor McDavid dominates as Oilers win Stanley Cup finals Game 5 - The Washington Post**
+**Boeing Sent Two Astronauts Into Space. Now It Needs to Get Them Home.**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/18/oilers-panthers-game-5-connor-mcdavid-stanley-cup/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lndzai5jb20vc2NpZW5jZS9zcGFjZS1hc3Ryb25vbXkvYm9laW5nLXNlbnQtdHdvLWFzdHJvbmF1dHMtaW50by1zcGFjZS1ub3ctaXQtbmVlZHMtdG8tZ2V0LXRoZW0taG9tZS05OWQ5NjYzM9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
