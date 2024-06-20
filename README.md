@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Waves of Methane Are Crashing on the Coasts of Saturn's Bizarre Moon Titan**
+**Rare gene mutation helps people resist Alzheimer's disease**
 
-You can read more about it [here](https://gizmodo.com/saturn-moon-titan-methane-ethane-waves-sculpting-shore-1851547416).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/06/19/alzheimers-disease-gene-treatment/).
 
 ## Requirements
 - Python 3.8
