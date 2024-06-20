@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA has delayed the undocking of Boeing's Starliner capsule until next week**
+**Environmental protesters spray 'orange powder paint' on Britain's Stonehenge**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8xOS9ueC1zMS01MDEwNDQwL25hc2EtaGFzLWRlbGF5ZWQtdGhlLXVuZG9ja2luZy1vZi1ib2VpbmdzLXN0YXJsaW5lci1jYXBzdWxlLXVudGlsLW5leHQtd2Vla9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9lbnZpcm9ubWVudGFsLXByb3Rlc3RlcnMtc3ByYXktb3JhbmdlLXBhaW50LXN0b25laGVuZ2Uvc3Rvcnk_aWQ9MTExMjQ2Njgx0gFyaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvSW50ZXJuYXRpb25hbC9lbnZpcm9ubWVudGFsLXByb3Rlc3RlcnMtc3ByYXktb3JhbmdlLXBhaW50LXN0b25laGVuZ2Uvc3Rvcnk_aWQ9MTExMjQ2Njgx?oc=5).
 
 ## Requirements
 - Python 3.8
