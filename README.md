@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA predicts 'once-in-a-lifetime event' this summer – 5 things you need to know**
+**Sen. Bob Menendez buoyed by testimony of top prosecutor, former adviser in bribery trial**
 
-You can read more about it [here](https://www.foxnews.com/us/nasa-predicts-once-lifetime-event-summer-5-things-need-know).
+You can read more about it [here](https://www.cbsnews.com/news/bob-menendez-trial-bribery-us-attorney-new-jersey-political-adviser-testify/).
 
 ## Requirements
 - Python 3.8
