@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sen. Bob Menendez buoyed by testimony of top prosecutor, former adviser in bribery trial**
+**Connor McDavid dominates as Oilers win Stanley Cup finals Game 5 - The Washington Post**
 
-You can read more about it [here](https://www.cbsnews.com/news/bob-menendez-trial-bribery-us-attorney-new-jersey-political-adviser-testify/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/18/oilers-panthers-game-5-connor-mcdavid-stanley-cup/).
 
 ## Requirements
 - Python 3.8
