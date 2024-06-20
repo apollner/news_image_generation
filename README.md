@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Hamm Doesn’t Want to Be Your Leading Man**
+**NASA has delayed the undocking of Boeing's Starliner capsule until next week**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/jon-hamm-interview-fargo-mad-men-marriage-morning-show-1235925744/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8xOS9ueC1zMS01MDEwNDQwL25hc2EtaGFzLWRlbGF5ZWQtdGhlLXVuZG9ja2luZy1vZi1ib2VpbmdzLXN0YXJsaW5lci1jYXBzdWxlLXVudGlsLW5leHQtd2Vla9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
