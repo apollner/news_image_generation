@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two astronauts wait to come home as Boeing races to understand spacecraft issues. Here’s what’s at stake**
+**Waves of Methane Are Crashing on the Coasts of Saturn's Bizarre Moon Titan**
 
-You can read more about it [here](https://www.cnn.com/2024/06/19/science/boeing-starliner-astronauts-return-scn/index.html).
+You can read more about it [here](https://gizmodo.com/saturn-moon-titan-methane-ethane-waves-sculpting-shore-1851547416).
 
 ## Requirements
 - Python 3.8
