@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Heat wave over eastern U.S. continues to intensify**
+**Two astronauts wait to come home as Boeing races to understand spacecraft issues. Here’s what’s at stake**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/19/heat-wave-east-coast-temperatures-updates/).
+You can read more about it [here](https://www.cnn.com/2024/06/19/science/boeing-starliner-astronauts-return-scn/index.html).
 
 ## Requirements
 - Python 3.8
