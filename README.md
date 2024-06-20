@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Rover Discovers Strange Stones, Never Before Seen on Mars**
+**More than 300 Egyptians die from heat during Hajj pilgrimage in Saudi Arabia, diplomats say**
 
-You can read more about it [here](https://futurism.com/the-byte/nasa-rover-stones-never-seen-mars).
+You can read more about it [here](https://www.cbsnews.com/news/saudi-arabia-hajj-egyptian-jordanian-pilgrims-die-mecca/).
 
 ## Requirements
 - Python 3.8
