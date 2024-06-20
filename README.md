@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare gene mutation helps people resist Alzheimer's disease**
+**UK prime minister’s protection officer arrested over alleged bet on election timing**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/06/19/alzheimers-disease-gene-treatment/).
+You can read more about it [here](https://www.cnn.com/2024/06/19/uk/uk-election-betting-sunak-protection-officer-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
