@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Inside Out 2’ Posts Record Tuesday For Animated Movie With $29M+; $205M+ U.S., $380M WW – Box Office**
+**Extreme heat tests US cities aiming to help low-income residents**
 
-You can read more about it [here](http://deadline.com/2024/06/inside-out-2-box-office-record-tuesday-1235978168/).
+You can read more about it [here](https://www.bbc.com/news/articles/c7227d0nl20o).
 
 ## Requirements
 - Python 3.8
