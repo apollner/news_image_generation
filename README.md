@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Willie Mays: MLB and Giants' legend dies at 93**
+**Amy Coney Barrett may be poised to split conservatives on the Supreme Court**
 
-You can read more about it [here](https://apnews.com/article/willie-mays-dies-at-93-baseball-33b31cc2d6382676ed54517d20ea36a3).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMTkvYW15LWNvbmV5LWJhcnJldHQtc3VwcmVtZS1jb3VydC1jb25zZXJ2YXRpdmVzLXJpZnQtMDAxNjQwNDfSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
