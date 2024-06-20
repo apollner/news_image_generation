@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amy Coney Barrett may be poised to split conservatives on the Supreme Court**
+**U.N. says Israeli use of bombs in civilian areas probably violated laws of war**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMTkvYW15LWNvbmV5LWJhcnJldHQtc3VwcmVtZS1jb3VydC1jb25zZXJ2YXRpdmVzLXJpZnQtMDAxNjQwNDfSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzE5L2lzcmFlbC1nYXphLWhhbWFzLXVuLWJvbWJzLW5ldGFueWFodS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
