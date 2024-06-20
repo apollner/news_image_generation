@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 300 Egyptians die from heat during Hajj pilgrimage in Saudi Arabia, diplomats say**
+**San Jose homeless encampments face Shigella outbreak, public health department says**
 
-You can read more about it [here](https://www.cbsnews.com/news/saudi-arabia-hajj-egyptian-jordanian-pilgrims-die-mecca/).
+You can read more about it [here](https://www.mercurynews.com/2024/06/18/san-jose-homeless-encampments-face-shigella-outbreak-public-health-department-says/).
 
 ## Requirements
 - Python 3.8
