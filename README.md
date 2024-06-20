@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Immigrant families rejoice over Biden's expansive move toward citizenship, while some are left out**
+**Willie Mays: MLB and Giants' legend dies at 93**
 
-You can read more about it [here](https://apnews.com/article/immigration-citizenship-daca-spouses-biden-376a0a568c85dac1ff856af2157f677f).
+You can read more about it [here](https://apnews.com/article/willie-mays-dies-at-93-baseball-33b31cc2d6382676ed54517d20ea36a3).
 
 ## Requirements
 - Python 3.8
