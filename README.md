@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
+**Live updates: Heat wave over eastern U.S. continues to intensify**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/19/heat-wave-east-coast-temperatures-updates/).
 
 ## Requirements
 - Python 3.8
