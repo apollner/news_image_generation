@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CEOs on the Four-Day Workweek: ‘All is Going Fine’**
+**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
 
-You can read more about it [here](https://www.wsj.com/lifestyle/workplace/four-day-workweek-wbr-group-charity-bank-ceo-council-a7081a75).
+You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
 
 ## Requirements
 - Python 3.8
