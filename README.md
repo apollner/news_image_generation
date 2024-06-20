@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's open and closed for Juneteenth? See which stores and restaurants are operating today.**
+**Jon Hamm Doesn’t Want to Be Your Leading Man**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvb3Blbi1jbG9zZWQtanVuZXRlZW50aC0yMDI0LWp1bmUtMTkv0gFFaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3Mvb3Blbi1jbG9zZWQtanVuZXRlZW50aC0yMDI0LWp1bmUtMTkv?oc=5).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/jon-hamm-interview-fargo-mad-men-marriage-morning-show-1235925744/).
 
 ## Requirements
 - Python 3.8
