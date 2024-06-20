@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin in North Korea: Russian leader meets Kim Jong Un, summit talks begin**
+**Nvidia rally overnight lifts chip-related stocks in Asia on AI optimism**
 
-You can read more about it [here](https://apnews.com/article/vladimir-putin-kim-jong-un-russia-north-korea-summit-ukraine-a6b8d2c12de7ee2ab6716d4747c9850e).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMTkvbnZpZGlhLXJhbGx5LW92ZXJuaWdodC1saWZ0cy1jaGlwLXJlbGF0ZWQtc3RvY2tzLWluLWFzaWEtb24tYWktb3B0aW1pc20tLmh0bWzSAXFodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNi8xOS9udmlkaWEtcmFsbHktb3Zlcm5pZ2h0LWxpZnRzLWNoaXAtcmVsYXRlZC1zdG9ja3MtaW4tYXNpYS1vbi1haS1vcHRpbWlzbS0uaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
