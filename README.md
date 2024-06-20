@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees star Aaron Judge leaves game after getting hit on hand by pitch vs Orioles**
+**US soldier Gordon Black sentenced to nearly four years in Russia's penal colony: report**
 
-You can read more about it [here](https://apnews.com/article/judge-yankees-hand-260e94570451499b8ef7e93bb0da32e2).
+You can read more about it [here](https://nypost.com/2024/06/18/us-news/us-soldier-gordon-black-sentenced-to-nearly-four-years-in-russias-penal-colony-report/).
 
 ## Requirements
 - Python 3.8
