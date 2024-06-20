@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Jose homeless encampments face Shigella outbreak, public health department says**
+**Howie Mandel says his wife wasn't drunk in bloody fall at Vegas hotel — but here's what she did take**
 
-You can read more about it [here](https://www.mercurynews.com/2024/06/18/san-jose-homeless-encampments-face-shigella-outbreak-public-health-department-says/).
+You can read more about it [here](https://nypost.com/2024/06/18/entertainment/howie-mandel-says-his-wife-wasnt-drunk-in-bloody-fall-at-vegas-hotel-but-heres-what-she-did-take/).
 
 ## Requirements
 - Python 3.8
