@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
+**‘Inside Out 2’ Posts Record Tuesday For Animated Movie With $29M+; $205M+ U.S., $380M WW – Box Office**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
+You can read more about it [here](http://deadline.com/2024/06/inside-out-2-box-office-record-tuesday-1235978168/).
 
 ## Requirements
 - Python 3.8
