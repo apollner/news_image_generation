@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Environmental protesters spray 'orange powder paint' on Britain's Stonehenge**
+**Bank of England set to hold interest rates despite inflation hitting 2% target**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9lbnZpcm9ubWVudGFsLXByb3Rlc3RlcnMtc3ByYXktb3JhbmdlLXBhaW50LXN0b25laGVuZ2Uvc3Rvcnk_aWQ9MTExMjQ2Njgx0gFyaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvSW50ZXJuYXRpb25hbC9lbnZpcm9ubWVudGFsLXByb3Rlc3RlcnMtc3ByYXktb3JhbmdlLXBhaW50LXN0b25laGVuZ2Uvc3Rvcnk_aWQ9MTExMjQ2Njgx?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/06/19/bank-of-england-set-to-hold-rates-despite-inflation-hitting-target.html).
 
 ## Requirements
 - Python 3.8
