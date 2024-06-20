@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Legend of Zelda: Echoes Of Wisdom Box Art Has Been Revealed**
+**Oil inches up as war jitters outweigh surprise build in U.S. crude stocks**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/06/the-legend-of-zelda-echoes-of-wisdom-box-art-has-been-revealed).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMTkvb2lsLWluY2hlcy11cC1hcy13YXItaml0dGVycy1vdXR3ZWlnaC1zdXJwcmlzZS1idWlsZC1pbi11cy1jcnVkZS1zdG9ja3MuaHRtbNIBcGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA2LzE5L29pbC1pbmNoZXMtdXAtYXMtd2FyLWppdHRlcnMtb3V0d2VpZ2gtc3VycHJpc2UtYnVpbGQtaW4tdXMtY3J1ZGUtc3RvY2tzLmh0bWw?oc=5).
 
 ## Requirements
 - Python 3.8
