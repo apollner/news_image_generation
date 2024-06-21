@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elden Ring Update 1.12 Adds New Features Ahead of Shadow of the Erdtree Launch**
+**College World Series: Texas A&M 6, Gators 0 — Four Aggie Pitchers Combine for 4-Hit Shutout to End Gators' Postseason Run**
 
-You can read more about it [here](https://www.ign.com/articles/elden-ring-update-112-adds-new-features-ahead-of-shadow-of-the-erdtree-launch).
+You can read more about it [here](https://floridagators.com/news/2024/6/19/baseball-college-world-series-gators-vs-texas-am-charles-schwab-field-omaha-game-2.aspx).
 
 ## Requirements
 - Python 3.8
