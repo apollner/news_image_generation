@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark double-double helps Indiana Fever to third straight win**
+**Elden Ring DLC release time – the Shadow of the Erdtree countdown is on**
 
-You can read more about it [here](https://www.indystar.com/story/sports/basketball/wnba/fever/2024/06/19/caitlin-clark-double-double-helps-indiana-fever-to-third-straight-win-washington-mystics-wnba-scores/74146087007/).
+You can read more about it [here](https://www.gamesradar.com/games/action-rpg/elden-ring-dlc-release-time-countdown-shadow-of-the-erdtree/).
 
 ## Requirements
 - Python 3.8
