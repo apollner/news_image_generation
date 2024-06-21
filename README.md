@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake's commercial about responsible drinking goes viral after DWI arrest: 'Aged poorly'**
+**Triple murder suspect caught in Arkansas after nearly 2-day manhunt: Police**
 
-You can read more about it [here](https://nypost.com/2024/06/20/entertainment/justin-timberlakes-psa-about-responsible-drinking-goes-viral-after-dwi-arrest/).
+You can read more about it [here](https://abcnews.go.com/US/triple-murder-suspect-loose-arkansas-police/story?id=111253265).
 
 ## Requirements
 - Python 3.8
