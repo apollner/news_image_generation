@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sickening details emerge in migrant man's alleged rape of teen in Queens park as he gets held without bail**
+**Tropical Storm Alberto: The first named storm of 2024 hurricane season**
 
-You can read more about it [here](http://www.nydailynews.com/2024/06/19/sickening-details-emerge-in-migrant-mans-alleged-rape-of-teen-in-queens-park-as-he-gets-held-without-bail/).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/06/19/tropical-storm-alberto-forms/74138744007/).
 
 ## Requirements
 - Python 3.8
