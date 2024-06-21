@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronauts stuck on ISS as Boeing races to understand spacecraft issues**
+**Tropical Storm Alberto: 3 dead as rains batter Mexico and Texas**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0M0uzdZVpNg).
+You can read more about it [here](https://apnews.com/article/tropical-storm-alberto-mexico-texas-f337703900f312aaefc4d34ddd8e5e8f).
 
 ## Requirements
 - Python 3.8
