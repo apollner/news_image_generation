@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second Tory candidate looked into over election betting**
+**Kendrick Lamar plays Drake diss track Not Like US five times at LA concert**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd11j1q3y13o).
+You can read more about it [here](https://www.bbc.com/news/articles/c0dd3vyw4myo).
 
 ## Requirements
 - Python 3.8
