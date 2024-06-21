@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indiana Fever sold-out crowds reason to cheer with 4 home wins in a row**
+**2 climate activists were arrested after spraying orange paint on Stonehenge**
 
-You can read more about it [here](https://www.indystar.com/story/sports/basketball/wnba/fever/2024/06/19/indiana-fever-sold-out-crowds-reason-to-cheer-with-4-home-wins-in-a-row-caitlin-clark-aliyah-boston/74146132007/).
+You can read more about it [here](https://www.npr.org/2024/06/19/nx-s1-5012595/climate-activists-arrested-stonehenge).
 
 ## Requirements
 - Python 3.8
