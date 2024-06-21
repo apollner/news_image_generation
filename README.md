@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College World Series: Texas A&M 6, Gators 0 — Four Aggie Pitchers Combine for 4-Hit Shutout to End Gators' Postseason Run**
+**Second Tory candidate looked into over election betting**
 
-You can read more about it [here](https://floridagators.com/news/2024/6/19/baseball-college-world-series-gators-vs-texas-am-charles-schwab-field-omaha-game-2.aspx).
+You can read more about it [here](https://www.bbc.com/news/articles/cd11j1q3y13o).
 
 ## Requirements
 - Python 3.8
