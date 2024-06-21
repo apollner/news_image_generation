@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK prime minister’s protection officer arrested over alleged bet on election timing**
+**Hezbollah threatens war against Cyprus if it helps Israel**
 
-You can read more about it [here](https://www.cnn.com/2024/06/19/uk/uk-election-betting-sunak-protection-officer-intl-latam/index.html).
+You can read more about it [here](https://www.politico.eu/article/hezbollah-threaten-war-against-cyprus-if-it-help-israel-hassan-nasrallah/).
 
 ## Requirements
 - Python 3.8
