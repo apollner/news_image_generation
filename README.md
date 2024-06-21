@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah threatens war against Cyprus if it helps Israel**
+**Willie Mays mural in Alabama among tributes to late Hall of Famer**
 
-You can read more about it [here](https://www.politico.eu/article/hezbollah-threaten-war-against-cyprus-if-it-help-israel-hassan-nasrallah/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40389204/willie-mays-mural-alabama-tributes-late-hall-famer).
 
 ## Requirements
 - Python 3.8
