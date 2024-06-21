@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says Russia may deliver weapons to North Korea**
+**Sources - Lakers hiring JJ Redick to four-year deal to coach team**
 
-You can read more about it [here](https://www.reuters.com/world/europe/putin-says-russia-is-considering-changing-its-nuclear-doctrine-2024-06-20/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40393973/sources-lakers-hiring-jj-redick-4-year-deal-coach).
 
 ## Requirements
 - Python 3.8
