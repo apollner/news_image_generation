@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats seek to repeal Comstock abortion rule, fearing Trump crackdown**
+**New Elden Ring Patch Adds Hairstyles, New Inventory Features, Balance Adjustments, And More**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/20/comstock-abortion-repeal-tina-smith-senate/).
+You can read more about it [here](https://www.gameinformer.com/news/2024/06/20/new-elden-ring-patch-adds-hairstyles-new-inventory-features-balance-adjustments-and).
 
 ## Requirements
 - Python 3.8
