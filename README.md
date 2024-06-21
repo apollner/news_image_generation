@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Willie Mays mural in Alabama among tributes to late Hall of Famer**
+**Sickening details emerge in migrant man's alleged rape of teen in Queens park as he gets held without bail**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40389204/willie-mays-mural-alabama-tributes-late-hall-famer).
+You can read more about it [here](http://www.nydailynews.com/2024/06/19/sickening-details-emerge-in-migrant-mans-alleged-rape-of-teen-in-queens-park-as-he-gets-held-without-bail/).
 
 ## Requirements
 - Python 3.8
