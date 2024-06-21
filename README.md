@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain’s embattled ruling party roiled by election-related gambling scandal**
+**Trump's Net Worth Drops About $475 Million As Media Shares Fall**
 
-You can read more about it [here](https://www.cnn.com/2024/06/20/europe/conservatives-election-related-gambling-scandal-intl/index.html).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/06/20/donald-trumps-net-worth-falls-further-over-2-billion-this-month-as-shares-decline/).
 
 ## Requirements
 - Python 3.8
