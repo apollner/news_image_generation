@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Lakers hiring JJ Redick to four-year deal to coach team**
+**Bubsy in: The Purrfect Collection announced for PS5, Xbox Series, Switch, and PC**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40393973/sources-lakers-hiring-jj-redick-4-year-deal-coach).
+You can read more about it [here](https://www.gematsu.com/2024/06/bubsy-in-the-purrfect-collection-announced-for-ps5-xbox-series-switch-and-pc).
 
 ## Requirements
 - Python 3.8
