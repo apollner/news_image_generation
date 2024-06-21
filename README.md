@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
+**Indiana Fever sold-out crowds reason to cheer with 4 home wins in a row**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
+You can read more about it [here](https://www.indystar.com/story/sports/basketball/wnba/fever/2024/06/19/indiana-fever-sold-out-crowds-reason-to-cheer-with-4-home-wins-in-a-row-caitlin-clark-aliyah-boston/74146132007/).
 
 ## Requirements
 - Python 3.8
