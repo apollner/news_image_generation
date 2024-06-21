@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France leads the pack for Generative AI funding in Europe, London has 3X the number of GenAI startups**
+**Ecuador hit by a nationwide blackout**
 
-You can read more about it [here](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/).
+You can read more about it [here](https://www.cnn.com/2024/06/19/americas/ecuador-nationwide-blackout-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
