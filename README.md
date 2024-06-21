@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Triple murder suspect caught in Arkansas after nearly 2-day manhunt: Police**
+**Democrats seek to repeal Comstock abortion rule, fearing Trump crackdown**
 
-You can read more about it [here](https://abcnews.go.com/US/triple-murder-suspect-loose-arkansas-police/story?id=111253265).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/06/20/comstock-abortion-repeal-tina-smith-senate/).
 
 ## Requirements
 - Python 3.8
