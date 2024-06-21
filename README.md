@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuador hit by a nationwide blackout**
+**College World Series: Texas A&M 6, Gators 0 — Four Aggie Pitchers Combine for 4-Hit Shutout to End Gators' Postseason Run**
 
-You can read more about it [here](https://www.cnn.com/2024/06/19/americas/ecuador-nationwide-blackout-intl-latam/index.html).
+You can read more about it [here](https://floridagators.com/news/2024/6/19/baseball-college-world-series-gators-vs-texas-am-charles-schwab-field-omaha-game-2.aspx).
 
 ## Requirements
 - Python 3.8
