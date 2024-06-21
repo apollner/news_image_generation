@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines CEO vows to "rebuild trust" after removal of Black passengers**
+**France leads the pack for Generative AI funding in Europe, London has 3X the number of GenAI startups**
 
-You can read more about it [here](https://www.cbsnews.com/news/american-airlines-ceo-robert-isom-3-black-passengers-allege-racial-discrimination/).
+You can read more about it [here](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/).
 
 ## Requirements
 - Python 3.8
