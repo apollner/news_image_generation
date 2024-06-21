@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 climate activists were arrested after spraying orange paint on Stonehenge**
+**Celtics back in Mass. after night in Miami celebrating NBA title**
 
-You can read more about it [here](https://www.npr.org/2024/06/19/nx-s1-5012595/climate-activists-arrested-stonehenge).
+You can read more about it [here](https://www.wcvb.com/article/celtics-return-from-miami-trip-after-nba-finals-win/61178297).
 
 ## Requirements
 - Python 3.8
