@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecuador hit by a nationwide blackout**
+**Justin Timberlake brought back to NYC by driver after DWI**
 
-You can read more about it [here](https://www.cnn.com/2024/06/19/americas/ecuador-nationwide-blackout-intl-latam/index.html).
+You can read more about it [here](https://pagesix.com/2024/06/19/celebrity-news/justin-timberlake-brought-back-to-nyc-by-driver-after-dwi/).
 
 ## Requirements
 - Python 3.8
