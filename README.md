@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain’s embattled ruling party roiled by election-related gambling scandal**
+**Astronauts stuck on ISS as Boeing races to understand spacecraft issues**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMC9ldXJvcGUvY29uc2VydmF0aXZlcy1lbGVjdGlvbi1yZWxhdGVkLWdhbWJsaW5nLXNjYW5kYWwtaW50bC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8yMC9ldXJvcGUvY29uc2VydmF0aXZlcy1lbGVjdGlvbi1yZWxhdGVkLWdhbWJsaW5nLXNjYW5kYWwtaW50bA?oc=5).
+You can read more about it [here](https://www.youtube.com/watch?v=0M0uzdZVpNg).
 
 ## Requirements
 - Python 3.8
