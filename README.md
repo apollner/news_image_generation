@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare Lunar Standstill Could Illuminate Stonehenge Mystery This Weekend — Here's How To Watch It**
+**Travis Scott: Rapper arrested for disorderly intoxication, trespassing early Thursday**
 
-You can read more about it [here](https://www.forbes.com/sites/roberthart/2024/06/20/major-lunar-standstill-could-shed-light-on-stonehenges-moon-link---heres-how-to-watch/).
+You can read more about it [here](https://www.cnn.com/2024/06/20/entertainment/travis-scott-arrest-miami-dade/index.html).
 
 ## Requirements
 - Python 3.8
