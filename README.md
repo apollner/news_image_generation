@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It’s huge’: Caitlin Clark posts double-double in third straight win for the Indiana Fever**
+**New law requires all Louisiana public school classrooms to display the Ten Commandments**
 
-You can read more about it [here](https://www.cnn.com/2024/06/20/sport/caitlin-clark-indiana-fever-washington-mystics-spt-intl/index.html).
+You can read more about it [here](https://apnews.com/article/louisiana-ten-commandments-displayed-classrooms-571a2447906f7bbd5a166d53db005a62).
 
 ## Requirements
 - Python 3.8
