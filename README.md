@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College World Series: Texas A&M 6, Gators 0 — Four Aggie Pitchers Combine for 4-Hit Shutout to End Gators' Postseason Run**
+**Putin arrives in Vietnam as Russia seeks support in face of Western isolation**
 
-You can read more about it [here](https://floridagators.com/news/2024/6/19/baseball-college-world-series-gators-vs-texas-am-charles-schwab-field-omaha-game-2.aspx).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xOS9hc2lhL3ZpZXRuYW0tcnVzc2lhLXB1dGluLXZpc2l0LWludGwtaG5rL2luZGV4Lmh0bWzSAUtodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzE5L2FzaWEvdmlldG5hbS1ydXNzaWEtcHV0aW4tdmlzaXQtaW50bC1obms?oc=5).
 
 ## Requirements
 - Python 3.8
