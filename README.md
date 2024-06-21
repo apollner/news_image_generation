@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bubsy in: The Purrfect Collection announced for PS5, Xbox Series, Switch, and PC**
+**Britain’s embattled ruling party roiled by election-related gambling scandal**
 
-You can read more about it [here](https://www.gematsu.com/2024/06/bubsy-in-the-purrfect-collection-announced-for-ps5-xbox-series-switch-and-pc).
+You can read more about it [here](https://www.cnn.com/2024/06/20/europe/conservatives-election-related-gambling-scandal-intl/index.html).
 
 ## Requirements
 - Python 3.8
