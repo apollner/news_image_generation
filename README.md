@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics back in Mass. after night in Miami celebrating NBA title**
+**Ecuador hit by a nationwide blackout**
 
-You can read more about it [here](https://www.wcvb.com/article/celtics-return-from-miami-trip-after-nba-finals-win/61178297).
+You can read more about it [here](https://www.cnn.com/2024/06/19/americas/ecuador-nationwide-blackout-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
