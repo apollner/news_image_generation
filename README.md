@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake brought back to NYC by driver after DWI**
+**Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom**
 
-You can read more about it [here](https://pagesix.com/2024/06/19/celebrity-news/justin-timberlake-brought-back-to-nyc-by-driver-after-dwi/).
+You can read more about it [here](https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90).
 
 ## Requirements
 - Python 3.8
