@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin arrives in Vietnam as Russia seeks support in face of Western isolation**
+**Britain’s embattled ruling party roiled by election-related gambling scandal**
 
-You can read more about it [here](https://www.cnn.com/2024/06/19/asia/vietnam-russia-putin-visit-intl-hnk/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMC9ldXJvcGUvY29uc2VydmF0aXZlcy1lbGVjdGlvbi1yZWxhdGVkLWdhbWJsaW5nLXNjYW5kYWwtaW50bC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8yMC9ldXJvcGUvY29uc2VydmF0aXZlcy1lbGVjdGlvbi1yZWxhdGVkLWdhbWJsaW5nLXNjYW5kYWwtaW50bA?oc=5).
 
 ## Requirements
 - Python 3.8
