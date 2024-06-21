@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Scott: Rapper arrested for disorderly intoxication, trespassing early Thursday**
+**Putin arrives in Vietnam as Russia seeks support in face of Western isolation**
 
-You can read more about it [here](https://www.cnn.com/2024/06/20/entertainment/travis-scott-arrest-miami-dade/index.html).
+You can read more about it [here](https://www.cnn.com/2024/06/19/asia/vietnam-russia-putin-visit-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
