@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendrick Lamar plays Drake diss track Not Like US five times at LA concert**
+**‘It’s huge’: Caitlin Clark posts double-double in third straight win for the Indiana Fever**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0dd3vyw4myo).
+You can read more about it [here](https://www.cnn.com/2024/06/20/sport/caitlin-clark-indiana-fever-washington-mystics-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
