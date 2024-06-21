@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New law requires all Louisiana public school classrooms to display the Ten Commandments**
+**Elden Ring Update 1.12 Adds New Features Ahead of Shadow of the Erdtree Launch**
 
-You can read more about it [here](https://apnews.com/article/louisiana-ten-commandments-displayed-classrooms-571a2447906f7bbd5a166d53db005a62).
+You can read more about it [here](https://www.ign.com/articles/elden-ring-update-112-adds-new-features-ahead-of-shadow-of-the-erdtree-launch).
 
 ## Requirements
 - Python 3.8
