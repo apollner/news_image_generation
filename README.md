@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Alberto: 3 dead as rains batter Mexico and Texas**
+**Triple murder suspect caught in Arkansas after nearly 2-day manhunt: Police**
 
-You can read more about it [here](https://apnews.com/article/tropical-storm-alberto-mexico-texas-f337703900f312aaefc4d34ddd8e5e8f).
+You can read more about it [here](https://abcnews.go.com/US/triple-murder-suspect-loose-arkansas-police/story?id=111253265).
 
 ## Requirements
 - Python 3.8
