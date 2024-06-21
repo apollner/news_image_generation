@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elden Ring DLC release time – the Shadow of the Erdtree countdown is on**
+**American Airlines CEO vows to "rebuild trust" after removal of Black passengers**
 
-You can read more about it [here](https://www.gamesradar.com/games/action-rpg/elden-ring-dlc-release-time-countdown-shadow-of-the-erdtree/).
+You can read more about it [here](https://www.cbsnews.com/news/american-airlines-ceo-robert-isom-3-black-passengers-allege-racial-discrimination/).
 
 ## Requirements
 - Python 3.8
