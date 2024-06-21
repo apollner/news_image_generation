@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's Net Worth Drops About $475 Million As Media Shares Fall**
+**Putin says Russia may deliver weapons to North Korea**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/06/20/donald-trumps-net-worth-falls-further-over-2-billion-this-month-as-shares-decline/).
+You can read more about it [here](https://www.reuters.com/world/europe/putin-says-russia-is-considering-changing-its-nuclear-doctrine-2024-06-20/).
 
 ## Requirements
 - Python 3.8
