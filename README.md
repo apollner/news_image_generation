@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video of Taylor Swift extinguishing fire in NYC apartment during songwriting session with Gracie Abrams goes viral**
+**Jennifer Lawrence Starring in ‘Real Housewives’-Inspired Murder Mystery for Apple Original Films and A24, Jeremy O. Harris Producing**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/music/video-of-taylor-swift-extinguishing-fire-in-nyc-apartment-during-songwriting-sessions-with-gracie-abrams-goes-viral-101718995085896.html).
+You can read more about it [here](https://variety.com/2024/film/news/jennifer-lawrence-real-housewives-apple-a24-jeremy-o-harris-1236044400/).
 
 ## Requirements
 - Python 3.8
