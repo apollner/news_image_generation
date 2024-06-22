@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Final Cut Camera for iPhone now available on the App Store**
+**Alberto, hurricane season's first named storm, weakens as it moves inland over Mexico**
 
-You can read more about it [here](https://9to5mac.com/2024/06/20/final-cut-camera-for-iphone/).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-alberto-several-deaths-texas-mexico/).
 
 ## Requirements
 - Python 3.8
