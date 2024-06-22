@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court upholds law barring domestic abusers from owning guns in major Second Amendment ruling**
+**5 Things to Know Before the Stock Market Opens**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMS9wb2xpdGljcy9zdXByZW1lLWNvdXJ0LWd1bnMtcmFoaW1pL2luZGV4Lmh0bWzSAUVodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzIxL3BvbGl0aWNzL3N1cHJlbWUtY291cnQtZ3Vucy1yYWhpbWk?oc=5).
+You can read more about it [here](https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-june-21-2024-8667085).
 
 ## Requirements
 - Python 3.8
