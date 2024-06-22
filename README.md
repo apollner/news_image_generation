@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alex Caruso for Josh Giddey trade: Thunder, Bulls make swap with OKC landing All-Defensive guard**
+**Video of Taylor Swift extinguishing fire in NYC apartment during songwriting session with Gracie Abrams goes viral**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/alex-caruso-for-josh-giddey-trade-thunder-bulls-make-swap-with-okc-landing-all-defensive-guard/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/music/video-of-taylor-swift-extinguishing-fire-in-nyc-apartment-during-songwriting-sessions-with-gracie-abrams-goes-viral-101718995085896.html).
 
 ## Requirements
 - Python 3.8
