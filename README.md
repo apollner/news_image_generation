@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's Net Worth Drops About $475 Million As Media Shares Fall**
+**Rickwood festivities celebrate Willie Mays, Negro League greats**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/06/20/donald-trumps-net-worth-falls-further-over-2-billion-this-month-as-shares-decline/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40397171/rickwood-festivities-celebrate-willie-mays-negro-league-greats).
 
 ## Requirements
 - Python 3.8
