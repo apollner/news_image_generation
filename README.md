@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steve Bannon's bid to delay 4-month prison sentence rejected by appeals court**
+**Hall of Famer Reggie Jackson shares the emotions of returning to Rickwood Field**
 
-You can read more about it [here](https://www.cbsnews.com/news/appeals-court-rejects-steve-bannon-bid-to-delay-4-month-prison-sentence/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/hall-of-famer-reggie-jackson-shares-the-emotions-of-returning-to-rickwood-field/).
 
 ## Requirements
 - Python 3.8
