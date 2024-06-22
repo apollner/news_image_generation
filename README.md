@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lawrence Starring in ‘Real Housewives’-Inspired Murder Mystery for Apple Original Films and A24, Jeremy O. Harris Producing**
+**U.S. heat wave live updates: High temperatures shift into mid-Atlantic**
 
-You can read more about it [here](https://variety.com/2024/film/news/jennifer-lawrence-real-housewives-apple-a24-jeremy-o-harris-1236044400/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/21/heat-wave-east-midatlantic-temperatures-updates/).
 
 ## Requirements
 - Python 3.8
