@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyberattack shuts down car dealerships**
+**Steve Bannon's bid to delay 4-month prison sentence rejected by appeals court**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zqWmHpKWvzM).
+You can read more about it [here](https://www.cbsnews.com/news/appeals-court-rejects-steve-bannon-bid-to-delay-4-month-prison-sentence/).
 
 ## Requirements
 - Python 3.8
