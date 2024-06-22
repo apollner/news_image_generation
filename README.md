@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A toddler was trapped in a Tesla after its battery died without warning amid record heat waves—'safety comes last' at Tesla, expert says**
+**[Removed]**
 
-You can read more about it [here](https://fortune.com/2024/06/20/tesla-trapped-toddler-in-car-arizona-heat-renee-sanchez-firefighters-safety-last/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
