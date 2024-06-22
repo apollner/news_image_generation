@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers have found a ‘clear genetic trigger for obesity’ that applies to some people**
+**Appeals court panel refuses to delay Trump ally Steve Bannon's prison sentence**
 
-You can read more about it [here](https://www.cnn.com/2024/06/20/health/obesity-genetic-wellness/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8yMS9nLXMxLTU0OTMvYXBwZWFscy1jb3VydC1wYW5lbC1zdGV2ZS1iYW5ub24tcHJpc29uLXNlbnRlbmNl0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
