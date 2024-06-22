@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court upholds domestic violence gun restriction**
+**Taylor Wily Dies: ‘Hawaii Five-0’ Actor Was 56**
 
-You can read more about it [here](https://www.nbcnews.com/politics/supreme-court/supreme-court-upholds-domestic-violence-gun-restriction-rcna137782).
+You can read more about it [here](http://deadline.com/2024/06/taylor-wily-dead-1235979958/).
 
 ## Requirements
 - Python 3.8
