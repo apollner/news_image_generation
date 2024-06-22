@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rickwood festivities celebrate Willie Mays, Negro League greats**
+**Final Cut Camera for iPhone now available on the App Store**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40397171/rickwood-festivities-celebrate-willie-mays-negro-league-greats).
+You can read more about it [here](https://9to5mac.com/2024/06/20/final-cut-camera-for-iphone/).
 
 ## Requirements
 - Python 3.8
