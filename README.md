@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Appeals court panel refuses to delay Trump ally Steve Bannon's prison sentence**
+**Lakers hire JJ Redick: How will Los Angeles shape its roster around its new first-year head coach?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8yMS9nLXMxLTU0OTMvYXBwZWFscy1jb3VydC1wYW5lbC1zdGV2ZS1iYW5ub24tcHJpc29uLXNlbnRlbmNl0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2xha2Vycy1oaXJlLWpqLXJlZGljay1ob3ctd2lsbC1sb3MtYW5nZWxlcy1zaGFwZS1pdHMtcm9zdGVyLWFyb3VuZC1pdHMtbmV3LWZpcnN0LXllYXItaGVhZC1jb2FjaC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
