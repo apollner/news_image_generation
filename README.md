@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reggie Jackson shares searing stories of racism at Negro Leagues tribute**
+**FAA investigating Southwest flight that flew just 525 feet above Oklahoma town, triggering altitude warning**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/20/reggie-jackson-racism-rickwood-field/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMC91cy9zb3V0aHdlc3QtZmxpZ2h0LWxvdy1hbHRpdHVkZS13YXJuaW5nLWZhYS9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8yMC91cy9zb3V0aHdlc3QtZmxpZ2h0LWxvdy1hbHRpdHVkZS13YXJuaW5nLWZhYQ?oc=5).
 
 ## Requirements
 - Python 3.8
