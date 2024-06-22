@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon plans revamp of Alexa with monthly fee, AI features**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/06/21/business/amazon-plans-revamp-of-alexa-with-monthly-fee-ai-features/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
