@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's Netanyahu appears at odds with White House and Israel's military over war with Hamas in Gaza**
+**FDA approves new drug to treat autoimmune liver disease: ‘Giant step forward’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaXNyYWVsLWhhbWFzLXdhci1uZXRhbnlhaHUtd2hpdGUtaG91c2UtaWRmLWRpZmZlcmVuY2VzLWhlemJvbGxhaC1sZWJhbm9uL9IBamh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2lzcmFlbC1oYW1hcy13YXItbmV0YW55YWh1LXdoaXRlLWhvdXNlLWlkZi1kaWZmZXJlbmNlcy1oZXpib2xsYWgtbGViYW5vbi8?oc=5).
+You can read more about it [here](https://www.foxnews.com/health/fda-approves-drug-treat-autoimmune-liver-disease-giant-step-forward).
 
 ## Requirements
 - Python 3.8
