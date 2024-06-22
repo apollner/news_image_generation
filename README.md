@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. heat wave live updates: High temperatures shift into mid-Atlantic**
+**Amazon plans revamp of Alexa with monthly fee, AI features**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/21/heat-wave-east-midatlantic-temperatures-updates/).
+You can read more about it [here](https://nypost.com/2024/06/21/business/amazon-plans-revamp-of-alexa-with-monthly-fee-ai-features/).
 
 ## Requirements
 - Python 3.8
