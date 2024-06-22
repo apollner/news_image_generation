@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA investigating Southwest flight that flew just 525 feet above Oklahoma town, triggering altitude warning**
+**Robert Winnett won't join The Washington Post**
 
-You can read more about it [here](https://www.cnn.com/2024/06/20/us/southwest-flight-low-altitude-warning-faa/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dhc2hpbmd0b24tcG9zdC1lZGl0b3ItZW5nbGFuZC10ZWxlZ3JhcGgtcXVpdHMtZTY1MDQwOTMwNWEyZjEwMTE5MjYzMDY3OTFiYzk3YjHSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
