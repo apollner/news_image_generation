@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Josh Giddey didn't want to come off the bench for Thunder and asked for trade, GM Sam Presti says**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nba/news/josh-giddey-didnt-want-to-come-off-the-bench-for-thunder-and-asked-for-trade-gm-sam-presti-says/).
 
 ## Requirements
 - Python 3.8
