@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea summons Russia’s ambassador as Putin and Kim’s defense pact rattles region**
+**Kevin Costner Confirms He Will Not Be Returning to ‘Yellowstone’: “I Just Realized That I’m Not Going to Be Able to Continue”**
 
-You can read more about it [here](https://www.cnn.com/2024/06/20/asia/putin-ukraine-north-korea-south-korea-intl-hnk/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2tldmluLWNvc3RuZXIteWVsbG93c3RvbmUtc2Vhc29uLTUtMTIzNTkyODkyOC_SAV9odHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vdHYvdHYtbmV3cy9rZXZpbi1jb3N0bmVyLXllbGxvd3N0b25lLXNlYXNvbi01LTEyMzU5Mjg5MjgvYW1wLw?oc=5).
 
 ## Requirements
 - Python 3.8
