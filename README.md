@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lawrence Starring in ‘Real Housewives’-Inspired Murder Mystery for Apple Original Films and A24, Jeremy O. Harris Producing**
+**Judge dismisses Nevada fake electors case over lack of jurisdiction**
 
-You can read more about it [here](https://variety.com/2024/film/news/jennifer-lawrence-real-housewives-apple-a24-jeremy-o-harris-1236044400/).
+You can read more about it [here](https://thenevadaindependent.com/article/judge-dismisses-nevada-fake-electors-case-over-lack-of-jurisdiction).
 
 ## Requirements
 - Python 3.8
