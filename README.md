@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Wily Dies: ‘Hawaii Five-0’ Actor Was 56**
+**FDA Authorizes Marketing of Four Menthol-Flavored E-Cigarette Products After Extensive Scientific Review**
 
-You can read more about it [here](http://deadline.com/2024/06/taylor-wily-dead-1235979958/).
+You can read more about it [here](https://www.fda.gov/news-events/press-announcements/fda-authorizes-marketing-four-menthol-flavored-e-cigarette-products-after-extensive-scientific).
 
 ## Requirements
 - Python 3.8
