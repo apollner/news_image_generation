@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Home prices hit record high in May as sales stall**
+**FAA investigating Southwest flight that flew just 525 feet above Oklahoma town, triggering altitude warning**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/21/home-prices-hit-record-high-in-may-as-sales-stall.html).
+You can read more about it [here](https://www.cnn.com/2024/06/20/us/southwest-flight-low-altitude-warning-faa/index.html).
 
 ## Requirements
 - Python 3.8
