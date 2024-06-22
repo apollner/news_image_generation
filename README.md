@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves new drug to treat autoimmune liver disease: ‘Giant step forward’**
+**Supreme Court upholds law barring domestic abusers from owning guns in major Second Amendment ruling**
 
-You can read more about it [here](https://www.foxnews.com/health/fda-approves-drug-treat-autoimmune-liver-disease-giant-step-forward).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMS9wb2xpdGljcy9zdXByZW1lLWNvdXJ0LWd1bnMtcmFoaW1pL2luZGV4Lmh0bWzSAUVodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA2LzIxL3BvbGl0aWNzL3N1cHJlbWUtY291cnQtZ3Vucy1yYWhpbWk?oc=5).
 
 ## Requirements
 - Python 3.8
