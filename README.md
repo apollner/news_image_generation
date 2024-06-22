@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alberto, hurricane season's first named storm, weakens as it moves inland over Mexico**
+**Donald Sutherland, 'Hunger Games' and 'M.A.S.H.' actor, dies**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-alberto-several-deaths-texas-mexico/).
+You can read more about it [here](https://apnews.com/article/donald-sutherland-dies-68b0713a89774964b88ce0a1cc55cc18).
 
 ## Requirements
 - Python 3.8
