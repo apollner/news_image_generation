@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Texas victims' rights attorney fighting to change statute of limitations for exploited women**
+**Hall of Famer Reggie Jackson shares the emotions of returning to Rickwood Field**
 
-You can read more about it [here](https://www.cbsnews.com/texas/news/north-texas-victims-rights-attorney-fighting-to-change-statute-of-limitations-for-exploited-women/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/hall-of-famer-reggie-jackson-shares-the-emotions-of-returning-to-rickwood-field/).
 
 ## Requirements
 - Python 3.8
