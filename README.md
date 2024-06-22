@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Winnett won't join The Washington Post**
+**Supreme Court upholds domestic violence gun restriction**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3dhc2hpbmd0b24tcG9zdC1lZGl0b3ItZW5nbGFuZC10ZWxlZ3JhcGgtcXVpdHMtZTY1MDQwOTMwNWEyZjEwMTE5MjYzMDY3OTFiYzk3YjHSAQA?oc=5).
+You can read more about it [here](https://www.nbcnews.com/politics/supreme-court/supreme-court-upholds-domestic-violence-gun-restriction-rcna137782).
 
 ## Requirements
 - Python 3.8
