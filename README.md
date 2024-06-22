@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hall of Famer Reggie Jackson shares the emotions of returning to Rickwood Field**
+**As France reels from the rape of a Jewish girl, antisemitism comes to the fore in election campaign**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/hall-of-famer-reggie-jackson-shares-the-emotions-of-returning-to-rickwood-field/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZyYW5jZS1hbnRpc2VtaXRpc20tZWxlY3Rpb24tY2FtcGFpZ24tZDdhYmNjY2RjODk2NTAxOTA3MjNlNTVhMTcxNjIyOGTSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
