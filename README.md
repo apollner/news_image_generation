@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner Confirms He Will Not Be Returning to ‘Yellowstone’: “I Just Realized That I’m Not Going to Be Able to Continue”**
+**Researchers have found a ‘clear genetic trigger for obesity’ that applies to some people**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1uZXdzL2tldmluLWNvc3RuZXIteWVsbG93c3RvbmUtc2Vhc29uLTUtMTIzNTkyODkyOC_SAV9odHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vdHYvdHYtbmV3cy9rZXZpbi1jb3N0bmVyLXllbGxvd3N0b25lLXNlYXNvbi01LTEyMzU5Mjg5MjgvYW1wLw?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/06/20/health/obesity-genetic-wellness/index.html).
 
 ## Requirements
 - Python 3.8
