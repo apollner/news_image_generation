@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake's stiff drink at Hamptons hotel bar before DWI bust revealed: 'It's all alcohol'**
+**A toddler was trapped in a Tesla after its battery died without warning amid record heat waves—'safety comes last' at Tesla, expert says**
 
-You can read more about it [here](https://nypost.com/2024/06/20/us-news/justin-timberlakes-stiff-drink-at-hamptons-hotel-bar-before-dwi-bust-revealed-its-all-alcohol/).
+You can read more about it [here](https://fortune.com/2024/06/20/tesla-trapped-toddler-in-car-arizona-heat-renee-sanchez-firefighters-safety-last/).
 
 ## Requirements
 - Python 3.8
