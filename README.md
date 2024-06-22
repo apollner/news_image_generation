@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The first iPhone game streaming service brings hundreds of licensed retro games**
+**Home prices hit record high in May as sales stall**
 
-You can read more about it [here](https://www.theverge.com/2024/6/21/24183027/antstream-emulator-apple-iphone-retro-games-ipad-streaming).
+You can read more about it [here](https://www.cnbc.com/2024/06/21/home-prices-hit-record-high-in-may-as-sales-stall.html).
 
 ## Requirements
 - Python 3.8
