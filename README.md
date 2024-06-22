@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers hire JJ Redick: How will Los Angeles shape its roster around its new first-year head coach?**
+**Ben Affleck On Wife Jennifer Lopez Amid Divorce Rumours: "She Is So Famous..."**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9uZXdzL2xha2Vycy1oaXJlLWpqLXJlZGljay1ob3ctd2lsbC1sb3MtYW5nZWxlcy1zaGFwZS1pdHMtcm9zdGVyLWFyb3VuZC1pdHMtbmV3LWZpcnN0LXllYXItaGVhZC1jb2FjaC_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvYmVuLWFmZmxlY2stb24td2lmZS1qZW5uaWZlci1sb3Blei1hbWlkLWRpdm9yY2UtcnVtb3Vycy1zaGUtaXMtc28tZmFtb3VzLTU5MzgwMzjSAXlodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2Jlbi1hZmZsZWNrLW9uLXdpZmUtamVubmlmZXItbG9wZXotYW1pZC1kaXZvcmNlLXJ1bW91cnMtc2hlLWlzLXNvLWZhbW91cy01OTM4MDM4L2FtcC8x?oc=5).
 
 ## Requirements
 - Python 3.8
