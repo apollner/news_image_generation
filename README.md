@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hall of Famer Reggie Jackson shares the emotions of returning to Rickwood Field**
+**Justin Timberlake's stiff drink at Hamptons hotel bar before DWI bust revealed: 'It's all alcohol'**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/hall-of-famer-reggie-jackson-shares-the-emotions-of-returning-to-rickwood-field/).
+You can read more about it [here](https://nypost.com/2024/06/20/us-news/justin-timberlakes-stiff-drink-at-hamptons-hotel-bar-before-dwi-bust-revealed-its-all-alcohol/).
 
 ## Requirements
 - Python 3.8
