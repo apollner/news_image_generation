@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses Nevada fake electors case over lack of jurisdiction**
+**Israel pounds Gaza, killing dozens, as fighting rages**
 
-You can read more about it [here](https://thenevadaindependent.com/article/judge-dismisses-nevada-fake-electors-case-over-lack-of-jurisdiction).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-forces-step-up-bombardment-across-gaza-amid-fierce-fighting-2024-06-21/).
 
 ## Requirements
 - Python 3.8
