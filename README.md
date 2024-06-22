@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As France reels from the rape of a Jewish girl, antisemitism comes to the fore in election campaign**
+**Trump campaign gets $50m boost from single donor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZyYW5jZS1hbnRpc2VtaXRpc20tZWxlY3Rpb24tY2FtcGFpZ24tZDdhYmNjY2RjODk2NTAxOTA3MjNlNTVhMTcxNjIyOGTSAQA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/ce448zzwp2go).
 
 ## Requirements
 - Python 3.8
