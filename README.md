@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Sutherland, 'Hunger Games' and 'M.A.S.H.' actor, dies**
+**North Texas victims' rights attorney fighting to change statute of limitations for exploited women**
 
-You can read more about it [here](https://apnews.com/article/donald-sutherland-dies-68b0713a89774964b88ce0a1cc55cc18).
+You can read more about it [here](https://www.cbsnews.com/texas/news/north-texas-victims-rights-attorney-fighting-to-change-statute-of-limitations-for-exploited-women/).
 
 ## Requirements
 - Python 3.8
