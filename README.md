@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA Authorizes Marketing of Four Menthol-Flavored E-Cigarette Products After Extensive Scientific Review**
+**Alex Caruso for Josh Giddey trade: Thunder, Bulls make swap with OKC landing All-Defensive guard**
 
-You can read more about it [here](https://www.fda.gov/news-events/press-announcements/fda-authorizes-marketing-four-menthol-flavored-e-cigarette-products-after-extensive-scientific).
+You can read more about it [here](https://www.cbssports.com/nba/news/alex-caruso-for-josh-giddey-trade-thunder-bulls-make-swap-with-okc-landing-all-defensive-guard/).
 
 ## Requirements
 - Python 3.8
