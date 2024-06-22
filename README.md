@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FAA investigating Southwest flight that flew just 525 feet above Oklahoma town, triggering altitude warning**
+**Israel's Netanyahu appears at odds with White House and Israel's military over war with Hamas in Gaza**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yMC91cy9zb3V0aHdlc3QtZmxpZ2h0LWxvdy1hbHRpdHVkZS13YXJuaW5nLWZhYS9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8yMC91cy9zb3V0aHdlc3QtZmxpZ2h0LWxvdy1hbHRpdHVkZS13YXJuaW5nLWZhYQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaXNyYWVsLWhhbWFzLXdhci1uZXRhbnlhaHUtd2hpdGUtaG91c2UtaWRmLWRpZmZlcmVuY2VzLWhlemJvbGxhaC1sZWJhbm9uL9IBamh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2lzcmFlbC1oYW1hcy13YXItbmV0YW55YWh1LXdoaXRlLWhvdXNlLWlkZi1kaWZmZXJlbmNlcy1oZXpib2xsYWgtbGViYW5vbi8?oc=5).
 
 ## Requirements
 - Python 3.8
