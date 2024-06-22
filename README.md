@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign gets $50m boost from single donor**
+**South Korea summons Russia’s ambassador as Putin and Kim’s defense pact rattles region**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce448zzwp2go).
+You can read more about it [here](https://www.cnn.com/2024/06/20/asia/putin-ukraine-north-korea-south-korea-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
