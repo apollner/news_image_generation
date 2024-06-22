@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rishi Sunak 'incredibly angry' over alleged election betting**
+**Reggie Jackson shares searing stories of racism at Negro Leagues tribute**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jODQ0amU5bnE4OW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzg0NGplOW5xODlvLmFtcA?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/20/reggie-jackson-racism-rickwood-field/).
 
 ## Requirements
 - Python 3.8
