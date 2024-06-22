@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celtics parade, heat cancels last day of school in Boston**
+**Trump's Net Worth Drops About $475 Million As Media Shares Fall**
 
-You can read more about it [here](https://www.wcvb.com/article/abrupt-end-to-school-year-for-boston-public-schools-students-due-to-heat-celtics-parade/61193101).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/06/20/donald-trumps-net-worth-falls-further-over-2-billion-this-month-as-shares-decline/).
 
 ## Requirements
 - Python 3.8
