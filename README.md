@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck On Wife Jennifer Lopez Amid Divorce Rumours: "She Is So Famous..."**
+**Rishi Sunak 'incredibly angry' over alleged election betting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvYmVuLWFmZmxlY2stb24td2lmZS1qZW5uaWZlci1sb3Blei1hbWlkLWRpdm9yY2UtcnVtb3Vycy1zaGUtaXMtc28tZmFtb3VzLTU5MzgwMzjSAXlodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2Jlbi1hZmZsZWNrLW9uLXdpZmUtamVubmlmZXItbG9wZXotYW1pZC1kaXZvcmNlLXJ1bW91cnMtc2hlLWlzLXNvLWZhbW91cy01OTM4MDM4L2FtcC8x?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jODQ0amU5bnE4OW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzg0NGplOW5xODlvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
