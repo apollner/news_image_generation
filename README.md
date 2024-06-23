@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's behind deaths at this year's Hajj pilgrimage in Saudi Arabia?**
+**Spotify Launches Cheaper $10.99/Month Premium Plan Without Audiobooks**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3ggj0809dqo).
+You can read more about it [here](https://www.macrumors.com/2024/06/21/spotify-cheaper-premium-plan/).
 
 ## Requirements
 - Python 3.8
