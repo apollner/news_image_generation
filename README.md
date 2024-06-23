@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Sutherland, veteran actor and father of Kiefer Sutherland, dead at 88**
+**Why The Hindujas, UK's Wealthiest Family, Face Jail Term In Switzerland**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/donald-sutherland-veteran-actor-father-kiefer-sutherland-dead/story?id=111284071).
+You can read more about it [here](https://www.ndtv.com/indians-abroad/why-the-hindujas-uks-wealthiest-family-face-jail-term-in-switzerland-5942979).
 
 ## Requirements
 - Python 3.8
