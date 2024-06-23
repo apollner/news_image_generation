@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel pounds Gaza, killing dozens, as fighting rages**
+**Prince William attends Taylor Swift's Eras London show with kids: report**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-forces-step-up-bombardment-across-gaza-amid-fierce-fighting-2024-06-21/).
+You can read more about it [here](https://nypost.com/2024/06/21/entertainment/prince-william-attends-taylor-swifts-eras-london-show-with-kids-report/).
 
 ## Requirements
 - Python 3.8
