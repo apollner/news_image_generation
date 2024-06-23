@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigel Farage criticised for saying West provoked Ukraine war**
+**What's behind deaths at this year's Hajj pilgrimage in Saudi Arabia?**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cldd44zv3kpo).
+You can read more about it [here](https://www.bbc.com/news/articles/c3ggj0809dqo).
 
 ## Requirements
 - Python 3.8
