@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dumbass' Justin Timberlake ignored warning minutes before DWI bust – from same cop who ended up arresting him**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/06/22/us-news/dumbass-justin-timberlake-ignored-warning-minutes-before-dwi-bust-from-same-cop-who-ended-up-arresting-him/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
