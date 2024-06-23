@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P, Nasdaq end lower as Nvidia drags the tech sector for second day**
+**David DePape found guilty in state trial over Paul Pelosi attack**
 
-You can read more about it [here](https://www.reuters.com/markets/us/wall-street-futures-edge-lower-ahead-business-survey-data-2024-06-21/).
+You can read more about it [here](https://abcnews.go.com/US/david-depape-state-trial-verdict-paul-pelosi-attack/story?id=111279555).
 
 ## Requirements
 - Python 3.8
