@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William attends Taylor Swift's Eras London show with kids: report**
+**Box Office: ‘Inside Out 2’ Passing ‘Dune: Part Two’ to Become Top Movie of 2024 in North America**
 
-You can read more about it [here](https://nypost.com/2024/06/21/entertainment/prince-william-attends-taylor-swifts-eras-london-show-with-kids-report/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-top-grossing-movie-2024-1235929201/).
 
 ## Requirements
 - Python 3.8
