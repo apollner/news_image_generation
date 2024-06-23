@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coppola To Pay For "Megalopolis" Marketing?**
+**What's behind deaths at this year's Hajj pilgrimage in Saudi Arabia?**
 
-You can read more about it [here](https://www.darkhorizons.com/coppola-to-pay-for-megalopolis-marketing/).
+You can read more about it [here](https://www.bbc.com/news/articles/c3ggj0809dqo).
 
 ## Requirements
 - Python 3.8
