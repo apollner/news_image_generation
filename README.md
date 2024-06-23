@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive Leak: First Look at the Samsung Galaxy Tab S10 Ultra in 5K Renders**
+**Trump addresses conservative Christian group that advocates for national abortion ban**
 
-You can read more about it [here](https://www.androidheadlines.com/samsung-galaxy-tab-s10).
+You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-address-conservative-christian-group-supports-national-abortion-rcna158414).
 
 ## Requirements
 - Python 3.8
