@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Saudi Arabia results: Whittaker vs. Aliskerov**
+**[Removed]**
 
-You can read more about it [here](https://www.mmafighting.com/2024/6/21/24183336/ufc-saudi-arabia-results-whittaker-vs-aliskerov).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
