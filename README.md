@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kinzinger: Russia-North Korea pact a ‘bad look for Vladimir Putin’**
+**Israel-Hamas war: Israeli national found dead in West Bank**
 
-You can read more about it [here](https://thehill.com/policy/international/4734803-adam-kinzinger-vladimir-putin-kim-jong-un-donald-trump-russia-north-korea-alliance/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-body-dead-39d09eccc39a7f225d573c97e73a2917).
 
 ## Requirements
 - Python 3.8
