@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Inside Out 2’ Passing ‘Dune: Part Two’ to Become Top Movie of 2024 in North America**
+**Israel and Hezbollah faceoff raises risk of wider conflict**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-top-grossing-movie-2024-1235929201/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-hezbollah-faceoff-raises-risk-wider-conflict-2024-06-21/).
 
 ## Requirements
 - Python 3.8
