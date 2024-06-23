@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift FIGHTS FIRE With Gracie Abrams**
+**NASA simulates asteroid heading toward Earth in defense exercise**
 
-You can read more about it [here](https://www.youtube.com/watch?v=0HuVNqE12hQ).
+You can read more about it [here](https://thehill.com/homenews/space/4734140-nasa-simulates-asteroid-heading-toward-earth-in-defense-exercise/).
 
 ## Requirements
 - Python 3.8
