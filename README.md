@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David DePape found guilty in state trial over Paul Pelosi attack**
+**NASA simulates asteroid heading toward Earth in defense exercise**
 
-You can read more about it [here](https://abcnews.go.com/US/david-depape-state-trial-verdict-paul-pelosi-attack/story?id=111279555).
+You can read more about it [here](https://thehill.com/homenews/space/4734140-nasa-simulates-asteroid-heading-toward-earth-in-defense-exercise/).
 
 ## Requirements
 - Python 3.8
