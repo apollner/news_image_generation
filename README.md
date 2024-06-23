@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israeli national found dead in West Bank**
+**Arkansas grocery store mass shooting suspect Travis Posey arrested, facing murder charges**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-body-dead-39d09eccc39a7f225d573c97e73a2917).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/22/fordyce-arkansas-mass-shooting-travis-posey-arrested/74181165007/).
 
 ## Requirements
 - Python 3.8
