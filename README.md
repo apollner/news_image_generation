@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A US veteran died at a nursing home, abandoned. Strangers came in droves to say goodbye**
+**Taylor Swift FIGHTS FIRE With Gracie Abrams**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/21/a-us-veteran-died-at-a-nursing-home-abandoned-strangers-came-in-droves-to-say-goodbye-00164558).
+You can read more about it [here](https://www.youtube.com/watch?v=0HuVNqE12hQ).
 
 ## Requirements
 - Python 3.8
