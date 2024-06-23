@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Performs 'The Black Dog' Live for First Time at London Show**
+**Taylor Swift Takes Selfie With Prince William and Children as Royal Celebrates Birthday at London Eras Tour Show**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/taylor-swift-the-black-dog-live-debut-london-1235045062/).
+You can read more about it [here](https://variety.com/2024/music/global/taylor-swift-prince-william-london-eras-tour-show-1236044857/).
 
 ## Requirements
 - Python 3.8
