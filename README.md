@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA simulates asteroid heading toward Earth in defense exercise**
+**A US veteran died at a nursing home, abandoned. Strangers came in droves to say goodbye**
 
-You can read more about it [here](https://thehill.com/homenews/space/4734140-nasa-simulates-asteroid-heading-toward-earth-in-defense-exercise/).
+You can read more about it [here](https://www.politico.com/news/2024/06/21/a-us-veteran-died-at-a-nursing-home-abandoned-strangers-came-in-droves-to-say-goodbye-00164558).
 
 ## Requirements
 - Python 3.8
