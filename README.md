@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify Launches Cheaper $10.99/Month Premium Plan Without Audiobooks**
+**What to know about victims in mass shooting at Arkansas store**
 
-You can read more about it [here](https://www.macrumors.com/2024/06/21/spotify-cheaper-premium-plan/).
+You can read more about it [here](https://www.thv11.com/article/news/crime/shooting-at-arkansas-store-alleged-victims/91-1e2657a2-9823-4e48-b816-de3cf98a2757).
 
 ## Requirements
 - Python 3.8
