@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaii Five-0 star Taylor Wily dies aged 56**
+**Taylor Swift Performs 'The Black Dog' Live for First Time at London Show**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c511n5186x2o).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/taylor-swift-the-black-dog-live-debut-london-1235045062/).
 
 ## Requirements
 - Python 3.8
