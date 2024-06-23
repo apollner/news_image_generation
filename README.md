@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Takes Selfie With Prince William and Children as Royal Celebrates Birthday at London Eras Tour Show**
+**3 killed, 10 wounded in mass shooting outside Arkansas grocery store**
 
-You can read more about it [here](https://variety.com/2024/music/global/taylor-swift-prince-william-london-eras-tour-show-1236044857/).
+You can read more about it [here](https://www.cbsnews.com/news/arkansas-grocery-store-shooting-deaths-injuries/).
 
 ## Requirements
 - Python 3.8
