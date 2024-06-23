@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**David DePape found guilty in state trial over Paul Pelosi attack**
+**Judge Cannon wants to know whether Merrick Garland is supervising Jack Smith**
 
-You can read more about it [here](https://abcnews.go.com/US/david-depape-state-trial-verdict-paul-pelosi-attack/story?id=111279555).
+You can read more about it [here](https://www.politico.com/news/2024/06/21/trump-classified-documents-cannon-garland-smith-00164541).
 
 ## Requirements
 - Python 3.8
