@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump addresses conservative Christian group that advocates for national abortion ban**
+**Hamas weapon supplier killed in Lebanon: IDF**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-address-conservative-christian-group-supports-national-abortion-rcna158414).
+You can read more about it [here](https://nypost.com/2024/06/22/world-news/hamas-weapon-supplier-killed-in-lebanon-idf/).
 
 ## Requirements
 - Python 3.8
