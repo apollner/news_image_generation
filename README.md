@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas weapon supplier killed in Lebanon: IDF**
+**Kinzinger: Russia-North Korea pact a ‘bad look for Vladimir Putin’**
 
-You can read more about it [here](https://nypost.com/2024/06/22/world-news/hamas-weapon-supplier-killed-in-lebanon-idf/).
+You can read more about it [here](https://thehill.com/policy/international/4734803-adam-kinzinger-vladimir-putin-kim-jong-un-donald-trump-russia-north-korea-alliance/).
 
 ## Requirements
 - Python 3.8
