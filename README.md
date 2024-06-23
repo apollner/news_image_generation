@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about victims in mass shooting at Arkansas store**
+**Coppola To Pay For "Megalopolis" Marketing?**
 
-You can read more about it [here](https://www.thv11.com/article/news/crime/shooting-at-arkansas-store-alleged-victims/91-1e2657a2-9823-4e48-b816-de3cf98a2757).
+You can read more about it [here](https://www.darkhorizons.com/coppola-to-pay-for-megalopolis-marketing/).
 
 ## Requirements
 - Python 3.8
