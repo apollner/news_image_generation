@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA simulates asteroid heading toward Earth in defense exercise**
+**Nigel Farage criticised for saying West provoked Ukraine war**
 
-You can read more about it [here](https://thehill.com/homenews/space/4734140-nasa-simulates-asteroid-heading-toward-earth-in-defense-exercise/).
+You can read more about it [here](https://www.bbc.com/news/articles/cldd44zv3kpo).
 
 ## Requirements
 - Python 3.8
