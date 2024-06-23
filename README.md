@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOTTA SEE IT: Leon Draisaitl Sets Up Warren Foegele With A Perfect Saucer Pass**
+**S&P, Nasdaq end lower as Nvidia drags the tech sector for second day**
 
-You can read more about it [here](https://www.youtube.com/watch?v=zmbnnZSb8sc).
+You can read more about it [here](https://www.reuters.com/markets/us/wall-street-futures-edge-lower-ahead-business-survey-data-2024-06-21/).
 
 ## Requirements
 - Python 3.8
