@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions legend Barry Sanders suffers 'health scare'**
+**Donald Sutherland, veteran actor and father of Kiefer Sutherland, dead at 88**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/6/21/24183453/detroit-lions-legend-barry-sanders-suffers-health-scare-medical-update).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/donald-sutherland-veteran-actor-father-kiefer-sutherland-dead/story?id=111284071).
 
 ## Requirements
 - Python 3.8
