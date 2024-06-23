@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICRC says 22 killed in strike near its Gaza office**
+**Powerful rocket: The SpaceX Falcon Heavy will launch NOAA satellite**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cmjj6ej3ne1o).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/06/22/spacex-falcon-heavy-booster-launch-noaa-nasa-satellite-cape-canaveral-florida-powerful-thrust-ksc/74155648007/).
 
 ## Requirements
 - Python 3.8
