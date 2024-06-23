@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 killed, 10 wounded in mass shooting outside Arkansas grocery store**
+**ICRC says 22 killed in strike near its Gaza office**
 
-You can read more about it [here](https://www.cbsnews.com/news/arkansas-grocery-store-shooting-deaths-injuries/).
+You can read more about it [here](https://www.bbc.com/news/articles/cmjj6ej3ne1o).
 
 ## Requirements
 - Python 3.8
