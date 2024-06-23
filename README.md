@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump addresses conservative Christian group that advocates for national abortion ban**
+**Trump endorses Ten Commandments in Louisiana schools: 'Revival of religion'**
 
-You can read more about it [here](https://www.nbcnews.com/politics/donald-trump/trump-address-conservative-christian-group-supports-national-abortion-rcna158414).
+You can read more about it [here](https://www.foxnews.com/politics/trump-endorses-ten-commandments-louisiana-schools-revival-religion).
 
 ## Requirements
 - Python 3.8
