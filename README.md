@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why The Hindujas, UK's Wealthiest Family, Face Jail Term In Switzerland**
+**South Korea summons Russian ambassador as tensions rise with North Korea**
 
-You can read more about it [here](https://www.ndtv.com/indians-abroad/why-the-hindujas-uks-wealthiest-family-face-jail-term-in-switzerland-5942979).
+You can read more about it [here](https://apnews.com/article/korean-border-defector-leaflets-balloons-c7b5c2d2b7a919361de086c5e32291d2).
 
 ## Requirements
 - Python 3.8
