@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea summons Russian ambassador as tensions rise with North Korea**
+**David DePape found guilty in state trial over Paul Pelosi attack**
 
-You can read more about it [here](https://apnews.com/article/korean-border-defector-leaflets-balloons-c7b5c2d2b7a919361de086c5e32291d2).
+You can read more about it [here](https://abcnews.go.com/US/david-depape-state-trial-verdict-paul-pelosi-attack/story?id=111279555).
 
 ## Requirements
 - Python 3.8
