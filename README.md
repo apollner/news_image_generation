@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's behind deaths at this year's Hajj pilgrimage in Saudi Arabia?**
+**Oilers top Panthers again in Game 6, push Stanley Cup Final to limit**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3ggj0809dqo).
+You can read more about it [here](https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-6-recap-june-21).
 
 ## Requirements
 - Python 3.8
