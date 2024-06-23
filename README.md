@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge Cannon wants to know whether Merrick Garland is supervising Jack Smith**
+**Detroit Lions legend Barry Sanders suffers 'health scare'**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/21/trump-classified-documents-cannon-garland-smith-00164541).
+You can read more about it [here](https://www.prideofdetroit.com/2024/6/21/24183453/detroit-lions-legend-barry-sanders-suffers-health-scare-medical-update).
 
 ## Requirements
 - Python 3.8
