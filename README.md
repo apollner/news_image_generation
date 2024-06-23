@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oilers top Panthers again in Game 6, push Stanley Cup Final to limit**
+**'Dumbass' Justin Timberlake ignored warning minutes before DWI bust – from same cop who ended up arresting him**
 
-You can read more about it [here](https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-6-recap-june-21).
+You can read more about it [here](https://nypost.com/2024/06/22/us-news/dumbass-justin-timberlake-ignored-warning-minutes-before-dwi-bust-from-same-cop-who-ended-up-arresting-him/).
 
 ## Requirements
 - Python 3.8
