@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkansas grocery store mass shooting suspect Travis Posey arrested, facing murder charges**
+**UFC Saudi Arabia results: Whittaker vs. Aliskerov**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/22/fordyce-arkansas-mass-shooting-travis-posey-arrested/74181165007/).
+You can read more about it [here](https://www.mmafighting.com/2024/6/21/24183336/ufc-saudi-arabia-results-whittaker-vs-aliskerov).
 
 ## Requirements
 - Python 3.8
