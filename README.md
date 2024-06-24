@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With its new pact with North Korea, Russia raises the stakes with the West over Ukraine**
+**Prince William Becomes Latest High-Profile Taylor Swift Fan at U.K. Show**
 
-You can read more about it [here](https://apnews.com/article/russia-putin-kim-north-korea-pact-556492779b6a32c4cf74b992741d91a8).
+You can read more about it [here](https://www.thedailybeast.com/prince-william-george-charlotte-become-latest-high-profile-taylor-swift-fan-at-uk-show).
 
 ## Requirements
 - Python 3.8
