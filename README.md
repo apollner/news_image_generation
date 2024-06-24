@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A fourth victim has died a day after a shooting at an Arkansas grocery store, police say**
+**2024 Travelers Championship leaderboard: Live updates, full coverage, golf scores in Round 4 on Sunday**
 
-You can read more about it [here](https://apnews.com/article/arkansas-grocery-store-shooting-2accbd7f3bef7987c84ca8f12c60de69).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-travelers-championship-leaderboard-live-updates-full-coverage-golf-scores-in-round-4-on-sunday/live/).
 
 ## Requirements
 - Python 3.8
