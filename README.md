@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu Says Intensive Fighting in Gaza Is Close to Ending**
+**Deadly attacks on Dagestan synagogue and churches**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/netanyahu-complains-of-dramatic-drop-in-u-s-arms-shipments-to-israel-af65138f).
+You can read more about it [here](https://www.bbc.com/news/articles/crgggwg158do).
 
 ## Requirements
 - Python 3.8
