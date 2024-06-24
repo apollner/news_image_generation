@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hiker missing for 10 days in California mountains survived by drinking a gallon of water each day**
+**Jacksonville rapper Julio Foolio shot, killed in Tampa 'ambush': attorney**
 
-You can read more about it [here](https://www.cnn.com/2024/06/23/us/missing-california-hiker-rescue-lukas-mcclish/index.html).
+You can read more about it [here](https://www.news4jax.com/news/local/2024/06/23/jacksonville-rapper-julio-foolio-shot-killed-in-tampa-ambush-attorney/).
 
 ## Requirements
 - Python 3.8
