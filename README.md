@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Travelers Championship leaderboard: Live updates, full coverage, golf scores in Round 4 on Sunday**
+**‘Inside Out 2’ Soars With Record Second Weekend For Animated Pic With $100M – Sunday AM Update**
 
-You can read more about it [here](https://www.cbssports.com/golf/news/2024-travelers-championship-leaderboard-live-updates-full-coverage-golf-scores-in-round-4-on-sunday/live/).
+You can read more about it [here](http://deadline.com/2024/06/box-office-inside-out-2-record-bikeriders-1235980501/).
 
 ## Requirements
 - Python 3.8
