@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Elden Ring: Shadow Of The Erdtree' Too Hard? Bandai Namco Says 'Git Blessings'**
+**‘Inside Out 2’ Surpasses ‘Dune 2’ as Highest-Grossing Movie of Year With $724 Million Globally**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/06/23/elden-ring-shadow-of-the-erdtree-too-hard-bandai-namco-says-git-blessings/).
+You can read more about it [here](https://variety.com/2024/film/box-office/inside-out-2-highest-grossing-movie-year-passing-dune-2-1236045195/).
 
 ## Requirements
 - Python 3.8
