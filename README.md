@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli army says soldiers ‘violated orders’ by tying man to jeep**
+**‘Catastrophic flooding’ in Upper Midwest prompts evacuations as record-breaking heat wave broils the West and mid-Atlantic**
 
-You can read more about it [here](https://www.aljazeera.com/program/newsfeed/2024/6/23/israeli-military-says-soldiers-violated-orders-by-tying-man-to-vehicle).
+You can read more about it [here](https://www.cnn.com/2024/06/23/weather/flooding-upper-midwest-heat-wave-mid-atlantic/index.html).
 
 ## Requirements
 - Python 3.8
