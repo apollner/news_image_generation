@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's a look at Trump's Vice President shortlist**
+**One million under flood warnings as heavy rain hits upper Midwest**
 
-You can read more about it [here](https://apnews.com/article/trump-vice-president-rubio-vance-burgum-scott-8b6a3a22eecdfff668a5002ddfd3af18).
+You can read more about it [here](https://www.bbc.com/news/articles/c6ppp4z85y0o).
 
 ## Requirements
 - Python 3.8
