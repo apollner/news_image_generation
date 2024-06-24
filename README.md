@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Not enough medics’ to help pilgrims with heat, Hajj witnesses tell CNN as toll mounts**
+**Penis cancer cases surge across the globe: Docs reveal how to protect yourself, avoid amputation**
 
-You can read more about it [here](https://www.cnn.com/2024/06/22/middleeast/medics-pilgrimage-hajj-eyewitnesses-intl/index.html).
+You can read more about it [here](https://nypost.com/2024/06/22/lifestyle/penis-cancer-cases-surge-across-the-globe-docs-reveal-how-to-protect-yourself-avoid-amputation/).
 
 ## Requirements
 - Python 3.8
