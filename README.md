@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT's Copa America participation is a proving ground, but what would make the tournament a success?**
+**Family whose home was hit by space debris seeks damages from NASA**
 
-You can read more about it [here](https://www.cbssports.com/soccer/news/usmnts-copa-america-participation-is-a-proving-ground-but-what-would-make-the-tournament-a-success/).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/06/23/florida-space-debris-nasa/).
 
 ## Requirements
 - Python 3.8
