@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli found dead after being shot in West Bank as deadly strikes hit northern Gaza**
+**Disaster declared as flooding forces evacuations in northwest Iowa**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-shot-west-bank-deadly-strikes-northern-gaza/).
+You can read more about it [here](https://www.desmoinesregister.com/story/weather/2024/06/22/disaster-declared-as-flooding-forces-evacuations-in-northwest-iowa/74179790007/).
 
 ## Requirements
 - Python 3.8
