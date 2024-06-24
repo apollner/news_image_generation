@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disaster declared as flooding forces evacuations in northwest Iowa**
+**Cyber attacks stall business at car dealerships nationwide**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/weather/2024/06/22/disaster-declared-as-flooding-forces-evacuations-in-northwest-iowa/74179790007/).
+You can read more about it [here](https://www.youtube.com/watch?v=WhOH5emalG0).
 
 ## Requirements
 - Python 3.8
