@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump spends last Saturday before debate meeting with Christian voters and courting Pennsylvanians**
+**Former Disney Star Dan Benson Says OnlyFans Gives Him Control Over Nudes**
 
-You can read more about it [here](https://www.cnn.com/2024/06/22/politics/trump-faith-and-freedom-philadelphia-rally/index.html).
+You can read more about it [here](https://www.tmz.com/2024/06/23/former-disney-star-dan-benson-onlyfans-control-leaked-nudes-tmz-studios-presents-famous-naked/).
 
 ## Requirements
 - Python 3.8
