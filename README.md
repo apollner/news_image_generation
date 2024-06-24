@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Inside Out 2’ Surpasses ‘Dune 2’ as Highest-Grossing Movie of Year With $724 Million Globally**
+**Hiker missing for 10 days in California mountains survived by drinking a gallon of water each day**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/inside-out-2-highest-grossing-movie-year-passing-dune-2-1236045195/).
+You can read more about it [here](https://www.cnn.com/2024/06/23/us/missing-california-hiker-rescue-lukas-mcclish/index.html).
 
 ## Requirements
 - Python 3.8
