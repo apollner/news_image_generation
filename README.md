@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Inside Out 2’ Soars With Record Second Weekend For Animated Pic With $100M – Sunday AM Update**
+**'Elden Ring: Shadow Of The Erdtree' Too Hard? Bandai Namco Says 'Git Blessings'**
 
-You can read more about it [here](http://deadline.com/2024/06/box-office-inside-out-2-record-bikeriders-1235980501/).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/06/23/elden-ring-shadow-of-the-erdtree-too-hard-bandai-namco-says-git-blessings/).
 
 ## Requirements
 - Python 3.8
