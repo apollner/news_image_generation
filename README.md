@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Erin Andrews, Charissa Thompson party with Travis Kelce at Taylor Swift show**
+**A fourth victim has died a day after a shooting at an Arkansas grocery store, police say**
 
-You can read more about it [here](https://nypost.com/2024/06/23/sports/erin-andrews-charissa-thompson-party-with-travis-kelce-at-taylor-swift-show/).
+You can read more about it [here](https://apnews.com/article/arkansas-grocery-store-shooting-2accbd7f3bef7987c84ca8f12c60de69).
 
 ## Requirements
 - Python 3.8
