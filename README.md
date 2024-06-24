@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fourth Tory official reportedly investigated for election bets**
+**Israeli army strapped wounded Palestinian to jeep**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c511nv3pjd6o).
+You can read more about it [here](https://www.bbc.com/news/articles/cjqq5n8911do).
 
 ## Requirements
 - Python 3.8
