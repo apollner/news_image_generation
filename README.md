@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wagner uprising: A year after mutiny, Russia controls group's remnants**
+**Parts of East may see 100-plus degree weather; floods swamp Iowa, S.D.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4nn1p81q59o).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/23/heat-wave-east-floods-midwest-weather/74185526007/).
 
 ## Requirements
 - Python 3.8
