@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 1,000 pilgrims died during Hajj pilgrimage this year**
+**Here's a look at Trump's Vice President shortlist**
 
-You can read more about it [here](https://apnews.com/article/hajj-heat-deaths-mecca-saudi-arabia-pilgrimage-9f97aae1032b14ada29bbea7108195d3).
+You can read more about it [here](https://apnews.com/article/trump-vice-president-rubio-vance-burgum-scott-8b6a3a22eecdfff668a5002ddfd3af18).
 
 ## Requirements
 - Python 3.8
