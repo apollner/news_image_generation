@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbus mass shooting wounds 10 in Short North; police seek suspect vehicle**
+**Erin Andrews, Charissa Thompson party with Travis Kelce at Taylor Swift show**
 
-You can read more about it [here](https://www.dispatch.com/story/news/crime/2024/06/23/columbus-mass-shooting-wounds-10-in-short-north/74185409007/).
+You can read more about it [here](https://nypost.com/2024/06/23/sports/erin-andrews-charissa-thompson-party-with-travis-kelce-at-taylor-swift-show/).
 
 ## Requirements
 - Python 3.8
