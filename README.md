@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the GOES U satellite will change Earth and space weather forecasts forever**
+**Columbus mass shooting wounds 10 in Short North; police seek suspect vehicle**
 
-You can read more about it [here](https://www.space.com/goes-u-satellite-space-earth-weather-forecasts).
+You can read more about it [here](https://www.dispatch.com/story/news/crime/2024/06/23/columbus-mass-shooting-wounds-10-in-short-north/74185409007/).
 
 ## Requirements
 - Python 3.8
