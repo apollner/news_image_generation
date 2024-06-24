@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 1,000 pilgrims died during Hajj pilgrimage this year**
+**Netanyahu Says Intensive Fighting in Gaza Is Close to Ending**
 
-You can read more about it [here](https://apnews.com/article/hajj-heat-deaths-mecca-saudi-arabia-pilgrimage-9f97aae1032b14ada29bbea7108195d3).
+You can read more about it [here](https://www.wsj.com/world/middle-east/netanyahu-complains-of-dramatic-drop-in-u-s-arms-shipments-to-israel-af65138f).
 
 ## Requirements
 - Python 3.8
