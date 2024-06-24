@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Saudi Arabia: Robert Whittaker makes statement with 1st-round KO of Ikram Aliskerov**
+**Boeing Starliner astronauts stuck at International Space Station as engineers on Earth race against time to fix multiple problems**
 
-You can read more about it [here](https://sports.yahoo.com/ufc-saudi-arabia-robert-whittaker-makes-statement-with-1st-round-ko-of-ikram-aliskerov-213322797.html).
+You can read more about it [here](https://nypost.com/2024/06/22/us-news/boeing-starliner-astronauts-stuck-at-international-space-station-as-engineers-on-earth-race-against-time-to-fix-multiple-problems/).
 
 ## Requirements
 - Python 3.8
