@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Severe storms likely in New Hampshire Sunday, including chance of tornado**
+**With its new pact with North Korea, Russia raises the stakes with the West over Ukraine**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-forecast-severe-storms-62224/61218696).
+You can read more about it [here](https://apnews.com/article/russia-putin-kim-north-korea-pact-556492779b6a32c4cf74b992741d91a8).
 
 ## Requirements
 - Python 3.8
