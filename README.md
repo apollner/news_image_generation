@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli army strapped wounded Palestinian to jeep**
+**Disaster declared as flooding forces evacuations in northwest Iowa**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjqq5n8911do).
+You can read more about it [here](https://www.desmoinesregister.com/story/weather/2024/06/22/disaster-declared-as-flooding-forces-evacuations-in-northwest-iowa/74179790007/).
 
 ## Requirements
 - Python 3.8
