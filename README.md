@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William Becomes Latest High-Profile Taylor Swift Fan at U.K. Show**
+**Trump spends last Saturday before debate meeting with Christian voters and courting Pennsylvanians**
 
-You can read more about it [here](https://www.thedailybeast.com/prince-william-george-charlotte-become-latest-high-profile-taylor-swift-fan-at-uk-show).
+You can read more about it [here](https://www.cnn.com/2024/06/22/politics/trump-faith-and-freedom-philadelphia-rally/index.html).
 
 ## Requirements
 - Python 3.8
