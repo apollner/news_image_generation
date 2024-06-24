@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli army strapped wounded Palestinian to jeep**
+**Israeli found dead after being shot in West Bank as deadly strikes hit northern Gaza**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjqq5n8911do).
+You can read more about it [here](https://www.cbsnews.com/news/israel-shot-west-bank-deadly-strikes-northern-gaza/).
 
 ## Requirements
 - Python 3.8
