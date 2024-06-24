@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Penis cancer cases surge across the globe: Docs reveal how to protect yourself, avoid amputation**
+**Fourth Tory official reportedly investigated for election bets**
 
-You can read more about it [here](https://nypost.com/2024/06/22/lifestyle/penis-cancer-cases-surge-across-the-globe-docs-reveal-how-to-protect-yourself-avoid-amputation/).
+You can read more about it [here](https://www.bbc.com/news/articles/c511nv3pjd6o).
 
 ## Requirements
 - Python 3.8
