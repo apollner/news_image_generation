@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disappointment and 'depression': Biden's biggest fundraisers watch their advantage vanish**
+**Israeli army says soldiers ‘violated orders’ by tying man to jeep**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/23/biden-trump-finances-00164566).
+You can read more about it [here](https://www.aljazeera.com/program/newsfeed/2024/6/23/israeli-military-says-soldiers-violated-orders-by-tying-man-to-vehicle).
 
 ## Requirements
 - Python 3.8
