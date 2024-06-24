@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner astronauts stuck at International Space Station as engineers on Earth race against time to fix multiple problems**
+**Israeli army strapped wounded Palestinian to jeep**
 
-You can read more about it [here](https://nypost.com/2024/06/22/us-news/boeing-starliner-astronauts-stuck-at-international-space-station-as-engineers-on-earth-race-against-time-to-fix-multiple-problems/).
+You can read more about it [here](https://www.bbc.com/news/articles/cjqq5n8911do).
 
 ## Requirements
 - Python 3.8
