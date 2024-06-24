@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM Update: Records and D.C.'s first June 100 since 2012; heat advisory Sunday**
+**Severe storms likely in New Hampshire Sunday, including chance of tornado**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/06/22/pm-update-record-high-temperatures-parts-area-hit-101-heat-advisory-sunday/).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-forecast-severe-storms-62224/61218696).
 
 ## Requirements
 - Python 3.8
