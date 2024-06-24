@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vice President Harris and first lady Jill Biden travel to battleground states to mark 2 years since Dobbs ruling**
+**‘Not enough medics’ to help pilgrims with heat, Hajj witnesses tell CNN as toll mounts**
 
-You can read more about it [here](https://www.cbsnews.com/news/vice-president-harris-first-lady-jill-biden-battleground-states-dobbs-roe-v-wade-ruling/).
+You can read more about it [here](https://www.cnn.com/2024/06/22/middleeast/medics-pilgrimage-hajj-eyewitnesses-intl/index.html).
 
 ## Requirements
 - Python 3.8
