@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disaster declared as flooding forces evacuations in northwest Iowa**
+**UFC Saudi Arabia: Robert Whittaker makes statement with 1st-round KO of Ikram Aliskerov**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/weather/2024/06/22/disaster-declared-as-flooding-forces-evacuations-in-northwest-iowa/74179790007/).
+You can read more about it [here](https://sports.yahoo.com/ufc-saudi-arabia-robert-whittaker-makes-statement-with-1st-round-ko-of-ikram-aliskerov-213322797.html).
 
 ## Requirements
 - Python 3.8
