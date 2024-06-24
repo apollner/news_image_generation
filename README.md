@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parts of East may see 100-plus degree weather; floods swamp Iowa, S.D.**
+**How the GOES U satellite will change Earth and space weather forecasts forever**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/23/heat-wave-east-floods-midwest-weather/74185526007/).
+You can read more about it [here](https://www.space.com/goes-u-satellite-space-earth-weather-forecasts).
 
 ## Requirements
 - Python 3.8
