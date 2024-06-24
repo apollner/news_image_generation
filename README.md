@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly attacks on Dagestan synagogue and churches**
+**Over 1,000 pilgrims died during Hajj pilgrimage this year**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crgggwg158do).
+You can read more about it [here](https://apnews.com/article/hajj-heat-deaths-mecca-saudi-arabia-pilgrimage-9f97aae1032b14ada29bbea7108195d3).
 
 ## Requirements
 - Python 3.8
