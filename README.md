@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Disney Star Dan Benson Says OnlyFans Gives Him Control Over Nudes**
+**Severe storms likely in New Hampshire Sunday, including chance of tornado**
 
-You can read more about it [here](https://www.tmz.com/2024/06/23/former-disney-star-dan-benson-onlyfans-control-leaked-nudes-tmz-studios-presents-famous-naked/).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-weather-forecast-severe-storms-62224/61218696).
 
 ## Requirements
 - Python 3.8
