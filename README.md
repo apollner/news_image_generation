@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Disney Star Dan Benson Says OnlyFans Gives Him Control Over Nudes**
+**Wagner uprising: A year after mutiny, Russia controls group's remnants**
 
-You can read more about it [here](https://www.tmz.com/2024/06/23/former-disney-star-dan-benson-onlyfans-control-leaked-nudes-tmz-studios-presents-famous-naked/).
+You can read more about it [here](https://www.bbc.com/news/articles/c4nn1p81q59o).
 
 ## Requirements
 - Python 3.8
