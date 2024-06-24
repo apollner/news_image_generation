@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyber attacks stall business at car dealerships nationwide**
+**USA's Tyler Adams, Josh Sargent available for Copa América opener**
 
-You can read more about it [here](https://www.youtube.com/watch?v=WhOH5emalG0).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/40410208/copa-america-2024-usa-tyler-adams-josh-sargent-available-bolivia).
 
 ## Requirements
 - Python 3.8
