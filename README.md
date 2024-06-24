@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jacksonville rapper Julio Foolio shot, killed in Tampa 'ambush': attorney**
+**Over 1,000 pilgrims died during Hajj pilgrimage this year**
 
-You can read more about it [here](https://www.news4jax.com/news/local/2024/06/23/jacksonville-rapper-julio-foolio-shot-killed-in-tampa-ambush-attorney/).
+You can read more about it [here](https://apnews.com/article/hajj-heat-deaths-mecca-saudi-arabia-pilgrimage-9f97aae1032b14ada29bbea7108195d3).
 
 ## Requirements
 - Python 3.8
