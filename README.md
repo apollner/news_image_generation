@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canned coffee recalled over deadly toxin fears**
+**Elden Ring Players Are Review Bombing Tough As Nails DLC**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/canned-coffee-recalled-over-deadly-toxin-fears).
+You can read more about it [here](https://kotaku.com/elden-ring-shadow-of-the-erdtree-steam-reviews-1851557175).
 
 ## Requirements
 - Python 3.8
