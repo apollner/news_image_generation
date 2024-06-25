@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat wave scorches US East Coast as dangerous temperatures expand to West**
+**An Israel offensive into Lebanon risks an Iranian military response, top US military leader says**
 
-You can read more about it [here](https://www.reuters.com/world/us/heat-wave-scorches-us-east-coast-dangerous-temperatures-expand-west-2024-06-23/).
+You can read more about it [here](https://apnews.com/article/israel-offensive-lebanon-82d714dfca0d34fd44f565cf859818c0).
 
 ## Requirements
 - Python 3.8
