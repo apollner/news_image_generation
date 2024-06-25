@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck Ditches Wedding Ring During Dinner Date With Daughter Violet as Jennifer Lopez Vacations in Italy**
+**Family whose home was hit by space debris seeks damages from NASA**
 
-You can read more about it [here](https://www.etonline.com/ben-affleck-ditches-wedding-ring-during-dinner-date-with-daughter-violet-as-jennifer-lopez).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/06/23/florida-space-debris-nasa/).
 
 ## Requirements
 - Python 3.8
