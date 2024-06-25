@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elden Ring Players Are Review Bombing Tough As Nails DLC**
+**Princess Anne hospitalized for injuries and a concussion in an 'incident'**
 
-You can read more about it [here](https://kotaku.com/elden-ring-shadow-of-the-erdtree-steam-reviews-1851557175).
+You can read more about it [here](https://apnews.com/article/britain-princess-anne-injuries-cc8ab12e8ae843e00f58f2eba449c0fb).
 
 ## Requirements
 - Python 3.8
