@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to weigh state restrictions on gender-affirming care for youths**
+**A ketamine pill may help hard-to-treat depression with fewer side effects, early research suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3N1cHJlbWUtY291cnQvc3VwcmVtZS1jb3VydC13ZWlnaC1zdGF0ZS1yZXN0cmljdGlvbnMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLXlvdXRocy1yY25hMTQyODI10gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MjgyNQ?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/06/24/health/ketamine-pill-depression-fewer-side-effects/index.html).
 
 ## Requirements
 - Python 3.8
