@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck ditches ring during lunch with daughter as Jennifer Lopez vacations**
+**Heat wave scorches US East Coast as dangerous temperatures expand to West**
 
-You can read more about it [here](https://pagesix.com/2024/06/23/entertainment/ben-affleck-ditches-ring-during-lunch-with-daughter-as-jennifer-lopez-vacations/).
+You can read more about it [here](https://www.reuters.com/world/us/heat-wave-scorches-us-east-coast-dangerous-temperatures-expand-west-2024-06-23/).
 
 ## Requirements
 - Python 3.8
