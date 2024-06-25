@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock pullback has markets on edge for S&P 500 correction**
+**NASA astronauts' return on Boeing's spaceship faces repeated delays**
 
-You can read more about it [here](https://www.thestreet.com/investing/stocks/nvidia-stock-pullback-has-markets-on-edge-for-s-p-500-correction).
+You can read more about it [here](https://www.nbcnews.com/science/space/nasa-astronauts-return-boeing-starliner-spaceship-delayed-rcna158577).
 
 ## Requirements
 - Python 3.8
