@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Cleveland Cavaliers hiring Kenny Atkinson as coach**
+**Car dealerships in North America revert to pens and paper after cyberattacks on software provider**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwNDIwNDAxL3NvdXJjZXMtY2xldmVsYW5kLWNhdmFsaWVycy1oaXJpbmcta2VubnktYXRraW5zb24tY29hY2jSAQA?oc=5).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/car-dealerships-north-america-revert-pens-paper-after-111364086).
 
 ## Requirements
 - Python 3.8
