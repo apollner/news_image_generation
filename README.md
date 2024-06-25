@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I-29 closed in SE KELOLAND**
+**Angel Reese leads furious comeback from 15 points down as Sky defeat Caitlin Clark's Fever**
 
-You can read more about it [here](https://www.keloland.com/news/local-news/i-29-closed-in-se-keloland/).
+You can read more about it [here](https://www.cbssports.com/wnba/news/angel-reese-leads-furious-comeback-from-15-points-down-as-sky-defeat-caitlin-clarks-fever/live/).
 
 ## Requirements
 - Python 3.8
