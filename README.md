@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Union regulators accuse Apple of breaching the bloc's tech rules**
+**Sweltering temperatures persist across the US, while floodwaters inundate the Midwest**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/24/apple-app-store-rules-are-in-breach-eu-tech-rules-regulators-say.html).
+You can read more about it [here](https://www.yahoo.com/news/sweltering-temperatures-persist-across-us-050838917.html).
 
 ## Requirements
 - Python 3.8
