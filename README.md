@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court to weigh state restrictions on gender-affirming care for youths**
+**Sources - Cleveland Cavaliers hiring Kenny Atkinson as coach**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3N1cHJlbWUtY291cnQvc3VwcmVtZS1jb3VydC13ZWlnaC1zdGF0ZS1yZXN0cmljdGlvbnMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLXlvdXRocy1yY25hMTQyODI10gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MjgyNQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwNDIwNDAxL3NvdXJjZXMtY2xldmVsYW5kLWNhdmFsaWVycy1oaXJpbmcta2VubnktYXRraW5zb24tY29hY2jSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
