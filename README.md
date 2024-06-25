@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Car dealerships in North America revert to pens and paper after cyberattacks on software provider**
+**Supreme Court to weigh state restrictions on gender-affirming care for youths**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/car-dealerships-north-america-revert-pens-paper-after-111364086).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL3N1cHJlbWUtY291cnQvc3VwcmVtZS1jb3VydC13ZWlnaC1zdGF0ZS1yZXN0cmljdGlvbnMtZ2VuZGVyLWFmZmlybWluZy1jYXJlLXlvdXRocy1yY25hMTQyODI10gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MjgyNQ?oc=5).
 
 ## Requirements
 - Python 3.8
