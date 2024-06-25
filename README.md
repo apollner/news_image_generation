@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Stock in Spotlight After Drop From Record High**
+**South Korea factory fire: At least 16 people killed. Rescue underway**
 
-You can read more about it [here](https://www.investopedia.com/nvidia-stock-in-spotlight-after-drop-from-record-high-8667927).
+You can read more about it [here](https://apnews.com/article/south-korea-battery-factory-fire-4e668dc7248e4de274aaf910c66359a0).
 
 ## Requirements
 - Python 3.8
