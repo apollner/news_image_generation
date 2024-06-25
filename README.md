@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea factory fire: At least 16 people killed. Rescue underway**
+**China wants EU to scrap planned higher tariffs and 'abide by WTO rules,' state media reports**
 
-You can read more about it [here](https://apnews.com/article/south-korea-battery-factory-fire-4e668dc7248e4de274aaf910c66359a0).
+You can read more about it [here](https://www.cnbc.com/2024/06/24/china-wants-eu-to-scrap-higher-tariffs-and-abide-by-wto-rules.html).
 
 ## Requirements
 - Python 3.8
