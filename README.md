@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Record companies sue AI music generators Suno, Udio**
+**After FBI raid, defiant Oakland mayor says she did nothing wrong and will not resign**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/06/24/suno-lawsuit-udio-sony-warner-umg-copyright/).
+You can read more about it [here](https://apnews.com/article/oakland-mayor-fbi-investigation-raid-fbe9e42c7e5ff71ca460ec8f8ce0dc60).
 
 ## Requirements
 - Python 3.8
