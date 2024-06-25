@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angel Reese leads furious comeback from 15 points down as Sky defeat Caitlin Clark's Fever**
+**Ben Affleck ditches ring during lunch with daughter as Jennifer Lopez vacations**
 
-You can read more about it [here](https://www.cbssports.com/wnba/news/angel-reese-leads-furious-comeback-from-15-points-down-as-sky-defeat-caitlin-clarks-fever/live/).
+You can read more about it [here](https://pagesix.com/2024/06/23/entertainment/ben-affleck-ditches-ring-during-lunch-with-daughter-as-jennifer-lopez-vacations/).
 
 ## Requirements
 - Python 3.8
