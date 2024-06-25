@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israel offensive into Lebanon risks an Iranian military response, top US military leader says**
+**Copa América: USMNT cruises to businesslike win over Bolivia on goals from Christian Pulisic, Folarin Balogun**
 
-You can read more about it [here](https://apnews.com/article/israel-offensive-lebanon-82d714dfca0d34fd44f565cf859818c0).
+You can read more about it [here](https://sports.yahoo.com/live/copa-america-usmnt-cruises-to-businesslike-win-over-bolivia-on-goals-from-christian-pulisic-folarin-balogun-210338370.html).
 
 ## Requirements
 - Python 3.8
