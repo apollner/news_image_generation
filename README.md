@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Canned coffee recalled over deadly toxin fears**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/canned-coffee-recalled-over-deadly-toxin-fears).
 
 ## Requirements
 - Python 3.8
