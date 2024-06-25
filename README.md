@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One million under flood warnings as heavy rain hits upper Midwest**
+**Six climate protesters run onto 18th green and spray powder, delaying finish of PGA Tour event**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6ppp4z85y0o).
+You can read more about it [here](https://apnews.com/article/travelers-championship-intruders-18th-hole-police-bc3e9408e9417b8520fe866795761fe2).
 
 ## Requirements
 - Python 3.8
