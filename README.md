@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 Columbia University administrators put on leave over alleged text exchange at antisemitism panel**
+**Ben Affleck Ditches Wedding Ring During Dinner Date With Daughter Violet as Jennifer Lopez Vacations in Italy**
 
-You can read more about it [here](https://apnews.com/article/columbia-university-administrators-antisemitism-text-6b440557180503c32571bd2e50038b82).
+You can read more about it [here](https://www.etonline.com/ben-affleck-ditches-wedding-ring-during-dinner-date-with-daughter-violet-as-jennifer-lopez).
 
 ## Requirements
 - Python 3.8
