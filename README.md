@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sweltering temperatures persist across the US, while floodwaters inundate the Midwest**
+**Mets' Diaz ejected for foreign substance, faces 10-game ban**
 
-You can read more about it [here](https://www.yahoo.com/news/sweltering-temperatures-persist-across-us-050838917.html).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40418341/mets-diaz-ejected-having-foreign-substance-faces-ban).
 
 ## Requirements
 - Python 3.8
