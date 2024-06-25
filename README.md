@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family whose home was hit by space debris seeks damages from NASA**
+**I-29 closed in SE KELOLAND**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/06/23/florida-space-debris-nasa/).
+You can read more about it [here](https://www.keloland.com/news/local-news/i-29-closed-in-se-keloland/).
 
 ## Requirements
 - Python 3.8
