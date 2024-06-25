@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Copa América: USMNT cruises to businesslike win over Bolivia on goals from Christian Pulisic, Folarin Balogun**
+**European Union regulators accuse Apple of breaching the bloc's tech rules**
 
-You can read more about it [here](https://sports.yahoo.com/live/copa-america-usmnt-cruises-to-businesslike-win-over-bolivia-on-goals-from-christian-pulisic-folarin-balogun-210338370.html).
+You can read more about it [here](https://www.cnbc.com/2024/06/24/apple-app-store-rules-are-in-breach-eu-tech-rules-regulators-say.html).
 
 ## Requirements
 - Python 3.8
