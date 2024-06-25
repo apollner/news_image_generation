@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A ketamine pill may help hard-to-treat depression with fewer side effects, early research suggests**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/06/24/health/ketamine-pill-depression-fewer-side-effects/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
