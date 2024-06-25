@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jain Raises $5.3 Billion in Biggest Hedge Fund Debut Since 2018**
+**China wants EU to scrap EV tariff plans as talks start**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-06-24/jain-raises-5-3-billion-in-biggest-hedge-fund-debut-since-2018).
+You can read more about it [here](https://www.reuters.com/markets/china-wants-eu-scrap-ev-tariffs-evs-by-july-4-chinese-state-media-reports-2024-06-24/).
 
 ## Requirements
 - Python 3.8
