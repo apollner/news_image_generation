@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets' Diaz ejected for foreign substance, faces 10-game ban**
+**Nvidia Stock in Spotlight After Drop From Record High**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40418341/mets-diaz-ejected-having-foreign-substance-faces-ban).
+You can read more about it [here](https://www.investopedia.com/nvidia-stock-in-spotlight-after-drop-from-record-high-8667927).
 
 ## Requirements
 - Python 3.8
