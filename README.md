@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden debate prep strategy: Be prepared for two different Trumps**
+**Record companies sue AI music generators Suno, Udio**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/debate-prep-trump-biden-rcna158667).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/06/24/suno-lawsuit-udio-sony-warner-umg-copyright/).
 
 ## Requirements
 - Python 3.8
