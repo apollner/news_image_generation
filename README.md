@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than a dozen killed in synagogue, church attacks in Russia’s Dagestan**
+**Angel Reese leads furious comeback from 15 points down as Sky defeat Caitlin Clark's Fever**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/23/synagogue-church-attacks-in-russias-dagestan-kill-police-report).
+You can read more about it [here](https://www.cbssports.com/wnba/news/angel-reese-leads-furious-comeback-from-15-points-down-as-sky-defeat-caitlin-clarks-fever/live/).
 
 ## Requirements
 - Python 3.8
