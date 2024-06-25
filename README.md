@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronauts' return on Boeing's spaceship faces repeated delays**
+**2024 NBA Draft: Dates, times and everything you need to know about the top prospects**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/nasa-astronauts-return-boeing-starliner-spaceship-delayed-rcna158577).
+You can read more about it [here](https://sports.yahoo.com/2024-nba-draft-dates-times-and-everything-you-need-to-know-about-the-top-prospects-194122636.html).
 
 ## Requirements
 - Python 3.8
