@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the $100-million plan to restore abortion rights in America**
+**Fast fashion retailer Shein confidentially files for London IPO as U.S. listing stalls**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/24/abortion-rights-advocates-launch-100-million-campaign-00164528).
+You can read more about it [here](https://www.cnbc.com/2024/06/24/shein-files-for-london-ipo.html).
 
 ## Requirements
 - Python 3.8
