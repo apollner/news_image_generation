@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu scrambles to contain backlash to comments on ceasefire deal as hostage families release new video**
+**Kevin Costner Says He Finally Confirmed His ‘Yellowstone’ Exit Because “I Don’t Need Drama”**
 
-You can read more about it [here](https://www.cnn.com/2024/06/24/middleeast/israel-hostage-forum-video-netanyahu-intl/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/kevin-costner-why-he-confirmed-yellowstone-exit-1235931486/).
 
 ## Requirements
 - Python 3.8
