@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tennessee vs Texas A&M live score updates in College World Series final Game 3**
+**Netanyahu scrambles to contain backlash to comments on ceasefire deal as hostage families release new video**
 
-You can read more about it [here](https://www.knoxnews.com/story/sports/college/university-of-tennessee/other-sports/2024/06/24/tennessee-texas-am-score-updates-ncaa-baseball-college-world-series-game-3/74189247007/).
+You can read more about it [here](https://www.cnn.com/2024/06/24/middleeast/israel-hostage-forum-video-netanyahu-intl/index.html).
 
 ## Requirements
 - Python 3.8
