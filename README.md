@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court rulings leave student loan borrowers waiting for Biden relief**
+**CDC warns of increased Dengue fever risk across the U.S.**
 
-You can read more about it [here](https://www.usatoday.com/story/news/education/2024/06/25/student-loan-forgiveness-update-biden-plan/74205342007/).
+You can read more about it [here](https://www.nbcnews.com/news/latino/cdc-warns-increased-dengue-fever-risk-us-rcna158851).
 
 ## Requirements
 - Python 3.8
