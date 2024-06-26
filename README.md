@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu scrambles to contain backlash to comments on ceasefire deal as hostage families release new video**
+**Apple shelved the idea of integrating Meta's AI models over privacy concerns, report says**
 
-You can read more about it [here](https://www.cnn.com/2024/06/24/middleeast/israel-hostage-forum-video-netanyahu-intl/index.html).
+You can read more about it [here](https://techcrunch.com/2024/06/24/apple-shelved-the-idea-of-integrating-metas-ai-models-over-privacy-concerns-report-says/).
 
 ## Requirements
 - Python 3.8
