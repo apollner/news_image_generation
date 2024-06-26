@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**June 24, 2024 Israel-Hamas war**
+**Falcon Heavy launch in Florida: How to watch in Palm Beaches**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-hamas-war-gaza-news-06-24-24/index.html).
+You can read more about it [here](https://www.palmbeachpost.com/story/news/2024/06/24/nasa-falcon-heavy-launch-florida-west-palm/74191117007/).
 
 ## Requirements
 - Python 3.8
