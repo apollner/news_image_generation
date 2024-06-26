@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lifeguard and ‘Pirates of the Caribbean’ actor dies after apparent shark attack in Hawaii**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/06/24/us/tamayo-perry-death-pirates-of-the-caribbean/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
