@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Anne suffering memory loss after sustaining horse-related head injury: report**
+**Court rulings leave student loan borrowers waiting for Biden relief**
 
-You can read more about it [here](https://nypost.com/2024/06/25/entertainment/princess-anne-suffering-memory-loss-after-sustaining-horse-related-head-injury-report/).
+You can read more about it [here](https://www.usatoday.com/story/news/education/2024/06/25/student-loan-forgiveness-update-biden-plan/74205342007/).
 
 ## Requirements
 - Python 3.8
