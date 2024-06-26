@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Record companies sue AI music generators Suno, Udio**
+**Katy Perry, Kylie Jenner and Doja Cat step out in couture during Paris Fashion Week: See all the fashion-forward looks so far**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/06/24/suno-lawsuit-udio-sony-warner-umg-copyright/).
+You can read more about it [here](https://www.yahoo.com/entertainment/katy-perry-kylie-jenner-and-doja-cat-step-out-in-couture-during-paris-fashion-week-see-all-the-fashion-forward-looks-so-far-002620301.html).
 
 ## Requirements
 - Python 3.8
