@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TSA says it screened a record of nearly 3 million people Sunday, and bigger crowds are on the way**
+**Minnesota's Rapidan Dam in 'imminent failure condition', officials say**
 
-You can read more about it [here](https://apnews.com/article/travel-record-tsa-airports-summer-holiday-d0b289878cd23cc2c4044ba6b36d0de7).
+You can read more about it [here](https://www.inforum.com/news/minnesota/minnesotas-rapidan-dam-in-imminent-failure-condition-officials-say).
 
 ## Requirements
 - Python 3.8
