@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police fire on demonstrators trying to storm Kenya parliament, several dead**
+**Princess Anne suffering memory loss after sustaining horse-related head injury: report**
 
-You can read more about it [here](https://www.reuters.com/world/africa/young-kenyan-tax-protesters-plan-nationwide-demonstrations-2024-06-25/).
+You can read more about it [here](https://nypost.com/2024/06/25/entertainment/princess-anne-suffering-memory-loss-after-sustaining-horse-related-head-injury-report/).
 
 ## Requirements
 - Python 3.8
