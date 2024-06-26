@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More rain is possible in the deluged Midwest as flooding kills 2 and threatens a dam**
+**Motorola's 2024 Razr phones are ready to make a splash**
 
-You can read more about it [here](https://www.npr.org/2024/06/25/nx-s1-5018532/flood-midwest-more-rain-forecast-rapidan-dam-mankato).
+You can read more about it [here](https://www.theverge.com/2024/6/25/24185177/motorola-razr-plus-2024-flip-phone-screen-battery-price).
 
 ## Requirements
 - Python 3.8
