@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Motorola's 2024 Razr phones are ready to make a splash**
+**NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy - NASASpaceFlight.com**
 
-You can read more about it [here](https://www.theverge.com/2024/6/25/24185177/motorola-razr-plus-2024-flip-phone-screen-battery-price).
+You can read more about it [here](https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/).
 
 ## Requirements
 - Python 3.8
