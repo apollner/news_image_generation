@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where is the Rapidan Dam and what is its history?**
+**Mets manager Carlos Mendoza's connection to Yankees in Subway Series**
 
-You can read more about it [here](https://www.cbsnews.com/minnesota/news/what-is-the-history-of-the-rapidan-dam-in-southern-minnesota/).
+You can read more about it [here](https://www.mlb.com/news/mets-manager-carlos-mendoza-s-connection-to-yankees-in-subway-series).
 
 ## Requirements
 - Python 3.8
