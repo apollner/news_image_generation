@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who Is Julian Assange? A Look at the WikiLeaks Founder**
+**How SpaceX may rescue Boeing Starliner's stranded astronauts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMjUvdXMvcG9saXRpY3MvanVsaWFuLWFzc2FuZ2Utd2lraWxlYWtzLXBsZWEtZGVhbC5odG1s0gEA?oc=5).
+You can read more about it [here](https://nypost.com/2024/06/25/us-news/how-spacex-could-end-up-rescuing-stranded-astronauts-if-boeings-starliner-cant-be-fixed/).
 
 ## Requirements
 - Python 3.8
