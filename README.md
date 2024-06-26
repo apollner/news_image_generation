@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court rulings leave student loan borrowers waiting for Biden relief**
+**Who Is Julian Assange? A Look at the WikiLeaks Founder**
 
-You can read more about it [here](https://www.usatoday.com/story/news/education/2024/06/25/student-loan-forgiveness-update-biden-plan/74205342007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMjUvdXMvcG9saXRpY3MvanVsaWFuLWFzc2FuZ2Utd2lraWxlYWtzLXBsZWEtZGVhbC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
