@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WikiLeaks founder Julian Assange's plane leaves Bangkok on his way to a US court and later freedom**
+**SolarEdge Stock Tumbles After Customer Bankruptcy. There’s More Bad News.**
 
-You can read more about it [here](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40).
+You can read more about it [here](https://www.barrons.com/articles/solaredge-stock-price-bankruptcy-d55a6924).
 
 ## Requirements
 - Python 3.8
