@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maryland couple 'walked for hours' before dying in Hajj heat**
+**Lifeguard and ‘Pirates of the Caribbean’ actor dies after apparent shark attack in Hawaii**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cw000kp55d2o).
+You can read more about it [here](https://www.cnn.com/2024/06/24/us/tamayo-perry-death-pirates-of-the-caribbean/index.html).
 
 ## Requirements
 - Python 3.8
