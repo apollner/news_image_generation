@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift says she is 'swooning' over Travis Kelce's tour debut: See photos**
+**Police patrols increased after protesters clash outside Los Angeles synagogue**
 
-You can read more about it [here](https://goodmorningamerica.com/culture/story/taylor-swift-takes-wembley-3-nights-best-photos-111370001).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/police-patrols-increased-protesters-clash-los-angeles-synagogue-rcna158671).
 
 ## Requirements
 - Python 3.8
