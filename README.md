@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tony Brass withdraws from representing Oakland Mayor Sheng Thao**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/oakland-mayor-sheng-thao-fbi-raid-attorney-tony-brass-withdraws/).
 
 ## Requirements
 - Python 3.8
