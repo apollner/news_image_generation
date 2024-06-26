@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner Says He Finally Confirmed His ‘Yellowstone’ Exit Because “I Don’t Need Drama”**
+**Taylor Swift says she is 'swooning' over Travis Kelce's tour debut: See photos**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/kevin-costner-why-he-confirmed-yellowstone-exit-1235931486/).
+You can read more about it [here](https://goodmorningamerica.com/culture/story/taylor-swift-takes-wembley-3-nights-best-photos-111370001).
 
 ## Requirements
 - Python 3.8
