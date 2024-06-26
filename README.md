@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists identify new Antarctic ice sheet ‘tipping point,’ warning future sea level rise may be underestimated**
+**Moldova joins Ukraine in big step on path to joining EU**
 
-You can read more about it [here](https://www.cnn.com/2024/06/25/climate/antarctic-ice-sheet-tipping-point-sea-level-rise-climate-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cg330w2x7g3o).
 
 ## Requirements
 - Python 3.8
