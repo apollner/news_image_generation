@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tony Brass withdraws from representing Oakland Mayor Sheng Thao**
+**Amazon Prime Day 2024 will take place on July 16th and 17th**
 
-You can read more about it [here](https://www.cbsnews.com/sanfrancisco/news/oakland-mayor-sheng-thao-fbi-raid-attorney-tony-brass-withdraws/).
+You can read more about it [here](https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale).
 
 ## Requirements
 - Python 3.8
