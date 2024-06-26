@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Court rulings leave student loan borrowers waiting for Biden relief**
+**Where is the Rapidan Dam and what is its history?**
 
-You can read more about it [here](https://www.usatoday.com/story/news/education/2024/06/25/student-loan-forgiveness-update-biden-plan/74205342007/).
+You can read more about it [here](https://www.cbsnews.com/minnesota/news/what-is-the-history-of-the-rapidan-dam-in-southern-minnesota/).
 
 ## Requirements
 - Python 3.8
