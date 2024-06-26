@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SolarEdge Stock Tumbles After Customer Bankruptcy. There’s More Bad News.**
+**Police fire on demonstrators trying to storm Kenya parliament, several dead**
 
-You can read more about it [here](https://www.barrons.com/articles/solaredge-stock-price-bankruptcy-d55a6924).
+You can read more about it [here](https://www.reuters.com/world/africa/young-kenyan-tax-protesters-plan-nationwide-demonstrations-2024-06-25/).
 
 ## Requirements
 - Python 3.8
