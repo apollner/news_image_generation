@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Julian Assange is free’: Wikileaks founder freed in deal with US**
+**TSA says it screened a record of nearly 3 million people Sunday, and bigger crowds are on the way**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/25/julian-assange-is-free-wikileaks-founder-freed-in-deal-with-us).
+You can read more about it [here](https://apnews.com/article/travel-record-tsa-airports-summer-holiday-d0b289878cd23cc2c4044ba6b36d0de7).
 
 ## Requirements
 - Python 3.8
