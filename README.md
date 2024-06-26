@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maker of weight loss drugs to build $4.1B factory in North Carolina**
+**‘Julian Assange is free’: Wikileaks founder freed in deal with US**
 
-You can read more about it [here](https://thehill.com/homenews/4737994-novo-nordisk-ozempic-wegovy-maker-new-facility-north-carolina/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/25/julian-assange-is-free-wikileaks-founder-freed-in-deal-with-us).
 
 ## Requirements
 - Python 3.8
