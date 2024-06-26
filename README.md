@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police patrols increased after protesters clash outside Los Angeles synagogue**
+**Netanyahu scrambles to contain backlash to comments on ceasefire deal as hostage families release new video**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/police-patrols-increased-protesters-clash-los-angeles-synagogue-rcna158671).
+You can read more about it [here](https://www.cnn.com/2024/06/24/middleeast/israel-hostage-forum-video-netanyahu-intl/index.html).
 
 ## Requirements
 - Python 3.8
