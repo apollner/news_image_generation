@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moldova joins Ukraine in big step on path to joining EU**
+**More rain is possible in the deluged Midwest as flooding kills 2 and threatens a dam**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cg330w2x7g3o).
+You can read more about it [here](https://www.npr.org/2024/06/25/nx-s1-5018532/flood-midwest-more-rain-forecast-rapidan-dam-mankato).
 
 ## Requirements
 - Python 3.8
