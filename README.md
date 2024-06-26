@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katy Perry, Kylie Jenner and Doja Cat step out in couture during Paris Fashion Week: See all the fashion-forward looks so far**
+**Falcon Heavy launch in Florida: How to watch in Palm Beaches**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/katy-perry-kylie-jenner-and-doja-cat-step-out-in-couture-during-paris-fashion-week-see-all-the-fashion-forward-looks-so-far-002620301.html).
+You can read more about it [here](https://www.palmbeachpost.com/story/news/2024/06/24/nasa-falcon-heavy-launch-florida-west-palm/74191117007/).
 
 ## Requirements
 - Python 3.8
