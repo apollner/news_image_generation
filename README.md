@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets manager Carlos Mendoza's connection to Yankees in Subway Series**
+**Consumer confidence, Nvidia rebounds, space regulation: Catalysts**
 
-You can read more about it [here](https://www.mlb.com/news/mets-manager-carlos-mendoza-s-connection-to-yankees-in-subway-series).
+You can read more about it [here](https://finance.yahoo.com/video/consumer-confidence-nvidia-rebounds-space-163643421.html).
 
 ## Requirements
 - Python 3.8
