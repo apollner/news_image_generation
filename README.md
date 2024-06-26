@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota's Rapidan Dam in 'imminent failure condition', officials say**
+**Maryland couple 'walked for hours' before dying in Hajj heat**
 
-You can read more about it [here](https://www.inforum.com/news/minnesota/minnesotas-rapidan-dam-in-imminent-failure-condition-officials-say).
+You can read more about it [here](https://www.bbc.com/news/articles/cw000kp55d2o).
 
 ## Requirements
 - Python 3.8
