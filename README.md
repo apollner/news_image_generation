@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falcon Heavy launch in Florida: How to watch in Palm Beaches**
+**Maker of weight loss drugs to build $4.1B factory in North Carolina**
 
-You can read more about it [here](https://www.palmbeachpost.com/story/news/2024/06/24/nasa-falcon-heavy-launch-florida-west-palm/74191117007/).
+You can read more about it [here](https://thehill.com/homenews/4737994-novo-nordisk-ozempic-wegovy-maker-new-facility-north-carolina/).
 
 ## Requirements
 - Python 3.8
