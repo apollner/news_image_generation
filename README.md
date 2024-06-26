@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy - NASASpaceFlight.com**
+**Hunter Biden files for new gun trial on a technicality**
 
-You can read more about it [here](https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/).
+You can read more about it [here](https://www.bbc.com/news/articles/cd117zq5rdyo).
 
 ## Requirements
 - Python 3.8
