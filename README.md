@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumer confidence, Nvidia rebounds, space regulation: Catalysts**
+**Court rulings leave student loan borrowers waiting for Biden relief**
 
-You can read more about it [here](https://finance.yahoo.com/video/consumer-confidence-nvidia-rebounds-space-163643421.html).
+You can read more about it [here](https://www.usatoday.com/story/news/education/2024/06/25/student-loan-forgiveness-update-biden-plan/74205342007/).
 
 ## Requirements
 - Python 3.8
