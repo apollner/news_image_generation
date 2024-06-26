@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU charges Microsoft with antitrust violations over Teams**
+**Moldova joins Ukraine in big step on path to joining EU**
 
-You can read more about it [here](https://www.ft.com/content/eb83bb45-84b3-4c58-9589-684029d23243).
+You can read more about it [here](https://www.bbc.com/news/articles/cg330w2x7g3o).
 
 ## Requirements
 - Python 3.8
