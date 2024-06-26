@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Netanyahu scrambles to contain backlash to comments on ceasefire deal as hostage families release new video**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/06/24/middleeast/israel-hostage-forum-video-netanyahu-intl/index.html).
 
 ## Requirements
 - Python 3.8
