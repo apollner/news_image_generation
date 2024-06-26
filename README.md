@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden files for new gun trial on a technicality**
+**WikiLeaks founder Julian Assange's plane leaves Bangkok on his way to a US court and later freedom**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd117zq5rdyo).
+You can read more about it [here](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40).
 
 ## Requirements
 - Python 3.8
