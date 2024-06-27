@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emma Hayes Names 2024 U.S. Olympic Women's Soccer Team**
+**CDC advisers narrow age recommendation for RSV shots in US**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2024/06/emma-hayes-names-uswnt-roster-for-the-2024-paris-olympics).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/cdc-advisers-narrow-age-recommendation-for-rsv-shots-in-us-101719431578408.html).
 
 ## Requirements
 - Python 3.8
