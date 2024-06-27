@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dr Disrespect says Twitch ban followed messages to minor**
+**Police fire on demonstrators trying to storm Kenya parliament, several dead**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/06/25/dr-disrespect-twitch-ban-allegations-statement/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FmcmljYS95b3VuZy1rZW55YW4tdGF4LXByb3Rlc3RlcnMtcGxhbi1uYXRpb253aWRlLWRlbW9uc3RyYXRpb25zLTIwMjQtMDYtMjUv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
