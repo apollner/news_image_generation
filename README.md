@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite launches to keep an eye on space weather as solar activity ramps up**
+**Lauren Boebert wins crowded House GOP primary in new Colorado district**
 
-You can read more about it [here](https://www.cnn.com/2024/06/25/science/goes-u-nasa-noaa-weather-satellite-launch-scn/index.html).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/lauren-boebert-wins-colorado-4th-congressional-district-republican-primary/).
 
 ## Requirements
 - Python 3.8
