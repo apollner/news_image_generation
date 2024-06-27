@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source - Jim Schlossnagle leaves Texas A&M for Texas baseball job**
+**Knicks acquire Mikal Bridges from Nets in stunning NBA trade**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmVzcG4uY29tL2NvbGxlZ2Utc3BvcnRzL3N0b3J5L18vaWQvNDA0MzIwMjkvcmVwb3J0cy1qaW0tc2NobG9zc25hZ2xlLWxlYXZpbmctdGV4YXMtdGV4YXMtYmFzZWJhbGwtam9i0gEA?oc=5).
+You can read more about it [here](https://nypost.com/2024/06/25/sports/knicks-acquire-mikal-bridges-from-nets-in-stunning-nba-trade/).
 
 ## Requirements
 - Python 3.8
