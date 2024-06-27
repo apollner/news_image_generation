@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EXCLUSIVE: First-hand account of Oakland Mayor Sheng Thao donor paying to help her 2022 campaign**
+**IATSE Reaches Tentative Agreement on Basic Agreement With Studios and Streamers**
 
-You can read more about it [here](https://abc7news.com/post/exclusive-hand-account-oakland-mayor-sheng-thao-donor/15000764/).
+You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/iatse-tentative-agreement-studios-streamers-1235932608/).
 
 ## Requirements
 - Python 3.8
