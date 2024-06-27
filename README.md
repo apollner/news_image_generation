@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Figma announces big redesign with AI**
+**Kevin Durant trade rumors: Rockets now have the assets to take a swing at Suns star, if he's available**
 
-You can read more about it [here](https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides).
+You can read more about it [here](https://www.cbssports.com/nba/news/kevin-durant-trade-rumors-rockets-now-have-the-assets-to-take-a-swing-at-suns-star-if-hes-available/).
 
 ## Requirements
 - Python 3.8
