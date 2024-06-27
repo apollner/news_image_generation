@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Supreme Court rules for Biden administration in a social media dispute with conservative states**
+**Figma announces big redesign with AI**
 
-You can read more about it [here](https://admin.google.com/ServiceNotAllowed).
+You can read more about it [here](https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides).
 
 ## Requirements
 - Python 3.8
