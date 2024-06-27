@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Growing wildfire in central Oregon chars over 250 acres, prompts evacuations**
+**Kevin Costner steps out with kids at 'Horizon' film premiere in Los Angeles**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/darlene-3-wildfire-central-oregon-chars-acres-prompts-evacuations-rcna158962).
+You can read more about it [here](https://goodmorningamerica.com/culture/story/kevin-costner-steps-kids-horizon-film-premiere-los-111417072).
 
 ## Requirements
 - Python 3.8
