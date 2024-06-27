@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emma Hayes Names 2024 U.S. Olympic Women's Soccer Team**
+**The Supreme Court rules for Biden administration in a social media dispute with conservative states**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2024/06/emma-hayes-names-uswnt-roster-for-the-2024-paris-olympics).
+You can read more about it [here](https://admin.google.com/ServiceNotAllowed).
 
 ## Requirements
 - Python 3.8
