@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vinnie Viola delivers on promise as Florida Panthers win first-ever Stanley Cup**
+**Source - Jim Schlossnagle leaves Texas A&M for Texas baseball job**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/25/vinnie-viola-helps-deliver-florida-panthers-first-ever-stanley-cup.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmVzcG4uY29tL2NvbGxlZ2Utc3BvcnRzL3N0b3J5L18vaWQvNDA0MzIwMjkvcmVwb3J0cy1qaW0tc2NobG9zc25hZ2xlLWxlYXZpbmctdGV4YXMtdGV4YXMtYmFzZWJhbGwtam9i0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
