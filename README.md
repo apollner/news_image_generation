@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Most Americans plan to watch Biden-Trump debate, and many see high stakes, AP-NORC poll finds**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/poll-biden-trump-debate-apnorc-cc9e16ef147507162e22c96ddb889ee8).
 
 ## Requirements
 - Python 3.8
