@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Justin Trudeau digs in after Liberal drubbing in Toronto by-election - POLITICO**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMjUvdHJ1ZGVhdS1saWJlcmFsLWNhbmFkYS0wMDE2NDkzN9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
