@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenyan President Ruto withdraws controversial finance bill following deadly protests**
+**Former Honduran President sentenced to 45 years in US prison**
 
-You can read more about it [here](https://www.cnn.com/2024/06/26/africa/kenyan-president-rejects-finance-bill-intl/index.html).
+You can read more about it [here](https://apnews.com/article/honduras-president-juan-orlando-hernandez-corruption-3f98be974c58bb8a1b492108c4a7f297).
 
 ## Requirements
 - Python 3.8
