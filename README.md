@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**From Trump's immunity to abortion, the Supreme Court's most controversial decisions this term are about to drop**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/06/26/supreme-court-decisions-guide-00165003).
 
 ## Requirements
 - Python 3.8
