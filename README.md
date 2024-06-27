@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IATSE Reaches Tentative Agreement on Basic Agreement With Studios and Streamers**
+**CDC warns of increased risk of dengue virus in US**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/iatse-tentative-agreement-studios-streamers-1235932608/).
+You can read more about it [here](https://thehill.com/policy/healthcare/4740310-cdc-increased-risk-dengue-virus-us/).
 
 ## Requirements
 - Python 3.8
