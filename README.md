@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Rockets seeking trade for KD, Booker or other 'major upgrade'**
+**CDC warns of increased risk of dengue virus in US**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/nba-rumors-rockets-kevin-durant-trade/1748536/?partner=yahoo).
+You can read more about it [here](https://thehill.com/policy/healthcare/4740310-cdc-increased-risk-dengue-virus-us/).
 
 ## Requirements
 - Python 3.8
