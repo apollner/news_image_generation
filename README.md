@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court allows White House to press social media companies to remove disinformation**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yNi9wb2xpdGljcy9zb2NpYWwtbWVkaWEtZGlzaW5mb3JtYXRpb24tc3VwcmVtZS1jb3VydC1ydWxpbmcvaW5kZXguaHRtbNIBXGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMjYvcG9saXRpY3Mvc29jaWFsLW1lZGlhLWRpc2luZm9ybWF0aW9uLXN1cHJlbWUtY291cnQtcnVsaW5n?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
