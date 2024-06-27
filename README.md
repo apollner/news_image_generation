@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Durant trade rumors: Rockets now have the assets to take a swing at Suns star, if he's available**
+**An AI version of Al Michaels will deliver Olympic recaps on Peacock**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/kevin-durant-trade-rumors-rockets-now-have-the-assets-to-take-a-swing-at-suns-star-if-hes-available/).
+You can read more about it [here](https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps).
 
 ## Requirements
 - Python 3.8
