@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC advisers narrow age recommendation for RSV shots in US**
+**Figma CEO on failed Adobe deal, startup landscape, big redesign with AI**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/cdc-advisers-narrow-age-recommendation-for-rsv-shots-in-us-101719431578408.html).
+You can read more about it [here](https://www.youtube.com/watch?v=URcJCad4SsI).
 
 ## Requirements
 - Python 3.8
