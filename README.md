@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Figma CEO on failed Adobe deal, startup landscape, big redesign with AI**
+**Kenyan President Ruto withdraws controversial finance bill following deadly protests**
 
-You can read more about it [here](https://www.youtube.com/watch?v=URcJCad4SsI).
+You can read more about it [here](https://www.cnn.com/2024/06/26/africa/kenyan-president-rejects-finance-bill-intl/index.html).
 
 ## Requirements
 - Python 3.8
