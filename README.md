@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From Trump's immunity to abortion, the Supreme Court's most controversial decisions this term are about to drop**
+**2024 NBA Mock Draft: Two-round projection has Bronny James staying home, Knicks getting point guard depth**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/26/supreme-court-decisions-guide-00165003).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-mock-draft-two-round-projection-has-bronny-james-staying-home-knicks-getting-point-guard-depth/).
 
 ## Requirements
 - Python 3.8
