@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner: Why are the astronauts still in space?**
+**Report: Rockets seeking trade for KD, Booker or other 'major upgrade'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6pp29gdwe6o).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/nba-rumors-rockets-kevin-durant-trade/1748536/?partner=yahoo).
 
 ## Requirements
 - Python 3.8
