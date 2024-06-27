@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner steps out with kids at 'Horizon' film premiere in Los Angeles**
+**Satellite launches to keep an eye on space weather as solar activity ramps up**
 
-You can read more about it [here](https://goodmorningamerica.com/culture/story/kevin-costner-steps-kids-horizon-film-premiere-los-111417072).
+You can read more about it [here](https://www.cnn.com/2024/06/25/science/goes-u-nasa-noaa-weather-satellite-launch-scn/index.html).
 
 ## Requirements
 - Python 3.8
