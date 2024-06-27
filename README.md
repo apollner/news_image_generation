@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From Trump's immunity to abortion, the Supreme Court's most controversial decisions this term are about to drop**
+**IATSE, AMPTP Reach Tentative Agreement on New Contract**
 
-You can read more about it [here](https://www.politico.com/news/2024/06/26/supreme-court-decisions-guide-00165003).
+You can read more about it [here](https://variety.com/2024/film/news/iatse-amptp-tentative-agreement-1236048848/).
 
 ## Requirements
 - Python 3.8
