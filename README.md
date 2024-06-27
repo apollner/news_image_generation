@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police fire on demonstrators trying to storm Kenya parliament, several dead**
+**Growing wildfire in central Oregon chars over 250 acres, prompts evacuations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FmcmljYS95b3VuZy1rZW55YW4tdGF4LXByb3Rlc3RlcnMtcGxhbi1uYXRpb253aWRlLWRlbW9uc3RyYXRpb25zLTIwMjQtMDYtMjUv0gEA?oc=5).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/darlene-3-wildfire-central-oregon-chars-acres-prompts-evacuations-rcna158962).
 
 ## Requirements
 - Python 3.8
