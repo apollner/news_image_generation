@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are the ice cream brands recalled over listeria risk - The Washington Post**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/26/ice-cream-recalls-listeria-totally-cool/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
