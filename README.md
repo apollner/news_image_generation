@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Children are dying of starvation in their parents’ arms as famine spreads through Gaza**
+**From Trump's immunity to abortion, the Supreme Court's most controversial decisions this term are about to drop**
 
-You can read more about it [here](https://www.cnn.com/2024/06/25/middleeast/israel-gaza-children-starvation-malnutrition-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/06/26/supreme-court-decisions-guide-00165003).
 
 ## Requirements
 - Python 3.8
