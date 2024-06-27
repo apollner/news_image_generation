@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Windows on Arm finally has legs**
+**An AI version of Al Michaels will deliver Olympic recaps on Peacock**
 
-You can read more about it [here](https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator).
+You can read more about it [here](https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps).
 
 ## Requirements
 - Python 3.8
