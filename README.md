@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How SpaceX may rescue Boeing Starliner's stranded astronauts**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/06/25/us-news/how-spacex-could-end-up-rescuing-stranded-astronauts-if-boeings-starliner-cant-be-fixed/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
