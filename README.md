@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IATSE, AMPTP Reach Tentative Agreement on New Contract**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2024/film/news/iatse-amptp-tentative-agreement-1236048848/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
