@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Vinnie Viola delivers on promise as Florida Panthers win first-ever Stanley Cup**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/06/25/vinnie-viola-helps-deliver-florida-panthers-first-ever-stanley-cup.html).
 
 ## Requirements
 - Python 3.8
