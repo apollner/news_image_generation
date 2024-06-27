@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lauren Boebert wins crowded House GOP primary in new Colorado district**
+**Julian Assange ends stalemate with US, exchanging guilty plea for his freedom**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/lauren-boebert-wins-colorado-4th-congressional-district-republican-primary/).
+You can read more about it [here](https://www.cnn.com/2024/06/25/world/julian-assange-plea-deal-hearing-intl/index.html).
 
 ## Requirements
 - Python 3.8
