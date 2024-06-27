@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This smiling robot face made of living skin is absolute nightmare fuel**
+**Dr Disrespect says Twitch ban followed messages to minor**
 
-You can read more about it [here](https://techcrunch.com/2024/06/25/this-smiling-robot-face-made-of-living-skin-is-absolute-nightmare-fuel/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/06/25/dr-disrespect-twitch-ban-allegations-statement/).
 
 ## Requirements
 - Python 3.8
