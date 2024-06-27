@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julian Assange ends stalemate with US, exchanging guilty plea for his freedom**
+**EXCLUSIVE: First-hand account of Oakland Mayor Sheng Thao donor paying to help her 2022 campaign**
 
-You can read more about it [here](https://www.cnn.com/2024/06/25/world/julian-assange-plea-deal-hearing-intl/index.html).
+You can read more about it [here](https://abc7news.com/post/exclusive-hand-account-oakland-mayor-sheng-thao-donor/15000764/).
 
 ## Requirements
 - Python 3.8
