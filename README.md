@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Mock Draft: Two-round projection has Bronny James staying home, Knicks getting point guard depth**
+**Supreme Court allows White House to press social media companies to remove disinformation**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-mock-draft-two-round-projection-has-bronny-james-staying-home-knicks-getting-point-guard-depth/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yNi9wb2xpdGljcy9zb2NpYWwtbWVkaWEtZGlzaW5mb3JtYXRpb24tc3VwcmVtZS1jb3VydC1ydWxpbmcvaW5kZXguaHRtbNIBXGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMjYvcG9saXRpY3Mvc29jaWFsLW1lZGlhLWRpc2luZm9ybWF0aW9uLXN1cHJlbWUtY291cnQtcnVsaW5n?oc=5).
 
 ## Requirements
 - Python 3.8
