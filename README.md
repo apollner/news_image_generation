@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US intel indicates war between Israel and Hezbollah inching closer**
+**‘The Bear’ Star Jeremy Allen White Explains Season 3’s Stunning First Episode**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMjcvdXMtaW50ZWxsaWdlbmNlLWlzcmFlbC1oZXpib2xsYWgtd2FyLTAwMTY1MzM40gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYmVhci1zZWFzb24tMy1qZXJlbXktYWxsZW4td2hpdGUtZmlyc3QtZXBpc29kZS0xMjM1OTMzODc3L9IBc2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYmVhci1zZWFzb24tMy1qZXJlbXktYWxsZW4td2hpdGUtZmlyc3QtZXBpc29kZS0xMjM1OTMzODc3L2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
