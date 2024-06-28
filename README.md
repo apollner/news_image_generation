@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court decision allows pregnant people in Idaho to access emergency abortion care — for now**
+**Jury deliberations enter third day in Karen Read murder trial: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yNi9oZWFsdGgvZW10YWxhLWVtZXJnZW5jeS1jYXJlLXNjb3R1cy9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8yNi9oZWFsdGgvZW10YWxhLWVtZXJnZW5jeS1jYXJlLXNjb3R1cw?oc=5).
+You can read more about it [here](https://www.nbcboston.com/news/local/karen-read-verdict-updates-2/3411567/).
 
 ## Requirements
 - Python 3.8
