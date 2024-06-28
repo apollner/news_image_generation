@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Khloe Kardashian Slams Kim Kardashian for Projecting Her "Bulls--t"**
+**NBA draft 2024: Three biggest surprise picks from first round**
 
-You can read more about it [here](https://www.eonline.com/news/1404290/khloe-kardashian-slams-kim-kardashian-for-projecting-her-bulls-t).
+You can read more about it [here](https://www.usatoday.com/story/sports/nba/draft/2024/06/27/2024-nba-draft-first-round-surprise-picks/74227946007/).
 
 ## Requirements
 - Python 3.8
