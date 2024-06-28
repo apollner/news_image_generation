@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Bear’ Star Jeremy Allen White Explains Season 3’s Stunning First Episode**
+**Vermont to pay $175000 after man charged for raising middle finger at state trooper**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYmVhci1zZWFzb24tMy1qZXJlbXktYWxsZW4td2hpdGUtZmlyc3QtZXBpc29kZS0xMjM1OTMzODc3L9IBc2h0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS90di90di1mZWF0dXJlcy90aGUtYmVhci1zZWFzb24tMy1qZXJlbXktYWxsZW4td2hpdGUtZmlyc3QtZXBpc29kZS0xMjM1OTMzODc3L2FtcC8?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/06/27/vermont-state-trooper-middle-finger-aclu/).
 
 ## Requirements
 - Python 3.8
