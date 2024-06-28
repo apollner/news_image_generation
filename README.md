@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boebert will likely fill the House seat vacated by congressman who criticized the GOP's extremes**
+**China's lunar probe returns to Earth with first-ever rock samples from 'dark side' of moon**
 
-You can read more about it [here](https://apnews.com/article/lauren-boebert-election-2024-ken-buck-9ac9bf89504ce4f363e32b497289b061).
+You can read more about it [here](https://nypost.com/2024/06/26/us-news/chinas-lunar-probe-returns-to-earth-with-first-rock-samples-from-far-side-of-moon/).
 
 ## Requirements
 - Python 3.8
