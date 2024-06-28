@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vermont to pay $175000 after man charged for raising middle finger at state trooper**
+**Bolivian general arrested and accused of coup after dramatic showdown with president**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/06/27/vermont-state-trooper-middle-finger-aclu/).
+You can read more about it [here](https://www.cnn.com/2024/06/26/americas/bolivia-coup-attempt-claims-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
