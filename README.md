@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denmark set to impose world’s first carbon tax on gassy cows**
+**Elon Musk's SpaceX contracted to destroy retired space station**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzI3L2Rlbm1hcmstY2FyYm9uLXRheC1jb3dzL9IBAA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/cnl02jl5pzno).
 
 ## Requirements
 - Python 3.8
