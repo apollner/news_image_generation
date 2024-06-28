@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigel Farage 'dismayed' at 'reprehensible' comments from Reform campaigners**
+**Two Killer Asteroids Are Flying by Earth, and You May Be Able to See One**
 
-You can read more about it [here](https://www.bbc.com/news/live/c7227027mdnt).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMjcvc2NpZW5jZS9hc3Rlcm9pZC1lYXJ0aC1uYXNhLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
