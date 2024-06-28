@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ice cream recall: Friendly's, Jeni's products recalled for listeria risk**
+**China's lunar probe returns to Earth with first-ever rock samples from 'dark side' of moon**
 
-You can read more about it [here](https://www.axios.com/2024/06/26/ice-cream-recall-2024-list-totally-cool).
+You can read more about it [here](https://nypost.com/2024/06/26/us-news/chinas-lunar-probe-returns-to-earth-with-first-rock-samples-from-far-side-of-moon/).
 
 ## Requirements
 - Python 3.8
