@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court briefly leaks opinion allowing Idaho abortions**
+**How to watch 'The Bear' season 3 for free: Premiere time, streaming info**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6pp2yvnv94o).
+You can read more about it [here](https://nypost.com/2024/06/26/entertainment/how-to-watch-all-10-episodes-of-the-bear-season-3-for-free/).
 
 ## Requirements
 - Python 3.8
