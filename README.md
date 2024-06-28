@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Supreme Court strips the SEC of a critical enforcement tool in fraud cases**
+**COVID is on the rise again**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N1cHJlbWUtY291cnQtcmVndWxhdG9yeS1hZ2VuY2llcy1zZWMtMzZmMTY0NDRiMWQ0ZmM1Mjk4NWZkYjY4ODk2MzYyYmLSAQA?oc=5).
+You can read more about it [here](https://www.axios.com/2024/06/27/covid-summer-surge).
 
 ## Requirements
 - Python 3.8
