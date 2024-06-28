@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's SpaceX contracted to destroy retired space station**
+**The Supreme Court strips the SEC of a critical enforcement tool in fraud cases**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cnl02jl5pzno).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N1cHJlbWUtY291cnQtcmVndWxhdG9yeS1hZ2VuY2llcy1zZWMtMzZmMTY0NDRiMWQ0ZmM1Mjk4NWZkYjY4ODk2MzYyYmLSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
