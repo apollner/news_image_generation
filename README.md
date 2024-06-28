@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palm Beach socialite ID’ed as mystery woman cops questioned in Matthew Perry’s death**
+**[Removed]**
 
-You can read more about it [here](https://www.miamiherald.com/miami-com/miami-com-news/article289557684.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
