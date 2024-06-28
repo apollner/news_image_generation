@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taking a daily multivitamin does not help you live longer, study finds**
+**Palm Beach socialite ID'ed as mystery woman cops questioned in Matthew Perry's death**
 
-You can read more about it [here](https://www.cbsnews.com/news/daily-multivitamin-live-longer-risk-of-death-study/).
+You can read more about it [here](https://www.miamiherald.com/miami-com/miami-com-news/article289557684.html).
 
 ## Requirements
 - Python 3.8
