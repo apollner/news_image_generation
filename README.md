@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's lunar probe returns to Earth with first-ever rock samples from 'dark side' of moon**
+**2024 NBA Draft trade tracker: Latest news on NBA trades, grades, draft picks from every deal in Round 1**
 
-You can read more about it [here](https://nypost.com/2024/06/26/us-news/chinas-lunar-probe-returns-to-earth-with-first-rock-samples-from-far-side-of-moon/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-draft-trade-tracker-latest-news-on-nba-trades-grades-draft-picks-from-every-deal-in-round-1/).
 
 ## Requirements
 - Python 3.8
