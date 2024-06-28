@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Levi's CEO says the 'head-to-toe denim lifestyle' is seeing success**
+**Actor Bill Cobbs of 'The Bodyguard' and 'Night at the Museum' dies at 90**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/26/levis-ceo-says-the-head-to-toe-denim-lifestyle-is-seeing-success.html).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/actor-bill-cobbs-bodyguard-night-museum-dies-90/story?id=111461353).
 
 ## Requirements
 - Python 3.8
