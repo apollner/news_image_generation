@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's lunar probe returns to Earth with first-ever rock samples from 'dark side' of moon**
+**Supreme Court briefly leaks opinion allowing Idaho abortions**
 
-You can read more about it [here](https://nypost.com/2024/06/26/us-news/chinas-lunar-probe-returns-to-earth-with-first-rock-samples-from-far-side-of-moon/).
+You can read more about it [here](https://www.bbc.com/news/articles/c6pp2yvnv94o).
 
 ## Requirements
 - Python 3.8
