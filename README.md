@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justices seem set to allow emergency abortions in Idaho for now, a prematurely posted opinion says**
+**Timberwolves acquire No. 8 pick Rob Dillingham from Spurs**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-emergency-abortion-idaho-fda6b6b8cefd026dea95011dfcf11426).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40440644/timberwolves-trade-acquire-rob-dillingham-spurs).
 
 ## Requirements
 - Python 3.8
