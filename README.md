@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Actor Bill Cobbs of 'The Bodyguard' and 'Night at the Museum' dies at 90**
+**Ice cream recall: Friendly's, Jeni's products recalled for listeria risk**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/actor-bill-cobbs-bodyguard-night-museum-dies-90/story?id=111461353).
+You can read more about it [here](https://www.axios.com/2024/06/26/ice-cream-recall-2024-list-totally-cool).
 
 ## Requirements
 - Python 3.8
