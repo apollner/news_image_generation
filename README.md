@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury deliberations enter third day in Karen Read murder trial: Live updates**
+**US intel indicates war between Israel and Hezbollah inching closer**
 
-You can read more about it [here](https://www.nbcboston.com/news/local/karen-read-verdict-updates-2/3411567/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMjcvdXMtaW50ZWxsaWdlbmNlLWlzcmFlbC1oZXpib2xsYWgtd2FyLTAwMTY1MzM40gEA?oc=5).
 
 ## Requirements
 - Python 3.8
