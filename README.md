@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Africa demolish Afghanistan to make maiden men's World Cup final**
+**Denmark farmers will soon pay taxes based on how much their livestock farts**
 
-You can read more about it [here](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-south-africa-1st-semi-final-1415753/match-report).
+You can read more about it [here](https://nypost.com/2024/06/26/world-news/denmark-farmers-to-pay-taxes-based-on-livestock-farts/).
 
 ## Requirements
 - Python 3.8
