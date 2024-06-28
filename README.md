@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Draft order: Complete list of each team's selections for second-round picks Thursday**
+**Jamahal Hill sends message to Alex Pereira: 'If you lose, I don't give a f*ck if they offer me a title shot — it's me and you'**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-draft-order-complete-list-of-second-round-picks-thursday/).
+You can read more about it [here](https://www.mmafighting.com/2024/6/27/24187576/jamahal-hill-sends-message-alex-pereira-you-lose-dont-give-f-ck-if-offer-me-title-shot-its-me-you).
 
 ## Requirements
 - Python 3.8
