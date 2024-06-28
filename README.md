@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timberwolves acquire No. 8 pick Rob Dillingham from Spurs**
+**Levi's CEO says the 'head-to-toe denim lifestyle' is seeing success**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40440644/timberwolves-trade-acquire-rob-dillingham-spurs).
+You can read more about it [here](https://www.cnbc.com/2024/06/26/levis-ceo-says-the-head-to-toe-denim-lifestyle-is-seeing-success.html).
 
 ## Requirements
 - Python 3.8
