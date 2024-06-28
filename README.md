@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID is on the rise again**
+**Supreme Court halts Biden’s ‘good neighbor’ plan to curb smog**
 
-You can read more about it [here](https://www.axios.com/2024/06/27/covid-summer-surge).
+You can read more about it [here](https://www.cnn.com/2024/06/27/politics/epa-ohio-smog-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
