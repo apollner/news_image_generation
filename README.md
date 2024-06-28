@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical wave has a 70 percent chance of developing, NHC says**
+**Denmark set to impose world’s first carbon tax on gassy cows**
 
-You can read more about it [here](https://www.wfla.com/weather/tracking-the-tropics/tropical-wave-has-a-70-percent-chance-of-developing-nhc-says/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzI3L2Rlbm1hcmstY2FyYm9uLXRheC1jb3dzL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
