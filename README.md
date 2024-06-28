@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Daily Show’ Veterans Decry Loss of Clip Archive After Comedy Central Website Gutted: “S**t Ain’t Right”**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/daily-show-alumni-clip-archive-loss-1235934107/).
 
 ## Requirements
 - Python 3.8
