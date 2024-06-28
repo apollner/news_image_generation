@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Killer Asteroids Are Flying by Earth, and You May Be Able to See One**
+**Palm Beach socialite ID’ed as mystery woman cops questioned in Matthew Perry’s death**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMjcvc2NpZW5jZS9hc3Rlcm9pZC1lYXJ0aC1uYXNhLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://www.miamiherald.com/miami-com/miami-com-news/article289557684.html).
 
 ## Requirements
 - Python 3.8
