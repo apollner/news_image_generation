@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The world’s most liveable cities for 2024**
+**Sunak and Starmer in final debate clash over tax and immigration**
 
-You can read more about it [here](https://www.cnn.com/2024/06/26/travel/the-worlds-most-liveable-cities-for-2024/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c3gg6gdz7kdo).
 
 ## Requirements
 - Python 3.8
