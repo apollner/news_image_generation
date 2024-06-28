@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck Suits Up and Wears Wedding Ring as He Meets With Jennifer Lopez at Office Building**
+**Wall Street closes subdued as investors sit, wait for inflation data**
 
-You can read more about it [here](https://www.etonline.com/ben-affleck-suits-up-and-wears-wedding-ring-as-he-meets-with-jennifer-lopez-at-office-building).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-dip-micron-drags-down-chip-stocks-ahead-economic-data-2024-06-27/).
 
 ## Requirements
 - Python 3.8
