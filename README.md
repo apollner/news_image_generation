@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Denmark farmers will soon pay taxes based on how much their livestock farts**
+**Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?**
 
-You can read more about it [here](https://nypost.com/2024/06/26/world-news/denmark-farmers-to-pay-taxes-based-on-livestock-farts/).
+You can read more about it [here](https://www.bbc.com/news/articles/cp008qzzee1o).
 
 ## Requirements
 - Python 3.8
