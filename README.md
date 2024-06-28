@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?**
+**The world’s most liveable cities for 2024**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cp008qzzee1o).
+You can read more about it [here](https://www.cnn.com/2024/06/26/travel/the-worlds-most-liveable-cities-for-2024/index.html).
 
 ## Requirements
 - Python 3.8
