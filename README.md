@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I'm sorry': Texas executes Ramiro Gonzales on birthday of 18-year-old he raped and killed**
+**Boebert will likely fill the House seat vacated by congressman who criticized the GOP's extremes**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/06/26/texas-ramiro-gonzales-execution/74222339007/).
+You can read more about it [here](https://apnews.com/article/lauren-boebert-election-2024-ken-buck-9ac9bf89504ce4f363e32b497289b061).
 
 ## Requirements
 - Python 3.8
