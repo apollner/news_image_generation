@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID is on the rise again**
+**Supreme Court decision allows pregnant people in Idaho to access emergency abortion care — for now**
 
-You can read more about it [here](https://www.axios.com/2024/06/27/covid-summer-surge).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8yNi9oZWFsdGgvZW10YWxhLWVtZXJnZW5jeS1jYXJlLXNjb3R1cy9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNi8yNi9oZWFsdGgvZW10YWxhLWVtZXJnZW5jeS1jYXJlLXNjb3R1cw?oc=5).
 
 ## Requirements
 - Python 3.8
