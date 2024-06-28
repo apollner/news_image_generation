@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palm Beach socialite ID'ed as mystery woman cops questioned in Matthew Perry's death**
+**2024 NBA Draft order: Complete list of each team's selections for second-round picks Thursday**
 
-You can read more about it [here](https://www.miamiherald.com/miami-com/miami-com-news/article289557684.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-draft-order-complete-list-of-second-round-picks-thursday/).
 
 ## Requirements
 - Python 3.8
