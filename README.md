@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamahal Hill sends message to Alex Pereira: 'If you lose, I don't give a f*ck if they offer me a title shot — it's me and you'**
+**Nigel Farage 'dismayed' at 'reprehensible' comments from Reform campaigners**
 
-You can read more about it [here](https://www.mmafighting.com/2024/6/27/24187576/jamahal-hill-sends-message-alex-pereira-you-lose-dont-give-f-ck-if-offer-me-title-shot-its-me-you).
+You can read more about it [here](https://www.bbc.com/news/live/c7227027mdnt).
 
 ## Requirements
 - Python 3.8
