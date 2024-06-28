@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boebert will likely fill the House seat vacated by congressman who criticized the GOP's extremes**
+**Stock market today: Asian shares are mostly lower ahead of key US inflation report**
 
-You can read more about it [here](https://apnews.com/article/lauren-boebert-election-2024-ken-buck-9ac9bf89504ce4f363e32b497289b061).
+You can read more about it [here](https://apnews.com/article/stock-markets-rates-yen-nvidia-b6efb00d88619583757d0ef17b2a68d3).
 
 ## Requirements
 - Python 3.8
