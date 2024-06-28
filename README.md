@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Honduran President sentenced to 45 years in US prison**
+**Justices seem set to allow emergency abortions in Idaho for now, a prematurely posted opinion says**
 
-You can read more about it [here](https://apnews.com/article/honduras-president-juan-orlando-hernandez-corruption-3f98be974c58bb8a1b492108c4a7f297).
+You can read more about it [here](https://apnews.com/article/supreme-court-emergency-abortion-idaho-fda6b6b8cefd026dea95011dfcf11426).
 
 ## Requirements
 - Python 3.8
