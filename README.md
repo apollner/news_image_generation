@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA draft 2024: Three biggest surprise picks from first round**
+**Tropical wave has a 70 percent chance of developing, NHC says**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nba/draft/2024/06/27/2024-nba-draft-first-round-surprise-picks/74227946007/).
+You can read more about it [here](https://www.wfla.com/weather/tracking-the-tropics/tropical-wave-has-a-70-percent-chance-of-developing-nhc-says/).
 
 ## Requirements
 - Python 3.8
