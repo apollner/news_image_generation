@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bolivian general arrested and accused of coup after dramatic showdown with president**
+**Taking a daily multivitamin does not help you live longer, study finds**
 
-You can read more about it [here](https://www.cnn.com/2024/06/26/americas/bolivia-coup-attempt-claims-intl-latam/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/daily-multivitamin-live-longer-risk-of-death-study/).
 
 ## Requirements
 - Python 3.8
