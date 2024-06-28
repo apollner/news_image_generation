@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bolivia coup attempt: General arrested as Luis Arce faces new crisis**
+**Khloe Kardashian Slams Kim Kardashian for Projecting Her "Bulls--t"**
 
-You can read more about it [here](https://apnews.com/article/bolivia-military-deployment-arce-coup-fears-028cd88f3be1fb02164c05deb0faa099).
+You can read more about it [here](https://www.eonline.com/news/1404290/khloe-kardashian-slams-kim-kardashian-for-projecting-her-bulls-t).
 
 ## Requirements
 - Python 3.8
