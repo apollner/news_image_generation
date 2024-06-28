@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Daily Show’ Veterans Decry Loss of Clip Archive After Comedy Central Website Gutted: “S**t Ain’t Right”**
+**Ben Affleck Suits Up and Wears Wedding Ring as He Meets With Jennifer Lopez at Office Building**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/daily-show-alumni-clip-archive-loss-1235934107/).
+You can read more about it [here](https://www.etonline.com/ben-affleck-suits-up-and-wears-wedding-ring-as-he-meets-with-jennifer-lopez-at-office-building).
 
 ## Requirements
 - Python 3.8
