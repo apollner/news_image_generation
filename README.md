@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunak and Starmer in final debate clash over tax and immigration**
+**Bolivia coup attempt: General arrested as Luis Arce faces new crisis**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3gg6gdz7kdo).
+You can read more about it [here](https://apnews.com/article/bolivia-military-deployment-arce-coup-fears-028cd88f3be1fb02164c05deb0faa099).
 
 ## Requirements
 - Python 3.8
