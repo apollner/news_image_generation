@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch 'The Bear' season 3 for free: Premiere time, streaming info**
+**Boebert will likely fill the House seat vacated by congressman who criticized the GOP's extremes**
 
-You can read more about it [here](https://nypost.com/2024/06/26/entertainment/how-to-watch-all-10-episodes-of-the-bear-season-3-for-free/).
+You can read more about it [here](https://apnews.com/article/lauren-boebert-election-2024-ken-buck-9ac9bf89504ce4f363e32b497289b061).
 
 ## Requirements
 - Python 3.8
