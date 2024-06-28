@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Asian shares are mostly lower ahead of key US inflation report**
+**South Africa demolish Afghanistan to make maiden men's World Cup final**
 
-You can read more about it [here](https://apnews.com/article/stock-markets-rates-yen-nvidia-b6efb00d88619583757d0ef17b2a68d3).
+You can read more about it [here](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-south-africa-1st-semi-final-1415753/match-report).
 
 ## Requirements
 - Python 3.8
