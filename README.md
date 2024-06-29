@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steve Bannon's Supreme Court fail mocked: Don't "make plans for July 4th"**
+**Iowa's highest court rules in favor of six-week abortion ban**
 
-You can read more about it [here](https://www.newsweek.com/steve-bannon-supreme-court-fail-mocked-july-4-1919016).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/06/28/iowa-abortion-ban-court/).
 
 ## Requirements
 - Python 3.8
