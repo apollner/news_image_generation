@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court rules cities can ban homeless from sleeping outside**
+**UFC 303 Embedded: Vlog Series - Episode 5**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj774nxrpy7o).
+You can read more about it [here](https://www.youtube.com/watch?v=G2yjRCSFSqg).
 
 ## Requirements
 - Python 3.8
