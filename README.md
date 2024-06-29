@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court says emergency abortions can be performed in Idaho**
+**What Critics Are Saying About ‘The Bear’ Season 3**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-idaho-abortion-ban-emtala/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/what-critics-are-saying-about-the-bear-season-3-1235934565/).
 
 ## Requirements
 - Python 3.8
