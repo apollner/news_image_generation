@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden and Trump face off at CNN presidential debate**
+**Dr Disrespect Knowingly Messaged A Minor, Ex Twitch Employee Alleges**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/cnn-debate-trump-biden-06-27-24/index.html).
+You can read more about it [here](http://www.rollingstone.com/culture/culture-features/dr-disrespect-inappropriate-messages-minor-twitch-1235048071/).
 
 ## Requirements
 - Python 3.8
