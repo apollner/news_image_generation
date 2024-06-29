@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT falls to Panama in chaotic Copa America group play clash**
+**'Hawk Tuah' woman's massive payday after viral video: 'Like winning the lottery'**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/27/usmnt-panama-copa-america-weah-red-card/).
+You can read more about it [here](https://au.finance.yahoo.com/news/hawk-tuah-womans-massive-payday-after-viral-video-like-winning-the-lottery-052141077.html).
 
 ## Requirements
 - Python 3.8
