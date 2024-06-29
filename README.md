@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran election: As young lose hope, a reformist runs for president**
+**Biden and Trump face off at CNN presidential debate**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c98qgw8qxq7o).
+You can read more about it [here](https://www.cnn.com/politics/live-news/cnn-debate-trump-biden-06-27-24/index.html).
 
 ## Requirements
 - Python 3.8
