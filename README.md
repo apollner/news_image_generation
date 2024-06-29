@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court rules in favor of Jan. 6 Capitol riot participant who challenged obstruction conviction**
+**Brandon Ingram expected to become available for trade as wing market comes into focus**
 
-You can read more about it [here](https://www.foxnews.com/politics/supreme-court-rules-favor-jan-6-capitol-riot-participant-challenged-obstruction-conviction).
+You can read more about it [here](https://sports.yahoo.com/brandon-ingram-expected-to-become-available-for-trade-as-wing-market-comes-into-focus-150152771.html).
 
 ## Requirements
 - Python 3.8
