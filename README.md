@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Election Pits Engagement With West Against More Confrontation**
+**Shattered Russian satellite forces ISS astronauts to take shelter in stricken Starliner capsule**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/iran-election-candidates-young-voters-1268dd43).
+You can read more about it [here](https://www.livescience.com/space/shattered-russian-satellite-forces-iss-astronauts-to-take-shelter-in-stricken-starliner-capsule).
 
 ## Requirements
 - Python 3.8
