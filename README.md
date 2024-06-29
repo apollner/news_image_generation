@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Asian shares mostly rise ahead of U.S. inflation report**
+**2024 NBA Draft Round 2 Grades: Picks and analysis**
 
-You can read more about it [here](https://apnews.com/article/stock-market-inflation-rates-yen-81ab65cc85f5cca94a9aeaa9d87fd6c1).
+You can read more about it [here](https://www.nbcsports.com/fantasy/basketball/news/2024-nba-draft-round-2-grades-pick-by-pick-analysis).
 
 ## Requirements
 - Python 3.8
