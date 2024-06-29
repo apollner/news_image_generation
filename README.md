@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 6 and Z Flip 6 leak in detailed renders [Gallery]**
+**The Supreme Court weakens federal regulators, overturning decades-old Chevron decision**
 
-You can read more about it [here](http://9to5google.com/2024/06/27/samsung-galaxy-z-fold-6-flip-6-render-leaks/).
+You can read more about it [here](https://apnews.com/article/supreme-court-chevron-regulations-environment-5173bc83d3961a7aaabe415ceaf8d665).
 
 ## Requirements
 - Python 3.8
