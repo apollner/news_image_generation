@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles Lakers select Bronny James, son of LeBron James, with No. 55 pick in the NBA Draft**
+**Dems freak out over Biden's debate performance: 'Biden is toast'**
 
-You can read more about it [here](https://www.cnn.com/2024/06/27/sport/los-angeles-lakers-bronny-james-nba-draft/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMjcvYmlkZW4tZGViYXRlLW9wZW5pbmctY29uY2VybnMtMDAxNjU1OTXSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
