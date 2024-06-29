@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronny James' fit and future with the Lakers -- and next to LeBron**
+**Iran election: As young lose hope, a reformist runs for president**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40446540/nba-draft-2024-bronny-james-fit-future-los-angeles-lakers-lebron).
+You can read more about it [here](https://www.bbc.com/news/articles/c98qgw8qxq7o).
 
 ## Requirements
 - Python 3.8
