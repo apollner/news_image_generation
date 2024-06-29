@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dems freak out over Biden's debate performance: 'Biden is toast'**
+**Boeing says NASA's 'stranded' astronaut crisis averted, reveals why homecoming is delayed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDYvMjcvYmlkZW4tZGViYXRlLW9wZW5pbmctY29uY2VybnMtMDAxNjU1OTXSAQA?oc=5).
+You can read more about it [here](https://www.foxnews.com/us/boeing-says-nasa-stranded-astronaut-crisis-averted-reveals-why-homecoming-delayed).
 
 ## Requirements
 - Python 3.8
