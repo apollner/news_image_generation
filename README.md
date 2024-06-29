@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube Premium might gain new membership plans**
+**Stock market today: Asian shares mostly rise ahead of U.S. inflation report**
 
-You can read more about it [here](https://www.androidpolice.com/youtube-premium-might-gain-new-membership-plans/).
+You can read more about it [here](https://apnews.com/article/stock-market-inflation-rates-yen-81ab65cc85f5cca94a9aeaa9d87fd6c1).
 
 ## Requirements
 - Python 3.8
