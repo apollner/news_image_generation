@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Uvalde school police chief charged with 10 counts of 'abandoning and endangering' Robb Elementary survivors**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/uvalde-shooting-grand-jury-indictment/story?id=111490997).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
