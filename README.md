@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Draft team grades: Spurs, Jazz, Thunder score A+ while Bucks, Pistons make baffling selections**
+**UFC 303 -- How Alex Pereira stepped up once again for the UFC**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-draft-team-grades-spurs-jazz-thunder-score-a-while-bucks-pistons-make-baffling-selections/).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/40445117/ufc303-alex-pereira-stepped-once-again).
 
 ## Requirements
 - Python 3.8
