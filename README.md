@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ISS astronauts take cover as defunct Russian satellite shatters**
+**Galaxy Z Fold 6 and Z Flip 6 leak in detailed renders [Gallery]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/6/28/iss-astronauts-take-cover-as-defunct-russian-satellite-shatters).
+You can read more about it [here](http://9to5google.com/2024/06/27/samsung-galaxy-z-fold-6-flip-6-render-leaks/).
 
 ## Requirements
 - Python 3.8
