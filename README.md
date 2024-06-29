@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing says NASA's 'stranded' astronaut crisis averted, reveals why homecoming is delayed**
+**YouTube Premium might gain new membership plans**
 
-You can read more about it [here](https://www.foxnews.com/us/boeing-says-nasa-stranded-astronaut-crisis-averted-reveals-why-homecoming-delayed).
+You can read more about it [here](https://www.androidpolice.com/youtube-premium-might-gain-new-membership-plans/).
 
 ## Requirements
 - Python 3.8
