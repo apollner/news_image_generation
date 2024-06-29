@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street closes subdued as investors sit, wait for inflation data**
+**Sources - Kings trade Davion Mitchell, Sasha Vezenkov to Raptors**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-dip-micron-drags-down-chip-stocks-ahead-economic-data-2024-06-27/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40446624/sources-kings-trade-davion-mitchell-sasha-vezenkov-raptors).
 
 ## Requirements
 - Python 3.8
