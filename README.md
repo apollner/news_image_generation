@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Supreme Court weakens federal regulators, overturning decades-old Chevron decision**
+**A summer wave of Covid-19 has arrived in the US**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-chevron-regulations-environment-5173bc83d3961a7aaabe415ceaf8d665).
+You can read more about it [here](https://www.cnn.com/2024/06/28/health/covid-summer-wave/index.html).
 
 ## Requirements
 - Python 3.8
