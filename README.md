@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PCE Inflation Report Today: Headline, Core Prices Cool**
+**Rural retailer Tractor Supply eliminates DEI roles, Pride support and carbon emissions goals**
 
-You can read more about it [here](https://www.barrons.com/livecoverage/may-pce-inflation-report-data-today).
+You can read more about it [here](https://www.cnbc.com/2024/06/28/tractor-supply-ends-dei-pride-support-carbon-goals.html).
 
 ## Requirements
 - Python 3.8
