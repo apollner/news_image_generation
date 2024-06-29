@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brandon Ingram expected to become available for trade as wing market comes into focus**
+**US will remove Gaza aid pier due to weather and may not put it back, officials say**
 
-You can read more about it [here](https://sports.yahoo.com/brandon-ingram-expected-to-become-available-for-trade-as-wing-market-comes-into-focus-150152771.html).
+You can read more about it [here](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55).
 
 ## Requirements
 - Python 3.8
