@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google touts “enterprise-ready” AI with more facts and less make-believe**
+**Sunday Ticket jury orders NFL to pay fans $4.7 billion in damages**
 
-You can read more about it [here](https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data).
+You can read more about it [here](https://www.theverge.com/2024/6/27/24187708/nfl-sunday-ticket-class-action-antitrust-lawsuit-verdict-damages).
 
 ## Requirements
 - Python 3.8
