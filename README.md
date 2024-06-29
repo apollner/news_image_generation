@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dr Disrespect Knowingly Messaged A Minor, Ex Twitch Employee Alleges**
+**Nike shares plunge after retailer says quarterly sales will fall 10%, warns on China weakness**
 
-You can read more about it [here](http://www.rollingstone.com/culture/culture-features/dr-disrespect-inappropriate-messages-minor-twitch-1235048071/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMjcvbmlrZS1ua2UtZWFybmluZ3MtcTQtMjAyNC5odG1s0gFCaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDYvMjcvbmlrZS1ua2UtZWFybmluZ3MtcTQtMjAyNC5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
