@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Ticket jury orders NFL to pay fans $4.7 billion in damages**
+**Bronny James' fit and future with the Lakers -- and next to LeBron**
 
-You can read more about it [here](https://www.theverge.com/2024/6/27/24187708/nfl-sunday-ticket-class-action-antitrust-lawsuit-verdict-damages).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/40446540/nba-draft-2024-bronny-james-fit-future-los-angeles-lakers-lebron).
 
 ## Requirements
 - Python 3.8
