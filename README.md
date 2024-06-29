@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US will remove Gaza aid pier due to weather and may not put it back, officials say**
+**Former Uvalde school police chief charged with 10 counts of 'abandoning and endangering' Robb Elementary survivors**
 
-You can read more about it [here](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55).
+You can read more about it [here](https://abcnews.go.com/US/uvalde-shooting-grand-jury-indictment/story?id=111490997).
 
 ## Requirements
 - Python 3.8
