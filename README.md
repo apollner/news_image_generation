@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karen Read trial jury says they're deadlocked, judge tells them keep deliberating**
+**Supreme Court rules cities can ban homeless from sleeping outside**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/karen-read-verdict-watch-trial-live-case-today/).
+You can read more about it [here](https://www.bbc.com/news/articles/cj774nxrpy7o).
 
 ## Requirements
 - Python 3.8
