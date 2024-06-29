@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 303 -- How Alex Pereira stepped up once again for the UFC**
+**Supreme Court rules in favor of Jan. 6 Capitol riot participant who challenged obstruction conviction**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/40445117/ufc303-alex-pereira-stepped-once-again).
+You can read more about it [here](https://www.foxnews.com/politics/supreme-court-rules-favor-jan-6-capitol-riot-participant-challenged-obstruction-conviction).
 
 ## Requirements
 - Python 3.8
