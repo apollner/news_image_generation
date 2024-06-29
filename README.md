@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A summer wave of Covid-19 has arrived in the US**
+**NFL has ongoing legal exposure to Sunday Ticket antitrust violations**
 
-You can read more about it [here](https://www.cnn.com/2024/06/28/health/covid-summer-wave/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-ongoing-legal-exposure-to-sunday-ticket-antitrust-violations).
 
 ## Requirements
 - Python 3.8
