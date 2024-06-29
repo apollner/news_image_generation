@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Critics Are Saying About ‘The Bear’ Season 3**
+**Galaxy Z Fold 6 and Z Flip 6 leak in detailed renders [Gallery]**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/what-critics-are-saying-about-the-bear-season-3-1235934565/).
+You can read more about it [here](http://9to5google.com/2024/06/27/samsung-galaxy-z-fold-6-flip-6-render-leaks/).
 
 ## Requirements
 - Python 3.8
