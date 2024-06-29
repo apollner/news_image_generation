@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 303 Embedded: Vlog Series - Episode 5**
+**Steve Bannon's Supreme Court fail mocked: Don't "make plans for July 4th"**
 
-You can read more about it [here](https://www.youtube.com/watch?v=G2yjRCSFSqg).
+You can read more about it [here](https://www.newsweek.com/steve-bannon-supreme-court-fail-mocked-july-4-1919016).
 
 ## Requirements
 - Python 3.8
