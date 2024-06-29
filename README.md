@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rural retailer Tractor Supply eliminates DEI roles, Pride support and carbon emissions goals**
+**Analysis and commentary on CNN’s presidential debate**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/28/tractor-supply-ends-dei-pride-support-carbon-goals.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNubi5jb20vZWxlY3Rpb24vMjAyNC9hbmFseXNpcy1jb21tZW50YXJ5LWNubi1kZWJhdGXSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
