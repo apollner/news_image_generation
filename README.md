@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran election: As young lose hope, a reformist runs for president**
+**Supreme Court says emergency abortions can be performed in Idaho**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c98qgw8qxq7o).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-idaho-abortion-ban-emtala/).
 
 ## Requirements
 - Python 3.8
