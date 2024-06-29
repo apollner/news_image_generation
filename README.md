@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU leaders endorse second term for Ursula von der Leyen as bloc's top official**
+**Los Angeles Lakers select Bronny James, son of LeBron James, with No. 55 pick in the NBA Draft**
 
-You can read more about it [here](https://www.ft.com/content/aa091b62-705d-470f-bf8e-a0daa9135adc).
+You can read more about it [here](https://www.cnn.com/2024/06/27/sport/los-angeles-lakers-bronny-james-nba-draft/index.html).
 
 ## Requirements
 - Python 3.8
