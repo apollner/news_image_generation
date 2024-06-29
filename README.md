@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Draft Round 2 Grades: Picks and analysis**
+**USMNT falls to Panama in chaotic Copa America group play clash**
 
-You can read more about it [here](https://www.nbcsports.com/fantasy/basketball/news/2024-nba-draft-round-2-grades-pick-by-pick-analysis).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/06/27/usmnt-panama-copa-america-weah-red-card/).
 
 ## Requirements
 - Python 3.8
