@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources - Kings trade Davion Mitchell, Sasha Vezenkov to Raptors**
+**Google touts “enterprise-ready” AI with more facts and less make-believe**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/40446624/sources-kings-trade-davion-mitchell-sasha-vezenkov-raptors).
+You can read more about it [here](https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data).
 
 ## Requirements
 - Python 3.8
