@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delhi airport roof collapse from monsoon crushes cars**
+**2024 NBA Draft team grades: Spurs, Jazz, Thunder score A+ while Bucks, Pistons make baffling selections**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/06/28/india-delhi-airport-roof-collapse/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-draft-team-grades-spurs-jazz-thunder-score-a-while-bucks-pistons-make-baffling-selections/).
 
 ## Requirements
 - Python 3.8
