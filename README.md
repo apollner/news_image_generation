@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL has ongoing legal exposure to Sunday Ticket antitrust violations**
+**PCE Inflation Report Today: Headline, Core Prices Cool**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-ongoing-legal-exposure-to-sunday-ticket-antitrust-violations).
+You can read more about it [here](https://www.barrons.com/livecoverage/may-pce-inflation-report-data-today).
 
 ## Requirements
 - Python 3.8
