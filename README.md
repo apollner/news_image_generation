@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Karen Read trial jury says they're deadlocked, judge tells them keep deliberating**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/boston/news/karen-read-verdict-watch-trial-live-case-today/).
 
 ## Requirements
 - Python 3.8
