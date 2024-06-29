@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Hawk Tuah' woman's massive payday after viral video: 'Like winning the lottery'**
+**ISS astronauts take cover as defunct Russian satellite shatters**
 
-You can read more about it [here](https://au.finance.yahoo.com/news/hawk-tuah-womans-massive-payday-after-viral-video-like-winning-the-lottery-052141077.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/6/28/iss-astronauts-take-cover-as-defunct-russian-satellite-shatters).
 
 ## Requirements
 - Python 3.8
