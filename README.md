@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shattered Russian satellite forces ISS astronauts to take shelter in stricken Starliner capsule**
+**Delhi airport roof collapse from monsoon crushes cars**
 
-You can read more about it [here](https://www.livescience.com/space/shattered-russian-satellite-forces-iss-astronauts-to-take-shelter-in-stricken-starliner-capsule).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/06/28/india-delhi-airport-roof-collapse/).
 
 ## Requirements
 - Python 3.8
