@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stagnant England endure a pasting that had been in the post since Adelaide**
+**India heat: What record air conditioner sales reveal about heatwave**
 
-You can read more about it [here](https://www.espncricinfo.com/story/t20-world-cup-2024-eng-vs-ind-stagnant-england-endure-a-pasting-that-had-been-in-the-post-since-adelaide-1441276).
+You can read more about it [here](https://www.bbc.com/news/articles/cw555ny3q9xo).
 
 ## Requirements
 - Python 3.8
