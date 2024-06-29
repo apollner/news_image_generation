@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 6 and Z Flip 6 leak in detailed renders [Gallery]**
+**EU leaders endorse second term for Ursula von der Leyen as bloc's top official**
 
-You can read more about it [here](http://9to5google.com/2024/06/27/samsung-galaxy-z-fold-6-flip-6-render-leaks/).
+You can read more about it [here](https://www.ft.com/content/aa091b62-705d-470f-bf8e-a0daa9135adc).
 
 ## Requirements
 - Python 3.8
