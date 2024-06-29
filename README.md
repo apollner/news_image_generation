@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India heat: What record air conditioner sales reveal about heatwave**
+**Iran election: As young lose hope, a reformist runs for president**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cw555ny3q9xo).
+You can read more about it [here](https://www.bbc.com/news/articles/c98qgw8qxq7o).
 
 ## Requirements
 - Python 3.8
