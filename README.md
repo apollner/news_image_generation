@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Families say those detained in Bolivia coup try were 'tricked.' President says it's not his problem**
+**Mega Millions winning numbers for 6/28/24: $116 million jackpot**
 
-You can read more about it [here](https://apnews.com/article/bolivia-coup-attempt-detained-zuniga-arce-e4e8f20fe61f6a61ffc54fe15f556798).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/06/28/mega-millions-winning-numbers/74199470007/).
 
 ## Requirements
 - Python 3.8
