@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Despair in the air: For many voters, the Biden-Trump debate means a tough choice just got tougher**
+**Families of Uvalde massacre victims say charges against former school police chief 'not enough'**
 
-You can read more about it [here](https://apnews.com/article/debate-biden-trump-voters-unpopular-candidates-be129803b3cd7983d67de50bbfe74fba).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/families-uvalde-massacre-victims-say-charges-former-school-police-chie-rcna159411).
 
 ## Requirements
 - Python 3.8
