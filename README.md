@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran presidential election: Runoff election between Masoud Pezeshkian and Saeed Jalili**
+**NYPD officer, 30, getting nails done for a wedding killed in deadly LI salon crash — driver charged with DWI**
 
-You can read more about it [here](https://apnews.com/article/iran-presidential-election-jalili-pezeshkian-qalibaf-189a89c3a9c04be1af83ab684e213558).
+You can read more about it [here](https://nypost.com/2024/06/29/us-news/nypd-cop-one-of-four-fatalities-at-li-nail-salon/).
 
 ## Requirements
 - Python 3.8
