@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials alert residents about potential exposure to measles in multiple locations - Boston News, Weather, Sports**
+**Germany's game with Denmark resumes at Euro 2024 after thunderstorm**
 
-You can read more about it [here](https://whdh.com/news/health-officials-alert-residents-about-potential-exposure-to-measles-in-multiple-locations/).
+You can read more about it [here](https://apnews.com/article/germany-denmark-euro-2024-b9d346ab4cb92b2d6e829091de65258b).
 
 ## Requirements
 - Python 3.8
