@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany's game with Denmark resumes at Euro 2024 after thunderstorm**
+**49ers' Christian McCaffrey, Model Olivia Culpo Get Married in Rhode Island**
 
-You can read more about it [here](https://apnews.com/article/germany-denmark-euro-2024-b9d346ab4cb92b2d6e829091de65258b).
+You can read more about it [here](https://bleacherreport.com/articles/10126628-49ers-christian-mccaffrey-model-olivia-culpo-get-married-in-rhode-island).
 
 ## Requirements
 - Python 3.8
