@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rich Paul's message to teams about Bronny James could be a sign of things to come for the NFL**
+**Queen Honours Servicemen and Women on Armed Forces Day**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rich-pauls-message-to-teams-about-bronny-james-could-be-a-sign-of-things-to-come-for-the-nfl).
+You can read more about it [here](https://www.youtube.com/watch?v=6D4JOUTNSDE).
 
 ## Requirements
 - Python 3.8
