@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Next food and beverage trends include honey, tinned fish**
+**Nigel Farage challenged over canvasser's racist slurs**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/29/next-food-and-beverage-trends-include-honey-tinned-fish.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cgxq82xwkl1o).
 
 ## Requirements
 - Python 3.8
