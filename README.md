@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Oklahoma's top education official ordering Bible instruction in schools**
+**Families say those detained in Bolivia coup try were 'tricked.' President says it's not his problem**
 
-You can read more about it [here](https://apnews.com/article/oklahoma-bible-schools-religion-ryan-walters-b49021c09b0fab4d0976b2d3bf3ce511).
+You can read more about it [here](https://apnews.com/article/bolivia-coup-attempt-detained-zuniga-arce-e4e8f20fe61f6a61ffc54fe15f556798).
 
 ## Requirements
 - Python 3.8
