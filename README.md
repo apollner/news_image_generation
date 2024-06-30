@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Queen Honours Servicemen and Women on Armed Forces Day**
+**Iran presidential election: Runoff election between Masoud Pezeshkian and Saeed Jalili**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6D4JOUTNSDE).
+You can read more about it [here](https://apnews.com/article/iran-presidential-election-jalili-pezeshkian-qalibaf-189a89c3a9c04be1af83ab684e213558).
 
 ## Requirements
 - Python 3.8
