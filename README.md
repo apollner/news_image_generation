@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court makes it harder to charge Capitol riot defendants with obstruction, charge Trump faces**
+**Biden-Trump debate panned by world media - 'a reality show'**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-capitol-riot-obstruction-2cdba47baa5cea8177d651de751760a6).
+You can read more about it [here](https://www.bbc.com/news/articles/cjr4dd50yk2o).
 
 ## Requirements
 - Python 3.8
