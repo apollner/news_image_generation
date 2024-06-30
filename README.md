@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock buybacks could come from $270 billion 'cash gusher'**
+**[Removed]**
 
-You can read more about it [here](https://fortune.com/2024/06/29/nvidia-stock-buyback-outlook-cash-pile-dividend-shareholder-returns-ai/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
