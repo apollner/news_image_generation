@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Queen Honours Servicemen and Women on Armed Forces Day**
+**Next food and beverage trends include honey, tinned fish**
 
-You can read more about it [here](https://www.youtube.com/watch?v=6D4JOUTNSDE).
+You can read more about it [here](https://www.cnbc.com/2024/06/29/next-food-and-beverage-trends-include-honey-tinned-fish.html).
 
 ## Requirements
 - Python 3.8
