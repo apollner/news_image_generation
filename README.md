@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Beryl forms in Atlantic, forecast to strengthen into hurricane**
+**FDA finds H5N1 bird flu in half of tested samples but confirms flash pasteurization kills virus**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-beryl-forms-atlantic-forecast-to-strengthen-into-hurricane/).
+You can read more about it [here](https://www.cnn.com/2024/06/28/health/fda-bird-flu-flash-pasteurization/index.html).
 
 ## Requirements
 - Python 3.8
