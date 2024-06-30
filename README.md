@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawks trade All-Star Dejounte Murray to Pelicans: Report**
+**FDA finds H5N1 bird flu in half of tested samples but confirms flash pasteurization kills virus**
 
-You can read more about it [here](https://sports.yahoo.com/hawks-trade-all-star-dejounte-murray-to-pelicans-report-224433345.html).
+You can read more about it [here](https://www.cnn.com/2024/06/28/health/fda-bird-flu-flash-pasteurization/index.html).
 
 ## Requirements
 - Python 3.8
