@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran presidential election: Reformist Masoud Pezeshkian ahead of hard-liner Saeed Jalili**
+**Tropical Storm Beryl forms in Atlantic, forecast to strengthen into hurricane**
 
-You can read more about it [here](https://apnews.com/article/iran-presidential-election-jalili-pezeshkian-qalibaf-189a89c3a9c04be1af83ab684e213558).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-beryl-forms-atlantic-forecast-to-strengthen-into-hurricane/).
 
 ## Requirements
 - Python 3.8
