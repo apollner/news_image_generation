@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 returns 15% in the first half in an unusually smooth ride**
+**Queen Honours Servicemen and Women on Armed Forces Day**
 
-You can read more about it [here](https://www.cnbc.com/2024/06/29/sp-500-returns-15percent-in-the-first-half-in-an-unusually-smooth-ride.html).
+You can read more about it [here](https://www.youtube.com/watch?v=6D4JOUTNSDE).
 
 ## Requirements
 - Python 3.8
