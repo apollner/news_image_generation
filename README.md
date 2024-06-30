@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYPD officer, 30, getting nails done for a wedding killed in deadly LI salon crash — driver charged with DWI**
+**Despair in the air: For many voters, the Biden-Trump debate means a tough choice just got tougher**
 
-You can read more about it [here](https://nypost.com/2024/06/29/us-news/nypd-cop-one-of-four-fatalities-at-li-nail-salon/).
+You can read more about it [here](https://apnews.com/article/debate-biden-trump-voters-unpopular-candidates-be129803b3cd7983d67de50bbfe74fba).
 
 ## Requirements
 - Python 3.8
