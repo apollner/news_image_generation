@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas War Day 266 | U.S. to Remove Gaza Aid Pier Due to Weather and May Not Put It Back, Officials Say - Israel News**
+**Iran presidential election: Reformist Masoud Pezeshkian ahead of hard-liner Saeed Jalili**
 
-You can read more about it [here](https://www.haaretz.com/israel-news/2024-06-28/ty-article-live/smotrich-backtracks-on-decision-to-withhold-funds-from-pa-fearing-its-collapse/00000190-5c9f-d7e5-a1f3-dd9ff3360000).
+You can read more about it [here](https://apnews.com/article/iran-presidential-election-jalili-pezeshkian-qalibaf-189a89c3a9c04be1af83ab684e213558).
 
 ## Requirements
 - Python 3.8
