@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Bear': All the Guest Stars and Celebrity Chefs in Season 3**
+**Los Angeles sees first drop in homeless population in years**
 
-You can read more about it [here](https://variety.com/lists/the-bear-season-3-guest-stars-celebrity-chefs/).
+You can read more about it [here](https://ktla.com/news/local-news/los-angeles-sees-first-drop-in-homeless-population-in-years/).
 
 ## Requirements
 - Python 3.8
