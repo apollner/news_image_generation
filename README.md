@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quora's Chatbot Platform Poe Allows Users to Download Paywalled Articles on Demand**
+**Los Angeles sees first drop in homeless population in years**
 
-You can read more about it [here](https://www.wired.com/story/quora-chatbot-poe-download-paywalled-articles/).
+You can read more about it [here](https://ktla.com/news/local-news/los-angeles-sees-first-drop-in-homeless-population-in-years/).
 
 ## Requirements
 - Python 3.8
