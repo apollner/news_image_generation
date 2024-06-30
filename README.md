@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigel Farage challenged over canvasser's racist slurs**
+**Hall of Famer Orlando Cepeda dies at 86**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cgxq82xwkl1o).
+You can read more about it [here](https://sports.yahoo.com/hall-of-famer-orlando-cepeda-dies-at-86-033404876.html).
 
 ## Requirements
 - Python 3.8
