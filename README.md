@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NHL draft live updates: 7-round, 32-team pick tracker**
+**Rich Paul's message to teams about Bronny James could be a sign of things to come for the NFL**
 
-You can read more about it [here](https://www.espn.com/nhl/story/_/id/40453483/2024-nhl-draft-pick-tracker-analysis-32-teams-7-rounds-scouting-notes).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rich-pauls-message-to-teams-about-bronny-james-could-be-a-sign-of-things-to-come-for-the-nfl).
 
 ## Requirements
 - Python 3.8
