@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martin Mull, comedic actor from 'Roseanne,' dies at 80**
+**S&P 500 returns 15% in the first half in an unusually smooth ride**
 
-You can read more about it [here](https://apnews.com/article/martin-mull-dead-9e388ada08324634fe763b798abd0bc4).
+You can read more about it [here](https://www.cnbc.com/2024/06/29/sp-500-returns-15percent-in-the-first-half-in-an-unusually-smooth-ride.html).
 
 ## Requirements
 - Python 3.8
