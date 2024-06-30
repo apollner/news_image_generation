@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential exposure to measles in Mass., N.H., officials say**
+**2024 NHL draft live updates: 7-round, 32-team pick tracker**
 
-You can read more about it [here](https://www.wcvb.com/article/potential-exposure-measles-massachusetts-new-hampshire/61460277).
+You can read more about it [here](https://www.espn.com/nhl/story/_/id/40453483/2024-nhl-draft-pick-tracker-analysis-32-teams-7-rounds-scouting-notes).
 
 ## Requirements
 - Python 3.8
