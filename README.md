@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Martin Mull, comedic actor from 'Roseanne,' dies at 80**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/martin-mull-dead-9e388ada08324634fe763b798abd0bc4).
 
 ## Requirements
 - Python 3.8
