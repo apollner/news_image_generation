@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for 6/28/24: $116 million jackpot**
+**Nigel Farage challenged over canvasser's racist slurs**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/06/28/mega-millions-winning-numbers/74199470007/).
+You can read more about it [here](https://www.bbc.com/news/articles/cgxq82xwkl1o).
 
 ## Requirements
 - Python 3.8
