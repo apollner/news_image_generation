@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Health officials alert residents about potential exposure to measles in multiple locations - Boston News, Weather, Sports**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://whdh.com/news/health-officials-alert-residents-about-potential-exposure-to-measles-in-multiple-locations/).
 
 ## Requirements
 - Python 3.8
