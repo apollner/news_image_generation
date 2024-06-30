@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Families of Uvalde massacre victims say charges against former school police chief 'not enough'**
+**Nvidia stock buybacks could come from $270 billion 'cash gusher'**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/families-uvalde-massacre-victims-say-charges-former-school-police-chie-rcna159411).
+You can read more about it [here](https://fortune.com/2024/06/29/nvidia-stock-buyback-outlook-cash-pile-dividend-shareholder-returns-ai/).
 
 ## Requirements
 - Python 3.8
