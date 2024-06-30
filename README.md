@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches multiple satellites for the NRO from Vandenberg Space Force Base – Spaceflight Now**
+**An alphabet soup of 'electrified' vehicles awaits new car buyers as EV sales stall**
 
-You can read more about it [here](https://spaceflightnow.com/2024/06/29/live-coverage-spacex-to-launch-multiple-satellites-for-the-nro-from-vandenberg-space-force-base/).
+You can read more about it [here](https://www.cnbc.com/2024/06/29/ev-buying-guide-electrified-car-options.html).
 
 ## Requirements
 - Python 3.8
