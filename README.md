@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA finds H5N1 bird flu in half of tested samples but confirms flash pasteurization kills virus**
+**What to know about Oklahoma's top education official ordering Bible instruction in schools**
 
-You can read more about it [here](https://www.cnn.com/2024/06/28/health/fda-bird-flu-flash-pasteurization/index.html).
+You can read more about it [here](https://apnews.com/article/oklahoma-bible-schools-religion-ryan-walters-b49021c09b0fab4d0976b2d3bf3ce511).
 
 ## Requirements
 - Python 3.8
