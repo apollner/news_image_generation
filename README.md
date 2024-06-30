@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles sees first drop in homeless population in years**
+**Hawks trade All-Star Dejounte Murray to Pelicans: Report**
 
-You can read more about it [here](https://ktla.com/news/local-news/los-angeles-sees-first-drop-in-homeless-population-in-years/).
+You can read more about it [here](https://sports.yahoo.com/hawks-trade-all-star-dejounte-murray-to-pelicans-report-224433345.html).
 
 ## Requirements
 - Python 3.8
