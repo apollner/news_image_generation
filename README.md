@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Le Pen's far-right party wins first round of French elections as Macron's gamble backfires**
+**Abbreviated Pundit Roundup: Philadelphia Inquirer: No, Mr. Trump, you first**
 
-You can read more about it [here](https://www.france24.com/en/france/20240630-le-pen-s-far-right-party-wins-first-round-of-french-elections-as-macron-s-gamble-backfires).
+You can read more about it [here](https://www.dailykos.com/stories/2024/6/30/2249482/-Abbreviated-Pundit-Roundup-Philadelphia-Inquirer-No-Mr-Trump-you-first).
 
 ## Requirements
 - Python 3.8
