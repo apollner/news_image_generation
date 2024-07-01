@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**F1 Austrian GP: Russell inherits victory as Verstappen and Norris collide**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.motorsport.com/f1/news/f1-austrian-gp-russell-inherits-victory-as-verstappen-and-norris-collide/10629844/).
 
 ## Requirements
 - Python 3.8
