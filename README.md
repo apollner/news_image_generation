@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers' Christian McCaffrey, Model Olivia Culpo Get Married in Rhode Island**
+**Coldplay Debuts New Song With Little Simz During Glastonbury Headlining Set**
 
-You can read more about it [here](https://bleacherreport.com/articles/10126628-49ers-christian-mccaffrey-model-olivia-culpo-get-married-in-rhode-island).
+You can read more about it [here](https://variety.com/2024/music/global/coldplay-debuts-new-song-little-simz-glastonbury-1236046592/).
 
 ## Requirements
 - Python 3.8
