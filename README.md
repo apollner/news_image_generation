@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austrian GP: Lando Norris fumes at Max Verstappen move**
+**LeBron James Gives Lakers His Condition For Taking a Pay Cut, per Report**
 
-You can read more about it [here](https://www.bbc.com/sport/formula1/articles/cqqlryy2r7zo).
+You can read more about it [here](https://www.si.com/nba/lebron-james-gives-lakers-condition-for-taking-pay-cut-report).
 
 ## Requirements
 - Python 3.8
