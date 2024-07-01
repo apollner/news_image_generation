@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign plans to shorten Republican Party platform before RNC**
+**Le Pen's far-right party wins first round of French elections as Macron's gamble backfires**
 
-You can read more about it [here](https://www.npr.org/2024/06/30/nx-s1-5024189/trump-rnc-republican-party-platform).
+You can read more about it [here](https://www.france24.com/en/france/20240630-le-pen-s-far-right-party-wins-first-round-of-french-elections-as-macron-s-gamble-backfires).
 
 ## Requirements
 - Python 3.8
