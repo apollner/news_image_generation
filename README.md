@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voters turn out in record numbers in France's high-stakes snap election**
+**The making of Doug Burgum: From North Dakota to Trump's possible VP**
 
-You can read more about it [here](https://www.ft.com/content/645a559e-17ce-435d-920a-905b2c709fe8).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/06/29/doug-burgum-north-dakota-vice-president/74049142007/).
 
 ## Requirements
 - Python 3.8
