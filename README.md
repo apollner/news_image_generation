@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boy, 13, shot dead by New York police had replica gun, authorities say**
+**UFC 303 post-fight show: Reaction to Alex Pereira's brutal knockout of Jiri Prochazka, more**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6p2j48g304o).
+You can read more about it [here](https://www.mmafighting.com/2024/6/30/24189223/ufc-303-post-fight-show-reaction-to-alex-pereiras-brutal-knockout-of-jiri-prochazka-more).
 
 ## Requirements
 - Python 3.8
