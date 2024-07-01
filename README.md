@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Newsom signs new law: Restaurants and bars can continue to charge service fees, if posted**
+**State Farm seeking 30% rate hike for CA homeowners: Here's what to know**
 
-You can read more about it [here](https://www.yahoo.com/news/gov-newsom-signs-law-restaurants-235258258.html).
+You can read more about it [here](https://abc7.com/post/state-farm-seeking-30-rate-hike-california-homeowners/15009617/).
 
 ## Requirements
 - Python 3.8
