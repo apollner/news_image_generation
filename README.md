@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State Farm seeking 30% rate hike for CA homeowners: Here's what to know**
+**US and Europe warn Lebanon's Hezbollah to ease strikes on Israel and back off from wider Mideast war**
 
-You can read more about it [here](https://abc7.com/post/state-farm-seeking-30-rate-hike-california-homeowners/15009617/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/us-europe-warn-lebanons-hezbollah-ease-strikes-israel-111545484).
 
 ## Requirements
 - Python 3.8
