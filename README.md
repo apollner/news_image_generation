@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 18 killed, dozens injured in Nigeria suicide attacks**
+**After landmark Chevron ruling, could workplace safety agency OSHA be the next Supreme Court target?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzYvMzAvYXQtbGVhc3QtMTgta2lsbGVkLWRvemVucy1pbmp1cmVkLWluLW5pZ2VyaWEtc3VpY2lkZS1hdHRhY2tz0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzYvMzAvYXQtbGVhc3QtMTgta2lsbGVkLWRvemVucy1pbmp1cmVkLWluLW5pZ2VyaWEtc3VpY2lkZS1hdHRhY2tz?oc=5).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/06/30/supreme-court-osha-workplace-safety-chevron/74134696007/).
 
 ## Requirements
 - Python 3.8
