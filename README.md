@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers star Christian McCaffrey marries former Miss Universe Olivia Culpo in Rhode Island**
+**Austrian GP: Lando Norris fumes at Max Verstappen move**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/49ers-star-christian-mccaffrey-marries-former-miss-universe-olivia-culpo-in-rhode-island/).
+You can read more about it [here](https://www.bbc.com/sport/formula1/articles/cqqlryy2r7zo).
 
 ## Requirements
 - Python 3.8
