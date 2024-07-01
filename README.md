@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Inside Out 2’ Wins With $57.4M as ‘Quiet Place’ Prequel Scores Record $53M Start and ‘Horizon’ Bombs**
+**Mother of slain US hero Pat Tillman slams decision to honor Prince Harry with son's award: 'I am shocked'**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-quiet-place-day-one-horizon-1235935761/).
+You can read more about it [here](https://nypost.com/2024/06/30/us-news/us-hero-pat-tillmans-mom-slams-decision-to-honor-prince-harry-with-sons-award/).
 
 ## Requirements
 - Python 3.8
