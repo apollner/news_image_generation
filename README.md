@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 killed in crash into Long Island nail salon include off-duty NYPD officer**
+**Voters turn out in record numbers in France's high-stakes snap election**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/-duty-nypd-officer-4-dead-suv-crashes-long-island-nail-salon-rcna159603).
+You can read more about it [here](https://www.ft.com/content/645a559e-17ce-435d-920a-905b2c709fe8).
 
 ## Requirements
 - Python 3.8
