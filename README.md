@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China opens Chang'e 6 return capsule containing samples from moon's far side**
+**Study suggests connection between anxiety and Parkinson's disease**
 
-You can read more about it [here](https://www.space.com/chang-e-6-moon-far-side-return-capsule-opened).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/06/30/anxiety-diagnosis-parkinsons-disease-risk/).
 
 ## Requirements
 - Python 3.8
