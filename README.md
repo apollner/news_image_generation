@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After landmark Chevron ruling, could workplace safety agency OSHA be the next Supreme Court target?**
+**Boy, 13, shot dead by New York police had replica gun, authorities say**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/06/30/supreme-court-osha-workplace-safety-chevron/74134696007/).
+You can read more about it [here](https://www.bbc.com/news/articles/c6p2j48g304o).
 
 ## Requirements
 - Python 3.8
