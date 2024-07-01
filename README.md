@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner crew remains in space after delay raises questions**
+**Potential exposure to measles in Mass., N.H., officials say**
 
-You can read more about it [here](https://www.youtube.com/watch?v=1v4RrA_zKYE).
+You can read more about it [here](https://www.wcvb.com/article/potential-exposure-measles-massachusetts-new-hampshire/61460277).
 
 ## Requirements
 - Python 3.8
