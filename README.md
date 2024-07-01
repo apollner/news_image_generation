@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Karen Read murder trial: Messy investigation in exposes problems with police work that public rarely sees, experts say**
+**Michael J Fox surprises fans, joins Coldplay on guitar during historic Glastonbury performance: 'Our hero'**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/karen-read-trial-john-okeefe-murder-investigation-rcna159517).
+You can read more about it [here](https://nypost.com/2024/06/30/entertainment/michael-j-fox-surprises-fans-joins-coldplay-on-guitar-during-historic-glastonbury-performance/).
 
 ## Requirements
 - Python 3.8
