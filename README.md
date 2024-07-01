@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Free Agency: Options and qualifying offers**
+**Woj: Paul George wants a fourth year that the Clippers haven’t offered | SportsCenter**
 
-You can read more about it [here](https://www.nba.com/news/2024-free-agency-options-and-qualifying-offers).
+You can read more about it [here](https://www.youtube.com/watch?v=M9-cag0648A).
 
 ## Requirements
 - Python 3.8
