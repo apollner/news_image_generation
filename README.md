@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are some of Samsung's Galaxy Z Fold 6 and Flip 6 cases [Gallery]**
+**Ukraine: Zelensky renews long-range arms call after deadly attack**
 
-You can read more about it [here](http://9to5google.com/2024/06/29/samsungs-galaxy-z-fold-6-and-flip-6-cases/).
+You can read more about it [here](https://www.bbc.com/news/articles/c7281yly9n4o).
 
 ## Requirements
 - Python 3.8
