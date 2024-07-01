@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mother of slain US hero Pat Tillman slams decision to honor Prince Harry with son's award: 'I am shocked'**
+**Gov. Wes Moore says "I will not" seek 2024 Democratic nomination and says Biden isn't dropping out**
 
-You can read more about it [here](https://nypost.com/2024/06/30/us-news/us-hero-pat-tillmans-mom-slams-decision-to-honor-prince-harry-with-sons-award/).
+You can read more about it [here](https://www.cbsnews.com/news/wes-moore-2024-presidential-nomination-biden/).
 
 ## Requirements
 - Python 3.8
