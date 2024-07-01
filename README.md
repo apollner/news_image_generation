@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael J Fox surprises fans, joins Coldplay on guitar during historic Glastonbury performance: 'Our hero'**
+**China opens Chang'e 6 return capsule containing samples from moon's far side**
 
-You can read more about it [here](https://nypost.com/2024/06/30/entertainment/michael-j-fox-surprises-fans-joins-coldplay-on-guitar-during-historic-glastonbury-performance/).
+You can read more about it [here](https://www.space.com/chang-e-6-moon-far-side-return-capsule-opened).
 
 ## Requirements
 - Python 3.8
