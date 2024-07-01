@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F1 Austrian GP: Russell inherits victory as Verstappen and Norris collide**
+**Box Office: ‘Inside Out 2’ Wins With $57.4M as ‘Quiet Place’ Prequel Scores Record $53M Start and ‘Horizon’ Bombs**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/f1-austrian-gp-russell-inherits-victory-as-verstappen-and-norris-collide/10629844/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/inside-out-2-box-office-quiet-place-day-one-horizon-1235935761/).
 
 ## Requirements
 - Python 3.8
