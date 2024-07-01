@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 303 post-fight show: Reaction to Alex Pereira's brutal knockout of Jiri Prochazka, more**
+**Karen Read murder trial: Messy investigation in exposes problems with police work that public rarely sees, experts say**
 
-You can read more about it [here](https://www.mmafighting.com/2024/6/30/24189223/ufc-303-post-fight-show-reaction-to-alex-pereiras-brutal-knockout-of-jiri-prochazka-more).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/karen-read-trial-john-okeefe-murder-investigation-rcna159517).
 
 ## Requirements
 - Python 3.8
