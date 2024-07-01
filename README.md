@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Factory Activity Shrinks Again in Warning to Economy**
+**2024 Free Agency: Options and qualifying offers**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-06-30/china-factory-activity-shrinks-again-in-warning-to-economy).
+You can read more about it [here](https://www.nba.com/news/2024-free-agency-options-and-qualifying-offers).
 
 ## Requirements
 - Python 3.8
