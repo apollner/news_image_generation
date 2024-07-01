@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LeBron James Gives Lakers His Condition For Taking a Pay Cut, per Report**
+**Trump campaign plans to shorten Republican Party platform before RNC**
 
-You can read more about it [here](https://www.si.com/nba/lebron-james-gives-lakers-condition-for-taking-pay-cut-report).
+You can read more about it [here](https://www.npr.org/2024/06/30/nx-s1-5024189/trump-rnc-republican-party-platform).
 
 ## Requirements
 - Python 3.8
