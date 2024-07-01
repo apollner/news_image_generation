@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alex Pereira KOs Jiri Prochazka to Defend the Light Heavyweight Belt at UFC 303! 🏆**
+**4 killed in crash into Long Island nail salon include off-duty NYPD officer**
 
-You can read more about it [here](https://www.youtube.com/watch?v=xhKMwGozbic).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/-duty-nypd-officer-4-dead-suv-crashes-long-island-nail-salon-rcna159603).
 
 ## Requirements
 - Python 3.8
