@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Wes Moore says "I will not" seek 2024 Democratic nomination and says Biden isn't dropping out**
+**49ers star Christian McCaffrey marries former Miss Universe Olivia Culpo in Rhode Island**
 
-You can read more about it [here](https://www.cbsnews.com/news/wes-moore-2024-presidential-nomination-biden/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/49ers-star-christian-mccaffrey-marries-former-miss-universe-olivia-culpo-in-rhode-island/).
 
 ## Requirements
 - Python 3.8
