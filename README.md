@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woj: Paul George wants a fourth year that the Clippers haven’t offered | SportsCenter**
+**Iran to hold presidential runoff election between reformist Pezeshkian and hard-liner Jalili**
 
-You can read more about it [here](https://www.youtube.com/watch?v=M9-cag0648A).
+You can read more about it [here](https://www.cbsnews.com/news/iran-presidential-election-pakeshkian-jalili/).
 
 ## Requirements
 - Python 3.8
