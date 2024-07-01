@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential exposure to measles in Mass., N.H., officials say**
+**Gov. Newsom signs new law: Restaurants and bars can continue to charge service fees, if posted**
 
-You can read more about it [here](https://www.wcvb.com/article/potential-exposure-measles-massachusetts-new-hampshire/61460277).
+You can read more about it [here](https://www.yahoo.com/news/gov-newsom-signs-law-restaurants-235258258.html).
 
 ## Requirements
 - Python 3.8
