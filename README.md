@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner crew remains in space after delay raises questions**
+**Here are some of Samsung's Galaxy Z Fold 6 and Flip 6 cases [Gallery]**
 
-You can read more about it [here](https://www.youtube.com/watch?v=1v4RrA_zKYE).
+You can read more about it [here](http://9to5google.com/2024/06/29/samsungs-galaxy-z-fold-6-and-flip-6-cases/).
 
 ## Requirements
 - Python 3.8
