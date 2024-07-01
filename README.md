@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abbreviated Pundit Roundup: Philadelphia Inquirer: No, Mr. Trump, you first**
+**'A Quiet Place' prequel box office speaks volumes as Costner's Western gets a bumpy start**
 
-You can read more about it [here](https://www.dailykos.com/stories/2024/6/30/2249482/-Abbreviated-Pundit-Roundup-Philadelphia-Inquirer-No-Mr-Trump-you-first).
+You can read more about it [here](https://apnews.com/article/quiet-place-box-office-dadbeb6e8c9700ffcc723894fcab2e03).
 
 ## Requirements
 - Python 3.8
