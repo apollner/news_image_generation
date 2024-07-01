@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran to hold presidential runoff election between reformist Pezeshkian and hard-liner Jalili**
+**Upstate NY teen fatally shot by police after allegedly flashing pellet gun: 'Oh my god!'**
 
-You can read more about it [here](https://www.cbsnews.com/news/iran-presidential-election-pakeshkian-jalili/).
+You can read more about it [here](https://nypost.com/2024/06/29/us-news/13-year-old-boy-fatally-shot-by-upstate-ny-cops-after-flashing-pellet-gun/).
 
 ## Requirements
 - Python 3.8
