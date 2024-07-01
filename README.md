@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study suggests connection between anxiety and Parkinson's disease**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/06/30/anxiety-diagnosis-parkinsons-disease-risk/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
