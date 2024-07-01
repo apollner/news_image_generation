@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State Farm seeking 30% rate hike for CA homeowners: Here's what to know**
+**China Factory Activity Shrinks Again in Warning to Economy**
 
-You can read more about it [here](https://abc7.com/post/state-farm-seeking-30-rate-hike-california-homeowners/15009617/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-06-30/china-factory-activity-shrinks-again-in-warning-to-economy).
 
 ## Requirements
 - Python 3.8
