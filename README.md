@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coldplay Debuts New Song With Little Simz During Glastonbury Headlining Set**
+**Boeing Starliner crew remains in space after delay raises questions**
 
-You can read more about it [here](https://variety.com/2024/music/global/coldplay-debuts-new-song-little-simz-glastonbury-1236046592/).
+You can read more about it [here](https://www.youtube.com/watch?v=1v4RrA_zKYE).
 
 ## Requirements
 - Python 3.8
