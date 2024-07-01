@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'A Quiet Place' prequel box office speaks volumes as Costner's Western gets a bumpy start**
+**Family of 13-year-old killed in shooting by Utica, N.Y. police demands accountability**
 
-You can read more about it [here](https://apnews.com/article/quiet-place-box-office-dadbeb6e8c9700ffcc723894fcab2e03).
+You can read more about it [here](https://www.cbsnews.com/news/family-teenager-killed-shooting-utica-new-york-police-demand-accountability/).
 
 ## Requirements
 - Python 3.8
