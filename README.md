@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French far right ahead in 1st round of snap elections. Here's how runoff works and what comes next**
+**There is no end in sight for China’s uneven economic recovery**
 
-You can read more about it [here](https://apnews.com/article/france-election-far-right-macron-193233ade08821a71731980d8a17eb4a).
+You can read more about it [here](https://www.cnn.com/2024/07/01/business/china-economy-uneven-recovery-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
