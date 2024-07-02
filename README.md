@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Free Agency: Latest signings, trades, news and more**
+**Inside Out 2 achieves milestone in animated cinematic history; surpassing $1 billion in global box office revenue**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvMjAyNC1uYmEtZnJlZS1hZ2VuY3ktbGF0ZXN0LXNpZ25pbmdzLXRyYWRlcy1uZXdzLWFuZC1tb3Jl0gEA?oc=5).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/inside-out-2-achieves-milestone-in-animated-cinematic-history-surpassing-1-billion-in-global-box-office-revenue-101719834596468.html).
 
 ## Requirements
 - Python 3.8
