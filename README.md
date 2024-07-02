@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Usher's BET Award Lifetime Achievement Speech Muted — Read BET Apology**
+**Google rolling out Android 15 Beta 3.1 with Pixel lockscreen fix**
 
-You can read more about it [here](https://tvline.com/news/usher-bet-awards-lifetime-achievement-speech-muted-apology-1235273079/).
+You can read more about it [here](http://9to5google.com/2024/07/01/google-rolling-out-android-15-beta-3-1-with-pixel-lockscreen-fix/).
 
 ## Requirements
 - Python 3.8
