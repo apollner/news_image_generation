@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea test-launches two ballistic missiles, South Korea says**
+**The Trump immunity decision is about to drop. Here's how it might go.**
 
-You can read more about it [here](https://apnews.com/article/north-korea-ballistic-missile-launch-south-korea-5a247e48cdcd3c8098381a0c038da19d).
+You can read more about it [here](https://www.politico.com/news/2024/07/01/trump-immunity-supreme-court-decision-outcomes-00165996).
 
 ## Requirements
 - Python 3.8
