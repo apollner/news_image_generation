@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Trump immunity decision is about to drop. Here's how it might go.**
+**French far right ahead in 1st round of snap elections. Here's how runoff works and what comes next**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/01/trump-immunity-supreme-court-decision-outcomes-00165996).
+You can read more about it [here](https://apnews.com/article/france-election-far-right-macron-193233ade08821a71731980d8a17eb4a).
 
 ## Requirements
 - Python 3.8
