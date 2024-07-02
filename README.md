@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel releases some 50 Gaza detainees**
+**Report: Paul George, 76ers agree to max $212M contract in pursuit of an NBA championship**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9icmVha2luZy1uZXdzL2FydGljbGUtODA4NDYw0gEA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/paul-george-76ers-agree-to-max-212m-contract-in-pursuit-of-an-nba-championship-075207216.html).
 
 ## Requirements
 - Python 3.8
