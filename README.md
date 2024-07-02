@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Transcendent once again, Simone Biles will lead U.S. Olympic gymnastics team in Paris**
+**Will Trump stand trial in DC before the election? Experts say it's unlikely, but not impossible**
 
-You can read more about it [here](https://www.npr.org/2024/06/30/g-s1-7388/simone-biles-gymnastics-usa-olympic-team).
+You can read more about it [here](https://abcnews.go.com/Politics/will-trump-stand-trial-dc-before-election-experts-unlikely-not-impossible/story?id=111561162).
 
 ## Requirements
 - Python 3.8
