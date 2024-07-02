@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google rolling out Android 15 Beta 3.1 with Pixel lockscreen fix**
+**Mistrial in Karen Read trial in killing of Boston officer boyfriend**
 
-You can read more about it [here](http://9to5google.com/2024/07/01/google-rolling-out-android-15-beta-3-1-with-pixel-lockscreen-fix/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/01/karen-read-mistrial-murder-trial-boston-police/).
 
 ## Requirements
 - Python 3.8
