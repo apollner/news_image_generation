@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bolivian president orchestrated a 'self-coup,' political rival Evo Morales claims**
+**WestJet flight cancellations hit tens of thousands of travelers**
 
-You can read more about it [here](https://apnews.com/article/bolivia-coup-accusation-arce-morales-b0051f5a98fdd7ec5ba212bbe49d9850).
+You can read more about it [here](https://apnews.com/article/westjet-airline-strike-canada-flight-cancellations-2be751fc7a4623a2163c179e0e30391a).
 
 ## Requirements
 - Python 3.8
