@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA free agency: Kentavious Caldwell-Pope leaves Nuggets, joins Magic on $66M deal, per reports**
+**Julia Roberts and Stevie Nicks Join Travis Kelce at Taylor Swift's Eras Tour in Dublin**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-free-agency-kentavious-caldwell-pope-leaves-nuggets-joins-magic-on-66m-deal-per-reports/).
+You can read more about it [here](https://www.etonline.com/julia-roberts-and-stevie-nicks-join-travis-kelce-at-taylor-swifts-eras-tour-in-dublin-228329).
 
 ## Requirements
 - Python 3.8
