@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Beryl nears Caribbean islands as "extremely dangerous" Category 4 storm**
+**Immediate evacuation ordered for residents of Ruidoso**
 
-You can read more about it [here](https://www.cbsnews.com/news/hurricane-beryl-forecast-powerful-storm-caribbean-islands/).
+You can read more about it [here](https://www.koat.com/article/immediate-evacuation-ordered-for-residents-of-ruidoso/61464526).
 
 ## Requirements
 - Python 3.8
