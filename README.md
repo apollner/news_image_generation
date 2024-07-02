@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Immediate evacuation ordered for residents of Ruidoso**
+**Boeing agrees to buy fuselage maker Spirit AeroSystems in $4.7 billion deal**
 
-You can read more about it [here](https://www.koat.com/article/immediate-evacuation-ordered-for-residents-of-ruidoso/61464526).
+You can read more about it [here](https://www.cnbc.com/2024/07/01/boeing-to-buy-spirit-aerosystems.html).
 
 ## Requirements
 - Python 3.8
