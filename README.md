@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These ultraprocessed foods may shorten your life, study says**
+**Redbox DVD kiosk owner Chicken Soup For The Soul files for bankruptcy**
 
-You can read more about it [here](https://www.cnn.com/2024/07/01/health/worst-ultraprocessed-food-early-death-wellness/index.html).
+You can read more about it [here](https://www.foxbusiness.com/markets/redbox-dvd-kiosk-owner-chicken-soup-for-soul-files-bankruptcy).
 
 ## Requirements
 - Python 3.8
