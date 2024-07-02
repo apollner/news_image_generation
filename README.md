@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Simone Biles qualifies for 2024 Olympics, secures victory at US trials**
+**North Korea test-launches two ballistic missiles, South Korea says**
 
-You can read more about it [here](https://apnews.com/article/simone-biles-sunisa-lee-gymnastics-olympics-b8c48eb985bef134c153fbd194d8c1fa).
+You can read more about it [here](https://apnews.com/article/north-korea-ballistic-missile-launch-south-korea-5a247e48cdcd3c8098381a0c038da19d).
 
 ## Requirements
 - Python 3.8
