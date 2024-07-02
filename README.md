@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Redbox DVD kiosk owner Chicken Soup For The Soul files for bankruptcy**
+**Israel orders evacuation of Gaza's second-largest city, Khan Younis**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/redbox-dvd-kiosk-owner-chicken-soup-for-soul-files-bankruptcy).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-01-2024-453808f05ef8b98eb1a6b9814441224a).
 
 ## Requirements
 - Python 3.8
