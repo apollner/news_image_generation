@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BlackRock Buys Preqin for $3.2 Billion in Private Data Expansion**
+**Astronauts’ Return Delayed as Boeing Aims to Fix Starliner Spacecraft**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-07-01/blackrock-buys-preqin-for-3-2-billion-in-private-data-expansion).
+You can read more about it [here](https://learningenglish.voanews.com/a/astronauts-return-delayed-as-boeing-aims-to-fix-starliner-spacecraft/7676410.html).
 
 ## Requirements
 - Python 3.8
