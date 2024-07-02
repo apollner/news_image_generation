@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WestJet flight cancellations hit tens of thousands of travelers**
+**Hurricane Beryl nears Caribbean islands as "extremely dangerous" Category 4 storm**
 
-You can read more about it [here](https://apnews.com/article/westjet-airline-strike-canada-flight-cancellations-2be751fc7a4623a2163c179e0e30391a).
+You can read more about it [here](https://www.cbsnews.com/news/hurricane-beryl-forecast-powerful-storm-caribbean-islands/).
 
 ## Requirements
 - Python 3.8
