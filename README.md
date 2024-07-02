@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Paul George, 76ers agree to max $212M contract in pursuit of an NBA championship**
+**Fewer than 1 in 5 eligible Americans up to date with lung cancer screenings**
 
-You can read more about it [here](https://sports.yahoo.com/paul-george-76ers-agree-to-max-212m-contract-in-pursuit-of-an-nba-championship-075207216.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/07/01/lung-cancer-screening-southern-states/).
 
 ## Requirements
 - Python 3.8
