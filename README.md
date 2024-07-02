@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel orders evacuation of Gaza's second-largest city, Khan Younis**
+**Usher's BET Award Lifetime Achievement Speech Muted — Read BET Apology**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-01-2024-453808f05ef8b98eb1a6b9814441224a).
+You can read more about it [here](https://tvline.com/news/usher-bet-awards-lifetime-achievement-speech-muted-apology-1235273079/).
 
 ## Requirements
 - Python 3.8
