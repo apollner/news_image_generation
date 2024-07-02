@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**There is no end in sight for China’s uneven economic recovery**
+**2024 BET Awards Winners: See the Complete List (Updating)**
 
-You can read more about it [here](https://www.cnn.com/2024/07/01/business/china-economy-uneven-recovery-intl-hnk/index.html).
+You can read more about it [here](http://www.billboard.com/music/awards/2024-bet-awards-winners-1235721115/).
 
 ## Requirements
 - Python 3.8
