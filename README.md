@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Roberts and Stevie Nicks Join Travis Kelce at Taylor Swift's Eras Tour in Dublin**
+**Bolivian president orchestrated a 'self-coup,' political rival Evo Morales claims**
 
-You can read more about it [here](https://www.etonline.com/julia-roberts-and-stevie-nicks-join-travis-kelce-at-taylor-swifts-eras-tour-in-dublin-228329).
+You can read more about it [here](https://apnews.com/article/bolivia-coup-accusation-arce-morales-b0051f5a98fdd7ec5ba212bbe49d9850).
 
 ## Requirements
 - Python 3.8
