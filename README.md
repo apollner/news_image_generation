@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA free agency: Jayson Tatum, Celtics agree to richest contract in league history, per reports**
+**NASA administrator weighs in on China’s historic lunar far side samples — and potential US access**
 
-You can read more about it [here](https://sports.yahoo.com/2024-nba-free-agency-jayson-tatum-celtics-agree-to-richest-contract-in-league-history-per-reports-214149716.html).
+You can read more about it [here](https://www.cnn.com/2024/07/01/science/nasa-bill-nelson-china-change-6-samples-scn/index.html).
 
 ## Requirements
 - Python 3.8
