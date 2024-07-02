@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Out 2 achieves milestone in animated cinematic history; surpassing $1 billion in global box office revenue**
+**Rick Ross Attacked After Concert in Vancouver**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/inside-out-2-achieves-milestone-in-animated-cinematic-history-surpassing-1-billion-in-global-box-office-revenue-101719834596468.html).
+You can read more about it [here](https://www.tmz.com/2024/07/01/rick-ross-attack-canada-vancouver-concert/).
 
 ## Requirements
 - Python 3.8
