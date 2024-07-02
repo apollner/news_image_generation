@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronauts’ Return Delayed as Boeing Aims to Fix Starliner Spacecraft**
+**Simone Biles qualifies for 2024 Olympics, secures victory at US trials**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/astronauts-return-delayed-as-boeing-aims-to-fix-starliner-spacecraft/7676410.html).
+You can read more about it [here](https://apnews.com/article/simone-biles-sunisa-lee-gymnastics-olympics-b8c48eb985bef134c153fbd194d8c1fa).
 
 ## Requirements
 - Python 3.8
