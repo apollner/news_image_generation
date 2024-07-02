@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Krispy Kreme giving away free doughnuts, iced coffee two days a week in July: How to get the deal**
+**Israel releases some 50 Gaza detainees**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2024/07/01/krispy-kreme-free-doughnuts-iced-coffee-july/74247225007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9icmVha2luZy1uZXdzL2FydGljbGUtODA4NDYw0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
