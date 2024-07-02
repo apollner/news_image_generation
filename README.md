@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voters kick all the Republican women out of the South Carolina Senate**
+**2024 NBA Free Agency: Latest signings, trades, news and more**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/voters-kick-republican-women-south-carolina-senate-111571176).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNpLmNvbS9uYmEvMjAyNC1uYmEtZnJlZS1hZ2VuY3ktbGF0ZXN0LXNpZ25pbmdzLXRyYWRlcy1uZXdzLWFuZC1tb3Jl0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
