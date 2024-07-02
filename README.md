@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fewer than 1 in 5 eligible Americans up to date with lung cancer screenings**
+**Supreme Court keeps Trump election case alive, but rules he has some immunity for official acts**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/07/01/lung-cancer-screening-southern-states/).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
