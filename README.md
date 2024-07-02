@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mistrial in Karen Read trial in killing of Boston officer boyfriend**
+**2024 NBA free agency: Jayson Tatum, Celtics agree to richest contract in league history, per reports**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/01/karen-read-mistrial-murder-trial-boston-police/).
+You can read more about it [here](https://sports.yahoo.com/2024-nba-free-agency-jayson-tatum-celtics-agree-to-richest-contract-in-league-history-per-reports-214149716.html).
 
 ## Requirements
 - Python 3.8
