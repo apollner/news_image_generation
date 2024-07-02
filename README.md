@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Circle Snags First Stablecoin License Under EU's New MiCA Crypto Rules**
+**Steve Bannon begins serving 4-month sentence in federal prison for defying congressional subpoena**
 
-You can read more about it [here](https://www.coindesk.com/business/2024/07/01/stablecoin-issuer-circle-snags-mica-compliant-emi-license-for-europe/).
+You can read more about it [here](https://www.cnn.com/2024/07/01/politics/steve-bannon-report-to-prison/index.html).
 
 ## Requirements
 - Python 3.8
