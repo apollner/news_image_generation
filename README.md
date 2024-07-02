@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Isaiah Hartenstein bolts Knicks for $87 million Thunder contract in NBA free agency**
+**Circle Snags First Stablecoin License Under EU's New MiCA Crypto Rules**
 
-You can read more about it [here](https://nypost.com/2024/07/01/sports/isaiah-hartenstein-bolts-knicks-for-87-million-thunder-contract/).
+You can read more about it [here](https://www.coindesk.com/business/2024/07/01/stablecoin-issuer-circle-snags-mica-compliant-emi-license-for-europe/).
 
 ## Requirements
 - Python 3.8
