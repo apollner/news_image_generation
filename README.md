@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Isaiah Hartenstein bolts Knicks for $87 million Thunder contract in NBA free agency**
+**These ultraprocessed foods may shorten your life, study says**
 
-You can read more about it [here](https://nypost.com/2024/07/01/sports/isaiah-hartenstein-bolts-knicks-for-87-million-thunder-contract/).
+You can read more about it [here](https://www.cnn.com/2024/07/01/health/worst-ultraprocessed-food-early-death-wellness/index.html).
 
 ## Requirements
 - Python 3.8
