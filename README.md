@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Hilton's Toddler Phoenix Walking in Behind-the-Scenes Video**
+**2024 NBA free agency: Kentavious Caldwell-Pope leaves Nuggets, joins Magic on $66M deal, per reports**
 
-You can read more about it [here](https://www.tmz.com/2024/06/30/paris-hilton-son-phoenix-walking-behind-the-scenes-video/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-free-agency-kentavious-caldwell-pope-leaves-nuggets-joins-magic-on-66m-deal-per-reports/).
 
 ## Requirements
 - Python 3.8
