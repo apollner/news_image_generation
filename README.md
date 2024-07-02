@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada’s WestJet cancels most flights as mechanics strike**
+**2024 BET Awards Winners: See the Complete List (Updating)**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2024/7/1/canadas-westjet-cancels-most-flights-as-mechanics-strike).
+You can read more about it [here](http://www.billboard.com/music/awards/2024-bet-awards-winners-1235721115/).
 
 ## Requirements
 - Python 3.8
