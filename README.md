@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 BET Awards Winners: See the Complete List (Updating)**
+**Krispy Kreme giving away free doughnuts, iced coffee two days a week in July: How to get the deal**
 
-You can read more about it [here](http://www.billboard.com/music/awards/2024-bet-awards-winners-1235721115/).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2024/07/01/krispy-kreme-free-doughnuts-iced-coffee-july/74247225007/).
 
 ## Requirements
 - Python 3.8
