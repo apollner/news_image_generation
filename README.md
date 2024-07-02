@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rick Ross Attacked After Concert in Vancouver**
+**Isaiah Hartenstein bolts Knicks for $87 million Thunder contract in NBA free agency**
 
-You can read more about it [here](https://www.tmz.com/2024/07/01/rick-ross-attack-canada-vancouver-concert/).
+You can read more about it [here](https://nypost.com/2024/07/01/sports/isaiah-hartenstein-bolts-knicks-for-87-million-thunder-contract/).
 
 ## Requirements
 - Python 3.8
