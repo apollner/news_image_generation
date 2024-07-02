@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Trump stand trial in DC before the election? Experts say it's unlikely, but not impossible**
+**BlackRock Buys Preqin for $3.2 Billion in Private Data Expansion**
 
-You can read more about it [here](https://abcnews.go.com/Politics/will-trump-stand-trial-dc-before-election-experts-unlikely-not-impossible/story?id=111561162).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-07-01/blackrock-buys-preqin-for-3-2-billion-in-private-data-expansion).
 
 ## Requirements
 - Python 3.8
