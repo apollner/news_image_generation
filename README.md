@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court keeps Trump election case alive, but rules he has some immunity for official acts**
+**Voters kick all the Republican women out of the South Carolina Senate**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/voters-kick-republican-women-south-carolina-senate-111571176).
 
 ## Requirements
 - Python 3.8
