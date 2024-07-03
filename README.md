@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 50 Most Disappointing Movie Sequels of All Time**
+**24 Games Worth Checking Out In July, 2024**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-lists/worst-movie-sequels-1235041301/).
+You can read more about it [here](https://kotaku.com/july-2024-games-final-fantasy-flintlock-frostpunk-edf-1851571285).
 
 ## Requirements
 - Python 3.8
