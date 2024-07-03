@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Search Ranks AI Spam Above Original Reporting in News Results**
+**Sergio Garcia put on clock, fails to qualify for Open Championship**
 
-You can read more about it [here](https://www.wired.com/story/google-search-ai-spam-original-reporting-news-results/).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/40483989/sergio-garcia-put-clock-fails-qualify-open-championship).
 
 ## Requirements
 - Python 3.8
