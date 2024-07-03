@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT's Copa América flop should cost Gregg Berhalter his job. Will it?**
+**Heat wave to grip California, Oregon for weeks, raising fire risks**
 
-You can read more about it [here](https://sports.yahoo.com/usmnts-copa-america-flop-should-cost-gregg-berhalter-his-job-will-it-075418477.html).
+You can read more about it [here](https://www.axios.com/2024/07/02/heat-wave-california-oregon-wildfires).
 
 ## Requirements
 - Python 3.8
