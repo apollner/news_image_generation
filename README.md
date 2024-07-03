@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Android 14 July security patch rolling out today for Pixel**
+**[Removed]**
 
-You can read more about it [here](http://9to5google.com/2024/07/02/android-14-july-security-patch/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
