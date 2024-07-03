@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP US Rep. Spartz, of Indiana, charged with bringing gun through airport security, officials say**
+**Report: Why Klay chose Mavs over Lakers in NBA free agency**
 
-You can read more about it [here](https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/klay-thompson-mavericks-nba-free-agency/1751194/).
 
 ## Requirements
 - Python 3.8
