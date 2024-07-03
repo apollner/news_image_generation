@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google rolling out Android 15 Beta 3.1 with Pixel lockscreen fix**
+**GOP US Rep. Spartz, of Indiana, charged with bringing gun through airport security, officials say**
 
-You can read more about it [here](http://9to5google.com/2024/07/01/google-rolling-out-android-15-beta-3-1-with-pixel-lockscreen-fix/).
+You can read more about it [here](https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292).
 
 ## Requirements
 - Python 3.8
