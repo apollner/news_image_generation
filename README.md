@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Powell says US on 'disinflationary path,' but more data needed before rate cuts**
+**Poland's Tusk rails at fractured defense planning in jibe at Germany's Scholz**
 
-You can read more about it [here](https://www.reuters.com/markets/us/feds-powell-says-more-evidence-falling-inflation-needed-before-rate-cuts-2024-07-02/).
+You can read more about it [here](https://www.politico.eu/article/poland-donald-tusk-germany-olaf-scholz-defense-spending-planning-cooperation/).
 
 ## Requirements
 - Python 3.8
