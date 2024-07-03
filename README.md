@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hathras crush: More than 100 killed at religious event in India**
+**Fed's Powell says US on 'disinflationary path,' but more data needed before rate cuts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnN3dnajgzbm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZzd3Z2o4M25vLmFtcA?oc=5).
+You can read more about it [here](https://www.reuters.com/markets/us/feds-powell-says-more-evidence-falling-inflation-needed-before-rate-cuts-2024-07-02/).
 
 ## Requirements
 - Python 3.8
