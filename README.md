@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israel orders evacuation of Khan Younis, new ground assault likely**
+**Jayson Tatum's extension gives Boston a historically expensive roster, so how long can they keep it together?**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-01-2024-453808f05ef8b98eb1a6b9814441224a).
+You can read more about it [here](https://www.cbssports.com/nba/news/jayson-tatums-extension-gives-boston-a-historically-expensive-roster-so-how-long-can-they-keep-it-together/).
 
 ## Requirements
 - Python 3.8
