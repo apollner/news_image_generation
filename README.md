@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Burton’s ‘Beetlejuice Beetlejuice’ To Open Venice Film Festival**
+**Israel orders new evacuations in southern Gaza, prompting transfer of hospital patients**
 
-You can read more about it [here](http://deadline.com/2024/07/beetlejuice-beetlejuice-sequel-venice-film-festival-opening-movie-2024-tim-burton-michael-keaton-1235999536/).
+You can read more about it [here](https://www.cnn.com/2024/07/02/middleeast/israeli-military-orders-evacuations-in-southern-gaza-intl/index.html).
 
 ## Requirements
 - Python 3.8
