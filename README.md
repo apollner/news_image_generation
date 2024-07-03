@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**40 people injured after Air Europa flight experiences heavy turbulence, diverted to Brazil: Airport**
+**Jamie Foxx Recalls Mystery Illness, Being “Gone For 20 Days” During Hospitalization**
 
-You can read more about it [here](https://abcnews.go.com/International/air-europa-flight-turbulence/story?id=111595157).
+You can read more about it [here](http://deadline.com/2024/07/jamie-foxx-recalls-mystery-illness-being-gone-20-days-during-hospitalization-1235999459/).
 
 ## Requirements
 - Python 3.8
