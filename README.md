@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Portugal vs. Slovenia Highlights | UEFA Euro 2024 | Round of 16**
+**Mistrial in Karen Read trial in killing of Boston officer boyfriend**
 
-You can read more about it [here](https://www.youtube.com/watch?v=38g0X_x8MnQ).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/01/karen-read-mistrial-murder-trial-boston-police/).
 
 ## Requirements
 - Python 3.8
