@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Judge delays Trump's hush money sentencing until at least September after high court immunity ruling**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/trump-hush-money-sentencing-bragg-4d5f8ce399656abff72d7c114a04060d).
 
 ## Requirements
 - Python 3.8
