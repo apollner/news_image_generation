@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Stanley's explosive call on interest rates if Trump wins**
+**Some antidepressants cause more weight gain than others, study finds**
 
-You can read more about it [here](https://www.thestreet.com/investing/morgan-stanleys-explosive-call-on-interest-rates-if-trump-wins).
+You can read more about it [here](https://www.axios.com/2024/07/01/antidepressants-weight-gain-lexipro-zoloft-wellbutrin).
 
 ## Requirements
 - Python 3.8
