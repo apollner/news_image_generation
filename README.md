@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sergio Garcia put on clock, fails to qualify for Open Championship**
+**General election 2024: Parties stress core messages as election nears**
 
-You can read more about it [here](https://www.espn.com/golf/story/_/id/40483989/sergio-garcia-put-clock-fails-qualify-open-championship).
+You can read more about it [here](https://www.bbc.com/news/articles/cnl08r4404po).
 
 ## Requirements
 - Python 3.8
