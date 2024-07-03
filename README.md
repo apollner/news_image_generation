@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Firefly to launch 8 CubeSats for NASA on 5th Alpha rocket – Spaceflight Now**
+**Ukrainian air base under fire as Russia aims at F-16 arrivals**
 
-You can read more about it [here](https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/).
+You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-air-base-under-fire-russia-aims-f-16-arrivals-2024-07-02/).
 
 ## Requirements
 - Python 3.8
