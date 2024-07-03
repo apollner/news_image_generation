@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ticketmaster begins issuing notifications on a recent breach**
+**Portugal vs. Slovenia Highlights | UEFA Euro 2024 | Round of 16**
 
-You can read more about it [here](https://izoologic.com/region/us/ticketmaster-begins-issuing-notifications-on-a-recent-breach/).
+You can read more about it [here](https://www.youtube.com/watch?v=38g0X_x8MnQ).
 
 ## Requirements
 - Python 3.8
