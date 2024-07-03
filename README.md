@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US job openings unexpectedly grew in May, reflecting a still resilient labor market**
+**USMNT's Copa América flop should cost Gregg Berhalter his job. Will it?**
 
-You can read more about it [here](https://www.cnn.com/2024/07/02/economy/us-jolts-job-openings-layoffs-may/index.html).
+You can read more about it [here](https://sports.yahoo.com/usmnts-copa-america-flop-should-cost-gregg-berhalter-his-job-will-it-075418477.html).
 
 ## Requirements
 - Python 3.8
