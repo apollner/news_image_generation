@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uruguay 1-0 USA (Jul 1, 2024) Game Analysis**
+**Ticketmaster begins issuing notifications on a recent breach**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/690725).
+You can read more about it [here](https://izoologic.com/region/us/ticketmaster-begins-issuing-notifications-on-a-recent-breach/).
 
 ## Requirements
 - Python 3.8
