@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian air base under fire as Russia aims at F-16 arrivals**
+**Israel-Hamas war: Israel orders evacuation of Khan Younis, new ground assault likely**
 
-You can read more about it [here](https://www.reuters.com/world/europe/ukrainian-air-base-under-fire-russia-aims-f-16-arrivals-2024-07-02/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-01-2024-453808f05ef8b98eb1a6b9814441224a).
 
 ## Requirements
 - Python 3.8
