@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some antidepressants cause more weight gain than others, study finds**
+**Nick Cannon Explains Why He Insured His Private Parts for $10 Million (Exclusive)**
 
-You can read more about it [here](https://www.axios.com/2024/07/01/antidepressants-weight-gain-lexipro-zoloft-wellbutrin).
+You can read more about it [here](https://www.etonline.com/nick-cannon-explains-why-he-insured-his-private-parts-for-10-million-exclusive-228415).
 
 ## Requirements
 - Python 3.8
