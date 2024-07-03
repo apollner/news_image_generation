@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nick Cannon Explains Why He Insured His Private Parts for $10 Million (Exclusive)**
+**Anger mounts at Joe Biden's inner circle after debate debacle**
 
-You can read more about it [here](https://www.etonline.com/nick-cannon-explains-why-he-insured-his-private-parts-for-10-million-exclusive-228415).
+You can read more about it [here](https://www.ft.com/content/b411ba0e-62f0-4152-8f61-9a1506f4ac5f).
 
 ## Requirements
 - Python 3.8
