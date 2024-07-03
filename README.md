@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge delays Trump's hush money sentencing until at least September after high court immunity ruling**
+**Google Search Ranks AI Spam Above Original Reporting in News Results**
 
-You can read more about it [here](https://apnews.com/article/trump-hush-money-sentencing-bragg-4d5f8ce399656abff72d7c114a04060d).
+You can read more about it [here](https://www.wired.com/story/google-search-ai-spam-original-reporting-news-results/).
 
 ## Requirements
 - Python 3.8
