@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinians flee Khan Younis as Israeli forces strike south Gaza**
+**OHP: Ollie Gordon II arrested, accused of DUI, speeding**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZDE2MDB2bDdsem_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2QxNjAwdmw3bHpvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmtvY28uY29tL2FydGljbGUvb2xsaWUtZ29yZG9uLWlpLWFycmVzdGVkLW9rbGFob21hLXN0YXRlLzYxNDcyODkz0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
