@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel orders new evacuations in southern Gaza, prompting transfer of hospital patients**
+**Orbán in Kyiv for the first time since Russia-Ukraine war began**
 
-You can read more about it [here](https://www.cnn.com/2024/07/02/middleeast/israeli-military-orders-evacuations-in-southern-gaza-intl/index.html).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-hungary-viktor-orban-volodymyr-zelenskyy-79277d17ae9c452a4e4924c9f1f633f9).
 
 ## Requirements
 - Python 3.8
