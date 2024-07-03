@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: Warriors receive two second-round picks as Klay deal finalized**
+**Uruguay 1-0 USA (Jul 1, 2024) Game Analysis**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/klay-thompson-mavericks-sign-trade/1751241/).
+You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/690725).
 
 ## Requirements
 - Python 3.8
