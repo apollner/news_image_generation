@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After steering major deal, Shanahan, CEO of Boeing supplier, could be next Boeing boss**
+**40 people injured after Air Europa flight experiences heavy turbulence, diverted to Brazil: Airport**
 
-You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/after-steering-major-deal-spirit-ceo-shanahan-could-be-next-boeing-boss/).
+You can read more about it [here](https://abcnews.go.com/International/air-europa-flight-turbulence/story?id=111595157).
 
 ## Requirements
 - Python 3.8
