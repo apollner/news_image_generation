@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat wave to grip California, Oregon for weeks, raising fire risks**
+**Poland's Tusk rails at fractured defense planning in jibe at Germany's Scholz**
 
-You can read more about it [here](https://www.axios.com/2024/07/02/heat-wave-california-oregon-wildfires).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcG9sYW5kLWRvbmFsZC10dXNrLWdlcm1hbnktb2xhZi1zY2hvbHotZGVmZW5zZS1zcGVuZGluZy1wbGFubmluZy1jb29wZXJhdGlvbi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
