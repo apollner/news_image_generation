@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poland's Tusk rails at fractured defense planning in jibe at Germany's Scholz**
+**Bionic legs plugged directly into nervous system enable unprecedented 'level of brain control'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcG9sYW5kLWRvbmFsZC10dXNrLWdlcm1hbnktb2xhZi1zY2hvbHotZGVmZW5zZS1zcGVuZGluZy1wbGFubmluZy1jb29wZXJhdGlvbi_SAQA?oc=5).
+You can read more about it [here](https://www.livescience.com/health/surgery/bionic-legs-plugged-directly-into-nervous-system-enable-unprecedented-level-of-brain-control).
 
 ## Requirements
 - Python 3.8
