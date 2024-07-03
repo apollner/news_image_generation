@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Why Klay chose Mavs over Lakers in NBA free agency**
+**Italian teen Carlos Acutis is first millennial saint: Gods Influencer**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/klay-thompson-mavericks-nba-free-agency/1751194/).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/07/01/carlos-acutis-millennial-saint-gods-influencer/74267977007/).
 
 ## Requirements
 - Python 3.8
