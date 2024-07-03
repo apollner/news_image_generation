@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OHP: Ollie Gordon II arrested, accused of DUI, speeding**
+**Tim Burton’s ‘Beetlejuice Beetlejuice’ To Open Venice Film Festival**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmtvY28uY29tL2FydGljbGUvb2xsaWUtZ29yZG9uLWlpLWFycmVzdGVkLW9rbGFob21hLXN0YXRlLzYxNDcyODkz0gEA?oc=5).
+You can read more about it [here](http://deadline.com/2024/07/beetlejuice-beetlejuice-sequel-venice-film-festival-opening-movie-2024-tim-burton-michael-keaton-1235999536/).
 
 ## Requirements
 - Python 3.8
