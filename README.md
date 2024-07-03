@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orbán in Kyiv for the first time since Russia-Ukraine war began**
+**The 50 Most Disappointing Movie Sequels of All Time**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-hungary-viktor-orban-volodymyr-zelenskyy-79277d17ae9c452a4e4924c9f1f633f9).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-lists/worst-movie-sequels-1235041301/).
 
 ## Requirements
 - Python 3.8
