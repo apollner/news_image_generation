@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA offseason winners, losers: Warriors' summer hinges on potential trade, OKC goes big, Klay gets fresh start**
+**Android 14 July security patch rolling out today for Pixel**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-offseason-winners-losers-warriors-summer-hinges-on-potential-trade-okc-goes-big-klay-gets-fresh-start/).
+You can read more about it [here](http://9to5google.com/2024/07/02/android-14-july-security-patch/).
 
 ## Requirements
 - Python 3.8
