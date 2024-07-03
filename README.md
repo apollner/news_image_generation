@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war: Israel orders evacuation of Khan Younis, new ground assault likely**
+**What we know about the fatal police shooting of a 13-year-old boy in upstate New York**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-01-2024-453808f05ef8b98eb1a6b9814441224a).
+You can read more about it [here](https://apnews.com/article/utica-police-shooting-nyah-mway-myanmar-835e5c29eed93dc109108f668323d9f4).
 
 ## Requirements
 - Python 3.8
