@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italian teen Carlos Acutis is first millennial saint: Gods Influencer**
+**Morgan Stanley's explosive call on interest rates if Trump wins**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/07/01/carlos-acutis-millennial-saint-gods-influencer/74267977007/).
+You can read more about it [here](https://www.thestreet.com/investing/morgan-stanleys-explosive-call-on-interest-rates-if-trump-wins).
 
 ## Requirements
 - Python 3.8
