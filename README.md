@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anger mounts at Joe Biden's inner circle after debate debacle**
+**Source: Warriors receive two second-round picks as Klay deal finalized**
 
-You can read more about it [here](https://www.ft.com/content/b411ba0e-62f0-4152-8f61-9a1506f4ac5f).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/klay-thompson-mavericks-sign-trade/1751241/).
 
 ## Requirements
 - Python 3.8
