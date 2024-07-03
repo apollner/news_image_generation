@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about the fatal police shooting of a 13-year-old boy in upstate New York**
+**Palestinians flee Khan Younis as Israeli forces strike south Gaza**
 
-You can read more about it [here](https://apnews.com/article/utica-police-shooting-nyah-mway-myanmar-835e5c29eed93dc109108f668323d9f4).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZDE2MDB2bDdsem_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2QxNjAwdmw3bHpvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
