@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mistrial in Karen Read trial in killing of Boston officer boyfriend**
+**After steering major deal, Shanahan, CEO of Boeing supplier, could be next Boeing boss**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/01/karen-read-mistrial-murder-trial-boston-police/).
+You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/after-steering-major-deal-spirit-ceo-shanahan-could-be-next-boeing-boss/).
 
 ## Requirements
 - Python 3.8
