@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine Russia war: Hungary's Viktor Orban urges ceasefire in Kyiv**
+**Dengue fever reported in Florida Keys in two locally-acquired cases**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3gvrzpwp54o).
+You can read more about it [here](https://nypost.com/2024/07/02/us-news/dengue-fever-reported-in-florida-keys-in-two-locally-acquired-cases/).
 
 ## Requirements
 - Python 3.8
