@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce reveals his No. 1 rule on stage with Taylor Swift: ‘Do not drop the baby’**
+**Hurricane Beryl roars toward Jamaica after killing at least 6 people in the southeast Caribbean**
 
-You can read more about it [here](https://www.cnn.com/2024/07/03/entertainment/travis-kelce-taylor-swift-eras-tour-cameo/index.html).
+You can read more about it [here](https://apnews.com/article/hurricane-beryl-caribbean-jamaica-cayman-islands-774803fc70e187ea96e7df10f84d8a50).
 
 ## Requirements
 - Python 3.8
