@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinians flee Khan Younis as Israel says 1.9 million are crammed in central Gaza**
+**Dengue fever reported in Florida Keys in two locally-acquired cases**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/02/palestinians-flee-khan-younis-israel-crammed-gaza-00166376).
+You can read more about it [here](https://nypost.com/2024/07/02/us-news/dengue-fever-reported-in-florida-keys-in-two-locally-acquired-cases/).
 
 ## Requirements
 - Python 3.8
