@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dengue fever reported in Florida Keys in two locally-acquired cases**
+**Tesla exceeds expectations as its EV sales start to rebound**
 
-You can read more about it [here](https://nypost.com/2024/07/02/us-news/dengue-fever-reported-in-florida-keys-in-two-locally-acquired-cases/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/07/02/tesla-second-quarter-ev-sales/).
 
 ## Requirements
 - Python 3.8
