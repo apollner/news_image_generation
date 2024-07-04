@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Category 4 Hurricane Beryl is churning west in the Caribbean**
+**Stock futures are little changed after S&P 500 closes above 5,500 level: Live updates**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/07/02/hurricane-beryl-path-forecast-jamaica-yucatan/).
+You can read more about it [here](https://www.cnbc.com/2024/07/02/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
