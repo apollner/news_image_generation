@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A growing club led by Xi and Putin to counter the US is adding a staunchly pro-Russia member**
+**As Biden digs in, some top Democrats want him out of the race this week**
 
-You can read more about it [here](https://www.cnn.com/2024/07/02/china/china-russia-belarus-full-member-sco-summit-intl-hnk/index.html).
+You can read more about it [here](https://www.cnn.com/2024/07/02/politics/biden-debate-performance-democrats/index.html).
 
 ## Requirements
 - Python 3.8
