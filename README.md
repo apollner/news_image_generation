@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches 20 Starlink satellites from Florida early on July 3 after delay (video)**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-8-9).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
