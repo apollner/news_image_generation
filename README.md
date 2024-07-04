@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel sees major progress in new Hamas response to hostage-ceasefire deal**
+**High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil**
 
-You can read more about it [here](https://www.axios.com/2024/07/03/israel-hamas-hostage-ceasefire-deal-latest).
+You can read more about it [here](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/).
 
 ## Requirements
 - Python 3.8
