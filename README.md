@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Beryl roars toward Jamaica after killing at least 6 people in the southeast Caribbean**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/hurricane-beryl-caribbean-jamaica-cayman-islands-774803fc70e187ea96e7df10f84d8a50).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
