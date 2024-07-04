@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Here's who Democratic voters would support if Biden dropped out**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/c6p2w01lg77o).
 
 ## Requirements
 - Python 3.8
