@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Towne, Oscar-winning writer of ‘Chinatown,’ dies at 89**
+**Omaha Latino organization reacts to Crete shooting**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/robert-towne-oscar-winning-writer-chinatown-dies-89).
+You can read more about it [here](https://www.ketv.com/article/omaha-latino-organizations-rally-around-crete-family-injured-in-friday-shooting/61491324).
 
 ## Requirements
 - Python 3.8
