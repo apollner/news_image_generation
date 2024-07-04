@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark, Angel Reese named first-time All-Stars on Team WNBA vs. Team USA**
+**A growing club led by Xi and Putin to counter the US is adding a staunchly pro-Russia member**
 
-You can read more about it [here](https://sports.yahoo.com/caitlin-clark-angel-reese-named-first-time-all-stars-on-team-wnba-vs-team-usa-011718131.html).
+You can read more about it [here](https://www.cnn.com/2024/07/02/china/china-russia-belarus-full-member-sco-summit-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
