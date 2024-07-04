@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These 5 maps show why the California heat wave is so brutal**
+**Lebanon: Israeli strike kills senior Hezbollah commander**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/07/03/california-heat-wave-maps-forecast-analysis/).
+You can read more about it [here](https://www.bbc.com/news/articles/cg3e9e7y3vno).
 
 ## Requirements
 - Python 3.8
