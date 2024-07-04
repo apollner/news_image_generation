@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ants can perform life-saving amputations on their wounded, study says**
+**‘The Bear’ Strives for More. And in Season 3, That’s to Its Detriment.**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/07/03/carpenter-ant-study-amputation-wounded/).
+You can read more about it [here](https://www.theringer.com/tv/2024/7/3/24191625/the-bear-season-3-issues-fx-hulu).
 
 ## Requirements
 - Python 3.8
