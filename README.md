@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after S&P 500 closes above 5,500 level: Live updates**
+**Ukraine Russia war: Hungary's Viktor Orban urges ceasefire in Kyiv**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/02/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c3gvrzpwp54o).
 
 ## Requirements
 - Python 3.8
