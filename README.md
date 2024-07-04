@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Omaha Latino organization reacts to Crete shooting**
+**Xbox Live is back after an outage lasting several hours**
 
-You can read more about it [here](https://www.ketv.com/article/omaha-latino-organizations-rally-around-crete-family-injured-in-friday-shooting/61491324).
+You can read more about it [here](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed).
 
 ## Requirements
 - Python 3.8
