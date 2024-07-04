@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 U.K. election is set to overhaul British politics. Here's what to know.**
+**As Biden digs in, some top Democrats want him out of the race this week**
 
-You can read more about it [here](https://www.cbsnews.com/news/2024-uk-election-timeline-polls-predictions-labour-windfall-what-to-know/).
+You can read more about it [here](https://www.cnn.com/2024/07/02/politics/biden-debate-performance-democrats/index.html).
 
 ## Requirements
 - Python 3.8
