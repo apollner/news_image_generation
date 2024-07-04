@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is the COVID summer wave here? Here's what the FLiRT variants mean for rising infections**
+**SpaceX launches 20 Starlink satellites from Florida early on July 3 after delay (video)**
 
-You can read more about it [here](https://www.salon.com/2024/07/03/is-the-summer-wave-here-heres-what-the-flirt-variants-mean-for-rising-infections/).
+You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-8-9).
 
 ## Requirements
 - Python 3.8
