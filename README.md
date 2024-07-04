@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**State police boss, Mass. gov. condemn comments of lead Karen Read investigator**
+**Caitlin Clark, Angel Reese named first-time All-Stars on Team WNBA vs. Team USA**
 
-You can read more about it [here](https://www.wcvb.com/article/head-of-mass-state-police-gov-maura-healey-condemn-comments-of-lead-karen-read-investigator/61487555).
+You can read more about it [here](https://sports.yahoo.com/caitlin-clark-angel-reese-named-first-time-all-stars-on-team-wnba-vs-team-usa-011718131.html).
 
 ## Requirements
 - Python 3.8
