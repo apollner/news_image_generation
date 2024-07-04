@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Please send help’: Caribbean reels from Hurricane Beryl devastation**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzAzL2NhcmliYmVhbi1odXJyaWNhbmUtYmVyeWwtc3Rvcm3SAVVodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L2p1bC8wMy9jYXJpYmJlYW4taHVycmljYW5lLWJlcnlsLXN0b3Jt?oc=5).
 
 ## Requirements
 - Python 3.8
