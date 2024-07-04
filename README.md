@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smoke from Northern California fire expected to drift into SF Bay Area**
+**[Removed]**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/smoke-northern-california-fire-expected-drift-sf-19552686.php).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
