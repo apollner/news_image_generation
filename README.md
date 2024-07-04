@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US prepares for bird flu pandemic with $176M Moderna vaccine deal**
+**Northern California heat wave July 2 forecast and impacts**
 
-You can read more about it [here](https://arstechnica.com/science/2024/07/us-prepares-for-bird-flu-pandemic-with-176m-moderna-vaccine-deal/).
+You can read more about it [here](https://www.kcra.com/article/northern-california-forecast-heat-wave-july-2-2024/61484655).
 
 ## Requirements
 - Python 3.8
