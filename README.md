@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla exceeds expectations as its EV sales start to rebound**
+**Guatemala immigrants had previous run-in with neighbor who shot them**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/07/02/tesla-second-quarter-ev-sales/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/guatemala-immigrants-previous-run-neighbor-shot-rcna160066).
 
 ## Requirements
 - Python 3.8
