@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's who Democratic voters would support if Biden dropped out**
+**Noplace, a mashup of Twitter and MySpace for Gen Z, hits No. 1 on the App Store**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6p2w01lg77o).
+You can read more about it [here](https://techcrunch.com/2024/07/03/noplace-a-mashup-of-twitter-and-myspace-for-gen-z-hits-no-1-on-the-app-store/).
 
 ## Requirements
 - Python 3.8
