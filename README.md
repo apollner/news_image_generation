@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A conservative leading the pro-Trump Project 2025 suggests there will be a new American Revolution**
+**These 5 maps show why the California heat wave is so brutal**
 
-You can read more about it [here](https://apnews.com/article/project-2025-trump-american-revolution-6e02a297fb91b55de01ba7e86615bb08).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/07/03/california-heat-wave-maps-forecast-analysis/).
 
 ## Requirements
 - Python 3.8
