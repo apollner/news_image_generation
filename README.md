@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil**
+**Ants can perform life-saving amputations on their wounded, study says**
 
-You can read more about it [here](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/07/03/carpenter-ant-study-amputation-wounded/).
 
 ## Requirements
 - Python 3.8
