@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ants can perform life-saving amputations on their wounded, study says**
+**How LeBron’s new max contract limits Lakers’ trade options, explained**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/07/03/carpenter-ant-study-amputation-wounded/).
+You can read more about it [here](https://www.silverscreenandroll.com/2024/7/3/24191827/lebron-james-new-contract-lakers-nba-free-agency-options-trade-rumors).
 
 ## Requirements
 - Python 3.8
