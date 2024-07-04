@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. Crude Oil Inventories Fall More Than Expected**
+**Israel sees major progress in new Hamas response to hostage-ceasefire deal**
 
-You can read more about it [here](https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-fall-more-than-expected-6bf4d532).
+You can read more about it [here](https://www.axios.com/2024/07/03/israel-hamas-hostage-ceasefire-deal-latest).
 
 ## Requirements
 - Python 3.8
