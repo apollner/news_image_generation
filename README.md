@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crush at India religious event kills more than 120, mostly women**
+**Palestinians flee Khan Younis as Israel says 1.9 million are crammed in central Gaza**
 
-You can read more about it [here](https://www.cnn.com/2024/07/02/asia/india-uttar-pradesh-crush-intl/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/07/02/palestinians-flee-khan-younis-israel-crammed-gaza-00166376).
 
 ## Requirements
 - Python 3.8
