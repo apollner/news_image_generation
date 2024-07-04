@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lebanon: Israeli strike kills senior Hezbollah commander**
+**Ants can perform life-saving amputations on their wounded, study says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cg3e9e7y3vno).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/07/03/carpenter-ant-study-amputation-wounded/).
 
 ## Requirements
 - Python 3.8
