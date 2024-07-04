@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xbox Live is back after an outage lasting several hours**
+**Crush at India religious event kills more than 120, mostly women**
 
-You can read more about it [here](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed).
+You can read more about it [here](https://www.cnn.com/2024/07/02/asia/india-uttar-pradesh-crush-intl/index.html).
 
 ## Requirements
 - Python 3.8
