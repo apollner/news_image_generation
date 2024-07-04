@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Bear’ Strives for More. And in Season 3, That’s to Its Detriment.**
+**A conservative leading the pro-Trump Project 2025 suggests there will be a new American Revolution**
 
-You can read more about it [here](https://www.theringer.com/tv/2024/7/3/24191625/the-bear-season-3-issues-fx-hulu).
+You can read more about it [here](https://apnews.com/article/project-2025-trump-american-revolution-6e02a297fb91b55de01ba7e86615bb08).
 
 ## Requirements
 - Python 3.8
