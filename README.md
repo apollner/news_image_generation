@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dengue fever reported in Florida Keys in two locally-acquired cases**
+**State police boss, Mass. gov. condemn comments of lead Karen Read investigator**
 
-You can read more about it [here](https://nypost.com/2024/07/02/us-news/dengue-fever-reported-in-florida-keys-in-two-locally-acquired-cases/).
+You can read more about it [here](https://www.wcvb.com/article/head-of-mass-state-police-gov-maura-healey-condemn-comments-of-lead-karen-read-investigator/61487555).
 
 ## Requirements
 - Python 3.8
