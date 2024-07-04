@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern California heat wave July 2 forecast and impacts**
+**Category 4 Hurricane Beryl is churning west in the Caribbean**
 
-You can read more about it [here](https://www.kcra.com/article/northern-california-forecast-heat-wave-july-2-2024/61484655).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/07/02/hurricane-beryl-path-forecast-jamaica-yucatan/).
 
 ## Requirements
 - Python 3.8
