@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Shares "Golden Rule" for Joining Taylor Swift on Stage at Eras Tour**
+**U.S. Crude Oil Inventories Fall More Than Expected**
 
-You can read more about it [here](https://www.eonline.com/news/1404588/travis-kelce-shares-golden-rule-for-joining-taylor-swift-on-stage-at-eras-tour).
+You can read more about it [here](https://www.wsj.com/business/energy-oil/u-s-crude-oil-inventories-fall-more-than-expected-6bf4d532).
 
 ## Requirements
 - Python 3.8
