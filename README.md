@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Biden digs in, some top Democrats want him out of the race this week**
+**Your diet at 40 may affect how healthy you are at 70, study finds**
 
-You can read more about it [here](https://www.cnn.com/2024/07/02/politics/biden-debate-performance-democrats/index.html).
+You can read more about it [here](https://www.yahoo.com/lifestyle/diet-40-may-affect-healthy-012102270.html).
 
 ## Requirements
 - Python 3.8
