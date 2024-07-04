@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your diet at 40 may affect how healthy you are at 70, study finds**
+**Smoke from Northern California fire expected to drift into SF Bay Area**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/diet-40-may-affect-healthy-012102270.html).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/smoke-northern-california-fire-expected-drift-sf-19552686.php).
 
 ## Requirements
 - Python 3.8
