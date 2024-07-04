@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General election 2024: Parties stress core messages as election nears**
+**US prepares for bird flu pandemic with $176M Moderna vaccine deal**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cnl08r4404po).
+You can read more about it [here](https://arstechnica.com/science/2024/07/us-prepares-for-bird-flu-pandemic-with-176m-moderna-vaccine-deal/).
 
 ## Requirements
 - Python 3.8
