@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Bertoletti wins Nathan's Hot Dog Eating Contest with 58 as Miki Sudo sets new women's division record with 51**
+**California wildfires: Nearly 30,000 evacuated**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/nathans-hot-dog-eating-contest-2024/).
+You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
 
 ## Requirements
 - Python 3.8
