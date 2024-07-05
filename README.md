@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Despicable Me 4’ Firing Off To $28M Wednesday, $120M 5-Day Opening Over July 4th Stretch – Box Office**
+**WH reporters admit being 'turned off' from exposing Biden's mental decline because of 'right-wing media' hype**
 
-You can read more about it [here](http://deadline.com/2024/07/box-office-despicable-me-4-1236001250/).
+You can read more about it [here](https://www.foxnews.com/media/wh-reporters-admit-being-turned-off-exposing-bidens-mental-decline-right-wing-media-hype).
 
 ## Requirements
 - Python 3.8
