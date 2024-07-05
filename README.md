@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Under the moon's surface, magnetized lava may create 'lunar swirls'**
+**‘Anyone who fell did not get up’: Survivors recall chaos and confusion at deadly crush in India**
 
-You can read more about it [here](https://www.space.com/magnetized-lava-lunar-swirls-moon-surface).
+You can read more about it [here](https://www.cnn.com/2024/07/03/india/india-crush-eyewitness-accounts-intl/index.html).
 
 ## Requirements
 - Python 3.8
