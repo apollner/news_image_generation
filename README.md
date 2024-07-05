@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where's Macron? French president disappears amid election crisis**
+**Heat alerts hit 21 states as triple-digit temperatures sweep U.S. over July 4 weekend**
 
-You can read more about it [here](https://www.politico.eu/article/emmanuel-macron-france-president-elections-2024-marine-le-pen-brussels-national-rally/).
+You can read more about it [here](https://www.axios.com/2024/07/04/july-fourth-heat-wave-21-states-forecast).
 
 ## Requirements
 - Python 3.8
