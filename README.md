@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High School Musical Star Vanessa Hudgens And Cole Tucker Welcome First Child**
+**‘Despicable Me 4’ Firing Off To $28M Wednesday, $120M 5-Day Opening Over July 4th Stretch – Box Office**
 
-You can read more about it [here](https://www.ndtv.com/entertainment/vanessa-hudgens-and-cole-tucker-welcome-first-child-see-glimpse-of-newborn-baby-6030412).
+You can read more about it [here](http://deadline.com/2024/07/box-office-despicable-me-4-1236001250/).
 
 ## Requirements
 - Python 3.8
