@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What happens to Biden’s campaign cash if he drops out**
+**Heat alerts hit 21 states as triple-digit temperatures sweep U.S. over July 4 weekend**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4753737-biden-drop-out-rumors-campaign-funding/).
+You can read more about it [here](https://www.axios.com/2024/07/04/july-fourth-heat-wave-21-states-forecast).
 
 ## Requirements
 - Python 3.8
