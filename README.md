@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Google Photos makes accessing the Locked Folder much faster**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://9to5google.com/2024/07/03/google-photos-locked-folder-access/).
 
 ## Requirements
 - Python 3.8
