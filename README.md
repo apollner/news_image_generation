@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden tells Netanyahu: It's "time to close" Gaza hostage-ceasefire deal**
+**Who is Labour's Keir Starmer, the likely new leader of Britain?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzA0L2JpZGVuLW5ldGFueWFodS1nYXphLWNlYXNlZmlyZS1ob3N0YWdlLWRlYWwtY2FsbNIBAA?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/07/04/who-is-labours-keir-starmer-the-likely-new-leader-of-britain.html).
 
 ## Requirements
 - Python 3.8
