@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Every imaginable Galaxy Z Flip 6, Fold 6 specification has leaked - SamMobile**
+**What happens to Biden’s campaign cash if he drops out**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-z-flip-6-fold-6-specification-leaked-detail/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4753737-biden-drop-out-rumors-campaign-funding/).
 
 ## Requirements
 - Python 3.8
