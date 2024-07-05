@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victoria and David Beckham recreate their wedding day photos 25 years later**
+**Law enforcement involved shooting in Yellowstone National Park - Yellowstone National Park (U.S**
 
-You can read more about it [here](https://www.cnn.com/2024/07/04/style/victoria-david-beckham-wedding-anniversary-purple-outfits/index.html).
+You can read more about it [here](https://www.nps.gov/yell/learn/news/240704.htm).
 
 ## Requirements
 - Python 3.8
