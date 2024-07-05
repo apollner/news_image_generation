@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat alerts hit 21 states as triple-digit temperatures sweep U.S. over July 4 weekend**
+**China's BYD opens EV factory in Thailand, first in Southeast Asia By Reuters**
 
-You can read more about it [here](https://www.axios.com/2024/07/04/july-fourth-heat-wave-21-states-forecast).
+You can read more about it [here](https://www.investing.com/news/stock-market-news/chinas-byd-opens-ev-factory-in-thailand-first-in-southeast-asia-3508137).
 
 ## Requirements
 - Python 3.8
