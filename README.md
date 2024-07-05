@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden concedes he 'screwed up' at the debate**
+**Victoria and David Beckham recreate their wedding day photos 25 years later**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/04/biden-interview-debate-performance-00166586).
+You can read more about it [here](https://www.cnn.com/2024/07/04/style/victoria-david-beckham-wedding-anniversary-purple-outfits/index.html).
 
 ## Requirements
 - Python 3.8
