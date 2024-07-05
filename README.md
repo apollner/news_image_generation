@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Applegate Wants 'Shots With Cher' With 'Days I Have Left'**
+**Bird flu human case is reported in Colorado**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/christina-applegate-cher-shirley-maclaine-ms-battle-1235053269/).
+You can read more about it [here](https://www.reuters.com/world/americas/colorado-reports-human-case-bird-flu-2024-07-03/).
 
 ## Requirements
 - Python 3.8
