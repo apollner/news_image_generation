@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Would Kamala Harris be a stronger candidate than Biden?**
+**UK election 2024 live updates: Polls are open as Labour Party seeks to return to power**
 
-You can read more about it [here](https://abcnews.go.com/538/kamala-harris-stronger-candidate-biden/story?id=111656941).
+You can read more about it [here](https://apnews.com/live/uk-election-results-updates).
 
 ## Requirements
 - Python 3.8
