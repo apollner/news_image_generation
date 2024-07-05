@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Anyone who fell did not get up’: Survivors recall chaos and confusion at deadly crush in India**
+**Bird flu human case is reported in Colorado**
 
-You can read more about it [here](https://www.cnn.com/2024/07/03/india/india-crush-eyewitness-accounts-intl/index.html).
+You can read more about it [here](https://www.reuters.com/world/americas/colorado-reports-human-case-bird-flu-2024-07-03/).
 
 ## Requirements
 - Python 3.8
