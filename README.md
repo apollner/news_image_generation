@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plaschke: LeBron James' new deal confirms the Lakers' offseason is a bust**
+**Hurricane Beryl: Deadly storm roars towards Jamaica**
 
-You can read more about it [here](https://sports.yahoo.com/plaschke-lebron-james-deal-confirms-222316878.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cv2gm528k4mo).
 
 ## Requirements
 - Python 3.8
