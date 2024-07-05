@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris a Top Biden Replacement With VP Polling Better Vs. Trump - Bloomberg**
+**Three Phillies, Judge, Soto, Ohtani among MLB All-Star starters**
 
-You can read more about it [here](https://www.bloomberg.com/news/features/2024-07-03/kamala-harris-a-top-biden-replacement-with-vp-polling-better-vs-trump).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40491206/three-phillies-judge-soto-ohtani-mlb-all-star-starters).
 
 ## Requirements
 - Python 3.8
