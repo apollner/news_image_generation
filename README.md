@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defending champion Miki Sudo wins women's division of Nathan's annual hot dog eating contest**
+**Biden concedes he 'screwed up' at the debate**
 
-You can read more about it [here](https://apnews.com/article/nathans-2024-contest-coney-island-joey-chestnut-52b39f5da45f55544d3ce4f0b508030a).
+You can read more about it [here](https://www.politico.com/news/2024/07/04/biden-interview-debate-performance-00166586).
 
 ## Requirements
 - Python 3.8
