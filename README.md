@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Praises Boeing's Stranded Starliner for Managing Not to Explode While Docked to Space Station**
+**Defending champion Miki Sudo wins women's division of Nathan's annual hot dog eating contest**
 
-You can read more about it [here](https://futurism.com/the-byte/nasa-praises-boeing-starliner).
+You can read more about it [here](https://apnews.com/article/nathans-2024-contest-coney-island-joey-chestnut-52b39f5da45f55544d3ce4f0b508030a).
 
 ## Requirements
 - Python 3.8
