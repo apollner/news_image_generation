@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's open and closed on July 4th? Details on stores, restaurants, Walmart, Costco, Target, more**
+**High School Musical Star Vanessa Hudgens And Cole Tucker Welcome First Child**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/07/04/whats-open-closed-july-4th-2024/74291180007/).
+You can read more about it [here](https://www.ndtv.com/entertainment/vanessa-hudgens-and-cole-tucker-welcome-first-child-see-glimpse-of-newborn-baby-6030412).
 
 ## Requirements
 - Python 3.8
