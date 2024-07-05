@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California heat wave to break records, raise wildfire threats**
+**Under the moon's surface, magnetized lava may create 'lunar swirls'**
 
-You can read more about it [here](https://www.axios.com/2024/07/03/california-heat-wave-wildfires).
+You can read more about it [here](https://www.space.com/magnetized-lava-lunar-swirls-moon-surface).
 
 ## Requirements
 - Python 3.8
