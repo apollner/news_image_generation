@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California wildfires: Nearly 30,000 evacuated**
+**Box Office: ‘Despicable Me 4’ Ignites July Fourth Holiday Moviegoing With $27 Million Debut**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
+You can read more about it [here](https://variety.com/2024/film/news/box-office-despicable-me-4-july-fourth-debut-steve-carell-1236060608/).
 
 ## Requirements
 - Python 3.8
