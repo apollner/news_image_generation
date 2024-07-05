@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Despicable Me 4’ Ignites July Fourth Holiday Moviegoing With $27 Million Debut**
+**Would Kamala Harris be a stronger candidate than Biden?**
 
-You can read more about it [here](https://variety.com/2024/film/news/box-office-despicable-me-4-july-fourth-debut-steve-carell-1236060608/).
+You can read more about it [here](https://abcnews.go.com/538/kamala-harris-stronger-candidate-biden/story?id=111656941).
 
 ## Requirements
 - Python 3.8
