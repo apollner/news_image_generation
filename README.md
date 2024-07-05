@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WH reporters admit being 'turned off' from exposing Biden's mental decline because of 'right-wing media' hype**
+**‘Anyone who fell did not get up’: Survivors recall chaos and confusion at deadly crush in India**
 
-You can read more about it [here](https://www.foxnews.com/media/wh-reporters-admit-being-turned-off-exposing-bidens-mental-decline-right-wing-media-hype).
+You can read more about it [here](https://www.cnn.com/2024/07/03/india/india-crush-eyewitness-accounts-intl/index.html).
 
 ## Requirements
 - Python 3.8
