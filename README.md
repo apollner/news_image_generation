@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three Phillies, Judge, Soto, Ohtani among MLB All-Star starters**
+**Plaschke: LeBron James' new deal confirms the Lakers' offseason is a bust**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40491206/three-phillies-judge-soto-ohtani-mlb-all-star-starters).
+You can read more about it [here](https://sports.yahoo.com/plaschke-lebron-james-deal-confirms-222316878.html).
 
 ## Requirements
 - Python 3.8
