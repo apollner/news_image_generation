@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How LeBron’s new max contract limits Lakers’ trade options, explained**
+**Kamala Harris a Top Biden Replacement With VP Polling Better Vs. Trump - Bloomberg**
 
-You can read more about it [here](https://www.silverscreenandroll.com/2024/7/3/24191827/lebron-james-new-contract-lakers-nba-free-agency-options-trade-rumors).
+You can read more about it [here](https://www.bloomberg.com/news/features/2024-07-03/kamala-harris-a-top-biden-replacement-with-vp-polling-better-vs-trump).
 
 ## Requirements
 - Python 3.8
