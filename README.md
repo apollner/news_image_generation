@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK election 2024 live updates: Polls are open as Labour Party seeks to return to power**
+**Biden tells Netanyahu: It's "time to close" Gaza hostage-ceasefire deal**
 
-You can read more about it [here](https://apnews.com/live/uk-election-results-updates).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzA0L2JpZGVuLW5ldGFueWFodS1nYXphLWNlYXNlZmlyZS1ob3N0YWdlLWRlYWwtY2FsbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
