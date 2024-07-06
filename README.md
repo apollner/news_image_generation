@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden tells Democratic governors he needs more sleep and plans to stop scheduling events after 8 p.m.**
+**UK election live updates and results: Labour wins majority**
 
-You can read more about it [here](https://www.cnn.com/2024/07/04/politics/biden-governors-sleep/index.html).
+You can read more about it [here](https://apnews.com/live/uk-election-results-updates).
 
 ## Requirements
 - Python 3.8
