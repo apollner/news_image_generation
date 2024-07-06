@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Labour's Keir Starmer, the likely new leader of Britain?**
+**PGA Tour rookie Hayden Springer shoots 59 with dramatic finish in Rd. 1 of John Deere**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/04/who-is-labours-keir-starmer-the-likely-new-leader-of-britain.html).
+You can read more about it [here](https://www.nbcsports.com/golf/news/pga-tour-rookie-hayden-springer-shoots-59-in-round-1-of-john-deere-classic).
 
 ## Requirements
 - Python 3.8
