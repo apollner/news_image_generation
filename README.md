@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Dog Was The Star Of This Year's Summer Games Done Quick**
+**Joey Chestnut beats soldiers at Fort Bliss hot dog-eating competition**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8va290YWt1LmNvbS9zdW1tZXItZ2FtZXMtZG9uZS1xdWljay1kb2ctcGVhbnV0LWJ1dHRlci1iYXNlYmFsbC0xODUxNTc4MzAw0gEA?oc=5).
+You can read more about it [here](https://www.npr.org/2024/07/05/nx-s1-5030161/joey-chestnut-hot-dog-contest-fort-bliss-coney-island).
 
 ## Requirements
 - Python 3.8
