@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**June jobs report: US labor market adds 206,000 jobs, unemployment rate rises to 4.1%**
+**California wildfires: Nearly 30,000 evacuated**
 
-You can read more about it [here](https://finance.yahoo.com/news/june-jobs-report-us-labor-market-adds-206000-jobs-unemployment-rate-rises-to-41-112324134.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
 
 ## Requirements
 - Python 3.8
