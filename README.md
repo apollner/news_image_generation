@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Epic Games calls out Apple for rejecting its Games Store in the EU**
+**The Future of AR Beyond the Vision Pro Is Already Brewing**
 
-You can read more about it [here](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/).
+You can read more about it [here](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/).
 
 ## Requirements
 - Python 3.8
