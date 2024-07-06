@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Could the 'flying piano' help transform air cargo?**
+**Nigel Farage Celebrating Apparent New MAGA Breakthrough**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0kk4lxe702o).
+You can read more about it [here](https://www.thedailybeast.com/nigel-farage-celebrating-apparent-new-maga-breakthrough).
 
 ## Requirements
 - Python 3.8
