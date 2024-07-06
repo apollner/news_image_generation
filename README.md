@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung flags better-than-expected profit rise as AI boom lifts chip prices**
+**'We have to be wacky.' With suggestive poses and pets, election campaigning tests Tokyo's patience**
 
-You can read more about it [here](https://www.reuters.com/technology/samsung-flags-15-fold-rise-second-quarter-profit-chip-prices-climb-2024-07-04/).
+You can read more about it [here](https://apnews.com/article/japan-tokyo-election-odd-candidates-5d48f2322a84d0547e78d0f5e69a71cf).
 
 ## Requirements
 - Python 3.8
