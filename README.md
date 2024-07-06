@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendrick Lamar Releases “Not Like Us” Music Video, Takes More Shots at Drake**
+**Crazy Town Singer Shifty Shellshock Talked Sobriety Months Before Fatal OD**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/kendrick-lamar-not-like-us-music-video-1235939286/).
+You can read more about it [here](https://www.tmz.com/2024/07/05/crazy-town-singer-shifty-shellshock-seth-binzer-talked-sobriety-before-death-od/).
 
 ## Requirements
 - Python 3.8
