@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Tesla bulls ride again: Morning Brief**
+**California wildfires: Nearly 30,000 evacuated**
 
-You can read more about it [here](https://finance.yahoo.com/news/the-tesla-bulls-ride-again-morning-brief-100001925.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
 
 ## Requirements
 - Python 3.8
