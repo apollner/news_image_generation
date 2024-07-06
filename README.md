@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'We have to be wacky.' With suggestive poses and pets, election campaigning tests Tokyo's patience**
+**The Tesla bulls ride again: Morning Brief**
 
-You can read more about it [here](https://apnews.com/article/japan-tokyo-election-odd-candidates-5d48f2322a84d0547e78d0f5e69a71cf).
+You can read more about it [here](https://finance.yahoo.com/news/the-tesla-bulls-ride-again-morning-brief-100001925.html).
 
 ## Requirements
 - Python 3.8
