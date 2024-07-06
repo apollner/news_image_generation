@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joey Chestnut devours 57 hot dogs in exhibition contest**
+**Report: Kerr, Warriors assistant Demarco led Hield recruitment**
 
-You can read more about it [here](https://nypost.com/2024/07/04/sports/joey-chestnut-devours-57-hot-dogs-in-exhibition-contest/).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/buddy-hield-steve-kerr-trade-rumors/1752343/).
 
 ## Requirements
 - Python 3.8
