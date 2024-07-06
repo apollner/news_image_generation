@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**July 4th TV Deals: Grab Discounts of Up to $2,700 on Top Brands like Sony, LG, Samsung and More**
+**Who is Keir Starmer, the man likely to be the British prime minister?**
 
-You can read more about it [here](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-04/).
+You can read more about it [here](https://www.cbsnews.com/news/uk-election-2024-results-who-is-keir-starmer/).
 
 ## Requirements
 - Python 3.8
