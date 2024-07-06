@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs faces new sex trafficking allegations in latest lawsuit**
+**Kendrick Lamar Drops 'Not Like Us' Video Amid Drake Beef**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/sean-diddy-combs-faces-new-sex-trafficking-allegations/story?id=111674522).
+You can read more about it [here](http://www.vulture.com/article/kendrick-lamar-not-like-us-music-video-drake.html).
 
 ## Requirements
 - Python 3.8
