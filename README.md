@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Changes on Gaza Battlefield Spur Revival of Israel-Hamas Cease-Fire Talks**
+**He's derided as dull but Keir Starmer becomes UK prime minister with a sensational victory**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/changes-on-gaza-battlefield-spur-revival-of-israel-hamas-cease-fire-talks-eb6348dc).
+You can read more about it [here](https://apnews.com/article/uk-election-keir-starmer-profile-labour-e98d16e0810273f6041b61747e084aae).
 
 ## Requirements
 - Python 3.8
