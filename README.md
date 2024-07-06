@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PGA Tour rookie Hayden Springer shoots 59 with dramatic finish in Rd. 1 of John Deere**
+**Boeing thruster tests may take "weeks" before astronauts come home**
 
-You can read more about it [here](https://www.nbcsports.com/golf/news/pga-tour-rookie-hayden-springer-shoots-59-in-round-1-of-john-deere-classic).
+You can read more about it [here](https://www.businessinsider.com/boeing-thruster-tests-may-take-weeks-before-astronauts-come-home-2024-7).
 
 ## Requirements
 - Python 3.8
