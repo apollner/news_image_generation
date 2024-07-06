@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Future of AR Beyond the Vision Pro Is Already Brewing**
+**Italy's Etna and Stromboli volcanoes erupt, Catania Airport closed**
 
-You can read more about it [here](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/).
+You can read more about it [here](https://www.reuters.com/world/europe/italys-etna-stromboli-volcanoes-erupt-catania-airport-closed-2024-07-05/).
 
 ## Requirements
 - Python 3.8
