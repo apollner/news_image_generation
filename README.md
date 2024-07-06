@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California wildfires: Nearly 30,000 evacuated**
+**Germany XI vs Spain: Confirmed team news and predicted lineup**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9zcG9ydC9mb290YmFsbC9nZXJtYW55LXhpLXZzLXNwYWluLWNvbmZpcm1lZC10ZWFtLW5ld3MtcHJlZGljdGVkLWxpbmV1cC1pbmp1cnktbGF0ZXN0LWV1cm8tMjAyNC10b2RheS1iMTE2ODQ1NC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
