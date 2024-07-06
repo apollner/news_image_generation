@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Papal arch enemy Archbishop Vigano found guilty of schism and excommunicated**
+**Outgoing UK PM Rishi Sunak quits as Conservative Party leader after crushing election defeat**
 
-You can read more about it [here](https://www.reuters.com/world/europe/papal-enemy-archbishop-vigano-found-guilty-schism-excommunicated-2024-07-05/).
+You can read more about it [here](https://www.cnbc.com/2024/07/05/uk-election-rishi-sunak-to-step-down-as-conservative-party-leader-.html).
 
 ## Requirements
 - Python 3.8
