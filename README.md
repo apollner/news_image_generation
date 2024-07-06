@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.K. Labour Party wins landslide election over Conservatives: exit poll**
+**Sean 'Diddy' Combs faces new sex trafficking allegations in latest lawsuit**
 
-You can read more about it [here](https://www.axios.com/2024/07/04/uk-election-projections-labour-beat-conservatives).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/sean-diddy-combs-faces-new-sex-trafficking-allegations/story?id=111674522).
 
 ## Requirements
 - Python 3.8
