@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crazy Town Singer Shifty Shellshock Talked Sobriety Months Before Fatal OD**
+**Summer House's Lindsay Hubbard Pregnant, Expecting First Baby**
 
-You can read more about it [here](https://www.tmz.com/2024/07/05/crazy-town-singer-shifty-shellshock-seth-binzer-talked-sobriety-before-death-od/).
+You can read more about it [here](https://www.eonline.com/news/1404633/).
 
 ## Requirements
 - Python 3.8
