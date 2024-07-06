@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK election live updates and results: Labour wins majority**
+**Joey Chestnut devours 57 hot dogs in exhibition contest**
 
-You can read more about it [here](https://apnews.com/live/uk-election-results-updates).
+You can read more about it [here](https://nypost.com/2024/07/04/sports/joey-chestnut-devours-57-hot-dogs-in-exhibition-contest/).
 
 ## Requirements
 - Python 3.8
