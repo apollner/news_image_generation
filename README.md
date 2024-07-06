@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hungary’s PM Orban meets Russia’s Putin in a Moscow visit condemned by Ukraine and EU leaders**
+**Ryan Garcia expelled by WBC after using racial slurs in livestream**
 
-You can read more about it [here](https://www.cnn.com/2024/07/05/europe/orban-meets-putin-russia-ukraine/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/nbcblk/ryan-garcia-expelled-wbc-using-racial-slurs-livestream-rcna160428).
 
 ## Requirements
 - Python 3.8
