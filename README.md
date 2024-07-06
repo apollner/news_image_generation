@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy's Etna and Stromboli volcanoes erupt, Catania Airport closed**
+**Struggling Biden faces test with ABC interview, vows to fight on**
 
-You can read more about it [here](https://www.reuters.com/world/europe/italys-etna-stromboli-volcanoes-erupt-catania-airport-closed-2024-07-05/).
+You can read more about it [here](https://www.reuters.com/world/us/struggling-biden-faces-big-test-with-abc-interview-vows-fight-2024-07-05/).
 
 ## Requirements
 - Python 3.8
