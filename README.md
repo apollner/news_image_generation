@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump torches Heritage Foundation's Project 2025**
+**Gaza war: 'Breakthrough' heightens hopes of ceasefire deal**
 
-You can read more about it [here](https://www.axios.com/2024/07/05/trump-project-2025-heritage-foundation).
+You can read more about it [here](https://www.bbc.com/news/articles/cllyz4y6979o).
 
 ## Requirements
 - Python 3.8
