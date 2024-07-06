@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to expect from the June jobs report**
+**Kendrick Lamar Releases “Not Like Us” Music Video, Takes More Shots at Drake**
 
-You can read more about it [here](https://www.cnn.com/2024/07/05/economy/june-jobs-report-final/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/kendrick-lamar-not-like-us-music-video-1235939286/).
 
 ## Requirements
 - Python 3.8
