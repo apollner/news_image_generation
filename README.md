@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendrick Lamar Drops 'Not Like Us' Video Amid Drake Beef**
+**Biden tells Democratic governors he needs more sleep and plans to stop scheduling events after 8 p.m.**
 
-You can read more about it [here](http://www.vulture.com/article/kendrick-lamar-not-like-us-music-video-drake.html).
+You can read more about it [here](https://www.cnn.com/2024/07/04/politics/biden-governors-sleep/index.html).
 
 ## Requirements
 - Python 3.8
