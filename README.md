@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing thruster tests may take "weeks" before astronauts come home**
+**Hurricane Beryl: Many Jamaicans without power after storm thunders through**
 
-You can read more about it [here](https://www.businessinsider.com/boeing-thruster-tests-may-take-weeks-before-astronauts-come-home-2024-7).
+You can read more about it [here](https://www.bbc.com/news/articles/ckdg7rp7vk9o).
 
 ## Requirements
 - Python 3.8
