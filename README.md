@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Kerr, Warriors assistant Demarco led Hield recruitment**
+**Markets Wrap for July, 5 2024**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/buddy-hield-steve-kerr-trade-rumors/1752343/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-07-04/asian-equities-to-tread-water-before-us-jobs-data-markets-wrap).
 
 ## Requirements
 - Python 3.8
