@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Beryl: Many Jamaicans without power after storm thunders through**
+**Galaxy Z Flip 6 might feature an IPS LCD cover display panel - SamMobile**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckdg7rp7vk9o).
+You can read more about it [here](https://www.sammobile.com/news/samsung-galaxy-z-flip-6-ips-lcd-cover-screen-rumor/).
 
 ## Requirements
 - Python 3.8
