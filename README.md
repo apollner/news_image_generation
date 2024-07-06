@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK elections: Starmer will be next prime minister, Sunak resigns**
+**Epic Games calls out Apple for rejecting its Games Store in the EU**
 
-You can read more about it [here](https://apnews.com/article/uk-elections-2024-result-labour-starmer-exit-sunak-e94f379ea893ec17711fd82cec03b603).
+You can read more about it [here](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/).
 
 ## Requirements
 - Python 3.8
