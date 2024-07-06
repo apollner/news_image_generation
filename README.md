@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Flip 6 might feature an IPS LCD cover display panel - SamMobile**
+**Boeing thruster tests may take "weeks" before astronauts come home**
 
-You can read more about it [here](https://www.sammobile.com/news/samsung-galaxy-z-flip-6-ips-lcd-cover-screen-rumor/).
+You can read more about it [here](https://www.businessinsider.com/boeing-thruster-tests-may-take-weeks-before-astronauts-come-home-2024-7).
 
 ## Requirements
 - Python 3.8
