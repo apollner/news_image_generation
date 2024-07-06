@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California wildfires: Nearly 30,000 evacuated**
+**What to expect from the June jobs report**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
+You can read more about it [here](https://www.cnn.com/2024/07/05/economy/june-jobs-report-final/index.html).
 
 ## Requirements
 - Python 3.8
