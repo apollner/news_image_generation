@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**He's derided as dull but Keir Starmer becomes UK prime minister with a sensational victory**
+**Trump torches Heritage Foundation's Project 2025**
 
-You can read more about it [here](https://apnews.com/article/uk-election-keir-starmer-profile-labour-e98d16e0810273f6041b61747e084aae).
+You can read more about it [here](https://www.axios.com/2024/07/05/trump-project-2025-heritage-foundation).
 
 ## Requirements
 - Python 3.8
