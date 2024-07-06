@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California wildfires: Nearly 30,000 evacuated**
+**Papal arch enemy Archbishop Vigano found guilty of schism and excommunicated**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c10lve5zr81o).
+You can read more about it [here](https://www.reuters.com/world/europe/papal-enemy-archbishop-vigano-found-guilty-schism-excommunicated-2024-07-05/).
 
 ## Requirements
 - Python 3.8
