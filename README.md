@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nigel Farage Celebrating Apparent New MAGA Breakthrough**
+**U.K. Labour Party wins landslide election over Conservatives: exit poll**
 
-You can read more about it [here](https://www.thedailybeast.com/nigel-farage-celebrating-apparent-new-maga-breakthrough).
+You can read more about it [here](https://www.axios.com/2024/07/04/uk-election-projections-labour-beat-conservatives).
 
 ## Requirements
 - Python 3.8
