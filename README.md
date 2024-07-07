@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New PM Starmer pledges to rebuild Britain after years of chaos**
+**SpaceX teases catching Super Heavy booster with 'chopsticks' on upcoming Starship test flight (video)**
 
-You can read more about it [here](https://www.reuters.com/world/uk/new-pm-starmer-pledges-action-not-words-fix-britain-2024-07-05/).
+You can read more about it [here](https://www.space.com/spacex-starship-chopsticks-animation).
 
 ## Requirements
 - Python 3.8
