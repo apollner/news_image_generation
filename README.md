@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-girlfriend of accused NYC drunk driver in fatal July 4th crash shocked but 'not surprised': 'Told him this would happen one day'**
+**Putin tells Orbán Ukraine must capitulate if it wants peace**
 
-You can read more about it [here](https://nypost.com/2024/07/05/us-news/ex-gf-of-drunk-driver-who-killed-three-in-4th-of-july-crash-shocked-but-not-surprised/).
+You can read more about it [here](https://www.euractiv.com/section/global-europe/news/putin-tells-orban-ukraine-must-capitulate-if-it-wants-peace/).
 
 ## Requirements
 - Python 3.8
