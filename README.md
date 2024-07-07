@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID rising again in NY as new variants spread. How bad will it get?**
+**France’s Jordan Bardella, the immigrant’s son who would target migrants**
 
-You can read more about it [here](https://www.democratandchronicle.com/story/news/2024/07/05/covid-rising-again-in-ny-as-new-variants-spread-how-bad-will-it-get/74288674007/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/07/06/jordan-bardella-national-le-pen-france-elections/).
 
 ## Requirements
 - Python 3.8
