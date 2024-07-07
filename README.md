@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC COVID cases up 250% in 2 months — and this variant's harder to duck**
+**New Saks-Neiman Marcus leader says $2.65 billion deal ‘is about growing'**
 
-You can read more about it [here](https://gothamist.com/news/nyc-covid-cases-up-250-in-2-months-and-this-variants-harder-to-duck).
+You can read more about it [here](https://www.dallasnews.com/business/retail/2024/07/05/new-saks-neiman-marcus-leader-says-265-billion-deal-is-about-growing-not-shrinking/).
 
 ## Requirements
 - Python 3.8
