@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID rising again in NY as new variants spread. How bad will it get?**
+**Democrats call for 'action' against Supreme Court after Trump immunity ruling**
 
-You can read more about it [here](https://www.democratandchronicle.com/story/news/2024/07/05/covid-rising-again-in-ny-as-new-variants-spread-how-bad-will-it-get/74288674007/).
+You can read more about it [here](https://abcnews.go.com/Politics/democrats-call-action-supreme-court-after-trump-immunity/story?id=111613633).
 
 ## Requirements
 - Python 3.8
