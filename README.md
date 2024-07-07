@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia's richest man Mukesh Ambani is set to throw a grand wedding for his son. Here's what to know**
+**Manhunt on after 2 inmates being held on murder charges escape from Mississippi jail**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/asias-richest-man-mukesh-ambani-085611461.html).
+You can read more about it [here](https://abcnews.go.com/US/manhunt-after-2-inmates-held-murder-charges-escape/story?id=111712018).
 
 ## Requirements
 - Python 3.8
