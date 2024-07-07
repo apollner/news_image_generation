@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beryl charts its course towards South Texas, eyeing what could become the first US landfall of the 2024 Atlantic season**
+**Reformist lawmaker Masoud Pezeshkian wins Iran’s presidential vote**
 
-You can read more about it [here](https://www.cnn.com/2024/07/06/weather/hurricane-beryl-south-texas-coast-weekend-sunday-monday/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8wNS9taWRkbGVlYXN0L3BlemVzaGtpYW4td2lucy1pcmFucy12b3RlLWludGwtaG5rL2luZGV4Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
