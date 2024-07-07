@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuation orders issued for latest California wildfire amid scorching heat wave**
+**Beryl charts its course towards South Texas, eyeing what could become the first US landfall of the 2024 Atlantic season**
 
-You can read more about it [here](https://abcnews.go.com/US/california-wildfires-french-fire-mariposa-county/story?id=111696775).
+You can read more about it [here](https://www.cnn.com/2024/07/06/weather/hurricane-beryl-south-texas-coast-weekend-sunday-monday/index.html).
 
 ## Requirements
 - Python 3.8
