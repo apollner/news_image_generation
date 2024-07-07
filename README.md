@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings rookie CB Khyree Jackson among 3 killed in crash**
+**Rep. Angie Craig becomes latest Democrat urging Biden to drop out**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/40507027/vikings-rookie-cb-khyree-jackson-dies-car-crash-24).
+You can read more about it [here](https://www.axios.com/2024/07/06/angie-craig-biden-withdraw-minnesota-swing-district).
 
 ## Requirements
 - Python 3.8
