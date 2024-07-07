@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keir Starmer says scrapping UK’s Rwanda migrant deportation plan**
+**NASCAR debuts electric race car prototype ahead of Chicago Street Race**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/7/6/keir-starmer-says-scrapping-uks-rwanda-migrant-deportation-plan).
+You can read more about it [here](https://www.nbcnews.com/science/science-news/nascar-debuts-electric-race-car-prototype-ahead-chicago-street-race-rcna160382).
 
 ## Requirements
 - Python 3.8
