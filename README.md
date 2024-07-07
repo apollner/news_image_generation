@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anonymous 'Case for Kamala Harris' Memo Goes Viral among Democrats**
+**Iran’s reformist Masoud Pezeshkian wins run-off presidential vote: Reports**
 
-You can read more about it [here](https://www.thedailybeast.com/anonymous-case-for-kamala-harris-memo-goes-viral-among-democrats).
+You can read more about it [here](https://www.aljazeera.com/news/2024/7/6/irans-reformist-masoud-pezeshkian-wins-run-off-presidential-vote-reports).
 
 ## Requirements
 - Python 3.8
