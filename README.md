@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla’s Elon Musk celebrates Independence Day at Giga Texas, shades Zuck**
+**New Cabinet meets as Starmer government gets to work**
 
-You can read more about it [here](https://www.teslarati.com/tesla-elon-musk-giga-texas-supercomputer-cluster-update-video/).
+You can read more about it [here](https://www.bbc.com/news/articles/cj50qevvqvno).
 
 ## Requirements
 - Python 3.8
