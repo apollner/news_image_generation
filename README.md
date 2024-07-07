@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuation orders issued for latest California wildfire amid scorching heat wave**
+**UK election: How is the world reacting to Labour's landslide?**
 
-You can read more about it [here](https://abcnews.go.com/US/california-wildfires-french-fire-mariposa-county/story?id=111696775).
+You can read more about it [here](https://www.bbc.com/news/articles/c9r3q3zre9zo).
 
 ## Requirements
 - Python 3.8
