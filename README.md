@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX teases catching Super Heavy booster with 'chopsticks' on upcoming Starship test flight (video)**
+**Anonymous 'Case for Kamala Harris' Memo Goes Viral among Democrats**
 
-You can read more about it [here](https://www.space.com/spacex-starship-chopsticks-animation).
+You can read more about it [here](https://www.thedailybeast.com/anonymous-case-for-kamala-harris-memo-goes-viral-among-democrats).
 
 ## Requirements
 - Python 3.8
