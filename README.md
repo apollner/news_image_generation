@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden, campaigning in Wisconsin, defies calls to drop out: "Completely ruling that out"**
+**Popular weight-loss and diabetes medications linked to lower risk of some cancers, study finds**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-wisconsin-rally-speech-2024-campaign/).
+You can read more about it [here](https://www.cnn.com/2024/07/05/health/glp-1-weight-loss-lower-cancer-risk/index.html).
 
 ## Requirements
 - Python 3.8
