@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeMar DeRozan Trade Rumors: Kings Pushing to Land Bulls Star in Possible 3-Team Deal**
+**Texas braces for 'determined' Beryl; landfall as hurricane likely: Live updates**
 
-You can read more about it [here](https://bleacherreport.com/articles/10127330-demar-derozan-trade-rumors-kings-pushing-to-land-bulls-star-in-possible-3-team-deal).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/07/06/tropical-storm-beryl-hurricane-texas-live-updates/74316030007/).
 
 ## Requirements
 - Python 3.8
