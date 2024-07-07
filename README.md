@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas braces for 'determined' Beryl; landfall as hurricane likely: Live updates**
+**COVID rising again in NY as new variants spread. How bad will it get?**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/07/06/tropical-storm-beryl-hurricane-texas-live-updates/74316030007/).
+You can read more about it [here](https://www.democratandchronicle.com/story/news/2024/07/05/covid-rising-again-in-ny-as-new-variants-spread-how-bad-will-it-get/74288674007/).
 
 ## Requirements
 - Python 3.8
