@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Saks-Neiman Marcus leader says $2.65 billion deal ‘is about growing'**
+**Biden, campaigning in Wisconsin, defies calls to drop out: "Completely ruling that out"**
 
-You can read more about it [here](https://www.dallasnews.com/business/retail/2024/07/05/new-saks-neiman-marcus-leader-says-265-billion-deal-is-about-growing-not-shrinking/).
+You can read more about it [here](https://www.cbsnews.com/news/biden-wisconsin-rally-speech-2024-campaign/).
 
 ## Requirements
 - Python 3.8
