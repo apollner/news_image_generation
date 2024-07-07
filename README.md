@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keir Starmer appoints cabinet after landslide general election victory**
+**Apple accepts Epic Games Store for EU after public callout from company**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cw0yg50zy5vo).
+You can read more about it [here](https://www.nbcnews.com/tech/tech-news/apple-accepts-epic-games-store-eu-public-callout-company-rcna160507).
 
 ## Requirements
 - Python 3.8
