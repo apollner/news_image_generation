@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Volcano on Sicilian island of Stromboli erupting**
+**Evacuation orders issued for latest California wildfire amid scorching heat wave**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Tn5kukvZxfA).
+You can read more about it [here](https://abcnews.go.com/US/california-wildfires-french-fire-mariposa-county/story?id=111696775).
 
 ## Requirements
 - Python 3.8
