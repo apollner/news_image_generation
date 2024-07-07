@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New UK leader Starmer declares Rwanda deportation plan 'dead and buried'**
+**France’s Jordan Bardella, the immigrant’s son who would target migrants**
 
-You can read more about it [here](https://www.reuters.com/world/uk/new-uk-pm-starmer-confirms-end-rwanda-asylum-deportation-scheme-2024-07-06/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/07/06/jordan-bardella-national-le-pen-france-elections/).
 
 ## Requirements
 - Python 3.8
