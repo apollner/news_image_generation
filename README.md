@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France’s Jordan Bardella, the immigrant’s son who would target migrants**
+**DeMar DeRozan Trade Rumors: Kings Pushing to Land Bulls Star in Possible 3-Team Deal**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/07/06/jordan-bardella-national-le-pen-france-elections/).
+You can read more about it [here](https://bleacherreport.com/articles/10127330-demar-derozan-trade-rumors-kings-pushing-to-land-bulls-star-in-possible-3-team-deal).
 
 ## Requirements
 - Python 3.8
