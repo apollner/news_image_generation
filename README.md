@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats call for 'action' against Supreme Court after Trump immunity ruling**
+**Travis Kelce Sweetly Kisses Taylor Swift as They Exit Her Eras Tour Show in Amsterdam**
 
-You can read more about it [here](https://abcnews.go.com/Politics/democrats-call-action-supreme-court-after-trump-immunity/story?id=111613633).
+You can read more about it [here](https://www.etonline.com/travis-kelce-sweetly-kisses-taylor-swift-as-they-exit-her-eras-tour-show-in-amsterdam-228613).
 
 ## Requirements
 - Python 3.8
