@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla shares wipe out loss for the year with 27% rally this week**
+**NYC COVID cases up 250% in 2 months — and this variant's harder to duck**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/05/tesla-shares-wipe-out-loss-for-the-year-with-27percent-rally-this-week.html).
+You can read more about it [here](https://gothamist.com/news/nyc-covid-cases-up-250-in-2-months-and-this-variants-harder-to-duck).
 
 ## Requirements
 - Python 3.8
