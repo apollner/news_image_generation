@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASCAR debuts electric race car prototype ahead of Chicago Street Race**
+**COVID rising again in NY as new variants spread. How bad will it get?**
 
-You can read more about it [here](https://www.nbcnews.com/science/science-news/nascar-debuts-electric-race-car-prototype-ahead-chicago-street-race-rcna160382).
+You can read more about it [here](https://www.democratandchronicle.com/story/news/2024/07/05/covid-rising-again-in-ny-as-new-variants-spread-how-bad-will-it-get/74288674007/).
 
 ## Requirements
 - Python 3.8
