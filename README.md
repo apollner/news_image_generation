@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shark attacks in Florida, Texas, leave 4 hurt**
+**Ex-girlfriend of accused NYC drunk driver in fatal July 4th crash shocked but 'not surprised': 'Told him this would happen one day'**
 
-You can read more about it [here](https://www.npr.org/2024/07/05/nx-s1-5030334/shark-attacks-texas-florida).
+You can read more about it [here](https://nypost.com/2024/07/05/us-news/ex-gf-of-drunk-driver-who-killed-three-in-4th-of-july-crash-shocked-but-not-surprised/).
 
 ## Requirements
 - Python 3.8
