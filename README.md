@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Popular weight-loss and diabetes medications linked to lower risk of some cancers, study finds**
+**Shark attacks in Florida, Texas, leave 4 hurt**
 
-You can read more about it [here](https://www.cnn.com/2024/07/05/health/glp-1-weight-loss-lower-cancer-risk/index.html).
+You can read more about it [here](https://www.npr.org/2024/07/05/nx-s1-5030334/shark-attacks-texas-florida).
 
 ## Requirements
 - Python 3.8
