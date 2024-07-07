@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: 'Breakthrough' heightens hopes of ceasefire deal**
+**Boxing star Garcia 'sorry' for use of racial slurs**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cllyz4y6979o).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/40502355/boxing-star-ryan-garcia-apologizes-use-racial-slurs).
 
 ## Requirements
 - Python 3.8
