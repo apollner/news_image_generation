@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dub Nation bestows splashy nickname on new Steph-Buddy backcourt**
+**Evacuation orders issued for latest California wildfire amid scorching heat wave**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-buddy-hield/1752483/).
+You can read more about it [here](https://abcnews.go.com/US/california-wildfires-french-fire-mariposa-county/story?id=111696775).
 
 ## Requirements
 - Python 3.8
