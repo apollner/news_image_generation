@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France’s Jordan Bardella, the immigrant’s son who would target migrants**
+**Vikings rookie CB Khyree Jackson among 3 killed in crash**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/07/06/jordan-bardella-national-le-pen-france-elections/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/40507027/vikings-rookie-cb-khyree-jackson-dies-car-crash-24).
 
 ## Requirements
 - Python 3.8
