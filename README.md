@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Cabinet meets as Starmer government gets to work**
+**New UK leader Starmer declares Rwanda deportation plan 'dead and buried'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj50qevvqvno).
+You can read more about it [here](https://www.reuters.com/world/uk/new-uk-pm-starmer-confirms-end-rwanda-asylum-deportation-scheme-2024-07-06/).
 
 ## Requirements
 - Python 3.8
