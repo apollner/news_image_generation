@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manhunt on after 2 inmates being held on murder charges escape from Mississippi jail**
+**A deadly fire exposes the lack of protection for migrant workers in South Korea**
 
-You can read more about it [here](https://abcnews.go.com/US/manhunt-after-2-inmates-held-murder-charges-escape/story?id=111712018).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8wNS9nLXMxLTg1NDEvc291dGgta29yZWEtZGVhZGx5LWZpcmUtbWlncmFudC13b3JrZXJz0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
