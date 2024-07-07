@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boxing star Garcia 'sorry' for use of racial slurs**
+**Tesla shares wipe out loss for the year with 27% rally this week**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/40502355/boxing-star-ryan-garcia-apologizes-use-racial-slurs).
+You can read more about it [here](https://www.cnbc.com/2024/07/05/tesla-shares-wipe-out-loss-for-the-year-with-27percent-rally-this-week.html).
 
 ## Requirements
 - Python 3.8
