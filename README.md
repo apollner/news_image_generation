@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple accepts Epic Games Store for EU after public callout from company**
+**Dub Nation bestows splashy nickname on new Steph-Buddy backcourt**
 
-You can read more about it [here](https://www.nbcnews.com/tech/tech-news/apple-accepts-epic-games-store-eu-public-callout-company-rcna160507).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-buddy-hield/1752483/).
 
 ## Requirements
 - Python 3.8
