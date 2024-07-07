@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Angie Craig becomes latest Democrat urging Biden to drop out**
+**Keir Starmer says scrapping UK’s Rwanda migrant deportation plan**
 
-You can read more about it [here](https://www.axios.com/2024/07/06/angie-craig-biden-withdraw-minnesota-swing-district).
+You can read more about it [here](https://www.aljazeera.com/news/2024/7/6/keir-starmer-says-scrapping-uks-rwanda-migrant-deportation-plan).
 
 ## Requirements
 - Python 3.8
