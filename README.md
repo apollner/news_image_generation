@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Sweetly Kisses Taylor Swift as They Exit Her Eras Tour Show in Amsterdam**
+**Texas counties issue mandatory, voluntary evacuations as Beryl targets coast**
 
-You can read more about it [here](https://www.etonline.com/travis-kelce-sweetly-kisses-taylor-swift-as-they-exit-her-eras-tour-show-in-amsterdam-228613).
+You can read more about it [here](https://www.ksat.com/news/local/2024/07/06/texas-coastal-counties-issue-mandatory-voluntary-evacuations-as-beryl-targets-coast/).
 
 ## Requirements
 - Python 3.8
