@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LIVE: Crews battle French Fire in Mariposa County**
+**Alzheimer’s on mother’s side of the family could increase disease risk, study finds**
 
-You can read more about it [here](https://abc30.com/live-updates/live-crews-battle-french-fire-in-mariposa-county/15036430/).
+You can read more about it [here](https://www.foxnews.com/health/alzheimers-mothers-side-family-could-increase-disease-risk-study-finds).
 
 ## Requirements
 - Python 3.8
