@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election fallout: deep shifts in Muslim and Jewish voting**
+**Israeli attack kills at least 16 at UNRWA school for the displaced in Gaza, ministry says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3g37mk7vxlo).
+You can read more about it [here](https://www.cnn.com/2024/07/06/middleeast/israeli-attack-unwra-school-gaza-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
