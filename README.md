@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas appears to clear way for possible cease-fire deal with Israel after reportedly dropping key demand**
+**Harris County, 120 others under disaster declaration ahead of Beryl**
 
-You can read more about it [here](https://www.cbsnews.com/news/hamas-appears-clear-way-possible-ceasefire-deal-israel-reportedly-dropping-key-demand-egypt/).
+You can read more about it [here](https://www.houstonchronicle.com/news/houston-weather/article/dan-patrick-emergency-declaration-beryl-19558326.php).
 
 ## Requirements
 - Python 3.8
