@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden faces calls to step aside as more Democrats lose faith in his candidacy: Report**
+**Tropical Storm Beryl intensifying as it nears Texas with high winds, surge**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/biden-faces-calls-to-step-aside-as-more-democrats-lose-faith-in-his-candidacy-report-101720365467516.html).
+You can read more about it [here](https://www.axios.com/2024/07/07/beryl-texas-hurricane-warnings-flooding).
 
 ## Requirements
 - Python 3.8
