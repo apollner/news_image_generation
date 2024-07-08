@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli attack kills at least 16 at UNRWA school for the displaced in Gaza, ministry says**
+**Amtrak cancels train service between Boston, N.Y.**
 
-You can read more about it [here](https://www.cnn.com/2024/07/06/middleeast/israeli-attack-unwra-school-gaza-intl-latam/index.html).
+You can read more about it [here](https://www.bostonglobe.com/2024/07/06/metro/amtrak-boston-new-york-cancalled-malfunction/).
 
 ## Requirements
 - Python 3.8
