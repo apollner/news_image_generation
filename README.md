@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Beryl intensifying as it nears Texas with high winds, surge**
+**Second local radio host admits to getting questions from Biden team ahead of interview with president**
 
-You can read more about it [here](https://www.axios.com/2024/07/07/beryl-texas-hurricane-warnings-flooding).
+You can read more about it [here](https://www.foxnews.com/media/second-local-radio-host-admits-getting-questions-biden-team-interview-president).
 
 ## Requirements
 - Python 3.8
