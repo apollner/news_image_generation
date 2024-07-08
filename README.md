@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alzheimer’s on mother’s side of the family could increase disease risk, study finds**
+**Record-breaking heatwave threatens 130 million people in US**
 
-You can read more about it [here](https://www.foxnews.com/health/alzheimers-mothers-side-family-could-increase-disease-risk-study-finds).
+You can read more about it [here](https://www.aljazeera.com/news/2024/7/7/record-breaking-heatwave-threatens-130-million-people-in-us).
 
 ## Requirements
 - Python 3.8
