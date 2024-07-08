@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden campaign gave questions to radio hosts before interviews**
+**Turnout high in French election as far right seeks majority**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/06/biden-radio-show-gaffes/).
+You can read more about it [here](https://www.bbc.com/news/live/ck7gydwgvy8t).
 
 ## Requirements
 - Python 3.8
