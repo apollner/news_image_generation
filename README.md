@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Beryl storm pushes Texas on alert, expected to regain hurricane strength**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/hurricane-beryl-texas-a01a44797f9de77a54b3a8be454ea37f).
 
 ## Requirements
 - Python 3.8
