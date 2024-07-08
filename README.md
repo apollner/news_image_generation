@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police: 4 dead, 3 injured after shooting in Florence**
+**Extreme heat grips West and East coasts, breaking daily highs**
 
-You can read more about it [here](https://www.wlwt.com/article/florence-mass-shooting-ridgecrest-drive-4-dead-suspect/61521550).
+You can read more about it [here](https://www.npr.org/2024/07/06/nx-s1-5031553/extreme-heat-west-east-coast).
 
 ## Requirements
 - Python 3.8
