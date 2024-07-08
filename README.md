@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas appears to clear way for possible cease-fire deal with Israel after reportedly dropping key demand**
+**Police: 4 dead, 3 injured after shooting in Florence**
 
-You can read more about it [here](https://www.cbsnews.com/news/hamas-appears-clear-way-possible-ceasefire-deal-israel-reportedly-dropping-key-demand-egypt/).
+You can read more about it [here](https://www.wlwt.com/article/florence-mass-shooting-ridgecrest-drive-4-dead-suspect/61521550).
 
 ## Requirements
 - Python 3.8
