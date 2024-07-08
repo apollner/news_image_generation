@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 killed, 3 injured in mass shooting at birthday pool party in Florence, Kentucky**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/mass-shooting-at-birthday-pool-party-in-florence-kentucky/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
