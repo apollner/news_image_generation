@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden campaign gave questions to radio host before interview - The Washington Post**
+**Police: 4 dead, 3 injured after shooting in Florence**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/06/biden-radio-show-gaffes/).
+You can read more about it [here](https://www.wlwt.com/article/florence-mass-shooting-ridgecrest-drive-4-dead-suspect/61521550).
 
 ## Requirements
 - Python 3.8
