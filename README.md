@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris County, 120 others under disaster declaration ahead of Beryl**
+**4 killed, 3 injured in mass shooting at birthday pool party in Florence, Kentucky**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-weather/article/dan-patrick-emergency-declaration-beryl-19558326.php).
+You can read more about it [here](https://www.cbsnews.com/news/mass-shooting-at-birthday-pool-party-in-florence-kentucky/).
 
 ## Requirements
 - Python 3.8
