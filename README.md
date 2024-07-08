@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military takes foreign journalists into Rafah to make a case for success in its war with Hamas**
+**Travis Kelce seen crying as fans joke Taylor Swift gave him a 'personal concert' with special mashup in Amsterdam**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-inside-rafah-heavy-damage-idf-show-terror-tunnel-network/).
+You can read more about it [here](https://pagesix.com/2024/07/07/entertainment/travis-kelce-seen-crying-at-taylor-swift-concert-in-amsterdam/).
 
 ## Requirements
 - Python 3.8
