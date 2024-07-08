@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Crew of NASA's earthbound simulated Mars habitat emerge after a year**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/crew-nasas-earthbound-simulated-mars-habitat-emerge-after-111724789).
 
 ## Requirements
 - Python 3.8
