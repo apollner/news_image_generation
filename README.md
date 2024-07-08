@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amtrak cancels train service between Boston, N.Y.**
+**Hamas appears to clear way for possible cease-fire deal with Israel after reportedly dropping key demand**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/07/06/metro/amtrak-boston-new-york-cancalled-malfunction/).
+You can read more about it [here](https://www.cbsnews.com/news/hamas-appears-clear-way-possible-ceasefire-deal-israel-reportedly-dropping-key-demand-egypt/).
 
 ## Requirements
 - Python 3.8
