@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Forecast track: Beryl to make Texas landfall Monday as hurricane**
+**Biden campaign gave questions to radio host before interview - The Washington Post**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/beryl-texas-hurricane-path-landfall-gulf-coast-19557663.php).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/06/biden-radio-show-gaffes/).
 
 ## Requirements
 - Python 3.8
