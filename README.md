@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New UK Foreign Secretary David Lammy wants to reset ties with EU**
+**Travis Kelce seen crying as fans joke Taylor Swift gave him a 'personal concert' with special mashup in Amsterdam**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cne4wypn23wo).
+You can read more about it [here](https://pagesix.com/2024/07/07/entertainment/travis-kelce-seen-crying-at-taylor-swift-concert-in-amsterdam/).
 
 ## Requirements
 - Python 3.8
