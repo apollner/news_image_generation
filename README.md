@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**LIVE: Crews battle French Fire in Mariposa County**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abc30.com/live-updates/live-crews-battle-french-fire-in-mariposa-county/15036430/).
 
 ## Requirements
 - Python 3.8
