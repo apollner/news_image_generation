@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scammers get away with billions from elderly Americans every year**
+**[Removed]**
 
-You can read more about it [here](https://nypost.com/2024/07/07/us-news/scammers-get-away-with-billions-from-elderly-americans-every-year/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
