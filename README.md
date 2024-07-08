@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme heat grips West and East coasts, breaking daily highs**
+**Last two migrants bound for Rwanda to be bailed, Home Office says**
 
-You can read more about it [here](https://www.npr.org/2024/07/06/nx-s1-5031553/extreme-heat-west-east-coast).
+You can read more about it [here](https://www.bbc.com/news/articles/c880y4yz8yvo).
 
 ## Requirements
 - Python 3.8
