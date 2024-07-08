@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turnout high in French election as far right seeks majority**
+**Israeli military takes foreign journalists into Rafah to make a case for success in its war with Hamas**
 
-You can read more about it [here](https://www.bbc.com/news/live/ck7gydwgvy8t).
+You can read more about it [here](https://www.cbsnews.com/news/israel-hamas-war-inside-rafah-heavy-damage-idf-show-terror-tunnel-network/).
 
 ## Requirements
 - Python 3.8
