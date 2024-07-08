@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli attack kills at least 16 at UNRWA school for the displaced in Gaza, ministry says**
+**Hamas appears to clear way for possible cease-fire deal with Israel after reportedly dropping key demand**
 
-You can read more about it [here](https://www.cnn.com/2024/07/06/middleeast/israeli-attack-unwra-school-gaza-intl-latam/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/hamas-appears-clear-way-possible-ceasefire-deal-israel-reportedly-dropping-key-demand-egypt/).
 
 ## Requirements
 - Python 3.8
