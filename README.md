@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Record TSA screenings, flight delays across U.S.**
+**High-water spots across Houston area**
 
-You can read more about it [here](https://www.ketv.com/article/record-breaking-travel-day-tsa-braces-for-busiest-screening-ever-after-holiday/61524553).
+You can read more about it [here](https://www.khou.com/article/traffic/list-high-water-locations-street-flooding-as-beryl-brings-heavy-rainfall-to-houston-area/285-ac371314-a51f-4a10-9995-e33456b97f78).
 
 ## Requirements
 - Python 3.8
