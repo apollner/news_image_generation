@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Record-breaking heatwave threatens 130 million people in US**
+**Nate Diaz defeats Jorge Masvidal by majority decision in rematch of UFC veterans**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/7/7/record-breaking-heatwave-threatens-130-million-people-in-us).
+You can read more about it [here](https://sports.yahoo.com/nate-diaz-defeats-jorge-masvidal-by-majority-decision-in-rematch-of-ufc-veterans-060246438.html).
 
 ## Requirements
 - Python 3.8
