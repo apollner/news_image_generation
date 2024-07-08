@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce seen crying as fans joke Taylor Swift gave him a 'personal concert' with special mashup in Amsterdam**
+**House Republicans request interview with White House physician**
 
-You can read more about it [here](https://pagesix.com/2024/07/07/entertainment/travis-kelce-seen-crying-at-taylor-swift-concert-in-amsterdam/).
+You can read more about it [here](https://www.politico.com/news/2024/07/07/house-republicans-biden-physician-00166725).
 
 ## Requirements
 - Python 3.8
