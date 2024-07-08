@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Lewis Hamilton wins the British Grand Prix**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2024/07/07/nx-s1-5032080/lewis-hamilton-british-grand-prix).
 
 ## Requirements
 - Python 3.8
