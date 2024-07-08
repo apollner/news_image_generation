@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas counties issue mandatory, voluntary evacuations as Beryl targets coast**
+**NASCAR shows off an EV prototype**
 
-You can read more about it [here](https://www.ksat.com/news/local/2024/07/06/texas-coastal-counties-issue-mandatory-voluntary-evacuations-as-beryl-targets-coast/).
+You can read more about it [here](https://www.theverge.com/2024/7/6/24193272/nascar-ev-prototype-abb-electric-racing-sustainability).
 
 ## Requirements
 - Python 3.8
