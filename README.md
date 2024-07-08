@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASCAR shows off an EV prototype**
+**Forecast track: Beryl to make Texas landfall Monday as hurricane**
 
-You can read more about it [here](https://www.theverge.com/2024/7/6/24193272/nascar-ev-prototype-abb-electric-racing-sustainability).
+You can read more about it [here](https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/beryl-texas-hurricane-path-landfall-gulf-coast-19557663.php).
 
 ## Requirements
 - Python 3.8
