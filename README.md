@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California family's $444 receipt from Trader Joe's goes viral on social media: 'Insane'**
+**Scammers get away with billions from elderly Americans every year**
 
-You can read more about it [here](https://nypost.com/2024/07/06/lifestyle/california-familys-444-receipt-from-trader-joes-goes-viral-on-social-media-insane/).
+You can read more about it [here](https://nypost.com/2024/07/07/us-news/scammers-get-away-with-billions-from-elderly-americans-every-year/).
 
 ## Requirements
 - Python 3.8
