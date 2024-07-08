@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Despicable Me 4’ Rules July 4th With $122M Opening, ‘MaXXXine’ Scares Up $6.7M**
+**Biden faces calls to step aside as more Democrats lose faith in his candidacy: Report**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/despicable-me-4-box-office-opening-july-4-1235940188/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/us-news/biden-faces-calls-to-step-aside-as-more-democrats-lose-faith-in-his-candidacy-report-101720365467516.html).
 
 ## Requirements
 - Python 3.8
