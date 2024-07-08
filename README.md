@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Second local radio host admits to getting questions from Biden team ahead of interview with president**
+**Record TSA screenings, flight delays across U.S.**
 
-You can read more about it [here](https://www.foxnews.com/media/second-local-radio-host-admits-getting-questions-biden-team-interview-president).
+You can read more about it [here](https://www.ketv.com/article/record-breaking-travel-day-tsa-braces-for-busiest-screening-ever-after-holiday/61524553).
 
 ## Requirements
 - Python 3.8
