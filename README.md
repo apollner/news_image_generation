@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern California heat wave forecast: Triple digits continue Monday**
+**Hill Democrats deeply torn about Biden's fate as they return to Washington**
 
-You can read more about it [here](https://www.kcra.com/article/northern-california-forecast-heat-wave-july-8-2024/61532261).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/08/house-senate-democrats-joe-biden-congress/).
 
 ## Requirements
 - Python 3.8
