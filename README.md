@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'House of the Dragon' Star Ewan Mitchell Says Aemond's Episode 4 Decision Will Change Things 'Forever': 'There's No Going Back'**
+**European Rocket Launch Takes Aim at SpaceX**
 
-You can read more about it [here](https://www.thewrap.com/house-of-the-dragon-season-2-episode-4-aemond-ewan-mitchell-interview/).
+You can read more about it [here](https://www.wsj.com/business/europe-ariane-6-rocket-launch-spacex-5559a826).
 
 ## Requirements
 - Python 3.8
