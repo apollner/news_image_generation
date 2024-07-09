@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Radio station parts ways with Biden interviewer for using questions sent in advance**
+**Israeli protesters block highways, call for cease-fire to return hostages 9 months into war in Gaza**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/07/radio-station-parts-ways-biden-interviewer-00166736).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-july-7-2024-d78b75084f38c98e219e64db588374b8).
 
 ## Requirements
 - Python 3.8
