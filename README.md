@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin's manslaughter trial set to begin in New Mexico**
+**At least 21 wildfires burn in California amid historic heat wave**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/alec-baldwins-manslaughter-trial-set-begin-new-mexico-rcna160186).
+You can read more about it [here](https://www.youtube.com/watch?v=Vgwi0jTXYA0).
 
 ## Requirements
 - Python 3.8
