@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s VP rollout and convention planning complicated by Biden woes as former president looks to regain spotlight**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/07/08/politics/donald-trump-vp-convention-planning/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
