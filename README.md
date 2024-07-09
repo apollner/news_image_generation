@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Margot Robbie is pregnant; Barbie star debuts baby bump, expecting first child with husband Tom Ackerely**
+**We Finally Know What Turned on The Lights at The Dawn of Time**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/margot-robbie-is-pregnant-barbie-star-debuts-baby-bump-expecting-first-child-with-husband-tom-ackerely-101720396770232.html).
+You can read more about it [here](https://www.sciencealert.com/we-finally-know-what-turned-on-the-lights-at-the-dawn-of-time).
 
 ## Requirements
 - Python 3.8
