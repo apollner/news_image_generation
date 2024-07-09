@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The largest password leak in history exposes nearly 10 billion credentials**
+**Netanyahu's 4 principles Israel agrees to for hostage deal as negotiations pick up**
 
-You can read more about it [here](https://www.jpost.com/business-and-innovation/article-809428).
+You can read more about it [here](https://www.foxnews.com/world/netanyahus-4-principles-israel-agrees-hostage-deal-negotiations-pick-up).
 
 ## Requirements
 - Python 3.8
