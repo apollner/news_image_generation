@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza destruction likely helped push Hamas to soften cease-fire demands, several officials say**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-ceasefire-deal-gaza-war-a8b9cc1aeebf6471cd8ef9e7198cddf3).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
