@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danish brewer Carlsberg to buy soft drinks maker Britvic in $4 billion deal after improved offer**
+**'House of the Dragon' Star Ewan Mitchell Says Aemond's Episode 4 Decision Will Change Things 'Forever': 'There's No Going Back'**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/08/danish-brewer-carlsberg-to-buy-soft-drinks-maker-britvic-in-4-billion-deal-after-improved-offer.html).
+You can read more about it [here](https://www.thewrap.com/house-of-the-dragon-season-2-episode-4-aemond-ewan-mitchell-interview/).
 
 ## Requirements
 - Python 3.8
