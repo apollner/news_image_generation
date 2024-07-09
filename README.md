@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hurricane Beryl intensifying as it nears Houston, warning of 'deadly storm'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/us/storm-beryl-heads-texas-may-regain-hurricane-force-2024-07-07/).
 
 ## Requirements
 - Python 3.8
