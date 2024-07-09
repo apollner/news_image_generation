@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Skydance Media Gets Board Committee Approval For Control Of Paramount Global After Lengthy Chase**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/07/skydance-media-board-committee-approval-paramount-global-merger-1236002925/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
