@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Radio station parts ways with Biden interviewer for using questions sent in advance**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/07/07/radio-station-parts-ways-biden-interviewer-00166736).
 
 ## Requirements
 - Python 3.8
