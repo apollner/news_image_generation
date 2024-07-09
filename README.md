@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 21 wildfires burn in California amid historic heat wave**
+**Boeing will plead guilty to fraud in 737 Max crash case**
 
-You can read more about it [here](https://www.youtube.com/watch?v=Vgwi0jTXYA0).
+You can read more about it [here](https://www.washingtonpost.com/transportation/2024/07/08/boeing-guilty-737-max-crashes/).
 
 ## Requirements
 - Python 3.8
