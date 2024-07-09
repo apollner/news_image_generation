@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing will plead guilty to fraud in 737 Max crash case**
+**The US housing slump deepened this spring. Where does that leave home shoppers and sellers?**
 
-You can read more about it [here](https://www.washingtonpost.com/transportation/2024/07/08/boeing-guilty-737-max-crashes/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/us-housing-slump-deepened-spring-leave-home-shoppers-111740149).
 
 ## Requirements
 - Python 3.8
