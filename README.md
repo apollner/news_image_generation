@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli protesters block highways, call for cease-fire to return hostages 9 months into war in Gaza**
+**Starmer sets his sights on Scotland**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-july-7-2024-d78b75084f38c98e219e64db588374b8).
+You can read more about it [here](https://www.bbc.com/news/articles/cd1xnvg3y76o).
 
 ## Requirements
 - Python 3.8
