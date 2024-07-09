@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France elections 2024: Macron refuses Prime Minister Attal's resignation**
+**Increase in COVID cases in New York**
 
-You can read more about it [here](https://apnews.com/article/france-elections-right-left-macron-32fe723ea2a592e7ce243f68a89729a2).
+You can read more about it [here](https://www.wgrz.com/article/news/health/coronavirus/new-york-sees-uptick-in-covid-19-cases/71-b3a71b98-0624-46b1-86b4-dc7988bdb8fe).
 
 ## Requirements
 - Python 3.8
