@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Beryl intensifying as it nears Houston, warning of 'deadly storm'**
+**France election 2024 live: NFP wins most seats, Macron’s bloc second, Le Pen’s in third**
 
-You can read more about it [here](https://www.reuters.com/world/us/storm-beryl-heads-texas-may-regain-hurricane-force-2024-07-07/).
+You can read more about it [here](https://www.cnn.com/world/live-news/france-election-runoff-results-07-07-24-intl/index.html).
 
 ## Requirements
 - Python 3.8
