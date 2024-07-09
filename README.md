@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The US housing slump deepened this spring. Where does that leave home shoppers and sellers?**
+**The Apple Watch is reportedly getting a birthday makeover**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/us-housing-slump-deepened-spring-leave-home-shoppers-111740149).
+You can read more about it [here](https://www.businessinsider.com/apple-watch-revamp-tenth-anniversary-thinner-larger-display-apple-intelligence-2024-7).
 
 ## Requirements
 - Python 3.8
