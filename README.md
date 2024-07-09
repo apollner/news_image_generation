@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High-water spots across Houston area**
+**Skydance Media Gets Board Committee Approval For Control Of Paramount Global After Lengthy Chase**
 
-You can read more about it [here](https://www.khou.com/article/traffic/list-high-water-locations-street-flooding-as-beryl-brings-heavy-rainfall-to-houston-area/285-ac371314-a51f-4a10-9995-e33456b97f78).
+You can read more about it [here](http://deadline.com/2024/07/skydance-media-board-committee-approval-paramount-global-merger-1236002925/).
 
 ## Requirements
 - Python 3.8
