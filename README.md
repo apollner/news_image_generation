@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Despicable Me 4' tops Fourth of July weekend with $122 million**
+**'House of the Dragon' Actor Eve Best on Rhaenys' Game-Changing Scene and Filming That Epic Dragon Battle: 'She Had to Take That Responsibility'**
 
-You can read more about it [here](https://ew.com/despicable-me-4-tops-fourth-of-july-weekend-box-office-8674421).
+You can read more about it [here](https://variety.com/2024/tv/news/house-of-the-dragon-rhaenys-dies-eve-best-interview-1236061045/).
 
 ## Requirements
 - Python 3.8
