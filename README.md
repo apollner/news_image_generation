@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Rocket Launch Takes Aim at SpaceX**
+**Trump’s VP rollout and convention planning complicated by Biden woes as former president looks to regain spotlight**
 
-You can read more about it [here](https://www.wsj.com/business/europe-ariane-6-rocket-launch-spacex-5559a826).
+You can read more about it [here](https://www.cnn.com/2024/07/08/politics/donald-trump-vp-convention-planning/index.html).
 
 ## Requirements
 - Python 3.8
