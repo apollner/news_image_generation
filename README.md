@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Apple Watch is reportedly getting a birthday makeover**
+**The largest password leak in history exposes nearly 10 billion credentials**
 
-You can read more about it [here](https://www.businessinsider.com/apple-watch-revamp-tenth-anniversary-thinner-larger-display-apple-intelligence-2024-7).
+You can read more about it [here](https://www.jpost.com/business-and-innovation/article-809428).
 
 ## Requirements
 - Python 3.8
