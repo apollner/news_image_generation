@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With Viktor Orban in China pushing cease-fire, Russian missiles slam Ukraine**
+**Andrea Lawful-Sanders, WURD Radio part ways after she used questions provided by Biden's campaign**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/07/08/modi-orban-putin-china-russia-india/).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/andrea-lawful-sanders-wurd-radio-biden-in-philadelphia/).
 
 ## Requirements
 - Python 3.8
