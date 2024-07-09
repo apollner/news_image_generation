@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sister of North Korean leader Kim calls South Korea's live-fire drills 'suicidal hysteria'**
+**Margot Robbie is pregnant; Barbie star debuts baby bump, expecting first child with husband Tom Ackerely**
 
-You can read more about it [here](https://www.yahoo.com/news/sister-north-korean-leader-kim-000704297.html).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/margot-robbie-is-pregnant-barbie-star-debuts-baby-bump-expecting-first-child-with-husband-tom-ackerely-101720396770232.html).
 
 ## Requirements
 - Python 3.8
