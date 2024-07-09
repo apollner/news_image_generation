@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**At least 21 wildfires burn in California amid historic heat wave**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.youtube.com/watch?v=Vgwi0jTXYA0).
 
 ## Requirements
 - Python 3.8
