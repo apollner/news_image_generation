@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why bulls should be stoic in the face of legitimate stock-market worries**
+**Gaza destruction likely helped push Hamas to soften cease-fire demands, several officials say**
 
-You can read more about it [here](https://www.marketwatch.com/story/three-reasons-bulls-should-be-stoic-in-the-face-of-legitimate-stock-market-worries-5afff5ba).
+You can read more about it [here](https://apnews.com/article/israel-hamas-ceasefire-deal-gaza-war-a8b9cc1aeebf6471cd8ef9e7198cddf3).
 
 ## Requirements
 - Python 3.8
