@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**'Despicable Me 4' tops Fourth of July weekend with $122 million**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://ew.com/despicable-me-4-tops-fourth-of-july-weekend-box-office-8674421).
 
 ## Requirements
 - Python 3.8
