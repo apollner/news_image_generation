@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'House of the Dragon' Actor Eve Best on Rhaenys' Game-Changing Scene and Filming That Epic Dragon Battle: 'She Had to Take That Responsibility'**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2024/tv/news/house-of-the-dragon-rhaenys-dies-eve-best-interview-1236061045/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
