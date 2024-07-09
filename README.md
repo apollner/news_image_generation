@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven things we learned at the 2024 British Grand Prix**
+**[Removed]**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/seven-things-we-learned-at-the-2024-british-grand-prix/10633073/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
