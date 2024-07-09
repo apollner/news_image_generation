@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andrea Lawful-Sanders, WURD Radio part ways after she used questions provided by Biden's campaign**
+**Stock market today: Stocks edge higher as S&P 500, Nasdaq try to build on records**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/andrea-lawful-sanders-wurd-radio-biden-in-philadelphia/).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eke-out-fresh-records-with-powell-on-deck-200126824.html).
 
 ## Requirements
 - Python 3.8
