@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hill Democrats deeply torn about Biden's fate as they return to Washington**
+**With Viktor Orban in China pushing cease-fire, Russian missiles slam Ukraine**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/08/house-senate-democrats-joe-biden-congress/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/07/08/modi-orban-putin-china-russia-india/).
 
 ## Requirements
 - Python 3.8
