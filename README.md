@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starmer sets his sights on Scotland**
+**Danish brewer Carlsberg to buy soft drinks maker Britvic in $4 billion deal after improved offer**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd1xnvg3y76o).
+You can read more about it [here](https://www.cnbc.com/2024/07/08/danish-brewer-carlsberg-to-buy-soft-drinks-maker-britvic-in-4-billion-deal-after-improved-offer.html).
 
 ## Requirements
 - Python 3.8
