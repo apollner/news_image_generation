@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Why bulls should be stoic in the face of legitimate stock-market worries**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.marketwatch.com/story/three-reasons-bulls-should-be-stoic-in-the-face-of-legitimate-stock-market-worries-5afff5ba).
 
 ## Requirements
 - Python 3.8
