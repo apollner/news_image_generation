@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Increase in COVID cases in New York**
+**Northern California heat wave forecast: Triple digits continue Monday**
 
-You can read more about it [here](https://www.wgrz.com/article/news/health/coronavirus/new-york-sees-uptick-in-covid-19-cases/71-b3a71b98-0624-46b1-86b4-dc7988bdb8fe).
+You can read more about it [here](https://www.kcra.com/article/northern-california-forecast-heat-wave-july-8-2024/61532261).
 
 ## Requirements
 - Python 3.8
