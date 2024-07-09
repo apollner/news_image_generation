@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu's 4 principles Israel agrees to for hostage deal as negotiations pick up**
+**France elections 2024: Macron refuses Prime Minister Attal's resignation**
 
-You can read more about it [here](https://www.foxnews.com/world/netanyahus-4-principles-israel-agrees-hostage-deal-negotiations-pick-up).
+You can read more about it [here](https://apnews.com/article/france-elections-right-left-macron-32fe723ea2a592e7ce243f68a89729a2).
 
 ## Requirements
 - Python 3.8
