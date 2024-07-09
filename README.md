@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks edge higher as S&P 500, Nasdaq try to build on records**
+**After beating Coco Gauff at Wimbledon, Emma Navarro could be the next US tennis star**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eke-out-fresh-records-with-powell-on-deck-200126824.html).
+You can read more about it [here](https://www.cnn.com/2024/07/08/sport/emma-navarro-wimbledon-us-tennis-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
