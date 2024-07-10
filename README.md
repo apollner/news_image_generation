@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 1.9 million CenterPoint power outages in Houston after Beryl landfall**
+**Elly De La Cruz learning Japanese to speak with Shohei Ohtani**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/article/beryl-power-outage-centerpoint-19559838.php).
+You can read more about it [here](https://www.mlb.com/news/elly-de-la-cruz-learning-japanese-to-speak-with-shohei-ohtani).
 
 ## Requirements
 - Python 3.8
