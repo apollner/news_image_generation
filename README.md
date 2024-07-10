@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How looks and optics are playing into Trump’s VP pick**
+**‘Rust’ shooting: Alec Baldwin’s trial will begin with jury selection**
 
-You can read more about it [here](https://www.cnn.com/2024/07/08/politics/video/trump-vp-pick-facial-feature-jd-vance-caputo-digvid).
+You can read more about it [here](https://apnews.com/article/alec-baldwin-trial-shooting-rust-halyna-hutchins-a6731e3226df0990f0469845df3ccde8).
 
 ## Requirements
 - Python 3.8
