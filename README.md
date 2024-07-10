@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elly De La Cruz learning Japanese to speak with Shohei Ohtani**
+**Chinese EV giant BYD to build $1 billion plant in Turkey**
 
-You can read more about it [here](https://www.mlb.com/news/elly-de-la-cruz-learning-japanese-to-speak-with-shohei-ohtani).
+You can read more about it [here](https://www.cnn.com/2024/07/09/business/china-ev-byd-turkey-plant-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
