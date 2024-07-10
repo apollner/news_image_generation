@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Rust’ shooting: Alec Baldwin’s trial will begin with jury selection**
+**Beryl leaves millions of Texans without power as dangerous heat descends on the region**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsZWMtYmFsZHdpbi10cmlhbC1zaG9vdGluZy1ydXN0LWhhbHluYS1odXRjaGlucy1hNjczMWUzMjI2ZGYwOTkwZjA0Njk4NDVkZjNjY2RlONIBAA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/07/09/weather/beryl-storm-texas-power-outages-heat/index.html).
 
 ## Requirements
 - Python 3.8
