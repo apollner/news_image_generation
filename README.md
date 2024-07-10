@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Rust’ shooting: Alec Baldwin’s trial will begin with jury selection**
+**Gypsy Rose Blanchard is pregnant, expecting first child with Ken Urker: ‘Not planned’**
 
-You can read more about it [here](https://apnews.com/article/alec-baldwin-trial-shooting-rust-halyna-hutchins-a6731e3226df0990f0469845df3ccde8).
+You can read more about it [here](https://nypost.com/2024/07/09/entertainment/gypsy-rose-blanchard-pregnant-expecting-baby-with-ken-urker/).
 
 ## Requirements
 - Python 3.8
