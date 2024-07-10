@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Rage is your gift’: Paul Mescal battles Pedro, Denzel and a rhino in first Gladiator II trailer**
+**Exclusive: Google Maps is rolling out speedometer, speed limits on iPhone and CarPlay globally**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9maWxtL2FydGljbGUvMjAyNC9qdWwvMDkvZ2xhZGlhdG9yLTItdHJhaWxlci1wYXVsLW1lc2NhbNIBVGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9maWxtL2FydGljbGUvMjAyNC9qdWwvMDkvZ2xhZGlhdG9yLTItdHJhaWxlci1wYXVsLW1lc2NhbA?oc=5).
+You can read more about it [here](https://techcrunch.com/2024/07/09/google-maps-is-rolling-out-speedometer-speed-limits-on-iphone-and-carplay-globally/).
 
 ## Requirements
 - Python 3.8
