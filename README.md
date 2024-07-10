@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN assessment suggests Ukraine children's hospital hit by Russian missile**
+**How Hezbollah is trying to counter Israel's high-tech surveillance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91bi1hc3Nlc3NtZW50LXN1Z2dlc3RzLXVrcmFpbmUtY2hpbGRyZW5zLWhvc3BpdGFsLWhpdC1ieS1ydXNzaWFuLW1pc3NpbGUtMjAyNC0wNy0wOS_SAQA?oc=5).
+You can read more about it [here](https://www.reuters.com/world/middle-east/pagers-drones-how-hezbollah-aims-counter-israels-high-tech-surveillance-2024-07-09/).
 
 ## Requirements
 - Python 3.8
