@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard is pregnant**
+**James Inhofe, Oklahoma senator and climate change denier, dies at 89**
 
-You can read more about it [here](https://www.salon.com/2024/07/09/gypsy-rose-blanchard-is-pregnant/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/07/09/james-inhofe-climate-change-dead/).
 
 ## Requirements
 - Python 3.8
