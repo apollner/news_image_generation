@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trooper Michael Proctor, lead investigator in Karen Read case, suspended without pay**
+**How looks and optics are playing into Trump’s VP pick**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/trooper-michael-proctor-karen-read-massachusetts-state-police/).
+You can read more about it [here](https://www.cnn.com/2024/07/08/politics/video/trump-vp-pick-facial-feature-jd-vance-caputo-digvid).
 
 ## Requirements
 - Python 3.8
