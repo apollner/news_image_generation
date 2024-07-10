@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury in Alec Baldwin Trial Won't Hear Evidence of His Producer Role**
+**Halle Berry and Glenn Close Will Star With Kim Kardashian in New TV Show - E! Online**
 
-You can read more about it [here](https://variety.com/2024/film/news/alec-baldwin-rust-trial-producer-role-excluded-1236062788/).
+You can read more about it [here](https://www.eonline.com/news/1404705/halle-berry-and-glenn-close-will-star-with-kim-kardashian-in-new-tv-show).
 
 ## Requirements
 - Python 3.8
