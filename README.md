@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ecowas risks disintegration if Burkina Faso, Mali and Niger leave - Omar Touray**
+**John Cena Announces Retirement From WWE — Watch His Full Speech**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce782jzyl76o).
+You can read more about it [here](https://tvline.com/news/john-cena-wwe-retirement-speech-video-1235278882/).
 
 ## Requirements
 - Python 3.8
